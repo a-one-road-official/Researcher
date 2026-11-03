@@ -118,23 +118,144 @@
 
 ## 製造業向けナレッジAI・過去案件検索AIの料金（knowledge AI past project search manufacturers Japan）
 - 文脈：①Yomi
-- 売り先の数：記載なし（読んだ31頁・検索6回）
-- 単価・価格：記載なし（読んだ31頁・検索6回）
-- 取り分・マージン：記載なし（読んだ31頁・検索6回）
+- 売り先の数：
+  - 「——ここを投資規模別に切り分けて示します」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「投資規模別の始め方」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「投資規模別｜いくらから何ができるか」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「5-5. 従業員規模別の進め方」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「そのうえで大企業の設備投資型事例と中小製造業が再現できる範囲を切り分け、投資規模別の始め方、導入5ステップ、失敗パターン、AI社員AIKATAとの使い分けまでAI鬼管理（株式会社GENAI）が解説します」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「投資規模別に何ができるか」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「企業名や導入社数だけでなく、導入前にどのような課題があり、何を共有し、導入後にどう変わったかまで見ると、自社での利用イメージを持ちやすくなります」（https://notepm.jp/blog/44193）
+- 単価・価格：
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-01価格表 顧客対応・販売支援」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-02価格表 決済・債権債務・資金回収」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-03価格表 調達・供給・在庫・物流」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-04価格表 会計・財務・経営」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-05価格表 総務・人事・給与・労務・教育訓練・法務・情報システム」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-06価格表 業務固有プロセス」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-07価格表 汎用・自動化・分析ツール」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「★【テンプレ活用】初期費用0円のホームページ制作」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「★【テンプレ活用】構築費用0円のECサイト制作」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「【新規開設】公式LINEを90分9900円で作成します」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「ナレッジマネジメントツール比較おすすめ14選 料金表と目的別タイプ」（https://boxil.jp/mag/a9620/）
+  - 「本記事では、製造業の見積り業務における属人化や価格のばらつき、2D図面の見積り作成にかかるコストと時間、過去実績の検索にかかる時間などの課題を取り上げ、その解決策としてAI技術を活用した具体的な機能と得られるメリットについて詳しくご紹介します」（https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html）
+  - 「月間100画面の見積り業務を例に挙げると、従来のコスト約240万円（8人分）を60万円（2人分）に削減することが予想されます」（https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html）
+  - 「この機能では、3辺の寸法を入力するだけで価格が自動的に表示される仕組みとなっており、特許取得済みの技術が活用されています」（https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html）
+  - 「見積りコストも大幅削減（月間100画面の場合：240万円 → 60万円）」（https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html）
+- 取り分・マージン：
+  - 「1件あたりの粗利が小さくても、件数を捌けるなら事業として成立します」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+- 補助金：
+  - 「IT導入補助金でLINEやインスタの運用支援」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「①デジタル化・AI導入補助金（旧IT導入補助金）の申請サポートはこちら」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）の価格」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-01価格表 顧客対応・販売支援」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-02価格表 決済・債権債務・資金回収」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-03価格表 調達・供給・在庫・物流」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-04価格表 会計・財務・経営」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-05価格表 総務・人事・給与・労務・教育訓練・法務・情報システム」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-06価格表 業務固有プロセス」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-07価格表 汎用・自動化・分析ツール」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | オプション価格表」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | 役務価格表」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）の業務プロセス」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）の業務プロセスの概要 P-01 顧客対応・販売支援のソフトウェアとは」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）の業務プロセスの概要 P-02 決済・債権債務・資金回収のソフトウェアとは」（https://bestplanner.co.jp/professional-services-generative-ai/）
+- 競合：
+  - 「専門サービス業の生成AI活用｜過去案件・専門文書・社内ナレッジを安全に使う方法 | 埼玉のIT参謀」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「提供トップ５」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）の業務プロセスの概要 P-06 情報サービス業の業種特化型ソフトウェアとは」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）の業務プロセスの概要 P-06 専門・技術サービス業の業種特化型ソフトウェアとは」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）の業務プロセスの概要 P-06 生活関連サービス業の業種特化型ソフトウェアとは」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）の業務プロセスの概要 P-06 その他サービス業の業種特化型ソフトウェアとは」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）のインボイス枠【会計】で使えるITツール一覧」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）のインボイス枠【受発注】で使えるITツール一覧」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）のインボイス枠【決済】で使えるITツール一覧」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）で使える集客や求人募集対応のITツール一覧」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）で使えるインボイス制度対応のITツール一覧」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「パソコンやITに関するご相談（保守サービス）」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「専門サービス業の生成AI活用｜過去案件・専門文書・社内ナレッジを安全に使う方法」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「法務、会計、コンサルティング、設計、研究、広告などの専門サービス業では、担当者が持つ知識や過去案件の蓄積が、サービス品質を左右します」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「ただし、専門サービス業では、一般的な文章作成と同じ感覚で生成AIを導入することはできません」（https://bestplanner.co.jp/professional-services-generative-ai/）
+- 導入期間・キャッシュ：
+  - 「デジタル化・AI導入補助金（旧IT導入補助金） | P-02価格表 決済・債権債務・資金回収」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「デジタル化・AI導入補助金（旧IT導入補助金）の業務プロセスの概要 P-02 決済・債権債務・資金回収のソフトウェアとは」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「申請前に、最新の公募要領、登録情報、契約期間、対象経費を確認してください」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「決済・債権債務・資金回収のITツールは販売みつも郎」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「決済・債権債務・資金回収のITツールは販売らくだ」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「受注や売上、請求管理、さらに売掛金の回収までを一括で管理できる決済・資金回収機能を搭載しています」（https://bestplanner.co.jp/professional-services-generative-ai/）
+  - 「具体的には、2D図面をアップロードして、厚さ、幅、長さなど数値や納期などの情報を入力し、連携している「白銅ネットサービス」の入力欄にいつものように必要な材料情報を入力すれば見積りが得られるという簡便さです」（https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html）
+  - 「具体的なステップとしては、2D図面をアップロードし、厚さや幅、長さなどの数値や納期情報を入力」（https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html）
+  - 「具体的には、「SellBOT」のAI機能が過去のデータを活用して瞬時に加工賃を算出し、希望納期や「白銅ネットサービス」からの材料価格も合わせて見積りできる点です」（https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html）
+  - 「6-3. 見積・納期回答のスピード向上」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「大きい（投資が回収できない）」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「段取り替えの削減、納期遵守率の向上」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「調達リードタイムの整理」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「「1年で投資回収」」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
+  - 「自社の生産量で同じ回収ができるか」（https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/）
 - 市場規模・台数：記載なし（読んだ31頁・検索6回）
-- 補助金：記載なし（読んだ31頁・検索6回）
-- 競合：記載なし（読んだ31頁・検索6回）
-- 導入期間・キャッシュ：記載なし（読んだ31頁・検索6回）
 
 ## 中小企業向けオンプレ生成AI導入の費用（on-premise generative AI SMB Japan cost）
 - 文脈：①Yomi
-- 売り先の数：記載なし（読んだ35頁・検索6回）
-- 単価・価格：記載なし（読んだ35頁・検索6回）
+- 売り先の数：
+  - 「AI導入費用の相場は？プロジェクト規模別の目安」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「モデル規模別の推奨構成」（https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/）
+- 単価・価格：
+  - 「中規模プロジェクト（1,000万円前後）の費用内訳」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「最低でも月額10万円程度の運用費用」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「50万円～200万円」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「50万円～300万円」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「40万円～500万円」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「100万円～2,000万円以上」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「200万円～1,500万円以上」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「これらの高性能サーバーは1台数百万円以上と非常に高価であり、導入するモデルの規模や利用ユーザー数によっては複数台必要になることもあります」（https://dynabook.com/business/solution/column/generative-ai11.html）
+  - 「たとえば、比較可能な構成でオンプレの初期差額を仮に1,200万円、クラウドの月間総費用を仮に100万円、オンプレの月間運用費を仮に60万円と置けば、単純計算では30カ月です」（https://note.com/ai__worker/n/n6a8c44ed3bc0）
+  - 「1,200万円 ÷（100万円 − 60万円）= 30カ月」（https://note.com/ai__worker/n/n6a8c44ed3bc0）
+  - 「費用相場は40万円〜200万円程度」（https://kigyolog.com/service.php?id=675）
+  - 「100万円〜数百万円程度」（https://kigyolog.com/service.php?id=675）
+  - 「100万円〜500万円以上」（https://kigyolog.com/service.php?id=675）
+  - 「1,000万円以上」（https://kigyolog.com/service.php?id=675）
+  - 「5万円〜数百万円」（https://kigyolog.com/service.php?id=675）
+- 市場規模・台数：
+  - 「3年で約1億円のコスト削減」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「年間3億円の売上増加」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「最大1億円超」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+- 補助金：
+  - 「AI導入に使える補助金・助成金」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「しかし、一部の国や自治体が提供する補助金や助成金を活用することで、初期投資の負担を大幅に軽減できるのです」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「以下におもな補助金・助成金制度をまとめました」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「IT導入補助金」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「ものづくり補助金」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「事業再構築補助金」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「AI導入に使える補助金・助成金について詳しく知りたい方は、下記の記事もご覧ください」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「【2025年版】AI導入補助金で社内のDXを加速！制度の種類から申請方法までを徹底解説」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「AI導入補助金で社内のDXを加速！制度の種類や申請方法を解説」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「5．補助金を前提に成立させる」（https://note.com/ai__worker/n/n6a8c44ed3bc0）
+  - 「補助制度は採択、対象経費、期間などの条件があります」（https://note.com/ai__worker/n/n6a8c44ed3bc0）
+  - 「Q. 補助金を使えばROIは必ず良くなりますか？」（https://note.com/ai__worker/n/n6a8c44ed3bc0）
+  - 「A. 初期負担が下がる可能性はありますが、採択や対象経費は保証されません」（https://note.com/ai__worker/n/n6a8c44ed3bc0）
+  - 「IT導入補助金、DX推進補助金などの公的支援制度を活用」（https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/）
+- 競合：
+  - 「AI種類別の導入費用相場を比較」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「SaaS型AIとカスタム開発の費用比較」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「既存サービスを活用する」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「チャットボットはAIの中でも比較的導入しやすく、顧客対応や社内問い合わせの効率化に効果を発揮」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「SaaS型AIは、専門的な開発知識がなくても比較的短期間で導入できるのが利点のひとつです」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「以下にオープンソースと商用ツールの比較、クラウドAPIとオンプレミスの比較をまとめました」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「以下に目的別おすすめのSaaS型AIサービスを紹介します」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「おすすめサービス」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「API連携による開発コスト削減効果は非常に大きく、自社開発と比較して開発期間を1/3に短縮できるケースも珍しくありません」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「しかし、一部の国や自治体が提供する補助金や助成金を活用することで、初期投資の負担を大幅に軽減できるのです」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「AIツール、クラウドサービス導入」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「AI-OCRの導入事例8選｜金融・医療・製造・自治体などで成果を上げた事例を紹介」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「資料一覧を見る →」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「経営者ご本人とともに、AIで会社の仕組みをつくり直す、SHIFT AIの経営者向けサービスです」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「オプション品対応機種一覧」（https://dynabook.com/business/solution/column/generative-ai11.html）
+- 導入期間・キャッシュ：
+  - 「投資回収期間」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「比較期間は、自社の設備更改や契約期間に合わせます」（https://note.com/ai__worker/n/n6a8c44ed3bc0）
+  - 「標準導入期間5〜6週間で、コンサルティングから構築・運用保守まで一括提供いたします」（https://prtimes.jp/main/html/rd/p/000000003.000188956.html）
+  - 「標準導入期間：5〜6週間」（https://prtimes.jp/main/html/rd/p/000000003.000188956.html）
 - 取り分・マージン：記載なし（読んだ35頁・検索6回）
-- 市場規模・台数：記載なし（読んだ35頁・検索6回）
-- 補助金：記載なし（読んだ35頁・検索6回）
-- 競合：記載なし（読んだ35頁・検索6回）
-- 導入期間・キャッシュ：記載なし（読んだ35頁・検索6回）
 
 ## 省力化投資補助金（一般型）の補助率と上限（shoryokuka subsidy Japan rate cap）
 - 文脈：①Yomi
@@ -372,33 +493,204 @@
 
 ## 3Dプリンター販売代理店のマージン（3D printer reseller margin）
 - 文脈：②卓上金属AM
+- 単価・価格：
+  - 「Over time, the market split. Large trading companies - with excellent IT systems, large warehouses, and strong online presence - took the lead. Sales grew from hundreds to thousands of units per month. Today, selling 100 printers a month is not an achievement - it’s essentially the entry level.」（https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers）
+  - 「You need the right infrastructure - both IT and physical (a warehouse of at least a few hundred square meters), the right team, well-developed sales channels (with other products), and above all, a vision for growth and scalability - from 100 to 1000 printers per month.」（https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers）
+  - 「Save up to 140 USD」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「Saving up to 300 USD」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「Adoption varies by industry. Aerospace and automotive use 3D printing for lightweight parts, tooling, and spare components where certification and material performance justify higher prices.」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「支払いを代行するアカウントの料金は、顧客ごとにクレジットカードを使うのではなく、月1回のパートナー向け請求書にまとめられます」（https://simplyprint.io/ja/resellers）
+  - 「場合、アカウントのサブスクリプション料金は月1回のパートナー向け合算請求書に含まれます」（https://simplyprint.io/ja/resellers）
+- 取り分・マージン：
+  - 「Why old-school 3D printer resellers are doomed to fail」（https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers）
+  - 「Everyone wants to sell Bambu Lab 3D printers. Everyone wants to become a reseller. But not everyone should. And the Bambu Lab brand has nothing to do with it.」（https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers）
+  - 「During last week’s Formnext trade show in Frankfurt am Main, I met with several dozen reseller candidates from a dozen Central European countries. Apart from literally a few, the vast majority were small companies with only a few employees. Each of them hoped to establish contact and cooperation, and implicitly, to transform their business and take it to a much higher level thanks to Bambu Lab.」（https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers）
+  - 「Even when Creality3D eventually started to gain a dominant market position, it was still the domain of hobbyists and amateurs. No reseller company treated it seriously - and if they added it to their portfolio, it was only as a curiosity or experiment. An experiment that usually ended in failure because the margins on those printers were tiny and customers extremely demanding.」（https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers）
+  - 「Worse yet, customers quickly realized this and started buying them en masse. Some directly from Bambu Lab’s store, others through a rapidly growing reseller network.」（https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers）
+  - 「This expanding reseller network consisted of two types of companies: the old ones, which added Bambu Lab alongside Ultimaker and Raise3D (and often also Formlabs or Phrozen), and completely new ones focused on mass sales, for which Bambu Lab was just another product next to microcontrollers, Arduino boards, or other hobbyist electronics.」（https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers）
+  - 「This is why my conversations at Formnext went the way they did. It wasn’t about rejecting new partners for the reseller network. These companies just weren’t ready.」（https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers）
+  - 「Is a 3D Printing Business Profitable? Margins & Realities」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「Reseller」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「Whether you make prototypes, short-run products, or replacement parts, your printer choice shapes your margins and lead times.」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「This article shows how to evaluate market opportunities, compare business models, and break down costs and margins so you can decide if a 3D print business fits your goals.」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「On-demand manufacturing and design consulting carry better margins than selling finished goods alone.」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「Margins demand tracking:」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「Aim for 30–60% gross margin per job, then watch overhead carefully.」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「Selling design-for-manufacture consulting alongside printing boosts margins.」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+- 市場規模・台数：
+  - 「Over time, the market split. Large trading companies - with excellent IT systems, large warehouses, and strong online presence - took the lead. Sales grew from hundreds to thousands of units per month. Today, selling 100 printers a month is not an achievement - it’s essentially the entry level.」（https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers）
+  - 「You will find high-growth niches and rising market size estimates across industries. These factors shape where a 3D printing business can earn steady revenue and scale.」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+  - 「Forecasts vary, but expect double-digit CAGR ranges and market size expanding from tens of billions toward triple digits by the early 2030s.」（https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE）
+- 競合：
+  - 「サービスの稼働状況を確認」（https://simplyprint.io/ja/resellers）
+  - 「3Dプリンターを比較する」（https://simplyprint.io/ja/resellers）
+  - 「必要な条件で絞り込み、プリンターを並べて比較」（https://simplyprint.io/ja/resellers）
+  - 「クラウド型とオンプレミス型の3Dプリンター管理を比較する」（https://simplyprint.io/ja/resellers）
+  - 「付加価値再販業者向け:提供する各プリンターに、数クリックで設定できる管理対象のSimplyPrintアカウントが付属します」（https://simplyprint.io/ja/resellers）
+  - 「レンタルまたは販売するハードウェアにSimplyPrintを組み合わせれば、すぐに使えて管理できる製品としてプリンターを提供できます」（https://simplyprint.io/ja/resellers）
+  - 「プリンターのレンタルやリースを提供」（https://simplyprint.io/ja/resellers）
+  - 「ハードウェアの販売を継続的な管理サービスにつなげます」（https://simplyprint.io/ja/resellers）
+  - 「提供するハードウェアとセット」（https://simplyprint.io/ja/resellers）
+  - 「顧客のプリンター一覧」（https://simplyprint.io/ja/resellers）
+  - 「すべてのアカウントを一覧表示」（https://simplyprint.io/ja/resellers）
+  - 「パートナー向け料金と案件ごとの柔軟性：顧客のサブスクリプション料金を支払う場合、レンタルやサービスの一部として顧客に請求する金額は自由に設定できます」（https://simplyprint.io/ja/resellers）
+  - 「同じパートナー向け機能で、一元管理、学区のSSO、学校ごとのアカウントを提供します」（https://simplyprint.io/ja/resellers）
+  - 「顧客のプリンター群とサービスをまとめて提供」（https://simplyprint.io/ja/resellers）
+  - 「レンタルやサービスの料金にサブスクリプション費用を組み込み、独自の利益を上乗せできます」（https://simplyprint.io/ja/resellers）
 - 売り先の数：記載なし（読んだ35頁・検索6回）
-- 単価・価格：記載なし（読んだ35頁・検索6回）
-- 取り分・マージン：記載なし（読んだ35頁・検索6回）
-- 市場規模・台数：記載なし（読んだ35頁・検索6回）
 - 補助金：記載なし（読んだ35頁・検索6回）
-- 競合：記載なし（読んだ35頁・検索6回）
 - 導入期間・キャッシュ：記載なし（読んだ35頁・検索6回）
 
 ## 日本の金属3Dプリンター販売代理店（metal 3D printer distributors Japan）
 - 文脈：②卓上金属AM
+- 単価・価格：
+  - 「100万円以下のローエンド機から5000万円以上のハイエンド機まで揃う」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「300万円前後のローエンド機から1億円のハイエンド機まで扱う」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「2026年11月更新：樹脂で形状確認する場合の本体候補を、最新の販売価格（税込・2026年11月時点）と新しく加わったBambu Lab A2Lを加えたカード形式に更新し、掲載リンクの到達を再確認しました」（https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost）
+  - 「電動モーターを"丸ごと"3Dプリント｜MITが実現した「材料費75円・3時間…」（https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost）
+  - 「2009年に基本特許の保護期間が終了した後、FDM方式の低価格の3Dプリンターが各社から発売され、3Dプリンターの利用が一般にも広がった」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「2013年には個人向け低価格3DプリンターのメーカーであるMakerBot社を買収した」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「100万円～5000万円以上」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「100万円～3,000万円」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「1,000万円～4,000万円」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+- 市場規模・台数：
+  - 「300万円前後のローエンド機から1億円のハイエンド機まで扱う」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「3,000万円～1億円以上」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「1000万円～1億円」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「3Dプリンターのメーカー別シェアと市場規模」（https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/）
+  - 「TRAFAM参画企業（17年6月時点）TRAFAMの予算計画と実績（億円）」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「航空機の市場規模予測 航空機部品分野での3Dプリンター活用を狙った買収事例（GE）」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「This is a report that investigates the market size forecasts for various 3D printers and materials in the world by 2025, as well as the strategic trends of material manufacturers and business aspects.」（https://www.ipros.com/en/cg3/Metal%203D%20Printer/）
+  - 「➢ The global market size for metal printers is expected to be ● billion yen in 2025, with metal materials projected to be ● billion yen.」（https://www.ipros.com/en/cg3/Metal%203D%20Printer/）
+- 補助金：
+  - 「3Dプリンター購入のための助成金・補助金の制度」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「補助金活用ガイド」（https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost）
+  - 「3Dプリンター購入のための助成金・補助金の制度」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「【2026年】3Dプリンターを無料で試す・レンタルする方法｜レンタル・補助金・無料ソフトを解説」（https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/）
+  - 「知っておきたい「ものづくり補助金」の利用」（https://www.recmbus-3dprint.com/list/）
+- 競合：
+  - 「3Dプリンター 国内代理店一覧│業務用3DプリンターのポータルサイトShareLab | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「造形サービス（10）」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「その他製品・サービス（221）」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「サービス概要」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「国内の業務用3Dプリンターを取り扱う代理店一覧です」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「3Dプリンター 国内メーカー一覧はコチラ」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「3Dプリンター 海外メーカー一覧はコチラ」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「導入に向けたコンサルティング、3Dデータの設計から造形まで、3Dプリンターに関しての一貫したサービスを提供できる強みがある」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「熟練した技術者による様々な造形方式での出力サービスも行っている」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「3Dプリンターのレンタルサービスを行っている」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「一般向けの出力サービスの他、医療向け3Dプリント出力サービスも行っている」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「医療向け3Dプリント出力サービスでは、CT/MRIなどの医療データを立体的に再現」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「キヤノンブランド製品の販売、修理、サポート､関連ソリューションサービスの提供などを行う企業」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+  - 「データ作成から出力までワンストップで3Dサービスを提供している」（https://news.sharelab.jp/study/study-usageguide-dealers/）
+- 導入期間・キャッシュ：
+  - 「造形・後処理の基本料金、数量条件、仕上げ、検査、輸送、納期」（https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost）
+  - 「仕上げ・検査・納期を含める」（https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost）
+  - 「試作時と継続生産時の費用・納期を分けて確認する」（https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost）
+  - 「開発リードタイムの大幅な短縮が可能」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「リードタイム」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「生産に少なくとも数時間のリードタイム」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「設計から生産までのリードタイム短縮」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「支払条件の改善」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「技術確立 生産リードタイム短縮に繋がる金型寸法計測の高速化」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「生産リードタイム短縮や低コスト化に寄与する新たな工法や」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「従来比リードタイム」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「短納期で造形物が必要であったり、試作を繰り返して造形物の精度を上げる場合などに向いています」（https://www.recmbus-3dprint.com/list/）
+  - 「ただし、対応できる造形方式、材料、サイズ、精度、後加工、納期は会社によって異なります」（https://www.bmf3d.co.jp/blog/141）
+  - 「最新の対応範囲、料金、納期は各社へ直接ご確認ください」（https://www.bmf3d.co.jp/blog/141）
 - 売り先の数：記載なし（読んだ34頁・検索6回）
-- 単価・価格：記載なし（読んだ34頁・検索6回）
 - 取り分・マージン：記載なし（読んだ34頁・検索6回）
-- 市場規模・台数：記載なし（読んだ34頁・検索6回）
-- 補助金：記載なし（読んだ34頁・検索6回）
-- 競合：記載なし（読んだ34頁・検索6回）
-- 導入期間・キャッシュ：記載なし（読んだ34頁・検索6回）
 
 ## 金属3Dプリンターの導入先（大学・デザイン事務所・建築）（metal 3D printer adopters universities design studios Japan）
 - 文脈：②卓上金属AM
-- 売り先の数：記載なし（読んだ33頁・検索6回）
-- 単価・価格：記載なし（読んだ33頁・検索6回）
-- 取り分・マージン：記載なし（読んだ33頁・検索6回）
-- 市場規模・台数：記載なし（読んだ33頁・検索6回）
-- 補助金：記載なし（読んだ33頁・検索6回）
-- 競合：記載なし（読んだ33頁・検索6回）
-- 導入期間・キャッシュ：記載なし（読んだ33頁・検索6回）
+- 売り先の数：
+  - 「業界別・企業規模別の3Dプリンタ活用事例」（https://3d-with.com/business/3d-printing-examples）
+  - 「企業規模別に見る3Dプリンタ導入事例」（https://3d-with.com/business/3d-printing-examples）
+  - 「本記事では、3Dプリンタの事例を業界別・企業規模別に紹介し、導入によって得られるメリットや注意点、検討する際のポイントまで解説しました」（https://3d-with.com/business/3d-printing-examples）
+- 単価・価格：
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「この記事では、金属3Dプリンターの価格・方式・メリット・デメリット・活用事例を徹底解説します」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「結果的に金属3Dプリンターは、樹脂3Dプリンターに比べて高価な装備が求められ、その分、装置価格が高額になる傾向があります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「3,000万円～」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「3,000万円以上」（https://news.sharelab.jp/study/metal-3dprinter/）
+- 取り分・マージン：
+  - 「手数料等のマージンも頂いておりませんので、安心してご利用ください」（https://metoree.com/categories/5523/）
+- 市場規模・台数：
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：JMAR、2021年）」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/column/3dprinter-house-211221/）
+  - 「建設用3DプリンターメーカーPolyuseが、新たに7.1億円の資金調達に成功」（https://news.sharelab.jp/cases/construction/polyuse-3dprinterhouse-220224/）
+  - 「国内の建設用3Dプリンターメーカーである株式会社Polyuse（ポリウス）が、新規投資家・既存投資家から新たに7.1億円の増資を受けることに成功した」（https://news.sharelab.jp/cases/construction/polyuse-3dprinterhouse-220224/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/cases/construction/polyuse-3dprinterhouse-220224/）
+- 補助金：
+  - 「3Dプリンター購入のための助成金・補助金の制度」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「3Dプリンター購入のための助成金・補助金の制度」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「中小企業でも治具製作や試作で導入が進み、補助金活用や外部サービスの利用が導入検討の判断材料となる」（https://3d-with.com/business/3d-printing-examples）
+  - 「補助金・助成金の活用」（https://3d-with.com/business/3d-printing-examples）
+  - 「3Dプリンタの導入には、ものづくり補助金をはじめとした公的支援制度が活用できます」（https://3d-with.com/business/3d-printing-examples）
+  - 「ものづくり補助金は、中小企業や個人事業主による生産性向上のための設備投資を対象とした国の補助制度です」（https://3d-with.com/business/3d-printing-examples）
+  - 「補助上限額は従業員規模によって異なり、通常枠でも数百万円から数千万円規模の補助が受けられる場合があります」（https://3d-with.com/business/3d-printing-examples）
+  - 「デジタル化・AI導入補助金や省力化投資補助金など、目的に応じて使える制度が複数あるため、事前に公募要領を確認しておくことが欠かせません」（https://3d-with.com/business/3d-printing-examples）
+  - 「初期投資と補助金活用の可否」（https://3d-with.com/business/3d-printing-examples）
+  - 「造形方式や補助金、外部サービスの活用が導入検討の判断材料になる」（https://3d-with.com/business/3d-printing-examples）
+  - 「中小企業庁「ものづくり・商業・サービス生産性向上促進補助金」予算資料」（https://3d-with.com/business/3d-printing-examples）
+  - 「メリットや活用事例、機種の選び方、補助金を使った手順を整理し、教育現場で失敗しない進め方がわかります」（https://3d-with.com/business/3d-printing-examples）
+  - 「3Dプリンター購入のための助成金・補助金の制度」（https://news.sharelab.jp/column/3dprinter-house-211221/）
+  - 「3Dプリンター購入のための助成金・補助金の制度」（https://news.sharelab.jp/cases/construction/polyuse-3dprinterhouse-220224/）
+- 競合：
+  - 「金属３Dプリンター 導入事例① アルミ│東京都｜金属3Dプリンターなら有我工業所」（https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/）
+  - 「金属３Dプリンター受託造形サービスTOP」（https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/）
+  - 「金属３Dプリンター 金属材料一覧」（https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/）
+  - 「金属３Dプリンター 導入事例① アルミ」（https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/）
+  - 「金属焼付塗装 社内設備一覧」（https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/）
+  - 「東京大学生産技術研究所 今井研究室様の導入事例をご紹介いたします」（https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/）
+  - 「⬇︎金属3Dプリント受託造形サービス （PDF）」（https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/）
+  - 「造形サービス（10）」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「その他製品・サービス（221）」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「サービス概要」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「なお、WAAM方式については以下の記事で、ほかの方式と比較解説しているのでご興味ある方はのぞいてみてほしい」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「その他製品・サービス」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「造形サービス」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+  - 「最新記事一覧」（https://news.sharelab.jp/cases/construction/mask-architects-211018/）
+- 導入期間・キャッシュ：
+  - 「ロケット部品は、少量のオーダーメイド生産がなされ、製造コストを抑えることよりも、性能が高いこと、納期が短くできることが求められます」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「微弱な電波でも効率的に拾うことができるような複雑な構造を実現しようとすると、既存工法では加工点が多すぎてコストや納期を大きく膨らませてしまいます」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「航空宇宙分野の部品は実際に利用する際に、厳格な業界規格への適合をもとめられるため、部品の一体化造形には、大きなコスト削減、納期短縮効果が期待できます」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属3Dプリンターを活用した部品加工は、造形の自由度の高さや金型レスであるプロセスの自由度の高さから、既存の加工方法では実現できない納期短縮やコストダウンを実現できる可能性があります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「見積り目的、回答納期の確認」（https://metoree.com/categories/5523/）
+  - 「各種3Dスキャナーや測定デバイスとのダイレクトな連携性も良く、測定から品質管理、原因分析までのリードタイムを劇的に短縮できる、製造業の品質管理DXに欠かせない極めて優秀なソフトウェアです」（https://metoree.com/categories/5523/）
+  - 「ナリス化粧品もFDM方式の3Dプリンタを治具製作に導入し、コスト削減や投資回収の面で想定を上回る効果を得ました」（https://3d-with.com/business/3d-printing-examples）
+  - 「それぞれを上手く使い分けることがコスト削減、リードタイム短縮、」（https://mono.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E8%A8%AD%E8%A8%88/）
+  - 「ワンストップ対応のため、低コスト、短納期！金属・樹脂の3D造形や実物からの3Dデータ化が可能！」（https://mono.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E8%A8%AD%E8%A8%88/）
+  - 「■製品開発リードタイムの大幅な短縮」（https://mono.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E8%A8%AD%E8%A8%88/）
+  - 「パートナーとして積極的なご提案！高品質・短納期・低コストを実現するモノづくり」（https://mono.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E8%A8%AD%E8%A8%88/）
+  - 「短納期かつ低コストでご提供いたします」（https://mono.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E8%A8%AD%E8%A8%88/）
+  - 「あわせて、内製化によるリードタイム短縮やコストメリットなど、導入効果についてもご紹介します」（https://event.ricoh.co.jp/public/seminar/view/71293）
+- 検索結果の抜粋：
+  - 「XENCE、 金属3Dプリンター で未利用森林資源を生かす 建築 ... — XENCE、 金属3Dプリンター で未利用森林資源を生かす 建築 ... 月刊「事業構想」オンライン https://www.projectdesign.jp > ニュース」（https://www.projectdesign.jp/articles/news/83d23450-afb8-4f1e-b65c-ee3c8a91b4e4）
 
 ## 日本の受託開発・設計受託会社の数（規模別）（number of contract development design firms Japan）
 - 文脈：③WL
@@ -493,20 +785,171 @@
 
 ## 受託開発会社の営業・問い合わせ対応の予算（sales inquiry budget contract development firms Japan）
 - 文脈：③WL
-- 売り先の数：記載なし（読んだ35頁・検索6回）
-- 単価・価格：記載なし（読んだ35頁・検索6回）
-- 取り分・マージン：記載なし（読んだ35頁・検索6回）
-- 市場規模・台数：記載なし（読んだ35頁・検索6回）
-- 補助金：記載なし（読んだ35頁・検索6回）
-- 競合：記載なし（読んだ35頁・検索6回）
-- 導入期間・キャッシュ：記載なし（読んだ35頁・検索6回）
+- 売り先の数：
+  - 「アタック企業数：2,183社」（https://eigyou-hack.com/Contractdevelopment-sourcing）
+  - 「続いて箇条書きで想定課題を列挙し、それに対する支援実績（導入社数や改善率などの数字）を示すことで、提案の信憑性と汎用的な効果をアピールしています」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「利用社数：7,000件突破（2025年5月現在）」（https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/）
+  - 「Webシステムの受託開発費用相場を、規模別・業種別の具体的な金額帯と内訳で解説します」（https://syusodo.co.jp/blog/articles/web-system-development-cost-guide）
+  - 「本記事では、Web開発（Webシステムの受託開発）の費用相場を「規模別」「業種・システム種別別」の二軸で具体的な金額帯とともに整理し、その金額がどう決まるか（人月単価×工数の仕組み）、そして同じシステムでも見積もりが2〜3倍変わる理由までを解説します」（https://syusodo.co.jp/blog/articles/web-system-development-cost-guide）
+  - 「【規模別】Webシステム受託開発の費用相場（小・中・大）」（https://syusodo.co.jp/blog/articles/web-system-development-cost-guide）
+  - 「それではまず、規模別の相場から見ていきましょう」（https://syusodo.co.jp/blog/articles/web-system-development-cost-guide）
+  - 「規模別相場の早見表」（https://syusodo.co.jp/blog/articles/web-system-development-cost-guide）
+  - 「利用社数：9,300件突破（2026年9月現在）」（https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/）
+  - 「（規模別: 300 万〜3,000 万円）」（https://koromo.io/blog/contract-development-company-comparison-2026/）
+  - 「利用社数：6,300件突破（2025年1月現在）」（https://hnavi.co.jp/knowledge/blog/entrusted_sales/）
+  - 「人月単価と規模別の外注コスト、保守の費用は、」（https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/）
+  - 「規模別の総額と1人月の単価」（https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/）
+  - 「掲載企業数が多く、一括見積もりの依頼が頻繁に発生する」（https://sono-5.com/articles/app-development-sales-channels-strategy）
+- 単価・価格：
+  - 「この企業では月あたり約5,000件ものフォーム送信を半年間継続し、28件のアポイント獲得、うち5件の受注（売上約6,000万円）に繋がったと報告されています」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「月5,000件ペースのフォーム送信を6カ月継続した結果、28件のアポイントと5件の新規受注獲得に成功し、約6,000万円の売上増加を達成しました」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「この企業ではフォーム営業の完全自動化によって1アポイント獲得コストを8,000円まで下げることにも成功しています」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「さらに完全自動化で人件費をかけずに1件あたり8,000円という低コストでアポイントを量産したとのことです」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「BtoBアウトバウンド営業に特化した「カリトルくん」は月額10万円からの固定報酬型で、開発リソースを削らずに商談機会を積み上げたい受託開発会社に向いた体制を整えています」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「・月額10万円程度〜数十万円」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「・初期費用5万〜10万円程度」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「・アポ単価1.5万〜2万円程度」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「・コール単価200〜300円程度」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「・月額5万〜10万円程度」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「カリトルくんは月額10万円から始められる固定報酬型で、挨拶アポを量産する動機が働かない料金構造のため、要件を聞き込む商談の質まで見据えて費用対効果を高められます」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「価格ではなく内容勝負で11件の受注！大手消費財化学メーカーからの受注も」（https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/）
+  - 「導入1年半で7200万円受注！オフショアならではのメリットを生かした営業プロセスとは？」（https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/）
+  - 「コロナ禍でも2000万円受注！発注ナビを5年以上使い続ける理由とは」（https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/）
+  - 「営業代行の料金体系は、大きく分けて「固定報酬型」と「成果報酬型」の2種類があります」（https://dgloss.co.jp/column/contract-development-sales/）
+- 取り分・マージン：
+  - 「・価格交渉の主導権を握りづらく粗利が削られる」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「費用は相場だけで決めず、自社の受注単価と粗利から逆算して上限を定めましょう」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「ましてや客先常駐の偽装請負で中間マージンを搾取するようなせこいことしている企業の経営者や営業がこんなコストをかけるわけがありません」（https://axia.co.jp/2017-06-27）
+- 市場規模・台数：
+  - 「その結果、約2,000件の架電から11件のアポイントを獲得し、そのうち8件が成約、さらに1億円規模の建設案件の受注にまでつながりました」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「750万〜8,000万円（大幅賃上げ特例で最大1億円）」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「累計採択額30億円超（2026年6月時点）」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「費用相場は1,200万円から数千万円、案件によっては数億円規模にまで及びます」（https://syusodo.co.jp/blog/articles/web-system-development-cost-guide）
+  - 「IDC Japanの調査では、2024年上半期のソフトウェア市場規模が2兆5,498億円を超え、前年同期比で10.8%増という大幅な伸びを記録しました」（https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/）
+  - 「また、ITサービス市場全体も成長が続いており、2023年の規模は6兆5,380億円と報告されています」（https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/）
+  - 「国内のソフトウェア市場は2028年に約7兆9,000億円へと拡大する見込み」（https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/）
+  - 「ITサービス市場も2028年には8兆8,000億円規模に達し、インテグレータ市場も年率5%程度の安定した成長が続くと見込まれています」（https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/）
+  - 「スタートアップ向け営業支援サービスの営業リーダー就任後、個人売上高3億円を達成」（https://takuwil.spool.co.jp/column/article/system-development-sales-agency/）
+  - 「比較ビズは年間案件流通額360億円、発注確定度85%と日本最大級のビジネスマッチングサイトとなっております」（https://www.biz.ne.jp/subject/blog/2003758/）
+  - 「1,000 万〜数億円」（https://koromo.io/blog/contract-development-company-comparison-2026/）
+  - 「東証一部上場・売上244億円の大手開発会社が発注ナビで手に入れた新たな強みとは」（https://hnavi.co.jp/knowledge/blog/entrusted_sales/）
+  - 「MVP開発は約1,000万〜3,000万円で3〜6か月、中規模のアプリ・システム開発は4,000万〜8,000万円で6〜12か月、大規模の開発は8,000万円から数億円です」（https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/）
+  - 「年間売上1億円のうち最大顧客が6,000万円なら、その顧客の売上構成比は60％です」（https://torchup.co.jp/column/c-new-business/ses-new-business-start/）
+  - 「年間売上1億円」（https://torchup.co.jp/column/c-new-business/ses-new-business-start/）
+- 補助金：
+  - 「受託開発の営業方法と案件獲得のコツ｜補助金を使った提案と採択事例の分析」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「補助金申請支援」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「補助金締切DB」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「受託開発の営業方法と案件獲得のコツ｜「予算がない」を補助金で動かす提案と採択14,248件の分析」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「※この記事は、各補助金の公式サイト・公募要領と、各事務局が公表した採択結果（2026年10月23日確認）をもとに、認定経営革新等支援機関（認定第90号）の株式会社イチドキリがまとめています」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「受託開発（システム開発）の営業は、紹介・協業・自社の発信で商談の入口をつくり、商談の山場になる予算の確保を補助金で後押しする、という流れで組み立てると進めやすくなります」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「補助金を提案に組み込んで受注につなげる方法」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「あわせて、省力化投資補助金・新事業進出補助金・ものづくり補助金の」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「採択計画14,248件を当社が集計し、どの業種がシステム開発に補助金を使っているか」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「国や東京都の補助金を使うと、顧客は上限額の範囲で開発費の」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「社内向けの業務システムなら省力化投資補助金（一般型）、新しいサービスの開発なら新事業進出・ものづくり商業サービス補助金が主な候補です」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「当社の集計では、省力化投資補助金の採択計画（第1〜6回・情報通信業を除く）のうち」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「補助金でシステム開発を進める中小企業は、すでに珍しくありません」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「採択計画は業種と都道府県で絞り込めるので、アウトバウンド営業で「同じ業界でこういう計画が採択されています」という切り口を作れます」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「補助金を使う提案では、交付決定前に発注しない、補助金は後払いになる、といった制約を最初に顧客と共有しておく必要があります」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+- 競合：
+  - 「BPOサービス特化型 営業代行」（https://eigyou-hack.com/Contractdevelopment-sourcing）
+  - 「受託開発・システム開発サービを提供されている企業様へ」（https://eigyou-hack.com/Contractdevelopment-sourcing）
+  - 「何を切り口に話せば良いかが難しい（要件が曖昧、比較されやすい）」（https://eigyou-hack.com/Contractdevelopment-sourcing）
+  - 「しかし、その「必要になった瞬間」に声がかからない限り、競合比較の土俵にすら上がれません」（https://eigyou-hack.com/Contractdevelopment-sourcing）
+  - 「新規事業・新サービスでアプリや基盤が必要になる」（https://eigyou-hack.com/Contractdevelopment-sourcing）
+  - 「「自社の受託開発サービスを、必要としている企業にきちんと届けたい」企業様は、ぜひご連絡ください」（https://eigyou-hack.com/Contractdevelopment-sourcing）
+  - 「「何が強みか」が伝わらず、価格比較になりやすい営業から脱却したい」（https://eigyou-hack.com/Contractdevelopment-sourcing）
+  - 「特にコロナ禍以降、従来の飛び込み・テレアポ営業に限界を感じた企業が次々とこの手法にシフトしており、問い合わせフォーム営業代行サービスや専用の自動化ツールも登場するなど、市場が活性化しています」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「やみくもに送っても効果は薄いため、自社のサービスを必要としそうな業種・規模の企業を絞り込みましょう」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「業種がバラバラだったり、自社サービスと関係の薄い企業ばかりでは、せっかく送っても反応率は下がってしまいます」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「例えば「御社サイトで〇〇事業を拝見し、弊社サービスがその発展に寄与できると考えご連絡しました」のように、相手に不信感を与えない導入にします」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「相手にとってのメリットを提示する: 本文では、自社サービスの特徴や機能をダラダラ説明するのではなく、「相手企業の課題をどう解決できるか」というベネフィットに焦点を当てます」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「可能であれば業界共通の課題を3点ほど箇条書きし、それに対し自社が提供できるソリューション概要を示します」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「貴社のホームページを拝見したところ、現在展開されている○○事業に関しまして、弊社が提供する○○ツール〖サービス名〗がお役に立てるのではないかと思い、ご連絡させていただきました」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+  - 「この例文では、冒頭で突然の連絡へのお詫びと名乗りから始まり、相手企業の事業内容に触れつつ「自社サービスが役立ちそうだと思った理由」を簡潔に述べています」（https://note.com/ai_kouritsu_/n/nffb136256ed2）
+- 導入期間・キャッシュ：
+  - 「ベンダー乗り換えや再選定（品質・納期・コミュニケーション）が起きる」（https://eigyou-hack.com/Contractdevelopment-sourcing）
+  - 「・外注企業には費用対効果や納期の論点」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「結果として、開発の品質と納期を守りながら新規開拓を進められます」（https://shidai.co.jp/blog/sales-outsourcing-for-software-development/）
+  - 「しかし、案件化までのリードタイムが長く、継続的なアプローチが必要になるため、営業リソースが不足しやすい商材でもあります」（https://www.liberalhearts.co.jp/systemdevelopment）
+  - 「契約期間と解約条件」（https://www.liberalhearts.co.jp/systemdevelopment）
+  - 「契約前に「最短契約期間」「途中解約の条件」「解約時の費用負担」などを確認しておくことが重要です」（https://www.liberalhearts.co.jp/systemdevelopment）
+  - 「システム開発の営業では、対応できる開発領域、体制、案件規模、納期などを委託先に共有します」（https://www.liberalhearts.co.jp/systemdevelopment）
+  - 「技術の話よりも「いくらかかり、いつ回収できるのか」「人手不足がどれだけ解消するのか」が判断の材料になります」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「申請では、省力化の効果と投資回収期間を数字で示す必要があります」（https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/）
+  - 「最低契約期間1ヶ月〜」（https://syusodo.co.jp/blog/articles/web-system-development-cost-guide）
+  - 「受託開発のプロジェクトは、要件のすり合わせから始まり、見積もり、設計、実装、検収、保守という段階的な流れで進みます」（https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/）
+  - 「この一連の流れにより、品質と納期がしっかり守られる体制が築かれています」（https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/）
+  - 「日本の受託開発では「請負契約」が基本であり、開発会社は成果物を納期までに納品する責任を負います」（https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/）
+  - 「さらに、契約条件については自社にとって無理のない納期や報酬設定になっているか、リスク分担の範囲を含めてしっかり検討してください」（https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/）
+  - 「納期遅延時のペナルティや、変更要望が発生した際の追加費用ルールなどを事前に明文化しておくことで、トラブルを未然に防止できます」（https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/）
 
 ## ホワイトラベルSaaSの再販マージン（white label SaaS reseller margin）
 - 文脈：③WL
+- 単価・価格：
+  - 「：ユーザーあたり月額7ドル」（https://clickup.com/ja/blog/254750/white-label-saas-software）
+  - 「有料プランに追加する場合、メンバー1名につきワークスペース1つにつき月額7ドル」（https://clickup.com/ja/blog/254750/white-label-saas-software）
+  - 「1,000コンタクトまで月額$15から」（https://clickup.com/ja/blog/254750/white-label-saas-software）
+  - 「1,000コンタクトまで月額$49から」（https://clickup.com/ja/blog/254750/white-label-saas-software）
+  - 「*パフォーマンス月額$479」（https://clickup.com/ja/blog/254750/white-label-saas-software）
+  - 「*個人向け月額18ドル」（https://clickup.com/ja/blog/254750/white-label-saas-software）
+  - 「*必須月額30ドル」（https://clickup.com/ja/blog/254750/white-label-saas-software）
+  - 「Prices below are USD, checked as of September 2026; the VoiceAIWrapper and Stammer rows were rechecked in October 2026. “Annual” means the monthly equivalent of an annual commitment; taxes, usage and optional services may add to the total. The linked vendor pages in each profile support the comparison.」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「The current offer lists $20 per client per month billed annually, including white-label branding. Reporting is its central role; optional Rank Tracker and AI Tracker tools add tracking capabilities.」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「Premium is $100 monthly or $85/month annually and includes white-label reports. Ultimate is $200 monthly or $170/month annually and adds advanced white-label capabilities. The lower report-only price is not the full application-branding price.」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「Stammer now lists Pro White Label at $99/month for chat-and-voice resale. As of October 2026, extra agents cost $10/month each, Pro includes no minutes, and voice is priced by model at about $0.11 to $0.17/minute; the page does not say whether telephony is included. Its Enterprise page markets regulated-use capabilities that need to be confirmed for the agreed deployment.」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「Updated for October 2026: Replaced VoiceAIWrapper's retired $79 entry price with its current plans and two delivery modes, and resolved Stammer's extra-agent and usage details.」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「ニッチの選び方、プラットフォーム選定、プラン価格の決め方、そして最初の10社のクライアント獲得方法を解説します」（https://we.inc/ja/blog/start-website-reseller-business）
+  - 「AIでの作成は月額$20から」（https://we.inc/ja/blog/start-website-reseller-business）
+  - 「定額の月額料金を取るプラットフォームもあれば、プラン料金に加えて公開サイトごとの手数料を取るプラットフォームもあるため、契約前に10, 25 と50社の時点でのコストをモデル化しましょう」（https://we.inc/ja/blog/start-website-reseller-business）
+- 取り分・マージン：
+  - 「一定のマージンを上乗せして小売り（再販）することにより差益を得ます」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「Resellers」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「Sell Trillet to your clients and earn margin」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「A reseller can sell software without rebranding it, while an affiliate usually refers buyers for commission. An OEM arrangement embeds another company's technology in your own product. For the voice category, our」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「Margin:」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「work out how your clients map to projects and allowances before calculating your margin.」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「Which voice AI platforms fit a reseller?」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「Synthflow's public Enterprise contracts start at $30,000 annually; branding and delivery scope need a quote. Its enterprise implementation support is a valid reason to shortlist it. However, in-product reseller billing and Stripe connections were removed on 15 September 2026.」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「How should you start reselling without losing the margin?」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「For a simple illustration, $500 in monthly revenue with $200 in direct delivery costs leaves $300, or a 60% gross margin. That is arithmetic, not an agency earnings benchmark; overhead, sales costs and tax still affect profit.」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「It is subscription software offered under a reseller's brand, with the underlying product maintained by a supplier. The branding, resale rights and support responsibilities depend on the plan and agreement.」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「White-Label Reseller Programs: 2026 Comparison for Agencies」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「White Label AI Profit Margins: What Agencies Actually Earn in 2026」（https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell）
+  - 「マーケティングオートメーション：広告代理店が自社提供ツールとして展開し、代理店手数料＋利用料で収益化を目指すモデル」（https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/）
+  - 「再販マージン」（https://we.inc/ja/blog/start-website-reseller-business）
+- 市場規模・台数：
+  - 「6,000万～1.2億円」（https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/）
+  - 「1.2億～2.4億円」（https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/）
+  - 「1.0億～2.0億円」（https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/）
+  - 「2.0億～4.0億円」（https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/）
+  - 「1.6億～3.2億円」（https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/）
+  - 「3.2億～6.4億円」（https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/）
+  - 「年間経常利益3,000～5,000万円・取引総額2億～4億円」（https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/）
+  - 「1億8,000万円～2億円前後」（https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/）
+  - 「A. 年買法で1.0～2.0億円、EBITDA倍率で2.0～4.0億円が目安です」（https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/）
+- 競合：
+  - 「【弁護士監修】契約書チェック自動サービス | Collabo Tips | コラボ・ティップス」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「SaaS（Software as a Service）やクラウド型ITサービスのユーザーを拡大するためには、販売パートナーとの提携が重要です」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「SaaS（クラウド型ITサービス）の販売パートナーの種類は、通常の物販と同じように代理店（Agent）と販売店（Distributer）がありますが、クラウド上で提供されるサービスには特有の注意点が存在します」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「この記事では、クラウド上で提供されるサービスに特有の注意点を中心に、代理店契約、再販型契約（仕入れ型）、ホワイトラベル型（OEM型）契約の各形態の違いについて、契約書自動チェックサービス”」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「SaaS（クラウド型ITサービス）の販売パートナー契約には、代理店（Agent）契約と販売店（Distributer）契約の2つの基本的な形態があります」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「代理店契約では、代理店が商品やサービスを顧客に紹介する仲介者としての役割を担い、在庫リスクは基本的に発生しません」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「一方、販売店契約では、販売店が商品やサービスを仕入れて再販するため、在庫リスクを負いますが、その代わりに、販売価格の設定や販売戦略を自由に決定できることが一般的です」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「SaaSサービスの」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「再販型契約では、販売店はプロバイダーのサービスを仕入れて、そのまま再販します」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「ここでの「仕入れ」という言葉は、物理的な仕入れという意味ではなく、サービスの利用権を購入する形態を指します」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「この場合、顧客（利用ユーザー）は通常、SaaSプロバイダーの利用規約に同意し、販売店はサポートや追加サービスを提供しますが、サービスの提供責任はプロバイダーにあります」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「ホワイトラベル型（OEM型）では、販売店が自社ブランドでSaaSサービスを提供します」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「顧客（利用ユーザー）は、販売店のブランド名でサービスを利用し、通常は販売店の利用規約に同意します」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「しかし、実際のサービス提供はプロバイダーによるため、プロバイダーの利用規約も適用されます」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「ホワイトラベル型契約の販売店は、サービスの提供責任を大部分負い、サポートやカスタマイズを行う場合もあります」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+- 導入期間・キャッシュ：
+  - 「最低契約期間を6か月か12か月に設定する」（https://we.inc/ja/blog/start-website-reseller-business）
+  - 「スコープ、月次契約期間と解約予告期間、何が「編集」に該当するか、対応時間、支払日、カード決済が失敗した場合の扱い、解約時にクライアントが保持するもの（ドメイン、コンテンツ、ロゴ、写真）を明記しましょう」（https://we.inc/ja/blog/start-website-reseller-business）
+  - 「回収した経常収益：」（https://we.inc/ja/blog/start-website-reseller-business）
+  - 「実際、顧客定着率60%以上の再販事業では、買収後1～2年で投資回収が見えるケースが多く、これが高い買収意欲につながっています」（https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/）
+  - 「プラットフォームのマージンは、セットアップコストを回収すれば純利益となり、通常は最初の2〜3か月で回収できます」（https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026）
 - 売り先の数：記載なし（読んだ36頁・検索6回）
-- 単価・価格：記載なし（読んだ36頁・検索6回）
-- 取り分・マージン：記載なし（読んだ36頁・検索6回）
-- 市場規模・台数：記載なし（読んだ36頁・検索6回）
 - 補助金：記載なし（読んだ36頁・検索6回）
-- 競合：記載なし（読んだ36頁・検索6回）
-- 導入期間・キャッシュ：記載なし（読んだ36頁・検索6回）

@@ -1,0 +1,2926 @@
+{
+ "name": "日本のオンプレ生成AI端末",
+ "en": "Japanese on-premise generative AI appliance",
+ "aliases": [
+  "オンプレ生成AI",
+  "ローカルLLMサーバー",
+  "生成AIアプライアンス",
+  "オンプレLLM",
+  "on-premise AI",
+  "on-prem AI",
+  "AI appliance",
+  "private AI",
+  "air-gapped AI",
+  "local LLM",
+  "オンプレ",
+  "生成AI"
+ ],
+ "context": "日本",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:58:16.599382+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "On-Premises Generative AI Appliance",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Sovereign GaiXer is an on-premises generative AI appliance.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "AI processing runs on the appliance without sending internal data to the internet, supporting work involving confidential or personal information.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The compact appliance supports local AI operation after setup. Initial OS setup needs temporary internet access and may take about one hour. Japan delivery is typically 1–2 business days after dispatch. Overseas availability, pricing, shipping, warranty and support require confirmation.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Maximum AI performance of this appliance (NVIDIA Blackwell)",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "PGX appliance",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers, adopting companies and business software vendors can all build apps. More makers means more apps to choose from.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "AI processing stays on the appliance and internal data is not sent to the internet. Explore demonstrations and the security questionnaire answers to understand the architecture.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan appliance reference is JPY 3,806,400 excluding tax, with no usage-based AI charges. Electricity and optional services are separate. Compare indicative three-year cloud costs using your own usage assumptions.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "See the compact appliance in action, from unpacking to a first response.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "* Reference amounts excluding tax, calculated by dividing the appliance price over the 36-month Japan hardware warranty period. Operating costs such as electricity are not included. These are not lease quotes.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan appliance reference: JPY 3,806,400 excluding tax",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Processed locally on the appliance",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Port for connecting two appliances",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Under the Japan offer, there are no additional AI usage charges based on generation volume or user count. The appliance price includes hardware, software license and Japan three-year hardware warranty. Electricity and optional services such as deployment assistance are separate. Overseas terms require confirmation.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and Inference Suite to Step-Up AI Inference Privacy, Flexibility and Costs Savings Across Enterprise and Industrial Verticals | Qualcomm",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "【Release】 Entering the Era of In-House Generative AI: Introducing the Fully On-Premise InfiniCloud AI Appliance - InfiniCloud株式会社",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Appliance",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Technology / Appliance",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "/ 【Release】 Entering the Era of In-House Generative AI: Introducing the Fully On-Premise InfiniCloud AI Appliance",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "【Release】 Entering the Era of In-House Generative AI: Introducing the Fully On-Premise InfiniCloud AI Appliance",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Announcing the InfiniCloud AI Appliance: A Fully On-Premise Solution for the New Era of In-House, Owned-and-Developed Generative AI",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCloud AI Appliance",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCloud specializes in infrastructure optimization, providing the on-premise cloud appliance InfiniCloudPCA and virtualization platform InfiniCloud HV, built on its proprietary High Response Private Cloud.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "By combining its strengths in infrastructure, virtualization, and data generation, InfiniCloud has created the InfiniCloud AI Appliance, a complete LLM platform that can be fully owned, operated, and developed within an organization.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCloud AI Appliance: Leading the AI Series, Available from August 2025",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Features | InfiniCloud AI Appliance",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCloud PCA-based on-premise AI appliance (starting at 4 million yen)",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Higher performance on-premise AI appliances",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "reflects Tokyo's role as the national AI epicenter, hosting more than 60% of Japan's AI-focused startups and a majority of corporate R&D centers.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Cabinet Office's Society 5.0 vision and the AI Strategy 2025 program prioritize generative AI as foundational technology. Public-sector procurement and university research grants are channeling structured demand toward domestic vendors and consortia.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Training and serving large generative models requires substantial GPU capacity, and Japan's data center power costs and supply tightness pressure unit economics, particularly for smaller domestic providers.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. providers including OpenAI, Anthropic, Google, and Microsoft hold strong enterprise mindshare in Japan, pressuring local vendors to differentiate through Japanese-language quality, on-premise deployment, and domain specialization.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's vendors are increasingly building specialized foundation models for finance, healthcare, manufacturing, and the Japanese language itself. SB Intuitions, NTT, and the National Institute of Informatics are advancing models tuned for industry-specific accuracy and Japanese-language fluency, reducing reliance on U.S. providers.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Following the AI Strategy 2025 update, Japanese platforms are deploying provenance markers and content-authentication tools. Major media outlets and stock-image providers are piloting watermarking standards aligned with the C2PA framework, addressing copyright and disinformation concerns.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Graphics Processing Unit (GPU) and Tensor Processing Units (TPU) providers, hyperscale cloud, domestic data centers, and labelled data suppliers",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Machine Learning Operations (MLOps) and model orchestration vendors, fine-tuning toolchains, vector databases, and API gateways",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS providers in image generation, video, speech, and text applications across enterprise verticals",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Platform and tooling providers are emerging as the most strategically valuable layer, integrating compute, model access, and domain customization into turnkey enterprise solutions. Meanwhile, large system integrators continue to capture significant value through their existing client relationships and ability to deliver compliant, on-premise deployments tuned for Japanese-language workloads.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo enterprise hub, AI startup density, government R&D, university research",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fukuoka startup ecosystem, semiconductor industry, regional digital initiatives",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's generative AI competitive landscape is moderately concentrated, with established technology conglomerates competing alongside research-driven challengers and lean specialist startups. Leading players differentiate through Japanese-language model quality, on-premises deployment capabilities, vertical specialization, and partnership ecosystems.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic acquisitions and partnerships are accelerating. SoftBank's January 2025 healthcare MOU, JETRO's GDC 2025 pavilion in March 2025 spotlighting AI-powered Japanese games, and ongoing investment from corporate venture arms at NEC, Fujitsu, and Sony are channeling capital into vertical AI startups.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kanto Region dominates with 37.6% national revenue share in 2025, anchored by Tokyo's enterprise base, AI startup density, government R&D, and the country's leading universities and venture funding networks.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises Generative AI Appliance for Protecting Confidential Data｜Shinji Suzuki",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises Generative AI Appliance for Protecting Confidential Data",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have summarized the reasons why I recommend this solution. There is an online seminar for this AI appliance solution. I hope you will be able to attend.",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While proceeding with minor verification and general business use flexibly in the cloud, operating highly confidential data, core business operations, and areas with heavy external accountability with on-premises appliances—this type of hybrid consideration that uses them differently according to purpose and risk is extremely realistic for Japanese corporations in 2026.",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AIアプライアンス",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Telecom Access Providers",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "Telecom access providers power cloud communications infrastructure.",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Communication Providers",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "Browse top providers and filter by company size, location, and technology needs.",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "Business Services Providers",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "Gain access to the best providers and customize search based on your requirements.",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "The World's BEST Service Providers",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors to service providers",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business 2026",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Appliances",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "The Japan appliance reference is JPY 3,806,400 excluding tax, with no usage-based AI charges. Electricity and optional services are separate. Compare indicative three-year cloud costs using your own usage assumptions.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Approx. JPY 105,733/month",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Approx. JPY 2,115/month/person",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Estimate your costs (free, about 30 seconds)",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "* Reference amounts excluding tax, calculated by dividing the appliance price over the 36-month Japan hardware warranty period. Operating costs such as electricity are not included. These are not lease quotes.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "* The Sovereign GaiXer amount of JPY 3,806,400 is the Japan-market price excluding tax. Overseas availability, pricing, shipping, warranty and support require confirmation.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCloud PCA-based on-premise AI appliance (starting at 4 million yen)",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1,014.6 Million",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,049.5 Million",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan generative AI market is undergoing rapid transformation. Growth is driven by enterprise digitization, the government-backed Society 5.0 initiative, and rising demand for AI-driven content creation. Valued at USD 1,014.6 Million in 2025, the market is projected to reach USD 4,049.5 Million by 2034 at a CAGR of 16.63%.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan generative AI market forecast projects sustained expansion from USD 1,014.6 Million in 2025 to USD 4,049.5 Million by 2034 at a CAGR of 16.63%. The Kanto region will retain its dominance through 2034 while Kansai/Kinki and Central/Chubu accelerate on healthcare and automotive AI demand respectively.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "$4500.00",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "$2999.00",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "$5500.00",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "$3999.00",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "$6500.00",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual license from $697 one-time per user",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark around $4,699 MSRP; GB300 price not published by Dell",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom (from $697/user)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal-published 4-year TCO ~$50K vs $2M+ (Azure OpenAI Disconnected) / $20M+ (Palantir AIP)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dell has not published an official GB300 price; a comparable MSI XpertStation WS300 was listed by CDW at ~$97K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual licensing starts from $697 one-time per user. Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected and $20M+ for Palantir AIP.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "$5M in 12 months",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "$25,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€75,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€25,000 / year",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "European market rates. GB300 starts at €150,000 per year and is confirmed by quote depending on configuration.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "from $150,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We moved our AI workloads off the cloud and cut costs by 88%. Here's when enterprises should do the same.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "worth $35.22 billion",
+    "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+    "pass": 3
+   },
+   {
+    "quote": "(limited users, single environment): €50,000–€150,000/year",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "(250–500 users, full governance): €150,000–€400,000/year",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "(1,000+ users, multi-environment, premium support): €400,000–€1M+/year",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": ": €20,000–€60,000",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": ": €30,000–€80,000",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "(connecting document stores, HR systems, knowledge bases): €40,000–€120,000",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "(connecting agents to CRM, ERP, ticketing, internal APIs): €30,000–€100,000 per major integration",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "(SSO, directory services): €15,000–€40,000",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": ": €20,000–€50,000",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": ": €15,000–€40,000",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "A realistic integration budget for a mid-size regulated enterprise is €150,000–€500,000 in year one, depending on how many enterprise systems need to be connected.",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "For organizations that don’t have this expertise internally, managed support or co-management contracts with the vendor or a systems integrator add €50,000–€200,000/year depending on scope.",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "One global energy customer saved $6.7M annually by deploying Pryon on-prem—after failing to build an in-house solution for years.",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "The global AI inference market is estimated at $103-106 billion for 2025 and is projected to reach roughly $255 billion by 2030.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA's FY2026 revenue reached a record $215.9 billion, up 65% year over year, with data center revenue alone at $193.7 billion.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Consolidation is reshaping the inference chip market: AMD absorbed Untether AI's engineering team, NVIDIA licensed Groq's inference technology, and Marvell agreed to acquire Celestial AI for about $5.5 billion.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "), Meta completed its acquisition of RISC-V startup Rivos for ~$2 billion (",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "$215.9 billion",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "$255 billion",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "(up 65% YoY), with data center revenue alone at $193.7 billion (",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "$5 billion",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "$1 billion",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "). These workstations (up to 8× Arc Pro B60 GPUs, 24 GB each) target on-prem AI developers and content creators, with prices around $5–10k.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank acquired the British IPU maker Graphcore for approximately $500 million.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "$2 billion",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "Turn NVIDIA GPUs into business AI from day one.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The software that turns GPU compute into AI your staff can use at work. Four things Sovereign GaiXer handles.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Put idle GPUs to work.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Fill the gap after buying GPU servers with software, and get them used across the company.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "As users grow, how do you scale?",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Scale out with more units and up with denser GPUs: automatic clustering from one unit, and the plans beyond.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Under the Japan offer, AI usage charges do not increase with generations, pages processed or registered users. Overseas availability, pricing, shipping, warranty and support must be confirmed individually.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Per user with 50 users*",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports GPU cluster integration for future expansion: enables scalable learning performance.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additional GPU module for advanced distributed training",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Training and serving large generative models requires substantial GPU capacity, and Japan's data center power costs and supply tightness pressure unit economics, particularly for smaller domestic providers.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Graphics Processing Unit (GPU) and Tensor Processing Units (TPU) providers, hyperscale cloud, domestic data centers, and labelled data suppliers",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "End Users",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Generative AI workloads are split between hyperscale cloud GPUs and edge devices. NTT, and SoftBank are expanding domestic data center GPU capacity, while NEC corporation, and Fujitsu are advancing on-device inference for privacy-sensitive applications, particularly in healthcare and government deployments.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank's AI portfolio includes the Sarashina large language model series developed by SB Intuitions, generative AI applications across customer service and enterprise automation, and a dedicated AI compute infrastructure backed by NVIDIA GPU partnerships.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Access for 5 Users, 2 Devices per User",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "– High Japanese proficiency: Achieves top-class performance in the amount of knowledge and reading comprehension required for business operations – Lightweight: Compact model size and can run on a standard GPU server",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 2024 Cloud Communications Alliance. We love our users!",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The best private AI server for most organizations is a turnkey system that arrives with its inference software installed. Iternal Turnkey AI pairs GPU or Intel Xeon hardware with the AirgapAI application and the Blockify accuracy engine; NVIDIA, Dell, HPE, Lenovo, Supermicro and Cisco supply the underlying platforms.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GPU platform",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The GPU or Xeon configuration behind each system, the scale it is built to serve, what software ships installed, and where a price is published.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA RTX 4090 or A100 GPUs, or Intel Xeon CPUs via AirgapAI Edge (Intel AMX, OpenVINO, llama.cpp)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "8x Blackwell B200, 1,440 GB GPU memory, 10U chassis, 5th-gen NVLink",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "PowerRack rack-scale systems and PowerEdge XE-series nodes with NVIDIA GPUs",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Scales to 128 GPUs with network expansion racks; air-gapped configuration available",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "72 NVIDIA B300 GPUs per 42U/48U/52U rack; liquid-cooled 256- and 768-GPU scalable units",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "UCS C845A/C885A M8 compute, 32 to 128+ GPUs, Nexus 9000 networking up to 800G",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Foundational GPU Platform",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Runs on GPUs (RTX 4090/A100) or entirely on Intel Xeon CPUs via AirgapAI Edge; ships with 2,800+ preconfigured workflows",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Servers",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "GPU options",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "1x NVIDIA® L4 with 24 GB GPU RAM",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Model size up to 8B parameters",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "L4 Tensor Core GPU",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "L4 Tensor Core GPU for AI applications",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA® Jetson AGX Orin™ with 64 GB GPU RAM",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Model size up to 70B parameters",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 3x NVIDIA® RTX 6000 Ada with 48 GB GPU RAM each",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Server",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "RTX 6000 Ada GPUs",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "RTX 6000 powerful GPUs (3x on request)",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Model size over 100B parameters",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "H100 NVL GPU",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "H100 NVL powerful GPU (2x on request)",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Acceleration for Edge AI",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Built for scalable industrial AI deployments, from compact edge workloads to high-performance computing, with FHFL GPU expansion, next-gen PCIe support, and wall-mount options.",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "EDGEBoost Nodes for dedicated GPU, NVMe/SATA storage, & PCIe expansion",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Semi-Rugged Industrial GPU Computer for general purpose industrial computing workloads",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Integration",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Built for advanced edge computing workloads with full-height GPU support, PCIe expandability, and flexible storage support.",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Full-height GPU support",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Built for space-efficient edge AI deployments with Intel® Core™ processors, low-profile GPU support, and rich industrial I/O connectivity.",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Low-profile GPU Support",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "FHFL GPU expansion support",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "24–48V DC input with 600W GPU power budget",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Built for rugged edge AI deployments with high-performance Intel® Core™ processing, FHFL dual-GPU support, and fanless computing node design.",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "Sovereign GaiXer | On-premises generative AI with predictable costs",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "On-premises generative AI: Sovereign GaiXer",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises Generative AI Appliance",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Sovereign GaiXer is an on-premises generative AI appliance.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Why can on-premises AI be secure?",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "On-premises processing",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud AI or on-premises: which fits?",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "(on-premises AI)",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "AI processing stays on the appliance and internal data is not sent to the internet. An offline-operation demonstration is planned for",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "They can be for some tasks. Where your policy prevents confidential data from leaving the organization, on-premises processing enables workflows that cloud services cannot support under those constraints. Evaluate the local models for your everyday tasks.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "On-premises generative AI (Japanese video)",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and Inference Suite to Step-Up AI Inference Privacy, Flexibility and Costs Savings Across Enterprise and Industrial Verticals | Qualcomm",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "【Release】 Entering the Era of In-House Generative AI: Introducing the Fully On-Premise InfiniCloud AI Appliance - InfiniCloud株式会社",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "/ 【Release】 Entering the Era of In-House Generative AI: Introducing the Fully On-Premise InfiniCloud AI Appliance",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "【Release】 Entering the Era of In-House Generative AI: Introducing the Fully On-Premise InfiniCloud AI Appliance",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Announcing the InfiniCloud AI Appliance: A Fully On-Premise Solution for the New Era of In-House, Owned-and-Developed Generative AI",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCloud specializes in infrastructure optimization, providing the on-premise cloud appliance InfiniCloudPCA and virtualization platform InfiniCloud HV, built on its proprietary High Response Private Cloud.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "is the first product in the InfiniCloud AI series. This fully on-premise 1U server fits easily into a standard data center rack and consumes minimal power. Featuring a user-friendly chat-style web interface, it allows companies to fully own their AI without sending data outside the organization and to customize it to their specific business domain or industry.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Completely on-premise and self-contained within the company: no external communication required. Ideal for high-security environments such as finance and manufacturing.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCloud PCA-based on-premise AI appliance (starting at 4 million yen)",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Higher performance on-premise AI appliances",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. providers including OpenAI, Anthropic, Google, and Microsoft hold strong enterprise mindshare in Japan, pressuring local vendors to differentiate through Japanese-language quality, on-premise deployment, and domain specialization.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Platform and tooling providers are emerging as the most strategically valuable layer, integrating compute, model access, and domain customization into turnkey enterprise solutions. Meanwhile, large system integrators continue to capture significant value through their existing client relationships and ability to deliver compliant, on-premise deployments tuned for Japanese-language workloads.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AI, public sector, on-premise deployment",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's generative AI competitive landscape is moderately concentrated, with established technology conglomerates competing alongside research-driven challengers and lean specialist startups. Leading players differentiate through Japanese-language model quality, on-premises deployment capabilities, vertical specialization, and partnership ecosystems.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "NEC's generative AI offering centers on cotomi, its proprietary large language model platform, alongside the NEC the WISE AI suite covering image, video, and biometric generative applications. The company also delivers customized on-premise deployments for regulated industries.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "NEC focuses on enterprise-grade generative AI with strong governance, on-premise deployment options for sensitive data, and Japanese-language accuracy, leveraging its long-standing relationships with government ministries and large corporations.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Opportunities include healthcare AI, manufacturing synthetic-data pipelines, anime and gaming AI tools, Japanese-language foundation models, on-premise enterprise deployment, and Southeast Asian export of Japan-built models.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises Generative AI Appliance for Protecting Confidential Data｜Shinji Suzuki",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises Generative AI Appliance for Protecting Confidential Data",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While proceeding with minor verification and general business use flexibly in the cloud, operating highly confidential data, core business operations, and areas with heavy external accountability with on-premises appliances—this type of hybrid consideration that uses them differently according to purpose and risk is extremely realistic for Japanese corporations in 2026.",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Local, air-gapped LLM chat for classified environments.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem Hardware Sizing",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How to Deploy LLMs On-Premise",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "on-premise AI servers",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "air-gapped AI",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How the leading on-prem and turnkey AI platforms compare at a glance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Servers: On-Premise, Turnkey and Plug-and-Play Compared",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Scales to 128 GPUs with network expansion racks; air-gapped configuration available",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Distributed edge sites plus on-premise inference",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated appliance or on-premise install",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Eleven leading on-premise, air-gapped, and turnkey AI platforms — evaluated on performance, security, and speed-to-production for business buyers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "100% local, air-gapped inference (AirgapAI) — no network required; SCIF-approved and nuclear-facility-certified per Iternal",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The foundational platform for serious on-prem AI training and inference",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Generative AI Server | On-premise Gen AI",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise solution",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of our On-Premise GenAI servers",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise for high security and data protection. Secure your proprietary models and protect sensitive data.",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Generative AI and On-Prem LLM Solutions at the Edge",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem Data Center",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Short-depth rackmount servers for on-prem AI inference",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Generative AI & On-Prem LLM",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "& On-Prem LLM Solutions at the Edge",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "High-performance edge computers are accelerating the shifting trends of generative AI and LLM workloads from centralized cloud infrastructure to local, on-premises environments. This decentralization of processing resources enables real-time insights, localized decision-making, and secure control over mission-critical data.",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem Data Center Edge",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Servers are deployed at the On-Prem Data Center Edge, operating in secure micro data centers to process advanced AI workloads. Unlike smart devices installed within machinery and field equipment, Edge AI Servers serve as the final layer for enabling real-time performance, localized data privacy, and improve control before data is relayed to the cloud.",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem Datacenter",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy on-prem LLM and generative AI workloads for real-time inferencing and decision-making capabilities.",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "Updates and web search on a LAN with restricted outbound access: compare three approaches and prepare a change request.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "USB4 Type-C×4, HDMI 2.1a, 10GbE RJ-45",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "240 W AC adapter, power cord, 2 × USB-C to USB-A adapters, manuals",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": ". If you don’t want to share your website activities, including browsing behavior, with our third-party partners via these tracking technologies, click on “Cookie Settings\" button below to update your preferences. You can also update your cookie preferences at any time by clicking the \"Cookie Settings\" link at the bottom of this website.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "契約・料金・更新 について",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "FAQ（契約・料金・更新）",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Expansions:",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Free software updates will be provided. Hardware expansion options will be available for an additional fee.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Monthly/Quarterly/Yearly Price Trends",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Last Updated:",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Following the AI Strategy 2025 update, Japanese platforms are deploying provenance markers and content-authentication tools. Major media outlets and stock-image providers are piloting watermarking standards aligned with the C2PA framework, addressing copyright and disinformation concerns.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated: June 5, 2026",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Modular EDGEBoost I/O Support (M12/RJ45, USB, 10GbE, PoE)",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "8x USB 3.0 Vision Locking Ports",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Modular M12/RJ45, USB, 10GbE, PoE Support",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Offline updates and security patches (validated releases)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Updates & Patch Management",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Update",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Signed air-gapped updates, vendor SLA.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Managed software lifecycle: updates, security patches, and platform health checks",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offline update workflows for air-gapped environments",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment, Operations, and Updates",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "How are updates delivered?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "What is included in Update Services?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Remote fleet management across distributed edge locations with secure OTA updates, health monitoring, and centralized configuration.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy, version, and rollback models across your entire edge fleet from a central console. Push updates to hundreds of locations simultaneously.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": ". If you don’t want to share your website activities, including browsing behavior, with our third-party partners via these tracking technologies, click on “Cookie Settings\" button below to update your preferences. You can also update your cookie preferences at any time by clicking the \"Cookie Settings\" link at the bottom of this website.",
+    "url": "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "pass": 3
+   },
+   {
+    "quote": "Updated",
+    "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon is installed, validated, monitored, and updated under agreed controls",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated April 2026. Reviewed by the Zylon AI Engineering Team",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "After go-live, someone has to keep the platform running, updated, and secure. Ongoing operations cost is the most frequently underestimated line in AI platform TCO.",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "A data engineer or AI developer for prompt engineering, evaluation, and model updates",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Model updates",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "are not free either. As better open-weight models ship, someone must evaluate, validate, and migrate the organization to new versions. Each major model update is a mini-project.",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "How are model updates handled, and what do they cost?",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "is designed for organizations that need a governed AI platform inside their own environment. Our deployment model keeps inference, retrieval, orchestration, agents, and audit logs under customer control. We design deployments to be maintainable by customer operations teams, not vendor-dependent for every update.",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Every Go1™ runs Go.OS with Go.AI custom firmware and memory acceleration. Pick the box that matches your workload, or",
+    "url": "https://go.ai/hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Updated on",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Updated",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.reuters.com/technology/artificial-intelligence/super-micro-shares-surge-ai-boom-drives-100000-quarterly-gpu-shipments-2024-10-07/#:~:Super...",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Updated",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Join our community for the latest updates and insights.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "契約・料金・更新 について",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s",
+    "pass": 3
+   },
+   {
+    "quote": "FAQ（契約・料金・更新）",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Expansions:",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s",
+    "pass": 3
+   },
+   {
+    "quote": "Free software updates will be provided. Hardware expansion options will be available for an additional fee.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s",
+    "pass": 3
+   },
+   {
+    "quote": "Updated:",
+    "url": "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Esperanto’s Generative AI Appliance is currently running the latest LLMs and image generation models such as LLaMA 2, Vicuna, StarCoder, OpenJourney and Stable Diffusion, and the company’s strategy is to continuously update the system with the latest versions of popular open-source models as soon as they are released.",
+    "url": "https://www.esperanto.ai/News/esperanto-technologies-introduces-first-generative-ai-appliance-based-on-risc-v/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay updated with the latest news and announcements from",
+    "url": "https://www.ai-market-watch.com/news/on-premise-generative-ai-product-edgellm-launches-in-japan-from-98-million-with--2o86mt",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated 7 Oct 2026",
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Events & Updates",
+    "url": "https://global.rakuten.com/corp/news/press/2026/0317_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "*MMLU-ProX and MATH-100 scores for GPT-OSS-Swallow-120B-RL-v0.1 and ABEJA-QwQ32b-Reasoning-Japanese-v1.0 were updated at 10:00am on March 18, 2026.",
+    "url": "https://global.rakuten.com/corp/news/press/2026/0317_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "最新の言語モデルへのアップデートには、AI基盤運用支援サービスをご契約いただく必要があります",
+    "url": "https://www.dnp.co.jp/biz/products/detail/20177512_4986.html",
+    "pass": 3
+   },
+   {
+    "quote": "アップデート作業はお客様となりますが、有償での作業代行も可能です",
+    "url": "https://www.dnp.co.jp/biz/products/detail/20177512_4986.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026.09.23 最終更新",
+    "url": "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "pass": 3
+   },
+   {
+    "quote": "Llama 3.1ベースに更新",
+    "url": "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "Resellers, adopting companies and business software vendors can all build apps. More makers means more apps to choose from.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Usage or credit-based charges (variable)",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "While tools like Retrieval-Augmented Generation (RAG) can provide supplemental knowledge, they fall short when it comes to creating deeply specialized AI models. This has led to a global shift toward building and deploying language models of varying sizes, tailored for specific use cases.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM販売やパートナープラン、AIに関するご質問、お見積などはお気軽にお問い合わせください",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partner Satisfaction Studies",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "System integrators handling enterprise rollout, custom training, and compliance",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Platform and tooling providers are emerging as the most strategically valuable layer, integrating compute, model access, and domain customization into turnkey enterprise solutions. Meanwhile, large system integrators continue to capture significant value through their existing client relationships and ability to deliver compliant, on-premise deployments tuned for Japanese-language workloads.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autoencoders and their variants - including variational and diffusion architectures - account for 32.5% of revenue in 2025. They are widely deployed in anomaly detection for manufacturing quality control, financial fraud screening, and medical imaging enhancement, with adoption growing fastest in automotive and electronics verticals.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMARC’s industry report offers a comprehensive quantitative analysis of various market segments, historical and current market trends, market forecasts, and dynamics of the Japan generative AI market from 2020-2034.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller and less established than the OEM leaders, with fewer public reference customers and benchmarks",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Our GenAI servers are designed to fulfill different requirements for various use cases.",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": ", each level supports a variety of models and types, from the use of pre-trained models to intensive LLM training. The systems have AI acceleration functions, various",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "There are various use cases for generative AI, from intelligent chatbots to knowledge-based AI copilots that can be further trained with databases.",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "OEM ODM Services",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Varies",
+    "url": "https://llmappliance.com/platform-overview",
+    "pass": 3
+   },
+   {
+    "quote": "based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Variable per-token and compute-hour metering",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Platform software licensing varies widely based on vendor, deployment model, and negotiated terms. On-premise software licensing for a governed AI agent platform with private RAG, orchestration, model management, and evaluation capabilities typically falls into these tiers:",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise deployment is not a one-click installation. Budget for setup and integration work, which may be done by the platform vendor, a system integrator, or your own internal team.",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon Appoints AI Veteran Hamsa Buvaraghan as SVP/Head of Product",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "Why Hamsa Buvaraghan Joining Pryon Is a Watershed Moment for Enterprise AI",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "System Integrators and OEM Solutions",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "). Major system integrators (Dell, HPE, Lenovo, Super Micro, IBM, etc.) package these chips into turnkey AI servers. This report surveys the",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "System Integrators:",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "OEMs and server vendors (Dell, HPE, Lenovo, Supermicro, IBM, etc.) who package these chips into deployable systems;",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "GPUs (and upcoming data-center variants) are being featured in HPC workstations and servers. Notably, Intel’s",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "). Early customers include ISVs and OEMs building AI workstations – for example, alliances with PNY and Supermicro bundle Arc GPUs in high-end workstations and nodes.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "variant (H2 2026) with HBM3E and ~144 GB total memory capacity. Its SDK 2025.3 release added multi-chip tensor parallelism and support for Qwen 2/2.5 models. Furiosa exemplifies the new wave: a company explicitly building",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "system integrators and OEMs",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Wide range of custom rack servers with NVIDIA/AMD accelerators. Pioneers direct liquid cooling (DLC) solutions. Quick-turn OEM partner with Nvidia/AMD.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Others (OEM/ODM):",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "LLM inference is often memory-constrained (to hold the model weights and activations). Solutions vary: NVIDIA’s H200 has 141 GB HBM3e per GPU, and Intel’s Crescent Island promises 160 GB. The Cerebras WSE-3 has 44 GB of on-chip SRAM; CS-3 system configurations can provide 1.5 TB, 12 TB, or up to 1.2 PB of external memory. (",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Efficiency and throughput claims are largely vendor-reported and vary by workload, utilization, and deployment conditions.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Major OEM Deals:",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Data center OEMs, workstation builders; collaborating with Supermicro, Dell, etc.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "); global OEM sampling in 2026.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "While tools like Retrieval-Augmented Generation (RAG) can provide supplemental knowledge, they fall short when it comes to creating deeply specialized AI models. This has led to a global shift toward building and deploying language models of varying sizes, tailored for specific use cases.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s",
+    "pass": 3
+   },
+   {
+    "quote": "OEM販売やパートナープラン、AIに関するご質問、お見積などはお気軽にお問い合わせください",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Kubernetes and Docker are widely used to deploy and manage inference services. They provide scalability, fault tolerance, and resource management across multiple nodes. This orchestration layer ensures that inference workloads remain stable and responsive under varying traffic loads.",
+    "url": "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Kyndryl will support a variety of customer use cases via its AI private cloud and plans to explore ways the environment can be optimized to enable efficient workload orchestration and workload placement, along with examining how it can enable fractional GPU capabilities to support more granular control over computing resources.",
+    "url": "https://www.kyndryl.com/us/en/about-us/news/2024/11/ai-private-cloud-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Generative AI offers significant productivity gains across various business functions from brainstorming and meeting minute generation to automated code creation. However, its adoption in sectors handling sensitive data has been limited due to concerns about data leakage, unintended AI learning, and compliance with internal regulations. Fujitsu's new platform directly addresses these challenges.",
+    "url": "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2025/0213-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "I want to learn more about how Esperanto supports workloads in a variety of industries.",
+    "url": "https://www.esperanto.ai/News/esperanto-technologies-introduces-first-generative-ai-appliance-based-on-risc-v/",
+    "pass": 3
+   },
+   {
+    "quote": "Venezuela (Bolivarian Republic of)",
+    "url": "https://www.esperanto.ai/News/esperanto-technologies-introduces-first-generative-ai-appliance-based-on-risc-v/",
+    "pass": 3
+   },
+   {
+    "quote": "variation",
+    "url": "https://www.cognizant.com/us/en/insights/insights-blog/japan-generative-ai-adoption",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Exchange",
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label DEX Software",
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Payment Gateway",
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Launchpad",
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label NFT Marketplace",
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Crypto Wallet",
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Fantasy Software",
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODMサービス",
+    "url": "https://premioinc.com/ja/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "Support",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan reference: JPY 3,806,400 excluding tax, one-time purchase",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan: delivery in 1–2 business days after dispatch",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "AI processing runs on the appliance without sending internal data to the internet, supporting work involving confidential or personal information.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan-market reference pricing is a one-time JPY 3,806,400 excluding tax, with no additional AI usage charges based on generation volume or usage.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The compact appliance supports local AI operation after setup. Initial OS setup needs temporary internet access and may take about one hour. Japan delivery is typically 1–2 business days after dispatch. Overseas availability, pricing, shipping, warranty and support require confirmation.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Delivery after dispatch within Japan; overseas timing requires confirmation",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "From arrival and initial setup to your first working application. The 1–2-business-day delivery example applies only to Japan after dispatch.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Network setup and ongoing maintenance: three connection patterns, warranty and support. Overseas service terms require confirmation.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Support starts before deployment",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan appliance reference is JPY 3,806,400 excluding tax, with no usage-based AI charges. Electricity and optional services are separate. Compare indicative three-year cloud costs using your own usage assumptions.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Support your internal approval",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "A free five-document Japanese kit includes an approval template with examples, ROI worksheet and comparison materials. Follow the setup guide to move from delivery to initial use.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Two-week free trial (Japan offer)",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Following application and screening, a time-limited trial environment is provided under the Japan offer. Evaluate suitability with appropriate sample materials. Overseas availability and handling of trial data require confirmation.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート情報",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Proxmox サポートフォーム",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, Large Language Models (LLMs) are increasingly being adopted across a wide range of industries. However, most current implementations depend on cloud-based LLMs, limiting their abilities to be truly customized for specific business fields.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "A range of preset language models is supported, including OpenAI GPT OSS, Alibaba Qwen, Swallow from Tokyo University of Science, and InfiniCloud’s fine-tuned models.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": ": a ready-to-use interface fully compatible with Japanese.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supports GPU cluster integration for future expansion: enables scalable learning performance.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "A lightweight module designed to extract and structure document knowledge. This toolkit supports Retrieval-Augmented Generation (RAG) with LangChain integration and facilitates data creation for fine-tuning. It will also be released as open source software under the Apache license.",
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Generative AI Market Share & Industry Report 2034",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Procurement & Supply Chain Support",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other Support Services",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Generative AI Market",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Generative AI Market Size, Share, Trends and Forecast by Offering Type, Technology Type, Application, and Region, 2026-2034",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Generative AI Market Size, Share, Trends & Forecast (2026-2034)",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan generative AI market size was valued at",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "during the forecast period 2026-2034. Rapid enterprise AI adoption, the government-led Society 5.0 initiative, expanding healthcare digitization, and growing demand for AI-driven content creation are driving the Japan generative AI market growth.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan generative AI market growth trajectory from 2020 through 2034 shows a steady acceleration powered by enterprise AI integration, healthcare digitization, and rising adoption across media and entertainment verticals.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Segment-level CAGR comparisons highlight Generative Adversarial Networks and image-based offerings as the fastest-growing sub-categories within the Japan generative AI market forecast through 2034.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan generative AI market is undergoing rapid transformation. Growth is driven by enterprise digitization, the government-backed Society 5.0 initiative, and rising demand for AI-driven content creation. Valued at USD 1,014.6 Million in 2025, the market is projected to reach USD 4,049.5 Million by 2034 at a CAGR of 16.63%.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan generative AI market",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Analytical Observations Supporting the Above Data:",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "reflects strong demand from Japan's anime, advertising, and gaming industries, where AI tools are streamlining concept art, character design, and marketing visuals.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "reflects Tokyo's role as the national AI epicenter, hosting more than 60% of Japan's AI-focused startups and a majority of corporate R&D centers.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The use of AI is becoming necessary to simultaneously address the two management challenges faced by Japanese companies in 2026: \"responding to labor shortages\" and \"achieving safe AI utilization.\"",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This solution can be evaluated as a \"recommended measure\" for Japanese companies and corporations in 2026 to advance the use of generative AI, and at the same time, an \"essential infrastructure\" for ensuring competitiveness, defensive strength, and accountability.",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While proceeding with minor verification and general business use flexibly in the cloud, operating highly confidential data, core business operations, and areas with heavy external accountability with on-premises appliances—this type of hybrid consideration that uses them differently according to purpose and risk is extremely realistic for Japanese corporations in 2026.",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本IBMにて新規事業開発を担当しております",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本IBM 新規事業チームブログ♪",
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "TOKYO, JAPAN - July 6, 2023 -",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "– High Japanese proficiency: Achieves top-class performance in the amount of knowledge and reading comprehension required for business operations – Lightweight: Compact model size and can run on a standard GPU server",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A named Iternal partner with over 4,000 customers and Dell-reported up to 2.6x first-year ROI — a Dell-backed, services-supported path from pilot to production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprises wanting a Dell-backed, services-supported full-stack path from pilot to production at scale.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Supermicro AI Factory SuperClusters deliver exceptional density in 42U/48U/52U air- or liquid-cooled racks, integrating 72 NVIDIA B300 GPUs per rack and supporting NVIDIA HGX B300. Liquid-cooled 256-GPU (5 racks) and 768-GPU (9 racks) scalable units arrive cluster-level L12 tested before shipment. At COMPUTEX 2026 (June 1) Supermicro introduced DCBBS Blueprints for NVIDIA Vera Rubin NVL72.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "72 NVIDIA B300 GPUs (288 GB HBM3e each) per rack; supports NVIDIA HGX B300",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dell Pro Max GB300: up to 20 PFLOPS FP4, 748 GB coherent memory, supports up to 1T-param models",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GA on NVIDIA's reference design; supports RTX PRO 6000 / 4500 Blackwell Server Edition",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM.co offers a private LLM via cloud, on-prem, or a dedicated hardware appliance (the LLM Box), supporting air-gapped installations and offline AI agents. Teams start from open-source foundation models (LLaMA, Mistral, Mixtral) or bring their own, with RBAC, audit logging, and private model training. Its architecture is described as designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Several support air-gapped operation, including HPE Private Cloud AI (air-gapped config available now), Nutanix Enterprise AI, and LLM.co. For SCIF and classified use, Iternal's AirgapAI runs 100% locally with zero cloud transmission and is SCIF-approved and nuclear-facility-certified per Iternal. Dell and NVIDIA are also co-engineering an air-gapped solution for federal customers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Support & Recycling",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "RMA-Service & Support",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": ", each level supports a variety of models and types, from the use of pre-trained models to intensive LLM training. The systems have AI acceleration functions, various",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Camera Support",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Eurotech is already using this technology to support its sales staff with a knowledge-based co-pilot with access to the internal knowledge database. The solution leverages",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Built for scalable industrial AI deployments, from compact edge workloads to high-performance computing, with FHFL GPU expansion, next-gen PCIe support, and wall-mount options.",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": "SoftBank Corp. is one of Japan's largest telecommunications and technology conglomerates, headquartered in Tokyo. Through its SB Intuitions subsidiary, the group is investing heavily in domestic foundation models and generative AI applications, with deep ties to enterprise customers and research institutions.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "NEC Corporation is a leading Japanese information technology and electronics company headquartered in Tokyo. Founded in 1899, NEC operates across IT services, network solutions, and AI platforms with a strong public-sector and enterprise customer base.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fujitsu is a global Japanese information and communication technology company headquartered in Tokyo. Founded in 1935, Fujitsu operates across cloud, AI, and digital transformation services with a presence in more than 100 countries.",
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "ARM®-Based Industrial Computers",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "after its initial September 2024 filing was delayed by CFIUS review of its relationship with UAE-based investor G42 (",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "– Untether focused on RISC-V-based inference chips for edge and data-center use. Its",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "– Founded in 2023, Positron builds inference accelerators and has rapidly achieved unicorn status. Its first product,",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "). This shows enterprises continue to invest massively in NVIDIA-based inference. However, competition is intensifying: AMD has secured OpenAI as a major customer, Chinese chipmakers (Huawei, Cambricon) continue reacting to US export limits, and hyperscalers (Google, Microsoft) are deploying custom silicon.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "is an AI software development company specializing in helping life-science companies implement and leverage artificial intelligence solutions. Founded in 2023 by",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "and based in San Jose, California. This document does not constitute professional or legal advice. For specific guidance related to your business needs, please consult with appropriate qualified professionals.",
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Israel - English",
+    "url": "https://www.kyndryl.com/us/en/about-us/news/2024/11/ai-private-cloud-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Israel",
+    "url": "https://www.esperanto.ai/News/esperanto-technologies-introduces-first-generative-ai-appliance-based-on-risc-v/",
+    "pass": 3
+   },
+   {
+    "quote": "Sakana AI was co-founded in Tokyo in 2023 by two former Google AI researchers and an executive with e-commerce and AI experience, and became Japan’s most valuable AI startup after a 135 million dollar round, reaching unicorn status within roughly a year. Its investors include Nvidia, Khosla Ventures, NEC, Fujitsu and ITOCHU, and it received early GPU support through GENIAC.",
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "pass": 3
+   }
+  ],
+  "認証（ISO等）": [
+   {
+    "quote": "8x8 Earns Microsoft Certification to Simplify Global Calling with 8x8 Voice for Microsoft Teams",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "A cloud communications provider with Microsoft-certified session border ...",
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "pass": 3
+   },
+   {
+    "quote": "Runs on certified Cisco, Dell, Fujitsu, HPE, Lenovo and NX hardware",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "100% local, air-gapped inference (AirgapAI) — no network required; SCIF-approved and nuclear-facility-certified per Iternal",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A software stack you pair with certified hardware rather than a single shipped box",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM.co offers a private LLM via cloud, on-prem, or a dedicated hardware appliance (the LLM Box), supporting air-gapped installations and offline AI agents. Teams start from open-source foundation models (LLaMA, Mistral, Mixtral) or bring their own, with RBAC, audit logging, and private model training. Its architecture is described as designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Architecture designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance is framed as designed to meet standards rather than independently certified",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI runs entirely on-prem with zero cloud transmission and no network required. Per Iternal, it is SCIF-approved and nuclear-facility-certified, serving defense, federal, healthcare, financial, and legal organizations.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "SCIF & nuclear certified",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI is SCIF-approved and nuclear-facility-certified per Iternal, meeting the strictest air-gapped security requirements.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal deployment certifications",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Several support air-gapped operation, including HPE Private Cloud AI (air-gapped config available now), Nutanix Enterprise AI, and LLM.co. For SCIF and classified use, Iternal's AirgapAI runs 100% locally with zero cloud transmission and is SCIF-approved and nuclear-facility-certified per Iternal. Dell and NVIDIA are also co-engineering an air-gapped solution for federal customers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Radios",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Road Vehicle Certified, E-Mark",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Certified",
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mobility • Autonomy • Certifications",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications (UL/Medical)",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications (Rugged)",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2, GDPR & security posture",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Is it SOC 2 / GDPR compliant?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Dell-manufactured, Google-certified hardware appliance",
+    "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+    "pass": 3
+   },
+   {
+    "quote": "A certified partner runs the infrastructure & operations",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "ISO-certified data centers",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": ", but a certified partner can",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/hardware",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/hardware",
+    "pass": 3
+   },
+   {
+    "quote": ": Align with NIST, HIPAA, FedRAMP, and internal IT policies",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy LLMs in your VPC or on-prem with built-in RBAC, encrypted communication, and SOC2-compliant practices. No model or prompt data ever leaves your infrastructure.",
+    "url": "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications",
+    "url": "https://www.kyndryl.com/us/en/about-us/news/2024/11/ai-private-cloud-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "UL安全規格およびIEC 62443-4-1サイバーセキュリティ認証を取得するため、厳格な試験と検証を実施しました",
+    "url": "https://premioinc.com/ja/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "IEC 62443-4-1",
+    "url": "https://premioinc.com/ja/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai Is Now ISO-27001 Certified - 2501.ai",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai Is Now ISO-27001 Certified",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai is now ISO-27001 certified, reinforcing our commitment to enterprise-grade AI automation for secure IT operations.",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai has achieved ISO/IEC 27001 certification",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": ", the global standard for information security management systems (ISMS). This is a major step forward in our mission to deliver",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": ". ISO-27001 certification formalizes what our clients already expect from us:",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise readiness for SOC2, SecNumCloud, and beyond",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "What’s Covered in the Certification",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "The certification applies to our full agentic stack:",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "Built for Enterprise — Certified for Enterprise",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "SOC2, ISO, or SecNumCloud-constrained environments",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "providing information on mechanisms to prevent infringement, etc.",
+    "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "information on mechanisms in the generative AI system to prevent infringement,",
+    "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ジェネラティブエージェンツISO認証取得",
+    "url": "https://www.generatived.com/news/generative-agents-iso-certified",
+    "pass": 3
+   },
+   {
+    "quote": "ジェネラティブエージェンツ（東京都港区）は、2025年5月19日に国際規格「ISO/IEC 27001:2022」（JIS Q 27001:2023）の認証を取得したと発表した",
+    "url": "https://www.generatived.com/news/generative-agents-iso-certified",
+    "pass": 3
+   },
+   {
+    "quote": "取得したISMS認証は、同社の情報セキュリティ管理体制が国際標準に適合していることを証明するものである",
+    "url": "https://www.generatived.com/news/generative-agents-iso-certified",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役は西見公宏氏で、今回の認証取得をステップとして、AI技術の社会実装と企業のDX推進に貢献していく方針だ",
+    "url": "https://www.generatived.com/news/generative-agents-iso-certified",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and ... — Qualcomm Launches On-Prem AI Appliance Solution and ... Qualcomm https://www.qualcomm.com > ... > 01",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business 2026 — Best Turnkey AI Servers & AI Appliances for Business 2026 Iternal AI https://iternal.ai > best-private-ai-appli...",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware - The Go1™ Family of On-Prem AI Appliances - Go. AI — Hardware - The Go1™ Family of On-Prem AI Appliances - Go. AI go.ai https://go.ai > hardware",
+    "url": "https://go.ai/hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Kyndryl unveils dedicated AI private cloud in Japan to ... — Kyndryl unveils dedicated AI private cloud in Japan to ... Kyndryl https://www.kyndryl.com > 2024/11",
+    "url": "https://www.kyndryl.com/us/en/about-us/news/2024/11/ai-private-cloud-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "2026年オンプレミス 生成AI 完全ガイド | セキュアで戦略的なAI ... — 2026年オンプレミス 生成AI 完全ガイド | セキュアで戦略的なAI ... はてなベース株式会社 https://hatenabase.jp > ブログ",
+    "url": "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミスLLMワークロード向け1Uエッジ AI サーバー — オンプレミスLLMワークロード向け1Uエッジ AI サーバー Premio, Inc. https://premioinc.com > collections > llm-1u-rpl-series-ed...",
+    "url": "https://premioinc.com/ja/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://sovereign.gaixer.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/mlops/comments/1fe5i82/how_to_get_started_with_building_an_on_premises/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lannerinc.com/news-and-events/latest-news/power-gen-ai-on-premises-edge-ai-systems-for-secure-and-local-llm-inference",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://llmappliance.com/platform-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zylon.ai/deployment-options",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/technology/japan-startup-preferred-networks-designs-own-ai-chips-beat-bottleneck-2023-12-20/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.edgecortix.com/en/thank-you/japanese-startup-takes-on-generative-ai-at-the-edge-achieving-60tops-ai-processing-performance-at-8w",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://global.fujitsu/en-global/pr/news/2026/01/26-02",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kyndryl.com/us/en/about-us/news/2024/11/ai-private-cloud-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/ajw/articles/15389841",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2025/0213-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esperanto.ai/News/esperanto-technologies-introduces-first-generative-ai-appliance-based-on-risc-v/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.sharp/corporate/news/260915-a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognizant.com/us/en/insights/insights-blog/japan-generative-ai-adoption",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2022/dd65fb43c57068b7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-market-watch.com/news/on-premise-generative-ai-product-edgellm-launches-in-japan-from-98-million-with--2o86mt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eu-japan.eu/een/jp-profile/jp-ai-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.rakuten.com/corp/news/press/2026/0317_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tfsfventures.com/blog/best-ai-agent-deployment-companies-for-manufacturing-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpn.nec.com/gpu/cotomi/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/en/archives/27479/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnp.co.jp/biz/products/detail/20177512_4986.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/media/9942/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://premioinc.com/ja/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.npa.go.jp/policies/budget/yosanjouhou/itakutyousa/seiseiaijiltusyoujiltukenn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nttpc.co.jp/gpu/article/knowledge36_local_llm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://third-news.com/article/c734d5e8-724a-11f0-be2b-9ca3ba0a67df",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.generatived.com/news/athena-announces-iso/iec-27001-certification",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.generatived.com/news/generative-agents-iso-certified",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doraverse.com/resource/blog/doraverse-achieves-iso-iec-27001-2022-certification",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Japanese on-premise generative AI appliance",
+   "results": [
+    "https://sovereign.gaixer.com/en/",
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "https://www.imarcgroup.com/japan-generative-ai-market",
+    "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "https://www.reddit.com/r/mlops/comments/1fe5i82/how_to_get_started_with_building_an_on_premises/",
+    "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://jpn.nec.com/gpu/cotomi/index.html"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance on-premise LLM appliance company",
+   "results": [
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "https://www.inonet.com/generative-ai-server/?lang=en",
+    "https://www.reddit.com/r/mlops/comments/1fe5i82/how_to_get_started_with_building_an_on_premises/",
+    "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "https://www.lannerinc.com/news-and-events/latest-news/power-gen-ai-on-premises-edge-ai-systems-for-secure-and-local-llm-inference",
+    "https://llmappliance.com/platform-overview.html"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance air-gapped AI box price",
+   "results": [
+    "https://understand.tech/product/ai-in-a-box",
+    "https://go.ai/technology/edge-ai-hardware",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+    "https://www.zylon.ai/deployment-options",
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://www.logzilla.ai/blogs/air-gapped-ai-networks",
+    "https://heypinchy.com/air-gapped-llm-hardware/",
+    "https://www.ai-market-watch.com/news/on-premise-generative-ai-product-edgellm-launches-in-japan-from-98-million-with--2o86mt"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance startup raises on-prem AI hardware",
+   "results": [
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://go.ai/hardware",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.linkedin.com/posts/rorymack_a-two-month-old-ai-startup-just-raised-475m-activity-7404145134113546240-HzRV",
+    "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "https://www.reuters.com/technology/japan-startup-preferred-networks-designs-own-ai-chips-beat-bottleneck-2023-12-20/",
+    "https://www.facebook.com/nikkeiasia/posts/japans-sakana-ai-to-build-homegrown-model-to-cut-us-china-reliance/1544236407739619/",
+    "https://www.edgecortix.com/en/thank-you/japanese-startup-takes-on-generative-ai-at-the-edge-achieving-60tops-ai-processing-performance-at-8w",
+    "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance white label OEM reseller",
+   "results": [
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "https://global.fujitsu/en-global/pr/news/2026/01/26-02",
+    "https://www.kyndryl.com/us/en/about-us/news/2024/11/ai-private-cloud-in-japan",
+    "https://www.edgecortix.com/en/thank-you/japanese-startup-takes-on-generative-ai-at-the-edge-achieving-60tops-ai-processing-performance-at-8w",
+    "https://www.asahi.com/ajw/articles/15389841",
+    "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "https://onebot.cloud/blog/ai-chatbot-oem-white-label-japan-agencies"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance Israel",
+   "results": [
+    "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0213-01.html",
+    "https://www.esperanto.ai/News/esperanto-technologies-introduces-first-generative-ai-appliance-based-on-risc-v/",
+    "https://global.sharp/corporate/news/260915-a.html",
+    "https://www.facebook.com/IsraeliPM/posts/israel-has-joined-the-pax-silica-initiative-a-strategic-move-led-by-the-united-s/1388016049355187/",
+    "https://www.youtube.com/watch?v=faJgWWiwXSA",
+    "https://www.cognizant.com/us/en/insights/insights-blog/japan-generative-ai-adoption",
+    "https://www.jetro.go.jp/en/invest/newsroom/2022/dd65fb43c57068b7.html",
+    "https://www.inonet.com/generative-ai-server/?lang=en",
+    "https://sovereign.gaixer.com/en/"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance Japan distributor",
+   "results": [
+    "https://www.imarcgroup.com/japan-generative-ai-market",
+    "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "https://www.eu-japan.eu/een/jp-profile/jp-ai-technology",
+    "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "https://global.rakuten.com/corp/news/press/2026/0317_01.html",
+    "https://www.tfsfventures.com/blog/best-ai-agent-deployment-companies-for-manufacturing-in-japan",
+    "https://sovereign.gaixer.com/en/"
+   ]
+  },
+  {
+   "query": "日本のオンプレ生成AI端末",
+   "results": [
+    "https://www.dnp.co.jp/biz/products/detail/20177512_4986.html",
+    "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "https://japan-ai.co.jp/media/9942/",
+    "https://premioinc.com/ja/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "https://www.npa.go.jp/policies/budget/yosanjouhou/itakutyousa/seiseiaijiltusyoujiltukenn.pdf",
+    "https://www.nttpc.co.jp/gpu/article/knowledge36_local_llm.html",
+    "https://community.hpe.com/t5/hpe-blog-japan/hpe-ai-japan-%E7%94%9F%E6%88%90ai%E3%81%AE%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91%E3%81%A8%E3%82%AA%E3%83%B3%E3%83%97%E3%83%ACllm%E3%81%AE%E5%BF%85%E8%A6%81%E6%80%A7/ba-p/7216946",
+    "https://jp.ricoh.com/release/2025/0407_1",
+    "https://openhub.ntt.com/journal/16445.html",
+    "https://jp.ext.hp.com/techdevice/ai/ai_explained_39/"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance ISO 27001 certified",
+   "results": [
+    "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "https://www.2501.ai/news/2501-iso-27001",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://global.sharp/corporate/news/260915-a.html",
+    "https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0213-01.html",
+    "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "https://www.inonet.com/generative-ai-server/?lang=en",
+    "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+    "https://third-news.com/article/c734d5e8-724a-11f0-be2b-9ca3ba0a67df"
+   ]
+  }
+ ],
+ "missing": {}
+}

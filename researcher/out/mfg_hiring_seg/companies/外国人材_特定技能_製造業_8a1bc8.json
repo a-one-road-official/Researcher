@@ -1,0 +1,2213 @@
+{
+ "name": "外国人材（特定技能・製造業）",
+ "en": "specified skilled worker manufacturing hiring cost Japan",
+ "aliases": [
+  "特定技能 製造業 費用",
+  "技能実習 製造 費用"
+ ],
+ "context": "職種",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:00:06.720979+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "単価 外国人材(特定技能製造業) 規模別の求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材(特定技能製造業) 単価 規模別",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "同社が展開する「TELUSDigital」では、100万人以上のコントリビューターが参加するグローバルAIコミュニティを運営",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・製造業",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材の受け入れ事例｜業種別の課題と成果",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別ガイド",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人従業員の入社後に発生する主なコストとして、まず",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "外国人従業員が職場に馴染み、パフォーマンスを発揮するためには日本語能力の向上支援と定着支援が不可欠です",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "約0.3〜6.0%（業種別）",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪の自動化装置メーカー（従業員36名）は、ハノイ工科大学の学生を1か月受け入れる「体験シップ」を実施しました",
+    "url": "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "【外国人従業員の採用コストに関する実態調査】採用方法や採用費用、採用後の成果について | 外国人採用の窓口",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "【外国人従業員の採用コストに関する実態調査】採用方法や採用費用、採用後の成果について",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人従業員の採用コストに関する実態調査",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：外国人従業員の採用コストに関する実態調査（https://gaikokusaiyo.com/2025/03/24/27138/）／外国人採用の窓口調べ（https://gaikokusaiyo.com/）",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人を含む従業員の職業訓練",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別資料ダウンロード",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/foreign-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "スタッフ満足は、助成金・補助金活用後の紹介料・登録支援費の実額を業種別に試算した資料をご用意しています",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/foreign-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "すでに外国人を雇用しており、その従業員から紹介を受ける場合などは、求職者を見つけるための費用を抑えることが可能です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/foreign-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "中途 外国人材(特定技能製造業) 従業員規模別 状況調査の求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材(特定技能製造業) 中途 状況調査 従業員規模別",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "[歓迎] ・同領域でのマネジメント経験 →係長以上の場合、プレイングマネージャー的な動きを求めています 【求める人物像】 ”GIVE JOY”の精神をお持ちの方 →お客さまであれ従業員であれ社外の方であれ、「今・目の前にいる人」を喜ばせる精神をもち、喜ばせるために行動することができる人 【フィットする人物像】 応募資格をご覧下さい",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "以上、かつ、外国人労働者１人以上を雇用している事業所を母集団として、産業、事業所",
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模及び外国人労働者規模別に層化して無作為に抽出した8,877事業所",
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外国人労働者（雇用保険被保険者数５人以上事業所）は約182万人（令和５年 約160万人）",
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）企業規模別・在留資格別の雇用状況",
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次に、企業規模別に外国人労働者数をみると、1,000人以上規模で約49万人（令和５年 約39",
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のでは1,000人以上規模、技能実習では５～29人規模が最も多くなっている",
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【第２表 企業規模別・在留資格別外国人常用労働者数】",
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 486,578 149,219 71,314 46,681 8,945 55,751 57,516 170,992 110,568 37,196 53,100",
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員や知人に紹介",
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【第11表 外国人労働者の国籍・地域別構成比】",
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3. 業種別に見る外国人従業員比率の違い",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "業種別に見ると外食や小売、介護の割合が高く、現場での人材不足感が強い業界ほど、採用活動が活発化している様子がうかがえます",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別の関与割合は以下のとおりです",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "外食業では外国人従業員比率が2割超の企業も、他業種との差が鮮明に",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "勤務先における外国人従業員の比率は、「2～5%」が共通して多いものの、2番目以降の比率については、業種によって顕著な開きがありました",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "特に自動車運送業では「～1%」の割合が、外食業では従業員の「21%以上」が外国人であると回答した企業の割合が高く、他業種との差が鮮明となっています",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の上位2つの採用手法は以下の結果となりました",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動における利用媒体（業種別）1位・2位",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模による違いも顕著です",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数が300名以下の中小企業では求人サイトやハローワークへの依存度が高いのに対し、従業員数が300名を超える企業では、人材紹介会社や自社採用サイト、SNSなど、多岐にわたるチャネルを併用しています",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の特徴を見ると、小売業や宿泊業などでは「ビザ及び労働許可の手続き（在留資格など）」を課題視する声も目立ちます",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "また、約3割の企業は、従業員との人間関係の構築や、日本の生活習慣への適応に不安を感じています",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "外国人雇用の現状から採用目的、今後の採用計画、さらには定着・育成における課題など、業種別・企業規模別・エリア別他、多角的な調査を実施しました",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "参考1 外国人労働者雇用事業所数（事業所規模別） 参考2 外国人労働者数",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500人以上",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50人以上1～19人",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～アンケートに回答した企業のうち、外国人従業員が「いる」と回答した企業の割合は17.9％～",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ アンケートに回答した企業のうち、派遣社員を含む外国人従業員（特別永住者を除く）が「いる」と回答した企業（以下、「外国",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 外国人雇用企業の割合を業種別にみると、「宿泊業」が52.0％と最も高く、次いで「農林漁業」が35.9％、「製造業」が31.8％と",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「小売業」「サービス業」「医療・福祉」「不動産業」などでは、外国人従業員が「いない」企業（以下、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－1 外国人雇用企業の割合 表 外国人雇用企業の割合（業種別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－2 外国人雇用企業の割合（従業者規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1 外国人従業員（特別永住者を除く）は、経営者を除く役員、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 調査時点において外国人従業員が「いる」企業を外国人雇用",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～外国人雇用企業1社当たりの外国人従業員数は平均8.0人～",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 外国人雇用企業における外国人従業員数の分布をみると、「1～4人」が55.6％と最も高く、「5～9人」が23.0％、「10～19人」が",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外国人従業員の平均人数は8.0人だった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－3 初めて外国人を採用した年 図－4 外国人従業員数の分布",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社の採用・人員計画に関わっている現場責任部門、人事・総務部門の従業員ないし経営者",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "年収900万円〜1,049万円",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収600万円〜999万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円〜749万円",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収450万円〜649万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給26万円〜33万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収364万円〜448万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "海外人材の人材紹介 ／ 特定技能営業 ／7期目で売上100億円目前！会社と共に成長できる環境／成長市場である外国籍人材を活用した人材コンサル／月給30万円以上／土日祝休み／転勤なし／東京",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収600万円〜900万円 / 昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "外国人HR（特定技能）支援担当（マネージャー候補）600万円～事業立ち上げに参画124休日",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収600万円〜1,000万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "ＸＭｉｌｅ株式会社 外国人HR（特定技能）支援担当（マネージャー候補）◆600万円～◆事業立ち上げに参画◆124休日 【仕事内容】 外国人HR（特定技能）支援担当（マネージャー候補）◆600万円～◆事業立ち上げに参画◆124休日 【具体的な仕事内容】 ～特定技能社員の受け入れ体制構築、来日に向けた教育・研修サポートの充実化など～ 【事業内容】 当社(当社)はノンデスク産業の社会的課題を「HR」と「IT」の2つのアプローチで解決しています",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜30万円",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円〜37万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "干物定食の店舗管理スタッフ／昇格後のMAX月給80万円・オープニング",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給45万円〜50万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり初期50〜80万円・月額コストの内訳から、繁閑差への対応、愛知・東海の自動車関連サプライヤー向けの費用最適化まで、採用担当者が知っておくべき費用感を整理します",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり50〜80万円",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能・育成就労は直接雇用となるため、初期費用はかかるものの、長期的には1人あたりコストを抑えやすくなります",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "20〜70万円",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "月額委託料2〜3万円/人＋人件費",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "50〜80万円",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "監理費3〜4万円/人＋人件費",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "10〜25万円",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "10〜20万円",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "5〜15万円",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "海外新規採用1人あたり（国内切替は圧縮可）",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "2〜3万円/人",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "3〜4万円/人",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1〜3万円/人",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説 – 【特定技能の人材紹介】株式会社JLBC｜外食・食品製造業専門・最短5日で即戦力人材をご紹介します",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 特定技能外国人採用コストの全体像",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度現在、円安の影響や賃金上昇に伴い、外国人材の採用コストも変化の兆しを見せています",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、国内在住者を採用する場合の初期費用目安は30万円〜60万円程度、海外から新規に入国させる場合は50万円〜100万円程度が相場とされています（2025年 人材紹介各社公表値参照）",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "に委託する場合、外国人1人あたり月額2万円〜3万円程度の",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、年収350万円で採用する場合、手数料は70万円〜105万円となります",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、固定報酬型の場合は、1人あたり30万円〜60万円程度が相場です",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "は行政書士に依頼する場合10万円〜20万円程度",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "行政書士に依頼する場合の相場は、新規または変更申請で1名あたり10万円〜20万円程度です",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "への委託費相場は月額2万円〜3万円が主流",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 外国人採用コストを抑えるポイント",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "では、申請印紙代（4,000円）と行政書士費用（5〜15万円程度）が発生します",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "初年度トータルで150〜200万円を超えることもあります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、年収400万円ほどの一般職であれば、相場である30％～35%が標準的です",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "45%に達するような高い料率は、年収800万円クラスのエグゼクティブや極めて希少価値の高い職種で発生するため、一般的な採用であれば120万〜140万円の範囲に収まるのが目安となります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "技能実習・特定技能：送出機関費用・登録支援機関費用（月2〜5万円）など",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "では、海外の送出機関への費用が1人あたり",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "50〜100万円程度",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "月3〜5万円程度",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "月2〜5万円程度",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "3万〜15万円程度",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "渡航費・滞在費（20〜50万円程度）",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "、現地就職フェア参加費（数万〜数十万円）、来日時の渡航費・引越し補助（10〜30万円程度）が加わります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "初めての受け入れ時で1人あたり30〜50時間程度",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能人材の採用費用・相場を比較｜紹介料・初期費用・月額支援費【2026年版】",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能人材1名の採用・支援にかかる初年度費用は、国内採用でおおむね60万〜90万円、海外採用で80万〜130万円が目安です",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "登録支援機関への支援委託費については、出入国在留管理庁の調査で1人あたり月額平均28,386円となっています",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "全体の約9割が月額3万円以下です",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "20万〜50万円前後／人",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "数万円〜20万円前後",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "【応募資格】 [必須] ・法人営業経験（3年以上目安） ・以下のいずれかのご経験をお持ちの方 人材紹介・派遣業界での法人営業経験 外国人技能実習生、または特定技能外国人の受入・監理・支援業務の経験 登録支援機関での実務経験 [歓迎] ・新規事業の立ち上げ経験 ・ビジネスレベルの英語力、またはその他外国語スキル（必須ではありません） ・行政書士資格や、入管法に関する深い知識 【フィットする人物像】 ・0→1（ゼロイチ）の事業フェーズを楽しみ、主体的に動ける方 ・法律や制度の変更をキャッチアップし、正確な知識で顧客をリードできる方 ・外国人求職者の人生と、企業の未来の双方に誠実に向き合える方",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] 【必須】 ・特定技能、外国人材紹介、登録支援機関、人材紹介・派遣業界等での法人営業経験（3年以上） ・受入企業への新規開拓、および求人案件（特に外国人材・特定技能求人）の獲得実績 ・企業に対して外国人材活用の制度説明から採用提案までを一人で完結できるスキル ・自身の目標を追いながら、後輩の同行支援や営業プロセスの型化など、チームの底上げに関わってきた経験（役職不問） 【尚可】 ・介護、外食、宿泊、飲食料品製造、ビルクリーニング、製造、建設、農業などの重点業界に対する深耕営業の経験 ・営業戦略の立案、受注率向上のためのKPI管理、数値目標から逆算した行動プロセスの設計経",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "八丁堀／人材紹介の法人営業飲食・サービス業界メイン／特定技能外国人紹介／土日祝休み／クックビズG",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "ワールドインワーカー株式会社 【八丁堀】人材紹介の法人営業◆飲食・サービス業界メイン／特定技能外国人紹介／土日祝休み／クックビズG 【仕事内容】 【八丁堀】人材紹介の法人営業◆飲食・サービス業界メイン／特定技能外国人紹介／土日祝休み／クックビズG 【具体的な仕事内容】 ＜飲食特化の人材サービス「クックビズ」のグループ会社として特定技能外国人人材紹介業・登録支援機関業を展開／英語等の多言語スキルは不要＞ ■募集概要： 飲食・サービス業界を中心に、採用支援や人材紹介を行う法人営業をお任せします",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "海外人材の人材紹介 ／ 特定技能営業 ／7期目で売上100億円目前！会社と共に成長できる環境／成長市場である外国籍人材を活用した人材コンサル／月給30万円以上／土日祝休み／転勤なし／東京",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "シフトのご相談はお気軽にどうぞ！ ・《子育てママさん活躍中》 家事・子育てと両立しながら働く 主婦パートさんも多数！ お休み調整可能だから、 家族旅行・お子様の学校行事など、 大切な予定を優先できますよ 久々のお仕事復帰も大歓迎です！ ・《未経験スタート応援》 飲食店で",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "外国籍人材紹介事業の営業",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "《年休125日以上》外国籍人材の活躍を支える、社会貢献性の高い営業職！ 企業と外国籍人材をつなぐ、人材紹介営業のお仕事です！ ◇ 具体的には？ ◇ ︎ 企業の採用課題や事業内容、求める人材像をヒアリング ︎ 特定技能外国人雇用に向けた提案営業 ︎ 現地送出し機関との調整や、面接対応 ︎ 採用・入社手続き、生活支援に関する契約締結 ︎ 入社後のアフターフォロー 人手不足の課題を抱える企業に対して、外国人雇用に関する提案営業を行います",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "CBC自動車学校",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説 – 【特定技能の人材紹介】株式会社JLBC｜外食・食品製造業専門・最短5日で即戦力人材をご紹介します",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、国内在住者を採用する場合の初期費用目安は30万円〜60万円程度、海外から新規に入国させる場合は50万円〜100万円程度が相場とされています（2025年 人材紹介各社公表値参照）",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社によって返金規定やサポート範囲が異なる",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能人材を採用する際、多くの企業が民間の人材紹介会社を利用します",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークや自社サイト活用で紹介料をカットする",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社経由だけでなく、ハローワークや自社Webサイト、SNSを活用した「ダイレクトリクルーティング」を行えば、高額な",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、すでに日本国内にいる技能実習生からの切り替え採用（特定技能への移行）を狙う場合、求人媒体への掲載や知人紹介（リファラル採用）を活用することで、初期費用を数万円〜十数万円程度に抑えられるケースもあります",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 多くの人材紹介会社では「返金規定（リファンド条項）」を設けています",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介大手が提供する、特定技能採用にかかる費用の内訳と相場についての解説記事です",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "「自社サイトからの問い合わせが増えない」「広告やSEO効果が実感できない」などの課題を解決します",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "では、人材紹介会社への紹介手数料（年収の15〜40%）、求人媒体への掲載費用、海外現地採用の渡航費などが主なコストです",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社を活用して就労ビザの人材を採用する場合、紹介手数料・ビザ申請・定着支援を合わせると",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社（エージェント）利用：紹介手数料は年収の15〜40%が相場",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社は成功報酬型が一般的で、採用が決まった場合にのみ費用が発生します",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "（出典：一般社団法人 日本人材紹介事業協会の業界慣行）",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体（Indeed等）・直接採用の費用目安",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "在日外国人や留学生を採用する場合、Indeed・外国人向け求人サイト（Jobs in Japan、GaijinPot Jobs など）の活用が有効です",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "Indeedは基本掲載無料で、クリック課金型の有料掲載は1クリック",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介を利用した場合は紹介手数料（年収の15〜40%）が主なコストとなり、年収400万円の人材では60〜120万円程度かかります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. 求人媒体と人材紹介会社、どちらを使うとコストを抑えられますか？",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "ただし人材紹介会社は成功報酬型のため、採用が成立しなければ費用はゼロです",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介の場合は年収の15〜30%（高需要職種では25〜45%）の紹介手数料が主なコストで、ビザ申請・定着支援を加えると初年度100〜200万円前後になるケースもあります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介料や在留資格関連費用に加え、登録支援機関への月額支援費を12か月分含めて比較しましょう",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、人材紹介会社を利用する場合は紹介手数料が必要です",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介費に加えて、国によっては現地の送り出し機関や政府手続きへの対応が必要です",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社への成功報酬",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社を利用する",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介から在留資格手続きの連携、入社後支援まで一括対応する会社もあります",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介料だけで採用できますか？",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "を活用した外国人採用には、人材紹介手数料、ビザ申請費用、登録支援機関への委託料、渡航費用など複数の費用項目が発生します",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介手数料・ビザ申請・登録支援機関の費用比較",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介手数料の相場",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介手数料",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介手数料と登録支援機関の委託料",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能外国人の人材紹介手数料は、",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人（人材紹介）",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人の人材紹介よりも低コスト",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介手数料が最も大きな費用項目であるため、",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介、ビザ申請、登録支援をそれぞれ別の業者に依頼すると、各社のマージンが積み上がり、",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介手数料・渡航費用を大幅に節約",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、登録支援機関としての支援体制に加え、人材紹介から入社後の定着サポートまでを一体型で提供しております",
+    "url": "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費のみ",
+    "url": "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介サービス一覧",
+    "url": "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告アイデム",
+    "url": "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人の採用方法は「求人広告・求人サイト」と「人材紹介会社」が主流",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1名あたりの採用コストが50万円未満の企業が約5割だが、人材紹介会社の手数料がやや高いと感じる企業も一定数みられた",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "技能実習生・特定技能外国人など始めとする「外国人雇用を検討する会社」と、監理団体・登録支援機関・外国人材紹介会社など「外国人材を紹介する会社・団体」をつなげるBtoBマッチングサービス「外国人採用の窓口」を展開する株式会社アルフォース・ワン（本社：東京都葛飾区 代表者：山根 謙生、以下当社）では、「外国人労働者雇用」に関するWebアンケート調査を実施しました",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人の主な採用方法別にみると、『求人広告・求人サイト』、『公的機関（ハローワーク・外国人雇用センターなど）』、『リファラル（縁故）』は「50万円未満」の割合が高く、1名あたりの採用コストが低くなることがうかがえます",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "『人材紹介会社』は「50～100万円」の割合が高くなっています",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "※『求人広告・求人サイト』と『人材紹介会社』",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "全体では「人材紹介会社（監理団体含む）への手数料・初期費用(45.0%）」が最も高く、次いで「求人広告掲載費用（30.0%）」、「在留資格などの各種申請費用（行政書士依頼費用）(12.0%)」",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "◢◤仕事内容◢◤ 介護、建設、製造業など、人手不足が顕著な業界の企業様に対し、「特定技能制度」を活用した外国人人材のご提案を行う法人営業です",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "《年休125日以上》外国籍人材の活躍を支える、社会貢献性の高い営業職！ 企業と外国籍人材をつなぐ、人材紹介営業のお仕事です！ ◇ 具体的には？ ◇ ︎ 企業の採用課題や事業内容、求める人材像をヒアリング ︎ 特定技能外国人雇用に向けた提案営業 ︎ 現地送出し機関との調整や、面接対応 ︎ 採用・入社手続き、生活支援に関する契約締結 ︎ 入社後のアフターフォロー 人手不足の課題を抱える企業に対して、外国人雇用に関する提案営業を行います",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が深刻化する中で、即戦力となる",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "決して安い金額ではありませんが、慢性的な人手不足による機会損失や、既存社員の疲弊を防ぐための「必要な投資」と考えれば、その価値は十分にあります",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "最長5年間の在留が可能で、飲食、建設、介護など人手不足の特定産業分野で認められています",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、外食・飲食、食品、製造業における「特定技能／外国人採用／人手不足対策」について一般的な情報提供を目的として作成されたものであり、法的・税務的・労務的・入管手続き上の助言を行うものではありません",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の職種で採用母集団を広げられる",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を外国人採用で解決",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化による人手不足が深刻化する中、",
+    "url": "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "・工場現場での慢性的な人手不足",
+    "url": "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の現場では、慢性的な人手不足を背景に、外国人材の採用がますます重要になっています",
+    "url": "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "年の「人手不足倒産」は10月時点で287件にのぼり、過去最多だった2023年の通年（260件）を既に上回り、2年連続の過去最多を記録した",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "とあり、人手不足が深刻化していることが客観的にもわかります",
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解決",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業・製造スタッフなどの人手不足職",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の業界が外国人を雇用できる制度",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "主なメリットは人手不足の解消、海外展開時の戦力化、社内活性化の3点です",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、人手不足や採用コスト、採用スピードに課題を抱えていた企業が、実際にどのように採用を進め、現場にどんな変化があったのかを業種ごとに紹介します",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/foreign-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "大阪を中心に有料老人ホームを47施設運営する株式会社スーパー・コート様は、少子高齢化による人手不足にコロナ禍が重なり、限られた人員で介護と感染対策を両立する現場の負担に直面していました",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/foreign-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "このシステムで日本国内外に住む外国人材と日本の企業をつなぎ、累計3000名以上のベトナム、インドネシア、タイ、ミャンマー、バングラデシュ、ネパール等の人材採用に携わり、顧客企業の人手不足解決に貢献している",
+    "url": "https://www.jinzaiplus.jp/posts/5",
+    "pass": 3
+   },
+   {
+    "quote": "外国人の雇用は人手不足の解消にとどまらず、戦略的な採用という側面でも進んでいます",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "業種別に見ると外食や小売、介護の割合が高く、現場での人材不足感が強い業界ほど、採用活動が活発化している様子がうかがえます",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "これは、欠員が出た時のスポット対応としてではなく、組織計画に基づいた定期的な採用として位置づけられていることを示唆しています",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が深刻化する日本社会において、外国人材の活用は、今後ますます企業の存続と成長を左右する重要なテーマです",
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "pass": 3
+   },
+   {
+    "quote": "大阪の製造現場では人手不足が深刻化しており、特定技能外国人の受け入れを検討する企業が急増しています",
+    "url": "https://aidemglobal.jp/column/recruitment-know-how/osaka-manufacturing-specified-skilled-worker/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に悩む製造企業にとって、特定技能外国人の採用はすでに定着した選択肢の一つといえます",
+    "url": "https://aidemglobal.jp/column/recruitment-know-how/osaka-manufacturing-specified-skilled-worker/",
+    "pass": 3
+   },
+   {
+    "quote": "パート・アルバイトは「人手不足」「若い労働力確保」「採用コストダウン」「訪日外国人対応」",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技能実習生は「人手不足」「若い労働力確保」「海外事業展開」「人材コストダウン」などが上位",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2位 人手不足 35.9 2位 人手不足 26.8 2位 人手不足 20.1",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1位「優秀な人材の確保」、2位「人手不足」、3位「次世代リーダーの選抜・育成」",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の状況調査結果",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の状況を聴取した",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材雇用企業、雇用検討企業の人手不足感は非常に強い",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の状況（労働者過不足判断D.I ）",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パート・アルバイトは「人手不足」「若い労働力確保」「採用コストダウン」",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技能実習生の雇用理由は「人手不足」「若い労働力確保」「海外事業展開」「人材コストダウン」などが上位",
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能外国人材は、人手不足が深刻な産業で即戦力の働きが期待できる人材です",
+    "url": "https://onodera-user-run.co.jp/news/10026/",
+    "pass": 3
+   },
+   {
+    "quote": "もともと在留資格「特定技能」は、人手不足が顕著な特定産業分野において、即戦力の働きが見込まれる外国人人材を受入れるために、2019年4月に創設された制度です",
+    "url": "https://onodera-user-run.co.jp/news/10026/",
+    "pass": 3
+   },
+   {
+    "quote": "○ 深刻化する人手不足への対応として、生産性の向上や国内人材の確保のための取組を行ってもなお人材を確保することが",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 人手不足状況",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢人手不足状況の変化等への対応",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇分野所管行政機関の長は、特定産業分野における人手不足の状況について継続的に把握",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足状況に変化が生じたと認められる場合には、",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小・小規模事業者をはじめとした深刻化する人手不足に対応するため、生産性向上や国内人材の確保のための取",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢受入れの必要性(人手不足の状況を判断するための客観的指標を含む)",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "により、人手不足状",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "制度や情報の周知、法令遵守の啓発のほか、地域ごとの人手不足の状況を把握し、必要な対応等を行う",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 地域別の人手不足の状況の把握・分析",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 人手不足状況、受入れ状況等を踏まえた大都市圏等への集中回避に係る対応策の検討・調整（特定地域への過度",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、これらの制度を有効に活用し、より多くの中小企業が外国人材を積極的に受け入れ、人手不足の解消や企業の成長につなげていくことが期待される",
+    "url": "https://www.fmltd.co.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A4%96%E5%9B%BD%E4%BA%BA%E9%9B%87%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "企業の人手不足の打開策として、外国人労働者の受け入れが大きな課題に浮上している",
+    "url": "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業別では、農・林・漁・鉱業など労働集約型産業で増加が目立ち、深刻な人手不足を埋めている実態が透けて見える",
+    "url": "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "雇用理由は、「人手不足を補うため」が75.0％と最も多く、中小企業では76.8％に達した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "次いで、農・林・漁・鉱業が16.3％（49社中、8社）、建設業9.7％（931社中、91社）と続き、人手不足や技能需要が高い産業ほど外国人依存度が高い傾向が表れた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や国の受け入れ拡大策を背景に、大企業で増加意向がみられるが、中小企業は慎重な姿勢が続く見通しだ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "次いで、運輸業25.8％（228社中、59社）、建設業24.2％（840社中、204社）、農・林・漁・鉱業24.4％（45社中、11社）と、労働集約型で人手不足が顕著な産業が上位を占めた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "雇用理由のトップは、「人手不足を補うため」で全体の75.0％（1,370社中、1,028社）と突出した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人労働者の受け入れが制限された場合、中小企業ほど深刻なマイナスの影響を受ける可能性が高く、すでに人手不足の中で外国人労働力が戦力になっている状況を浮き彫りにしている",
+    "url": "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは、人手不足を背景に企業が国籍を問わず優秀な人材を求める動きが加速していることを示しています",
+    "url": "https://gaisai-portal.techro.co.jp/guide/technical-intern-and-development-employment/foreign-workers-by-country/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の生産年齢人口の急激な減少による深刻な人手不足",
+    "url": "https://gaisai-portal.techro.co.jp/guide/technical-intern-and-development-employment/foreign-workers-by-country/",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "【応募資格】 [必須] 以下のいずれかに該当する経験、能力をお持ちの方 ・直近2年以内に中長期在留者の受入れ実績があること ・直近2年以内に報酬を得る目的で、業として、外国人に関する各種相談業務に従事した経験を有すること ・過去5年間に2年以上中長期在留者の生活相談業務に従事した経験を有すること ・同程度に支援業務を適正に実施できると認められていること [歓迎] ・ビジネスレベルの語学力（英語） ・人材業界における実務経験 ・事業開発、市場リサーチなどの経験 【フィットする人物像】 ・物事を構造的に整理することが得意な? ・定量的な分析（計数管理能?）に?けている? ・コミュニケーション能?の",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "・外国人労働者を企業に紹介する業務（在宅勤務対応可能） ・企業開拓（在宅勤務対応可能） ・外国人労働者の面談の実施（在宅勤務対応可能） ・その他、上記に関連する業務 ・活動エリア：関東近県※運転免",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【経験不問】技能実習生及び特定技能外国人のサポート WEB面接実施中！お気軽にお問合せ下さい！ 募集要項 【雇用形態】 正社員 【給与】 月給 250,000円～300,000円 経験や能力等を考慮して給与決定 【勤務地】 群馬県高崎市本町１０－１ イチカワビル３F 【面接地】 群馬県高崎市本町１０－１ イチカワビル３F 募集情報 【仕事内容】 経験不問 人と接することが好きな コミュニケーション能力の高い方にぴったり！ 技能実習生及び特定技能外国人のサポートのお仕事です！ 勤務している企業を訪問し 様々なフォローをしていただきます 未経験でもチャレンジ歓迎！",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説 – 【特定技能の人材紹介】株式会社JLBC｜外食・食品製造業専門・最短5日で即戦力人材をご紹介します",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度現在、円安の影響や賃金上昇に伴い、外国人材の採用コストも変化の兆しを見せています",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年時点での支援委託費の相場は、外国人1人あたり月額2万円〜3万円程度が一般的です（2024年 出入国在留管理庁調査等参照）",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本人社員と同様に、年に1回の定期健康診断の実施が義務付けられています",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度における",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能1号外国人を雇用する企業に代わって、法律で義務付けられた支援計画（事前ガイダンス、生活オリエンテーション、相談対応など）を実施する機関です",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能1号外国人が日本で安定的・円滑に活動できるように、受入れ企業が実施しなければならない10項目の支援のことです",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "措置の具体的内容については、本ポリシーで定める窓口に対する利用者からの求めに応じて遅滞なく回答いたします",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】特定技能外国人の受け入れ人数枠はどうなる？今後の拡大予測と対策",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "自社支援と登録支援機関への委託、どっちが得？コストと手間のバランス比較【2026年度版】",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "許認可や規制調査など輸出／販売の準備をしたい",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外市場調査・マーケティング",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "企業調査・与信調査",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外テストマーケティング・簡易調査",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外進出実態調査レポート",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "『海外進出白書』特集",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "初年度トータルで150〜200万円を超えることもあります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "では、支援計画の実施を「登録支援機関」に委託する費用として",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "特に技能実習・特定技能の在留資格では、受入機関（企業）が住居の確保を支援することが義務または強く推奨されており、多くの企業が社宅の提供や家賃補助を実施しています",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "ビザ申請費用・定着支援費用を加えると、初年度トータルで",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "要件・助成額は年度によって変わるため、最新情報は厚生労働省ホームページでご確認ください",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介の場合は年収の15〜30%（高需要職種では25〜45%）の紹介手数料が主なコストで、ビザ申請・定着支援を加えると初年度100〜200万円前後になるケースもあります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】国内で外国人材を雇用する企業は49.7%｜国籍・給与・課題をグローバル人材白書で解説",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外市場調査サービス",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能人材の採用費用・相場を比較｜紹介料・初期費用・月額支援費【2026年版】",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能人材の採用費用は初年度いくら？",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能人材1名の採用・支援にかかる初年度費用は、国内採用でおおむね60万〜90万円、海外採用で80万〜130万円が目安です",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "登録支援機関への支援委託費については、出入国在留管理庁の調査で1人あたり月額平均28,386円となっています",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "民間の2026年の費用調査では、初年度費用の目安として国内採用約75万円、海外採用約112万円という試算もあります",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度の金額は採用・支援にかかる費用の目安で、給与・社会保険料などの通常の人件費は含みません",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度の採用・支援費目安",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "出入国在留管理庁の調査では、登録支援機関への支援委託料は1人あたり月額平均28,386円で、20,000円超〜25,000円以下の価格帯が最も多くなっています",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "建設技能人材機構も、受入企業が実施すべき支援の費用について外国人本人に負担させることはできないと案内しています",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、1名あたりの初年度採用予算を設定します",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能1号では、受入企業が1号特定技能外国人支援計画を作成し、必要な支援を実施します",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介料30万円、支援費月2万円の会社と、紹介料10万円、支援費月4万円の会社では、初年度総額が逆転する可能性があります",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "目安として、初年度は国内採用で60万〜90万円前後、海外採用で80万〜130万円前後を想定すると予算を組みやすくなります",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査の一例では、初年度費用を国内約75万円、海外約112万円とする試算があります",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "出入国在留管理庁の調査では平均28,386円で、約9割が月3万円以下となっています",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、初年度の企業負担コストは海外新規採用で約51〜108万円、国内採用で約43〜90万円が目安です",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度コストのシミュレーション",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "新規認定・更新・変更すべて対応／義務的支援10項目を実施",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "とは、特定技能外国人の受入れ企業に代わって、法律で定められた「義務的支援」を実施する機関です",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "登録支援機関が実施する義務的支援は、以下の10項目です",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "生活オリエンテーションの実施",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な面談の実施・行政機関への通報",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "入社後の研修として、業務マニュアルの翻訳（5〜10万円）、安全教育の実施、日本語研修などの費用が発生することがあります",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "に初年度コストをシミュレーションします",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "3パターンの初年度コスト比較",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度コスト目安",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "就労環境整備計画の策定・実施",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "職業訓練・研修の実施",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "トライアル雇用の実施",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "上限80万円は初年度の採用コストの一部をカバーするのに十分な金額です",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト 万円 外国人材(特定技能製造業) 調査の求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材(特定技能製造業) コスト 調査 万円",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説 – 【特定技能の人材紹介】株式会社JLBC｜外食・食品製造業専門・最短5日で即戦力人材をご紹介します",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 紹介手数料の相場と仕組み",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介手数料：30万円〜60万円",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介手数料：0円（自社雇用の継続のため不要）",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "pass": 3
+   },
+   {
+    "quote": "エージェント紹介手数料（年収の15〜40%）、ビザ申請費用、特定技能・技能実習の登録支援機関費用、入社後の定着コストまで、予算計画に役立つ情報をまとめています",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "では、人材紹介会社への紹介手数料（年収の15〜40%）、求人媒体への掲載費用、海外現地採用の渡航費などが主なコストです",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社（エージェント）利用：紹介手数料は年収の15〜40%が相場",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 外国人採用でかかる費用の総額はどのくらいですか？",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介を利用した場合は紹介手数料（年収の15〜40%）が主なコストとなり、年収400万円の人材では60〜120万円程度かかります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介の場合は年収の15〜30%（高需要職種では25〜45%）の紹介手数料が主なコストで、ビザ申請・定着支援を加えると初年度100〜200万円前後になるケースもあります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、1名あたりの初年度採用予算を設定します",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介料30万円、支援費月2万円の会社と、紹介料10万円、支援費月4万円の会社では、初年度総額が逆転する可能性があります",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能人材1人を採用する総額はいくらですか？",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介手数料（年収の25〜35%）のみ",
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介手数料の相場は特定技能が20〜60万円、技人国が想定年収の20〜40%です",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "※紹介手数料＋支援費12か月",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "※初期費用・実費（渡航費・ビザ申請費など）は含みません／5年総額の内訳は",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "入社から6か月以内に自己都合で退職した場合は、紹介手数料を下の割合で返金します",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "kedomoの紹介手数料は、特定技能が20〜40万円の定額、技人国などの高度人材が想定年収の20〜35%の定率です",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "業界相場は紹介手数料20〜60万円、登録支援費が月額約28,386円（入管2022年調査）です",
+    "url": "https://career.kedomo.com/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介手数料として20万〜80万円程度",
+    "url": "https://www.jinzaiplus.jp/posts/5",
+    "pass": 3
+   },
+   {
+    "quote": "まれに、紹介手数料が0円という事業者もありますが、その場合は外国人材本人から手数料を徴収している可能性が高いため注意が必要です",
+    "url": "https://www.jinzaiplus.jp/posts/5",
+    "pass": 3
+   },
+   {
+    "quote": "（注）令和３年を通じて在留した特定技能外国人に関する定期的な届出の内容に基づいて、１か月当たりの平均支給賃金額（総額）を算出したもの（11,331名分の届出内容から",
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "外国人材(特定技能製造業) 単価 規模別 の求人情報をすべて見る （295,881件） — 外国人材(特定技能製造業) 単価 規模別 の求人情報をすべて見る （295,881件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材(特定技能製造業) コスト 調査 万円 の求人情報をすべて見る （2,416,414件） — 外国人材(特定技能製造業) コスト 調査 万円 の求人情報をすべて見る （2,416,414件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材(特定技能製造業) 中途 従業員規模別 の求人情報をすべて見る （557,516件） — 外国人材(特定技能製造業) 中途 従業員規模別 の求人情報をすべて見る （557,516件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能外国人材 の定着率を企業担当者・個人300名に ... — 特定技能外国人材 の定着率を企業担当者・個人300名に ... ONODERA USER RUN（オノデラユーザーラン） https://onodera-user-run.co.jp > news",
+    "url": "https://onodera-user-run.co.jp/news/10026/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材(特定技能製造業) 白書 の求人情報をすべて見る （1,288件） — 外国人材(特定技能製造業) 白書 の求人情報をすべて見る （1,288件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "③ 製造業 における 特定技能外国人材 受入れ事例の紹介 Part2 — ③ 製造業 における 特定技能外国人材 受入れ事例の紹介 Part2 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=C2gDXXQN6wQ",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "900",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収900万円〜1,049万円"
+   },
+   {
+    "value": "049",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収900万円〜1,049万円"
+   },
+   {
+    "value": "600",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収600万円〜999万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "999",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収600万円〜999万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "400",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収400万円〜749万円"
+   },
+   {
+    "value": "749",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収400万円〜749万円"
+   },
+   {
+    "value": "450",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収450万円〜649万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "649",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収450万円〜649万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "26",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給26万円〜33万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "33",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給26万円〜33万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "364",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収364万円〜448万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "448",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収364万円〜448万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "30",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "海外人材の人材紹介 ／ 特定技能営業 ／7期目で売上100億円目前！会社と共に成長できる環境／成長市場である外国籍人材を活用した人材コンサル／月給30万円以上／土日祝休み／転勤なし／東京"
+   },
+   {
+    "value": "000",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収600万円〜1,000万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "25",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給25万円〜30万円"
+   },
+   {
+    "value": "37",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給30万円〜37万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "80",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "干物定食の店舗管理スタッフ／昇格後のMAX月給80万円・オープニング"
+   },
+   {
+    "value": "45",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給45万円〜50万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "50",
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給45万円〜50万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "80",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "quote": "1人あたり初期50〜80万円・月額コストの内訳から、繁閑差への対応、愛知・東海の自動車関連サプライヤー向けの費用最適化まで、採用担当者が知っておくべき費用感を整理します"
+   },
+   {
+    "value": "70",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "quote": "20〜70万円"
+   },
+   {
+    "value": "3",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "quote": "月額委託料2〜3万円/人＋人件費"
+   },
+   {
+    "value": "4",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "quote": "監理費3〜4万円/人＋人件費"
+   },
+   {
+    "value": "25",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "quote": "10〜25万円"
+   },
+   {
+    "value": "20",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "quote": "10〜20万円"
+   },
+   {
+    "value": "15",
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "quote": "5〜15万円"
+   },
+   {
+    "value": "30",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "一般的に、国内在住者を採用する場合の初期費用目安は30万円〜60万円程度、海外から新規に入国させる場合は50万円〜100万円程度が相場とされています（2025年 人材紹介各社公表値参照）"
+   },
+   {
+    "value": "60",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "一般的に、国内在住者を採用する場合の初期費用目安は30万円〜60万円程度、海外から新規に入国させる場合は50万円〜100万円程度が相場とされています（2025年 人材紹介各社公表値参照）"
+   },
+   {
+    "value": "50",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "一般的に、国内在住者を採用する場合の初期費用目安は30万円〜60万円程度、海外から新規に入国させる場合は50万円〜100万円程度が相場とされています（2025年 人材紹介各社公表値参照）"
+   },
+   {
+    "value": "100",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "一般的に、国内在住者を採用する場合の初期費用目安は30万円〜60万円程度、海外から新規に入国させる場合は50万円〜100万円程度が相場とされています（2025年 人材紹介各社公表値参照）"
+   },
+   {
+    "value": "2",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "に委託する場合、外国人1人あたり月額2万円〜3万円程度の"
+   },
+   {
+    "value": "3",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "に委託する場合、外国人1人あたり月額2万円〜3万円程度の"
+   },
+   {
+    "value": "350",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "例えば、年収350万円で採用する場合、手数料は70万円〜105万円となります"
+   },
+   {
+    "value": "70",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "例えば、年収350万円で採用する場合、手数料は70万円〜105万円となります"
+   },
+   {
+    "value": "105",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "例えば、年収350万円で採用する場合、手数料は70万円〜105万円となります"
+   },
+   {
+    "value": "10",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "は行政書士に依頼する場合10万円〜20万円程度"
+   },
+   {
+    "value": "20",
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "quote": "は行政書士に依頼する場合10万円〜20万円程度"
+   },
+   {
+    "value": "15",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "quote": "では、申請印紙代（4,000円）と行政書士費用（5〜15万円程度）が発生します"
+   },
+   {
+    "value": "200",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "quote": "初年度トータルで150〜200万円を超えることもあります"
+   },
+   {
+    "value": "400",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "quote": "例えば、年収400万円ほどの一般職であれば、相場である30％～35%が標準的です"
+   },
+   {
+    "value": "800",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "quote": "45%に達するような高い料率は、年収800万円クラスのエグゼクティブや極めて希少価値の高い職種で発生するため、一般的な採用であれば120万〜140万円の範囲に収まるのが目安となります"
+   },
+   {
+    "value": "140",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "quote": "45%に達するような高い料率は、年収800万円クラスのエグゼクティブや極めて希少価値の高い職種で発生するため、一般的な採用であれば120万〜140万円の範囲に収まるのが目安となります"
+   },
+   {
+    "value": "5",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "quote": "技能実習・特定技能：送出機関費用・登録支援機関費用（月2〜5万円）など"
+   },
+   {
+    "value": "100",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "quote": "50〜100万円程度"
+   },
+   {
+    "value": "50",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "quote": "渡航費・滞在費（20〜50万円程度）"
+   },
+   {
+    "value": "30",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "quote": "、現地就職フェア参加費（数万〜数十万円）、来日時の渡航費・引越し補助（10〜30万円程度）が加わります"
+   },
+   {
+    "value": "90",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "quote": "特定技能人材1名の採用・支援にかかる初年度費用は、国内採用でおおむね60万〜90万円、海外採用で80万〜130万円が目安です"
+   },
+   {
+    "value": "130",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "quote": "特定技能人材1名の採用・支援にかかる初年度費用は、国内採用でおおむね60万〜90万円、海外採用で80万〜130万円が目安です"
+   },
+   {
+    "value": "3",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "quote": "全体の約9割が月額3万円以下です"
+   },
+   {
+    "value": "50",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "quote": "20万〜50万円前後／人"
+   },
+   {
+    "value": "20",
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "quote": "数万円〜20万円前後"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career.kedomo.com/recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global.staff-manzoku.co.jp/blog/foreign-recruitment-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jinzaiplus.jp/posts/5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://aidemglobal.jp/column/recruitment-know-how/osaka-manufacturing-specified-skilled-worker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://onodera-user-run.co.jp/news/10026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_61317.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fmltd.co.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A4%96%E5%9B%BD%E4%BA%BA%E9%9B%87%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaisai-portal.techro.co.jp/guide/technical-intern-and-development-employment/foreign-workers-by-country/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myanmarunity.jp/food-beverage-manufacturing/syokuhinseizou_saiyou/food-manufacturing-foreign-worker-benefits",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/kogyoseihin-seizogyo_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dir.co.jp/report/research/economics/japan/20251106_025403.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jaim-skill.or.jp/member/about-wage/?stt_lang=vi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aidemglobal.jp/column/recruitment-know-how/why-japan-has-labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtn.co.jp/magazine/ja/article595/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mintoku.com/news/5443/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jinzaiplus.jp/posts/62",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp-japanjobschool.com/divership/tokuteiginou-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "外国人材（特定技能・製造業） 採用単価 規模別",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/",
+    "https://jlbc.co.jp/tokuteiginou_saiyoukosuto/",
+    "https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php",
+    "https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/",
+    "https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/",
+    "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/index.html",
+    "https://www.myanmarunity.jp/food-beverage-manufacturing/syokuhinseizou_saiyou/183979/",
+    "https://www.global.staff-manzoku.co.jp/downloadlist/download04",
+    "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/"
+   ]
+  },
+  {
+   "query": "外国人材（特定技能・製造業） 採用コスト 調査 万円",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/",
+    "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "https://career.kedomo.com/recruitment/",
+    "https://www.global.staff-manzoku.co.jp/blog/foreign-recruitment-cost",
+    "https://www.youtube.com/watch?v=u9MOMzStgPQ",
+    "https://www.jinzaiplus.jp/posts/5",
+    "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "https://opcare.jp/media/category-3/tokutei-ginou-hiring/",
+    "https://fhr.co.jp/%E5%9B%BD%E5%88%A5%E7%89%B9%E5%BE%B4%E3%81%A8%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8/"
+   ]
+  },
+  {
+   "query": "外国人材（特定技能・製造業） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "https://www.adecco.com/ja-jp/client/useful/tokuteiginou-info/koyou/foreign-employment-survey-report",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "https://aidemglobal.jp/column/recruitment-know-how/osaka-manufacturing-specified-skilled-worker/",
+    "https://rc.persol-group.co.jp/wp-content/uploads/thinktank/data/employment-of-foreigners.pdf",
+    "https://gaisai-portal.techro.co.jp/guide/technical-intern-and-development-employment/foreign-workers-by-country/",
+    "https://www.career-tasu.co.jp/wp/wp-content/uploads/2023/01/2022_kigyou-global-report.pdf",
+    "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "https://www.moj.go.jp/isa/content/001397709.pdf"
+   ]
+  },
+  {
+   "query": "外国人材（特定技能・製造業） 採用経路 割合 調査",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings250221_1.pdf",
+    "https://onodera-user-run.co.jp/news/10026/",
+    "https://www.mhlw.go.jp/stf/newpage_61317.html",
+    "https://www.moj.go.jp/isa/content/001397709.pdf",
+    "https://www.fmltd.co.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A4%96%E5%9B%BD%E4%BA%BA%E9%9B%87%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC",
+    "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "https://gaisai-portal.techro.co.jp/guide/technical-intern-and-development-employment/foreign-workers-by-country/",
+    "https://prtimes.jp/main/html/rd/p/000000040.000155502.html",
+    "https://career.kedomo.com/column/ssw_country_job/",
+    "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/index.html"
+   ]
+  },
+  {
+   "query": "外国人材（特定技能・製造業） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.fmltd.co.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A4%96%E5%9B%BD%E4%BA%BA%E9%9B%87%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC",
+    "https://www.myanmarunity.jp/food-beverage-manufacturing/syokuhinseizou_saiyou/food-manufacturing-foreign-worker-benefits",
+    "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/kogyoseihin-seizogyo_gaiyo.pdf",
+    "https://www.dir.co.jp/report/research/economics/japan/20251106_025403.pdf",
+    "https://www.jaim-skill.or.jp/member/about-wage/?stt_lang=vi",
+    "https://aidemglobal.jp/column/recruitment-know-how/why-japan-has-labor-shortage/",
+    "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "https://www.mhlw.go.jp/stf/newpage_61317.html",
+    "https://www.gtn.co.jp/magazine/ja/article595/",
+    "https://www.jitco.or.jp/ja/news/article/44205/"
+   ]
+  },
+  {
+   "query": "外国人材（特定技能・製造業） 白書 採用",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/index.html",
+    "https://mintoku.com/news/5443/",
+    "https://www.jinzaiplus.jp/posts/62",
+    "https://www.youtube.com/watch?v=C2gDXXQN6wQ",
+    "https://corp-japanjobschool.com/divership/tokuteiginou-manufacturing",
+    "https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf",
+    "https://www.cstm-careersupport.com/industry/manufacturing/",
+    "https://aidemglobal.jp/column/%E8%B3%87%E6%96%99%E3%83%BB%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%8B%95%E7%94%BB/industrial-product-manufacturing-industry/",
+    "https://www.meiko-corp.co.jp/manufacturing-specified-skilled-recruitment/"
+   ]
+  }
+ ],
+ "missing": {}
+}

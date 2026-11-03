@@ -1,0 +1,1040 @@
+{
+ "name": "日本の金属3Dプリンター販売代理店",
+ "en": "metal 3D printer distributors Japan",
+ "aliases": [
+  "金属3Dプリンター 代理店",
+  "金属3Dプリンター 販売店",
+  "金属AM 総代理店"
+ ],
+ "context": "②卓上金属AM",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:59:31.599409+00:00",
+ "evidence": {
+  "単価・価格": [
+   {
+    "quote": "100万円以下のローエンド機から5000万円以上のハイエンド機まで揃う",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円前後のローエンド機から1億円のハイエンド機まで扱う",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月更新：樹脂で形状確認する場合の本体候補を、最新の販売価格（税込・2026年11月時点）と新しく加わったBambu Lab A2Lを加えたカード形式に更新し、掲載リンクの到達を再確認しました",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "電動モーターを\"丸ごと\"3Dプリント｜MITが実現した「材料費75円・3時間…",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "2009年に基本特許の保護期間が終了した後、FDM方式の低価格の3Dプリンターが各社から発売され、3Dプリンターの利用が一般にも広がった",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年には個人向け低価格3DプリンターのメーカーであるMakerBot社を買収した",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円～5000万円以上",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円～3,000万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円～4,000万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "耐久性、軽量性、硬度、強靭性を持ち合わせた工業向けの3Dプリンタを手頃な価格で製造販売している",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円～110万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3万円～880万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円～5,000万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "要問合せ（FUNMAT HT3Dプリンターは約55万円との情報あり）",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "25万～75万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～1億円以上",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円～1億円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "矢野経済研究所は産業用3Dプリンタを「本体価格100万円以上の装置」と定義している",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は産業用3Dプリンタを本体価格100万円以上の装置と定義しており、この区分自体が価格で区切られています",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "矢野経済研究所は産業用3Dプリンタを本体価格100万円以上の装置と定義しています",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "なお同社は産業用3Dプリンタを「本体価格100万円以上の装置」と定義しており、この区分自体が価格で区切られています",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "1つ目は家庭用の情報と混ざることで、産業用は矢野経済研究所の定義では本体価格100万円以上の装置です",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの費用｜公式に日本円が出ない理由と、代理店価格の読み方",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2020年に装置・材料・ソフトだけで1兆円に達し、造形サービスや生産性向上の効果を含めれば20兆円を超えるとの見方があります",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①個人向け3D造形事業：1.1兆円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②部品等の直接製造 ：6.5兆円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③交換用部品製造 ：3.1兆円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①試作・開発プロセス ：1.6兆円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②製造プロセス ：8.5兆円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "直接市場 ：1.0兆円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "：10.7兆円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "：10.1兆円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場合計 ：21.8兆円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20年 5,000万円 5,000万円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本体価格 19年 2,000万円",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "TRAFAM参画企業（17年6月時点）TRAFAMの予算計画と実績（億円）",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】おすすめの3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】おすすめの3Dプリンター_TOP",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】精度重視の3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】造形方式別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】造形サイズ別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】おすすめの3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】おすすめの3Dプリンター_TOP",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】精度重視の3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】造形方式別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】造形サイズ別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの価格帯について",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円以上の業務用3Dプリンター特集",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの低価格化にともない国内・世界的にもどんどん市場が拡大していますが、3Dプリンター市場は企業が試作品づくりに活用する業務用が中心となっています",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "2.価格で選ぶ",
+    "url": "https://cad-kenkyujo.com/3dprinter-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターはまだ発展途上な部分も多いため、家庭用品でも一部の製品は30万円以上をかかることも",
+    "url": "https://cad-kenkyujo.com/3dprinter-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "現在では、FDM特許が切れたため、FDM式の3Dプリンターの低価格化が進んでいます",
+    "url": "https://cad-kenkyujo.com/3dprinter-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "低価格で3Dプリンターの購入を考えている方は、武藤工業がおすすめです",
+    "url": "https://cad-kenkyujo.com/3dprinter-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "22万円から購入ができ、3Dプリンター初心者でも使いやすいのが特徴です",
+    "url": "https://cad-kenkyujo.com/3dprinter-maker/",
+    "pass": 3
+   }
+  ],
+  "市場規模・台数": [
+   {
+    "quote": "300万円前後のローエンド機から1億円のハイエンド機まで扱う",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～1億円以上",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円～1億円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターのメーカー別シェアと市場規模",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "TRAFAM参画企業（17年6月時点）TRAFAMの予算計画と実績（億円）",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の市場規模予測 航空機部品分野での3Dプリンター活用を狙った買収事例（GE）",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "This is a report that investigates the market size forecasts for various 3D printers and materials in the world by 2025, as well as the strategic trends of material manufacturers and business aspects.",
+    "url": "https://www.ipros.com/en/cg3/Metal%203D%20Printer/",
+    "pass": 3
+   },
+   {
+    "quote": "➢ The global market size for metal printers is expected to be ● billion yen in 2025, with metal materials projected to be ● billion yen.",
+    "url": "https://www.ipros.com/en/cg3/Metal%203D%20Printer/",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "3Dプリンター購入のための助成金・補助金の制度",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金活用ガイド",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター購入のための助成金・補助金の制度",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターを無料で試す・レンタルする方法｜レンタル・補助金・無料ソフトを解説",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "知っておきたい「ものづくり補助金」の利用",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "3Dプリンター 国内代理店一覧│業務用3DプリンターのポータルサイトShareLab | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス（10）",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "その他製品・サービス（221）",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の業務用3Dプリンターを取り扱う代理店一覧です",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧はコチラ",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 海外メーカー一覧はコチラ",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "導入に向けたコンサルティング、3Dデータの設計から造形まで、3Dプリンターに関しての一貫したサービスを提供できる強みがある",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "熟練した技術者による様々な造形方式での出力サービスも行っている",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターのレンタルサービスを行っている",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "一般向けの出力サービスの他、医療向け3Dプリント出力サービスも行っている",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "医療向け3Dプリント出力サービスでは、CT/MRIなどの医療データを立体的に再現",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノンブランド製品の販売、修理、サポート､関連ソリューションサービスの提供などを行う企業",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "データ作成から出力までワンストップで3Dサービスを提供している",
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド別製品一覧",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "比較・導入相談",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "製品を比較する",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "お申込み・サービス",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "学生支援・導入事例",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "寄贈事業導入事例集",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ商品一覧",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "アカウントサービス",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "自社導入と外注の比較",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "比較する費用項目の整理図",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "自社導入と出力代行を、同じ部品条件で比較する",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "試作や少量の利用なら、出力代行の見積もりも取ると、設備投資との比較がしやすくなります",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり比較の考え方",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "必要な設備、担当者の作業、後処理、検査、再製作を含む完成品1個あたりの費用で比較します",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab全機種比較",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 海外メーカー一覧│業務用3Dプリンターのポータルサイト ShareLab | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス（10）",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "その他製品・サービス（221）",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 海外メーカー一覧",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧はコチラ",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧はコチラ",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "」では、3Dプリンターの国内販売と3Dプリンター導入のコンサルティングサービスをおこなっている",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "自社製品の量産化を経験したGEのデザイナー、設計者、エンジニア、材料科学者の専門家集団が考案した評価システムとベストプラクティスを提供する",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "ABBロボットアームに取り付けられた独自のプリントヘッドにより、短時間で鋳造用の砂型が造形できるので、従来の方法と比較して鋳物の作成に関連するコストと時間を大幅に削減する",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年より日本市場においてコンシューマー向け3Dプリンター事業を展開しており、グローバルではデスクトップ3Dプリンター製品ならびにサービス分野においてトップシェアを誇る",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパでは、鋳造モデルのオンデマンド生産サービスを提供する最大の企業の一つ",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "の3Dプリンタの販売と保守メンテサービスを強化している",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー・代理店一覧",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "▶ 学習ページ一覧に戻る",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめサービス",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス比較表",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは全体像を一覧で押さえます",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "一覧に並んだ8社のうち、どこが最大手なのか",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "同じページには、装置の導入時に使える国の支援策の一覧も掲載されています",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "Form 3シリーズは現行一覧から外れています",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械メーカーが母体で、受託造形サービスも用意しています",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "StratasysのF270は現行カタログに掲載がなく、FormlabsのForm 3シリーズも現行一覧から外れています",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "AGILISTA-3300という型番を見かけることがありますが、キーエンスの製品一覧にはありません",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターは材料と保守の供給が続くことが前提の装置なので、提供元の状況を確認してください",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー別のシェアは公表されていないため、ランキングで選ぶことはできません",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "2つ目は現行から外れた機種が残っていることで、StratasysのF270は現行カタログになく、FormlabsのForm 3シリーズも現行一覧から外れ、キーエンスのAGILISTA-3000は生産終了です（AGILISTA-3300という型番はキーエンスの製品一覧にありません）",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "の製品一覧・比較",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けITシステムの比較・選定を支援するBtoBメディア",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "カテゴリ一覧を見る →",
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "pass": 3
+   }
+  ],
+  "導入期間・キャッシュ": [
+   {
+    "quote": "造形・後処理の基本料金、数量条件、仕上げ、検査、輸送、納期",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "仕上げ・検査・納期を含める",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "試作時と継続生産時の費用・納期を分けて確認する",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "pass": 3
+   },
+   {
+    "quote": "開発リードタイムの大幅な短縮が可能",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リードタイム",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産に少なくとも数時間のリードタイム",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設計から生産までのリードタイム短縮",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "支払条件の改善",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術確立 生産リードタイム短縮に繋がる金型寸法計測の高速化",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産リードタイム短縮や低コスト化に寄与する新たな工法や",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従来比リードタイム",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短納期で造形物が必要であったり、試作を繰り返して造形物の精度を上げる場合などに向いています",
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、対応できる造形方式、材料、サイズ、精度、後加工、納期は会社によって異なります",
+    "url": "https://www.bmf3d.co.jp/blog/141",
+    "pass": 3
+   },
+   {
+    "quote": "最新の対応範囲、料金、納期は各社へ直接ご確認ください",
+    "url": "https://www.bmf3d.co.jp/blog/141",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/14612/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.solize.com/3dp-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/pages/maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5523/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make.dmm.com/blog/3dprinter/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9277/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/how-to-calculate-3d-printer-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industrial-3d-printer.com/basic-knowledge/price-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/protocost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vKPqBUffTeHnvbt8B2e0aLIGjqNJ859sRcJjtm-IPEo9Psd2o_Y",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9352227",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/service7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recmbus-3dprint.com/list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/3dprinter-maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/3dprinter-shosha/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bmf3d.co.jp/blog/141",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/en/cg3/Metal%203D%20Printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/nihon-chuzo-to-install-japans-largest-metal-3d-printer-from-bright-laser-technologies-247351/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.dmgmori.com/products/machines/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/en/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/jp/blog/best-metal-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本の金属3Dプリンター販売代理店",
+   "results": [
+    "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "https://metoree.com/companies/14612/distributors/",
+    "https://partners.solize.com/3dp-sales",
+    "https://skhonpo.com/pages/maker",
+    "https://3dprinter.co.jp/",
+    "https://metoree.com/categories/5523/",
+    "https://news.sharelab.jp/study/study-usageguide-domesticmaker/",
+    "https://doho.co.jp/3d-print-business/zrapid/faq",
+    "https://jampt.jp/column/metal-3d-printing-service/",
+    "https://mono.ipros.com/cg3/金属3Dプリンタ/"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター販売代理店 料金 相場",
+   "results": [
+    "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "https://make.dmm.com/blog/3dprinter/price/",
+    "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "https://metoree.com/categories/9277/",
+    "https://formlabs.com/jp/blog/how-to-calculate-3d-printer-cost/",
+    "https://www.industrial-3d-printer.com/basic-knowledge/price-market.html",
+    "https://online.solize.com/blog/protocost",
+    "https://www.3dptek.com/ja/blogs/industrial-metal-3d-printer-price/",
+    "https://oa-kanji.com/posts/3d-print-service-price",
+    "https://online.solize.com/blog/3dp-metal3dp-installationcost"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター販売代理店 規模別 社数",
+   "results": [
+    "https://metoree.com/categories/5523/",
+    "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vKPqBUffTeHnvbt8B2e0aLIGjqNJ859sRcJjtm-IPEo9Psd2o_Y",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "https://www.atpress.ne.jp/news/9352227",
+    "https://www.indexpro.co.jp/Category/2255",
+    "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "https://news.sharelab.jp/study/study-usageguide-dealers/"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター販売代理店 比較 一覧",
+   "results": [
+    "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "https://metoree.com/categories/5523/",
+    "https://skhonpo.com/blogs/3dprinter-practice/service7",
+    "https://www.recmbus-3dprint.com/list/",
+    "https://cad-kenkyujo.com/3dprinter-maker/",
+    "https://3d-printer-house.com/shop/3dprinter-shosha/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.bmf3d.co.jp/blog/141",
+    "https://www.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://metoree.com/companies/14612/distributors/"
+   ]
+  },
+  {
+   "query": "metal 3D printer distributors Japan",
+   "results": [
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.ipros.com/en/cg3/Metal%203D%20Printer/",
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://3dprintingindustry.com/news/nihon-chuzo-to-install-japans-largest-metal-3d-printer-from-bright-laser-technologies-247351/",
+    "https://us.dmgmori.com/products/machines/additive-manufacturing",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "https://www.desktopmetal.com/",
+    "https://www.3dsystems.com/3d-printers/metal",
+    "https://ensun.io/search/3d-metal-printing/japan"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター販売代理店 2025 OR 2026",
+   "results": [
+    "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "https://metoree.com/categories/5523/",
+    "https://3dprinter.co.jp/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://metoree.com/companies/14612/distributors/",
+    "https://skhonpo.com/pages/maker",
+    "https://jlc3dp.com/jp/blog/best-metal-3d-printers",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jampt.jp/",
+    "https://mono.ipros.com/cg3/金属3Dプリンタ/"
+   ]
+  }
+ ],
+ "missing": {
+  "売り先の数": "記載なし（読んだ34頁・検索6回）",
+  "取り分・マージン": "記載なし（読んだ34頁・検索6回）"
+ }
+}

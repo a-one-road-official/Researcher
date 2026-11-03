@@ -1,0 +1,1275 @@
+{
+ "name": "ホワイトラベルSaaSの再販マージン",
+ "en": "white label SaaS reseller margin",
+ "aliases": [
+  "white label reseller margin",
+  "ホワイトラベル 再販 マージン",
+  "SaaS 代理店 手数料"
+ ],
+ "context": "③WL",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:00:12.195738+00:00",
+ "evidence": {
+  "取り分・マージン": [
+   {
+    "quote": "一定のマージンを上乗せして小売り（再販）することにより差益を得ます",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "Sell Trillet to your clients and earn margin",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "A reseller can sell software without rebranding it, while an affiliate usually refers buyers for commission. An OEM arrangement embeds another company's technology in your own product. For the voice category, our",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "Margin:",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "work out how your clients map to projects and allowances before calculating your margin.",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "Which voice AI platforms fit a reseller?",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow's public Enterprise contracts start at $30,000 annually; branding and delivery scope need a quote. Its enterprise implementation support is a valid reason to shortlist it. However, in-product reseller billing and Stripe connections were removed on 15 September 2026.",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "How should you start reselling without losing the margin?",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "For a simple illustration, $500 in monthly revenue with $200 in direct delivery costs leaves $300, or a 60% gross margin. That is arithmetic, not an agency earnings benchmark; overhead, sales costs and tax still affect profit.",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "It is subscription software offered under a reseller's brand, with the underlying product maintained by a supplier. The branding, resale rights and support responsibilities depend on the plan and agreement.",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Reseller Programs: 2026 Comparison for Agencies",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Profit Margins: What Agencies Actually Earn in 2026",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティングオートメーション：広告代理店が自社提供ツールとして展開し、代理店手数料＋利用料で収益化を目指すモデル",
+    "url": "https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "再販マージン",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "再販マージン計算ツール",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "See Margins",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "13. The SaaS Margin Calculator",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "The term comes from the idea of a blank white label on a product that a reseller can stamp their own brand onto. The end customer sees your company name, your logo, your domain, and your pricing, while the underlying technology is developed and maintained by the original vendor.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "White label SaaS works through a multi-tenant architecture. The vendor maintains one core platform, and each reseller (or 'tenant') gets a branded, isolated instance of it. Your customers' data stays separate from every other reseller's, but everyone runs on the same underlying technology the vendor keeps updated.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "You pay vendor wholesale, keep the margin",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Many resellers may sell the same underlying platform, so your positioning and niche have to create the differentiation.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Margin sharing:",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "There are four common revenue models in white label SaaS. Choosing the right one shapes your margins and how your business scales.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "You pay the vendor a fixed fee (for example, GoHighLevel's $497/month) regardless of customer count, and keep everything you charge above your costs. This model produces the best margins at scale because your platform cost stays fixed while revenue grows.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "You pay $497/month whether you have 5 clients or 500. Every client you add past your break-even point is almost pure margin, because your platform cost never rises with client count. Per-seat and revenue-share models, by contrast, take a bigger cut as you grow.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "A fast-growing 2026 category, letting resellers build and sell AI assistants trained on client content.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Margin structure",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Is it flat-fee (best margins at scale) or per-seat (margin shrinks as you grow)?",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "At $497/month regardless of client count, GoHighLevel produces the best margins at scale of any model.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "It offers deep white-labelling, built-in automated billing, a flat-fee margin structure, and a feature scope broad enough to be a client's primary business tool.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "買い手は、ホワイトラベル製品の価格を、ベンダーへのライセンス費用、自社の営業とサポートの費用、そして目標とするマージンをカバーするように設定しなければなりません",
+    "url": "https://www.unifyr.com/ja/atlas/white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "マージン構造: 40〜80%のマージンを目指しましょう",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "その背景には、サービスのマージン縮小、統合されたプラットフォームを求めるクライアント、そしてかつてはエンタープライズ予算が必要だったAI機能の普及があります",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "マージン構造:",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "40〜80%のマージンを目指しましょう",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "SalesLabelが汎用的なリセラープログラムと異なる点は、マージン構造です",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーは一貫して40〜80%のマージンを報告しており、プラットフォームはすでに12か国50社以上の代理店パートナーで導入されています",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "マージンは専用に設計された",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "独自ドメイン、クライアント用サブアカウント、妥当なマージンが得られます",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "の採算は、持続可能なマージンを構築できて初めて成り立ちます",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント1席あたり月200ドルを支払い、500ドルで請求すれば、マージンは60%です",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーが400ドルを請求し、案件を失わずに500ドルしか請求できないなら、マージンは20%で、1件の解約で悪い月に転落しかねません",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "サービスのマージン圧縮",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントあたりの粗利:",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォームだけで月7,000ドルの粗利",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォームのマージンは、セットアップコストを回収すれば純利益となり、通常は最初の2〜3か月で回収できます",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、顧客関係を自社で所有することはできず、マージンではなく一定割合の報酬を得る形になります",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客を自社で保有し、マージンを設定し、パッケージングを管理できますが、請求とサポートも自社で担います",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "これは市場でも最低水準の諸費用込みの価格であり、$2-4/GBで再販してもエンタープライズ向けネットワークより低価格を維持しながら、最大限のマージンを確保できます",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "卸売価格は中価格帯（リセラー規模でおおよそ$2.5/GB、より大きな契約ではさらに低価格）に位置するため、低価格帯のネットワークよりもマージンは薄くなりますが、マネージドAPIとドキュメントが整っているため、顧客がより手離れが良く、手厚いサポートのある製品を求めるリセラーに適しています",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、すでに需要を持ち、大規模にマージンを最大化したいリセラーにとって魅力的ですが、容量コミットメントが必要なため、小さく始める場所ではありません",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "：卸売: 大容量利用時で$0.50/GBから · 適合: マージン最適化を重視する大容量リセラー · 注記: 容量コミットメントが必要",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "この市場におけるディストリビューターのマークアップは通常20-40%で、住宅用プロキシは調達が難しく、ブロックされにくいため、より高いマージンを支えます",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "簡単な試算例：住宅用プロキシを卸売価格$1/GB（DataImpulse）で購入し、自分のニッチ市場に$3/GBで再販すると、粗利益は$2/GB、つまり約67%の粗利率になります",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "月に50GBを使用する顧客の場合、小売売上は$150、帯域コストは$50で、サポート時間や決済手数料を差し引く前の粗利益は顧客1人あたり月$100です",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "DataImpulseアカウントを作成し、ダッシュボードのResellersセクションから",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "リセラーは帯域を卸売価格で購入し、自社の小売価格を設定し、顧客を保有し、マージンを確保します",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "マークアップは通常20-40%で、レジデンシャルでは高めの水準を狙いやすく、30-50%の純マージンは現実的です",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "例：$1/GBで購入し、$3/GBで再販すれば、$2/GBの粗利が残ります",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "【弁護士監修】契約書チェック自動サービス | Collabo Tips | コラボ・ティップス",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS（Software as a Service）やクラウド型ITサービスのユーザーを拡大するためには、販売パートナーとの提携が重要です",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS（クラウド型ITサービス）の販売パートナーの種類は、通常の物販と同じように代理店（Agent）と販売店（Distributer）がありますが、クラウド上で提供されるサービスには特有の注意点が存在します",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、クラウド上で提供されるサービスに特有の注意点を中心に、代理店契約、再販型契約（仕入れ型）、ホワイトラベル型（OEM型）契約の各形態の違いについて、契約書自動チェックサービス”",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS（クラウド型ITサービス）の販売パートナー契約には、代理店（Agent）契約と販売店（Distributer）契約の2つの基本的な形態があります",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店契約では、代理店が商品やサービスを顧客に紹介する仲介者としての役割を担い、在庫リスクは基本的に発生しません",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、販売店契約では、販売店が商品やサービスを仕入れて再販するため、在庫リスクを負いますが、その代わりに、販売価格の設定や販売戦略を自由に決定できることが一般的です",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSサービスの",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "再販型契約では、販売店はプロバイダーのサービスを仕入れて、そのまま再販します",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでの「仕入れ」という言葉は、物理的な仕入れという意味ではなく、サービスの利用権を購入する形態を指します",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、顧客（利用ユーザー）は通常、SaaSプロバイダーの利用規約に同意し、販売店はサポートや追加サービスを提供しますが、サービスの提供責任はプロバイダーにあります",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル型（OEM型）では、販売店が自社ブランドでSaaSサービスを提供します",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客（利用ユーザー）は、販売店のブランド名でサービスを利用し、通常は販売店の利用規約に同意します",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、実際のサービス提供はプロバイダーによるため、プロバイダーの利用規約も適用されます",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル型契約の販売店は、サービスの提供責任を大部分負い、サポートやカスタマイズを行う場合もあります",
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "技術的な作業にうんざりしていませんか？コードで混乱することなくソフトウェア・ソリューションを提供したいですか？ホワイトレーベルSaaSがあなたの答えです！",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトレーベルSaaSとは、ある企業が開発・所有するソフトウェア製品やサービスを、別の企業が独自のブランド名で再ブランド化し、再販することを指します",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトレーベルSaaSは、開発時間やコストの削減、拡張性、市場投入までの時間の短縮、コア・コンピタンスへの集中など、さまざまなメリットを提供する",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "：分析機能、電子メールマーケティング、コラボレーション機能など、最先端のツールを提供します",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "：顧客やサービスを優先しながら、テクノロジー管理をプロバイダーに任せることができます",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "：新たなホワイトレーベル・サービスを導入したり、現在のサービスを拡張することで、収益を拡大することができます",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "にアクセスできるようにし、自社のラベルに変更して提供することができます",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアを開発する代わりに、彼らはそれをリブランドし、クライアントに提供し、代理店のロゴの下で彼らのソーシャルメディアアカウントを管理する",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトレーベルのSaaSは、ビジネスを迅速に拡大し、高品質のソリューションを提供し、車輪を再発明することなくクライアントとの関係を強化することを可能にする",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "この多機能なツールは、まさに仕事のためのすべてアプリであり、タスク管理、文書コラボレーション、時間追跡などのための包括的なソリューションを提供します",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "は、ホワイトレーベルのSaaSプロジェクトに取り組むチームに最適で、ビジネスがブランド化されたソリューションを効率的に提供できるようにします",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズ可能な機能により、特定のブランディングやワークフローのニーズに合わせてプラットフォームを調整することができ、クライアントにシームレスなエクスペリエンスを提供できます",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント向けのダッシュボードをホストしている場合でも、社内プロジェクトをホストしている場合でも、ホワイトレーベルはブランドアイデンティティに完全に合致し、洗練されたプロフェッショナルな外観を提供し、ユーザーの共感を呼びます",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "ClickUpは、あらゆるサイズのビジネスにスケーラブルなソリューションを提供します",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": ".このデータを活用して詳細なタイムレポートを作成し、チームの生産性とリソース配分に関する貴重な洞察を提供することができます",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "MicroSaaSホワイトラベル展開とは、自社で開発したSaaS製品を他社ブランドとして提供できる仕組みを指します",
+    "url": "https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "セールスキット提供：パートナー向けに販売資料、価格表、デモアカウントを整備",
+    "url": "https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "SLA（サービス品質保証）：可用性／レスポンスタイム／サポート対応時間を明文化",
+    "url": "https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "標準サポートポータル：FAQ、ナレッジベース、チケット管理を統一プラットフォームで提供",
+    "url": "https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした体制により、パートナーとともに安定したサービス品質を保ちやすくなります",
+    "url": "https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティングオートメーション：広告代理店が自社提供ツールとして展開し、代理店手数料＋利用料で収益化を目指すモデル",
+    "url": "https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "コーディングはカスタム機能に役立ちますが、職人業、クリニック、地域サービス向けの多くの中小企業サイトではほとんど必要ありません",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "ウェブサイトビルダー再販業者は、ホワイトラベルプラットフォーム上で構築したサイトを自社ブランドで販売するため、商品と提供プロセスがクライアントごとに繰り返されます",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "サービスページ、口コミ、見積もりフォーム、地図",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "HighLevelのSaaS Modeとホワイトラベルウェブサイトビルダーの比較",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "レビューと紹介と引き換えに、低めのセットアップ料金で5つの創業メンバー枠を提供しましょう",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "契約に至ったクライアント1件ごとに紹介クレジットを提供しましょう",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "溺れずにクライアントサイトを提供するには",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "15社目あたりから、プロセスを文書化していないと提供が大変になります",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "作業開始前に、ロゴ、色、サービス、写真、口コミ、営業時間、ドメインアクセスを集めましょう",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "：サービスにビルダーを追加",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "金融サービス向け",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "代替サービス",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "連携サービス",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "We.Inc と Simvoly の比較",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "We.Inc と Duda の比較",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "教育・生活サービス",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "② 業種別SaaS提供企業",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "をホワイトラベルとして自社ブランドで再販・提供するモデルは、この課題への最短解答として注目を集めています",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "SLA（サービス品質保証）やサポート体制が整備",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル元（プラットフォーム提供元）との契約内容",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "提供元による仕様変更・サービス終了時の補償条項",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "の場合、そのプラットフォーム提供元の経営状況まで調べることをお勧めします",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "単一のホワイトラベル提供元への依存度を下げておくことが、買い手の安心感につながります",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "を事前に確認し、必要であれば提供元と協議しておくことが不可欠です",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   }
+  ],
+  "単価・価格": [
+   {
+    "quote": "：ユーザーあたり月額7ドル",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "有料プランに追加する場合、メンバー1名につきワークスペース1つにつき月額7ドル",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "1,000コンタクトまで月額$15から",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "1,000コンタクトまで月額$49から",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "*パフォーマンス月額$479",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "*個人向け月額18ドル",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "*必須月額30ドル",
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "pass": 3
+   },
+   {
+    "quote": "Prices below are USD, checked as of September 2026; the VoiceAIWrapper and Stammer rows were rechecked in October 2026. “Annual” means the monthly equivalent of an annual commitment; taxes, usage and optional services may add to the total. The linked vendor pages in each profile support the comparison.",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "The current offer lists $20 per client per month billed annually, including white-label branding. Reporting is its central role; optional Rank Tracker and AI Tracker tools add tracking capabilities.",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "Premium is $100 monthly or $85/month annually and includes white-label reports. Ultimate is $200 monthly or $170/month annually and adds advanced white-label capabilities. The lower report-only price is not the full application-branding price.",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer now lists Pro White Label at $99/month for chat-and-voice resale. As of October 2026, extra agents cost $10/month each, Pro includes no minutes, and voice is priced by model at about $0.11 to $0.17/minute; the page does not say whether telephony is included. Its Enterprise page markets regulated-use capabilities that need to be confirmed for the agreed deployment.",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "Updated for October 2026: Replaced VoiceAIWrapper's retired $79 entry price with its current plans and two delivery modes, and resolved Stammer's extra-agent and usage details.",
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "pass": 3
+   },
+   {
+    "quote": "ニッチの選び方、プラットフォーム選定、プラン価格の決め方、そして最初の10社のクライアント獲得方法を解説します",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "AIでの作成は月額$20から",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "定額の月額料金を取るプラットフォームもあれば、プラン料金に加えて公開サイトごとの手数料を取るプラットフォームもあるため、契約前に10, 25 と50社の時点でのコストをモデル化しましょう",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "$99、$199、$349のプランを使った試算例では、月に約2社ずつ契約する1人の再販業者は、1年目終了時点でアクティブクライアント23社、月間経常収益$3,827、加えてその年に集めたセットアップ料金$21,000に達します",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "必要なのは、ニッチ、50社でも成り立つ料金体系のプラットフォーム、月額$99〜$349程度のシンプルなパッケージ、書面での契約、そして地道なアウトリーチの習慣です",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "月額$100〜$350を払える",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "12. How to Price Your SaaS Offer",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Model your real cost at 10, 20, and 50 clients, including usage fees, not just the headline price.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "In the SaaS Configurator, click Connect Stripe and authorise with a live Stripe account, not a test account. Stripe is the only supported processor for GoHighLevel SaaS billing, and it charges 2.9% plus $0.30 per successful transaction on top of your client price.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Click Add Plan and create each tier, for example Starter ($97/mo), Growth ($197/mo), Pro ($297/mo). For each, set the name, monthly price, optional annual price, trial length (0 to 30 days), and included features. GoHighLevel supports up to 20 pricing tiers, each mapped to a Stripe product automatically.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "12. How Do You Price Your White Label SaaS Offer?",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Do not price below $97/month.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Most white label SaaS businesses earn the majority of revenue from the mid-tier plan. Price it near 2x the Starter tier.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "If Starter is $97 and Pro is $147, clients always choose Starter. Create meaningful differentiation and a 2 to 3x price gap between tiers.",
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "pass": 3
+   },
+   {
+    "quote": "計算例（年間経常利益4,000万円の場合）",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "6,000万～1.2億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2億～2.4億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "1.0億～2.0億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "2.0億～4.0億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "1.6億～3.2億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "3.2億～6.4億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "年間経常利益3,000～5,000万円・取引総額2億～4億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "定着率が60%台から80%台に上がれば、評価倍率が1段階上がり、数千万円単位で売却額が変わることもあります",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "AIでの作成は月額$20から",
+    "url": "https://we.inc/ja/blog/white-label-website-builder-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月24日時点の料金ページでは、DudaのWhite Labelプランは月払いで月$199、4サイト込み、追加サイトは1件あたり月$17で、25サイトなら月約$556になります",
+    "url": "https://we.inc/ja/blog/white-label-website-builder-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "エントリープランではなく、1年間に想定するクライアントサイト数で各社の価格を計算してください",
+    "url": "https://we.inc/ja/blog/white-label-website-builder-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "安いエントリー価格にサイト単位の料金が付くと、20サイトや30サイトを超えた時点で定額プランより高くつくことがあります",
+    "url": "https://we.inc/ja/blog/white-label-website-builder-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "We.Incでは30分のデモ（https://calendly.com/hey-we/30min）を予約するところから始まり、そこで正確な料金もわかります",
+    "url": "https://we.inc/ja/blog/white-label-website-builder-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントの目に触れるあらゆる場所での自社ブランド表示、自社ドメイン上のクライアントサイト、直接あなたに支払うクライアント、その収益からの手数料なし、そして100サイトになっても正気を保てる価格です",
+    "url": "https://we.inc/ja/blog/white-label-website-builder-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "25サイトでの月額費用",
+    "url": "https://we.inc/ja/blog/white-label-website-builder-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "あなたのドメイン、ロゴ、価格で、完全にブランド化されたプラットフォームを5日間で立ち上げられます",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "月150ドル（ボリューム価格）",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "料金とプラン詳細は2026年9月に最終確認しました",
+    "url": "https://we.inc/ja/best/best-white-label-website-builders",
+    "pass": 3
+   },
+   {
+    "quote": "AIでの作成は月額$20から",
+    "url": "https://we.inc/ja/best/best-white-label-website-builders",
+    "pass": 3
+   },
+   {
+    "quote": "White Labelプランは年払い月額$149でサイト4件込み、追加は1件あたり月額$17のため、顧客サイト25件で約月額$506です",
+    "url": "https://we.inc/ja/best/best-white-label-website-builders",
+    "pass": 3
+   },
+   {
+    "quote": "CRMとファネルも必要なマーケティング代理店には、ホワイトラベルが月額約$297からのGoHighLevelが適しています",
+    "url": "https://we.inc/ja/best/best-white-label-website-builders",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベルは年払い月額$149のWhite Labelプラン以上でのみ利用可能",
+    "url": "https://we.inc/ja/best/best-white-label-website-builders",
+    "pass": 3
+   },
+   {
+    "quote": "サイト単位の料金：顧客サイト25件で約月額$506（$149＋追加21件×$17）",
+    "url": "https://we.inc/ja/best/best-white-label-website-builders",
+    "pass": 3
+   },
+   {
+    "quote": "White Labelプランは年払いで月額$149（月払いは$199）、サイト4件込み",
+    "url": "https://we.inc/ja/best/best-white-label-website-builders",
+    "pass": 3
+   },
+   {
+    "quote": "追加は1件あたり月額$17",
+    "url": "https://we.inc/ja/best/best-white-label-website-builders",
+    "pass": 3
+   },
+   {
+    "quote": "月額約$97から",
+    "url": "https://we.inc/ja/best/best-white-label-website-builders",
+    "pass": 3
+   },
+   {
+    "quote": "エントリー向けの住宅用卸価格は、大量利用で約$0.50/GB、小規模では$2-3/GB程度です",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "です：住宅用卸価格は$1/GB、専用のリセラーAPIとダッシュボード、自社ドメインでの本格的なホワイトラベル、低い最低デポジット$50に加え、再販ではなく紹介を選びたい場合には別途15%の生涯アフィリエイトプログラムもあります",
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Take BrightAgency, a 12-person marketing agency, and ReportStack, a white-label SEO reporting platform. ReportStack charges BrightAgency a wholesale rate of $30 per client per month. BrightAgency rebrands the dashboard as BrightAgency Insights and includes it in retainers at $99 per client per month.",
+    "url": "https://getreditus.com/resources/glossary/white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "With 40 clients on the platform, BrightAgency pays $1,200 per month and books $3,960, a margin of $2,760 before support time. Clients see only BrightAgency's brand and contact its team with questions.",
+    "url": "https://getreditus.com/resources/glossary/white-label-saas",
+    "pass": 3
+   }
+  ],
+  "導入期間・キャッシュ": [
+   {
+    "quote": "最低契約期間を6か月か12か月に設定する",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "スコープ、月次契約期間と解約予告期間、何が「編集」に該当するか、対応時間、支払日、カード決済が失敗した場合の扱い、解約時にクライアントが保持するもの（ドメイン、コンテンツ、ロゴ、写真）を明記しましょう",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "回収した経常収益：",
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "pass": 3
+   },
+   {
+    "quote": "実際、顧客定着率60%以上の再販事業では、買収後1～2年で投資回収が見えるケースが多く、これが高い買収意欲につながっています",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォームのマージンは、セットアップコストを回収すれば純利益となり、通常は最初の2〜3か月で回収できます",
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "pass": 3
+   }
+  ],
+  "市場規模・台数": [
+   {
+    "quote": "6,000万～1.2億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2億～2.4億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "1.0億～2.0億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "2.0億～4.0億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "1.6億～3.2億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "3.2億～6.4億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "年間経常利益3,000～5,000万円・取引総額2億～4億円",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "1億8,000万円～2億円前後",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 年買法で1.0～2.0億円、EBITDA倍率で2.0～4.0億円が目安です",
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/powersl_saas/n/n97fad60f8111",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clickup.com/ja/blog/254750/white-label-saas-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-shift.jp/flash_news/FN230331_6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saas-kurabe.com/articles/all-in-one/gohighlevel.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.viewneo.com/ja/company/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://we.inc/ja/blog/start-website-reseller-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-strategy.net/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABsaas%E5%A3%B2%E5%8D%B4%E3%81%AE%E7%9B%B8%E5%A0%B4%E6%9C%9F%E9%96%93%E6%88%90%E5%8A%9F%E6%88%A6%E7%95%A52026%E5%B9%B4ma%E5%AE%8C%E5%85%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unifyr.com/ja/atlas/white-labeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.libcon.co.jp/column/saas-marketsize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumierre.jp/research/saas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/media-it/saas/market-size",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://it.impress.co.jp/articles/-/19016",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-mind.ai/ja/blog/post/white-label-saas-reseller-business-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://we.inc/ja/blog/white-label-website-builder-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kinsta.com/jp/blog/white-label-hosting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://we.inc/ja/best/best-white-label-website-builders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataimpulse.com/ja-jp/blog/best-proxy-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lmsportals.com/post/reseller-profit-margins-in-white-label-saas-what-s-realistic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getreditus.com/resources/glossary/white-label-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chanimal.com/resources/pricing/reseller-margins/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://texterz.ai/blog/white-label-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resellportal.com/2026/03/23/9-high-margin-white-label-saas-products-to-resell-in-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-saas-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-label.com/blog/white-label-saas-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-saas-tools-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_elections",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Line_of_Fire_(2026_TV_series)",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ホワイトラベルSaaSの再販マージン",
+   "results": [
+    "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/",
+    "https://note.com/powersl_saas/n/n97fad60f8111",
+    "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "https://clickup.com/ja/blog/254750/white-label-saas-software/",
+    "https://digital-shift.jp/flash_news/FN230331_6",
+    "https://www.youtube.com/watch?v=YOCCmndzWW8",
+    "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "https://getchipbot-jp.quotion.co/post/update-44-%E6%96%B0%E3%81%97%E3%81%84%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%81%A8saas%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E6%A9%9F%E8%83%BD_tSaxk8jKrYyBLEs5sXPPd2",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://gambit.icu/blog/whitelabel-oem-resale-difference"
+   ]
+  },
+  {
+   "query": "ホワイトラベルSaaSの再販マージン 料金 相場",
+   "results": [
+    "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/",
+    "https://note.com/powersl_saas/n/n97fad60f8111",
+    "https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/",
+    "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "https://saas-kurabe.com/articles/all-in-one/gohighlevel.html",
+    "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "https://www.viewneo.com/ja/company/partners",
+    "https://we.inc/ja/blog/start-website-reseller-business",
+    "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "https://ma-strategy.net/ホワイトラベルsaas売却の相場期間成功戦略2026年ma完全/"
+   ]
+  },
+  {
+   "query": "ホワイトラベルSaaSの再販マージン 規模別 社数",
+   "results": [
+    "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/",
+    "https://note.com/powersl_saas/n/n97fad60f8111",
+    "https://www.unifyr.com/ja/atlas/white-labeling",
+    "https://www.libcon.co.jp/column/saas-marketsize/",
+    "https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/",
+    "https://lumierre.jp/research/saas/",
+    "https://clickup.com/ja/blog/254750/white-label-saas-software/",
+    "https://www.crex-data.com/industry/media-it/saas/market-size",
+    "https://it.impress.co.jp/articles/-/19016",
+    "https://ma-strategy.net/ホワイトラベルsaas売却の相場期間成功戦略2026年ma完全/"
+   ]
+  },
+  {
+   "query": "ホワイトラベルSaaSの再販マージン 比較 一覧",
+   "results": [
+    "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/",
+    "https://note.com/powersl_saas/n/n97fad60f8111",
+    "https://www.collabotips.com/guide/saas-distribution-agreement/",
+    "https://we.inc/ja/blog/white-label-website-builder-comparison",
+    "https://www.unifyr.com/ja/atlas/white-labeling",
+    "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "https://clickup.com/ja/blog/254750/white-label-saas-software/",
+    "https://www.viewneo.com/ja/company/partners",
+    "https://kinsta.com/jp/blog/white-label-hosting/",
+    "https://sales-mind.ai/ja/blog/post/best-white-label-sales-tools-agencies-2026"
+   ]
+  },
+  {
+   "query": "white label SaaS reseller margin",
+   "results": [
+    "https://www.lmsportals.com/post/reseller-profit-margins-in-white-label-saas-what-s-realistic",
+    "https://getreditus.com/resources/glossary/white-label-saas",
+    "https://chanimal.com/resources/pricing/reseller-margins/",
+    "https://texterz.ai/blog/white-label-saas",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://resellportal.com/2026/03/23/9-high-margin-white-label-saas-products-to-resell-in-2026/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://wotnot.io/blog/white-label-saas",
+    "https://saasdash.ai/blog/white-label-saas-licensing-economics",
+    "https://resellportal.com/2026/04/15/7-high-margin-white-label-saas-products-for-2026-resellers/"
+   ]
+  },
+  {
+   "query": "ホワイトラベルSaaSの再販マージン 2025 OR 2026",
+   "results": [
+    "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/",
+    "https://note.com/powersl_saas/n/n97fad60f8111",
+    "https://www.totalum.app/blog/white-label-saas-2026",
+    "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "https://www.youtube.com/watch?v=YOCCmndzWW8",
+    "https://clickup.com/ja/blog/254750/white-label-saas-software/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "https://www.wireflow.ai/blog/best-white-label-ai-saas-tools-in-2026",
+    "https://en.wikipedia.org/wiki/2026_United_States_elections"
+   ]
+  }
+ ],
+ "missing": {
+  "売り先の数": "記載なし（読んだ36頁・検索6回）",
+  "補助金": "記載なし（読んだ36頁・検索6回）"
+ }
+}

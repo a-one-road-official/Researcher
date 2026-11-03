@@ -1,0 +1,2079 @@
+{
+ "name": "製造オペレーター・技能工の中途採用",
+ "en": "factory operator skilled worker mid-career hiring cost Japan",
+ "aliases": [
+  "製造スタッフ 採用単価",
+  "技能工 採用",
+  "生産工程 求人"
+ ],
+ "context": "職種",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:01:25.144222+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法 | 採用スマートナビ | 採用戦略・手法・課題解決のノウハウ",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の採用コスト傾向と見直しの視点が分かります",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の傾向を把握することで、自社の採用コストを見直すきっかけになります",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別・雇用形態別の採用単価の相場目安",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別採用者一人当たりの求人広告費（職種別の採用コスト、採用単価）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別採用単価（営業／企画・経営／管理・事務）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別採用単価（販売・フード・アミューズメント／美容・ブライダル・ホテル・交通／医療・福祉）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別採用単価（保育・教育・通訳／クリエイティブ／WEB・インターネット・ゲーム）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別採用単価（コンサルタント・金融・不動産専門職／公共サービス／ITエンジニア）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別採用単価（電気・電子・機械・半導体／建築・土木／医薬・食品・化学・素材／技能工・設備・配送・農林水産）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数別中途採用予算と中予採用実績",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コスト（採用単価）職種別一覧！採用予算やコスト削減方法も解説まとめ",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "かつ、直近1年間の内定者のうち、実際に採用した数1人以上 ※不良回答を除いて集計】",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性（従業員一人当たりの付加価値額）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "【職種別】中途採用における求人広告費用の採用単価",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "【企業規模別】中途採用における求人広告費用の採用単価",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "【企業規模別】年間採用コストの相場",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、企業の採用担当者が押さえておくべき最新の採用コストデータを【計算方法】【雇用形態別】【職種別】【企業規模別】の4つの視点から集約して解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "【2024-2025動向】激変する職種別単価",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別のコスト構造",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は職種別の求人広告費用の平均採用単価一覧です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の従業員規模別、1人あたりの転職サイト（求人広告）の相場です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "1001人以上",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "1,001人以上の大企業は採用難易度の高さやプロモーション規模で高騰",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "1,001人以上の大企業においては、1人あたりの求人広告費の基準が大きく跳ね上がります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "自社が300人以下の中小規模であれば、まずはターゲットを絞った特化型媒体の活用により無駄な広告費を抑えやすくなります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用における年間の採用予算と、実際にかかった費用の平均値を企業規模別に解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数が多い企業ほど、事業拡大や退職補充による採用ニーズが高まるため、年間の投資額は大きくなります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "中途の採用単価は一人当たりどれくらい？職種別・企業規模別の平均値や採用単価を抑える方法を解説",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "内部コストは、社内の採用活動で発生するコストであり、主に人事担当者や選考に関わる従業員の人件費、採用者にかけたコストが該当します",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "職種別、企業規模別にみる中途の採用単価",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "」では、職種別や企業規模別の採用単価を公表しています",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "このデータをもとに、職種別・企業規模別の中途の採用単価をみていきましょう",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "【職種別】中途の採用単価",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "【企業規模別】中途の採用単価",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "フリーランス・副業人材登録数 64,900人以上",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "（2）地域別の労働需給の見通し",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中期的な労働需給の見通しを都道府県別に推計したものとして、パーソル総合研究所・",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 2 都道府県別に見た人手不足",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数過不足数DI3に注目すると、 サービス業については、人手不足感が強まった2012",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 9 従業員数過不足数 DI の推移",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 従業員数過不足数 DI とは、従業員の今期の状況について、 「過剰」と答えた企業の割合（%）から、 「不足」と答えた",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、 従業員規模別に見ると、 大企業と中小企業ともに、 特に確保に課題がある人材",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（3）職種別の従業員の過不足状況",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省実施の 「労働経済動向調査」 は、 業種別に職種ごとの人手不足感を調査して",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 11 職種別の従業員過不足状況 DI",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、経済産業省実施のアンケート調査5において、従業員規模別に製造業企業の人材",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "輸送用機械器具製造業に属する従業員数 5 人以上の企",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以下の図表のとおり、ものづくり産業の企業は従業員規模が小さいほど、 過去3 年間で",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用についても同様に従業員規模が小さいほど採用を実施していない傾向にある",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「募集しなかった」と答えた割合に注目すると、300 人以上の企業を除けば、新卒の方",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2）地域別の労働需給の見通し",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "（3）職種別の従業員の過不足状況",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省実施の「労働動向経済調査」は、業種別に職種ごとの人手不足感を調査している",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 過去3年以内に女性を採用した企業の割合は、新卒、中途ともに従業員規模が小さくなるほど少なくなる傾向にある",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 概ね従業員規模が小さいほど若い人材の採用、自社の採用の応募数、求める人材の採用において課題を抱えている",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、従業員数が300人以上の企業はそれ未満の企業と比べて、様々な取組を実施しており、人材の定着にその豊富な経営資源を投入している",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ3：「職場・工場見学」「職場・工場体験」「希望配属先の従業員との面会」等を通じ、「職場の雰囲気」「実際の仕事内容」を体験",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法 | 採用スマートナビ | 採用戦略・手法・課題解決のノウハウ",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価を下げる3つの実践アプローチ",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用コストの平均単価や相場、費用【2026年最新版】削減ポイントを解説",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "1．採用コストの相場",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2．そもそも採用コストとは？",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "3．採用コスト削減のポイント",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価に関係してくるコストには「外部コスト」と「内部コスト」の大きく2種類があります",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "503.7万円",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "400.3万円",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "155.5万円",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "142.1万円",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "226.6万円",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "日給1.1万円〜1.3万円 / 交通費支給",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給37万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "日給1万円 / 交通費支給",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "10/31(土)限定！ 6時間×日給1万円の短期単発ワーク ️ マニュアルに沿って声をかけるだけ◎ 未経験大歓迎♪楽しい旅のアンケート集め！ ＜男女比率＞ 女性が多い ・・✧・・ 男性が多い ＜職場の様子＞ にぎやか ✧・・・・ しずか ＜仕事の仕方＞ てきぱき ・・✧・・ 地道に 1日だけの特別ワーク！ 旅の思い出を楽しくリサーチ♪ Ｖ 「1日だけサクッと働いて、お小遣いを稼ぎたいな」 「せっかくなら、ちょっと特別な、面白い仕事をしてみたいな！」 そんなあなたの要望にピッタリ！ 10月31日の土曜日だけ、茨城で人気の観光スポットで アンケートのお手伝いをしてみませんか？ 最",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜43万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給23万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "ただし月給の下限は67.6%が26万円未満",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "pass": 3
+   },
+   {
+    "quote": "応募を検討できる月給の下限は、18万〜22万円未満が34.2%で最も多く、22万〜26万円未満の29.1%と合わせると67.6%が月給26万円未満でも応募を検討すると答えました",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "pass": 3
+   },
+   {
+    "quote": "30万円以上を求める人は15.8%でした",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、給与を重視する人の割合は、月給の下限が22万円未満の層で65.4%、26万円以上の層で67.3%と、ほとんど差がなく、給与を重視する人が高い給与を求めているとは限らないことが",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員登用の可能性があれば派遣・契約でも可と答えた人は、女性（46.5%、男性は21.4%）、子どもがいる人（41.5%、いない人は24.5%）、月給の下限が22万円未満の人（49.6%）で多い傾向がありました",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "pass": 3
+   },
+   {
+    "quote": "給与を重視する人でも、多くは月給26万円未満で応募を検討しています",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "pass": 3
+   },
+   {
+    "quote": "このとき、給与を重視する人の多くは月給26万円未満でも応募を検討している、夜勤をなくすと応募を検討できる人が最大約1.8倍になる、という調査結果を添えると、給与を上げる前に募集条件を見直す根拠として説明できます",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "pass": 3
+   },
+   {
+    "quote": "給与は求人を選ぶ条件の1位ですが、応募を検討できる月給の下限は67.6%が26万円未満でした",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円〜900万円 / 昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "ハウスメーカーの総務人事／リーダー／岡山／健康経営優良法人企業／年収500万円以上",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円〜849万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] 【必須】 普通自動車免許 総務人事のご経験をお持ちの方 マイカー通勤が可能な方 【募集年齢（年齢制限理由）】 45歳くらいまで（ 特定年齢層の特定職種の労働者が相当程度少ないため ） 【職種名】 ハウスメーカーの総務人事（リーダー／岡山）★健康経営優良法人企業／年収500万円以上★ 【仕事内容】 転勤なし／年間休日110日／平日休み／経験者募集／年収500万円以上／正社員 岡山市南区の総務人事のお仕事です 総務人事業務に従事していただきます",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給23万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "「経理」／月給35万円スタート／完全週休2日／有給消化率100%",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給35万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "WITHDOM Chiba株式会社 【経理】◆月給35万円スタート／完全週休2日／有給消化率100% ※応募に当たっては、マイナビ転職の会員登録が必須となっております",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "経理担当／年収520～650万円／正社員を見据えた採用です！",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収520万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＴＨＥ ＳＥＶＥＮ（TBSホールディングスグループ） 経理担当／年収520～650万円／正社員を見据えた採用です！ 【求人要約】 【TBSグループ】映像制作の熱気を身近で感じる経理 【正社員登用前提】長期キャリアを見据えた採用 【働き方抜群】実働7h・フレックス・リモートOK 『今際の国のアリス』『幽☆遊☆白書』等の制作会社で 世界的ヒット作をバックオフィスから支える経理募集！ 当社は、TBSグループの世界進出を支える戦略的子会社として、2022年にTBSが300億円を出資して誕生しました",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給24万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円〜50万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収570万円〜632万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20.6万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "27万円～50万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "40万円～60万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "26万5000円～40万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円～31万3300円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "21万円～36万1200円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円以上",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "33万円以上",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "29万円以上",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円以上",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "22万円～35万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "23万3000円～28万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "21万500円～30万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "25万円～40万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "21万円～28万6000円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "26万円～50万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "150万円以上",
+    "url": "https://tenshoku.mynavi.jp/woman/list/o1B1/",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "【ベース：2023年の求人広告に広告費をかけた職種がある",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "採用者一人当たりの求人広告費は平均約20万円～30万円台で推移",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "：知名度やスケールメリットが広告費・年間総予算（最大1,470万円）に与える影響",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍以降の採用急回復期（2024年頃まで）の一時的な広告費高騰が落ち着きを見せたこと、またタイミーなどの「スポットバイト（スキマバイト）」アプリの普及、SNSや無料求人媒体を活用した効率的な採用手法（採用オウンドメディアなど）へのシフトが進んだことが要因と考えられます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の規模によって1人あたりにかける求人広告費に差が生じています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "転職サイトの長期掲載プランや複数名採用枠などを活用することで、広告のボリュームディスカウントが利きやすくなり、1人あたりの求人広告費を27.1万円と最も低く抑えられている",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "1,001人以上の大企業においては、1人あたりの求人広告費の基準が大きく跳ね上がります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの数値を単純計算すると、中途の採用コストの総額は、2,200万円ほどとなるでしょう",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新】技能実習生を受け入れると総額費用はどれくらい？内訳ごとに徹底解説",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "求人広告・求人媒体",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告相談",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "Indeed PLUS運用代行",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックス運用代行",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバー人材紹介",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバー人材紹介 BE DRIVER",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "Indeed・Indeed PLUS",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "マザーズ上場のWEB広告代理店でWEBマーケティング、求人広告、人材紹介の立ち上げを経て、東証一部上場企業子会社の執行役員として活躍",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、大手求人広告代理店でNo1セールスから取締役を経験し、2013年にbサーチを創業",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別採用者一人当たりの求人広告費（職種別の採用コスト、採用単価）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "【求人広告】の採用予算と実績",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用を行う（採用コスト削減）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "職種ごとに、採用者一人当たりの求人広告費（転職サイト、折込求人紙、新聞の求人欄、フリーペーパーなど）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "【ベース：2023年の求人広告に広告費をかけた職種がある",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告を利用した際の一人当たりの採用コスト（採用単価）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "Indeed・",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "【職種別】中途採用における求人広告費用の採用単価",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "【企業規模別】中途採用における求人広告費用の採用単価",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告サイトの見直し",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "1．求人ボックス",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "：採用コスト（採用単価）と求人広告費用の明確な違いと算出式",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、採用コストの中でも求人広告費にかかるコストを「求人広告費用」といいます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "「求人広告費総額」÷「採用人数」＝「一人あたりの求人広告費用」",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は職種別の求人広告費用の平均採用単価一覧です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告の手法だけでなく、ダイレクトリクルーティングや人材紹介の併用を迫られるケースも増えています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の従業員規模別、1人あたりの転職サイト（求人広告）の相場です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の規模によって1人あたりにかける求人広告費に差が生じています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "一人あたりの求人広告費",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "転職サイトの長期掲載プランや複数名採用枠などを活用することで、広告のボリュームディスカウントが利きやすくなり、1人あたりの求人広告費を27.1万円と最も低く抑えられている",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "・求人広告費",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "・人材紹介費",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "・リファラル採用のインセンティブ",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "最もコストがかかっているのは、人材紹介です",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介はダイレクトに採用につながるため効率的な採用が可能となりますが、紹介手数料が発生する点で高額になりやすい採用手法です",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "このデータでいえば、多くの企業が人材紹介、ダイレクトリクルーティング、合同企業説明会に力を入れていることがわかります",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "とくに人材紹介のような、直接的に採用につながるサービスほど高くなるでしょう",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "知り合い・社員等からの紹介（縁故）",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "一方、SNSやリファラル採用、自社の採用サイトといった内部リソースを活用した採用手法は、採用単価はそれほど高くありません",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアの採用支援・人材紹介 - Workship CAREER",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "一方、近年の高等専門学校の卒業者数は 1.6 万人程度で推移し、 「就職も進学もしてい",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）文部科学省「学校基本調査」（2018）を基に、みずほ総合研究所作成",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "専修学校・外国",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の学校等入学者",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、ハローワークに",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・企業における定年延長等の促進やハローワークにおける再就職支援の強化に取り組むとともに、シルバ",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）公共職業安定所（ハローワーク）",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "公共職業安定所 （ハローワーク）は、 都道府県労働局が地域の産業・雇用失業情勢に応",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（ハローワーク）",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に、 中小企業はハローワークへの求人情報掲載だけでな",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 中小企業は、ハローワーク、親戚・知人・友人の紹介、新聞・雑誌等の紙媒",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "体の求人広告が採用活動において効果的であると認識",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ 1：「各種の求人広告」、「企業が情報発信するウェブサイト」等を通",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 2）2 節以降の分析では、実際の母集団の割り付けを反映させるため、 「平成 28 年度学校基本調査」 、 「平成 29",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、利用中の割合に注目すると、ハローワーク、自社ホームページ、学校訪問、従業",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、近年の高等専門学校の卒業者数は1.6万人程度で推移し、「就職も進学もしていない者」の割合は既に低い状態で推移しており、労働供給力は現状で限界に達している",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "（ハローワーク）",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ ハローワーク、親戚・知人・友人の紹介、新聞・雑誌等の紙媒体の求人広告",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ1：「各種の求人広告」、「企業が情報発信するウェブサイト」等を通じ、働くにあたっての基本情報を提供",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "2節以降の分析では、実際の母集団の割り付けを反映させるため、「平成28年度学校基本調査」、「平成29年就業構造基本調査」のデータを用いてウェイトバック集計を行った",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "特に介護や運送業、製造業では慢性的な人手不足の問題を抱えており、今後さらに問題は深刻化していくと予想されています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業の国内回帰や、建設ラッシュに伴う慢性的な人手不足が影響しています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "計画通りに採用が進まなかった（採用未充足）ケースや、無料のハローワーク、安価な求人媒体、リファラル採用（社員紹介）などをうまく組み合わせてコストを抑えられた企業が多い",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的に使用している場合、「何十万円も費用をかけているにもかかわらず、一人しか採用できなかった」「一人も応募が来なかった」などの声もあります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "採用工数や人手不足が一気に解消され、コア業務に集中できるメリットがあります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、景気拡大に伴って企業の人手不足は深刻化し、 その影響は経営体力に乏しい中小企業に",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上のような背景のもと、本研究では、 公開資料・統計を用いて、 我が国全体の人手不足及び",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業の人手不足の実態について概観するとともに、 政府の政策的トレンド、中小製造業が",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 章 我が国の人手不足の行方と中小製造業の現状 .................................................................... 5",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1．今後の人手不足の行方 .............................................................................................................. 5",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．中小製造業の人手不足の実態 ................................................................................................ 12",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 章 中小企業の人手不足に対する政府の認識・関連施策 ...................................................... 17",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうした人手不足の状況は、労働力人口の減少に伴って、今後も持続することが見込まれ、",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "るポイントを明らかにし、 今後もますます深刻化することが見込まれる人手不足に対応す",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本研究では、 まず第1 章において、 我が国全体の人手不足及び中小製造業の人手不足の",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "では、中小企業の人手不足に関する先行研究について検討を行い、 本研究における分析の",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "既存の文献や統計を用いて、我が国全体の人手不足及び中小製造業の人手不足の実態に",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 章 我が国の人手不足の行方と中小製造業の現状",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、 まず、 「1. 今後の人手不足の行方」 において、 労働市場のデータの整理を通",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "して、 我が国の人手不足の現状について確認を行う",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうした人手不足の状況は、労働力人口の減少に伴って、今後も持続することが見込まれ、企業は様々な採用活動上の工夫に取り組んでいる",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "以上を踏まえて、本研究は、経営資源に制約のある中小製造業の技能人材の確保におけるポイントを明らかにし、今後もますます深刻化することが見込まれる人手不足に対応するための取組の方向性を示すことを目的とする",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "既存の文献や統計を用いて、我が国全体の人手不足及び中小製造業の人手不足の実態について確認するとともに、政府の政策のトレンドについて整理した",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 我が国の人手不足の行方と中小製造業の現状",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "1．今後の人手不足の行方",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "（1）生産年齢人口の減少により、人手不足は慢性化する可能性あり",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "生産年齢人口の中長期的な減少が見込まれていることは、人手不足が中長期的に慢性化する可能性を示している",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "パーソル総合研究所・中央大学「労働市場の未来推計 2030」（2018）によると、2030年時点においても全国的に人手不足が続いていることが分かる",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "労働力の流動化は、人手不足にある中小企業にとっては、中途採用において好機である一方で、自社の人材が流出しないように人材定着に力を入れる必要がある",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も外国人労働者市場は拡大することが見込まれ、人手不足で課題を抱える中小企業は、外国人労働者の雇用も念頭に置いた採用戦略・社内環境整備を講じる必要がある",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "2．中小製造業の人手不足の実態",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "（1）中小製造業の人手不足感は、サービス業と同水準まで強まった",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業については、2012年時点では、建設を除くと最も人手不足感の強い産業であったが、省力化投資の進展を背景に近年は緩やかに推移している",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、製造業の人手不足感は急激に進行しており、2018年時点ではサービス業の水準まで強まった",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省実施の「労働動向経済調査」は、業種別に職種ごとの人手不足感を調査している",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に対応した事業所のうち69%が中途採用を挙げ、対応の中心は中途採用です",
+    "url": "https://lassic.co.jp/media/person/labour-demand-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、この数字の作り方、産業別の不足感、不足部門に対して企業が実際に何をしたか、そして令和9年新卒の採用計画までを整理します",
+    "url": "https://lassic.co.jp/media/person/labour-demand-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員等の不足感が高いのは、",
+    "url": "https://lassic.co.jp/media/person/labour-demand-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "不足感が高いのは",
+    "url": "https://lassic.co.jp/media/person/labour-demand-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "前年の未充足がそのまま翌年の増員計画になっている、という循環が読み取れます",
+    "url": "https://lassic.co.jp/media/person/labour-demand-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "4つ目は、新卒の未充足を翌年に持ち越さない設計です",
+    "url": "https://lassic.co.jp/media/person/labour-demand-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、不足感と対応です",
+    "url": "https://lassic.co.jp/media/person/labour-demand-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業の人手不足はどの程度ですか",
+    "url": "https://lassic.co.jp/media/person/labour-demand-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし同時に、正しい順序で手を打てば、人手不足のなかでも利益を伸ばしている会社が実在するのも事実です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は全産業平均を大きく上回る",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」を見ると、製造現場の中核職種である「生産工程の職業」の有効求人倍率は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率の水準",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "職業別有効求人倍率は毎月更新されるため、引用時は最新月の参考統計表をご確認ください",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業の人手不足」と一括りにせず、自社のどの職種・どの工程が構造的に採れないのかを特定する",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業の人手不足をデータで読む」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」は過去最多を更新",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "欠員の常態化",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "最も優秀な人材に欠員のしわ寄せを集中させるのは、短期的には合理的に見えて、中期的には最悪の一手です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足の解決策7選｜求職者330人調査でわかった応募が来る求人条件を解説 | ウィルオブ採用ジャーナル",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法 | 採用スマートナビ | 採用戦略・手法・課題解決のノウハウ",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事の相場は調査時期・出典により幅があります",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "労働市場や他社の求人情報を調査する（応募率改善）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "かつ、直近1年間の内定者のうち、実際に採用した数1人以上 ※不良回答を除いて集計】",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2024年版（2023年実績）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2025年版（2024年実績）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2026年版（2025年実績）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度は、コロナを経て採用を停止していた企業も採用活動を再開しています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2022年度と比較すると2023年度の一人当たりの採用コスト（採用単価）は減少しました",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "各職種や業界の景気の戻り速度に応じて2024年度は増加しています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度の販売・フード・アミューズメントの一人当たりの採用コスト（採用単価）は、コロナの影響によりおそらくほぼ採用する必要性がない状態であったため、非常に低くなっています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度以降は、少子高齢化や労働力不足・景気回復も見込まれるため、一人当たりの採用コストは徐々に増加していくと想定されましたが、2023年度は前年より減少しています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ／WEB・インターネット・ゲームでは、2022年度の一人当たり採用コスト（採用単価）は増加しています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "就職白書2020",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度と2025年度の比較ができます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2026年版（2025年実績）",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の従業員規模別、1人あたりの転職サイト（求人広告）の相場です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "年度や成果によって定期的に見直しをかけ一番効果的な採用手法を選択すると良いでしょう",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "採用にまつわる独自の調査レポートが届く",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2024年版（2023年実績）",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "リクルート株式会社が運営する就職みらい研究所の「就職白書2020」によると、2019年度の中途採用一人当たりの採用コストは「103.3万円」でした",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度の中途の採用単価は83万円であり、増加傾向にあることがわかります",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "採用における人材サービスの利用に関するアンケート調査結果の概要",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "」では、自社と採用社のマッチング満足度についての調査も行っています",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "・入社初年度の年収額を上げた",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "pass": 3
+   },
+   {
+    "quote": "コスト 万円 製造オペレーター技能工の中途 調査の求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "製造オペレーター技能工の中途 コスト 調査 万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "必要な資格や経験はないので、様々な経歴の方が活躍中です お仕事の流れ： ・調査に入る前に、綿密な作戦会議を行います",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "指定店舗の接客を受ける覆面調査のお仕事",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "指定店舗へ訪問する覆面調査・報告業務です",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "依頼主である企業様の各店舗が企業の方針にそって正しく運営されているかどうかの「社内調査」のための作業となります",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "※調査対象店舗に関する情報は応募後、作業手順内で開示しておりますので応募後ご確認をお願いします",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "店舗訪問（30分～60分程）と事前準備＆調査報告（30分程）のお仕事です",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "調査目的・意義に沿った回答で提出をお願いします",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "※調査に集中していただ",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "浮気調査や素行調査に携わる大事な業務になります",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "発掘調査作業補助（伏見区羽束師）",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "特定非営利活動法人 平安京調査会",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "発掘調査における、スコップや移植ごてなどでの掘削や土の運搬（ 少量の）、発掘調査面での手ガリによる薄い層の剥ぎ取りなど 変更範囲：変更なし 働きながら、歴史を学びませんか？調査しているところの歴史をレ クチャーしながら調査を進めていきます",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "交通量調査員／11／10・12交通量調査スタッフ／水戸＆ひたちなか",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "調査研究報告 No.133",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動に関する調査研究",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたことから、調査研究を通して、",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を対象としたアンケート調査 や、中小製造業及び公的支援機関 を対象としたインタビュー調査",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、 調査にあたりアンケート調査及びインタビュー調査にご協力いただいた皆様に、 改め",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査概要 ................................................................................................................................................. 3",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1．調査の目的 ................................................................................................................................. 3",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．調査方法 ..................................................................................................................................... 3",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．アンケート調査で明らかにする 4 つのリサーチ・クエスチョン .................................... 41",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 5 章 インタビュー調査結果.......................................................................................................... 59",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1．インタビュー調査の概要 ........................................................................................................ 59",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3．中長期な視点で実施する必要がある取組 .......................................................................... 135",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1．調査の目的",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査・インタビュー調査の結果について整理・分析を行う",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．調査方法",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業の採用活動に関する調査研究～技能人材の確保に向けて～ | 中小企業研究センター",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "調査研究事業",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "調査研究報告書",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "503.7",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "quote": "503.7万円"
+   },
+   {
+    "value": "400.3",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "quote": "400.3万円"
+   },
+   {
+    "value": "155.5",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "quote": "155.5万円"
+   },
+   {
+    "value": "142.1",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "quote": "142.1万円"
+   },
+   {
+    "value": "226.6",
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "quote": "226.6万円"
+   },
+   {
+    "value": "25",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給25万円"
+   },
+   {
+    "value": "1.1",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "日給1.1万円〜1.3万円 / 交通費支給"
+   },
+   {
+    "value": "1.3",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "日給1.1万円〜1.3万円 / 交通費支給"
+   },
+   {
+    "value": "37",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給37万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "1",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "日給1万円 / 交通費支給"
+   },
+   {
+    "value": "43",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給25万円〜43万円"
+   },
+   {
+    "value": "30",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給30万円"
+   },
+   {
+    "value": "23",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給23万円"
+   },
+   {
+    "value": "26",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "quote": "ただし月給の下限は67.6%が26万円未満"
+   },
+   {
+    "value": "22",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "quote": "応募を検討できる月給の下限は、18万〜22万円未満が34.2%で最も多く、22万〜26万円未満の29.1%と合わせると67.6%が月給26万円未満でも応募を検討すると答えました"
+   },
+   {
+    "value": "30",
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "quote": "30万円以上を求める人は15.8%でした"
+   },
+   {
+    "value": "400",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収400万円〜900万円 / 昇給あり"
+   },
+   {
+    "value": "900",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収400万円〜900万円 / 昇給あり"
+   },
+   {
+    "value": "500",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "ハウスメーカーの総務人事／リーダー／岡山／健康経営優良法人企業／年収500万円以上"
+   },
+   {
+    "value": "849",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収500万円〜849万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "23",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給23万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "35",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "「経理」／月給35万円スタート／完全週休2日／有給消化率100%"
+   },
+   {
+    "value": "650",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "経理担当／年収520～650万円／正社員を見据えた採用です！"
+   },
+   {
+    "value": "520",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収520万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "24",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給24万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "30",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給30万円〜50万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "50",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給30万円〜50万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "570",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収570万円〜632万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "632",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収570万円〜632万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "20.6",
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給20.6万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "27",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "27万円～50万円"
+   },
+   {
+    "value": "50",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "27万円～50万円"
+   },
+   {
+    "value": "40",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "40万円～60万円"
+   },
+   {
+    "value": "60",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "40万円～60万円"
+   },
+   {
+    "value": "20",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "20万円～31万3300円"
+   },
+   {
+    "value": "21",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "21万円～36万1200円"
+   },
+   {
+    "value": "33",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "33万円以上"
+   },
+   {
+    "value": "29",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "29万円以上"
+   },
+   {
+    "value": "22",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "22万円～35万円"
+   },
+   {
+    "value": "35",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "22万円～35万円"
+   },
+   {
+    "value": "28",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "23万3000円～28万円"
+   },
+   {
+    "value": "30",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "21万500円～30万円"
+   },
+   {
+    "value": "25",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "25万円～40万円"
+   },
+   {
+    "value": "26",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "quote": "26万円～50万円"
+   },
+   {
+    "value": "150",
+    "url": "https://tenshoku.mynavi.jp/woman/list/o1B1/",
+    "quote": "150万円以上"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://levtech.jp/partner/guide/article/detail/317/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmsc.co.jp/corporate/recruit/196/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/273906.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lassic.co.jp/media/person/labour-demand-survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/press/documents/20080403.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/15224/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.emuniinc.jp/2025/02/14/labor-shortage-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wi-t.co.jp/outline/recruiting/guide/job-factory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saijinsha.co.jp/operator-skilled-job/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/woman/list/o1B1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/keyword/%E6%8A%80%E8%83%BD%E8%81%B7/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造オペレーター・技能工の中途採用 採用単価 規模別",
+   "results": [
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://levtech.jp/partner/guide/article/detail/317/",
+    "https://www.jmsc.co.jp/corporate/recruit/196/",
+    "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://saiyo.employment.en-japan.com/blog/unit-cost-of-mid-career-recruitment"
+   ]
+  },
+  {
+   "query": "製造オペレーター・技能工の中途採用 採用コスト 調査 万円",
+   "results": [
+    "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://www.tv-tokyo.co.jp/plus/external-pr/entry/273906.html",
+    "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "https://www.jmsc.co.jp/corporate/recruit/196/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://umai-jinji.jp/column/other-86/"
+   ]
+  },
+  {
+   "query": "製造オペレーター・技能工の中途採用 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/",
+    "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "https://souken.suke-dachi.jp/blog/2024_mid_career_survey",
+    "https://career-research.mynavi.jp/post/reserch_cat/career-survey2/"
+   ]
+  },
+  {
+   "query": "製造オペレーター・技能工の中途採用 採用経路 割合 調査",
+   "results": [
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://lassic.co.jp/media/person/labour-demand-survey/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.jil.go.jp/press/documents/20080403.pdf",
+    "https://corp.skillnote.jp/news/260403-2/",
+    "https://souken.suke-dachi.jp/blog/2024_mid_career_survey"
+   ]
+  },
+  {
+   "query": "製造オペレーター・技能工の中途採用 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "https://corp.skillnote.jp/news/260403-2/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://willof-work.co.jp/journal/15224/",
+    "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "https://media.emuniinc.jp/2025/02/14/labor-shortage-manufacturing/",
+    "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions"
+   ]
+  },
+  {
+   "query": "製造オペレーター・技能工の中途採用 白書 採用",
+   "results": [
+    "https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://wi-t.co.jp/outline/recruiting/guide/job-factory.html",
+    "https://www.r-agent.com/job_search/kw/%E6%8A%80%E8%83%BD%20%E5%B7%A5%20%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8/",
+    "https://saijinsha.co.jp/operator-skilled-job/",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://tenshoku.mynavi.jp/woman/list/o1B1/",
+    "https://doda.jp/keyword/%E6%8A%80%E8%83%BD%E8%81%B7/",
+    "https://www.jac-recruitment.jp/search/mechanical-engineer/44bc18cc-409d-47e7-89d9-858ab0eeaeaa/",
+    "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "https://hokiraon.jp/column/seizougyou-saiyou/"
+   ]
+  }
+ ],
+ "missing": {}
+}

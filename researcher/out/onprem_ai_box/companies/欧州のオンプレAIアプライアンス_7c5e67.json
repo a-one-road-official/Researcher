@@ -1,0 +1,2948 @@
+{
+ "name": "欧州のオンプレAIアプライアンス",
+ "en": "European on-premise AI appliance",
+ "aliases": [
+  "EU sovereign AI appliance",
+  "GDPR on-prem LLM box",
+  "on-premise AI",
+  "on-prem AI",
+  "AI appliance",
+  "private AI",
+  "air-gapped AI",
+  "local LLM",
+  "オンプレ",
+  "生成AI"
+ ],
+ "context": "欧州",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:58:11.742315+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "Yowie Storage Appliances",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Yowie Single Node Appliances",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Yowie Multi node Appliances",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, of course. integration with identity providers (SSO, LDAP) and data sources (document stores, databases, sharepoints, and more) is supported.",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Simply fill out the contact form below, and one of our AI experts will get in touch with you shortly to give you a no-obligation demonstration of how you can set up your own Yeren® Local AI Box – fully tailored to your individual requirements – in no time at all.",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "EU launches InvestAI initiative to mobilise €200 billion of investment in artificial intelligence",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": "VMware Cloud Providers: Get started in cloud storage, free.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Service Providers",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Best AI Storage Providers: Top 5 Solutions to Know in 2026",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Best AI Storage Vendors: Top 5 Options in 2026",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Critical infrastructure providers",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "As a Fujitsu company, we bring Japanese reliability and European sovereignty. Gartner recognized Fsas Technologies as an Emerging Leader in Generative AI Engineering. Gartner also recognized us as an Emerging Visionary in Generative AI Model Providers.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and Inference Suite to Step-Up AI Inference Privacy, Flexibility and Costs Savings Across Enterprise and Industrial Verticals | Qualcomm",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and Inference Suite to Step-Up AI Inference Privacy, Flexibility and Costs Savings Across Enterprise and Industrial Verticals",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI On-Prem Appliance Solution is designed for generative AI inference and computer vision workloads on dedicated on-premises hardware – allowing sensitive customer data, fine-tuned models, and inference loads to remain on premises.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Aetina, Honeywell, and IBM are amongst the first wave of industry leaders supporting the AI On-Prem Appliance and AI Inference Suite.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm® AI On-Prem Appliance Solution",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI On-Prem Appliance Solution",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "of accelerators. It combines the accessibility and performance of a datacenter inference server with the power efficiency, weight and form factor, data privacy, personalization and control of an on-premises AI solution. The AI On-Prem Appliance Solution supports wide ranging capabilities:",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "family of AI models for deployment across On-Prem AI appliances, in addition to cloud, to support a range of enterprise and industrial use cases in automotive, manufacturing, retail, and telecommunications.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Interested enterprise users and developers can assess the possibilities of the Qualcomm AI On-Prem Appliance Solution and capabilities of AI Inference Suite can find more information in our",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Appliance and Box",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Unveils AI-Native Broadband Innovations Across Fiber, Wi-Fi 8, Fixed Wireless, and Network Infrastructure and Security at Network X 2026",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "AI On-Prem Appliance",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business 2026",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Appliances",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business (2026)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "private AI appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "— ships the complete appliance: hardware plus the AirgapAI local inference app plus the Blockify accuracy engine, all preconfigured and deployable in weeks. Read on for the full comparison and where each option fits best.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Private AI Appliance Comparison",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Complete appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Server or appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated appliance or on-premise install",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": ", then set that result against a complete appliance such as",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Complete Appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "From department to data center, scale your AI infrastructure with purpose-built appliances designed for enterprise security and performance.",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "One-click application launches for immediate productivity",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The NVIDIA GB300 has arrived, and the first appliance is already shipped and live at a client site.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox the appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Data-center class NVIDIA Grace Blackwell platforms, delivered as a sovereign, on-premise, air-gapped appliance. Two form factors, sized for teams or full organizations.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "The appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Incirt runs knowledge assistants entirely on the appliance: no token costs, no per-seat metering, and intellectual property that never leaves the perimeter.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Coding agents running fully on the appliance, with no token limits.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GB10 · compact desktop appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid setup: add your own API keys for external providers, or run fully local with no outbound calls",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SSO-ready: integrates with enterprise identity providers when enabled",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Does it support enterprise identity providers (SSO)?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Can we mix local models and external providers?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "From cloud to AI in a Box: the recipe behind the 88%",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Hardware, Enterprise AI Appliance | Go.AI",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "AI in a Box",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-Built AI Appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "Yeren Local AI | Secure On-Premise AI-in-a-Box – Made in Europe",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem deployment = no more data leaks",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Imagine your AI working faster, more securely, and completely independently – right within your own network. No cloud, no data leaks, no waiting times.",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn your meetings into knowledge assets with full data privacy and on-premise processing to avoid cloud delays.",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Summarises discussions, captures and tracks action items using local transcription with real-time or batch processing that's totally offline.",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "With Yeren Local AI, your data never leaves your network. No cloud, no leaks, no dependencies – just full autonomy and performance tailored to your business. Whether it’s powering smart automation, creating private knowledge bases, or deploying intelligent chatbots, Yeren Local AI gives you enterprise-grade capabilities with complete data sovereignty.",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI Servers: A high growth & underserved market - Giannis Kampiotis",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI Servers: A high growth & underserved market",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": "I recently adviced a European IT service provider to explore offering on-premise AI server solutions. I believe it is a high growth and underserved market.",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI servers involve installing AI hardware within a company, setting up models, fine-tuning them with proprietary data, and itegrating them with existing systems.",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": "is one of the biggest reasons why on-prem AI will be big. The argument is even bigger in Europe since there is high regulation on data privacy (",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": "It is highly probable that there are going to be big fines on European companies using third-party Cloud AI services. Maybe, that is what will trigger the on-prem AI solution trend. Until then, it's first mover's advantage.",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": ": The truth is, on-prem AI involves higher up-front hardware investment but offers more predictable ongoing costs.",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprises shift to on-premises AI to control costs",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": ". Enterprises have used these systems at scale. So, they have the data to prove that the upfront investment in on-prem AI services makes financial sense.",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem AI: 3 Key Components, Use Cases & Best Practices",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Scalable S3-Compatible Storage, On-Prem with AWS Outposts",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Trending Topic: On-Prem S3 for Data Analytics",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Scalable Storage On-Prem for AWS Outposts",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "The Path to the Hybrid World: Amazon S3-Compatible Storage On-Prem for AWS Hybrid Edge",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises Object Storage for Snowflake Analytics Workloads",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss Education Non-Profit Achieves Scale and Flexibility of Public Cloud On-Prem with Cloudian",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is On-Prem AI Platform?",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem AI offers benefits like data sovereignty, performance optimization for real-time tasks, and deep customization, making it suitable for critical applications where data stays within the company’s firewall.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Organizations Deploy AI On-Prem Instead of Cloud",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Characteristics of On-Prem AI",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Core Components of an On-Prem AI Platform",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Use Cases for On-Prem AI",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Considerations and Challenges for On-Prem AI",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Practices for Deploying and Operating On-Prem AI Solutions",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Keep sensitive information on-premise with full control over your own environment.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Sovereign AI is an approach to deploying AI where you keep control of your data, models, infrastructures, and identities. With Fsas Technologies, this typically means on-premises or private AI environments that reduce reliance on public hyperscalers for critical workloads.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "You keep control of data, model activity, infrastructure, and identities. Our sovereign AI portfolio is designed to support full customer control across these areas, whether you deploy on-premises or in a zero-trust private AI cloud model.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Private GPT is an integrated, on-premises GPT system designed for strict data security and sovereignty, with fast time-to-production measured in days rather than months. Private AI Cloud is an orchestration layer that includes governance, MLOps, observability, and agentic workflows to help you build, deploy, and manage AI at scale under sovereign control.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Our approach focuses on keeping AI activity under your control and reducing external data exposure. Depending on the platform, this includes fully on-premises deployments (with zero external data exposure for Private GPT) and zero-trust isolation with confidential computing in multi-tenant environments.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and Inference Suite to Step-Up AI Inference Privacy, Flexibility and Costs Savings Across Enterprise and Industrial Verticals | Qualcomm",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and Inference Suite to Step-Up AI Inference Privacy, Flexibility and Costs Savings Across Enterprise and Industrial Verticals",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI On-Prem Appliance Solution is designed for generative AI inference and computer vision workloads on dedicated on-premises hardware – allowing sensitive customer data, fine-tuned models, and inference loads to remain on premises.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI Inference Suite provides ready-to-use AI applications and agents, tools and libraries for operationalizing AI from computer vision to generative AI – spanning across on-premises solutions and cloud deployments.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Aetina, Honeywell, and IBM are amongst the first wave of industry leaders supporting the AI On-Prem Appliance and AI Inference Suite.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm® AI On-Prem Appliance Solution",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": ", an on-premises desktop or wall-mounted hardware solution, and",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI On-Prem Appliance Solution",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "of accelerators. It combines the accessibility and performance of a datacenter inference server with the power efficiency, weight and form factor, data privacy, personalization and control of an on-premises AI solution. The AI On-Prem Appliance Solution supports wide ranging capabilities:",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI Inference Suite for On-Prem",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Industry leaders embrace the Qualcomm AI On-Prem Solution and AI Inference Suite",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Honeywell is collaborating with Qualcomm Technologies on the design, evaluation and/or deployment of AI workflow automation use cases using the AI On-Prem Solution and AI Inference Suite.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "family of AI models for deployment across On-Prem AI appliances, in addition to cloud, to support a range of enterprise and industrial use cases in automotive, manufacturing, retail, and telecommunications.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Interested enterprise users and developers can assess the possibilities of the Qualcomm AI On-Prem Appliance Solution and capabilities of AI Inference Suite can find more information in our",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Computing | On-Premise AI Acceleration",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Local, air-gapped LLM chat for classified environments.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem Hardware Sizing",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How to Deploy LLMs On-Premise",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "on-premise AI servers",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "air-gapped AI",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How the leading on-prem and turnkey AI platforms compare at a glance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Servers: On-Premise, Turnkey and Plug-and-Play Compared",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Scales to 128 GPUs with network expansion racks; air-gapped configuration available",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "Tormenta VarioScaler",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI ingest describes a crucial process in building an AI model from scrath. You need to collect, transform and load raw data from various sources. Usually, the data feed comprises of both structured and unstructured data. The second important part of the AI ingest process is to prepare the data by cleaning, validating, and structuring it.",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "While cloud services are cost-effective for small-scale or variable workloads, large and sustained AI workloads can incur high recurring costs. On-prem solutions offer better cost predictability and may be more economical over time for heavy users.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "With over 20 years of storage industry experience in a variety of companies including Xsigo Systems and OnStor, and with an MBA in Mechanical Engineering, Jon Toor is an expert and innovator in the ever growing storage space.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller and less established than the OEM leaders, with fewer public reference customers and benchmarks",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Variable per-token and compute-hour metering",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Proposals, contract redlines, claim summaries, variance narratives — produced in seconds, on hardware you own, with",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Most enterprise AI tools die at 20–30% adoption because users don't know how to prompt. AirgapAI hits ~89% adoption because every workflow is a button. Your accountant doesn't need to learn prompt engineering — they click \"Variance Narrative,\" paste their P&L, and ship the output. Day one.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI runs large language models 100% locally on your hardware. Available for both Windows and macOS, performance varies based on your device's GPU capabilities — better hardware means faster responses.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "For most organizations, this cost varies by data type. Customer PII may require on-premises AI deployment under GDPR. Proprietary trading signals may require air-gapped AI to protect IP. Internal HR data may be acceptable on a private cloud deployment. A single organization often operates multiple deployment models for different workloads.",
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Regulations vary by sector and geography and should be assessed with legal and compliance teams rather than assumed. Key frameworks relevant to AI deployment include:",
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon Appoints AI Veteran Hamsa Buvaraghan as SVP/Head of Product",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "Why Hamsa Buvaraghan Joining Pryon Is a Watershed Moment for Enterprise AI",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "Evangelos Eleftheriou, an IEEE Fellow and IBM Fellow Emeritus, is the CTO and co-founder of Axelera AI. Prior to founding Axelera AI, he held various management positions at IBM Research – Zurich. His outstanding achievements led him to become an IBM Fellow, which is IBM’s highest technical honor.",
+    "url": "https://axelera.ai/news/european-ai-startup-axelera-ai-closes-27-million-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "*Estimated capacity based on average document size of 1 MB and video files of 50 MB. Actual capacity varies by file type and AI indexing depth. Expandable with external vector store for even larger archives.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "*Weight varies by configuration. No special infrastructure required. Standard wall outlets in any country. 4 power cords included.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Become a reseller",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale / Reseller Program",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Reseller",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Build on Scrydon | OEM & White-Label Sovereign AI - Scrydon",
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "Embed or white-label the platform for your vertical (OEM & partners).",
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & White-Label",
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "Embed or white-label Scrydon's sovereign, European-native AI and data platform — agentic AI, ontology, governance, air-gapped to cloud — and ship it to your industry under your own brand.",
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "System integrators",
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "Embed / OEM",
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label",
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I white-label the platform?",
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us about the industry you serve and how you want to partner — embed, white-label or co-build — and we will show you what the platform can do under your brand.",
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partner",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboard & enable distributors at scale",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI chat portals",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI for software vendors — AI under your brand, on-premise | aamp",
+    "url": "https://getaamp.com/use-cases/white-label-ai",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI",
+    "url": "https://getaamp.com/use-cases/white-label-ai",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI: sell AI under your own brand.",
+    "url": "https://getaamp.com/use-cases/white-label-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Full rebranding",
+    "url": "https://getaamp.com/use-cases/white-label-ai",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI:",
+    "url": "https://getaamp.com/use-cases/white-label-ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is white label AI?",
+    "url": "https://getaamp.com/use-cases/white-label-ai",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI is a ready AI engine that a software vendor builds into its product and offers to clients under its own brand, without building the technology from scratch. With aamp the engine runs on-premise at the client, and backend maintenance, updates and development stay with the aamp team.",
+    "url": "https://getaamp.com/use-cases/white-label-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Who is aamp white label AI for?",
+    "url": "https://getaamp.com/use-cases/white-label-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Dify and n8n have licences that restrict white-labelling and resale. Platforms under Apache 2.0 or MIT allow it, but then your team maintains the models, RAG, security, compliance and support. With aamp those areas are handled by the aamp team.",
+    "url": "https://getaamp.com/use-cases/white-label-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.augela.com/enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, that’s our reseller programme. Your MSP or IT partner installs and operates Augela for you, white-labelled if they choose.",
+    "url": "https://www.augela.com/enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "Governments of Baden-Württemberg and Bavaria; German federal ministries; European defence agencies; Schwarz Group (Lidl/Kaufland); HPE",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "/var/www/html/wp-content/themes/understrap-child/functions.php",
+    "url": "https://oosto.com/visionai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://oosto.com/visionai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors",
+    "url": "https://www.eurotech.com/edge-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Vision AI is used in a variety of applications, including but not limited to: self-driving cars, surveillance systems, retail and advertising, and medical imaging.",
+    "url": "https://www.eurotech.com/edge-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partners",
+    "url": "https://www.avigilon.com/nvr-systems/ai-appliance-2x",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors",
+    "url": "https://www.avigilon.com/nvr-systems/ai-appliance-2x",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Distributor",
+    "url": "https://www.avigilon.com/nvr-systems/ai-appliance-2x",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "Support",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Faster response times. More clients can be handled by existing support team members.",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive maintenance and monitoring",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Handles common customer questions, L1 support and optimises website navigation. Integrated with ticketing systems, your website or customer portals.",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, of course. integration with identity providers (SSO, LDAP) and data sources (document stores, databases, sharepoints, and more) is supported.",
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time monitoring of factory equipment for predictive maintenance.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "In some cases, AI systems need to run in disconnected environments, such as in defense, remote operations, or classified projects. On-prem deployment supports these use cases where cloud access is not viable.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers deploy on-prem AI to power predictive maintenance, defect detection, and quality assurance across their production lines. By processing video streams and sensor data locally, AI platforms can analyze equipment anomalies, monitor critical workflows, and trigger automated responses in real time. This edge-centric approach reduces reliance on cloud connectivity.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "The customizability of on-prem AI also supports specialized workflows, such as training models on internal case histories or developing bespoke document review processes. By maintaining infrastructure in-house, legal teams can better encrypt data, manage user access controls, and ensure robust tracking and auditing.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem AI platforms demand a substantial initial capital outlay for acquiring servers, GPUs, storage, networking, and supporting equipment. Unlike cloud models with pay-as-you-go pricing, hardware purchases and data center setup costs are incurred upfront, requiring careful capacity planning and ROI analysis.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing Maintenance and Scalability Constraints",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "As a Fujitsu company, we combine Japanese engineering precision with European sovereignty. With us, you have a trusted option beyond public cloud platforms and geopolitical concerns.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Work with European consultants and engineers from day one. We help you define use cases, set clear rules, and deliver safely. We support you from initial concept and strategy definition to deployment and operations.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "We can support the journey to AI adoption for enterprises in any sector, particularily with public-sector organizations, and regulated industries across Europe who already recognize the need for sovereign AI.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "As a Fujitsu company, we bring Japanese reliability and European sovereignty. Gartner recognized Fsas Technologies as an Emerging Leader in Generative AI Engineering. Gartner also recognized us as an Emerging Visionary in Generative AI Model Providers.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Get hands-on experience with sovereign AI in a guided session. Test a real use case with support from our consultants. Reduce risk before you invest in a larger rollout.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Download this guide on potential use cases to explore practical, enterprise-ready AI scenarios you can run in your data center or a private AI cloud. It breaks down where AI creates value across employee support and knowledge, workflow automation, customer engagement, and secure development.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "You keep control of data, model activity, infrastructure, and identities. Our sovereign AI portfolio is designed to support full customer control across these areas, whether you deploy on-premises or in a zero-trust private AI cloud model.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "6) Can Fsas Technologies support multi-tenant sovereign AI cloud use cases?",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "AI should support people, not replace them. We take a human-centric approach to AI delivery. We help your teams use AI with clear oversight and accountability.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Aetina, Honeywell, and IBM are amongst the first wave of industry leaders supporting the AI On-Prem Appliance and AI Inference Suite.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "of accelerators. It combines the accessibility and performance of a datacenter inference server with the power efficiency, weight and form factor, data privacy, personalization and control of an on-premises AI solution. The AI On-Prem Appliance Solution supports wide ranging capabilities:",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Support for a wide range of generative AI, natural language processing, and computer vision models, both open-source and proprietary, to enable workflow automation for many enterprise applications such as intelligent multi-lingual search, custom AI assistants and agents, code generation, automated drafting and note-taking, and more.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "family of AI models for deployment across On-Prem AI appliances, in addition to cloud, to support a range of enterprise and industrial use cases in automotive, manufacturing, retail, and telecommunications.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A named Iternal partner with over 4,000 customers and Dell-reported up to 2.6x first-year ROI — a Dell-backed, services-supported path from pilot to production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprises wanting a Dell-backed, services-supported full-stack path from pilot to production at scale.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Supermicro AI Factory SuperClusters deliver exceptional density in 42U/48U/52U air- or liquid-cooled racks, integrating 72 NVIDIA B300 GPUs per rack and supporting NVIDIA HGX B300. Liquid-cooled 256-GPU (5 racks) and 768-GPU (9 racks) scalable units arrive cluster-level L12 tested before shipment. At COMPUTEX 2026 (June 1) Supermicro introduced DCBBS Blueprints for NVIDIA Vera Rubin NVL72.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "72 NVIDIA B300 GPUs (288 GB HBM3e each) per rack; supports NVIDIA HGX B300",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dell Pro Max GB300: up to 20 PFLOPS FP4, 748 GB coherent memory, supports up to 1T-param models",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GA on NVIDIA's reference design; supports RTX PRO 6000 / 4500 Blackwell Server Edition",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM.co offers a private LLM via cloud, on-prem, or a dedicated hardware appliance (the LLM Box), supporting air-gapped installations and offline AI agents. Teams start from open-source foundation models (LLaMA, Mistral, Mixtral) or bring their own, with RBAC, audit logging, and private model training. Its architecture is described as designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Several support air-gapped operation, including HPE Private Cloud AI (air-gapped config available now), Nutanix Enterprise AI, and LLM.co. For SCIF and classified use, Iternal's AirgapAI runs 100% locally with zero cloud transmission and is SCIF-approved and nuclear-facility-certified per Iternal. Dell and NVIDIA are also co-engineering an air-gapped solution for federal customers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: hardware, platform, apps, support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment & Onboarding Support",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Patches • Monitoring • Support",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware is a one-off cost. Software, maintenance and people are per year, multiplied by 3.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supported LLMs",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Open-weight models supported: GPT-OSS-20B / 120B, Qwen3.8 (27B, Flash-Next), DeepSeek-V4-Flash, GLM-5.3-Flash",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "mDNS (understand.local) supported; corporate networks can use IP-based access",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-user support with concurrent usage (workers and services can be scaled)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offline update workflows for air-gapped environments",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Clear separation: Understand Tech provides software + support; customer operates infrastructure",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Restore procedures supported (guided and manual)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offsite copy workflows (customer-controlled)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-model support running simultaneously",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built edge AI hardware that deploys in 15 minutes, supports 2,000+ users, and operates without internet or data center infrastructure. AI at the edge, enterprise at the core.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Support",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "78× fewer hallucinations on your data · white-glove install · priority support",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Email support · lifetime updates on perpetual licenses",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "support@iternal.ai",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "6+ open-source models ship in the box: Arcee 4.5B, LLAMA 3.2 (1B and 3B), Gemma 9B, QWEN, and more — with additional open-source models supported via the GGUF format. You pick the right model per task and hardware tier, and switch any time. No per-model fees.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Additional open-source models supported via GGUF format",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "EU launches InvestAI initiative to mobilise €200 billion of investment in artificial intelligence",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": "Start with a hands-on session led by our expert European consultants. Ensure you are investing appropriately, validate your priority use cases before you invest further. Initial discovery workshops using our Team of consultants and our AI Test Drive can start from as little as €5,000, depending on scope and your specific requirements.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Start with a hands-on session led by our expert European consultants. Initial discovery workshops using our Team of consultants and our AI Test Drive can start from as little as €5,000, depending on scope and your specific requirements.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual license from $697 one-time per user",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark around $4,699 MSRP; GB300 price not published by Dell",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom (from $697/user)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal-published 4-year TCO ~$50K vs $2M+ (Azure OpenAI Disconnected) / $20M+ (Palantir AIP)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dell has not published an official GB300 price; a comparable MSI XpertStation WS300 was listed by CDW at ~$97K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual licensing starts from $697 one-time per user. Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected and $20M+ for Palantir AIP.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "$5M in 12 months",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "$25,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€75,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€25,000 / year",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "European market rates. GB300 starts at €150,000 per year and is confirmed by quote depending on configuration.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "from $150,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We moved our AI workloads off the cloud and cut costs by 88%. Here's when enterprises should do the same.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "$650M Case",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Full Pro access · $0 today · no card required",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$1.15 / day",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$0.64 / day over 3 yrs",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$2,060 cloud 3-yr cost¹",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$1.37 / day over 3 yrs",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$1,499",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "No charge for 7 days. After your trial, $35/month. Cancel in one click before day 7.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "benchmarked at a 78x aggregate accuracy improvement on enterprise data. Pricing is $35/month after a 7-day free trial, or $697 once for a perpetual license.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$697 once vs. $2,060+",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "¹ Forrester: $2,060+ loaded 3-year cost per cloud Copilot seat vs $697 once · ² AirgapAI enterprise deployment data vs 20–30% industry-typical adoption",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$697 once vs $2,060+ loaded 3-year cloud Copilot cost (Forrester).",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$697 once vs $2,060+ loaded cost per cloud Copilot seat over 3 years. Deploy to 100% of staff for less than cloud covers 30%.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$300 分の無料クレジットと 20 種類以上の無料プロダクト",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Neros gets a $450M helping hand, in the form of a loan from the US government",
+    "url": "https://resiliencemedia.co/swiss-startup-custodia-launches-offline-ai-appliance-for-sensitive-workloads/",
+    "pass": 3
+   },
+   {
+    "quote": "Hypersonica raises €100M more to speed up and build out its hypersonic ambitions",
+    "url": "https://resiliencemedia.co/swiss-startup-custodia-launches-offline-ai-appliance-for-sensitive-workloads/",
+    "pass": 3
+   },
+   {
+    "quote": "Gallium Defense raises €7.1M to develop lower-cost drone detection radar",
+    "url": "https://resiliencemedia.co/swiss-startup-custodia-launches-offline-ai-appliance-for-sensitive-workloads/",
+    "pass": 3
+   },
+   {
+    "quote": "French defence technology startup Gallium Defense has raised €7.1 million to develop a drone detection radar that it says could...",
+    "url": "https://resiliencemedia.co/swiss-startup-custodia-launches-offline-ai-appliance-for-sensitive-workloads/",
+    "pass": 3
+   },
+   {
+    "quote": "Scoop: Salesforce is paying $375M for Rune Technologies",
+    "url": "https://resiliencemedia.co/swiss-startup-custodia-launches-offline-ai-appliance-for-sensitive-workloads/",
+    "pass": 3
+   },
+   {
+    "quote": "Germany’s SWARM Biotactics Raises €10M to Deploy Insect-Based Bio-Robots",
+    "url": "https://resiliencemedia.co/swiss-startup-custodia-launches-offline-ai-appliance-for-sensitive-workloads/",
+    "pass": 3
+   },
+   {
+    "quote": "One global energy customer saved $6.7M annually by deploying Pryon on-prem—after failing to build an in-house solution for years.",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "European AI Startup Axelera® AI Closes $27 Million Series A",
+    "url": "https://axelera.ai/news/european-ai-startup-axelera-ai-closes-27-million-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "– European AI startup Axelera AI announced today the close of its $27 million Series A investment round.",
+    "url": "https://axelera.ai/news/european-ai-startup-axelera-ai-closes-27-million-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Axelera® AI Secures up to €61.6 Million Grant to Develop Scalable AI Chiplet for High-Performance Computing",
+    "url": "https://axelera.ai/news/european-ai-startup-axelera-ai-closes-27-million-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Hire AI engineers ($150K–$300K/yr each)",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Cost: $500K–$2M+",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— 50 real-time operations per node",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud AI: GPU instances at $2–$30+/hour. Token fees. Per-seat charges. AWS bills hit $10K–$50K+/month fast.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$2–$30+/hour per GPU",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "24/7 = $17K–$260K+/yr per GPU",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$12K–$60K+/yr",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$50K–$150K+/yr",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$100K–$500K+",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$0 — ready from Day 1",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$500K–$2M+",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$18K/month on AWS",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ". Replaced $12K/month in cloud costs.\"",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ". We killed $8K/month in OpenAI API fees.\"",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Considering running Gemma 4 on your own hardware instead? Our new guide shows what a laptop or a graphics card can run, what 4-bit compression costs, and when a team needs the full model.",
+    "url": "https://infercom.ai/news/",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "This article was updated on March 22, 2025",
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating an on-prem AI platform involves direct management of both hardware and software stacks. IT teams are responsible for provisioning, monitoring, and maintaining servers, accelerators, storage, and networks. They must keep firmware and software up to date, troubleshoot failures, and handle capacity planning.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "For disconnected sites, pre-stage signed OS/firmware/container updates into an internal repo, and rotate signing keys on a schedule. Most on-prem AI outages I’ve seen were self-inflicted by unpatchable dependency chains.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Maintaining on-prem AI infrastructure requires continuous attention from IT teams to ensure system stability, security, and performance. Tasks include firmware updates, hardware repairs, capacity upgrades, and troubleshooting, all of which can disrupt business operations if not managed effectively.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Automate Deployment, Monitoring, and Updates",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": ". If you don’t want to share your website activities, including browsing behavior, with our third-party partners via these tracking technologies, click on “Cookie Settings\" button below to update your preferences. You can also update your cookie preferences at any time by clicking the \"Cookie Settings\" link at the bottom of this website.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated: June 5, 2026",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Offline updates and security patches (validated releases)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Updates & Patch Management",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Update",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Signed air-gapped updates, vendor SLA.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Managed software lifecycle: updates, security patches, and platform health checks",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offline update workflows for air-gapped environments",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment, Operations, and Updates",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "How are updates delivered?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "What is included in Update Services?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Remote fleet management across distributed edge locations with secure OTA updates, health monitoring, and centralized configuration.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy, version, and rollback models across your entire edge fleet from a central console. Push updates to hundreds of locations simultaneously.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Own it forever · free updates · data ingestion + workflow builder",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Email support · lifetime updates on perpetual licenses",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "The full local AI assistant for Windows and macOS. Installs like any desktop app. Lifetime updates on perpetual licenses.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Product updates, which you can stage and push like any other app",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "that would rather hand the rollout and update cycle to Iternal can run it as",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "By a lot. ChatGPT Enterprise and Copilot run $30+/user/month — Forrester puts the loaded 3-year cost at $2,060+ per seat. AirgapAI is $697 once, with lifetime updates. Across a 1,000-person company, you save more than $1.36M in 3 years and you get to deploy AI to",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. AirgapAI performs all inference, document ingestion, and workflow execution on-device, so it works on planes, in SCIFs, at remote sites, and anywhere else without connectivity. You can unplug the network cable mid-answer and it keeps generating — nothing requires a connection except downloading the installer and updates.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Nothing syncs. AirgapAI is a private AI assistant in the literal sense: the model weights, your prompts, your ingested documents, the local index and your chat history all sit on the machine you own. There is no account sync, no telemetry, and no call-home check — the only traffic is the installer, model packs you choose to add, and updates you decide to install. For the category background, see",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon is installed, validated, monitored, and updated under agreed controls",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated April 2026. Reviewed by the Zylon AI Engineering Team",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドにアプリを移行して低コストな更新サイクルを実現",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Update and Dependency Management",
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "In a true air-gapped environment, model training, inference, and all supporting data workflows happen on isolated hardware. Software updates, data ingestion, and output extraction all require deliberate physical processes. This eliminates an entire class of network-based attack vectors, but introduces operational complexity that requires purpose-built tooling and careful process design.",
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI introduces significant operational overhead. Software updates, data ingestion, and model deployment require deliberate physical processes and careful change management. Organizations adopting air-gapped configurations need tooling designed for disconnected environments. Standard cloud-native ML platforms do not work without substantial adaptation.",
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Most ML tooling is built assuming cloud connectivity. Package managers, model registries, experiment tracking platforms, and data pipeline tools often assume internet access for installation, updates, and telemetry. Deploying these tools in on-premises or air-gapped environments requires significant adaptation.",
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Keeping models, frameworks, and underlying infrastructure current is more complex without cloud-managed services. In air-gapped AI environments, updates require deliberate physical processes with full change documentation.",
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Key questions include: Does the platform have external network dependencies at runtime? What data leaves the environment during normal operation? How are software updates delivered in air-gapped environments? How is model reproducibility guaranteed? How does licensing work for on-premises deployments?",
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "How defence, intelligence, and critical-infrastructure organisations deploy AI agents in air-gapped and restricted networks — architecture patterns, model selection, update strategies, and governance without cloud connectivity.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "Updated",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI means running AI systems, including language models, retrieval indexes and agents, on infrastructure with no network path to the internet or any external network, with model weights and software updates carried across the gap only through a controlled, human-approved transfer such as scanned removable media. Prompts, documents and outputs never leave the perimeter.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "Model updates",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "No continuous model updates.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "Model weights cannot be pulled from a registry. Updates follow controlled-media transfer processes.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "The update problem",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "In a cloud-connected environment, switching to a new model version is an API configuration change. In an air-gapped environment, every model update is a controlled transfer event.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "A typical update cycle:",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "This process is inherently batched. Air-gapped AI deployments do not get daily model updates. Most operate on monthly or quarterly update cadences, with emergency updates following an expedited transfer process.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "The set of tools available to agents is defined at deployment time. Adding a new tool requires a configuration update through the controlled transfer process. Agents must degrade gracefully when a task requires a capability that is not available.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "Support controlled update mechanisms — model imports, configuration changes, software patches — through approved transfer processes.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "Can an air-gapped LLM be updated?",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, provided every component it depends on runs inside the perimeter: a locally served model, a self-hosted vector index over your runbooks and telemetry, connectors to internal monitoring systems, and local audit logging. What it loses is live internet knowledge — an air-gapped ops assistant reasons only over the documentation and system state you import through the controlled update path.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "Latest Updates",
+    "url": "https://axelera.ai/news/european-ai-startup-axelera-ai-closes-27-million-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Insights and updates",
+    "url": "https://axelera.ai/news/european-ai-startup-axelera-ai-closes-27-million-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Manage updates, security, scaling yourself",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updates, support, and scaling included",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updated by Zanus engineers — you don't manage model versions",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "How does the server receive updates if it runs air-gapped with no internet?",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updates are delivered through a",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "Cloudian Shatters AI Storage Barriers with Direct GPU-to-Object Storage Access",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Storage Platforms for GPU-Intensive AI Workloads: Top 8 in 2026",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "While cloud services are cost-effective for small-scale or variable workloads, large and sustained AI workloads can incur high recurring costs. On-prem solutions offer better cost predictability and may be more economical over time for heavy users.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem environments allow organizations to fine-tune hardware (e.g., choosing specific GPUs, memory configurations) and software stacks to optimize performance for AI workloads.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "1. Compute: CPUs, GPUs, Accelerators, and Interconnects",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Modern on-prem AI platforms rely on powerful compute resources. Central processing units (CPUs) provide the foundational compute for general-purpose workloads and system orchestration. For AI model training and high-performance inference, specialized accelerators like graphics processing units (GPUs), tensor processing units (TPUs), and other domain-specific hardware are crucial.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem AI platforms demand a substantial initial capital outlay for acquiring servers, GPUs, storage, networking, and supporting equipment. Unlike cloud models with pay-as-you-go pricing, hardware purchases and data center setup costs are incurred upfront, requiring careful capacity planning and ROI analysis.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "High-performance servers for all AI workloads and tasks. Included market leading servers such as our own PRIMERGY servers and Supermicros GPU-Optimized Systems. Invest appropriately, we match platforms to your goals and budget.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Fsas Technologies offers a multi-tenant Private AI Cloud, designed for zero-trust isolation, confidential computing, and customer control over data, models, and identities. It is positioned to scale from 2 GPUs to more than 2000 GPUs.",
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Interested enterprise users and developers can assess the possibilities of the Qualcomm AI On-Prem Appliance Solution and capabilities of AI Inference Suite can find more information in our",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The best private AI server for most organizations is a turnkey system that arrives with its inference software installed. Iternal Turnkey AI pairs GPU or Intel Xeon hardware with the AirgapAI application and the Blockify accuracy engine; NVIDIA, Dell, HPE, Lenovo, Supermicro and Cisco supply the underlying platforms.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GPU platform",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The GPU or Xeon configuration behind each system, the scale it is built to serve, what software ships installed, and where a price is published.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA RTX 4090 or A100 GPUs, or Intel Xeon CPUs via AirgapAI Edge (Intel AMX, OpenVINO, llama.cpp)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "8x Blackwell B200, 1,440 GB GPU memory, 10U chassis, 5th-gen NVLink",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "PowerRack rack-scale systems and PowerEdge XE-series nodes with NVIDIA GPUs",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Scales to 128 GPUs with network expansion racks; air-gapped configuration available",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "72 NVIDIA B300 GPUs per 42U/48U/52U rack; liquid-cooled 256- and 768-GPU scalable units",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "UCS C845A/C885A M8 compute, 32 to 128+ GPUs, Nexus 9000 networking up to 800G",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Foundational GPU Platform",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Runs on GPUs (RTX 4090/A100) or entirely on Intel Xeon CPUs via AirgapAI Edge; ships with 2,800+ preconfigured workflows",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "users at once",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "72-core Grace CPU (Arm Neoverse) · up to 8 TB/s GPU bandwidth",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "500+ concurrent users",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "GPU memory",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 8 TB/s (GPU)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Up to ~1 T parameters",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Concurrent users",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "GPU-Accelerated Local Inference",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Unlimited usage, no token or GPU metering",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Self-hosted stack deployed via Docker Compose on NVIDIA-class GPU system",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Web UI (admin + end users)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "LLM runtime with GPU acceleration",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "GB10: 128 GB unified memory. GB300: 784 GB coherent memory, models up to ~1T parameters",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "8 NVIDIA GPUs optimized for inference workloads",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "2,000+ concurrent users per unit with sub-50ms latency. Real enterprise AI performance at edge locations, not a compromised experience.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "2,000+ concurrent users per appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "8 NVIDIA GPUs with optimized memory hierarchy and NVMe storage deliver high-throughput inference for large language models and multimodal workloads.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built edge AI hardware that deploys in 15 minutes, supports 2,000+ users, and operates without internet or data center infrastructure. AI at the edge, enterprise at the core.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Sub-50ms inference latency for 2,000+ concurrent users per appliance. Enterprise-grade AI performance at edge locations.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Concurrent users",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Concurrent per appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "AI infrastructure for regulated industries. On-premises deployment, zero data egress, examiner-ready compliance. Trusted by 900K monthly users processing 12.5M queries daily.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Windows 10/11 with an Intel Core Ultra CPU or any dedicated NVIDIA/AMD GPU, or any Mac with Apple",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "sized to run on an Intel NPU or integrated GPU.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Runs On iGPU/NPU",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "The model weights and every token of inference — generation happens on your CPU, GPU or NPU",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Most enterprise AI tools die at 20–30% adoption because users don't know how to prompt. AirgapAI hits ~89% adoption because every workflow is a button. Your accountant doesn't need to learn prompt engineering — they click \"Variance Narrative,\" paste their P&L, and ship the output. Day one.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Windows 10/11 with an Intel Core Ultra CPU or any dedicated NVIDIA/AMD GPU works. macOS needs an Apple M1 or newer with 8GB+ memory. The bigger your GPU/NPU, the bigger the model you can run — see the",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI runs large language models 100% locally on your hardware. Available for both Windows and macOS, performance varies based on your device's GPU capabilities — better hardware means faster responses.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "iGPU/NPU",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "LLAMA 3B/8B+",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "LLAMA 3.2 1B — 2024 Intel HD Integrated Graphics, 8GB vRAM minimum",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   }
+  ],
+  "認証（ISO等）": [
+   {
+    "quote": "Storage architectures in AI environments must also provide reliability and redundancy, ensuring that critical datasets are always available for processing. Features such as automated tiering, snapshotting, and backup become crucial for operational resilience. Efficient data pipelines and caching mechanisms further boost model iteration speed.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Runs on certified Cisco, Dell, Fujitsu, HPE, Lenovo and NX hardware",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "100% local, air-gapped inference (AirgapAI) — no network required; SCIF-approved and nuclear-facility-certified per Iternal",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A software stack you pair with certified hardware rather than a single shipped box",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM.co offers a private LLM via cloud, on-prem, or a dedicated hardware appliance (the LLM Box), supporting air-gapped installations and offline AI agents. Teams start from open-source foundation models (LLaMA, Mistral, Mixtral) or bring their own, with RBAC, audit logging, and private model training. Its architecture is described as designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Architecture designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance is framed as designed to meet standards rather than independently certified",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI runs entirely on-prem with zero cloud transmission and no network required. Per Iternal, it is SCIF-approved and nuclear-facility-certified, serving defense, federal, healthcare, financial, and legal organizations.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "SCIF & nuclear certified",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI is SCIF-approved and nuclear-facility-certified per Iternal, meeting the strictest air-gapped security requirements.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal deployment certifications",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Several support air-gapped operation, including HPE Private Cloud AI (air-gapped config available now), Nutanix Enterprise AI, and LLM.co. For SCIF and classified use, Iternal's AirgapAI runs 100% locally with zero cloud transmission and is SCIF-approved and nuclear-facility-certified per Iternal. Dell and NVIDIA are also co-engineering an air-gapped solution for federal customers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "FedRAMP Standards",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2, GDPR & security posture",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Is it SOC 2 / GDPR compliant?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "The model runs where the data lives. That's why AirgapAI is deployed in SCIFs and satisfies HIPAA, CMMC/NIST, FedRAMP, and GDPR residency by construction.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "SCIF-deployable, HIPAA / CMMC / NIST / FedRAMP / GDPR-residency aligned — because the data physically never leaves your control. Clinical teams can see how the same boundary produces",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA / CMMC / FedRAMP posture by design",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "reporting by department — the evidence CMMC, HIPAA and FedRAMP reviewers ask for, without a",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "The Security & Deployment Guide: data-flow diagram, SCIF/CMMC/HIPAA/FedRAMP compliance mapping, and a 10-point evaluation checklist.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Because AirgapAI never calls home, it satisfies the air-gap requirement by construction. It's deployed inside SCIFs, on classified Dell + Intel laptops, and in DoD-adjacent workloads today. HIPAA, CMMC/NIST, FedRAMP, and GDPR data residency are all compliant by design — see the",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "The same boundary applies at 10,000 seats as at one. You push AirgapAI through Intune, JAMF or SCCM, scope workflow libraries by role, gate which workflows get published, version-control the ones your team builds, and report usage by department — with no third-party processor in the data-flow diagram, which is what shortens CMMC, HIPAA and FedRAMP reviews. The",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "A certified partner runs the infrastructure & operations",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "ISO-certified data centers",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": ", but a certified partner can",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "また、NIST SP 800-53-FedRAMP High Security Control に準拠した厳格な要件をサポートするように設計されています",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "これは ISO 27001/27017、SOC II、ISMAP、NIST、NATO D48 などの規格の技術要件を満たしています",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "generated locally and exportable through approved transfer mechanisms for external review.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": "Support controlled update mechanisms — model imports, configuration changes, software patches — through approved transfer processes.",
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "pass": 3
+   },
+   {
+    "quote": ": Align with NIST, HIPAA, FedRAMP, and internal IT policies",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": ". No internet required. HIPAA, GDPR, SOC 2, and",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA, GDPR, ABA, SOC 2, EU AI Act-ready by design",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA / GDPR / SOC 2 / EU AI Act-ready",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 — complete audit trail & RBAC",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA, GDPR, ABA, SOC 2",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA, GDPR, SOC 2, and EU AI Act",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— every document, query, and AI interaction stays inside your building. Architecture supports HIPAA, GDPR, SOC 2, and EU AI Act compliance programs",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "(SOC 2, SEC),",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Type II certified",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 27001 aligned",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 compliant",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2, GDPR, BYOK. Your data never trains our models.",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Certified Services Partner",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "5. Scaleway — Best for: EU-sovereign AI infrastructure with institutional-grade certification",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "The five platforms span purpose-built open-source language models, a European frontier AI company, a German sovereign AI platform, and an EU-certified cloud infrastructure provider.",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Key certifications",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO/IEC 27001:2022; HDS (healthcare); SEAL-3 (EU Commission Cloud Sovereignty Framework)",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance certifications.",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "GDPR compliance is the minimum. EU AI Act alignment, ISO/IEC 27001:2022, sector-specific certifications (HDS for healthcare, BDSG alignment for German public sector), and the EU Commission's SEAL-3 sovereignty standard distinguish serious sovereign platforms from those using the term loosely.",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Key certifications:",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Mistral AI's ISO 27001 and GAIA-X certification status could not be confirmed from public sources at the time of research. Check the current certification scope directly at mistral.ai.",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "— Best for: EU-sovereign AI infrastructure with institutional-grade certification",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Organisations that want to deploy any open-weight model — including Bielik or PLLuM — on EU-sovereign GPU infrastructure without building their own cluster, and that require institutional-grade sovereignty certification.",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO/IEC 27001:2022 (certified by BSI); HDS (French Health Data Hosting, since July 2024); SEAL-3 (EU Commission Cloud Sovereignty Framework, April 2026); SecNumCloud qualification process underway (ANSSI)",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "are both deployable in fully air-gapped environments, meaning no network traffic leaves the client infrastructure during model inference. The compliance requirements — GDPR, EU AI Act, sector-specific certifications — apply at the infrastructure and operational level, not the model level, so they can be addressed independently of which open-source model is chosen.",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "How does Scaleway's SEAL-3 certification differ from ISO 27001?",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "On-Prem AI : 3 Key Components, Use Cases & Best Practices — On-Prem AI : 3 Key Components, Use Cases & Best Practices Cloudian https://cloudian.com > ai-infrastructure",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and ... — Qualcomm Launches On-Prem AI Appliance Solution and ... Qualcomm https://www.qualcomm.com > ... > 01",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business 2026 — Best Turnkey AI Servers & AI Appliances for Business 2026 Iternal AI https://iternal.ai > best-private-ai-appli...",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Air - Gapped AI Assistant — 100% Local, Offline | AirgapAI — Air - Gapped AI Assistant — 100% Local, Offline | AirgapAI Iternal AI https://iternal.ai > airgapai",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "AI Appliance 2X - Avigilon — AI Appliance 2X - Avigilon Avigilon https://www.avigilon.com > ai-applia...",
+    "url": "https://www.avigilon.com/nvr-systems/ai-appliance-2x",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": "Custodia, based in Lugano, Switzerland, this week launched Sentinel, a dedicated AI appliance built for organisations that would rather keep sensitive information off someone else’s servers. The box runs locally and is designed to operate without any connection to cloud infrastructure or third-party networks.",
+    "url": "https://resiliencemedia.co/swiss-startup-custodia-launches-offline-ai-appliance-for-sensitive-workloads/",
+    "pass": 3
+   },
+   {
+    "quote": "headquartered in Fort Lauderdale, Florida. We have no affiliation with the European",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "headquartered in Fort Lauderdale, Florida, specializing in private, on-premises AI",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Israel (USD $)",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "The trade-off that shouldn't have existed: US cloud providers deliver fast voice AI, but with CLOUD Act exposure. EU GPU-based inference keeps data sovereign, but with noticeable lag that customers notice.",
+    "url": "https://infercom.ai/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Jurisdiction follows the company rather than the data centre, so a US-headquartered provider falls under the CLOUD Act even when its servers are in the EU.",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "The question European organisations are asking today is not whether to adopt AI, but whether the AI they adopt can be trusted with sensitive data. Since the EU AI Act began phased enforcement in 2024 and the United States CLOUD Act confirmed that data held by US-headquartered providers can be compelled regardless of server location,",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "A server in Frankfurt operated by a US-headquartered company still falls under CLOUD Act jurisdiction. Only EU-incorporated, EU-owned providers are structurally free of that exposure. Jurisdiction follows the company, not the data centre.",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "is a French frontier AI company and, as of April 2026, the only EU-headquartered provider in this ranking with a production enterprise track record at scale across regulated industries. Key models — including Mistral Small 4 and the Ministral family — are released under the Apache 2.0 licence for self-hosting.",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise, STACKIT sovereign cloud (German-operated, German-headquartered), or air-gapped; HPE hardware partnership enables full on-premise AI lifecycle management; no US hyperscaler infrastructure required at any layer",
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "IsRAEl",
+    "url": "https://oosto.com/visionai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Israel",
+    "url": "https://www.eurotech.com/edge-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社テラスカイ(本社:東京都中央区、代表取締役CEO 社長執行役員:佐藤 秀哉、以下テラスカイ)のグループ会社であり、\"AI & Data Integrator\" を標榜する株式会社Cuon (本社:東京都中央区、代表取締役: 森本 優、以下Cuon)は、オンプレミス型AIソリューション「Private AI Appliance」(プライベート・エーアイ・アプライアンス)を2026年11月01日より提供開始いたします",
+    "url": "https://www.cuon.co.jp/news/21",
+    "pass": 3
+   },
+   {
+    "quote": "Israel",
+    "url": "https://blog.cloudflare.com/one-click-iso-27001-deployment/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://rnt.de/en/solutions/local-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/BuyFromEU/comments/1wangq5/i_built_a_directory_of_european_ai_providers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://een.ec.europa.eu/partnering-opportunities/czech-company-offers-secure-ai-solution-can-be-operated-directly-customers",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lannerinc.com/news-and-events/latest-news/power-gen-ai-on-premises-edge-ai-systems-for-secure-and-local-llm-inference",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/airgapai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/deployment-options",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resiliencemedia.co/swiss-startup-custodia-launches-offline-ai-appliance-for-sensitive-workloads/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axelera.ai/news/european-ai-startup-axelera-ai-closes-27-million-series-a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.computerspeak.co/p/europe-expands-its-ai-factories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infercom.ai/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainora.lt/white-label-voice-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getaamp.com/use-cases/white-label-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augela.com/enterprise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nebius.com/newsroom/nebius-brings-nvidia-blackwell-to-israel-with-one-of-the-country-s-first-ai-infrastructure-deployments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/reports/europe-israels-founder-factories-in-the-age-of-ai-2026/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oosto.com/visionai-appliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ap.org/news-highlights/best-of-the-week/first-winner/2025/as-israel-uses-u-s-made-ai-models-in-war-concerns-arise-about-techs-role-in-who-lives-and-who-dies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eurotech.com/edge-ai-appliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.avigilon.com/nvr-systems/ai-appliance-2x",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.fujitsu/en-global/pr/news/2026/01/26-02",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eu-japan.eu/een/jp-profile/jp-ai-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.sharp/corporate/news/260915-a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lannerinc.com/contact/channel-partners",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.penguinsolutions.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/media/9939/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.actuia.com/jp/news/ai-37/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special.nikkeibp.co.jp/atclh/NXT/26/it_infrastructure_summit0331/p6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.kddi.com/topics/2026/news/012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomorrow-net.co.jp/topic/topic-blog-20251210/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cuon.co.jp/news/21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qanswer.ai/blog/iso-27001-achieved-secure-enterprise-agentic-ai-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infercom.ai/trust/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hightable.io/iso-27001-for-ai-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://soev.ai/en/platform/security-compliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.cloudflare.com/one-click-iso-27001-deployment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "European on-premise AI appliance",
+   "results": [
+    "https://rnt.de/en/solutions/local-ai/",
+    "https://gkampiotis.github.io/gh-pages/on-premise-ai-servers-is-the-next-phase.html",
+    "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "https://www.reddit.com/r/BuyFromEU/comments/1wangq5/i_built_a_directory_of_european_ai_providers/",
+    "https://een.ec.europa.eu/partnering-opportunities/czech-company-offers-secure-ai-solution-can-be-operated-directly-customers",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.i3k.eu/en/local-ai/",
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://www.inwizards.com/ai-blog/on-premise-ai-europe"
+   ]
+  },
+  {
+   "query": "European on-premise AI appliance on-premise LLM appliance company",
+   "results": [
+    "https://rnt.de/en/solutions/local-ai/",
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/",
+    "https://een.ec.europa.eu/partnering-opportunities/czech-company-offers-secure-ai-solution-can-be-operated-directly-customers",
+    "https://understand.tech/product/ai-in-a-box",
+    "https://www.lannerinc.com/news-and-events/latest-news/power-gen-ai-on-premises-edge-ai-systems-for-secure-and-local-llm-inference",
+    "https://www.i3k.eu/en/local-ai/",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "European on-premise AI appliance air-gapped AI box price",
+   "results": [
+    "https://understand.tech/product/ai-in-a-box",
+    "https://go.ai/technology/edge-ai-hardware",
+    "https://iternal.ai/airgapai",
+    "https://www.zylon.ai/deployment-options",
+    "https://cloud.google.com/distributed-cloud-air-gapped",
+    "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "https://www.austriacard.com/gaiab-platform/",
+    "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026"
+   ]
+  },
+  {
+   "query": "European on-premise AI appliance startup raises on-prem AI hardware",
+   "results": [
+    "https://resiliencemedia.co/swiss-startup-custodia-launches-offline-ai-appliance-for-sensitive-workloads/",
+    "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://axelera.ai/news/european-ai-startup-axelera-ai-closes-27-million-series-a",
+    "https://www.computerspeak.co/p/europe-expands-its-ai-factories",
+    "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "https://infercom.ai/news/",
+    "https://vestbee.com/insights/articles/atech-raises-800k",
+    "https://aifundingtracker.com/top-ai-startups-in-europe/",
+    "https://hoodline.com/2026/09/go-ai-lands-85m-series-a-bets-on-prem-hardware-wins-over-banks-hospitals/"
+   ]
+  },
+  {
+   "query": "European on-premise AI appliance white label OEM reseller",
+   "results": [
+    "https://scrydon.com/partners/whitelabel/",
+    "https://ainora.lt/white-label-voice-ai",
+    "https://understand.tech/",
+    "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://getaamp.com/use-cases/white-label-ai",
+    "https://een.ec.europa.eu/partnering-opportunities/czech-company-offers-secure-ai-solution-can-be-operated-directly-customers",
+    "https://www.augela.com/enterprise/",
+    "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "https://www.molted.net/white-label-on-premise-ai"
+   ]
+  },
+  {
+   "query": "European on-premise AI appliance Israel",
+   "results": [
+    "https://nebius.com/newsroom/nebius-brings-nvidia-blackwell-to-israel-with-one-of-the-country-s-first-ai-infrastructure-deployments",
+    "https://een.ec.europa.eu/partnering-opportunities/czech-company-offers-secure-ai-solution-can-be-operated-directly-customers",
+    "https://dealroom.co/reports/europe-israels-founder-factories-in-the-age-of-ai-2026/",
+    "https://vstorm.co/agentic-ai/ai-platforms/sovereign-ai-platforms-europe/",
+    "https://oosto.com/visionai-appliance/",
+    "https://www.ap.org/news-highlights/best-of-the-week/first-winner/2025/as-israel-uses-u-s-made-ai-models-in-war-concerns-arise-about-techs-role-in-who-lives-and-who-dies/",
+    "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "https://www.eurotech.com/edge-ai-appliance/",
+    "https://apnews.com/article/israel-palestinians-ai-weapons-430f6f15aab420806163558732726ad9",
+    "https://ultrabot.ai/insights/blog-sovereign-ai-onprem/"
+   ]
+  },
+  {
+   "query": "European on-premise AI appliance Japan distributor",
+   "results": [
+    "https://www.avigilon.com/nvr-systems/ai-appliance-2x",
+    "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://global.fujitsu/en-global/pr/news/2026/01/26-02",
+    "https://www.eurotech.com/edge-ai-appliance/",
+    "https://www.eu-japan.eu/een/jp-profile/jp-ai-technology",
+    "https://global.sharp/corporate/news/260915-a.html",
+    "https://www.lannerinc.com/contact/channel-partners",
+    "https://www.penguinsolutions.com/en-us",
+    "https://sovereign.gaixer.com/en/"
+   ]
+  },
+  {
+   "query": "欧州のオンプレAIアプライアンス",
+   "results": [
+    "https://japan-ai.co.jp/media/9939/",
+    "https://www.actuia.com/jp/news/ai-37/",
+    "https://special.nikkeibp.co.jp/atclh/NXT/26/it_infrastructure_summit0331/p6/",
+    "https://biz.kddi.com/topics/2026/news/012/",
+    "https://www.tomorrow-net.co.jp/topic/topic-blog-20251210/",
+    "https://www.cuon.co.jp/news/21",
+    "https://infinicloud.com/20250807infinicloudAI-firstedition.html",
+    "https://www.qnap.com/ja-jp/solution/edge-ai-storage-server",
+    "https://sambanova.ai/ja/press/sambanova-powers-the-ai-backbone-for-three-sovereign-ai-providers-across-australia-europe-and-the-u.k",
+    "https://news.sap.com/japan/2026/07/onpremiss-maintenance-suppor/"
+   ]
+  },
+  {
+   "query": "European on-premise AI appliance ISO 27001 certified",
+   "results": [
+    "https://www.2501.ai/news/2501-iso-27001",
+    "https://www.qanswer.ai/blog/iso-27001-achieved-secure-enterprise-agentic-ai-platform",
+    "https://infercom.ai/trust/",
+    "https://hightable.io/iso-27001-for-ai-companies/",
+    "https://soev.ai/en/platform/security-compliance",
+    "https://blog.cloudflare.com/one-click-iso-27001-deployment/",
+    "https://deeploy.ai/best-ai-governance-platforms-2026/",
+    "https://een.ec.europa.eu/partnering-opportunities/czech-company-offers-secure-ai-solution-can-be-operated-directly-customers",
+    "https://langdock.com/security"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -152,11 +152,46 @@
 
 ## 建築設計業の事業所数（architectural design businesses Japan establishments）
 - 文脈：建築
-- 事業所数・企業数：記載なし（読んだ36頁・検索6回）
-- 規模別：記載なし（読んだ36頁・検索6回）
-- 都道府県別：記載なし（読んだ36頁・検索6回）
-- 売上・規模感：記載なし（読んだ36頁・検索6回）
-- 調査主体・時期：記載なし（読んだ36頁・検索6回）
+- 事業所数・企業数：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数9-3 産業(小分類)、経営組織(5区分)、従業者規模(8区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「産業(小分類)、経営組織(5区分)、従業者規模(8区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「事業所統計: e-Stat 令和3年経済センサス-活動調査 9-2 産業(小分類)、経営組織(5区分)別全事業所数、男女別従業者数及び常用雇用者数（産業分類 建築設計業、2021年）」（https://kurashi-pro.jp/architect/）
+- 規模別：
+  - 「その他の各種商品小売業（従業者が常時50人未満のもの）」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「会社以外の法人」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「法人でない団体」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「（再掲）5人以下」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「（再掲）20人以下」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+- 都道府県別：
+  - 「広島市安佐南区」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「広島市安佐北区」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「広島市安芸区」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「広島市佐伯区」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「建築士事務所の地域概況｜都道府県別の登録件数｜家づくりナビ」（https://kurashi-pro.jp/architect/）
+  - 「建築士事務所の登録件数を都道府県別に整理し、設計事務所を探す前に確認したい地域の概況をまとめています」（https://kurashi-pro.jp/architect/）
+  - 「都道府県別 持ち家率」（https://kurashi-pro.jp/architect/）
+  - 「都道府県別 住宅築年数」（https://kurashi-pro.jp/architect/）
+  - 「都道府県別 住み替え動向」（https://kurashi-pro.jp/architect/）
+- 売上・規模感：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+- 調査主体・時期：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数9-3 産業(小分類)、経営組織(5区分)、従業者規模(8区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「統計で見る日本」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「統計データを探す」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「主要な統計から探す」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「統計データの活用」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「地図で見る統計(jSTAT MAP)」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「統計データダウンロード」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「地域（社会・人口統計体系）」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「統計データの高度利用」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「統計データの自動取得」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「統計関連情報」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「統計に用いる分類・用語」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「疾病、傷害及び死因の統計分類（基本分類）」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「疾病、傷害及び死因の統計分類（疾病分類）」（https://www.e-stat.go.jp/dbview?sid=0004005673）
 
 ## 広島・瀬戸内のデザイン事務所と建築事務所の数（design and architecture offices Hiroshima Setouchi）
 - 文脈：地域

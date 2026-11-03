@@ -1,0 +1,2958 @@
+{
+ "name": "米国のオンプレAIアプライアンス",
+ "en": "US on-premise AI appliance startup",
+ "aliases": [
+  "American private AI appliance",
+  "on-premise AI",
+  "on-prem AI",
+  "AI appliance",
+  "private AI",
+  "air-gapped AI",
+  "local LLM",
+  "オンプレ",
+  "生成AI"
+ ],
+ "context": "米国",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:01:05.893877+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and Inference Suite to Step-Up AI Inference Privacy, Flexibility and Costs Savings Across Enterprise and Industrial Verticals | Qualcomm",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and Inference Suite to Step-Up AI Inference Privacy, Flexibility and Costs Savings Across Enterprise and Industrial Verticals",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI On-Prem Appliance Solution is designed for generative AI inference and computer vision workloads on dedicated on-premises hardware – allowing sensitive customer data, fine-tuned models, and inference loads to remain on premises.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Aetina, Honeywell, and IBM are amongst the first wave of industry leaders supporting the AI On-Prem Appliance and AI Inference Suite.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm® AI On-Prem Appliance Solution",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI On-Prem Appliance Solution",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "of accelerators. It combines the accessibility and performance of a datacenter inference server with the power efficiency, weight and form factor, data privacy, personalization and control of an on-premises AI solution. The AI On-Prem Appliance Solution supports wide ranging capabilities:",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "family of AI models for deployment across On-Prem AI appliances, in addition to cloud, to support a range of enterprise and industrial use cases in automotive, manufacturing, retail, and telecommunications.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Interested enterprise users and developers can assess the possibilities of the Qualcomm AI On-Prem Appliance Solution and capabilities of AI Inference Suite can find more information in our",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Appliance and Box",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Unveils AI-Native Broadband Innovations Across Fiber, Wi-Fi 8, Fixed Wireless, and Network Infrastructure and Security at Network X 2026",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "AI On-Prem Appliance",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business 2026",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Appliances",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business (2026)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "private AI appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "— ships the complete appliance: hardware plus the AirgapAI local inference app plus the Blockify accuracy engine, all preconfigured and deployable in weeks. Read on for the full comparison and where each option fits best.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Private AI Appliance Comparison",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Complete appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Server or appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated appliance or on-premise install",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": ", then set that result against a complete appliance such as",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Complete Appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises AI Appliances: Air-Gapped Enterprise LLM 2026",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises AI Appliances: The Air-Gapped Enterprise Comeback Nobody Expected",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud AI APIs promised limitless scale. Now enterprises are buying dedicated hardware appliances to run LLMs behind their own walls. Here is what changed and why the math finally works.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s the thing: the hardware vendors noticed. Every major server manufacturer now sells what amounts to a “plug it in and run AI” appliance. Not custom-built GPU clusters that need a team of ML engineers to configure. Pre-integrated, pre-tested systems with the software stack already loaded. The change is big enough that",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Who is building on-premises AI appliances",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Six vendors dominate this market, and each one took a different angle.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Slight detour, but this matters. The entire on-premises AI appliance market exists because the economics crossed a threshold. Here is the actual breakdown.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": ", a fine-tuned variant trained on military doctrine, international humanitarian law, and DoD ethical AI principles. It runs on classified networks and adheres to ODNI writing standards. The DoD followed up with a procurement directive requiring AI vendors to deploy “the latest models” within 30 days of public release. European enterprises are getting an analogous path through",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "That observation hits the central nerve. The technical capability of LLMs was never the constraint. The deployment model was. And the appliance vendors have finally built products that solve the deployment problem at enterprise scale.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "because it eliminates third-party cloud data flows entirely. No BAAs with AI API providers, no risk of model providers using your patient data to improve their systems.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "For the record, on-premises AI is not free lunch. The appliance vendors understandably emphasize the cost savings over cloud, but the full picture includes expenses that do not show up in a TCO spreadsheet.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The trajectory is clear. IDC reported 166% year-over-year growth in compute and storage hardware spending for AI in Q2 2025. Gartner expects datacenter systems spending to hit $489.5 billion in 2025, up 46.8% from 2024. The vendors are shipping hardware specifically designed for this moment.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "made today will compound for years. On-premises AI appliances went from a niche government requirement to a mainstream enterprise option in about 18 months. The pendulum has not stopped swinging.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Which vendors sell on-premises AI appliances in 2026?",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Helping entrepreneurs and startups quickly build and launch SaaS MVPs using modern tools.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "VMware Cloud Providers: Get started in cloud storage, free.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Service Providers",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Best AI Storage Providers: Top 5 Solutions to Know in 2026",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Best AI Storage Vendors: Top 5 Options in 2026",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Seekr Named to Newsweek’s America’s Greatest Startup Workplaces 2026",
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "pass": 3
+   },
+   {
+    "quote": "Seekr AI Edge Appliance",
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "pass": 3
+   },
+   {
+    "quote": "The new self-contained Seekr AI Edge Appliance brings the full power of its",
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "pass": 3
+   },
+   {
+    "quote": "software platform, optimized for fully compatible GPU hardware to deploy AI models and Agents without relying on external network connections or public cloud resources. The appliance comes with SeekrFlow™ software, optimized to run on high-performance",
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "pass": 3
+   },
+   {
+    "quote": "Designed with enterprise-grade GPUs and AI accelerators, the appliance provides:",
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "pass": 3
+   },
+   {
+    "quote": "The Seekr AI Edge Appliance provides organizations with",
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "pass": 3
+   },
+   {
+    "quote": "The Seekr AI Edge Appliance is now available through Seekr and its strategic partners, including",
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "pass": 3
+   },
+   {
+    "quote": "Seekr | Private AI Deployments: On-Premises & Edge Appliance",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Seekr Named to Newsweek’s America’s Greatest Startup Workplaces 2026",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Edge Appliance",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Drive outcomes in hours with the Seekr AI Edge Appliance",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate AI impact: Access GPUs within hours of appliance delivery. Protect data: Process data locally to preserve data sovereignty",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "From department to data center, scale your AI infrastructure with purpose-built appliances designed for enterprise security and performance.",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "Interested enterprise users and developers can assess the possibilities of the Qualcomm AI On-Prem Appliance Solution and capabilities of AI Inference Suite can find more information in our",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The best private AI server for most organizations is a turnkey system that arrives with its inference software installed. Iternal Turnkey AI pairs GPU or Intel Xeon hardware with the AirgapAI application and the Blockify accuracy engine; NVIDIA, Dell, HPE, Lenovo, Supermicro and Cisco supply the underlying platforms.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GPU platform",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The GPU or Xeon configuration behind each system, the scale it is built to serve, what software ships installed, and where a price is published.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA RTX 4090 or A100 GPUs, or Intel Xeon CPUs via AirgapAI Edge (Intel AMX, OpenVINO, llama.cpp)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "8x Blackwell B200, 1,440 GB GPU memory, 10U chassis, 5th-gen NVLink",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "PowerRack rack-scale systems and PowerEdge XE-series nodes with NVIDIA GPUs",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Scales to 128 GPUs with network expansion racks; air-gapped configuration available",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "72 NVIDIA B300 GPUs per 42U/48U/52U rack; liquid-cooled 256- and 768-GPU scalable units",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "UCS C845A/C885A M8 compute, 32 to 128+ GPUs, Nexus 9000 networking up to 800G",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Foundational GPU Platform",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Runs on GPUs (RTX 4090/A100) or entirely on Intel Xeon CPUs via AirgapAI Edge; ships with 2,800+ preconfigured workflows",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s the thing: the hardware vendors noticed. Every major server manufacturer now sells what amounts to a “plug it in and run AI” appliance. Not custom-built GPU clusters that need a team of ML engineers to configure. Pre-integrated, pre-tested systems with the software stack already loaded. The change is big enough that",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The XE9812 is the one to watch. Dell claims 10x lower cost-per-token compared to current Blackwell chips and 4x fewer GPUs needed for mixture-of-experts inference. Pair that with their new Exascale Storage platform (up to 6 TB/second read per rack) and the Lightning File System (2x throughput over competing parallel file systems), and the bottleneck shifts away from compute entirely.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA HGX B200 and B300 (Blackwell Ultra) GPU support",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The numbers back up the market demand. HPE signed $1.1 billion in net new AI systems orders in a single quarter, exiting with a $3.2 billion backlog. One-third of those orders came from enterprises, not hyperscalers. Air-gapped deployment is now available with NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "launched seven AI Data Platform solutions at GTC 2026 with partner ecosystem support from IBM, Nutanix, and WEKA. Their full SuperCluster packs 1,152 GPUs per scalable unit.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "offers watsonx on-premises with flexible configurations from 8 to 24+ GPUs, validated designs on Red Hat OpenShift, and the new LinuxONE with Telum II chips and IBM Spyre Accelerator.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "GPU prices have dropped enough to accelerate this math. H100 SXMs settled at $25,000 to $30,000 (down from $35,000 to $40,000 in 2023). A100s now run $8,000 to $12,000. A full 3-year TCO for an 8x H100 server, including staffing, lands between $712,000 and $948,000. Compare that to the equivalent cloud spend at production volume, and the gap is hard to ignore.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Someone has to keep these machines running. The Lenovo TCO model allocates 0.5 FTE at $75,000 to $100,000 per year. That is optimistic for a team managing GPU clusters, model deployments, and security patches across air-gapped infrastructure.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Liquid-cooled GPU servers draw serious wattage. A rack of 8x H100s consumes roughly 10 kW. At $0.10 per kWh, that is $8,760 per year per rack just in electricity, before cooling costs. Dell’s new XE9812 with NVL72 is fully liquid-cooled and fanless, which helps, but the facility still needs plumbing upgrades.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "GPU utilization stays above 20% on average",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Renting GPUs Below AWS on io.net and Akash: Does DePIN Actually Work for Inference?",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "io.net and Akash rent GPUs 50-70% below AWS. A builder’s honest take on whether decentralized GPU compute survives real LLM inference, past the sticker price.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI Series A 2026: Flapping Airplanes Raises $1B to Make GPUs Work Harder",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Compute",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Reflection Beam Model: 501B Apache 2.0 Weights You Can Self-Host on Four GPUs",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Cloudian Shatters AI Storage Barriers with Direct GPU-to-Object Storage Access",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Storage Platforms for GPU-Intensive AI Workloads: Top 8 in 2026",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "While cloud services are cost-effective for small-scale or variable workloads, large and sustained AI workloads can incur high recurring costs. On-prem solutions offer better cost predictability and may be more economical over time for heavy users.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem environments allow organizations to fine-tune hardware (e.g., choosing specific GPUs, memory configurations) and software stacks to optimize performance for AI workloads.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "1. Compute: CPUs, GPUs, Accelerators, and Interconnects",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Modern on-prem AI platforms rely on powerful compute resources. Central processing units (CPUs) provide the foundational compute for general-purpose workloads and system orchestration. For AI model training and high-performance inference, specialized accelerators like graphics processing units (GPUs), tensor processing units (TPUs), and other domain-specific hardware are crucial.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem AI platforms demand a substantial initial capital outlay for acquiring servers, GPUs, storage, networking, and supporting equipment. Unlike cloud models with pay-as-you-go pricing, hardware purchases and data center setup costs are incurred upfront, requiring careful capacity planning and ROI analysis.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "software platform, optimized for fully compatible GPU hardware to deploy AI models and Agents without relying on external network connections or public cloud resources. The appliance comes with SeekrFlow™ software, optimized to run on high-performance",
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GPUs",
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "pass": 3
+   },
+   {
+    "quote": "Designed with enterprise-grade GPUs and AI accelerators, the appliance provides:",
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate AI impact: Access GPUs within hours of appliance delivery. Protect data: Process data locally to preserve data sovereignty",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimize AI performance: Access low-latency compute resources with flexible CPU, GPU, and AI accelerator options for any AI use case.",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Supermicro GPU Servers",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Servers",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "that runs on diverse hardware, from on-prem GPU servers to private cloud environments",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Equipped with the latest high-performance CPUs and GPUs, it delivers a next-generation,",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Setting up a robust infrastructure demands a substantial upfront investment in GPUs, CPUs, storage, and networking.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware and GPU Orchestration:",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Role-based access control and custom guardrails ensure that only authorized users can access specific APIs or models.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "GPU-aware scheduling for resource efficiency",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "High-performance GPU compute, deep learning optimizations",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Begin by assessing your compute needs—this includes GPU and CPU capacity, network bandwidth, and cooling/power considerations. Align this with your expected workloads to avoid over or under-provisioning.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "TrueFoundry is the top on premise AI platform that helps you host generative AI and machine learning on your own infrastructure. By supporting NVIDIA GPUs and models like Llama, it allows healthcare teams to manage patient data while following strict regulations and data governance.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "The product, branded as \"AI in a Box,\" is a small, stackable node that can host large language models, adapters, and AI agents while keeping data within an organization's local network. Each unit supports up to five users and can be combined into clusters to scale across departments.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Size GPU, node, storage and network requirements, then coordinate distributor-backed Supermicro procurement after customer approval.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "users at once",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "72-core Grace CPU (Arm Neoverse) · up to 8 TB/s GPU bandwidth",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "500+ concurrent users",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and Inference Suite to Step-Up AI Inference Privacy, Flexibility and Costs Savings Across Enterprise and Industrial Verticals | Qualcomm",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and Inference Suite to Step-Up AI Inference Privacy, Flexibility and Costs Savings Across Enterprise and Industrial Verticals",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI On-Prem Appliance Solution is designed for generative AI inference and computer vision workloads on dedicated on-premises hardware – allowing sensitive customer data, fine-tuned models, and inference loads to remain on premises.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI Inference Suite provides ready-to-use AI applications and agents, tools and libraries for operationalizing AI from computer vision to generative AI – spanning across on-premises solutions and cloud deployments.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Aetina, Honeywell, and IBM are amongst the first wave of industry leaders supporting the AI On-Prem Appliance and AI Inference Suite.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm® AI On-Prem Appliance Solution",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": ", an on-premises desktop or wall-mounted hardware solution, and",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI On-Prem Appliance Solution",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "of accelerators. It combines the accessibility and performance of a datacenter inference server with the power efficiency, weight and form factor, data privacy, personalization and control of an on-premises AI solution. The AI On-Prem Appliance Solution supports wide ranging capabilities:",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm AI Inference Suite for On-Prem",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Industry leaders embrace the Qualcomm AI On-Prem Solution and AI Inference Suite",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Honeywell is collaborating with Qualcomm Technologies on the design, evaluation and/or deployment of AI workflow automation use cases using the AI On-Prem Solution and AI Inference Suite.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "family of AI models for deployment across On-Prem AI appliances, in addition to cloud, to support a range of enterprise and industrial use cases in automotive, manufacturing, retail, and telecommunications.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Interested enterprise users and developers can assess the possibilities of the Qualcomm AI On-Prem Appliance Solution and capabilities of AI Inference Suite can find more information in our",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Computing | On-Premise AI Acceleration",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Local, air-gapped LLM chat for classified environments.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem Hardware Sizing",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How to Deploy LLMs On-Premise",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "on-premise AI servers",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "air-gapped AI",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How the leading on-prem and turnkey AI platforms compare at a glance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Servers: On-Premise, Turnkey and Plug-and-Play Compared",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Scales to 128 GPUs with network expansion racks; air-gapped configuration available",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Distributed edge sites plus on-premise inference",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated appliance or on-premise install",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Eleven leading on-premise, air-gapped, and turnkey AI platforms — evaluated on performance, security, and speed-to-production for business buyers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "100% local, air-gapped inference (AirgapAI) — no network required; SCIF-approved and nuclear-facility-certified per Iternal",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The foundational platform for serious on-prem AI training and inference",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises AI Appliances: Air-Gapped Enterprise LLM 2026",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises AI Appliances: The Air-Gapped Enterprise Comeback Nobody Expected",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Who is building on-premises AI appliances",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Google took a different path. Instead of selling boxes, they sell a managed cloud that happens to live in your data center. GDC scales from a single server to hundreds of racks, supports both connected and fully air-gapped configurations, and now runs Gemini models on-premises.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped variant authorized for US Government Secret and Top Secret missions",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Samsung SDS already deployed Gemini on GDC for real-time IoT data analysis and predictive maintenance in manufacturing. The air-gapped authorization is the detail that matters most, though. Government and defense buyers finally have a path to running Google’s best models without any data leaving the building.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The numbers back up the market demand. HPE signed $1.1 billion in net new AI systems orders in a single quarter, exiting with a $3.2 billion backlog. One-third of those orders came from enterprises, not hyperscalers. Air-gapped deployment is now available with NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "debuted three purpose-built inference servers at CES 2026 (ThinkSystem SR675i, SR650i, ThinkEdge SE455i) and published what might be the most useful document in this space: a detailed on-premises versus cloud generative AI TCO analysis for 2026.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "offers watsonx on-premises with flexible configurations from 8 to 24+ GPUs, validated designs on Red Hat OpenShift, and the new LinuxONE with Telum II chips and IBM Spyre Accelerator.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Slight detour, but this matters. The entire on-premises AI appliance market exists because the economics crossed a threshold. Here is the actual breakdown.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "57% savings on-prem",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Zero on-prem",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The decision threshold is fairly clean. Below 10 million tokens per day, cloud reserved instances typically win on total cost when you include the 0.5 FTE staff needed to manage on-premises hardware ($225,000 to $300,000 over three years). Above 50 million tokens per day, on-premises is almost always financially superior.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped deployments: where compliance meets classified",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem AI: 3 Key Components, Use Cases & Best Practices",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Scalable S3-Compatible Storage, On-Prem with AWS Outposts",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Trending Topic: On-Prem S3 for Data Analytics",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Scalable Storage On-Prem for AWS Outposts",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "The Path to the Hybrid World: Amazon S3-Compatible Storage On-Prem for AWS Hybrid Edge",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises Object Storage for Snowflake Analytics Workloads",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss Education Non-Profit Achieves Scale and Flexibility of Public Cloud On-Prem with Cloudian",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is On-Prem AI Platform?",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem AI offers benefits like data sovereignty, performance optimization for real-time tasks, and deep customization, making it suitable for critical applications where data stays within the company’s firewall.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Organizations Deploy AI On-Prem Instead of Cloud",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Characteristics of On-Prem AI",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Core Components of an On-Prem AI Platform",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Use Cases for On-Prem AI",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Considerations and Challenges for On-Prem AI",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Practices for Deploying and Operating On-Prem AI Solutions",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": ". If you don’t want to share your website activities, including browsing behavior, with our third-party partners via these tracking technologies, click on “Cookie Settings\" button below to update your preferences. You can also update your cookie preferences at any time by clicking the \"Cookie Settings\" link at the bottom of this website.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated: June 5, 2026",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Model updates.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud APIs give you instant access to the latest model version. On-premises means managing model lifecycle, testing new versions, and deploying updates manually across your infrastructure. In air-gapped environments, this involves physical media transfers. The DoD’s 30-day deployment mandate shows how seriously this gap is taken.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Operating an on-prem AI platform involves direct management of both hardware and software stacks. IT teams are responsible for provisioning, monitoring, and maintaining servers, accelerators, storage, and networks. They must keep firmware and software up to date, troubleshoot failures, and handle capacity planning.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "For disconnected sites, pre-stage signed OS/firmware/container updates into an internal repo, and rotate signing keys on a schedule. Most on-prem AI outages I’ve seen were self-inflicted by unpatchable dependency chains.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Maintaining on-prem AI infrastructure requires continuous attention from IT teams to ensure system stability, security, and performance. Tasks include firmware updates, hardware repairs, capacity upgrades, and troubleshooting, all of which can disrupt business operations if not managed effectively.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Automate Deployment, Monitoring, and Updates",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Control security policies and updates, making it easier to stay compliant with regulations.",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Support options include remote diagnostics, performance tuning, model updates, and training for internal teams.",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Updated:",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Patch management, hardware updates, and scaling decisions rest fully with your internal team, which can be resource-intensive.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Continuously improve models through fine-tuning, monitor performance, and keep infrastructure secure through regular updates and access audits.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony said its approach is aimed at organizations reluctant to use cloud-based AI due to concerns over data privacy, compliance, and regulatory requirements. The nodes come preloaded with 16 open source models, including IBM's Granite family and Meta's Llama, and can be updated quarterly via a USB connection.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & recovery",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage controlled updates, backup, recovery and isolation procedures through agreed maintenance windows.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Offline updates and security patches (validated releases)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Updates & Patch Management",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Update",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Signed air-gapped updates, vendor SLA.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Managed software lifecycle: updates, security patches, and platform health checks",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offline update workflows for air-gapped environments",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment, Operations, and Updates",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "How are updates delivered?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "What is included in Update Services?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Updated July 12, 2026",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI infrastructure is the compute, model supply chain, retrieval layer, local identity and offline update path that let an AI system run with no route to the internet.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "5. Offline update path",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Model, application and OS updates arrive as signed offline bundles on a defined cadence. Deciding that cadence up front (quarterly is common in accredited enclaves) prevents the drift that leaves an isolated system three model generations behind its connected counterpart.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Remote fleet management across distributed edge locations with secure OTA updates, health monitoring, and centralized configuration.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy, version, and rollback models across your entire edge fleet from a central console. Push updates to hundreds of locations simultaneously.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon is installed, validated, monitored, and updated under agreed controls",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated April 2026. Reviewed by the Zylon AI Engineering Team",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "デバイスを更新してパッチを適用する",
+    "url": "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ステートレス ワークロードを更新する",
+    "url": "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ステートフル ワークロードを更新する",
+    "url": "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "VM プロパティを更新する",
+    "url": "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "セキュアブート証明書を更新する",
+    "url": "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "お客様は、更新やシステム モニタリングなど、いくつかの IO タスクを担当します",
+    "url": "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日 2026-10-27 UTC",
+    "url": "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "An air-gapped AI deployment runs language models, retrieval, and the applications built on them entirely on hardware that has no connection to the internet or to any outside network. Models and updates arrive on approved physical media, nothing phones home, and the organisation carries every operational task a cloud vendor would otherwise handle.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "in the usual sense, where servers sit in your own building but can still reach out for model updates, package installs, or licence checks. Plenty of organisations that say “air-gapped” actually mean “on-premise with a strict firewall.” The difference matters, because a true air gapped AI deployment changes how every routine task is done, from installing a library to reading a log.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Keeping it running: updates, patches and monitoring",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "We’ll map the requirement, size the hardware honestly, and build the update routine your team will run after handover.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "It is an AI system - models, retrieval, and applications - running on hardware with no network connection to the internet or any outside network. Software and updates arrive on approved physical media, and nothing in the environment can send data out.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI runs on servers you own but usually keeps controlled outbound connectivity for updates, package installs, and vendor support. An air gap removes all outside connectivity, which is stricter and considerably more work to operate.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How do updates and security patches work?",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Every update is assembled and tested on a disconnected staging environment outside the gap, written to approved media with checksums, verified on the inside, and installed on a deliberate schedule. The routine should be set up as part of the first deployment.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated: October 30, 2025",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Power BI dashboards showing what the assistant contributes to leads, calls and revenue; staff training with recorded walkthroughs; and optional ongoing model updates and support.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Ask who updates the model when a better open-weight release comes out — and what that costs.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Updated",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Get marketing insights and agency updates delivered to your inbox.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Weights, prompt templates, and agent configuration are pinned, versioned by your IT, and updated on your schedule — no CDN-pulled runtime configuration.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "connects servers, GPUs, models, APIs, monitoring, and updates in a single environment. Four areas cover the complete operation:",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "Support",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Aetina, Honeywell, and IBM are amongst the first wave of industry leaders supporting the AI On-Prem Appliance and AI Inference Suite.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "of accelerators. It combines the accessibility and performance of a datacenter inference server with the power efficiency, weight and form factor, data privacy, personalization and control of an on-premises AI solution. The AI On-Prem Appliance Solution supports wide ranging capabilities:",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Support for a wide range of generative AI, natural language processing, and computer vision models, both open-source and proprietary, to enable workflow automation for many enterprise applications such as intelligent multi-lingual search, custom AI assistants and agents, code generation, automated drafting and note-taking, and more.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "family of AI models for deployment across On-Prem AI appliances, in addition to cloud, to support a range of enterprise and industrial use cases in automotive, manufacturing, retail, and telecommunications.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A named Iternal partner with over 4,000 customers and Dell-reported up to 2.6x first-year ROI — a Dell-backed, services-supported path from pilot to production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprises wanting a Dell-backed, services-supported full-stack path from pilot to production at scale.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Supermicro AI Factory SuperClusters deliver exceptional density in 42U/48U/52U air- or liquid-cooled racks, integrating 72 NVIDIA B300 GPUs per rack and supporting NVIDIA HGX B300. Liquid-cooled 256-GPU (5 racks) and 768-GPU (9 racks) scalable units arrive cluster-level L12 tested before shipment. At COMPUTEX 2026 (June 1) Supermicro introduced DCBBS Blueprints for NVIDIA Vera Rubin NVL72.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "72 NVIDIA B300 GPUs (288 GB HBM3e each) per rack; supports NVIDIA HGX B300",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dell Pro Max GB300: up to 20 PFLOPS FP4, 748 GB coherent memory, supports up to 1T-param models",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GA on NVIDIA's reference design; supports RTX PRO 6000 / 4500 Blackwell Server Edition",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM.co offers a private LLM via cloud, on-prem, or a dedicated hardware appliance (the LLM Box), supporting air-gapped installations and offline AI agents. Teams start from open-source foundation models (LLaMA, Mistral, Mixtral) or bring their own, with RBAC, audit logging, and private model training. Its architecture is described as designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Several support air-gapped operation, including HPE Private Cloud AI (air-gapped config available now), Nutanix Enterprise AI, and LLM.co. For SCIF and classified use, Iternal's AirgapAI runs 100% locally with zero cloud transmission and is SCIF-approved and nuclear-facility-certified per Iternal. Dell and NVIDIA are also co-engineering an air-gapped solution for federal customers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Google took a different path. Instead of selling boxes, they sell a managed cloud that happens to live in your data center. GDC scales from a single server to hundreds of racks, supports both connected and fully air-gapped configurations, and now runs Gemini models on-premises.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA HGX B200 and B300 (Blackwell Ultra) GPU support",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Samsung SDS already deployed Gemini on GDC for real-time IoT data analysis and predictive maintenance in manufacturing. The air-gapped authorization is the detail that matters most, though. Government and defense buyers finally have a path to running Google’s best models without any data leaving the building.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "launched seven AI Data Platform solutions at GTC 2026 with partner ecosystem support from IBM, Nutanix, and WEKA. Their full SuperCluster packs 1,152 GPUs per scalable unit.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best AI for Customer Support",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI Support Automation",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time monitoring of factory equipment for predictive maintenance.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "In some cases, AI systems need to run in disconnected environments, such as in defense, remote operations, or classified projects. On-prem deployment supports these use cases where cloud access is not viable.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers deploy on-prem AI to power predictive maintenance, defect detection, and quality assurance across their production lines. By processing video streams and sensor data locally, AI platforms can analyze equipment anomalies, monitor critical workflows, and trigger automated responses in real time. This edge-centric approach reduces reliance on cloud connectivity.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "The customizability of on-prem AI also supports specialized workflows, such as training models on internal case histories or developing bespoke document review processes. By maintaining infrastructure in-house, legal teams can better encrypt data, manage user access controls, and ensure robust tracking and auditing.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem AI platforms demand a substantial initial capital outlay for acquiring servers, GPUs, storage, networking, and supporting equipment. Unlike cloud models with pay-as-you-go pricing, hardware purchases and data center setup costs are incurred upfront, requiring careful capacity planning and ROI analysis.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing Maintenance and Scalability Constraints",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Support for Leading LLMs:",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Patient Interaction & support",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customer support",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive maintenance",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "What types of documents and data sources does AIcurate support?",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "What kind of support is available after deployment?",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "We offer comprehensive post-deployment support, including Tier 1, 2, and 3 assistance.",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Support options include remote diagnostics, performance tuning, model updates, and training for internal teams.",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty & Support",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Support Ticket",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support and CRM",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support & CRM",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Production-ready with full enterprise support",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing Maintenance:",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "On premise platforms support complex setups where some compute must remain local, even as the broader system interacts with the cloud.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Support for Diverse Models:",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "TrueFoundry provides a tightly integrated set of core modules that allow enterprises to build scalable, secure, and fully observable on premise AI platforms. These modules are designed to support the full model lifecycle—from inference to fine-tuning—while offering the flexibility and control that organizations demand.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "acts as the centralized control layer for managing all inference traffic across models and APIs deployed in your private infrastructure. It supports advanced governance and cost control mechanisms, making it the operational heart of your AI stack.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Support for open-source and private models",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "is fully supported through secure, on premise pipelines that enable teams to train models on sensitive or proprietary data.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Prompt iteration and rollback support",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Governance, cognitive APIs, enterprise support",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive maintenance, compliance-heavy workflows",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Native GenAI Support:",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "The product, branded as \"AI in a Box,\" is a small, stackable node that can host large language models, adapters, and AI agents while keeping data within an organization's local network. Each unit supports up to five users and can be combined into clusters to scale across departments.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships with IBM, JetBrains, and Carahsoft support the launch. IBM will make its enterprise AI models available on the nodes, JetBrains will integrate its development tools, and Carahsoft will distribute the devices to U.S. government and healthcare customers.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Getting Ahead of Student Risk with Proactive Support",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "How Colleges Are Using AI to Strengthen Student Services and Support Staff",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Manage controlled updates, backup, recovery and isolation procedures through agreed maintenance windows.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: hardware, platform, apps, support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Perpetual license from $697 one-time per user",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark around $4,699 MSRP; GB300 price not published by Dell",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom (from $697/user)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal-published 4-year TCO ~$50K vs $2M+ (Azure OpenAI Disconnected) / $20M+ (Palantir AIP)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dell has not published an official GB300 price; a comparable MSI XpertStation WS300 was listed by CDW at ~$97K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual licensing starts from $697 one-time per user. Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected and $20M+ for Palantir AIP.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "$5M in 12 months",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Worldwide AI spending will hit $2.5 trillion in 2026 according to Gartner. The part that surprises people: a growing share of that money is flowing into dedicated hardware that sits in private data centers, not into cloud API subscriptions. AI-optimized server spending is on track to triple traditional server spending by 2027. The cloud-everything era is getting a serious counterweight.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "That calculus has changed. Organizations that graduated from pilot projects to production workloads are now processing tens of millions of tokens daily. At that scale, per-token cloud pricing starts looking less like convenience and more like a recurring tax with no end date. Egress costs alone add 15 to 30 percent on top of the already steep token fees.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The numbers back up the market demand. HPE signed $1.1 billion in net new AI systems orders in a single quarter, exiting with a $3.2 billion backlog. One-third of those orders came from enterprises, not hyperscalers. Air-gapped deployment is now available with NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Lenovo’s 2026 TCO study compared a production inference workload processing 10 billion tokens per month over three years:",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "~$1.4M",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "~$3.3M",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The decision threshold is fairly clean. Below 10 million tokens per day, cloud reserved instances typically win on total cost when you include the 0.5 FTE staff needed to manage on-premises hardware ($225,000 to $300,000 over three years). Above 50 million tokens per day, on-premises is almost always financially superior.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "GPU prices have dropped enough to accelerate this math. H100 SXMs settled at $25,000 to $30,000 (down from $35,000 to $40,000 in 2023). A100s now run $8,000 to $12,000. A full 3-year TCO for an 8x H100 server, including staffing, lands between $712,000 and $948,000. Compare that to the equivalent cloud spend at production volume, and the gap is hard to ignore.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Worth noting: AI and ML workloads already represent 22% of total cloud costs at SaaS and IT companies according to the FinOps Foundation. That is a massive line item, and it only goes in one direction.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "“ibm losing $40b because claude can read cobol is a massive overreaction. current models have always understood cobol; the real bottleneck isn’t the ‘translation,’ it’s the secure, on-prem execution. no major bank is sending their core financial logic to a public api.”",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Someone has to keep these machines running. The Lenovo TCO model allocates 0.5 FTE at $75,000 to $100,000 per year. That is optimistic for a team managing GPU clusters, model deployments, and security patches across air-gapped infrastructure.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Liquid-cooled GPU servers draw serious wattage. A rack of 8x H100s consumes roughly 10 kW. At $0.10 per kWh, that is $8,760 per year per rack just in electricity, before cooling costs. Dell’s new XE9812 with NVL72 is fully liquid-cooled and fanless, which helps, but the facility still needs plumbing upgrades.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The cost math only works at high utilization rates. A $950,000 server cluster running at 10% utilization is an expensive paperweight. Cloud APIs have zero utilization risk because you only pay for what you use.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The trajectory is clear. IDC reported 166% year-over-year growth in compute and storage hardware spending for AI in Q2 2025. Gartner expects datacenter systems spending to hit $489.5 billion in 2025, up 46.8% from 2024. The vendors are shipping hardware specifically designed for this moment.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Alternatives: 7 Options Compared on Licence, Price and Limits",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony has raised $2 million in seed funding led by True Ventures. For more information, visit the",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "8 Ways to Cut IT Costs and Improve ROI",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "$25,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€75,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€25,000 / year",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "European market rates. GB300 starts at €150,000 per year and is confirmed by quote depending on configuration.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "from $150,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We moved our AI workloads off the cloud and cut costs by 88%. Here's when enterprises should do the same.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "leads with 2,800+ pre-built workflows, 78x accuracy via Entourage Mode, and perpetual licensing from $697. Defense-grade alternatives like Palantir AIP require $5M+ investments.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI is the value pick at $697 one-time perpetual licensing; Palantir AIP and Azure Disconnected suit seven-figure defense and agency programs. The technology itself is covered on the",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "It is the standard approach for classified programs (SCIF environments), ITAR manufacturers, and regulated industries where even encrypted cloud AI is unacceptable. True air-gap means full disconnection — not just a private cloud or VPC. Ranked below: the platforms that genuinely deliver it, from $697 one-time licenses to $5M+ defense deployments.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions range from $697 one-time (AirgapAI) to $5M+ annual (Palantir, Azure disconnected).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$697 one-time",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$5M+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$500K+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$300K+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$250K+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Federal agencies with $1M+ budgets and existing Microsoft enterprise agreements.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Extremely expensive ($5M+ typical)",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "DoD, IC, and defense contractors with $5M+ budgets for AI platforms.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Go.AI Raises $85M—Its Growth Proof Is Still Company-Reported",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Chicago upstart raises $85M amid surge of AI interest from customers, investors",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Go.AI Raises $85 Million Series A Led By Updata Partners, Bringing Total Funding To $90 Million",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Chicago startup Go.AI raises $85M, plans to expand downtown headquarters",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "The Chicago Business Journal covered the $85M Series A as hometown business news, leading on the raise and Go.AI's plan to expand its downtown headquarters. Staff reporter Alex Zorn frames the company around helping banks, credit unions, and healthcare organizations deploy AI inside their existing systems. The full article sits behind the Business Journal's subscriber paywall.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises AI Infrastructure Raises $85m as Banks Keep Data In-House",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Go.AI Raises $85M Series A to Expand AI Infrastructure for Regulated Industries",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "citybiz wrote up the Updata Partners-led round with its own reporting on the lead investor, covering Updata's $3B in committed capital, the $20M to $200M range it typically writes at growth stage, and its recent portfolio additions, alongside Go.AI's 200+ customers and the 12.5 million queries a day its deployments handle.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Illinois-Based Go.AI Raises $85M in Series A Funding",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "StartupRise picked up the Series A for its startup funding feed, listing the Updata Partners-led round, the GFT Ventures and LAUNCH participation, and the $90M raised to date. This is a republished summary of the announcement rather than independent reporting.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "WSJ Pro's daily venture capital newsletter listed Go.AI in its 'New Money' funding roundup: 'Go.AI, a Chicago-based AI infrastructure platform built for regulated industries, secured $85 million in Series A funding led by Updata Partners.' The newsletter's lead story, which gives the email its headline, is unrelated to Go.AI. WSJ Pro is subscriber-only.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Go.AI raises $85M Series A for bank AI appliances",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller and less established than the OEM leaders, with fewer public reference customers and benchmarks",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped variant authorized for US Government Secret and Top Secret missions",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": ", a fine-tuned variant trained on military doctrine, international humanitarian law, and DoD ethical AI principles. It runs on classified networks and adheres to ODNI writing standards. The DoD followed up with a procurement directive requiring AI vendors to deploy “the latest models” within 30 days of public release. European enterprises are getting an analogous path through",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": ", which lets regulated firms train their own variants.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "While cloud services are cost-effective for small-scale or variable workloads, large and sustained AI workloads can incur high recurring costs. On-prem solutions offer better cost predictability and may be more economical over time for heavy users.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "With over 20 years of storage industry experience in a variety of companies including Xsigo Systems and OnStor, and with an MBA in Mechanical Engineering, Jon Toor is an expert and innovator in the ever growing storage space.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "AIcurate can process and index a wide variety of formats, including PDFs, Word documents, Excel files,",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Network-dependent and variable",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Venezuela, Bolivarian Republic of",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Redmond Channel Partner",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The appliance combines distributor-backed infrastructure with a configured inference environment and a recurring operating service.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Size GPU, node, storage and network requirements, then coordinate distributor-backed Supermicro procurement after customer approval.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Cost varies 1000x:",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI deployments typically align with: CMMC Level 2-3 for defense contractors, FedRAMP High for government agencies, HIPAA for healthcare organizations, SOC 2 Type II for enterprise security, ITAR for aerospace/defense manufacturers, and various classified handling requirements (CUI, Secret, Top Secret).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment timelines vary significantly. AirgapAI deploys in weeks with end-to-end integration support. Azure and AWS isolated deployments typically take 3-6 months. Palantir and similar enterprise platforms often require 12-18 months for full deployment. Organizations should factor deployment speed into their total cost and productivity calculations.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Variable per-token and compute-hour metering",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Website OEM",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon Appoints AI Veteran Hamsa Buvaraghan as SVP/Head of Product",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "Why Hamsa Buvaraghan Joining Pryon Is a Watershed Moment for Enterprise AI",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "This is a paid press release. Contact the press release distributor directly with any inquiries.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-raises-85-million-series-120000215.html",
+    "pass": 3
+   },
+   {
+    "quote": "Go.AI's rebrand",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-raises-85-million-series-120000215.html",
+    "pass": 3
+   },
+   {
+    "quote": ": Specializes in high-performance, low-power AI hardware for edge applications in various industries. The startup raised a total funding of",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Makes a modular edge AI hardware platform with configurable GPU options and ruggedized variants for heavy‑duty vehicles and multi‑camera vision.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s architecture minimizes latency, enhances energy efficiency, and safeguards data privacy. This ensures that sensitive information remains on the device. Qualcomm’s designs optimize AI hardware for real-time performance and improve responsiveness across varied workloads.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The startup’s proprietary architecture utilizes variable capacitance for storing AI model weights. It utilizes electric fields instead of electrical currents to perform calculations. This minimizes electron movement, reduces energy usage, and mitigates overheating.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "in new funds from the European Innovation Council (EIC) Fund, Varana Capital, Cleveland Avenue, XT Hi-Tech, and OurCrowd.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "This way, the startup streamlines the process to build and deploy intelligent devices directly at the edge for brands, OEMs, startups, and innovators.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "EVAS Intelligence’s technology features a modular chip design that supports adaptive sensing, decision-making, and control functions. The underlying architecture achieves high computational density to optimize cost-performance balance for automotive OEMs.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ", Phoenix AI’s solutions feature rapid detection, automated event response, and support for multiple object types across varied conditions. It ensures continuous data processing with minimal latency.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ". The announcement, first detailed by the company on September 22, also confirmed that Go.AI rebranded from its former name, Go Abacus, earlier this month. As reported by",
+    "url": "https://hoodline.com/2026/09/go-ai-lands-85m-series-a-bets-on-prem-hardware-wins-over-banks-hospitals/",
+    "pass": 3
+   },
+   {
+    "quote": ". We left out the hyperscale clouds, the hardware OEMs and the enterprise system integrators whose minimums start where a small business's whole budget ends. What remains is a short list of consultancies that actually deliver private AI end to end, plus the specialist builders who make the workstations and servers those solutions run on. We are clear about which is which.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Agency white-label program",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Microway is a US GPU and HPC system integrator based in Plymouth, Massachusetts that designs and builds GPU servers, workstations and clusters for scientific computing and AI, with configuration and support for the systems it ships.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partner",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboard & enable distributors at scale",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI chat portals",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Hosting",
+    "url": "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how leading universities and organizations are transforming education with the ibl.ai AI Operating System. Explore real-world implementations from Harvard, MIT, Stanford, and users from 400+ institutions worldwide.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": ": Undefined variable $result in",
+    "url": "https://oosto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "/var/www/html/wp-content/themes/understrap-child/page-templates/page-home-2024.php",
+    "url": "https://oosto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://oosto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partners",
+    "url": "https://www.penguinsolutions.com/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "System Integrators",
+    "url": "https://www.penguinsolutions.com/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.penguinsolutions.com/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "SMART Modular Distributors, OEM, & Channel Sales",
+    "url": "https://www.penguinsolutions.com/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "Our Full-Stack AI Factory Platform combines OEM-like product innovation, system integrator-like end-to-end services, and industry-leading partner technologies to help customers confidently deploy and scale AI workloads with speed and precision.",
+    "url": "https://www.penguinsolutions.com/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "Supermicro一次代理店",
+    "url": "https://www.tomorrow-net.co.jp/topic/topic-blog-20251210/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAの最上位パートナープログラム「NVIDIA Elite Partner」に認定され、Supermicro正規一次代理店として10年以上にわたりAIインフラ分野を支援しています",
+    "url": "https://www.tomorrow-net.co.jp/topic/topic-blog-20251210/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM販売やパートナープラン、AIに関するご質問、お見積などはお気軽にお問い合わせください",
+    "url": "https://infinicloud.com/20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   }
+  ],
+  "認証（ISO等）": [
+   {
+    "quote": "Runs on certified Cisco, Dell, Fujitsu, HPE, Lenovo and NX hardware",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "100% local, air-gapped inference (AirgapAI) — no network required; SCIF-approved and nuclear-facility-certified per Iternal",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A software stack you pair with certified hardware rather than a single shipped box",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM.co offers a private LLM via cloud, on-prem, or a dedicated hardware appliance (the LLM Box), supporting air-gapped installations and offline AI agents. Teams start from open-source foundation models (LLaMA, Mistral, Mixtral) or bring their own, with RBAC, audit logging, and private model training. Its architecture is described as designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Architecture designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance is framed as designed to meet standards rather than independently certified",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI runs entirely on-prem with zero cloud transmission and no network required. Per Iternal, it is SCIF-approved and nuclear-facility-certified, serving defense, federal, healthcare, financial, and legal organizations.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "SCIF & nuclear certified",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI is SCIF-approved and nuclear-facility-certified per Iternal, meeting the strictest air-gapped security requirements.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal deployment certifications",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Several support air-gapped operation, including HPE Private Cloud AI (air-gapped config available now), Nutanix Enterprise AI, and LLM.co. For SCIF and classified use, Iternal's AirgapAI runs 100% locally with zero cloud transmission and is SCIF-approved and nuclear-facility-certified per Iternal. Dell and NVIDIA are also co-engineering an air-gapped solution for federal customers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "On-premises deployment simplifies compliance dramatically. Training data, model weights, and inference logs stay within a controlled perimeter. Audit trails live on hardware you own. The alternative is trusting a cloud provider’s compliance certifications and hoping their multi-tenant infrastructure satisfies your regulator.",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Storage architectures in AI environments must also provide reliability and redundancy, ensuring that critical datasets are always available for processing. Features such as automated tiering, snapshotting, and backup become crucial for operational resilience. Efficient data pipelines and caching mechanisms further boost model iteration speed.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Proudly Certified",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "FedRAMP Standards",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "An ISO 9001:2015 Company",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "acts as the centralized control layer for managing all inference traffic across models and APIs deployed in your private infrastructure. It supports advanced governance and cost control mechanisms, making it the operational heart of your AI stack.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "TrueFoundry is the best on premise AI platform because it gives you full control over the GenAI lifecycle. Our platform ensures regulatory compliance with HIPAA and SOC2 for all your Gen projects. We strengthen your AI strategy by providing a secure way to handle fraud detection in the world of AI.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2, GDPR & security posture",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Is it SOC 2 / GDPR compliant?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure your choice supports required certifications (CMMC, FedRAMP, HIPAA, ITAR).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "FedRAMP High compliance",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "AWS-native organizations needing FedRAMP High compliance with AI.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Federal Government (FedRAMP)",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "FedRAMP High baseline requires significant controls. For classified systems, air-gapped deployment is mandatory. Even for unclassified, many agencies prefer true isolation.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Nuclear Certified",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Security Certification",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "100% on-premise operation with zero cloud transmission. SCIF-approved and nuclear facility certified.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "What compliance certifications support air-gapped AI?",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI deployments typically align with: CMMC Level 2-3 for defense contractors, FedRAMP High for government agencies, HIPAA for healthcare organizations, SOC 2 Type II for enterprise security, ITAR for aerospace/defense manufacturers, and various classified handling requirements (CUI, Secret, Top Secret).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "A certified partner runs the infrastructure & operations",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "ISO-certified data centers",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": ", but a certified partner can",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Finovate gave the round a dedicated write-up, running through the Updata Partners-led raise, the Go1's SOC 2 Type II, ISO 27001, and HIPAA compliance posture, and the Go.OS layer that handles model management and GPU allocation with no cloud connection. The piece also ties the funding back to Go.AI's FinovateSpring and FinovateFall stage appearances.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": ": Align with NIST, HIPAA, FedRAMP, and internal IT policies",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "Owned since January 2026 by Nichole McKinney, founder of Power BI Consulting Services, a Microsoft Partner and MBE-certified data and AI consultancy",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance-driven AI (CMMC, HIPAA, SOC 2)",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Type II certified",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 27001 aligned",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 compliant",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2, GDPR, BYOK. Your data never trains our models.",
+    "url": "https://understand.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Security controls made visible and mapped to ISO 27001 and SOC 2. Updates are deliberate and auditable, even air-gapped.",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure continuous production readiness and smooth operations by working with Penguin Solutions, a certified NVIDIA DGX Managed Services provider with end-to-end services capabilities.",
+    "url": "https://www.penguinsolutions.com/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "Gain the training, certification, accreditation, and support to develop automation and control solutions.",
+    "url": "https://www.penguinsolutions.com/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "Assure production readiness and change management by working with a certified NVIDIA DGX Managed Services provider, the offers a full set of end-to-end services.",
+    "url": "https://www.penguinsolutions.com/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "industrial AI certified by the world",
+    "url": "https://superb-ai.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai Is Now ISO-27001 Certified - 2501.ai",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai Is Now ISO-27001 Certified",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai is now ISO-27001 certified, reinforcing our commitment to enterprise-grade AI automation for secure IT operations.",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai has achieved ISO/IEC 27001 certification",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": ", the global standard for information security management systems (ISMS). This is a major step forward in our mission to deliver",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": ". ISO-27001 certification formalizes what our clients already expect from us:",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise readiness for SOC2, SecNumCloud, and beyond",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "What’s Covered in the Certification",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and ... — Qualcomm Launches On-Prem AI Appliance Solution and ... Qualcomm https://www.qualcomm.com > ... > 01",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business 2026 — Best Turnkey AI Servers & AI Appliances for Business 2026 Iternal AI https://iternal.ai > best-private-ai-appli...",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises AI Appliances : Air-Gapped Enterprise LLM 2026 — On-Premises AI Appliances : Air-Gapped Enterprise LLM 2026 buildmvpfast.com https://www.buildmvpfast.com > blog",
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem AI : 3 Key Components, Use Cases & Best Practices — On-Prem AI : 3 Key Components, Use Cases & Best Practices Cloudian https://cloudian.com > ai-infrastructure",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Air - Gapped AI Platforms Ranked (2026): SCIF-Ready — Best Air - Gapped AI Platforms Ranked (2026): SCIF-Ready Iternal AI https://iternal.ai > best-ai-air-gapped-e...",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises AI Infrastructure Raises $85m as Banks Keep ... — On-Premises AI Infrastructure Raises $85m as Banks Keep ... FinanceX Magazine https://www.financexmagazine.com > ...",
+    "url": "https://www.financexmagazine.com/post/on-premises-ai-infrastructure-raises-85m-as-banks-keep-data-in-house",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Private AI Solutions for Agencies & Small Business — Top 10 Private AI Solutions for Agencies & Small Business evolveinc.com https://evolveinc.com > Blog",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": "Israel",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": ": Israel",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Israeli startup",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Caesarea, Israel",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "This data-driven outlook on technology scouting services outlines key market metrics, growth trends, grant activity, and funding dynamics shaping how organizations source and evaluate external innovation. It highlights leading hubs, investor activity, and service models driving ecosystem-based innovation discovery worldwide.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ", Updata Partners led the round from its Washington, D.C. base, while GFT Ventures, based in Palo Alto, California, and LAUNCH also participated.",
+    "url": "https://hoodline.com/2026/09/go-ai-lands-85m-series-a-bets-on-prem-hardware-wins-over-banks-hospitals/",
+    "pass": 3
+   },
+   {
+    "quote": "Puget Systems is a US workstation builder based in Auburn, Washington, known for configurable workstations for creative, engineering and AI workloads. For a small business, the AI-workstation category is the natural starting point for private AI: a single tower with one or two capable GPUs that sits under a desk or in a closet and runs an open-weight model for the whole team.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Microway is a US GPU and HPC system integrator based in Plymouth, Massachusetts that designs and builds GPU servers, workstations and clusters for scientific computing and AI, with configuration and support for the systems it ships.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Mechanics is a US HPC and AI server integrator headquartered in Bothell, Washington that designs, builds and deploys GPU servers, storage and rack-scale systems for AI and enterprise workloads.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "— a U.S.-headquartered, domestically-owned, long-term partner with a perpetual platform license and no investor exit pressure.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "ibl.ai is family-owned and operated from New York, NY — a U.S.-headquartered, domestically-owned long-term partner, not a vendor that sells licenses and moves on.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "IsRAEl",
+    "url": "https://oosto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCloud株式会社（本社：静岡県静岡市、代表取締役CEO：瀧 康史）は、自社専用で所有・育成が可能な生成AI製品シリーズ「InfiniCloud AI」の提供を開始し、第1弾製品「InfiniCloud AI Appliance（インフィニクラウド エーアイ アプライアンス）」を2025年8月より販売開始いたします",
+    "url": "https://infinicloud.com/20250807infinicloudAI-firstedition.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社テラスカイ(本社:東京都中央区、代表取締役CEO 社長執行役員:佐藤 秀哉、以下テラスカイ)のグループ会社であり、\"AI & Data Integrator\" を標榜する株式会社Cuon (本社:東京都中央区、代表取締役: 森本 優、以下Cuon)は、オンプレミス型AIソリューション「Private AI Appliance」(プライベート・エーアイ・アプライアンス)を2026年11月01日より提供開始いたします",
+    "url": "https://www.cuon.co.jp/news/21",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FIXER（本社：東京都港区、代表取締役社⻑：松岡 清⼀、以下FIXER）は、埼玉県草加市（市⻑：山川 百合子、以下草加市）にて、当社が提供するオンプレミス型生成AIサービス「Sovereign GaiXer（ソブリン ガイザー）」の導入を開始したことをお知らせします",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/mlops/comments/1fe5i82/how_to_get_started_with_building_an_on_premises/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/deployment-options",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/company/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.financexmagazine.com/post/on-premises-ai-infrastructure-raises-85m-as-banks-keep-data-in-house",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-raises-85-million-series-120000215.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hoodline.com/2026/09/go-ai-lands-85m-series-a-bets-on-prem-hardware-wins-over-banks-hospitals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://10clouds.com/white-label-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/white-label-ai-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timesofisrael.com/us-chip-giant-nvidia-snaps-up-israeli-ai-workload-management-startup/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vastdata.com/customers/sds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cio.com/article/193534/8-leading-israeli-ai-startups-to-watch.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onprem.ai/en/platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/sites/gilpress/2024/12/22/in-2024-israel-became-a-global-leader-in-applied-ai-innovation/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://oosto.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.penguinsolutions.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://superb-ai.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usjinnovate.org/2024/06/27/showcase-press-release-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/technology/japan-taps-us-chip-startup-tenstorrent-help-train-new-wave-engineers-2024-11-05/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.forbes.com/sites/japan/2025/12/10/harnessing-ai-japanese-startups-are-unlocking-enterprise-data/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://special.nikkeibp.co.jp/atclh/NXT/26/it_infrastructure_summit0331/p6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomorrow-net.co.jp/topic/topic-blog-20251210/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/20250807infinicloudAI-firstedition.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/media/9939/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cuon.co.jp/news/21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/collection/iso-27001/iso-27001-for-startups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qanswer.ai/blog/iso-27001-achieved-secure-enterprise-agentic-ai-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workstreet.com/blog/iso-27001-for-startups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyberday.ai/success-stories/ellie-ai-earns-enterprise-trust-with-iso-27001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gmicloud.ai/en/blog/enterprise-generative-ai-platform",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "US on-premise AI appliance startup",
+   "results": [
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "https://www.seekr.com/resource/accelerating-secure-ai-anywhere-on-premises-at-the-edge-and-beyond/",
+    "https://www.reddit.com/r/mlops/comments/1fe5i82/how_to_get_started_with_building_an_on_premises/",
+    "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "https://www.dell.com/en-us/shop/dell-ai-solutions/sc/artificial-intelligence",
+    "https://petronellatech.com/ai/on-premise-ai/?srsltid=AYCX9vLILQY6Mq38hwEaHAMPGb0ftpp4iAQq0vI3JkSbXNOLURnOSVsq",
+    "https://finance.yahoo.com/technology/ai/articles/ai-launches-go1-max-most-130000944.html"
+   ]
+  },
+  {
+   "query": "US on-premise AI appliance startup on-premise LLM appliance company",
+   "results": [
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.seekr.com/availability/private-deployments/",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://www.asacomputers.com/ai-solutions.html",
+    "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics",
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://llmappliance.com/platform-overview.html"
+   ]
+  },
+  {
+   "query": "US on-premise AI appliance startup air-gapped AI box price",
+   "results": [
+    "https://understand.tech/product/ai-in-a-box",
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://go.ai/technology/edge-ai-hardware",
+    "https://www.zylon.ai/deployment-options",
+    "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview",
+    "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "https://netprompt.ai/resources/on-premises-air-gapped-ai-network-operations",
+    "https://cloud.google.com/distributed-cloud-air-gapped",
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026"
+   ]
+  },
+  {
+   "query": "US on-premise AI appliance startup startup raises on-prem AI hardware",
+   "results": [
+    "https://go.ai/company/newsroom",
+    "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.linkedin.com/posts/rorymack_a-two-month-old-ai-startup-just-raised-475m-activity-7404145134113546240-HzRV",
+    "https://www.financexmagazine.com/post/on-premises-ai-infrastructure-raises-85m-as-banks-keep-data-in-house",
+    "https://finance.yahoo.com/technology/ai/articles/ai-raises-85-million-series-120000215.html",
+    "https://www.youtube.com/watch?v=ZTutxlPuGBU",
+    "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "https://hoodline.com/2026/09/go-ai-lands-85m-series-a-bets-on-prem-hardware-wins-over-banks-hospitals/"
+   ]
+  },
+  {
+   "query": "US on-premise AI appliance startup white label OEM reseller",
+   "results": [
+    "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://10clouds.com/white-label-ai/",
+    "https://understand.tech/",
+    "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "https://parallellabs.app/white-label-ai-platform/",
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJ31VfzQyzr_6kybNXJQYa26uxNlqWwZIhqBJ7AiSqWOvBYQEmn",
+    "https://leanware.co/insights/white-label-ai-software-complete-guide"
+   ]
+  },
+  {
+   "query": "US on-premise AI appliance startup Israel",
+   "results": [
+    "https://www.timesofisrael.com/us-chip-giant-nvidia-snaps-up-israeli-ai-workload-management-startup/",
+    "https://www.vastdata.com/customers/sds",
+    "https://www.cio.com/article/193534/8-leading-israeli-ai-startups-to-watch.html",
+    "https://www.onprem.ai/en/platform/",
+    "https://www.forbes.com/sites/gilpress/2024/12/22/in-2024-israel-became-a-global-leader-in-applied-ai-innovation/",
+    "https://oosto.com/",
+    "https://www.israeltechinsider.com/p/national-ai-program-stalls-stealthy",
+    "https://www.mlaia.com/blog-slm-onprem-israel.html",
+    "https://innovascope.org/from-startup-nation-to-ai-superpower-why-israels-ai-infrastructure-buildout-matters-to-the-united-states/",
+    "https://thejewishedition.com/news/israel/2026/02/22/startup-nation-to-ai-superpower-israel-to-build-ai-server-farms-double-power-plants/"
+   ]
+  },
+  {
+   "query": "US on-premise AI appliance startup Japan distributor",
+   "results": [
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.penguinsolutions.com/en-us",
+    "https://superb-ai.com/en",
+    "https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models",
+    "https://www.usjinnovate.org/2024/06/27/showcase-press-release-2024/",
+    "https://www.reuters.com/technology/japan-taps-us-chip-startup-tenstorrent-help-train-new-wave-engineers-2024-11-05/",
+    "https://www.forbes.com/sites/japan/2025/12/10/harnessing-ai-japanese-startups-are-unlocking-enterprise-data/",
+    "https://www.cerebras.ai/",
+    "https://parallelworks.com/partners",
+    "https://tdnet-pdf.kabutan.jp/20260924/140120260924539250.pdf"
+   ]
+  },
+  {
+   "query": "米国のオンプレAIアプライアンス",
+   "results": [
+    "https://special.nikkeibp.co.jp/atclh/NXT/26/it_infrastructure_summit0331/p6/",
+    "https://www.tomorrow-net.co.jp/topic/topic-blog-20251210/",
+    "https://infinicloud.com/20250807infinicloudAI-firstedition.html",
+    "https://www.youtube.com/watch?v=I6TPvxTe44U",
+    "https://japan-ai.co.jp/media/9939/",
+    "https://www.cuon.co.jp/news/21",
+    "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "https://lp.ise.co.jp/article04/archives/172",
+    "https://note.com/prlprl/n/n5deb128ed868",
+    "https://aismiley.co.jp/ai_news/on-premise-ai-cloud/"
+   ]
+  },
+  {
+   "query": "US on-premise AI appliance startup ISO 27001 certified",
+   "results": [
+    "https://www.2501.ai/news/2501-iso-27001",
+    "https://www.vanta.com/collection/iso-27001/iso-27001-for-startups",
+    "https://www.qanswer.ai/blog/iso-27001-achieved-secure-enterprise-agentic-ai-platform",
+    "https://www.workstreet.com/blog/iso-27001-for-startups",
+    "https://www.cyberday.ai/success-stories/ellie-ai-earns-enterprise-trust-with-iso-27001",
+    "https://www.gmicloud.ai/en/blog/enterprise-generative-ai-platform",
+    "https://www.zerberus.ai/blog/iso-27001-made-easy-a-startup-s-quick-guide/",
+    "https://scottytechnologies.com/iso-27001-certified-agentic-ai-platform/",
+    "https://www.complyjet.com/blog/iso-27001-for-startups",
+    "https://lyceum.technology/magazine/iso-27001-ai-infrastructure-certification-guide/"
+   ]
+  }
+ ],
+ "missing": {}
+}

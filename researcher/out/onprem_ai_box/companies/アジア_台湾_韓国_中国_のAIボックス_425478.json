@@ -1,0 +1,3005 @@
+{
+ "name": "アジア（台湾・韓国・中国）のAIボックス",
+ "en": "Asia on-premise LLM appliance",
+ "aliases": [
+  "Taiwan AI server appliance",
+  "Korean private LLM appliance",
+  "China all-in-one LLM machine",
+  "on-premise AI",
+  "on-prem AI",
+  "AI appliance",
+  "private AI",
+  "air-gapped AI",
+  "local LLM",
+  "オンプレ",
+  "生成AI"
+ ],
+ "context": "アジア",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:57:59.746510+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "From department to data center, scale your AI infrastructure with purpose-built appliances designed for enterprise security and performance.",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "One-click application launches for immediate productivity",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem AI Inference Appliance — LLM Machines",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem AI appliance",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "The appliance combines distributor-backed infrastructure with a configured inference environment and a recurring operating service.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Size an appliance for your workload.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem AI Appliance",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Appliances",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "private AI appliances",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "the packaged platforms and appliances that wrap these models, see the",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "private AI appliance",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "A ranked roundup of the best local AI platforms, runtimes, and appliances for secure, on-premises enterprise deployment.",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Our own early experiments showed just how big of a difference hardware makes. Going from a basic GPU to a server-grade AI box cut model iteration time from",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud providers update or retire model versions on their own schedules, which can silently change model outputs or break prompts. An on-device model can be packaged with your application, giving your team greater control over when the model is updated and helping maintain consistent behavior between releases.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ delivers local LLM performance that matches cloud providers. Sub-50ms latency, 2,000+ concurrent users, and 8 NVIDIA GPUs per unit, purpose-built hardware that eliminates the performance gap between local and cloud AI.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ hardware appliance and Go.OS model management platform deliver everything needed to run local LLMs at enterprise scale, from plug-and-play deployment to full model lifecycle governance.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ Hardware Appliance",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built hardware for local LLM inference. The Go1™ packs 8 NVIDIA GPUs, high-bandwidth NVLink interconnect, and enterprise storage into a single rack-mountable appliance designed for data center deployment.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Optimized Hardware Providers",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading hardware providers like",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage {vendor_count} vendors",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "With VDF AI, Microsoft Entra ID sign-in is native, while Okta, Keycloak, other SAML or OIDC providers and LDAP directories connect through an SSO-aware reverse proxy. Either way, audit records land in the SIEM your security team already watches.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": ". Through APIs and subscription services, providers like OpenAI, Anthropic, and Google are making their state-of-the-art models easy to access. However, the expenses of these solutions can rise rapidly when used by a large group of people",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": ". They also bring up issues with regulatory compliance, data protection, and the challenge of transferring service providers",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise deployment means running LLMs entirely using an organization’s own data centers or specially designed hardware. This approach does not require any external cloud providers, which provides full control of privacy. We decompose the cost structure into these 3 aspects:",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "“break-even” alternative that balances capability, cost, and independence from external providers.",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "The break-even analysis reveals distinct pricing tiers among commercial providers that fundamentally influence deployment decisions.",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "These providers fall into the middle range, with prices between $3.13 and $9.00 per million tokens. Against these baselines, break-even stretches from 1.4 months up to 44.1 months. This exerts moderate economic pressure on medium- and large-scale open-source models, yet it does not eliminate the rationale for local deployment.",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": ". Use cases include enterprise-wide generative applications, advanced research, and domain-specific copilots requiring reasoning depth comparable to commercial APIs. However, when compared against aggressively priced providers such as Gemini 2.5 Pro, break-even can extend to 5–9 years, challenging the economic case unless privacy, sovereignty, or vendor lock-in are overriding concerns",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "At the same time, it’s becoming increasingly practical for smaller organizations to run their own models on-site, reflecting a broader trend of making LLM technology more accessible. Yet, aggressive pricing from commercial providers continues to push costs down, creating pressure on those who want to run models locally.",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "“Model & API Providers Analysis — Artificial Analysis,”",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "LLM Appliance - Self-Hosted LLM with Zero Data Retention | Flatiron Networks",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "For organizations that can't risk sending sensitive data to cloud providers, every inference stays inside your network.",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Your data stays yours. We never store it in our cloud and never use it to train models or for any other purpose. Anything you load onto your appliance lives only on your appliance.",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox your LLM Appliance unit, plug it in, and boot it up. No complex setup required.",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Set the IP address and install our editor plugins to connect the appliance to your development environment.",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Why LLM Appliance",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How an on-premise appliance compares to cloud APIs and roll-your-own deployments.",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "LLM Appliance",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "contact@llmappliance.com",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Appliances",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "ITAR requires that technical data about defense articles not be exposed to foreign persons. Cloud providers with international operations present compliance risks that air-gapping eliminates.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "turnkey AI servers and appliances",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "The NVIDIA GB300 has arrived, and the first appliance is already shipped and live at a client site.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox the appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Data-center class NVIDIA Grace Blackwell platforms, delivered as a sovereign, on-premise, air-gapped appliance. Two form factors, sized for teams or full organizations.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "The appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Incirt runs knowledge assistants entirely on the appliance: no token costs, no per-seat metering, and intellectual property that never leaves the perimeter.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Coding agents running fully on the appliance, with no token limits.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GB10 · compact desktop appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid setup: add your own API keys for external providers, or run fully local with no outbound calls",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SSO-ready: integrates with enterprise identity providers when enabled",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Does it support enterprise identity providers (SSO)?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Can we mix local models and external providers?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "From cloud to AI in a Box: the recipe behind the 88%",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "one mid-size model, small team, air-gapped appliance",
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "pass": 3
+   },
+   {
+    "quote": "appliance",
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "KneoEdge — On-Premise LLM Deployment for Enterprise | Kneron",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Secure, On-Premise",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Take complete control of your AI capabilities with purpose-built hardware and enterprise-ready applications. No cloud dependencies, no data exposure.",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "100% On-Premise",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "100% On-Premise Processing",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped Deployment",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Offline operation",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Join leading enterprises who trust KneoEdge for their mission-critical AI deployments. See how on-premise AI can accelerate your business while maintaining complete control.",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Join enterprises already benefiting from secure, on-premise AI infrastructure. Complete control over your data and AI capabilities.",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Secure, on-premise AI infrastructure for the enterprise. Complete control, zero compromises.",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise LLM",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise vs Cloud LLM",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem AI Inference Appliance — LLM Machines",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem AI appliance",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Signed offline release verification",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem AI Appliance",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud vs On-Prem AI",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Local, air-gapped LLM chat for classified environments.",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem Hardware Sizing",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "How to Deploy LLMs On-Premise",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "private, offline, and free of per-token cloud fees. This guide explains what local AI is, the hardware",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "device or on-premises server instead of a cloud API. Because inference happens on-device, your prompts",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "— making local AI private, fully offline-capable,",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "runs 100% air-gapped on Intel NPU laptops for a",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "one-time $697 license — no subscription, no cloud.",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Private & offline",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "— data stays on your hardware; works with no internet",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "— air-gapped, SCIF/CMMC-ready deployments for regulated industries",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI perpetual license — no subscription, runs 100% offline",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Local vs Cloud vs On-Prem vs Air-Gapped",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "workstation, or on-premises server — instead of a remote cloud API.",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "third party, your prompts and data never leave your machine, and the model works even with no internet",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "What You Need to Run an On-Premise LLM: Hardware Starter Tips",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "on-prem LLM deployment is more practical than you think",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "Follow the Lead: How the DoD Does On-Prem AI",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "The Core Components of an On-Prem AI Stack",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you’re answering support tickets or synthesizing quality control reports, an on-prem AI deployment generally includes these components:",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "The benefit of on-prem is that you can tightly align AI with your existing security protocols. That means:",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped setups if you need full isolation",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "One of the most common misconceptions is that on-prem AI requires a massive investment or a team of data scientists. It doesn’t. Most successful deployments start small:",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem LLM:",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "An on-prem LLM does not run on the user's device at all. It runs on",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "All of these deployments keep data away from third-party cloud services. On-device goes one step further: the data never leaves the user's device.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Offline operation:",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Offline and connectivity-hostile environments:",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Inference runs on hardware the user already owns, so the data never leaves the device, latency stays consistent regardless of network connectivity, and it stays cost-efficient at scale.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The largest open-weight models remain the territory of high-end workstations, local GPUs, and on-premises servers.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Running inference on-device gives products privacy, offline resilience, predictable latency, and cost efficiency at scale. The workloads that genuinely need frontier-scale reasoning can still route to a cloud model.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Do on-device LLMs work offline?",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "picoLLM supports fully offline data processing",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Local LLM, On-Premises AI Deployment | Go.AI",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ delivers everything you need to run local LLMs at enterprise scale: true on-device inference with no external calls, production-grade performance for thousands of users, and air-gapped operation for the most sensitive environments.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "All LLM processing happens on-device. No API calls to external servers, no internet connection required, no data transmitted anywhere. Your prompts, responses, and fine-tuning data never leave the physical hardware sitting in your data center.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Full offline capability, local LLM inference continues even without internet connectivity",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped Capable",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Run local LLMs in completely disconnected environments. The Go1™ operates in full air-gap mode with offline model updates, local authentication, and zero internet dependency, built for classified, regulated, and high-security networks.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Full air-gap deployment with no internet dependency for any local LLM operation",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Offline model updates via secure physical media or approved transfer protocols",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Update local LLM models through a verified pipeline with cryptographic signing, integrity validation, and staged rollout. Supports both online updates and air-gapped transfer for disconnected environments.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy enterprise-grade local LLMs in 15 minutes. The Go1™ delivers 2,000+ concurrent users, sub-50ms latency, and full air-gap capability, no cloud dependencies, no per-token billing, no data leaving your infrastructure.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   }
+  ],
+  "認証（ISO等）": [
+   {
+    "quote": "FedRAMP Standards",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "— certified for SCIF and CMMC environments; works",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Certification programs aligned with EU AI Act Article 4 literacy mandate",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "ISO Certified",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "The model only changes when the application ships a change, so certified workflows and long-lived products keep a stable, testable behavior surface.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": ", we combine on-premise LLM deployment with fine-grained access control, Single Sign-On (SSO), and full auditability. This ensures traceability and security across all AI-powered workflows, no matter your compliance framework (GDPR, HIPAA, ISO/IEC 27001).",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure your choice supports required certifications (CMMC, FedRAMP, HIPAA, ITAR).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "FedRAMP High compliance",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "AWS-native organizations needing FedRAMP High compliance with AI.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Federal Government (FedRAMP)",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "FedRAMP High baseline requires significant controls. For classified systems, air-gapped deployment is mandatory. Even for unclassified, many agencies prefer true isolation.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Nuclear Certified",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Security Certification",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "100% on-premise operation with zero cloud transmission. SCIF-approved and nuclear facility certified.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "What compliance certifications support air-gapped AI?",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI deployments typically align with: CMMC Level 2-3 for defense contractors, FedRAMP High for government agencies, HIPAA for healthcare organizations, SOC 2 Type II for enterprise security, ITAR for aerospace/defense manufacturers, and various classified handling requirements (CUI, Secret, Top Secret).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2, GDPR & security posture",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Is it SOC 2 / GDPR compliant?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "A certified partner runs the infrastructure & operations",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "ISO-certified data centers",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": ", but a certified partner can",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Mobility • Autonomy • Certifications",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications (UL/Medical)",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications (Rugged)",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "World-Class Certifications: UL, CE, FCC",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "World-Class Safety Certifications",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "Undergone rigorous testing and validation to achieve UL safety standards and IEC 62443-4-1 cybersecurity certifications. The LLM-1U Series is trusted for deployment peace of mind and confidence in mission-critical environments.",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "IEC 62443-4-1",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "in June 2026. But the easing targets specific use cases and specific security certifications, not a blanket relaxation. Public agencies, defense contractors, and the most sensitive financial systems remain under the full rule. KT's appliance is built for exactly that remaining population.",
+    "url": "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "pass": 3
+   },
+   {
+    "quote": "That operational record matters for KT's enterprise sales argument. A regulated-sector buyer evaluating the NPU LLM Station can now point to a live, government-certified deployment of the same chip class in a demanding public-sector inference workload as evidence that the technology is production-ready, not merely laboratory-tested.",
+    "url": "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Runs on certified Cisco, Dell, Fujitsu, HPE, Lenovo and NX hardware",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "100% local, air-gapped inference (AirgapAI) — no network required; SCIF-approved and nuclear-facility-certified per Iternal",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A software stack you pair with certified hardware rather than a single shipped box",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM.co offers a private LLM via cloud, on-prem, or a dedicated hardware appliance (the LLM Box), supporting air-gapped installations and offline AI agents. Teams start from open-source foundation models (LLaMA, Mistral, Mixtral) or bring their own, with RBAC, audit logging, and private model training. Its architecture is described as designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Architecture designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance is framed as designed to meet standards rather than independently certified",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI runs entirely on-prem with zero cloud transmission and no network required. Per Iternal, it is SCIF-approved and nuclear-facility-certified, serving defense, federal, healthcare, financial, and legal organizations.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "SCIF & nuclear certified",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI is SCIF-approved and nuclear-facility-certified per Iternal, meeting the strictest air-gapped security requirements.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal deployment certifications",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Several support air-gapped operation, including HPE Private Cloud AI (air-gapped config available now), Nutanix Enterprise AI, and LLM.co. For SCIF and classified use, Iternal's AirgapAI runs 100% locally with zero cloud transmission and is SCIF-approved and nuclear-facility-certified per Iternal. Dell and NVIDIA are also co-engineering an air-gapped solution for federal customers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "support HIPAA, GDPR, and SOC 2 compliance requirements.",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "DoD Tradewinds certification",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "enforces these controls at the platform level, supporting HIPAA, GDPR, and SOC 2 compliance requirements without custom development.",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Models are stored locally in secure artifact repositories or volume mounts. Versioning, rollback, and access control mechanisms are essential to manage model lifecycles and audit changes.",
+    "url": "https://www.truefoundry.com/blog/on-prem-llms",
+    "pass": 3
+   },
+   {
+    "quote": "Q13. What compliance frameworks have you delivered under before (HIPAA BAA, SOC 2 Type II for on-prem tooling, CSAP, FSC, AISI, GDPR SCCs)?",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 27001",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance isn't optional—it's a competitive differentiator. For Southeast Asian businesses serving global clients, understanding and implementing proper data protection measures is essential. The regulatory landscape in 2026 includes GDPR (European Union), HIPAA (US healthcare), SOC 2 (security controls), and the emerging EU AI Act with high-risk system requirements taking effect in August 2026.",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance Certification Comparison by Platform",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "Certification status as of 2026. Always verify current compliance status directly with providers before committing.",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "Security certifications, SLA guarantees, dedicated infrastructure",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": ". GDPR, HIPAA, and SOC 2 certifications signal enterprise-grade reliability to potential clients. The EU AI Act's August 2026 enforcement creates urgency for businesses serving European markets.",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "holding ISO 27001 certification. Our solutions are fully compliant with industry standards (e.g. GDPR, CCPA).",
+    "url": "https://deviniti.com/services/self-hosted-llm-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Mobility • Autonomy • Certifications",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications (UL/Medical)",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "Size GPU, node, storage and network requirements, then coordinate distributor-backed Supermicro procurement after customer approval.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "— small models (1B–8B) work on 16GB RAM or an NPU/8GB GPU",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "RAM is enough to run a capable 7B–8B local model on most laptops",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "To run a local LLM you mainly need enough memory (RAM or GPU VRAM) to hold the model.",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "a 7B-8B model fits in about 6–8GB, a 13B model in roughly 10–12GB, and a 70B model in",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "40–48GB. If the model fits in GPU VRAM it runs fastest; if it spills into system RAM, it still works",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "but slower. CPU-only inference is viable for small models; an NPU or GPU makes everything faster.",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "16GB RAM laptop, 8GB GPU, AI PC NPU",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "32GB RAM, 12–16GB GPU",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "24GB GPU (e.g. RTX 4090), 64GB RAM",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "2x 24GB GPUs or 64–128GB unified RAM",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "small/medium models efficiently without a discrete GPU. For the arithmetic behind those numbers, see",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "what LLM parameters mean for hardware",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "You do not need a server rack. A modern AI PC laptop with an Intel NPU runs a capable 7B–8B",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Phi-4 — all open-weight, all free to download, each shipping in sizes from roughly 3B to 70B",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "parameters. Which one is best depends on your memory budget, so the",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "High GPU Output Computing",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "1–4 GPUs (NVIDIA A100s or L40s are popular choices)",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "Our own early experiments showed just how big of a difference hardware makes. Going from a basic GPU to a server-grade AI box cut model iteration time from",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "Serving every request from rented cloud compute turns success into unbounded cost. Local inference runs on hardware already in users' hands, which is cost-effective at scale.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "An LLM needs roughly 2 GB of RAM per billion parameters at full precision, and a quarter of that at 4-bit. The reason is simple arithmetic. A model is a collection of learned numeric values called parameters or weights, and each one is stored at a chosen precision. Memory for the weights equals the parameter count multiplied by the bytes per weight.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The standard release format for open-weight models, meaning models whose trained weights are published for download. Each weight is stored as a 16-bit floating-point number (2 bytes), so the weights need roughly 2 GB of RAM per billion parameters.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Each weight becomes an 8-bit integer (1 byte), cutting weight memory to roughly 1 GB of RAM per billion parameters.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Each weight fits into half a byte, dropping weight memory to roughly 0.5 GB of RAM per billion parameters.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Running a 3.5 GB model behind a 60 GB/s mobile memory bus caps theoretical throughput at roughly 17 tokens per second, regardless of the raw compute the processor advertises. Compressing that same model to 2.5 GB via quantization reduces the volume of data moving across the bus for each token, lifting the theoretical ceiling past 20 tokens per second on the exact same hardware.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated enterprise GPUs move thousands of gigabytes per second across high-bandwidth memory (HBM).",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "This bandwidth gap explains why the exact same model feels vastly different across devices. Because average human reading speed is about 4-5 tokens per second, any local deployment that consistently clears this baseline feels responsive and fluid to the user.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "running on hardware from a Raspberry Pi to a single consumer GPU.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "7-8B-class models run on flagship phones",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Llama 3.1 8B network to build its compact Llama 3.2 1B and 3B models",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Distillation is a primary reason today's small models punch above their weight. After pruning, Meta restored quality in its Llama 3.2 models by training them against the token predictions of its 8B and 70B teachers.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "scores 61.3 on MMLU with 2-bit Llama-3-8b, where fixed-bit methods like GPTQ collapse to 25.1",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Models of a few hundred million parameters ship in a few hundred megabytes and run on nearly anything, including low-power embedded systems. Models at this scale handle focused jobs such as summarization, extraction, classification, and rewriting, the territory of Small Language Models, and a product that embeds a model for one job needs no broad world knowledge.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "7-8B (flagship and desktop class):",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ delivers everything you need to run local LLMs at enterprise scale: true on-device inference with no external calls, production-grade performance for thousands of users, and air-gapped operation for the most sensitive environments.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Every token generated on local GPUs, zero external API calls or cloud roundtrips",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ delivers local LLM performance that matches cloud providers. Sub-50ms latency, 2,000+ concurrent users, and 8 NVIDIA GPUs per unit, purpose-built hardware that eliminates the performance gap between local and cloud AI.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ serves 2,000+ concurrent users per unit with consistent response times under load",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "8 NVIDIA GPUs with optimized tensor parallelism for maximum throughput per watt",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built hardware for local LLM inference. The Go1™ packs 8 NVIDIA GPUs, high-bandwidth NVLink interconnect, and enterprise storage into a single rack-mountable appliance designed for data center deployment.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Rack the Go1™, connect power and network, and run local LLMs within 15 minutes. No complex cluster configuration, no distributed systems expertise required. Go.OS handles model loading, GPU allocation, and serving automatically.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Run multiple local LLM models simultaneously on a single unit of The Go1™. Deploy Llama for general tasks, a fine-tuned model for compliance, and a specialized model for code generation, all sharing GPU resources intelligently.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Start with The Go1™ for 2,000 users. Add units as demand grows with automatic load balancing and model replication across the cluster. Scale local LLM capacity linearly without re-architecting your deployment.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time dashboards tracking local LLM latency, throughput, GPU utilization, accuracy metrics, and error rates. Automated alerting when performance degrades below configurable thresholds for any model or endpoint.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy enterprise-grade local LLMs in 15 minutes. The Go1™ delivers 2,000+ concurrent users, sub-50ms latency, and full air-gap capability, no cloud dependencies, no per-token billing, no data leaving your infrastructure.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Limited to vendor-offered models and parameters",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "2,000+ users. Sub-50ms latency. Zero cloud dependency. Run large language models locally on purpose-built hardware that delivers cloud-grade performance without sending a single token off-premise.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Sub-50ms latency for local LLM inference, with The Go1™ serving 2,000+ concurrent users per unit. No network round-trips, no API rate limits, no cold starts, consistent performance at scale.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Concurrent users",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Requires local hardware (GPUs, servers)",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "Llama3, Nemotron-70B, Mistral, Qwen2.5, Phi-4",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": ": High-performance GPUs from",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "✅ At least 1–2 high-performance GPUs",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "setting somme parameters of the LLM,",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "on the machine for LLM serving, “vllm serve meta-llama/Llama-3.3-70B-Instruct“,",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "“model”: “meta-llama/Llama-3.3-70B-Instruct”,",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "like NVIDIA’s A100 GPUs.",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "offer GPUs and AI accelerators designed for high-performance LLM deployment.",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "Proprietary SOPs, process parameters, failure histories, and quality data never leave your network. No risk of training data leaking to third-party models. Meets ITAR, CMMC, and industry-specific compliance requirements without legal review of cloud vendor agreements.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "The right hardware depends on model size, concurrent users, and whether you need inference only or fine-tuning capability. Here's the definitive sizing matrix for factory LLM deployment in 2026:",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "Updates & recovery",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage controlled updates, backup, recovery and isolation procedures through agreed maintenance windows.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "CEO & Founder, Iternal Technologies • Updated September 2026 • 12 min read",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "I went in with a specific goal. Since January, I've sent our customers a monthly update on market volatility, and I've written here about how extreme things have become, including when",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud providers update or retire model versions on their own schedules, which can silently change model outputs or break prompts. An on-device model can be packaged with your application, giving your team greater control over when the model is updated and helping maintain consistent behavior between releases.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The built-in route removes model distribution and update work, but it also hands the OS vendor the decisions about which model runs, what it can do, and which devices qualify. A product that fits inside those decisions can ship quickly this way. A product that needs a specific model, consistent behavior across OS versions, or coverage beyond the newest devices needs one of the other routes.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The route trades full control for full responsibility: any model on any device, with your team owning per-platform integration, quantization choices, model updates, and support. Running",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The three routes answer the same five questions differently: who chooses the model, which devices are covered, how much integration the team builds, who owns updates and support, and what the cost structure looks like.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The OS vendor decides the model and what it can do, coverage stops at the newest devices, integration is one native API, the OS handles updates, and use is free.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Any open-weight model runs on any device you integrate, but integration is built per platform, your team owns quantization, updates, and support, and the cost is ongoing engineering time.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The vendor's pre-compressed catalog runs across every SDK-supported platform through one API design, the vendor carries compression, updates, and support, and the cost is a commercial agreement instead of an in-house engineering effort.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Plan distribution and fleet updates early:",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Built-in OS models are the fastest start, and the OS vendor decides the model, the devices, and the capabilities. Open-source runtimes give full control, and the team carries integration, updates, and support. Commercial SDKs keep the model choice and the platform coverage while a vendor carries that operational work.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Run local LLMs in completely disconnected environments. The Go1™ operates in full air-gap mode with offline model updates, local authentication, and zero internet dependency, built for classified, regulated, and high-security networks.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Offline model updates via secure physical media or approved transfer protocols",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Full model lifecycle management for local LLMs. Go.OS handles model versioning, performance monitoring, resource allocation, and secure update pipelines, the operating system that makes local LLM deployment enterprise-ready.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Secure Update Pipeline",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Update local LLM models through a verified pipeline with cryptographic signing, integrity validation, and staged rollout. Supports both online updates and air-gapped transfer for disconnected environments.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Model Updates and Versioning",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "and automate updates wherever possible.",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "Common Mistake — Underestimating Model Update Needs",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": ": Set up an MLOps pipeline with staged validation, and schedule quarterly model assessments to ensure performance continuity.",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "Follow on Social to get Latest Updates",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Continuous batching is what turns expensive idle GPUs into a shared service; without it, utilisation stays low and the TCO case weakens. The operator puts driver, device-plugin and DCGM monitoring updates into your normal patch cycle.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "You need zero external connectivity, including for updates → look at the air-gapped LLM deployment variant.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Structural security no contract can match — in exchange for moving every model, index, and software update through an offline bundle process.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "How are model updates tested — is there an evaluation harness with your data?",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Updated July 12, 2026",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI infrastructure is the compute, model supply chain, retrieval layer, local identity and offline update path that let an AI system run with no route to the internet.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "5. Offline update path",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Model, application and OS updates arrive as signed offline bundles on a defined cadence. Deciding that cadence up front (quarterly is common in accredited enclaves) prevents the drift that leaves an isolated system three model generations behind its connected counterpart.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Offline updates and security patches (validated releases)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Updates & Patch Management",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Update",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Signed air-gapped updates, vendor SLA.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Managed software lifecycle: updates, security patches, and platform health checks",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offline update workflows for air-gapped environments",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment, Operations, and Updates",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "How are updates delivered?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "What is included in Update Services?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Running a language model where no data can leave is mostly an engineering problem around the model, not in it. This guide covers the difference between on-prem and air-gapped, a reference architecture, how to size hardware, how updates cross the gap, and how to evaluate inside the perimeter.",
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "An air-gapped LLM deployment runs a language model on hardware with no network path to the outside: the weights, the retrieval index, the application and every update cross into the environment deliberately, are verified, and are logged.",
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Pick the least restrictive option your data allows. Every step toward isolation adds operational work, especially for updates.",
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Getting models and updates across the gap",
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Build and update under a secure software development framework, with an SBOM for every release.",
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "An air-gapped LLM is a language model running on hardware with no network connection to the outside. Weights, data and updates are brought in deliberately on controlled media and verified, so nothing typed into or produced by the model can leave.",
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "How do you update a model in an air-gapped environment?",
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Stage and verify the update on a connected system, record an SBOM, carry it across on approved media, verify it again inside, test it against an internal evaluation set and promote it with a rollback plan.",
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "pass": 3
+   },
+   {
+    "quote": ", for instance, ships dual 10-gigabit Ethernet and USB4, which is generous for a mini-PC and still short of the networking a real inference cluster uses.",
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "pass": 3
+   },
+   {
+    "quote": "An air-gapped deployment trusts whoever assembled the board and shipped the firmware. For a genuinely sovereign system, that provenance is part of the threat model, not an afterthought.",
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon is installed, validated, monitored, and updated under agreed controls",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated April 2026. Reviewed by the Zylon AI Engineering Team",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Updates are a project.",
+    "url": "https://www.distillabs.ai/learn/air-gapped-and-on-premise-llm-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": ". If you don’t want to share your website activities, including browsing behavior, with our third-party partners via these tracking technologies, click on “Cookie Settings\" button below to update your preferences. You can also update your cookie preferences at any time by clicking the \"Cookie Settings\" link at the bottom of this website.",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony said its approach is aimed at organizations reluctant to use cloud-based AI due to concerns over data privacy, compliance, and regulatory requirements. The nodes come preloaded with 16 open source models, including IBM's Granite family and Meta's Llama, and can be updated quarterly via a USB connection.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "The appliance combines distributor-backed infrastructure with a configured inference environment and a recurring operating service.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Size GPU, node, storage and network requirements, then coordinate distributor-backed Supermicro procurement after customer approval.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "for the enterprise variants. Most teams",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "multilingual, and coding; available in many sizes including very small variants.",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "— fast, capable European models (including mixture-of-experts variants)",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "— strong reasoning and code performance; distilled smaller variants run",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "1.5B to 70B distilled variants",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "MIT on the R1 releases; a distilled variant also carries the license of the model it was distilled from",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Inference runs on provider servers, so data travels to third-party infrastructure and every request needs a connection. Latency includes a network round trip that varies with conditions, server compute is billed as usage grows, and capability reaches frontier models with very long contexts.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "pushes weight memory even lower, fitting a 7B model within 2 to 3 GB of RAM. Methods vary significantly in how effectively they preserve accuracy at these compression levels.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The width of this memory bus varies dramatically across hardware tiers:",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Models in this tier deliver broad assistant capability: instruction following, multi-turn dialogue, and open-domain answers. Llama 3.2's 1B and 3B releases target mobile hardware directly, as do Gemma's compact variants and Microsoft's Phi series. All three families ship in the",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Base Models vs Instruction-Tuned Variants",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Most open-weight families ship in two variants, and the choice decides how the model behaves in your product:",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Instruction-tuned variants (",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Further trained to follow directions, answer questions, and hold a dialogue. Assistants, question answering, and RAG call for the instruction-tuned variant.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "There are two ways to do it. Full fine-tuning retrains every weight in the model, which requires GPU infrastructure and produces a separate model file for each variant.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": ") from the picoLLM page. The catalog spans open-weight families from Gemma and Phi to Llama 3.2 and Mixtral, at multiple compression levels. For an assistant-style application, pick the instruction-tuned variant of your chosen model.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Terms vary significantly across model families, from permissive Apache 2.0 releases to Meta's acceptable-use terms. Legal review is cheap compared to re-platforming after launch.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The term \"AI OS\" is everywhere, but its meaning varies widely depending on who you ask. This guide explains what an AI operating system is, ...",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Telematics",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Alibaba's open model excels at structured data reasoning and multilingual support. The 32B variant is ideal for parsing maintenance logs, interpreting sensor readings, and generating structured work orders from natural language input.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "You need zero external connectivity, including for updates → look at the air-gapped LLM deployment variant.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Your constraint is jurisdiction, not the building → the sovereign variant governs legal control over the LLM deployment, not just physical control.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "vary dramatically depending on usage patterns, batch processing, and model selection. We provide detailed cost breakdowns and usage scenarios in Table",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": ". Our break-even analysis across 54 deployment scenarios shows that the economic viability varies widely. This analysis compares nine open-source models with six commercial API services.",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial provider pricing heterogeneity creates order-of-magnitude variations in deployment economics, with premium services enabling rapid cost recovery for local alternatives",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "Varies",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Cost varies 1000x:",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI deployments typically align with: CMMC Level 2-3 for defense contractors, FedRAMP High for government agencies, HIPAA for healthcare organizations, SOC 2 Type II for enterprise security, ITAR for aerospace/defense manufacturers, and various classified handling requirements (CUI, Secret, Top Secret).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment timelines vary significantly. AirgapAI deploys in weeks with end-to-end integration support. Azure and AWS isolated deployments typically take 3-6 months. Palantir and similar enterprise platforms often require 12-18 months for full deployment. Organizations should factor deployment speed into their total cost and productivity calculations.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Size from the workload backward: the longest context you need, the number of concurrent users, and the response time they will accept. Then test quantized models against your own evaluation set, because the accuracy cost of quantization varies by model and task.",
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "The Rocketgraph result also shows why a specialist can beat a generalist inside a perimeter. Their platform uses an OpenCypher variant, and public models bias toward standard Cypher, inventing",
+    "url": "https://www.distillabs.ai/learn/air-gapped-and-on-premise-llm-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Venezuela, Bolivarian Republic of",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Redmond Channel Partner",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "OEM ODM Services",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller and less established than the OEM leaders, with fewer public reference customers and benchmarks",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "on on-premise LLM deployments. The cost predictability of self-hosted infrastructure eliminates variable cloud computing expenses.",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.truefoundry.com/blog/on-prem-llms",
+    "pass": 3
+   },
+   {
+    "quote": "AI Chatbot OEM Customization: A Practical Guide for Southeast Asian Businesses - Alibaba.com Seller Blog",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "AI Chatbot OEM Customization: A Practical Guide for Southeast Asian Businesses",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding White-Label Solutions, Compliance Requirements, and Market Opportunities on Alibaba.com",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "White-label solutions cost $300-$3,000/month vs $500,000+ for custom development",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "Source: Industry surveys and platform data. Budget ranges reflect typical white-label pricing tiers.",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Customization Options: White-Label vs Custom Development",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "One of the most critical decisions for businesses entering the AI chatbot space is choosing between white-label OEM solutions and custom development. This isn't a binary choice—there's a spectrum of customization levels, each with distinct cost structures, timelines, and strategic implications.",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label OEM Solutions",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": ": Custom development $500,000+ upfront vs white-label $300-3,000/month operational expense",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Configuration Comparison: White-Label vs Custom Development",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label OEM",
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "Manage controlled updates, backup, recovery and isolation procedures through agreed maintenance windows.",
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Drafting, rewriting, autocomplete; the widest tooling support of any small model",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "governed, supported deployment rather than a DIY setup. For where custom weights and model lineage fit in,",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Supported LLM Models and Bring Your Own",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "employee to assemble a model toolchain. They need a supported product that runs local AI safely at scale.",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The result is the privacy and cost profile of a local LLM with the governance, support, and ease-of-use an",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing a Local Model: What Is Supported and Can You Bring Your",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Replacing EOL Items/Legacy Support",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you’re answering support tickets or synthesizing quality control reports, an on-prem AI deployment generally includes these components:",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "A standout choice here is PostgreSQL with the pgvector extension, which supports vector data and offers indexing methods like HNSW for fast similarity searches. You can run familiar SQL queries using distance metrics like cosine or L2 to find the most relevant matches.",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "Frameworks like LlamaIndex, LangChain, and Supabase offer user-friendly APIs that make connecting to pgvector and executing vector searches straightforward—even for non-experts. As adoption grows, PostgreSQL is becoming the go-to for integrated vector search (even Amazon Redshift now supports it).",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "A ticket classifier for support operations",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance, inspection, and safety logging often run where network connectivity is absent.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud services run context windows into the hundreds of thousands of tokens, far past what device memory supports.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The route trades full control for full responsibility: any model on any device, with your team owning per-platform integration, quantization choices, model updates, and support. Running",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial route pairs vendor-compressed models with supported, cross-platform SDKs under a license. This route exists to take over the work the open-source route leaves to your team: a team gets pre-optimized model files, one integration surface across mobile, web, embedded, and desktop, and a vendor accountable for correctness and support. For example,",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The three routes answer the same five questions differently: who chooses the model, which devices are covered, how much integration the team builds, who owns updates and support, and what the cost structure looks like.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Any open-weight model runs on any device you integrate, but integration is built per platform, your team owns quantization, updates, and support, and the cost is ongoing engineering time.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "The vendor's pre-compressed catalog runs across every SDK-supported platform through one API design, the vendor carries compression, updates, and support, and the cost is a commercial agreement instead of an in-house engineering effort.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": ", including Safari and Firefox where WebGPU support lags.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Built-in OS models are the fastest start, and the OS vendor decides the model, the devices, and the capabilities. Open-source runtimes give full control, and the team carries integration, updates, and support. Commercial SDKs keep the model choice and the platform coverage while a vendor carries that operational work.",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "picoLLM supports fully offline data processing",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-Model Support",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Update local LLM models through a verified pipeline with cryptographic signing, integrity validation, and staged rollout. Supports both online updates and air-gapped transfer for disconnected environments.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Support",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": ". Their applications span industries, from customer support chatbots to enterprise knowledge management.",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "are popular choices for on-premise deployment due to their flexibility and community support. Consider factors like",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "High Infrastructure and Maintenance Costs",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "… These models offer flexibility and are supported by active developer communities.",
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Preventive Maintenance",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Request Maintenance",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "FMCG Maintenance",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "HVAC Maintenance Service",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "A maintenance technician asks your factory's private LLM: \"What's the torque spec for the Stage 3 gearbox bearing on Line 7?\" In 0.8 seconds, the model — running locally on a $4,699 NVIDIA DGX Spark sitting in your server room — retrieves the answer from 15 years of maintenance manuals, SOPs, and work order history.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Join iFactory's expert-led session on how AI-native architecture — including on-premise LLM deployment, RAG pipelines for maintenance knowledge, and CMMS integration — is enabling manufacturers to deploy sovereign, production-grade AI without cloud dependency.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Query response time for RAG-powered knowledge retrieval from local maintenance docs",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "One hardware purchase replaces ongoing per-token API fees. A DGX Spark at $4,699 runs unlimited queries. For factories processing thousands of maintenance lookups, troubleshooting requests, and documentation queries daily — the cost advantage compounds rapidly.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Fine-tune models on your specific equipment manuals, failure modes, and maintenance history. A model trained on your plant's 15 years of work orders outperforms any generic cloud API on your machines — dramatically improving answer accuracy and technician trust.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Plant-level RAG, maintenance AI, fine-tuning up to 70B",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA DGX Spark at $4,699 runs 8–20B parameter models at 20+ tokens/second — more than fast enough for interactive maintenance Q&A, document retrieval, and troubleshooting. Its 128GB unified memory handles models up to 200B with quantization. For most single-plant deployments, this is the right starting point.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Alibaba's open model excels at structured data reasoning and multilingual support. The 32B variant is ideal for parsing maintenance logs, interpreting sensor readings, and generating structured work orders from natural language input.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "For factory RAG and maintenance Q&A, a Llama 4 8B at full precision or a 70B at INT4/NVFP4 delivers excellent results on DGX Spark. Start with the smaller model — it's faster, easier to fine-tune, and handles 90% of factory knowledge retrieval tasks. Scale up only if you need complex multi-step reasoning.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Community Support:",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": ": Electricity, cooling, maintenance,",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "$2,000) further reduces capital barriers. Typical use cases include customer support automation, internal knowledge search, and lightweight document analysis—tasks where 30B-class models provide sufficient accuracy",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "F. Shareef, “Enhancing Conversational AI with LLMs for Customer Support Automation,”",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "Experimental support, please",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "support. To report errors in the HTML that will help us improve conversion and rendering, choose any of the",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "should not be a barrier to accessing research. Thank you for your continued support in championing open access for",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "Have a free development cycle? Help support accessibility at arXiv! Our collaborators at LaTeXML maintain a",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "We gratefully acknowledge support from our",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware, software, warranty, and support included. Fixed per-device pricing with predictable costs and no usage-based fees.",
+    "url": "https://llmappliance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure your choice supports required certifications (CMMC, FedRAMP, HIPAA, ITAR).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise deployment support with Tier 1-3 support included",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise support available",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "IBM enterprise support",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Dell enterprise support",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "one-time $697 license — no subscription, no cloud.",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "$697 per-seat perpetual license",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "costs one download rather than a rebuild. Anything below roughly 3B parameters is usually described as one",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "local assistant on each user's Intel NPU laptop for a one-time $697 perpetual license per seat, so",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "$24.95",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "$697 perpetual license per seat",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "$566K+",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "$2,497",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "$50,000",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "$150,000",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "$750K-$1.5M",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The turnkey local AI assistant: air-gapped, $697 perpetual license, runs on Intel NPU laptops, SCIF and CMMC ready.",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "with $100M to scale generative AI across defense agencies. But they didn’t turn to public tools like ChatGPT or Gemini. They deployed platforms like",
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "pass": 3
+   },
+   {
+    "quote": "A maintenance technician asks your factory's private LLM: \"What's the torque spec for the Stage 3 gearbox bearing on Line 7?\" In 0.8 seconds, the model — running locally on a $4,699 NVIDIA DGX Spark sitting in your server room — retrieves the answer from 15 years of maintenance manuals, SOPs, and work order history.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Parameter models now run on a $4,699 desktop device — no data center required",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "One hardware purchase replaces ongoing per-token API fees. A DGX Spark at $4,699 runs unlimited queries. For factories processing thousands of maintenance lookups, troubleshooting requests, and documentation queries daily — the cost advantage compounds rapidly.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "~$2,000",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "$4,699",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "~$50K+",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "$200K+",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA DGX Spark at $4,699 runs 8–20B parameter models at 20+ tokens/second — more than fast enough for interactive maintenance Q&A, document retrieval, and troubleshooting. Its 128GB unified memory handles models up to 200B with quantization. For most single-plant deployments, this is the right starting point.",
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "pass": 3
+   },
+   {
+    "quote": "50M tokens/month) or strict data residency mandates.",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": ". Finally, recent researchers have modeled the total cost of ownership (TCO). This work underscores the trade-offs between spending on cloud-based API and amortized hardware costs of on-premises local deployment. They also discussed the impact of precision formats (e.g., FP8) and energy efficiency",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial LLM API Pricing (per 1M tokens, USD)",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "$10.00",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "$15.00",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "$75.00",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "$2,000",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "$15,000",
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "pass": 3
+   },
+   {
+    "quote": "leads with 2,800+ pre-built workflows, 78x accuracy via Entourage Mode, and perpetual licensing from $697. Defense-grade alternatives like Palantir AIP require $5M+ investments.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI is the value pick at $697 one-time perpetual licensing; Palantir AIP and Azure Disconnected suit seven-figure defense and agency programs. The technology itself is covered on the",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "It is the standard approach for classified programs (SCIF environments), ITAR manufacturers, and regulated industries where even encrypted cloud AI is unacceptable. True air-gap means full disconnection — not just a private cloud or VPC. Ranked below: the platforms that genuinely deliver it, from $697 one-time licenses to $5M+ defense deployments.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions range from $697 one-time (AirgapAI) to $5M+ annual (Palantir, Azure disconnected).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$697 one-time",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$5M+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$500K+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$300K+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$250K+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Federal agencies with $1M+ budgets and existing Microsoft enterprise agreements.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Extremely expensive ($5M+ typical)",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "DoD, IC, and defense contractors with $5M+ budgets for AI platforms.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$25,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€75,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€25,000 / year",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "European market rates. GB300 starts at €150,000 per year and is confirmed by quote depending on configuration.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "from $150,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We moved our AI workloads off the cloud and cut costs by 88%. Here's when enterprises should do the same.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony has raised $2 million in seed funding led by True Ventures. For more information, visit the",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "8 Ways to Cut IT Costs and Improve ROI",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "total regular price: $0.00",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "contributing to a $124 million raise",
+    "url": "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Rebellions has since become South Korea's most heavily capitalized domestic AI chip company. In March 2026, the company closed a pre-IPO funding round totaling ₩640 billion (approximately $400 million) — the",
+    "url": "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "pass": 3
+   },
+   {
+    "quote": "— at a valuation of approximately $2.34 billion. Mirae Asset Financial Group led the private portion; the Korean government contributed ₩250 billion directly through the National Growth Fund and ₩50 billion through the Korea Development Bank. The round is the opening investment of the government's \"K-Nvidia Nurturing Project.\"",
+    "url": "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "pass": 3
+   },
+   {
+    "quote": "The national compute center, backed by a ₩2.5 trillion (approximately $1.77 billion) public-private investment and led by a Samsung SDS consortium, runs primarily on NVIDIA GPUs. Its domestic chip quota was deleted from the original design because no private bidder would accept the contract with it in place. Domestically made NPUs enter that facility only through a voluntary pathway.",
+    "url": "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "pass": 3
+   },
+   {
+    "quote": "CD&R and GTCR Propose $40 Billion Global Payments Buyout: Third-Largest LBO Ever",
+    "url": "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual license from $697 one-time per user",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark around $4,699 MSRP; GB300 price not published by Dell",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom (from $697/user)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Local LLM : What It Is, Best Models & Hardware (2026) — Local LLM : What It Is, Best Models & Hardware (2026) Iternal AI https://iternal.ai > Resources",
+    "url": "https://iternal.ai/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On- Device LLMs: Complete Guide to Local AI (2026) — On- Device LLMs: Complete Guide to Local AI (2026) Picovoice https://picovoice.ai > Blog",
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Air - Gapped AI Platforms Ranked (2026): SCIF-Ready — Best Air - Gapped AI Platforms Ranked (2026): SCIF-Ready Iternal AI https://iternal.ai > best-ai-air-gapped-e...",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air - Gapped LLM Deployment: On-Prem Guide (2026) — Air - Gapped LLM Deployment: On-Prem Guide (2026) The AI Cowboys https://www.theaicowboys.com > blog",
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance Solution and ... — Qualcomm Launches On-Prem AI Appliance Solution and ... Qualcomm https://www.qualcomm.com > ... > 01",
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "pass": 3
+   },
+   {
+    "quote": "1U Edge AI Server for On-Prem LLM Workloads - Premio, Inc. — 1U Edge AI Server for On-Prem LLM Workloads - Premio, Inc. Premio, Inc. https://premioinc.com > collections",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business 2026 — Best Turnkey AI Servers & AI Appliances for Business 2026 Iternal AI https://iternal.ai > best-private-ai-appli...",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": "Israel",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "ARM®-Based Industrial Computers",
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "pass": 3
+   },
+   {
+    "quote": ", a 97% improvement over cloud-based inference",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Easital is an AI and SaaS engineering company that takes AI software to production, and runs AI products of its own. Founded in 2019.",
+    "url": "https://easital.com/private-llm-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Does Israel Need a National Language Model? | INSS",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Israel and the Global Powers",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Israel-United States Relations",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Glazer Israel-China Policy Center",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Israeli-Palestinian Relations",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Israel’s National Security Policy",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Israel's Security Strategy",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Societal Resilience and the Israeli Society",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Jewish-Arab Relations in Israel",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Does Israel Need a National Language Model?",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Should Israel consider developing a “blue-and-white ChatGPT,” and why?",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "These demands amount to a sum exceed the current budget of Israel’s national AI program.",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The importance of a national model can be illustrated by the Chat ha-Mishpat (“Judicial Chat”) initiative recently announced by Israel’s judicial authority. Under this initiative, the judiciary has developed and plans to deploy a chatbot system for approximately 900 judges, registrars, and their assistants, designed to streamline the management of court cases.",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "; Shlomo Teitelbaum and Adrian Filut, “Nagel Committee: Israel’s AI Situation Is Troubling, Recommends Massive Investments and Tax Incentives for Workers in the Field,”",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "“Israel Data Boundary,” Google Cloud,",
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ARM®-Based Industrial Computers",
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Based in Bangkok. Serving enterprise clients across Thailand, Japan, Singapore, and the wider ASEAN region.",
+    "url": "https://www.simplico.net/simplillm/",
+    "pass": 3
+   },
+   {
+    "quote": "Simplico is a technology consultancy based in Bangkok serving enterprise clients across Southeast Asia and Japan. Our services span AI and document intelligence, manufacturing systems, cybersecurity, and mobile application development.",
+    "url": "https://www.simplico.net/2026/06/26/enterprise-local-llm-deployment-southeast-asia/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社テラスカイ(本社:東京都中央区、代表取締役CEO 社長執行役員:佐藤 秀哉、以下テラスカイ)のグループ会社であり、”AI & Data Integrator” を標榜する株式会社Cuon (本社:東京都中央区、代表取締役: 森本 優、以下Cuon)は、オンプレミス型AIソリューション「Private AI Appliance」(プライベート・エーアイ・アプライアンス)を2026年11月01日より提供開始いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000286.000009955.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nig0zp/hardware_and_model_recommendations_for_onprem_llm/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://iternal.ai/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/on-premises-llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmappliance.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/deployment-options",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.distillabs.ai/learn/air-gapped-and-on-premise-llm-deployment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.com/news/e72103cd-f95a-48ac-87da-24c5beb2e46b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siliconangle.com/2026/09/30/on-demand-gpu-infrastructure-startup-gmi-cloud-raises-263m-to-fuel-global-expansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/blog/on-prem-llms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmappliance.com/platform-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deviniti.com/services/self-hosted-llm-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integratedais.com/on-premises-llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://easital.com/private-llm-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inss.org.il/publication/israel-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmappliance.com/industries/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gridtech.jp/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simplico.net/simplillm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simplico.net/2026/06/26/enterprise-local-llm-deployment-southeast-asia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000286.000009955.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-on-premises-llm-starter-kit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brigade-electronics.com/jp/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/AI%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/4678122",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/CarPlay/comments/11ivu2m/are_ai_boxes_any_more_reliable_than_basic/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aibox.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onecarstereo.jp/blogs/%E6%96%B0%E8%81%9E/ai-box%E3%81%A8%E3%81%AF-%E8%BB%8A%E3%81%A7youtube%E3%82%84netflix%E3%82%92%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B%E8%BB%8A%E8%BC%89%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9-onecarstereo?srsltid=AYCX9vJ6XrNDrhng1-Tpz-UIpWtJEHTmXIbo0aaEwnUnNrWAjqIIj6YV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-box.site/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vIahPqLiBGLOoL2qn0f2EWTzn5SGN6aSkDZtEI_ijSho87VDVFR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "status": "http_502",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eneralabs.com/blog/kt-npu-llm-station-sovereign-ai-enterprise-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm.co/box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/on-prem-llm",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Asia on-premise LLM appliance",
+   "results": [
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1nig0zp/hardware_and_model_recommendations_for_onprem_llm/",
+    "https://iternal.ai/local-llm",
+    "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "https://picovoice.ai/blog/on-device-llm/",
+    "https://go.ai/technology/local-llm",
+    "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics",
+    "https://vdf.ai/on-premises-llm/",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance on-premise LLM appliance company",
+   "results": [
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://go.ai/technology/local-llm",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1nig0zp/hardware_and_model_recommendations_for_onprem_llm/",
+    "https://iternal.ai/local-llm",
+    "https://kairntech.com/blog/articles/llm-on-premise/",
+    "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "https://vdf.ai/on-premises-llm/",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://arxiv.org/html/2509.18101v1",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance air-gapped AI box price",
+   "results": [
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://understand.tech/product/ai-in-a-box",
+    "https://go.ai/technology/local-llm",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "https://heypinchy.com/air-gapped-llm-hardware/",
+    "https://www.zylon.ai/deployment-options",
+    "https://www.distillabs.ai/learn/air-gapped-and-on-premise-llm-deployment/",
+    "https://www.axem.dev/llm-box",
+    "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance startup raises on-prem AI hardware",
+   "results": [
+    "https://go.ai/technology/local-llm",
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "https://finance.biggo.com/news/e72103cd-f95a-48ac-87da-24c5beb2e46b",
+    "https://siliconangle.com/2026/09/30/on-demand-gpu-infrastructure-startup-gmi-cloud-raises-263m-to-fuel-global-expansion/",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://www.linkedin.com/posts/yourstory-com_aina-a-design-led-consumer-hardware-startup-activity-7483795732232175616-Y9Ka",
+    "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance white label OEM reseller",
+   "results": [
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics",
+    "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "https://www.truefoundry.com/blog/on-prem-llms",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://arxiv.org/html/2509.18101v1",
+    "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "https://go.ai/technology/local-llm",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance Israel",
+   "results": [
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://go.ai/technology/local-llm",
+    "https://deviniti.com/services/self-hosted-llm-development/",
+    "https://integratedais.com/on-premises-llm/",
+    "https://llmappliance.com/",
+    "https://easital.com/private-llm-deployment",
+    "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "https://picovoice.ai/blog/on-device-llm/",
+    "https://www.inss.org.il/publication/israel-ai/",
+    "https://llmappliance.com/industries/enterprise.html"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance Japan distributor",
+   "results": [
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://go.ai/technology/local-llm",
+    "https://iternal.ai/local-llm",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1nig0zp/hardware_and_model_recommendations_for_onprem_llm/",
+    "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics",
+    "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://kairntech.com/blog/articles/llm-on-premise/",
+    "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "アジア（台湾・韓国・中国）のAIボックス",
+   "results": [
+    "https://brigade-electronics.com/jp/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
+    "https://baike.baidu.com/ja/item/AI%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/4678122",
+    "https://www.youtube.com/watch?v=ox7BW2oZ-2M",
+    "https://www.reddit.com/r/CarPlay/comments/11ivu2m/are_ai_boxes_any_more_reliable_than_basic/?tl=ja",
+    "https://www.aibox.ai/",
+    "https://onecarstereo.jp/blogs/%E6%96%B0%E8%81%9E/ai-box%E3%81%A8%E3%81%AF-%E8%BB%8A%E3%81%A7youtube%E3%82%84netflix%E3%82%92%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B%E8%BB%8A%E8%BC%89%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9-onecarstereo?srsltid=AYCX9vJ6XrNDrhng1-Tpz-UIpWtJEHTmXIbo0aaEwnUnNrWAjqIIj6YV",
+    "https://ai-box.site/",
+    "https://hidya.jp/blog/car-device-ai-box/",
+    "https://dyax.io/ja/news/yh-73b0955059969384",
+    "https://www.eastspring.co.jp/docs/default-source/perspective/special-report/special_report_20260814.pdf"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance ISO 27001 certified",
+   "results": [
+    "https://go.ai/technology/local-llm",
+    "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://www.2501.ai/news/2501-iso-27001",
+    "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vIahPqLiBGLOoL2qn0f2EWTzn5SGN6aSkDZtEI_ijSho87VDVFR",
+    "https://kairntech.com/blog/articles/llm-on-premise/",
+    "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "https://llmappliance.com/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1211 @@
+{
+ "name": "設計・生産技術エンジニアの中途採用",
+ "en": "design production engineer mid-career hiring cost Japan",
+ "aliases": [
+  "機械設計 採用単価",
+  "生産技術 採用",
+  "メーカー技術職 採用"
+ ],
+ "context": "職種",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:58:49.008077+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "職種別マーケットレポート",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "ITエンジニア 職種別マーケットレポート",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "管理部門 職種別マーケットレポート",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "企画・マーケティング部門 職種別マーケットレポート",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "モノづくりエンジニア 職種別マーケットレポート",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "こうした環境変化の中で見過ごされがちなのが、在職する従業員の「働きがい」とキャリア形成の問題だ",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアパスが不透明なまま日々の業務をこなす従業員は、成長の手応えを感じられず、将来への不安を抱えやすい",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア制度や教育体系が整っていない、あるいは整っていても従業員に機能していないとすれば、それは福利厚生の問題ではなく、現場の成果と人材定着を直接左右する経営課題である",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、製造業の技能職・技術職に従事する従業員の視点から、働きがいとキャリア形成の実態を定量的に可視化することを目的としています",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "スキルマネジメント研究所では、「支援の有無」が従業員の成長実感・定着意向にどう影響するかを明らかにすることで、企業・管理職が今取り組むべきキャリア開発支援の在り方を示しています",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、機械設計、電気・電子設計、品質保証・品質管理、CADオペレーターなどの職種別に、需要の背景や転職市場で評価されやすいスキルも解説します",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【職種別】機械・電気系エンジニアの有効求人倍率・人手不足マップ",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別に評価されやすい経験は、以下のとおりです",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種別スキルマトリクス｜5職種の必須スキル・強み・キャリアを一覧比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "この従業員のインタビューを見る",
+    "url": "https://www.honda-jobs.com/jobs/industrial/",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 株式会社マイナビ「中途採用状況調査2026年版（2025年実績）」（従業員3名以上の企業の中途採用担当者1,500名、2025年12月17〜22日、インターネット調査",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 製造業・従業員約250名",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員約250名の製造業の会社では、技術職・専門コーポレート職の採用を、人材紹介会社に頼り続けていました",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介会社に頼っていた技術職を、スカウトで半年に6名採用した製造業の事例があります（出典: 株式会社HaReエージェンシー「導入事例 製造業・従業員約250名」）",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   },
+   {
+    "quote": "（2025年実績）（従業員3名以上の企業の中途採用担当者1,500名、インターネット調査）",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "doda人材紹介サービス",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、採用難易度が極めて高い職種であることを踏まえ、母集団形成に向けて、ダイレクトスカウトやリファラル採用、技術コミュニティへの参画など、採用チャネルの多様化・拡充を図ることが重要なポイントとなる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、人材紹介サービス、求人広告、ダイレクト・ソーシング、オンラインイベントなど、さまざまな手段を駆使してアプローチの範囲を広げる必要があるだろう",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "登録者の最終学歴の内訳と見ると、大学院卒・大学卒が48％、高等学校卒が35％を占めている",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "他のものづくりエンジニア職種と比較すると、高等学校卒の割合が多いことが特徴である",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "doda人材紹介サービスの詳細を見る",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "登録者の最終学歴の内訳と見ると、大学院卒6％、大学卒35％、高等学校卒32％、専修・各種学校14％を占めている",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "他のものづくり業界の職種と比較すると、大学院卒・大学卒よりも、高等学校卒や専修・各種学校卒の登録者が多いことが特徴である",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "母集団の最大化を狙うならdoda求人広告がおすすめ",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "doda人材紹介サービスなら、採用のプロが採用成功にむけてアドバイスします",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "一方で高等学校卒も29％と高い割合を占めており、専門性の高い学歴層と、現場経験を重視する高卒層が混在する構成が特徴である",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、高専・専修学校といった実務志向の学歴層も一定数存在しており、即戦力となる人材と将来的な管理・技術職候補といった二層構造が見られる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "doda人材紹介",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介サービス",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "dodaエージェントサービスはdoda人材紹介サービスの",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "子どもたちと元気に楽しく学ぼう！ 低学年の生徒が対象！子どもの成長が嬉しいお仕事！高時給で短い時間・少ない日数でもしっかり収入も得られます◎ 小学校2.3年生を対象に、算数・国語などの基礎的な学習指導を お願いします",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収相場 ── 主要転職媒体・人材紹介各社の公開データおよび業界調査",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "転職顕在層比率・採用難易度 ── 中途採用実態調査および人材紹介各社公開資料",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用",
+    "url": "https://www.honda-jobs.com/jobs/industrial/",
+    "pass": 3
+   },
+   {
+    "quote": "技術職の採用は、人材紹介に頼るしかありませんか？",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員約250名の製造業の会社では、技術職・専門コーポレート職の採用を、人材紹介会社に頼り続けていました",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "また、慢性的な技術者不足を背景に、欠員補充に関するニーズも継続的に発生している",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、採用内容としては欠員補充や組織体制強化を目的としたピンポイントでの採用が中心となる傾向が見られる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景として、当該期間は年度末から年度初めに該当し、3月末での工期終了や組織改編に伴う欠員補充に加え、4月以降に開始する新規案件に向けた人員確保の動きが影響していると考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系エンジニアは、全職業平均と比べて有効求人倍率が高い傾向にあります",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、設備保全エンジニアや組込みエンジニア、生産技術エンジニアは求人需要が高く、人手不足が目立つ職種です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系エンジニアの有効求人倍率は全職業平均を上回る職種が多い",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の職種ほど経験やスキルの市場価値を整理しやすい",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【職種別】機械・電気系エンジニアの有効求人倍率・人手不足マップ",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種の人手不足ランキングTOP8",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の機械・電気系職種が安定して働きやすい理由",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種の有効求人倍率に関するよくある質問",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種で特に人手不足の職種はどれですか？",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率が高い職種を選べば転職しやすいですか？",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、仕事を探している人1人に対して、何件の求人があるかを示す数値です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を背景に、この領域の需要は継続的に伸びています",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "省人化を進めれば製造要員の負荷は下がりますが、その省人化を検討・実行する人がいないために投資が止まる ── 人手不足が人手不足を再生産する構造に陥ります",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足動向 ── 厚生労働省「一般職業紹介状況」および製造業向け各種調査",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "中小・中堅企業の事業課題・人材課題に関する調査『人手不足・採用編』",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   },
+   {
+    "quote": "中小・中堅企業の事業課題・人材課題に関する調査「人手不足・採用編」",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "増加の背景として、年度末・年度初め付近のタイミングで、新たなキャリアを模索する方が一定数いたことが影響していると考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景としては、新年度に向けた開発案件の立ち上げや、期初予算の確定に伴う採用活動の再開、ならびに設備投資や自動化・半導体関連分野を中心とした需要の拡大が影響していると考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景としては、年度初めの社内異動や評価結果を受け、社内における自身の立ち位置や今後のキャリア見通しが明確化することにより、転職を意思決定する層が一定数発生していることが要因と考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景としては、年度初めに新たな採用計画を開始する企業が多いことから、当該期間において求人数が伸長したものと考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景としては、特に4月における求人数の伸長が顕著であったことから、年度初めに新たな採用計画を開始した企業による募集開始が主な要因と考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、各社が採用に苦戦している職種であるため、充足クローズに至らず年度をまたいで継続掲載となっている求人も多く見受けられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "応募意思不問のカジュアル面談を実施し、自社の業務説明をメインとした場を設け、転職希望者の意向を高めている企業も目立つ",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景としては、年度初めにおいて大手企業を中心に新たな採用計画を開始する動きが見られることから、求人数の増加につながっているものと考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景としては、業績悪化に伴う人員整理や工場閉鎖を実施した企業の影響に加え、年度初めの社内異動や評価結果を受けて転職を意思決定する層が一定数発生していることが要因と考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景としては、年度末から年度初めにかけての時期において、現職での評価確定や組織変更の内容を踏まえたキャリア見直しの動きが活発化していることや、4月入社を見据えた転職活動のピークと重なっていることが、登録数増加の要因と考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景として、年度初めに新たな採用計画を開始する企業が多く、4月に求人を開始する動きに加え、それに先行して2～3月より募集を開始する企業が増加していることが要因と考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "また、ベースアップを実施する企業も多く、採用競争の激化を背景に待遇条件の見直しや改善を図る動きも見受けられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景として、建築士試験の合格をきっかけに転職を決意された方や、年度の変わり目で転職を目指す方が一定数発生したことが影響していると考える",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "増加の背景として、当該期間は年度末から年度初めに該当し、3月末での工期終了や組織改編に伴う欠員補充に加え、4月以降に開始する新規案件に向けた人員確保の動きが影響していると考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "微減の背景として考えられるのは、年末に向けた採用・工程調整の影響で前3カ月に登録が一時的に増加していた反動に加え、年度末から年度初めにかけての社内異動やプロジェクトの区切りにより転職判断が一巡したこと、さらに冬季の現場繁忙期の収束に伴い応募行動が分散したことなどが要因として考えられる",
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "pass": 3
+   },
+   {
+    "quote": "【製造業の技術職・技能職 実態調査】74％がキャリア支援に不満",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "調査レポート",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人材不足をスキルデータで解決する株式会社Skillnote（本社 東京都千代田区、代表取締役 山川隆史、以下 Skillnote）が運営する「スキルマネジメント研究所」は、製造業の技術職（※1）と技能職（※2）342名を対象とした「働きがいとキャリア形成に関する実態調査2026」を実施しました",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書（経済産業省ほか）によれば、製造業就業者のうち若年層（34歳以下）の割合は2002年の31.0%から2023年には23.6%へ低下",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また85%以上の事業所が「能力開発・人材育成に課題がある」と回答し、最多の課題は「指導人材の不足（65.9%）」となっています",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、製造業の技能職・技術職に従事する従業員の視点から、働きがいとキャリア形成の実態を定量的に可視化することを目的としています",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・調査対象：10〜40代の製造業の企業に務める技術職と技能職に従事する342人",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・調査期間：2026年3月25日〜4月2日",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・調査方法：調査会社モニターを用いたインターネット定量調査",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "※回答の構成比は第2位を四捨五入しているため、合計は必ずしも100％にはなりません",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "調査の結果、製造業の技能職・技術職において①働きがいの停滞、②キャリアパスの不透明さ、③会社・上司によるキャリア支援の不足という3つの課題が連動して発生していることが明らかになりました",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "特に「OJTの計画的実施」は否定最多（41.6%）で、育成の計画性・体系性の欠如が際立つ",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1位期待：定期的なキャリア・期待に関する面談（30.4%） → Q6の実施実感との乖離が最も大きい施策",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査で明らかになったのは、「キャリア支援の不在」が製造現場における働きがいの低下と人材流出リスクの根本にある、という構造的な事実です",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "活動内容：「スキルマネジメント」のノウハウや知見の集約・体系化および、調査・研究、社外の有識者・学術機関との共同調査・研究 など",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書から見る機械・電気系人材が不足する理由",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、job tagに掲載された令和6年度の全国値を見ると、機械設計技術者は3.21倍、生産・品質管理技術者は4.15倍、システムエンジニア（組込み、IoT）は4.77倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況(令和7年3月分及び令和6年度分)について",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "job tagに掲載された令和6年度の全国有効求人倍率を見ると、職種によって0.79倍から6.00倍まで差があり、機械・電気系全体を1つの数値で捉えることはできません",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械設計エンジニアに近い「機械設計技術者」の有効求人倍率は、令和6年度の全国値で3.21倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子設計エンジニアに近い「電子機器技術者」の有効求人倍率は、令和6年度の全国値で2.68倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術エンジニアに近い「生産・品質管理技術者」の有効求人倍率は、令和6年度の全国値で4.15倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全エンジニアの参考となる「物流設備管理・保全」の有効求人倍率は、令和6年度の全国値で6.00倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証・品質管理の参考となる「検査工（工業製品）」の有効求人倍率は、令和6年度の全国値で4.03倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "試験・評価エンジニアの参考となる「自動車技術者」の有効求人倍率は、令和6年度の全国値で2.75倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "組込みエンジニアに該当する「システムエンジニア（組込み、IoT）」の有効求人倍率は、令和6年度の全国値で4.77倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "CADオペレーターの有効求人倍率は、令和6年度の全国値で0.79倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・FPD製造技術者に近い「半導体技術者」の有効求人倍率は、令和6年度の全国値で1.09倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版ものづくり白書（ものづくり基盤技術振興基本法第8条に基づく年次報告）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "白書 設計生産技術エンジニアの中途の求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "設計生産技術エンジニアの中途 白書",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] ■以下いずれかの実務経験3年以上 ・事業企画・営業企画・経営企画における戦略立案と実行 ・政策渉外・官公庁折衝・公共分野での企画推進 ・コンサルティングファームでの調査・戦略案件 ・IT／SIer業界での法人営業または営業企画 [歓迎] ■政策・制度・規制動向への関心と、公開情報（白書・審議会資料・予算等）を読み解いた経験 ■複数の事業領域や業界を横断した企画・調査の経験 ■中長期の市場予測や技術ロードマップに基づく戦略立案の経験 ■ビジネスレベルの英語力（目安TOEIC700以上） 【フィットする人物像】 応募資格をご覧下さい 【職種名】 未来デザイン｜事業企画・新領",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＴＨＥ ＳＥＶＥＮ（TBSホールディングスグループ） 経理担当／年収520～650万円／正社員を見据えた採用です！ 【求人要約】 【TBSグループ】映像制作の熱気を身近で感じる経理 【正社員登用前提】長期キャリアを見据えた採用 【働き方抜群】実働7h・フレックス・リモートOK 『今際の国のアリス』『幽☆遊☆白書』等の制作会社で 世界的ヒット作をバックオフィスから支える経理募集！ 当社は、TBSグループの世界進出を支える戦略的子会社として、2022年にTBSが300億円を出資して誕生しました",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度には売上高63億円超を見込むなど、事業規模も拡大中です",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "府内では、世論調査や経済財政白書の作成などに必要なデータの統計システム、政策に関する研究に使う研究費の管理システムなど、幅広いシステムが稼働しています",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] ■サステナビリティ領域における各種白書・報告書等の制作における全体構成 （ストーリーライン）の設計および原稿の査読・校閲・フィードバック実務経験（3年以上） ■社内調整やベンダーコントロールを伴うプロジェクトの推進経験 [歓迎] 応募資格をご覧下さい 【フィットする人物像】 応募資格をご覧下さい 【職種名】 サステナビリティ経営推進（アソシエイト～シニアアソシエイト）（年収730万円～890万円） 【仕事内容】 【パソナキャリア経由での入社実績あり】【期待する役割】 上位者と密に連携し、経営企画部門との統合シナジーを最大化させる「情報発信およびサステナビリティの浸透リー",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "＜支援の流れ＞ ▼まずは生活リズムを整える 生活・就職の相談にのり、PCスキルや自己理解を深めるプログラムを実施",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "その後、配属先または近隣校舎にてOJTを実施します",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "※ 年収は主要転職媒体・業界調査の中央値レンジ",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "年収相場 ── 主要転職媒体・人材紹介各社の公開データおよび業界調査",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "転職顕在層比率・採用難易度 ── 中途採用実態調査および人材紹介各社公開資料",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足動向 ── 厚生労働省「一般職業紹介状況」および製造業向け各種調査",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "どちらも、中途採用が厳しかったと答えた採用担当者が、理由として選んだ回答です",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2026年版（2025年実績）",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "資本金：9億2,476万円（資本準備金を含む）",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "pass": 3
+   },
+   {
+    "quote": "では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上の求人を見てみる",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円〜900万円 / 昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "ハウスメーカーの総務人事／リーダー／岡山／健康経営優良法人企業／年収500万円以上",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円〜849万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] 【必須】 普通自動車免許 総務人事のご経験をお持ちの方 マイカー通勤が可能な方 【募集年齢（年齢制限理由）】 45歳くらいまで（ 特定年齢層の特定職種の労働者が相当程度少ないため ） 【職種名】 ハウスメーカーの総務人事（リーダー／岡山）★健康経営優良法人企業／年収500万円以上★ 【仕事内容】 転勤なし／年間休日110日／平日休み／経験者募集／年収500万円以上／正社員 岡山市南区の総務人事のお仕事です 総務人事業務に従事していただきます",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給23万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "「経理」／月給35万円スタート／完全週休2日／有給消化率100%",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給35万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "WITHDOM Chiba株式会社 【経理】◆月給35万円スタート／完全週休2日／有給消化率100% ※応募に当たっては、マイナビ転職の会員登録が必須となっております",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "未来デザイン／事業企画／新領域探索／年収500万円／1500万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円〜1,549万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "経理担当／年収520～650万円／正社員を見据えた採用です！",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収520万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＴＨＥ ＳＥＶＥＮ（TBSホールディングスグループ） 経理担当／年収520～650万円／正社員を見据えた採用です！ 【求人要約】 【TBSグループ】映像制作の熱気を身近で感じる経理 【正社員登用前提】長期キャリアを見据えた採用 【働き方抜群】実働7h・フレックス・リモートOK 『今際の国のアリス』『幽☆遊☆白書』等の制作会社で 世界的ヒット作をバックオフィスから支える経理募集！ 当社は、TBSグループの世界進出を支える戦略的子会社として、2022年にTBSが300億円を出資して誕生しました",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円〜50万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給24万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "おおむね450〜800万円",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "20代で400〜500万円、中堅で520〜700万円、工場全体の自動化を主導するリード層で700〜950万円が目安です",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "400〜500万円",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "520〜700万円",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "700〜950万円",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "月額45〜100万円",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト・教育コスト・社会保険料が発生せず、週2〜週5で稼働日数を調整できます",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "年収相場はおおむね450〜800万円",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "おおむね450〜800万円が相場です",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "20代で400〜500万円、中堅(5〜10年)で520〜700万円、工場全体の自動化を主導するリード層で700〜950万円が目安になります",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働日数は週2〜週5で調整でき、採用コスト・教育コスト・社会保険料は発生しません",
+    "url": "https://robokaru.jp/useful/777/",
+    "pass": 3
+   },
+   {
+    "quote": "転職希望者1人あたり、6件を超える求人がある計算です",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気のエンジニアには1人あたり6件を超える求人があり、候補者にはほかの選択肢があります",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   },
+   {
+    "quote": "1名あたり約50万円の削減",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "476",
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "quote": "資本金：9億2,476万円（資本準備金を含む）"
+   },
+   {
+    "value": "30",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "quote": "では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です"
+   },
+   {
+    "value": "400",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収400万円〜900万円 / 昇給あり"
+   },
+   {
+    "value": "900",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収400万円〜900万円 / 昇給あり"
+   },
+   {
+    "value": "500",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "ハウスメーカーの総務人事／リーダー／岡山／健康経営優良法人企業／年収500万円以上"
+   },
+   {
+    "value": "849",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収500万円〜849万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "23",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給23万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "35",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "「経理」／月給35万円スタート／完全週休2日／有給消化率100%"
+   },
+   {
+    "value": "1500",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "未来デザイン／事業企画／新領域探索／年収500万円／1500万円"
+   },
+   {
+    "value": "549",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収500万円〜1,549万円"
+   },
+   {
+    "value": "650",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "経理担当／年収520～650万円／正社員を見据えた採用です！"
+   },
+   {
+    "value": "520",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "年収520万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "30",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給30万円〜50万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "50",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給30万円〜50万円 / 賞与・昇給あり"
+   },
+   {
+    "value": "24",
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "quote": "月給24万円 / 賞与・ボーナスあり"
+   },
+   {
+    "value": "800",
+    "url": "https://robokaru.jp/useful/777/",
+    "quote": "おおむね450〜800万円"
+   },
+   {
+    "value": "500",
+    "url": "https://robokaru.jp/useful/777/",
+    "quote": "20代で400〜500万円、中堅で520〜700万円、工場全体の自動化を主導するリード層で700〜950万円が目安です"
+   },
+   {
+    "value": "700",
+    "url": "https://robokaru.jp/useful/777/",
+    "quote": "20代で400〜500万円、中堅で520〜700万円、工場全体の自動化を主導するリード層で700〜950万円が目安です"
+   },
+   {
+    "value": "950",
+    "url": "https://robokaru.jp/useful/777/",
+    "quote": "20代で400〜500万円、中堅で520〜700万円、工場全体の自動化を主導するリード層で700〜950万円が目安です"
+   },
+   {
+    "value": "100",
+    "url": "https://robokaru.jp/useful/777/",
+    "quote": "月額45〜100万円"
+   },
+   {
+    "value": "50",
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "quote": "1名あたり約50万円の削減"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://levtech.jp/partner/guide/article/detail/317/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.onecareer.jp/blog/engineer_cost_per_hire",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230203/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techhire.trackrecords.co.jp/media/engineer-recruitment-roi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lassic.co.jp/media/person/engineer-hiring-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://levtech.jp/partner/guide/article/detail/319/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/hiringeek/recruit/engineer_unit_price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dodadsj.com/content/2026market-prediction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/report/19214",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://levtech.co.jp/research/374127/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lassic.co.jp/media/person/midcareer-hiring-motives/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2026/01/pdf/064-073.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC141BJ0U6A410C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baigie.me/recruit-blog/2025/04/03/engineer-survey-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3697",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4535/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.skillnote.jp/news/260403-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jinzainews.net/26804486/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robokaru.jp/useful/777/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://levtech.jp/partner/guide/article/detail/437/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/jobs/category/KW%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.honda-jobs.com/jobs/industrial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "設計・生産技術エンジニアの中途採用 採用単価 規模別",
+   "results": [
+    "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "https://levtech.jp/partner/guide/article/detail/317/",
+    "https://service.onecareer.jp/blog/engineer_cost_per_hire",
+    "https://hybrid-technologies.co.jp/blog/knowhow/20230203/",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://saiyo-commit.com/column/engineer-saiyo-hiyo/",
+    "https://topics.type.jp/type-engineer/measure-cost-calculation/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/"
+   ]
+  },
+  {
+   "query": "設計・生産技術エンジニアの中途採用 採用コスト 調査 万円",
+   "results": [
+    "https://hybrid-technologies.co.jp/blog/knowhow/20230203/",
+    "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "https://techhire.trackrecords.co.jp/media/engineer-recruitment-roi",
+    "https://lassic.co.jp/media/person/engineer-hiring-cost/",
+    "https://levtech.jp/partner/guide/article/detail/319/",
+    "https://service.onecareer.jp/blog/engineer_cost_per_hire",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.wantedly.com/hiringeek/recruit/engineer_unit_price/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/"
+   ]
+  },
+  {
+   "query": "設計・生産技術エンジニアの中途採用 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "https://www.saiyo-doda.jp/report/19214",
+    "https://www.dodadsj.com/content/2026market-prediction/",
+    "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "https://levtech.co.jp/research/374127/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/09/2026_chutosaiyoujittai.pdf"
+   ]
+  },
+  {
+   "query": "設計・生産技術エンジニアの中途採用 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.saiyo-doda.jp/report/18524",
+    "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "https://levtech.co.jp/research/374127/",
+    "https://lassic.co.jp/media/person/midcareer-hiring-motives/",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2026/01/pdf/064-073.pdf",
+    "https://www.nikkei.com/article/DGXZQOUC141BJ0U6A410C2000000/",
+    "https://baigie.me/recruit-blog/2025/04/03/engineer-survey-2025/",
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf"
+   ]
+  },
+  {
+   "query": "設計・生産技術エンジニアの中途採用 人手不足 充足率 調査 2025",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.hrpro.co.jp/trend_news.php?news_no=3697",
+    "https://www.saiyo-doda.jp/report/19214",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4535/",
+    "https://corp.skillnote.jp/news/260403-2/",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://jinzainews.net/26804486/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://nextengineer.com/blog/know-how001/"
+   ]
+  },
+  {
+   "query": "設計・生産技術エンジニアの中途採用 白書 採用",
+   "results": [
+    "https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.saiyo-doda.jp/report/19214",
+    "https://robokaru.jp/useful/777/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://levtech.jp/partner/guide/article/detail/437/",
+    "https://www.bizreach.jp/jobs/category/KW%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA/",
+    "https://www.honda-jobs.com/jobs/industrial/",
+    "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__01L/-oc__0424M/-preBtn__2/",
+    "https://www.r-agent.com/job_search/oc-electronic/omc-1166/"
+   ]
+  }
+ ],
+ "missing": {
+  "年間採用費": "記載なし（読んだ36頁・検索6回）"
+ }
+}

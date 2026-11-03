@@ -1,0 +1,975 @@
+{
+ "name": "従業員300〜999人の製造業",
+ "en": "manufacturers with 300-999 employees hiring cost Japan",
+ "aliases": [
+  "従業員300〜999人 採用単価",
+  "中堅企業 製造業 採用"
+ ],
+ "context": "規模",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:58:10.782789+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "雇用形態別・企業規模別・業種別の平均採用単価と最新相場",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別｜あなたの会社の適正採用単価は？",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別｜平均採用単価の相場一覧",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数が増えるほど採用コスト総額は増加しますが、スケールメリットを活かせる大企業では一人あたりの採用単価を抑えやすい傾向があります",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50名以下の平均は119万円",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50名以下の企業における年間採用費用の平均は119万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員51～300名の平均は247万円",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員51〜300名の企業における年間採用費用の平均は247万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員301～1,000名の平均は565万円",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員301〜1,000名の企業における年間採用費用の平均は565万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1,001名以上の平均は1,462万円",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1,001名以上の大企業における年間採用費用の平均は1,462万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の採用単価",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のメグサポでは、Indeed運用代行で1週間に122応募を獲得した実績や、100万円の広告予算で1,200人以上の母集団形成に成功した事例など、費用対効果の高い採用支援を提供しております",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】オンラインサイトの予算はいくらが正解？規模別・目的別の費用早見表",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、企業規模別※に見ると大きな格差が存在します",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000人以上の大企業の求人倍率が0.34倍にとどまっている一方、300人未満の中小企業では8.98倍に達しています",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "※同資料では、従業員規模について、300人未満企業を中小企業・300～999人企業を中堅企業・1000～4999人企業および5000人以上企業を大企業と定義しています",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "300人未満の中小企業における求人倍率8.98倍という数字は、1人の求職者に対して約9社が競合している状況を意味します",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、5,000人以上の大企業の求人倍率は0.34倍で、約3人の求職者に対して1社という状況です",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、300人未満企業の求人総数39.9万人に対し、民間企業就職希望者数は4.4万人にとどまっており、35.4万人もの人材不足が生じています",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "300人未満企業への就職希望者数は前年の6.7万人から4.4万人へと33.3%も減少しており、若手人材の大企業志向が一層強まっています",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の「令和6年賃金構造基本統計調査」によると、令和6年の企業規模別平均賃金は、次のようになっています",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "テレワーク制度の導入・有給休暇の取得促進・長時間労働の是正など、若手従業員が重視する働き方の改善が遅れている企業も少なくありません",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "既存従業員の負担も深刻な問題で、長時間労働による疲弊やモチベーション低下が発生し、生産性の低下や離職率の上昇を招きかねません",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "職場見学時に従業員同士の自然な交流を見せる",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "現場従業員との座談会の場を設ける",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "InstagramやXを活用した企業の日常発信、従業員インタビューの配信などにより、企業の魅力を効果的に伝えることができます",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "既存従業員からの紹介により質の高い人材を確保でき、採用コストを大幅に削減できます",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": " 従業員規模別、業種別ともに全ての区分で2026年度の中途採用D.I.はプラスとなった",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別に見ると、5,000",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人以上企業で11.6％ポイントと、2025年度の29.3％ポイントからの低下幅が大きい",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業種別では、情報通信業、流通業、",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 従業員規模別に見ると、5,000人以上企業では、「確保できた」（47.7％）が「確保できなかった」（46.5％）を上回ったが、",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業種別に見ると、金融業では「確保できた」（52.9",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別・業種別 4",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別・業種別 7",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象：従業員規模5人以上の全国の民間企業 8,200社",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注3：業種別の表において、大分類6区分以外にその他の区分があるため、大分類の合計社数は回答社数と一致しない",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注4：従業員規模は有期雇用者を含む",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本資料では、従業員規模について、300人未満企業を中小企業、300～999人企業",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を中堅企業、1,000～4,999人企業および5,000人以上企業を大企業としている",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全ての従業員規模・業種区分で中途採用D.I.はプラス",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 従業員規模別に見ると、2026年度は全ての従業員規模区分で中途採用D.I.がプラスとなったが、いずれも2025年度に",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "新卒採用の平均採用単価は56.8万円",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "11.8万円も増加",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価が高騰する3つの原因と業界ごとの具体的な違い",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価を劇的に削減する5つの実践的な方法と成功事例",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、新卒1人当たりの採用コストは約93.6万円です",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "【税理士監修】150万円の壁｜学生アルバイトは扶養のまま収入増！残課題も",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "【税理士監修】123万円の壁はいつから？2026年以降の178万円の壁も解説",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "派遣社員採用では、紹介手数料として月給の20〜30パーセント程度が相場です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50名以下の企業における年間採用費用の平均は119万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員51〜300名の企業における年間採用費用の平均は247万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員301〜1,000名の企業における年間採用費用の平均は565万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1,001名以上の大企業における年間採用費用の平均は1,462万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "運輸・交通・物流・倉庫業の年間採用費用は平均1,460万円で、全業種中トップです",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の年間採用費用は平均854万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "IT・通信・インターネット業界の年間採用費用は平均695万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "流通・小売・フードサービス業の年間採用費用は平均304万円で、全業種中最も低い水準です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "リファラル採用のインセンティブ",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告の掲載費",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社への成功報酬",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "即戦力採用が多いため新卒より単価は低いですが、専門性の高い職種では人材紹介会社を利用するため1人あたり100万円を超えることもあります",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介予定派遣なら、派遣期間終了後に直接雇用へ切り替えることを前提としているため、通常の人材紹介より低コストで採用できます",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に50名以下の企業の60パーセント以上が年間1〜49万円で採用活動を行っており、無料求人媒体やリファラル採用を活用しています",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "専門的な技術や資格を持つ人材を求めることが多く、特に電気・電子・機械・半導体関連では人材紹介会社の活用が中心となります",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "また資格や専門技術が必要な職種では母集団が限られるため、人材紹介会社への高額な成功報酬が発生します",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "無料求人媒体の活用、リファラル採用、採用サイトやSNSの活用、業務効率化、ダイレクトリクルーティングなど、すぐに実践できる手法が存在します",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークやIndeedの無料掲載機能を利用すれば、求人広告費をかけずに応募者を集められます",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "②リファラル採用で外部コストをゼロにする",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用なら、求人広告費や人材紹介手数料といった外部コストがかかりません",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介者へのインセンティブを設定しても、人材紹介会社の手数料と比較すれば大幅にコストを抑えられます",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "転職潜在層にもアプローチできるため、求人広告では出会えない優秀な人材を採用できる可能性があります",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "成功報酬型なら採用が決まるまで費用は発生せず、定額型でも人材紹介会社より低コストで利用できるため、中長期的に見れば採用単価を抑えられます",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費・人材紹介会社への手数料・採用担当者の人件費など、直接的なコストに加えて、機会損失による間接的なコストも膨大になります",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用も中小企業に適した手法です",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "©Indeed Recruit Partners Co., Ltd. Recruit Works Institute All Rights Reserved.2",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "©Indeed Recruit Partners Co., Ltd. Recruit Works Institute All Rights Reserved.3",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "©Indeed Recruit Partners Co., Ltd. Recruit Works Institute All Rights Reserved.4",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "©Indeed Recruit Partners Co., Ltd. Recruit Works Institute All Rights Reserved.5",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "©Indeed Recruit Partners Co., Ltd. Recruit Works Institute All Rights Reserved.6",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "©Indeed Recruit Partners Co., Ltd. Recruit Works Institute All Rights Reserved.7",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "©Indeed Recruit Partners Co., Ltd. Recruit Works Institute All Rights Reserved.8",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "©Indeed Recruit Partners Co., Ltd. Recruit Works Institute All Rights Reserved.9",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "実は、慢性的な人手不足に陥っている業種ほど採用費用が高騰しており、業種間で最大",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の採用戦略｜人手不足時代を乗り越える実践的アプローチ",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が深刻化する中、企業体力で劣りがちな中小企業が採用を成功させるにはいったいどうすればよいのでしょうか",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "深刻化する日本の人手不足｜採用市場の現状を徹底分析",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の労働市場は深刻な人手不足に直面しており、企業の採用活動は年々困難になっています",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの業界では慢性的な人手不足が続いており、2024年4月から適用された時間外労働の上限規制（いわゆる2024年問題）の影響も相まって、採用競争が一層激化しているのが実情です",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "【中小企業の採用】人手不足の厳しい実態",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動の失敗は単なる人手不足にとどまらず、企業の存続にも関わる深刻な問題を引き起こします",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は直接的に事業機会の損失につながります",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の動向調査（2025上半期）",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "」調査によると、2025年上半期における人手不足を原因とする倒産件数は202件と過去最多を更新しました",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が企業存続に直結する問題となっていることがよくわかる結果となっています",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 帝国データバンク[TDB]｜人手不足倒産の動向調査（2025年上半期）｜（2025年7月4日）",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "企業規模や採用人数によって総コストは異なるため、一人あたりのコストで見ることで前年度や他社との比較が可能になります",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビ「2024年卒 企業新卒内定状況調査」",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビ「中途採用状況調査2025年版（2024年実績）」",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "第42回 ワークス大卒求人倍率調査（2026年卒）",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートワークス研究所｜大卒求人倍率調査（2026年卒）｜調査",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の「令和6年賃金構造基本統計調査」によると、令和6年の企業規模別平均賃金は、次のようになっています",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省｜令和6年賃金構造基本統計調査 結果の概況",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の動向調査（2025上半期）",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "」調査によると、2025年上半期における人手不足を原因とする倒産件数は202件と過去最多を更新しました",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 帝国データバンク[TDB]｜人手不足倒産の動向調査（2025年上半期）｜（2025年7月4日）",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "就職白書2020",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "就職みらい研究所｜就職白書2020",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "その点、SNS採用は特に若手人材にリーチしやすく、低コストで実施できる有効な手段です",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "「賃上げ実態調査2025」を公開～歴史的賃上げだった2024年も“家計負担が軽減していない”は7割以上！",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用実態調査",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る研究機関・リクルートワークス研究所では 、民間企業における2026年度の中途採用の見通し 、2025年度上半期の中途",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用実績に関する調査を行いました",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度の中途採用D.I.は5年連続のプラス",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2026年度の中途採用数が前年より「増える」と回答した企業の割合は19.7％、「減る」と回答した企業の割合は5.9 ％と",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 従業員規模別、業種別ともに全ての区分で2026年度の中途採用D.I.はプラスとなった",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人以上企業で11.6％ポイントと、2025年度の29.3％ポイントからの低下幅が大きい",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業などで、2025年度からの低下幅が相対的に大きい",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度の中途採用見通し（正規社員）】",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年度上半期の中途採用実績（正規社員）】",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2025年度上半期で必要な人数を「確保できた」と回答した企業は41.5％、「確保できなかった」と回答した企業は56.6％",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度上半期と比べてマイナス",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、特に5～299人企業では約6割が「確保できなかった」と回答した",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が「確保できなかった」と回答した",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度見通し、2025年度上半期実績",
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "56.8",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "quote": "新卒採用の平均採用単価は56.8万円"
+   },
+   {
+    "value": "11.8",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "quote": "11.8万円も増加"
+   },
+   {
+    "value": "93.6",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "quote": "」によると、新卒1人当たりの採用コストは約93.6万円です"
+   },
+   {
+    "value": "150",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "quote": "【税理士監修】150万円の壁｜学生アルバイトは扶養のまま収入増！残課題も"
+   },
+   {
+    "value": "123",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "quote": "【税理士監修】123万円の壁はいつから？2026年以降の178万円の壁も解説"
+   },
+   {
+    "value": "178",
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "quote": "【税理士監修】123万円の壁はいつから？2026年以降の178万円の壁も解説"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radical-support.jp/blog/recruitment/saiyoucost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.halle-a.jp/knowhow/191120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo.employment.en-japan.com/blog/cost-down",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/296/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11650000/000956216.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.career-tasu.co.jp/wp/wp-content/uploads/2024/07/2025_chukanchosa_k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.all-different.co.jp/topics/20260707",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/press/documents/20110726.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003398531",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001705160.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/gian_hokoku/20250530monogaiyo.pdf/$File/20250530monogaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/chic_deer1160/n/n559f3888b740",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "従業員300〜999人の製造業 採用単価 規模別",
+   "results": [
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.radical-support.jp/blog/recruitment/saiyoucost.html",
+    "https://www.halle-a.jp/knowhow/191120.html",
+    "https://saiyo.employment.en-japan.com/blog/cost-down",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://biz.relax-job.com/recruitment-cost",
+    "https://timers-inc.com/blog/new-graduate-recruitment-cost",
+    "https://recruit.connect-mktg.com/製造業の採用単価相場は？コストを抑えて人を集/",
+    "https://megdai.jp/markebatake/saiyou/6611/"
+   ]
+  },
+  {
+   "query": "従業員300〜999人の製造業 採用コスト 調査 万円",
+   "results": [
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.radical-support.jp/blog/recruitment/saiyoucost.html",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://edenred.jp/article/hr-recruiting/296/",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://saiyo.employment.en-japan.com/blog/cost-down",
+    "https://www.mhlw.go.jp/content/11650000/000956216.pdf",
+    "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/"
+   ]
+  },
+  {
+   "query": "従業員300〜999人の製造業 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/",
+    "https://www.works-i.com/surveys/item/180627_midcareer.pdf",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "https://www.works-i.com/surveys/adoption.html"
+   ]
+  },
+  {
+   "query": "従業員300〜999人の製造業 採用経路 割合 調査",
+   "results": [
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "https://www.career-tasu.co.jp/wp/wp-content/uploads/2024/07/2025_chukanchosa_k.pdf",
+    "https://www.all-different.co.jp/topics/20260707",
+    "https://www.jil.go.jp/press/documents/20110726.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003398531"
+   ]
+  },
+  {
+   "query": "従業員300〜999人の製造業 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.hirayamastaff.co.jp/hirayama/mailmag/seopage2508.html",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html"
+   ]
+  },
+  {
+   "query": "従業員300〜999人の製造業 白書 採用",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "https://www.mhlw.go.jp/content/001705160.pdf",
+    "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/gian_hokoku/20250530monogaiyo.pdf/$File/20250530monogaiyo.pdf",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://note.com/chic_deer1160/n/n559f3888b740",
+    "https://eigyo-mfg.com/blog/7400/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2026/pdf/gaiyo.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2959 @@
+{
+ "name": "イスラエルのオンプレAIハードウェア",
+ "en": "Israeli on-premise AI hardware startup",
+ "aliases": [
+  "Israel AI appliance",
+  "Israeli edge AI server",
+  "Israeli private LLM appliance",
+  "on-premise AI",
+  "on-prem AI",
+  "AI appliance",
+  "private AI",
+  "air-gapped AI",
+  "local LLM",
+  "オンプレ",
+  "生成AI"
+ ],
+ "context": "イスラエル",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:57:55.834794+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "Nvidia Acquires Israeli AI Startup for $700M",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": "Nvidia announced in April it entered a definitive agreement to acquire the Israeli-based software provider startup.",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": "30 AI Hardware Companies & Startups [2026] | StartUs Insights",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Scouting",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Program",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "All Startups",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the 30 Growing AI Hardware Companies & Startups to Watch in 2026",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI HARDWARE STARTUPS",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The top AI hardware startups and companies are:",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Specializes in high-performance, low-power AI hardware for edge applications in various industries. The startup raised a total funding of",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Develops efficient edge AI chips that deliver powerful machine vision and inference capabilities. The startup raised",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Engineers ultra-compact AI hardware for real-time processing in edge and mobile environments. The startup raised",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Builds AI accelerators for embedded vision and sensory systems in autonomous platforms. The startup raised",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Hottest AI Startups Right Now",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "How We Selected these 30 AI Chip Startups & Companies",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ", covering over 9 million startups, scaleups, and tech companies globally. We applied filters such as location, founding year, technology readiness, and employee count to select 30 standout AI hardware companies.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "onprem.ai delivers the complete AI stack including hardware, or just the building blocks you need. All layers are aligned with each other and tested as a whole: no friction between different vendors, one point of contact for the entire operation.",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ delivers local LLM performance that matches cloud providers. Sub-50ms latency, 2,000+ concurrent users, and 8 NVIDIA GPUs per unit, purpose-built hardware that eliminates the performance gap between local and cloud AI.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ hardware appliance and Go.OS model management platform deliver everything needed to run local LLMs at enterprise scale, from plug-and-play deployment to full model lifecycle governance.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ Hardware Appliance",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built hardware for local LLM inference. The Go1™ packs 8 NVIDIA GPUs, high-bandwidth NVLink interconnect, and enterprise storage into a single rack-mountable appliance designed for data center deployment.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Three models. Same platform. Configured to your exact needs — from startup to enterprise.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ", access management, and audit trails before issuing or renewing policies. Cloud AI introduces third-party processing risk that complicates underwriting.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— including unauthorized cross-border transfers to cloud AI providers. The",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— including penalties for unauthorized cross-border data transfers to cloud AI providers outside your jurisdiction. The",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Is Zanus AI related to Zanussi appliances?",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "appliance brand Zanussi. Zanus AI designs and manufactures private, on-premises",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Battle-tested at scale by leading cloud service providers and enterprises. Get started in <30 seconds with drop-in OpenAI API compatibility.",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Appliances",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "ITAR requires that technical data about defense articles not be exposed to foreign persons. Cloud providers with international operations present compliance risks that air-gapping eliminates.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "turnkey AI servers and appliances",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Infrastructure providers:",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "The NVIDIA GB300 has arrived, and the first appliance is already shipped and live at a client site.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox the appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Data-center class NVIDIA Grace Blackwell platforms, delivered as a sovereign, on-premise, air-gapped appliance. Two form factors, sized for teams or full organizations.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "The appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Incirt runs knowledge assistants entirely on the appliance: no token costs, no per-seat metering, and intellectual property that never leaves the perimeter.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Coding agents running fully on the appliance, with no token limits.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GB10 · compact desktop appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid setup: add your own API keys for external providers, or run fully local with no outbound calls",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SSO-ready: integrates with enterprise identity providers when enabled",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Does it support enterprise identity providers (SSO)?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Can we mix local models and external providers?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "From cloud to AI in a Box: the recipe behind the 88%",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Hardware, Enterprise AI Appliance | Go.AI",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "AI in a Box",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-Built AI Appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Not a repurposed server. The Go1™ is edge AI hardware designed from silicon to software for high-throughput AI inference in a single appliance.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "2,000+ concurrent users per appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built hardware paired with a custom software stack designed to make edge AI deployment, management, and monitoring as simple as plugging in an appliance.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Data never leaves the physical appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-grade AI inference in a single appliance. Deploy at branch offices, remote facilities, or air-gapped environments, with zero cloud dependency and sub-50ms latency.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Sub-50ms inference latency for 2,000+ concurrent users per appliance. Enterprise-grade AI performance at edge locations.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Concurrent per appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "pass": 3
+   },
+   {
+    "quote": "Promising Startups 2026",
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": "Nvidia Acquires Israeli AI Startup for $700M",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": "Run:ai was founded in 2018 and launched its first product in 2020.",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": "Nvidia announced in April it entered a definitive agreement to acquire the Israeli-based software provider startup.",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": ": Israel",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Israeli startup",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Caesarea, Israel",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "This data-driven outlook on technology scouting services outlines key market metrics, growth trends, grant activity, and funding dynamics shaping how organizations source and evaluate external innovation. It highlights leading hubs, investor activity, and service models driving ecosystem-based innovation discovery worldwide.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "headquartered in Fort Lauderdale, Florida. We have no affiliation with the European",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "headquartered in Fort Lauderdale, Florida, specializing in private, on-premises AI",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Israel (USD $)",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Israel cannot lead the next wave of technology in isolation",
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "pass": 3
+   },
+   {
+    "quote": "The Israeli AI hardware startup’s solution includes hardware, software, and tools that work together to boost efficiency and simplify the adoption and deployment of AI in a wider range of real-world applications",
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "pass": 3
+   },
+   {
+    "quote": "IBM teams up with Israeli startup NeuReality to build AI inference platforms",
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "pass": 3
+   },
+   {
+    "quote": "“This investment is another sign of confidence in the talent and innovation that NeuReality and the Israeli tech industry offer the world,” stated Moshe Tanach, CEO and co-founder of NeuReality. “The high-profile investors in our Series A fundraising prove that NeuReality’s value proposition, architecture, and flagship product are a viable reality that will transform the AI market.”",
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "pass": 3
+   },
+   {
+    "quote": "You don't have permission to access \"http://www.israelhayom.com/2022/06/21/samsung-invests-in-israeli-ai-systems-and-semiconductor-startup/\" on this server.",
+    "url": "https://www.israelhayom.com/2022/06/21/samsung-invests-in-israeli-ai-systems-and-semiconductor-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "25-year-old Israeli founder sells stealth AI startup for up to $35 million without ra | Ctech",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "Israel cannot lead the next wave of technology in isolation",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "25-year-old Israeli founder sells stealth AI startup for up to $35 million without raising capital",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "Full list of Israeli startup M&As in 2026",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "Gliksberg began programming and exploring cybersecurity in middle school, when he wrote cheats for video games. In high school, he developed several applications used by classmates, including an Uber-style app that allowed students to coordinate rides after obtaining their driver's licenses. He later served in several roles in Israel's Unit 8200, where he led projects.",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "As the use of AI agents expanded, Gliksberg identified an opportunity to apply them to security research. He founded HexAI with Or Gany, who later left to become CTO Israel at Wonderful, to make the process measurable and its findings verifiable. Amit Schendel, who served alongside Gliksberg in Unit 8200, later joined the company as CTO.",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "HexAI serves government and commercial customers in Israel and internationally. The company says its customers have reported improvements in both the quality and quantity of security findings, alongside substantial reductions in AI model costs. Those gains can be achieved using open models, without relying on the most advanced systems from providers such as OpenAI and Anthropic.",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforce acquires Israeli startup Loops in deal estimated at $30 million",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "Groundcover acquires Israeli startup Wand for tens of millions of dollars",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "Following the acquisition, all six HexAI employees will join Hex-Rays. The company plans to expand HexAI's operations in Israel, bring Hex-Rays experts into the platform's development and build new research tools drawing on Hex-Rays' reverse-engineering expertise. Tools based on that expertise are currently available exclusively through HexAI, according to the company.",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "Israel - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "1948 war and establishment of the State of Israel",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Israeli citizenship law",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Israeli-occupied territories",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Israel",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Land of Israel",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": ". For the biblical figure also named Israel, see",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Israel (disambiguation)",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "State of Israel",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Map of Israel (",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Israeli territory",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "The Golan Heights, under Israeli control",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "The West Bank, which is largely controlled by Israel, and the Gaza Strip, which Israel has been occupying since 2023",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Israeli",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Israel's west coast",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Israel News: Updates on Israeli Politics, Security & Diplomacy | The Jerusalem Post",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "ISRAEL NEWS",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Israel News",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Israel Politics",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Israel Sports",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Israel Culture",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Crime in Israel",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Boy George visits Nova massacre site ahead of Tel Aviv concerts dedicated to survivors",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Accompanied by her husband, Robert, the 76-year-old icon touched down at Ben-Gurion Airport to begin a new life, declaring that despite regional tensions, Israel is where she finally feels at home.",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Hapoel Tel Aviv soccer edges Maccabi Haifa as Beersheba rallies, Maccabi Tel Aviv cruises",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Hapoel Tel Aviv held off Maccabi Haifa 2-1, while Beersheba staged a dramatic 5-2 comeback and Maccabi Tel Aviv cruised to a commanding 5-0 victory.",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Tel Aviv University unveils October 7 memorial honoring victims of attack",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Israel uncovers Jenin rocket network, suspects admit testing and improving rockets, six indicted",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "Israel Police rejected Ben-Gvir's allegations that Commissioner Danny Levy ordered violence against haredi protesters, calling the claims baseless and demanding a retraction.",
+    "url": "https://www.jpost.com/israel-news",
+    "pass": 3
+   },
+   {
+    "quote": "イスラエルのAIハードウェア新興企業NeuRealityが800万ドル調達でステルス脱却",
+    "url": "https://www.axion.zone/neureality/",
+    "pass": 3
+   },
+   {
+    "quote": "イスラエルのシーザレアに拠点を置く新興企業NeuRealityは、クラウドデータセンターやエッジノード向けの高性能AIハードウェアを開発しており、10日、800万ドルの資金を得てステルス状態から脱却した",
+    "url": "https://www.axion.zone/neureality/",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店情報サービス大手のぐるなび（本社・東京）は1月20日、次世代飲食ビジネスの基盤構築をめざす「ぐるなびNextプロジェクト」の初成果として、新たな飲食店探索アプリ「UMAME!（うまみー！）」のβ版を公開した",
+    "url": "https://www.axion.zone/neureality/",
+    "pass": 3
+   },
+   {
+    "quote": "イスラエル革新機関(IIA)が、人工知能とデータ処理を推進する新しいR&Dラボを設立するために、最大で約800万ドルを投資",
+    "url": "https://www.atpartners.co.jp/news/2023-08-18-israel-innovation-authority-iia-to-invest-up-to-approximately-8-million-to-establish-a-new-r-d-lab-to-promote-artificial-intelligence-and-data-processing",
+    "pass": 3
+   },
+   {
+    "quote": "R&Dラボの設立と、国内の他のスタートアップ向けのサービスの提供を行う企業として、コンピュータアプリケーションを加速させる省エネルギーの処理技術を開発するイスラエルの企業NextSiliconが選ばれました",
+    "url": "https://www.atpartners.co.jp/news/2023-08-18-israel-innovation-authority-iia-to-invest-up-to-approximately-8-million-to-establish-a-new-r-d-lab-to-promote-artificial-intelligence-and-data-processing",
+    "pass": 3
+   },
+   {
+    "quote": "IIAは、工業研究と開発を支援するイスラエル政府のエルサレムに拠点を置く部門です",
+    "url": "https://www.atpartners.co.jp/news/2023-08-18-israel-innovation-authority-iia-to-invest-up-to-approximately-8-million-to-establish-a-new-r-d-lab-to-promote-artificial-intelligence-and-data-processing",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Nvidia Acquires Israeli AI Startup for $700M",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": "Nvidia has acquired AI infrastructure software developer Run:ai in a deal worth $700 million.",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": "USD 500 million",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 20 billion",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4.5 million",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 68 million",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 200 million",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 31.7 million",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 34.05 billion",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 500 billion",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1 billion",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 75 billion",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 15 billion",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6 billion",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.5 billion",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 13.7 billion",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire AI engineers ($150K–$300K/yr each)",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Cost: $500K–$2M+",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— 50 real-time operations per node",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud AI: GPU instances at $2–$30+/hour. Token fees. Per-seat charges. AWS bills hit $10K–$50K+/month fast.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$2–$30+/hour per GPU",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "24/7 = $17K–$260K+/yr per GPU",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$12K–$60K+/yr",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$50K–$150K+/yr",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$100K–$500K+",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$0 — ready from Day 1",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$500K–$2M+",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$18K/month on AWS",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ". Replaced $12K/month in cloud costs.\"",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ". We killed $8K/month in OpenAI API fees.\"",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Slash AI infrastructure costs compared to GPU clouds while achieving up to 30x faster inference.",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "leads with 2,800+ pre-built workflows, 78x accuracy via Entourage Mode, and perpetual licensing from $697. Defense-grade alternatives like Palantir AIP require $5M+ investments.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI is the value pick at $697 one-time perpetual licensing; Palantir AIP and Azure Disconnected suit seven-figure defense and agency programs. The technology itself is covered on the",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "It is the standard approach for classified programs (SCIF environments), ITAR manufacturers, and regulated industries where even encrypted cloud AI is unacceptable. True air-gap means full disconnection — not just a private cloud or VPC. Ranked below: the platforms that genuinely deliver it, from $697 one-time licenses to $5M+ defense deployments.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions range from $697 one-time (AirgapAI) to $5M+ annual (Palantir, Azure disconnected).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$697 one-time",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$5M+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$500K+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$300K+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$250K+/year",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Federal agencies with $1M+ budgets and existing Microsoft enterprise agreements.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Extremely expensive ($5M+ typical)",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "DoD, IC, and defense contractors with $5M+ budgets for AI platforms.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "$25,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€75,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€25,000 / year",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "European market rates. GB300 starts at €150,000 per year and is confirmed by quote depending on configuration.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "from $150,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We moved our AI workloads off the cloud and cut costs by 88%. Here's when enterprises should do the same.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NeuReality raises $35 million Series A to accelerate AI | Ctech",
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "pass": 3
+   },
+   {
+    "quote": "NeuReality raises $35 million Series A to accelerate AI",
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "pass": 3
+   },
+   {
+    "quote": "AI startup NeuReality emerges from stealth with $8 million seed round",
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "pass": 3
+   },
+   {
+    "quote": "Bionaut Labs bags $43 million Series B for micro-robotic drug delivery",
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "pass": 3
+   },
+   {
+    "quote": "25-year-old Israeli founder sells stealth AI startup for up to $35 million without ra | Ctech",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "25-year-old Israeli founder sells stealth AI startup for up to $35 million without raising capital",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforce acquires Israeli startup Loops in deal estimated at $30 million",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "Nebius acquires 10-month-old stealth AI startup Inferize in $100-150 million deal",
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "pass": 3
+   },
+   {
+    "quote": "$619.724 billion",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "$60,100",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "$746.982 billion",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "Under the deal, Run:ai’s software, which currently supports only Nvidia GPUs, will become open source to allow for faster, better AI building and to extend its availability to the entire AI ecosystem.",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": "The global surge in artificial intelligence adoption is fueling unprecedented demand for high-performance hardware. From GPUs and AI accelerators to neuromorphic and edge processors, specialized architectures now form the foundation of intelligent computing. This article explores the world’s leading AI hardware companies driving breakthroughs.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Develops specialized GPUs and AI hardware accelerators that power large-scale AI models and systems.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Designs high-performance processors and GPUs optimized for AI workloads and data center applications.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "(GW) of AMD GPUs.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Manufactures advanced CPUs, GPUs, and dedicated AI chips for servers, edge, and personal computing markets. Its",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Makes a modular edge AI hardware platform with configurable GPU options and ruggedized variants for heavy‑duty vehicles and multi‑camera vision.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "GPUs, TPUs, and NPUs drive most AI workloads. New architectures, like wafer-scale engines and AI-specific ASICs, improve speed and efficiency for large-model inference and edge computing.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "2. NVIDIA – GPUs for AI Processing",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "creates GPU and accelerated computing solutions that power AI processing in PC, data center, and corporate environments. Its solution speeds up large-scale workloads related to model training, data analysis, and inference from cloud to edge environments. Nvidia achieves this through deep learning optimization and parallel processing architectures.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The same architecture that drives industrial AI is used to improve consumer apps using RTX GPUs. This allows AI PCs to provide sophisticated real-time experiences. Nvidia allows businesses to install intelligent systems more accurately and efficiently. Consequently, this enhances performance across computer environments and operationalizes AI more quickly.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Blackwell GPU architecture",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ", the company’s new high-bandwidth interconnect. It enables ultra-fast GPU-to-GPU communication and scaling across multi-GPU configurations for demanding AI workloads.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "3. AMD – CPUs, GPUs, and Accelerators for AI Processing",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "is a US-based technology company that creates advanced CPUs, GPUs, and accelerators to support AI processing. For effective data handling and model training, it utilizes high-performance and adaptable computing architectures that balance workload distribution between CPU and GPU systems.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "(GW) of AMD GPUs based on a multi-year, multi-generation agreement. The initial 1 GW deployment of the",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "GPU hardware from team to datacenter",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "connects servers, GPUs, models, APIs, monitoring, and updates in a single environment. Four areas cover the complete operation:",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "A hardware-verified model catalog with clear maturity levels. The platform checks free VRAM before a model goes live.",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ delivers everything you need to run local LLMs at enterprise scale: true on-device inference with no external calls, production-grade performance for thousands of users, and air-gapped operation for the most sensitive environments.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Every token generated on local GPUs, zero external API calls or cloud roundtrips",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ delivers local LLM performance that matches cloud providers. Sub-50ms latency, 2,000+ concurrent users, and 8 NVIDIA GPUs per unit, purpose-built hardware that eliminates the performance gap between local and cloud AI.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ serves 2,000+ concurrent users per unit with consistent response times under load",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "8 NVIDIA GPUs with optimized tensor parallelism for maximum throughput per watt",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built hardware for local LLM inference. The Go1™ packs 8 NVIDIA GPUs, high-bandwidth NVLink interconnect, and enterprise storage into a single rack-mountable appliance designed for data center deployment.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Rack the Go1™, connect power and network, and run local LLMs within 15 minutes. No complex cluster configuration, no distributed systems expertise required. Go.OS handles model loading, GPU allocation, and serving automatically.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Run multiple local LLM models simultaneously on a single unit of The Go1™. Deploy Llama for general tasks, a fine-tuned model for compliance, and a specialized model for code generation, all sharing GPU resources intelligently.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Start with The Go1™ for 2,000 users. Add units as demand grows with automatic load balancing and model replication across the cluster. Scale local LLM capacity linearly without re-architecting your deployment.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time dashboards tracking local LLM latency, throughput, GPU utilization, accuracy metrics, and error rates. Automated alerting when performance degrades below configurable thresholds for any model or endpoint.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy enterprise-grade local LLMs in 15 minutes. The Go1™ delivers 2,000+ concurrent users, sub-50ms latency, and full air-gap capability, no cloud dependencies, no per-token billing, no data leaving your infrastructure.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Limited to vendor-offered models and parameters",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "2,000+ users. Sub-50ms latency. Zero cloud dependency. Run large language models locally on purpose-built hardware that delivers cloud-grade performance without sending a single token off-premise.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Sub-50ms latency for local LLM inference, with The Go1™ serving 2,000+ concurrent users per unit. No network round-trips, no API rate limits, no cold starts, consistent performance at scale.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Concurrent users",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": ". The Zanus AI Operating System with 15+ business modules, enterprise GPUs, and multiple LLMs ship ready to use from Day 1. Zero cloud dependency. Zero token fees. Zero monthly subscriptions.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Unlimited users",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "to your exact needs — users, storage, and AI capabilities. Tell us your requirements and we'll build your personalized quote.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Every Zanus AI Server is configured to your exact needs — users, storage,",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "A GPU box is just a box. The Zanus AI Prime is a",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "operating system, 15+ business modules, multiple AI models, enterprise GPUs, and 2 million+ documents",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Buy GPUs, server, storage separately",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "This is what makes Zanus AI different from a GPU box.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "unlimited users",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Unlimited registered users — zero per-seat charges",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise GPUs — The Engine Under the Hood",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "enterprise-grade AI GPUs",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AI GPUs — not gaming or mining cards",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-grade AI inference GPUs",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "50 real-time AI operations — unlimited users",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Performance comparisons are based on third-party benchmarking or internal testing. Observed inference speed improvements versus GPU-based systems may vary depending on workload, configuration, date and models being tested.",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing the all new Cerebras CS-4, a revolutionary rack-scale solution that delivers up to 30x faster inference compared to GPUs. Designed to be deployed at hyperscale, CS-4 is the world’s fastest infrastructure for frontier AI.​",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Lovable was built on the idea that the person closest to a problem should be able to solve it. Cerebras helps us make Lovable respond as fast as our customers think,so instead of wondering if an idea’s worth trying, they just build it. Our users deserve infrastructure that keeps up with how they work.",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "By delivering over 2,000 tokens per second for Scout – more than 30 times faster than closed models like ChatGPT or Anthropic, Cerebras is helping developers everywhere to move faster, go deeper, and build better than ever before.",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "We have a cancer-drug response prediction model that’s running many hundreds of times faster on that chip (Cerebras) than it runs on a conventional GPU… We are doing in a few months what would normally take a drug development process years…",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Working with Cerebras lets us treat speed as a first-class design parameter. When your agent runs at ~1000 tokens per second, you have the opportunity to optimize all parts of the agent together, including context retrieval, UI, and model behavior. Cerebras enables us to pursue an entirely new set of bets, from deeper codebase understanding to fundamentally new interaction patterns.",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Slash AI infrastructure costs compared to GPU clouds while achieving up to 30x faster inference.",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "GPU cluster setup",
+    "url": "https://www.techsarasolutions.com/services/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GPU optimization",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "A single GPU node (NVIDIA RTX 4090 or A100 class) covers departmental chat and retrieval. CPU-only sites run quantized models on Intel Xeon through AirgapAI Edge, which matters where GPUs cannot be procured or powered inside the facility. Rack-scale clusters are only needed for training, which most air-gapped programs never do.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "New users succeed from day one with ready-to-use workflows. Power users configure sophisticated automations.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "Run:ai’s software helps enterprise customers efficiently manage and optimize their compute infrastructure on-premises, in the cloud or across hybrid environments.",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": "offers high-performance edge AI chips that accelerate on-device and on-premise AI applications. The startup integrates dedicated neural processing units with co-optimized algorithms, software, and hardware technologies.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ", an AI inference appliance solution that allows enterprises to accelerate AI inference in on-premises data centers and cloud environments. It offers high-performance neural network processing and system integration.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Listen AI embeds algorithm-defined architecture from the inception of the chip to create streamlined, efficient chips that support both online and offline voice interaction, speech synthesis, and processing in real time.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Articles and insights on on-premise AI",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Our local AI servers process every request entirely on premises: no data leaves your company, no external interfaces, no cloud dependencies. You not only meet the strict requirements of the GDPR, you keep full control over sensitive information.",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Our technology is built on proven datacenter software and ensures reliable operation, even in air-gapped environments. Single or cluster deployment.",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Security controls made visible and mapped to ISO 27001 and SOC 2. Updates are deliberate and auditable, even air-gapped.",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Local LLM, On-Premises AI Deployment | Go.AI",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Go1™ delivers everything you need to run local LLMs at enterprise scale: true on-device inference with no external calls, production-grade performance for thousands of users, and air-gapped operation for the most sensitive environments.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "All LLM processing happens on-device. No API calls to external servers, no internet connection required, no data transmitted anywhere. Your prompts, responses, and fine-tuning data never leave the physical hardware sitting in your data center.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Full offline capability, local LLM inference continues even without internet connectivity",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped Capable",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Run local LLMs in completely disconnected environments. The Go1™ operates in full air-gap mode with offline model updates, local authentication, and zero internet dependency, built for classified, regulated, and high-security networks.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Full air-gap deployment with no internet dependency for any local LLM operation",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Offline model updates via secure physical media or approved transfer protocols",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Update local LLM models through a verified pipeline with cryptographic signing, integrity validation, and staged rollout. Supports both online updates and air-gapped transfer for disconnected environments.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy enterprise-grade local LLMs in 15 minutes. The Go1™ delivers 2,000+ concurrent users, sub-50ms latency, and full air-gap capability, no cloud dependencies, no per-token billing, no data leaving your infrastructure.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "AI infrastructure for regulated industries. On-premises deployment, zero data egress, examiner-ready compliance. Trusted by 900K monthly users processing 12.5M queries daily.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises AI Banking",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem LLM",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped AI",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI Prime | Private On-Premises AI Server — No Cloud, Own Forever",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises Private AI",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI Prime — Private On-Premises AI Server",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ". No internet required. HIPAA, GDPR, SOC 2, and",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "100% on-premises",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud vs On-Prem",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "No ChatGPT. No Copilot. No Grok. No Cloud AI.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "No internet required — fully air-gapped",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "100% on-premises — zero cloud dependency",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped / offline capable",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI: 100% on your premises. Air-gapped capable. True zero-trust by design.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI: On-premises architecture supports HIPAA, GDPR, ABA, EU AI Act programs. Built-in RBAC & audit trails. Auditors can verify on-site — everything is in your building.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI: RAID 10 mirrors every drive in real time. Air-gapped capable = zero internet attack surface. Optional LTO tape archive for offline backups. Your data, your backups, your control.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "No — air-gapped capable",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped = zero internet attack surface",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "A broad catalog of models are available in the cloud and on-premise. Inference runs in-region — keeping you within your latency envelope, data residency obligations, and compliance frameworks.",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise & Local Server AI | Techsara USA",
+    "url": "https://www.techsarasolutions.com/services/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise & Local Server AI",
+    "url": "https://www.techsarasolutions.com/services/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI for data-sovereign workloads.",
+    "url": "https://www.techsarasolutions.com/services/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "inference latency on-prem",
+    "url": "https://www.techsarasolutions.com/services/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "Federated learning, model distillation and offline-ready devices for global rollouts. Same engineering rigor a…",
+    "url": "https://www.techsarasolutions.com/services/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "Best Air-Gapped AI Platforms Ranked (2026): SCIF-Ready",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Local, air-gapped LLM chat for classified environments.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem Hardware Sizing",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "How to Deploy LLMs On-Premise",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped AI Solutions",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Best AI Solutions for Air-Gapped Environments (2026)",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive comparison of AI platforms that can be deployed in completely isolated, air-gapped networks for classified and highly sensitive data.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "For true air-gapped AI without million-dollar budgets,",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Which AI works in an air-gapped environment?",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Six platforms run enterprise AI inside a fully air-gapped environment: AirgapAI, Palantir AIP, Azure OpenAI Disconnected, AWS Bedrock isolated regions, IBM watsonx on-premises, and self-hosted Hugging Face models.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "air-gapped AI",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI runs on infrastructure with zero connection to the internet or external networks, so prompts, documents, and model outputs never leave your security perimeter.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped AI Solutions Comparison",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "IBM watsonx (On-Prem)",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "US Military Deploys Air-Gapped AI",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "Stay Updated!",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated: October 30, 2025",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "connects servers, GPUs, models, APIs, monitoring, and updates in a single environment. Four areas cover the complete operation:",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Governance & Updates",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Security controls made visible and mapped to ISO 27001 and SOC 2. Updates are deliberate and auditable, even air-gapped.",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": ", comprehensive APIs, professional operations, and seamless integration options. All from a single source. Continuous updates give you automatic access to the latest models and improvements, tested and verified in our AI Lab.",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Run local LLMs in completely disconnected environments. The Go1™ operates in full air-gap mode with offline model updates, local authentication, and zero internet dependency, built for classified, regulated, and high-security networks.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Offline model updates via secure physical media or approved transfer protocols",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Full model lifecycle management for local LLMs. Go.OS handles model versioning, performance monitoring, resource allocation, and secure update pipelines, the operating system that makes local LLM deployment enterprise-ready.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Secure Update Pipeline",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Update local LLM models through a verified pipeline with cryptographic signing, integrity validation, and staged rollout. Supports both online updates and air-gapped transfer for disconnected environments.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "North 2：Cohereの最新プラットフォームアップデート —",
+    "url": "https://cohere.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Manage updates, security, scaling yourself",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updates, support, and scaling included",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updated by Zanus engineers — you don't manage model versions",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "How does the server receive updates if it runs air-gapped with no internet?",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updates are delivered through a",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ". For air-gapped deployments, Zanus provides verified update packages that your IT administrator applies locally —",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "For connected deployments, updates are pulled",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ", not pushed automatically. In both cases, you control when and whether to update.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "fully functional without any updates",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— it does not degrade, expire, or lose features if you choose not to update. There is no subscription gating and",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "user management, and module updates. If you can use email, you can operate the system.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Get Updates",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Choose from a regularly updated lineup of models on our public endpoint with your API key.",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "24/7 monitoring, paging and quarterly capacity reviews.",
+    "url": "https://www.techsarasolutions.com/services/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "Updated July 12, 2026",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI infrastructure is the compute, model supply chain, retrieval layer, local identity and offline update path that let an AI system run with no route to the internet.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "5. Offline update path",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Model, application and OS updates arrive as signed offline bundles on a defined cadence. Deciding that cadence up front (quarterly is common in accredited enclaves) prevents the drift that leaves an isolated system three model generations behind its connected counterpart.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon is installed, validated, monitored, and updated under agreed controls",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated April 2026. Reviewed by the Zylon AI Engineering Team",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "An air-gapped AI deployment runs language models, retrieval, and the applications built on them entirely on hardware that has no connection to the internet or to any outside network. Models and updates arrive on approved physical media, nothing phones home, and the organisation carries every operational task a cloud vendor would otherwise handle.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "in the usual sense, where servers sit in your own building but can still reach out for model updates, package installs, or licence checks. Plenty of organisations that say “air-gapped” actually mean “on-premise with a strict firewall.” The difference matters, because a true air gapped AI deployment changes how every routine task is done, from installing a library to reading a log.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Keeping it running: updates, patches and monitoring",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "We’ll map the requirement, size the hardware honestly, and build the update routine your team will run after handover.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "It is an AI system - models, retrieval, and applications - running on hardware with no network connection to the internet or any outside network. Software and updates arrive on approved physical media, and nothing in the environment can send data out.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI runs on servers you own but usually keeps controlled outbound connectivity for updates, package installs, and vendor support. An air gap removes all outside connectivity, which is stricter and considerably more work to operate.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How do updates and security patches work?",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Every update is assembled and tested on a disconnected staging environment outside the gap, written to approved media with checksums, verified on the inside, and installed on a deliberate schedule. The routine should be set up as part of the first deployment.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Offline updates and security patches (validated releases)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Updates & Patch Management",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Update",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Signed air-gapped updates, vendor SLA.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Managed software lifecycle: updates, security patches, and platform health checks",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offline update workflows for air-gapped environments",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment, Operations, and Updates",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "How are updates delivered?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "What is included in Update Services?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Remote fleet management across distributed edge locations with secure OTA updates, health monitoring, and centralized configuration.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy, version, and rollback models across your entire edge fleet from a central console. Push updates to hundreds of locations simultaneously.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "update",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "needs update",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "\"Saul and Highlands of Benjamin Update: The Role of Jerusalem\"",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "The Catholic Biblical Quarterly",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Quarterly Statement – Palestine Exploration Fund",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "“True to our open-platform philosophy, as part of Nvidia, we will keep empowering AI teams with the freedom to choose the tools, platforms and frameworks that best suit their needs. We will continue to strengthen our partnerships and work alongside the ecosystem to deliver a wide variety of AI solutions and platform choices.”",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": ": Specializes in high-performance, low-power AI hardware for edge applications in various industries. The startup raised a total funding of",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Makes a modular edge AI hardware platform with configurable GPU options and ruggedized variants for heavy‑duty vehicles and multi‑camera vision.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s architecture minimizes latency, enhances energy efficiency, and safeguards data privacy. This ensures that sensitive information remains on the device. Qualcomm’s designs optimize AI hardware for real-time performance and improve responsiveness across varied workloads.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The startup’s proprietary architecture utilizes variable capacitance for storing AI model weights. It utilizes electric fields instead of electrical currents to perform calculations. This minimizes electron movement, reduces energy usage, and mitigates overheating.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "in new funds from the European Innovation Council (EIC) Fund, Varana Capital, Cleveland Avenue, XT Hi-Tech, and OurCrowd.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "This way, the startup streamlines the process to build and deploy intelligent devices directly at the edge for brands, OEMs, startups, and innovators.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "EVAS Intelligence’s technology features a modular chip design that supports adaptive sensing, decision-making, and control functions. The underlying architecture achieves high computational density to optimize cost-performance balance for automotive OEMs.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ", Phoenix AI’s solutions feature rapid detection, automated event response, and support for multiple object types across varied conditions. It ensures continuous data processing with minimal latency.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "*Estimated capacity based on average document size of 1 MB and video files of 50 MB. Actual capacity varies by file type and AI indexing depth. Expandable with external vector store for even larger archives.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "*Weight varies by configuration. No special infrastructure required. Standard wall outlets in any country. 4 power cords included.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Become a reseller",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale / Reseller Program",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Reseller",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Performance comparisons are based on third-party benchmarking or internal testing. Observed inference speed improvements versus GPU-based systems may vary depending on workload, configuration, date and models being tested.",
+    "url": "https://www.cerebras.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Cost varies 1000x:",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI deployments typically align with: CMMC Level 2-3 for defense contractors, FedRAMP High for government agencies, HIPAA for healthcare organizations, SOC 2 Type II for enterprise security, ITAR for aerospace/defense manufacturers, and various classified handling requirements (CUI, Secret, Top Secret).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment timelines vary significantly. AirgapAI deploys in weeks with end-to-end integration support. Azure and AWS isolated deployments typically take 3-6 months. Palantir and similar enterprise platforms often require 12-18 months for full deployment. Organizations should factor deployment speed into their total cost and productivity calculations.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Website OEM",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Variable per-token and compute-hour metering",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": ", and various experts and human rights organisations have concluded that Israel is committing",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Despite its small size, Israel is home to a variety of geographic features, from the",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Temperatures vary widely, especially during the winter. Coastal areas, such as those of Tel Aviv and Haifa, have a typical",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "With scarce water resources, Israel has developed various water-saving technologies, including",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Various UN member states and the",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "An alternative for those who receive exemptions on various grounds is",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "varies widely: a 2016 survey by",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "Cultural diversity stems from its diverse population: Jews from various diaspora communities brought their cultural and religious traditions with them.",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": ": \"A few authorities have concluded that the core events of the Exodus saga are entirely literary fabrications. But most biblical scholars still subscribe to some variation of the Documentary Hypothesis, and support the basic historicity of the biblical narrative.\"",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": ". Harvard University Press. p.",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": ", Harvard University Press, 1976,",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "(Conservative), Reconstructionist Progressive (Reform), and varying combinations of traditionalism and non-observance. Despite this variety in religious observances in society, Orthodox Judaism prevails institutionally over the other streams. This boundary is an historical consequence of the unique evolution of the relationship between Israel nationalism and state building.",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": ". Harvard University Press.",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "(1)パブリックおよびプライベートクラウドのデータセンター企業、(2)企業、金融機関、政府機関向けのデータセンターソリューションや大規模なソフトウェアソリューションを構築するソリューションプロバイダー、(3)サーバーやエッジノードソリューションを構築するOEMやODMである",
+    "url": "https://www.axion.zone/neureality/",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "Under the deal, Run:ai’s software, which currently supports only Nvidia GPUs, will become open source to allow for faster, better AI building and to extend its availability to the entire AI ecosystem.",
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "pass": 3
+   },
+   {
+    "quote": ": Incorporates custom AI processors in its Azure cloud platform and supports edge AI hardware development.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Provides a fanless industrial edge AI gateway for intelligent video analytics. It supports up to four camera streams with simultaneous deep learning detection.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Builds a pocket‑sized medical device that leverages AI for real‑time respiratory analysis and diagnostic support.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "is a US-based technology company that creates advanced CPUs, GPUs, and accelerators to support AI processing. For effective data handling and model training, it utilizes high-performance and adaptable computing architectures that balance workload distribution between CPU and GPU systems.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The system uses specialized hardware to effectively carry out matrix multiplications and other compute-intensive AI operations within Google’s worldwide data center architecture. It integrates natively with Google Kubernetes Engine for coordinating large-scale models and scales smoothly across distributed systems. The system also supports popular frameworks like PyTorch, JAX, and TensorFlow.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The chip integrates hundreds of megabytes of on-chip SRAM as the primary weight storage, which reduces data latency and drives compute units at full speed. This supports scalable tensor parallelism across interconnected devices.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "chip supports EC2 Inf1 instances that deliver up to",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI accelerator. It supports large-scale and complex AI workloads in Azure data centers. The technology integrates a co-designed hardware and software stack optimized from silicon to the system level. This allows efficient execution of frontier AI models.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The startup supports a broad range of data precision formats and offers improved compute performance relative to traditional GPUs. It streamlines AI training and inference with reduced infrastructure costs.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The startup converts conventional chip inefficiency into sustainable performance. For this, it utilizes energy-conserving architectures that support high-performance computing for AI workloads. Vaire’s reversible computing test chip recycles",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The startup’s platform combines custom hardware with an optimized software stack to deliver high performance while maintaining energy efficiency and scalability. It supports multiple AI inference workloads simultaneously to improve throughput and reduce power consumption in computer vision tasks.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The accelerator supports workloads in HPC, AI, and vector database processing. It enables high throughput with reduced power consumption and latency. The startup thus provides researchers and organizations with a compute foundation that accelerates discovery in fields like cancer research and astrophysics.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "for the Vanguard program. This supports the evaluation and deployment of advanced computing technologies for the",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Semron stacks silicon dies in a 3D configuration to achieve high density and efficiency. This supports AI models up to 500 times larger and delivers up to 50 times greater energy efficiency compared to memristive solutions. It also cuts deployment costs by as much as 95%.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "in seed round funding led by Join Capital and supported by SquareOne, OTB Ventures, and Onsight Ventures.",
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Our team is happy to personally support you with technical questions, offers, or individual requirements. We already answer many questions in our frequently asked questions: clear, compact, and practical.",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-Model Support",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Update local LLM models through a verified pipeline with cryptographic signing, integrity validation, and staged rollout. Supports both online updates and air-gapped transfer for disconnected environments.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Support",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "CoreWeaveがCohereのNorthを活用し、90日間でカスタマーサポートを改革",
+    "url": "https://cohere.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "No support — you're on your own",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updates, support, and scaling included",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Business-grade decision support for legal, medical, financial teams",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware support included — you focus on your business",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI: On-premises architecture supports HIPAA, GDPR, ABA, EU AI Act programs. Built-in RBAC & audit trails. Auditors can verify on-site — everything is in your building.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Deep Reasoning for complex analysis & decision support",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Remote support & hardware support included",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "with 15+ built-in business modules. It runs 100% on your premises with zero cloud dependency, zero token fees, and zero monthly subscriptions. The Prime supports",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Does the Zanus AI server support HIPAA and GDPR compliance?",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Because the Zanus AI server runs 100% on your premises with zero cloud dependency, its architecture supports",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "is designed to support",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— cross-referencing documents, identifying patterns across data sources, generating logical conclusions, and supporting business decisions that require true intelligence. The Quantum model offers Extended Deep Reasoning with larger context windows for even more complex analysis.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "supports compliance programs with built-in controls",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Does the Zanus AI Prime support Single Sign-On (SSO) and enterprise identity management?",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure your choice supports required certifications (CMMC, FedRAMP, HIPAA, ITAR).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise deployment support with Tier 1-3 support included",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise support available",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "IBM enterprise support",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Dell enterprise support",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Support limited to community or paid tiers",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Free models, enterprise support available",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual license + enterprise hardware + training + 3-year support",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise support included",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Support",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy in weeks with end-to-end integration, training, and Tier 1-3 support included.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI is purpose-built for air-gapped deployment from day one, not retrofitted from a cloud solution. It includes 2,800+ pre-built workflows for immediate productivity, Entourage Mode for 78x accuracy, and enterprise deployment support. Most competitors require millions in infrastructure investment or extensive customization.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "What compliance certifications support air-gapped AI?",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment timelines vary significantly. AirgapAI deploys in weeks with end-to-end integration support. Azure and AWS isolated deployments typically take 3-6 months. Palantir and similar enterprise platforms often require 12-18 months for full deployment. Organizations should factor deployment speed into their total cost and productivity calculations.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Also supported",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Bare-metal GPU infrastructure for enterprise AI, with fast provisioning and hands-on operations support.",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Turnkey AI/HPC delivery: hardware sourcing, hosting options, and deployment support.",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "Cisco provides the infrastructure and networking foundation for customers deploying Zylon in-house, supporting secure, resilient environments for regulated workloads.",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI runs on servers you own but usually keeps controlled outbound connectivity for updates, package installs, and vendor support. An air gap removes all outside connectivity, which is stricter and considerably more work to operate.",
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: hardware, platform, apps, support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment & Onboarding Support",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Patches • Monitoring • Support",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware is a one-off cost. Software, maintenance and people are per year, multiplied by 3.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   }
+  ],
+  "認証（ISO等）": [
+   {
+    "quote": "Security controls made visible and mapped to ISO 27001 and SOC 2. Updates are deliberate and auditable, even air-gapped.",
+    "url": "https://www.onprem.ai/en/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/technology/local-llm",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 27001",
+    "url": "https://cohere.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": ". No internet required. HIPAA, GDPR, SOC 2, and",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA, GDPR, ABA, SOC 2, EU AI Act-ready by design",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA / GDPR / SOC 2 / EU AI Act-ready",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 — complete audit trail & RBAC",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA, GDPR, ABA, SOC 2",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA, GDPR, SOC 2, and EU AI Act",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— every document, query, and AI interaction stays inside your building. Architecture supports HIPAA, GDPR, SOC 2, and EU AI Act compliance programs",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "(SOC 2, SEC),",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA, SOC 2 Type II, ISO 27001 and FedRAMP-aligned deployment patterns.",
+    "url": "https://www.techsarasolutions.com/services/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure your choice supports required certifications (CMMC, FedRAMP, HIPAA, ITAR).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "FedRAMP High compliance",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "AWS-native organizations needing FedRAMP High compliance with AI.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Federal Government (FedRAMP)",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "FedRAMP High baseline requires significant controls. For classified systems, air-gapped deployment is mandatory. Even for unclassified, many agencies prefer true isolation.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Nuclear Certified",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Security Certification",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "100% on-premise operation with zero cloud transmission. SCIF-approved and nuclear facility certified.",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "What compliance certifications support air-gapped AI?",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped AI deployments typically align with: CMMC Level 2-3 for defense contractors, FedRAMP High for government agencies, HIPAA for healthcare organizations, SOC 2 Type II for enterprise security, ITAR for aerospace/defense manufacturers, and various classified handling requirements (CUI, Secret, Top Secret).",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   },
+   {
+    "quote": "A certified partner runs the infrastructure & operations",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "ISO-certified data centers",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": ", but a certified partner can",
+    "url": "https://www.zylon.ai/deployment-options",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2, GDPR & security posture",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Is it SOC 2 / GDPR compliant?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Adriana Kemp, \"Labour migration and racialisation: labour market mechanisms and labour migration control policies in Israel\",",
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 for Hardware Startups: What's in Scope When You Sell Devices, Chips or Appliances",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 for on-prem",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 27001",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Accelerator",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 27001 Accelerator",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 gap analysis",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 27001 gap analysis",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 compliance hub",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 + IRAP",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 for On-prem",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Scorecard",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 27001 Scorecard",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 for hardware companies reports on the service the company operates around its product: the cloud platform, the device management backend, the data pipeline and the support process. The device, chip or appliance itself is usually outside the SOC 2 system; customers who want assurance about the product ask for product standards such as IEC 62443 or ETSI EN 303 645.",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": "What SOC 2 reports on",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   },
+   {
+    "quote": ": The physical product design, product certification testing and most of the factory floor.",
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Best Air - Gapped AI Platforms Ranked (2026): SCIF-Ready — Best Air - Gapped AI Platforms Ranked (2026): SCIF-Ready Iternal AI https://iternal.ai > best-ai-air-gapped-e...",
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dealroom.co/lists/ai-startups-israel/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vastdata.com/customers/sds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timesofisrael.com/us-chip-giant-nvidia-snaps-up-israeli-ai-workload-management-startup/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onprem.ai/en/platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cohere.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerebras.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsarasolutions.com/services/on-premise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/deployment-options",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/il/en/solutions/cloud/air-gapped-private-cloud.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/lists/hardware-startups-israel/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/best-hardware-startups-in-tel-aviv",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.israelhayom.com/2022/06/21/samsung-invests-in-israeli-ai-systems-and-semiconductor-startup/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timesofisrael.com/israeli-generative-ai-startup-raises-16-million-to-automate-architectural-planning/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cio.com/article/193534/8-leading-israeli-ai-startups-to-watch.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Israelis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/Israeli",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.askdifference.com/israelian-vs-israeli/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calcalistech.com/ctechnews/article/r1rboe4umg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/best-ai-startups-in-israel",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.timesofisrael.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/place/Israel",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aljazeera.com/where/israel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yolegroup.com/industry-news/these-are-the-10-hottest-ai-hardware-companies-to-follow-in-2025/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.startupblink.com/top-startups/israel/hardware-iot/hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpost.com/israel-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpost.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timesofisrael.com/latest/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axion.zone/neureality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Israel/comments/1qlilta/can_israel_become_in_ai_like_we_are_in_cyber/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.atpartners.co.jp/news/2023-08-18-israel-innovation-authority-iia-to-invest-up-to-approximately-8-million-to-establish-a-new-r-d-lab-to-promote-artificial-intelligence-and-data-processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://israel-keizai.org/news/ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arabnews.jp/middle-east/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%81%AFai%E3%81%8C%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB%E3%82%AC%E3%82%B6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E4%BC%9D%E3%81%88%E3%82%8B%E6%83%85%E5%A0%B1%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%93%8D%E4%BD%9C%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B-184351",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/tech-trend/israel-startups-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.algemeiner.com/2026/10/26/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksl.com/article/51641153/unconventional-ai-buys-israelichip-startup-neureality-to-speed-product-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Israeli on-premise AI hardware startup",
+   "results": [
+    "https://www.linkedin.com/posts/ezevidra_yesterday-tlv-partners-published-on-ctech-activity-7426675145160896512-Pzrh",
+    "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/",
+    "https://www.instagram.com/reel/DeEqXR_gwtv/",
+    "https://dealroom.co/lists/ai-startups-israel/",
+    "https://www.vastdata.com/customers/sds",
+    "https://www.timesofisrael.com/us-chip-giant-nvidia-snaps-up-israeli-ai-workload-management-startup/",
+    "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "https://www.topinisrael.com/israel/best-ai-startups/",
+    "https://clawandtalon.capital/startup-cognichip"
+   ]
+  },
+  {
+   "query": "Israeli on-premise AI hardware startup on-premise LLM appliance company",
+   "results": [
+    "https://www.onprem.ai/en/platform/",
+    "https://go.ai/technology/local-llm",
+    "https://cohere.com/",
+    "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "https://www.cerebras.ai/",
+    "https://www.techsarasolutions.com/services/on-premise",
+    "https://www.instagram.com/reel/DeEqXR_gwtv/",
+    "https://lambda.ai/",
+    "https://www.ksl.com/article/51641153/unconventional-ai-buys-israelichip-startup-neureality-to-speed-product-development",
+    "https://en.m.wikipedia.org/wiki/Israel"
+   ]
+  },
+  {
+   "query": "Israeli on-premise AI hardware startup air-gapped AI box price",
+   "results": [
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://www.zylon.ai/deployment-options",
+    "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "https://understand.tech/product/ai-in-a-box",
+    "https://www.hpe.com/il/en/solutions/cloud/air-gapped-private-cloud.html",
+    "https://go.ai/technology/edge-ai-hardware",
+    "https://ibl.ai/service/air-gapped-ai/small-business",
+    "https://heypinchy.com/air-gapped-llm-hardware/",
+    "https://thenewstack.io/deploying-ai-in-air-gapped-environments-what-it-really-takes/",
+    "https://en.m.wikipedia.org/wiki/Israel"
+   ]
+  },
+  {
+   "query": "Israeli on-premise AI hardware startup startup raises on-prem AI hardware",
+   "results": [
+    "https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/",
+    "https://www.calcalistech.com/ctechnews/article/b14h3kndj",
+    "https://www.instagram.com/reel/DeEqXR_gwtv/",
+    "https://www.linkedin.com/posts/ezevidra_yesterday-tlv-partners-published-on-ctech-activity-7426675145160896512-Pzrh",
+    "https://dealroom.co/lists/hardware-startups-israel/",
+    "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "https://seedtable.com/best-hardware-startups-in-tel-aviv",
+    "https://www.israelhayom.com/2022/06/21/samsung-invests-in-israeli-ai-systems-and-semiconductor-startup/",
+    "https://www.timesofisrael.com/israeli-generative-ai-startup-raises-16-million-to-automate-architectural-planning/"
+   ]
+  },
+  {
+   "query": "Israeli on-premise AI hardware startup white label OEM reseller",
+   "results": [
+    "https://www.onprem.ai/en/platform/",
+    "https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/",
+    "https://www.instagram.com/reel/DeEqXR_gwtv/",
+    "https://www.linkedin.com/posts/ezevidra_yesterday-tlv-partners-published-on-ctech-activity-7426675145160896512-Pzrh",
+    "https://cohere.com/",
+    "https://www.timesofisrael.com/us-chip-giant-nvidia-snaps-up-israeli-ai-workload-management-startup/",
+    "https://www.cio.com/article/193534/8-leading-israeli-ai-startups-to-watch.html",
+    "https://dealroom.co/lists/hardware-startups-israel/",
+    "https://www.calcalistech.com/ctechnews/article/hytvgbf3ze",
+    "https://en.m.wikipedia.org/wiki/Israel"
+   ]
+  },
+  {
+   "query": "Israeli on-premise AI hardware startup Israel",
+   "results": [
+    "https://www.linkedin.com/posts/ezevidra_yesterday-tlv-partners-published-on-ctech-activity-7426675145160896512-Pzrh",
+    "https://www.cio.com/article/193534/8-leading-israeli-ai-startups-to-watch.html",
+    "https://dealroom.co/lists/ai-startups-israel/",
+    "https://www.instagram.com/reel/DeEqXR_gwtv/",
+    "https://www.vastdata.com/customers/sds",
+    "https://www.calcalistech.com/ctechnews/article/r1rboe4umg",
+    "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/",
+    "https://seedtable.com/best-ai-startups-in-israel",
+    "https://www.youtube.com/watch?v=ToSs9aDjqqY",
+    "https://en.m.wikipedia.org/wiki/Israel"
+   ]
+  },
+  {
+   "query": "Israeli on-premise AI hardware startup Japan distributor",
+   "results": [
+    "https://www.yolegroup.com/industry-news/these-are-the-10-hottest-ai-hardware-companies-to-follow-in-2025/",
+    "https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/",
+    "https://www.linkedin.com/posts/ezevidra_yesterday-tlv-partners-published-on-ctech-activity-7426675145160896512-Pzrh",
+    "https://www.cio.com/article/193534/8-leading-israeli-ai-startups-to-watch.html",
+    "https://www.calcalistech.com/ctechnews/article/r1rboe4umg",
+    "https://www.startupblink.com/top-startups/israel/hardware-iot/hardware",
+    "https://www.cerebras.ai/",
+    "https://www.timesofisrael.com/us-chip-giant-nvidia-snaps-up-israeli-ai-workload-management-startup/",
+    "https://en.m.wikipedia.org/wiki/Israel",
+    "https://en.m.wikipedia.org/wiki/Israelis"
+   ]
+  },
+  {
+   "query": "イスラエルのオンプレAIハードウェア",
+   "results": [
+    "https://www.axion.zone/neureality/",
+    "https://www.reddit.com/r/Israel/comments/1qlilta/can_israel_become_in_ai_like_we_are_in_cyber/?tl=ja",
+    "https://www.atpartners.co.jp/news/2023-08-18-israel-innovation-authority-iia-to-invest-up-to-approximately-8-million-to-establish-a-new-r-d-lab-to-promote-artificial-intelligence-and-data-processing",
+    "https://israel-keizai.org/news/ai/",
+    "https://www.arabnews.jp/middle-east/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%81%AFai%E3%81%8C%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB%E3%82%AC%E3%82%B6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E4%BC%9D%E3%81%88%E3%82%8B%E6%83%85%E5%A0%B1%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%93%8D%E4%BD%9C%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B-184351",
+    "https://techblitz.com/tech-trend/israel-startups-2/",
+    "https://thebridge.jp/2023/10/as-israel-goes-to-war-global-ai-industry-faces-impacts-on-several-fronts-the-ai-beat",
+    "https://israeru.jp/business/startup-hailo-ai/",
+    "https://finance.biggo.jp/news/6a2bc50e-3c94-4a79-8ca6-20efc66df007",
+    "https://www.microsoft.com/en-us/"
+   ]
+  },
+  {
+   "query": "Israeli on-premise AI hardware startup ISO 27001 certified",
+   "results": [
+    "https://www.linkedin.com/posts/ezevidra_yesterday-tlv-partners-published-on-ctech-activity-7426675145160896512-Pzrh",
+    "https://www.instagram.com/reel/DeEqXR_gwtv/",
+    "https://www.calcalistech.com/ctechnews/article/r1rboe4umg",
+    "https://www.algemeiner.com/2026/10/26/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development/",
+    "https://www.cio.com/article/193534/8-leading-israeli-ai-startups-to-watch.html",
+    "https://www.ksl.com/article/51641153/unconventional-ai-buys-israelichip-startup-neureality-to-speed-product-development",
+    "https://truvocyber.com/blog/soc-2-hardware-startups",
+    "https://dealroom.co/lists/hardware-startups-israel/",
+    "https://www.startupblink.com/top-startups/israel/hardware-iot/hardware",
+    "https://en.m.wikipedia.org/wiki/Israel"
+   ]
+  }
+ ],
+ "missing": {}
+}

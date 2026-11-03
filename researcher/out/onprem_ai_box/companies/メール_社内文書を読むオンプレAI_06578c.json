@@ -1,0 +1,2953 @@
+{
+ "name": "メール・社内文書を読むオンプレAI",
+ "en": "on-premise AI email knowledge search appliance",
+ "aliases": [
+  "private AI email search",
+  "on-prem enterprise search LLM",
+  "on-premise AI",
+  "on-prem AI",
+  "AI appliance",
+  "private AI",
+  "air-gapped AI",
+  "local LLM",
+  "オンプレ",
+  "生成AI"
+ ],
+ "context": "Yomi",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:05:03.556495+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "Specifically, that includes an on-premises appliance you can run inside your own infrastructure, plus cloud options through AWS, Microsoft Azure, Google Cloud, and Oracle Cloud.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & SMB",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Open-source and third-party models with optimized inferencing on GKE, delivering fast startup and auto-scaling",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A local AI system eliminates these concerns. The data never leaves your infrastructure. There is no third-party processor to add to your privacy notices, no data processing agreements to negotiate with AI vendors, and no audit trail obligations for external data sharing.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "The Blueprint for Replacing Google Search Appliance: On-Premise vs. The Cloud",
+    "url": "https://www.kmworld.com/WhitePapers/KMWhitePaper/7929-The-Blueprint-for-Replacing-Google-Search-Appliance-On-Premise-vs.-The-Cloud.htm",
+    "pass": 3
+   },
+   {
+    "quote": "The gold standard of enterprise search, Google Search Appliance, reaches end of life 2019. It's time to start planning for your next search solution so you can make a seamless transition. Here's a blueprint to help.",
+    "url": "https://www.kmworld.com/WhitePapers/KMWhitePaper/7929-The-Blueprint-for-Replacing-Google-Search-Appliance-On-Premise-vs.-The-Cloud.htm",
+    "pass": 3
+   },
+   {
+    "quote": "A local AI system eliminates these concerns. The data never leaves your infrastructure. There is no third-party processor to add to your privacy notices, no data processing agreements to negotiate with AI vendors, and no audit trail obligations for external data sharing.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "AIcurate Appliance | Private AI Agent for SMBs and Enterprises",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIcurate Startup Guide",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Appliance",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIcurate, powered by Iterate.ai's Generate platform, is a groundbreaking AI appliance solution designed to",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "With an on-premise appliance, AIcurate provides precise results from large collections of data,",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIcurate Appliance",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "An on-premise server appliance designed to revolutionize enterprise data processing.",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "and is available today as an on-premise appliance or SaaS offering with options for monthly or yearly plan.",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "From department to data center, scale your AI infrastructure with purpose-built appliances designed for enterprise security and performance.",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "One-click application launches for immediate productivity",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Run any LLM — Claude, GPT, Gemini, Llama, Command, or your own fine-tune — and switch providers without rewriting the platform.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Loved by Enterprises and Startups",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "(AI) and machine learning (ML) models entirely within its own infrastructure. Unlike cloud-based AI solutions, where data and compute processes are managed by third-party providers, an on premise setup ensures that every part of the AI lifecycle happens behind the company’s firewall—within its local data centers or edge computing infrastructure.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "An on premise AI platform is usually better if you need a high level of control and data sovereignty. Unlike cloud AI from external providers, local hosting gives you greater control over intellectual property and data security. While cloud usage helps with scalability, on-prem setups avoid risks from third-party cloud platforms.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "The security risks for an on premise AI platform involve unauthorized access if your internal security policies are weak. You must manage your own infrastructure to prevent downtime. However, this model protects data privacy because you aren't sending sensitive data to cloud providers or external cloud services.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "The NVIDIA GB300 has arrived, and the first appliance is already shipped and live at a client site.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox the appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Data-center class NVIDIA Grace Blackwell platforms, delivered as a sovereign, on-premise, air-gapped appliance. Two form factors, sized for teams or full organizations.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "The appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Incirt runs knowledge assistants entirely on the appliance: no token costs, no per-seat metering, and intellectual property that never leaves the perimeter.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Coding agents running fully on the appliance, with no token limits.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GB10 · compact desktop appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid setup: add your own API keys for external providers, or run fully local with no outbound calls",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SSO-ready: integrates with enterprise identity providers when enabled",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Does it support enterprise identity providers (SSO)?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Can we mix local models and external providers?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "From cloud to AI in a Box: the recipe behind the 88%",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Appliances",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Transfer Appliance",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Hardware, Enterprise AI Appliance | Go.AI",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "AI in a Box",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-Built AI Appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Not a repurposed server. The Go1™ is edge AI hardware designed from silicon to software for high-throughput AI inference in a single appliance.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "2,000+ concurrent users per appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built hardware paired with a custom software stack designed to make edge AI deployment, management, and monitoring as simple as plugging in an appliance.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Data never leaves the physical appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-grade AI inference in a single appliance. Deploy at branch offices, remote facilities, or air-gapped environments, with zero cloud dependency and sub-50ms latency.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Sub-50ms inference latency for 2,000+ concurrent users per appliance. Enterprise-grade AI performance at edge locations.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Concurrent per appliance",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Seekr | Private AI Deployments: On-Premises & Edge Appliance",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Seekr Named to Newsweek’s America’s Greatest Startup Workplaces 2026",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Edge Appliance",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Drive outcomes in hours with the Seekr AI Edge Appliance",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate AI impact: Access GPUs within hours of appliance delivery. Protect data: Process data locally to preserve data sovereignty",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "one mid-size model, small team, air-gapped appliance",
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "pass": 3
+   },
+   {
+    "quote": "appliance",
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Introduces On-Prem AI Device for Enterprises -- Campus Technology",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Introduces On-Prem AI Device for Enterprises",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial intelligence startup",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product, branded as \"AI in a Box,\" is a small, stackable node that can host large language models, adapters, and AI agents while keeping data within an organization's local network. Each unit supports up to five users and can be combined into clusters to scale across departments.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": ", as bringing chat, agents, and enterprise search into one place, built by the only major AI provider headquartered in the EU.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "With Confidential Mode, your data is processed on hardware-based infrastructure your team can verify independently.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "— a U.S.-headquartered, domestically-owned, long-term partner with a perpetual platform license and no investor exit pressure.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "ibl.ai is family-owned and operated from New York, NY — a U.S.-headquartered, domestically-owned long-term partner, not a vendor that sells licenses and moves on.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Israel",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": ", an AI-powered experience management platform founded in 2018 in India, integrated Gemini into its platform to analyze large volumes of customer survey data and derive actionable insights for businesses. The company achieved a 20% increase in overall productivity by completing tasks in minutes that previously required hours, while also reducing time spent on operational tasks by 30%.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "was founded in 2019 to simplify the complex tax assessment processes for Brazil’s state VAT. ML resources help Tributei simplify not only tax assessments but also tax management tasks, with performance improved by 400%. This initiative has already helped 19,000 companies automate and audit VAT-related transactions, spotting more than BRL 15 million in tax overcharges.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", an India-based insurtech platform, built its AI-powered solution on Google Kubernetes Engine, Vertex AI, and Gemini to help insurers create unified data lakes for anti-money laundering compliance and lead scoring. The platform supports more than 1 million daily users across over 2,000 locations with 99.9% uptime and response times in milliseconds.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a healthcare-focused startup founded in Japan, is using Gemini models via Google Cloud to power its physician assistance tool.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", based in France and with 40 million subscribers in over 70 countries, is accelerating the content video indexing of its extensive library to enable smarter, more personalized content recommendations on the CANAL+ App. It’s also giving production partners access to Veo3 to previsualize scenes and recreate historical moments.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Israel Antiquities Authority",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "worked with CommIT to modernize its data systems with Google Cloud using NetApp and VMware to migrate and back up 1 petabyte of archaeological data. The Israel Antiquities Authority also trained modern research models, powered by Gemini, to help researchers quickly find and access what they are looking for.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a Spanish multinational supermarket chain founded in 1979, uses Gemini in Google Workspace to compare complex proposals and conduct market research to stay ahead of competition. The AI helps teams save time, reduce costs, and boost productivity while ensuring data is never used to train external models.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", an Israeli cloud security startup, helps security teams empower its data teams to deploy more useful AI applications faster and more responsibly; the startup created a Vertex AI integration that helps monitor and manage the security risks associated with running AI models.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Israel (USD $)",
+    "url": "https://zanusai.com/collections/private-ai-servers",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "InSpire connects to 500+ data sources and enforces your existing permissions, so users only see information they are authorized to access.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Your AI search platform should carry your existing access permissions into search and retrieval. A user should only receive information they are authorized to access. Your existing permissions still matter because AI can make information much easier to find. Before connecting your data, review whether users and groups have the right level of access across your connected systems.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "See how fast on-prem AI pays off vs. cloud GPU rental.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "4-GPU AI Inference & Training Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "8-GPU AI Training & Inference Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Fine-tuning requires running your data through a training process on GPU hardware. You cannot fine-tune a model on commercial API endpoints — you need your own hardware, or you need to pay significant cloud GPU costs for training runs. Local hardware gives you the ability to fine-tune continuously as your business data grows.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "5–20 person team, 70B models",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "4-GPU EPYC LLM Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "8-GPU EPYC Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "VRLA Tech builds AI workstations for small businesses that are ready to own their AI infrastructure. Our entry AI workstation — configured with a single NVIDIA RTX 5090 or RTX PRO 6000 Blackwell — handles LLM inference for teams of 2–15 users, Stable Diffusion image generation, and document processing automation. It ships pre-configured with Ollama and ready to serve requests on day one.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "For growing businesses that need 70B model capability or higher concurrent user capacity, the",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "VRLA Tech 4-GPU EPYC LLM Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud GPU Cost Breakdown 2026",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Servers for Pharma & Biotech: AlphaFold, Screening, MD, Drug Discovery | VRLA Tech",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "H100 GPUs",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Max Parameters",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Sub-100ms inference with dedicated GPU resources. No multi-tenant noise, no cold starts.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated GPU resources",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-tuned models from 8B to 405B parameters with quantized and full-precision variants optimized for the Go1™.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "8x NVIDIA H100 GPUs, 640GB HBM3 memory, 30TB NVMe storage. Run Go.OS Custom LLM with 405B-parameter models on a single node with sub-80ms P95 latency. Plug in, connect ethernet, and deploy in under 15 minutes.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "8× H100 GPUs",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "AI infrastructure for regulated industries. On-premises deployment, zero data egress, examiner-ready compliance. Trusted by 900K monthly users processing 12.5M queries daily.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "See how fast on-prem AI pays off vs. cloud GPU rental.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "4-GPU AI Inference & Training Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "8-GPU AI Training & Inference Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Fine-tuning requires running your data through a training process on GPU hardware. You cannot fine-tune a model on commercial API endpoints — you need your own hardware, or you need to pay significant cloud GPU costs for training runs. Local hardware gives you the ability to fine-tune continuously as your business data grows.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "5–20 person team, 70B models",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "4-GPU EPYC LLM Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "8-GPU EPYC Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "VRLA Tech builds AI workstations for small businesses that are ready to own their AI infrastructure. Our entry AI workstation — configured with a single NVIDIA RTX 5090 or RTX PRO 6000 Blackwell — handles LLM inference for teams of 2–15 users, Stable Diffusion image generation, and document processing automation. It ships pre-configured with Ollama and ready to serve requests on day one.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "For growing businesses that need 70B model capability or higher concurrent user capacity, the",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "VRLA Tech 4-GPU EPYC LLM Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud GPU Cost Breakdown 2026",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Servers for Pharma & Biotech: AlphaFold, Screening, MD, Drug Discovery | VRLA Tech",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Supermicro GPU Servers",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Servers",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "that runs on diverse hardware, from on-prem GPU servers to private cloud environments",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Equipped with the latest high-performance CPUs and GPUs, it delivers a next-generation,",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "— a dedicated GPU cluster in the company data center. Best for organizations with significant on-prem infrastructure and IT teams that prefer their own metal.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Per-seat SaaS scales linearly with headcount whether or not employees use it; the on-premise model is priced on the tokens actually consumed plus the GPU you own. At enterprise scale the gap is one to two orders of magnitude.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. ibl.ai is model-agnostic — run self-hosted open-weight models on your own GPUs, or route to commercial models, and switch per workload.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "1.6M+ users across 400+ organizations run the platform this way, including NVIDIA, MIT, and Syracuse University.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how leading universities and organizations are transforming education with the ibl.ai AI Operating System. Explore real-world implementations from Harvard, MIT, Stanford, and users from 400+ institutions worldwide.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Setting up a robust infrastructure demands a substantial upfront investment in GPUs, CPUs, storage, and networking.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware and GPU Orchestration:",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Role-based access control and custom guardrails ensure that only authorized users can access specific APIs or models.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "GPU-aware scheduling for resource efficiency",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "High-performance GPU compute, deep learning optimizations",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Begin by assessing your compute needs—this includes GPU and CPU capacity, network bandwidth, and cooling/power considerations. Align this with your expected workloads to avoid over or under-provisioning.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "TrueFoundry is the top on premise AI platform that helps you host generative AI and machine learning on your own infrastructure. By supporting NVIDIA GPUs and models like Llama, it allows healthcare teams to manage patient data while following strict regulations and data governance.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "users at once",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "72-core Grace CPU (Arm Neoverse) · up to 8 TB/s GPU bandwidth",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "500+ concurrent users",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "GPU memory",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 8 TB/s (GPU)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Up to ~1 T parameters",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Concurrent users",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "Check where the platform can run, such as managed cloud, private cloud, or on-premises, based on your data and security requirements.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem, private cloud, SaaS",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem, SaaS, private/public cloud",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Public/private cloud, on-prem, hybrid",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem, private cloud, Mistral Cloud (EU default)",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem, Germany cloud, hybrid",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud, self-managed, air-gapped",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "You can deploy Sinequa on-premises, through a private cloud, or as managed SaaS, with its cloud infrastructure running on Microsoft Azure.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindbreeze InSpire: on-prem enterprise search with AI-powered knowledge graphs",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Specifically, that includes an on-premises appliance you can run inside your own infrastructure, plus cloud options through AWS, Microsoft Azure, Google Cloud, and Oracle Cloud.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro says you can deploy it in a private VPC, on-premises, or hybrid, with Squirro generally using AWS, Azure, and Hetzner for cloud infrastructure.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "As per Mistral, you can deploy it on-premises, in a private cloud, or through Mistral Cloud, with data hosted in the EU by default and a US endpoint available when selected.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "IntraFind iFinder: on-premise enterprise search platform for internal knowledge.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "As per IntraFind, you can run iFinder on-premises, use cloud services hosted in a German data center under ISO 27001 standards, or combine both through a hybrid setup.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "As per Elastic, you can run it on Elastic Cloud, Elastic Cloud Serverless, self-managed, hybrid, on-premises, or air-gapped environments.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Run Gemini and AI on-prem with Google Distributed Cloud | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Bringing Gemini and Google Agentspace to you on-premises",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "bringing Google’s most capable models to on-premises environments, with public preview starting in Q3 2025. To do so, we’ve partnered with NVIDIA to bring our Gemini models to NVIDIA Blackwell systems that you can purchase through Google or your preferred channels.",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Our GDC air-gapped product, which is now authorized for US Government Secret and Top Secret missions, and on which Gemini is available, provides the highest levels of security and compliance.",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vertex AI: one platform for cloud and on-prem",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Grounding using Google Agentspace search and LLM API management and governance using Apigee on-prem",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Google Agentspace: out-of-box access to on-prem data",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Connectors to index data from the most common on-prem enterprise systems (such as Confluence, Jira, ServiceNow, and Sharepoint)",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Robust access control list (ACL) enforcement that help ensure that search results are permission-aware, maintaining security and compliance for all your on-prem data",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI for Small Business in 2026: Is It Time to Own Your Infrastructure? - VRLA Tech",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "See how fast on-prem AI pays off vs. cloud GPU rental.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI for Small Business in 2026: Is It Time to Own Your Infrastructure?",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "At these spend levels, owning the hardware starts to look different. The economics of on-premise AI are straightforward: a one-time capital investment replaces recurring monthly costs. If the hardware pays for itself in the first year and then runs at near-zero marginal cost for years two and three, the total cost of ownership is dramatically lower than continued subscription and API spending.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "When on-premise AI makes sense for a small business",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI is not the right choice for every small business. Here is a clear framework for when it makes financial and practical sense.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "If your business spends $2,000 or more per month across AI API costs and subscriptions, the economics of on-premise hardware become compelling. A VRLA Tech AI workstation in the $10,000–$20,000 range replaces $24,000–$60,000 in annual API spending over a 3-year hardware lifecycle. The break-even is typically 4–8 months.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Small business on-premise AI hardware in 2026",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "A local AI system eliminates these concerns. The data never leaves your infrastructure. There is no third-party processor to add to your privacy notices, no data processing agreements to negotiate with AI vendors, and no audit trail obligations for external data sharing.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "serves as the team AI server — running in your server room or data closet, accessible from every workstation in the office, replacing your entire cloud AI API stack with a single on-premise investment.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI workstations for small business. 3-year warranty. Lifetime US support.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Within a regulated industry we probably would have to have a review process to load AI even if it air-gapped let alone get the funding for the APP server increases.",
+    "url": "https://www.servicenow.com/community/sysadmin-forum/ai-search-available-on-premises/m-p/2670081",
+    "pass": 3
+   },
+   {
+    "quote": "Now Assist works as well on-premise; you 'just' need to have the hardware to run it. With Zurich, it also is a little easier to run because you can enable that everything runs on one LLM; before Zurich, you need to modify each skill.",
+    "url": "https://www.servicenow.com/community/sysadmin-forum/ai-search-available-on-premises/m-p/2670081",
+    "pass": 3
+   },
+   {
+    "quote": "The KBA above will outline more detailed what is available and especially what is not available on-prem.",
+    "url": "https://www.servicenow.com/community/sysadmin-forum/ai-search-available-on-premises/m-p/2670081",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem LLM Deployment | Go.AI",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem LLM",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem LLM Deployment",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Why Deploy LLMs On-Prem",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud LLM APIs introduce data residency risk, unpredictable costs, and vendor dependency. On-premises LLM deployment gives you full control.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped deployment support",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built hardware for Go.OS Custom LLM inference. No cloud accounts, no API keys, no external dependencies.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy Go.OS Custom LLM with enterprise-grade inference, optimized for compliance, accuracy, and on-premises performance.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Full RAG pipeline support, embeddings, retrieval, and generation, entirely on-premises.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Vision-language capabilities for document analysis, image classification, and OCR, all on-premises.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem LLM vs. Cloud LLM APIs",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Compare on-premises LLM deployment with cloud-based APIs across the metrics that matter for production workloads.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Go.AI On-Prem",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy Your First LLM On-Prem",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "AI infrastructure for regulated industries. On-premises deployment, zero data egress, examiner-ready compliance. Trusted by 900K monthly users processing 12.5M queries daily.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "The Blueprint for Replacing Google Search Appliance: On-Premise vs. The Cloud",
+    "url": "https://www.kmworld.com/WhitePapers/KMWhitePaper/7929-The-Blueprint-for-Replacing-Google-Search-Appliance-On-Premise-vs.-The-Cloud.htm",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI for Small Business in 2026: Is It Time to Own Your Infrastructure? - VRLA Tech",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "See how fast on-prem AI pays off vs. cloud GPU rental.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI for Small Business in 2026: Is It Time to Own Your Infrastructure?",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "At these spend levels, owning the hardware starts to look different. The economics of on-premise AI are straightforward: a one-time capital investment replaces recurring monthly costs. If the hardware pays for itself in the first year and then runs at near-zero marginal cost for years two and three, the total cost of ownership is dramatically lower than continued subscription and API spending.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "When on-premise AI makes sense for a small business",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI is not the right choice for every small business. Here is a clear framework for when it makes financial and practical sense.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "Real-time permission updates",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Glean says it supports 275+ applications, with permissions-aware retrieval that updates in real time as access changes.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Research, engineering notes and product updates from Prem Blog.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Support options include remote diagnostics, performance tuning, model updates, and training for internal teams.",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Weights, prompt templates, and agent configuration are pinned, versioned by your IT, and updated on your schedule — no CDN-pulled runtime configuration.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Updated:",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Patch management, hardware updates, and scaling decisions rest fully with your internal team, which can be resource-intensive.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Continuously improve models through fine-tuning, monitor performance, and keep infrastructure secure through regular updates and access audits.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Offline updates and security patches (validated releases)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Updates & Patch Management",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Update",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Signed air-gapped updates, vendor SLA.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Managed software lifecycle: updates, security patches, and platform health checks",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offline update workflows for air-gapped environments",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment, Operations, and Updates",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "How are updates delivered?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "What is included in Update Services?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Own it forever · free updates · data ingestion + workflow builder",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Email support · lifetime updates on perpetual licenses",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "The full local AI assistant for Windows and macOS. Installs like any desktop app. Lifetime updates on perpetual licenses.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Product updates, which you can stage and push like any other app",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "that would rather hand the rollout and update cycle to Iternal can run it as",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "By a lot. ChatGPT Enterprise and Copilot run $30+/user/month — Forrester puts the loaded 3-year cost at $2,060+ per seat. AirgapAI is $697 once, with lifetime updates. Across a 1,000-person company, you save more than $1.36M in 3 years and you get to deploy AI to",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. AirgapAI performs all inference, document ingestion, and workflow execution on-device, so it works on planes, in SCIFs, at remote sites, and anywhere else without connectivity. You can unplug the network cable mid-answer and it keeps generating — nothing requires a connection except downloading the installer and updates.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Nothing syncs. AirgapAI is a private AI assistant in the literal sense: the model weights, your prompts, your ingested documents, the local index and your chat history all sit on the machine you own. There is no account sync, no telemetry, and no call-home check — the only traffic is the installer, model packs you choose to add, and updates you decide to install. For the category background, see",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドにアプリを移行して低コストな更新サイクルを実現",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Remote fleet management across distributed edge locations with secure OTA updates, health monitoring, and centralized configuration.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy, version, and rollback models across your entire edge fleet from a central console. Push updates to hundreds of locations simultaneously.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Control security policies and updates, making it easier to stay compliant with regulations.",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": ", for instance, ships dual 10-gigabit Ethernet and USB4, which is generous for a mini-PC and still short of the networking a real inference cluster uses.",
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "pass": 3
+   },
+   {
+    "quote": "An air-gapped deployment trusts whoever assembled the board and shipped the firmware. For a genuinely sovereign system, that provenance is part of the threat model, not an afterthought.",
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony said its approach is aimed at organizations reluctant to use cloud-based AI due to concerns over data privacy, compliance, and regulatory requirements. The nodes come preloaded with 16 open source models, including IBM's Granite family and Meta's Llama, and can be updated quarterly via a USB connection.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Nutanix Cloud Platform Updates Expand Capabilities for Production Agentic AI",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Published April 12, 2024; last updated April 22, 2026. If your looking for a searchable catalog of how Google Cloud customers are using AI, check out our",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is transforming logistics in Latin America, creating a scalable platform that tracks 7x more shipments, reduced rejections by 3%, and offers real-time shipment updates in less than 2 seconds, helping process more than 3 million shipments per year.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jusbrasil",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "automates its product catalog enrichment and now updates product attributes 5x faster, achieving significant operational cost savings.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "uses Vertex AI to help search data across 30,000 sources and 2.5 billion news articles updated daily.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", an animal sanctuary and event space, keeps its community updated on their favorite animals with newsletters co-written by Gemini in Docs.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "agent in Gemini Enterprise turns planning into execution. Teams can quickly build boards, summarize updates, and trigger automations without leaving their workspace—keeping everyone aligned, tracking progress, and driving measurable results.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a global industrial technology leader with 12,000 employees, uses Google Vids with AI voiceover tools to create polished, branded video content and training materials. Employees generate professional narration by typing scripts, create videos for hardware assembly and troubleshooting, and replace lengthy meetings with short, focused videos for project proposals and updates.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "enables users to automate marketing workloads and across teams with its Arc Agent, which supports marketers with campaign performance, creative content creation updates, and audience optimization.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The process documentation exists — in theory. In practice, it was last updated 18 months ago by someone who has since left the company. Critical workflows live in people’s heads, and when those people are on vacation or quit, the process breaks.",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "Auto-updates when source documents change",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "Depends on last manual update",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy to production. Train the client’s team on how to use the system and review analytics. Establish document update workflows. Provide full documentation and ongoing support plan.",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "Automated checks flag documents that have not been updated beyond a set threshold, ensuring stale content gets reviewed before it causes problems.",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance documentation, regulatory updates, client communication templates, and internal policy management. In an industry where the wrong answer can mean a regulatory violation, accuracy with citations matters.",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "Product documentation, engineering wikis, customer support knowledge, onboarding materials, and API reference guides. SaaS companies with fast-moving products need knowledge bases that update as quickly as the product does.",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "Our AI pod handles architecture, data ingestion, RAG pipeline setup, interface development, and testing. You get progress updates on your schedule.",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "What happens when source documents are updated?",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "re-ingests updated documents. This means answers reflect the latest version of every document without",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "needing to manually update the system. Scheduled freshness audits also flag documents that have not",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "updated beyond a set threshold.",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to receive our latest updates!",
+    "url": "https://promptowl.ai/whitelabel/",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "Varonis",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Varonis Threat Labs discovered SearchLeak, a one-click vulnerability chain in Microsoft 365 Copilot Enterprise.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprises are eager to deploy gen AI, but they also struggle to connect large volumes of siloed information across various repositories and formats such as images, PDFs, and text. This hinders productivity and innovation. At the same time, building an in-house search solution is costly and requires access to scarce AI expertise.",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Workstations",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Product photography variations with Stable Diffusion",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Ad creative variations for A/B testing",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-tuned models from 8B to 405B parameters with quantized and full-precision variants optimized for the Go1™.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "200-500ms variable",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Workstations",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Product photography variations with Stable Diffusion",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Ad creative variations for A/B testing",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "AIcurate can process and index a wide variety of formats, including PDFs, Word documents, Excel files,",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how leading universities and organizations are transforming education with the ibl.ai AI Operating System. Explore real-world implementations from Harvard, MIT, Stanford, and users from 400+ institutions worldwide.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Network-dependent and variable",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Proposals, contract redlines, claim summaries, variance narratives — produced in seconds, on hardware you own, with",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Most enterprise AI tools die at 20–30% adoption because users don't know how to prompt. AirgapAI hits ~89% adoption because every workflow is a button. Your accountant doesn't need to learn prompt engineering — they click \"Variance Narrative,\" paste their P&L, and ship the output. Day one.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "AirgapAI runs large language models 100% locally on your hardware. Available for both Windows and macOS, performance varies based on your device's GPU capabilities — better hardware means faster responses.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Variable per-token and compute-hour metering",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Venezuela, Bolivarian Republic of",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Redmond Channel Partner",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon Appoints AI Veteran Hamsa Buvaraghan as SVP/Head of Product",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "Why Hamsa Buvaraghan Joining Pryon Is a Watershed Moment for Enterprise AI",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": ", the makers of TurboTax, integrated Google Cloud’s visual recognition platform, Doc AI, and Gemini models into Intuit’s proprietary GenOS. This will expand the capabilities of Intuit’s “done-for-you” autofill of tax returns across the ten most common U.S. tax forms (variations of the 1099 and 1040 forms), helping users save time and boosting accuracy.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "developed SYNTHS, a pioneering platform that uses Google AI to transform synthetic data into campaign insights. The solution, built from the Gemini models, simulates opinions from various consumer profiles in real time, allowing for agile refinement of creative ideas and strategies. In comparative tests, the tool achieved the same recommendations as research conducted with real consumers.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "utilizes Google Cloud's Document AI and Gemini AI to automate insurance claims processing, extracting data from various documents and classifying them with high accuracy. This has led to faster processing times, increased accuracy, and improved customer satisfaction by settling claims in near real-time.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "also uses Gemini to synthesize information from various files on Google Drive and NotebookLM to generate engaging audio versions of lengthy reports. Employees can listen to audio versions while performing other tasks, boosting productivity and saving time searching for relevant material.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Bolivar",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is using Google Cloud's AI tools, including Looker Studio and BigQuery ML, to create healthcare solutions that improve critical clinical decisions during the treatment of ovarian cancer.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", develops AI software for analyzing non-contrast CT (NCCT) scans, with a focus on early stroke and cancer detection. It fine-tunes MedGemma on NCCT images and leverages Gemini's few-shot generalization capabilities to rapidly adapt the model for various diagnostic tasks.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "leverages Gemini for Google Workspace to streamline various tasks, such as analyzing historical data, which helped achieve an 80% reduction in calls from new arrivals, leading to happier customers and smoother stays.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a major Brazilian electric utility company, has developed an AI agent with Gemini Pro 1.5 that interacts with the company's on-premises SAP ERP system, allowing employees to ask a variety of questions using natural language.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is training vision-language models to safely deploy robots across a wide variety of industrial applications.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "integrates Gemini into Google Chat and Meet to improve its internal operations and employee experience. In Chat, Gemini powers an AI chatbot called \"Ask Globe\" that allows employees to quickly find information from various sources, while in Meet Gemini provides live transcriptions, summaries, and action items.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is helping their community create more than ever. With tools across their platform powered by Gemini’s Flash 2.5 Image model, their users can now make high quality, brand approved images with just a prompt, edit details with AI, and get all the variety their project needs.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", part of the Google for Startups AI cloud accelerator, helps businesses maximize the potential of existing creative assets using its AI to create hundreds of hyper-personalized video and audio ad variations in minutes.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has created a new way to plan enterprise marketing events with Gemini. It enables organizations to plan personalized events in minutes, rather than weeks, emphasizing creating a variety of events that resonate deeply with customers.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Varejo",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AI Knowledge Base — White Label IQ",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "You sell the project. You manage the client relationship. You set the timeline and the price. We build the knowledge base under your brand. No White Label IQ branding anywhere. The client never knows.",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 White Label IQ | WordPress, HubSpot and Web Development Company",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "This digital guide makes it easy to say “yes” to more client work—with confidence, structure, and White Label IQ behind you.",
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label AI Platform — Build & Sell Your Own AI Product | PromptOwl | PromptOwl",
+    "url": "https://promptowl.ai/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "ContextNest governs how you think and how you work into a private vault. PromptOwl turns it into a white-label agent grounded in your judgment — a new revenue stream, not just another service call.",
+    "url": "https://promptowl.ai/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "They're packaging what they already know — their frameworks, their process, their judgment — into AI products their clients, members or students subscribe to. Your expertise is the asset. PromptOwl — governed context, agents, and white-label — is the infrastructure that turns it into a business model.",
+    "url": "https://promptowl.ai/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label everything. Keep the margin.",
+    "url": "https://promptowl.ai/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "For technology advisors & resellers",
+    "url": "https://promptowl.ai/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "Apply to our partner program →",
+    "url": "https://promptowl.ai/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label URL structure with no PromptOwl references anywhere.",
+    "url": "https://promptowl.ai/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label included",
+    "url": "https://promptowl.ai/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "Start with PromptOwl free, then upgrade when you're ready to build your first white-label client solution. When clients see value, they subscribe and pay you directly through your own Stripe account.",
+    "url": "https://promptowl.ai/whitelabel/",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best White Label Email Hosting Providers (2026)",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to resell email hosting under your own brand, choosing the right provider is important. The infrastructure, features, branding options, and reseller controls can all affect how you run the service.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "The reseller model also matters because pricing, commissions, and margins can affect how much you earn from each customer.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "In this list, you’ll find white label email hosting providers with different features and reseller options. Some offer branded Webmail and mailbox management, while others provide automated DNS, APIs, private email infrastructure, or reseller programs.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "I compared six providers based on their features, white label capabilities, reseller model, pricing, automation, customer management, and earning potential.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "TL;DR: 6 Best White Label Email Hosting Providers",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   }
+  ],
+  "認証（ISO等）": [
+   {
+    "quote": "Confidential Mode attestation, ZDR for supported workloads, SOC 2 Type I",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 27001, SOC 2",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "We maintain a security model designed for enterprise AI workloads. Prem holds a SOC 2 Type I report and maintains controls aligned with FADP and GDPR requirements.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Sinequa offers 200+ connectors that, according to Sinequa, preserve your existing access permissions. It lists SOC 2 Type II, ISO 27001, HIPAA, GDPR, and CCPA among its compliance standards.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Dust connects to 70+ tools, including Slack, Notion, Google Drive, GitHub, Salesforce, and Zendesk. It holds SOC 2 Type II certification, supports SSO and SCIM, and states that your data is never used to train its models.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "As per IntraFind, you can run iFinder on-premises, use cloud services hosted in a German data center under ISO 27001 standards, or combine both through a hybrid setup.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Training & Certifications",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Corsair iCUE Certified PCs",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Corsair iCUE Certified Gaming PCs",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Corsair iCUE Certified PCs",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Corsair iCUE Certified Gaming PCs",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "An ISO 9001:2015 Company",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "FedRAMP Standards",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "acts as the centralized control layer for managing all inference traffic across models and APIs deployed in your private infrastructure. It supports advanced governance and cost control mechanisms, making it the operational heart of your AI stack.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "TrueFoundry is the best on premise AI platform because it gives you full control over the GenAI lifecycle. Our platform ensures regulatory compliance with HIPAA and SOC2 for all your Gen projects. We strengthen your AI strategy by providing a secure way to handle fraud detection in the world of AI.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2, GDPR & security posture",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Is it SOC 2 / GDPR compliant?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "The model runs where the data lives. That's why AirgapAI is deployed in SCIFs and satisfies HIPAA, CMMC/NIST, FedRAMP, and GDPR residency by construction.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "SCIF-deployable, HIPAA / CMMC / NIST / FedRAMP / GDPR-residency aligned — because the data physically never leaves your control. Clinical teams can see how the same boundary produces",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA / CMMC / FedRAMP posture by design",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "reporting by department — the evidence CMMC, HIPAA and FedRAMP reviewers ask for, without a",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "The Security & Deployment Guide: data-flow diagram, SCIF/CMMC/HIPAA/FedRAMP compliance mapping, and a 10-point evaluation checklist.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Because AirgapAI never calls home, it satisfies the air-gap requirement by construction. It's deployed inside SCIFs, on classified Dell + Intel laptops, and in DoD-adjacent workloads today. HIPAA, CMMC/NIST, FedRAMP, and GDPR data residency are all compliant by design — see the",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "The same boundary applies at 10,000 seats as at one. You push AirgapAI through Intune, JAMF or SCCM, scope workflow libraries by role, gate which workflows get published, version-control the ones your team builds, and report usage by department — with no third-party processor in the data-flow diagram, which is what shortens CMMC, HIPAA and FedRAMP reviews. The",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "また、NIST SP 800-53-FedRAMP High Security Control に準拠した厳格な要件をサポートするように設計されています",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "これは ISO 27001/27017、SOC II、ISMAP、NIST、NATO D48 などの規格の技術要件を満たしています",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "Proudly Certified",
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "pass": 3
+   },
+   {
+    "quote": "Finovate gave the round a dedicated write-up, running through the Updata Partners-led raise, the Go1's SOC 2 Type II, ISO 27001, and HIPAA compliance posture, and the Go.OS layer that handles model management and GPU allocation with no cloud connection. The piece also ties the funding back to Go.AI's FinovateSpring and FinovateFall stage appearances.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "900K monthly users went live in under 24 hours. SOC 2 Type II and ISO 27001 certified from day one.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Platform",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": ": Align with NIST, HIPAA, FedRAMP, and internal IT policies",
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "pass": 3
+   },
+   {
+    "quote": "Training & Certifications",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "tackles drug development's decade-long timeline with AMICA, the world's largest immune-focused single-cell database containing hundreds of millions of cells. Using Google Cloud GPU clusters, they train models that transform complex immune mechanisms into actionable recommendations for 30+ biopharmaceutical partners.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "in Brazil built the Paraná + Sustentável platform using Google Cloud AI and geospatial technologies to turn Rural Environmental Registry (CAR) data into usable information. The platform supports agricultural product certification for production and market protocols and helps local producers access financial services.",
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Virtualization Certification",
+    "url": "https://www.qnap.com/en-us/solution/rag-ai-search",
+    "pass": 3
+   },
+   {
+    "quote": "Veeam®-Certified Storage: The Ultimate On-Premises Veeam® Backup Solution",
+    "url": "https://www.qnap.com/en-us/solution/rag-ai-search",
+    "pass": 3
+   },
+   {
+    "quote": "Training & Certification",
+    "url": "https://www.dell.com/en-us/blog/dell-glean-on-premises-solution-enterprise-ai-search/",
+    "pass": 3
+   },
+   {
+    "quote": "Dell Outlet (Certified Refurbished)",
+    "url": "https://www.dell.com/en-us/blog/dell-glean-on-premises-solution-enterprise-ai-search/",
+    "pass": 3
+   },
+   {
+    "quote": "8. World's first ethernet-based NVIDIA DGX SuperPOD certified storage. Based on Dell analysis, March 2024.",
+    "url": "https://www.dell.com/en-us/blog/dell-glean-on-premises-solution-enterprise-ai-search/",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai Is Now ISO-27001 Certified - 2501.ai",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai Is Now ISO-27001 Certified",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai is now ISO-27001 certified, reinforcing our commitment to enterprise-grade AI automation for secure IT operations.",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "2501.ai has achieved ISO/IEC 27001 certification",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": ", the global standard for information security management systems (ISMS). This is a major step forward in our mission to deliver",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": ". ISO-27001 certification formalizes what our clients already expect from us:",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise readiness for SOC2, SecNumCloud, and beyond",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "What’s Covered in the Certification",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "The certification applies to our full agentic stack:",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "Built for Enterprise — Certified for Enterprise",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "SOC2, ISO, or SecNumCloud-constrained environments",
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "pass": 3
+   },
+   {
+    "quote": "Storage architectures in AI environments must also provide reliability and redundancy, ensuring that critical datasets are always available for processing. Features such as automated tiering, snapshotting, and backup become crucial for operational resilience. Efficient data pipelines and caching mechanisms further boost model iteration speed.",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   },
+   {
+    "quote": "Who builds it: Petronella Technology Group, Inc. (founded 2002, BBB A+), CMMC-RP certified and a Cyber AB Registered Provider Organization.",
+    "url": "https://petronellatech.com/ai/on-premise-ai/?srsltid=AYCX9vKFJO6n0KOdO3OUDvb-cqSwX0WOTCKGJuMz7Gdg1VInfbsGrcbc",
+    "pass": 3
+   },
+   {
+    "quote": "support with certified hardware, we build configurations that qualify for NVIDIA AI Enterprise licensing.",
+    "url": "https://petronellatech.com/ai/on-premise-ai/?srsltid=AYCX9vKFJO6n0KOdO3OUDvb-cqSwX0WOTCKGJuMz7Gdg1VInfbsGrcbc",
+    "pass": 3
+   },
+   {
+    "quote": "Federal, state, and local government agencies need AI systems that meet FedRAMP, FISMA, or state-specific security requirements. On-premise AI gives agencies complete control over citizen data, case information, and internal operations. Petronella works with government IT teams to deploy AI systems within existing security boundaries and accreditation frameworks.",
+    "url": "https://petronellatech.com/ai/on-premise-ai/?srsltid=AYCX9vKFJO6n0KOdO3OUDvb-cqSwX0WOTCKGJuMz7Gdg1VInfbsGrcbc",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "Confidential Mode attestation, ZDR for supported workloads, SOC 2 Type I",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "How Fluso Supports Your Enterprise",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Fluso also supports MCP, allowing AI agents to work across connected tools and carry out multi-step tasks within your existing workflows.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Fluso also supports",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "You can choose the LLM that fits your needs, including models run within Mindbreeze's own infrastructure, with support for OpenAI-compatible model access.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "It connects to LLMs that support OpenAI API standards and tool calling, without hosting or managing the LLM infrastructure itself, as per Squirro. Its Enhanced RAG pulls from connected sources in real time, and its Knowledge Graph add-on adds semantic structure to improve relevance.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro supports federated search across connected systems, with access control lists, a privacy layer, AI guardrails, and audit trails built in.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Dust connects to 70+ tools, including Slack, Notion, Google Drive, GitHub, Salesforce, and Zendesk. It holds SOC 2 Type II certification, supports SSO and SCIM, and states that your data is never used to train its models.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "With IntraFind, you get 80+ connectors, support for 600+ file formats, and rights- and role-based search profiles to control who sees what.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "According to Glean, you can choose your own underlying LLM through its Model Hub, which supports both commercial and open models.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Glean says it supports 275+ applications, with permissions-aware retrieval that updates in real time as access changes.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, some enterprise search platforms support on-premises deployment. You can also find private cloud, hybrid, managed cloud, and air-gapped options. The right deployment depends on where you need your data processed, the controls your organization requires, and any regulatory requirements that apply to your workloads.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Your choice of LLM can affect your search costs, response quality, performance, and future AI strategy. When your platform supports multiple models, you have more flexibility to change models as your requirements, pricing, and available capabilities evolve.",
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Build deeper customer relationships by enabling Gemini-powered customer support agents, chatbots via natural language, and employee assistants.",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SUPPORT",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Technical Support",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Below $1,000 per month, the convenience and zero-maintenance nature of cloud AI tools usually outweighs the capital investment. Between $1,000 and $2,000, it is a closer call that depends on your specific use cases and data sensitivity requirements.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Customer service models trained on your FAQ and support history",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Every system ships with a 3-year parts warranty and lifetime US-based engineer support. When you need help configuring a new model, setting up a RAG pipeline, or integrating your CRM data into a fine-tuned model, you reach a VRLA Tech engineer — not a support ticket queue.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI workstations for small business. 3-year warranty. Lifetime US support.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "VRLA Tech has been building custom AI workstations and servers since 2016. All systems ship with a 3-year parts warranty and lifetime US-based engineer support.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Gaming PC Maintenance Plan",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0870874",
+    "url": "https://www.servicenow.com/community/sysadmin-forum/ai-search-available-on-premises/m-p/2670081",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped deployment support",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Full RAG pipeline support, embeddings, retrieval, and generation, entirely on-premises.",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Support",
+    "url": "https://go.ai/technology/on-prem-llm",
+    "pass": 3
+   },
+   {
+    "quote": "SUPPORT",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Technical Support",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Below $1,000 per month, the convenience and zero-maintenance nature of cloud AI tools usually outweighs the capital investment. Between $1,000 and $2,000, it is a closer call that depends on your specific use cases and data sensitivity requirements.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Customer service models trained on your FAQ and support history",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Every system ships with a 3-year parts warranty and lifetime US-based engineer support. When you need help configuring a new model, setting up a RAG pipeline, or integrating your CRM data into a fine-tuned model, you reach a VRLA Tech engineer — not a support ticket queue.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI workstations for small business. 3-year warranty. Lifetime US support.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "VRLA Tech has been building custom AI workstations and servers since 2016. All systems ship with a 3-year parts warranty and lifetime US-based engineer support.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Gaming PC Maintenance Plan",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Support for Leading LLMs:",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Patient Interaction & support",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customer support",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive maintenance",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "What types of documents and data sources does AIcurate support?",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "What kind of support is available after deployment?",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "We offer comprehensive post-deployment support, including Tier 1, 2, and 3 assistance.",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Support options include remote diagnostics, performance tuning, model updates, and training for internal teams.",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty & Support",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Support Ticket",
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customer-support deflection",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support and CRM",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support & CRM",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Production-ready with full enterprise support",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing Maintenance:",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "On premise platforms support complex setups where some compute must remain local, even as the broader system interacts with the cloud.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Support for Diverse Models:",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "TrueFoundry provides a tightly integrated set of core modules that allow enterprises to build scalable, secure, and fully observable on premise AI platforms. These modules are designed to support the full model lifecycle—from inference to fine-tuning—while offering the flexibility and control that organizations demand.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "acts as the centralized control layer for managing all inference traffic across models and APIs deployed in your private infrastructure. It supports advanced governance and cost control mechanisms, making it the operational heart of your AI stack.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Support for open-source and private models",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "is fully supported through secure, on premise pipelines that enable teams to train models on sensitive or proprietary data.",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$300 in free credit to try Google Cloud AI and ML",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Build and test your proof of concept with $300 in free credit for new customers. Plus, all customers get free monthly usage of 20+ products, including AI APIs.",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The financial trigger: $2,000+ per month in AI costs",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "If your business spends $2,000 or more per month across AI API costs and subscriptions, the economics of on-premise hardware become compelling. A VRLA Tech AI workstation in the $10,000–$20,000 range replaces $24,000–$60,000 in annual API spending over a 3-year hardware lifecycle. The break-even is typically 4–8 months.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Below $1,000 per month, the convenience and zero-maintenance nature of cloud AI tools usually outweighs the capital investment. Between $1,000 and $2,000, it is a closer call that depends on your specific use cases and data sensitivity requirements.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000–$3,000/mo",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "$3,000–$8,000/mo",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "$8,000–$15,000/mo",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "Save $100 off your pass for KMWorld 2026!",
+    "url": "https://www.kmworld.com/WhitePapers/KMWhitePaper/7929-The-Blueprint-for-Replacing-Google-Search-Appliance-On-Premise-vs.-The-Cloud.htm",
+    "pass": 3
+   },
+   {
+    "quote": "The financial trigger: $2,000+ per month in AI costs",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "If your business spends $2,000 or more per month across AI API costs and subscriptions, the economics of on-premise hardware become compelling. A VRLA Tech AI workstation in the $10,000–$20,000 range replaces $24,000–$60,000 in annual API spending over a 3-year hardware lifecycle. The break-even is typically 4–8 months.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Below $1,000 per month, the convenience and zero-maintenance nature of cloud AI tools usually outweighs the capital investment. Between $1,000 and $2,000, it is a closer call that depends on your specific use cases and data sensitivity requirements.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000–$3,000/mo",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "$3,000–$8,000/mo",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "$8,000–$15,000/mo",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "($60/user × 10K)",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "$600,000",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "($40/user × 10K)",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "$400,000",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "($30/user × 10K)",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "$300,000",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "~$5,000–15,000",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "from $15K",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "$25K – $80K",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Alternatives: 7 Options Compared on Licence, Price and Limits",
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "pass": 3
+   },
+   {
+    "quote": "$25,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€75,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€25,000 / year",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "European market rates. GB300 starts at €150,000 per year and is confirmed by quote depending on configuration.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "from $150,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We moved our AI workloads off the cloud and cut costs by 88%. Here's when enterprises should do the same.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "$650M Case",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Full Pro access · $0 today · no card required",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$1.15 / day",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$0.64 / day over 3 yrs",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$2,060 cloud 3-yr cost¹",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$1.37 / day over 3 yrs",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$1,499",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "No charge for 7 days. After your trial, $35/month. Cancel in one click before day 7.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "benchmarked at a 78x aggregate accuracy improvement on enterprise data. Pricing is $35/month after a 7-day free trial, or $697 once for a perpetual license.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$697 once vs. $2,060+",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "¹ Forrester: $2,060+ loaded 3-year cost per cloud Copilot seat vs $697 once · ² AirgapAI enterprise deployment data vs 20–30% industry-typical adoption",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$697 once vs $2,060+ loaded 3-year cloud Copilot cost (Forrester).",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$697 once vs $2,060+ loaded cost per cloud Copilot seat over 3 years. Deploy to 100% of staff for less than cloud covers 30%.",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "$300 分の無料クレジットと 20 種類以上の無料プロダクト",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony has raised $2 million in seed funding led by True Ventures. For more information, visit the",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gartner's 2026 Magic Quadrant for Enterprise Storage Platforms reflects a broad infrastructure shift driven by hypervisor changes, cloud-style consumption economics, surging hardware costs, and AI.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "8 Ways to Cut IT Costs and Improve ROI",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Go.AI Raises $85M—Its Growth Proof Is Still Company-Reported",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Chicago upstart raises $85M amid surge of AI interest from customers, investors",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Go.AI Raises $85 Million Series A Led By Updata Partners, Bringing Total Funding To $90 Million",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Chicago startup Go.AI raises $85M, plans to expand downtown headquarters",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "The Chicago Business Journal covered the $85M Series A as hometown business news, leading on the raise and Go.AI's plan to expand its downtown headquarters. Staff reporter Alex Zorn frames the company around helping banks, credit unions, and healthcare organizations deploy AI inside their existing systems. The full article sits behind the Business Journal's subscriber paywall.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises AI Infrastructure Raises $85m as Banks Keep Data In-House",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Go.AI Raises $85M Series A to Expand AI Infrastructure for Regulated Industries",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "citybiz wrote up the Updata Partners-led round with its own reporting on the lead investor, covering Updata's $3B in committed capital, the $20M to $200M range it typically writes at growth stage, and its recent portfolio additions, alongside Go.AI's 200+ customers and the 12.5 million queries a day its deployments handle.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Illinois-Based Go.AI Raises $85M in Series A Funding",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "StartupRise picked up the Series A for its startup funding feed, listing the Updata Partners-led round, the GFT Ventures and LAUNCH participation, and the $90M raised to date. This is a republished summary of the announcement rather than independent reporting.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "WSJ Pro's daily venture capital newsletter listed Go.AI in its 'New Money' funding roundup: 'Go.AI, a Chicago-based AI infrastructure platform built for regulated industries, secured $85 million in Series A funding led by Updata Partners.' The newsletter's lead story, which gives the email its headline, is unrelated to Go.AI. WSJ Pro is subscriber-only.",
+    "url": "https://go.ai/company/newsroom",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "On-Premise AI for Small Business in 2026 - VRLA Tech — On-Premise AI for Small Business in 2026 - VRLA Tech VRLA Tech https://vrlatech.com > on-premise-ai-f...",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI for Small Business in 2026 - VRLA Tech — On-Premise AI for Small Business in 2026 - VRLA Tech VRLA Tech https://vrlatech.com > on-premise-ai-f...",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "pass": 3
+   },
+   {
+    "quote": "Air - Gapped AI Assistant — 100% Local, Offline | AirgapAI — Air - Gapped AI Assistant — 100% Local, Offline | AirgapAI Iternal AI https://iternal.ai > airgapai",
+    "url": "https://iternal.ai/airgapai",
+    "pass": 3
+   },
+   {
+    "quote": "Go. AI lands $85M Series A for on-prem AI in regulated industries — Go. AI lands $85M Series A for on-prem AI in regulated industries Dealroom https://dealroom.co > news > 155402-...",
+    "url": "https://dealroom.co/news/155402-go-ai-lands-85m-series-a-for-on-prem-ai-in-regulated-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem AI : 3 Key Components, Use Cases & Best Practices — On-Prem AI : 3 Key Components, Use Cases & Best Practices Cloudian https://cloudian.com > ai-infrastructure",
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.servicenow.com/community/sysadmin-forum/ai-search-available-on-premises/m-p/2670081",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/on-prem-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kmworld.com/WhitePapers/KMWhitePaper/7929-The-Blueprint-for-Replacing-Google-Search-Appliance-On-Premise-vs.-The-Cloud.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lannerinc.com/news-and-events/latest-news/power-gen-ai-on-premises-edge-ai-systems-for-secure-and-local-llm-inference",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/airgapai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/news/155402-go-ai-lands-85m-series-a-for-on-prem-ai-in-regulated-industries/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/company/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atolio.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resourcifi.com/for-agencies/white-label-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promptowl.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/press/glean-delivers-ai-agents-and-enterprise-search-to-on-premises-environments-in-collaboration-with-dell-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opensight.ch/ai-on-premise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ynetnews.com/tech-and-digital/article/hkf53gjxze",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imanage.com/resources/resource-center/news/ask-imanage-delivers-an-ai-powered-search-experience-with-trusted-answers-across-firm-knowledge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theintercept.com/2022/07/24/google-israel-artificial-intelligence-project-nimbus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortinet.com/products/email-security",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.qnap.com/en-us/solution/rag-ai-search",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://zanusai.com/collections/private-ai-servers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/resources/on-premise-ai-agent-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/en-us/blog/dell-glean-on-premises-solution-enterprise-ai-search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/On_(company)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.on.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://businessmail.or.jp/lp_ai-mail-3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoya.jp/howto/engineer/communication/ai-mail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koromo.io/blog/ai-agent-email-drafting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsuru_k/n/nb59221c22fa2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mailwise.cybozu.co.jp/column/169.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://debono.co.jp/media/mail-honbun-seisei-ai-jirei/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.2501.ai/news/2501-iso-27001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://petronellatech.com/ai/on-premise-ai/?srsltid=AYCX9vKFJO6n0KOdO3OUDvb-cqSwX0WOTCKGJuMz7Gdg1VInfbsGrcbc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ismscopilot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphereinc.com/solution/knowledge-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appstekcorp.com/enterprise-ai/sovereign-ai-platform/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "on-premise AI email knowledge search appliance",
+   "results": [
+    "https://www.premai.io/blog/ai-enterprise-search-platforms",
+    "https://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud",
+    "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLX0tqjINh93tmHj8MSnyMYTdj2jLAAGLx-OifzY5WU_59GCByn",
+    "https://www.servicenow.com/community/sysadmin-forum/ai-search-available-on-premises/m-p/2670081",
+    "https://go.ai/technology/on-prem-llm",
+    "https://www.kmworld.com/WhitePapers/KMWhitePaper/7929-The-Blueprint-for-Replacing-Google-Search-Appliance-On-Premise-vs.-The-Cloud.htm",
+    "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "https://www.reddit.com/r/AISEOInsider/comments/1pwv0k2/gemini_enterprise_search_googles_ai_that_finds/",
+    "https://www.sphereinc.com/solution/knowledge-ai",
+    "https://en.wikipedia.org/wiki/On_(company)"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance on-premise LLM appliance company",
+   "results": [
+    "https://www.premai.io/blog/ai-enterprise-search-platforms",
+    "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLH1nsdmmeeV_ezT39Xlvi1kopFGSUFkCHxEVBSNoKZakGzZBXy",
+    "https://www.asacomputers.com/ai-solutions.html",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://www.lannerinc.com/news-and-events/latest-news/power-gen-ai-on-premises-edge-ai-systems-for-secure-and-local-llm-inference",
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "https://www.qnap.com/en-us/solution/rag-ai-search",
+    "https://www.seekr.com/availability/private-deployments/",
+    "https://en.wikipedia.org/wiki/On_(company)"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance air-gapped AI box price",
+   "results": [
+    "https://understand.tech/product/ai-in-a-box",
+    "https://iternal.ai/airgapai",
+    "https://cloud.google.com/distributed-cloud-air-gapped",
+    "https://go.ai/technology/edge-ai-hardware",
+    "https://www.seekr.com/availability/private-deployments/",
+    "https://heypinchy.com/air-gapped-llm-hardware/",
+    "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://metoro.io/blog/on-prem-aiops-tools",
+    "https://en.wikipedia.org/wiki/On_(company)"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance startup raises on-prem AI hardware",
+   "results": [
+    "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "https://dealroom.co/news/155402-go-ai-lands-85m-series-a-for-on-prem-ai-in-regulated-industries/",
+    "https://go.ai/company/newsroom",
+    "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "https://www.atolio.com/news",
+    "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+    "https://www.cerebras.ai/",
+    "https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/",
+    "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "https://en.wikipedia.org/wiki/On_(company)"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance white label OEM reseller",
+   "results": [
+    "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "https://conversight.ai/oem-partners/",
+    "https://www.premai.io/blog/ai-enterprise-search-platforms",
+    "https://www.resourcifi.com/for-agencies/white-label-ai/",
+    "https://promptowl.ai/whitelabel/",
+    "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://irisagent.com/on-premise-ai/",
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://en.wikipedia.org/wiki/On_(company)"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance Israel",
+   "results": [
+    "https://www.premai.io/blog/ai-enterprise-search-platforms",
+    "https://www.glean.com/press/glean-delivers-ai-agents-and-enterprise-search-to-on-premises-environments-in-collaboration-with-dell-technologies",
+    "https://opensight.ch/ai-on-premise/",
+    "https://www.ynetnews.com/tech-and-digital/article/hkf53gjxze",
+    "https://imanage.com/resources/resource-center/news/ask-imanage-delivers-an-ai-powered-search-experience-with-trusted-answers-across-firm-knowledge/",
+    "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+    "https://theintercept.com/2022/07/24/google-israel-artificial-intelligence-project-nimbus/",
+    "https://www.fortinet.com/products/email-security",
+    "https://www.doi.gov/pressreleases/us-and-israel-pledge-work-together-unleash-ai-innovation-new-memorandum-understanding"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance Japan distributor",
+   "results": [
+    "https://www.premai.io/blog/ai-enterprise-search-platforms",
+    "https://www.qnap.com/en-us/solution/rag-ai-search",
+    "https://www.glean.com/press/glean-delivers-ai-agents-and-enterprise-search-to-on-premises-environments-in-collaboration-with-dell-technologies",
+    "https://www.seekr.com/availability/private-deployments/",
+    "https://www.atolio.com/news",
+    "https://zanusai.com/collections/private-ai-servers",
+    "https://vdf.ai/resources/on-premise-ai-agent-platform/",
+    "https://www.dell.com/en-us/blog/dell-glean-on-premises-solution-enterprise-ai-search/",
+    "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+    "https://en.wikipedia.org/wiki/On_(company)"
+   ]
+  },
+  {
+   "query": "メール・社内文書を読むオンプレAI",
+   "results": [
+    "https://businessmail.or.jp/lp_ai-mail-3/",
+    "https://www.kagoya.jp/howto/engineer/communication/ai-mail/",
+    "https://koromo.io/blog/ai-agent-email-drafting/",
+    "https://note.com/tsuru_k/n/nb59221c22fa2",
+    "https://www.youtube.com/watch?v=AxgUcqp9yWw",
+    "https://mailwise.cybozu.co.jp/column/169.html",
+    "https://debono.co.jp/media/mail-honbun-seisei-ai-jirei/",
+    "https://sakumaga.sakura.ad.jp/entry/2023/06/19/120000/",
+    "https://www.aidma-hd.jp/ai/ai-business-document/",
+    "https://chotdekiru.com/guides/ai-email-writing"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance ISO 27001 certified",
+   "results": [
+    "https://www.premai.io/blog/ai-enterprise-search-platforms",
+    "https://www.2501.ai/news/2501-iso-27001",
+    "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "https://petronellatech.com/ai/on-premise-ai/?srsltid=AYCX9vKFJO6n0KOdO3OUDvb-cqSwX0WOTCKGJuMz7Gdg1VInfbsGrcbc",
+    "https://www.ismscopilot.com/",
+    "https://www.sphereinc.com/solution/knowledge-ai",
+    "https://appstekcorp.com/enterprise-ai/sovereign-ai-platform/",
+    "https://www.docsie.io/solutions/on-premise-knowledge-base/",
+    "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/567569490506573",
+    "https://en.wikipedia.org/wiki/On_(company)"
+   ]
+  }
+ ],
+ "missing": {}
+}

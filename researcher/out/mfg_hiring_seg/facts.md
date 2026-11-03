@@ -5,8 +5,8 @@
 ## 従業員1〜29人の製造業（manufacturers with 1-29 employees hiring cost Japan）
 - 文脈：規模
 - 検索結果の抜粋：
-  - 「従業員1〜29人の製造業 コスト 調査 万円 の求人情報をすべて見る （2,418,674件） — 従業員1〜29人の製造業 コスト 調査 万円 の求人情報をすべて見る （2,418,674件） スタンバイ」（https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
-  - 「従業員1〜29人の製造業 中途 従業員規模別 の求人情報をすべて見る （546,643件） — 従業員1〜29人の製造業 中途 従業員規模別 の求人情報をすべて見る （546,643件） スタンバイ」（https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「従業員1〜29人の製造業 コスト 調査 万円 の求人情報をすべて見る （2,415,505件） — 従業員1〜29人の製造業 コスト 調査 万円 の求人情報をすべて見る （2,415,505件） スタンバイ」（https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「従業員1〜29人の製造業 中途 従業員規模別 の求人情報をすべて見る （546,350件） — 従業員1〜29人の製造業 中途 従業員規模別 の求人情報をすべて見る （546,350件） スタンバイ」（https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
   - 「従業員1〜29人の製造業 白書 の求人情報をすべて見る （1,334件） — 従業員1〜29人の製造業 白書 の求人情報をすべて見る （1,334件） スタンバイ」（https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
 - セグメント定義：記載なし（読んだ36頁・検索6回）
 - 採用単価：記載なし（読んだ36頁・検索6回）
@@ -37,12 +37,86 @@
 
 ## 従業員300〜999人の製造業（manufacturers with 300-999 employees hiring cost Japan）
 - 文脈：規模
-- セグメント定義：記載なし（読んだ36頁・検索6回）
-- 採用単価：記載なし（読んだ36頁・検索6回）
-- 年間採用費：記載なし（読んだ36頁・検索6回）
-- 採用経路：記載なし（読んだ36頁・検索6回）
-- 充足・欠員：記載なし（読んだ36頁・検索6回）
-- 調査主体・時期：記載なし（読んだ36頁・検索6回）
+- セグメント定義：
+  - 「雇用形態別・企業規模別・業種別の平均採用単価と最新相場」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「企業規模別｜あなたの会社の適正採用単価は？」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「業種別｜平均採用単価の相場一覧」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員数が増えるほど採用コスト総額は増加しますが、スケールメリットを活かせる大企業では一人あたりの採用単価を抑えやすい傾向があります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員50名以下の平均は119万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員50名以下の企業における年間採用費用の平均は119万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員51～300名の平均は247万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員51〜300名の企業における年間採用費用の平均は247万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員301～1,000名の平均は565万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員301〜1,000名の企業における年間採用費用の平均は565万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員1,001名以上の平均は1,462万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員1,001名以上の大企業における年間採用費用の平均は1,462万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「業種別の採用単価」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「弊社のメグサポでは、Indeed運用代行で1週間に122応募を獲得した実績や、100万円の広告予算で1,200人以上の母集団形成に成功した事例など、費用対効果の高い採用支援を提供しております」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「【2026年最新】オンラインサイトの予算はいくらが正解？規模別・目的別の費用早見表」（https://megdai.jp/markebatake/saiyou/6434/）
+- 採用単価：
+  - 「新卒採用の平均採用単価は56.8万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「11.8万円も増加」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「採用単価が高騰する3つの原因と業界ごとの具体的な違い」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「採用単価を劇的に削減する5つの実践的な方法と成功事例」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「」によると、新卒1人当たりの採用コストは約93.6万円です」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「【税理士監修】150万円の壁｜学生アルバイトは扶養のまま収入増！残課題も」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「【税理士監修】123万円の壁はいつから？2026年以降の178万円の壁も解説」（https://edenred.jp/article/hr-recruiting/296/）
+- 年間採用費：
+  - 「派遣社員採用では、紹介手数料として月給の20〜30パーセント程度が相場です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員50名以下の企業における年間採用費用の平均は119万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員51〜300名の企業における年間採用費用の平均は247万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員301〜1,000名の企業における年間採用費用の平均は565万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員1,001名以上の大企業における年間採用費用の平均は1,462万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「運輸・交通・物流・倉庫業の年間採用費用は平均1,460万円で、全業種中トップです」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「製造業の年間採用費用は平均854万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「IT・通信・インターネット業界の年間採用費用は平均695万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「流通・小売・フードサービス業の年間採用費用は平均304万円で、全業種中最も低い水準です」（https://megdai.jp/markebatake/saiyou/6434/）
+- 採用経路：
+  - 「リファラル採用のインセンティブ」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「求人広告の掲載費」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「人材紹介会社への成功報酬」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「即戦力採用が多いため新卒より単価は低いですが、専門性の高い職種では人材紹介会社を利用するため1人あたり100万円を超えることもあります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「紹介予定派遣なら、派遣期間終了後に直接雇用へ切り替えることを前提としているため、通常の人材紹介より低コストで採用できます」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「実際に50名以下の企業の60パーセント以上が年間1〜49万円で採用活動を行っており、無料求人媒体やリファラル採用を活用しています」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「専門的な技術や資格を持つ人材を求めることが多く、特に電気・電子・機械・半導体関連では人材紹介会社の活用が中心となります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「また資格や専門技術が必要な職種では母集団が限られるため、人材紹介会社への高額な成功報酬が発生します」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「無料求人媒体の活用、リファラル採用、採用サイトやSNSの活用、業務効率化、ダイレクトリクルーティングなど、すぐに実践できる手法が存在します」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「ハローワークやIndeedの無料掲載機能を利用すれば、求人広告費をかけずに応募者を集められます」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「②リファラル採用で外部コストをゼロにする」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「リファラル採用なら、求人広告費や人材紹介手数料といった外部コストがかかりません」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「紹介者へのインセンティブを設定しても、人材紹介会社の手数料と比較すれば大幅にコストを抑えられます」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「転職潜在層にもアプローチできるため、求人広告では出会えない優秀な人材を採用できる可能性があります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「成功報酬型なら採用が決まるまで費用は発生せず、定額型でも人材紹介会社より低コストで利用できるため、中長期的に見れば採用単価を抑えられます」（https://megdai.jp/markebatake/saiyou/6434/）
+- 充足・欠員：
+  - 「実は、慢性的な人手不足に陥っている業種ほど採用費用が高騰しており、業種間で最大」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「中小企業の採用戦略｜人手不足時代を乗り越える実践的アプローチ」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「人手不足が深刻化する中、企業体力で劣りがちな中小企業が採用を成功させるにはいったいどうすればよいのでしょうか」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「深刻化する日本の人手不足｜採用市場の現状を徹底分析」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「日本の労働市場は深刻な人手不足に直面しており、企業の採用活動は年々困難になっています」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「これらの業界では慢性的な人手不足が続いており、2024年4月から適用された時間外労働の上限規制（いわゆる2024年問題）の影響も相まって、採用競争が一層激化しているのが実情です」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「【中小企業の採用】人手不足の厳しい実態」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「採用活動の失敗は単なる人手不足にとどまらず、企業の存続にも関わる深刻な問題を引き起こします」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「人手不足は直接的に事業機会の損失につながります」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「人手不足倒産の動向調査（2025上半期）」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「」調査によると、2025年上半期における人手不足を原因とする倒産件数は202件と過去最多を更新しました」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「人手不足が企業存続に直結する問題となっていることがよくわかる結果となっています」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「株式会社 帝国データバンク[TDB]｜人手不足倒産の動向調査（2025年上半期）｜（2025年7月4日）」（https://edenred.jp/article/hr-recruiting/296/）
+- 調査主体・時期：
+  - 「企業規模や採用人数によって総コストは異なるため、一人あたりのコストで見ることで前年度や他社との比較が可能になります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「株式会社マイナビ「2024年卒 企業新卒内定状況調査」」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「株式会社マイナビ「中途採用状況調査2025年版（2024年実績）」」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「第42回 ワークス大卒求人倍率調査（2026年卒）」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「リクルートワークス研究所｜大卒求人倍率調査（2026年卒）｜調査」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「厚生労働省の「令和6年賃金構造基本統計調査」によると、令和6年の企業規模別平均賃金は、次のようになっています」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「厚生労働省｜令和6年賃金構造基本統計調査 結果の概況」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「人手不足倒産の動向調査（2025上半期）」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「」調査によると、2025年上半期における人手不足を原因とする倒産件数は202件と過去最多を更新しました」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「株式会社 帝国データバンク[TDB]｜人手不足倒産の動向調査（2025年上半期）｜（2025年7月4日）」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「就職白書2020」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「就職みらい研究所｜就職白書2020」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「その点、SNS採用は特に若手人材にリーチしやすく、低コストで実施できる有効な手段です」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「「賃上げ実態調査2025」を公開～歴史的賃上げだった2024年も“家計負担が軽減していない”は7割以上！」（https://edenred.jp/article/hr-recruiting/296/）
+  - 「中途採用実態調査」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
 
 ## 従業員1000人以上の製造業（manufacturers with 1000+ employees hiring cost Japan）
 - 文脈：規模
@@ -55,84 +129,980 @@
 
 ## 製造オペレーター・技能工の中途採用（factory operator skilled worker mid-career hiring cost Japan）
 - 文脈：職種
-- セグメント定義：記載なし（読んだ36頁・検索6回）
-- 採用単価：記載なし（読んだ36頁・検索6回）
-- 年間採用費：記載なし（読んだ36頁・検索6回）
-- 採用経路：記載なし（読んだ36頁・検索6回）
-- 充足・欠員：記載なし（読んだ36頁・検索6回）
-- 調査主体・時期：記載なし（読んだ36頁・検索6回）
+- セグメント定義：
+  - 「一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法 | 採用スマートナビ | 採用戦略・手法・課題解決のノウハウ」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種別の採用コスト傾向と見直しの視点が分かります」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種別の傾向を把握することで、自社の採用コストを見直すきっかけになります」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種別・雇用形態別の採用単価の相場目安」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種別採用者一人当たりの求人広告費（職種別の採用コスト、採用単価）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種別採用単価（営業／企画・経営／管理・事務）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種別採用単価（販売・フード・アミューズメント／美容・ブライダル・ホテル・交通／医療・福祉）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種別採用単価（保育・教育・通訳／クリエイティブ／WEB・インターネット・ゲーム）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種別採用単価（コンサルタント・金融・不動産専門職／公共サービス／ITエンジニア）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種別採用単価（電気・電子・機械・半導体／建築・土木／医薬・食品・化学・素材／技能工・設備・配送・農林水産）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「従業員数別中途採用予算と中予採用実績」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「一人当たりの採用コスト（採用単価）職種別一覧！採用予算やコスト削減方法も解説まとめ」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「かつ、直近1年間の内定者のうち、実際に採用した数1人以上 ※不良回答を除いて集計】」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「労働生産性（従業員一人当たりの付加価値額）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+- 採用単価：
+  - 「一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法 | 採用スマートナビ | 採用戦略・手法・課題解決のノウハウ」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「採用単価を下げる3つの実践アプローチ」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「中途採用コストの平均単価や相場、費用【2026年最新版】削減ポイントを解説」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「1．採用コストの相場」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2．そもそも採用コストとは？」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「3．採用コスト削減のポイント」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「採用単価に関係してくるコストには「外部コスト」と「内部コスト」の大きく2種類があります」（https://enterprise.goworkship.com/lp/recruit/recruit-cost-how）
+  - 「503.7万円」（https://enterprise.goworkship.com/lp/recruit/recruit-cost-how）
+  - 「400.3万円」（https://enterprise.goworkship.com/lp/recruit/recruit-cost-how）
+  - 「155.5万円」（https://enterprise.goworkship.com/lp/recruit/recruit-cost-how）
+  - 「142.1万円」（https://enterprise.goworkship.com/lp/recruit/recruit-cost-how）
+  - 「226.6万円」（https://enterprise.goworkship.com/lp/recruit/recruit-cost-how）
+  - 「月給25万円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「日給1.1万円〜1.3万円 / 交通費支給」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E6%8A%80%E8%83%BD%E5%B7%A5%E3%81%AE%E4%B8%AD%E9%80%94+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 年間採用費：
+  - 「【ベース：2023年の求人広告に広告費をかけた職種がある」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「採用者一人当たりの求人広告費は平均約20万円～30万円台で推移」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「：知名度やスケールメリットが広告費・年間総予算（最大1,470万円）に与える影響」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「コロナ禍以降の採用急回復期（2024年頃まで）の一時的な広告費高騰が落ち着きを見せたこと、またタイミーなどの「スポットバイト（スキマバイト）」アプリの普及、SNSや無料求人媒体を活用した効率的な採用手法（採用オウンドメディアなど）へのシフトが進んだことが要因と考えられます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「企業の規模によって1人あたりにかける求人広告費に差が生じています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「転職サイトの長期掲載プランや複数名採用枠などを活用することで、広告のボリュームディスカウントが利きやすくなり、1人あたりの求人広告費を27.1万円と最も低く抑えられている」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「1,001人以上の大企業においては、1人あたりの求人広告費の基準が大きく跳ね上がります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「これらの数値を単純計算すると、中途の採用コストの総額は、2,200万円ほどとなるでしょう」（https://enterprise.goworkship.com/lp/recruit/recruit-cost-how）
+  - 「【2025年最新】技能実習生を受け入れると総額費用はどれくらい？内訳ごとに徹底解説」（https://willof-work.co.jp/journal/15224/）
+- 採用経路：
+  - 「求人広告・求人媒体」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「求人広告相談」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「Indeed PLUS運用代行」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「求人ボックス運用代行」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「ドライバー人材紹介」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「ドライバー人材紹介 BE DRIVER」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「Indeed・Indeed PLUS」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「マザーズ上場のWEB広告代理店でWEBマーケティング、求人広告、人材紹介の立ち上げを経て、東証一部上場企業子会社の執行役員として活躍」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「その後、大手求人広告代理店でNo1セールスから取締役を経験し、2013年にbサーチを創業」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種別採用者一人当たりの求人広告費（職種別の採用コスト、採用単価）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「【求人広告】の採用予算と実績」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「リファラル採用を行う（採用コスト削減）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「職種ごとに、採用者一人当たりの求人広告費（転職サイト、折込求人紙、新聞の求人欄、フリーペーパーなど）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「【ベース：2023年の求人広告に広告費をかけた職種がある」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「求人広告を利用した際の一人当たりの採用コスト（採用単価）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+- 充足・欠員：
+  - 「保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「特に介護や運送業、製造業では慢性的な人手不足の問題を抱えており、今後さらに問題は深刻化していくと予想されています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「国内の製造業の国内回帰や、建設ラッシュに伴う慢性的な人手不足が影響しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「計画通りに採用が進まなかった（採用未充足）ケースや、無料のハローワーク、安価な求人媒体、リファラル採用（社員紹介）などをうまく組み合わせてコストを抑えられた企業が多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「定期的に使用している場合、「何十万円も費用をかけているにもかかわらず、一人しか採用できなかった」「一人も応募が来なかった」などの声もあります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「採用工数や人手不足が一気に解消され、コア業務に集中できるメリットがあります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「近年、景気拡大に伴って企業の人手不足は深刻化し、 その影響は経営体力に乏しい中小企業に」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「以上のような背景のもと、本研究では、 公開資料・統計を用いて、 我が国全体の人手不足及び」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「中小製造業の人手不足の実態について概観するとともに、 政府の政策的トレンド、中小製造業が」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「第 1 章 我が国の人手不足の行方と中小製造業の現状 .................................................................... 5」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「1．今後の人手不足の行方 .............................................................................................................. 5」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「2．中小製造業の人手不足の実態 ................................................................................................ 12」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「第 2 章 中小企業の人手不足に対する政府の認識・関連施策 ...................................................... 17」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「こうした人手不足の状況は、労働力人口の減少に伴って、今後も持続することが見込まれ、」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「るポイントを明らかにし、 今後もますます深刻化することが見込まれる人手不足に対応す」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+- 調査主体・時期：
+  - 「一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法 | 採用スマートナビ | 採用戦略・手法・課題解決のノウハウ」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「※本記事の相場は調査時期・出典により幅があります」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「労働市場や他社の求人情報を調査する（応募率改善）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「かつ、直近1年間の内定者のうち、実際に採用した数1人以上 ※不良回答を除いて集計】」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「中途採用状況調査2024年版（2023年実績）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「中途採用状況調査2025年版（2024年実績）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「中途採用状況調査2026年版（2025年実績）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「2023年度は、コロナを経て採用を停止していた企業も採用活動を再開しています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「しかし、2022年度と比較すると2023年度の一人当たりの採用コスト（採用単価）は減少しました」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「各職種や業界の景気の戻り速度に応じて2024年度は増加しています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「2021年度の販売・フード・アミューズメントの一人当たりの採用コスト（採用単価）は、コロナの影響によりおそらくほぼ採用する必要性がない状態であったため、非常に低くなっています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「2022年度以降は、少子高齢化や労働力不足・景気回復も見込まれるため、一人当たりの採用コストは徐々に増加していくと想定されましたが、2023年度は前年より減少しています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「クリエイティブ／WEB・インターネット・ゲームでは、2022年度の一人当たり採用コスト（採用単価）は増加しています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
 
 ## 設計・生産技術エンジニアの中途採用（design production engineer mid-career hiring cost Japan）
 - 文脈：職種
-- セグメント定義：記載なし（読んだ36頁・検索6回）
-- 採用単価：記載なし（読んだ36頁・検索6回）
+- セグメント定義：
+  - 「職種別マーケットレポート」（https://www.saiyo-doda.jp/report/19214）
+  - 「ITエンジニア 職種別マーケットレポート」（https://www.saiyo-doda.jp/report/19214）
+  - 「管理部門 職種別マーケットレポート」（https://www.saiyo-doda.jp/report/19214）
+  - 「企画・マーケティング部門 職種別マーケットレポート」（https://www.saiyo-doda.jp/report/19214）
+  - 「モノづくりエンジニア 職種別マーケットレポート」（https://www.saiyo-doda.jp/report/19214）
+  - 「こうした環境変化の中で見過ごされがちなのが、在職する従業員の「働きがい」とキャリア形成の問題だ」（https://corp.skillnote.jp/news/260403-2/）
+  - 「キャリアパスが不透明なまま日々の業務をこなす従業員は、成長の手応えを感じられず、将来への不安を抱えやすい」（https://corp.skillnote.jp/news/260403-2/）
+  - 「キャリア制度や教育体系が整っていない、あるいは整っていても従業員に機能していないとすれば、それは福利厚生の問題ではなく、現場の成果と人材定着を直接左右する経営課題である」（https://corp.skillnote.jp/news/260403-2/）
+  - 「本調査は、製造業の技能職・技術職に従事する従業員の視点から、働きがいとキャリア形成の実態を定量的に可視化することを目的としています」（https://corp.skillnote.jp/news/260403-2/）
+  - 「スキルマネジメント研究所では、「支援の有無」が従業員の成長実感・定着意向にどう影響するかを明らかにすることで、企業・管理職が今取り組むべきキャリア開発支援の在り方を示しています」（https://corp.skillnote.jp/news/260403-2/）
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）」（https://nextengineer.com/blog/know-how001/）
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較」（https://nextengineer.com/blog/know-how001/）
+  - 「本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します」（https://nextengineer.com/blog/know-how001/）
+  - 「あわせて、機械設計、電気・電子設計、品質保証・品質管理、CADオペレーターなどの職種別に、需要の背景や転職市場で評価されやすいスキルも解説します」（https://nextengineer.com/blog/know-how001/）
+  - 「【職種別】機械・電気系エンジニアの有効求人倍率・人手不足マップ」（https://nextengineer.com/blog/know-how001/）
+- 採用単価：
+  - 「資本金：9億2,476万円（資本準備金を含む）」（https://corp.skillnote.jp/news/260403-2/）
+  - 「では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です」（https://nextengineer.com/blog/know-how001/）
+  - 「月給30万円以上の求人を見てみる」（https://nextengineer.com/blog/know-how001/）
+  - 「月給30万円以上」（https://nextengineer.com/blog/know-how001/）
+  - 「年収400万円〜900万円 / 昇給あり」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「ハウスメーカーの総務人事／リーダー／岡山／健康経営優良法人企業／年収500万円以上」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収500万円〜849万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] 【必須】 普通自動車免許 総務人事のご経験をお持ちの方 マイカー通勤が可能な方 【募集年齢（年齢制限理由）】 45歳くらいまで（ 特定年齢層の特定職種の労働者が相当程度少ないため ） 【職種名】 ハウスメーカーの総務人事（リーダー／岡山）★健康経営優良法人企業／年収500万円以上★ 【仕事内容】 転勤なし／年間休日110日／平日休み／経験者募集／年収500万円以上／正社員 岡山市南区の総務人事のお仕事です 総務人事業務に従事していただきます」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給23万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「「経理」／月給35万円スタート／完全週休2日／有給消化率100%」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給35万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「WITHDOM Chiba株式会社 【経理】◆月給35万円スタート／完全週休2日／有給消化率100% ※応募に当たっては、マイナビ転職の会員登録が必須となっております」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「未来デザイン／事業企画／新領域探索／年収500万円／1500万円」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収500万円〜1,549万円」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「経理担当／年収520～650万円／正社員を見据えた採用です！」（https://jp.stanby.com/search?q=%E8%A8%AD%E8%A8%88%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%AD%E9%80%94+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 採用経路：
+  - 「doda人材紹介サービス」（https://www.saiyo-doda.jp/report/19214）
+  - 「加えて、採用難易度が極めて高い職種であることを踏まえ、母集団形成に向けて、ダイレクトスカウトやリファラル採用、技術コミュニティへの参画など、採用チャネルの多様化・拡充を図ることが重要なポイントとなる」（https://www.saiyo-doda.jp/report/19214）
+  - 「具体的には、人材紹介サービス、求人広告、ダイレクト・ソーシング、オンラインイベントなど、さまざまな手段を駆使してアプローチの範囲を広げる必要があるだろう」（https://www.saiyo-doda.jp/report/19214）
+  - 「登録者の最終学歴の内訳と見ると、大学院卒・大学卒が48％、高等学校卒が35％を占めている」（https://www.saiyo-doda.jp/report/19214）
+  - 「他のものづくりエンジニア職種と比較すると、高等学校卒の割合が多いことが特徴である」（https://www.saiyo-doda.jp/report/19214）
+  - 「doda人材紹介サービスの詳細を見る」（https://www.saiyo-doda.jp/report/19214）
+  - 「登録者の最終学歴の内訳と見ると、大学院卒6％、大学卒35％、高等学校卒32％、専修・各種学校14％を占めている」（https://www.saiyo-doda.jp/report/19214）
+  - 「他のものづくり業界の職種と比較すると、大学院卒・大学卒よりも、高等学校卒や専修・各種学校卒の登録者が多いことが特徴である」（https://www.saiyo-doda.jp/report/19214）
+  - 「母集団の最大化を狙うならdoda求人広告がおすすめ」（https://www.saiyo-doda.jp/report/19214）
+  - 「doda人材紹介サービスなら、採用のプロが採用成功にむけてアドバイスします」（https://www.saiyo-doda.jp/report/19214）
+  - 「一方で高等学校卒も29％と高い割合を占めており、専門性の高い学歴層と、現場経験を重視する高卒層が混在する構成が特徴である」（https://www.saiyo-doda.jp/report/19214）
+  - 「加えて、高専・専修学校といった実務志向の学歴層も一定数存在しており、即戦力となる人材と将来的な管理・技術職候補といった二層構造が見られる」（https://www.saiyo-doda.jp/report/19214）
+  - 「doda人材紹介」（https://www.saiyo-doda.jp/report/19214）
+  - 「人材紹介サービス」（https://www.saiyo-doda.jp/report/19214）
+  - 「dodaエージェントサービスはdoda人材紹介サービスの」（https://www.saiyo-doda.jp/report/19214）
+- 充足・欠員：
+  - 「また、慢性的な技術者不足を背景に、欠員補充に関するニーズも継続的に発生している」（https://www.saiyo-doda.jp/report/19214）
+  - 「一方で、採用内容としては欠員補充や組織体制強化を目的としたピンポイントでの採用が中心となる傾向が見られる」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景として、当該期間は年度末から年度初めに該当し、3月末での工期終了や組織改編に伴う欠員補充に加え、4月以降に開始する新規案件に向けた人員確保の動きが影響していると考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）」（https://nextengineer.com/blog/know-how001/）
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系エンジニアは、全職業平均と比べて有効求人倍率が高い傾向にあります」（https://nextengineer.com/blog/know-how001/）
+  - 「特に、設備保全エンジニアや組込みエンジニア、生産技術エンジニアは求人需要が高く、人手不足が目立つ職種です」（https://nextengineer.com/blog/know-how001/）
+  - 「本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系エンジニアの有効求人倍率は全職業平均を上回る職種が多い」（https://nextengineer.com/blog/know-how001/）
+  - 「人手不足の職種ほど経験やスキルの市場価値を整理しやすい」（https://nextengineer.com/blog/know-how001/）
+  - 「【職種別】機械・電気系エンジニアの有効求人倍率・人手不足マップ」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系職種の人手不足ランキングTOP8」（https://nextengineer.com/blog/know-how001/）
+  - 「人手不足の機械・電気系職種が安定して働きやすい理由」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系職種の有効求人倍率に関するよくある質問」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系職種で特に人手不足の職種はどれですか？」（https://nextengineer.com/blog/know-how001/）
+- 調査主体・時期：
+  - 「増加の背景として、年度末・年度初め付近のタイミングで、新たなキャリアを模索する方が一定数いたことが影響していると考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景としては、新年度に向けた開発案件の立ち上げや、期初予算の確定に伴う採用活動の再開、ならびに設備投資や自動化・半導体関連分野を中心とした需要の拡大が影響していると考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景としては、年度初めの社内異動や評価結果を受け、社内における自身の立ち位置や今後のキャリア見通しが明確化することにより、転職を意思決定する層が一定数発生していることが要因と考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景としては、年度初めに新たな採用計画を開始する企業が多いことから、当該期間において求人数が伸長したものと考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景としては、特に4月における求人数の伸長が顕著であったことから、年度初めに新たな採用計画を開始した企業による募集開始が主な要因と考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「一方で、各社が採用に苦戦している職種であるため、充足クローズに至らず年度をまたいで継続掲載となっている求人も多く見受けられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「応募意思不問のカジュアル面談を実施し、自社の業務説明をメインとした場を設け、転職希望者の意向を高めている企業も目立つ」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景としては、年度初めにおいて大手企業を中心に新たな採用計画を開始する動きが見られることから、求人数の増加につながっているものと考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景としては、業績悪化に伴う人員整理や工場閉鎖を実施した企業の影響に加え、年度初めの社内異動や評価結果を受けて転職を意思決定する層が一定数発生していることが要因と考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景としては、年度末から年度初めにかけての時期において、現職での評価確定や組織変更の内容を踏まえたキャリア見直しの動きが活発化していることや、4月入社を見据えた転職活動のピークと重なっていることが、登録数増加の要因と考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景として、年度初めに新たな採用計画を開始する企業が多く、4月に求人を開始する動きに加え、それに先行して2～3月より募集を開始する企業が増加していることが要因と考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「また、ベースアップを実施する企業も多く、採用競争の激化を背景に待遇条件の見直しや改善を図る動きも見受けられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景として、建築士試験の合格をきっかけに転職を決意された方や、年度の変わり目で転職を目指す方が一定数発生したことが影響していると考える」（https://www.saiyo-doda.jp/report/19214）
+  - 「増加の背景として、当該期間は年度末から年度初めに該当し、3月末での工期終了や組織改編に伴う欠員補充に加え、4月以降に開始する新規案件に向けた人員確保の動きが影響していると考えられる」（https://www.saiyo-doda.jp/report/19214）
+  - 「微減の背景として考えられるのは、年末に向けた採用・工程調整の影響で前3カ月に登録が一時的に増加していた反動に加え、年度末から年度初めにかけての社内異動やプロジェクトの区切りにより転職判断が一巡したこと、さらに冬季の現場繁忙期の収束に伴い応募行動が分散したことなどが要因として考えられる」（https://www.saiyo-doda.jp/report/19214）
 - 年間採用費：記載なし（読んだ36頁・検索6回）
-- 採用経路：記載なし（読んだ36頁・検索6回）
-- 充足・欠員：記載なし（読んだ36頁・検索6回）
-- 調査主体・時期：記載なし（読んだ36頁・検索6回）
 
-## 高卒採用（製造業）
-- 文脈：
-- エラー：AttributeError: 'int' object has no attribute 'lower'
+## 高卒採用（製造業）（high school graduate hiring manufacturing Japan）
+- 文脈：職種
+- セグメント定義：
+  - 「採用コストとは、企業が従業員を採用するためにかかる費用の総額を指します」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「業界・規模別の採用単価の違い」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「規模別の採用単価の相場」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「企業規模別の採用単価の相場は、下記の通りです」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「1001人以上」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「従業員が信頼できる人材を紹介してくれるため、ミスマッチが少なく、採用コストも抑えられるというメリットがあります」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「リファラル採用を積極的に活用することで、採用コストの削減だけでなく、優秀な人材の確保、従業員エンゲージメントの向上などの効果も期待できます」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「【2027年】有効求人倍率の期間を最新の厚生労働省データから分析！業界別、都道府県別も解説」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「3. 企業規模別コストシミュレーション」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「企業規模別の大卒採用コスト（年間）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「3-1. 小規模企業（従業員50名未満・採用2-3名）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「3-2. 中規模企業（従業員50-300名・採用5-10名）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「3-3. 大規模企業（従業員300名以上・採用10-20名）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「業種別・雇用形態別・企業規模別の採用コスト相場」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「また、「就職白書2019」では、業種別の新卒採用単価が以下のように報告されています」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+- 採用単価：
+  - 「1.採用コストとは？」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「2. 新卒採用の採用単価の相場」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「3. 採用単価（新卒）が高騰する理由」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「4. 採用単価を下げる効果的な採用戦略」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「高卒採用コスト完全分析 | 大卒採用と50-80%削減・投資回収期間・ROI計算 | ゆめスタ」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1. 高卒採用の採用コスト構造」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1-1. 直接採用コスト」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「48-72万円/年」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「5-20万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「2-10万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「56-107万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1人あたりの採用コスト:」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「複数名採用の場合、求人媒体費は1人あたりに分散されるため、」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1人あたり20-50万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「年間50-100万円（専任の場合）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+- 年間採用費：
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「：知名度やスケールメリットが広告費・年間総予算（最大1,470万円）に与える影響」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「コロナ禍以降の採用急回復期（2024年頃まで）の一時的な広告費高騰が落ち着きを見せたこと、またタイミーなどの「スポットバイト（スキマバイト）」アプリの普及、SNSや無料求人媒体を活用した効率的な採用手法（採用オウンドメディアなど）へのシフトが進んだことが要因と考えられます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「企業の規模によって1人あたりにかける求人広告費に差が生じています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「転職サイトの長期掲載プランや複数名採用枠などを活用することで、広告のボリュームディスカウントが利きやすくなり、1人あたりの求人広告費を27.1万円と最も低く抑えられている」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「1,001人以上の大企業においては、1人あたりの求人広告費の基準が大きく跳ね上がります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「派遣社員採用では、紹介手数料として月給の20〜30パーセント程度が相場です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員50名以下の企業における年間採用費用の平均は119万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員51〜300名の企業における年間採用費用の平均は247万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員301〜1,000名の企業における年間採用費用の平均は565万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員1,001名以上の大企業における年間採用費用の平均は1,462万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「運輸・交通・物流・倉庫業の年間採用費用は平均1,460万円で、全業種中トップです」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「製造業の年間採用費用は平均854万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「IT・通信・インターネット業界の年間採用費用は平均695万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+- 採用経路：
+  - 「【2027年卒 高校生採用】 スケジュールとルール ハローワークにいつから申し込む？」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「求人サイトへの掲載費用、自社ホームページへの掲載費用、求人広告の作成費用など」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「人材紹介会社への手数料」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「人材紹介会社を通じて採用した場合に発生する費用」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「人材紹介会社」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「リファラル採用の推進」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「リファラル採用とは、社員や関係者から人材を紹介してもらう採用方法です」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「リファラル採用を成功させるためには、以下のような取り組みが重要です」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「リファラル採用を積極的に活用することで、採用コストの削減だけでなく、優秀な人材の確保、従業員エンゲージメントの向上などの効果も期待できます」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「採用コストを抑えるためには、闇雲に採用活動を行うのではなく、採用ターゲットを明確化し、自社の魅力を効果的に伝える採用ブランディングや、インターンシップ、採用媒体の選定、リファラル採用など、応募者との接点を増やす母集団形成が重要になります」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「7月求人解禁！学校訪問におけるコツとポイント【採用担当者必見！】」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「学校訪問費: 5万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「学校訪問費: 15万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「学校訪問費: 30万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「学校との継続的関係構築」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+- 充足・欠員：
+  - 「【2027年】有効求人倍率の期間を最新の厚生労働省データから分析！業界別、都道府県別も解説」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「つまり、中小企業の採用課題は「人手不足」よりも、「採用に必要な時間と労力の負担」にあるといえます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「国内の製造業の国内回帰や、建設ラッシュに伴う慢性的な人手不足が影響しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「計画通りに採用が進まなかった（採用未充足）ケースや、無料のハローワーク、安価な求人媒体、リファラル採用（社員紹介）などをうまく組み合わせてコストを抑えられた企業が多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「定期的に使用している場合、「何十万円も費用をかけているにもかかわらず、一人しか採用できなかった」「一人も応募が来なかった」などの声もあります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「採用工数や人手不足が一気に解消され、コア業務に集中できるメリットがあります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「実は、慢性的な人手不足に陥っている業種ほど採用費用が高騰しており、業種間で最大」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「人手不足の深刻化」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「によると、2026年卒の採用充足率は69.7パーセントと過去最低水準を記録しています」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「社内の人手不足を補うために手軽な外部サービスへ依存する構造が、採用コストの高騰を招くことになるのです」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「欠員補充のため1ヶ月以内に即戦力の経理担当が1名必要な場合、短期決戦となるため人材紹介エージェントを利用し、予算として100万円を計上します」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「・「予算を適正化しつつ、採用できなかった場合の月間500万円の売上損失リスクを回避します」」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「さらに欠員を補充するために、再びゼロから採用活動を開始しなければなりません」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「急な欠員補充や事業拡大に伴う大量採用が必要になった」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「人手不足が深刻化する中、建設業・製造業では「良い人材を採る」だけでなく、「長く活躍してもらう仕組みづくり」が急務です」（https://ikdinc.co.jp/news/Z9VLq2xw）
+- 調査主体・時期：
+  - 「【2026年版】高卒採用の「一人一社制」ってどんなルールなの？」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「応募書類の選考費用、面接の実施費用、適性検査の実施費用など」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「新入社員研修の実施費用、OJTの実施費用など」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「採用コストを把握することで、次年度以降の採用予算を適切に策定することができます」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「ここでは、厚生労働省や転職サイトの調査データなどを参考に、新卒採用の採用単価の相場について詳しく解説していきます」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「株式会社リクルート 就職みらい研究所「就職白書2019」」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「中途採用状況調査2024年版（2023年実績）」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「：応募者とのコミュニケーションを重視し、選考プロセスを複数回に分けたり、個別説明会やオフィスツアーなどを実施したりする企業が増えています」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「従来型の合同企業説明会だけでなく、オンライン会社説明会の実施や、SNSを活用した情報発信など、様々な方法を検討しましょう」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「例えば、オンライン面接の実施や、応募書類の簡素化などを検討してみましょう」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「：事前に設定された質問に対して、録画で回答を送信する」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「：AIが応募者の回答内容や表情などを分析し、合否判定を行う」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「会社説明会の実施」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「内定者懇親会の実施」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「また、運営会社である株式会社ジンジブ独自の調査結果や高卒採用のノウハウ、企業の採用担当者からのインタビューなどあらゆる視点から「高校生の採用」を実施する企業へ価値ある情報を提供します」（https://lab.jinjib.co.jp/archives/6536/）
+- 検索結果の抜粋：
+  - 「高卒採用 コスト完全分析 | 大卒 採用 と50-80%削減・投資回収 ... — 高卒採用 コスト完全分析 | 大卒 採用 と50-80%削減・投資回収 ... ゆめスタ https://yumesuta.com > 高卒採用」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「高卒採用コスト 完全分析 | 大卒採用と50-80%削減・投資回収 ... — 高卒採用コスト 完全分析 | 大卒採用と50-80%削減・投資回収 ... ゆめスタ https://yumesuta.com > 高卒採用」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「高卒採用 、3 社に 1 社が予定 大企業では 5 割超 企業 規模 で ... — 高卒採用 、3 社に 1 社が予定 大企業では 5 割超 企業 規模 で ... tdb.co.jp PDF https://www.tdb.co.jp > resource > files > assets > 20...」（https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/e3b6b90e593c48618562b3a1931aecce/20261007_%E6%9D%B1%E5%8C%97%E5%9C%B0%E6%96%B9%E3%83%BB2027%E5%B9%B4%E5%BA%A6%E3%81%AE%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E6%84%8F%E8%AD%98%E8%AA%BF%E6%9F%BB.pdf）
+  - 「中小 製造業 の 採用 活動に関する 調査 研究 — 中小 製造業 の 採用 活動に関する 調査 研究 中小企業研究センター PDF https://www.chukiken.or.jp > uploads > 2021/11」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「中小 製造業 の 高卒採用 は9月が勝負！選ばれる現場づくりと ... — 中小 製造業 の 高卒採用 は9月が勝負！選ばれる現場づくりと ... TECHSシリーズ https://www.techs-s.com > ... > 生産管理コンテンツ」（https://www.techs-s.com/media/show/424）
 
-## 新卒採用（製造業・メーカー）
-- 文脈：
-- エラー：AttributeError: 'int' object has no attribute 'lower'
+## 新卒採用（製造業・メーカー）（new graduate hiring cost manufacturers Japan）
+- 文脈：職種
+- セグメント定義：
+  - 「雇用形態別・企業規模別・業種別の平均採用単価と最新相場」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「企業規模別｜あなたの会社の適正採用単価は？」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「業種別｜平均採用単価の相場一覧」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員数が増えるほど採用コスト総額は増加しますが、スケールメリットを活かせる大企業では一人あたりの採用単価を抑えやすい傾向があります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員50名以下の平均は119万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員50名以下の企業における年間採用費用の平均は119万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員51～300名の平均は247万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員51〜300名の企業における年間採用費用の平均は247万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員301～1,000名の平均は565万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員301〜1,000名の企業における年間採用費用の平均は565万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員1,001名以上の平均は1,462万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員1,001名以上の大企業における年間採用費用の平均は1,462万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「業種別の採用単価」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「弊社のメグサポでは、Indeed運用代行で1週間に122応募を獲得した実績や、100万円の広告予算で1,200人以上の母集団形成に成功した事例など、費用対効果の高い採用支援を提供しております」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「また、業種別に見ると以下のような違いがあります」（https://www.fostor.jp/archives/column/cost-reduction）
+- 採用単価：
+  - 「新卒採用の平均採用単価は56.8万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「11.8万円も増加」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「採用単価が高騰する3つの原因と業界ごとの具体的な違い」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「採用単価を劇的に削減する5つの実践的な方法と成功事例」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「製造業の場合、求人媒体への掲載や紹介会社を通じた採用は、1人当たり数万円〜数十万円かかることも珍しくありません」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用コストを構成する2つの要素」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「新卒採用の単価は平均56.8万円という調査がありますが、企業規模や業種によって異なります」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「新卒採用単価はなぜ高い？高騰する3つの背景」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「新卒採用単価の平均は56.8万円」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「マイナビキャリアリサーチLab「マイナビ2024年卒企業新卒内定状況調査」によると、新卒採用1人あたりにかかる費用、いわゆる採用単価の平均は56.8万円」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+- 年間採用費：
+  - 「派遣社員採用では、紹介手数料として月給の20〜30パーセント程度が相場です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員50名以下の企業における年間採用費用の平均は119万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員51〜300名の企業における年間採用費用の平均は247万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員301〜1,000名の企業における年間採用費用の平均は565万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員1,001名以上の大企業における年間採用費用の平均は1,462万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「運輸・交通・物流・倉庫業の年間採用費用は平均1,460万円で、全業種中トップです」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「製造業の年間採用費用は平均854万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「IT・通信・インターネット業界の年間採用費用は平均695万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「流通・小売・フードサービス業の年間採用費用は平均304万円で、全業種中最も低い水準です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「1人を採用するまでの総額や施策ごとの応募単価を洗い出すことで、費用対効果の低い手段を見直し、」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「手順3：総額を「採用人数」で割る」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「中途採用費用の年間平均総額（650.6万円）を採用人数の平均（20.8人）で割った最新の算出値です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+- 採用経路：
+  - 「リファラル採用のインセンティブ」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「求人広告の掲載費」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「人材紹介会社への成功報酬」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「即戦力採用が多いため新卒より単価は低いですが、専門性の高い職種では人材紹介会社を利用するため1人あたり100万円を超えることもあります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「紹介予定派遣なら、派遣期間終了後に直接雇用へ切り替えることを前提としているため、通常の人材紹介より低コストで採用できます」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「実際に50名以下の企業の60パーセント以上が年間1〜49万円で採用活動を行っており、無料求人媒体やリファラル採用を活用しています」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「専門的な技術や資格を持つ人材を求めることが多く、特に電気・電子・機械・半導体関連では人材紹介会社の活用が中心となります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「また資格や専門技術が必要な職種では母集団が限られるため、人材紹介会社への高額な成功報酬が発生します」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「無料求人媒体の活用、リファラル採用、採用サイトやSNSの活用、業務効率化、ダイレクトリクルーティングなど、すぐに実践できる手法が存在します」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「ハローワークやIndeedの無料掲載機能を利用すれば、求人広告費をかけずに応募者を集められます」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「②リファラル採用で外部コストをゼロにする」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「リファラル採用なら、求人広告費や人材紹介手数料といった外部コストがかかりません」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「紹介者へのインセンティブを設定しても、人材紹介会社の手数料と比較すれば大幅にコストを抑えられます」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「転職潜在層にもアプローチできるため、求人広告では出会えない優秀な人材を採用できる可能性があります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「成功報酬型なら採用が決まるまで費用は発生せず、定額型でも人材紹介会社より低コストで利用できるため、中長期的に見れば採用単価を抑えられます」（https://megdai.jp/markebatake/saiyou/6434/）
+- 充足・欠員：
+  - 「実は、慢性的な人手不足に陥っている業種ほど採用費用が高騰しており、業種間で最大」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「人手不足の深刻化」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「この結果から、慢性的な人手不足に陥っている業種ほど、採用費用がかさんでいることが読み取れます」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「つまり、中小企業の採用課題は「人手不足」よりも、「採用に必要な時間と労力の負担」にあるといえます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「厚生労働省「一般職業紹介状況（令和8年4月分）について」によると、有効求人倍率は1.18倍、新規求人倍率は2.11倍となっています」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「問題は、コストを増やしても採用充足率が改善していないという構造的矛盾だ」（https://note.com/sei_tamai/n/n269032332e6d）
+  - 「厚生労働省が2026年5月に発表した「一般職業紹介状況（2026年4月分）」によれば、有効求人倍率は1.23倍を維持しているにもかかわらず、リクルートワークス研究所が同年に発表した採用充足率調査では69.7%という過去最低水準が続いている」（https://note.com/sei_tamai/n/n269032332e6d）
+  - 「年間媒体費4,200万円、採用充足率61%、採用単価平均137万円改善後（12ヶ月後）：年間媒体費2,400万円（▲1,800万円）、採用充足率79%（+18pt）、採用単価平均68万円（▲50%）」（https://note.com/sei_tamai/n/n269032332e6d）
+  - 「採用コストの削減と充足率の向上が同時に実現できた最大の要因は、「予算を分散させることで各媒体への投資が中途半端になっていた」という本質的な問題が解消されたことにある」（https://note.com/sei_tamai/n/n269032332e6d）
+  - 「媒体費3,600万円（把握分1,800万円＋未把握分1,800万円）、内定辞退率44%、製造ラインの充足率58% 改善後（6ヶ月後）：媒体費2,100万円（▲1,500万円）、内定辞退率29%（▲15pt）、充足率71%（+13pt）」（https://note.com/sei_tamai/n/n269032332e6d）
+  - 「採用充足率69.7%という過去最低水準は、予算不足から生まれているのではない」（https://note.com/sei_tamai/n/n269032332e6d）
+  - 「採用にかかる工数や人手不足の問題が解消され、企業はコア業務に集中できるという利点」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「さらに欠員を補充するために、再びゼロから採用活動を開始しなければなりません」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「急な欠員補充や事業拡大に伴う大量採用が必要になった」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「正社員の不足感は人材の「量」から「質」へ変化している傾向」（https://career-research.mynavi.jp/reserch/20260327_109053/）
+- 調査主体・時期：
+  - 「企業規模や採用人数によって総コストは異なるため、一人あたりのコストで見ることで前年度や他社との比較が可能になります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「株式会社マイナビ「2024年卒 企業新卒内定状況調査」」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「株式会社マイナビ「中途採用状況調査2025年版（2024年実績）」」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「教育・研修の準備や実施にかかる担当者の時間」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「株式会社リクルート 就職みらい研究所の調査「」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「就職白書2020」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「就職白書2019」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「こちらの2019年調査では全体の新卒採用単価が72.6万円、中途採用単価が84.8万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「たとえば、一次面接のオンライン化や、現場見学と最終面接を同日に実施するなど、効率的な方法が考えられます」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「フォスターではまず、Indeed上の求人票のタイトル・原稿内容を見直し、求職者の検索意図に合わせたキーワード設定や写真の刷新を実施」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「株式会社マイナビが実施した「中途採用状況調査2025年版」では、従業員規模別の採用費用がわかっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「中途採用状況調査2025年版（2024年実績）」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「前述した、株式会社マイナビの同調査では、業種によっても平均採用費用が異なることがわかっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「就職みらい研究所が公表している「就職白書2020」では、2020年卒の新卒採用、つまり2019年度の採用活動で発生した平均採用単価は93.6万円であることがわかっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「2018年度の平均採用単価は71.5万円であったため、上昇傾向が見られます」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+- 検索結果の抜粋：
+  - 「新卒採用 における3つの課題とその解決策｜ 製造業 が人材を ... — 新卒採用 における3つの課題とその解決策｜ 製造業 が人材を ... nikken-totalsourcing.jp https://www.nikken-totalsourcing.jp > ... > 製造」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/4318/）
+  - 「製造業 の 新卒採用 6年ぶり減 中東混乱響く、鉄鋼は2割マイナス — 製造業 の 新卒採用 6年ぶり減 中東混乱響く、鉄鋼は2割マイナス 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/）
 
-## 外国人材（特定技能・製造業）
-- 文脈：
-- エラー：AttributeError: 'int' object has no attribute 'lower'
+## 外国人材（特定技能・製造業）（specified skilled worker manufacturing hiring cost Japan）
+- 文脈：職種
+- セグメント定義：
+  - 「単価 外国人材(特定技能製造業) 規模別の求人・仕事・採用｜スタンバイでお仕事探し」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「外国人材(特定技能製造業) 単価 規模別」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「同社が展開する「TELUSDigital」では、100万人以上のコントリビューターが参加するグローバルAIコミュニティを運営」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「業種別・製造業」（https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/）
+  - 「外国人材の受け入れ事例｜業種別の課題と成果」（https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/）
+  - 「業種別ガイド」（https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/）
+  - 「外国人従業員の入社後に発生する主なコストとして、まず」（https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php）
+  - 「外国人従業員が職場に馴染み、パフォーマンスを発揮するためには日本語能力の向上支援と定着支援が不可欠です」（https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php）
+  - 「約0.3〜6.0%（業種別）」（https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/）
+  - 「大阪の自動化装置メーカー（従業員36名）は、ハノイ工科大学の学生を1か月受け入れる「体験シップ」を実施しました」（https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/）
+  - 「【外国人従業員の採用コストに関する実態調査】採用方法や採用費用、採用後の成果について | 外国人採用の窓口」（https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/）
+  - 「【外国人従業員の採用コストに関する実態調査】採用方法や採用費用、採用後の成果について」（https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/）
+  - 「外国人従業員の採用コストに関する実態調査」（https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/）
+  - 「出典：外国人従業員の採用コストに関する実態調査（https://gaikokusaiyo.com/2025/03/24/27138/）／外国人採用の窓口調べ（https://gaikokusaiyo.com/）」（https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/）
+  - 「外国人を含む従業員の職業訓練」（https://career.kedomo.com/recruitment/）
+- 採用単価：
+  - 「年収900万円〜1,049万円」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収600万円〜999万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収400万円〜749万円」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収450万円〜649万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給26万円〜33万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収364万円〜448万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「海外人材の人材紹介 ／ 特定技能営業 ／7期目で売上100億円目前！会社と共に成長できる環境／成長市場である外国籍人材を活用した人材コンサル／月給30万円以上／土日祝休み／転勤なし／東京」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収600万円〜900万円 / 昇給あり」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「外国人HR（特定技能）支援担当（マネージャー候補）600万円～事業立ち上げに参画124休日」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収600万円〜1,000万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「ＸＭｉｌｅ株式会社 外国人HR（特定技能）支援担当（マネージャー候補）◆600万円～◆事業立ち上げに参画◆124休日 【仕事内容】 外国人HR（特定技能）支援担当（マネージャー候補）◆600万円～◆事業立ち上げに参画◆124休日 【具体的な仕事内容】 ～特定技能社員の受け入れ体制構築、来日に向けた教育・研修サポートの充実化など～ 【事業内容】 当社(当社)はノンデスク産業の社会的課題を「HR」と「IT」の2つのアプローチで解決しています」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給25万円〜30万円」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給30万円〜37万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「干物定食の店舗管理スタッフ／昇格後のMAX月給80万円・オープニング」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給45万円〜50万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 年間採用費：
+  - 「【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説 – 【特定技能の人材紹介】株式会社JLBC｜外食・食品製造業専門・最短5日で即戦力人材をご紹介します」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「2. 紹介手数料の相場と仕組み」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「紹介手数料：30万円〜60万円」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「紹介手数料：0円（自社雇用の継続のため不要）」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「エージェント紹介手数料（年収の15〜40%）、ビザ申請費用、特定技能・技能実習の登録支援機関費用、入社後の定着コストまで、予算計画に役立つ情報をまとめています」（https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php）
+  - 「では、人材紹介会社への紹介手数料（年収の15〜40%）、求人媒体への掲載費用、海外現地採用の渡航費などが主なコストです」（https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php）
+  - 「人材紹介会社（エージェント）利用：紹介手数料は年収の15〜40%が相場」（https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php）
+  - 「Q1. 外国人採用でかかる費用の総額はどのくらいですか？」（https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php）
+  - 「人材紹介を利用した場合は紹介手数料（年収の15〜40%）が主なコストとなり、年収400万円の人材では60〜120万円程度かかります」（https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php）
+  - 「人材紹介の場合は年収の15〜30%（高需要職種では25〜45%）の紹介手数料が主なコストで、ビザ申請・定着支援を加えると初年度100〜200万円前後になるケースもあります」（https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php）
+  - 「同時に、1名あたりの初年度採用予算を設定します」（https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/）
+  - 「紹介料30万円、支援費月2万円の会社と、紹介料10万円、支援費月4万円の会社では、初年度総額が逆転する可能性があります」（https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/）
+  - 「特定技能人材1人を採用する総額はいくらですか？」（https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/）
+  - 「紹介手数料（年収の25〜35%）のみ」（https://treeglobalpartners.com/articles/tokutei-ginou-hiyo/）
+- 採用経路：
+  - 「【応募資格】 [必須] ・法人営業経験（3年以上目安） ・以下のいずれかのご経験をお持ちの方 人材紹介・派遣業界での法人営業経験 外国人技能実習生、または特定技能外国人の受入・監理・支援業務の経験 登録支援機関での実務経験 [歓迎] ・新規事業の立ち上げ経験 ・ビジネスレベルの英語力、またはその他外国語スキル（必須ではありません） ・行政書士資格や、入管法に関する深い知識 【フィットする人物像】 ・0→1（ゼロイチ）の事業フェーズを楽しみ、主体的に動ける方 ・法律や制度の変更をキャッチアップし、正確な知識で顧客をリードできる方 ・外国人求職者の人生と、企業の未来の双方に誠実に向き合える方」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] 【必須】 ・特定技能、外国人材紹介、登録支援機関、人材紹介・派遣業界等での法人営業経験（3年以上） ・受入企業への新規開拓、および求人案件（特に外国人材・特定技能求人）の獲得実績 ・企業に対して外国人材活用の制度説明から採用提案までを一人で完結できるスキル ・自身の目標を追いながら、後輩の同行支援や営業プロセスの型化など、チームの底上げに関わってきた経験（役職不問） 【尚可】 ・介護、外食、宿泊、飲食料品製造、ビルクリーニング、製造、建設、農業などの重点業界に対する深耕営業の経験 ・営業戦略の立案、受注率向上のためのKPI管理、数値目標から逆算した行動プロセスの設計経」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「八丁堀／人材紹介の法人営業飲食・サービス業界メイン／特定技能外国人紹介／土日祝休み／クックビズG」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「ワールドインワーカー株式会社 【八丁堀】人材紹介の法人営業◆飲食・サービス業界メイン／特定技能外国人紹介／土日祝休み／クックビズG 【仕事内容】 【八丁堀】人材紹介の法人営業◆飲食・サービス業界メイン／特定技能外国人紹介／土日祝休み／クックビズG 【具体的な仕事内容】 ＜飲食特化の人材サービス「クックビズ」のグループ会社として特定技能外国人人材紹介業・登録支援機関業を展開／英語等の多言語スキルは不要＞ ■募集概要： 飲食・サービス業界を中心に、採用支援や人材紹介を行う法人営業をお任せします」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「海外人材の人材紹介 ／ 特定技能営業 ／7期目で売上100億円目前！会社と共に成長できる環境／成長市場である外国籍人材を活用した人材コンサル／月給30万円以上／土日祝休み／転勤なし／東京」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「シフトのご相談はお気軽にどうぞ！ ・《子育てママさん活躍中》 家事・子育てと両立しながら働く 主婦パートさんも多数！ お休み調整可能だから、 家族旅行・お子様の学校行事など、 大切な予定を優先できますよ 久々のお仕事復帰も大歓迎です！ ・《未経験スタート応援》 飲食店で」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「外国籍人材紹介事業の営業」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「《年休125日以上》外国籍人材の活躍を支える、社会貢献性の高い営業職！ 企業と外国籍人材をつなぐ、人材紹介営業のお仕事です！ ◇ 具体的には？ ◇ ︎ 企業の採用課題や事業内容、求める人材像をヒアリング ︎ 特定技能外国人雇用に向けた提案営業 ︎ 現地送出し機関との調整や、面接対応 ︎ 採用・入社手続き、生活支援に関する契約締結 ︎ 入社後のアフターフォロー 人手不足の課題を抱える企業に対して、外国人雇用に関する提案営業を行います」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「CBC自動車学校」（https://www.cstm-careersupport.com/for-companies/guide/manufacturing-foreign-hiring-cost-guide/）
+  - 「【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説 – 【特定技能の人材紹介】株式会社JLBC｜外食・食品製造業専門・最短5日で即戦力人材をご紹介します」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「一般的に、国内在住者を採用する場合の初期費用目安は30万円〜60万円程度、海外から新規に入国させる場合は50万円〜100万円程度が相場とされています（2025年 人材紹介各社公表値参照）」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「人材紹介会社によって返金規定やサポート範囲が異なる」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「特定技能人材を採用する際、多くの企業が民間の人材紹介会社を利用します」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「ハローワークや自社サイト活用で紹介料をカットする」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「人材紹介会社経由だけでなく、ハローワークや自社Webサイト、SNSを活用した「ダイレクトリクルーティング」を行えば、高額な」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+- 充足・欠員：
+  - 「◢◤仕事内容◢◤ 介護、建設、製造業など、人手不足が顕著な業界の企業様に対し、「特定技能制度」を活用した外国人人材のご提案を行う法人営業です」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「《年休125日以上》外国籍人材の活躍を支える、社会貢献性の高い営業職！ 企業と外国籍人材をつなぐ、人材紹介営業のお仕事です！ ◇ 具体的には？ ◇ ︎ 企業の採用課題や事業内容、求める人材像をヒアリング ︎ 特定技能外国人雇用に向けた提案営業 ︎ 現地送出し機関との調整や、面接対応 ︎ 採用・入社手続き、生活支援に関する契約締結 ︎ 入社後のアフターフォロー 人手不足の課題を抱える企業に対して、外国人雇用に関する提案営業を行います」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「人手不足が深刻化する中で、即戦力となる」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「決して安い金額ではありませんが、慢性的な人手不足による機会損失や、既存社員の疲弊を防ぐための「必要な投資」と考えれば、その価値は十分にあります」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「最長5年間の在留が可能で、飲食、建設、介護など人手不足の特定産業分野で認められています」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「本記事は、外食・飲食、食品、製造業における「特定技能／外国人採用／人手不足対策」について一般的な情報提供を目的として作成されたものであり、法的・税務的・労務的・入管手続き上の助言を行うものではありません」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「人手不足の職種で採用母集団を広げられる」（https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/）
+  - 「人手不足を外国人採用で解決」（https://gaikokujin-saiyo-lab.com/2026/08/31/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E8%B2%BB%E7%94%A8%E3%83%BB%E7%9B%B8%E5%A0%B4%E3%82%92%E6%AF%94%E8%BC%83%EF%BD%9C%E7%B4%B9%E4%BB%8B%E6%96%99%E3%83%BB/）
+  - 「少子高齢化による人手不足が深刻化する中、」（https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/）
+  - 「・工場現場での慢性的な人手不足」（https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/）
+  - 「製造業の現場では、慢性的な人手不足を背景に、外国人材の採用がますます重要になっています」（https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/）
+  - 「年の「人手不足倒産」は10月時点で287件にのぼり、過去最多だった2023年の通年（260件）を既に上回り、2年連続の過去最多を記録した」（https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/）
+  - 「とあり、人手不足が深刻化していることが客観的にもわかります」（https://gaikokusaiyo.com/survey-foreign-employee-recruitment-cost/）
+  - 「人手不足を解決」（https://career.kedomo.com/recruitment/）
+  - 「サービス業・製造スタッフなどの人手不足職」（https://career.kedomo.com/recruitment/）
+- 調査主体・時期：
+  - 「【応募資格】 [必須] 以下のいずれかに該当する経験、能力をお持ちの方 ・直近2年以内に中長期在留者の受入れ実績があること ・直近2年以内に報酬を得る目的で、業として、外国人に関する各種相談業務に従事した経験を有すること ・過去5年間に2年以上中長期在留者の生活相談業務に従事した経験を有すること ・同程度に支援業務を適正に実施できると認められていること [歓迎] ・ビジネスレベルの語学力（英語） ・人材業界における実務経験 ・事業開発、市場リサーチなどの経験 【フィットする人物像】 ・物事を構造的に整理することが得意な? ・定量的な分析（計数管理能?）に?けている? ・コミュニケーション能?の」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「・外国人労働者を企業に紹介する業務（在宅勤務対応可能） ・企業開拓（在宅勤務対応可能） ・外国人労働者の面談の実施（在宅勤務対応可能） ・その他、上記に関連する業務 ・活動エリア：関東近県※運転免」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【経験不問】技能実習生及び特定技能外国人のサポート WEB面接実施中！お気軽にお問合せ下さい！ 募集要項 【雇用形態】 正社員 【給与】 月給 250,000円～300,000円 経験や能力等を考慮して給与決定 【勤務地】 群馬県高崎市本町１０－１ イチカワビル３F 【面接地】 群馬県高崎市本町１０－１ イチカワビル３F 募集情報 【仕事内容】 経験不問 人と接することが好きな コミュニケーション能力の高い方にぴったり！ 技能実習生及び特定技能外国人のサポートのお仕事です！ 勤務している企業を訪問し 様々なフォローをしていただきます 未経験でもチャレンジ歓迎！」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説 – 【特定技能の人材紹介】株式会社JLBC｜外食・食品製造業専門・最短5日で即戦力人材をご紹介します」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「【2026年度版】特定技能外国人の採用コスト相場｜紹介手数料や支援委託費を徹底解説」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「2026年度現在、円安の影響や賃金上昇に伴い、外国人材の採用コストも変化の兆しを見せています」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「2026年時点での支援委託費の相場は、外国人1人あたり月額2万円〜3万円程度が一般的です（2024年 出入国在留管理庁調査等参照）」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「また、日本人社員と同様に、年に1回の定期健康診断の実施が義務付けられています」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「2026年度における」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「特定技能1号外国人を雇用する企業に代わって、法律で義務付けられた支援計画（事前ガイダンス、生活オリエンテーション、相談対応など）を実施する機関です」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「特定技能1号外国人が日本で安定的・円滑に活動できるように、受入れ企業が実施しなければならない10項目の支援のことです」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「措置の具体的内容については、本ポリシーで定める窓口に対する利用者からの求めに応じて遅滞なく回答いたします」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「【2026年度版】特定技能外国人の受け入れ人数枠はどうなる？今後の拡大予測と対策」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「自社支援と登録支援機関への委託、どっちが得？コストと手間のバランス比較【2026年度版】」（https://jlbc.co.jp/tokuteiginou_saiyoukosuto/）
+  - 「許認可や規制調査など輸出／販売の準備をしたい」（https://www.digima-japan.com/knowhow/world/d-globaltalent-260521.php）
+- 検索結果の抜粋：
+  - 「外国人材(特定技能製造業) 単価 規模別 の求人情報をすべて見る （295,881件） — 外国人材(特定技能製造業) 単価 規模別 の求人情報をすべて見る （295,881件） スタンバイ」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E5%8D%98%E4%BE%A1+%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「外国人材(特定技能製造業) コスト 調査 万円 の求人情報をすべて見る （2,416,414件） — 外国人材(特定技能製造業) コスト 調査 万円 の求人情報をすべて見る （2,416,414件） スタンバイ」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「外国人材(特定技能製造業) 中途 従業員規模別 の求人情報をすべて見る （557,516件） — 外国人材(特定技能製造業) 中途 従業員規模別 の求人情報をすべて見る （557,516件） スタンバイ」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「特定技能外国人材 の定着率を企業担当者・個人300名に ... — 特定技能外国人材 の定着率を企業担当者・個人300名に ... ONODERA USER RUN（オノデラユーザーラン） https://onodera-user-run.co.jp > news」（https://onodera-user-run.co.jp/news/10026/）
+  - 「外国人材(特定技能製造業) 白書 の求人情報をすべて見る （1,288件） — 外国人材(特定技能製造業) 白書 の求人情報をすべて見る （1,288件） スタンバイ」（https://jp.stanby.com/search?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%28%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「③ 製造業 における 特定技能外国人材 受入れ事例の紹介 Part2 — ③ 製造業 における 特定技能外国人材 受入れ事例の紹介 Part2 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=C2gDXXQN6wQ）
 
 ## 金属加工（切削・板金・溶接）の採用（metalworking machining sheet metal hiring Japan）
 - 文脈：業種
-- セグメント定義：記載なし（読んだ36頁・検索6回）
-- 採用単価：記載なし（読んだ36頁・検索6回）
-- 年間採用費：記載なし（読んだ36頁・検索6回）
-- 採用経路：記載なし（読んだ36頁・検索6回）
-- 充足・欠員：記載なし（読んだ36頁・検索6回）
-- 調査主体・時期：記載なし（読んだ36頁・検索6回）
+- セグメント定義：
+  - 「業種別の経営情報」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「2026年10月には「106万円の壁」が撤廃され、パート従業員も社会保険の加入対象が広がります」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「ある板金加工業（従業員18名）は、複数の取引先から長期間発注のない型を無償で保管させられていました」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「業種別・分野別 最新情報トップ」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「都道府県別の溶接工年収ランキング」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「製造業・工場勤務の年収はいくら？職種別のランキングをご紹介！」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「プレックスジョブマガジンは、累計200万人以上の方にご登録いただいている求人・転職サイト「プレックスジョブ」が運営するメディアです」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「【2026年版】運送業の年収ランキング！大手会社や職種別の給料を紹介」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「製造業・工場勤務の年収ランキングを紹介！大手メーカーや職種別の給料背景も解説」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「施した、ベテラン従業員の退職に伴う技能承継の影響に関するアンケート調査（製造業の」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「ョンを共有し企業戦略と一体のものとして技能承継を位置づけること、 ②従業員の」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「アンケート調査「ベテラン従業員の退職等に伴う技能承継について」に基づき、中小製造」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「アンケート調査からは、ベテラン従業員の退職等に伴い技能が失われることに対して、」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「技能承継がうまくいかない、または取り組んでいない理由をみると、「ベテラン従業員の」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「指導スキル・ノウハウの不足」「若手従業員の能力の不足」「若手従業員等の不足・採用難」」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+- 採用単価：
+  - 「少額減価償却資産の特例（40万円未満、年300万円まで）を使えば、対象となる小型の型・治具を取得年度に一括で費用計上できます」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「少額特例（40万円未満）該当分は取得年度に即時償却」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「R8.4.1以後取得分は40万円未満に拡充（年300万円まで）」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「R8.4.1以後開始事業年度から（基準法人税額－500万円）×4%」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「基準法人税額500万円超かを事前に試算」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「「106万円の壁」撤廃・カスハラ対策義務化」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「補助上限4,000万円級」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「750万〜8,000万円（賃上げ特例で最大1億円）」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「最大1,500万円」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「最大2,000万円」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「2026年10月には「106万円の壁」が撤廃され、パート従業員も社会保険の加入対象が広がります」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「106万円の壁撤廃・カスハラ対策義務化への対応、免税事業者からの仕入税額控除70%への移行確認」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「溶接工の年収は全国平均で約452.5万円」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「と、全産業の平均年収の478万円と比較しても月額2万円程度の差に留まっています」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「しかし、実際には担当する工程や保有資格によって給料は変動するため、400万円台から熟練者の900万円台まで幅広いです」（https://www.plex-job.com/magazine/articles/4022/）
+- 年間採用費：
+  - 「給与総額+1.5%で15%、+2.5%で30%税額控除（5年繰越可）」（https://www.sapporotax.com/insights-mfg-metal/）
+- 採用経路：
+  - 「関東工業自動車大学校様に「プレックスジョブ」が掲載されました」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「(人材紹介・採用支援をご検討中の法人様はこちら)」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「ドライバーの人材紹介・求人媒体サービス」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「施工管理技士の人材紹介・採用支援サービス」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「電気主任技術者の人材紹介・採用支援サービス」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「製造職・メーカーの人材紹介・採用支援サービス」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「自動車整備士の人材紹介・採用支援サービス」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「学校での成績がよくな」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「学校の先生を呼んできて教えてもらったりしている」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「ルートは学校の先生と我々との信頼関係の上に成り」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「■学校教育への協力」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「学校との関係構築という点に関しては、地元工業」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「当初は、学校教育のお」（https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf）
+  - 「関東工業自動車大学校様に「プレックスジョブ」が掲載されました」（https://www.plex-job.com/magazine/articles/4026/）
+  - 「(人材紹介・採用支援をご検討中の法人様はこちら)」（https://www.plex-job.com/magazine/articles/4026/）
+- 充足・欠員：
+  - 「金属加工の現場では溶接技能者の人手不足も深刻です」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「有効求人倍率は高水準で推移しており、技能実習制度から育成就労制度への移行も見据えた人材確保が必要になっています」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「溶接技能者の人手不足は深刻です」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「金属加工業では溶接・機械加工の技能者が慢性的に不足しており、有効求人倍率は高水準で推移しています」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「ベテランの溶接技能・段取りのノウハウをマニュアル化・動画化し、若手や外国人材に引き継ぐ計画的な技能承継が、多能工化と人手不足対策の両面で効果を発揮します」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「日本の製造業は若年層の就業者が減少しており、業界全体として深刻な人手不足と高齢化に直面しています」（https://www.plex-job.com/magazine/articles/4022/）
+  - 「また、技術者の高齢化により人手不足が深刻化しており、確かな技術を持つ溶接工の市場価値は年々高まっています」（https://www.plex-job.com/magazine/articles/4026/）
+  - 「【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説 | ウィルオブ採用ジャーナル」（https://willof-work.co.jp/journal/14513/）
+  - 「【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説」（https://willof-work.co.jp/journal/14513/）
+  - 「最新データからみる製造業の人手不足の現状」（https://willof-work.co.jp/journal/14513/）
+  - 「製造業が人手不足に陥る5つの根本原因」（https://willof-work.co.jp/journal/14513/）
+  - 「製造業の人手不足を解消するアプローチ方法と実際の成功事例」（https://willof-work.co.jp/journal/14513/）
+  - 「日本の製造業は今、深刻な人手不足という構造的な危機に直面しています」（https://willof-work.co.jp/journal/14513/）
+  - 「人手不足が解消されなければ、生産能力の低下、納期遅延、技術継承の断絶、そして最悪の場合は事業縮小・撤退というシナリオも現実のものとなりかねません」（https://willof-work.co.jp/journal/14513/）
+  - 「本記事では、製造業の人手不足の実態を最新の公的データを基に徹底分析し、その根本原因を整理した上で、工場が今すぐ取り組むべき具体的な解消策を「採用×DX×定着」の3軸で解説します」（https://willof-work.co.jp/journal/14513/）
+- 調査主体・時期：
+  - 「金属加工・板金・溶接業の経営に役立つ最新情報【2026年版】｜ジェイスタート会計事務所」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「令和8年度税制改正ガイド」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「金属加工・板金・溶接業の経営に役立つ最新情報【2026年版】」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「最終更新：2026年7月27日（令和8年度対応）」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「✓ R8年度税制のポイント」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「税務・会計の留意点（令和8年度）」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「3. 税務・会計の留意点（令和8年度）」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「少額減価償却資産の特例（40万円未満、年300万円まで）を使えば、対象となる小型の型・治具を取得年度に一括で費用計上できます」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「少額特例（40万円未満）該当分は取得年度に即時償却」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「簡易課税・本則課税との税負担比較を決算前に実施」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「検査治具・小型工具の更新をこの範囲で実施」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「R8.4.1以後開始事業年度から（基準法人税額－500万円）×4%」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「全産業平均52.8%（令和8年版TKC経営指標）」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「中小企業全産業平均41.7%（令和4年度）」（https://www.sapporotax.com/insights-mfg-metal/）
+  - 「出典：中小企業実態基本調査（令和4年度決算実績）、TKC経営指標（BAST）令和8年版」（https://www.sapporotax.com/insights-mfg-metal/）
 
 ## 電子部品・半導体製造の採用（electronics semiconductor manufacturing hiring Japan）
 - 文脈：業種
-- セグメント定義：記載なし（読んだ36頁・検索6回）
-- 採用単価：記載なし（読んだ36頁・検索6回）
-- 年間採用費：記載なし（読んだ36頁・検索6回）
-- 採用経路：記載なし（読んだ36頁・検索6回）
-- 充足・欠員：記載なし（読んだ36頁・検索6回）
-- 調査主体・時期：記載なし（読んだ36頁・検索6回）
+- セグメント定義：
+  - 「継続計画の重要性が高まる中、従業員の安全確保や災害時の迅速な対応体制を整備し、企業の社会的責任を果たすため、防災、減災対策業務およびBCP関連業務を主担当としてお任せします」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「災害リスクが高まる中、従業員の安全確保や事業継続を支える防災戦略は、企業にとって不可欠なテーマです」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「■持株会・共済会： 従業員の資産形成や生活をサポートする制度が充実」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「・安全衛生管理（最重要業務）：安全衛生委員会の運営（資料作成・議事進行・決定事項の全社展開）、工場内の職場巡視・リスク抽出、作業環境や設備の改善提案、健康増進施策の企画・防火防災・BCP： 防火管理体制の構築、避難訓練等の企画・運営、BCP（事業継続計画）の策定・推進・セキュリティ管理： 防衛事業において最重要となる情報セキュリティの統制、入退室管理・福利厚生・庶務全般： 従業員の親睦会運営、社員寮の管理、自販機・社有車・駐車場の管理、地域社会との対応・窓口業務・コンプライアンス：事務局として、関連施策の企画・運営・管理、監査対応≪詳細≫雇入れ直後は、三田工場における安全衛生を中心とした総務業務を担当していただきます」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「健康増進や防火防災の業務では、従業員が安心して働ける環境を整えるために、各種施策や訓練の企画・運営を進めていただきます」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「●組織のミッション「従業員がより働きやすくなる職場風土・環境づくりに貢献すること」手続きや管理にとどまらず、現場の声に耳を傾け、一歩先を捉えた安全で快適な工場運営を実現することを目指しています」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「担当業務の習得と並行し、工場内の従業員の顔と名前を覚え、事業への理解を深めていただきます」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「●業務の魅力・従業員がより働きやすくなる職場風土・環境づくりに貢献できます」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「【職務内容】本ポジションでは従業員の安全・安心を守るだけでなく、“安全を文化として浸透させる”ことを目指していただきます」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「■総務関連業務 総務窓口として、従業員からの依頼・相談対応や来客対応を行います」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「【EHSとは】Environmental・Health・Safetyの略企業が事業活動を行う上で、環境や従業員の健康、労働安全を統合的に管理すること【筑波工場の魅力】■過去17年間無災害記録を更新しており、休業を余儀なくされる重篤な災害はございません」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「・現場従業員の労務管理・勤怠管理・育成指導等・課題抽出と改善に向けた対策の提案・実行等・クライアントへの相談や提案等」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「■職務詳細：・資産管理：保有している土地・建物・設備等の固定資産や備品、賃貸借契約をしている事務所並びにゴルフ会員権の維持・管理など・その他福利・庶務・秘書業務他：従業員の福利に関する業務全般、社員食堂等の運営管理、全社行事の企画立案・実行、各種会議の運営、人事総務部の予実算管理、役員に関する行事等の立案・実行など（株主総会関連は別部門の管轄となっております）■配属先情報：・経営管理本部 人事総務部 総務グループ（課長1名、メンバ2名）■ポジションの魅力：事務ではなく、企画立案・実務をお任せし、いずれは総務グループ全体をけん引していただきます」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「総務業務：地区内土地建物等の資産管理や施設・備品管理、広報・地域渉外、情報セキュリティ事務局、社会貢献活動事務局 等安全衛生業務：安全衛生管理計画の立案・推進、地区安全衛生委員会事務局、労働災害予防、防火防災対応、交通安全管理、従業員の健康増進対応 等 【働き方】■残業時間：20h/月程度（繁忙期は30～40h/月）■フレックス制度：あり■リモート制度：月に数回 【キャリア】入社後は、まず総務業務、もしくは安全衛生業務を担当いただきます」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「中途 従業員規模別 状況調査 電子部品半導体製造の求人・仕事・採用｜スタンバイでお仕事探し」（https://jp.stanby.com/search?q=%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 採用単価：
+  - 「50万円～72万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「30万円以上」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「35万円～55万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「75万円～141万7000円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「39万円～50万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「33万3000円～80万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「30万円～45万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「35万円～50万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「24万円以上」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「27万8500円～47万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「26万4500円～34万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「83万円～250万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「32万円～48万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「英語力を磨きたい方には会社負担（年15万円まで）の自己啓発支援制度もあります」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「20万5000円～40万円」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+- 年間採用費：
+  - 「■産官学連携について大手企業8社から総額73億円の出資を受け、「ポスト5G基金事業」による次世代半導体の研究開発プロジェクトの委託先として新エネルギー・産業技術総合開発機構（NEDO）から開発事業費700億円を受けています」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「■産官学連携について大手企業8社から総額73億円の出資を受け、「ポスト5G基金事業」による次世代半導体の研究開発プロジェクトの委託先として新エネルギー・産業技術総合開発機構（NEDO）から開発事業費700億円を受けています」（https://www.pasonacareer.jp/jb200/jm250/ib10/is14/）
+- 採用経路：
+  - 「■チームで仕事を推進できる方■将来はマネジメント職として活躍したい 【尚可】■人事、労務、採用、教育業務のご経験 ■労務管理（給与計算・社会保険手続き・勤怠管理など）の経験 ■衛生管理者の資格をお持ちの方 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：」（https://www.r-agent.com/job_search/area-tokyo/oc-scm/omc-1042/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC/）
+  - 「学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：」（https://www.r-agent.com/job_search/area-tokyo/oc-scm/omc-1042/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC/）
+  - 「人材紹介・派遣」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「営業(対学校)」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「【具体的には】・購入品に関する手続き・出張手続き・社内イベントの準備・運営・各種事務業務・社長秘書業務・その他、総務業務将来的には、・新卒・中途採用・応募者対応・面接の日程調整・会社説明会や学校訪問・入社後のフォローなど、採用業務にも幅を広げていただきたいと考えています」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「パソナグループは、人材派遣をはじめ、人材紹介、再就職支援、アウトソーシングなど、人材に関わる様々なサービスをご提供しています」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「※「パソナキャリア」は株式会社パソナが運営する人材紹介・採用支援サービスの名称です」（https://www.pasonacareer.jp/jb200/jm270/ib10/is14/）
+  - 「＊従事すべき業務の変更の範囲：配電制御システム製造に係る業務 ＜応募にはハローワークの紹介状が必要です」（https://jp.stanby.com/search?q=%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「学校法人 日本工業大学」（https://jp.stanby.com/search?q=%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「学校法人 日本工業大学 【大学事務職員（事務全般）】◆未経験歓迎◆年間休日131日 ※応募に当たっては、マイナビ転職の会員登録が必須となっております」（https://jp.stanby.com/search?q=%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「(c) Indeed Recruit Partners Co., Ltd.」（https://directscout.recruit.co.jp/contents/article/18255/）
+  - 「リクルートのグループ会社であるIndeedの調査・研究機関「Indeed Hiring Lab」が、「半導体エンジニア」に関する仕事検索割合を算出した結果を、以下に引用します」（https://www.r-agent.com/guide/jobmarket/21710/）
+  - 「＜Indeed Hiring Lab エコノミスト青木 雄介氏コメント＞」（https://www.r-agent.com/guide/jobmarket/21710/）
+  - 「2019 年 1 月〜2023 年 10 月における、Indeed上での「半導体」の検索の割合と「半導体エンジニア」の求人をクリックした割合を掛け合わせ、100 万件の検索数に占める、半導体エンジニア求人への実質的な検索数を算出しています」（https://www.r-agent.com/guide/jobmarket/21710/）
+  - 「転職・バイト探しはIndeed」（https://www.r-agent.com/guide/jobmarket/21710/）
+- 充足・欠員：
+  - 「半導体業界の人手不足に伴い、未経験者向けの求人が増えたことが要因に挙げられます」（https://www.r-agent.com/guide/jobmarket/21710/）
+  - 「半導体業界の人手不足の理由と対策について、派遣人材の活用という切り口から見ていきましょう」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/464/）
+  - 「半導体産業が人手不足に陥っている要因としては、先述の半導体ニーズの高まりが挙げられます」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/464/）
+  - 「加えて、人材育成の基盤ができていないという要素も人手不足に拍車をかけています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/464/）
+  - 「人手不足が顕著な業界TOP10！人材が確保しにくい原因や改善に向けた対策」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/464/）
+  - 「製造業の人手不足解消に向けた課題と解決策｜採用担当者が知るべき動向と対応 | まるごと人事｜成長企業向けの採用代行｜マルゴト株式会社」（https://marugotoinc.jp/blog/seizou_shotage/）
+  - 「製造業の人手不足解消に向けた課題と解決策｜採用担当者が知るべき動向と対応」（https://marugotoinc.jp/blog/seizou_shotage/）
+  - 「製造業の人手不足」（https://marugotoinc.jp/blog/seizou_shotage/）
+  - 「製造業における人手不足の実態と影響」（https://marugotoinc.jp/blog/seizou_shotage/）
+  - 「人手不足が経営に及ぼすリスクと離職の「負の連鎖」」（https://marugotoinc.jp/blog/seizou_shotage/）
+  - 「製造業が人手不足に陥る根本的な要因6選」（https://marugotoinc.jp/blog/seizou_shotage/）
+  - 「【業種別】製造業の人手不足傾向と自社に必要な対策の見極め方」（https://marugotoinc.jp/blog/seizou_shotage/）
+  - 「製造業の人手不足を解消する具体的な施策」（https://marugotoinc.jp/blog/seizou_shotage/）
+  - 「人手不足に強い組織を作る職場環境改善策」（https://marugotoinc.jp/blog/seizou_shotage/）
+  - 「ここでは最新の統計データや経営現場の視点から、人手不足の現状と事業運営への悪影響について解説します」（https://marugotoinc.jp/blog/seizou_shotage/）
+- 調査主体・時期：
+  - 「開発されたプロセスは Etch, CVD, PVD, IBD, IBE, ALD と多岐にわたっており、プロセスレシピの提供を含む装置販売などによる顧客サポートを実施しております」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「■生成AIモデルや関連深層学習フレームワーク等を調査・分析し、最適な技術適用案を検討・策定 ■自社内の潜在的および顕在化した課題をデータドリブンで発掘し、生成AIの実用可能性と効果を検証■PoC（Proof of Concept）を通じて実際にAIモデルを試験導入し、アルゴリズムの性能評価やオペレーション統合の可能性を検証■高性能なAIシステムの設計・開発からクラウド環境などへの実装推進■KPIを用いて効果を定量的に測定し、継続的なモデル更新とシステム最適化を実施 募集職種 【福岡】生成AIエンジニア[半導体製造装置]/IUターン・異業界歓迎」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「【東京】機械設計(半導体製造装置)/ダイキン工業G/昨年度賞与6.00カ月/定年65歳 機構設計」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「企業名 ダイキンファインテック株式会社 求人名 【東京】機械設計(半導体製造装置)/ダイキン工業G/昨年度賞与6.00カ月/定年65歳 仕事の内容 半導体製造装置（洗浄装置）の機械設計業務です」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「募集職種 【東京】機械設計(半導体製造装置)/ダイキン工業G/昨年度賞与6.00カ月/定年65歳」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「■半導体製造装置の立上げ・保守業務 ■トラブル発生時の原因調査および改善対応 ■定期点検やメンテナンス対応 ■顧客への技術説明や運用サポート ■後輩エンジニアへの技術指導・育成 募集職種 広島【サービスエンジニア】米国本社の半導体製造装置メーカー/年間休日130日」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「・電気・電子機器製品の安全性を適用する安全規格にもとづいた評価・試験の実施（主に半導体製造装置（SEMI 分野）） ・SEMI 規格（例：SEMI S2, S8 等）に基づく適合性評価 ・認証試験後の試験報告書作成 ・プロジェクトの納期、スケジュール管理 ・お客様との打ち合わせ、技術相談、アドバイスを行う 募集職種 【SEMI安全評価】半導体装置の知識を世界最大手の認証機関で活かす」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「・勤怠管理、教育・指導、新人・派遣のOJT実施」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「主要な業務は、リソグラフィ等のプロセスワークフローに関する要件定義、C/C++によるモジュール設計・実装、RCAを用いた不具合調査、仕様書のないレガシーシステムのコード解析・リバースエンジニアリングです」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「(1)構想・詳細設計：CADを用いた筐体・駆動部の設計 (2)試作・評価：自社内での検証 (3)海外納入：年2～3回程度の海外出張（米国、韓国、台湾等）を通じ、顧客先での最終調整を実施」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「■基本ベースの製品を元に納入先の環境に合わせて製品をカスタマイズ ■顧客先に出向いて仕様打ち合わせを実施 ■必要に応じて顧客の製品を自社に持ち込みデモテスト ■受注確定後、顧客の仕様に合わせた具体的な設計を行う ※出張は年に3～4回/顧客先での製品立ち上げやメンテナンス作業 ★カスタマイズ要素が強く、オーダーメイドに近い形で設計対応を行います！ 募集職種 【東京/機械設計】半導体・EV自動車業界を支える除塵装置/年休127日/7h勤務」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「■CMP ボンドprocess toolの立ち上げ■必要な安全教育をすべて完了し、Micronの安全方針に従ってすべての作業を実施する■新装置の設計、開発、特性評価を主導し、ハードウェアおよび手順上のギャップを特定・解消する」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「【具体的には】■製造工程・装置・検査・計測データを横断的に分析し、歩留まり低下や品質ばらつきの要因特定および改善提案を実施■統計解析や機械学習を用いた、工程異常の早期検知・不良発生予兆の可視化・原因分析■SPC（統計的工程管理）や工程能力指標（Cp/Cpk 等）を用いた工程状態の見える化および安定化支援■ウェハマップや欠陥データの解析による不良分布の特徴抽出および装置・工程起因の切り分け 募集職種 【熊本】製造DX・データサイエンティスト（オープンポジション）/面接1回」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「RBA行動規範や社内規程に基づき、国内外の各拠点・部署の業務が適切に行われているか監査を実施していただきます」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+  - 「◇VLSI Research CS Awardという半導体製造装置における顧客満足度調査で2011年から5年連続で1位を獲得」（https://www.r-agent.com/job_search/kw/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE/）
+- 検索結果の抜粋：
+  - 「電子部品半導体製造 中途 従業員規模別 の求人情報をすべて見る （551,353件） — 電子部品半導体製造 中途 従業員規模別 の求人情報をすべて見る （551,353件） スタンバイ」（https://jp.stanby.com/search?q=%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「電子部品半導体製造 白書 の求人情報をすべて見る （5,126件） — 電子部品半導体製造 白書 の求人情報をすべて見る （5,126件） スタンバイ」（https://jp.stanby.com/search?q=%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
 
 ## 食品製造の採用（food manufacturing hiring cost Japan）
 - 文脈：業種
-- セグメント定義：記載なし（読んだ36頁・検索6回）
-- 採用単価：記載なし（読んだ36頁・検索6回）
-- 年間採用費：記載なし（読んだ36頁・検索6回）
-- 採用経路：記載なし（読んだ36頁・検索6回）
-- 充足・欠員：記載なし（読んだ36頁・検索6回）
-- 調査主体・時期：記載なし（読んだ36頁・検索6回）
+- セグメント定義：
+  - 「採用コストの相場：企業規模別・職種別の比較」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「企業規模別の採用コスト相場」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「職種別の採用コスト相場」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「業種別でみるとIT・通信・インターネットが52.9万円で最も高く、次いで金融・保険・コンサルティングが48.3万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「従業員規模別で見てみると以下の通りです」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「業種別でみると「保育」が11.2万円と最も高く「接客（ホテル・旅館）」が3.9万円と最も低い数字となっています」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「会社規模別でみると以下の通りです」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「正社員数100人未満：5.7万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「正社員数500人以上：10.2万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「ここでは、企業規模別・職種別の採用コスト相場を詳しく見ていきます」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「（p.121）によると2023年企業規模別の中途採用コストは以下のようになっています」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「企業規模別の採用コストの特徴は以下の通りです」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「4. 超大規模企業（1001人以上）」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「これらの職種別採用コストの特徴を詳しく見ていきましょう」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「これらの職種別の特徴を理解し、それぞれに適した採用戦略を立てることが重要です」（https://www.rshd.co.jp/news/saiyou-cost.html）
+- 採用単価：
+  - 「人手不足の状況では、1人あたりの業務量が増加し、休憩時間を取れない、有給休暇が取得できない、休日出勤が発生するなどの事態に陥りやすくなります」（https://www.foodtechjapan.jp/hub/ja-jp/blog/article_004.html）
+  - 「労働生産性とは、従業員1人あたりの成果の割合で、効率性の高さを判断する指標です」（https://tebiki.jp/genba/useful/food-factory-insufficient-manpower/）
+  - 「1人あたりの作業量が増加し、生産スピードが低下」（https://tebiki.jp/genba/useful/food-factory-insufficient-manpower/）
+- 年間採用費：
+  - 「例えば、採用コストの総額が1000万円で、10人を採用した場合、一人当たりの採用コストは100万円となります」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「（p.121）によると2023年に転職サイト、折り込み求人誌、新聞の求人欄、フリーペーパーなどでかかった採用一人当たりの求人広告費は以下の通りです」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「1名あたりの単価にすると２週間で2.5万円の求人広告費ということになります」（https://www.rshd.co.jp/news/saiyou-cost.html）
+- 採用経路：
+  - 「求人広告費用の計算方法」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「リファラル採用」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「Indeed（インディード）」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「採用に関わるコスト全般のことで求人広告費、面接にかかる人件費、採用イベントの開催費用、採用システムの導入・運用費など、」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「例えば求人広告会社へ依頼し、求人広告を出す場合が分かりやすい例と言えるでしょう」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「さらには、人材紹介手数料や就職・転職の合同説明会にかかる費用なども外部コストに含まれます」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「・求人広告の掲載費用」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「・人材紹介会社に支払う成功報酬」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「・リファラル採用のインセンティブ」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「採用コストの中でも求人広告費にかかるコストを」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「「求人広告費用」」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「外部コストのうち求人広告にかかる費用が多くの割合をしめるケースも多いかと思いますが、求人広告費用の効果を測定していく際に有用な指標となります」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「一人当たりの求人広告費用 = 求人広告費総額 ÷ 採用人数」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「求人広告の効果をより詳細に評価する」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「求人広告費や人材紹介会社への手数料が高くなることが主な要」（https://www.rshd.co.jp/news/saiyou-cost.html）
+- 充足・欠員：
+  - 「採用にかかる工数や人手不足の問題が解消され、企業はコア業務に集中できるという利点」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「食品製造業では現在、深刻な人手不足が続いています」（https://hypex.jp/articles/food-manufacturing-recruitment-survey-report）
+  - 「厚生労働省の資料では（※1）、事業継続・新規事業のいずれにおいても7割以上の企業が人手不足を感じており、特に現場技能職の不足感が強いことが示されています」（https://hypex.jp/articles/food-manufacturing-recruitment-survey-report）
+  - 「また、飲食料品製造業分野の有効求人倍率は2024年1〜3月時点で3.05倍と、全産業平均の1.33倍を大きく上回っています（※2）」（https://hypex.jp/articles/food-manufacturing-recruitment-survey-report）
+  - 「食品業界（食品製造業）の人手不足の原因とは？企業として取り組む対策を解説 - 食品ITnavi」（https://food.uchida-it.co.jp/info/f20241120/）
+  - 「食品業界（食品製造業）の人手不足の原因とは？企業として取り組む対策を解説」（https://food.uchida-it.co.jp/info/f20241120/）
+  - 「食品業でも人手不足は深刻な課題」（https://food.uchida-it.co.jp/info/f20241120/）
+  - 「近年、多くの企業が抱える課題のひとつが人手不足です」（https://food.uchida-it.co.jp/info/f20241120/）
+  - 「人手不足は製品の生産や従業員の労働環境にも悪影響を及ぼす可能性があるため、対策が必要です」（https://food.uchida-it.co.jp/info/f20241120/）
+  - 「本記事では、食品製造業における人手不足の現状とその課題、対策について解説します」（https://food.uchida-it.co.jp/info/f20241120/）
+  - 「1.食品製造業での人手不足の現状とその背景」（https://food.uchida-it.co.jp/info/f20241120/）
+  - 「2.人手不足が食品製造業に及ぼす影響」（https://food.uchida-it.co.jp/info/f20241120/）
+  - 「3.人手不足に対する企業の取り組み」（https://food.uchida-it.co.jp/info/f20241120/）
+  - 「6.人手不足対策を支援するソリューション」（https://food.uchida-it.co.jp/info/f20241120/）
+  - 「食品製造業での人手不足の現状とその背景」（https://food.uchida-it.co.jp/info/f20241120/）
+- 調査主体・時期：
+  - 「採用コストで見てしまうと比較や分析が難しい場合がありますが、一人当たりの採用コストで見れば、他社や前年度との比較がしやすくなるでしょう」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「「就職白書2020」」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「によると2019年度新卒採用および中途採用１人あたりの平均採用コストは以下の通りです」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「19年度の新卒採用（20年卒）：93.6万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「18年度の平均採用コスト （新卒採用71.5万円、 中途採用83.0万円）」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「2019年度の新卒採用では一人あたりの平均コストは93.6万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「18年度の平均コストが71.5万円だったことから」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「この資料によると新卒採用を実施する上での課題の上位に「採用に係る人員数」などが挙げられたことが報告されており、」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「「中途採用状況調査2024年版（2023年実績）」」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「「バイト通信・採用活動に関する最新調査データについて」」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「Indeedの採用市場レポートで職種カテゴリを調査し、マーケットとズレがないことも確認した結果２週間に」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「「就職白書2024」データ集」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「応募人数の見通しでは、「増える」と回答した企業が約2割、「同じ」が7割弱、「減る」が1割強となっており、多くの企業が現状維持または微増を見込んでいる状況です」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「応募人数の見通しでは、従業員数が多い企業ほど「増える」と回答する割合が高く、小規模企業ほどその割合が低い傾向」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「内定辞退が多発すると、すでに投資した採用活動のコストが無駄になるだけでなく、新たに採用活動を実施する必要が生じます」（https://www.rshd.co.jp/news/saiyou-cost.html）
 
 ## 輸送用機械・自動車部品の採用（automotive parts manufacturing hiring Japan）
 - 文脈：業種
-- セグメント定義：記載なし（読んだ36頁・検索6回）
-- 採用単価：記載なし（読んだ36頁・検索6回）
+- セグメント定義：
+  - 「規模別に正社員の『採用予定がある』割合をみると、「大企業」は83.6％と全体（58.8％）を大幅に上回った」（https://www.tdb.co.jp/report/economic/20250325-employment2025/）
+  - 「規模別に「新卒新入社員」と「中途社員」それぞれの『採用予定がある』割合をみると、「中小企業」では「新卒新入社員」が30.8％だったのに対し、「中途社員」は15ポイント以上高い47.0％となった」（https://www.tdb.co.jp/report/economic/20250325-employment2025/）
+  - 「規模別に非正社員の『採用予定がある』割合をみると、正社員と同様に企業規模が小さいほど割合が低くなっている」（https://www.tdb.co.jp/report/economic/20250325-employment2025/）
+  - 「厚生労働省「一般職業紹介状況」産業・事業所規模別新規求人数 パート含む（実数）より作成厚生労働省「一般職業紹介」有効求人倍率、新規求人数、有効求職者数 パート含む（季節調整値）より作成」（https://career-research.mynavi.jp/wp-content/uploads/2024/02/2024-2-jidosyakogyo.pdf）
+  - 「2022年経済構造実態調査 製造業事業所調査（産業別統計表データ）※（従業者30人以上の事業所）」（https://career-research.mynavi.jp/wp-content/uploads/2024/02/2024-2-jidosyakogyo.pdf）
+  - 「（2）地域別の労働需給の見通し」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「中期的な労働需給の見通しを都道府県別に推計したものとして、パーソル総合研究所・」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「図表 2 都道府県別に見た人手不足」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「従業員数過不足数DI3に注目すると、 サービス業については、人手不足感が強まった2012」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「図表 9 従業員数過不足数 DI の推移」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「3 従業員数過不足数 DI とは、従業員の今期の状況について、 「過剰」と答えた企業の割合（%）から、 「不足」と答えた」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「さらに、 従業員規模別に見ると、 大企業と中小企業ともに、 特に確保に課題がある人材」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「（3）職種別の従業員の過不足状況」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「厚生労働省実施の 「労働経済動向調査」 は、 業種別に職種ごとの人手不足感を調査して」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「図表 11 職種別の従業員過不足状況 DI」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+- 採用単価：
+  - 「特に自動車関連は、期間工で年収450〜600万円が狙える高収入分野として知られています」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「350〜600万円」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「400〜700万円」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「450〜600万円（満了金込み）」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「300〜420万円」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「350〜450万円」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「420〜550万円」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「450〜600万円」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「500〜650万円」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「500〜700万円」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「特に自動車メーカーの期間工は満了金・赴任手当・各種手当を含めると、未経験でも年収500万円を超えることがあります」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「年収は未経験でも350〜600万円、」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「大手自動車メーカーの期間工は、満了金・各種手当込みで年収450〜600万円が目安です」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「年収水準は航空部品のほうが高い傾向（経験者で500〜700万円）ですが、求人数は自動車部品が圧倒的に多いです」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「580万円〜1000万円」（https://www.pasonacareer.jp/job/81277813/）
+- 採用経路：
+  - 「複数の人材紹介会社に登録していますが、大丈夫ですか？」（https://www.pasonacareer.jp/job/81277813/）
+  - 「複数利用したうえで自分に合った人材紹介会社を選ぶのがおすすめです」（https://www.pasonacareer.jp/job/81277813/）
+  - 「ただし、どこの人材紹介会社からどの企業を紹介されて応募したか、履歴を残しておくことをおすすめします」（https://www.pasonacareer.jp/job/81277813/）
+  - 「ひとつの企業に、異なる人材紹介会社から二重で出願を行うと、自己管理ができていない人材として企業側から応募を断られてしまう可能性があります」（https://www.pasonacareer.jp/job/81277813/）
+  - 「パソナグループは、人材派遣をはじめ、人材紹介、再就職支援、アウトソーシングなど、人材に関わる様々なサービスをご提供しています」（https://www.pasonacareer.jp/job/81277813/）
+  - 「※「パソナキャリア」は株式会社パソナが運営する人材紹介・採用支援サービスの名称です」（https://www.pasonacareer.jp/job/81277813/）
+  - 「■チームで仕事を推進できる方■将来はマネジメント職として活躍したい 【尚可】■人事、労務、採用、教育業務のご経験 ■労務管理（給与計算・社会保険手続き・勤怠管理など）の経験 ■衛生管理者の資格をお持ちの方 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「学校法人・公益法人・非営利法人」（https://jobmark.jp/0004/）
+  - 「一方、近年の高等専門学校の卒業者数は 1.6 万人程度で推移し、 「就職も進学もしてい」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「（出所）文部科学省「学校基本調査」（2018）を基に、みずほ総合研究所作成」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「専修学校・外国」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「の学校等入学者」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「具体的には、ハローワークに」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「・企業における定年延長等の促進やハローワークにおける再就職支援の強化に取り組むとともに、シルバ」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+- 充足・欠員：
+  - 「特に中小企業では人手不足にも関わらず、厳しい経営状況や人件費の高騰で求人を控えるほか、賃上げが難しく採用難に陥るケースも少なくない」（https://www.tdb.co.jp/report/economic/20250325-employment2025/）
+  - 「また、採用後も退職者がいるため人員が安定しないのが課題」（建設、大企業）や、「人手不足のため、増員が必要なことは常に起こっているが、多くの企業が同じように不足なので、この状況を解決することは非常に困難である」（ソフト受託開発、中小企業）といった声が聞かれた」（https://www.tdb.co.jp/report/economic/20250325-employment2025/）
+  - 「人手不足のなか、余力のある大企業が人材獲得競争を勝ち抜いているのが現状」（輸送用機械・器具製造、小規模企業）のように、新入社員の採用意向はあるものの、大企業との初任給など賃金の格差拡大により、採用が難しくなっている中小企業の声も寄せられた」（https://www.tdb.co.jp/report/economic/20250325-employment2025/）
+  - 「特に中小企業においては、深刻な人手不足の状況下で採用意向はあるものの、経営状態が厳しく、賃上げの流れで上昇していく人件費の原資を確保できず採用を控えざるを得ない企業は少なくない」（https://www.tdb.co.jp/report/economic/20250325-employment2025/）
+  - 「物価高騰のなかで価格転嫁が進まず、上昇する人件費の原資確保が容易でない状況下で人手不足がさらに長期化すれば、中小企業の事業継続の可否についてより難しい判断を迫られることになりかねない」（https://www.tdb.co.jp/report/economic/20250325-employment2025/）
+  - 「＜参考＞正社員・非正社員の人手不足割合 月次推移」（https://www.tdb.co.jp/report/economic/20250325-employment2025/）
+  - 「有効求人倍率は1.27倍と、前年同月比で0.09pt減の微減傾向」（https://career-research.mynavi.jp/wp-content/uploads/2024/02/2024-2-jidosyakogyo.pdf）
+  - 「・有効求人倍率は求人数の回復により徐々に増加していたが、直近はやや落ち着いている」（https://career-research.mynavi.jp/wp-content/uploads/2024/02/2024-2-jidosyakogyo.pdf）
+  - 「2023年12月の数値をみると、有効求人倍率は1.27倍と、前年同月比0.09pt減と、微減で推移している」（https://career-research.mynavi.jp/wp-content/uploads/2024/02/2024-2-jidosyakogyo.pdf）
+  - 「厚生労働省「一般職業紹介状況」産業・事業所規模別新規求人数 パート含む（実数）より作成厚生労働省「一般職業紹介」有効求人倍率、新規求人数、有効求職者数 パート含む（季節調整値）より作成」（https://career-research.mynavi.jp/wp-content/uploads/2024/02/2024-2-jidosyakogyo.pdf）
+  - 「有効求人数 有効求職者数 有効求人倍率」（https://career-research.mynavi.jp/wp-content/uploads/2024/02/2024-2-jidosyakogyo.pdf）
+  - 「今後は人手不足感は依然高いままだが、有効求人倍率が緩やかに減少している事もあり、完全失業率は横ばいで推移すると予想される」（https://career-research.mynavi.jp/wp-content/uploads/2024/02/2024-2-jidosyakogyo.pdf）
+  - 「近年、景気拡大に伴って企業の人手不足は深刻化し、 その影響は経営体力に乏しい中小企業に」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「以上のような背景のもと、本研究では、 公開資料・統計を用いて、 我が国全体の人手不足及び」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「中小製造業の人手不足の実態について概観するとともに、 政府の政策的トレンド、中小製造業が」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+- 調査主体・時期：
+  - 「環境標語の例文と作り方｜工場・製造業ですぐ使える【2026年版】」（https://monozukuri-career.com/column/job-type/gyoshu/transport-machinery-manufacturing/）
+  - 「具体的には、コストスタディシステムを使用した原価見積り業務を通じてSE活動へ参画し、システム運用ルール策定と定着のサポート、及びシステム利用での原価見積り実施をお任せします」（https://www.pasonacareer.jp/job/81277813/）
+  - 「部品を三次元的に見ながらコスト解析を行い、それぞれの部品のコストがもっと安くならないかといった解析を実施します」（https://www.pasonacareer.jp/job/81277813/）
+  - 「・国内外拠点の物流実態調査、課題抽出 ・物流コストの集計、分析、改善提案 ・フォワーダー、3PLと連携した物流オペレーション支援 ・各事業部との課題解決、業務改善推進 将来的には最適物流網設計、SAP活用、BIによる可視化、物流DX推進、3PLマネジメント等を担当いただきます」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「■製品のコスト構造を深く理解し、CRやVAVE活動を主体的に推進 ■製品・部品レベルでのQCD（品質・コスト・納期）改善に向けた分析、課題抽出、および具体的な改善提案の実施 ■改善に向けたロードマップの作成、各ステップの計画立案、費用対効果の見積もり作成など 【業務内容の変更範囲】当社業務全般 募集職種 [福岡]機構設計・改良/交通信号機材/CR・VAVE活動推進/年休131日/Web面接可」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「【大阪・京都・滋賀】営業事務/事務未経験歓迎/年4回賞与/初年度年収630-700万 営業事務」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「企業名 株式会社キーエンス 求人名 【大阪・京都・滋賀】営業事務/事務未経験歓迎/年4回賞与/初年度年収630-700万 仕事の内容 【仕事内容】大阪営業所、京都営業所、滋賀営業所いずれかにて営業事務をお任せ」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「募集職種 【大阪・京都・滋賀】営業事務/事務未経験歓迎/年4回賞与/初年度年収630-700万」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「必要な経験・能力等 ★当社でご活躍期待できるポテンシャルを有している方 【人物像】・ロジカルシンキングで物事を捉えられる ・社内及び社外関係者と円滑なコミュニケーションを図れる ■2024年度から2026年度までの3ヵ年を対象とする「Daigasグループ中期経営計画2026」を策定しました」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「一般財団法人経済調査会」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「【総合職】未経験OK/公共事業を支える社会貢献 /離職率5.3%/賞与6ヶ月 市場調査」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「当会は公共事業を手掛ける発注機関向けの価格調査事業を行うことで、公正な情報を社会に提供しております」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「経済の調査研究、物価・工事費などの調査実施、報告書や月刊紙等を外部に発信しております」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「企業名 一般財団法人経済調査会 求人名 【総合職】未経験OK/公共事業を支える社会貢献◎/離職率5.3%/賞与6ヶ月 仕事の内容 当会は公共事業を手掛ける発注機関向けの価格調査事業を行うことで、公正な情報を社会に提供しております」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
+  - 「業務内容は1次選考の際に詳細ご説明します！【調査研究】建設資材価格や工事費、需給状況等の調査」（https://www.r-agent.com/job_search/area-fukuoka/prf-046/kw/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%20%E3%82%B3%E3%82%B9%E3%83%88%20%E6%94%B9%E5%96%84/）
 - 年間採用費：記載なし（読んだ36頁・検索6回）
-- 採用経路：記載なし（読んだ36頁・検索6回）
-- 充足・欠員：記載なし（読んだ36頁・検索6回）
-- 調査主体・時期：記載なし（読んだ36頁・検索6回）
 
 ## 地方（東北・北陸・中国・九州）の製造業の採用（regional manufacturers hiring Tohoku Hokuriku Kyushu Japan）
 - 文脈：地域
-- セグメント定義：記載なし（読んだ36頁・検索6回）
-- 採用単価：記載なし（読んだ36頁・検索6回）
+- セグメント定義：
+  - 「中途採用・経験者採用の状況や、採用した従業員が活躍する」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「経験採用者として雇用した従業員にアンケート調査を実施す」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「ンク）の持つ企業データから令和 3 年経済センサス（活動調査）における従業員規模別・業種」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「① 従業員規模 1,000 人以上は全数を調査対象とし、残る企業数を従業員規模 1,000 人未満に割」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「付け、その内訳は「299 人以下」と「300 人以上 999 人以下」をおよそ等しくする」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「② 「299 人以下」と「300 人以上 999 人以下」はそれぞれについて、割付けられた企業数を経」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「済センサスに合わせて業種別に割付ける」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「299 人以下 300~999 人 1000 人以上 総計」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「企業規模に応じた人数の従業員に」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「➢ 従業員数 299 人以下：２人」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「➢ 従業員数 300～999 人：３人」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「➢ 従業員数 1,000 人以上：４人」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「企業アンケートの企業規模別、業種別にみた割付数、回収数、回収率は以下の通り」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「図 3 企業アンケートの企業規模別、業種別にみた割付数、回収数、回収率」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「299人以下 300~999人」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+- 採用単価：
+  - 「年収は「300～400 万円未満」が 27.5%と最も多く、「400～500 万円未満」 （23.1%）、「500～」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「600 万円未満」 （14.7％） 、 「300 万円未満」 （12.5％）が続き、それらを合わせると 77.8％にな」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「り、600 万円未満の年収の労働者が全体の約８割を占めている」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「（※）平均値は各レンジの中央値（例： 「300～400 万円未満」⇒「349.5 万円」）を用いて算出した」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「01. 300万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「02. 300～400万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「03. 400～500万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「04. 500～600万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「05. 600～700万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「06. 700～800万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「07. 800～900万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「08. 900～1000万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「09. 1000～1200万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「10. 1200～1500万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「11. 1500～2000万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+- 採用経路：
+  - 「採用経路は、 「ハローワーク」と「求人広告」は現業職で、「人材紹介会社・転職エージェン」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「01. ハローワーク、ハローワークインター」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「02. 求人広告」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「03. 人材紹介会社・転職エージェントなど」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「08. 知人・社員等の紹介（縁故）」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「採用経路は、 「ハローワーク」は現業職（31.7％）で、「人材紹介会社・転職エージェントな」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「ど」は総合職（34.3%）で、「知人・社員等の紹介（縁故） 」は管理職（31.8%）で最も多く活用」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「01. ハローワーク、ハローワークインターネッ」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+- 充足・欠員：
+  - 「➢ 新卒・中途各採用の充足率」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「（注）採用できなかった場合でも、求人情報の掲載等の採用活動を行っている場合は「01. 中途採用の活動をし」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「（注）結果的に採用できなかった場合でも、求人情報の掲載等の採用活動を行っている場合は「01. 中途採用の活」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+- 調査主体・時期：
+  - 「おける情報公表その他取組に関する調査研究」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「第２章 本事業の実施概要 ..................................................................................................... 4」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「第２節 検討会の実施概要 ................................................................................................. 6」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「第３節 アンケート調査の概要 .......................................................................................... 8」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「第１項 調査の方法 ........................................................................................................ 8」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「第２項 調査対象企業の構成 .......................................................................................... 9」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「第３項 調査依頼数と回収状況 .................................................................................... 10」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「第４項 アンケート調査票の設問構成 ......................................................................... 12」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「第３章 アンケート調査結果 ............................................................................................... 17」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「第 5 章 調査結果のまとめ ................................................................................................. 131」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「第１節 アンケート調査結果のまとめ ........................................................................... 131」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「付録１ 「中途採用に関するアンケート調査」企業アンケート 調査票 .................... 134」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「付録２ 「中途採用に関するアンケート調査」労働者アンケート 調査票 ................ 134」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「このため、今般の調査研究においては、採用後における中途採用・経験者採用者の活躍に特」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「ージメント等を高める取組等がどのように行われ、労働者からの評価が高いのかについて調査、」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
 - 年間採用費：記載なし（読んだ36頁・検索6回）
-- 採用経路：記載なし（読んだ36頁・検索6回）
-- 充足・欠員：記載なし（読んだ36頁・検索6回）
-- 調査主体・時期：記載なし（読んだ36頁・検索6回）
 
 ## 首都圏・東海・関西の製造業の採用（manufacturers hiring Tokyo Tokai Kansai Japan）
 - 文脈：地域
-- セグメント定義：記載なし（読んだ36頁・検索6回）
-- 採用単価：記載なし（読んだ36頁・検索6回）
-- 年間採用費：記載なし（読んだ36頁・検索6回）
-- 採用経路：記載なし（読んだ36頁・検索6回）
-- 充足・欠員：記載なし（読んだ36頁・検索6回）
-- 調査主体・時期：記載なし（読んだ36頁・検索6回）
+- セグメント定義：
+  - 「【職種別】中途採用における求人広告費用の採用単価」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「【企業規模別】中途採用における求人広告費用の採用単価」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「【企業規模別】年間採用コストの相場」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「本章では、企業の採用担当者が押さえておくべき最新の採用コストデータを【計算方法】【雇用形態別】【職種別】【企業規模別】の4つの視点から集約して解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「【2024-2025動向】激変する職種別単価」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「企業規模別のコスト構造」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「以下は職種別の求人広告費用の平均採用単価一覧です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2025年度の従業員規模別、1人あたりの転職サイト（求人広告）の相場です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「1001人以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「1,001人以上の大企業は採用難易度の高さやプロモーション規模で高騰」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「1,001人以上の大企業においては、1人あたりの求人広告費の基準が大きく跳ね上がります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「自社が300人以下の中小規模であれば、まずはターゲットを絞った特化型媒体の活用により無駄な広告費を抑えやすくなります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「中途採用における年間の採用予算と、実際にかかった費用の平均値を企業規模別に解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「従業員数が多い企業ほど、事業拡大や退職補充による採用ニーズが高まるため、年間の投資額は大きくなります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+- 採用単価：
+  - 「中途採用コストの平均単価や相場、費用【2026年最新版】削減ポイントを解説」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「1．採用コストの相場」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2．そもそも採用コストとは？」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「3．採用コスト削減のポイント」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「年収は「300～400 万円未満」が 27.5%と最も多く、「400～500 万円未満」 （23.1%）、「500～」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「600 万円未満」 （14.7％） 、 「300 万円未満」 （12.5％）が続き、それらを合わせると 77.8％にな」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「り、600 万円未満の年収の労働者が全体の約８割を占めている」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「（※）平均値は各レンジの中央値（例： 「300～400 万円未満」⇒「349.5 万円」）を用いて算出した」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「01. 300万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「02. 300～400万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「03. 400～500万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「04. 500～600万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「05. 600～700万円未満」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+- 年間採用費：
+  - 「：知名度やスケールメリットが広告費・年間総予算（最大1,470万円）に与える影響」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「コロナ禍以降の採用急回復期（2024年頃まで）の一時的な広告費高騰が落ち着きを見せたこと、またタイミーなどの「スポットバイト（スキマバイト）」アプリの普及、SNSや無料求人媒体を活用した効率的な採用手法（採用オウンドメディアなど）へのシフトが進んだことが要因と考えられます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「企業の規模によって1人あたりにかける求人広告費に差が生じています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「転職サイトの長期掲載プランや複数名採用枠などを活用することで、広告のボリュームディスカウントが利きやすくなり、1人あたりの求人広告費を27.1万円と最も低く抑えられている」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「1,001人以上の大企業においては、1人あたりの求人広告費の基準が大きく跳ね上がります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+- 採用経路：
+  - 「Indeed・」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「【職種別】中途採用における求人広告費用の採用単価」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「【企業規模別】中途採用における求人広告費用の採用単価」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「求人広告サイトの見直し」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「1．求人ボックス」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「：採用コスト（採用単価）と求人広告費用の明確な違いと算出式」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「これに対し、採用コストの中でも求人広告費にかかるコストを「求人広告費用」といいます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「「求人広告費総額」÷「採用人数」＝「一人あたりの求人広告費用」」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「以下は職種別の求人広告費用の平均採用単価一覧です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「求人広告の手法だけでなく、ダイレクトリクルーティングや人材紹介の併用を迫られるケースも増えています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2025年度の従業員規模別、1人あたりの転職サイト（求人広告）の相場です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「企業の規模によって1人あたりにかける求人広告費に差が生じています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「一人あたりの求人広告費」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「転職サイトの長期掲載プランや複数名採用枠などを活用することで、広告のボリュームディスカウントが利きやすくなり、1人あたりの求人広告費を27.1万円と最も低く抑えられている」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+- 充足・欠員：
+  - 「国内の製造業の国内回帰や、建設ラッシュに伴う慢性的な人手不足が影響しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「計画通りに採用が進まなかった（採用未充足）ケースや、無料のハローワーク、安価な求人媒体、リファラル採用（社員紹介）などをうまく組み合わせてコストを抑えられた企業が多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「定期的に使用している場合、「何十万円も費用をかけているにもかかわらず、一人しか採用できなかった」「一人も応募が来なかった」などの声もあります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「採用工数や人手不足が一気に解消され、コア業務に集中できるメリットがあります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「つまり、中小企業の採用課題は「人手不足」よりも、「採用に必要な時間と労力の負担」にあるといえます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「➢ 新卒・中途各採用の充足率」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「（注）採用できなかった場合でも、求人情報の掲載等の採用活動を行っている場合は「01. 中途採用の活動をし」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「（注）結果的に採用できなかった場合でも、求人情報の掲載等の採用活動を行っている場合は「01. 中途採用の活」（https://www.mhlw.go.jp/content/11600000/001489721.pdf）
+  - 「働きたい人に働きたいだけ働いてもらわねば人手不足は解消できない」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「業界が相対的に人手不足であり、2024年問題も大きな課題になっている」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「こうした人手不足の状況は、労働力人口の減少に伴って、今後も持続することが見込まれ、企業は様々な採用活動上の工夫に取り組んでいる」（https://www.chukiken.or.jp/report/1627/）
+  - 「以上を踏まえて、本研究は、経営資源に制約のある中小製造業の技能人材の確保におけるポイントを明らかにし、今後もますます深刻化することが見込まれる人手不足に対応するための取組の方向性を示すことを目的とする」（https://www.chukiken.or.jp/report/1627/）
+  - 「既存の文献や統計を用いて、我が国全体の人手不足及び中小製造業の人手不足の実態について確認するとともに、政府の政策のトレンドについて整理した」（https://www.chukiken.or.jp/report/1627/）
+  - 「第1章 我が国の人手不足の行方と中小製造業の現状」（https://www.chukiken.or.jp/report/1627/）
+  - 「1．今後の人手不足の行方」（https://www.chukiken.or.jp/report/1627/）
+- 調査主体・時期：
+  - 「就職白書2020」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2024年度と2025年度の比較ができます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「中途採用状況調査2026年版（2025年実績）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2025年度の従業員規模別、1人あたりの転職サイト（求人広告）の相場です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「年度や成果によって定期的に見直しをかけ一番効果的な採用手法を選択すると良いでしょう」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「採用にまつわる独自の調査レポートが届く」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「マイナビ『2025年卒 企業新卒内定状況調査』」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「「新卒採用状況調査2025年版」」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一方、株式会社マイナビが発表した」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「「中途採用状況調査2025年版」」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「この比較により、最も費用対効果の高いチャネルを特定し、次年度の予算配分を見直せます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「株式会社リクルート 就職みらい研究所が発表した」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「「就職白書2020」」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「同調査では、中途採用の平均採用単価は」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「また、「就職白書2019」では、業種別の新卒採用単価が以下のように報告されています」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）

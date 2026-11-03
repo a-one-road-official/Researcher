@@ -1,0 +1,587 @@
+{
+ "name": "3Dプリンター販売代理店のマージン",
+ "en": "3D printer reseller margin",
+ "aliases": [
+  "3Dプリンター 代理店 マージン",
+  "3D printer dealer margin",
+  "reseller discount 3D printer"
+ ],
+ "context": "②卓上金属AM",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:57:58.108278+00:00",
+ "evidence": {
+  "単価・価格": [
+   {
+    "quote": "Over time, the market split. Large trading companies - with excellent IT systems, large warehouses, and strong online presence - took the lead. Sales grew from hundreds to thousands of units per month. Today, selling 100 printers a month is not an achievement - it’s essentially the entry level.",
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "You need the right infrastructure - both IT and physical (a warehouse of at least a few hundred square meters), the right team, well-developed sales channels (with other products), and above all, a vision for growth and scalability - from 100 to 1000 printers per month.",
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Save up to 140 USD",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Saving up to 300 USD",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Adoption varies by industry. Aerospace and automotive use 3D printing for lightweight parts, tooling, and spare components where certification and material performance justify higher prices.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "支払いを代行するアカウントの料金は、顧客ごとにクレジットカードを使うのではなく、月1回のパートナー向け請求書にまとめられます",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "場合、アカウントのサブスクリプション料金は月1回のパートナー向け合算請求書に含まれます",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   }
+  ],
+  "取り分・マージン": [
+   {
+    "quote": "Why old-school 3D printer resellers are doomed to fail",
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Everyone wants to sell Bambu Lab 3D printers. Everyone wants to become a reseller. But not everyone should. And the Bambu Lab brand has nothing to do with it.",
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "During last week’s Formnext trade show in Frankfurt am Main, I met with several dozen reseller candidates from a dozen Central European countries. Apart from literally a few, the vast majority were small companies with only a few employees. Each of them hoped to establish contact and cooperation, and implicitly, to transform their business and take it to a much higher level thanks to Bambu Lab.",
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Even when Creality3D eventually started to gain a dominant market position, it was still the domain of hobbyists and amateurs. No reseller company treated it seriously - and if they added it to their portfolio, it was only as a curiosity or experiment. An experiment that usually ended in failure because the margins on those printers were tiny and customers extremely demanding.",
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Worse yet, customers quickly realized this and started buying them en masse. Some directly from Bambu Lab’s store, others through a rapidly growing reseller network.",
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "This expanding reseller network consisted of two types of companies: the old ones, which added Bambu Lab alongside Ultimaker and Raise3D (and often also Formlabs or Phrozen), and completely new ones focused on mass sales, for which Bambu Lab was just another product next to microcontrollers, Arduino boards, or other hobbyist electronics.",
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "This is why my conversations at Formnext went the way they did. It wasn’t about rejecting new partners for the reseller network. These companies just weren’t ready.",
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Is a 3D Printing Business Profitable? Margins & Realities",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you make prototypes, short-run products, or replacement parts, your printer choice shapes your margins and lead times.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "This article shows how to evaluate market opportunities, compare business models, and break down costs and margins so you can decide if a 3D print business fits your goals.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "On-demand manufacturing and design consulting carry better margins than selling finished goods alone.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Margins demand tracking:",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Aim for 30–60% gross margin per job, then watch overhead carefully.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Selling design-for-manufacture consulting alongside printing boosts margins.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": ", phone cases, and hobby miniatures perform online with good margins if you control design and branding.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Medical and dental sectors pay premiums for precision items like implants, surgical guides, and prosthetics. These markets need regulatory compliance, but they deliver repeatable, high-margin work.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Focus on high-margin items that need custom work—personalized items and limited-run collectibles usually earn more than generic mass-produced pieces.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Cost Structure, Margins, and Profitability Factors",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing that yields a healthy gross margin is key. Managing failed prints, post-processing time, and the right printer and material mix can make the difference between profit and loss.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Gross Margin and Net Profit Calculation",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Calculate gross margin per job as (Revenue − Direct Costs) / Revenue.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Discover 50+ profitable 3D printed products with strong margins. Step-by-step guide to building a serious 3D printing business in 2026.",
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "pass": 3
+   },
+   {
+    "quote": "The Profit Margin Advantage",
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Top 3D printing product categories deliver 60–85% profit margins with material costs of $0.50–$3 per item, per Insight Agent's 2026 Etsy analysis",
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Offer multi-room bundles at a progressive discount to increase average order value",
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Gaming accessories combine a large, engaged buyer base with strong margins—the global tabletop miniatures market was valued at $3.8 billion in 2025 per Marketintelo",
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "pass": 3
+   },
+   {
+    "quote": "How do profit margins compare to traditional e-commerce models?",
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "pass": 3
+   },
+   {
+    "quote": "high profit margin products",
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margin calculator",
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Cost, shipping, fees and ad spend against a retail price — real net margin and breakeven.",
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Candidate retail prices with the margin each one actually leaves you.",
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "pass": 3
+   },
+   {
+    "quote": "請求とマージンはどのような仕組みですか？",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   }
+  ],
+  "市場規模・台数": [
+   {
+    "quote": "Over time, the market split. Large trading companies - with excellent IT systems, large warehouses, and strong online presence - took the lead. Sales grew from hundreds to thousands of units per month. Today, selling 100 printers a month is not an achievement - it’s essentially the entry level.",
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "You will find high-growth niches and rising market size estimates across industries. These factors shape where a 3D printing business can earn steady revenue and scale.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   },
+   {
+    "quote": "Forecasts vary, but expect double-digit CAGR ranges and market size expanding from tens of billions toward triple digits by the early 2030s.",
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "サービスの稼働状況を確認",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを比較する",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "必要な条件で絞り込み、プリンターを並べて比較",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型とオンプレミス型の3Dプリンター管理を比較する",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値再販業者向け:提供する各プリンターに、数クリックで設定できる管理対象のSimplyPrintアカウントが付属します",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "レンタルまたは販売するハードウェアにSimplyPrintを組み合わせれば、すぐに使えて管理できる製品としてプリンターを提供できます",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "プリンターのレンタルやリースを提供",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアの販売を継続的な管理サービスにつなげます",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "提供するハードウェアとセット",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のプリンター一覧",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "すべてのアカウントを一覧表示",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー向け料金と案件ごとの柔軟性：顧客のサブスクリプション料金を支払う場合、レンタルやサービスの一部として顧客に請求する金額は自由に設定できます",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "同じパートナー向け機能で、一元管理、学区のSSO、学校ごとのアカウントを提供します",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のプリンター群とサービスをまとめて提供",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "レンタルやサービスの料金にサブスクリプション費用を組み込み、独自の利益を上乗せできます",
+    "url": "https://simplyprint.io/ja/resellers",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://partners.solize.com/3dp-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1eff10w/what_margin_have_you_been_able_to_squeeze_out_of/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://formlabs.com/jp/company/partners/become-a-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imagemagic.jp/ceoblog/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%BD%E5%86%85%E7%8B%AC%E5%8D%A0%E8%B2%A9%E5%A3%B2%E5%A5%91%E7%B4%84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3d-printer.jp/stratasys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3d-printer-side-business-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/how-to-calculate-3d-printer-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make.dmm.com/blog/3dprinter/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3day-printer.com/media/column/3d-printer-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oa-kanji.com/posts/3d-print-service-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101902",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8552/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/dokodekau",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5185/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/3dprinter-hanbai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recmbus-3dprint.com/check/agency.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/what/recommend",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unolaboratory.com/3dprinter-brands/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/BambuLab/comments/1pb09se/for_those_who_sell_their_3d_prints_what_kind_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://filaquote.com/guides/3d-printing-profit-margin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grandpacad.com/en/blog/how-to-make-money-with-a-3d-printer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://batonz.jp/sell_cases/94728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/ja/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/3d-2025-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/jXcouJ0B-x-dxYpbSAvN",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3Dプリンター販売代理店のマージン",
+   "results": [
+    "https://partners.solize.com/3dp-sales",
+    "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "https://www.reddit.com/r/3Dprinting/comments/1eff10w/what_margin_have_you_been_able_to_squeeze_out_of/?tl=ja",
+    "https://formlabs.com/jp/company/partners/become-a-reseller/",
+    "https://imagemagic.jp/ceoblog/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%BD%E5%86%85%E7%8B%AC%E5%8D%A0%E8%B2%A9%E5%A3%B2%E5%A5%91%E7%B4%84",
+    "https://www.3d-printer.jp/stratasys/",
+    "https://skhonpo.com/blogs/3dprinter-practice/3d-printer-side-business-guide-2026",
+    "https://form.3fit.net/service/",
+    "https://www.recmbus-3dprint.com/check/agency.html",
+    "https://3d-with.com/business/3d-printer-distributors"
+   ]
+  },
+  {
+   "query": "3Dプリンター販売代理店のマージン 料金 相場",
+   "results": [
+    "https://skhonpo.com/blogs/3dprinter-practice/3d-printer-side-business-guide-2026",
+    "https://www.reddit.com/r/3Dprinting/comments/1eff10w/what_margin_have_you_been_able_to_squeeze_out_of/?tl=ja",
+    "https://formlabs.com/jp/blog/how-to-calculate-3d-printer-cost/",
+    "https://make.dmm.com/blog/3dprinter/price/",
+    "https://3day-printer.com/media/column/3d-printer-price/",
+    "https://oa-kanji.com/posts/3d-print-service-price",
+    "https://news.sharelab.jp/study/price/",
+    "https://imagemagic.jp/ceoblog/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%BD%E5%86%85%E7%8B%AC%E5%8D%A0%E8%B2%A9%E5%A3%B2%E5%A5%91%E7%B4%84",
+    "https://partners.solize.com/3dp-sales",
+    "https://b-seeds.com/column/agency-commission-rate"
+   ]
+  },
+  {
+   "query": "3Dプリンター販売代理店のマージン 規模別 社数",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "https://manufacture.it-trend.jp/3d-printer/article/3d-printer-maker/",
+    "https://www.reddit.com/r/3Dprinting/comments/1eff10w/what_margin_have_you_been_able_to_squeeze_out_of/?tl=ja",
+    "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101902",
+    "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "https://metoree.com/categories/8552/",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "https://www.gcj-page.or.jp/gcj/monthly-report/monthly-report-2409/",
+    "https://3d-printer-house.com/shop/3dprinter-shosha/"
+   ]
+  },
+  {
+   "query": "3Dプリンター販売代理店のマージン 比較 一覧",
+   "results": [
+    "https://news.sharelab.jp/study/study-usageguide-dealers/",
+    "https://skhonpo.com/blogs/3dprinter-practice/dokodekau",
+    "https://metoree.com/categories/5185/",
+    "https://partners.solize.com/3dp-sales",
+    "https://cad-kenkyujo.com/3dprinter-hanbai/",
+    "https://www.recmbus-3dprint.com/check/agency.html",
+    "https://make.dmm.com/blog/3dprinter/price/",
+    "https://www.ricoh.co.jp/3dp/what/recommend",
+    "https://unolaboratory.com/3dprinter-brands/"
+   ]
+  },
+  {
+   "query": "3D printer reseller margin",
+   "results": [
+    "https://www.reddit.com/r/BambuLab/comments/1pb09se/for_those_who_sell_their_3d_prints_what_kind_of/",
+    "https://www.3dprintingjournal.com/p/why-old-school-3d-printer-resellers",
+    "https://filaquote.com/guides/3d-printing-profit-margin/",
+    "https://siraya.tech/blogs/news/is-a-3d-printing-business-profitable?srsltid=AYCX9vIvrsGD9c87zKaziXiJvC0JQ84I45I9iFs8tZk1IEEduXCeK-NE",
+    "https://dropship-spy.com/blog/best-things-to-3d-print-and-sell-in-2025-profit-guide",
+    "https://www.facebook.com/fb-answers/3d-printing-business-profit-margins/?locale=ms_MY",
+    "https://grandpacad.com/en/blog/how-to-make-money-with-a-3d-printer",
+    "https://bigrep.com/become-a-reseller/",
+    "https://colourlabelprinter.com/3d-printer-profit-margins/",
+    "https://useacalculator.com/guides/is-3d-printing-profitable"
+   ]
+  },
+  {
+   "query": "3Dプリンター販売代理店のマージン 2025 OR 2026",
+   "results": [
+    "https://www.reddit.com/r/3Dprinting/comments/1eff10w/what_margin_have_you_been_able_to_squeeze_out_of/?tl=ja",
+    "https://formlabs.com/jp/company/partners/become-a-reseller/",
+    "https://batonz.jp/sell_cases/94728",
+    "https://news.sharelab.jp/category/3dp-news/ir/",
+    "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "https://metoree.com/categories/5185/",
+    "https://simplyprint.io/ja/resellers",
+    "https://skhonpo.com/blogs/blog/3d-2025-2026",
+    "https://finance.biggo.jp/news/jXcouJ0B-x-dxYpbSAvN"
+   ]
+  }
+ ],
+ "missing": {
+  "売り先の数": "記載なし（読んだ35頁・検索6回）",
+  "補助金": "記載なし（読んだ35頁・検索6回）",
+  "導入期間・キャッシュ": "記載なし（読んだ35頁・検索6回）"
+ }
+}

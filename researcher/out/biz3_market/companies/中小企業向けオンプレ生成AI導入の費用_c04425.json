@@ -1,0 +1,890 @@
+{
+ "name": "中小企業向けオンプレ生成AI導入の費用",
+ "en": "on-premise generative AI SMB Japan cost",
+ "aliases": [
+  "オンプレ 生成AI 費用",
+  "ローカルLLM 導入費用",
+  "社内生成AI オンプレ 価格"
+ ],
+ "context": "①Yomi",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:58:23.996197+00:00",
+ "evidence": {
+  "売り先の数": [
+   {
+    "quote": "AI導入費用の相場は？プロジェクト規模別の目安",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "モデル規模別の推奨構成",
+    "url": "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "pass": 3
+   }
+  ],
+  "単価・価格": [
+   {
+    "quote": "中規模プロジェクト（1,000万円前後）の費用内訳",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "最低でも月額10万円程度の運用費用",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～200万円",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～300万円",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "40万円～500万円",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円～2,000万円以上",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "200万円～1,500万円以上",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの高性能サーバーは1台数百万円以上と非常に高価であり、導入するモデルの規模や利用ユーザー数によっては複数台必要になることもあります",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、比較可能な構成でオンプレの初期差額を仮に1,200万円、クラウドの月間総費用を仮に100万円、オンプレの月間運用費を仮に60万円と置けば、単純計算では30カ月です",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "1,200万円 ÷（100万円 − 60万円）= 30カ月",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は40万円〜200万円程度",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "100万円〜数百万円程度",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "100万円〜500万円以上",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円以上",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "5万円〜数百万円",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "月額で約5万円～20万円、年間では50万円〜250万円程度",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "800,000円～/月額",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "300,000円～/月額",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "150万円～/月額",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "3,000円～/人",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "マーケコストを月100万円削減",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "550,000～円/回",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "100,000円～/月",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】Illustrator vs Canva！機能や価格、習得難易度などを徹底比較",
+    "url": "https://cad-kenkyujo.com/on-play-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】ノートンセキュリティとは？いらないのかや価格・評価・解約方法も解説",
+    "url": "https://cad-kenkyujo.com/on-play-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "980万円から導入できるオンプレミス生成AI「EdgeLLM」提供開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用980万円〜、外部送信ゼロの完全オンプレミス構成",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   },
+   {
+    "quote": "「国内AIインフラのAPOLLO11」の株式会社APOLLO11（本社：愛知県名古屋市、代表取締役：吉丸 彰）は、機密情報を外部に出さないオンプレミス生成AI基盤「EdgeLLM」の提供を開始し、価格を公開したことをお知らせいたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用980万円〜（税込・参考価格）と明確なパッケージ価格を公開（GPUの価格変動以外はパッケージ料金）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   },
+   {
+    "quote": "1. 完全オンプレミス＋価格公開",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用980万円〜（税込・参考価格）と、明確なパッケージ価格感を公開（GPUの価格変動以外はパッケージ料金）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   },
+   {
+    "quote": "：980万円〜（画像理解＋長文脈、同時利用者約5人）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   },
+   {
+    "quote": "：1,980万円〜（エージェントAI、同時利用者5〜6人）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   },
+   {
+    "quote": "：1,980万円〜（超長文脈、500K×2コンテキスト）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   },
+   {
+    "quote": "※価格にはハードウェア一式、設置、推論環境構築、ユーザーオンボーディング、文書化、管理者研修（半日）、1か月集中サポートが含まれます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   }
+  ],
+  "市場規模・台数": [
+   {
+    "quote": "3年で約1億円のコスト削減",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "年間3億円の売上増加",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "最大1億円超",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "AI導入に使える補助金・助成金",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、一部の国や自治体が提供する補助金や助成金を活用することで、初期投資の負担を大幅に軽減できるのです",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "以下におもな補助金・助成金制度をまとめました",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "事業再構築補助金",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入に使える補助金・助成金について詳しく知りたい方は、下記の記事もご覧ください",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年版】AI導入補助金で社内のDXを加速！制度の種類から申請方法までを徹底解説",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入補助金で社内のDXを加速！制度の種類や申請方法を解説",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "5．補助金を前提に成立させる",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "補助制度は採択、対象経費、期間などの条件があります",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 補助金を使えばROIは必ず良くなりますか？",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "A. 初期負担が下がる可能性はありますが、採択や対象経費は保証されません",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金、DX推進補助金などの公的支援制度を活用",
+    "url": "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "AI種類別の導入費用相場を比較",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS型AIとカスタム開発の費用比較",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "既存サービスを活用する",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットボットはAIの中でも比較的導入しやすく、顧客対応や社内問い合わせの効率化に効果を発揮",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS型AIは、専門的な開発知識がなくても比較的短期間で導入できるのが利点のひとつです",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "以下にオープンソースと商用ツールの比較、クラウドAPIとオンプレミスの比較をまとめました",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "以下に目的別おすすめのSaaS型AIサービスを紹介します",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめサービス",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "API連携による開発コスト削減効果は非常に大きく、自社開発と比較して開発期間を1/3に短縮できるケースも珍しくありません",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、一部の国や自治体が提供する補助金や助成金を活用することで、初期投資の負担を大幅に軽減できるのです",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "AIツール、クラウドサービス導入",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-OCRの導入事例8選｜金融・医療・製造・自治体などで成果を上げた事例を紹介",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "資料一覧を見る →",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者ご本人とともに、AIで会社の仕組みをつくり直す、SHIFT AIの経営者向けサービスです",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "オプション品対応機種一覧",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "PCアセットモニタリングサービス",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルコールチェック管理サービス",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション一覧",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "各種ソリューションサービス：",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "保守パックサービス",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けdynabook修理サービス",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "（発表年別製品一覧）",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIのビジネス活用が急速に進む中、クラウドサービスの利用には情報漏洩のリスクが伴います",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "本ガイドでは、オンプレミス環境で生成AIを導入するメリット・デメリットから、具体的な構築方法、セキュアなデータ活用術までを網羅的に解説し、安全なビジネス活用を実現するための知識を提供します",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "外部のクラウドサービスを利用するのではなく、自社のデータセンターやサーバールームといった物理的な施設内にインフラを設置します",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "通常、インターネット経由で利用するChatGPTのようなクラウド型サービスとは異なり、社内ネットワークなど閉じた環境でAIを運用します",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型AIサービスとの決定的な違いを比較",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミス型とクラウド型のAIサービスにおける決定的な違いは、「システムの管理場所」と「データの保管場所」にあります",
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年8月最新】生成AIの費用はいくら？クラウド型とオンプレ型のコスト・ROI比較｜株式会社AIworker",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年8月最新】生成AIの費用はいくら？クラウド型とオンプレ型のコスト・ROI比較",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、製品ごとの価格表ではなく、自社の数字でクラウド型とオンプレ型を比較する方法を解説します",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "本記事の計算例は考え方を示す仮定であり、サービス価格や効果を保証するものではありません",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "比較の対象は、製品名ではなく「同じ業務を同じ品質と安全性で実行する構成」にそろえます",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、オンプレ費用は一定ではなく、必要な処理能力とサービス水準に応じて段階的に増えます",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "比較期間は、自社の設備更改や契約期間に合わせます",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレだけに冗長化や人件費を含め、クラウドの開発・監視費を外す比較も、その逆も正しくありません",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、比較条件が同じ場合に限ります",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、比較可能な構成でオンプレの初期差額を仮に1,200万円、クラウドの月間総費用を仮に100万円、オンプレの月間運用費を仮に60万円と置けば、単純計算では30カ月です",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレ生成AIとクラウド型生成AIの比較記事",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドとオンプレを同じ品質・可用性・安全性で比較している",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "実利用者数、利用頻度、入出力量、ピーク負荷、必要品質、運用費を測り、同じ条件のTCOを比較します",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "安定した負荷では予約容量を検討できるサービスもあります",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドとオンプレを同じ品質・安全性・可用性で比較する",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "【26年最新】生成AI導入支援サービスおすすめ比較31選！企業に最適な選び方ガイド - 起業LOG SaaS",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "【26年最新】生成AI導入支援サービスおすすめ比較31選！企業に最適な選び方ガイド",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI導入支援サービスは、",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "企業が生成AIをスムーズに導入し、効果的に活用するためのサポートを行うサービス",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、生成AI導入支援サービス31選を徹底比較し、それぞれの特徴や強みを詳しく紹介します",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "企業が生成AI導入支援サービスを選ぶ際のポイントや、サービスに関する基礎知識、導入メリットなども解説しているので、ぜひ参考にしてみてください",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "独自調査の比較表",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "サービスがわかる！",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "できてサービス選択に失敗しない！",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI導入支援サービスに依頼できる業務",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI導入支援サービスの費用相場",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI導入支援サービスを利用するメリット",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI導入支援サービス比較表",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "特におすすめ！生成AI導入支援サービス5選",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "その他おすすめ！生成AI導入支援サービス",
+    "url": "https://kigyolog.com/service.php?id=675",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア一覧",
+    "url": "https://cad-kenkyujo.com/on-play-ai/",
+    "pass": 3
+   }
+  ],
+  "導入期間・キャッシュ": [
+   {
+    "quote": "投資回収期間",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "比較期間は、自社の設備更改や契約期間に合わせます",
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "pass": 3
+   },
+   {
+    "quote": "標準導入期間5〜6週間で、コンサルティングから構築・運用保守まで一括提供いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   },
+   {
+    "quote": "標準導入期間：5〜6週間",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://main.sr-konishi.jp/senmon-support/ai-donyuhiyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corinaie.com/ai-cost-small-business-100man-guide/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aidma-hd.jp/ai/generative-ai-hiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://malna.co.jp/blog/ai_developmentcost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make-a-hit.co.jp/column/ai-introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud-bit.jp/blog/generative-ai-pricing-cost-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aidma-hd.jp/ai/seseiai-consaru/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://syusodo.co.jp/blog/articles/ai-adoption-rate-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd112220.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icr.co.jp/publicity/5325.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mic-r.co.jp/mr/03170/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000354.000072123.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usknet.com/dxgo/contents/dx-trend/thorough-comparison-of-16-generative-ai-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/category_page/generative-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kigyolog.com/service.php?id=675",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/on-play-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-ok.jp/ai-implementation-cost-breakdown-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.step-out.jp/blog/2026-03-25-genai-introduction-cost-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lenovopress.lenovo.com/lp2225-on-premise-vs-cloud-generative-ai-total-cost-of-ownership-2025-edition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://done.lu/on-premise-ai-for-smbs-a-practical-2026-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1shwqgo/how_much_does_it_actually_cost_to_implement_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://indatalabs.com/blog/cost-of-generative-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/blog/ai-tools-for-small-business/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-joseikin.com/2149/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業向けオンプレ生成AI導入の費用",
+   "results": [
+    "https://main.sr-konishi.jp/senmon-support/ai-donyuhiyo",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://corinaie.com/ai-cost-small-business-100man-guide/",
+    "https://www.aidma-hd.jp/ai/generative-ai-hiyo/",
+    "https://neural-opt.com/generative-ai-fees/",
+    "https://malna.co.jp/blog/ai_developmentcost/",
+    "https://cad-kenkyujo.com/on-play-ai/",
+    "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "https://aicafe.jp/aidounyuu-kosuto/",
+    "https://www.step-out.jp/blog/2026-03-25-genai-introduction-cost-guide"
+   ]
+  },
+  {
+   "query": "中小企業向けオンプレ生成AI導入の費用 料金 相場",
+   "results": [
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://make-a-hit.co.jp/column/ai-introduction/",
+    "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "https://cloud-bit.jp/blog/generative-ai-pricing-cost-comparison",
+    "https://neural-opt.com/generative-ai-fees/",
+    "https://corinaie.com/ai-cost-small-business-100man-guide/",
+    "https://www.aidma-hd.jp/ai/seseiai-consaru/",
+    "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "https://www.step-out.jp/blog/2026-03-25-genai-introduction-cost-guide"
+   ]
+  },
+  {
+   "query": "中小企業向けオンプレ生成AI導入の費用 規模別 社数",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://syusodo.co.jp/blog/articles/ai-adoption-rate-small-business",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd112220.html",
+    "https://www.icr.co.jp/publicity/5325.html",
+    "https://mic-r.co.jp/mr/03170/",
+    "https://main.sr-konishi.jp/senmon-support/ai-donyuhiyo",
+    "https://prtimes.jp/main/html/rd/p/000000354.000072123.html",
+    "https://neural-opt.com/generative-ai-support-company/",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://www.step-out.jp/blog/2026-03-25-genai-introduction-cost-guide"
+   ]
+  },
+  {
+   "query": "中小企業向けオンプレ生成AI導入の費用 比較 一覧",
+   "results": [
+    "https://usknet.com/dxgo/contents/dx-trend/thorough-comparison-of-16-generative-ai-services/",
+    "https://main.sr-konishi.jp/senmon-support/ai-donyuhiyo",
+    "https://aismiley.co.jp/category_page/generative-ai/",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://kigyolog.com/service.php?id=675",
+    "https://corinaie.com/ai-cost-small-business-100man-guide/",
+    "https://www.aidma-hd.jp/ai/generative-ai-hiyo/",
+    "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "https://cad-kenkyujo.com/on-play-ai/",
+    "https://note.com/ai__worker/n/n6a8c44ed3bc0"
+   ]
+  },
+  {
+   "query": "on-premise generative AI SMB Japan cost",
+   "results": [
+    "https://lenovopress.lenovo.com/lp2225-on-premise-vs-cloud-generative-ai-total-cost-of-ownership-2025-edition",
+    "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://done.lu/on-premise-ai-for-smbs-a-practical-2026-guide/",
+    "https://www.reddit.com/r/ArtificialInteligence/comments/1shwqgo/how_much_does_it_actually_cost_to_implement_ai/",
+    "https://indatalabs.com/blog/cost-of-generative-ai",
+    "https://www.shambix.com/on-premise-ai-for-business/",
+    "https://info.flexera.com/CM-REPORT-State-of-the-Cloud?lead_source=Organic%20Search",
+    "https://www.tfsfventures.com/blog/ai-agent-deployment-cost-for-construction-in-japan-what-to-budget",
+    "https://www.oflight.co.jp/en/columns/generative-ai-employee-training-cost-2026"
+   ]
+  },
+  {
+   "query": "中小企業向けオンプレ生成AI導入の費用 2025 OR 2026",
+   "results": [
+    "https://www.salesforce.com/jp/blog/ai-tools-for-small-business/",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://syusodo.co.jp/blog/articles/ai-adoption-rate-small-business",
+    "https://hojokin-joseikin.com/2149/",
+    "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "https://main.sr-konishi.jp/senmon-support/ai-donyuhiyo",
+    "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/"
+   ]
+  }
+ ],
+ "missing": {
+  "取り分・マージン": "記載なし（読んだ35頁・検索6回）"
+ }
+}

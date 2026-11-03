@@ -1,0 +1,644 @@
+{
+ "name": "地方（東北・北陸・中国・九州）の製造業の採用",
+ "en": "regional manufacturers hiring Tohoku Hokuriku Kyushu Japan",
+ "aliases": [
+  "地方 製造業 採用経路",
+  "地方 工場 採用費"
+ ],
+ "context": "地域",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:00:36.892746+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "中途採用・経験者採用の状況や、採用した従業員が活躍する",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経験採用者として雇用した従業員にアンケート調査を実施す",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ンク）の持つ企業データから令和 3 年経済センサス（活動調査）における従業員規模別・業種",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 従業員規模 1,000 人以上は全数を調査対象とし、残る企業数を従業員規模 1,000 人未満に割",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付け、その内訳は「299 人以下」と「300 人以上 999 人以下」をおよそ等しくする",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 「299 人以下」と「300 人以上 999 人以下」はそれぞれについて、割付けられた企業数を経",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "済センサスに合わせて業種別に割付ける",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "299 人以下 300~999 人 1000 人以上 総計",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模に応じた人数の従業員に",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 従業員数 299 人以下：２人",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 従業員数 300～999 人：３人",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 従業員数 1,000 人以上：４人",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業アンケートの企業規模別、業種別にみた割付数、回収数、回収率は以下の通り",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 3 企業アンケートの企業規模別、業種別にみた割付数、回収数、回収率",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "299人以下 300~999人",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "年収は「300～400 万円未満」が 27.5%と最も多く、「400～500 万円未満」 （23.1%）、「500～",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "600 万円未満」 （14.7％） 、 「300 万円未満」 （12.5％）が続き、それらを合わせると 77.8％にな",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、600 万円未満の年収の労働者が全体の約８割を占めている",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※）平均値は各レンジの中央値（例： 「300～400 万円未満」⇒「349.5 万円」）を用いて算出した",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "01. 300万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "02. 300～400万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03. 400～500万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "04. 500～600万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "05. 600～700万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "06. 700～800万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "07. 800～900万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "08. 900～1000万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "09. 1000～1200万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10. 1200～1500万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11. 1500～2000万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "採用経路は、 「ハローワーク」と「求人広告」は現業職で、「人材紹介会社・転職エージェン",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "01. ハローワーク、ハローワークインター",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "02. 求人広告",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03. 人材紹介会社・転職エージェントなど",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "08. 知人・社員等の紹介（縁故）",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用経路は、 「ハローワーク」は現業職（31.7％）で、「人材紹介会社・転職エージェントな",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ど」は総合職（34.3%）で、「知人・社員等の紹介（縁故） 」は管理職（31.8%）で最も多く活用",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "01. ハローワーク、ハローワークインターネッ",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "➢ 新卒・中途各採用の充足率",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）採用できなかった場合でも、求人情報の掲載等の採用活動を行っている場合は「01. 中途採用の活動をし",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）結果的に採用できなかった場合でも、求人情報の掲載等の採用活動を行っている場合は「01. 中途採用の活",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "おける情報公表その他取組に関する調査研究",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２章 本事業の実施概要 ..................................................................................................... 4",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２節 検討会の実施概要 ................................................................................................. 6",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３節 アンケート調査の概要 .......................................................................................... 8",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１項 調査の方法 ........................................................................................................ 8",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２項 調査対象企業の構成 .......................................................................................... 9",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３項 調査依頼数と回収状況 .................................................................................... 10",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４項 アンケート調査票の設問構成 ......................................................................... 12",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３章 アンケート調査結果 ............................................................................................... 17",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 5 章 調査結果のまとめ ................................................................................................. 131",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１節 アンケート調査結果のまとめ ........................................................................... 131",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付録１ 「中途採用に関するアンケート調査」企業アンケート 調査票 .................... 134",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付録２ 「中途採用に関するアンケート調査」労働者アンケート 調査票 ................ 134",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このため、今般の調査研究においては、採用後における中途採用・経験者採用者の活躍に特",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ージメント等を高める取組等がどのように行われ、労働者からの評価が高いのかについて調査、",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "400",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "年収は「300～400 万円未満」が 27.5%と最も多く、「400～500 万円未満」 （23.1%）、「500～"
+   },
+   {
+    "value": "500",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "年収は「300～400 万円未満」が 27.5%と最も多く、「400～500 万円未満」 （23.1%）、「500～"
+   },
+   {
+    "value": "600",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "600 万円未満」 （14.7％） 、 「300 万円未満」 （12.5％）が続き、それらを合わせると 77.8％にな"
+   },
+   {
+    "value": "300",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "600 万円未満」 （14.7％） 、 「300 万円未満」 （12.5％）が続き、それらを合わせると 77.8％にな"
+   },
+   {
+    "value": "349.5",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "（※）平均値は各レンジの中央値（例： 「300～400 万円未満」⇒「349.5 万円」）を用いて算出した"
+   },
+   {
+    "value": "700",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "05. 600～700万円未満"
+   },
+   {
+    "value": "800",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "06. 700～800万円未満"
+   },
+   {
+    "value": "900",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "07. 800～900万円未満"
+   },
+   {
+    "value": "1000",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "08. 900～1000万円未満"
+   },
+   {
+    "value": "1200",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "09. 1000～1200万円未満"
+   },
+   {
+    "value": "1500",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "10. 1200～1500万円未満"
+   },
+   {
+    "value": "2000",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "11. 1500～2000万円未満"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://saiyo.employment.en-japan.com/blog/unit-cost-of-mid-career-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000059.000187561.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/shushoku_katsudou/kanji_dai6/siryou4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/zaimu/kannai/202601/tokubetsu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2016/11/058-061.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://keizai-marumie.com/manufacturing_industry_statistics/establishments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%9C%B0%E6%96%B9%28%E6%9D%B1%E5%8C%97%E5%8C%97%E9%99%B8%E4%B8%AD%E5%9B%BD%E4%B9%9D%E5%B7%9E%29%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E5%85%85%E8%B6%B3%E7%8E%87+%E8%AA%BF%E6%9F%BB+2025&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250528-laborshortage202504-kyushu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/books/fact-finding_report/20251107.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%9C%B0%E6%96%B9%28%E6%9D%B1%E5%8C%97%E5%8C%97%E9%99%B8%E4%B8%AD%E5%9B%BD%E4%B9%9D%E5%B7%9E%29%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2026/pdf/gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr04/chr04_1-2-1-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.boj.or.jp/sendai/kouhyo/2025/toku2506.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001705160.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/26062601_arakawa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "地方（東北・北陸・中国・九州）の製造業の採用 採用単価 規模別",
+   "results": [
+    "https://saiyo.employment.en-japan.com/blog/unit-cost-of-mid-career-recruitment",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.careermart.co.jp/blog/14968",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "https://ch.job-con.jp/blog/c142"
+   ]
+  },
+  {
+   "query": "地方（東北・北陸・中国・九州）の製造業の採用 採用コスト 調査 万円",
+   "results": [
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://prtimes.jp/main/html/rd/p/000000059.000187561.html",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://saiyo.employment.en-japan.com/blog/unit-cost-of-mid-career-recruitment",
+    "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/"
+   ]
+  },
+  {
+   "query": "地方（東北・北陸・中国・九州）の製造業の採用 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/",
+    "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "https://and-pro.jp/content/article-u2b4c48fz1w/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.mof.go.jp/about_mof/zaimu/kannai/202601/tokubetsu.pdf"
+   ]
+  },
+  {
+   "query": "地方（東北・北陸・中国・九州）の製造業の採用 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.cas.go.jp/jp/seisaku/shushoku_katsudou/kanji_dai6/siryou4.pdf",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.mof.go.jp/about_mof/zaimu/kannai/202601/tokubetsu.pdf",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2016/11/058-061.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://keizai-marumie.com/manufacturing_industry_statistics/establishments/"
+   ]
+  },
+  {
+   "query": "地方（東北・北陸・中国・九州）の製造業の採用 人手不足 充足率 調査 2025",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%9C%B0%E6%96%B9%28%E6%9D%B1%E5%8C%97%E5%8C%97%E9%99%B8%E4%B8%AD%E5%9B%BD%E4%B9%9D%E5%B7%9E%29%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E5%85%85%E8%B6%B3%E7%8E%87+%E8%AA%BF%E6%9F%BB+2025&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.tdb.co.jp/report/economic/20250528-laborshortage202504-kyushu/",
+    "https://www.mof.go.jp/about_mof/zaimu/kannai/202601/tokubetsu.pdf",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "https://www.jmac.co.jp/books/fact-finding_report/20251107.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/"
+   ]
+  },
+  {
+   "query": "地方（東北・北陸・中国・九州）の製造業の採用 白書 採用",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%9C%B0%E6%96%B9%28%E6%9D%B1%E5%8C%97%E5%8C%97%E9%99%B8%E4%B8%AD%E5%9B%BD%E4%B9%9D%E5%B7%9E%29%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.meti.go.jp/report/whitepaper/mono/2026/pdf/gaiyo.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr04/chr04_1-2-1-1.html",
+    "https://www3.boj.or.jp/sendai/kouhyo/2025/toku2506.pdf",
+    "https://www.mhlw.go.jp/content/001705160.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/26062601_arakawa.pdf",
+    "https://lean-operation.com/media/management/mono_2025/",
+    "https://unicell.co.jp/case/case_firstsystem",
+    "https://note.com/miyoshimiho/n/n37287f18a325",
+    "https://bizreach.biz/landing/bizcon/2026/features/manufacturing/"
+   ]
+  }
+ ],
+ "missing": {
+  "年間採用費": "記載なし（読んだ36頁・検索6回）"
+ }
+}

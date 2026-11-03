@@ -1,0 +1,1630 @@
+{
+ "name": "金属加工（切削・板金・溶接）の採用",
+ "en": "metalworking machining sheet metal hiring Japan",
+ "aliases": [
+  "金属加工 求人 採用難",
+  "板金 溶接 人手不足 採用"
+ ],
+ "context": "業種",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:01:51.534185+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "業種別の経営情報",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月には「106万円の壁」が撤廃され、パート従業員も社会保険の加入対象が広がります",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "ある板金加工業（従業員18名）は、複数の取引先から長期間発注のない型を無償で保管させられていました",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・分野別 最新情報トップ",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の溶接工年収ランキング",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・工場勤務の年収はいくら？職種別のランキングをご紹介！",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "プレックスジョブマガジンは、累計200万人以上の方にご登録いただいている求人・転職サイト「プレックスジョブ」が運営するメディアです",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】運送業の年収ランキング！大手会社や職種別の給料を紹介",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・工場勤務の年収ランキングを紹介！大手メーカーや職種別の給料背景も解説",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "施した、ベテラン従業員の退職に伴う技能承継の影響に関するアンケート調査（製造業の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ョンを共有し企業戦略と一体のものとして技能承継を位置づけること、 ②従業員の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アンケート調査「ベテラン従業員の退職等に伴う技能承継について」に基づき、中小製造",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アンケート調査からは、ベテラン従業員の退職等に伴い技能が失われることに対して、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技能承継がうまくいかない、または取り組んでいない理由をみると、「ベテラン従業員の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "指導スキル・ノウハウの不足」「若手従業員の能力の不足」「若手従業員等の不足・採用難」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "などが上位を占め、教える側のベテラン従業員と、教えられる側の若手従業員の両方に問",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技能承継の方法として「ベテラン従業員の定年延長・再雇用」と回答し、ついで５割強の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なものであるが故に機械化や自動化になじみにくく、ベテラン従業員や新規技能者を実質",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技能承継をうまく機能させていくには、その土台として従業員のモチベーションを高め",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．ベテラン従業員の退職に伴う技能承継への影響............................... 1",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アンケート票（ベテラン従業員の退職等に伴う技能承継について）.................. 88",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、中小企業金融公庫総合研究所において実施した、ベテラン従業員の退職等に",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．ベテラン従業員の退職に伴う技能承継への影響",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定年退職等に伴いベテラン従業員が持っている技能が失われることについての影響",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プレックスジョブマガジンは、累計200万人以上の方にご登録いただいている求人・転職サイト「プレックスジョブ」が運営するメディアです",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】運送業の年収ランキング！大手会社や職種別の給料を紹介",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・工場勤務の年収ランキングを紹介！大手メーカーや職種別の給料背景も解説",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "2 業種別に見る製造業の人手不足の傾向",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別に見る製造業の人手不足の傾向",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に陥った工場では、既存の従業員に過大な負荷がかかります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手が足りない→残業が増える→疲弊した従業員が辞める→さらに人手が足りなくなる→残業がさらに増える」というデス・スパイラルに陥った製造業の工場は決して珍しくありません",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は単に「人が足りない」という問題にとどまらず、在籍している従業員のモチベーションや健康を蝕み、組織全体の活力を失わせる経営危機の引き金となります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "「この会社でスキルを磨けば、こんなキャリアが開ける」というビジョンを従業員に示せる製造業企業が、人手不足の時代においても選ばれる職場となります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "働きやすい環境を整えることは、既存の従業員の満足度向上と離職防止だけでなく、採用面での競争力強化にも寄与します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "万人以上、実に",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "万人以上減少",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員や幹部の退職を直接の引き金とする「従業員退職型」も",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：見える化から始めた金属加工業（従業員",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数十名規模の工場ほど、小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "少額減価償却資産の特例（40万円未満、年300万円まで）を使えば、対象となる小型の型・治具を取得年度に一括で費用計上できます",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "少額特例（40万円未満）該当分は取得年度に即時償却",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "R8.4.1以後取得分は40万円未満に拡充（年300万円まで）",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "R8.4.1以後開始事業年度から（基準法人税額－500万円）×4%",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "基準法人税額500万円超かを事前に試算",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "「106万円の壁」撤廃・カスハラ対策義務化",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限4,000万円級",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "750万〜8,000万円（賃上げ特例で最大1億円）",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "最大1,500万円",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "最大2,000万円",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月には「106万円の壁」が撤廃され、パート従業員も社会保険の加入対象が広がります",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "106万円の壁撤廃・カスハラ対策義務化への対応、免税事業者からの仕入税額控除70%への移行確認",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の年収は全国平均で約452.5万円",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "と、全産業の平均年収の478万円と比較しても月額2万円程度の差に留まっています",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、実際には担当する工程や保有資格によって給料は変動するため、400万円台から熟練者の900万円台まで幅広いです",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の平均年収は452.5万円！全産業平均と比較",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "独立で年収1,000万円は現実的に可能？",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "年収600万円〜1,000万円を叶える将来設計が知りたい",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "約37.7万円",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "約452.5万円",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "約39.8万円",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "約478万円",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の全国平均年収は、約452.5万円",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、全産業の平均年収は478万円で、差は月額2万円程度に留まります",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、平均値はあくまで目安で、実際には400万円台前半〜600万円以上と幅広い実態があります",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "22.8～31.3万円",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "321万円～447万円",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：1,980 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が、ハンドメイドで対応すれば100万円で済んでし",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：5,800 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：3,000 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ない時でも 2,000 万円、多い時は１億円以上の設備",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：8,000 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：9,600 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：4,500 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：6,240 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：5,000 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：6,000 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：2 億 9,500 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金：6,750 万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "452.5万円",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の平均年収は、452.5万円",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "年収452.5万円で一人暮らしの場合は、貯蓄をしながら趣味などにも支出できる余裕のある生活が可能でしょう",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "全産業の平均年収478万円と比べるとやや下回りますが、溶接は手に職を付ける仕事の代表格です",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、高度な技術を要する現場や特殊な素材を扱う企業では、年収600万円以上を提示しているケースも珍しくありません",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の平均年収は452万円！さらなる稼ぎ方や求人のポイントまで徹底解説",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "22.8～31.3万円",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "321万円～447万円",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "年収321万円以上が目安ですが、初年度から年収400万円以上となるケースも多い",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "531.3万円",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "521.7万円",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "505.5万円",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "517.6万円",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "444.6万円",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "この段階で、年収は450万円〜500万円程度まで昇給するケースが増えます",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストは離職コストの5〜10倍ともいわれる中、せっかく採用した人材が短期で辞めてしまう状況は、製造業の人手不足を悪化させる主要因の一つです",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の根本原因は、少子高齢化・3Kイメージ・技術継承の断絶・人材流動化・採用コスト高騰という5つの要因が複合的に絡み合っており、それぞれに対応した施策が必要です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "給与総額+1.5%で15%、+2.5%で30%税額控除（5年繰越可）",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "金属加工の現場では溶接技能者の人手不足も深刻です",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は高水準で推移しており、技能実習制度から育成就労制度への移行も見据えた人材確保が必要になっています",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接技能者の人手不足は深刻です",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業では溶接・機械加工の技能者が慢性的に不足しており、有効求人倍率は高水準で推移しています",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "ベテランの溶接技能・段取りのノウハウをマニュアル化・動画化し、若手や外国人材に引き継ぐ計画的な技能承継が、多能工化と人手不足対策の両面で効果を発揮します",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業は若年層の就業者が減少しており、業界全体として深刻な人手不足と高齢化に直面しています",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "また、技術者の高齢化により人手不足が深刻化しており、確かな技術を持つ溶接工の市場価値は年々高まっています",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説 | ウィルオブ採用ジャーナル",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "最新データからみる製造業の人手不足の現状",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が人手不足に陥る5つの根本原因",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足を解消するアプローチ方法と実際の成功事例",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業は今、深刻な人手不足という構造的な危機に直面しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が解消されなければ、生産能力の低下、納期遅延、技術継承の断絶、そして最悪の場合は事業縮小・撤退というシナリオも現実のものとなりかねません",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業の人手不足の実態を最新の公的データを基に徹底分析し、その根本原因を整理した上で、工場が今すぐ取り組むべき具体的な解消策を「採用×DX×定着」の3軸で解説します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に悩む製造業の経営者・人事担当者の方々に、実践的なヒントを提供することを目的としています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "1 製造業の人手不足の現状",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2 業種別に見る製造業の人手不足の傾向",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "3 製造業が人手不足に陥る5つの根本原因",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "4 人手不足が工場にもたらすダメージ",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "5 製造業の人手不足を解消する3つのアプローチ",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "6 【他工場事例】人手不足解消に成功した取り組み",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし同時に、正しい順序で手を打てば、人手不足のなかでも利益を伸ばしている会社が実在するのも事実です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は全産業平均を大きく上回る",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」を見ると、製造現場の中核職種である「生産工程の職業」の有効求人倍率は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率の水準",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "職業別有効求人倍率は毎月更新されるため、引用時は最新月の参考統計表をご確認ください",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業の人手不足」と一括りにせず、自社のどの職種・どの工程が構造的に採れないのかを特定する",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業の人手不足をデータで読む」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」は過去最多を更新",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "欠員の常態化",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "最も優秀な人材に欠員のしわ寄せを集中させるのは、短期的には合理的に見えて、中期的には最悪の一手です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "小企業の人手不足問題が報告されている",
+    "url": "https://www.jstage.jst.go.jp/article/jsimconf/80/0/80_187/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁（2018） 「第2部 深刻化する人手不足と中",
+    "url": "https://www.jstage.jst.go.jp/article/jsimconf/80/0/80_187/_pdf/-char/ja",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "金属加工・板金・溶接業の経営に役立つ最新情報【2026年版】｜ジェイスタート会計事務所",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度税制改正ガイド",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工・板金・溶接業の経営に役立つ最新情報【2026年版】",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新：2026年7月27日（令和8年度対応）",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "✓ R8年度税制のポイント",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "税務・会計の留意点（令和8年度）",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 税務・会計の留意点（令和8年度）",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "少額減価償却資産の特例（40万円未満、年300万円まで）を使えば、対象となる小型の型・治具を取得年度に一括で費用計上できます",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "少額特例（40万円未満）該当分は取得年度に即時償却",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "簡易課税・本則課税との税負担比較を決算前に実施",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "検査治具・小型工具の更新をこの範囲で実施",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "R8.4.1以後開始事業年度から（基準法人税額－500万円）×4%",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "全産業平均52.8%（令和8年版TKC経営指標）",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業全産業平均41.7%（令和4年度）",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業実態基本調査（令和4年度決算実績）、TKC経営指標（BAST）令和8年版",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の平均年収を調査！200社の初年度年収から将来の給与設計まで解説｜プレックスジョブマガジン",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の平均年収を調査！200社の初年度年収から将来の給与設計まで解説",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の初年度年収200社のデータを調査",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年分 民間給与実態統計調査",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "求人サイト「プレックスジョブ」が扱う溶接求人のうち、200社から算出した初年度の想定年収データは以下の通りです",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工としての将来や収入に関して、現場から多く寄せられる疑問に回答します",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版 ものづくり白書（令和５年度 ものづくり基盤技術の振興施策）令和６年５月",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の仕事を解説！200社調査で見えた年収や働き方も紹介",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "仕事内容をはじめ、溶接企業200社の休日・残業時間も調査し紹介",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】運送業の年収ランキング！大手会社や職種別の給料を紹介",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "製造職はきつい？製造経験者に聞いた「やめとけ」といわれる理由を調査",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "【エッセンシャルワーカー転職市場のリアル調査第３弾】利用者満足度97％以上のプレックスジョブから見る、求職者が\"転職サービスに求めること\"",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "過去実施した満足度調査では、ご利用者の約97%の方に「満足」していると回答いただいております",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "本調査及びレポートの取りまとめにあたっては以下の点に留意している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．アンケート調査によって技能承継の現状と課題を概観",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、当公庫総合研究所「第 193 回中小企業動向調査」の特別調査として実",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "施した、ベテラン従業員の退職に伴う技能承継の影響に関するアンケート調査（製造業の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効回答数 2,272 社）の結果を分析し、中小製造業における技能承継の現状と課題を概観",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．インタビュー調査に基づく詳細な企業事例の掲載",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に対してインタビュー調査を実施し、その結果を企業事例として詳細に紹介している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本レポートは、調査委託先である三菱 UFJリサーチ＆コンサルティング株式会社",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と当公庫総合研究所の共同調査研究という形をとった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、当公庫総合研究所「第 193 回中小企業動向調査」の特別調査として実施した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アンケート調査「ベテラン従業員の退職等に伴う技能承継について」に基づき、中小製造",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アンケート調査からは、ベテラン従業員の退職等に伴い技能が失われることに対して、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「影響がある」「当面影響は小さいが、いずれ問題となる」と回答した企業の割合は 59.7％",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、「影響がある」と回答した企業の中で、技能承継への取",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技能が失われることに対して「影響がある」と回答した企業のうち、「機械化・自動化へ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の仕事を解説！200社調査で見えた年収や働き方も紹介｜プレックスジョブマガジン",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の仕事を解説！200社調査で見えた年収や働き方も紹介",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接の仕事は儲かるって本当？平均年収を調査",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "未経験の初年度年収を調査",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "年齢による平均年収を調査",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接の仕事における勤務条件を調査",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工100名の離職理由を調査！トップ10を紹介",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年分 民間給与実態統計調査",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで次に、未経験からスタートした場合の初年度年収や、年齢ごとの推移を紹介します",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "プレックスジョブで取り扱う「未経験可」の溶接求人のうち100件から算出した、初年度の年収データは以上の通りです",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "年収321万円以上が目安ですが、初年度から年収400万円以上となるケースも多い",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度〜3年：現場作業の習得",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "プレックスジョブを利用した元溶接工100名を対象に離職理由を調査したところ、",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の平均年収を調査！200社の初年度年収から将来の給与設計まで解説",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "製造職はきつい？製造経験者に聞いた「やめとけ」といわれる理由を調査",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が発表した令和6年（2024年）の職業別有効求人倍率（原数値、パート除く）を見ると、製造業が該当する「生産工程の職業」は1.67倍前後で推移し、全産業平均の1.25倍を大きく上回っています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省・経済産業省・文部科学省が共同発表する「ものづくり白書」によれば、製造業の就業者数は2002年から約20年間で157万人減少しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "関東工業自動車大学校様に「プレックスジョブ」が掲載されました",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "(人材紹介・採用支援をご検討中の法人様はこちら)",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバーの人材紹介・求人媒体サービス",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "施工管理技士の人材紹介・採用支援サービス",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "電気主任技術者の人材紹介・採用支援サービス",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "製造職・メーカーの人材紹介・採用支援サービス",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車整備士の人材紹介・採用支援サービス",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "pass": 3
+   },
+   {
+    "quote": "学校での成績がよくな",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "学校の先生を呼んできて教えてもらったりしている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ルートは学校の先生と我々との信頼関係の上に成り",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■学校教育への協力",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "学校との関係構築という点に関しては、地元工業",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当初は、学校教育のお",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関東工業自動車大学校様に「プレックスジョブ」が掲載されました",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "(人材紹介・採用支援をご検討中の法人様はこちら)",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバーの人材紹介・求人媒体サービス",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "施工管理技士の人材紹介・採用支援サービス",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "電気主任技術者の人材紹介・採用支援サービス",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "製造職・メーカーの人材紹介・採用支援サービス",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車整備士の人材紹介・採用支援サービス",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体の掲載費用、人材紹介会社へのフィー（成功報酬型では年収の30〜35%程度）、内定辞退を見越した多めの採用活動費——これらのコストは製造業、特に体力の限られた中小企業にとって大きな負担となっています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の求人サイト、地域の無料媒体であるハローワーク、SNSを使った採用広報（採用インスタグラム・Xなど）、動画での工場見学コンテンツの発信など、ターゲット層に合わせた多様なチャネルを組み合わせることが人材確保につながります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "高校・専門学校・大学との連携プログラムを通じて、若年層が製造業の仕事に触れる機会を継続的に設けることが、中長期的な人材パイプラインの構築につながります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "Indeed",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル（社員紹介）",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用の制度化",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "40",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "quote": "少額減価償却資産の特例（40万円未満、年300万円まで）を使えば、対象となる小型の型・治具を取得年度に一括で費用計上できます"
+   },
+   {
+    "value": "300",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "quote": "少額減価償却資産の特例（40万円未満、年300万円まで）を使えば、対象となる小型の型・治具を取得年度に一括で費用計上できます"
+   },
+   {
+    "value": "500",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "quote": "R8.4.1以後開始事業年度から（基準法人税額－500万円）×4%"
+   },
+   {
+    "value": "106",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "quote": "「106万円の壁」撤廃・カスハラ対策義務化"
+   },
+   {
+    "value": "000",
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "quote": "補助上限4,000万円級"
+   },
+   {
+    "value": "452.5",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "溶接工の年収は全国平均で約452.5万円"
+   },
+   {
+    "value": "478",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "と、全産業の平均年収の478万円と比較しても月額2万円程度の差に留まっています"
+   },
+   {
+    "value": "2",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "と、全産業の平均年収の478万円と比較しても月額2万円程度の差に留まっています"
+   },
+   {
+    "value": "400",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "しかし、実際には担当する工程や保有資格によって給料は変動するため、400万円台から熟練者の900万円台まで幅広いです"
+   },
+   {
+    "value": "900",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "しかし、実際には担当する工程や保有資格によって給料は変動するため、400万円台から熟練者の900万円台まで幅広いです"
+   },
+   {
+    "value": "000",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "独立で年収1,000万円は現実的に可能？"
+   },
+   {
+    "value": "600",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "年収600万円〜1,000万円を叶える将来設計が知りたい"
+   },
+   {
+    "value": "37.7",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "約37.7万円"
+   },
+   {
+    "value": "39.8",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "約39.8万円"
+   },
+   {
+    "value": "31.3",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "22.8～31.3万円"
+   },
+   {
+    "value": "321",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "321万円～447万円"
+   },
+   {
+    "value": "447",
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "quote": "321万円～447万円"
+   },
+   {
+    "value": "980",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "quote": "資 本 金：1,980 万円"
+   },
+   {
+    "value": "100",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "quote": "が、ハンドメイドで対応すれば100万円で済んでし"
+   },
+   {
+    "value": "800",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "quote": "資 本 金：5,800 万円"
+   },
+   {
+    "value": "000",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "quote": "資 本 金：3,000 万円"
+   },
+   {
+    "value": "600",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "quote": "資 本 金：9,600 万円"
+   },
+   {
+    "value": "500",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "quote": "資 本 金：4,500 万円"
+   },
+   {
+    "value": "240",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "quote": "資 本 金：6,240 万円"
+   },
+   {
+    "value": "750",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "quote": "資 本 金：6,750 万円"
+   },
+   {
+    "value": "452.5",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "452.5万円"
+   },
+   {
+    "value": "478",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "全産業の平均年収478万円と比べるとやや下回りますが、溶接は手に職を付ける仕事の代表格です"
+   },
+   {
+    "value": "600",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "実際、高度な技術を要する現場や特殊な素材を扱う企業では、年収600万円以上を提示しているケースも珍しくありません"
+   },
+   {
+    "value": "452",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "溶接工の平均年収は452万円！さらなる稼ぎ方や求人のポイントまで徹底解説"
+   },
+   {
+    "value": "31.3",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "22.8～31.3万円"
+   },
+   {
+    "value": "321",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "321万円～447万円"
+   },
+   {
+    "value": "447",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "321万円～447万円"
+   },
+   {
+    "value": "400",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "年収321万円以上が目安ですが、初年度から年収400万円以上となるケースも多い"
+   },
+   {
+    "value": "531.3",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "531.3万円"
+   },
+   {
+    "value": "521.7",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "521.7万円"
+   },
+   {
+    "value": "505.5",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "505.5万円"
+   },
+   {
+    "value": "517.6",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "517.6万円"
+   },
+   {
+    "value": "444.6",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "444.6万円"
+   },
+   {
+    "value": "450",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "この段階で、年収は450万円〜500万円程度まで昇給するケースが増えます"
+   },
+   {
+    "value": "500",
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "quote": "この段階で、年収は450万円〜500万円程度まで昇給するケースが増えます"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-112664",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikekin.co.jp/column/10537/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kouse-kougyou.com/blog/72282",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/job_search/kw/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%20%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.crefty.jp/industry/metal-processing-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_ind__02L/-oc__0441M/-ha__100%2C0/-preBtn__2/-page__4/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5%E5%8A%A0%E5%B7%A5%E3%80%90%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91%E3%81%AE%E6%BA%B6%E6%8E%A5%E7%B5%8C%E9%A8%93%E8%80%85%E3%80%91-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0201S/-oc__044101S/-ne__3/-preBtn__2/-page__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/job_search/kw/%E8%A3%BD%E9%80%A0%E8%81%B7%E3%80%80%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/list/i02120/pg83/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001546623.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E6%A9%9F%E6%A2%B0%E9%83%A8%E5%93%81%E3%81%AE%E6%BA%B6%E6%8E%A5%E5%B7%A5-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://academia.hrog.net/report/2092/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/sheet-metal-fabrication-101-a-basic-knowledge-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E6%9D%BF%E9%87%91%E3%83%97%E3%83%AC%E3%82%B9%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20251117-laborshortage202510/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uenotekko.co.jp/2025/12/09/2484/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%28%E5%88%87%E5%89%8A%E6%9D%BF%E9%87%91%E6%BA%B6%E6%8E%A5%29+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitsu-ri.net/articles/metal-processing-human-resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jsimconf/80/0/80_187/_pdf/-char/ja",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.rikunabi.com/company_jobs/1337717282/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/shingi/2009/09/dl/s0916-8l.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 採用単価 規模別",
+   "results": [
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-112664",
+    "https://www.ikekin.co.jp/column/10537/",
+    "https://kouse-kougyou.com/blog/72282",
+    "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "https://hr-media.offers.jp/articles/a_268",
+    "https://www.r-agent.com/job_search/kw/%E9%87%91%E5%B1%9E%20%E8%A3%BD%E5%93%81%20%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5/",
+    "https://yicenprecision.com/ja/%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5%E3%82%B3%E3%82%B9%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89/",
+    "https://mitsu-ri.net/"
+   ]
+  },
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 採用コスト 調査 万円",
+   "results": [
+    "https://www.sapporotax.com/insights-mfg-metal/",
+    "https://www.r-agent.com/job_search/kw/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%20%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5/",
+    "https://media.crefty.jp/industry/metal-processing-manufacturing/",
+    "https://www.plex-job.com/magazine/articles/4022/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__02L/-oc__0441M/-ha__100%2C0/-preBtn__2/-page__4/",
+    "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5%E5%8A%A0%E5%B7%A5%E3%80%90%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91%E3%81%AE%E6%BA%B6%E6%8E%A5%E7%B5%8C%E9%A8%93%E8%80%85%E3%80%91-%E6%B1%82%E4%BA%BA.html",
+    "https://newscast.jp/news/6404713",
+    "https://next.rikunabi.com/viewjob/jk45c5fc0c0ba17825/",
+    "https://jp.misumi-ec.com/service/large_order/?srsltid=AYCX9vIY6pwJl1grRyxZg3Qzu78E32kxk0qvom2lhgx23rEBxjL8PKxK",
+    "https://jobhouse.jp/factory/columns/2840"
+   ]
+  },
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.r-agent.com/job_search/kw/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%20%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0201S/-oc__044101S/-ne__3/-preBtn__2/-page__2/",
+    "https://www.r-agent.com/job_search/kw/%E8%A3%BD%E9%80%A0%E8%81%B7%E3%80%80%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5/",
+    "https://tenshoku.mynavi.jp/list/i02120/pg83/",
+    "https://www.mhlw.go.jp/content/001546623.pdf",
+    "https://jp.indeed.com/q-%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E6%A9%9F%E6%A2%B0%E9%83%A8%E5%93%81%E3%81%AE%E6%BA%B6%E6%8E%A5%E5%B7%A5-%E6%B1%82%E4%BA%BA.html",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__02L/-oc__0441M/-es__2/-preBtn__2/-page__5/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/"
+   ]
+  },
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 採用経路 割合 調査",
+   "results": [
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://academia.hrog.net/report/2092/",
+    "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "https://www.plex-job.com/magazine/articles/4026/",
+    "https://www.rapiddirect.com/ja/blog/sheet-metal-fabrication-101-a-basic-knowledge-guide/",
+    "https://www.r-agent.com/job_search/kw/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%20%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5/",
+    "https://jp.indeed.com/q-%E6%9D%BF%E9%87%91%E3%83%97%E3%83%AC%E3%82%B9%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5-%E6%B1%82%E4%BA%BA.html",
+    "https://eigyo-mfg.com/blog/9698/",
+    "https://www.mlit.go.jp/gobuild/content/001888816.pdf",
+    "https://doda.jp/keyword/金属加工/"
+   ]
+  },
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20251117-laborshortage202510/",
+    "https://www.uenotekko.co.jp/2025/12/09/2484/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1104/",
+    "https://note.com/meijihatsumeikai/n/n7e1a01596144",
+    "https://ybxcw.fun/yosetsu-hitode/"
+   ]
+  },
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 白書 採用",
+   "results": [
+    "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%28%E5%88%87%E5%89%8A%E6%9D%BF%E9%87%91%E6%BA%B6%E6%8E%A5%29+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://mitsu-ri.net/articles/metal-processing-human-resources",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.jstage.jst.go.jp/article/jsimconf/80/0/80_187/_pdf/-char/ja",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://job.rikunabi.com/company_jobs/1337717282/",
+    "https://www.mhlw.go.jp/shingi/2009/09/dl/s0916-8l.pdf",
+    "https://doda.jp/keyword/金属加工/",
+    "https://www.mirapro.co.jp/recruit/jobsearch/metalprocessing/",
+    "https://test07.j-line.co.jp/hikari-ltd/未経験からでもわかる！精密板金・金属加工業界/"
+   ]
+  }
+ ],
+ "missing": {}
+}

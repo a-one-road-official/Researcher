@@ -1,0 +1,1404 @@
+{
+ "name": "受託開発会社の営業・問い合わせ対応の予算",
+ "en": "sales inquiry budget contract development firms Japan",
+ "aliases": [
+  "受託開発 営業 課題",
+  "受託開発 問い合わせ 獲得",
+  "受託開発 マーケティング 予算"
+ ],
+ "context": "③WL",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:57:48.574366+00:00",
+ "evidence": {
+  "売り先の数": [
+   {
+    "quote": "アタック企業数：2,183社",
+    "url": "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "pass": 3
+   },
+   {
+    "quote": "続いて箇条書きで想定課題を列挙し、それに対する支援実績（導入社数や改善率などの数字）を示すことで、提案の信憑性と汎用的な効果をアピールしています",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "利用社数：7,000件突破（2025年5月現在）",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "Webシステムの受託開発費用相場を、規模別・業種別の具体的な金額帯と内訳で解説します",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Web開発（Webシステムの受託開発）の費用相場を「規模別」「業種・システム種別別」の二軸で具体的な金額帯とともに整理し、その金額がどう決まるか（人月単価×工数の仕組み）、そして同じシステムでも見積もりが2〜3倍変わる理由までを解説します",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "【規模別】Webシステム受託開発の費用相場（小・中・大）",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "それではまず、規模別の相場から見ていきましょう",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "規模別相場の早見表",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "利用社数：9,300件突破（2026年9月現在）",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "（規模別: 300 万〜3,000 万円）",
+    "url": "https://koromo.io/blog/contract-development-company-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "利用社数：6,300件突破（2025年1月現在）",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "人月単価と規模別の外注コスト、保守の費用は、",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別の総額と1人月の単価",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載企業数が多く、一括見積もりの依頼が頻繁に発生する",
+    "url": "https://sono-5.com/articles/app-development-sales-channels-strategy",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "BPOサービス特化型 営業代行",
+    "url": "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発・システム開発サービを提供されている企業様へ",
+    "url": "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "pass": 3
+   },
+   {
+    "quote": "何を切り口に話せば良いかが難しい（要件が曖昧、比較されやすい）",
+    "url": "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その「必要になった瞬間」に声がかからない限り、競合比較の土俵にすら上がれません",
+    "url": "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業・新サービスでアプリや基盤が必要になる",
+    "url": "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "pass": 3
+   },
+   {
+    "quote": "「自社の受託開発サービスを、必要としている企業にきちんと届けたい」企業様は、ぜひご連絡ください",
+    "url": "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "pass": 3
+   },
+   {
+    "quote": "「何が強みか」が伝わらず、価格比較になりやすい営業から脱却したい",
+    "url": "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "pass": 3
+   },
+   {
+    "quote": "特にコロナ禍以降、従来の飛び込み・テレアポ営業に限界を感じた企業が次々とこの手法にシフトしており、問い合わせフォーム営業代行サービスや専用の自動化ツールも登場するなど、市場が活性化しています",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "やみくもに送っても効果は薄いため、自社のサービスを必要としそうな業種・規模の企業を絞り込みましょう",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "業種がバラバラだったり、自社サービスと関係の薄い企業ばかりでは、せっかく送っても反応率は下がってしまいます",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "例えば「御社サイトで〇〇事業を拝見し、弊社サービスがその発展に寄与できると考えご連絡しました」のように、相手に不信感を与えない導入にします",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "相手にとってのメリットを提示する: 本文では、自社サービスの特徴や機能をダラダラ説明するのではなく、「相手企業の課題をどう解決できるか」というベネフィットに焦点を当てます",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "可能であれば業界共通の課題を3点ほど箇条書きし、それに対し自社が提供できるソリューション概要を示します",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "貴社のホームページを拝見したところ、現在展開されている○○事業に関しまして、弊社が提供する○○ツール〖サービス名〗がお役に立てるのではないかと思い、ご連絡させていただきました",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "この例文では、冒頭で突然の連絡へのお詫びと名乗りから始まり、相手企業の事業内容に触れつつ「自社サービスが役立ちそうだと思った理由」を簡潔に述べています",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "A社は自社の強みである「リモート開発リソース提供」を訴求し、特に開発人材不足に悩む企業を優先的にリストアップしたことが奏功しています",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "東海地方の建築設計事務所B社では、新サービス周知のためにフォーム営業を実施しました",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "とある営業代行ツール「apoli（アポリ）」を活用した事例では、1日5,000〜6,000件という驚異的な送信量を実現し、テレアポと比較して商談化率が約150%アップしたとの報告があります",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "「御社の発展に貢献できます」「最新のITサービスをご提案します」といった抽象的な表現だけでは、相手は自社との関連が見いだせずスルーしてしまいます",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "例えば自社サービスが中小企業向けなのに上場大企業ばかりリストに入れていたり、明らかに業種的ニーズが無い相手に送ってしまうと、いくら数を稼いでも成果は望めません",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "フォーム営業ばかりに工数を割きすぎると本末転倒なので、後述のツールや代行サービスもうまく活用しましょう",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "ターゲットリストの作成からメール送信、反応管理まで、一連のプロセスを支援・自動化するサービスが多数登場しています",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "案件獲得に使える営業代行会社も紹介しますので、比較検討の材料としてお役立てください",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "形のない開発サービスをどう伝えるか、いつ検討している企業に当たるか、相手の状況をどう見極めるか",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoBのアウトバウンド営業に特化し、月額10万円からの固定報酬型で始められるサービスです",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "StockSun株式会社（サービス名：カリトルくん）",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "法人営業に絞ったアポイント獲得の代行を、社員のオペレーターが担う体制で提供しています",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "1984年設立の総合人材サービス企業で、全国11,000社との取引実績を掲げています",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "リスト作成費が別途かかるかどうかは見積もりで見落としやすい項目なので、込みで提示される点は比較する際の要素になるでしょう",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年設立で、営業支援事業「0っと」として戦略の立案から商談のサポートまでをひとまとめに提供しています",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "得意領域として掲げているのは、技術やサービスそのものを売りにする無形商材の営業です",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略立案から商談サポートまでをワンストップで提供し、技術やサービスを売りにする無形商材を得意とする",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "電話営業のスクリプトや訪問・メール営業から得たノウハウをレポートとして提供する運用も特徴です",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "実践で得たノウハウをレポートとして提供する",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "前身は1995年設立の電話サービス会社で、2001年から現在の体制になりました",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "そもそも受託開発の営業代行とは、どこまでを任せられるサービスですか？",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発の営業代行とは、システム開発やアプリ開発を手がける会社に代わって、新規の商談機会をつくる業務を請け負うサービスを指します",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "6.開発案件の新規開拓ならマッチングサービスを推奨",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、自社の商品やサービスを提供するわけではありません",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、他社の強みと自社の強みを比較し、競合他社と差別化している点をクライアントにアピールすることが大事になります",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでいうバリューポジションとは、「顧客がその商品やサービスを利用することで、顧客自身にもたらされる明確な利益」のことです",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が求める価値のあるものはそのままに、自社が提供できる価値のあるものが顧客の求めるものに合致し、さらに付加価値が与えられれば、「バリューポジションを得た」といえます",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、競合他社には真似ができない、自社が提供できる「唯一の価値」を持っていることが差別化の大きなポイントであり、顧客から選ばれる大きな理由になります",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "アプローチのしやすさに秀でているのは、見込みの顧客に対して電話をかけ、口頭で自社の紹介やサービスの強みを伝えられるためです",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "メールなどと比較して、相手の反応に応じて伝え方を変えることも可能なので、柔軟性にも富んでいます",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "電話営業の目的は商談のアポイントを取ることであり、商品やサービスの成約を取ることではありません",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "先に挙げた電話営業などと比較して、ゼロから信頼関係を作り上げる点とは異なります",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、別の顧客にも紹介したいと感じてもらえるような、サービスやサポートの提供を続けていくことが大事になります",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサービスを活用する",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "SNSを上手に活用することで、これまで自社を認知していなかった層にも製品、サービスをアピールできるでしょう",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "●マッチングサービスを活用する",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "現在ではサービスを発信する企業（受注者）とサービスを求めている企業（発注者）をマッチングしてくれる、マッチングサービスが普及しています",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、営業代行の選び方やおすすめのサービスについても解説しますので、営業活動を見直したい方はぜひ参考にしてください",
+    "url": "https://dgloss.co.jp/column/contract-development-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドソーシングサービス",
+    "url": "https://dgloss.co.jp/column/contract-development-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "形のないサービスを提案するからこそ、信頼を築きながら案件につなげる工夫が求められます",
+    "url": "https://dgloss.co.jp/column/contract-development-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発のメール営業では、いきなり自社のサービスを売り込むのではなく、相手の業界や課題に合わせた内容にすることが大切です",
+    "url": "https://dgloss.co.jp/column/contract-development-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "SNSは、自社の技術力やサービスの特徴を広く知ってもらうための発信ツールとして活用できます",
+    "url": "https://dgloss.co.jp/column/contract-development-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドソーシングサービスは、開発案件を探している企業と受託開発会社をつなぐプラットフォームです",
+    "url": "https://dgloss.co.jp/column/contract-development-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "営業活動を自社だけで行うのが難しい場合、営業代行サービスの活用が選択肢に入ります",
+    "url": "https://dgloss.co.jp/column/contract-development-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発は形のないサービスであり、一般的な商品の営業とは伝え方が大きく異なります",
+    "url": "https://dgloss.co.jp/column/contract-development-sales/",
+    "pass": 3
+   }
+  ],
+  "導入期間・キャッシュ": [
+   {
+    "quote": "ベンダー乗り換えや再選定（品質・納期・コミュニケーション）が起きる",
+    "url": "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "pass": 3
+   },
+   {
+    "quote": "・外注企業には費用対効果や納期の論点",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、開発の品質と納期を守りながら新規開拓を進められます",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、案件化までのリードタイムが長く、継続的なアプローチが必要になるため、営業リソースが不足しやすい商材でもあります",
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間と解約条件",
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "pass": 3
+   },
+   {
+    "quote": "契約前に「最短契約期間」「途中解約の条件」「解約時の費用負担」などを確認しておくことが重要です",
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発の営業では、対応できる開発領域、体制、案件規模、納期などを委託先に共有します",
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "pass": 3
+   },
+   {
+    "quote": "技術の話よりも「いくらかかり、いつ回収できるのか」「人手不足がどれだけ解消するのか」が判断の材料になります",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "申請では、省力化の効果と投資回収期間を数字で示す必要があります",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間1ヶ月〜",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発のプロジェクトは、要件のすり合わせから始まり、見積もり、設計、実装、検収、保守という段階的な流れで進みます",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "この一連の流れにより、品質と納期がしっかり守られる体制が築かれています",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の受託開発では「請負契約」が基本であり、開発会社は成果物を納期までに納品する責任を負います",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、契約条件については自社にとって無理のない納期や報酬設定になっているか、リスク分担の範囲を含めてしっかり検討してください",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "納期遅延時のペナルティや、変更要望が発生した際の追加費用ルールなどを事前に明文化しておくことで、トラブルを未然に防止できます",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "時間単価・契約期間に応じた請求",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "この点をクライアントにきちんと説明し、スコープや品質、納期、費用についても具体的に書面で合意しておくことがトラブル防止に役立ちます",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "営業を内製でカバーしようとすると、エンジニアの稼働や経営者の時間を圧迫し、既存案件の品質や納期に影響が出る恐れもあります",
+    "url": "https://takuwil.spool.co.jp/column/article/system-development-sales-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "開発費を回収できるかだけで判断しない",
+    "url": "https://torchup.co.jp/column/c-new-business/contract-development-own-service/",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業と並行する場合は、案件ごとの納期管理と、サービスの検証・改善の管理を分けます",
+    "url": "https://torchup.co.jp/column/c-new-business/contract-development-own-service/",
+    "pass": 3
+   },
+   {
+    "quote": "価格交渉や納期調整など、契約締結に向けた最終的な折衝を代行します",
+    "url": "https://crex-sales.com/outsourcing/contract-development-sales-agency-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "検収後に一括で報酬を支払う",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   },
+   {
+    "quote": "達成する目的は一つであり、納期を守ってしっかりとした成果をあげれば開発内容については問わないということでもあります",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   },
+   {
+    "quote": "委託の場合は、労働の対価について一定期間ごとに報酬を支払うのですが、受託については検収後の一括報酬です",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   },
+   {
+    "quote": "受託案件は、最終的に発注元の検収が必要です",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   },
+   {
+    "quote": "検収OKによって収益が発生するからです",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的には提示した企画内容が納品物と合致していたら検収OKということになります",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、検収OKとなるために後押しするものが「満足度」です",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   },
+   {
+    "quote": "債権回収代行・ファクタリング",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   },
+   {
+    "quote": "不用品・廃品回収",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理と短納期の両立に注力しています",
+    "url": "https://koromo.io/blog/contract-development-company-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "「ついでにこれも」で要件が膨張し、予算・納期超過",
+    "url": "https://koromo.io/blog/contract-development-company-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "最低限必要なのは、①実現したいことの概要（ビジネス目的と主要機能）、②対象ユーザーと想定規模、③希望納期と予算感、④参考にしているサービスやデザインイメージ、の4点です",
+    "url": "https://koromo.io/blog/contract-development-company-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "●納期遅れが発生する場合は再交渉をすることも",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "受託営業の担当者は、そういった納期遅れにつながりかねない不測の事態を正確に発注側に説明し、再交渉をする場合もあります",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "この納期遅れの原因の1つは、営業担当者がなるべく安く、そして早く納品できることをアピールして、案件を獲得しようとすることにあります",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "発注側からすれば、価格と納期は委託先を決める時の重要なポイントです",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "納期まで4か月の短い開発を、機能に優先順位をつけて進められた",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "公開されている料金では、月額10万円（初期費用20万円、最短契約期間3か月）からの保守プランの例があります",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせの前に、作りたいもの、予算と納期、どの段階から相談したいかを書き出しておくと、候補を絞りやすくなります",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "納期が決まっているアプリ開発を、複数の会社と分担して進めたい会社に合うかもしれません",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "予算と納期が先に決まっていて、納期までは4か月でした",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "予算と納期が決まっている開発で、実現できる範囲を開発会社と相談しながら決めたい会社に合うかもしれません",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "開発では、品質、コスト、納期を意識したウォーターフォールモデルと、アジャイルモデルの両方を採用すると紹介しています",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "請負契約なら、総額と納期を先に決められる",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "短い納期の開発にも対応できます",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "納期まで4か月の開発を、機能に優先順位をつけて進めた事例があります",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "：作りたいもの、解決したい業務の課題、予算、納期を書き出します",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "：契約の形、総額または月額、納期、仕様を変えるときの手続き、著作権の扱い、保守の範囲を契約書で決めます",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "「この投資は○年で回収できる」という根拠を示すことで、稟議の通過率は劇的に向上します",
+    "url": "https://sono-5.com/articles/app-development-sales-channels-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "既存案件の納期、品質、主要顧客への対応に影響を出さないことを条件にするなら、",
+    "url": "https://torchup.co.jp/column/c-new-business/ses-new-business-start/",
+    "pass": 3
+   },
+   {
+    "quote": "価格には開発費の回収だけでなく、",
+    "url": "https://torchup.co.jp/column/c-new-business/ses-new-business-start/",
+    "pass": 3
+   },
+   {
+    "quote": "受託は合意した品質と納期、新規事業は検証によって何が分かったかを中心に確認します",
+    "url": "https://torchup.co.jp/column/c-new-business/ses-new-business-start/",
+    "pass": 3
+   }
+  ],
+  "単価・価格": [
+   {
+    "quote": "この企業では月あたり約5,000件ものフォーム送信を半年間継続し、28件のアポイント獲得、うち5件の受注（売上約6,000万円）に繋がったと報告されています",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "月5,000件ペースのフォーム送信を6カ月継続した結果、28件のアポイントと5件の新規受注獲得に成功し、約6,000万円の売上増加を達成しました",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "この企業ではフォーム営業の完全自動化によって1アポイント獲得コストを8,000円まで下げることにも成功しています",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "さらに完全自動化で人件費をかけずに1件あたり8,000円という低コストでアポイントを量産したとのことです",
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "pass": 3
+   },
+   {
+    "quote": "BtoBアウトバウンド営業に特化した「カリトルくん」は月額10万円からの固定報酬型で、開発リソースを削らずに商談機会を積み上げたい受託開発会社に向いた体制を整えています",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "・月額10万円程度〜数十万円",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "・初期費用5万〜10万円程度",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "・アポ単価1.5万〜2万円程度",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "・コール単価200〜300円程度",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "・月額5万〜10万円程度",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "カリトルくんは月額10万円から始められる固定報酬型で、挨拶アポを量産する動機が働かない料金構造のため、要件を聞き込む商談の質まで見据えて費用対効果を高められます",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "価格ではなく内容勝負で11件の受注！大手消費財化学メーカーからの受注も",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "導入1年半で7200万円受注！オフショアならではのメリットを生かした営業プロセスとは？",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍でも2000万円受注！発注ナビを5年以上使い続ける理由とは",
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "営業代行の料金体系は、大きく分けて「固定報酬型」と「成果報酬型」の2種類があります",
+    "url": "https://dgloss.co.jp/column/contract-development-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "約500～1,000万円以上が相場",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "開発の費用相場は50〜400万円程",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "システムの規模によって費用の差が開く傾向があり、小規模のシステムであれば100万円以内に収まることが多い一方、大規模なシステムでは1,000万円程度かかる場合もあります",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模のものは300万円以内に収まる程ですが、広告配信機能などを備えた大規模なものでは1,000万円以上かかる場合もあります",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "相場は100～1,000万円程",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "相場は100～300万円程度",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "200～1,000万円程",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "相場はおよそ100～2,000万円程度",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "費用は50万円程度",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "開発するシステムの種類や規模によって費用相場は数万円規模から数千万円以上まで大きく変動し、主要な目安として基幹システムは約500万〜1,000万円以上、CMSは50万〜400万円程度、ECサイトは100万〜1,000万円程度、動画配信システムは200万〜1,000万円程度が一般的です",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "の2種類の料金体系があります",
+    "url": "https://b-pos.jp/a014/",
+    "pass": 3
+   },
+   {
+    "quote": "コール：300円/1コール",
+    "url": "https://b-pos.jp/a014/",
+    "pass": 3
+   },
+   {
+    "quote": "アポ獲得：10,000~15,000円",
+    "url": "https://b-pos.jp/a014/",
+    "pass": 3
+   },
+   {
+    "quote": "16,500円 / アポ",
+    "url": "https://b-pos.jp/a014/",
+    "pass": 3
+   },
+   {
+    "quote": "100,000円 + 30,000円 / アポ",
+    "url": "https://b-pos.jp/a014/",
+    "pass": 3
+   },
+   {
+    "quote": "or 20,000円 / 商談",
+    "url": "https://b-pos.jp/a014/",
+    "pass": 3
+   },
+   {
+    "quote": "250円 / 3コール",
+    "url": "https://b-pos.jp/a014/",
+    "pass": 3
+   },
+   {
+    "quote": "500,000円 / 月（3ヶ月契約〜）",
+    "url": "https://b-pos.jp/a014/",
+    "pass": 3
+   },
+   {
+    "quote": "29,700円~ / 日",
+    "url": "https://b-pos.jp/a014/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、**2025年最新の「システム開発に強い営業代行会社おすすめ5選」**を徹底比較し、それぞれの特徴や料金体系、支援内容を詳しく解説します",
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "pass": 3
+   },
+   {
+    "quote": "月額40万円から、1ヶ月単位での利用が可能という柔軟な価格設定",
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "pass": 3
+   },
+   {
+    "quote": "営業代行会社の料金体系は大きく「固定報酬型」「成果報酬型」「ハイブリッド型」の3つに分けられます",
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は月額30万円〜100万円程度",
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は1アポイントあたり3万円〜10万円程度",
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "pass": 3
+   },
+   {
+    "quote": "費用感は月額20万〜50万円程度の固定費に加え、成果報酬を加算するケースが多いです",
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "pass": 3
+   },
+   {
+    "quote": "従業員6〜20人の会社（上限1,500万円）が開発費3,000万円の業務システムをつくる場合、補助金を受けられれば顧客の実質負担は1,500万円になります（補助金は後払いのため、いったん全額を支払う資金は必要です）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "750万〜8,000万円（大幅賃上げ特例で最大1億円）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "750万〜2,500万円（賃上げ特例で最大3,500万円）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "2,500万〜7,000万円（賃上げ特例で最大9,000万円）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "600万円（新市場・新分野進出コースは1,000万円）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "450万円（通常枠）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率は中小企業で1/2のため、たとえば1,000万円の開発であれば、補助を受けられた場合の実質負担は500万円です",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "一定額以上の発注には複数社の見積もりが求められます（新事業進出・ものづくり商業サービス補助金は50万円以上で3者以上）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "累計採択額30億円超（2026年6月時点）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の費用は着手金0円の成功報酬型（料金は制度によって異なります）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "結論から言うと、Web開発（Webシステムの受託開発）の費用相場は、おおよそ100万円台から数千万円まで分布します",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "小規模システム（100〜300万円）の目安と該当例",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場はおおむね100万〜300万円、開発期間は1〜3ヶ月程度、体制はエンジニア1〜2名というケースが多くなります",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中規模システム（300〜1,200万円）の目安と該当例",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は300万〜1,200万円程度（案件によっては3,000万円規模まで広がります）、開発期間は3〜6ヶ月以上、体制は数名のチームで進めるのが一般的です",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "大規模システム（1,200万円〜）の目安と該当例",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は1,200万円から数千万円、案件によっては数億円規模にまで及びます",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "100万〜300万円",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "300万〜1,200万円",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "1,200万円〜（数千万円規模も）",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   }
+  ],
+  "取り分・マージン": [
+   {
+    "quote": "・価格交渉の主導権を握りづらく粗利が削られる",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "費用は相場だけで決めず、自社の受注単価と粗利から逆算して上限を定めましょう",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "ましてや客先常駐の偽装請負で中間マージンを搾取するようなせこいことしている企業の経営者や営業がこんなコストをかけるわけがありません",
+    "url": "https://axia.co.jp/2017-06-27",
+    "pass": 3
+   }
+  ],
+  "市場規模・台数": [
+   {
+    "quote": "その結果、約2,000件の架電から11件のアポイントを獲得し、そのうち8件が成約、さらに1億円規模の建設案件の受注にまでつながりました",
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "pass": 3
+   },
+   {
+    "quote": "750万〜8,000万円（大幅賃上げ特例で最大1億円）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "累計採択額30億円超（2026年6月時点）",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は1,200万円から数千万円、案件によっては数億円規模にまで及びます",
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "IDC Japanの調査では、2024年上半期のソフトウェア市場規模が2兆5,498億円を超え、前年同期比で10.8%増という大幅な伸びを記録しました",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ITサービス市場全体も成長が続いており、2023年の規模は6兆5,380億円と報告されています",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "国内のソフトウェア市場は2028年に約7兆9,000億円へと拡大する見込み",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "ITサービス市場も2028年には8兆8,000億円規模に達し、インテグレータ市場も年率5%程度の安定した成長が続くと見込まれています",
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップ向け営業支援サービスの営業リーダー就任後、個人売上高3億円を達成",
+    "url": "https://takuwil.spool.co.jp/column/article/system-development-sales-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "比較ビズは年間案件流通額360億円、発注確定度85%と日本最大級のビジネスマッチングサイトとなっております",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000 万〜数億円",
+    "url": "https://koromo.io/blog/contract-development-company-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "東証一部上場・売上244億円の大手開発会社が発注ナビで手に入れた新たな強みとは",
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "MVP開発は約1,000万〜3,000万円で3〜6か月、中規模のアプリ・システム開発は4,000万〜8,000万円で6〜12か月、大規模の開発は8,000万円から数億円です",
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上1億円のうち最大顧客が6,000万円なら、その顧客の売上構成比は60％です",
+    "url": "https://torchup.co.jp/column/c-new-business/ses-new-business-start/",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上1億円",
+    "url": "https://torchup.co.jp/column/c-new-business/ses-new-business-start/",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "受託開発の営業方法と案件獲得のコツ｜補助金を使った提案と採択事例の分析",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金申請支援",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金締切DB",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発の営業方法と案件獲得のコツ｜「予算がない」を補助金で動かす提案と採択14,248件の分析",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "※この記事は、各補助金の公式サイト・公募要領と、各事務局が公表した採択結果（2026年10月23日確認）をもとに、認定経営革新等支援機関（認定第90号）の株式会社イチドキリがまとめています",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発（システム開発）の営業は、紹介・協業・自社の発信で商談の入口をつくり、商談の山場になる予算の確保を補助金で後押しする、という流れで組み立てると進めやすくなります",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金を提案に組み込んで受注につなげる方法",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、省力化投資補助金・新事業進出補助金・ものづくり補助金の",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "採択計画14,248件を当社が集計し、どの業種がシステム開発に補助金を使っているか",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "国や東京都の補助金を使うと、顧客は上限額の範囲で開発費の",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "社内向けの業務システムなら省力化投資補助金（一般型）、新しいサービスの開発なら新事業進出・ものづくり商業サービス補助金が主な候補です",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の集計では、省力化投資補助金の採択計画（第1〜6回・情報通信業を除く）のうち",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金でシステム開発を進める中小企業は、すでに珍しくありません",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "採択計画は業種と都道府県で絞り込めるので、アウトバウンド営業で「同じ業界でこういう計画が採択されています」という切り口を作れます",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金を使う提案では、交付決定前に発注しない、補助金は後払いになる、といった制約を最初に顧客と共有しておく必要があります",
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金コンサルタント",
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dgloss.co.jp/column/contract-development-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stock-sun.com/column/contract-development-sales-support/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-pos.jp/a014/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.liberalhearts.co.jp/systemdevelopment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grop.co.jp/outsourcingpro/customersupport/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizfocus.jp/blog/salesoutsourcing-salesoutsourcing_price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axia.co.jp/2017-06-27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takuwil.spool.co.jp/column/article/system-development-sales-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torchup.co.jp/column/c-new-business/contract-development-own-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crex-sales.com/outsourcing/contract-development-sales-agency-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://s-p-net.com/knowledge/tech-knowledge/how-to-choose-a-software-development-outsourcing-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loftal.jp/blog/detail/contract-development-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biz.ne.jp/subject/blog/2003758/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeeta.co.jp/column/it-sales-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koromo.io/blog/contract-development-company-comparison-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salesbuilder.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykbridge.net/b2b-sales-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/country-commercial-guides/japan-defense-procurement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindmelt.jp/insights/japan-b2b-sales-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venturejapan.com/japanese-business-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nextlevel.global/services/sales-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digi-mado.jp/articles/6c821750-6a03-45db-a882-62fb37aec794/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted_sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sono-5.com/articles/app-development-sales-channels-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torchup.co.jp/column/c-new-business/ses-new-business-start/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託開発会社の営業・問い合わせ対応の予算",
+   "results": [
+    "https://eigyou-hack.com/Contractdevelopment-sourcing",
+    "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "https://hnavi.co.jp/knowledge/blog/pioneering-contract_sales/",
+    "https://dgloss.co.jp/column/contract-development-sales/",
+    "https://stock-sun.com/column/contract-development-sales-support/",
+    "https://sono-5.com/articles/app-development-sales-channels-strategy",
+    "https://takuwil.spool.co.jp/column/article/system-development-sales-agency/",
+    "https://s-p-net.com/knowledge/tech-knowledge/how-to-choose-a-software-development-outsourcing-company",
+    "https://sophiate.co.jp/受託開発の費用相場と見積もり判断の完全ガイド/"
+   ]
+  },
+  {
+   "query": "受託開発会社の営業・問い合わせ対応の予算 料金 相場",
+   "results": [
+    "https://stock-sun.com/column/contract-development-sales-support/",
+    "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "https://b-pos.jp/a014/",
+    "https://www.liberalhearts.co.jp/systemdevelopment",
+    "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "https://www.grop.co.jp/outsourcingpro/customersupport/",
+    "https://bizfocus.jp/blog/salesoutsourcing-salesoutsourcing_price",
+    "https://www.crtm.co.jp/media/category-8/post-1355/",
+    "https://faxdm.nexway.co.jp/blog/199",
+    "https://app-tatsujin.com/outsourced-development-pricing-2026-guide/"
+   ]
+  },
+  {
+   "query": "受託開発会社の営業・問い合わせ対応の予算 規模別 社数",
+   "results": [
+    "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "https://note.com/ai_kouritsu_/n/nffb136256ed2",
+    "https://stock-sun.com/column/contract-development-sales-support/",
+    "https://axia.co.jp/2017-06-27",
+    "https://takuwil.spool.co.jp/column/article/system-development-sales-agency/",
+    "https://torchup.co.jp/column/c-new-business/contract-development-own-service/"
+   ]
+  },
+  {
+   "query": "受託開発会社の営業・問い合わせ対応の予算 比較 一覧",
+   "results": [
+    "https://shidai.co.jp/blog/sales-outsourcing-for-software-development/",
+    "https://stock-sun.com/column/contract-development-sales-support/",
+    "https://takuwil.spool.co.jp/column/article/system-development-sales-agency/",
+    "https://crex-sales.com/outsourcing/contract-development-sales-agency-guide/",
+    "https://s-p-net.com/knowledge/tech-knowledge/how-to-choose-a-software-development-outsourcing-company",
+    "https://syusodo.co.jp/blog/articles/web-system-development-cost-guide",
+    "https://loftal.jp/blog/detail/contract-development-company",
+    "https://www.biz.ne.jp/subject/blog/2003758/",
+    "https://zeeta.co.jp/column/it-sales-agency/",
+    "https://koromo.io/blog/contract-development-company-comparison-2026/"
+   ]
+  },
+  {
+   "query": "sales inquiry budget contract development firms Japan",
+   "results": [
+    "https://salesbuilder.jp/en/",
+    "https://www.ykbridge.net/b2b-sales-in-japan",
+    "https://www.trade.gov/country-commercial-guides/japan-defense-procurement",
+    "https://mindmelt.jp/insights/japan-b2b-sales-strategy",
+    "https://www.venturejapan.com/japanese-business-development/",
+    "https://nextlevel.global/services/sales-development/",
+    "https://www.sanyuinc.com/agenting/business-to-business",
+    "https://frontierview.com/insights/japans-budget-will-contract-for-the-first-time-in-12-years/",
+    "https://www.grandviewresearch.com/industry-analysis/japan-contract-development-manufacturing-organization-market-report",
+    "https://stellamano.jp/en/"
+   ]
+  },
+  {
+   "query": "受託開発会社の営業・問い合わせ対応の予算 2025 OR 2026",
+   "results": [
+    "https://ichidokiri.co.jp/column/jutaku-kaihatsu-eigyo/",
+    "https://digi-mado.jp/articles/6c821750-6a03-45db-a882-62fb37aec794/",
+    "https://stock-sun.com/column/contract-development-sales-support/",
+    "https://dgloss.co.jp/column/contract-development-sales/",
+    "https://hnavi.co.jp/knowledge/blog/entrusted_sales/",
+    "https://jitsuzo.jp/categories/system-kaihatsu/articles/jutaku-kaihatsu-osusume/",
+    "https://sono-5.com/articles/app-development-sales-channels-strategy",
+    "https://crex-sales.com/outsourcing/contract-development-sales-agency-guide/",
+    "https://torchup.co.jp/column/c-new-business/ses-new-business-start/"
+   ]
+  }
+ ],
+ "missing": {}
+}
