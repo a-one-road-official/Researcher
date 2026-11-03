@@ -1,4 +1,4 @@
-# 日本から海外へ売る商材の候補 — 輸出額・伸び・仕向け先・取り分・規制（事実のみ・8品目）
+# 日本から海外へ売る商材の候補 — 輸出額・伸び・仕向け先・取り分・規制（事実のみ・9品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -89,9 +89,93 @@
 - 取り分・商流：記載なし（読んだ36頁・検索6回）
 - 規制：記載なし（読んだ36頁・検索6回）
 
-## 日本製測定機器・計測器の輸出
-- 文脈：
-- エラー：ValueError: netloc '＃toka＃' contains invalid characters under NFKC normalization
+## 日本製測定機器・計測器の輸出（Japanese measuring instruments export）
+- 文脈：輸出
+- 輸出額・伸び：
+  - 「輸出額：35,404（百万円）」（https://www.jemima.or.jp/statistics/file/mof_2016_09-10.pdf）
+  - 「電気計測器市場、29年度に1兆1299億円 JEMIMA中期見通し、年平均1.0%成長 生成AIや脱炭素関連が下支え | 電波新聞デジタル」（https://dempa-digital.com/article/703747）
+  - 「電気計測器市場、29年度に1兆1299億円 JEMIMA中期見通し、年平均1.0%成長 生成AIや脱炭素関連が下支え」（https://dempa-digital.com/article/703747）
+  - 「日本電気計測器工業会（JEMIMA）がまとめた「電気計測器の中期見通し2025～2029年度」によると、海外拠点売上を含む2024年度の市場規模は前年度比1.4%増の1兆891億円となった」（https://dempa-digital.com/article/703747）
+  - 「25年度はほぼ横ばいを見込むが、生成AI関連需要やカーボンニュートラル対応投資を背景に、2029年度には1兆1299億円へ拡大し、25～29年度の年平均成長率は1.0%で推移すると予測している」（https://dempa-digital.com/article/703747）
+  - 「25年度は、設備投資の鈍化などの影響を受け、前年度比0.3%減の1兆853億円とほぼ横ばいとなる見通し」（https://dempa-digital.com/article/703747）
+  - 「国内の売り上げと輸出を合算した24年度実績は前年度比0.9%増の7500億円」（https://dempa-digital.com/article/703747）
+  - 「製品群別では、PA計測制御機器が124億円増、電気測定器（一般）が77億円増と伸びたほか、放射線計測器や環境計測器も増加した」（https://dempa-digital.com/article/703747）
+  - 「一方、半導体・IC測定器は100億円減、電力量計は65億円減と減少した」（https://dempa-digital.com/article/703747）
+  - 「25年度の国内売り上げと輸出は7446億円と前年度比0.7%減を見込む」（https://dempa-digital.com/article/703747）
+  - 「半導体等電子部品類はIoT（モノのインターネット）の広がりなどを背景に需要が拡大、貿易も順調に伸び世界のデジタル関連財貿易の約2割を占める規模となっている」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「半導体等電子部品の世界貿易額は2007年から2017年に年平均で5.1％増えた中、同期間の日本の輸出の平均伸び率はマイナス2.2％だった」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「日本のデジタル関連財輸出は2015年を底に増加に転じたが、半導体製造機器はデジタル関連財輸出の増加分のうち2016年は約7割、2017年も約3割分を担うなど、回復の原動力となっている（図2参照）」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「図2：日本のデジタル関連財輸出の前年比伸び率に対する分類別の影響度」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「そこで個々の品目に着目し、日本のデジタル関連財輸出では何が伸びたのかをみていきたい（注3）」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+- 仕向け先：
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「インドネシア」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「産学連携で高度インド人材との接点創出を目指す東京理科大学」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「中国の両用品目輸出管理強化」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「近年の世界のデジタル関連財貿易は中国を軸に活況を呈しているが、輸出からみると日本は弱含みの動きが続いている（図1参照、注1）」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「デジタル関連財輸出国としての日本は、2007年は中国、米国に次ぐ3位だったが、ここ数年は5～6位が定位置だ」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「2023～2024年の世界半導体市場の見通しと米国の戦略」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「米国2026年中間選挙（1）上院での多数派を目指す民主党の戦い」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「米国の鉄鋼・アルミ・銅の232条関税の制度変更と企業の実務対応」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「EAR（米国法における輸出管理規則）の対象製品としてロシア向けで輸出許可が必要となった製品もございますので、最終需要者が上記地域の場合は特にご注意を頂けます様お願い致します」（https://www.sankyointernational.co.jp/media/blog/a98）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「インドネシア」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「また、韓国および台湾の PC、携帯電話関連メーカーの進出は当地報道で多く見られたが、これは中国からの生産拠点分散化が近年急速に進んでいるためと考えられる」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「検査計測機器については、主に中国、アメリカ、EU、日本、韓国などから輸入している」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+- 価格差・需要：
+  - 「25年度はほぼ横ばいを見込むが、生成AI関連需要やカーボンニュートラル対応投資を背景に、2029年度には1兆1299億円へ拡大し、25～29年度の年平均成長率は1.0%で推移すると予測している」（https://dempa-digital.com/article/703747）
+  - 「調査は工業会統計を基に需要動向を分析した」（https://dempa-digital.com/article/703747）
+  - 「2026年度以降は、生成AI関連や新技術導入、脱炭素対応投資が需要を押し上げる一方、人口減少や一部業界での設備投資鈍化、各国の通商政策変更といった不透明要因も残る」（https://dempa-digital.com/article/703747）
+  - 「【データで読む 成長市場の行方】〈3〉AI需要が先端半導体市場をけん引 「薄利多...」（https://dempa-digital.com/article/703747）
+  - 「AI（人工知能）が稼働するデータセンターでは、演算を担うロジック半導体や情報を記憶するメモリー半導体で、高性能と優れた電力効率を備えた先端品の需要が高まっ…」（https://dempa-digital.com/article/703747）
+  - 「半導体等電子部品類はIoT（モノのインターネット）の広がりなどを背景に需要が拡大、貿易も順調に伸び世界のデジタル関連財貿易の約2割を占める規模となっている」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「最も輸出額が大きかったのはハイブリッド集積回路、次いで半導体デバイス、集積回路製造機器、記憶素子、半導体製造装置の部分品・付属品と半導体関連の品目が上位に並び、世界の半導体需要の堅調さがうかがえる顔ぶれとなった（表参照）」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「戦略物資の旧共産圏への流出防止から、全地域への大量破壊兵器の拡散防止、通常兵器の過度の移転と蓄積の防止へと目的も変わり、規制対象品の仕様の審査に加えて、最終需要者、最終用途の審査が一段と重要になっております」（https://www.keisokuki-land.co.jp/company/export/）
+  - 「今般、当社取扱いメーカ数社より、厳格に最終需要者も確認要求が改めてございました」（https://www.keisokuki-land.co.jp/company/export/）
+  - 「EAR（米国法における輸出管理規則）の対象製品としてロシア向けで輸出許可が必要となった製品もございますので、最終需要者が上記地域の場合は特にご注意を頂けます様お願い致します」（https://www.sankyointernational.co.jp/media/blog/a98）
+  - 「リスト規制該当品の製品や、該非判定に通常よりも時間がかかる製品につきましては、お見積り時に弊社営業担当者より、再輸出の可能性、最終需要者、アプリケーション等について確認をさせて頂いておりますが、上記のような制度改正により新たに輸出許可が必要となる製品もございます」（https://www.sankyointernational.co.jp/media/blog/a98）
+  - 「製造業の発展に伴い検査機器に需要あり（ベトナム・ハノイ発） | 海外発トレンドレポート - 海外ビジネス情報 - ジェトロ」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「製造業の発展に伴い検査機器に需要あり（ベトナム・ハノイ発）」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「製造業の発展に伴い検査機器に需要あり」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「弊社製品は全てキャッチオール規制該当品で、最終需要者を調査し用途が大量破壊兵器に関連する場合も許可が必要となります」（https://www.mitutoyo.co.jp/support-and-services/export-transport/info/）
+- 取り分・商流：
+  - 「商流は、直接輸入とベトナム国内の代理店経由の仕入れを使い分けており、直接輸入する場合は、基本的に100％前払いによる支払条件にて輸入決済を行っている」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「検査機器は日本、EUから輸入しており、日本メーカー1社の総代理店を務めている」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「商流については、海外からの直接輸入、またはベトナムにある代理店からの購入となっている」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「また、今回ヒアリングした輸入販売各社は、日本の検査測定機器のベトナムでの販売代理店になることを希望している」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「このうちE社は、日本の検査機器製造企業への代理店契約アプローチは「非常にハードルが高い」と語った」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「同社によると、日系企業は欧米企業とは異なり、一度販売代理契約を結ぶと、販売実績が悪くとも代理店契約の解除や新たな代理店指定を行わない傾向があり、代理店になるチャンスが非常に限定されたものになっているという」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「一方、欧米企業は実績を重視し、代理店収益が好調でない場合は早期に代理店契約を解除し、新規代理店へ移行してくため、E社は多くの欧米製品の代理店として活躍している」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「販売実績の好ましくない代理店を持つ日本メーカーは、実績を重視したフレキシブルな代理店指定に移行し、真に実力のあるベトナム輸入販売業者に代理店指定のチャンスを与えることが必要であると言えよう」（https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html）
+  - 「早くから世界を舞台に事業を発展させてきたミツトヨは、世界30か国以上・地域の拠点と60か国以上の代理店ネットワークを展開」（https://www.mitutoyo.co.jp/support-and-services/export-transport/info/）
+  - 「「マルチ計測器」の代理店・取扱店 - indexPro」（https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266）
+  - 「利用法人数：7,000 収録企業：メーカー 4,600社、代理店・取扱店 3,400社」（https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266）
+  - 「代理店・取扱店情報」（https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266）
+  - 「「マルチ計測器」の代理店・取扱店」（https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266）
+  - 「代理店・取扱店」（https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266）
+  - 「代理店・取扱店検索」（https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266）
+- 規制：
+  - 「中国の両用品目輸出管理強化」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響」（https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html）
+  - 「輸出管理｜東洋計測器株式会社」（https://www.keisokuki-land.co.jp/company/export/）
+  - 「一部の例外製品を除き日本の輸出管理における該非判定書の発行が可能ですが、書類の発行には通常5営業日が必要となります」（https://www.sankyointernational.co.jp/media/blog/a98）
+  - 「判定の結果が非該当の製品は基本的に問題となりませんが、弊社取り扱い製品の中にはリスト規制該当品もございます」（https://www.sankyointernational.co.jp/media/blog/a98）
+  - 「EAR（米国法における輸出管理規則）の対象製品としてロシア向けで輸出許可が必要となった製品もございますので、最終需要者が上記地域の場合は特にご注意を頂けます様お願い致します」（https://www.sankyointernational.co.jp/media/blog/a98）
+  - 「リスト規制該当品の製品や、該非判定に通常よりも時間がかかる製品につきましては、お見積り時に弊社営業担当者より、再輸出の可能性、最終需要者、アプリケーション等について確認をさせて頂いておりますが、上記のような制度改正により新たに輸出許可が必要となる製品もございます」（https://www.sankyointernational.co.jp/media/blog/a98）
+  - 「リスト規制該当品をお客様が再輸出される場合は、外国為替および外国貿易法とその関連法令の規定に従い、輸出許可の取得等適切な手続きをお願い致します」（https://www.sankyointernational.co.jp/media/blog/a98）
+  - 「お客様が新規にご購入いただいた、または既にお手持ちの当社製品（下記「ご注意点」も参照）を輸出される場合には、わが国の輸出管理関係法令により、規制対象製品かどうかをご確認いただくことが義務づけられております」（https://www.adcmt.com/support/export）
+  - 「米輸出管理規則（EAR）について」（https://www.adcmt.com/support/export）
+  - 「当社で製造販売する製品は、2020年8月17日付で規制強化された米輸出管理規則（EAR）で規制される、米国の技術・ソフトウェアに基づき米国外で製造された直接製品には該当しません」（https://www.adcmt.com/support/export）
+  - 「該非判定書お申込みフォーム」（https://www.adcmt.com/support/export）
+  - 「輸出管理・該非判定情報 | ミツトヨ製品の輸出や輸送をご検討のお客様へ | ミツトヨ」（https://www.mitutoyo.co.jp/support-and-services/export-transport/info/）
+  - 「輸出管理・該非判定情報」（https://www.mitutoyo.co.jp/support-and-services/export-transport/info/）
+  - 「該非判定情報」（https://www.mitutoyo.co.jp/support-and-services/export-transport/info/）
+- 検索結果の抜粋：
+  - 「電気 計測器 の輸入額 推移 — 電気 計測器 の輸入額 推移 日本電気計測器工業会 PDF https://www.jemima.or.jp > file > mof_2016_09-10」（https://www.jemima.or.jp/statistics/file/mof_2016_09-10.pdf）
+  - 「電気 計測器 市場、29年度に1兆1299億円 JEMIMA中期見通し — 電気 計測器 市場、29年度に1兆1299億円 JEMIMA中期見通し 電波新聞デジタル https://dempa-digital.com > article」（https://dempa-digital.com/article/703747）
+  - 「「国際 計測器 」の 代理店 13社 注目ランキング【2026年】 — 「国際 計測器 」の 代理店 13社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > 国際計測器株式会社」（https://metoree.com/companies/235/distributors/）
+  - 「安全保障貿易 管理 該非判定 ガイダンス（改訂第2版） — 安全保障貿易 管理 該非判定 ガイダンス（改訂第2版） 日本電気計測器工業会 https://www.jemima.or.jp > ... > 調査報告書」（https://www.jemima.or.jp/standards-and-reports/report/972.html）
 
 ## 金型の輸出（Japanese molds and dies export）
 - 文脈：輸出
@@ -310,6 +394,82 @@
   - 「キャッチオール規制」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
   - 「「リスト規制の対象の機械や技術」でなくても、輸出規制の対象になることがあります」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
   - 「それは補完的輸出規制（キャッチオール規制）があるからです」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+
+## 工作機械の外需（日本工作機械工業会の統計）（Japan machine tool orders overseas JMTBA）
+- 文脈：輸出
+- 輸出額・伸び：
+  - 「●昨2025年の受注総額は前年比6.4％」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「増の１兆5800億円となったもよう」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「1000億円台を突破したようだ」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「7000億円と見通す」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「●昨2025年の生産額は前年比6.5％増」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「の9600億円となったもよう」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「４．輸 入 〔財務省貿易統計〕 （単位：百万円、カッコ内は前年比増減率％）」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「●昨2025年の輸出額は前年比9.0％増」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「の8300億円となったもよう」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「円建てでみる日本の生産額と輸出額（2026年10月時点）」（https://sharingfactory.jp/2026/10/18/machine-tool-world-share/）
+  - 「Q2. 世界の工作機械の輸出額は全体でどれくらいですか？」（https://sharingfactory.jp/2026/10/18/machine-tool-world-share/）
+  - 「Q3. 日本の工作機械の輸出額は、2024年は国別でどこが多かったですか？」（https://sharingfactory.jp/2026/10/18/machine-tool-world-share/）
+  - 「VDWの発表では、2025年に中国の輸出額が前年比13%増の86億ユーロと過去最高になり、ドイツの70億ユーロ（同10%減）を初めて上回りました」（https://sharingfactory.jp/2026/10/18/machine-tool-world-share/）
+  - 「JMTBAの「工作機械主要統計（2026年8月分）」では、2025年（暦年）の生産額が9,826億4,500万円（前年比9.0%増）、輸出額が8,453億5,500万円（同11.0%増）です」（https://sharingfactory.jp/2026/10/18/machine-tool-world-share/）
+  - 「2024年のJMTBA公表値では、見かけの輸出比率（輸出額÷生産額×100）は84.5%でした」（https://sharingfactory.jp/2026/10/18/machine-tool-world-share/）
+- 仕向け先：
+  - 「外需は米国トランプ政権の関税政策の」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「や米国などが堅調で、3年ぶりに1兆」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「また、インドや東南アジアなど」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「ものの、中国をはじめとした東アジア向」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「米国も航空宇宙産業な」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「一方、欧州はドイツの」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「中国は一定規」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「米国は製造業の国内回帰が進む」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「欧州も航空宇宙産業を筆頭に回復傾」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「⑦欧州金融危機 11年06月 (128,581) 13年04月 (81,963） 63.7% 22ヵ月間 23ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「⑧中国減速 15年03月 (147,380) 16年10月 (93,884） 63.7% 20ヵ月間 17ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「・対欧州 166,226 （+44.6） 179,972 （+8.3） 140,461 （-22.0）」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「・対欧州 140,000 （-0.3）」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「■欧州金融危機」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「欧州金融危機」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+- 価格差・需要：
+  - 「■内需の需要産業別受注額推移」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「なかったことなどから設備投資需要が伸」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「などの好調業種からの活発な需要は26」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「の需要が航空宇宙やエネルギー産業」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「MCの需要が活発で、台数ベースで大」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「産業の設備投資需要が復調すれば、こ」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「動化システムの需要が高まり、1台当た」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「模の底堅い需要が見込めるものの、政」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「などからの活発な需要が持続しそうだ」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「昨年期待されていた自動車や半導体関連の本格的な需要回復はまだ見られない状況だ」（https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/）
+  - 「自動車、半導体関連の需要回復に期待したい」（https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/）
+  - 「2024年に活発だった設備更新需要（補助金活用）が一巡し、2025年は「必要な設備だけを選別導入する」動きが目立ちます」（https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/）
+  - 「アジア新興国の需要拡大が外需の底堅さを支えています」（https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/）
+  - 「特にインドを中心とした新興国向け需要は、」（https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/）
+  - 「特に海外需要が市場をけん引しており、アジアを中心に受注額は安定して増加しています」（https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/）
+- 取り分・商流：
+  - 「(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「前⽉⽐：増加３業種(「航空機・造船・輸送用機械」「商社・代理店」等）」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「商社・代理店」（https://www.jmtba.or.jp/member/wp-content/uploads/2025/05/dokou2501_06.pdf）
+- 規制：
+  - 「Export control」（https://www.jmtba.or.jp/english/）
+  - 「Tighter export control regulations based on the situation in Ukraine」（https://seisanzai-japan.com/article/p6100/）
+  - 「（一社）日本工作機械工業会 輸出管理研究員 松浦 和雄 氏 工作機械の輸出管理、マザーマシンの軍事転用防ぐ「門番」の役割｜オピニオン｜日本物流新聞オンライン」（https://monoque.jp/opinion/post-511/）
+  - 「（一社）日本工作機械工業会 輸出管理研究員 松浦 和雄 氏 工作機械の輸出管理、マザーマシンの軍事転用防ぐ「門番」の役割」（https://monoque.jp/opinion/post-511/）
+  - 「（一社）日本工作機械工業会 輸出管理研究員 松浦 和雄 氏」（https://monoque.jp/opinion/post-511/）
+  - 「工作機械の輸出管理、マザーマシンの軍事転用防ぐ「門番」の役割」（https://monoque.jp/opinion/post-511/）
+  - 「外需の拡大及び国際情勢の不安定化に伴い、工作機械の輸出管理はかつてない重要性を帯びている」（https://monoque.jp/opinion/post-511/）
+  - 「近年の世界情勢や法改正も踏まえ、長年にわたり日工会の輸出管理研究員などを務め、工作機械業界における安全保障貿易管理や輸出実務の第一人者である松浦和雄氏に説明して貰った」（https://monoque.jp/opinion/post-511/）
+  - 「輸出管理の根源的な目的は「我が国を含む国際的な平和及び安全の維持」にある」（https://monoque.jp/opinion/post-511/）
+  - 「これを未然に防止するために、日本を含む主要先進国は、ワッセナー・アレンジメント（WA）や原子力供給国グループ（NSG）といった国際輸出管理レジームを構築し、協調して貿易管理に取り組んでいる」（https://monoque.jp/opinion/post-511/）
+  - 「すなわち輸出管理は、平和と安全を脅かす国家やテロリストへ技術が渡ることを防ぐための「門番」の役割を担っているのだ」（https://monoque.jp/opinion/post-511/）
+  - 「日本における輸出管理の柱となるのは、貨物の仕様で判定する「リスト規制」と、用途や需要者に着目する「キャッチオール規制」の二段構えだ」（https://monoque.jp/opinion/post-511/）
+  - 「リスト規制では、輸出貿易管理令別表第1の1項から15項に基づき、NC旋盤やマシニングセンタ、研削盤などが細かく規定されている」（https://monoque.jp/opinion/post-511/）
+  - 「特に、原子力関連の2項や通常兵器関連の6項は工作機械にとっての「主戦場」であり、企業は自社製品のスペックをISO規格に基づき厳密に判定する「該非判定」に細心の注意を払わなければならない」（https://monoque.jp/opinion/post-511/）
+  - 「一方、スペックがリスト規制の基準に達しない汎用機であっても、キャッチオール規制の網が待ち構える」（https://monoque.jp/opinion/post-511/）
+- 検索結果の抜粋：
+  - 「日本工作機械工業会 （2026年5月分）確報 - ことラボSTI — 日本工作機械工業会 （2026年5月分）確報 - ことラボSTI ことラボSTI https://kotolabosti.co.jp > ことラボ・レポート」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「工作機械 受注が教えてくれる 日本 株・世界経済（26 年5月） — 工作機械 受注が教えてくれる 日本 株・世界経済（26 年5月） 第一ライフ資産運用経済研究所 https://www.dlri.co.jp > report > macro」（https://www.dlri.co.jp/report/macro/617938.html）
+  - 「2月 工作機械 受注は前年比24.2％増 - Reuters — 2月 工作機械 受注は前年比24.2％増 - Reuters Reuters https://www.reuters.com > markets > japan」（https://www.reuters.com/jp/markets/japan/XXINEJ2JRZOSFFPNIOWJBRXYMA-2026-03-10/）
+  - 「日本工作機械工業会 （2025年12月分）確報 - ことラボSTI — 日本工作機械工業会 （2025年12月分）確報 - ことラボSTI ことラボSTI https://kotolabosti.co.jp > ことラボ・レポート」（https://kotolabosti.co.jp/report/topics/8230/）
 
 ## 中古工作機械の輸出の商流と手数料（used machine tool export commission margin）
 - 文脈：輸出

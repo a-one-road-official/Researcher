@@ -1,0 +1,1373 @@
+{
+ "name": "工作機械の外需（日本工作機械工業会の統計）",
+ "en": "Japan machine tool orders overseas JMTBA",
+ "aliases": [
+  "工作機械受注",
+  "外需",
+  "日本工作機械工業会",
+  "JMTBA"
+ ],
+ "context": "輸出",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:49:29.180278+00:00",
+ "evidence": {
+  "輸出額・伸び": [
+   {
+    "quote": "●昨2025年の受注総額は前年比6.4％",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増の１兆5800億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1000億円台を突破したようだ",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7000億円と見通す",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●昨2025年の生産額は前年比6.5％増",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の9600億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．輸 入 〔財務省貿易統計〕 （単位：百万円、カッコ内は前年比増減率％）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●昨2025年の輸出額は前年比9.0％増",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の8300億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円建てでみる日本の生産額と輸出額（2026年10月時点）",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. 世界の工作機械の輸出額は全体でどれくらいですか？",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. 日本の工作機械の輸出額は、2024年は国別でどこが多かったですか？",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "VDWの発表では、2025年に中国の輸出額が前年比13%増の86億ユーロと過去最高になり、ドイツの70億ユーロ（同10%減）を初めて上回りました",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "JMTBAの「工作機械主要統計（2026年8月分）」では、2025年（暦年）の生産額が9,826億4,500万円（前年比9.0%増）、輸出額が8,453億5,500万円（同11.0%増）です",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のJMTBA公表値では、見かけの輸出比率（輸出額÷生産額×100）は84.5%でした",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "VDWの発表では、2025年の世界の工作機械の輸出額は約414億ユーロで、前年から約3%減りました",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "JMTBAの英語版統計集では、2024年は中国が2,053億円で首位です",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "2年ぶりに米国（1,784億円）を抜き、インド（466億円）、韓国（307億円）、タイ（286億円）が続きました",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "JMTBAの英語版統計集では、2024年の生産額は9,013億円で、前年比14.3%減でした",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成 – 日本産機新聞",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "坂元会長は「年終盤の押し上げもあり、当初の見通しであった1兆6000億円を達成した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "内需は前年比0・2%減の4408億6200万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車や一般機械などの主要4業種は、「航空・造船・輸送用機械」のみが増加となり、それ以外は減少した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "外需は前年比11・5%増の1兆1634億5700万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "アジアは2年連続で5000億円を超え、中国とインドは過去最高となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "中国はEV（電気自動車）やIT関連投資により、2年連続で3000億円を上回った",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "北米は自動車や航空・造船・輸送用機械を中心に増加し、過去最高額の3600億円を記録",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は、ドイツなどのEU（欧州連合）主要国が弱含みで推移し、2年連続で2000億円を下回った",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "26年の工作機械受注額は、1兆7000億円を見通す",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "：約1兆4,800億円",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "：約1兆5,200億円",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "：約1兆5,900億円",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "12月の外需は1,187億6,900万円に達し、前年同月比も高い伸びとなりました",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "一方でインド向け受注も前年同月比で大きく増加しており（例：3月では約98億円と前年から約80％増）、",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "外需7割と、金額の伸びを分けて読む - 私的経済ニュース解読",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "外需7割と、金額の伸びを分けて読む",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "内需も前年同月比46.5％増、前月比24.1％増なので、「海外だけが伸び、国内は減った」とする読み方も違います",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "輸出19.3％増でも貿易赤字4069億円",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年５月の受注総額は、期末効果の剥落により前月比(▲ 2.3 %)で３カ月ぶりに減少したものの、２カ月連続で 1,800 億円を超え、３月(1,934 億 70 百万円)に次ぐ歴代２位の受注額となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同月比(＋ 45.1 %)の増加率はコロナ禍のペントアップ需要が盛んであった 2022 年１月以来４年３カ月ぶりに４割以上となり、10 カ月連続で増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "このうち内需は、前月比で▲ 2.4 %(３カ月ぶり減少)、前年同月比で＋ 43.4 %(４カ月 連続増加)の 492 億 86 百万円で、昨年下期(364 億円)、本年第１四半期(401 億円)の平均受注額を大きく上回った",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "」(157 億円)や「電気・精密」(78 億円)では、データセンタに関連した、予備電源、液冷循環ポンプやバルブ、免振装置、流体軸受等の加工需要が広く見受けられる他、半導体製造装置や各種発電に関連した需要も高まっている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "」(113 億円)はモデルチェンジ需要の高まりから 13 カ月ぶりに 100 億円を超えた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "」(38 億円)は鉄道関連のスポット受注もあり７カ月ぶりに 35 億円を超えた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "外需は、前月比で▲ 2.3 %(２カ月ぶり減少)、前年同月比で＋ 45.8 %(19 カ月連続増加)の 1,396 億 81 百万円となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "(203 億円)は航空機や商社・現法でのストック増強が堅調で、前月比で３カ月ぶりに減少したものの、２カ月連続で 200 億円を上回った",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "(763 億円)は主要市場で唯一、４月も前月比で増加し、２カ月連続で過去最高額を更新した(２カ月連続の 750 億円超)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "も３カ月連続で 70 億円を超えた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "はドイツでの受注額がこのところ40億円前後で持続するなど復調しつつあり、イタリアやスペイン等でも設備案件が増加傾向にある",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Manufacturing Growth Confirmed at 7-Month Low",
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Machine Tool Builders’ Association (JMTBA) is a nonprofit trade association of metal cutting machine tool builders. It was established in 1951 and reorganized to its present status in 1978 with an eye to ensuring the overall growth of the nation’s machine tool industry and contributing to the sound development of the Japanese economy.",
+    "url": "https://www.jmtba.or.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "According to the Japan Machine Tool Builders' Association (JMTBA), total machine tool orders in July 2026 reached ¥193.09 billion, down 5.1% from June but up 50.4% year-on-year. This marks the thirteenth consecutive month of year-on-year growth. Total orders have remained above the ¥120 billion level for seventeen consecutive months and reached the third-highest monthly level on record.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "China remained Japan's largest export market for machine tools, accounting for approximately 65% of Asian demand. Taiwan and South Korea recorded particularly strong growth, reflecting robust investment activity in the semiconductor, electronics, and advanced manufacturing sectors.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "1. AI Becomes a New Growth Engine for Machine Tool Demand",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "Taiwan recorded one of the strongest growth rates among major Asian markets, with machine tool orders surging more than 160% year-on-year. The increase reflects ongoing investment in semiconductors, electronics, and advanced manufacturing capacity.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   }
+  ],
+  "仕向け先": [
+   {
+    "quote": "外需は米国トランプ政権の関税政策の",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "や米国などが堅調で、3年ぶりに1兆",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、インドや東南アジアなど",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものの、中国をはじめとした東アジア向",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "米国も航空宇宙産業な",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、欧州はドイツの",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中国は一定規",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "米国は製造業の国内回帰が進む",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欧州も航空宇宙産業を筆頭に回復傾",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑦欧州金融危機 11年06月 (128,581) 13年04月 (81,963） 63.7% 22ヵ月間 23ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑧中国減速 15年03月 (147,380) 16年10月 (93,884） 63.7% 20ヵ月間 17ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・対欧州 166,226 （+44.6） 179,972 （+8.3） 140,461 （-22.0）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・対欧州 140,000 （-0.3）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■欧州金融危機",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欧州金融危機",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の世界シェアは生産で中国が最大、日本は3位圏",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "消費は中国と米国が上位（VDW）",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出は中国がドイツを初めて上回った（VDW）",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 中国とドイツの工作機械の生産額はいくらですか？",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ：世界シェアは集計元と年をそろえて読み、生産は中国が最大と押さえよう",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "VDWの集計では、2025年の世界の工作機械生産に占める割合は、中国が37%、ドイツが12%、日本が10%、米国が9%、イタリアが7%です",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、工作機械の生産額（金属切削と成形の合計）は、中国が15年連続の1位、ドイツが2年連続の2位、日本が3位でした",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "VDWの集計では、2025年の世界の消費に占める割合は、中国が約32%、米国が14%です",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の市場規模は252億ユーロで、前年から5%増えました",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "米国は111億ユーロです",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツは5.7%で、インドの5.4%をわずかに上回ります",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "VDWの発表では、2025年に中国の輸出額が前年比13%増の86億ユーロと過去最高になり、ドイツの70億ユーロ（同10%減）を初めて上回りました",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "JMTBAの解説ページによると、日本は国・地域別の生産額で1982年に米国を抜いて世界1位となり、その後27年連続でその地位を保ちました",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "VDWの発表では、2025年の中国の生産額（部品・付属品を除く）は約300億ユーロで過去最高、ドイツは94億ユーロです",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "JMTBAの英語版統計集では、2024年は中国が2,053億円で首位です",
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "pass": 3
+   },
+   {
+    "quote": "アジアは2年連続で5000億円を超え、中国とインドは過去最高となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "中国はEV（電気自動車）やIT関連投資により、2年連続で3000億円を上回った",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は、ドイツなどのEU（欧州連合）主要国が弱含みで推移し、2年連続で2000億円を下回った",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "インド・ASEAN：増加傾向",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "中国向けはアジア受注の約6割以上",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "一方でインド向け受注も前年同月比で大きく増加しており（例：3月では約98億円と前年から約80％増）、",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "特にインドを中心とした新興国向け需要は、",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "米国経済 (1)",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "欧州 (1)",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "米国 (2)",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "中国 (1)",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "米国株 (1)",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "中東情勢が世界経済に影響を及ぼす懸念がある中でも、北米及びアジアでは引き続き需要が旺盛で、若干出遅れ感があった日本及び欧州においても前向きな動きが広がりつつある",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "米国やドイツ、イタリア等では思い切った税制措置や利下げも追い風になっているものと思われる",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "は、中国で引き続き、輸出向け自動車、通信機器、発電、ロボット等で需要の更なる高まり或いは高原状態の持続が予想される他、インドでも自動車・二輪車、農業機械、通信機器等各分野での活発な投資が見込まれている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "それを聞いたとき日工会の中国向け受注は落ち込んでいなかった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "アジアへの、そして中国への依存度が高いのが不安だ",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "米国から「中国に高精度な加工機を売るな」と言われたらどうしよう",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし手先が器用で多彩な文明を育ててきた中国は、いまの強権体制と拝金主義が消えれば、強力なライバルとなるだろう",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "-中国は、７カ⽉連続 350 億円超え、歴代３位の 512.5 億円",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "-インドは前⽉⽐で２カ月連続大きく減少も、前年同月比では 25 ％超の増加と堅調な推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の受注額",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州計は、３",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の業種別受注",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "日本、米国、欧州、アジア、新興国経済に関する様々な分析レポート",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本、米国、欧州、アジア経済に関する今後の見通しレポート",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   },
+   {
+    "quote": "昨年後半以降、通商政策の不透明感が後退する中、半導体需要に裏打ちされた米国向けと中国向けの需要に加速感がみられる",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別詳細は確報を待つ必要があるが、４月までの傾向から判断すると中国と米国向けが増加基調を維持したとみられる",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国は55.1へと0.6pt上昇",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国内におけるＡＩ関連投資が隆盛を極めるなか、その恩恵が広がりを持ちつつあることを示唆している",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   }
+  ],
+  "価格差・需要": [
+   {
+    "quote": "■内需の需要産業別受注額推移",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なかったことなどから設備投資需要が伸",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "などの好調業種からの活発な需要は26",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の需要が航空宇宙やエネルギー産業",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "MCの需要が活発で、台数ベースで大",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業の設備投資需要が復調すれば、こ",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動化システムの需要が高まり、1台当た",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "模の底堅い需要が見込めるものの、政",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "などからの活発な需要が持続しそうだ",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昨年期待されていた自動車や半導体関連の本格的な需要回復はまだ見られない状況だ",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、半導体関連の需要回復に期待したい",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に活発だった設備更新需要（補助金活用）が一巡し、2025年は「必要な設備だけを選別導入する」動きが目立ちます",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア新興国の需要拡大が外需の底堅さを支えています",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "特にインドを中心とした新興国向け需要は、",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "特に海外需要が市場をけん引しており、アジアを中心に受注額は安定して増加しています",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "国内需要は力強さに欠ける状況が続いています",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "海外需要の持続性",
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "pass": 3
+   },
+   {
+    "quote": "大きな伸びは、ものづくりの設備需要を考える材料になります",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "どこの需要を、何の単位で測った数字なのかを確認します",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "需要の強さを示す材料として評価しても、利益の増加率や納入の進み方まで、この数字から読み取ることはできません",
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "pass": 3
+   },
+   {
+    "quote": "前年同月比(＋ 45.1 %)の増加率はコロナ禍のペントアップ需要が盛んであった 2022 年１月以来４年３カ月ぶりに４割以上となり、10 カ月連続で増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "中東情勢が世界経済に影響を及ぼす懸念がある中でも、北米及びアジアでは引き続き需要が旺盛で、若干出遅れ感があった日本及び欧州においても前向きな動きが広がりつつある",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "」(157 億円)や「電気・精密」(78 億円)では、データセンタに関連した、予備電源、液冷循環ポンプやバルブ、免振装置、流体軸受等の加工需要が広く見受けられる他、半導体製造装置や各種発電に関連した需要も高まっている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "」(113 億円)はモデルチェンジ需要の高まりから 13 カ月ぶりに 100 億円を超えた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資の周辺環境を見渡すと、恒常的に自動化・高効率化、環境対応に関する需要が見られ、長らく設備投資を抑制してきたユーザを中心に老朽機更新の必要性が高まっている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "全体的に見て、データセンタや半導体製造装置に関する需要が、多くの地域で目につく",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "、ジョブショップ、エネルギー、建設機械、自動車、航空・宇宙関連等で、引き続きハイレベルな需要の喚起が見込まれる",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "は、中国で引き続き、輸出向け自動車、通信機器、発電、ロボット等で需要の更なる高まり或いは高原状態の持続が予想される他、インドでも自動車・二輪車、農業機械、通信機器等各分野での活発な投資が見込まれている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "(日本)は、自動車関連需要が今後も持続的に増加した場合、「一般機械」など他分野での設備投資にも波及していくものと期待される",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "仮に事態が一段と悪化した場合、旺盛な需要に対してタイムリーに製品供給ができず、中小企業ユーザの老朽機更新の動きも妨げる結果となりかねない",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "⇒先⾏きは、内需では政策的⽀援効果、外需では、AI・ロボット関連需要の活況が国際情勢による不透明感を払拭し、更なる設備需要の伸⻑が⾒込まれる",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "・主な需要業種は、低調ながら前年よりやや高い⽔準で推移している",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "・⼀般機械は、需要が⼀進⼀退で推移も、前年同期⽐よりやや⾼い⽔準（26 年平均は 150 億円）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "・建設機械は３カ⽉ぶりの 10 億円割れも、海外需要を受けて引き続き堅調に推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer Price Index CPI",
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "pass": 3
+   },
+   {
+    "quote": "Export Price Index",
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "pass": 3
+   },
+   {
+    "quote": "GDP Price Index YoY",
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "pass": 3
+   },
+   {
+    "quote": "Import Price Index",
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "pass": 3
+   },
+   {
+    "quote": "Producer Price Index",
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "pass": 3
+   },
+   {
+    "quote": "Producer Price Index MoM",
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "pass": 3
+   },
+   {
+    "quote": "Producer Price Index YoY",
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "pass": 3
+   },
+   {
+    "quote": "Services Producer Price Index (SPPI)",
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "pass": 3
+   },
+   {
+    "quote": "Services Producer Price Index (SPPI) YoY",
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "pass": 3
+   },
+   {
+    "quote": "JMTBA noted that expanding investments in AI- and robotics-related industries continue to support global demand for capital equipment. While geopolitical uncertainties and inflationary concerns remain, the fundamental outlook for manufacturing investment continues to show resilience.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "ndustrial machinery remained the largest source of domestic demand, while the electrical and precision machinery sector delivered the strongest growth, more than doubling from a year earlier as investments in semiconductors, electronics, and advanced technologies accelerated.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "Foreign orders totaled ¥139.85 billion in July, down 3.8% from June but up 50.5% year-on-year. Overseas demand has now expanded for twenty-two consecutive months and reached the third-highest level ever recorded.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "China remained Japan's largest export market for machine tools, accounting for approximately 65% of Asian demand. Taiwan and South Korea recorded particularly strong growth, reflecting robust investment activity in the semiconductor, electronics, and advanced manufacturing sectors.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "European orders increased to ¥23.13 billion, up 9.5% from June and 40.7% from a year earlier. Demand from Germany, France, and the United Kingdom continued to recover steadily.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "Orders from North America totaled ¥40.44 billion, down slightly by 0.5% from June but up 51.4% year-on-year. Demand in the United States remained solid, supported by equipment replacement cycles and continued investment in advanced manufacturing industries.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "1. AI Becomes a New Growth Engine for Machine Tool Demand",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "For the first time, JMTBA explicitly highlighted AI- and robotics-related industries as key drivers of global machine tool investment. Demand associated with AI infrastructure, automation, and intelligent manufacturing continues to support growth across Asia and North America.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "2. China Continues to Lead Overseas Demand",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "Orders from China reached ¥48.63 billion in July, maintaining its position as Japan's largest overseas market. The figures indicate that industrial upgrading and demand for high-end manufacturing equipment remain strong in China.",
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "pass": 3
+   },
+   {
+    "quote": "Domestic demand remains in flat trend",
+    "url": "https://seisanzai-japan.com/article/p6100/",
+    "pass": 3
+   },
+   {
+    "quote": "Foreign demand sustains second-highest level on record",
+    "url": "https://seisanzai-japan.com/article/p6100/",
+    "pass": 3
+   },
+   {
+    "quote": "Foreign orders totaled JPY 113.0 billion, down 4.9% MoM. While orders declined MoM for the first time in two months, they exceeded JPY 110 billion for the second consecutive month, recording the second-highest order value on record after last month. YoY increases continued for the 16th consecutive month, and the foreign demand ratio reached a record high of 77.6% of total orders.",
+    "url": "https://seisanzai-japan.com/article/p6100/",
+    "pass": 3
+   },
+   {
+    "quote": "昨年後半以降、通商政策の不透明感が後退する中、半導体需要に裏打ちされた米国向けと中国向けの需要に加速感がみられる",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   },
+   {
+    "quote": "通商政策の不透明感が後退する中、ＡＩの爆発的な需要に裏打ちされ、新規受注の回復が継続し、世界的に景況感の改善がみられている",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホルムズ海峡の事実上の封鎖によるサプライチェーンの乱れから、駆け込み需要が発生している可能性に留意する必要はあるが、世界全体でみれば景況感の回復が明確化している",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   },
+   {
+    "quote": "そうした下でTOPIXの予想ＥＰＳは、半導体需要と企業の資本効率改善に向けた取り組みが奏功していることも相まって拡大基調を維持している",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   }
+  ],
+  "取り分・商流": [
+   {
+    "quote": "(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "前⽉⽐：増加３業種(「航空機・造船・輸送用機械」「商社・代理店」等）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "商社・代理店",
+    "url": "https://www.jmtba.or.jp/member/wp-content/uploads/2025/05/dokou2501_06.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本工作機械工業会 （2026年5月分）確報 - ことラボSTI — 日本工作機械工業会 （2026年5月分）確報 - ことラボSTI ことラボSTI https://kotolabosti.co.jp > ことラボ・レポート",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械 受注が教えてくれる 日本 株・世界経済（26 年5月） — 工作機械 受注が教えてくれる 日本 株・世界経済（26 年5月） 第一ライフ資産運用経済研究所 https://www.dlri.co.jp > report > macro",
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "pass": 3
+   },
+   {
+    "quote": "2月 工作機械 受注は前年比24.2％増 - Reuters — 2月 工作機械 受注は前年比24.2％増 - Reuters Reuters https://www.reuters.com > markets > japan",
+    "url": "https://www.reuters.com/jp/markets/japan/XXINEJ2JRZOSFFPNIOWJBRXYMA-2026-03-10/",
+    "pass": 3
+   },
+   {
+    "quote": "日本工作機械工業会 （2025年12月分）確報 - ことラボSTI — 日本工作機械工業会 （2025年12月分）確報 - ことラボSTI ことラボSTI https://kotolabosti.co.jp > ことラボ・レポート",
+    "url": "https://kotolabosti.co.jp/report/topics/8230/",
+    "pass": 3
+   }
+  ],
+  "規制": [
+   {
+    "quote": "Export control",
+    "url": "https://www.jmtba.or.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Tighter export control regulations based on the situation in Ukraine",
+    "url": "https://seisanzai-japan.com/article/p6100/",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）日本工作機械工業会 輸出管理研究員 松浦 和雄 氏 工作機械の輸出管理、マザーマシンの軍事転用防ぐ「門番」の役割｜オピニオン｜日本物流新聞オンライン",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）日本工作機械工業会 輸出管理研究員 松浦 和雄 氏 工作機械の輸出管理、マザーマシンの軍事転用防ぐ「門番」の役割",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）日本工作機械工業会 輸出管理研究員 松浦 和雄 氏",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の輸出管理、マザーマシンの軍事転用防ぐ「門番」の役割",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "外需の拡大及び国際情勢の不安定化に伴い、工作機械の輸出管理はかつてない重要性を帯びている",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "近年の世界情勢や法改正も踏まえ、長年にわたり日工会の輸出管理研究員などを務め、工作機械業界における安全保障貿易管理や輸出実務の第一人者である松浦和雄氏に説明して貰った",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出管理の根源的な目的は「我が国を含む国際的な平和及び安全の維持」にある",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "これを未然に防止するために、日本を含む主要先進国は、ワッセナー・アレンジメント（WA）や原子力供給国グループ（NSG）といった国際輸出管理レジームを構築し、協調して貿易管理に取り組んでいる",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "すなわち輸出管理は、平和と安全を脅かす国家やテロリストへ技術が渡ることを防ぐための「門番」の役割を担っているのだ",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "日本における輸出管理の柱となるのは、貨物の仕様で判定する「リスト規制」と、用途や需要者に着目する「キャッチオール規制」の二段構えだ",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制では、輸出貿易管理令別表第1の1項から15項に基づき、NC旋盤やマシニングセンタ、研削盤などが細かく規定されている",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、原子力関連の2項や通常兵器関連の6項は工作機械にとっての「主戦場」であり、企業は自社製品のスペックをISO規格に基づき厳密に判定する「該非判定」に細心の注意を払わなければならない",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、スペックがリスト規制の基準に達しない汎用機であっても、キャッチオール規制の網が待ち構える",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月には、通常兵器キャッチオール規制の対象に各種工作機械が明記されるなど、監視の目は一段と厳しくなっている",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "外為法違反と判断された場合、10年以下の懲役や、法人に対しては10億円以下、あるいは目的物価格の5倍という巨額の罰金が科せられる",
+    "url": "https://monoque.jp/opinion/post-511/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、日工会とJISの区分に沿った情報の整理、玉掛け・移動式クレーン・フォークリフトの資格の区分、外為法の規制の仕組みを解説します",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "数値制御工作機械は、仕様に当てはまるとリスト規制の対象になる",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制に当てはまらない場合も、キャッチオール規制がある",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. 輸出管理のリスト規制は、新品か中古かで変わりますか？",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. 輸出される工作機械の該非判定は、誰が行いますか？",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "外為法48条1項は、国際的な平和及び安全の維持を妨げることとなると認められるものとして政令で定める特定の地域を仕向地とする特定の種類の貨物を、輸出しようとする者に、経済産業大臣の許可を求める規定です",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "仕様に当てはまるものがリスト規制の対象で、仕向地は全地域です",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制は原則として毎年改正されるため、確認先は最新の規制リストです",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制に当てはまらない貨物でも、別表第一16の項のキャッチオール規制には、金属加工用のマシニングセンター、旋盤、金属用のボール盤やフライス盤、研削盤などが列挙されています",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省委託事業「安全保障貿易管理の概要（初級編）」令和8年度（PDF16ページ：リスト規制とキャッチオール規制／20ページ：リスト規制の注意点／22ページ：大量破壊兵器等キャッチオール規制の要件）",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制の仕様を定める輸出令別表第一の2の項(12)1・6の項(2)と貨物等省令の該当条文に、新品と中古で分ける文言は見当たりません",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定の確認の中身は、輸出令の品目に該当するかと、貨物等省令の仕様と合致するかです",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "他社から購入した貨物を輸出する場合は、メーカー等から該非判定書を入手し、輸出者が自社で改めて確認することが必要とされています",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省委託事業「安全保障貿易管理の概要（初級編）」令和8年度（PDF40ページ：5-2．該非判定／43ページ：5-5．該非判定書について）",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jmtba.or.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/machinery/fa-machines/global-demand",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000251739&page=ref_view",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtia.gr.jp/dataservice1/viewcatcid2.php",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eigyo-mfg.com/blog/8869/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crd.ndl.go.jp/reference/entry/index.php?kw_lk1=1&st=score&kw_lk3=1&mcmd=25&kw_lk2=1&kw_b=1&ndc_lk=1&kw_lk5=1&asc=desc&tt=2120004&ldtl=1&kw_lk4=1&page=ref_view&kg1=99&id=1000251739&kg3=6&fi=8_21&kg2=2&kg5=1&tt_lk=1&kw4=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B&kg4=13&type=reference&schup_btn=%E6%A4%9C%E7%B4%A2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/machinery/fa-machines/market-size",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://moneyinfo.hatenablog.jp/entry/2026/10/10/101935",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou12/12_12/28.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asia.nikkei.com/business/business-trends/japan-machine-tool-order-backlog-hits-all-time-high-on-ai-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisanzai-japan.com/article/p6100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Machine_orders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/japan/XXINEJ2JRZOSFFPNIOWJBRXYMA-2026-03-10/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC093RK0Z00C26A4000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/920634?display=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmaa.or.jp/archives/category/news/sheet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/member/wp-content/uploads/2025/05/dokou2501_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jmaa.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kotolabosti.co.jp/report/topics/8230/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/apply-01/shinseishorui/kobetu/kamotu/ichigimeseido/ichigimeseido.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/opinion/post-511/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/666459.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工作機械の外需（日本工作機械工業会の統計） 輸出額 推移",
+   "results": [
+    "https://www.jmtba.or.jp/statistics/",
+    "https://www.crex-data.com/industry/machinery/fa-machines/global-demand",
+    "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "https://crd.ndl.go.jp/reference/entry/index.php?id=1000251739&page=ref_view",
+    "https://www.jmtia.gr.jp/dataservice1/viewcatcid2.php",
+    "https://x.com/stock_unknown/status/2108437680677888380?lang=ar",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://kotolabosti.co.jp/report/topics/8669/",
+    "https://www.crex-data.com/industry/machinery/fa-machines/market-size"
+   ]
+  },
+  {
+   "query": "工作機械の外需（日本工作機械工業会の統計） 輸出 増加 海外需要",
+   "results": [
+    "https://www.crex-data.com/industry/machinery/fa-machines/global-demand",
+    "https://www.jmtba.or.jp/statistics/",
+    "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "https://www.jmtia.gr.jp/dataservice1/viewcatcid2.php",
+    "https://eigyo-mfg.com/blog/8869/",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://crd.ndl.go.jp/reference/entry/index.php?kw_lk1=1&st=score&kw_lk3=1&mcmd=25&kw_lk2=1&kw_b=1&ndc_lk=1&kw_lk5=1&asc=desc&tt=2120004&ldtl=1&kw_lk4=1&page=ref_view&kg1=99&id=1000251739&kg3=6&fi=8_21&kg2=2&kg5=1&tt_lk=1&kw4=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B&kg4=13&type=reference&schup_btn=%E6%A4%9C%E7%B4%A2",
+    "https://www.daina-blog.online/2025%E5%B9%B4%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E5%8B%95%E5%90%91%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BD%9C2023%E3%83%BB2024/",
+    "https://www.crex-data.com/industry/machinery/fa-machines/market-size"
+   ]
+  },
+  {
+   "query": "工作機械の外需（日本工作機械工業会の統計） 輸出商社 代理店",
+   "results": [
+    "https://www.jmtba.or.jp/statistics/",
+    "https://www.crex-data.com/industry/machinery/fa-machines/global-demand",
+    "https://kotolabosti.co.jp/report/topics/8669/",
+    "https://www.youtube.com/watch?v=bcK5ia8RBU0",
+    "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "https://www.jmtia.gr.jp/dataservice1/viewcatcid2.php",
+    "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou12/12_12/28.pdf",
+    "https://eigyo-mfg.com/blog/8869/",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/"
+   ]
+  },
+  {
+   "query": "Japan machine tool orders overseas JMTBA demand overseas buyers",
+   "results": [
+    "https://tradingeconomics.com/japan/machine-tool-orders",
+    "https://asia.nikkei.com/business/business-trends/japan-machine-tool-order-backlog-hits-all-time-high-on-ai-demand",
+    "https://www.jmtba.or.jp/english/",
+    "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "https://seisanzai-japan.com/article/p6100/",
+    "https://en.wikipedia.org/wiki/Machine_orders",
+    "https://www.freightwaves.com/news/what-japanese-machine-tool-data-tells-us-about-the-industrial-outlook",
+    "https://www.facebook.com/SEISANZAI.Japan/posts/%EF%B8%8F-japans-machine-tool-orders-hit-a-new-all-time-high-of-jpy-2232-billion-in-sept/1834446864792628/",
+    "https://www.jmtba.or.jp/english/wjmtbap/wp-content/uploads/2025/09/MachineTool-Orders.pdf",
+    "https://manufacturing.asia/manufacturing/news/japanese-machine-tool-orders-hit-record-overseas-demand"
+   ]
+  },
+  {
+   "query": "工作機械の外需（日本工作機械工業会の統計） 越境EC 手数料",
+   "results": [
+    "https://www.crex-data.com/industry/machinery/fa-machines/global-demand",
+    "https://www.jmtba.or.jp/statistics/",
+    "https://www.dlri.co.jp/report/macro/617938.html",
+    "https://kotolabosti.co.jp/report/topics/8669/",
+    "https://www.reuters.com/jp/markets/japan/XXINEJ2JRZOSFFPNIOWJBRXYMA-2026-03-10/",
+    "https://sharingfactory.jp/2026/10/18/machine-tool-world-share/",
+    "https://www.nikkei.com/article/DGXZQOUC093RK0Z00C26A4000000/",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://toyokeizai.net/articles/-/920634?display=b",
+    "https://www.crex-data.com/industry/machinery/fa-machines/market-size"
+   ]
+  },
+  {
+   "query": "工作機械の外需（日本工作機械工業会の統計） 輸出管理 該非判定",
+   "results": [
+    "https://www.jmtba.or.jp/statistics/",
+    "https://www.jmtia.gr.jp/dataservice1/viewcatcid2.php",
+    "https://crd.ndl.go.jp/reference/entry/index.php?id=1000251739&page=ref_view",
+    "https://jmaa.or.jp/",
+    "https://kotolabosti.co.jp/report/topics/8230/",
+    "https://www.meti.go.jp/policy/anpo/apply-01/shinseishorui/kobetu/kamotu/ichigimeseido/ichigimeseido.html",
+    "https://monoque.jp/opinion/post-511/",
+    "https://www.dlri.co.jp/report/macro/666459.html",
+    "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/"
+   ]
+  }
+ ],
+ "missing": {}
+}

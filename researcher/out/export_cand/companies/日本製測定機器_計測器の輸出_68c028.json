@@ -1,4 +1,1125 @@
 {
  "name": "日本製測定機器・計測器の輸出",
- "error": "ValueError: netloc '＃toka＃' contains invalid characters under NFKC normalization"
+ "en": "Japanese measuring instruments export",
+ "aliases": [
+  "計測器",
+  "測定機器",
+  "精密測定機器",
+  "measuring instruments"
+ ],
+ "context": "輸出",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:49:28.403403+00:00",
+ "evidence": {
+  "輸出額・伸び": [
+   {
+    "quote": "輸出額：35,404（百万円）",
+    "url": "https://www.jemima.or.jp/statistics/file/mof_2016_09-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電気計測器市場、29年度に1兆1299億円 JEMIMA中期見通し、年平均1.0%成長 生成AIや脱炭素関連が下支え | 電波新聞デジタル",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "電気計測器市場、29年度に1兆1299億円 JEMIMA中期見通し、年平均1.0%成長 生成AIや脱炭素関連が下支え",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気計測器工業会（JEMIMA）がまとめた「電気計測器の中期見通し2025～2029年度」によると、海外拠点売上を含む2024年度の市場規模は前年度比1.4%増の1兆891億円となった",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "25年度はほぼ横ばいを見込むが、生成AI関連需要やカーボンニュートラル対応投資を背景に、2029年度には1兆1299億円へ拡大し、25～29年度の年平均成長率は1.0%で推移すると予測している",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "25年度は、設備投資の鈍化などの影響を受け、前年度比0.3%減の1兆853億円とほぼ横ばいとなる見通し",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "国内の売り上げと輸出を合算した24年度実績は前年度比0.9%増の7500億円",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "製品群別では、PA計測制御機器が124億円増、電気測定器（一般）が77億円増と伸びたほか、放射線計測器や環境計測器も増加した",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "一方、半導体・IC測定器は100億円減、電力量計は65億円減と減少した",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "25年度の国内売り上げと輸出は7446億円と前年度比0.7%減を見込む",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "半導体等電子部品類はIoT（モノのインターネット）の広がりなどを背景に需要が拡大、貿易も順調に伸び世界のデジタル関連財貿易の約2割を占める規模となっている",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体等電子部品の世界貿易額は2007年から2017年に年平均で5.1％増えた中、同期間の日本の輸出の平均伸び率はマイナス2.2％だった",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタル関連財輸出は2015年を底に増加に転じたが、半導体製造機器はデジタル関連財輸出の増加分のうち2016年は約7割、2017年も約3割分を担うなど、回復の原動力となっている（図2参照）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "図2：日本のデジタル関連財輸出の前年比伸び率に対する分類別の影響度",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで個々の品目に着目し、日本のデジタル関連財輸出では何が伸びたのかをみていきたい（注3）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタル関連財を品目別にみると、2016年、2017年に2年連続して輸出が増加した品目は、全234品目のうち83品目（以下、この83品目を「好調グループ」とする）に上った",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子部品類は64品目のうち28品目で増加した",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "計測器・計器類は59品目中23品目で増加した",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "好調グループの輸出合計額は同期間に年平均2.3％増と着実な伸びを示し、日本のデジタル関連財輸出が伸び悩む中で下支えの役割を果たしたといえよう",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "好調グループ（2016年、2017年の輸出額が前年比増加したデジタル関連財、83品目）の輸出合計額",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年、2017年いずれも輸出額が前年比増加となった品目のうち、2017年の輸出額上位20品目",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年にはその比率が10.60％、2020年には16.69％と徐々に増加し、2021年、コロナ禍のため国内経済は大きなダメージを受けたものの、政府目標である25％を達成した（図1参照）",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの品目の輸入額はコロナ禍においても増加している（図3参照）",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上は毎年15～20%増加していたが、コロナ禍の影響により昨年は伸び率が少し減少した",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   }
+  ],
+  "価格差・需要": [
+   {
+    "quote": "25年度はほぼ横ばいを見込むが、生成AI関連需要やカーボンニュートラル対応投資を背景に、2029年度には1兆1299億円へ拡大し、25～29年度の年平均成長率は1.0%で推移すると予測している",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "調査は工業会統計を基に需要動向を分析した",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度以降は、生成AI関連や新技術導入、脱炭素対応投資が需要を押し上げる一方、人口減少や一部業界での設備投資鈍化、各国の通商政策変更といった不透明要因も残る",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "【データで読む 成長市場の行方】〈3〉AI需要が先端半導体市場をけん引 「薄利多...",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "AI（人工知能）が稼働するデータセンターでは、演算を担うロジック半導体や情報を記憶するメモリー半導体で、高性能と優れた電力効率を備えた先端品の需要が高まっ…",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "半導体等電子部品類はIoT（モノのインターネット）の広がりなどを背景に需要が拡大、貿易も順調に伸び世界のデジタル関連財貿易の約2割を占める規模となっている",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "最も輸出額が大きかったのはハイブリッド集積回路、次いで半導体デバイス、集積回路製造機器、記憶素子、半導体製造装置の部分品・付属品と半導体関連の品目が上位に並び、世界の半導体需要の堅調さがうかがえる顔ぶれとなった（表参照）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "戦略物資の旧共産圏への流出防止から、全地域への大量破壊兵器の拡散防止、通常兵器の過度の移転と蓄積の防止へと目的も変わり、規制対象品の仕様の審査に加えて、最終需要者、最終用途の審査が一段と重要になっております",
+    "url": "https://www.keisokuki-land.co.jp/company/export/",
+    "pass": 3
+   },
+   {
+    "quote": "今般、当社取扱いメーカ数社より、厳格に最終需要者も確認要求が改めてございました",
+    "url": "https://www.keisokuki-land.co.jp/company/export/",
+    "pass": 3
+   },
+   {
+    "quote": "EAR（米国法における輸出管理規則）の対象製品としてロシア向けで輸出許可が必要となった製品もございますので、最終需要者が上記地域の場合は特にご注意を頂けます様お願い致します",
+    "url": "https://www.sankyointernational.co.jp/media/blog/a98",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制該当品の製品や、該非判定に通常よりも時間がかかる製品につきましては、お見積り時に弊社営業担当者より、再輸出の可能性、最終需要者、アプリケーション等について確認をさせて頂いておりますが、上記のような制度改正により新たに輸出許可が必要となる製品もございます",
+    "url": "https://www.sankyointernational.co.jp/media/blog/a98",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の発展に伴い検査機器に需要あり（ベトナム・ハノイ発） | 海外発トレンドレポート - 海外ビジネス情報 - ジェトロ",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の発展に伴い検査機器に需要あり（ベトナム・ハノイ発）",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の発展に伴い検査機器に需要あり",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社製品は全てキャッチオール規制該当品で、最終需要者を調査し用途が大量破壊兵器に関連する場合も許可が必要となります",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "振動環境をリアルに再現する「振動シミュレーションシステム」や振動状態を視覚化する「振動メジャリングシステム」の製造・販売に加え、国内では大阪・東京・名古屋、海外ではタイに振動受託試験ラボを開設",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "私達はGPGPUをはじめとするアクセラレーターや、昨今海外でも需要の高いISV認定オーバークロックワークステーション、Omni-Pathやinfinibandなど高速なインターコネクトを利用したクラスターシステム、NVMeなどデータ転送ボトルネックを解消する高速ストレージ、そして、それらを便利に且つ容易に使いこなすための環...",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "品切れや過剰在庫といった需要と供給のミスマッチによって発生するリスクを最小化し、収益性を高めるには、企業間の壁を越えた情報のやり取りが鍵となります",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "分光放射照度計(MK350N PREMIUM)",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "分光放射照度計(MK350S Premium)",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "PREMIUM",
+    "url": "https://oec.world/en/profile/bilateral-product/other-measuring-instruments/reporter/usa",
+    "pass": 3
+   }
+  ],
+  "仕向け先": [
+   {
+    "quote": "米国関税措置への対応",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "産学連携で高度インド人材との接点創出を目指す東京理科大学",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国の両用品目輸出管理強化",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年の世界のデジタル関連財貿易は中国を軸に活況を呈しているが、輸出からみると日本は弱含みの動きが続いている（図1参照、注1）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル関連財輸出国としての日本は、2007年は中国、米国に次ぐ3位だったが、ここ数年は5～6位が定位置だ",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023～2024年の世界半導体市場の見通しと米国の戦略",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国2026年中間選挙（1）上院での多数派を目指す民主党の戦い",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国の鉄鋼・アルミ・銅の232条関税の制度変更と企業の実務対応",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "EAR（米国法における輸出管理規則）の対象製品としてロシア向けで輸出許可が必要となった製品もございますので、最終需要者が上記地域の場合は特にご注意を頂けます様お願い致します",
+    "url": "https://www.sankyointernational.co.jp/media/blog/a98",
+    "pass": 3
+   },
+   {
+    "quote": "米国関税措置への対応",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、韓国および台湾の PC、携帯電話関連メーカーの進出は当地報道で多く見られたが、これは中国からの生産拠点分散化が近年急速に進んでいるためと考えられる",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "検査計測機器については、主に中国、アメリカ、EU、日本、韓国などから輸入している",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "輸入単価は日本製、米国製、ドイツ製はほぼ同等のイメージで、販売数量は安価な中国製が最も多い",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "最近では、ドイツブランドで中国でのOEM製品の品質が高くなってきており、値段も安いため、将来、ベトナム市場でのシェアを拡大すると予測している",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "機器の輸入価格については、日本、米国、ドイツ各国からの輸入価格にはあまり差がないとのヒアリング結果となった",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製造販売する製品は、2020年8月17日付で規制強化された米輸出管理規則（EAR）で規制される、米国の技術・ソフトウェアに基づき米国外で製造された直接製品には該当しません",
+    "url": "https://www.adcmt.com/support/export",
+    "pass": 3
+   },
+   {
+    "quote": "また米国製部品の使用率がデミニマスレベルを超えておりません",
+    "url": "https://www.adcmt.com/support/export",
+    "pass": 3
+   },
+   {
+    "quote": "CCC：中国",
+    "url": "https://www.adcmt.com/support/export",
+    "pass": 3
+   },
+   {
+    "quote": "Ascott(イギリス）は設立から30年間、欧州、北米で高い評価を得ている塩水噴霧試験機の専門メーカーです",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークの重要性が増す世の中で、成長を続け、現在では北米、ヨーロッパ、中国、台湾、日本に加え、アジア太平洋...",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "光学試験校正室は、およそ40年前に弊社で扱っていた海外製光学測定機器の保守、校正作業を行なうために、米国より標準光源を導入し、NISTトレーサブルに",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "創業当時は主に欧州市場向けに、工業用温度計、湿度計、放射温度計、気圧計、工業用・気象用記録計等の日本製品の輸出を行っていました",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "1995年より、\"環境測定\"、\"省エネルギー\"などの市場要求に応えるべく、欧州の優れたメーカーから信頼性の高い測定機器、センサの輸入を手掛け、現在は再生可能...",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "電計科技研発（上海）股份有限公司は電計中国グループの一社です",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "中国受託試験センター(上海・蘇州)",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "【米国プロテンピス社製】デュアルバンド対応GNSSアンテナ (Bullet720)",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "【米国プロテンピス社製】デュアルバンド対応組込GNSS受信モジュール RES 720(121238-00)",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "【米国プロテンピス社製】デュアルバンド対応高性能GNSS受信機内蔵スマートアンテナ(アクタイム720（acutime720))",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "フルークは、全世界に販売ネットワークを広げる精密電子計測器メーカーである米国フルーク・コーポレーションの日本法人です",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "フルーク・ネットワークスは、米国の精密電子計測器メーカーである「フルーク・コーポレーション」のネットワークス部門が 2000 年に分社化して生まれたネットワーク関連ツールのメーカーです",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing is provided individually based on model, condition and destination. Send us the manufacturer and model number for a quotation.",
+    "url": "https://nicchukei.co.jp/en",
+    "pass": 3
+   },
+   {
+    "quote": "Top Destination",
+    "url": "https://oec.world/en/profile/bilateral-product/other-measuring-instruments/reporter/usa",
+    "pass": 3
+   },
+   {
+    "quote": ". In 2025, the main destinations of United States'",
+    "url": "https://oec.world/en/profile/bilateral-product/other-measuring-instruments/reporter/usa",
+    "pass": 3
+   },
+   {
+    "quote": "Origins and Destinations",
+    "url": "https://oec.world/en/profile/bilateral-product/other-measuring-instruments/reporter/usa",
+    "pass": 3
+   },
+   {
+    "quote": ". Click on any date on the time series, any subnational region on the first treemap, or any destination or origin on the second treemap to explore.",
+    "url": "https://oec.world/en/profile/bilateral-product/other-measuring-instruments/reporter/usa",
+    "pass": 3
+   },
+   {
+    "quote": "米国の輸出規制強化(ECRA)、エマージンタ技術に係る国際動向、米国の投資管理強化(FIRRMA)、米国政府の外国企業に対する最近の対応などの説明及び今後の留意事項を会員専用ページに掲載しました",
+    "url": "https://www.jpmia.gr.jp/export/",
+    "pass": 3
+   },
+   {
+    "quote": "第７章 EAR(Export Administration Regulations)米国輸出管理規則該非判定",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   }
+  ],
+  "規制": [
+   {
+    "quote": "中国の両用品目輸出管理強化",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "pass": 3
+   },
+   {
+    "quote": "輸出管理｜東洋計測器株式会社",
+    "url": "https://www.keisokuki-land.co.jp/company/export/",
+    "pass": 3
+   },
+   {
+    "quote": "一部の例外製品を除き日本の輸出管理における該非判定書の発行が可能ですが、書類の発行には通常5営業日が必要となります",
+    "url": "https://www.sankyointernational.co.jp/media/blog/a98",
+    "pass": 3
+   },
+   {
+    "quote": "判定の結果が非該当の製品は基本的に問題となりませんが、弊社取り扱い製品の中にはリスト規制該当品もございます",
+    "url": "https://www.sankyointernational.co.jp/media/blog/a98",
+    "pass": 3
+   },
+   {
+    "quote": "EAR（米国法における輸出管理規則）の対象製品としてロシア向けで輸出許可が必要となった製品もございますので、最終需要者が上記地域の場合は特にご注意を頂けます様お願い致します",
+    "url": "https://www.sankyointernational.co.jp/media/blog/a98",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制該当品の製品や、該非判定に通常よりも時間がかかる製品につきましては、お見積り時に弊社営業担当者より、再輸出の可能性、最終需要者、アプリケーション等について確認をさせて頂いておりますが、上記のような制度改正により新たに輸出許可が必要となる製品もございます",
+    "url": "https://www.sankyointernational.co.jp/media/blog/a98",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制該当品をお客様が再輸出される場合は、外国為替および外国貿易法とその関連法令の規定に従い、輸出許可の取得等適切な手続きをお願い致します",
+    "url": "https://www.sankyointernational.co.jp/media/blog/a98",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が新規にご購入いただいた、または既にお手持ちの当社製品（下記「ご注意点」も参照）を輸出される場合には、わが国の輸出管理関係法令により、規制対象製品かどうかをご確認いただくことが義務づけられております",
+    "url": "https://www.adcmt.com/support/export",
+    "pass": 3
+   },
+   {
+    "quote": "米輸出管理規則（EAR）について",
+    "url": "https://www.adcmt.com/support/export",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製造販売する製品は、2020年8月17日付で規制強化された米輸出管理規則（EAR）で規制される、米国の技術・ソフトウェアに基づき米国外で製造された直接製品には該当しません",
+    "url": "https://www.adcmt.com/support/export",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定書お申込みフォーム",
+    "url": "https://www.adcmt.com/support/export",
+    "pass": 3
+   },
+   {
+    "quote": "輸出管理・該非判定情報 | ミツトヨ製品の輸出や輸送をご検討のお客様へ | ミツトヨ",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出管理・該非判定情報",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定情報",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定情報リスト作成サービス",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出管理システムへの取組み",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "海外への輸出や移設をされる場合、該非判定が必要です",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社製品を海外へ輸出および移設される場合、「外国為替及び外国貿易法別表」で規定されているリスト規制品目とキャッチオール規制品目の該非判定を行わなければなりません",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社製品は全てキャッチオール規制該当品で、最終需要者を調査し用途が大量破壊兵器に関連する場合も許可が必要となります",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出規制の詳細は、下記の安全保障輸出管理関連サイトでご確認ください",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "安全保障輸出管理関連サイト",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "キャッチオール規制",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "外為法等関係法令",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "企業間における該非判定の依頼と回答について",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "以下1～10の対象製品について、外国為替および外国貿易法に基づく該非判定情報を示します",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定情報リストのサンプル[",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "安全保障貿易管理 該非判定 ガイダンス（改訂第2版）｜JEMIMA 一般社団法人 日本電気計測器工業会",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "輸出管理委員会",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "安全保障貿易管理 該非判定 ガイダンス（改訂第2版）",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "輸出管理委員会では冊子「安全保障貿易管理 該非判定ガイダンス （改訂第2版）」を発行しました",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "本書はリスト規制の全般に渡って解説しており、EARについても詳細に記述しております",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "「安全保障貿易管理 該非判定 ガイダンス（改訂第2版）」をお持ちの方へ",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "※「安全保障貿易管理 該非判定 ガイダンス（改訂第2版）」に誤りがございました",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "● 対象：製品開発、輸出管理、海外営業、生産技術、品質管理等に携わられる方",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "【該非判定ガイダンスの概要】",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "この判断作業は「該非判定」と呼ばれています",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "本書では、いつ、誰が、どのようにして「該非判定」を実施すればよいかを順を追って解説しております",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１章では、「該非判定って何だ」という章題をつけて概要だけを解説し、第２章以降は具体的な手順を解説しています",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定当事者用のガイダンス本としても社員教育の副本としても、ご利用いただけるよう編集しました",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１章 該非判定って何だ",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   },
+   {
+    "quote": "第２章 該非判定手順",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "電気 計測器 の輸入額 推移 — 電気 計測器 の輸入額 推移 日本電気計測器工業会 PDF https://www.jemima.or.jp > file > mof_2016_09-10",
+    "url": "https://www.jemima.or.jp/statistics/file/mof_2016_09-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電気 計測器 市場、29年度に1兆1299億円 JEMIMA中期見通し — 電気 計測器 市場、29年度に1兆1299億円 JEMIMA中期見通し 電波新聞デジタル https://dempa-digital.com > article",
+    "url": "https://dempa-digital.com/article/703747",
+    "pass": 3
+   },
+   {
+    "quote": "「国際 計測器 」の 代理店 13社 注目ランキング【2026年】 — 「国際 計測器 」の 代理店 13社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > 国際計測器株式会社",
+    "url": "https://metoree.com/companies/235/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "安全保障貿易 管理 該非判定 ガイダンス（改訂第2版） — 安全保障貿易 管理 該非判定 ガイダンス（改訂第2版） 日本電気計測器工業会 https://www.jemima.or.jp > ... > 調査報告書",
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "pass": 3
+   }
+  ],
+  "取り分・商流": [
+   {
+    "quote": "商流は、直接輸入とベトナム国内の代理店経由の仕入れを使い分けており、直接輸入する場合は、基本的に100％前払いによる支払条件にて輸入決済を行っている",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "検査機器は日本、EUから輸入しており、日本メーカー1社の総代理店を務めている",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "商流については、海外からの直接輸入、またはベトナムにある代理店からの購入となっている",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、今回ヒアリングした輸入販売各社は、日本の検査測定機器のベトナムでの販売代理店になることを希望している",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "このうちE社は、日本の検査機器製造企業への代理店契約アプローチは「非常にハードルが高い」と語った",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社によると、日系企業は欧米企業とは異なり、一度販売代理契約を結ぶと、販売実績が悪くとも代理店契約の解除や新たな代理店指定を行わない傾向があり、代理店になるチャンスが非常に限定されたものになっているという",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、欧米企業は実績を重視し、代理店収益が好調でない場合は早期に代理店契約を解除し、新規代理店へ移行してくため、E社は多くの欧米製品の代理店として活躍している",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売実績の好ましくない代理店を持つ日本メーカーは、実績を重視したフレキシブルな代理店指定に移行し、真に実力のあるベトナム輸入販売業者に代理店指定のチャンスを与えることが必要であると言えよう",
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "pass": 3
+   },
+   {
+    "quote": "早くから世界を舞台に事業を発展させてきたミツトヨは、世界30か国以上・地域の拠点と60か国以上の代理店ネットワークを展開",
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "pass": 3
+   },
+   {
+    "quote": "「マルチ計測器」の代理店・取扱店 - indexPro",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "利用法人数：7,000 収録企業：メーカー 4,600社、代理店・取扱店 3,400社",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・取扱店情報",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "「マルチ計測器」の代理店・取扱店",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・取扱店",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・取扱店検索",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・取扱店の登録、",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・取扱店 登録社数",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "「マルチ計測器」の代理店・取扱店：78件",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "代理店所在地",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン販売代理店一覧（8件）",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・取扱店情報の登録、変更",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "pass": 3
+   },
+   {
+    "quote": "日本電計はQ-Lab Corporationの日本代理店です",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "分光分析の可能性を広げる、スペクトラ・コープは Carl Zeiss 社製分光器の日本代理店です",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "Testo は世界の30か国以上に現地法人を有し、その他の地域では代理店ネットワークを形成するドイツのグローバル企業で...",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "BYK-Gardner社の販売総代理店",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": "総代理店であるRaise3D・EinScanのほか、Farsoon、Markforgedなど、アプリケーションに応じた様々な製品群をご用意しております",
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "pass": 3
+   },
+   {
+    "quote": ", being the 2nd largest exporter.",
+    "url": "https://oec.world/en/profile/bilateral-product/other-measuring-instruments/reporter/usa",
+    "pass": 3
+   },
+   {
+    "quote": "電気計器検定等手数料改定のお知らせ | 検定・検査業務 | 日本電気計器検定所（JEMIC）",
+    "url": "https://www.jemic.go.jp/kentei/20240401tesuryokaitei1.html",
+    "pass": 3
+   },
+   {
+    "quote": "検定手数料の支払方法",
+    "url": "https://www.jemic.go.jp/kentei/20240401tesuryokaitei1.html",
+    "pass": 3
+   },
+   {
+    "quote": "電気計器検定等手数料改定のお知らせ",
+    "url": "https://www.jemic.go.jp/kentei/20240401tesuryokaitei1.html",
+    "pass": 3
+   },
+   {
+    "quote": "標記については、「計量法関係手数料令の一部を改正する政令」が2024年４月１日（月）に施行されることに伴い、次のとおり改定となりますので、お知らせします",
+    "url": "https://www.jemic.go.jp/kentei/20240401tesuryokaitei1.html",
+    "pass": 3
+   },
+   {
+    "quote": "電気計器の検定手数料（2024年4月1日以降）（PDF）",
+    "url": "https://www.jemic.go.jp/kentei/20240401tesuryokaitei1.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国の輸出規制強化(ECRA)、エマージンタ技術に係る国際動向、米国の投資管理強化(FIRRMA)、米国政府の外国企業に対する最近の対応などの説明及び今後の留意事項を会員専用ページに掲載しました",
+    "url": "https://www.jpmia.gr.jp/export/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jemima.or.jp/statistics/file/mof_2016_09-10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.globalnote.jp/post-12120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dempa-digital.com/article/703747",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keikoren.or.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/qanda03b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisokuki-land.co.jp/company/export/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sankyointernational.co.jp/media/blog/a98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adcmt.com/support/export",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-denkei.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/235/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.keisokuten.jp/products/makerlist.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-yanagisawa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jisc-jp.com/company/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nti.org/analysis/articles/will-japan-learn-its-mistakes/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cistec.or.jp/english/export/Overview4th.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nicchukei.co.jp/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oec.world/en/profile/bilateral-product/other-measuring-instruments/reporter/usa",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.trade.gov/country-commercial-guides/japan-market-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualitymag.com/articles/85074-industry-news-mitutoyo-gets-export-ban",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jemic.go.jp/kentei/20240401tesuryokaitei1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpmia.gr.jp/export/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/services/amazon_japan_store/ekkyoechandbook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.post.japanpost.jp/bizpost/column/overseas5/border-crossing-ec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ayusawa-partners.jp/column/ec-oukyo-kaigai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ec-tsumugu.com/method/ec-customs-tax/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saburai.com/%E8%A7%A3%E8%AA%AC-%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%83%BB%E5%88%86%E6%9E%90%E8%A3%85%E7%BD%AE%E3%81%AE%E8%A9%B2%E9%9D%9E%E5%88%A4%E5%AE%9A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmcti.org/publication/correction/pdf/2018/ka6(6).pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keysight.com/jp/ja/lib/resources/miscellaneous/export-control.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.konicaminolta.jp/instruments/support/certificate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/matrix_intro.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本製測定機器・計測器の輸出 輸出額 推移",
+   "results": [
+    "https://www.jemima.or.jp/statistics/file/mof_2016_09-10.pdf",
+    "https://www.globalnote.jp/post-12120.html",
+    "https://dempa-digital.com/article/703747",
+    "https://www.keikoren.or.jp/statistics/",
+    "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_02.html",
+    "https://www.meti.go.jp/policy/anpo/qanda03b.html",
+    "https://www.customs.go.jp/toukei/info/?vm=r",
+    "https://www.customs.go.jp/toukei/suii/html/time.htm"
+   ]
+  },
+  {
+   "query": "日本製測定機器・計測器の輸出 輸出 増加 海外需要",
+   "results": [
+    "https://www.meti.go.jp/policy/anpo/qanda03b.html",
+    "https://www.keisokuki-land.co.jp/company/export/",
+    "https://www.sankyointernational.co.jp/media/blog/a98",
+    "https://www.jetro.go.jp/biz/trendreports/2023/ddf46784befea0a2.html",
+    "https://www.adcmt.com/support/export",
+    "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "https://dempa-digital.com/article/703747",
+    "https://www.keisokuki-world.jp/user_data/trade.php",
+    "https://www2.jiia.or.jp/kokusaimondai_archive/2000/2007-12_003.pdf?noprint",
+    "https://www.keikoren.or.jp/statistics/"
+   ]
+  },
+  {
+   "query": "日本製測定機器・計測器の輸出 輸出商社 代理店",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4266",
+    "https://www.n-denkei.co.jp/",
+    "https://metoree.com/companies/235/distributors/",
+    "https://www.keisokuten.jp/products/makerlist.php",
+    "https://www.kk-yanagisawa.co.jp/",
+    "https://jisc-jp.com/company/agency/",
+    "https://www.nippon-sokki.co.jp/company/",
+    "https://www.ohtegiken.co.jp/menu_import/import/",
+    "https://www.hodaka.co.jp/product_maker",
+    "https://distymap.com/categories/test-measurement"
+   ]
+  },
+  {
+   "query": "Japanese measuring instruments export demand overseas buyers",
+   "results": [
+    "https://www.nti.org/analysis/articles/will-japan-learn-its-mistakes/",
+    "https://www.cistec.or.jp/english/export/Overview4th.pdf",
+    "https://nicchukei.co.jp/en",
+    "https://oec.world/en/profile/bilateral-product/other-measuring-instruments/reporter/usa",
+    "https://www.trade.gov/country-commercial-guides/japan-market-overview",
+    "https://www.qualitymag.com/articles/85074-industry-news-mitutoyo-gets-export-ban",
+    "https://www.tendata.com/blogs/export/10884.html",
+    "https://www.hlc.com/en/publications/japans-new-chip-equipment-export-rules-take-effect",
+    "https://www.nber.org/system/files/working_papers/w33748/w33748.pdf",
+    "https://www.volza.com/p/flow-measuring-instrument/export-data/exports-from-japan/"
+   ]
+  },
+  {
+   "query": "日本製測定機器・計測器の輸出 越境EC 手数料",
+   "results": [
+    "https://www.jemic.go.jp/kentei/20240401tesuryokaitei1.html",
+    "https://www.adcmt.com/support/export",
+    "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "https://www.jpmia.gr.jp/export/",
+    "https://www.jetro.go.jp/ext_images/services/amazon_japan_store/ekkyoechandbook.pdf",
+    "https://www.meti.go.jp/policy/anpo/qanda03b.html",
+    "https://www.keisokuki-land.co.jp/company/export/",
+    "https://www.post.japanpost.jp/bizpost/column/overseas5/border-crossing-ec/index.html",
+    "https://www.sankyointernational.co.jp/media/blog/a98",
+    "https://ayusawa-partners.jp/column/ec-oukyo-kaigai"
+   ]
+  },
+  {
+   "query": "日本製測定機器・計測器の輸出 輸出管理 該非判定",
+   "results": [
+    "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "https://www.saburai.com/%E8%A7%A3%E8%AA%AC-%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%83%BB%E5%88%86%E6%9E%90%E8%A3%85%E7%BD%AE%E3%81%AE%E8%A9%B2%E9%9D%9E%E5%88%A4%E5%AE%9A/",
+    "https://www.meti.go.jp/policy/anpo/qanda03b.html",
+    "https://www.jemima.or.jp/standards-and-reports/report/972.html",
+    "https://www.keisokuki-land.co.jp/company/export/",
+    "https://www.jmcti.org/publication/correction/pdf/2018/ka6(6).pdf",
+    "https://www.keysight.com/jp/ja/lib/resources/miscellaneous/export-control.html",
+    "https://www.sankyointernational.co.jp/media/blog/a98",
+    "https://www.konicaminolta.jp/instruments/support/certificate/",
+    "https://www.meti.go.jp/policy/anpo/matrix_intro.html"
+   ]
+  }
+ ],
+ "missing": {}
 }
