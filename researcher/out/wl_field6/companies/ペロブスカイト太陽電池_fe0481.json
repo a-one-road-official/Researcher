@@ -1,0 +1,1414 @@
+{
+ "name": "ペロブスカイト太陽電池",
+ "en": "perovskite solar cell",
+ "aliases": [
+  "ペロブスカイト"
+ ],
+ "context": "12 GX ①ペロブスカイト",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:29:35.022765+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Setfos 6.1 adds multiple light sources, IMPLS simulation, trap-assisted tunneling with the Hurkx model, new optical outputs and seven new tutorial examples for bifacial tandems, TOPCon and GaAs tunnel junctions.",
+    "url": "https://www.fluxim.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Academic case studies with direct industry relevance. See how leading research groups combine Setfos and measurement to uncover loss mechanisms, guide stack design, and build workflows that scale into industrial R&D.",
+    "url": "https://www.fluxim.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SunFlex deploys flexible perovskite solar modules on shared bikes and at a smart bus stop in China",
+    "url": "https://www.perovskite-info.com/fluxim-releases-new-software-tool-simulate-large-area-perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "Topics covered:",
+    "url": "https://today.ucsd.edu/story/moving-perovskite-solar-cell-advancements-from-the-lab-to-the-manufacturing-floor",
+    "pass": 3
+   },
+   {
+    "quote": "This online event is a must-attend for those involved in perovskites, with presentations from leading companies such as Microquanta, UtmoLight, Solaronix, Solaveni, Noctiluca, Fluxim, IIT Dharwad, Solra-PV, and Intellivation.",
+    "url": "https://www.perovskite-info.com/fluxim",
+    "pass": 3
+   },
+   {
+    "quote": "The team noted that the migration of lithium is critical in the degradation of spiro-OMeTAD-based devices, which is accelerated at higher temperatures, leading to the rapid degradation of the perovskite. The scientists described ferrocene as a sandwich structured material that is highly stable and can be used as a low-cost transition metal complex.",
+    "url": "https://www.perovskite-info.com/fluxim",
+    "pass": 3
+   },
+   {
+    "quote": "Leading simulation and measurement tool provider",
+    "url": "https://www.perovskite-info.com/fluxim",
+    "pass": 3
+   },
+   {
+    "quote": "research, as demonstrated by its field-leading publications and significant interest",
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "Fundamental photophysics, photochemistry, and exciton/charge-carrier dynamics",
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "Topic 7",
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "halide perovskites (e.g., CH3NH3PbI3) for both top and bottom cells. Halide perovskites",
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "Fabricate high-efficiency single-junction perovskite (top and bottom) cells",
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "Take the findings above to one of our principal consultants, or have the report rebuilt around the segments, geographies and competitors you actually track.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Insights",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which is the leading structure segment in the global perovskite solar cell market?",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "SunFlex deploys flexible perovskite solar modules on shared bikes and at a smart bus stop in China",
+    "url": "https://www.perovskite-info.com/saule-technologies-launches-electronic-shelf-labels-powered-perovskite-solar",
+    "pass": 3
+   },
+   {
+    "quote": "See all reports on the topic",
+    "url": "https://www.idtechex.com/en/research-article/perovskite-photovoltaics-from-lab-efficiency-to-mass-commercialization/34926",
+    "pass": 3
+   },
+   {
+    "quote": "PFAS Regulations, Alternatives, Removal, and Destruction",
+    "url": "https://www.idtechex.com/en/research-article/perovskite-photovoltaics-from-lab-efficiency-to-mass-commercialization/34926",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond the Rooftop: How Perovskite PV is Redefining Solar Applications",
+    "url": "https://www.idtechex.com/en/research-article/perovskite-photovoltaics-from-lab-efficiency-to-mass-commercialization/34926",
+    "pass": 3
+   },
+   {
+    "quote": "Top Modules",
+    "url": "https://taiyangnews.info/technology/saule-technologies-targets-retail-sector",
+    "pass": 3
+   },
+   {
+    "quote": "Monthly Top Modules Update",
+    "url": "https://taiyangnews.info/technology/saule-technologies-targets-retail-sector",
+    "pass": 3
+   },
+   {
+    "quote": "About Us TOP",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top Message and Guiding Principles",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations TOP",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "Products TOP",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "SEKISUI Worldwide TOP",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese IR Site Top",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "page top",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "windows/sunblinds/rooftops",
+    "url": "https://www.eu-japan.eu/sites/default/files/imce/2023.04.17%20%20Saule%20Technologies.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "by 2035. North America held the leading position in 2025, accounting for more than",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "of renewable energy capacity will be added worldwide between 2025 and 2030. Utility-scale and distributed solar installations are expected to account for almost 80% of this expansion. This strong project pipeline creates opportunities for technologies capable of generating more electricity from limited rooftop, land, façade and infrastructure areas.",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "share. Their lightweight, bendable structure supports use on curved and weight-sensitive surfaces, including buildings, vehicles, portable electronics and wearable devices. In 2025, the European Commission-backed PEARL project reported that flexible cells using a metal top electrode achieved 21.6% power-conversion efficiency.",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "High-Output Commercial and Residential Rooftops",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10+ EdTech Companies Revolutionizing Education in 2026",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Digital Twin Companies Driving Industry 4.0",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Digital Transformation Companies",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 15 Wearable Technology Companies 2026",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 15 Smart Home Companies 2026",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading scientific research and technology development across priority areas.",
+    "url": "https://www.energy.gov/cmei/systems/american-made-challenges-perovskite-startup-prize",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.energy.gov/cmei/systems/american-made-challenges-perovskite-startup-prize",
+    "pass": 3
+   },
+   {
+    "quote": "View all Topics",
+    "url": "https://www.energy.gov/cmei/systems/american-made-challenges-perovskite-startup-prize",
+    "pass": 3
+   },
+   {
+    "quote": "Competitors who advance from the first stage to the second will receive a $200,000 cash prize. The winners of the second stage will receive $500,000 in cash—a combined total of $700,000—plus $100,000 in technical support vouchers for launching a viable solar manufacturing company with the potential to introduce marketable perovskite products in the United States.",
+    "url": "https://www.energy.gov/cmei/systems/american-made-challenges-perovskite-startup-prize",
+    "pass": 3
+   },
+   {
+    "quote": ". Competitors will complete the objectives in the plan evaluated during the",
+    "url": "https://www.energy.gov/cmei/systems/american-made-challenges-perovskite-startup-prize",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the perovskite solar cell market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Oxford PV; Microquanta Semiconductor Co., Ltd.; Greatcell Energy; Saule Technologies; Hanwha Q CELLS; CubicPV; EneCoat Technologies; Swift Solar; G24 Power Ltd.; Panasonic Corporation.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx also sees perovskite/silicon tandem solar panels as \"the most significant opportunity for this sector\" and \"are overall anticipated to dominate the perovskite PV market\". Their similar mechanical properties to single-junction silicon solar, whilst achieving higher PCEs, makes them particularly suited for traditional solar applications, including solar farms and rooftop application.",
+    "url": "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "pass": 3
+   },
+   {
+    "quote": "The higher power output per unit area for perovskite/silicon tandem solar cells, with a comparative price to silicon solar, makes them significantly attractive to utility providers, industry, and consumers, where technology and price optimization are imperative.",
+    "url": "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "pass": 3
+   },
+   {
+    "quote": "SunFlex deploys flexible perovskite solar modules on shared bikes and at a smart bus stop in China",
+    "url": "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "pass": 3
+   },
+   {
+    "quote": "Tentative Leading Company Universe - 22 Companies Shaping the Perovskite Solar Cell Market",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite is not set to replace silicon so much as to add efficiency on top of it. Early buyers are large utility projects, space-limited sites, building-integrated solar, specialty mobility and lightweight uses. What decides success is shifting too: lab efficiency now counts for less than durability, manufacturing yield, encapsulation, lead management, bankability and lifetime energy output.",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report models base, upside and downside cases. They depend on how fast commercialization moves, how reliable modules prove to be, whether financing is available, how manufacturing yields develop, what policy incentives do, and how quickly established silicon makers add perovskite top cells to their lines.",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cell architecture, product form, manufacturing method, application, end-use, and geography divide the market. Tandem cells made of perovskite and silicon are the leading commercial opportunity. The market lets firms retain much of their silicon production while simply adding a perovskite layer on top.",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "In light of the market still being in its early commercialization phase, accurate global market shares are less relevant than in mature silicon PV technology. The current leading commercial entities command a large share of the identified perovskite revenues, whereas many firms operate at a pilot or pre-commercial level.",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 and Top 10 competitive positions",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "In the market, the highest value white spaces involve high efficiency utility modules, lightweight modules, BIPV, constrained rooftop applications and emerging markets where land or grid connection economics favor power density. An important opportunity involves combining perovskite top cells with existing TOPCon and HJT manufacturing platforms instead of creating entirely new PV architectures.",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon, TOPCon, HJT and other emerging PV technologies compete directly",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "How will perovskite economics compare with TOPCon, HJT, and other advanced silicon technologies?",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Andrea Laruffa is a researcher at the National Research Council of Italy (CNR) at the Institute of Structure of Matter (ISM), specializing in advanced materials for energy applications. His work includes leading international projects on photovoltaic technologies and contributing significantly to the development of innovative solutions for solar energy conversion and other optoelectronic devices.",
+    "url": "https://smartlinepv.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Christoph Stöver",
+    "url": "https://smartlinepv.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "bifa is one of the leading application-orientated research, development and consulting organisations in Germany that offers a wide range of environmental research. In numerous research projects with funding from EU, federal and state funding, we have built up an efficient research network.",
+    "url": "https://smartlinepv.eu/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Vitios combines PL, EL, and IR imaging together with electrical characterization. Together with software for seamless measurement customization and embedded post-processing techniques.",
+    "url": "https://www.fluxim.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Shichen Yin, Organic Electronic Materials and Devices Laboratory (OEMDLab), NC State University",
+    "url": "https://www.fluxim.com/",
+    "pass": 3
+   },
+   {
+    "quote": "photoemission spectroscopy/transient absorbance spectroscopy",
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "with carbon nanotubes embedded in a polymer matrix can yield high efficiencies and",
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "We are using photoemission spectroscopy on thin single-walled carbon nanotube (SWCNT)",
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "We are determining valence-band structure from ultraviolet photoemission spectra.",
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "We are using X-ray photoemission spectroscopy and find no band bending in MAPbI",
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "Direct Sales / OEM",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "▸Distributors",
+    "url": "https://www.fluxim.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Paios performs various optoelectrical characterizations on solar cells and OLEDs with one click. Store measurements in a database, analyse, compare and post-process them directly in the software.",
+    "url": "https://www.fluxim.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Phelos is an angular resolved spectrometer that measures the electroluminescence (EL) and photoluminescence (PL) of OLEDs and light-emitting materials over various angles and polarization.",
+    "url": "https://www.fluxim.com/",
+    "pass": 3
+   },
+   {
+    "quote": "IVS-KA6000 can control a variety of SMUs and perform data collection of current and voltage based on setting parameters by users. The formulas and algorithms of IVS-KA6000 are based on the foundation developed and released by NREL.",
+    "url": "https://enlitechnology.com/product/ivs-ka6000/",
+    "pass": 3
+   },
+   {
+    "quote": "Automatic Variable Light Intensity Measurement:",
+    "url": "https://enlitechnology.com/product/ivs-ka6000/",
+    "pass": 3
+   },
+   {
+    "quote": "7. Automatic Variable Light Intensity Measurement Function:",
+    "url": "https://enlitechnology.com/product/ivs-ka6000/",
+    "pass": 3
+   },
+   {
+    "quote": "IV data at various light intensities can be stored and imported into analysis tools for further research on efficiency trends, light dependence, etc.",
+    "url": "https://enlitechnology.com/product/ivs-ka6000/",
+    "pass": 3
+   },
+   {
+    "quote": ", with stabilization time varying depending on cell structure and materials. Direct measurement can lead to data deviations due to transient phenomena.",
+    "url": "https://enlitechnology.com/product/ivs-ka6000/",
+    "pass": 3
+   },
+   {
+    "quote": "The overlay function clearly shows changes between curves, helping to identify sample performance variations under different conditions, such as light intensity changes, aging effects, etc.",
+    "url": "https://enlitechnology.com/product/ivs-ka6000/",
+    "pass": 3
+   },
+   {
+    "quote": "experimental condition variation comparison",
+    "url": "https://enlitechnology.com/product/ivs-ka6000/",
+    "pass": 3
+   },
+   {
+    "quote": "Coherent Market Insights Pvt Ltd, 533 Airport Boulevard, Suite 400, Burlingame, CA 94010, United States.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Become Reseller",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "(two- or three-color), a wireless communication module and a perovskite photovoltaic cell as a power source. Saule Technologies offers PESL labels in a variety of shapes, colors and sizes (from 1.54 ' to 12.5 ').",
+    "url": "https://www.perovskite-info.com/saule-technologies-launches-electronic-shelf-labels-powered-perovskite-solar",
+    "pass": 3
+   },
+   {
+    "quote": "Because of these varying regional and technological dynamics, the commercial viability of perovskite PV is no longer a binary question of \"will the technology work?\" The answer also depends on the application.",
+    "url": "https://www.idtechex.com/en/research-article/perovskite-photovoltaics-from-lab-efficiency-to-mass-commercialization/34926",
+    "pass": 3
+   },
+   {
+    "quote": "Saule is making these labels in various shapes and colors with sizes ranging between 1.54 inches to 12.5 inches",
+    "url": "https://taiyangnews.info/technology/saule-technologies-targets-retail-sector",
+    "pass": 3
+   },
+   {
+    "quote": "What will the power generation cost in 2030 look like, and, if available, what would it be in 2040? According to materials released by the Ministry of Economy, Trade and Industry, demand forecasts vary considerably depending on the cost of power generation, so I would like to know your thoughts on this.",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "relative the ability to generate various colors, shapes",
+    "url": "https://www.eu-japan.eu/sites/default/files/imce/2023.04.17%20%20Saule%20Technologies.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "higher margins than super competitive solar modules market for utility scale applications.",
+    "url": "https://www.eu-japan.eu/sites/default/files/imce/2023.04.17%20%20Saule%20Technologies.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "38.1% revenue share",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Agricultural Variable Rate Technology Market",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "By product: Rigid segment accounted for the largest market revenue share of 68.1% in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Solar panel segment accounted for the largest market revenue share of 50.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Largest regional market: Asia Pacific (52.1% revenue share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated with a 52.1% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The rigid segment led with a 68.1% revenue share in 2025, while flexible is the fastest-growing product.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The solar panel segment led with a 50.1% revenue share in 2025, while building-integrated photovoltaics (BIPV) is the fastest-growing application.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The utility segment led with a 35.1% revenue share in 2025, while residential is the fastest-growing vertical.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor and Partner Research",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aditi Shivarkar",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gross-margin potential",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "It is for that reason that the study separates commercial revenue share, pilot capacity share, patent strength, and announced manufacturing capacity. It avoids the mistake of ranking a firm with a multi-gigawatt announced facility ahead of suppliers of commercial modules.",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial revenue share",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "The morphology of tin-based perovskite layers in scanning electron microscopy (SEM) reveals a multifaceted structure with well-defined grains and surface features. SEM images provide insights into the size and shape variations of perovskite crystals, crucial for their electronic and optical properties.",
+    "url": "https://smartlinepv.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Indoor testing allows for controlled evaluation of photovoltaic devices under simulated sunlight, providing insights into their efficiency and stability. Outdoor testing, conducted in real-world conditions, further validates device performance and durability, accounting for factors like weather variations and exposure to natural sunlight.",
+    "url": "https://smartlinepv.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Václav Kubec is a designer and research scientist at the Computer Modelling Department. His work focuses on developing new solutions supported by advanced numerical simulations. As a team member, he has participated in various R&D projects and is the author/co-author of numerous technical articles, prototypes and verified technologies.",
+    "url": "https://smartlinepv.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "INO GmbH is an Austrian holding that encompasses various companies in the fields of special machine building, joining and coating technology. Modern plasma and automation technology are the main focuses of INO’s research and development.",
+    "url": "https://smartlinepv.eu/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Japan plans 100 billion yen in subsidies for perovskite solar cell mass production, with Ricoh and Choshu among the recipients",
+    "url": "https://www.perovskite-info.com/fluxim-releases-new-software-tool-simulate-large-area-perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "Japan to end silicon solar panel subsidies, quadruple perovskite support for FY2027",
+    "url": "https://www.perovskite-info.com/fluxim-releases-new-software-tool-simulate-large-area-perovskite-solar-cells",
+    "pass": 3
+   },
+   {
+    "quote": "Japan to end silicon solar panel subsidies, quadruple perovskite support for FY2027",
+    "url": "https://www.perovskite-info.com/fluxim",
+    "pass": 3
+   },
+   {
+    "quote": "China, India, Japan, Australia, South Korea, ASEAN, and Rest of Asia Pacific",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan plans 100 billion yen in subsidies for perovskite solar cell mass production, with Ricoh and Choshu among the recipients",
+    "url": "https://www.perovskite-info.com/saule-technologies-launches-electronic-shelf-labels-powered-perovskite-solar",
+    "pass": 3
+   },
+   {
+    "quote": "Japan to end silicon solar panel subsidies, quadruple perovskite support for FY2027",
+    "url": "https://www.perovskite-info.com/saule-technologies-launches-electronic-shelf-labels-powered-perovskite-solar",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese IR Site Top",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; UK; France; Italy; Spain;Russia; China; India; Japan; Australia;Brazil; Argentina;Saudi Arabia; UAE; South Africa",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Japan plans 100 billion yen in subsidies for perovskite solar cell mass production, with Ricoh and Choshu among the recipients",
+    "url": "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "pass": 3
+   },
+   {
+    "quote": "Japan to end silicon solar panel subsidies, quadruple perovskite support for FY2027",
+    "url": "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "pass": 3
+   },
+   {
+    "quote": "日本の再エネ拡大の切り札、ペロブスカイト太陽電池とは？（前編）～今までの太陽電池とどう違う？｜エネこれ｜資源エネルギー庁",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の再エネ拡大の切り札、ペロブスカイト太陽電池とは？（前編）～今までの太陽電池とどう違う？",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、平地面積の少ない日本では、太陽光発電の設備を設置するための物理的な適地の制約があります",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "下のグラフが示す通り、すでに日本は、平地面積当たりの太陽光発電の導入量が主要国で1位となっており、今後どのように設置場所を確保するかが課題となっています",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "軽くて柔軟、主原料のヨウ素が日本で生産できる太陽電池",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "③ 主要材料は日本が世界シェア第2位",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池の主な原料であるヨウ素は、日本の生産量が世界シェアの約3割を占めており、世界第2位です（第1位はチリで約6割）",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年は海外でも開発競争が激化していますが、日本は技術開発において世界最高水準に位置しており、製品化のカギを握る大型化や耐久性の分野でもリードしています",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "後編では、海外の開発状況や、日本企業の取り組みなどについてご紹介します",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の再エネ拡大の切り札、ペロブスカイト太陽電池とは？（後編）～早期の社会実装を目指した取り組み",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025—日本が抱えているエネルギー問題（前編）",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "自然エネルギー財団は、東日本大震災および福島第一原子力発電所の事故を受けて、孫正義（ソフトバ",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "気候変動の抑制に向けて、日本は 2035 年までに自然エネルギーの 導入を加速させることが急務と",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とりわけ全国で導入が可能な太陽光発電は、日本の 自然エネルギーの主力電源となりつつ",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本では太陽光パネルを設",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうした特徴から、日本企業が特に",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 日本化学会編 「ペロブスカイト太陽電池の学理と技術——カーボンニュートラルを担う国産グリーンテクノロジー」（化学同人、",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネルギー基本計画や FIT（固定価格買取制度）の 統計など、日本政府や経済産業省の公表資",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかもヨウ素の生産量は日本が",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この目標を実現すべく、日本のメーカーや研究機関",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "西日本旅客鉄道 うめきた（大阪）駅 広場共用部分 25 年春頃 開業",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三井不動産 日本橋建設予定の木造賃貸オフィスビルに設置 26 年 9 月竣工",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典）左上から順に、大成建設、日本設計、大成建設、パナソニック",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これを参考として、日本では非住宅の 新築建築物に対して、高さや延べ床面積に応じて太陽光発電か",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ため、欧州や中国だけでなく日本にとっても重要な技術である",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイトだけでなく様々な技術の導入を政策によって 支援していくことは、日本の温暖化対策",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場においては、当社が実施するデモンストレーションにより製品価値を訴求し、欧州市場をはじめとするグローバル市場への社会実装につなげていきます",
+    "url": "https://www.tskg-hd.com/news/detail/20260515_newsrelease.html",
+    "pass": 3
+   },
+   {
+    "quote": "まだ広く市場に流通している段階ではありませんが、日本政府も国家戦略に位置づけて支援を強化しており、近い将来の実用化に向けた動きが加速しています",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府の動き",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月に行われた所信表明演説において、日本政府として「",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本政府の動き」",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年に桐蔭横浜大学の宮坂力特任教授らが発明した日本発の技術で、従来の太陽光電池に比べ、「曲げられる」「軽い/薄い」「低コスト」などの特徴があり、いままで設置が困難だった場所にも活用ができるなど多くのメリットがあります",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "また、主原料の「ヨウ素」は、日本が世界シェア第2位の生産量のため、他国に比べ資源の部分で優位性がある点も注目を集める理由のひとつです",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "メリット７．日本国内で材料が調達可能",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "「材料を日本国内で調達できる」",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "」は、日本はチリに次ぐ世界2位の生産国で、世界の29%のシェアを持っています",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに推定埋蔵量では、日本のシェアは圧倒的1位で世界の78%のシェアを持っています",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "日本における再生可能エネルギーに関する下記のような課題の解決策になることも期待されています",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "課題１．太陽光発電用地が少ない日本",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府が新たに発表した第7次エネルギー基本計画の案では、2040年度に電源構成の22％～29％を太陽光発電で構成する方針ですが、",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、日本は島国で平地も少なく、太陽光用地が足りません",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、従来の太陽電池では、日本の太陽光用地には限度があり",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池とは？世界と日本の最新動向やメリットを解説 | GX DiG",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池とは？世界と日本の最新動向やメリットを解説",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事ではペロブスカイト太陽電池の仕組みやメリット、海外や日本の動向と企業の開発事例を詳しく解説していきます",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "海外と日本の太陽光発電市場",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の太陽光発電導入状況",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のペロブスカイト太陽電池最新動向",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の太陽光発電の導入ポテンシャル",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "How to simulate perovskite solar cell using SCAPS-1D ... — How to simulate perovskite solar cell using SCAPS-1D ... ResearchGate https://www.researchgate.net > post",
+    "url": "https://www.researchgate.net/post/How-to-simulate-perovskite-solar-cell-using-SCAPS-1D-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "IVS-KA6000 Perovskite Solar Cell Measuring & Analysis ... — IVS-KA6000 Perovskite Solar Cell Measuring & Analysis ... EnliTech https://enlitechnology.com > product",
+    "url": "https://enlitechnology.com/product/ivs-ka6000/",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size, Share | CAGR 67.6% — Perovskite Solar Cell Market Size, Share | CAGR 67.6% Market.us https://market.us > Press Releases",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size, Share & 2031 Growth ... — Perovskite Solar Cell Market Size, Share & 2031 Growth ... Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size & Opportunities, 2026-2033 — Perovskite Solar Cell Market Size & Opportunities, 2026-2033 Coherent Market Insights https://www.coherentmarketinsights.com > Energy",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size, Growth Report, 2026-2033 — Perovskite Solar Cell Market Size, Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... — 日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... 資源エネルギー庁 https://www.enecho.meti.go.jp > perovskite_solar_cell_01",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... — 【2025年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... 株式会社エネテク https://enetech.co.jp > guide > perovskite-solar-cells",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】家庭用 ペロブスカイト は実用化された？世界 ... — 【2026年】家庭用 ペロブスカイト は実用化された？世界 ... ソーラーパートナーズ https://www.solar-partners.jp > contents",
+    "url": "https://www.solar-partners.jp/contents/51662.html",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 メーカー7社 - Metoree — ペロブスカイト太陽電池 メーカー7社 - Metoree Metoree https://metoree.com > 電源",
+    "url": "https://metoree.com/categories/9402/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Revenue, 2026",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Structure Insights (Revenue, USD Mn, 2021 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Product Type Insights (Revenue, USD Mn, 2021 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "End User Insights (Revenue, USD Mn, 2021 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Insights (Revenue, USD Mn, 2021 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "I would like to ask about the challenges in achieving a durability of 20 years. Are materials like barrier films and sealants the issue, or is this a question of assembly?",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "Durability remains a major barrier to growth in the perovskite solar cell market. The U.S. Department of Energy reports that laboratory cells exceed 26% efficiency and perovskite-silicon tandems are close to 34%, yet the technology is still not produced at high volume. Moisture, oxygen,",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "38.1% revenue share",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "By product: Rigid segment accounted for the largest market revenue share of 68.1% in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Solar panel segment accounted for the largest market revenue share of 50.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Largest regional market: Asia Pacific (52.1% revenue share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "This report forecasts revenue growth at global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2021 to 2033. For this study, Grand View Research has segmented the global perovskite solar cell market report on the basis of vertical, product, application and region.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Product Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Application Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated with a 52.1% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The rigid segment led with a 68.1% revenue share in 2025, while flexible is the fastest-growing product.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The solar panel segment led with a 50.1% revenue share in 2025, while building-integrated photovoltaics (BIPV) is the fastest-growing application.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The utility segment led with a 35.1% revenue share in 2025, while residential is the fastest-growing vertical.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx estimates that annual perovskite PV revenue will reach almost US$12 billion by 2035 | Perovskite-Info",
+    "url": "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx estimates that annual perovskite PV revenue will reach almost US$12 billion by 2035",
+    "url": "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "pass": 3
+   },
+   {
+    "quote": "Technology research and market intelligence company IDTechEx has explored the perovskite PV market, forecasting that annual perovskite PV revenue will reach almost US$12 billion by 2035.",
+    "url": "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "pass": 3
+   },
+   {
+    "quote": "The company profiles cover the 22-company group and examine each firm's revenue, perovskite involvement, RandD and patents, performance records, production sites, output levels, partnerships, technology roadmaps, regions of operation, planned products, revenue plans, investments made, expansion plans and the weaknesses each one currently faces.",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which perovskite architectures will capture the largest commercial revenue pools through 2030?",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "How will the profit curve evolve in the future? It seems you have planned for losses that exceed one billion yen this fiscal year, but will these losses grow or contract? Although it might be difficult to provide specific numbers, what will profitability look like in FY2030? Please comment on profits.",
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "pass": 3
+   },
+   {
+    "quote": "on March 25, 2021. Applicants had to build teams and form for-profit U.S. companies whose date of incorporation was on or after October 16, 2020. Individuals and nonprofits were not eligible to compete.",
+    "url": "https://www.energy.gov/cmei/systems/american-made-challenges-perovskite-startup-prize",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "12",
+    "url": "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "quote": "IDTechEx estimates that annual perovskite PV revenue will reach almost US$12 billion by 2035 | Perovskite-Info"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fluxim.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perovskite-info.com/fluxim-releases-new-software-tool-simulate-large-area-perovskite-solar-cells",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/post/How-to-simulate-perovskite-solar-cell-using-SCAPS-1D-simulation-software",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0927024824003040",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://enlitechnology.com/product/ivs-ka6000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tandempv.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imec-int.com/en/articles/imec-and-its-solliance-partners-present-first-semi-transparent-perovskite-modules",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://today.ucsd.edu/story/moving-perovskite-solar-cell-advancements-from-the-lab-to-the-manufacturing-floor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perovskite-info.com/fluxim",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightspotautomation.com/solutions/perovskite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solarwinds.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perovskite-info.com/how-invest-perovskites",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techwerx.org/opportunities/IESO-SPACEPV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perovskite-info.com/saule-technologies-launches-electronic-shelf-labels-powered-perovskite-solar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-article/perovskite-photovoltaics-from-lab-efficiency-to-mass-commercialization/34926",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taiyangnews.info/technology/saule-technologies-targets-retail-sector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eu-japan.eu/sites/default/files/imce/2023.04.17%20%20Saule%20Technologies.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/perovskite-solar-cell-market.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juser.fz-juelich.de/record/890151/files/1-s2.0-S2542435120300337-main.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/solar/comments/1dfsttv/what_are_all_these_perovskite_companies_doing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.energy.gov/cmei/systems/american-made-challenges-perovskite-startup-prize",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://analyticareport.quora.com/Perovskite-Solar-Cells-Market-2022-Top-Players-Emerging-Demand-Business-Profit-Analysis-Revenue-and-Expansion-Strateg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.solra-pv.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perovskite-info.com/meet-companies-and-institutes-joined-perovskite-connect-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartlinepv.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supertandem.eu/perovskite-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pepperoni-project.eu/perovskite-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inficon.com/ja/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E3%81%AE%E8%A3%BD%E9%80%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%A8%BC%E5%83%8D%E7%8E%87%E3%81%A8%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%AE%E5%90%91%E4%B8%8A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tskg-hd.com/news/detail/20260515_newsrelease.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solar-partners.jp/contents/51662.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/010_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/680/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9402/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "perovskite solar cell software white label",
+   "results": [
+    "https://www.fluxim.com/",
+    "https://www.perovskite-info.com/fluxim-releases-new-software-tool-simulate-large-area-perovskite-solar-cells",
+    "https://www.researchgate.net/post/How-to-simulate-perovskite-solar-cell-using-SCAPS-1D-simulation-software",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0927024824003040",
+    "https://enlitechnology.com/product/ivs-ka6000/",
+    "https://www.nanoge.org/proceedings/DEPERO/64f1dee0f145177210e9bcb8",
+    "https://g2voptics.com/perovskite-solar-cells/",
+    "https://today.ucsd.edu/story/moving-perovskite-solar-cell-advancements-from-the-lab-to-the-manufacturing-floor",
+    "https://www.gpvdm.com/",
+    "https://www.fluxim.com/setfos-intro"
+   ]
+  },
+  {
+   "query": "perovskite solar cell software OEM white-label partner",
+   "results": [
+    "https://www.fluxim.com/",
+    "https://www.tandempv.com/",
+    "https://www.imec-int.com/en/articles/imec-and-its-solliance-partners-present-first-semi-transparent-perovskite-modules",
+    "https://today.ucsd.edu/story/moving-perovskite-solar-cell-advancements-from-the-lab-to-the-manufacturing-floor",
+    "https://www.perovskite-info.com/fluxim",
+    "https://www.youtube.com/watch?v=5FJ3pwY4KI0",
+    "https://brightspotautomation.com/solutions/perovskite/",
+    "https://www.solaronix.com/news/the-european-consortium-on-carbon-based-perovskite-solar-cells-is-born-solaronix-as-industrial-partner/",
+    "https://www.marketsandmarkets.com/ResearchInsight/perovskite-solar-cell-market.asp",
+    "https://www.verdetechnologies.com/"
+   ]
+  },
+  {
+   "query": "perovskite solar cell software reseller partner program",
+   "results": [
+    "https://www.solarwinds.com/partners",
+    "https://www.imec-int.com/en/articles/imec-and-its-solliance-partners-present-first-semi-transparent-perovskite-modules",
+    "https://www.nlr.gov/pv/perovskite-solar-cells",
+    "https://www.youtube.com/watch?v=fVSxl-fBFg8",
+    "https://www.tandempv.com/",
+    "https://www.perovskite-info.com/how-invest-perovskites",
+    "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "https://www.techwerx.org/opportunities/IESO-SPACEPV",
+    "https://g2voptics.com/perovskite-solar-cells/",
+    "https://www.perovskite-info.com/companies"
+   ]
+  },
+  {
+   "query": "perovskite solar cell SaaS rebrand private label",
+   "results": [
+    "https://www.perovskite-info.com/saule-technologies-launches-electronic-shelf-labels-powered-perovskite-solar",
+    "https://www.idtechex.com/en/research-article/perovskite-photovoltaics-from-lab-efficiency-to-mass-commercialization/34926",
+    "https://taiyangnews.info/technology/saule-technologies-targets-retail-sector",
+    "https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html",
+    "https://www.eu-japan.eu/sites/default/files/imce/2023.04.17%20%20Saule%20Technologies.pdf",
+    "https://news.panasonic.com/global/stories/14221",
+    "https://www.youtube.com/watch?v=ILnqzWRZnzQ",
+    "https://www.tno.nl/en/sustainable/energy-supply/solar-device-technology/perovskite-solar-cells/",
+    "https://www.osti.gov/biblio/2222240",
+    "https://perovskia.solar/"
+   ]
+  },
+  {
+   "query": "perovskite solar cell software company profitable EBITDA",
+   "results": [
+    "https://www.marketsandmarkets.com/ResearchInsight/perovskite-solar-cell-market.asp",
+    "https://market.us/press-release/perovskite-solar-cell-market/",
+    "https://juser.fz-juelich.de/record/890151/files/1-s2.0-S2542435120300337-main.pdf",
+    "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "https://www.reddit.com/r/solar/comments/1dfsttv/what_are_all_these_perovskite_companies_doing/",
+    "https://www.skyquestt.com/report/perovskite-solar-cell-market/companies",
+    "https://www.youtube.com/watch?v=udWodBOr6vU&vl=ja",
+    "https://www.sciencedirect.com/science/article/pii/S2542435120300337",
+    "https://www.sekisuichemical.com/ir/presentations/event/__icsFiles/afieldfile/2025/01/07/20250107PVKe.pdf",
+    "https://financialmodelslab.com/blogs/profitability/perovskite-solar-cell"
+   ]
+  },
+  {
+   "query": "perovskite solar cell software bootstrapped profitable revenue",
+   "results": [
+    "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "https://www.energy.gov/cmei/systems/american-made-challenges-perovskite-startup-prize",
+    "https://juser.fz-juelich.de/record/890151/files/1-s2.0-S2542435120300337-main.pdf",
+    "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion",
+    "https://www.youtube.com/watch?v=udWodBOr6vU&vl=ja",
+    "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "https://analyticareport.quora.com/Perovskite-Solar-Cells-Market-2022-Top-Players-Emerging-Demand-Business-Profit-Analysis-Revenue-and-Expansion-Strateg",
+    "https://www.mdpi.com/2571-6131/9/8/87",
+    "https://cleantechnica.com/2026/03/12/us-perovskite-solar-cell-startup-hits-the-ground-running/"
+   ]
+  },
+  {
+   "query": "perovskite solar cell software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.solra-pv.com/",
+    "https://www.perovskite-info.com/meet-companies-and-institutes-joined-perovskite-connect-2025",
+    "https://smartlinepv.eu/",
+    "https://supertandem.eu/perovskite-network/",
+    "https://pepperoni-project.eu/perovskite-network/",
+    "https://e-peas.com/partners/",
+    "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-perovskite-materials-market-statistics-report-till-2035",
+    "https://www.oxfordpv.com/",
+    "https://www.perovskite-info.com/companies",
+    "https://ensun.io/search/perovskite-solar-cell/israel"
+   ]
+  },
+  {
+   "query": "ペロブスカイト太陽電池 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.inficon.com/ja/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E3%81%AE%E8%A3%BD%E9%80%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%A8%BC%E5%83%8D%E7%8E%87%E3%81%A8%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%AE%E5%90%91%E4%B8%8A",
+    "https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202409.pdf",
+    "https://www.tskg-hd.com/news/detail/20260515_newsrelease.html",
+    "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "https://www.aist-solutions.co.jp/news/page000473/",
+    "https://jp.ricoh.com/release/2026/1027_1",
+    "https://tm-co.co.jp/glossary/basic-knowledge-and-policy-trends-regarding-perovskite-solar/",
+    "https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/",
+    "https://www.env.go.jp/earth/post_94.html"
+   ]
+  },
+  {
+   "query": "ペロブスカイト太陽電池 ソフト 代理店 海外製",
+   "results": [
+    "https://www.solar-partners.jp/contents/51662.html",
+    "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/010_04_00.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/680/",
+    "https://metoree.com/categories/9402/",
+    "https://www.godoshigen.co.jp/learn/iodine/perovskite/",
+    "https://www.ctiweb.co.jp/2026/10/19/%E3%80%90%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E3%80%91%E3%82%B3%E3%82%B7%E3%83%80%E3%83%86%E3%83%83%E3%82%AF%E3%80%81gcl%E8%A3%BD/",
+    "https://www.techno-producer.com/ai-report/psc_key-players-applications/",
+    "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo5.pdf",
+    "https://perovskitesolarcell.info/manufacturers/global/"
+   ]
+  }
+ ],
+ "missing": {
+  "価格": "記載なし（読んだ45頁・検索9回）"
+ }
+}

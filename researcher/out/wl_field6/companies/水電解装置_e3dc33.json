@@ -1,0 +1,1077 @@
+{
+ "name": "水電解装置",
+ "en": "water electrolyzer",
+ "aliases": [
+  "水素製造装置",
+  "電解槽",
+  "グリーン水素"
+ ],
+ "context": "12 GX ②水素等",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:29:21.315651+00:00",
+ "evidence": {
+  "再販制度": [
+   {
+    "quote": "Perform various analyses for fuel cells and electrolyzers with the COMSOL",
+    "url": "https://www.comsol.com/fuel-cell-and-electrolyzer-module",
+    "pass": 3
+   },
+   {
+    "quote": "A distributor and manufacturer of green hydrogen equipment",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "growth at various rates and confidence intervals, we can justify",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "bring in high-margin revenue",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "distributor of hydrogen equipment. The",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "bar hydrogen fueling stations in various sizes. Primary",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "development for a variety of use cases. The company has",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "electrolyzers and reformer projects and are largely variable,",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "and variable costs, with the variable costs",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "various colors. Green hydrogen is hydrogen produced",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "conventional fossil fuels in various steel production stages,",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "about different margin profiles, the development of the",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "margins over the years.",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "We note that Metacon’s future profitability profile will vary",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "• Sales margin % (sales mix)",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "variable nature. While we believe gross margins will",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": ". This framework reflects the commercial maturity of various electrolyzer technologies, the scale of hydrogen demand, and regional priorities in clean energy investment.",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global electrolyzer market is evolving at different paces across regions, shaped by variations in renewable capacity, policy incentives, infrastructure readiness, and industrial hydrogen demand. While",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electrolyzer adoption varies significantly across end-user segments, each driven by distinct decarbonization needs, operational requirements, and regulatory pressures. The technology is no longer confined to R&D labs or pilot sites—it is now being deployed across",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": ", PEM technology showcased its robust position and widespread adoption within the industry. This dominance can be attributed to its inherent advantages such as high efficiency, scalability, and suitability for various applications ranging from industrial to residential sectors.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", systems falling within this power range showcased their prominence and widespread adoption across various industrial applications. This dominance can be attributed to the increasing demand for high-capacity electrolysis systems to meet the growing requirements of industries such as chemical manufacturing, energy storage, and hydrogen production for transportation.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", emerging as a dominant player. The region benefits from robust investments in hydrogen infrastructure and supportive government initiatives aimed at promoting clean energy solutions. Additionally, the increasing adoption of electrolysis in various industrial applications further propels market growth.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The need to match hydrogen production with variable renewable electricity is encouraging greater adoption of PEM electrolyzers, which can respond quickly to changes in power supply. This transition improves the flexibility of green hydrogen plants and supports better use of intermittent solar and wind generation.",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Proton exchange membrane (PEM) electrolysis is expected to grow at a CAGR of 14.6% during the forecast period, driven by its high current density, compact design, and rapid response to variable electricity supply.",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "HORIBA proposes analytical methods for crystallinity, elemental distribution, carrier lifetime, etc. of various solar cell materials such as silicon solar cells, compound semiconductor solar cells, and organic thin film solar cells.",
+    "url": "https://www.horiba.com/int/applications/energy-and-environment/hydrogen/water-electrolysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Various performance evaluation technologies and engineering proposals for fuel cells for FCVs",
+    "url": "https://www.horiba.com/int/applications/energy-and-environment/hydrogen/water-electrolysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Various performance evaluation technologies and engineering proposals for fuel cells for stationary use",
+    "url": "https://www.horiba.com/int/applications/energy-and-environment/hydrogen/water-electrolysis/",
+    "pass": 3
+   },
+   {
+    "quote": "North America is expected to generate the highest demand due to increasing investments in hydrogen infrastructure and a growing focus on renewable energy sources. The United States leads the region, with various initiatives promoting hydrogen as a clean energy carrier. Companies are exploring hydrogen applications in transportation and industrial sectors, contributing to market growth.",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced digital technologies are being integrated into hydrogen plants. AI helps optimize plant performance by predicting maintenance needs, optimizing operating conditions, and managing renewable energy variability.",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "（Overseas Distributors）",
+    "url": "https://ec-frontier.co.jp/product/cell/SB2100.php",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、販売パートナーとシステムインテグレーターからなるネットワークを構築することで、欧州以外の市場にまで急速に進出しており、地理的拡大と市場拡大を急速に推し進める上でライセンス供与が有効であることを示しています",
+    "url": "https://www.idtechex.com/ja/research-article/key-business-models-for-electrolyzer-firms-in-green-hydrogen-projects/31075",
+    "pass": 3
+   }
+  ],
+  "提供企業": [
+   {
+    "quote": "to maintain its leading position, with around three-quarters",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "the leading markets.",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "leading to higher costs over the lifetime of a project1.",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "position itself as a one-stop shop for",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "One-stop shop for green",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "relatively slower than revenues, leading to a gradual",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "several competing electrolyzer providers on the European",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "market. On the reformer side, there are fewer competitors,",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "and American hydrogen equipment providers. As the entire",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "at the top end of the range, expectations are higher and we",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": ": Researchers are moving beyond rare and costly platinum group metals (PGMs) toward abundant alternatives like nickel, manganese, and transition metal oxides.",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "To accelerate commercialization, electrolyzer manufacturers are forging strategic alliances with EPC firms, green hydrogen developers, and utility providers. Notable partnerships include:",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Strategic Profiles",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "A leading Norwegian manufacturer of alkaline and PEM electrolyzers ,",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "A3: Leading players include NEL ASA, Siemens Energy, Plug Power, ITM Power, and Thyssenkrupp Nucera.",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players by Revenue and Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of Top Investment Pockets",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Analysis",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023 alone, the U.S. witnessed a substantial 55% increase in solar energy capacity installations, solidifying its position as the leading source of new electricity generation. With solar and wind energy projected to surpass coal as the largest sources of electricity generation by 2025, the need for efficient hydrogen production technologies, such as water electrolysis machines, intensifies.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, the global Water Electrolysis Machine Market witnessed a dynamic landscape, with several key players vying for prominence in this burgeoning sector. Among these, Air Products and Chemical, Inc. emerged as a formidable force, leveraging its extensive experience and robust technological capabilities to carve a significant niche within the market.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Key Players",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Air Products and Chemical, Inc., Asahi Kasei Corporation, AREVA H2Gen, C&E Environmental Technology Co., Ltd., Eneco Holdings, Inc., Enagic International, Inc., ErreDue Spa, Hydrogenics Corporation, Hitachi Zosen Corporation, Siemens Energy, ITM Power plc, Other Key Players",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The US, Canada, Mexico are leading key areas of operation for Global Water Electrolysis Machine Market.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Topsoe A/S (Denmark)",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen Energy TOP",
+    "url": "https://www.horiba.com/int/applications/energy-and-environment/hydrogen/water-electrolysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 25 Companies in Alkaline Water Electrolysis Hydrogen Production Equipment Market",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Top 25 Companies in Alkaline Water Electrolysis Hydrogen Production Equipment Market 2025: Strategic Overview & Future Trends (2024–2035)",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Trends in the Alkaline Water Electrolysis Hydrogen Production Equipment Market",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Top 25 Companies Leading the Alkaline Water Electrolysis Hydrogen Production Equipment Market",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Go to top",
+    "url": "https://www.avl.com/ja/electrolyzer-system-test-solution-product-page",
+    "pass": 3
+   },
+   {
+    "quote": "One stop",
+    "url": "https://ak-green-solution.com/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Net Income -137.9 -47.3 -56.4 2.8",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "EV/EBITDA neg. neg. neg. 20.8",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "o Unprofitable operations that are currently",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "o Predicting revenue and profitability",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "EV/EBITDA neg. neg. 20.8",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA Q2’25 LTM",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "However, profitability is",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and EBITDA development",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue EBITDA",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "larger-scale projects, as these provide higher profitability,",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "profitability, we believe that an outsourcing-driven",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "has yet to become profitable. The company has financed its",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "not yet profitable, and profitability is a prerequisite for",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "on more favorable terms. Ultimately, once profitability is",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "Accumulated revenue Accumulated COGS Accumulated gross profit",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, syndicated research reports indicating promising ROI prospects can attract investors, alleviating concerns about profitability and incentivizing capital infusion. For instance, according to recent industry surveys, 70% of investors are more likely to fund ventures with demonstrable growth potential, emphasizing the pivotal role of market analysis in securing investment.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2025, Enapter completed an oversubscribed EUR 12 million financing to support execution of its existing order backlog and finance the company toward its targeted 2026 break-even point.",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "このモデルではバリューチェーンを最大限にコントロールできるため、利益率の向上やエンドユーザーとの直接的な関係の強化を図れます",
+    "url": "https://www.idtechex.com/ja/research-article/key-business-models-for-electrolyzer-firms-in-green-hydrogen-projects/31075",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Revenue 40.4 296.7 637.1 823.5",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "European market. For 2027-2032, we expect strong revenue",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "support of revenue growth, and the company to carry out 250",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Q2’25 LTM",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "Electrolyzer Market Report, Industry and Market Size & Revenue, Share, Forecast 2024–2030",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electrolyzer Market By Technology Type (PEM, Alkaline, Solid Oxide, AEM); By Capacity (<500 kW, 500 kW–2 MW, >2 MW); By Application (Power Generation, Industrial Feedstock, Energy Storage, Transportation, Others); By Geography, Segment Revenue Estimation, Forecast, 2024–2030",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "segment is expected to dominate in revenue terms by 2030 as global electrolyzer installations scale up to support industrial decarbonization and national hydrogen hubs. Large-scale deployments such as H2Med and HyDeal Ambition are accelerating demand for MW-class systems across Europe and North Africa.",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": ", powered by an adjacent 80 MW solar array. The hydrogen is used to reduce iron ore into steel without coal, lowering the plant’s carbon emissions by over",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast in 2030",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Revenue (2033)",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "icon_arrow_2",
+    "url": "https://ec-frontier.co.jp/product/cell/SB2100.php",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Metacon also operates a sales organization in Japan, while",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "China Europe US Japan Korea RoW",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": "United States, Canada or Japan or the citizens of the aforementioned countries.",
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "pass": 3
+   },
+   {
+    "quote": ": Nations such as Germany, Japan, Australia, and the UAE are funding giga -scale hydrogen projects — many of which are electrolyzer -dependent.",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "— particularly China, Japan, and Australia — is poised for the fastest CAGR due to aggressive hydrogen policies, local manufacturing, and export ambitions.",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s hydrogen economy roadmap",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S., UK, Germany, China, India, Japan, Brazil, Saudi Arabia, etc.",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2025, HYDGEN raised USD 5 million in equity and debt to scale its AEM electrolyzer technology, establish a semi-automated production line, increase single-stack capacity to 250 kW, and expand into Japan, Europe, and the Middle East.",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "Headquarters: Tokyo, Japan",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "「日本核酸医薬学会 第11回年会」に出展します",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "日本初！自治体が持つ下水処理場内で民間企業が産業廃棄物処分業の許可を取得",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "「SEMICON Japan 2025」に出展します",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "～今日も明日も休めないあなたへ～＜日本初！免疫をケアする食物繊維＞KOBELCO独自のスーパーフード「金のユーグレナ",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "「湿式炭化による下水汚泥利活用技術」が日本下水道事業団の新技術Ⅰ類に選定 ～エネルギー自立型燃料化プロセスで処理場の脱炭素化に貢献～",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "＼ 日本初！免疫をケアする“食物繊維”／",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級異業種交流展示会 メッセナゴヤ2024」に出展します",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "日本初の機能性饅頭「金の月化粧」が新発売！みるく饅頭「月化粧」× 金のユーグレナ®",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "英語版ホームページに「The Completion Ceremony Held for “the Project for Improving An Duong Water Treatment Plant in Hai Phong City”, a Japanese Grant Aid Project of Official Development Assistance (ODA) to the Socialist Republic of Vietnam.」を掲載しました",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "日本下水道事業団 近畿総合事務所長から「優良安全施工現場」表彰を受賞しました",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "日本建設工業株式会社 水素発電実証モデル設備に水電解式水素発生装置「HHOG」を納入",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "「次世代型流動床式ガス化燃焼炉」が第48回 優秀環境装置表彰日本産業機械工業会会長賞を受賞",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "第17回日本疲労学会総会・学術集会で発表されました",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3
+   },
+   {
+    "quote": "このたび、ITM社による日本の法規に準拠した装置製作が完了し、英国から日本への海上輸送を経て、東京ガス横浜テクノステーション内へ設置いたしました",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/topics/2024/group/20240326",
+    "pass": 3
+   },
+   {
+    "quote": "東芝エネルギーシステムズ、旭化成2016年～2020年実証 日本（福島県浪江町）",
+    "url": "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日立造船（セルは東レ） 2016年～2020年実証 日本（山梨県甲府市）",
+    "url": "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*2 東芝エネルギーシステムズ 2015年～2020年実証 日本（北海道白糠町）",
+    "url": "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*2 神鋼環境ソリューション 2017年～2021年実証 日本（宮城県富谷市）",
+    "url": "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*2 東芝エネルギーシステムズ 2015年～2020年実証 日本（神奈川県横浜市）",
+    "url": "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*2 神鋼環境ソリューション 2020年～2022年実証 日本（福岡県北九州市）",
+    "url": "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*2 三菱化工機、高砂熱学工業 2018年～2021年実証 日本（秋田県能代市）",
+    "url": "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*2 神鋼環境ソリューション 2018年～2021年実証 日本（北海道室蘭市）",
+    "url": "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・アイディーテックエックス株式会社 (IDTechEx日本法人) が販売しています",
+    "url": "https://www.idtechex.com/ja/research-article/key-business-models-for-electrolyzer-firms-in-green-hydrogen-projects/31075",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx Japan",
+    "url": "https://www.idtechex.com/ja/research-article/key-business-models-for-electrolyzer-firms-in-green-hydrogen-projects/31075",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExの調査およびコンサルティングの詳細については、IDTechExの日本法人、アイディーテックエックス株式会社まで、お問い合わせください",
+    "url": "https://www.idtechex.com/ja/research-article/key-business-models-for-electrolyzer-firms-in-green-hydrogen-projects/31075",
+    "pass": 3
+   },
+   {
+    "quote": "米国の脱炭素化を支援する「日本水素フォーラム」へ加入しました",
+    "url": "https://ak-green-solution.com/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電気事業",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1260527_4115.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエネルギー事情",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1260527_4115.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright(c) The Federation of Electric Power Companies of Japan.",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1260527_4115.html",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Original Equipment Manufacturers (OEMs)",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key U.S. OEMs",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "OEMs and wind/solar IPPs",
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "国外にはMW規模の 水電解装置 を導入した再エネ水素事業が20 ... — 国外にはMW規模の 水電解装置 を導入した再エネ水素事業が20 ... 環境省 PDF https://www.env.go.jp > list > lowcarbon-h2-sc > PDF",
+    "url": "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欧州最大規模となるPEM形1万kWの 水電解装置 を運転開始 — 欧州最大規模となるPEM形1万kWの 水電解装置 を運転開始 電気事業連合会 https://www.fepc.or.jp > ... > 海外電力関連 トピックス情報",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1260527_4115.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.comsol.com/fuel-cell-and-electrolyzer-module",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosim.net/en/hydrogen-new-electrolyzer-module-in-prosimplus-simulation-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mathworks.com/discovery/hydrogen-electrolyzer.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.avl.com/en/testing-solutions/hydrogen-testing-solutions/electrolyzer-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/post/Help_with_a_modelation_of_a_PEM_Water_Electrolyser_in_Comsol_Multiphysics2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens-energy.com/global/en/home/products-services/product-offerings/hydrogen-solutions.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enapter.com/en/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-article/key-business-models-for-electrolyzer-firms-in-green-hydrogen-projects/31075",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalinsightservices.com/reports/global-oem-electrolyzer-projects-database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syensqo.com/en/solutions-market/green-hydrogen/water-electrolysis",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.solverglobal.com/partners/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/eere/fuelcells/bipartisan-infrastructure-law-clean-hydrogen-electrolysis-manufacturing-and-0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stem.com/wp-content/uploads/2021/08/Stem-Channel-Partner-Program_Aug2021_Final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.science.org/doi/10.1126/sciadv.adz1865",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://premiumwaters.com/blog/how-private-label-bottled-water-can-elevate-your-brand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grandsprings.com/private-label-bottled-water-the-complete-guide-to-building-your-brand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omnilyte.com/pages/beverage-industry?srsltid=AYCX9vJNPVf2yCzCQJ0rE4zZEyRwf5k579IIUpYM2NtavrCohqRpEjwE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mylabelwater.com/blogs/news/enhance-brand-recognition-private-label-bottled-water?srsltid=AYCX9vKWS1BBDQBmRhBONiibCLHTlNmLgeC5gdjHEpdW0XJDH6UiuBpO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crystalquest.com/pages/private-labeling?srsltid=AYCX9vLgCmddWEE6O-yWrU3DI19hawW3YGbZl64unbX8vzTf9NmA1YE6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0306261924014946",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://allfinancialmodels.com/hydrogen-solutions-financial-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/water-electrolysis-market-4133",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/water-electrolysis-machine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latitudemedia.com/news/flush-with-new-funding-electrolyzer-startups-are-ready-to-ramp-up/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemanager-online.com/en/topics/turning-water-into-fuel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.horiba.com/int/applications/energy-and-environment/hydrogen/water-electrolysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cordis.europa.eu/project/id/101101318",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuman-esser.com/en/products-services/electrolyzers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hydrogentechworld.com/electrolyzer-vendors-ranked-amid-shifting-green-hydrogen-landscape",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyo.co.jp/news/detail/id=44241",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.avl.com/ja/electrolyzer-system-test-solution-product-page",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tetsudo-ch.com/10150114.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/ja/jp/news/topics/2024/group/20240326",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ec-frontier.co.jp/product/cell/SB2100.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-article/key-business-models-for-electrolyzer-firms-in-green-hydrogen-projects/31075",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ak-green-solution.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1260527_4115.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "water electrolyzer software white label",
+   "results": [
+    "https://www.comsol.com/fuel-cell-and-electrolyzer-module",
+    "https://www.prosim.net/en/hydrogen-new-electrolyzer-module-in-prosimplus-simulation-software/",
+    "https://www.mathworks.com/discovery/hydrogen-electrolyzer.html",
+    "https://www.avl.com/ja/testing-solutions/hydrogen-testing-solutions/electrolyzer-testing",
+    "https://www.researchgate.net/post/Help_with_a_modelation_of_a_PEM_Water_Electrolyser_in_Comsol_Multiphysics2",
+    "https://www.linkedin.com/posts/jasonamiri_hydrogen-system-simulation-software-updated-activity-7274396502121164800-WWlf",
+    "https://www.comsol.fr/video/using-simulation-across-the-hydrogen-value-chain",
+    "https://www.sciencedirect.com/science/article/pii/S0196890424011440",
+    "https://www.horiba.com/int/applications/energy-and-environment/hydrogen/water-electrolysis/",
+    "https://www.banuba.com/blog/best-white-label-software"
+   ]
+  },
+  {
+   "query": "water electrolyzer software OEM white-label partner",
+   "results": [
+    "https://www.siemens-energy.com/global/en/home/products-services/product-offerings/hydrogen-solutions.html",
+    "https://enapter.com/en/partners/",
+    "https://www.idtechex.com/en/research-article/key-business-models-for-electrolyzer-firms-in-green-hydrogen-projects/31075",
+    "https://www.avl.com/ja/testing-solutions/hydrogen-testing-solutions/electrolyzer-testing",
+    "https://www.globalinsightservices.com/reports/global-oem-electrolyzer-projects-database/",
+    "https://www.syensqo.com/en/solutions-market/green-hydrogen/water-electrolysis",
+    "https://www.3ds.com/industries/industrial-equipment/electrolyzer-green-hydrogen-production",
+    "https://www.modcon-systems.com/the-revolutionary-approach-combining-fusion-method/",
+    "https://www.rockwellautomation.com/en-us/industries/hydrogen-production.html",
+    "https://heletitaniumhydrogen.com/pem-electrolyzers-oem-wholesale-hele-titanium-hydrogen/"
+   ]
+  },
+  {
+   "query": "water electrolyzer software reseller partner program",
+   "results": [
+    "https://www.solverglobal.com/partners/partner-program",
+    "https://www.comsol.com/fuel-cell-and-electrolyzer-module",
+    "https://www.energy.gov/eere/fuelcells/bipartisan-infrastructure-law-clean-hydrogen-electrolysis-manufacturing-and-0",
+    "https://www.stem.com/wp-content/uploads/2021/08/Stem-Channel-Partner-Program_Aug2021_Final.pdf",
+    "https://www.science.org/doi/10.1126/sciadv.adz1865",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://www.researchgate.net/post/Help_with_a_modelation_of_a_PEM_Water_Electrolyser_in_Comsol_Multiphysics2",
+    "https://www.mathworks.com/discovery/hydrogen-electrolyzer.html",
+    "https://www.youtube.com/watch?v=v2ow5VIRHro",
+    "https://partners.livechat.com/blog/best-reseller-programs/"
+   ]
+  },
+  {
+   "query": "water electrolyzer SaaS rebrand private label",
+   "results": [
+    "https://premiumwaters.com/blog/how-private-label-bottled-water-can-elevate-your-brand/",
+    "https://grandsprings.com/private-label-bottled-water-the-complete-guide-to-building-your-brand/",
+    "https://www.omnilyte.com/pages/beverage-industry?srsltid=AYCX9vJNPVf2yCzCQJ0rE4zZEyRwf5k579IIUpYM2NtavrCohqRpEjwE",
+    "https://mylabelwater.com/blogs/news/enhance-brand-recognition-private-label-bottled-water?srsltid=AYCX9vKWS1BBDQBmRhBONiibCLHTlNmLgeC5gdjHEpdW0XJDH6UiuBpO",
+    "https://crystalquest.com/pages/private-labeling?srsltid=AYCX9vLgCmddWEE6O-yWrU3DI19hawW3YGbZl64unbX8vzTf9NmA1YE6",
+    "https://xeniwaters.com/pages/private-label?srsltid=AYCX9vL_c1Jwu3KjI_30Mmk74I0oLcw8jTtzRWRD1Y32hu9MlcAW43fy",
+    "https://www.lebleu.com/private-label/",
+    "https://ashburnchemical.com/ashburn-private-label/",
+    "https://www.myownwater.com/blog/boosting-brand-with-private-labeled-bottled-water",
+    "https://botpenguin.com/blogs/types-of-white-label-saas"
+   ]
+  },
+  {
+   "query": "water electrolyzer software company profitable EBITDA",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S0306261924014946",
+    "https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa",
+    "https://www.strategicmarketresearch.com/market-report/electrolyzer-market",
+    "https://allfinancialmodels.com/hydrogen-solutions-financial-model/",
+    "https://market.us/report/water-electrolysis-machine-market/",
+    "https://www.marketresearchfuture.com/reports/water-electrolysis-market-4133",
+    "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "https://enapter.com/en/media-coverage/focus-money-enapter-affordable-flexible-and-green/",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035",
+    "https://chemicalresearchinsight.com/2026/03/28/top-10-companies-in-the-water-electrolysis-hydrogen-equipment-industry-2026-market-leaders-powering-the-green-hydrogen-revolution/"
+   ]
+  },
+  {
+   "query": "water electrolyzer software bootstrapped profitable revenue",
+   "results": [
+    "https://allfinancialmodels.com/hydrogen-solutions-financial-model/",
+    "https://www.idtechex.com/en/research-article/key-business-models-for-electrolyzer-firms-in-green-hydrogen-projects/31075",
+    "https://www.marketresearchfuture.com/reports/water-electrolysis-market-4133",
+    "https://www.coherentmarketinsights.com/industry-reports/water-electrolysis-machine-market",
+    "https://straitsresearch.com/report/water-electrolysis-market",
+    "https://www.latitudemedia.com/news/flush-with-new-funding-electrolyzer-startups-are-ready-to-ramp-up/",
+    "https://chemanager-online.com/en/topics/turning-water-into-fuel",
+    "https://www.hydrogen.energy.gov/docs/hydrogenprogramlibraries/pdfs/24005-clean-hydrogen-production-cost-pem-electrolyzer.pdf",
+    "https://www.exponent.com/article/electrolyzer-boom",
+    "https://troy-technical.com/2026/08/23/plug-power-records-343-yoy-electrolyzer-revenue-growth-in-q1-2026-scaling-green-hydrogen-projects-to-commercial-phase/"
+   ]
+  },
+  {
+   "query": "water electrolyzer software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.siemens-energy.com/global/en/home/products-services/product-offerings/hydrogen-solutions.html",
+    "https://www.horiba.com/int/applications/energy-and-environment/hydrogen/water-electrolysis/",
+    "https://cordis.europa.eu/project/id/101101318",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035",
+    "https://www.neuman-esser.com/en/products-services/electrolyzers/",
+    "https://hydrogentechworld.com/electrolyzer-vendors-ranked-amid-shifting-green-hydrogen-landscape",
+    "https://www.marketsandmarkets.com/ResearchInsight/electrolyzers-market.asp",
+    "https://revenuebase.ai/companies/hydrogen-electrolyzer-companies/germany",
+    "https://www.blackridgeresearch.com/blog/list-of-global-top-hydrogen-electrolyzer-manufacturers-companies-makers-suppliers-in-the-world?srsltid=AYCX9vIXDKDaxDEw7G6DMO4K6tyGpCO6BvPrTVjU5EixGv1Ir8oDfiXs",
+    "https://observatory.clean-hydrogen.europa.eu/hydrogenics-europe-nvcummins-pem-water-electrolysis-gw-fab-be16"
+   ]
+  },
+  {
+   "query": "水電解装置 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.toyo.co.jp/news/detail/id=44241",
+    "https://www.avl.com/ja/electrolyzer-system-test-solution-product-page",
+    "https://tetsudo-ch.com/10150114.html",
+    "https://www.kobelco-eco.co.jp/product/hhog/",
+    "https://www.sumitomocorp.com/ja/jp/news/topics/2024/group/20240326",
+    "https://enapter.com/ja/",
+    "https://green-innovation.nedo.go.jp/article/greenhydrogen/",
+    "https://sumitomoelectric.com/jp/press/2025/10/prs139",
+    "https://mono.ipros.com/cg2/%E6%B0%B4%E7%B4%A0%E7%99%BA%E7%94%9F%E8%A3%85%E7%BD%AE/",
+    "https://assets.toyo.co.jp/files/user/company/documents/release/250626_biologic_73051.pdf"
+   ]
+  },
+  {
+   "query": "水電解装置 ソフト 代理店 海外製",
+   "results": [
+    "https://www.sumitomocorp.com/ja/jp/news/topics/2024/group/20240326",
+    "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf",
+    "https://ec-frontier.co.jp/product/cell/SB2100.php",
+    "https://www.idtechex.com/ja/research-article/key-business-models-for-electrolyzer-firms-in-green-hydrogen-projects/31075",
+    "https://ak-green-solution.com/",
+    "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1260527_4115.html",
+    "https://enapter.com/ja/",
+    "https://www.bosch.co.jp/press/group-2205-02/",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000064.pdf"
+   ]
+  }
+ ],
+ "missing": {
+  "価格": "記載なし（読んだ45頁・検索9回）"
+ }
+}

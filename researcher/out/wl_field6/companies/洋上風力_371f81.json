@@ -1,0 +1,1160 @@
+{
+ "name": "洋上風力",
+ "en": "offshore wind",
+ "aliases": [
+  "浮体式洋上風力"
+ ],
+ "context": "12 GX ⑤洋上風力",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:29:24.968366+00:00",
+ "evidence": {
+  "再販制度": [
+   {
+    "quote": "The project encountered various technical challenges throughout the design phase. Most notably the engineers had to deal with significant seabed mobility – a challenging phenomenon where the entire seabed in the area is being exposed to either erosion or sedimentation over time.",
+    "url": "https://www.cowi.com/insights/the-next-phase-for-offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "– Turbine-specific weather forecasts to improve operational margins.",
+    "url": "https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/",
+    "pass": 3
+   },
+   {
+    "quote": "The company has a strong presence in Europe, particularly the U.K., a country that leads the globe in offshore wind power generation. International expansion towards the U.S. and Asia Pacific is also on the cards, and our readers from ‘Murica may be interested to see some of the planned offshore wind energy projects off the coasts of various states.",
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Ørsted will sell to wholesale and corporate customers going forward and divest its electricity transmission, distribution, and residential sales channels to focus on its core business. Besides offshore and onshore wind, the company also plans to diversify towards solar, bioenergy, and energy storage if any of these offer growth opportunities on the back of cost reductions in the medium term.",
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los",
+    "url": "https://willow-project.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.",
+    "url": "https://willow-project.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Activar o desactivar las cookies",
+    "url": "https://willow-project.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.",
+    "url": "https://willow-project.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Activar todo",
+    "url": "https://willow-project.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Varel, Lower Saxony, Germany",
+    "url": "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "pass": 3
+   },
+   {
+    "quote": "How do these companies perform financially? What are their revenues and profit margins?",
+    "url": "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Fonderie Et Mecanique Generale Castelbriantaiseとの独占販売代理店契約を締結（浮体式洋上風力関連）｜ニュースリリース｜原田産業株式会社",
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "pass": 3
+   },
+   {
+    "quote": "Fonderie Et Mecanique Generale Castelbriantaiseとの独占販売代理店契約を締結（浮体式洋上風力関連）",
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "pass": 3
+   },
+   {
+    "quote": "原田産業株式会社(本社：大阪府大阪市、代表取締役社長 原田暁、以下、「原田産業」)は、Fonderie Et Mecanique Generale Castelbriantaise (本社：フランス・シャトーブリアン、CEO：Nicolas Ottenwaelder、以下、「FMGC社」）と、日本国内における輸入・販売代理店契約を締結いたしました",
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "pass": 3
+   },
+   {
+    "quote": "原田産業では、有力な欧州メーカーの国内総代理店として洋上風力（着床式、浮体式）ビジネスを展開しております",
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "pass": 3
+   },
+   {
+    "quote": "また、26の国と地域に展開する139の自社拠点および51カ国で提携する代理店189拠点のネットワークを活用とした陸上・海上・航空輸送を組み合わせた\"トータルコーディネートサービス\"と“風力発電パーツ等の緊急輸送”を提供します",
+    "url": "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "pass": 3
+   },
+   {
+    "quote": "ベスタス社製風力タービンの国内総代理店",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "港湾運送・曳船・船舶代理店・倉庫",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "代理店業務に長年携わっており税関入管検疫・運輸局の手続に精通しています",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "原田産業（株）がオフショア用アンカー製造者である蘭Vryhofの代理店として高把駐",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "To transport the energy in the form of hydrogen, which is needed as the energy carrier for e.g., for the green transition in the chemical and steel manufacturing industries, is appr. 1/5 of the cost of transporting the energy as electrical power.",
+    "url": "https://www.cowi.com/insights/the-next-phase-for-offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "In the United States, the Production Tax Credit and Investment Tax Credit have historically driven renewable energy investment by reducing the tax burden on project revenues. In 2026, policy frameworks in the EU, UK, and parts of Asia continue to evolve, with many governments adjusting auction processes to balance project viability against consumer energy costs. For developers looking at",
+    "url": "https://ipspowerfulpeople.com/knowledgebase/how-do-companies-finance-offshore-wind-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "When your project spans multiple countries, we put workers on our own payroll and handle A1 certificates, local labor law compliance, and contract management. You carry no administrative risk.",
+    "url": "https://ipspowerfulpeople.com/knowledgebase/how-do-companies-finance-offshore-wind-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "17 Aparri Bay 600 着床式 15 MW 50",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   }
+  ],
+  "提供企業": [
+   {
+    "quote": "Join the leading collaborative voice for the offshore wind industry and get exclusive membership benefits.",
+    "url": "https://oceantic.org/u-s-offshore-wind-pathway-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Join the leading collaborative voice for the offshore wind industry and get exclusive membership benefits.",
+    "url": "https://oceantic.org/weve-changed-our-name-to-oceantic-network-heres-why/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore related topics",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "Track the Ostwind 4 fabrication schedule as a leading indicator for offshore vessel and port demand in the North Sea region through 2027 and 2028.",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "on the record. Buyers are already reading this topic. The only question is whose experts they find.",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "Before they reach out, Energy buyers ask AI engines which vendors to trust. Explore how your experts, customers, and partners can become useful content for buyers and AI search.",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "Distribution networks hold 55.6% of the market, and utilities in the Zpryme survey also ranked distribution automation, FLISR and hardening as top priorities, so feeder-level equipment is where budgets and forecasts agree.",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "“The inaugural Accelerator Program cohort will drive advances in the OSW industry through government and industry partnerships that will help pilot new technologies and scale businesses. We look forward to working with The Offshore Wind Innovation Hub to build a nation-leading ecosystem and more inclusive future for all New Yorkers.”",
+    "url": "https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Empire receives stop work order from US Department of the Interior’s Bureau of Ocean Energy Management",
+    "url": "https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Stop work order lifted, Empire Wind project resumes construction",
+    "url": "https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/",
+    "pass": 3
+   },
+   {
+    "quote": ", a leading offshore wind platform. Both of them will serve as the basis of Ørsted’s North American expansion, where 1 GW of projects have already been awarded to the company, and 8 GW’s worth are under business development. Asia Pacific is represented by one massive Taiwanese offshore farm with a capacity of 1.8 GW.",
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "pass": 3
+   },
+   {
+    "quote": "For over 35 years, iPS has connected top talent and leading companies across maritime, renewables and civil.",
+    "url": "https://ipspowerfulpeople.com/knowledgebase/how-do-companies-finance-offshore-wind-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "A Contract for Difference, used widely in the UK and increasingly across Europe, guarantees the developer a fixed “strike price” for electricity. If the market price falls below that level, the government tops it up. If the market price rises above it, the developer pays the difference back. This two-way mechanism protects both the developer and the consumer.",
+    "url": "https://ipspowerfulpeople.com/knowledgebase/how-do-companies-finance-offshore-wind-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": ". “We know that when we invest in American offshore wind energy, we’re creating economic opportunities across the country, leading to a strong, nationwide supply chain that can deliver family-sustaining jobs and reliable energy for American families and businesses.”",
+    "url": "https://turnforward.org/report-early-offshore-wind-investments-reduce-future-project-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "See who's leading, what's moving, and where private markets are going next.",
+    "url": "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 26 Wind Turbine Software Solutions Companies",
+    "url": "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Continue reading to discover the top wind turbine software solutions companies.",
+    "url": "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 19 Medical Imaging Companies in Pennsylvania",
+    "url": "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 24 Mobile App Development Companies in North Carolina",
+    "url": "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 14 Investors in Benelux Medical Tourism Agencies",
+    "url": "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind: Europe’s Top 10 Companies in 2025 - ENKI",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind in Europe: Top 10 Companies Leading the Charge in 2025",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "A leading developer from the UK,",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "A top-tier technology provider,",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Table: Europe’s Top 10 Offshore Wind Companies 2025",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading development of the 3.6 GW Dogger Bank Wind Farm.",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "top companies in China",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "are leading the development of",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe’s top offshore wind projects",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Which company is challenging Ørsted for the top spot?",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "If you found this article helpful, you might also enjoy these related articles that dive deeper into similar topics and provide further insights.",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "事業分野TOP",
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報TOP",
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "pass": 3
+   },
+   {
+    "quote": "サステナビリティTOP",
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 TOP",
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "pass": 3
+   },
+   {
+    "quote": "九州洋上風力関連産業ネットワーク会員ダイレクトリーTOP",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": ". Our new name honors the earth’s oceans. It celebrates that dynamic natural force that is a source of enormous clean, renewable power and connects all that we do. With this rebrand, we will shift our focus to ensuring we realize the full renewable energy potential of our oceans.",
+    "url": "https://oceantic.org/weve-changed-our-name-to-oceantic-network-heres-why/",
+    "pass": 3
+   },
+   {
+    "quote": "Business Network for Offshore Wind rebrands to Oceantic Network and embraces ocean renewables.",
+    "url": "https://oceantic.org/weve-changed-our-name-to-oceantic-network-heres-why/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Energy rebrands as Omterra, uniting wind and grid un",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Energy begins preparations to rebrand as Omterra, uniting wind and grid businesses",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Energy has begun preparing to rebrand its Siemens Gamesa wind business and grid division under a single new name, Omterra, signaling a cleaner separation from its Siemens AG heritage.",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "The rebrand would unite Siemens Gamesa and the grid division under one standalone brand.",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "Empire Wind’s Statement on Receiving the Record of Decision from BOEM",
+    "url": "https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/",
+    "pass": 3
+   },
+   {
+    "quote": "風車ブレードの角度制御装置をOEM提供 オーストリアのKEBA 日本の風力市場に参入、世界12万台超供給の実績 - ウインドジャーナル｜風力発電のビジネス情報サイト",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "風車ブレードの角度制御装置をOEM提供 オーストリアのKEBA 日本の風力市場に参入、世界12万台超供給の実績",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "世界15ヶ国、25拠点で機械メーカー向けにロボットや工作機械、射出成形機向けの制御ソリューションをOEM提供しているのがオーストリアのKEBA",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "実際のビジネスとしては日本のロボットメーカー向けに弊社のソリューションをOEM供給しています",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "zenon の機能は、OEMハードウェアとテクノロジーの境界にとどまりません",
+    "url": "https://www.copadata.com/ja/industries/energy-infrastructure/energy-solutions/wind-energy-with-zenon/",
+    "pass": 3
+   },
+   {
+    "quote": "この幅広い互換性により、作業能力が向上し、特定の OEM サポートサービスへの依存度が下がり、メンテナンススケジュールと戦略の最適化が可能になります",
+    "url": "https://www.copadata.com/ja/industries/energy-infrastructure/energy-solutions/wind-energy-with-zenon/",
+    "pass": 3
+   },
+   {
+    "quote": "グループとして世界の主要風車OEMへ旋回ベアリングを供給しています",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ OEM や部材輸送に関する中国の事業者が、市場参入のために猛烈にアプローチしてき",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "The practical implication for other large corporate buyers is competitive. When a single counterparty absorbs 1.6 GW of solar capacity in one agreement, it tightens availability and potentially shifts pricing dynamics in merchant and",
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.esist.org.tw/publication/monthly_detail?Id=2e7321193234",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "The National Offshore Wind Research and Development Consortium, established in 2018, is a not-for-profit public-private partnership focused on advancing offshore wind technology in the United States through high-impact research projects and cost-effective and responsible development to maximize economic benefits. Funding for the Consortium comes from the",
+    "url": "https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/",
+    "pass": 3
+   },
+   {
+    "quote": "About EBITDA and ROCE",
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Green energy is also profitable. Orsted is a pure-play on offshore wind and “green energy” with over 90% of",
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA",
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "pass": 3
+   },
+   {
+    "quote": "In every article we write, we assume the reader has no prior knowledge of financial concepts. Earlier, we used the term “EBITDA,” and now we’re going to explain why it’s useful – aside from the fact that positive earnings are always a good thing for any company.",
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "pass": 3
+   },
+   {
+    "quote": "The above shows the power being generated, but says nothing about which sources are profitable. As we can see below, almost all of the positive earnings come from Ørsted’s offshore site operations.",
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "pass": 3
+   },
+   {
+    "quote": "2018 EBITDA Contribution",
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn Forward is an independent, non-profit advocacy organization dedicated to advancing an ambitious vision for American offshore wind power that meets today’s climate, economic, equity and environmental challenges.",
+    "url": "https://turnforward.org/report-early-offshore-wind-investments-reduce-future-project-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn Forward is a project of Multiplier, a 501 (c)3 nonprofit organization. Tax ID 91-2166435",
+    "url": "https://turnforward.org/report-early-offshore-wind-investments-reduce-future-project-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "How do these companies perform financially? What are their revenues and profit margins?",
+    "url": "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Drawn from an initial pool of 49 global international applicants hailing from the US, Canada, UK, Europe, and Japan, the companies selected to participate in the NYC-based Year 1 Cohort include:",
+    "url": "https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/",
+    "pass": 3
+   },
+   {
+    "quote": "風車ブレードの角度制御装置をOEM提供 オーストリアのKEBA 日本の風力市場に参入、世界12万台超供給の実績 - ウインドジャーナル｜風力発電のビジネス情報サイト",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "風車ブレードの角度制御装置をOEM提供 オーストリアのKEBA 日本の風力市場に参入、世界12万台超供給の実績",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年設立の日本法人のKEBA Japanは三菱電機やデンソーウェーブ、セイコーエプソン、ダイヘンなどに製品を提供している",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "KEBAは21年4月に日本の風力発電マーケットに参入した",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "KEBA Japanの代表取締役、村上正和氏に聞いた",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では現在、産業用ロボット向けソリューションが売り上げの大部分を占めています",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "実際のビジネスとしては日本のロボットメーカー向けに弊社のソリューションをOEM供給しています",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場には（風車を）内製する日本企業がありません",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし昨今のトレンド、「洋上風力産業ビジョン」が掲げる「2030年までに10GW、2040年までに浮体式も含む30GW～45GWの案件形成」などを踏まえ、ひょっとしたら日本メーカーによる（風車製造）返り咲き、もしくはベンチャーの参入に期待しています",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "――日本国内で稼働している風力発電設備にKEBAのソリューションが組み込まれている可能性はありますね？",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "欧米のメーカーに入っていますので、欧米メーカーのもの（風車）が日本に入ってきた場合、そちらに弊社製品が使われているということはあります",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "KEBA Japan株式会社",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "日本風力発電協会と風力エネルギー学会が協定締結、人...",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "日本風力発電協会と風力エネルギー学会が協定締結、人材育成で産学連携",
+    "url": "https://windjournal.jp/112100/",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電プロジェクト関連サービス | UL Solutions Japan",
+    "url": "https://japan.ul.com/resources/wind/",
+    "pass": 3
+   },
+   {
+    "quote": "UL Solutions Japan",
+    "url": "https://japan.ul.com/resources/wind/",
+    "pass": 3
+   },
+   {
+    "quote": "UL Japanトップページ",
+    "url": "https://japan.ul.com/resources/wind/",
+    "pass": 3
+   },
+   {
+    "quote": "[プレスリリース] UL Solutions、最先端の自動車業界向け電磁両立性試験所を日本に開設",
+    "url": "https://japan.ul.com/resources/wind/",
+    "pass": 3
+   },
+   {
+    "quote": "UL Solutions Mail Magazine – Japan",
+    "url": "https://japan.ul.com/resources/wind/",
+    "pass": 3
+   },
+   {
+    "quote": "世界と日本における現状",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "導入量の予測、各国・地域の目標、日本の動向、そして洋上風力に関連する各論について詳述しています",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4. 日本の洋上風力発電動向",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-1 日本：促進区域の指定状況",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-2 日本：ラウンド１～３の落札結果と事業概要",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-3 日本：海洋再エネ整備法による区域指定（領海及び内水）",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-4 日本：海洋再エネ整備法による区域指定（EEZ）",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5-6 日本：系統マスタープラン",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5-7 日本：環境アセスメントの実施状況",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5-8 日本：漁業との共生",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、2025年8月に「洋上風力産業ビジョン（第2次）」を発表し、2040年までに浮体式15GWの案件形成目標",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本 5.7 30-45",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 青森県沖日本海(南側) 615",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16 青森県沖日本海（北側） 300",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-2 日本：ラウンド１～3の落札結果と事業概要",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "pass": 3
+   },
+   {
+    "quote": "原田産業株式会社(本社：大阪府大阪市、代表取締役社長 原田暁、以下、「原田産業」)は、Fonderie Et Mecanique Generale Castelbriantaise (本社：フランス・シャトーブリアン、CEO：Nicolas Ottenwaelder、以下、「FMGC社」）と、日本国内における輸入・販売代理店契約を締結いたしました",
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "pass": 3
+   },
+   {
+    "quote": "小型外航モジュール船を運航しており、陸上風車部材の輸送実績も多数有り、洋上風力発電設備の輸送に適した日本初の内航モジュール船が竣工目前",
+    "url": "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内初のNI認証のDPトレーニングセンター",
+    "url": "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "pass": 3
+   },
+   {
+    "quote": "国内の洋上風力発電に適している北海道や日本海沿岸などから電力の大需要地に送電するためには、電力系統を増強する必要があり、海洋ルートを使った長距離送電方法が有望とされています",
+    "url": "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "pass": 3
+   },
+   {
+    "quote": "月、商船三井は海底送電ケーブルの接続船および埋設船について一般財団法人日本海事協会（",
+    "url": "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "pass": 3
+   },
+   {
+    "quote": "「多用途多端子直流送電システムの基盤技術／ケーブル防護管取付等の工法及び新型ケーブル敷設船等の基盤技術」開発事業がNEDOに採択～ケーブル接続船/埋設船に関する技術開発を通じて日本の再エネ比率向上に貢献～",
+    "url": "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ製の双胴船（Catamaran)が主流船型であり、安定かつ安全なCTVサービスを提供すべく日本の厳しい気象/海象条件に適応した船型の研究開発を実施",
+    "url": "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "pass": 3
+   },
+   {
+    "quote": "航行時・接舷時の波浪中動揺特性のシミュレーションに加え、水槽実験にて検証を行い、日本の海域にとって最適な船型を開発していきます",
+    "url": "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "pass": 3
+   },
+   {
+    "quote": "大型風車部材の海上輸送を担う日本初の内航デッキキャリア「WIND WHALE」",
+    "url": "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.mhivestasjapan",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": ".com/en/countries/japan",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "thyssen krupp rothe erde Japan株式会社",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "西日本プラント工業株式会社",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本通運株式会社",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "/outline.html（日本語）",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "http://franchir-japan.co.jp/lp/",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://franchir-japan.com/english/",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.1 前提（日本におけるサプライチェーン） ....................................... 48",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査し、特に台湾、フィリピンについて日本企業の需要が見込まれる可能性があることが分",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実施し、日本・アジアで導入が期待される浮体形状を、施工条件、自然環境及び技術水",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " （浮体を設計する上でセミサブ型の浮体を選択した理由として）日本同様、",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本で基地港湾として指定されている4港では、最大地耐力35t/㎡で整備または供",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "引用:令和 2 年度 洋上風力に関する動向調査 (公財)日本海事センター 2021 年",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、上述のツネイシ造船所は他の造船所等と比較して南方に位置し、日本から浮",
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "A Wind Energy Stock for Offshore Wind Power - Nanalyze — A Wind Energy Stock for Offshore Wind Power - Nanalyze Nanalyze https://www.nanalyze.com > 2019/05",
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Market Report: 2023 Edition — Offshore Wind Market Report: 2023 Edition Department of Energy (.gov) PDF https://www.energy.gov > sites > default > files > do...",
+    "url": "https://www.energy.gov/sites/default/files/2023-09/doe-offshore-wind-market-report-2023-edition.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind : Europe's Top 10 Companies in 2025 - Enki AI — Offshore Wind : Europe's Top 10 Companies in 2025 - Enki AI enkiai.com https://enkiai.com > offshore-wind",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 発電の 動向2025 - 自然エネルギー財団 — 洋上風力 発電の 動向2025 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > REI_OW...",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 — 洋上風力 内閣官房 PDF https://www.cas.go.jp > seisaku > dai16 > shiryo1-2",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.dnv.com/software/services/software-for-offshore-wind/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.windriverpayments.com/white-label-payments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2772671123000645",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cowi.com/insights/the-next-phase-for-offshore-wind/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geosoftware.com/offshore-wind-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://murmusoftwareinfotech.com/blog/white-label-software-development-exclusive-offers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infomazeelite.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advangrid.com/en/partner/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brekeke.com/partner/oem-partner.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.windriver.com/ja/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solarwinds.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oceantic.org/u-s-offshore-wind-pathway-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20260604889924/en/Supercharging-the-Channel-SolarWinds-Announces-New-Updates-to-Partner-Program",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aecsoftware.com/company/partner-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oceantic.org/weve-changed-our-name-to-oceantic-network-heres-why/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siegelgale.com/case-study/bw-offshore/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.norwegianoffshorewind.no/news/offshore-wind-from-norway-will-be-a-strong-international-brand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gabelli.com/research/offshore-wind-five-key-questions-for-investors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.deme-group.com/static-files/005770d5-dbfc-44b4-9e8b-510455093e3a",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1364032118308475",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Futurology/comments/xoj7sb/offshore_wind_125_times_better_for_taxpayers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/the-offshore-wind-industrys-moment-of-reckoning",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://fullscale.io/blog/what-is-bootstrapping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ipspowerfulpeople.com/knowledgebase/how-do-companies-finance-offshore-wind-expansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/1996-1073/15/17/6446",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://turnforward.org/report-early-offshore-wind-investments-reduce-future-project-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/offshore-software-development-firms/israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scalosoft.com/outsourcing/offshore-custom-software-development-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willow-project.eu/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://windjournal.jp/112100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnv.jp/services/page-3775/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.ul.com/resources/wind/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.se.com/jp/ja/work/solutions/electric-utilities/renewable-energy/wind-power/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.copadata.com/ja/industries/energy-infrastructure/energy-solutions/wind-energy-with-zenon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "offshore wind software white label",
+   "results": [
+    "https://www.dnv.com/software/services/software-for-offshore-wind/",
+    "https://www.windriverpayments.com/white-label-payments/",
+    "https://www.sciencedirect.com/science/article/pii/S2772671123000645",
+    "https://www.cowi.com/insights/the-next-phase-for-offshore-wind/",
+    "https://www.geosoftware.com/offshore-wind-software",
+    "https://ip.sandia.gov/opportunity/offshore-wind-energy-simulation-owens/",
+    "https://www.arup.com/en-us/projects/offshore-wind-farms/",
+    "https://www.empirewind.com/2024/06/06/offshore-wind-innovation-hub-announces-2024-selections-for-its-accelerator-program/",
+    "https://enity.io/en/partners/our-whitelabel-solution/",
+    "https://vatask.com/services/dedicated-teams/offshore-software-development"
+   ]
+  },
+  {
+   "query": "offshore wind software OEM white-label partner",
+   "results": [
+    "https://murmusoftwareinfotech.com/blog/white-label-software-development-exclusive-offers",
+    "https://www.infomazeelite.com/partners/",
+    "https://www.advangrid.com/en/partner/whitelabel/",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://brekeke.com/partner/oem-partner.php",
+    "https://oceantic.org/u-s-offshore-wind-pathway-program/",
+    "https://www.airstride.ai/platform/whitelabelling",
+    "https://oxoia.com/en/white-labeling-partner/",
+    "https://www.i-360.us/offshore-white-label-development.html"
+   ]
+  },
+  {
+   "query": "offshore wind software reseller partner program",
+   "results": [
+    "https://www.windriver.com/ja/partners",
+    "https://www.youtube.com/watch?v=6Cm6_3DZivM",
+    "https://www.solarwinds.com/partners",
+    "https://oceantic.org/u-s-offshore-wind-pathway-program/",
+    "https://www.businesswire.com/news/home/20260604889924/en/Supercharging-the-Channel-SolarWinds-Announces-New-Updates-to-Partner-Program",
+    "https://www.aecsoftware.com/company/partner-programs/",
+    "https://www.ptc.com/en/partners/join?srsltid=AYCX9vJOAlzEfDabF81zbqQ3_WBgSumB9ZN_BF27XV2tUCIJgp2XupNa",
+    "https://www.aeris.com/become-a-partner/",
+    "https://www.hitachienergy.com/company/partners/channel-partner-program",
+    "https://partner.solarwinds.com/"
+   ]
+  },
+  {
+   "query": "offshore wind SaaS rebrand private label",
+   "results": [
+    "https://oceantic.org/weve-changed-our-name-to-oceantic-network-heres-why/",
+    "https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name",
+    "https://www.siegelgale.com/case-study/bw-offshore/",
+    "https://www.norwegianoffshorewind.no/news/offshore-wind-from-norway-will-be-a-strong-international-brand/",
+    "https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/",
+    "https://castfromclay.co.uk/work/ocean-energy-pathway-visual-identity-website/",
+    "https://weatherguardwind.com/siemens-gamesa-omterra/",
+    "https://www.rts-wind.com/news/rts-wind-group-rebrand/",
+    "https://windpowerlab.com/wind-power-lab-unveils-new-brand-identity-as-global-growth-accelerates/",
+    "https://resellportal.com/what-is-private-label-saas/"
+   ]
+  },
+  {
+   "query": "offshore wind software company profitable EBITDA",
+   "results": [
+    "https://gabelli.com/research/offshore-wind-five-key-questions-for-investors/",
+    "https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/",
+    "https://investors.deme-group.com/static-files/005770d5-dbfc-44b4-9e8b-510455093e3a",
+    "https://www.sciencedirect.com/science/article/abs/pii/S1364032118308475",
+    "https://www.reddit.com/r/Futurology/comments/xoj7sb/offshore_wind_125_times_better_for_taxpayers/",
+    "https://www.energy.gov/sites/default/files/2023-09/doe-offshore-wind-market-report-2023-edition.pdf",
+    "https://cdn.orsted.com/-/media/annual-2025/annual-report-2025.pdf?rev=34ff0f324dc1429bac1bc84382c30a9d",
+    "https://www.mdpi.com/1996-1073/15/17/6446",
+    "https://www.linkedin.com/pulse/profitability-offshore-wind-farms-trius-3gw0f",
+    "https://cswind.com/en/board/board.download/?t=common&n=1464&seq=1"
+   ]
+  },
+  {
+   "query": "offshore wind software bootstrapped profitable revenue",
+   "results": [
+    "https://www.mckinsey.com/capabilities/sustainability/our-insights/the-offshore-wind-industrys-moment-of-reckoning",
+    "https://fullscale.io/blog/what-is-bootstrapping/",
+    "https://ipspowerfulpeople.com/knowledgebase/how-do-companies-finance-offshore-wind-expansion/",
+    "https://www.mdpi.com/1996-1073/15/17/6446",
+    "https://www.reddit.com/r/Futurology/comments/xoj7sb/offshore_wind_125_times_better_for_taxpayers/",
+    "https://turnforward.org/report-early-offshore-wind-investments-reduce-future-project-costs/",
+    "https://www.renewableuk.com/media/rqvlqzu0/offshore-wind-industrial-growth-plan.pdf",
+    "https://cdn.orsted.com/-/media/www/docs/corp/be/offshore-wind-at-a-crossroads.pdf?rev=ea162ac5657f4bd0bc3a0f1dd80bee42&hash=41F7E5F2BFA8F0E6D35C81C9501D9F91",
+    "https://drawdown.org/explorer/deploy-offshore-wind-turbines",
+    "https://www.energy.gov/cmei/systems/offshore-wind-market-report"
+   ]
+  },
+  {
+   "query": "offshore wind software vendors Europe Israel Germany white label",
+   "results": [
+    "https://revenuebase.ai/companies/offshore-software-development-firms/israel",
+    "https://www.scalosoft.com/outsourcing/offshore-custom-software-development-services/",
+    "https://willow-project.eu/partners/",
+    "https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies",
+    "https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/",
+    "https://renewables.digital/wind-developers-europe-top-25-list/",
+    "https://www.rwe.com/en/the-group/rwe-offshore-wind/",
+    "https://www.londonstockexchange.com/news-article/0RHE/borkum-riffgrund-3-enters-commercial-operation-strengthening-germany-s-energy-security-with-home-grown-renewable-power/17762645",
+    "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/scottishpower-renewables.html",
+    "https://www.softication.com/blog/white-label-software-development-europe-2026"
+   ]
+  },
+  {
+   "query": "洋上風力 ソフトウェア OEM 提供",
+   "results": [
+    "https://windjournal.jp/112100/",
+    "https://www.dnv.jp/services/page-3775/",
+    "https://japan.ul.com/resources/wind/",
+    "https://www.se.com/jp/ja/work/solutions/electric-utilities/renewable-energy/wind-power/",
+    "https://www.copadata.com/ja/industries/energy-infrastructure/energy-solutions/wind-energy-with-zenon/",
+    "https://www.mol-service.com/ja/blog/offshore-wind-power-today",
+    "https://www.accenture.com/content/dam/accenture/final/a-com-migration/manual/r3/pdf/Accenture-210164-ORE-WindCatapult-POV-LCS-JP.pdf",
+    "https://www.bureauveritas.jp/newsroom/210825-02",
+    "https://www.theinsightpartners.com/ja/reports/offshore-wind-o-and-m-services-market",
+    "https://www.kaijipress.com/news/shipping/2024/07/185540/"
+   ]
+  },
+  {
+   "query": "洋上風力 ソフト 代理店 海外製",
+   "results": [
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf",
+    "https://www.haradacorp.co.jp/news/detail.php?id=365",
+    "https://www.mol-service.com/ja/services/low-carbon-decarbonized-business/offshore-wind-power-energy-business",
+    "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "https://www.mlit.go.jp/maritime/content/001865396.pdf",
+    "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf",
+    "https://windjournal.jp/127382/",
+    "https://www.bw-ideol.com/jp",
+    "https://mowd.jp/",
+    "http://kaigaisoft.com/"
+   ]
+  }
+ ],
+ "missing": {}
+}

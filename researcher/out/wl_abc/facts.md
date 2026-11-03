@@ -1,0 +1,310 @@
+# A1のお問い合わせフォーム用ホワイトラベルソフト（wl-A〜C、世界）— 提供企業と黒字の証拠（事実のみ・7品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## wl-A DfAM（AM適性判定・工法材料提案・費用概算）（additive manufacturing part feasibility and cost estimation software）
+- 文脈：wl-A DfAM
+- 提供企業：
+  - 「Desktop Metal Zone」（https://3dprint.com/191516/spare-parts-3d-feasibility-study/）
+  - 「If Electrolux uses 3D printing to produce on-demand parts, it will work with a network of 3D printing service providers, like Spare Parts 3D, to make the parts near the actual demand points, to make both rapid shipment and no physical inventory warehousing possible at once.」（https://3dprint.com/191516/spare-parts-3d-feasibility-study/）
+  - 「Discuss this story and other 3D printing topics at」（https://3dprint.com/191516/spare-parts-3d-feasibility-study/）
+  - 「Stay up-to-date on all the latest news from the 3D printing industry and receive information and offers from third party vendors.」（https://3dprint.com/191516/spare-parts-3d-feasibility-study/）
+  - 「Automation is a very topical thing in additive manufacturing at the moment. With renewed scale, some clients are fervently looking to automate production. Other business cases only make sense with...」（https://3dprint.com/191516/spare-parts-3d-feasibility-study/）
+  - 「Desktop 3D Printer Buyer’s Guide」（https://3dprint.com/191516/spare-parts-3d-feasibility-study/）
+  - 「announce-top」（https://jsde.or.jp/wp/dfamcd2026/）
+  - 「講演2 nTopのご紹介AMとnTopで実現する製品の新しい可能性」（https://3dprint.or.jp/dfam25/）
+  - 「従来のCADソフトなどでは困難であった複雑な形状設計を容易に行うことができるソフトウェア nTop についてご紹介いたします」（https://3dprint.or.jp/dfam25/）
+  - 「講演3 DfAMのための造形データ準備 (ラティス設計、Magics-nTop連携等）」（https://3dprint.or.jp/dfam25/）
+  - 「本講演では、マテリアライズソフトウェアを用いたラティスの設計や、nTopデータをMaterialise Magicsで直接処理し、メッシュ問題を回避する事例をご紹介します」（https://3dprint.or.jp/dfam25/）
+- 再販制度：
+  - 「Companies can further increase profit by running repeat orders. The ability to use invested planning for running and tracing a repeat order boosts your margins significantly.」（https://oqton.com/how-to-succeed-with-additive-manufacturing/）
+  - 「The ability to seamlessly transition between various stages of the workflow removes a lot of common snags in printing. You can instantaneously know if there is a good business case for printing, polish the design, and start printing on the same day. The result is a simple and smooth AM workflow that any organization can adopt.」（https://oqton.com/how-to-succeed-with-additive-manufacturing/）
+- 黒字・収益性：
+  - 「Oqton’s powerful production platform with CASTOR’s analysis tools will help drive contract manufacturers to profitable additive projects」（https://oqton.com/oqton-announces-strategic-partnership-with-castor/）
+  - 「“We’re excited to partner with Oqton to provide a complete end-to-end solution for additive manufacturing,” said Omer Blaier, CEO of CASTOR. “Together, our solution enables companies to scale their 3D printing operations allowing them to automatically identify new business cases and drive profitable growth.”」（https://oqton.com/oqton-announces-strategic-partnership-with-castor/）
+  - 「Digitalization will be next, and Spare Parts 3D will complete a digital inventory that shows the optimal production parameters for the chosen parts. Once the company completes quality tests and checks on the final printed parts, it will move on to the Profitability Analysis, and compare the costs of 3D printing spare parts vs. producing them by traditional means.」（https://3dprint.com/191516/spare-parts-3d-feasibility-study/）
+  - 「Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing.」（https://oqton.com/how-to-succeed-with-additive-manufacturing/）
+  - 「Companies can further increase profit by running repeat orders. The ability to use invested planning for running and tracing a repeat order boosts your margins significantly.」（https://oqton.com/how-to-succeed-with-additive-manufacturing/）
+- 売上：
+  - 「You order the part through the customer portal of the Manufacturing OS. The platform’s Digital Catalogue of parts makes it easy to manage a part inventory and capacity, and schedule production orders. After the order has been placed, the Manufacturing OS connects you to 3DXpert where you can carry out build preparation and send the files to print.」（https://oqton.com/how-to-succeed-with-additive-manufacturing/）
+- 日本対応：
+  - 「日本語では「付加製造のための設計」と訳されますが、実態としては「AMを使うために図面を書き直す」という受動的なものではありません」（https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/what-is-dfam）
+  - 「金属3Dプリンターのコスト試算は簡単！JAMPTの無料自動見積りサービスでAM導入を加速 | 日本積層造形株式会社」（https://jampt.jp/column/am-estimate/）
+  - 「日本積層造形株式会社／JAMPT（ジャンプ）」（https://jampt.jp/column/am-estimate/）
+  - 「そこで、日本積層造形株式会社（JAMPT）は、」（https://jampt.jp/column/am-estimate/）
+  - 「公益社団法人 日本設計工学会 Japan Society for Design Engineering」（https://jsde.or.jp/wp/dfamcd2026/）
+  - 「English ←→ 日本語」（https://jsde.or.jp/wp/dfamcd2026/）
+  - 「日本設計工学会事務局 E-mail: jimukyoku@jsde.or.jp」（https://jsde.or.jp/wp/dfamcd2026/）
+  - 「3Dプリンティングで産業技術の未来を築く 日本3Dプリンティング産業技術協会」（https://3dprint.or.jp/dfam25/）
+  - 「日本語での正式名称は「付加製造」(JIS B9441)である」（https://3dprint.or.jp/dfam25/）
+  - 「・・・一般社団法人日本3Dプリンティング産業技術協会」（https://3dprint.or.jp/dfam25/）
+  - 「（一社）日本3Dプリンティング産業技術協会」（https://3dprint.or.jp/dfam25/）
+  - 「日本船舶海洋工学会」（https://3dprint.or.jp/dfam25/）
+  - 「公益社団法人日本鋳造工学会」（https://3dprint.or.jp/dfam25/）
+  - 「Copyright © 一般社団法人 日本3Dプリンティング産業技術協会. All rights reserved.」（https://3dprint.or.jp/dfam25/）
+- 検索結果の抜粋：
+  - 「DfAM とは？金属3Dプリンタの性能を引き出す設計と3DCAM ... — DfAM とは？金属3Dプリンタの性能を引き出す設計と3DCAM ... ものづくり研究所 https://monoken.yamazen.co.jp > yamazen > what-is-dfam」（https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/what-is-dfam）
+  - 「Design for Additive Manufacturing （ DfAM ）とComputational ... — Design for Additive Manufacturing （ DfAM ）とComputational ... 日本設計工学会 https://jsde.or.jp > dfamcd2026」（https://jsde.or.jp/wp/dfamcd2026/）
+  - 「アディティブ・マニュファクチャリング設計革新〜進化する ... — アディティブ・マニュファクチャリング設計革新〜進化する ... 日本 3Dプリンティング産業技術協会 https://3dprint.or.jp > dfam25」（https://3dprint.or.jp/dfam25/）
+- 自社名で出せる条件：記載なし（読んだ45頁・検索9回）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## wl-A DfAM（トポロジー最適化・AM向け形状生成）（DfAM generative design and topology optimization software）
+- 文脈：wl-A DfAM
+- 提供企業：
+  - 「Topology Optimization」（https://oqton.com/dfam/）
+  - 「Generative Design, Topology Optimization, Process Simulation, Hybrid DfAM: Dedicated tools for value-added engineering.」（https://oqton.com/dfam/）
+  - 「3DXpert can seamlessly import and work with hybrid CAD models derived from patient-specific anatomical data This allows for the creation of implants that precisely match a patient’s unique anatomy, leading to better fit, function, and surgical outcomes (e.g., custom cranial implants, joint replacements, surgical guides)」（https://oqton.com/dfam/）
+  - 「3DXpert supports polymer-based processes, as well as metal additive manufacturing. Oqton partners with all major powder bed machine vendors and more (3D Systems, EOS, SLM Solutions, Renishaw, Farsoon, HP, Xact Metal, Aconity3D, Freemelt, Colibrium Additive, Trumpf) to ensure smooth integration.」（https://oqton.com/dfam/）
+  - 「Articles and interviews with leading experts on computational design at all scales」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「from 2024, where a range of leading expert engineers, academics, and software developers shared their work around computational design, agnostic of manufacturing process, but still with a significant portion still focused on design for 3D Printing.」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「Topics ranged from the in depth optimization of a single high performance part, as seen in the」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「The process, from topology logic to mesh optimization, printing, postprocessing, and validation was driven by both physics and manufacturability.」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「Ole Sigmund is a world renowned professor at the Technical University of Denmark (DTU), where he has been one of the leading academic figures in the development of SIMP method (Solid Isotropic Material with Penalization) of topology optimisation.」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「topology optimization」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「His emphasis was on creating geometries that are both structurally efficient and manufacturable with additive processes, acknowledging the limitations of standard topology methods when applied to real world AM constraints.」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「On the topic of」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「AI in topology optimization」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「In his view, AI based methods for topology optimization still struggle to outperform classical, gradient based approaches, particularly in scenarios with complex boundary conditions or where physical insight is critical.」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「Bradley Rothenberg & Markus Lempke – Siemens Energy & nTop」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+- 自社名で出せる条件：
+  - 「]. With the end of some Original Equipment Manufacturing (OEM) patent protection, plus the attention that the market is starting to show, shortly, technology will become more effective and independent of additional processes to get the same finishing as traditional manufacturing processes [」（https://www.intechopen.com/chapters/1195962）
+  - 「Embedded conduits: Design integrated channels/paths within parts for applications like conformal cooling inserts, fluid manifolds, turbine blades with enclosed piping. This improves thermal/fluid control.」（https://www.unionfab.com/blog/2023/11/dfam-design-for-additive-manufacturing）
+  - 「Embedded electronics: PM techniques now allow for circuitry/wiring to be incorporated within 3D printed parts for applications like IoT sensors, smart prosthetics.」（https://www.unionfab.com/blog/2023/11/dfam-design-for-additive-manufacturing）
+- 再販制度：
+  - 「Iterate quickly to explore various options until achieving the desired result」（https://oqton.com/dfam/）
+  - 「Lattices allow for significant weight reduction while maintaining or even improving mechanical properties. 3DXpert enables engineers to optimize these lattice designs, including variable densities and cell sizes, to match the biomechanical properties of the surrounding bone, reducing stress shielding」（https://oqton.com/dfam/）
+  - 「The platform allows engineers to assign spatially varying manufacturing parameters such as scan speed, laser power, or layer height within a fixed geometry. These volumetric process allocations can be optimized to balance competing objectives like mechanical performance, thermal response, and production cost, without altering the part’s shape.」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「This capability makes it possible to simulate, optimize, and manufacture components in a tightly integrated workflow. Applications in aerospace and electronics included cost optimized titanium brackets and thermal management components, where performance tuning was achieved entirely through process parameter variation rather than geometric redesign.」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「Andre advocated for robust topology optimization with uncertainty quantification (UQ) to de-risk AM adoption, highlighting the need for design methods that account for real world variability in loads, boundary conditions, and material properties.」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「Aeroforms – Zinab Eisa & Esha Morakhiya – Harvard University」（https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/）
+  - 「One key feature is the ability to create intricate geometries that are challenging or even impossible through traditional methods, allowing for lightweight, high-performance designs. It also enables customized products tailored to user needs and design optimization through variable densities and internal structures.」（https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/）
+  - 「Designing for additive manufacturing (DfAM) offers various benefits, including lighter, higher-performing designs, mass customization, reduced material wastage, simplified supply chains, and aesthetically pleasing organic appearances. DfAM also enables cost savings, improved functional performance, and the creation of complex geometries challenging to achieve with traditional methods.」（https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/）
+  - 「and design outcomes varied significantly based on DFAM training received」（https://mys.mapyourshow.com/mys_shared/imtsspark/handouts/Tim_Simpson.pdf）
+  - 「Founded in 2015, nTopology has proven itself to be one of the major players in the generative design space. The company’s advanced algorithms are trusted and leveraged by a wide variety of manufacturing firms, including」（https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/）
+  - 「Material property variability.」（https://www.getleo.ai/blog/best-generative-design-tools-additive-manufacturing）
+  - 「Reseller Partners」（https://revolutioninsimulation.org/generative-design/）
+  - 「Alkaios Bournias Varotsis」（https://revolutioninsimulation.org/generative-design/）
+  - 「Gao, Wei; Zhang, Yunbo; Ramanujan, Devarajan; Ramani, Karthik; Chen, Yong; Williams, Christopher B.; Wang, Charlie C.L.; Shin, Yung C.; Zhang, Song; Zavattieri, Pablo D. (December 2015). "The status, challenges, and future of additive manufacturing in engineering".」（https://en.wikipedia.org/wiki/Design_for_Additive_Manufacturing）
+  - 「Yavari, M. Reza; Cole, Kevin D.; Rao, Prahalada K. (2019).」（https://en.wikipedia.org/wiki/Design_for_Additive_Manufacturing）
+- 黒字・収益性：
+  - 「, a non-profit organization.」（https://en.wikipedia.org/wiki/Design_for_Additive_Manufacturing）
+  - 「the DfAM business case comes down to three numbers: the unit-volume break-even point where AM starts to beat injection molding (typically in the low hundreds to low thousands of units, depending on part complexity), the lead-time advantage from eliminating tooling (commonly a 2–8 week savings), and the inventory savings from digital, on-demand manufacturing that removes warehousing costs entirely.」（https://jlc3dp.com/blog/design-for-additive-manufacturing）
+- 売上：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/）
+  - 「© 2026 Arrowfly LLC. All Rights Reserved.」（https://www.engineering.com/leading-generative-design-company-ntopology-gets-65-million-booster-shot/）
+  - 「Maskery I, Aremu AO, Parry L, Wildman RD, Tuck CJ, Ashcroft IA. Effective design and simulation of surface-based lattice structures featuring volume fraction and cell type grading. Mater Design. 2018;」（https://www.intechopen.com/chapters/1195962）
+  - 「Leary M, Downing D, Lozanovski B, Harris J. 5 - Design principles. In: Yadroitsev I, Yadroitsava I, du Plessis A, MacDonald E, editors. Fundamentals of Laser Powder Bed Fusion of Metals. Elsevier; 2021. pp. 91-119, 165-184. DOI: 10.1016/C2017-0-04238-6」（https://www.intechopen.com/chapters/1195962）
+- 価格：
+  - 「Upload your file to JLC3DP for a manufacturability and pricing check.」（https://jlc3dp.com/blog/design-for-additive-manufacturing）
+- 日本対応：
+  - 「3DXpert supports the following languages: English, German, Chinese, Korean, Japanese.」（https://oqton.com/dfam/）
+  - 「日本語では「付加製造のための設計」と訳されますが、実態としては「AMを使うために図面を書き直す」という受動的なものではありません」（https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/what-is-dfam）
+  - 「3Dプリンティングで産業技術の未来を築く 日本3Dプリンティング産業技術協会」（https://3dprint.or.jp/dfam25/）
+  - 「日本語での正式名称は「付加製造」(JIS B9441)である」（https://3dprint.or.jp/dfam25/）
+  - 「・・・一般社団法人日本3Dプリンティング産業技術協会」（https://3dprint.or.jp/dfam25/）
+  - 「（一社）日本3Dプリンティング産業技術協会」（https://3dprint.or.jp/dfam25/）
+  - 「日本船舶海洋工学会」（https://3dprint.or.jp/dfam25/）
+  - 「公益社団法人日本鋳造工学会」（https://3dprint.or.jp/dfam25/）
+  - 「Copyright © 一般社団法人 日本3Dプリンティング産業技術協会. All rights reserved.」（https://3dprint.or.jp/dfam25/）
+- 検索結果の抜粋：
+  - 「3Dプリンティング（ トポロジー最適化 ・ DfAM 活用）が実現 ... — 3Dプリンティング（ トポロジー最適化 ・ DfAM 活用）が実現 ... SOLIZE PARTNERS株式会社 https://partners.solize.com > TOP > 全ての記事」（https://partners.solize.com/column/3dprinter/031）
+
+## wl-B 図面読み取り（2D図面AI解析）（AI engineering drawing recognition software）
+- 文脈：wl-B 図面読み取り
+- 提供企業：
+  - 「Your ERP doesn't speak JSON-from-someone-else's-schema. We build a custom output profile that returns exactly the fields your system expects — plus special extractions where the standard SKUs stop.」（https://werk24.io/）
+  - 「Christoph B. Roessner & Adrian Raidt」（https://werk24.io/）
+  - 「Take a look at platforms like Clutch, Manifest, Upwork and Goodfirms to read client reviews and testimonials to get a better idea of past company projects and overall customer satisfaction,」（https://www.businesswaretech.com/blog/feature-extraction-from-complex-engineering-drawings-with-ai）
+  - 「Analyze the size of the vendor as large companies are more likely to have enough resources to provide a dedicated team for your project when compared to smaller vendors,」（https://www.businesswaretech.com/blog/feature-extraction-from-complex-engineering-drawings-with-ai）
+  - 「Take a look at a company’s portfolio on their website, platforms like Clutch or Goodfirms, or ask the provider directly for a portfolio of successfully delivered computer vision projects,」（https://www.businesswaretech.com/blog/feature-extraction-from-complex-engineering-drawings-with-ai）
+  - 「Businessware Technologies is a reliable AI development vendor: it has been recognised as one of the top software development companies by」（https://www.businesswaretech.com/blog/feature-extraction-from-complex-engineering-drawings-with-ai）
+  - 「Top Rated Plus agency Upwork」（https://www.businesswaretech.com/blog/feature-extraction-from-complex-engineering-drawings-with-ai）
+  - 「Specialist extraction vendors」（https://dac.digital/can-ai-read-engineering-drawings/）
+  - 「For European manufacturers, a few of the strongest drawing-reading vendors are based in the region and built around GDPR from the start. So data residency does not have to be a trade-off against capability.」（https://dac.digital/can-ai-read-engineering-drawings/）
+  - 「AI reads drawings well, and knowing where it stops keeps a project grounded:」（https://dac.digital/can-ai-read-engineering-drawings/）
+  - 「Technical formats like spreadsheets, tables, invoices, and engineering drawings are at the core of industries ranging from finance to manufacturing. Can today’s top AI models actually handle them?」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「All top-performing models, including」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「Both visual clutter and semantic ambiguity (like interpreting tolerances) remain hard problems, even for top-tier models.」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「Top All-Around Models (Strong in Both Domains)」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「The default cap is half the plan fee. A cap of €0 means a fixed invoice: uploads stop at your included pages.」（https://werk24.io/pricing）
+- 自社名で出せる条件：
+  - 「Quality teams — suppliers & OEMs」（https://werk24.io/）
+  - 「Suppliers auto-balloon drawings and certify AS9102 / FAIR reports in minutes. OEMs request them across their supplier base and collect approved, tamper-evident results in one place.」（https://werk24.io/）
+  - 「Sheet rebranding — anonymize & restyle drawings to your template」（https://werk24.io/）
+  - 「Embedded in Manufacturing」（https://dac.digital/can-ai-read-engineering-drawings/）
+  - 「Embedded Engineer」（https://dac.digital/can-ai-read-engineering-drawings/）
+  - 「Embedded Systems」（https://dac.digital/can-ai-read-engineering-drawings/）
+  - 「Mixed unit types and embedded metadata」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+- 再販制度：
+  - 「A numbered note in the margin carries the maximum, tolerance or material that governs a dimension printed elsewhere on the sheet.」（https://landing.ai/document-type/engineering-drawing）
+  - 「Applies multi-step reasoning, and plans before it acts. Handles documents it has never seen before and adapts to variations.」（https://landing.ai/document-type/engineering-drawing）
+  - 「Extracting engineering drawing features most often includes detecting geometric dimensioning and tolerancing annotations, which include both text and special symbols. Given their variable positioning, including rotation, and multiple data types, the process of detecting and extracting GD&T annotation includes multiple steps.」（https://www.businesswaretech.com/blog/feature-extraction-from-complex-engineering-drawings-with-ai）
+  - 「The abundance of special symbols used in any technical drawing, like diameter symbols and leader arrows, variable drawing layout and a complex nature of multipage technical drawings makes this project a real challenge.」（https://www.businesswaretech.com/case-studies/feature-extraction-system-for-engineering-drawings）
+  - 「In engineering drawings, hatchings are used to indicate materials. Complex parts often consist of various materials, which need to be taken into consideration when preparing a quote.」（https://www.businesswaretech.com/case-studies/feature-extraction-system-for-engineering-drawings）
+  - 「Our technical drawing processing system is capable of detecting various types of hatchings and interpreting them.」（https://www.businesswaretech.com/case-studies/feature-extraction-system-for-engineering-drawings）
+  - 「other models in both table and drawing tasks, though its Pro variant comes with a steep latency and cost trade-off.」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「GPT-4o's performance varied wildly」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「The real-world application of detection models often introduces variability: a single inference may catch some details but miss others. This raises a compelling question—can running a document through a model multiple times and consolidating outputs improve detection reliability?」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「Overall behavior points to high per-run variability: many detections (both TP and FP) appear inconsistently across runs, so」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「Precision changes are small, indicating false positives are not hugely frequent or are similarly variable.」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「Stability vs variability:」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「Models that are stable per-run (Gemini Pro) are little affected by majority consolidation; models with variable per-run outputs (GPT o3, Sonnet 4) are more sensitive and can suffer recall losses under strict majority voting.」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「Use single-run or a lower consolidation threshold when recall is prioritized or when a model shows high per-run variability. Use majority voting or a stricter threshold when precision is paramount and the model is reasonably stable.」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「on certain samples, suggesting lighter variants may be better tuned for specific formats or latency constraints.」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+- 売上：
+  - 「Every drawing is encrypted at rest under a Werk24-managed key; this is how narrowly the key is scoped beyond that. End-to-end, one key opens one drawing and only you hold it, so after the read we cannot open the drawing or the result files. You can still allow unreadable strings and feature crops in the data settings; they are taken during the read.」（https://werk24.io/pricing）
+- 価格：
+  - 「AI For Construction Drawings: Review Of Pricing and Accuracy Rates in 2025」（https://www.businesswaretech.com/blog/benchmarking-ai-on-tables-and-engineering-drawings-results-findings）
+  - 「Pricing | Werk24 — PMI Extraction & RFQ Feasibility」（https://werk24.io/pricing）
+- 日本対応：
+  - 「日本語・英語の両対応Webアプリケーション化も可能です」（https://renue.co.jp/services/drawing-ai）
+- 黒字・収益性：記載なし（読んだ45頁・検索9回）
+
+## wl-B 図面読み取り（図面→見積の自動化）（drawing-based automatic quoting software）
+- 文脈：wl-B 図面読み取り
+- 提供企業：
+  - 「six leading European digital CNC platforms」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+  - 「The Topic in a Nutshell」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+  - 「Rapid Machining tolerance (±0.1 mm) is less tight than competitors for precision applications」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+  - 「CNC Instant Quote Comparison: Europe’s Leading Platforms Tested for Price, Speed and Accuracy」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+  - 「Manage {vendor_count} vendors」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+- 再販制度：
+  - 「Varies」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+  - 「MakerVerse by a clear margin. With over 150 materials and 30+ finishes, it offers the widest selection of any digital CNC platform in Europe. No other platform in this comparison comes close for buyers dealing with mixed material orders or non-standard alloys.」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+  - 「Three quotes land on your desk for the same bracket: one from a CNC shop, one from an SLS bureau, and one from a moulder. The headline prices vary wildly,」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+- 売上：
+  - 「Material range (60+) narrower than MakerVerse (150+) or Xometry」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+- 価格：
+  - 「Instant online quote; flexible lead-time pricing with discounts for the 6–12 day window.」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+  - 「No instant quote — 48-hour turnaround for pricing; less suitable for rapid iteration」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+  - 「Quote within 48 hours; framework pricing for series production.」（https://www.makerverse.com/resources/best-cnc-machining-services-europe/）
+- 自社名で出せる条件：記載なし（読んだ45頁・検索9回）
+- 黒字・収益性：記載なし（読んだ45頁・検索9回）
+- 日本対応：記載なし（読んだ45頁・検索9回）
+
+## wl-C 3D CAD（自然言語→3D CAD生成AI）（text-to-CAD AI software）
+- 文脈：wl-C 3D CAD
+- 提供企業：
+  - 「The strength: it can produce complex organic shapes that would be difficult to describe procedurally. The weakness: mesh output is not parametric. You cannot edit features, drive dimensions, or create proper engineering drawings. For prototyping and visualization, this works. For production engineering, the lack of parametric control is a hard stop for most workflows.」（https://www.getleo.ai/blog/how-text-to-cad-works）
+  - 「Knurled 25 mm knob for a 6 mm D-shaft, with a pointer line on top and an optional M3 set screw.」（https://buildcad.ai/）
+  - 「One-piece 250 mm desk stand with a wide curved top for over-ear headphones and a broad flat base.」（https://buildcad.ai/）
+  - 「AI CAD software uses artificial intelligence to automate and enhance the computer-aided design process. BuildCAD AI is a cloud-based web app where an AI agent builds 3D CAD models from your descriptions, lets you tweak them with sliders, and exports STEP files for your favorite desktop CAD tools.」（https://buildcad.ai/）
+  - 「BuildCAD AI doesn't replace your desktop CAD tools. It accelerates the design phase. Use the AI agent to generate initial concepts 10x faster in the cloud, tweak them with sliders, then export STEP to SolidWorks, Fusion 360 or Onshape for final refinement.」（https://buildcad.ai/）
+  - 「The best text-to-CAD API tools for developer integration in 2026 are led by Zoo.dev for geometry generation, with code-generation APIs from Claude and OpenAI providing flexible alternatives. The choice depends on whether you need direct geometry output or scriptable parametric code.」（https://www.getleo.ai/blog/best-text-to-cad-api-tools）
+  - 「STL files contain triangulated mesh geometry. They are universally supported for 3D printing but lack the topological information needed for parametric editing. Most text-to-CAD APIs support STL output. It is useful for visualization and additive manufacturing but insufficient for most engineering workflows.」（https://www.getleo.ai/blog/best-text-to-cad-api-tools）
+  - 「Zoo.dev offers the most mature dedicated text-to-CAD API with STEP output support. For code-generation approaches, Claude and OpenAI APIs producing CadQuery code provide flexible alternatives with parametric output capability.」（https://www.getleo.ai/blog/best-text-to-cad-api-tools）
+  - 「a highly detailed CAD design of a complex mechanical part, featuring precise dimensions, clean linework, multiple orthographic views (top, side, isometric), technical drawing style combined with 3D rendering」（https://www.dzine.ai/tools/text-to-cad-ai/）
+  - 「a professional CAD floor plan of a modern house, showing rooms, furniture layout, walls, doors, and windows, clean vector lines, top-down architectural blueprint style」（https://www.dzine.ai/tools/text-to-cad-ai/）
+  - 「a high-precision CAD design of a car, showing wireframe and solid model combined, transparent body revealing internal structure, clean topology lines, engineering-grade detailing」（https://www.dzine.ai/tools/text-to-cad-ai/）
+  - 「Guides and topics」（https://textocad.com/）
+  - 「Doesn't stop there.」（https://ragnar.build/）
+  - 「Most AI CAD tools stop at the model. Ragnar keeps going, the way an engineer would: once the model exists, it answers the questions that come next, so you can improve the design before you build it.」（https://ragnar.build/）
+  - 「Leo AI offers a starting point for teams that want the intelligence layer alongside their existing design tools, with SOC-2 certification and integrations with leading PDM and PLM platforms already in place.」（https://www.getleo.ai/blog/best-text-to-cad-tools-2026）
+- 自社名で出せる条件：
+  - 「Dimensions may be approximately right but not precisely right. Features may be geometrically valid but not manufacturable. Material and tolerance information is not embedded in the geometry. Interface dimensions with mating components are not guaranteed.」（https://www.getleo.ai/blog/best-text-to-cad-api-tools）
+  - 「Deeply embedded in the broader Autodesk software ecosystem.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+- 再販制度：
+  - 「Every text-to-CAD system follows some version of the same pipeline, even if the implementation details vary. Here is what happens under the hood.」（https://www.getleo.ai/blog/how-text-to-cad-works）
+  - 「Projects like OpenSCAD with AI wrappers and various community-built tools allow text-to-CAD generation through scripted geometry. These are often free but require programming knowledge and produce less polished results than commercial offerings.」（https://www.getleo.ai/blog/best-text-to-cad-tools-2026）
+  - 「Security varies significantly between platforms. Before using any text-to-CAD tool with proprietary design data, verify SOC-2 certification, data handling policies, and whether your inputs are used for model training.」（https://www.getleo.ai/blog/best-text-to-cad-tools-2026）
+  - 「In their paper, they introduced a two-stage data annotation pipeline and architecture that transforms natural language instructions into sequential CAD models. They said the framework outperformed existing baseline models, but said refinements are needed to handle more complex and varied text descriptions.」（https://mikekalil.com/blog/ai-driven-text-to-cad/）
+  - 「Generates standard 4-quadrant variations per execution cycle.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「, the platform handles standard geometric shapes efficiently, adjusting features to prevent obvious wall-thickness errors. Users can quickly visualize variations of structural enclosures before moving to a dedicated workstation tool.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Features batch texturing and variant processing options.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Fast texture generation that simplifies visual variant exploration.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Choose engines that respect basic structural symmetry and physical logic over purely artistic variations.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Using clear product requirements descriptions (PRDs) alongside strict structural descriptors helps maintain consistency across multiple generations. RapidDirect AI Creator simplifies this by using an AI engine to structure your text specs alongside your visual variations.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Vondy's AI CAD Generator focuses on rapid iteration and conceptual design, making it popular among product designers and industrial designers who need to explore multiple variations quickly. CADScribe emphasizes technical drawing generation from textual specifications, targeting mechanical engineers who work primarily in 2D drafting.」（https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/）
+  - 「Zoo AI Pro ($15.90/month) and Adam AI Pro (pricing varies with unlimited generations during trial) serve small businesses and individual professionals. These plans typically remove generation limits and add priority processing, advanced features, or higher-resolution outputs.」（https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/）
+  - 「Price Variance:」（https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/）
+  - 「Analysis shows a 33X price difference between the most affordable and most expensive platforms when normalized for usage volume. This dramatic variance makes careful evaluation essential. For users needing large volumes of generations, specialized text-to-CAD tools offer significantly better value than traditional software with AI features added.」（https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/）
+  - 「Most platforms offer trial periods or limited free tiers, allowing users to test capabilities before committing. This trial-first approach is recommended given the variability in output quality and the importance of finding a tool that matches specific use cases and prompt styles.」（https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/）
+- 黒字・収益性：
+  - 「Nonprofits」（https://github.com/earthtojake/text-to-cad）
+- 売上：
+  - 「This rapid generation is particularly valuable during the conceptual design phase when exploring multiple layout options. Architects can generate 5-10 variations in the time it would traditionally take to draft one, allowing more thorough exploration of spatial arrangements before committing to detailed development.」（https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/）
+- 価格：
+  - 「07 · Pricing」（https://ragnar.build/）
+  - 「Users get 40 free minutes per month. Additional usage is billed at 50 cents per minute.」（https://mikekalil.com/blog/ai-driven-text-to-cad/）
+  - 「Free tier (20 credits); Pro at $99/month」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Standard tier at $9.99/month」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「YesChat Pro from $8/month」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「From $49/month」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Free tier; Pro from $10/month」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「$315/month」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Free tier available; Pro plans cost $99/month.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Standard tier priced at $9.99/month; Professional tier is $29.99/month.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Included in platform access starting at $8/month.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「7-day evaluation access; professional commercial tiers start at $49/month.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Free trial tier; commercial tiers start at $10/month.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「$315/month, also available within select industry collections.」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「3. Pricing & Plans Comparison」（https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/）
+- 検索結果の抜粋：
+  - 「AI Text -to- CAD add-in for Fusion 360!? Thoughts? - Reddit — AI Text -to- CAD add-in for Fusion 360!? Thoughts? - Reddit Reddit https://www.reddit.com > comments > ai_texttocad_addin...」（https://www.reddit.com/r/MechanicalEngineering/comments/1fz270z/ai_texttocad_addin_for_fusion_360_thoughts/）
+  - 「Best Text -to- CAD Tools in 2026: From Prompt to 3D Model — Best Text -to- CAD Tools in 2026: From Prompt to 3D Model simutecra.com https://simutecra.com > Blog」（https://simutecra.com/blogs/text-to-cad-ai-product-design）
+  - 「Best 8 AI CAD Tools 2026 we tested | Text to CAD - RapidDirect — Best 8 AI CAD Tools 2026 we tested | Text to CAD - RapidDirect RapidDirect https://www.rapiddirect.com > blog」（https://www.rapiddirect.com/blog/best-ai-cad-tools-review/）
+  - 「Text to CAD と図面の 3D 化を検証してわかった、できること ... — Text to CAD と図面の 3D 化を検証してわかった、できること ... 株式会社WOGO https://www.wogo.ai > コラム」（https://www.wogo.ai/column/ai-cad-text-to-cad/）
+- 日本対応：記載なし（読んだ45頁・検索9回）
+
+## wl-C 3D CAD（2D図面→3Dモデル変換）（2D drawing to 3D model conversion software）
+- 文脈：wl-C 3D CAD
+- 提供企業：
+  - 「Topology」（https://www.meshy.ai/ja/tutorials/sketch-to-3d）
+  - 「Retopology」（https://www.meshy.ai/ja/tutorials/sketch-to-3d）
+  - 「World leading CAD 2D and 3D solutions」（https://www.3ds.com/store/cad/2d-drawing-3d-model）
+  - 「Better visualization and automated checks, such as clash detection, greatly reduce the likelihood of costly design mistakes being discovered late in the development cycle. By allowing comprehensive design validation through simulation, the need for multiple expensive physical prototypes is minimized, leading to faster development cycles and lower overall costs.」（https://www.zwsoft.com/user-guide/convert-2d-drawings-to-3d-models-in-zw3d）
+  - 「We provide industry-leading design results at unbeatable and highly affordable prices.」（https://caddrafter.us/2d-to-3d-cad-conversion-services/）
+  - 「On top of that, each project at our company is overseen by international standards.」（https://caddrafter.us/2d-to-3d-cad-conversion-services/）
+  - 「Scroll to top」（https://caddrafter.us/2d-to-3d-cad-conversion-services/）
+  - 「We utilize industry-leading CAD software such as AutoCAD, SolidWorks, Fusion 360, or CATIA for conversion. Our experts are proficient in these tools and can efficiently convert your 2D drawings into precise and detailed 3D models.」（https://www.managedoutsource.com/services/2d-to-3d-cad-conversion/）
+  - 「Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.」（https://www.managedoutsource.com/services/2d-to-3d-cad-conversion/）
+  - 「Top AI Tools for 2D CAD Conversion」（https://www.style3d.com/blog/best-ai-tools-for-converting-2d-cad-to-3d-models-in-2026/）
+  - 「Hybrid AI-human refinement for clean topology」（https://www.style3d.com/blog/best-ai-tools-for-converting-2d-cad-to-3d-models-in-2026/）
+  - 「These top 2D to 3D AI converters prioritize accuracy in handling DXF or DWG formats, making them essential for professionals seeking the best software for 2D CAD to 3D conversion.」（https://www.style3d.com/blog/best-ai-tools-for-converting-2d-cad-to-3d-models-in-2026/）
+  - 「Optimized topology」（https://www.style3d.com/blog/best-ai-tools-for-converting-2d-cad-to-3d-models-in-2026/）
+  - 「Start by assessing input needs—whether 2D CAD to 3D STL export or sketch-based generation. Prioritize tools with API integration for batch processing of 2D designs into 3D assets. Test free trials of top-rated AI 2D plan to 3D converters to match your workflow, focusing on mesh quality for downstream uses like CNC machining.」（https://www.style3d.com/blog/best-ai-tools-for-converting-2d-cad-to-3d-models-in-2026/）
+  - 「Yes, platforms like Meshy AI offer freemium options for basic 2D image to 3D model tasks, though premium plans unlock parametric editing.」（https://www.style3d.com/blog/best-ai-tools-for-converting-2d-cad-to-3d-models-in-2026/）
+- 自社名で出せる条件：
+  - 「OEM/ODM」（https://ideagroupvn.com/2d-zumen-kara-3d-modeling/）
+  - 「Windows Embedded」（https://monoist.itmedia.co.jp/mn/articles/2610/08/news012.html）
+- 再販制度：
+  - 「DraftSight can import and export a variety of file formats, including DWG, DXF, and PDF, making it easy to work with other software and share designs with colleagues and clients.」（https://www.3ds.com/store/cad/2d-drawing-3d-model）
+  - 「on the cloud gives you access to a various set of applications that allow you to design, simulate, inform and collaborate on a project.」（https://www.3ds.com/store/cad/2d-drawing-3d-model）
+  - 「Yes, it is possible to turn a 2D image into a 3D model using various software and online tools. The process often involves the use of」（https://www.3ds.com/store/cad/2d-drawing-3d-model）
+  - 「Resellers」（https://www.zwsoft.com/user-guide/convert-2d-drawings-to-3d-models-in-zw3d）
+  - 「Reseller Locator」（https://www.zwsoft.com/user-guide/convert-2d-drawings-to-3d-models-in-zw3d）
+  - 「Become a Reseller」（https://www.zwsoft.com/user-guide/convert-2d-drawings-to-3d-models-in-zw3d）
+  - 「It would help if you trusted us with your 2-dimensional to 3-dimensional CAD conversion needs. We offer various 2D drawing to 3D model conversion services, including the following.」（https://caddrafter.us/2d-to-3d-cad-conversion-services/）
+  - 「We have worked on various design and drafting projects till now. With the help of our expert designer and engineering team, we’ve always been able to deliver work with excellence. Are you thinking of hiring our services, but feeling hesitant? No worries. Check our client reviews below.」（https://caddrafter.us/2d-to-3d-cad-conversion-services/）
+  - 「We work with the best software to ensure accurate conversion of your ideas, sketches and drawing concepts to 3D. Our conversion processes adhere to the highest CAD standards in the industry, ensuring optimal quality and accuracy. Based on the needs of your project, we can deliver output in various formats such as:」（https://www.managedoutsource.com/services/2d-to-3d-cad-conversion/）
+  - 「At MOS, we support the conversion of various file formats, including but not limited to PDF, TIFF, JPEG, DWG, and DXF. Our experienced CAD professionals can convert your files into accurate and high-quality 3D models.」（https://www.managedoutsource.com/services/2d-to-3d-cad-conversion/）
+- 価格：
+  - 「$10/month」（https://www.style3d.com/blog/best-ai-tools-for-converting-2d-cad-to-3d-models-in-2026/）
+  - 「and similar services let you upload a CAD file and get a price and lead time back, often within minutes, with no email thread and no waiting on a quote. Their pricing engines read 3D geometry.」（https://www.partwork.ai/blog/2d-drawing-to-3d-model/）
+- 日本対応：
+  - 「IDEAでは、日本語対応可能なエンジニアが常駐し、高品質・短納期・情報管理を徹底した3Dモデリングサービスを提供しております」（https://ideagroupvn.com/2d-zumen-kara-3d-modeling/）
+  - 「ベトナム国内の子会社は２社、日本と米国に各１社子会社を展開しています」（https://ideagroupvn.com/2d-zumen-kara-3d-modeling/）
+  - 「〒600-8865, 38-2 Shichi Jogosho No Uchinishimachi, Shimogyo-Ku, Kyoto, Japan」（https://ideagroupvn.com/2d-zumen-kara-3d-modeling/）
+  - 「機械設計・自動化設備のパートナーをお探しですか？設計支援から設備製作まで、IDEA が日本品質でサポートいたします」（https://ideagroupvn.com/2d-zumen-kara-3d-modeling/）
+  - 「日本ものづくりワールド」（https://monoist.itmedia.co.jp/mn/articles/2610/08/news012.html）
+  - 「同機能は、日本の製図規格（JIS）に沿ってAIが図面を読み取り、見積書の作成や2D図面から3D図面への変換を行う」（https://monoist.itmedia.co.jp/mn/articles/2610/08/news012.html）
+  - 「bestatは、製造業や土木の現場における3Dデータ活用を推進するため、Artec 3D Japanと業務連携を開始した」（https://monoist.itmedia.co.jp/mn/articles/2610/08/news012.html）
+  - 「AI導入から成果創出へ デル・テクノロジーズ新社長が示す日本市場の事業戦略」（https://monoist.itmedia.co.jp/mn/articles/2610/08/news012.html）
+- 検索結果の抜粋：
+  - 「Sketch to 3D Converter — Drawing to 3D Model Free - Meshy AI — Sketch to 3D Converter — Drawing to 3D Model Free - Meshy AI Meshy https://www.meshy.ai > 3D Tools」（https://www.meshy.ai/3d-tools/sketch-to-3d-converter）
+  - 「驚くほど簡単！ 図面 から 3Dモデル 作成のご紹介 ... - YouTube — 驚くほど簡単！ 図面 から 3Dモデル 作成のご紹介 ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=jUh2fhV3YMY）
+  - 「2D図面 から 3D モデリング 変換 のメリットと注意点【設計現場 ... — 2D図面 から 3D モデリング 変換 のメリットと注意点【設計現場 ... ideagroupvn.com https://ideagroupvn.com > ニュース」（https://ideagroupvn.com/2d-zumen-kara-3d-modeling/）
+  - 「2D図面 から 3D CADモデル を自動生成、AIエージェント開発 ... — 2D図面 から 3D CADモデル を自動生成、AIエージェント開発 ... MONOist https://monoist.itmedia.co.jp > articles > news012」（https://monoist.itmedia.co.jp/mn/articles/2610/08/news012.html）
+- 黒字・収益性：記載なし（読んだ45頁・検索9回）
+- 売上：記載なし（読んだ45頁・検索9回）
+
+## wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）（embeddable browser CAD SDK）
+- 文脈：wl-C 3D CAD
+- 提供企業：記載なし（読んだ45頁・検索9回）
+- 自社名で出せる条件：記載なし（読んだ45頁・検索9回）
+- 再販制度：記載なし（読んだ45頁・検索9回）
+- 黒字・収益性：記載なし（読んだ45頁・検索9回）
+- 売上：記載なし（読んだ45頁・検索9回）
+- 価格：記載なし（読んだ45頁・検索9回）
+- 日本対応：記載なし（読んだ45頁・検索9回）

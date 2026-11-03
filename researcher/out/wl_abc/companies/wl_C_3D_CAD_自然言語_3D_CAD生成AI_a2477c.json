@@ -1,0 +1,821 @@
+{
+ "name": "wl-C 3D CAD（自然言語→3D CAD生成AI）",
+ "en": "text-to-CAD AI software",
+ "aliases": [
+  "text to CAD",
+  "AI CAD generation",
+  "generative CAD",
+  "natural language CAD",
+  "prompt to 3D model",
+  "テキストからCAD",
+  "自然言語CAD"
+ ],
+ "context": "wl-C 3D CAD",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:29:20.114842+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "The strength: it can produce complex organic shapes that would be difficult to describe procedurally. The weakness: mesh output is not parametric. You cannot edit features, drive dimensions, or create proper engineering drawings. For prototyping and visualization, this works. For production engineering, the lack of parametric control is a hard stop for most workflows.",
+    "url": "https://www.getleo.ai/blog/how-text-to-cad-works",
+    "pass": 3
+   },
+   {
+    "quote": "Knurled 25 mm knob for a 6 mm D-shaft, with a pointer line on top and an optional M3 set screw.",
+    "url": "https://buildcad.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "One-piece 250 mm desk stand with a wide curved top for over-ear headphones and a broad flat base.",
+    "url": "https://buildcad.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI CAD software uses artificial intelligence to automate and enhance the computer-aided design process. BuildCAD AI is a cloud-based web app where an AI agent builds 3D CAD models from your descriptions, lets you tweak them with sliders, and exports STEP files for your favorite desktop CAD tools.",
+    "url": "https://buildcad.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "BuildCAD AI doesn't replace your desktop CAD tools. It accelerates the design phase. Use the AI agent to generate initial concepts 10x faster in the cloud, tweak them with sliders, then export STEP to SolidWorks, Fusion 360 or Onshape for final refinement.",
+    "url": "https://buildcad.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The best text-to-CAD API tools for developer integration in 2026 are led by Zoo.dev for geometry generation, with code-generation APIs from Claude and OpenAI providing flexible alternatives. The choice depends on whether you need direct geometry output or scriptable parametric code.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "pass": 3
+   },
+   {
+    "quote": "STL files contain triangulated mesh geometry. They are universally supported for 3D printing but lack the topological information needed for parametric editing. Most text-to-CAD APIs support STL output. It is useful for visualization and additive manufacturing but insufficient for most engineering workflows.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Zoo.dev offers the most mature dedicated text-to-CAD API with STEP output support. For code-generation approaches, Claude and OpenAI APIs producing CadQuery code provide flexible alternatives with parametric output capability.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "pass": 3
+   },
+   {
+    "quote": "a highly detailed CAD design of a complex mechanical part, featuring precise dimensions, clean linework, multiple orthographic views (top, side, isometric), technical drawing style combined with 3D rendering",
+    "url": "https://www.dzine.ai/tools/text-to-cad-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "a professional CAD floor plan of a modern house, showing rooms, furniture layout, walls, doors, and windows, clean vector lines, top-down architectural blueprint style",
+    "url": "https://www.dzine.ai/tools/text-to-cad-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "a high-precision CAD design of a car, showing wireframe and solid model combined, transparent body revealing internal structure, clean topology lines, engineering-grade detailing",
+    "url": "https://www.dzine.ai/tools/text-to-cad-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Guides and topics",
+    "url": "https://textocad.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Doesn't stop there.",
+    "url": "https://ragnar.build/",
+    "pass": 3
+   },
+   {
+    "quote": "Most AI CAD tools stop at the model. Ragnar keeps going, the way an engineer would: once the model exists, it answers the questions that come next, so you can improve the design before you build it.",
+    "url": "https://ragnar.build/",
+    "pass": 3
+   },
+   {
+    "quote": "Leo AI offers a starting point for teams that want the intelligence layer alongside their existing design tools, with SOC-2 certification and integrations with leading PDM and PLM platforms already in place.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-tools-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The AI-driven CAD design tool uses machine learning to interpret prompts and generate editable 3D files. The outputs can be imported into popular platforms like SolidWorks, Autodesk Fusion 360 , Free CAD, Onshape, and Blender. For now, the tool works best with single objects, not complicated groupings of parts.",
+    "url": "https://mikekalil.com/blog/ai-driven-text-to-cad/",
+    "pass": 3
+   },
+   {
+    "quote": "Platforms like Autodesk Fusion 360 and SolidWorks allow users to script designs. However, this requires expertise in programming and a solid understanding of the software’s scripting environment.",
+    "url": "https://mikekalil.com/blog/ai-driven-text-to-cad/",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://mikekalil.com/blog/ai-driven-text-to-cad/",
+    "pass": 3
+   },
+   {
+    "quote": "A one-stop product innovation service covering design, prototyping, mass production, and packaging.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Deep Dives: Top AI CAD and Visualization Tools",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Lacks a dedicated desktop application for local offline computing workflows.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid targets downstream production preparation by transforming existing 3D solid representations into detailed 2D layouts. The engine scans component topologies to place standard orthographic projections, cross-sections, and primary dimensions automatically. This focus addresses a major bottleneck in manufacturing documentation workflows.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "If a bend stops in the middle of a part and the metal carries on, the flange will tear at...",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how AI-powered text-to-CAD tools transform natural language into precise CAD models. Compare leading platforms, explore features, and understand practical applications.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Leading Text-to-CAD Platforms in 2025",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Text-to-CAD Platforms in 2025",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading platforms generate files in multiple standard formats including STL (3D printing), STEP (ISO standard for data exchange), DWG (AutoCAD native), DXF (universal exchange), and SCAD (OpenSCAD scripting). This flexibility ensures compatibility across the CAD ecosystem and supports various downstream workflows from 3D printing to CNC machining to rendering.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive guide to AI UI/UX design tools in 2025. Compare features, pricing, and capabilities of top tools like Uizard, UX Pilot, Figma AI, and more.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Related Topics",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Every text-to-CAD system follows some version of the same pipeline, even if the implementation details vary. Here is what happens under the hood.",
+    "url": "https://www.getleo.ai/blog/how-text-to-cad-works",
+    "pass": 3
+   },
+   {
+    "quote": "Projects like OpenSCAD with AI wrappers and various community-built tools allow text-to-CAD generation through scripted geometry. These are often free but require programming knowledge and produce less polished results than commercial offerings.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-tools-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Security varies significantly between platforms. Before using any text-to-CAD tool with proprietary design data, verify SOC-2 certification, data handling policies, and whether your inputs are used for model training.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-tools-2026",
+    "pass": 3
+   },
+   {
+    "quote": "In their paper, they introduced a two-stage data annotation pipeline and architecture that transforms natural language instructions into sequential CAD models. They said the framework outperformed existing baseline models, but said refinements are needed to handle more complex and varied text descriptions.",
+    "url": "https://mikekalil.com/blog/ai-driven-text-to-cad/",
+    "pass": 3
+   },
+   {
+    "quote": "Generates standard 4-quadrant variations per execution cycle.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": ", the platform handles standard geometric shapes efficiently, adjusting features to prevent obvious wall-thickness errors. Users can quickly visualize variations of structural enclosures before moving to a dedicated workstation tool.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Features batch texturing and variant processing options.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Fast texture generation that simplifies visual variant exploration.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Choose engines that respect basic structural symmetry and physical logic over purely artistic variations.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Using clear product requirements descriptions (PRDs) alongside strict structural descriptors helps maintain consistency across multiple generations. RapidDirect AI Creator simplifies this by using an AI engine to structure your text specs alongside your visual variations.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Vondy's AI CAD Generator focuses on rapid iteration and conceptual design, making it popular among product designers and industrial designers who need to explore multiple variations quickly. CADScribe emphasizes technical drawing generation from textual specifications, targeting mechanical engineers who work primarily in 2D drafting.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoo AI Pro ($15.90/month) and Adam AI Pro (pricing varies with unlimited generations during trial) serve small businesses and individual professionals. These plans typically remove generation limits and add priority processing, advanced features, or higher-resolution outputs.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Price Variance:",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Analysis shows a 33X price difference between the most affordable and most expensive platforms when normalized for usage volume. This dramatic variance makes careful evaluation essential. For users needing large volumes of generations, specialized text-to-CAD tools offer significantly better value than traditional software with AI features added.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Most platforms offer trial periods or limited free tiers, allowing users to test capabilities before committing. This trial-first approach is recommended given the variability in output quality and the importance of finding a tool that matches specific use cases and prompt styles.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "This rapid generation is particularly valuable during the conceptual design phase when exploring multiple layout options. Architects can generate 5-10 variations in the time it would traditionally take to draft one, allowing more thorough exploration of spatial arrangements before committing to detailed development.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "This capability accelerates the prototyping cycle. Engineers can quickly generate multiple design variations to evaluate form, fit, and function before investing time in detailed engineering. For example, when designing a new product enclosure, engineers might generate 10 different configurations in an afternoon, 3D print the most promising options, and select the best design for full development.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading platforms generate files in multiple standard formats including STL (3D printing), STEP (ISO standard for data exchange), DWG (AutoCAD native), DXF (universal exchange), and SCAD (OpenSCAD scripting). This flexibility ensures compatibility across the CAD ecosystem and supports various downstream workflows from 3D printing to CNC machining to rendering.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced text-to-CAD tools recognize parametric relationships in prompts. When users specify \"create three versions with heights of 50mm, 75mm, and 100mm,\" the AI generates properly dimensioned variations. This parametric awareness extends to relationships like \"wall thickness should be 10% of overall dimension\" or \"spacing between features should be equal.\"",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Text-to-CAD tools parse dimensional specifications in various formats: metric (mm, cm, m), imperial (inches, feet), and mixed units. The AI correctly interprets \"200mm x 8in x 50mm\" and generates a model with accurate conversions. This multilingual dimensional understanding accommodates international teams and diverse engineering standards.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "File Quality Variation:",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Output quality varies significantly between platforms and even between different types of prompts on the same platform. Always validate exported CAD files for errors like non-manifold geometry, inverted normals, or missing features before investing time in refinement or sending to manufacturing.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Dimensions may be approximately right but not precisely right. Features may be geometrically valid but not manufacturable. Material and tolerance information is not embedded in the geometry. Interface dimensions with mating components are not guaranteed.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Deeply embedded in the broader Autodesk software ecosystem.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI Text -to- CAD add-in for Fusion 360!? Thoughts? - Reddit — AI Text -to- CAD add-in for Fusion 360!? Thoughts? - Reddit Reddit https://www.reddit.com > comments > ai_texttocad_addin...",
+    "url": "https://www.reddit.com/r/MechanicalEngineering/comments/1fz270z/ai_texttocad_addin_for_fusion_360_thoughts/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Text -to- CAD Tools in 2026: From Prompt to 3D Model — Best Text -to- CAD Tools in 2026: From Prompt to 3D Model simutecra.com https://simutecra.com > Blog",
+    "url": "https://simutecra.com/blogs/text-to-cad-ai-product-design",
+    "pass": 3
+   },
+   {
+    "quote": "Best 8 AI CAD Tools 2026 we tested | Text to CAD - RapidDirect — Best 8 AI CAD Tools 2026 we tested | Text to CAD - RapidDirect RapidDirect https://www.rapiddirect.com > blog",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Text to CAD と図面の 3D 化を検証してわかった、できること ... — Text to CAD と図面の 3D 化を検証してわかった、できること ... 株式会社WOGO https://www.wogo.ai > コラム",
+    "url": "https://www.wogo.ai/column/ai-cad-text-to-cad/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "07 · Pricing",
+    "url": "https://ragnar.build/",
+    "pass": 3
+   },
+   {
+    "quote": "Users get 40 free minutes per month. Additional usage is billed at 50 cents per minute.",
+    "url": "https://mikekalil.com/blog/ai-driven-text-to-cad/",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier (20 credits); Pro at $99/month",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard tier at $9.99/month",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "YesChat Pro from $8/month",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "From $49/month",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier; Pro from $10/month",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "$315/month",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier available; Pro plans cost $99/month.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard tier priced at $9.99/month; Professional tier is $29.99/month.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Included in platform access starting at $8/month.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "7-day evaluation access; professional commercial tiers start at $49/month.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial tier; commercial tiers start at $10/month.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "$315/month, also available within select industry collections.",
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "pass": 3
+   },
+   {
+    "quote": "3. Pricing & Plans Comparison",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoo's free plan offers 1,205 prompt credits each month (valued at $10), with each second of processing consuming one credit. This generous free tier allows users to experiment extensively before committing to a paid plan. Pro plans start at $15.90 per month for users who need more processing capacity or advanced features.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing for Adam AI starts at $9.99 per month for 100 creative generations, making it one of the most affordable professional options. The platform offers a 7-day trial of Adam Pro, which includes unlimited generations, allowing users to thoroughly test the capabilities before subscribing.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Text-to-CAD pricing in 2025 spans an enormous range, from free plans to professional subscriptions costing hundreds of dollars monthly. Understanding the pricing landscape helps users select the most cost-effective solution for their needs.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoo AI leads with a genuinely useful free tier offering 1,205 credits monthly (approximately $10 value). This allows substantial experimentation and is sufficient for hobbyists or students working on occasional projects. Adam AI's $9.99/month plan (100 generations) provides the most affordable paid entry point for professionals who need regular access.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoo AI Pro ($15.90/month) and Adam AI Pro (pricing varies with unlimited generations during trial) serve small businesses and individual professionals. These plans typically remove generation limits and add priority processing, advanced features, or higher-resolution outputs.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional CAD platforms now integrate AI features at premium price points. Fusion 360, which includes AI-driven generative design and predictive modeling, costs $725 annually or $130 monthly. Leo AI, a CAD assistant trained on over a million engineering sources, charges $49 per user per month ($468 annually).",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive guide to AI UI/UX design tools in 2025. Compare features, pricing, and capabilities of top tools like Uizard, UX Pilot, Figma AI, and more.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the best AI design tools in 2025. Compare features, pricing, and capabilities of Adobe Firefly, Canva, Midjourney, and more for graphic design.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Complete AI 3D guide 2025. Compare Meshy, Tripo, Rodin. Learn text-to-3D workflows, pricing, best practices for game dev and design.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Nonprofits",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "This rapid generation is particularly valuable during the conceptual design phase when exploring multiple layout options. Architects can generate 5-10 variations in the time it would traditionally take to draft one, allowing more thorough exploration of spatial arrangements before committing to detailed development.",
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.texttocad.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Futurology/comments/196wp8c/text_to_3d_cad_is_coming_whos_building_it/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.getleo.ai/blog/how-text-to-cad-works",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xometry.pro/en/articles/text-to-cad-tools-test/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://buildcad.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoo.dev/zookeeper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Fusion360/comments/1nlbtg0/i_have_built_an_open_source_texttocad_ai_addin/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/MechanicalEngineering/comments/1fz270z/ai_texttocad_addin_for_fusion_360_thoughts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sourceforge.net/projects/open-source-text-cad.mirror/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.draftsight.com/2D-cad/become-a-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadtalk.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.text.com/blog/saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getleo.ai/blog/open-source-text-to-cad-tools-free",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thecadhub.com/blog/smarter-cad-with-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simutecra.com/blogs/text-to-cad-ai-product-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adsp.ai/text-to-cad-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dzine.ai/tools/text-to-cad-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://textocad.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ragnar.build/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/MechanicalEngineering/comments/1wuvhrw/how_can_i_make_money_using_cad_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-tools-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/buildinpublic/comments/1u3zbp0/got_cut_after_3_rounds_at_a_cad_aireview_startup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mikekalil.com/blog/ai-driven-text-to-cad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://threadmoat.com/categories/cad-startups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/research/publication/text-to-cad-generation-through-infusing-visual-feedback-in-large-language-models/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aventis-advisors.com/ai-valuation-multiples/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vcbacked.co/directory/industries/cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chiefaiofficer.com/the-bootstrapped-ai-company-that-hit-300000-users-in-6-months-and-made-every-funded-startup-look-slow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wscad.com/en/electrix/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceforge.net/software/ai-cad/europe/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceforge.net/software/ai-cad/germany/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://slashdot.org/software/ai-cad/in-europe/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://thecadhub.com/blog/ai-cad-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softwareadvice.com/product/642400-Text-to-CAD-UI/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opentools.ai/tools/text-to-cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoo.dev/blog/turning-on-billing-for-text-to-cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forcesteed.com/technology/topics/ai-cad-parts-studio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://renue.co.jp/posts/3d-model-auto-generation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wogo.ai/column/ai-cad-text-to-cad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/text-to-cad-ai-2026",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "text-to-CAD AI software white label",
+   "results": [
+    "https://www.texttocad.dev/",
+    "https://www.reddit.com/r/Futurology/comments/196wp8c/text_to_3d_cad_is_coming_whos_building_it/",
+    "https://www.getleo.ai/blog/how-text-to-cad-works",
+    "https://xometry.pro/en/articles/text-to-cad-tools-test/",
+    "https://www.youtube.com/watch?v=WdhZiE0-Pzs",
+    "https://buildcad.ai/",
+    "https://www.dzine.ai/tools/text-to-cad-ai/",
+    "https://zoo.dev/zookeeper",
+    "https://simutecra.com/blogs/text-to-cad-ai-product-design",
+    "https://ragnar.build/"
+   ]
+  },
+  {
+   "query": "text-to-CAD AI software OEM API embed",
+   "results": [
+    "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "https://zoo.dev/zookeeper",
+    "https://www.reddit.com/r/Fusion360/comments/1nlbtg0/i_have_built_an_open_source_texttocad_ai_addin/",
+    "https://www.facebook.com/onshapeInc/videos/meet-featurescript-mcp/1379263161055285/",
+    "https://www.reddit.com/r/MechanicalEngineering/comments/1fz270z/ai_texttocad_addin_for_fusion_360_thoughts/",
+    "https://sourceforge.net/projects/open-source-text-cad.mirror/",
+    "https://xometry.pro/en/articles/cadscribe-ai-interview/",
+    "https://simutecra.com/blogs/text-to-cad-ai-product-design",
+    "https://textocad.com/",
+    "https://deepwiki.com/KittyCAD/text-to-cad-ui/3.3-text-to-cad-pipeline"
+   ]
+  },
+  {
+   "query": "text-to-CAD AI software reseller partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=WdhZiE0-Pzs",
+    "https://www.draftsight.com/2D-cad/become-a-reseller",
+    "https://cadtalk.com/partners/",
+    "https://www.reddit.com/r/Futurology/comments/196wp8c/text_to_3d_cad_is_coming_whos_building_it/",
+    "https://www.text.com/blog/saas-reseller-programs/",
+    "https://www.getleo.ai/blog/open-source-text-to-cad-tools-free",
+    "https://thecadhub.com/blog/smarter-cad-with-ai/",
+    "https://www.dzine.ai/tools/text-to-cad-ai/",
+    "https://www.microsoft.com/en-us/research/publication/text-to-cad-generation-through-infusing-visual-feedback-in-large-language-models/",
+    "https://botpenguin.com/blogs/best-white-label-partner-program"
+   ]
+  },
+  {
+   "query": "text-to-CAD AI software rebrand your logo",
+   "results": [
+    "https://www.getleo.ai/blog/how-text-to-cad-works",
+    "https://www.reddit.com/r/Futurology/comments/196wp8c/text_to_3d_cad_is_coming_whos_building_it/",
+    "https://zoo.dev/zookeeper",
+    "https://simutecra.com/blogs/text-to-cad-ai-product-design",
+    "https://xometry.pro/en/articles/text-to-cad-tools-test/",
+    "https://adsp.ai/text-to-cad-agent",
+    "https://www.dzine.ai/tools/text-to-cad-ai/",
+    "https://thecadhub.com/blog/smarter-cad-with-ai/",
+    "https://textocad.com/",
+    "https://ragnar.build/"
+   ]
+  },
+  {
+   "query": "text-to-CAD AI software startup profitable revenue",
+   "results": [
+    "https://xometry.pro/en/articles/text-to-cad-tools-test/",
+    "https://zoo.dev/zookeeper",
+    "https://www.reddit.com/r/MechanicalEngineering/comments/1wuvhrw/how_can_i_make_money_using_cad_ai/",
+    "https://www.getleo.ai/blog/best-text-to-cad-tools-2026",
+    "https://www.reddit.com/r/buildinpublic/comments/1u3zbp0/got_cut_after_3_rounds_at_a_cad_aireview_startup/",
+    "https://simutecra.com/blogs/text-to-cad-ai-product-design",
+    "https://mikekalil.com/blog/ai-driven-text-to-cad/",
+    "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "https://profitable.app/ai",
+    "https://neuronfeed.com/startups/adam-cad"
+   ]
+  },
+  {
+   "query": "text-to-CAD AI software company EBITDA profitable bootstrapped",
+   "results": [
+    "https://threadmoat.com/categories/cad-startups",
+    "https://www.getleo.ai/blog/open-source-text-to-cad-tools-free",
+    "https://www.microsoft.com/en-us/research/publication/text-to-cad-generation-through-infusing-visual-feedback-in-large-language-models/",
+    "https://xometry.pro/en/articles/text-to-cad-tools-test/",
+    "https://aventis-advisors.com/ai-valuation-multiples/",
+    "https://www.linkedin.com/pulse/ai-software-valuation-report-2026-ryan-allis-cbehe",
+    "https://www.vcbacked.co/directory/industries/cad",
+    "https://chiefaiofficer.com/the-bootstrapped-ai-company-that-hit-300000-users-in-6-months-and-made-every-funded-startup-look-slow/",
+    "https://profitable.app/ai",
+    "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/"
+   ]
+  },
+  {
+   "query": "text-to-CAD AI software vendors Europe Israel Germany",
+   "results": [
+    "https://zoo.dev/zookeeper",
+    "https://www.youtube.com/watch?v=WdhZiE0-Pzs",
+    "https://xometry.pro/en/articles/text-to-cad-tools-test/",
+    "https://www.getleo.ai/blog/best-text-to-cad-tools-2026",
+    "https://www.linkedin.com/posts/pascalbornet_ai-cad-designtech-activity-7333326438131019776-kdVI",
+    "https://buildcad.ai/",
+    "https://www.wscad.com/us/electrix/",
+    "https://github.com/earthtojake/text-to-cad",
+    "https://thecadhub.com/blog/smarter-cad-with-ai/",
+    "https://sourceforge.net/software/ai-cad/europe/"
+   ]
+  },
+  {
+   "query": "text-to-CAD AI software pricing API",
+   "results": [
+    "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "https://zoo.dev/zookeeper",
+    "https://www.rapiddirect.com/blog/best-ai-cad-tools-review/",
+    "https://thecadhub.com/blog/ai-cad-software/",
+    "https://www.reddit.com/r/Fusion360/comments/1nlbtg0/i_have_built_an_open_source_texttocad_ai_addin/",
+    "https://www.dzine.ai/tools/text-to-cad-ai/",
+    "https://www.softwareadvice.com/product/642400-Text-to-CAD-UI/",
+    "https://xometry.pro/en/articles/text-to-cad-tools-test/",
+    "https://www.youtube.com/watch?v=WdhZiE0-Pzs",
+    "https://artificial-intelligence-wiki.com/ai-tools/ai-design-tools/text-to-cad-guide/"
+   ]
+  },
+  {
+   "query": "wl-C 3D CAD（自然言語→3D CAD生成AI） 日本 代理店",
+   "results": [
+    "https://aws.amazon.com/jp/builders-flash/202609/natural-lang-3d-modeling/",
+    "https://www.forcesteed.com/technology/topics/ai-cad-parts-studio/",
+    "https://monoist.itmedia.co.jp/mn/articles/2609/09/news005.html",
+    "https://renue.co.jp/posts/3d-model-auto-generation",
+    "https://www.wogo.ai/column/ai-cad-text-to-cad/",
+    "https://skhonpo.com/blogs/3dprinter-practice/text-to-cad-ai-2026",
+    "https://www.ptc.com/ja/technologies/cad/generative-design?srsltid=AYCX9vKhu9FOKDk50wnBv4KfTpQ8pvgfoDZwvS43uxOi11i8e5JfFkTv",
+    "https://ledge.ai/articles/text_to_cad_llm_visual_feedback_cadfusion",
+    "https://zenn.dev/0xliclog/articles/9a8cf1747acf95"
+   ]
+  }
+ ],
+ "missing": {
+  "日本対応": "記載なし（読んだ45頁・検索9回）"
+ }
+}

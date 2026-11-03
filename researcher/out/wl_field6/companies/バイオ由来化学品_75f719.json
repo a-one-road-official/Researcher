@@ -1,0 +1,1197 @@
+{
+ "name": "バイオ由来化学品",
+ "en": "bio-based chemicals",
+ "aliases": [
+  "GXケミカル",
+  "グリーンケミカル",
+  "バイオプラスチック"
+ ],
+ "context": "12 GX ⑦GXケミカル",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:29:13.869048+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "To meet consumer demand, many companies are willing to pay premiums for bio-based chemical inputs — provided they offer equal or better performance than petrochemical alternatives (see Figure 2).",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "Back to top",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "with Borregaard/Borregaard LignoTech as a leading company (44, 45). These sulfonates are",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "particularly plastic, industry as well as LCI data providers (79). It is important that forward looking",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "HaldorTopsoe, UPM,",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "C5H7O3 -0.2 Haldor Topsoe Pipeline",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Glucaric acid C6H10O8 +1 Rivertop renewables Pipeline",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "global demand for biofuels. The leading producers of bioethanol are the USA and Brazil. The",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PET. Fortunately, several companies (Avantium, HaldorTopsoe/Braskem, UPM, ENI Versalis) are",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "for propylene glycol production from C5 and C6 sugars: HaldorTopsoe/Braskem, Avantium, UPM,",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "NatureWorks is a world-leading polylactic acid (PLA) biopolymers supplier and innovator. Its",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "petrochemical-based chloroacetic acid and sodium cyanide and was listed as one of the top 30",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "International is the world's leading supplier of MMA. Methacrylates polymerize easily to form resins",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "sustainable bio-succinic acid. Biosuccinium® is a leading bio-based chemical building block",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "process is 84-99% less impactful than the traditional xylose production process, leading to",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Avantium Renewable Polymers mission is to establish world-leading positions in FDCA and",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Roquette is the leading world producer. Isosorbide is used for the manufacture of specialty",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Meat alternatives",
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "Highlighted topic",
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "VTT is a forerunner in research, development and innovation, and one of Europe’s leading research organisations. We develop cutting-edge technologies and transform them into growth together with our customers and partners. Our solutions address the greatest challenges of our time while creating sustainable growth, jobs and wellbeing.",
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "Fossil feedstock-based chemicals are still dominating both bulk petrochemical and specialty chemicals markets. The pressure to replace them with sustainable, low-carbon alternatives is real, but the transformation itself has not yet happened. Bio-based content has a premium price, and voluntary certification schemes have not been enough on their own to move volumes.",
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "Both fermentation and host engineering, and chemical and polymer synthesis sit in the same organisation, alongside in-house analytics, the culture collection, robotic platforms, synthetic biology tools and pilot-scale fermentation and chemical process infrastructure. One organisation can take a project from screening through pilot without handoffs between vendors.",
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "A short pre-feasibility or desktop study identifies the most promising route and flags the cost and technical risks. This is often the right entry point for customers who aren't yet sure whether the project should sit on the bio side or the chemistry side.",
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "We create and pilot novel fibre products, textiles, biochemicals, bio-based alternatives for plastics and other components.",
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "VTT is a forerunner in research, development and innovation, and one of Europe’s leading research organisations. With more than 80 years of experience, we accelerate the journey from innovation to impact. By thinking beyond the obvious, we drive growth, renewal and resilience.",
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer goods manufacturers and cosmetic companies face growing consumer demand for sustainable, top-quality products that perform as promised.",
+    "url": "https://www.shell.com/business-customers/chemicals/resources/optimise-personal-care-product-manufacturing-bio-based-feedstocks.html",
+    "pass": 3
+   },
+   {
+    "quote": "Discover more about using bio-based feedstock as palm oil alternatives.",
+    "url": "https://www.shell.com/business-customers/chemicals/resources/optimise-personal-care-product-manufacturing-bio-based-feedstocks.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Companies in the Global Bio-based Platform Chemicals Market",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Companies in the Global Bio-based Platform Chemicals Market (2026-2035): Spherical Insights Analysis",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "sustainable and eco-friendly alternatives to petroleum-based chemicals",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Trends in the Bio-based Platform Chemicals Market",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Development Of Drop-In Bio-Based Alternatives to Petrochemicals",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Companies Leading the Bio-based Platform Chemicals Market",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides an in-depth analysis of the leading companies operating in the global bio-based platform chemicals market. It includes a comparative assessment based on their product portfolios, business overviews, geographical footprint, strategic initiatives, market segment share, and SWOT analysis. Each company is profiled using a standardised format that includes:",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Top 25 Companies in Global Cosmetic Implants Market Size, Scope to 2035",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Similarly, in the automotive industry, the use of bio-based chemicals is expected to rise as manufacturers seek sustainable alternatives to traditional plastics. According to the American Chemistry Council, bio-based materials could potentially reduce CO2 emissions by up to",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2023, with China and India leading.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "of the bio-based chemicals market in 2023, driven by sustainable alternatives for vehicle interiors and fuel additives.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Vegetable oils also play a vital role in the bio-based chemicals market. They are commonly used to create bio-lubricants and bio-surfactants. Their renewable nature appeals to manufacturers seeking sustainable alternatives to petroleum-based products.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", which aims to make Europe the first climate-neutral continent by 2050. The plan includes significant funding and incentives for industries to shift to bio-based alternatives. The EU has set ambitious targets, such as reducing greenhouse gas emissions by at least",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "program requires transportation fuel sold in the U.S. to contain a minimum volume of renewable fuels. This mandate supports the production of biofuels and bio-based chemicals, leading to an expected increase in production to",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The private sector is also responding positively to these government initiatives. Major companies are forming partnerships and collaborations to explore bio-based alternatives. For instance,",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the major restraining factors for the bio-based chemicals market is the high production costs associated with developing and manufacturing these products. Despite the growing demand for bio-based alternatives, the financial investment required to produce them at scale remains a significant barrier to widespread adoption.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "are willing to change their consumption habits to reduce environmental impact. This shift is evident in industries such as packaging, automotive, and personal care, where companies are actively seeking bio-based alternatives to traditional materials. For example, the global biodegradable plastics market is expected to reach",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", pushing companies to explore bio-based alternatives that align with these goals. Similarly, the",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", leading manufacturers to seek sustainable materials for vehicle components. This transition opens up avenues for bio-based chemicals to be used in manufacturing lightweight, sustainable components, thereby reducing the overall environmental impact of automotive production.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", implemented in 2021, aims to ban specific single-use plastic items and encourages the use of sustainable alternatives. This regulation has propelled many companies to invest in bioplastics research and development, further accelerating innovation in the sector.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "(APAC) region leading the market, holding a",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The bio-based chemicals market is highly competitive, with several key players driving innovation and expansion. Companies such as AGAE Technologies and GFBiochemicals Ltd. are at the forefront of developing advanced bio-based technologies, focusing on sustainable chemical production.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Product in Bio-based Platform Chemicals Market:",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Players in Bio-based Platform Chemicals Market:",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geographic concentration demonstrates dynamic growth patterns with India and China leading expansion, supported by rising biorefinery manufacturing capacity, sustainability consciousness expansion among industrial populations, and bio-based chemical establishment programs in production centers.",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Product →",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market leadership is maintained through several critical competitive advantages extending beyond bio-processing capabilities and product portfolios. Global biorefinery networks enable leading players to navigate diverse feedstock requirements and access varied manufacturer segments including pharmaceutical companies, bioplastics producers, and specialty chemical manufacturers.",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-processing efficiency in integrated biorefinery facilities, supply chain feedstock management, and fermentation technology control separate major suppliers from smaller competitors, while comprehensive sustainability documentation addressing carbon footprint reduction, renewable content verification, and biodegradability data strengthen market position and manufacturer confidence.",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Bio-based Platform Chemicals Market",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rising investments in green chemistry and circular economy models are driving demand for bio-based platform chemicals as industries seek sustainable alternatives to fossil-derived inputs in packaging, personal care, and agriculture sectors.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cost Challenges vs Petrochemical Alternatives",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players & Competitive Analysis Report",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "a bio-based solvent used in a variety of applications such as beauty and personal care, food and beverage, and more",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "With the industry reinvigorated by ESG initiatives and new technology, L.E.K. Consulting estimates that various segments of the bio-based chemicals market will experience GDP-plus-level to double-digit growth through 2026.",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "Using biomass-derived organic compounds predominantly found in organisms — such as sugars, oils and animal fats — bio-based chemicals provide a variety of benefits (see Figure 4).",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "Feedstocks are any raw materials used in the mass production of chemical products; bio-based feedstocks are the diverse, renewable group of source materials that can be transformed into bio-based chemicals through a variety of conversion processes.",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "overview how various biomasses can be converted into intermediates and value-added products is",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "varying purity. Several feedstocks can lead to the same platform, and often a biorefinery will",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "produced including benzene, toluene, various carboxylic acids and furans (17).",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "into intermediates is already addressed in various research projects, e.g. Carbon4PUR (22).",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Methanol is one of the largest volume chemicals in the world and serves as source for various",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Methanol is suitable as platform for various bulk chemicals via catalytic conversion, e.g. methanol-",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "shows various products from CO2 produced at different scales.",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "access to a variety of important chemical building blocks (alcohols, organic acids, lipids and",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "particulates, volatiles and the wide variability of molecular weight distribution of lignosulfonates",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The oil platform covers fatty acids and triglycerides that are obtained either from various",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a variety of uses. Current markets are pharmaceutical, cosmetic, and food industries. The large",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "other products include ethanol and various organic acids (54). Chemical modifications include",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "mechanically in a screw press. Both intermediates are starting points for various valorisation",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "necessary framework conditions needed (67). Various companies (primarily in the U.S. and",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "sustainability and to aim for “zero waste”. A variety of different biorefinery configurations are",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "VTT works with a wide variety of customers.",
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "VTT has experience and expertise with a wide variety of different feedstocks.",
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "The use of bioplastics in place of ordinary plastic packaging has been driven by the demand for more environmentally friendly options. Bioplastics can be made from biologically sourced chemicals. They are used in packaging various consumables, including food products, cosmetics, and agricultural applications. This has resulted in increased demand for renewable chemical intermediates.",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The use of advanced biomass conversion technology and fermentation is increasing efficiency in production. The modern biorefinery is capable of using many kinds of feedstock to produce various chemical products. The technology has been successful in reducing production costs through high yields.",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, bio-alcohols such as 1,3-propanediol, 1,6-hexanediol, and 1,10-decanediol are increasingly important for producing various chemicals and plastics. These bio-alcohols are used in cosmetics, personal care products, and textiles, driving further growth in this segment.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-based acids, including succinic acid and furfural, are crucial for producing a variety of chemicals and are seeing increased demand in the food, beverage, and plastics industries. The versatility of these acids allows for their application in multiple sectors.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "of the bio-based chemicals market. Corn is widely used for producing various bio-based chemicals, including bio-alcohols and bioplastics. Its abundance and established supply chain make it a preferred feedstock.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Algae is an emerging feedstock with significant potential. It can be cultivated in various environments and offers a rich source of oils and bioactive compounds. Research and development in this area are expanding its applications in the bio-based chemicals market.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Governments around the world are increasingly promoting the use of bio-based chemicals to address environmental concerns and transition toward sustainable practices. This support is evident through various initiatives, policies, and regulations aimed at reducing reliance on fossil fuels and encouraging the adoption of renewable resources.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "As environmental concerns grow and consumer demand for sustainable materials increases, bioplastics are becoming a viable alternative to traditional petroleum-based plastics. This trend is supported by significant innovations in production processes, materials development, and applications across various industries.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Tertiary Classification: Regional segmentation shows Asia Pacific's commanding 33.1% position, followed by Europe at 30.9% and North America at 27.6%, demonstrating varied biorefinery specialization levels and renewable infrastructure concentrations.",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "High production costs & feedstock variability (bio-processing expenses, supply fluctuations)",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market leadership is maintained through several critical competitive advantages extending beyond bio-processing capabilities and product portfolios. Global biorefinery networks enable leading players to navigate diverse feedstock requirements and access varied manufacturer segments including pharmaceutical companies, bioplastics producers, and specialty chemical manufacturers.",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "However, significant competitive advantages persist in established glycerol categories through comprehensive bio-diesel integration portfolios and manufacturer relationship depth. Premium positioning strategies with carbon-negative certification and circular economy claims command margin premiums through superior environmental transparency and sustainability integration.",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific accounted for the largest revenue share of 45.12% in 2025. This is owing to rapidly expanding industrial bases across emerging economies in the region.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "5. Which segment, by application dominated the bio-based platform chemicals market revenue share in 2025?",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Reseller",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chemicals and materials from various biomass sources play an important role when it comes to reducing our dependence on non-renewable resources. Trees, plants, crops, algae, bacteria and biological waste can be used in their different shapes and forms to produce a wide range of bio-based chemicals, fuels, products and intermediates.",
+    "url": "https://www.alfalaval.us/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/circular-economy/resource-efficiency/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "Largest regional market: Asia Pacific (33.0% revenue share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The glycerol segment dominated the market with a 23.2% revenue share in 2025, primarily due to its abundant and cost-effective availability as a by-product of biodiesel production, ensuring consistent supply at competitive pricing. Its versatile applicability across pharmaceuticals, personal care, food, and industrial sectors significantly enhances its demand and commercial viability.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated with a 33.0% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe dominated the market in 2025, holding the largest revenue share of 38.1%.",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "BASF SE, ADM, BioAmber Inc. (ARD), DuPont, and Cargill manufacture various bio-based platform chemicals such as bio-succinic acid, lactic acid, bio-alcohols, industrial enzymes, fermentation intermediates, and renewable feedstock for application in bioplastics, adhesives,",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Company profiles section includes overview, Source portfolio, sales footprint, key subsidiaries or distributors, strategy and recent developments, and key financials",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "List of Dealer and Distributors",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Industrials B2B Pricing",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "based chemicals can be triggered by CO2-pricing. If lignocellulosic feedstocks would be used, even",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The glycerol segment dominated the market with a 23.2% revenue share in 2025, primarily due to its abundant and cost-effective availability as a by-product of biodiesel production, ensuring consistent supply at competitive pricing. Its versatile applicability across pharmaceuticals, personal care, food, and industrial sectors significantly enhances its demand and commercial viability.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Japan (日本語)",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "in its Thai subsidiary, Vinythai PCL, to the Japanese firm AGC Asahi Glass for €435 million in 2017",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "– China, Japan, South Korea, India, ASEAN & Rest of APAC;",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "JP - Japan",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.5.6. Bio-Based Platform Chemicals Market – Japan",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.5.6.1. Japan: Bio-Based Platform Chemicals Market, by Product, 2021-2034 (USD Billion)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.5.6.2. Japan: Bio-Based Platform Chemicals Market, by Application, 2021-2034 (USD Billion)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Table 35 Japan: Bio-Based Platform Chemicals Market, by Product, 2021-2034 (USD Billion)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Table 36 Japan: Bio-Based Platform Chemicals Market, by Application, 2021-2034 (USD Billion)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; UK; Germany; Italy; France; Spain; China; India; Japan; South Korea; Brazil; Argentina; Saudi Arabia; South Africa",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Bio-based Platform Chemicals Market Volume (Kilo Tons) and Value (USD Billion) Forecast, by Source, 2026-2036",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Bio-based Platform Chemicals Market Volume (Kilo Tons) and Value (USD Billion) Forecast, by Type, 2026-2036",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Bio-based Platform Chemicals Market Volume (Kilo Tons) and Value (USD Billion) Forecast, by End-use, 2026-2036",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 93: Japan Bio-based Platform Chemicals Market Volume (Kilo Tons) Forecast, by Source, 2026 to 2036",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 94: Japan Bio-based Platform Chemicals Market Value (USD Billion) Forecast, by Source, 2026 to 2036",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 95: Japan Bio-based Platform Chemicals Market Volume (Kilo Tons) Forecast, by Type, 2026 to 2036",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 96: Japan Bio-based Platform Chemicals Market Value (USD Billion) Forecast, by Type, 2026 to 2036",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 97: Japan Bio-based Platform Chemicals Market Volume (Kilo Tons) Forecast, by End-use, 2026 to 2036",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 98: Japan Bio-based Platform Chemicals Market Value (USD Billion) Forecast, by End-use, 2026 to 2036",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では製紙会社が実証段階へ",
+    "url": "https://forestcircularity.jp/2025/12/num-209/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本国内では、海外から輸入したバイオナフサ等を活用してフェノールなどの化成品を生産する動きは出てきていますが、国内バイオマス資源から商用レベルで化学原料を生産・販売している事例は、まだ限定的です",
+    "url": "https://forestcircularity.jp/2025/12/num-209/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でも、Nesteが生産するバイオナフサを活用して化学原料を生産・販売する取り組みが、複数の化学企業で進み始めています",
+    "url": "https://forestcircularity.jp/2025/12/num-209/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "generally cannot be produced in a profitable way at current crude oil prices. This implies that they",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the lignin thermal valorisation decreases by about 30%. From the profitability point of view, xylitol",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Product(s) profitability",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "full-scale plant would be expected to generate up to $40 million of EBITDA annually (120). The",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "production of bio-based products, in addition to biofuels, could generate US$ 10 billion of revenue",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2) Products (e.g. energy carriers, chemicals and material products)",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "production of bio-based chemicals could generate over US$ 10 billion of revenue for the global",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "markets. The Tables 4-6 below gives an overview of the current turnover of biomass in general",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Table 5. Prices and turnover figures for bio- based products aggregated to product",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10% to 20% of their revenue",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Revenue (2033)",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, COVID-19 Impact, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2035, adding USD 11.8 billion in new revenue and advancing at a CAGR of",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific accounted for the largest revenue share of 45.12% in 2025. This is owing to rapidly expanding industrial bases across emerging economies in the region.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Product Outlook (Revenue, USD Billion, 2021–2034)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Application Outlook (Revenue, USD Billion, 2021–2034)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Regional Outlook (Revenue, USD Billion, 2021–2034)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast by 2034",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD Billion and CAGR from 2026 to 2034",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "5. Which segment, by application dominated the bio-based platform chemicals market revenue share in 2025?",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Largest regional market: Asia Pacific (33.0% revenue share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast in 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Volume in kilotons; revenue in USD million/billion, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "This report forecasts volume & revenue growth at the global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2021 to 2033. For this study, Grand View Research has segmented the global bio-based platform chemicals market report based on product and region:",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Product Outlook (Volume, Kilotons; Revenue, USD Billion, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook (Volume, Kilotons; Revenue, USD Billion, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The glycerol segment dominated the market with a 23.2% revenue share in 2025, primarily due to its abundant and cost-effective availability as a by-product of biodiesel production, ensuring consistent supply at competitive pricing. Its versatile applicability across pharmaceuticals, personal care, food, and industrial sectors significantly enhances its demand and commercial viability.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated with a 33.0% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe dominated the market in 2025, holding the largest revenue share of 38.1%.",
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Bio - Based Chemicals - A 2020 Update - IEA Bioenergy — Bio - Based Chemicals - A 2020 Update - IEA Bioenergy IEA Bioenergy PDF https://www.ieabioenergy.com > uploads > 2020/02",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - based Chemicals Market Size, Share | CAGR of 11.6% — Bio - based Chemicals Market Size, Share | CAGR of 11.6% Market.us https://market.us > report > bio-based...",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corecheminc.com/private-label-white-label-chemicals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sulzer.com/en/shared/news/210317-how-to-succeed-in-manufacturing-bio-based-platform-chemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hibrettpuratex.com/capabilities/private-label-chemical-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omegabiotek.com/company/oem-and-private-label-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brekeke.com/partner/oem-partner.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arrochem.com/capabilities/private-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaaldrich.com/US/en/campaigns/industrial-oem?srsltid=AYCX9vIN4GuFu1vB7BkYAihAvXbRg0OHK9DqBxFTb2OldMVWtVouFTgj",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecoonline.com/en-us/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adssolutions.com/industries/chemical-distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.genetiqsoftware.com/en-us/partnership-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bluestarinc.com/en-us/manufacturers/partner-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hibrettpuratex.com/blog/branding-magic-private-label-chemical-manufacturing-elevates-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.era-environmental.com/blog/private-labeling-chemical-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gobiobased.com/private-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shell.com/business-customers/chemicals/resources/optimise-personal-care-product-manufacturing-bio-based-feedstocks.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://e360.yale.edu/features/bioeconomy-bio-based-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alfalaval.us/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/circular-economy/resource-efficiency/bio-based-chemicals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.bio.org/rs/490-EHZ-999/images/BIO_Chemical_Companies_Report_2018_FINAL.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.c4b-project.eu/wp-content/uploads/2026/05/C4B-OpenCallforPilotProjects-factsheet.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://profitable.app/bootstrapped",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/lists/chemicals-startups-europe/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/biotech-manufacturers/israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iris-biotech.de/en",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://glaukos-project.eu/meet-our-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wonnda.com/magazine/european-private-label-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaaldrich.com/JP/ja/services/ivd-development-manufacturing/diagnostic-oem-cmo?srsltid=AYCX9vJzOLqw7MBq3Sr97nXxefn_9KT9RKf6G6GvJO-rB3RKeN2vVkbl",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomo-chem.co.jp/news/detail/20261006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biostream.co.jp/manufacturer/index/16",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/upload/investigate/docs/0a50c7c869c2bb6be490300804a3d5fe.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kepple.co.jp/articles/89illrykpv3w",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.udx.co.jp/industry/chemical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kotobuki-chemical.co.jp/business.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://forestcircularity.jp/2025/12/num-209/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichimarutrading.co.jp/import/import.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomjim.co.jp/pages/151/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "bio-based chemicals software white label",
+   "results": [
+    "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "https://corecheminc.com/private-label-white-label-chemicals/",
+    "https://www.sulzer.com/en/shared/news/210317-how-to-succeed-in-manufacturing-bio-based-platform-chemicals",
+    "https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf",
+    "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "https://market.us/report/bio-based-platform-chemicals-market/",
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://cen.acs.org/topics/business/biobased-chemicals.html",
+    "https://www.biosc.de/lw_resource/datapool/systemfiles/elements/files/5a3d53e0-eb5f-11e9-b1c5-dead53a91d31/current/document/Top20_biobasierte_Produkte.pdf",
+    "https://pharosproduction.com/insights/engineering/white-label-software-development-2026/"
+   ]
+  },
+  {
+   "query": "bio-based chemicals software OEM white-label partner",
+   "results": [
+    "https://hibrettpuratex.com/capabilities/private-label-chemical-manufacturer/",
+    "https://omegabiotek.com/company/oem-and-private-label-solutions/",
+    "https://brekeke.com/partner/oem-partner.php",
+    "https://arrochem.com/capabilities/private-label/",
+    "https://corecheminc.com/private-label-white-label-chemicals/",
+    "https://www.sigmaaldrich.com/US/en/campaigns/industrial-oem?srsltid=AYCX9vIN4GuFu1vB7BkYAihAvXbRg0OHK9DqBxFTb2OldMVWtVouFTgj",
+    "https://www.skybluechemical.com/services/white-label",
+    "https://www.nycoproducts.com/services/private-branding/",
+    "https://www.sulzer.com/en/shared/news/210317-how-to-succeed-in-manufacturing-bio-based-platform-chemicals",
+    "https://totallab.com/custom-life-science-software-development/"
+   ]
+  },
+  {
+   "query": "bio-based chemicals software reseller partner program",
+   "results": [
+    "https://www.ecoonline.com/en-us/partner-program/",
+    "https://www.adssolutions.com/industries/chemical-distribution/",
+    "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://www.genetiqsoftware.com/en-us/partnership-program",
+    "https://www.bluestarinc.com/en-us/manufacturers/partner-programs",
+    "https://www.aecsoftware.com/company/partner-programs/",
+    "https://www.lucidity.io/partner",
+    "https://www.carahsoft.com/partners/resellers-service-providers",
+    "https://partners.livechat.com/blog/best-reseller-programs/"
+   ]
+  },
+  {
+   "query": "bio-based chemicals SaaS rebrand private label",
+   "results": [
+    "https://hibrettpuratex.com/blog/branding-magic-private-label-chemical-manufacturing-elevates-business/",
+    "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "https://www.era-environmental.com/blog/private-labeling-chemical-industry",
+    "https://gobiobased.com/private-label",
+    "https://www.shell.com/business-customers/chemicals/resources/optimise-personal-care-product-manufacturing-bio-based-feedstocks.html",
+    "https://e360.yale.edu/features/bioeconomy-bio-based-materials",
+    "https://altraco.com/private-label-cleaning-chemicals/",
+    "https://www.sulzer.com/en/shared/news/210317-how-to-succeed-in-manufacturing-bio-based-platform-chemicals",
+    "https://pubmed.ncbi.nlm.nih.gov/34177391/",
+    "https://marcochemical.com/private-labeling/"
+   ]
+  },
+  {
+   "query": "bio-based chemicals software company profitable EBITDA",
+   "results": [
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "https://market.us/report/bio-based-chemicals-market/",
+    "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "https://www.alfalaval.us/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/circular-economy/resource-efficiency/bio-based-chemicals/",
+    "https://go.bio.org/rs/490-EHZ-999/images/BIO_Chemical_Companies_Report_2018_FINAL.pdf",
+    "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "https://chemicalresearchinsight.com/2026/06/22/top-10-companies-in-the-digital-bio-based-chemicals-market-2026-market-leaders-powering-global-innovation/"
+   ]
+  },
+  {
+   "query": "bio-based chemicals software bootstrapped profitable revenue",
+   "results": [
+    "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html",
+    "https://go.bio.org/rs/490-EHZ-999/images/BIO_Chemical_Companies_Report_2018_FINAL.pdf",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "https://www.sulzer.com/en/shared/news/210317-how-to-succeed-in-manufacturing-bio-based-platform-chemicals",
+    "https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "https://www.c4b-project.eu/wp-content/uploads/2026/05/C4B-OpenCallforPilotProjects-factsheet.pdf",
+    "https://profitable.app/bootstrapped"
+   ]
+  },
+  {
+   "query": "bio-based chemicals software vendors Europe Israel Germany white label",
+   "results": [
+    "https://dealroom.co/lists/chemicals-startups-europe/",
+    "https://revenuebase.ai/companies/biotech-manufacturers/israel",
+    "https://iris-biotech.de/en",
+    "https://www.linkedin.com/pulse/top-10-europe-biotechnology-based-chemicals-market-companies-gf5zf",
+    "https://glaukos-project.eu/meet-our-partners/",
+    "https://www.vttresearch.com/en/ourservices/sustainable-chemicals",
+    "https://wonnda.com/magazine/european-private-label-manufacturers/",
+    "https://bioweg.com/",
+    "https://een.ec.europa.eu/partnering-opportunities",
+    "https://chemicalresearchinsight.com/2026/06/22/top-10-companies-in-the-digital-bio-based-chemicals-market-2026-market-leaders-powering-global-innovation/"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.sigmaaldrich.com/JP/ja/services/ivd-development-manufacturing/diagnostic-oem-cmo?srsltid=AYCX9vJzOLqw7MBq3Sr97nXxefn_9KT9RKf6G6GvJO-rB3RKeN2vVkbl",
+    "https://www.sumitomo-chem.co.jp/news/detail/20261006.html",
+    "https://www.biostream.co.jp/manufacturer/index/16",
+    "https://www.dbj.jp/upload/investigate/docs/0a50c7c869c2bb6be490300804a3d5fe.pdf",
+    "https://kepple.co.jp/articles/89illrykpv3w",
+    "https://www.nite.go.jp/data/000158927.pdf",
+    "https://iri-group.jp/knowledge/bio-based-chemicals/",
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://www.nedo.go.jp/content/100870192.pdf",
+    "https://www.emerson.co.jp/ja/corporate/industries/life-sciences/oem"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 ソフト 代理店 海外製",
+   "results": [
+    "https://www.udx.co.jp/industry/chemical",
+    "http://www.kotobuki-chemical.co.jp/business.html",
+    "https://forestcircularity.jp/2025/12/num-209/",
+    "https://www.ichimarutrading.co.jp/import/import.html",
+    "https://nomjim.co.jp/pages/151/",
+    "https://mono.ipros.com/category/8ad9ae3f959eadc5/index.html",
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://www.bio-phenolics.com/ja/news",
+    "https://www.bpc-tyo.com/ja/distributing.html"
+   ]
+  }
+ ],
+ "missing": {
+  "自社名で出せる条件": "記載なし（読んだ45頁・検索9回）"
+ }
+}

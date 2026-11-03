@@ -1,4 +1,4 @@
-# 対象6分野の買い手向けホワイトラベルソフト（世界）— 提供企業と黒字の証拠（事実のみ・24品目）
+# 対象6分野の買い手向けホワイトラベルソフト（世界）— 提供企業と黒字の証拠（事実のみ・33品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2047,3 +2047,839 @@
   - 「マテリアルズインフォマティクス 開発 会社10社 - Metoree — マテリアルズインフォマティクス 開発 会社10社 - Metoree Metoree https://metoree.com > サービス」（https://metoree.com/categories/8864/）
   - 「半年勉強するだけでも マテリアルズインフォマティクス は可能 — 半年勉強するだけでも マテリアルズインフォマティクス は可能 MONOist https://monoist.itmedia.co.jp > articles > news008」（https://monoist.itmedia.co.jp/mn/articles/2310/27/news008.html）
 - 価格：記載なし（読んだ45頁・検索9回）
+
+## ペロブスカイト太陽電池（perovskite solar cell）
+- 文脈：12 GX ①ペロブスカイト
+- 提供企業：
+  - 「Setfos 6.1 adds multiple light sources, IMPLS simulation, trap-assisted tunneling with the Hurkx model, new optical outputs and seven new tutorial examples for bifacial tandems, TOPCon and GaAs tunnel junctions.」（https://www.fluxim.com/）
+  - 「Academic case studies with direct industry relevance. See how leading research groups combine Setfos and measurement to uncover loss mechanisms, guide stack design, and build workflows that scale into industrial R&D.」（https://www.fluxim.com/）
+  - 「SunFlex deploys flexible perovskite solar modules on shared bikes and at a smart bus stop in China」（https://www.perovskite-info.com/fluxim-releases-new-software-tool-simulate-large-area-perovskite-solar-cells）
+  - 「Topics covered:」（https://today.ucsd.edu/story/moving-perovskite-solar-cell-advancements-from-the-lab-to-the-manufacturing-floor）
+  - 「This online event is a must-attend for those involved in perovskites, with presentations from leading companies such as Microquanta, UtmoLight, Solaronix, Solaveni, Noctiluca, Fluxim, IIT Dharwad, Solra-PV, and Intellivation.」（https://www.perovskite-info.com/fluxim）
+  - 「The team noted that the migration of lithium is critical in the degradation of spiro-OMeTAD-based devices, which is accelerated at higher temperatures, leading to the rapid degradation of the perovskite. The scientists described ferrocene as a sandwich structured material that is highly stable and can be used as a low-cost transition metal complex.」（https://www.perovskite-info.com/fluxim）
+  - 「Leading simulation and measurement tool provider」（https://www.perovskite-info.com/fluxim）
+  - 「research, as demonstrated by its field-leading publications and significant interest」（https://www.nlr.gov/pv/perovskite-solar-cells）
+  - 「Fundamental photophysics, photochemistry, and exciton/charge-carrier dynamics」（https://www.nlr.gov/pv/perovskite-solar-cells）
+  - 「Topic 7」（https://www.nlr.gov/pv/perovskite-solar-cells）
+  - 「halide perovskites (e.g., CH3NH3PbI3) for both top and bottom cells. Halide perovskites」（https://www.nlr.gov/pv/perovskite-solar-cells）
+  - 「Fabricate high-efficiency single-junction perovskite (top and bottom) cells」（https://www.nlr.gov/pv/perovskite-solar-cells）
+  - 「Take the findings above to one of our principal consultants, or have the report rebuilt around the segments, geographies and competitors you actually track.」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「Key Players Insights」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「Which is the leading structure segment in the global perovskite solar cell market?」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+- 自社名で出せる条件：
+  - 「Vitios combines PL, EL, and IR imaging together with electrical characterization. Together with software for seamless measurement customization and embedded post-processing techniques.」（https://www.fluxim.com/）
+  - 「Shichen Yin, Organic Electronic Materials and Devices Laboratory (OEMDLab), NC State University」（https://www.fluxim.com/）
+  - 「photoemission spectroscopy/transient absorbance spectroscopy」（https://www.nlr.gov/pv/perovskite-solar-cells）
+  - 「with carbon nanotubes embedded in a polymer matrix can yield high efficiencies and」（https://www.nlr.gov/pv/perovskite-solar-cells）
+  - 「We are using photoemission spectroscopy on thin single-walled carbon nanotube (SWCNT)」（https://www.nlr.gov/pv/perovskite-solar-cells）
+  - 「We are determining valence-band structure from ultraviolet photoemission spectra.」（https://www.nlr.gov/pv/perovskite-solar-cells）
+  - 「We are using X-ray photoemission spectroscopy and find no band bending in MAPbI」（https://www.nlr.gov/pv/perovskite-solar-cells）
+  - 「Direct Sales / OEM」（https://market.us/press-release/perovskite-solar-cell-market/）
+- 再販制度：
+  - 「▸Distributors」（https://www.fluxim.com/）
+  - 「Paios performs various optoelectrical characterizations on solar cells and OLEDs with one click. Store measurements in a database, analyse, compare and post-process them directly in the software.」（https://www.fluxim.com/）
+  - 「Phelos is an angular resolved spectrometer that measures the electroluminescence (EL) and photoluminescence (PL) of OLEDs and light-emitting materials over various angles and polarization.」（https://www.fluxim.com/）
+  - 「IVS-KA6000 can control a variety of SMUs and perform data collection of current and voltage based on setting parameters by users. The formulas and algorithms of IVS-KA6000 are based on the foundation developed and released by NREL.」（https://enlitechnology.com/product/ivs-ka6000/）
+  - 「Automatic Variable Light Intensity Measurement:」（https://enlitechnology.com/product/ivs-ka6000/）
+  - 「7. Automatic Variable Light Intensity Measurement Function:」（https://enlitechnology.com/product/ivs-ka6000/）
+  - 「IV data at various light intensities can be stored and imported into analysis tools for further research on efficiency trends, light dependence, etc.」（https://enlitechnology.com/product/ivs-ka6000/）
+  - 「, with stabilization time varying depending on cell structure and materials. Direct measurement can lead to data deviations due to transient phenomena.」（https://enlitechnology.com/product/ivs-ka6000/）
+  - 「The overlay function clearly shows changes between curves, helping to identify sample performance variations under different conditions, such as light intensity changes, aging effects, etc.」（https://enlitechnology.com/product/ivs-ka6000/）
+  - 「experimental condition variation comparison」（https://enlitechnology.com/product/ivs-ka6000/）
+  - 「Coherent Market Insights Pvt Ltd, 533 Airport Boulevard, Suite 400, Burlingame, CA 94010, United States.」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「Become Reseller」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「(two- or three-color), a wireless communication module and a perovskite photovoltaic cell as a power source. Saule Technologies offers PESL labels in a variety of shapes, colors and sizes (from 1.54 ' to 12.5 ').」（https://www.perovskite-info.com/saule-technologies-launches-electronic-shelf-labels-powered-perovskite-solar）
+  - 「Because of these varying regional and technological dynamics, the commercial viability of perovskite PV is no longer a binary question of "will the technology work?" The answer also depends on the application.」（https://www.idtechex.com/en/research-article/perovskite-photovoltaics-from-lab-efficiency-to-mass-commercialization/34926）
+  - 「Saule is making these labels in various shapes and colors with sizes ranging between 1.54 inches to 12.5 inches」（https://taiyangnews.info/technology/saule-technologies-targets-retail-sector）
+- 黒字・収益性：
+  - 「How will the profit curve evolve in the future? It seems you have planned for losses that exceed one billion yen this fiscal year, but will these losses grow or contract? Although it might be difficult to provide specific numbers, what will profitability look like in FY2030? Please comment on profits.」（https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html）
+  - 「on March 25, 2021. Applicants had to build teams and form for-profit U.S. companies whose date of incorporation was on or after October 16, 2020. Individuals and nonprofits were not eligible to compete.」（https://www.energy.gov/cmei/systems/american-made-challenges-perovskite-startup-prize）
+- 売上：
+  - 「Revenue, 2026」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「Structure Insights (Revenue, USD Mn, 2021 - 2033)」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「Product Type Insights (Revenue, USD Mn, 2021 - 2033)」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「End User Insights (Revenue, USD Mn, 2021 - 2033)」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「Regional Insights (Revenue, USD Mn, 2021 - 2033)」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「I would like to ask about the challenges in achieving a durability of 20 years. Are materials like barrier films and sealants the issue, or is this a question of assembly?」（https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html）
+  - 「Durability remains a major barrier to growth in the perovskite solar cell market. The U.S. Department of Energy reports that laboratory cells exceed 26% efficiency and perovskite-silicon tandems are close to 34%, yet the technology is still not produced at high volume. Moisture, oxygen,」（https://market.us/press-release/perovskite-solar-cell-market/）
+  - 「38.1% revenue share」（https://market.us/press-release/perovskite-solar-cell-market/）
+  - 「By product: Rigid segment accounted for the largest market revenue share of 68.1% in 2025」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「By application: Solar panel segment accounted for the largest market revenue share of 50.1% in 2025.」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「Largest regional market: Asia Pacific (52.1% revenue share, 2025)」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「Revenue in USD million/billion, and CAGR from 2026 to 2033」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「This report forecasts revenue growth at global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2021 to 2033. For this study, Grand View Research has segmented the global perovskite solar cell market report on the basis of vertical, product, application and region.」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「Vertical Outlook (Revenue, USD Million, 2021 - 2033)」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「Product Outlook (Revenue, USD Million, 2021 - 2033)」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+- 日本対応：
+  - 「Japan plans 100 billion yen in subsidies for perovskite solar cell mass production, with Ricoh and Choshu among the recipients」（https://www.perovskite-info.com/fluxim-releases-new-software-tool-simulate-large-area-perovskite-solar-cells）
+  - 「Japan to end silicon solar panel subsidies, quadruple perovskite support for FY2027」（https://www.perovskite-info.com/fluxim-releases-new-software-tool-simulate-large-area-perovskite-solar-cells）
+  - 「Japan to end silicon solar panel subsidies, quadruple perovskite support for FY2027」（https://www.perovskite-info.com/fluxim）
+  - 「China, India, Japan, Australia, South Korea, ASEAN, and Rest of Asia Pacific」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「Japanese」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「Japan plans 100 billion yen in subsidies for perovskite solar cell mass production, with Ricoh and Choshu among the recipients」（https://www.perovskite-info.com/saule-technologies-launches-electronic-shelf-labels-powered-perovskite-solar）
+  - 「Japan to end silicon solar panel subsidies, quadruple perovskite support for FY2027」（https://www.perovskite-info.com/saule-technologies-launches-electronic-shelf-labels-powered-perovskite-solar）
+  - 「Japanese IR Site Top」（https://www.sekisuichemical.com/ir/presentations/event/1425675_39072.html）
+  - 「U.S.; Canada; Mexico; Germany; UK; France; Italy; Spain;Russia; China; India; Japan; Australia;Brazil; Argentina;Saudi Arabia; UAE; South Africa」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「Japan plans 100 billion yen in subsidies for perovskite solar cell mass production, with Ricoh and Choshu among the recipients」（https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion）
+  - 「Japan to end silicon solar panel subsidies, quadruple perovskite support for FY2027」（https://www.perovskite-info.com/idtechex-estimates-annual-perovskite-pv-revenue-will-reach-almost-us12-billion）
+  - 「日本の再エネ拡大の切り札、ペロブスカイト太陽電池とは？（前編）～今までの太陽電池とどう違う？｜エネこれ｜資源エネルギー庁」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html）
+  - 「日本の再エネ拡大の切り札、ペロブスカイト太陽電池とは？（前編）～今までの太陽電池とどう違う？」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html）
+  - 「しかし、平地面積の少ない日本では、太陽光発電の設備を設置するための物理的な適地の制約があります」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html）
+  - 「下のグラフが示す通り、すでに日本は、平地面積当たりの太陽光発電の導入量が主要国で1位となっており、今後どのように設置場所を確保するかが課題となっています」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html）
+- 検索結果の抜粋：
+  - 「How to simulate perovskite solar cell using SCAPS-1D ... — How to simulate perovskite solar cell using SCAPS-1D ... ResearchGate https://www.researchgate.net > post」（https://www.researchgate.net/post/How-to-simulate-perovskite-solar-cell-using-SCAPS-1D-simulation-software）
+  - 「IVS-KA6000 Perovskite Solar Cell Measuring & Analysis ... — IVS-KA6000 Perovskite Solar Cell Measuring & Analysis ... EnliTech https://enlitechnology.com > product」（https://enlitechnology.com/product/ivs-ka6000/）
+  - 「Perovskite Solar Cell Market Size, Share | CAGR 67.6% — Perovskite Solar Cell Market Size, Share | CAGR 67.6% Market.us https://market.us > Press Releases」（https://market.us/press-release/perovskite-solar-cell-market/）
+  - 「Perovskite Solar Cell Market Size, Share & 2031 Growth ... — Perovskite Solar Cell Market Size, Share & 2031 Growth ... Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market）
+  - 「Perovskite Solar Cell Market Size & Opportunities, 2026-2033 — Perovskite Solar Cell Market Size & Opportunities, 2026-2033 Coherent Market Insights https://www.coherentmarketinsights.com > Energy」（https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market）
+  - 「Perovskite Solar Cell Market Size, Growth Report, 2026-2033 — Perovskite Solar Cell Market Size, Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... — 日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... 資源エネルギー庁 https://www.enecho.meti.go.jp > perovskite_solar_cell_01」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html）
+  - 「【2025年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... — 【2025年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... 株式会社エネテク https://enetech.co.jp > guide > perovskite-solar-cells」（https://enetech.co.jp/guide/perovskite-solar-cells/）
+  - 「【2026年】家庭用 ペロブスカイト は実用化された？世界 ... — 【2026年】家庭用 ペロブスカイト は実用化された？世界 ... ソーラーパートナーズ https://www.solar-partners.jp > contents」（https://www.solar-partners.jp/contents/51662.html）
+  - 「ペロブスカイト太陽電池 メーカー7社 - Metoree — ペロブスカイト太陽電池 メーカー7社 - Metoree Metoree https://metoree.com > 電源」（https://metoree.com/categories/9402/）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## 水電解装置（water electrolyzer）
+- 文脈：12 GX ②水素等
+- 提供企業：
+  - 「to maintain its leading position, with around three-quarters」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「the leading markets.」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「leading to higher costs over the lifetime of a project1.」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「position itself as a one-stop shop for」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「One-stop shop for green」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「relatively slower than revenues, leading to a gradual」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「several competing electrolyzer providers on the European」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「market. On the reformer side, there are fewer competitors,」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「and American hydrogen equipment providers. As the entire」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「at the top end of the range, expectations are higher and we」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「: Researchers are moving beyond rare and costly platinum group metals (PGMs) toward abundant alternatives like nickel, manganese, and transition metal oxides.」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「To accelerate commercialization, electrolyzer manufacturers are forging strategic alliances with EPC firms, green hydrogen developers, and utility providers. Notable partnerships include:」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「Key Players and Strategic Profiles」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「A leading Norwegian manufacturer of alkaline and PEM electrolyzers ,」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「A3: Leading players include NEL ASA, Siemens Energy, Plug Power, ITM Power, and Thyssenkrupp Nucera.」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+- 自社名で出せる条件：
+  - 「Original Equipment Manufacturers (OEMs)」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「Key U.S. OEMs」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「OEMs and wind/solar IPPs」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+- 再販制度：
+  - 「Perform various analyses for fuel cells and electrolyzers with the COMSOL」（https://www.comsol.com/fuel-cell-and-electrolyzer-module）
+  - 「A distributor and manufacturer of green hydrogen equipment」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「growth at various rates and confidence intervals, we can justify」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「bring in high-margin revenue」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「distributor of hydrogen equipment. The」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「bar hydrogen fueling stations in various sizes. Primary」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「development for a variety of use cases. The company has」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「electrolyzers and reformer projects and are largely variable,」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「and variable costs, with the variable costs」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「various colors. Green hydrogen is hydrogen produced」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「conventional fossil fuels in various steel production stages,」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「about different margin profiles, the development of the」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「margins over the years.」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「We note that Metacon’s future profitability profile will vary」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「• Sales margin % (sales mix)」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+- 黒字・収益性：
+  - 「Net Income -137.9 -47.3 -56.4 2.8」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「EV/EBITDA neg. neg. neg. 20.8」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「o Unprofitable operations that are currently」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「o Predicting revenue and profitability」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「EV/EBITDA neg. neg. 20.8」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「EBITDA Q2’25 LTM」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「However, profitability is」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「Revenue and EBITDA development」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「Revenue EBITDA」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「larger-scale projects, as these provide higher profitability,」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「profitability, we believe that an outsourcing-driven」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「has yet to become profitable. The company has financed its」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「not yet profitable, and profitability is a prerequisite for」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「on more favorable terms. Ultimately, once profitability is」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「Accumulated revenue Accumulated COGS Accumulated gross profit」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+- 売上：
+  - 「Revenue 40.4 296.7 637.1 823.5」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「European market. For 2027-2032, we expect strong revenue」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「support of revenue growth, and the company to carry out 250」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「Revenue Q2’25 LTM」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「Electrolyzer Market Report, Industry and Market Size & Revenue, Share, Forecast 2024–2030」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「Electrolyzer Market By Technology Type (PEM, Alkaline, Solid Oxide, AEM); By Capacity (<500 kW, 500 kW–2 MW, >2 MW); By Application (Power Generation, Industrial Feedstock, Energy Storage, Transportation, Others); By Geography, Segment Revenue Estimation, Forecast, 2024–2030」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「segment is expected to dominate in revenue terms by 2030 as global electrolyzer installations scale up to support industrial decarbonization and national hydrogen hubs. Large-scale deployments such as H2Med and HyDeal Ambition are accelerating demand for MW-class systems across Europe and North Africa.」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「, powered by an adjacent 80 MW solar array. The hydrogen is used to reduce iron ore into steel without coal, lowering the plant’s carbon emissions by over」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「Revenue Forecast in 2030」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「Forecast Revenue (2033)」（https://market.us/report/water-electrolysis-machine-market/）
+  - 「icon_arrow_2」（https://ec-frontier.co.jp/product/cell/SB2100.php）
+- 日本対応：
+  - 「Metacon also operates a sales organization in Japan, while」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「China Europe US Japan Korea RoW」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「United States, Canada or Japan or the citizens of the aforementioned countries.」（https://www.inderes.se/files/9007d254-362d-4fb7-9f34-9cd33d3d89fa）
+  - 「: Nations such as Germany, Japan, Australia, and the UAE are funding giga -scale hydrogen projects — many of which are electrolyzer -dependent.」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「— particularly China, Japan, and Australia — is poised for the fastest CAGR due to aggressive hydrogen policies, local manufacturing, and export ambitions.」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「Japan’s hydrogen economy roadmap」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「U.S., UK, Germany, China, India, Japan, Brazil, Saudi Arabia, etc.」（https://www.strategicmarketresearch.com/market-report/electrolyzer-market）
+  - 「In October 2025, HYDGEN raised USD 5 million in equity and debt to scale its AEM electrolyzer technology, establish a semi-automated production line, increase single-stack capacity to 250 kW, and expand into Japan, Europe, and the Middle East.」（https://straitsresearch.com/report/water-electrolysis-market）
+  - 「Headquarters: Tokyo, Japan」（https://www.sphericalinsights.com/blogs/top-25-companies-in-alkaline-water-electrolysis-hydrogen-production-equipment-market-2025-strategic-overview-future-trends-2024-2035）
+  - 「「日本核酸医薬学会 第11回年会」に出展します」（https://www.kobelco-eco.co.jp/product/hhog/）
+  - 「日本初！自治体が持つ下水処理場内で民間企業が産業廃棄物処分業の許可を取得」（https://www.kobelco-eco.co.jp/product/hhog/）
+  - 「「SEMICON Japan 2025」に出展します」（https://www.kobelco-eco.co.jp/product/hhog/）
+  - 「～今日も明日も休めないあなたへ～＜日本初！免疫をケアする食物繊維＞KOBELCO独自のスーパーフード「金のユーグレナ」（https://www.kobelco-eco.co.jp/product/hhog/）
+  - 「「湿式炭化による下水汚泥利活用技術」が日本下水道事業団の新技術Ⅰ類に選定 ～エネルギー自立型燃料化プロセスで処理場の脱炭素化に貢献～」（https://www.kobelco-eco.co.jp/product/hhog/）
+  - 「＼ 日本初！免疫をケアする“食物繊維”／」（https://www.kobelco-eco.co.jp/product/hhog/）
+- 検索結果の抜粋：
+  - 「国外にはMW規模の 水電解装置 を導入した再エネ水素事業が20 ... — 国外にはMW規模の 水電解装置 を導入した再エネ水素事業が20 ... 環境省 PDF https://www.env.go.jp > list > lowcarbon-h2-sc > PDF」（https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf）
+  - 「欧州最大規模となるPEM形1万kWの 水電解装置 を運転開始 — 欧州最大規模となるPEM形1万kWの 水電解装置 を運転開始 電気事業連合会 https://www.fepc.or.jp > ... > 海外電力関連 トピックス情報」（https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1260527_4115.html）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## グリーンアンモニア（green ammonia）
+- 文脈：12 GX ②水素等
+- 提供企業：
+  - 「With ammonia demand on the rise, Schneider Electric is leading the sustainability journey with a new paradigm of energy efficiency, process electrification, exciting innovations in automation and adoption of digital technology as an enabler.」（https://blog.se.com/sustainability/2023/03/23/energy-automation-software-triad-to-achieve-sustainability-in-the-ammonia-industry/）
+  - 「Top picks」（https://blog.se.com/sustainability/2023/03/23/energy-automation-software-triad-to-achieve-sustainability-in-the-ammonia-industry/）
+  - 「The launch of GABA leverages the combined expertise and shared commitment of GMA, RMI, and 3Degrees to accelerate industrial decarbonization through innovative market-based solutions and extends a proven collective procurement approach into a sector primed to convert potential into impact. The program’s founding members include leading companies within the food and beverage sector.」（https://gmacenter.org/news/press-release-food-and-beverage-companies-gain-new-decarbonization-pathway-with-launch-of-green-ammonia-buyers-alliance/）
+  - 「So why is green ammonia twice as expensive as it’s fossil alternative, considering that it uses mature technologies and renewable electricity that have become cheaper than their fossil alternatives?」（https://protonventures.com/news/why-does-green-ammonia-struggle-to-kick-off-what-can-we-do-about-it/）
+  - 「. SOEC can bridge the gap, but I’ll come back to it later. On top of that, where energy is needed in the form of gas in the fossil alternative, it is needed in the form of electricity for green ammonia, a more refined form of energy.」（https://protonventures.com/news/why-does-green-ammonia-struggle-to-kick-off-what-can-we-do-about-it/）
+  - 「Key Players Analysis」（https://market.us/report/green-ammonia-market/）
+  - 「Leading Region」（https://market.us/report/green-ammonia-market/）
+  - 「alternatives is growing due to tightening regulatory frameworks and net-zero pledges.」（https://market.us/report/green-ammonia-market/）
+  - 「source by power providers. The marine transportation industry has used green ammonia as an alternative fuel for zero-emission operations. On the other hand, the」（https://market.us/report/green-ammonia-market/）
+  - 「are the leading application sector in the worldwide green ammonia market, accounting for」（https://market.us/report/green-ammonia-market/）
+  - 「Asia-Pacific emerges as the leading region in the market」（https://market.us/report/green-ammonia-market/）
+  - 「region emerges as the leading region in the global market for green ammonia, accounting for」（https://market.us/report/green-ammonia-market/）
+  - 「Haldor Topsoe」（https://market.us/report/green-ammonia-market/）
+  - 「Other Key Players」（https://market.us/report/green-ammonia-market/）
+  - 「Nel Hydrogen, Siemens Energy, MAN Energy Solutions, ThyssenKrupp AG, ITM Power PLC, Hydrogenics, Green Hydrogen Systems, McPhy Energy, Electrochaea, EXYTRON, AquaHydrex, Enapter, BASF SE, Yara International, ENGIE, Uniper, Haldor Topsoe, Starfire Energy, Queensland Nitrates Pty Ltd, Hiringa Energy, Other Key Players.」（https://market.us/report/green-ammonia-market/）
+- 自社名で出せる条件：
+  - 「Integrating the simulation of power and process systems during the engineering phase of the project lifecycle leads to designs which are optimized for embedded C02 emission, energy consumption, and sustainability. Solutions like」（https://blog.se.com/sustainability/2023/03/23/energy-automation-software-triad-to-achieve-sustainability-in-the-ammonia-industry/）
+  - 「The EU Carbon Border Adjustment Mechanism (CBAM) entered its definitive regime on 1 January 2026, applying to nitrogenous fertilisers the primary end-use product of ammonia and explicitly pricing the embedded carbon in imported grey ammonia derivatives at the EU ETS allowance price. India’s MNRE’s February 2026 Green Ammonia Standard (」（https://market.us/report/green-ammonia-market/）
+- 再販制度：
+  - 「This is particularly true in the case of an ammonia plant drawing power from a variety of sources, a situation involving constant balancing and detailed, verifiable reporting. In such scenarios, the solutions mentioned above enable near real-time sustainability performance reporting in a configurable, KPI-driven visualized dashboard.」（https://blog.se.com/sustainability/2023/03/23/energy-automation-software-triad-to-achieve-sustainability-in-the-ammonia-industry/）
+  - 「Food security, population growth, and the need to assure agricultural efficiency have all contributed to the agricultural industry’s supremacy as an application field. Furthermore, various policies implemented by governments to promote sustainable agriculture practices and the use of green fertilizers will support the use of ammonia in the agricultural industry.」（https://market.us/report/green-ammonia-market/）
+  - 「This cost asymmetry directly compresses developer margins on long-term offtake contracts, forces continued dependence on production-linked subsidies, and creates a vicious cycle wherein sub-scale deployment prevents the learning-rate cost reductions needed to close the gap estimated by the IEA to require cumulative electrolyzer deployment beyond」（https://market.us/report/green-ammonia-market/）
+  - 「Channel Partner Satisfaction Studies」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「The green ammonia production plant setup cost is provided in detail covering project economics, capital investments (CapEx), project funding, operating expenses (OpEx), income and expenditure projections, fixed costs vs. variable costs, direct and indirect costs, expected ROI and net present value (NPV), profit and loss account, financial analysis, etc.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Plant Profit Margins:」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「The project demonstrates healthy profitability potential under normal operating conditions. Gross profit margins typically range between 25-30%, supported by stable demand and value-added applications.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「​Establishing and operating a green ammonia production plant involves various cost components, including:​」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Gross Margin」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Net Margin」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Capital Costs, Techno-Economic Parameters, Income Projections, Expenditure Projections, Product Pricing and Margins, Taxation, Depreciation」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Our client base consists of over 3000 organizations, including prominent corporations, governments, and institutions, who rely on us as their trusted business partners. Our clientele varies from small and start-up businesses to Fortune 500 companies.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Capital requirements generally include land acquisition, construction, equipment procurement, installation, pre-operative expenses, and initial working capital. The total amount varies with capacity, technology, and location.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Profitability depends on several factors including market demand, production efficiency, pricing strategy, raw material cost management, and operational scale. Profit margins usually improve with capacity expansion and increased capacity utilization rates.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Governments may offer incentives such as capital subsidies, tax exemptions, reduced utility tariffs, export benefits, or interest subsidies to promote manufacturing under various national or regional industrial policies.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+- 黒字・収益性：
+  - 「The green ammonia production plant setup cost is provided in detail covering project economics, capital investments (CapEx), project funding, operating expenses (OpEx), income and expenditure projections, fixed costs vs. variable costs, direct and indirect costs, expected ROI and net present value (NPV), profit and loss account, financial analysis, etc.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Plant Profit Margins:」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「The project demonstrates healthy profitability potential under normal operating conditions. Gross profit margins typically range between 25-30%, supported by stable demand and value-added applications.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Gross Profit: 25-30%」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Net Profit: 10-15%」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「The financial projections for the proposed project have been developed based on realistic assumptions related to capital investment, operating costs, production capacity utilization, pricing trends, and demand outlook. These projections provide a comprehensive view of the project’s financial viability, ROI, profitability, and long-term sustainability.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「This report provides the comprehensive blueprint needed to transform your green ammonia production vision into a technologically advanced and highly profitable reality.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「A detailed financial analysis, including income projections, expenditures, and break-even points, must be conducted. This analysis aids in securing funding and formulating a clear financial strategy.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Profitability Analysis:」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Gross Profit」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Net Profit」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Liquidity Analysis, Profitability Analysis, Payback Period, Net Present Value, Internal Rate of Return, Profit and Loss Account, Uncertainty Analysis, Sensitivity Analysis, Economic Analysis」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Is green ammonia production a profitable business?」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Profitability depends on several factors including market demand, production efficiency, pricing strategy, raw material cost management, and operational scale. Profit margins usually improve with capacity expansion and increased capacity utilization rates.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Today, Topsoe A/S held its Annual General Meeting at which the following resolutions were adopted: Annual Report 2025 and appropriation of profit.」（https://www.topsoe.com/news/topsoe-technology-enables-green-ammonia-production-in-the-u.s）
+- 売上：
+  - 「Attention Carriers: GMA Trucking Procurement II RFI Accepting Responses Until December 4, 2026」（https://gmacenter.org/news/press-release-food-and-beverage-companies-gain-new-decarbonization-pathway-with-launch-of-green-ammonia-buyers-alliance/）
+  - 「Revenue, 2025 (US$B)」（https://market.us/report/green-ammonia-market/）
+  - 「Forecast Revenue (2035)」（https://market.us/report/green-ammonia-market/）
+  - 「Green Ammonia Production Cost Analysis Report 2026: Industry Trends, Plant Setup, Machinery, Raw Materials, Investment Opportunities, Cost and Revenue」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Green Ammonia Production Cost Analysis Report 2026: Industry Trends, Plant Setup, Machinery, Raw Materials, Investment Opportunities, Cost and Revenue,"」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Renewable Ammonia Synthesis Intermediates Manufacturing Plant Project Report 2026: Industry Trends, Plant Setup, Machinery, Raw Materials, Investment Opportunities, Cost and Revenue」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Blue Ammonia Production Cost Analysis Report 2026: Industry Trends, Plant Setup, Machinery, Raw Materials, Investment Opportunities, Cost and Revenue」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Anhydrous Ammonia Manufacturing Plant Project Report 2026: Industry Trends, Plant Setup, Machinery, Raw Materials, Investment Opportunities, Cost and Revenue」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Ammonia Production Cost Analysis Report 2026: Industry Trends, Plant Setup, Machinery, Raw Materials, Investment Opportunities, Cost and Revenue」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「…630 narrow-body」（https://www.ammoniaenergy.org/wp-content/uploads/2020/12/Alex-Tancock-Keynote.pdf）
+  - 「of ~2,800 narrow-」（https://www.ammoniaenergy.org/wp-content/uploads/2020/12/Alex-Tancock-Keynote.pdf）
+- 価格：
+  - 「The EU Carbon Border Adjustment Mechanism (CBAM) entered its definitive regime on 1 January 2026, applying to nitrogenous fertilisers the primary end-use product of ammonia and explicitly pricing the embedded carbon in imported grey ammonia derivatives at the EU ETS allowance price. India’s MNRE’s February 2026 Green Ammonia Standard (」（https://market.us/report/green-ammonia-market/）
+  - 「Break even in a green ammonia production business typically ranges from 5 to 8 years, depending on scale, regulatory compliance costs, raw material pricing, and market demand. Efficient production and export opportunities can help accelerate returns.」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Access for 5 Users, 2 Devices per User」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「締切迫る！年額プランが普段より2カ月お得に」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/）
+- 日本対応：
+  - 「South Asia primary; APAC corridors (Japan, South Korea offtake); Middle East spill-over」（https://market.us/report/green-ammonia-market/）
+  - 「APAC import block (Japan, South Korea); India, Australia as export corridors」（https://market.us/report/green-ammonia-market/）
+  - 「India–Japan corridor; India–EU extension; MENA–Europe」（https://market.us/report/green-ammonia-market/）
+  - 「Japan; South Korea; Southeast Asia (Bangladesh, Vietnam)」（https://market.us/report/green-ammonia-market/）
+  - 「Countries with extensive renewable energy resources, such as Australia, Saudi Arabia, India, Chile, and Namibia, are emerging as potential green ammonia export hubs. This is altering international energy trade dynamics and fostering new strategic alliances between ammonia-producing and energy-importing countries like Japan, South Korea, and numerous European countries.」（https://market.us/report/green-ammonia-market/）
+  - 「– China, Japan, South Korea, India, ASEAN & Rest of APAC;」（https://market.us/report/green-ammonia-market/）
+  - 「Japan Market Research」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「Japan Korea China」（https://www.ammoniaenergy.org/wp-content/uploads/2020/12/Alex-Tancock-Keynote.pdf）
+  - 「Japanese coal fired」（https://www.ammoniaenergy.org/wp-content/uploads/2020/12/Alex-Tancock-Keynote.pdf）
+  - 「Japan and Korea」（https://www.ammoniaenergy.org/wp-content/uploads/2020/12/Alex-Tancock-Keynote.pdf）
+  - 「generation in Japan」（https://www.ammoniaenergy.org/wp-content/uploads/2020/12/Alex-Tancock-Keynote.pdf）
+  - 「across Japan and」（https://www.ammoniaenergy.org/wp-content/uploads/2020/12/Alex-Tancock-Keynote.pdf）
+  - 「Hydrogen Japan」（https://www.ammoniaenergy.org/wp-content/uploads/2020/12/Alex-Tancock-Keynote.pdf）
+  - 「Kashiwazaki lower-carbon ammonia project now delivering to customers in Japan」（https://ammoniaenergy.org/articles/all-together-now-every-major-ammonia-technology-licensor-is-working-on-renewable-ammonia/）
+  - 「日本への輸出が計画されるインドのグリーンアンモニア | 世界のクリーン水素プロジェクトの現状と課題 - 特集 - 地域・分析レポート - 海外ビジネス情報 - ジェトロ」（https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html）
+- 検索結果の抜粋：
+  - 「Green Ammonia Market Size, Share | CAGR of 95.6% — Green Ammonia Market Size, Share | CAGR of 95.6% Market.us https://market.us > report > green-am...」（https://market.us/report/green-ammonia-market/）
+  - 「Green Ammonia Production Plant Cost, Setup, DPR 2026 — Green Ammonia Production Plant Cost, Setup, DPR 2026 IMARC Group https://www.imarcgroup.com > green...」（https://www.imarcgroup.com/green-ammonia-manufacturing-plant-project-report）
+  - 「GREEN AMMONIA AT OIL & GAS SCALE — GREEN AMMONIA AT OIL & GAS SCALE Ammonia Energy Association PDF https://www.ammoniaenergy.org > uploads > 2020/12」（https://www.ammoniaenergy.org/wp-content/uploads/2020/12/Alex-Tancock-Keynote.pdf）
+  - 「発電燃料としての輸入 グリーンアンモニア 利用の不経済性 — 発電燃料としての輸入 グリーンアンモニア 利用の不経済性 キヤノングローバル戦略研究所 PDF https://cigs.canon > uploads > sugiyama_note_260703」（https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf）
+  - 「インド における グリーンアンモニア 製造プロジェクトへの出資 ... — インド における グリーンアンモニア 製造プロジェクトへの出資 ... 株式会社IHI https://www.ihi.co.jp > ニュース > 2024年度」（https://www.ihi.co.jp/all_news/2024/resources_energy_environment/1201317_13676.html）
+
+## 合成燃料（e-fuels）
+- 文脈：12 GX ②水素等
+- 提供企業：
+  - 「Why the Fed Stopped Paying the Treasury」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「E-fuels offer low-carbon drop-in fuel alternatives, especially in sectors and scenarios where the rapid adoption of zero-emission transportation modes might not be feasible in the mid-century timeframe (such as aviation, heavy-duty, and maritime transport). Many underscore the crucial necessity of synthetic fuels as a key tool in the energy transition.」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「Low-carbon chemical feedstocks and alternatives.」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「There are several challenges and concerns associated with e-fuels. Given the extensive range of technological solutions and production pathways for e-fuels, close consideration of benefits and risks considering the specific application and available alternatives is essential.」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「Less efficient emission reduction option compared to alternatives.」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「Fuel stations (retail gas stations and truck stops)」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「Expand your platform value with leading employee benefit account administration」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「This rapid deployment can also give you an edge over competitors who may be developing their own products and services from scratch.」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「By offering high-quality products and services, you build your reputation as a provider of top-notch solutions. Clients who interact with your branded version of a white-labeled product will think of your business as the one providing the service, strengthening your brand’s credibility.」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「Subscribe to our corporate payments blog to stay on top of payment innovations.」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「Reporting on competitors」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「Countries like Morocco, Tunisia, Algeria, and Ivory Coast are leading this shift, thanks to rising internet penetration, mobile adoption, and digitally savvy workforces. Local businesses are eager for software solutions – such as CRM platforms, sales force automation, route-to-market tools, and business intelligence – that can be implemented quickly and adapted to local needs.」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「A reseller business allows individuals or companies to partner with established software providers and sell their digital solutions to other businesses. Rather than spending years building a new product or managing a development team, Resellers focus on marketing, sales, and client engagement, offering solutions that are already proven in the market.」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「This model is particularly well suited to the African business landscape, where companies are adopting digital technologies at an accelerating pace but often lack access to the right platforms or local implementation support. Resellers fill this gap by delivering tailored, localized services built on top of globally trusted tools.」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「The backing of a trusted brand recognized in industry reports and relied on by top global organizations.」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+- 自社名で出せる条件：
+  - 「White-Label EV Chargers & OEM Solutions – ChargeTronix 2026」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「/ White-Label EV Chargers & OEM Solutions: How to Expand Your Charging Brand」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「White-Label EV Chargers & OEM Solutions: How to Expand Your Charging Brand」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「white-label and OEM programs」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「What Is a White-Label EV Charger」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「A white-label charger is a fully certified product manufactured by one company and branded by another. It lets partners sell proven hardware under their own name while retaining quality control and service flexibility.」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「ChargeTronix as Your OEM Partner」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「Typical OEM Vendor」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「Expand Your Brand with Proven Technology」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「Become a White-Label Partner」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「The infrastructure behind the best B2B payment experiences is white-labeled | WEX Inc.」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「Customized payment processing solutions under your own brand」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「The infrastructure behind the best B2B payment experiences is white-labeled」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「Companies today are always looking for ways to be more efficient and provide more value to their customers. One solution that’s gained popularity is white-labeling. But what exactly is white-labeling, and how can it benefit both your business and your clients?」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「What is white-labeling?」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+- 再販制度：
+  - 「Breakthroughs in various」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「E-fuel production involves various technologies and has two main steps: feedstock production and fuel production.」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「) can be produced in a low-carbon manner from various sources. Clean hydrogen production methods have been discussed in a」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「can be separated from air using various air separation」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「An often-overlooked, non-hydrocarbon variant of e-fuel is e-ammonia, produced through electrochemical or thermochemical (Haber-Bosch) methods, utilizing clean electricity, heat, water, and N」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「, such as methanol and formic acid, that can serve as low-carbon inputs for various industrial commodities and products, aiding in decarbonizing the industrial sector.」（https://bipartisanpolicy.org/article/e-fuel-basics/）
+  - 「Distributor partnerships with exclusive territory rights.」（https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/）
+  - 「eLeader Partner Program for African companies - eLeader news」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「Partner Program」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「eLeader Partner Program for African companies」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「Explore key reseller sales models in Africa and find out which one fits your business goals. Learn how eLeader supports your growth with flexible Partner options.」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「Why Reseller Businesses Are Booming in Africa (And How to Start One with eLeader)?」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「Starting a business can be overwhelming, especially when it involves high product development costs, complex logistics, or the need for deep technical expertise. But reseller businesses offer a smarter alternative for entrepreneurs who want a faster path to revenue.」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「The reseller business model is opening doors for entrepreneurs who want to move fast, stay lean, and serve real market needs, especially in regions where digital transformation is reshaping business operations.」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「Reseller Partner Program」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+- 黒字・収益性：
+  - 「White-labeling also allows you to diversify your revenue streams. By offering new products or services that are complementary to your existing ones, you open up new opportunities for profit. For example, if you already sell consulting services, adding a white-labeled financial management platform or payment solution to your offerings can generate new revenue without a significant investment.」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「One of the first elements to evaluate is profitability. Look for a program that offers competitive commission structures, as well as recurring revenue opportunities from client renewals. Resellers who benefit from subscription-based income models often enjoy more predictable and scalable earnings, especially in markets where client loyalty is high.」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「different is how it combines high profitability with real, ongoing enablement. We don’t just hand over a product and expect you to sell. Instead, we provide a complete toolkit – competitive commission structures, recurring revenue streams, marketing support, product training, and one-on-one business coaching.」（https://www.eleader.biz/eleader-partner-program-for-african-companies/）
+  - 「What are ENGIE’s revenue and net income?」（https://www.engie.com/en/explore/explainer/e-fuels-what-are-they/）
+  - 「Our comprehensive white-label solutions enable you to market fluctuating and constant energy generation installations profitably without having to take action yourself.」（https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services）
+  - 「Our white-label services ensure that you benefit from our expertise in direct marketing without appearing as an external provider. This means you can retain full control over your customer relationships while you organise your marketing efficiently and profitably. You also benefit from the following services:」（https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services）
+- 売上：
+  - 「5. Increased revenue streams」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「At Appland we recruited 45 partners. Around ten of them were very active, and together they pitched to several hundred operators. Plan for a small core of partners who carry most of the programme, and give them the most attention.」（https://www.daniel-one.com/create-reseller-channel-partner-program）
+  - 「Forecast Revenue (2033)」（https://market.us/report/e-fuel-market/）
+  - 「By type, the E-methane type accounted for the largest market revenue share in 2024.」（https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html）
+  - 「Revenue in USD billion/million, Volume in Million Tons, and CAGR from 2026 to 2050」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「This report forecasts revenue and volume growth at global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2021 to 2050. For this study, Grand View Research has segmented the e-fuel market report based on product, state, production method, technology, end use, carbon source, carbon capture type, and region:」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「Product Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「State Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「Production Method Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「Technology Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「End Use Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「Carbon Source Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「Carbon Capture Type Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「Regional Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「Arrisa Avenue, Kharadi, Pune-411014」（https://www.snsinsider.com/reports/e-fuels-market-8516）
+- 価格：
+  - 「CO2 pricing」（https://www.efuel-alliance.eu/initiative/who-we-are）
+- 日本対応：
+  - 「Japanese」（https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/）
+  - 「, with governments such as the European Union, the U.S., and Japan spearheading the drive. In Europe alone, the European Commission has set an ambitious target to reach a capacity of」（https://market.us/report/e-fuel-market/）
+  - 「This substantial share is largely due to the aggressive renewable energy initiatives and governmental support across countries like China, India, and Japan, which are heavily investing in technologies such as hydrogen fuel and synthetic fuels to reduce their carbon footprints and enhance energy security.」（https://market.us/report/e-fuel-market/）
+  - 「North America – US, Canada; Europe – Germany, France, The UK, Spain, Italy, Rest of Europe; Asia Pacific – China, Japan, South Korea, India, Australia, Singapore, Rest of APAC; Latin America – Brazil, Mexico, Rest of Latin America; Middle East & Africa – South Africa, Saudi Arabia, UAE, Rest of MEA」（https://market.us/report/e-fuel-market/）
+  - 「Japan’s ENEOS & Mitsubishi – Methanol-to-Gasoline E-Fuel Pathways」（https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/）
+  - 「U.S.; Canada; Mexico; Netherlands; UK; Germany; France; Italy; Spain; Russia; China; Indonesia; Thailand; India; Japan; South Korea; Australia; Brazil; Colombia; Paraguay; Argentina; Saudi Arabia; UAE; South Africa; Egypt」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「North America (US, Canada), Europe (Germany, France, UK, Italy, Spain, Poland, Russsia, Rest of Europe), Asia Pacific (China, India, Japan, South Korea, Australia,ASEAN Countries, Rest of Asia Pacific), Middle East & Africa (UAE, Saudi Arabia, Qatar, Egypt, South Africa, Rest of Middle East & Africa), Latin America (Brazil, Argentina, Mexico, Colombia Rest of Latin America)」（https://www.snsinsider.com/reports/e-fuels-market-8516）
+  - 「メタネーション試験設備（日本 新潟）」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「SAF（持続可能な航空燃料）製造装置（日本 山口）」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「SAF（持続可能な航空燃料）製造装置（日本 沖縄）」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「JAPAN-GTL」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「日本企業プロジェクトの支援」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「すでに官民一体となって研究開発が進む合成燃料（e-fuel）ですが、実はその裏には、JOGMECが民間企業と共同で開発した、「JAPAN-GTLプロセス」という技術が生かされています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「ここでは、合成燃料（e-fuel）がどのようなものなのか、期待される理由や製造方法、そしてJAPAN-GTLとの関わりについて紹介します」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「もしかしたら、日本でもガソリンや灯油を製造する未来がくるかもしれません」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+- 検索結果の抜粋：
+  - 「E - fuel Market Size, Share | CAGR of 23.6% — E - fuel Market Size, Share | CAGR of 23.6% Market.us https://market.us > e-fuel-market」（https://market.us/report/e-fuel-market/）
+  - 「E - fuel Market Size, Share & Forecast Analysis Report 2034 — E - fuel Market Size, Share & Forecast Analysis Report 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/e-fuel-market-109586）
+  - 「E - fuels Market to Reach $66.25 Billion, at a 22.0% CAGR by ... — E - fuels Market to Reach $66.25 Billion, at a 22.0% CAGR by ... Yahoo Finance https://finance.yahoo.com > articles」（https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html）
+  - 「E - Fuels Market Size, Share, Trends, & Insights Report, 2035 — E - Fuels Market Size, Share, Trends, & Insights Report, 2035 Roots Analysis https://www.rootsanalysis.com > e-fue...」（https://www.rootsanalysis.com/e-fuels-market）
+  - 「E - Fuel Market Size, Share And Growth Report, 2026-2050 — E - Fuel Market Size, Share And Growth Report, 2026-2050 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「合成燃料 （e-fuel）の導入促進に向けた官民協議会 2023年中間 ... — 合成燃料 （e-fuel）の導入促進に向けた官民協議会 2023年中間 ... 経済産業省 PDF https://www.meti.go.jp > 2023_chukan_torimatome」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/2023_chukan_torimatome.pdf）
+  - 「合成燃料 （e-fuel）とは？作り方からメリット・デメリットや ... — 合成燃料 （e-fuel）とは？作り方からメリット・デメリットや ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_58」（https://www.wsew.jp/hub/ja-jp/blog/article_58.html）
+  - 「期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター — 期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター 脱炭素技術センター https://www.decarbonation-tech.com > intro_5010」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「欧  を中  とした 合成燃料 (e-fuel) 製造プロジェクト動向 — 欧  を中  とした 合成燃料 (e-fuel) 製造プロジェクト動向 一般財団法人 カーボンニュートラル燃料技術センター PDF https://www.pecj.or.jp > uploads > 2025/05 > JPECF...」（https://www.pecj.or.jp/wp-content/uploads/2025/05/JPECForum_2025_program_043.pdf）
+
+## 地熱発電（geothermal power）
+- 文脈：12 GX ④次世代型地熱
+- 提供企業：
+  - 「Other key players in next-gen geothermal energy generation include Calgary-based startup」（https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/）
+  - 「Swell Energy, a leading player in home energy storage,」（https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/）
+  - 「. The project aims to produce green ammonia using renewable energy, contributing to the decarbonization of the industrial sector and the global push towards sustainable fertilizers and fuel alternatives.」（https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/）
+  - 「to network with leading climate investors and startups from around the world who are working to build the future low-carbon economy.」（https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/）
+  - 「Leading scientific research and technology development across priority areas.」（https://www.energy.gov/hgeo/geothermal/geothermal-electricity-technology-evaluation-model）
+  - 「Topics」（https://www.energy.gov/hgeo/geothermal/geothermal-electricity-technology-evaluation-model）
+  - 「View all Topics」（https://www.energy.gov/hgeo/geothermal/geothermal-electricity-technology-evaluation-model）
+  - 「TOPCon Solar Floor Tiles」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「Walk-on photovoltaic floor tiles using TOPCon cells.」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「Utility, commercial, and rooftop solar deployment.」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「Leading scientific research and technology development across priority areas.」（https://www.energy.gov/hgeo/geothermal/articles/og-launches-multistate-initiative-expand-geothermal-power）
+  - 「Topics」（https://www.energy.gov/hgeo/geothermal/articles/og-launches-multistate-initiative-expand-geothermal-power）
+  - 「View all Topics」（https://www.energy.gov/hgeo/geothermal/articles/og-launches-multistate-initiative-expand-geothermal-power）
+  - 「Explore more on these topics:」（https://www.energy.gov/hgeo/geothermal/articles/og-launches-multistate-initiative-expand-geothermal-power）
+  - 「Topics」（https://www.naseo.org/topics/geothermal-power-accelerator）
+- 自社名で出せる条件：
+  - 「White-label apps, custom app, web and AI development. Flat prices, buy online.」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「White-Label Branded App and Website」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「Your branded app and website, live in days.」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「White-Label Loyalty and Wallet App」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「White-Label Marketplace and Ordering Platform」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「White-Label Delivery App」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「White-Label Booking and Hotel App」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「White-Label Customer Portal」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「White-Label Apps」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「AI APIs, n8n & white-label.」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「Powers chat widgets, embedded content, and enhanced features.」（https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8）
+  - 「Rebranding the organization」（https://taoti.com/portfolio/geothermal-rising/）
+  - 「Behind the Scenes of an Award-Winning Rebrand」（https://taoti.com/portfolio/geothermal-rising/）
+  - 「recipients of a Gold MarCom award for this rebrand.」（https://taoti.com/portfolio/geothermal-rising/）
+  - 「OEM カスタム圧力センサー」（https://www.bakerhughes.com/jp/geothermal-solutions）
+- 再販制度：
+  - 「. Swell, which installed and financed distributed energy storage, then aggregated it into VPPs, had early success, but VPP marketplaces have notoriously small margins and it’s hard for new players to garner enough customers to scale」（https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/）
+  - 「NASEO offers contract opportunities to provide services in support of various program areas. The process is open to all, including small and disadvantaged businesses.」（https://www.naseo.org/topics/geothermal-power-accelerator）
+  - 「In case studies presented last year, the Energy Department’s Geothermal Technologies Office showcased how large-scale heat pump installations could work in various parts of the country. The Taiwanese firm」（https://triplepundit.com/2025/geothermal-energy-businesses/）
+  - 「Made for Meta partner program」（https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/）
+- 黒字・収益性：
+  - 「NASEO's Affiliate Partnership provides businesses, trade associations, nonprofits, and other organizations a unique alliance opportunity with each and every State Energy Office.」（https://www.naseo.org/topics/geothermal-power-accelerator）
+  - 「Non--Profit Web Design」（https://taoti.com/portfolio/geothermal-rising/）
+  - 「Nonprofit Digital Strategy」（https://taoti.com/portfolio/geothermal-rising/）
+  - 「Nonprofit Web Design」（https://taoti.com/portfolio/geothermal-rising/）
+  - 「Canary Media, Inc. is a nonprofit, tax-deductible 501(c)(3) organization. EIN: 86‑2478288」（https://www.canarymedia.com/articles/geothermal/sage-geosystems-and-meta-sign-150mw-geothermal-power-agreement）
+  - 「Nonprofits」（https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/）
+  - 「Non-profits」（https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/）
+  - 「Profits elude geothermal companies - ABC News」（https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721）
+  - 「Profits elude geothermal companies」（https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721）
+  - 「The companies, based in the West, have received $195 million in partial federal loan guarantees and grants aimed at promoting clean energy. While the companies have agreements with utilities to buy their energy, they have not operated at a profit. They face questions similar to those of Solyndra, the now bankrupt solar manufacturer that received a $535 million federal loan in 2009.」（https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721）
+  - 「A third company, U.S. Geothermal, received a $97 million Energy Department loan in February. Its filings with the U.S. Securities and Exchange Commission show it has not made a profit in the last four years.」（https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721）
+- 売上：
+  - 「Executive Order 2025-13, Removing Barriers to Delivering Affordable Energy for Arizona」（https://www.naseo.org/topics/geothermal-power-accelerator）
+  - 「AZ Executive Order 2025-13: Removing Barriers to Delivering Affordable Energy for Arizona」（https://www.naseo.org/topics/geothermal-power-accelerator）
+  - 「as his 2023 Western Governors Association Chair Initiative. The initiative examined opportunities for and barriers to the increased deployment of geothermal energy technologies for both electricity generation and heating and cooling systems in western states, which contain the vast majority of high-yield geothermal energy capacity in the U.S.」（https://www.naseo.org/topics/geothermal-power-accelerator）
+  - 「But NGP, which also received an additional $66 million in government grants, and Raser received support from both sides of the aisle. Senate Majority Leader Harry Reid, D-Nevada, has cheered NGP, while Sen. Orrin Hatch, R-Utah, has long backed Raser.」（https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721）
+- 日本対応：
+  - 「, a Tokyo, Japan-based eVTOL developer company,」（https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/）
+  - 「Japanese」（https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/）
+  - 「Japanisch」（https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/）
+  - 「Japan (日本語)」（https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/）
+  - 「Baseload Power Japan」（https://www.baseloadcap.com/geothermal-startups-get-another-boost/）
+  - 「地熱開発ソリューション・コンサルティングサービス | Schlumberger Japan」（https://jp.slb.com/products-services/business-solutions/geothermal-services）
+  - 「日本におけるシュルンベルジェ」（https://jp.slb.com/products-services/business-solutions/geothermal-services）
+  - 「#Wordpress #サイト制作 #英語版 #日本語版」（https://trops.co.jp/geothermal_plant_software）
+  - 「日本は米国、インドネシアに次ぐ世界第3位の地熱資源国です」（https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/）
+  - 「日本の再生可能エネルギー電源の比率は、2019年の段階で18.5%であり、政府はこれを2030年までに22～24%に向上させることを目標としています」（https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/）
+  - 「日本におけるインフラ投資、インフラファンド、プロジェクトファイナンスのニュースをご紹介」（https://infrato.jp/16424/）
+  - 「2020年6月1日、九州電力株式会社（以下、「九州電力」）は同社グループの株式会社キューデン・インターナショナルと西日本技術開発株式会社は米国の地熱技術会社サーモケム社及びサーモケム・インドネシア社（Thermochem,Inc.及びPT. Thermochem Indonesia、以下、「サーモケム社」）の買収に係る株式購入契約を締結したことを発表した」（https://infrato.jp/16424/）
+  - 「（㈱キューデン・インターナショナル、西日本技術開発㈱、サーモケム社及びサーモケム・インドネシア社の地熱業務実績がある国・地域」（https://infrato.jp/16424/）
+  - 「、2020年6月1日、九州電力株式会社（西日本技術開発株式会社、株式会社キューデン・インターナショナルとの共同リリース）」（https://infrato.jp/16424/）
+  - 「【参画】北陸電力と日本工営エナジーソリューションズ、ベトナムの水力発電事業に出資...」（https://infrato.jp/16424/）
+- 検索結果の抜粋：
+  - 「Meta tags Sage for geothermal power #212 - CTVC — Meta tags Sage for geothermal power #212 - CTVC ctvc.co https://www.ctvc.co > meta-tags-sage-...」（https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/）
+  - 「Sage Geosystems and Meta sign 150MW geothermal power … — Sage Geosystems and Meta sign 150MW geothermal power … Canary Media https://www.canarymedia.com > articles」（https://www.canarymedia.com/articles/geothermal/sage-geosystems-and-meta-sign-150mw-geothermal-power-agreement）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## 洋上風力（offshore wind）
+- 文脈：12 GX ⑤洋上風力
+- 提供企業：
+  - 「Join the leading collaborative voice for the offshore wind industry and get exclusive membership benefits.」（https://oceantic.org/u-s-offshore-wind-pathway-program/）
+  - 「Join the leading collaborative voice for the offshore wind industry and get exclusive membership benefits.」（https://oceantic.org/weve-changed-our-name-to-oceantic-network-heres-why/）
+  - 「Explore related topics」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「Track the Ostwind 4 fabrication schedule as a leading indicator for offshore vessel and port demand in the North Sea region through 2027 and 2028.」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「on the record. Buyers are already reading this topic. The only question is whose experts they find.」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「Before they reach out, Energy buyers ask AI engines which vendors to trust. Explore how your experts, customers, and partners can become useful content for buyers and AI search.」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「Distribution networks hold 55.6% of the market, and utilities in the Zpryme survey also ranked distribution automation, FLISR and hardening as top priorities, so feeder-level equipment is where budgets and forecasts agree.」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「“The inaugural Accelerator Program cohort will drive advances in the OSW industry through government and industry partnerships that will help pilot new technologies and scale businesses. We look forward to working with The Offshore Wind Innovation Hub to build a nation-leading ecosystem and more inclusive future for all New Yorkers.”」（https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/）
+  - 「Empire receives stop work order from US Department of the Interior’s Bureau of Ocean Energy Management」（https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/）
+  - 「Stop work order lifted, Empire Wind project resumes construction」（https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/）
+  - 「, a leading offshore wind platform. Both of them will serve as the basis of Ørsted’s North American expansion, where 1 GW of projects have already been awarded to the company, and 8 GW’s worth are under business development. Asia Pacific is represented by one massive Taiwanese offshore farm with a capacity of 1.8 GW.」（https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/）
+  - 「For over 35 years, iPS has connected top talent and leading companies across maritime, renewables and civil.」（https://ipspowerfulpeople.com/knowledgebase/how-do-companies-finance-offshore-wind-expansion/）
+  - 「A Contract for Difference, used widely in the UK and increasingly across Europe, guarantees the developer a fixed “strike price” for electricity. If the market price falls below that level, the government tops it up. If the market price rises above it, the developer pays the difference back. This two-way mechanism protects both the developer and the consumer.」（https://ipspowerfulpeople.com/knowledgebase/how-do-companies-finance-offshore-wind-expansion/）
+  - 「. “We know that when we invest in American offshore wind energy, we’re creating economic opportunities across the country, leading to a strong, nationwide supply chain that can deliver family-sustaining jobs and reliable energy for American families and businesses.”」（https://turnforward.org/report-early-offshore-wind-investments-reduce-future-project-costs/）
+  - 「See who's leading, what's moving, and where private markets are going next.」（https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies）
+- 自社名で出せる条件：
+  - 「. Our new name honors the earth’s oceans. It celebrates that dynamic natural force that is a source of enormous clean, renewable power and connects all that we do. With this rebrand, we will shift our focus to ensuring we realize the full renewable energy potential of our oceans.」（https://oceantic.org/weve-changed-our-name-to-oceantic-network-heres-why/）
+  - 「Business Network for Offshore Wind rebrands to Oceantic Network and embraces ocean renewables.」（https://oceantic.org/weve-changed-our-name-to-oceantic-network-heres-why/）
+  - 「Siemens Energy rebrands as Omterra, uniting wind and grid un」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「Siemens Energy begins preparations to rebrand as Omterra, uniting wind and grid businesses」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「Siemens Energy has begun preparing to rebrand its Siemens Gamesa wind business and grid division under a single new name, Omterra, signaling a cleaner separation from its Siemens AG heritage.」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「Rebranding」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「The rebrand would unite Siemens Gamesa and the grid division under one standalone brand.」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「Empire Wind’s Statement on Receiving the Record of Decision from BOEM」（https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/）
+  - 「風車ブレードの角度制御装置をOEM提供 オーストリアのKEBA 日本の風力市場に参入、世界12万台超供給の実績 - ウインドジャーナル｜風力発電のビジネス情報サイト」（https://windjournal.jp/112100/）
+  - 「風車ブレードの角度制御装置をOEM提供 オーストリアのKEBA 日本の風力市場に参入、世界12万台超供給の実績」（https://windjournal.jp/112100/）
+  - 「世界15ヶ国、25拠点で機械メーカー向けにロボットや工作機械、射出成形機向けの制御ソリューションをOEM提供しているのがオーストリアのKEBA」（https://windjournal.jp/112100/）
+  - 「実際のビジネスとしては日本のロボットメーカー向けに弊社のソリューションをOEM供給しています」（https://windjournal.jp/112100/）
+  - 「zenon の機能は、OEMハードウェアとテクノロジーの境界にとどまりません」（https://www.copadata.com/ja/industries/energy-infrastructure/energy-solutions/wind-energy-with-zenon/）
+  - 「この幅広い互換性により、作業能力が向上し、特定の OEM サポートサービスへの依存度が下がり、メンテナンススケジュールと戦略の最適化が可能になります」（https://www.copadata.com/ja/industries/energy-infrastructure/energy-solutions/wind-energy-with-zenon/）
+  - 「グループとして世界の主要風車OEMへ旋回ベアリングを供給しています」（https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html）
+- 再販制度：
+  - 「The project encountered various technical challenges throughout the design phase. Most notably the engineers had to deal with significant seabed mobility – a challenging phenomenon where the entire seabed in the area is being exposed to either erosion or sedimentation over time.」（https://www.cowi.com/insights/the-next-phase-for-offshore-wind/）
+  - 「– Turbine-specific weather forecasts to improve operational margins.」（https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/）
+  - 「The company has a strong presence in Europe, particularly the U.K., a country that leads the globe in offshore wind power generation. International expansion towards the U.S. and Asia Pacific is also on the cards, and our readers from ‘Murica may be interested to see some of the planned offshore wind energy projects off the coasts of various states.」（https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/）
+  - 「Ørsted will sell to wholesale and corporate customers going forward and divest its electricity transmission, distribution, and residential sales channels to focus on its core business. Besides offshore and onshore wind, the company also plans to diversify towards solar, bioenergy, and energy storage if any of these offer growth opportunities on the back of cost reductions in the medium term.」（https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/）
+  - 「Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los」（https://willow-project.eu/partners/）
+  - 「Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.」（https://willow-project.eu/partners/）
+  - 「Activar o desactivar las cookies」（https://willow-project.eu/partners/）
+  - 「Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.」（https://willow-project.eu/partners/）
+  - 「Activar todo」（https://willow-project.eu/partners/）
+  - 「Varel, Lower Saxony, Germany」（https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies）
+  - 「How do these companies perform financially? What are their revenues and profit margins?」（https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies）
+  - 「Fonderie Et Mecanique Generale Castelbriantaiseとの独占販売代理店契約を締結（浮体式洋上風力関連）｜ニュースリリース｜原田産業株式会社」（https://www.haradacorp.co.jp/news/detail.php?id=365）
+  - 「Fonderie Et Mecanique Generale Castelbriantaiseとの独占販売代理店契約を締結（浮体式洋上風力関連）」（https://www.haradacorp.co.jp/news/detail.php?id=365）
+  - 「原田産業株式会社(本社：大阪府大阪市、代表取締役社長 原田暁、以下、「原田産業」)は、Fonderie Et Mecanique Generale Castelbriantaise (本社：フランス・シャトーブリアン、CEO：Nicolas Ottenwaelder、以下、「FMGC社」）と、日本国内における輸入・販売代理店契約を締結いたしました」（https://www.haradacorp.co.jp/news/detail.php?id=365）
+  - 「原田産業では、有力な欧州メーカーの国内総代理店として洋上風力（着床式、浮体式）ビジネスを展開しております」（https://www.haradacorp.co.jp/news/detail.php?id=365）
+- 黒字・収益性：
+  - 「The National Offshore Wind Research and Development Consortium, established in 2018, is a not-for-profit public-private partnership focused on advancing offshore wind technology in the United States through high-impact research projects and cost-effective and responsible development to maximize economic benefits. Funding for the Consortium comes from the」（https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/）
+  - 「About EBITDA and ROCE」（https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/）
+  - 「Green energy is also profitable. Orsted is a pure-play on offshore wind and “green energy” with over 90% of」（https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/）
+  - 「EBITDA」（https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/）
+  - 「In every article we write, we assume the reader has no prior knowledge of financial concepts. Earlier, we used the term “EBITDA,” and now we’re going to explain why it’s useful – aside from the fact that positive earnings are always a good thing for any company.」（https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/）
+  - 「The above shows the power being generated, but says nothing about which sources are profitable. As we can see below, almost all of the positive earnings come from Ørsted’s offshore site operations.」（https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/）
+  - 「2018 EBITDA Contribution」（https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/）
+  - 「Turn Forward is an independent, non-profit advocacy organization dedicated to advancing an ambitious vision for American offshore wind power that meets today’s climate, economic, equity and environmental challenges.」（https://turnforward.org/report-early-offshore-wind-investments-reduce-future-project-costs/）
+  - 「Turn Forward is a project of Multiplier, a 501 (c)3 nonprofit organization. Tax ID 91-2166435」（https://turnforward.org/report-early-offshore-wind-investments-reduce-future-project-costs/）
+  - 「How do these companies perform financially? What are their revenues and profit margins?」（https://www.inven.ai/company-lists/top-26-wind-turbine-software-solutions-companies）
+- 売上：
+  - 「To transport the energy in the form of hydrogen, which is needed as the energy carrier for e.g., for the green transition in the chemical and steel manufacturing industries, is appr. 1/5 of the cost of transporting the energy as electrical power.」（https://www.cowi.com/insights/the-next-phase-for-offshore-wind/）
+  - 「In the United States, the Production Tax Credit and Investment Tax Credit have historically driven renewable energy investment by reducing the tax burden on project revenues. In 2026, policy frameworks in the EU, UK, and parts of Asia continue to evolve, with many governments adjusting auction processes to balance project viability against consumer energy costs. For developers looking at」（https://ipspowerfulpeople.com/knowledgebase/how-do-companies-finance-offshore-wind-expansion/）
+  - 「When your project spans multiple countries, we put workers on our own payroll and handle A1 certificates, local labor law compliance, and contract management. You carry no administrative risk.」（https://ipspowerfulpeople.com/knowledgebase/how-do-companies-finance-offshore-wind-expansion/）
+  - 「17 Aparri Bay 600 着床式 15 MW 50」（https://www.mlit.go.jp/maritime/content/001865396.pdf）
+- 価格：
+  - 「The practical implication for other large corporate buyers is competitive. When a single counterparty absorbs 1.6 GW of solar capacity in one agreement, it tightens availability and potentially shifts pricing dynamics in merchant and」（https://www.marketscale.com/industries/energy/siemens-energy-to-rebrand-as-omterra-uniting-wind-and-grid-businesses-under-one-name）
+  - 「https://www.esist.org.tw/publication/monthly_detail?Id=2e7321193234」（https://www.mlit.go.jp/maritime/content/001865396.pdf）
+- 日本対応：
+  - 「Drawn from an initial pool of 49 global international applicants hailing from the US, Canada, UK, Europe, and Japan, the companies selected to participate in the NYC-based Year 1 Cohort include:」（https://www.empirewind.com/2023/06/26/new-offshore-wind-innovation-hub-announces-first-selections-for-its-accelerator-program/）
+  - 「風車ブレードの角度制御装置をOEM提供 オーストリアのKEBA 日本の風力市場に参入、世界12万台超供給の実績 - ウインドジャーナル｜風力発電のビジネス情報サイト」（https://windjournal.jp/112100/）
+  - 「風車ブレードの角度制御装置をOEM提供 オーストリアのKEBA 日本の風力市場に参入、世界12万台超供給の実績」（https://windjournal.jp/112100/）
+  - 「2011年設立の日本法人のKEBA Japanは三菱電機やデンソーウェーブ、セイコーエプソン、ダイヘンなどに製品を提供している」（https://windjournal.jp/112100/）
+  - 「KEBAは21年4月に日本の風力発電マーケットに参入した」（https://windjournal.jp/112100/）
+  - 「KEBA Japanの代表取締役、村上正和氏に聞いた」（https://windjournal.jp/112100/）
+  - 「日本市場では現在、産業用ロボット向けソリューションが売り上げの大部分を占めています」（https://windjournal.jp/112100/）
+  - 「実際のビジネスとしては日本のロボットメーカー向けに弊社のソリューションをOEM供給しています」（https://windjournal.jp/112100/）
+  - 「日本市場には（風車を）内製する日本企業がありません」（https://windjournal.jp/112100/）
+  - 「しかし昨今のトレンド、「洋上風力産業ビジョン」が掲げる「2030年までに10GW、2040年までに浮体式も含む30GW～45GWの案件形成」などを踏まえ、ひょっとしたら日本メーカーによる（風車製造）返り咲き、もしくはベンチャーの参入に期待しています」（https://windjournal.jp/112100/）
+  - 「――日本国内で稼働している風力発電設備にKEBAのソリューションが組み込まれている可能性はありますね？」（https://windjournal.jp/112100/）
+  - 「欧米のメーカーに入っていますので、欧米メーカーのもの（風車）が日本に入ってきた場合、そちらに弊社製品が使われているということはあります」（https://windjournal.jp/112100/）
+  - 「KEBA Japan株式会社」（https://windjournal.jp/112100/）
+  - 「日本風力発電協会と風力エネルギー学会が協定締結、人...」（https://windjournal.jp/112100/）
+  - 「日本風力発電協会と風力エネルギー学会が協定締結、人材育成で産学連携」（https://windjournal.jp/112100/）
+- 検索結果の抜粋：
+  - 「A Wind Energy Stock for Offshore Wind Power - Nanalyze — A Wind Energy Stock for Offshore Wind Power - Nanalyze Nanalyze https://www.nanalyze.com > 2019/05」（https://www.nanalyze.com/2019/05/wind-energy-stock-wind-power/）
+  - 「Offshore Wind Market Report: 2023 Edition — Offshore Wind Market Report: 2023 Edition Department of Energy (.gov) PDF https://www.energy.gov > sites > default > files > do...」（https://www.energy.gov/sites/default/files/2023-09/doe-offshore-wind-market-report-2023-edition.pdf）
+  - 「Offshore Wind : Europe's Top 10 Companies in 2025 - Enki AI — Offshore Wind : Europe's Top 10 Companies in 2025 - Enki AI enkiai.com https://enkiai.com > offshore-wind」（https://enkiai.com/offshore-wind/offshore-wind-europes-top-10-companies-in-2025/）
+  - 「洋上風力 発電の 動向2025 - 自然エネルギー財団 — 洋上風力 発電の 動向2025 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > REI_OW...」（https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf）
+  - 「洋上風力 — 洋上風力 内閣官房 PDF https://www.cas.go.jp > seisaku > dai16 > shiryo1-2」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+
+## 小型モジュール炉（small modular reactor）
+- 文脈：12 GX ⑥次世代革新炉
+- 提供企業：
+  - 「Leading scientific research and technology development across priority areas.」（https://www.energy.gov/ne/advanced-small-modular-reactors-smrs）
+  - 「Topics」（https://www.energy.gov/ne/advanced-small-modular-reactors-smrs）
+  - 「View all Topics」（https://www.energy.gov/ne/advanced-small-modular-reactors-smrs）
+  - 「Related Topics」（https://efifoundation.org/reports/making-small-modular-reactors-bankable-investments/）
+  - 「While progress has been made, applicants face challenges navigating licensing processes originally meant for larger reactors, leading to lengthy and costly interactions with the NRC. Without the appropriate regulatory framework, developers may have to compromise on design, which affects modularity, standardization, and cost reductions.」（https://efifoundation.org/reports/making-small-modular-reactors-bankable-investments/）
+  - 「Capital providers, such as commercial lenders and private equity firms, are unlikely to invest in new nuclear projects if communities have a negative view of SMRs. Understanding specific communities’ perceptions of hosting SMR facilities, rather than generalized public opinions, is crucial for bankability.」（https://efifoundation.org/reports/making-small-modular-reactors-bankable-investments/）
+  - 「Top 10 Startups Powering Data Centers with Small Modular Reactors」（https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors）
+  - 「Top 10 Startups Revolutionizing Data Center Energy With Small Modular Reactors」（https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors）
+  - 「Top 10 Startups Driving Sustainable Power in Data Centers with Small Modular Reactors」（https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors）
+  - 「In this article, we explore the top 10」（https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors）
+  - 「companies leading the revolution in」（https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors）
+  - 「These Top 10 companies are leading the charge in Data center energy with SMR technology, as demand for sustainable, uninterrupted power grows, SMRs offer an innovative pathway to reliable, clean energy solutions.」（https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors）
+  - 「This partnership combines the world’s leading innovators in nuclear technology, energy project delivery, and cloud infrastructure to collaborate on the development and cost-effective deployment of X-energy’s advanced fourth generation reactor, delivering on the Trump administration’s goal to deploy advanced nuclear reactor technologies.」（https://x-energy.com/news/x-energy-amazon-korea-hydro-amp-nuclear-power-and-doosan-enerbility-announce-partnership-to-scale-advanced-nuclear-energy-for-ai-infrastructure/）
+  - 「Skip footer and return to top.」（https://x-energy.com/news/x-energy-amazon-korea-hydro-amp-nuclear-power-and-doosan-enerbility-announce-partnership-to-scale-advanced-nuclear-energy-for-ai-infrastructure/）
+  - 「Topics」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+- 自社名で出せる条件：
+  - 「Opinion | Exercising the critical thinking muscle on OEM rankings」（https://www.constructionbriefing.com/news/samsung-ct-in-global-partnership-to-develop-smrs-in-europe/8133697.article）
+- 再販制度：
+  - 「These advanced reactors, envisioned to vary in size from tens of megawatts up to hundreds of megawatts, can be used for power generation, process heat, desalination, or other industrial uses.」（https://www.energy.gov/ne/advanced-small-modular-reactors-smrs）
+  - 「Four main technology options are being pursued: light water reactors, fast neutron reactors, graphite-moderated high temperature reactors and various kinds of molten salt reactors (MSRs). The first has the lowest technological risk, but the second (FNR) can be smaller, simpler and with longer operation before refuelling. Some MSRs are fast-spectrum.」（https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors）
+  - 「There are a range of over 100 SMR designs at various stages of development. For more information on SMR designs, please visit our」（https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors）
+  - 「There are a small number of SMRs already operating and under construction, as well as numerous projects at various stages of deployment. For more information on deployment of SMRs, please visit:」（https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors）
+  - 「SMRs generate power just like other reactors—by using a nuclear reaction to heat a liquid that then generates steam, which in turn powers a turbine that creates electricity (see box 2). Today, SMRs are being developed with different technologies that offer variations on this theme, using different fuels, different coolants, and new safety features.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「TerraPower emphasizes that, unlike large PWR reactors, which provide baseload power, its Natrium reactor uses molten salt energy storage; that could open the door to use as variable power, especially as a complement to wind power. That is in part the motivation for its first plant in Wyoming.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「Because SMRs have not yet been produced in a factory, we have only educated guesses about cost savings. And because many variables play a significant role in eventual costs—including the technology adopted, the size of the plant, and financing methods and costs—estimates are unlikely to be accurate.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「Further, unlike wind and solar, power output from nuclear is highly predictable. Adopting nuclear—either large reactors or SMRs—can reduce the need for balancing capabilities such as banks of lithium-ion batteries for short-term storage, or the use of natural gas to address long-term variation.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「Today, SMR designs include at least four different kinds of coolants, for example, and multiple different fuels among many other varying design choices. We still don’t know what the SMR equivalent of internal combustion will be.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「Nuclear waste will vary substantially depending on the nuclear technology used and a company’s design (see figure 7). Broadly, nuclear waste is divided into three categories: low-level nuclear waste (LLW or Class C); intermediate-level waste (known as “greater than class C waste” or GTCC); and high-level nuclear waste (HLW).」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「A 2016 report to the U.K. Parliament developed estimates for “optimism bias” in the anticipated overnight capital costs submitted by SMR vendors ranging from 54 percent to 200 percent (varying also by technology).」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「Risks can also be mitigated by government guarantees of various kinds (e.g., CfD), and by different ways of directly allocating market risks. These are discussed in the policy section ahead.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「The various reform efforts under NEIMA and the ADVANCE Act, and through NRC’s own activities, are clearly moving in the right direction. They should make NRC certification more predictable and often shorter, while expanding coverage to a much wider array of technologies.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「Design certification takes a lot of time and money—tens of millions of dollars, even though it remains an optional step. Costs also vary widely, and therefore are difficult to predict for small companies with limited resources.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「This model also means that a regulator must estimate construction costs in advance (including supply chains, construction length, interest rates, and a host of other variables) to calculate an appropriate charge for ratepayers. After all, the increased revenue certainty for investors and developers is generated by early costs imposed on ratepayers.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+- 黒字・収益性：
+  - 「NuScale’s 2025 Annual Report warns: “We have incurred significant losses since inception, we expect to incur losses in the future, and we may not be able to achieve or maintain profitability.”」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「There are also a range of ownership models for reactors, especially for SMRs and microreactors in particular. Both Last Energy and Copenhagen Atomics plan to own and permanently operate their microreactors, selling energy to their customers (presumably through a PPA). Depending on the capital structure and debt load, that model could be both more risky and more profitable.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「, different applications for SMRs could prove critical to ensure their economic profitability.」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「shows the facilities at which SMR deployment without the hydrogen Production Tax Credit is profitable at first-of-a-kind capital costs. The H2 PTC expires in 2028: if, by this year, construction of the new infrastructure hasn’t started, this incentive will not be available. Figure」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「b). However, the most profitable sites are located in states where new nuclear infrastructure development restrictions are in place: California, Connecticut, and New York. Those deployments would require SMR vendors to go through additional legal and legislative steps to deploy nuclear capacity.」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「Internal rate of return, and deployed capacity of profitable SMR under FOAK capital costs and without H2 PTC at industrial sites. Displayed are only those sites profitable under FOAK capital costs without the H2 PTC. Levelized cost of electricity of SMR designs are shown on the electricity price scale. Symbol shading indicates internal rate of return, while symbol size indicates deployed capacity.」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「shows the locations of additional profitable sites compared to the FOAK deployment stage. Annual revenues range from $30,000 to $7 million with the median annual revenue at $2 million. Corresponding internal rates of return (IRR) range from 8 to 12% (Supplementary Fig.」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「). As such, the most profitable sites among them feature a high surplus capacity and are located in states with the highest electricity prices (Fig.」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「Internal Rate of Return (IRR), deployed capacity of profitable SMRs under FOAK capital costs and H2 PTC at industrial sites. Displayed are only those sites profitable under FOAK capital costs with the H2 PTC. Symbol shading indicates IRR, while symbol size indicates deployed capacity. Electricity prices are not depicted since SMRs have been shown to not be competitive for electricity generation.」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「Cashflows for the FOAK with the H2 PTC deployment stage: process hydrogen sites. Each bar represents one profitable site. Sites are ordered by ascending net annual revenues. Net annual revenues are shown with light blue cross points.」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「At each deployment stage and for each application, the additional profitable SMR capacity and subsequent avoided emissions is shown. The totals are shown in a darker shade column for each deployment scenario. FOAK First-Of-A-Kind capital costs, NOAK Nth-Of-A-Kind capital costs, H2 PTC hydrogen production tax credit.」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「provide SMR deployment without and with the H2 PTC at escalated capital costs. Without H2 incentives, no industrial sites exist at which SMR deployment is profitable. Including the H2 PTC results in 41 profitable sites for H2 production (28 GWe), but does not yield any profitable sites for process heat provision. These results are in stark contrast to Figs.」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「above, where we find several process heat sites are profitable regardless of the H2 PTC. For profitable sites for H2 production, 79% achieve IRRs in excess of 7% (Supplementary Fig.」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「Overall, applying FOAK capital cost escalation factors of 117% or 156% significantly reduces the potential for profitable SMR deployment across the U.S. (see」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「Discussion). To understand the relationship between escalating capital costs and deployment, we compute a capital cost profitability margin at each industrial facility as the ratio of the difference between the breakeven SMR capital cost and the FOAK capital costs over the FOAK capital costs. In this analysis, we use manufacturer capital costs, or those provided in Table」（https://www.nature.com/articles/s41467-026-76077-3）
+- 売上：
+  - 「The company has not yet generated revenue from module deliveries, and second-quarter 2026 revenue was $0.1 million against $8.1 million a year earlier, the drop reflecting the end of the Fluor FEED work on RoPower. It closed June 2026 with $1.9 billion of cash, cash equivalents and short- and long-term investments.」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「The IMSR uses liquid fluoride salt as a coolant and fuel carrier and supplies heat at 585°C. Source:」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「In February 2026, Terra Innovatum said it had secured supply arrangements for the SOLO reactor’s components, including nuclear-grade graphite.」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「For GEV shareholders, the BWRX-300 program represents one component within a diversified power equipment business that generated $38.1 billion in total revenue in fiscal year 2025.」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「The nuclear business is still small within that: Nuclear Power revenue was $817 million in the second quarter of 2026, against $649 million in the second quarter of 2025. These figures cover the broader Nuclear Power business, including work on existing reactors, rather than BWRX-300 revenue alone.」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「Its reactor work also includes the Defense Department’s Project Pele, a 1.5 MWe transportable high-temperature gas-cooled microreactor to be tested at Idaho National Laboratory; a full core of BWXT-made TRISO fuel arrived at INL in December 2025.」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「BANR is one program within a business built largely on long-term government contracts. BWXT reported FY2025 revenue of $3.2 billion, about 73% of it from Government Operations, and backlog of $8.4 billion at June 30, 2026.」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「Deep Fission, Inc, “Deep Fission Prototype Reactor Canister Arrives at Kansas Site, Advancing Reactor Proof-of-Concept Program,” 2026-07-07.」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「FY25_CTR_Project_Narrative_Template_250708.docx」（https://simpler.grants.gov/opportunity/870a5e1d-f8ec-4763-8a7c-4709086713db）
+  - 「FY25 CTR Project Narrative Template」（https://simpler.grants.gov/opportunity/870a5e1d-f8ec-4763-8a7c-4709086713db）
+  - 「2: Financing arrangements for eight recent nuclear plants」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「A hidden technological risk is that the urgent need to reach commercial revenue will lead companies to lock in on current technology before the sector’s discovery phase has been completed. Even though PWR SMRs will likely be cheaper and quicker to build initially, but they may not have a sufficient pathway for cost improvement to reach P3. That, however, is speculative at this point.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「. “Georgia Nuclear Rebirth Arrives 7 Years Late, $17B over Cost | AP News,” accessed January 22, 2025,」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「. Dominique Finon and Fabien Roques, “Financing Arrangements and Industrial Organisation for New Nuclear Build in Electricity Markets” (Energy Policy Research Group, University of Cambridge, 2008),」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「. Dominique Finon and Fabien Roques, “Financing Arrangements and Industrial Organisation for New Nuclear Build in Electricity Markets” (Energy Policy Research Group, University of Cambridge, 2008), https://www.jstor.org/stable/resrep44783.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+- 価格：
+  - 「Every clean-energy and critical-minerals IPO of 2026, with pricing, proceeds, lockups and performance vs. the S&P 500.」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「Deep Fission, Inc, “Advanced Nuclear Company Deep Fission Announces Pricing of Public Offering of Common Stock,” 2026-06-17.」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+- 日本対応：
+  - 「SMR markets will be global, so NRC and DOE must not ignore international regulation. United States, Europe, Japan, and other allies can align their regimes to help counter competition from Chinese and Russian state-backed enterprises.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「Countries such as Japan and the United Arab Emirates」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「reflect the reality that—as Germany and Japan demonstrate—the political appetite for nuclear power can change, sometimes dramatically.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「Nuclear accidents drive a second set of risks. Fukushima occurred in Japan, but the global backlash to nuclear power that it created helped destroy the German nuclear industry (and set the Japanese nuclear industry back a decade). Three Mile Island had similar effects in the United States. Every accident can trigger a turn away from nuclear, and usually tightens the regulatory screw.」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「. Government of Japan, Fact Sheet on U.S. Nuclear Powered Warship (NPW) Safety,” accessed March 26, 2025,」（https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/）
+  - 「Nature Japan」（https://www.nature.com/articles/s41467-026-76077-3）
+  - 「U.S., UK, Germany, China, India, Japan, Canada, Brazil, Saudi Arabia, South Africa, etc.」（https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market）
+  - 「150-8512 日本」（https://manufacturo.com/jp/industries/small-nuclear-manufacturers-industry-software/）
+  - 「日本経済全体に合計約1兆米ドルとみられる損失」（https://www.renewable-ei.org/activities/column/REupdate/20210528.php）
+  - 「幕張メッセ/Makuhari Messe, Japan」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
+  - 「Japanese」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
+  - 「日本のSMRへの取り組み」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
+  - 「日本だけでなく、アメリカやイギリス、ロシアや中国など世界各国で研究開発が進められている原子炉です」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
+  - 「例えば、日本原子力研究開発機構が開発を進めるナトリウム冷却高速炉では、事故時に制御棒が重力で落下し、自然に核反応が止まるシステムが想定されています※」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
+  - 「なかでも、軽水（普通の水）を使用する原子炉は「軽水炉」と呼ばれ、日本を含む世界の多くの原子炉で採用されています」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
+- 検索結果の抜粋：
+  - 「Top 5 SMR Tech to Keep an Eye on in 2025 — Top 5 SMR Tech to Keep an Eye on in 2025 Nuclear Business Platform https://www.nuclearbusiness-platform.com > ...」（https://www.nuclearbusiness-platform.com/media/insights/top-5-smr-tech）
+  - 「SMR Stocks: 12 Public Companies to Watch — SMR Stocks: 12 Public Companies to Watch greenstocksresearch.com https://greenstocksresearch.com > 8-li...」（https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/）
+  - 「Small modular reactor potential lies in industry, not grid power — Small modular reactor potential lies in industry, not grid power Michigan Engineering News http://news.engin.umich.edu > 2026/09」（http://news.engin.umich.edu/2026/09/small-modular-reactor-potential-lies-in-industry-not-grid-power/）
+  - 「Top 25 Companies Europe Small Modular Reactor Market in ... — Top 25 Companies Europe Small Modular Reactor Market in ... Metastat Insights https://metastatinsight.com > Blog」（https://metastatinsight.com/blogdetails/top-25-europe-small-modular-reactor-companies）
+  - 「Top 25 Small modular reactor companies Worldwide — Top 25 Small modular reactor companies Worldwide RevenueBase https://revenuebase.ai > browse > sma...」（https://revenuebase.ai/companies/browse/small-modular-reactor-companies）
+  - 「SMR Leaderboard: Top 20 Vendors Ranked by Readiness for ... — SMR Leaderboard: Top 20 Vendors Ranked by Readiness for ... LinkedIn https://www.linkedin.com > posts > g...」（https://www.linkedin.com/posts/guy-cohen-44516991_our-smr-leaderboard-is-out-the-top-20-small-activity-7430271029207539712-fo1x）
+  - 「SMR とは？メリット・デメリット、国内外の開発事例や各国 ... — SMR とは？メリット・デメリット、国内外の開発事例や各国 ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_69」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
+  - 「カーボンニュートラルの実現に向けて～ 小型モジュール炉 ... — カーボンニュートラルの実現に向けて～ 小型モジュール炉 ... 日本原子力研究開発機構 PDF https://www.jaea.go.jp > faq > files > material050306」（https://www.jaea.go.jp/04/sefard/faq/files/material050306.pdf）
+  - 「海外 における SMR の開発・導入動向（2021.10.14掲載） | 特集 — 海外 における SMR の開発・導入動向（2021.10.14掲載） | 特集 日本原子力研究開発機構 https://www.jaea.go.jp > sefard > ordinary」（https://www.jaea.go.jp/04/sefard/ordinary/2021/20211014.html）
+  - 「世界の 小型モジュール炉 の開発動向 - 原子力委員会 — 世界の 小型モジュール炉 の開発動向 - 原子力委員会 原子力委員会 PDF https://www.aec.go.jp > teirei > siryo32 > 1_haifu」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
+
+## バイオ由来化学品（bio-based chemicals）
+- 文脈：12 GX ⑦GXケミカル
+- 提供企業：
+  - 「To meet consumer demand, many companies are willing to pay premiums for bio-based chemical inputs — provided they offer equal or better performance than petrochemical alternatives (see Figure 2).」（https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals）
+  - 「Back to top」（https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals）
+  - 「with Borregaard/Borregaard LignoTech as a leading company (44, 45). These sulfonates are」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「particularly plastic, industry as well as LCI data providers (79). It is important that forward looking」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「HaldorTopsoe, UPM,」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「C5H7O3 -0.2 Haldor Topsoe Pipeline」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「Glucaric acid C6H10O8 +1 Rivertop renewables Pipeline」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「global demand for biofuels. The leading producers of bioethanol are the USA and Brazil. The」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「PET. Fortunately, several companies (Avantium, HaldorTopsoe/Braskem, UPM, ENI Versalis) are」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「for propylene glycol production from C5 and C6 sugars: HaldorTopsoe/Braskem, Avantium, UPM,」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「NatureWorks is a world-leading polylactic acid (PLA) biopolymers supplier and innovator. Its」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「petrochemical-based chloroacetic acid and sodium cyanide and was listed as one of the top 30」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「International is the world's leading supplier of MMA. Methacrylates polymerize easily to form resins」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「sustainable bio-succinic acid. Biosuccinium® is a leading bio-based chemical building block」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「process is 84-99% less impactful than the traditional xylose production process, leading to」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+- 再販制度：
+  - 「a bio-based solvent used in a variety of applications such as beauty and personal care, food and beverage, and more」（https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals）
+  - 「With the industry reinvigorated by ESG initiatives and new technology, L.E.K. Consulting estimates that various segments of the bio-based chemicals market will experience GDP-plus-level to double-digit growth through 2026.」（https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals）
+  - 「Using biomass-derived organic compounds predominantly found in organisms — such as sugars, oils and animal fats — bio-based chemicals provide a variety of benefits (see Figure 4).」（https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals）
+  - 「Feedstocks are any raw materials used in the mass production of chemical products; bio-based feedstocks are the diverse, renewable group of source materials that can be transformed into bio-based chemicals through a variety of conversion processes.」（https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals）
+  - 「overview how various biomasses can be converted into intermediates and value-added products is」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「varying purity. Several feedstocks can lead to the same platform, and often a biorefinery will」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「produced including benzene, toluene, various carboxylic acids and furans (17).」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「into intermediates is already addressed in various research projects, e.g. Carbon4PUR (22).」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「Methanol is one of the largest volume chemicals in the world and serves as source for various」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「Methanol is suitable as platform for various bulk chemicals via catalytic conversion, e.g. methanol-」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「shows various products from CO2 produced at different scales.」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「access to a variety of important chemical building blocks (alcohols, organic acids, lipids and」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「particulates, volatiles and the wide variability of molecular weight distribution of lignosulfonates」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「The oil platform covers fatty acids and triglycerides that are obtained either from various」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「a variety of uses. Current markets are pharmaceutical, cosmetic, and food industries. The large」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+- 黒字・収益性：
+  - 「generally cannot be produced in a profitable way at current crude oil prices. This implies that they」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「the lignin thermal valorisation decreases by about 30%. From the profitability point of view, xylitol」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「Product(s) profitability」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「full-scale plant would be expected to generate up to $40 million of EBITDA annually (120). The」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+- 売上：
+  - 「production of bio-based products, in addition to biofuels, could generate US$ 10 billion of revenue」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「2) Products (e.g. energy carriers, chemicals and material products)」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「production of bio-based chemicals could generate over US$ 10 billion of revenue for the global」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「markets. The Tables 4-6 below gives an overview of the current turnover of biomass in general」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「Table 5. Prices and turnover figures for bio- based products aggregated to product」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「10% to 20% of their revenue」（https://market.us/report/bio-based-chemicals-market/）
+  - 「Forecast Revenue (2033)」（https://market.us/report/bio-based-chemicals-market/）
+  - 「Revenue Forecast, Market Dynamics, COVID-19 Impact, Competitive Landscape, Recent Developments」（https://market.us/report/bio-based-chemicals-market/）
+  - 「by 2035, adding USD 11.8 billion in new revenue and advancing at a CAGR of」（https://www.factmr.com/report/5366/biobased-platform-chemicals-market）
+  - 「Asia Pacific accounted for the largest revenue share of 45.12% in 2025. This is owing to rapidly expanding industrial bases across emerging economies in the region.」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「By Product Outlook (Revenue, USD Billion, 2021–2034)」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「By Application Outlook (Revenue, USD Billion, 2021–2034)」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「By Regional Outlook (Revenue, USD Billion, 2021–2034)」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「Revenue Forecast by 2034」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「Revenue in USD Billion and CAGR from 2026 to 2034」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+- 価格：
+  - 「Industrials B2B Pricing」（https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals）
+  - 「based chemicals can be triggered by CO2-pricing. If lignocellulosic feedstocks would be used, even」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「The glycerol segment dominated the market with a 23.2% revenue share in 2025, primarily due to its abundant and cost-effective availability as a by-product of biodiesel production, ensuring consistent supply at competitive pricing. Its versatile applicability across pharmaceuticals, personal care, food, and industrial sectors significantly enhances its demand and commercial viability.」（https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+- 日本対応：
+  - 「Japan (日本語)」（https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals）
+  - 「in its Thai subsidiary, Vinythai PCL, to the Japanese firm AGC Asahi Glass for €435 million in 2017」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「– China, Japan, South Korea, India, ASEAN & Rest of APAC;」（https://market.us/report/bio-based-chemicals-market/）
+  - 「JP - Japan」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「7.5.6. Bio-Based Platform Chemicals Market – Japan」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「7.5.6.1. Japan: Bio-Based Platform Chemicals Market, by Product, 2021-2034 (USD Billion)」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「7.5.6.2. Japan: Bio-Based Platform Chemicals Market, by Application, 2021-2034 (USD Billion)」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「Table 35 Japan: Bio-Based Platform Chemicals Market, by Product, 2021-2034 (USD Billion)」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「Table 36 Japan: Bio-Based Platform Chemicals Market, by Application, 2021-2034 (USD Billion)」（https://www.polarismarketresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「U.S.; Canada; Mexico; UK; Germany; Italy; France; Spain; China; India; Japan; South Korea; Brazil; Argentina; Saudi Arabia; South Africa」（https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market）
+  - 「Japan Bio-based Platform Chemicals Market Volume (Kilo Tons) and Value (USD Billion) Forecast, by Source, 2026-2036」（https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html）
+  - 「Japan Bio-based Platform Chemicals Market Volume (Kilo Tons) and Value (USD Billion) Forecast, by Type, 2026-2036」（https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html）
+  - 「Japan Bio-based Platform Chemicals Market Volume (Kilo Tons) and Value (USD Billion) Forecast, by End-use, 2026-2036」（https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html）
+  - 「Table 93: Japan Bio-based Platform Chemicals Market Volume (Kilo Tons) Forecast, by Source, 2026 to 2036」（https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html）
+  - 「Table 94: Japan Bio-based Platform Chemicals Market Value (USD Billion) Forecast, by Source, 2026 to 2036」（https://www.transparencymarketresearch.com/bio-based-platform-chemicals-market.html）
+- 検索結果の抜粋：
+  - 「Bio - Based Chemicals - A 2020 Update - IEA Bioenergy — Bio - Based Chemicals - A 2020 Update - IEA Bioenergy IEA Bioenergy PDF https://www.ieabioenergy.com > uploads > 2020/02」（https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf）
+  - 「Bio - based Chemicals Market Size, Share | CAGR of 11.6% — Bio - based Chemicals Market Size, Share | CAGR of 11.6% Market.us https://market.us > report > bio-based...」（https://market.us/report/bio-based-chemicals-market/）
+- 自社名で出せる条件：記載なし（読んだ45頁・検索9回）
+
+## バーティカルAI（vertical AI）
+- 文脈：1 AI・半導体 ③バーティカルAI
+- 提供企業：
+  - 「We guide your project from idea to launch, ensuring top-quality results.」（https://10clouds.com/white-label-ai-software/）
+  - 「Harnessing the Power of AI: Industries that Benefit from White Label Solutions」（https://10clouds.com/white-label-ai-software/）
+  - 「10Clouds focus on the business value and trust. We've delivered a variety of top quality applications to companies of all sizes - from one-person startups to enterprises like Pinterest, Asmodee, universities and non-profits.」（https://10clouds.com/white-label-ai-software/）
+  - 「Our white-label platform is engineered to empower your development team with robust, scalable components, ensuring a seamless integration into your existing infrastructure and a quick path to market readiness.」（https://10clouds.com/white-label-ai-software/）
+  - 「Recognized and Valued by Leading Industries Worldwide」（https://10clouds.com/white-label-ai-software/）
+  - 「Top Global B2B Companies 2022」（https://10clouds.com/white-label-ai-software/）
+  - 「World's Top 30 Design Teams」（https://10clouds.com/white-label-ai-software/）
+  - 「Top 1000 Global Service Providers in 2022」（https://10clouds.com/white-label-ai-software/）
+  - 「A wrapper usually adds a light interface on top of one model API. Our white label AI approach starts from a broader product foundation: workspace, agents, knowledge base, tool integrations, deployment planning, security boundaries, and roadmap support.」（https://10clouds.com/white-label-ai-software/）
+  - 「Deliver and operate sovereign AI for your customers, from air-gapped sites to sovereign cloud, with your delivery model on top.」（https://scrydon.com/partners/whitelabel/）
+  - 「Everything you need to ship a governed vertical AI product — deployable air-gapped to cloud, model-agnostic, with your brand on top.」（https://scrydon.com/partners/whitelabel/）
+  - 「A barrier competitors must clear, which slows displacement.」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「In horizontal tools, AI differentiation can disappear quickly as models improve and competitors catch up. In vertical markets, the advantage is more often embedded in proprietary data, regulatory complexity, workflows, and domain-specific accuracy, making it harder to replicate and more durable from a buyer’s perspective.」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「Vertical SaaS companies often capture data that is difficult for new competitors to gather or interpret. Many founders underestimate the strategic advantage this provides when integrating AI.」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「2. Dependence on external model providers」（https://www.l40.com/insights/vertical-ai-saas）
+- 自社名で出せる条件：
+  - 「White Label AI Software for Branded AI Products | 10Clouds」（https://10clouds.com/white-label-ai-software/）
+  - 「Secure payment solutions and embedded finance capabilities enabling seamless transactions, stronger fraud prevention, and scalable payment ecosystems.」（https://10clouds.com/white-label-ai-software/）
+  - 「White label AI software for startups and scaleups that need a sellable AI product, not another generic wrapper. Start with proven AIConsole foundations, then customize branding, workflows, deployment, and ownership terms around your business model.」（https://10clouds.com/white-label-ai-software/）
+  - 「Our white label AI solution is customizable AI software you can brand, adapt, and launch as your own. It is built on AIConsole, the AI workspace and agent platform created by 10Clouds leadership, so your team starts with working foundations instead of a blank repository.」（https://10clouds.com/white-label-ai-software/）
+  - 「White Label AI: The Ultimate AI Tool for Your Business」（https://10clouds.com/white-label-ai-software/）
+  - 「Each feature of our white label AI platform is crafted to offer customizable, seamless integration into your existing systems, addressing your specific needs to streamline your workflow and enhance your operational efficiency.」（https://10clouds.com/white-label-ai-software/）
+  - 「White Label AI Software Advantages for Startups and Scaleups」（https://10clouds.com/white-label-ai-software/）
+  - 「Show a working product experience early, with your brand, your workflows, and a credible path to production.」（https://10clouds.com/white-label-ai-software/）
+  - 「Build from Scratch vs White Label AI vs SaaS Wrapper」（https://10clouds.com/white-label-ai-software/）
+  - 「White label AI software」（https://10clouds.com/white-label-ai-software/）
+  - 「Harnessing the Power of AI: Industries that Benefit from White Label Solutions」（https://10clouds.com/white-label-ai-software/）
+  - 「Let's Talk How White Label AI Can Support Your Business」（https://10clouds.com/white-label-ai-software/）
+  - 「4 to 8 Week Engagement Timeline for Your White Label Platform」（https://10clouds.com/white-label-ai-software/）
+  - 「Our white-label platform is engineered to empower your development team with robust, scalable components, ensuring a seamless integration into your existing infrastructure and a quick path to market readiness.」（https://10clouds.com/white-label-ai-software/）
+  - 「The foundation for our white label platform and 10Clouds' own innovative product — AIConsole — is meant to transform the landscape of Artificial Intelligence applicability through hyper-personalization. Designed for automation, versatility and learnability, AIConsole delivers a smart, no-code platform capable of elevating any workflow by much more than just AI content generation.」（https://10clouds.com/white-label-ai-software/）
+- 再販制度：
+  - 「10Clouds focus on the business value and trust. We've delivered a variety of top quality applications to companies of all sizes - from one-person startups to enterprises like Pinterest, Asmodee, universities and non-profits.」（https://10clouds.com/white-label-ai-software/）
+  - 「Custom domain. Your logo on every screen. To your clients, you're a tech company — not a reseller. Lety never appears. No "powered by" badge. Ever.」（https://lety.ai/）
+  - 「Subscription. Token markup. MCP calls. Setup fees. All four bill your clients automatically on a single invoice — you keep the margin.」（https://lety.ai/）
+  - 「Total margin this month」（https://lety.ai/）
+  - 「Assumes average usage of ~$45 in LLM tokens and ~$25 in MCP calls per client per month. Your actual numbers will vary based on client usage patterns.」（https://lety.ai/）
+  - 「Defensibility is now an exit variable」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「Retention, margin quality, and disciplined growth carry a transaction. AI strengthens the story but does not replace the numbers.」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「, staff scheduling, inventory, and guest interactions. Restaurant operators face thin margins and high turnover, so AI is being used to help reduce waste, manage demand, and support staff workflows.」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「Strong businesses are still defined by stable metrics: margin quality,」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「Defensibility comes from proprietary data collected over time, structured data that already fits real workflows, and deep understanding of industry edge cases. Buyers value AI embedded in daily customer operations over one-off features, alongside durable fundamentals such as retention, margin quality, and disciplined growth.」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「Founders should be ready to explain how AI fits into the workflow, the proprietary data advantage behind the product, and whether AI features are durable rather than prototypes. Buyers scrutinize data quality, governance, model dependencies, and pricing stability, but strong fundamentals, retention, margins, and unit economics, still matter most.」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「Automates various business processes to enhance productivity and streamline operations.」（https://www.superannotate.com/blog/vertical-ai-agents）
+  - 「proprietary data advantage, evidence of AI-driven customer ROI, and the scalability of AI-enabled margins.」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「Competitive Moat AI features increasingly commoditized. Data, workflow depth, and regulatory complexity create durable moats. Sustains long-term pricing power and margin expansion.」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「margin certainty, improve schedule predictability,」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+- 黒字・収益性：
+  - 「10Clouds focus on the business value and trust. We've delivered a variety of top quality applications to companies of all sizes - from one-person startups to enterprises like Pinterest, Asmodee, universities and non-profits.」（https://10clouds.com/white-label-ai-software/）
+  - 「A revenue multiple ignores capital intensity, defensibility, and path to profitability, which is why buyers pair it with diligence on the underlying drivers. The five drivers that move an AI-era software multiple, and how buyers weigh them, are set out in our」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「It depends on whether the AI is defensible. Buyers separate durable, workflow-embedded AI from commodity features and price the two differently. A revenue multiple ignores defensibility and path to profitability, so buyers pair it with diligence on the underlying drivers before settling on a number.」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「• Investors are concerned about the impact of AI, specifically the long-term growth and profitability potential of non-AI-driven software and the emergence of new potential」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「Illustrative example of profit pool shifting to agents(1)」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「(Revenue Growth + EBITDA Margin)」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「EBITDA Margin 0.15x」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「Splitting the Rule of 40 into its underlying components of revenue growth and EBITDA margin meaningfully improves correlation, highlighting that」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「financial performance for both revenue and profitability.」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「vacation rental insights for profitable markets.」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「Discovers profitable markets, evaluates vacation rentals, and」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「affected by overall firm profitability.」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「A working product is a sellable asset, typically 3–5x ARR for profitable micro-SaaS.」（https://ideaproof.io/business-ideas/ai-wrapper）
+  - 「Is vertical ai product profitable?」（https://ideaproof.io/business-ideas/ai-wrapper）
+  - 「, yet only six percent qualify as high performers, achieving significant profit impact. The gap isn't about access to tools. It's about whether those tools solve real workflow problems.」（https://www.crv.com/content/vertical-ai-companies）
+- 売上：
+  - 「Sell white label vertical AI agents to any industry. 900+ MCP integrations across every channel, every tool, every system your clients use. Build recurring revenue from every vertical.」（https://lety.ai/）
+  - 「Lety is the revenue layer for AI agencies. Sell white label vertical AI agents to any industry, with 900+ MCP integrations spanning every channel, every tool, every system your clients use. Build, brand, and monetize specialized AI to generate recurring revenue from every client and every vertical.」（https://lety.ai/）
+  - 「Watch an agency deploy an agent, collect revenue, and add a new client — live, in under 7 seconds.」（https://lety.ai/）
+  - 「This article explains what vertical AI SaaS is, why the vertical model has held up as foundation models improved, and how the defensibility founders talk about actually gets read, tested, and priced in a sale. It is written for mid-market vertical AI and software companies with $5M to $100M in ARR.」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「1. Lower barriers to entry」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「At L40°, we help founders translate those strengths into a narrative buyers can trust, linking technical capability to the operational and financial signals that matter most in a sale. That translation is the core of our」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「EV/NTM Revenue(1)」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「% Decline in Horizontal Software EV/2026 Revenue Multiples L6M(1)」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「% Decline in Vertical Software EV/2026 Revenue Multiples L6M(1)」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「2026 Revenue Growth」（http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf）
+  - 「, we predicted that Vertical AI companies would hit $100M+ ARR within historic timeframes. We’re already seeing this level of momentum from many」（https://www.bvp.com/atlas/building-vertical-ai-an-early-stage-playbook-for-founders）
+  - 「3. Does the use case have narrow scope and low risk (initially)?」（https://www.bvp.com/atlas/building-vertical-ai-an-early-stage-playbook-for-founders）
+  - 「The fastest Centaur in enterprise software history: how they got there and how they doubled to $200M ARR in less than six months.」（https://www.bvp.com/atlas/building-vertical-ai-an-early-stage-playbook-for-founders）
+  - 「Insights from 226 healthcare executives on why AI’s returns arrived faster and higher than expected, why they’re concentrated in the back office, and what it will take to unlock clinical AI.」（https://www.bvp.com/atlas/building-vertical-ai-an-early-stage-playbook-for-founders）
+  - 「Forecast Revenue (2034)」（https://market.us/report/vertical-ai-market/）
+- 価格：
+  - 「Assumes average usage of ~$45 in LLM tokens and ~$25 in MCP calls per client per month. Your actual numbers will vary based on client usage patterns.」（https://lety.ai/）
+  - 「Yes. Lety is 100% no-code. Create AI employees with prompting and easy connectors. Import flows from Zapier, Make, or n8n. Customize branding, domains, pricing. Deploy across web, WhatsApp, Instagram, Facebook, and CRMs like HubSpot, GoHighLevel, Salesforce. Monitor usage and billing from a single dashboard — designed for agencies, entrepreneurs, and creators who want to launch quickly.」（https://lety.ai/）
+  - 「Maintains 1,700+ structured startup ideas, 1,000+ documented failures and a 47-vendor pricing audit · every figure is source-linked」（https://ideaproof.io/business-ideas/ai-wrapper）
+  - 「ユーザー1人あたりの月額課金」（https://www.ai-souken.com/article/what-is-vertical-ai）
+  - 「2026年時点の傾向としては、**バーティカルAIの多くがHybridモデル（基本月額＋成果連動）**を採用しています」（https://www.ai-souken.com/article/what-is-vertical-ai）
+- 日本対応：
+  - 「North America – US, Canada; Europe – Germany, France, The UK, Spain, Italy, Russia, Netherlands, Rest of Europe; Asia Pacific – China, Japan, South Korea, India, New Zealand, Singapore, Thailand, Vietnam, Rest of APAC; Latin America – Brazil, Mexico, Rest of Latin America; Middle East & Africa – South Africa, Saudi Arabia, UAE, Rest of MEA」（https://market.us/report/vertical-ai-market/）
+  - 「U.S.; Canada; Mexico; Germany; UK; France; China; India; Japan; Australia; South Korea; Brazil; UAE; South Africa; KSA」（https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report）
+  - 「これらのユースケースを見ても、労働人口が減少する日本市場において、AIエージェントは非常に大きな可能性を秘めています」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「特に、外注の活用頻度が高いと言われる日本企業の特性を踏まえると、大きな市場機会と言えるでしょう」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「製造業の市場が大きい日本では、大きな可能性を秘めている分野なので、個人的にも注目しています」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「AIエージェントは日本の多くの産業に革新的な価値を提供し、既存のソフトウェアを超えうる、巨大なビジネスを生み出す可能性を秘めています」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「今回の分析は粗削りではありますが、日本でのAIエージェントビジネスの市場可能性を考えるヒントになれば、心より嬉しく思います」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「そして、AIエージェントで日本の産業を革新し、大きなビジネスを創り出すことに野心を燃やしている起業家の方がいれば、ぜひALL STAR SAAS FUNDとお話させてください」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「「ロボットのOpenAI」は誰になる？フィジカルAIの勝ち筋と日本での機会を、Physical Intelligence・Figure AI・Skild AIに見る」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「フィジカルAIの現在地──世界のスタートアップの動向と、日本の起業家がいま賭けるべき場所」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「日本語・英語・中国語での対応が可能です」（https://www.nsight.jp/partners/）
+  - 「日本企業の勝ち筋は現場データ・熟練者の暗黙知を意味層として整備し、業界特化エージェントに繋ぐ設計」（https://www.ai-souken.com/article/what-is-vertical-ai）
+  - 「LinkX Japan株式会社 代表取締役」（https://www.ai-souken.com/article/what-is-vertical-ai）
+  - 「2026年7月、日本では高市首相が主宰する人工知能戦略本部が第2期AI基本計画の改定案でバーティカルAI19分野への官民集中投資を決定し、海外ではSierra（顧客対応）が$15B超評価、Harvey（法務）が$11B評価で急成長するなど、政策と資本の両輪で「業界特化」の主戦場化が加速しています」（https://www.ai-souken.com/article/what-is-vertical-ai）
+  - 「本記事では、バーティカルAIの定義と汎用AI（Horizontal AI）との違い、加速の背景となる政策・ユニコーン成長・SaaS再定義の3つの動き、業界別の活用事例、per-seatからoutcome-basedへ変わる料金モデル、導入時の落とし穴、日本企業がバーティカルAIを選ぶ判断軸までを、2026年7月時点の最新情報で体系的に解説します」（https://www.ai-souken.com/article/what-is-vertical-ai）
+- 検索結果の抜粋：
+  - 「Vertical AI SaaS : What Founders Need to Know in 2026 | L40° — Vertical AI SaaS : What Founders Need to Know in 2026 | L40° L40º https://www.l40.com > Insights」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「Vertical AI SaaS: What Founders Need to Know in 2026 | L40° — Vertical AI SaaS: What Founders Need to Know in 2026 | L40° L40º https://www.l40.com > Insights」（https://www.l40.com/insights/vertical-ai-saas）
+  - 「Vertical AI product: Success Score 60/100 (2026) - IdeaProof — Vertical AI product: Success Score 60/100 (2026) - IdeaProof IdeaProof https://ideaproof.io > Blog」（https://ideaproof.io/business-ideas/ai-wrapper）
+  - 「Vertical AI market map: 8 industries for investors | Hustle Fund — Vertical AI market map: 8 industries for investors | Hustle Fund Hustle Fund https://www.hustlefund.vc > post > ve...」（https://www.hustlefund.vc/post/vertical-ai-market-map）
+  - 「Built a vertical AI SaaS that no one wanted to touch $1M+ in ... — Built a vertical AI SaaS that no one wanted to touch $1M+ in ... Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/SaaS/comments/1kvt4qh/built_a_vertical_ai_saas_that_no_one_wanted_to/）
+  - 「Vertical AI Market Size, Growth Report, 2026-2033 — Vertical AI Market Size, Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report）
+  - 「Top 25 Vertical AI software companies based in Germany — Top 25 Vertical AI software companies based in Germany RevenueBase https://revenuebase.ai > germany」（https://revenuebase.ai/companies/vertical-ai-software-companies/germany）
+  - 「Vertical AI Companies : Why Domain Expertise Wins (2026) — Vertical AI Companies : Why Domain Expertise Wins (2026) Charles River Ventures https://www.crv.com > content > verti...」（https://www.crv.com/content/vertical-ai-companies）
+  - 「Innov'Nation explores Vertical AI : Israel's Role In ... - i24NEWS — Innov'Nation explores Vertical AI : Israel's Role In ... - i24NEWS i24NEWS https://www.i24news.tv > innov-nation」（https://www.i24news.tv/en/news/innov-nation/artc-innov-full-show）

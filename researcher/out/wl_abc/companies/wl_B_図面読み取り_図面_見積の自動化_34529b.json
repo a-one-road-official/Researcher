@@ -1,0 +1,454 @@
+{
+ "name": "wl-B 図面読み取り（図面→見積の自動化）",
+ "en": "drawing-based automatic quoting software",
+ "aliases": [
+  "drawing to quote AI",
+  "automated RFQ from drawings",
+  "AI quoting from 2D drawings",
+  "図面 自動見積"
+ ],
+ "context": "wl-B 図面読み取り",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:29:27.451884+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "six leading European digital CNC platforms",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "The Topic in a Nutshell",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Machining tolerance (±0.1 mm) is less tight than competitors for precision applications",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC Instant Quote Comparison: Europe’s Leading Platforms Tested for Price, Speed and Accuracy",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage {vendor_count} vendors",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Varies",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "MakerVerse by a clear margin. With over 150 materials and 30+ finishes, it offers the widest selection of any digital CNC platform in Europe. No other platform in this comparison comes close for buyers dealing with mixed material orders or non-standard alloys.",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Three quotes land on your desk for the same bracket: one from a CNC shop, one from an SLS bureau, and one from a moulder. The headline prices vary wildly,",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Material range (60+) narrower than MakerVerse (150+) or Xometry",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Instant online quote; flexible lead-time pricing with discounts for the 6–12 day window.",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "No instant quote — 48-hour turnaround for pricing; less suitable for rapid iteration",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Quote within 48 hours; framework pricing for series production.",
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://cloudmore.com/content-hub/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperlessparts.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digifabster.com/products/self-checkout/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1rt4r7h/best_tools_for_reading_plans_and_automating/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dealhub.io/glossary/ai-quoting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/quoting-software-for-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lantek.com/ja/industrial-erp-software/online-quoting-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperlessparts.com/manufacturing-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://myquoteiq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://channelscaler.com/platforms/pricing-self-service-quoting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.varstreetinc.com/7-best-quote-creation-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quintadena.com/it-quoting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getflexpoint.com/post/best-msp-quoting-software-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siptrunk.com/blog/saas-reseller-programs-compared/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scoro.com/blog/best-quoting-software-to-win-new-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://letsbackflip.com/what-is-the-best-software-for-creating-professional-logos-in-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proposify.com/blog/quoting-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubspot.com/products/revenue/quotes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revv.so/quoting-software.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pandadoc.com/blog/best-quoting-software-tools/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://spanflug.de/make/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oneflow.com/quoting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taskade.com/blog/ai-quoting-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teamwork.com/blog/quoting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apriori.com/win-more-profitable-business/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.actionflow.net/solutions/quoting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qstrat.com/automotive-quoting-software-features-to-look-for/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquotable.ai/quote-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/scenarios-for-automated-quoting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/auto-quoting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dac.digital/rfq-automation-for-manufacturers-how-ai-reads-drawings-and-cuts-quoting-time/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xometry.eu/en/instant-quoting-engine/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/make/quoting-turning-milling-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pandadoc.com/quoting-software/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://worksbuddy.ai/blogs/what-is-the-best-quotation-software-for-manufacturing-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesbuildr.com/msp-quoting-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markovate.com/ai-estimating-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gitnux.org/best/ai-quoting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makerz.co.jp/lp/drawing-order/?srsltid=AYCX9vJS4GVCWAuzPSBtyQ1S1Pk4UGhTdwbj_Nwal8_znES804h4qPd_",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pluscad.jp/howto/8227/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/news/detail/99007/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainavi.tech/mitsumoriai/blog_detail?id=s33synxma",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://timewell.jp/columns/ai-quotation-from-drawings",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "drawing-based automatic quoting software white label",
+   "results": [
+    "https://cloudmore.com/content-hub/white-label-software",
+    "https://www.paperlessparts.com/",
+    "https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/",
+    "https://digifabster.com/products/self-checkout/",
+    "https://www.reddit.com/r/AI_Agents/comments/1rt4r7h/best_tools_for_reading_plans_and_automating/",
+    "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "https://dac.digital/rfq-automation-for-manufacturers-how-ai-reads-drawings-and-cuts-quoting-time/",
+    "https://www.taskade.com/blog/ai-quoting-software",
+    "https://www.netguru.com/blog/insurance-quoting-software",
+    "https://www.quotamation.com/"
+   ]
+  },
+  {
+   "query": "drawing-based automatic quoting software OEM API embed",
+   "results": [
+    "https://dealhub.io/glossary/ai-quoting-software/",
+    "https://zoovu.com/quoting-software-for-manufacturing",
+    "https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/",
+    "https://www.lantek.com/erp-industrial/presupuestos/iquoting",
+    "https://www.paperlessparts.com/manufacturing-software/",
+    "https://myquoteiq.com/",
+    "https://www.salesforce.com/sales/revenue-lifecycle-management/automated-quoting-software/",
+    "https://pipecloud.fi/what-is-automated-quoting-in-pipe-fabrication-software/",
+    "https://worksbuddy.ai/blogs/what-is-the-best-quotation-software-for-manufacturing-companies",
+    "https://www.reddit.com/r/Machinists/comments/16s9emj/how_do_automated_quoting_systems_work/"
+   ]
+  },
+  {
+   "query": "drawing-based automatic quoting software reseller partner program",
+   "results": [
+    "https://channelscaler.com/platforms/pricing-self-service-quoting-software/",
+    "https://blog.varstreetinc.com/7-best-quote-creation-tools/",
+    "https://www.paperlessparts.com/",
+    "https://www.youtube.com/watch?v=k3jl8ke0mUE",
+    "https://quintadena.com/it-quoting-software/",
+    "https://www.getflexpoint.com/post/best-msp-quoting-software-2026",
+    "https://myquoteiq.com/",
+    "https://www.siptrunk.com/blog/saas-reseller-programs-compared/",
+    "https://www.scalepad.com/blog/quotation-software-for-msps-what-to-look-for-and-why-it-matters"
+   ]
+  },
+  {
+   "query": "drawing-based automatic quoting software rebrand your logo",
+   "results": [
+    "https://myquoteiq.com/",
+    "https://www.scoro.com/blog/best-quoting-software-to-win-new-business/",
+    "https://letsbackflip.com/what-is-the-best-software-for-creating-professional-logos-in-2026/",
+    "https://www.proposify.com/blog/quoting-software",
+    "https://www.hubspot.com/products/revenue/quotes",
+    "https://www.revv.so/quoting-software.html",
+    "https://www.instagram.com/reel/Db2_-ZPRDDP/",
+    "https://dribbble.com/search/quoting-software",
+    "https://www.3dspark.de/instant-costing-and-auto-quoting-tool",
+    "https://theairankings.com/best-ai-quoting-software/"
+   ]
+  },
+  {
+   "query": "drawing-based automatic quoting software startup profitable revenue",
+   "results": [
+    "https://www.paperlessparts.com/",
+    "https://dealhub.io/glossary/ai-quoting-software/",
+    "https://www.pandadoc.com/blog/best-quoting-software-tools/",
+    "https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/",
+    "https://spanflug.de/make/",
+    "https://www.proposify.com/blog/quoting-software",
+    "https://oneflow.com/quoting-software/",
+    "https://www.taskade.com/blog/ai-quoting-software",
+    "https://www.teamwork.com/blog/quoting-software/",
+    "https://www.capterra.com/quoting-software/"
+   ]
+  },
+  {
+   "query": "drawing-based automatic quoting software company EBITDA profitable bootstrapped",
+   "results": [
+    "https://www.apriori.com/win-more-profitable-business/",
+    "https://www.actionflow.net/solutions/quoting/",
+    "https://www.pandadoc.com/blog/best-quoting-software-tools/",
+    "https://qstrat.com/automotive-quoting-software-features-to-look-for/",
+    "https://dealhub.io/glossary/ai-quoting-software/",
+    "https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/",
+    "https://getquotable.ai/quote-software",
+    "https://spanflug.de/scenarios-for-automated-quoting/",
+    "https://www.xait.com/industry/quoting-software-for-manufacturing",
+    "https://theairankings.com/best-ai-quoting-software/"
+   ]
+  },
+  {
+   "query": "drawing-based automatic quoting software vendors Europe Israel Germany",
+   "results": [
+    "https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/",
+    "https://spanflug.de/make/",
+    "https://www.paperlessparts.com/",
+    "https://www.amfg.ai/auto-quoting",
+    "https://dac.digital/rfq-automation-for-manufacturers-how-ai-reads-drawings-and-cuts-quoting-time/",
+    "https://www.makerverse.com/resources/best-cnc-machining-services-europe/",
+    "https://www.taskade.com/blog/ai-quoting-software",
+    "https://xometry.eu/en/instant-quoting-engine/",
+    "https://www.actionflow.net/solutions/quoting/",
+    "https://spanflug.de/en/make/quoting-turning-milling-parts/"
+   ]
+  },
+  {
+   "query": "drawing-based automatic quoting software pricing API",
+   "results": [
+    "https://dealhub.io/glossary/ai-quoting-software/",
+    "https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/",
+    "https://spanflug.de/make/",
+    "https://www.pandadoc.com/quoting-software/",
+    "https://zoovu.com/quoting-software-for-manufacturing",
+    "https://worksbuddy.ai/blogs/what-is-the-best-quotation-software-for-manufacturing-companies",
+    "https://www.paperlessparts.com/manufacturing-software/",
+    "https://www.salesbuildr.com/msp-quoting-software",
+    "https://markovate.com/ai-estimating-software/",
+    "https://gitnux.org/best/ai-quoting-software/"
+   ]
+  },
+  {
+   "query": "wl-B 図面読み取り（図面→見積の自動化） 日本 代理店",
+   "results": [
+    "https://www.makerz.co.jp/lp/drawing-order/?srsltid=AYCX9vJS4GVCWAuzPSBtyQ1S1Pk4UGhTdwbj_Nwal8_znES804h4qPd_",
+    "https://www.pluscad.jp/howto/8227/",
+    "https://mono.ipros.com/news/detail/99007/",
+    "https://ainavi.tech/mitsumoriai/blog_detail?id=s33synxma",
+    "https://timewell.jp/columns/ai-quotation-from-drawings",
+    "https://genai-ai.co.jp/ai-kanri/blog/cc-seizo-112/",
+    "https://www.instagram.com/reel/DfN4JsVzKEc/",
+    "https://note.com/tribe_hokkaido/n/nce1d430744c3",
+    "https://renue.co.jp/services/drawing-ai",
+    "https://www.optimax.co.jp/ai-information/drawing-reading-ai/"
+   ]
+  }
+ ],
+ "missing": {
+  "自社名で出せる条件": "記載なし（読んだ45頁・検索9回）",
+  "黒字・収益性": "記載なし（読んだ45頁・検索9回）",
+  "日本対応": "記載なし（読んだ45頁・検索9回）"
+ }
+}

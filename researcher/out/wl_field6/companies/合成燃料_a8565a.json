@@ -1,0 +1,1657 @@
+{
+ "name": "合成燃料",
+ "en": "e-fuels",
+ "aliases": [
+  "e-fuel",
+  "SAF",
+  "合成メタン"
+ ],
+ "context": "12 GX ②水素等",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:29:24.462061+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Why the Fed Stopped Paying the Treasury",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "E-fuels offer low-carbon drop-in fuel alternatives, especially in sectors and scenarios where the rapid adoption of zero-emission transportation modes might not be feasible in the mid-century timeframe (such as aviation, heavy-duty, and maritime transport). Many underscore the crucial necessity of synthetic fuels as a key tool in the energy transition.",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "Low-carbon chemical feedstocks and alternatives.",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "There are several challenges and concerns associated with e-fuels. Given the extensive range of technological solutions and production pathways for e-fuels, close consideration of benefits and risks considering the specific application and available alternatives is essential.",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "Less efficient emission reduction option compared to alternatives.",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "Fuel stations (retail gas stations and truck stops)",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "Expand your platform value with leading employee benefit account administration",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "This rapid deployment can also give you an edge over competitors who may be developing their own products and services from scratch.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "By offering high-quality products and services, you build your reputation as a provider of top-notch solutions. Clients who interact with your branded version of a white-labeled product will think of your business as the one providing the service, strengthening your brand’s credibility.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to our corporate payments blog to stay on top of payment innovations.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "Reporting on competitors",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Countries like Morocco, Tunisia, Algeria, and Ivory Coast are leading this shift, thanks to rising internet penetration, mobile adoption, and digitally savvy workforces. Local businesses are eager for software solutions – such as CRM platforms, sales force automation, route-to-market tools, and business intelligence – that can be implemented quickly and adapted to local needs.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "A reseller business allows individuals or companies to partner with established software providers and sell their digital solutions to other businesses. Rather than spending years building a new product or managing a development team, Resellers focus on marketing, sales, and client engagement, offering solutions that are already proven in the market.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "This model is particularly well suited to the African business landscape, where companies are adopting digital technologies at an accelerating pace but often lack access to the right platforms or local implementation support. Resellers fill this gap by delivering tailored, localized services built on top of globally trusted tools.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The backing of a trusted brand recognized in industry reports and relied on by top global organizations.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking competitors",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "One thing worth stating clearly before you go further: a partner is any company or organisation that can help you deliver more value to your customers. That definition is broader than most people assume, and it matters. It stops you from thinking too narrowly about who your programme is for.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "build complete solutions for clients by combining products from multiple vendors. Getting your product embedded in an SI's reference architecture is high-value but requires significant technical investment on your part.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Managed service providers (MSPs)",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "are relevant if your product serves marketers, designers, or other agency buyers. Design agencies, marketing agencies, and digital consultancies can be powerful channel partners for platform providers.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Independent software vendors",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "(ISVs) build products that sit alongside or on top of yours. Partnership is often mutual. You recommend them, they recommend you.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Picture a room full of your ideal partners and write their jobs, gains and pains on sticky notes. Do it twice: once for the owner and once for the people who will sell and deliver. The owner wants revenue. The people doing the work want less hassle. Then cluster the notes, mark the top three in each column and write one value statement for each partner type.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Before you finalise your programme structure, understand what your competitors are offering. What partner types are they working with? What benefits are they providing? What does their tier structure look like? What commission rates are common in your market?",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "A partner programme is only as good as the internal team supporting it. Partners need a point of contact who knows the product, knows the sales process, and responds quickly. If your partners are waiting two days for pre-sales support, they will stop asking.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "“Too convoluted” was the top reason partners lost interest.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "What is, or will be, stopping sales and progress?",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Partner programmes that live in the sales team without C-suite backing die when priorities shift. Get alignment at the top before you recruit anyone.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "CO₂ Providers",
+    "url": "https://www.liquidwind.com/blog/what-are-efuels",
+    "pass": 3
+   },
+   {
+    "quote": "Claes Fredriksson, CEO and Founder of Liquid Wind, shares his insights in an exclusive interview with Topsoe.",
+    "url": "https://www.liquidwind.com/blog/what-are-efuels",
+    "pass": 3
+   },
+   {
+    "quote": "Gas station rebranding can transform a generic fuel stop into a modern, trustworthy destination. In an age where fuel is a commodity, partnering with a nationally recognized brand immediately elevates your station’s perceived value and customer loyalty.",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "SC Fuels is your strategic rebranding partner with over 90 years of industry experience. We help independent owners maximize their site’s potential. Our end-to-end fuel delivery network provides quality fuel, unmatched service, and industry-leading expertise.",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "During fuel shortages, major branded stations receive first priority for delivery. Rebranding ensures your pumps stay wet when competitors run dry.",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "TopTier™ certified for optimized fuel economy and reduced exhaust emissions.",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "TopTier™ certified with three times the required detergent additives for superior engine protection.",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "TopTier™ detergents maintain optimal fuel system cleanliness and peak engine performance.",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Your business does not stop, and neither do we. ⛽",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Go to Top",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "On the international front, countries with significant renewable energy resources are emerging as key players in e-fuel production. Chile, with its abundant solar and wind power, is becoming a hub for green hydrogen and e-fuel production.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "share. Its prominence in the market can be largely attributed to its versatility and compatibility with existing natural gas infrastructure, which allows for seamless integration into current energy systems. E-methane is primarily used in heating and power generation, making it a critical component in the transition towards greener energy alternatives.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "share. This segment’s prominence is largely due to the critical need for sustainable fuel alternatives in automotive, aviation, and maritime transportation, which are significant contributors to global carbon emissions.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "E-fuels, such as e-diesel, e-gasoline, and e-kerosene, have been pivotal in enabling these industries to transition towards greener alternatives without extensive modifications to existing engines and fuel distribution systems.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "For example, BASF, one of the world’s leading chemical companies, has committed to reducing its greenhouse gas emissions by",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, the steel industry began adopting e-fuels more broadly, particularly e-hydrogen, to replace coking coal in the iron reduction process. Companies like Thyssenkrupp and ArcelorMittal have been leading the charge, investing in hydrogen-based steel production technologies that can reduce carbon emissions by up to 95% compared to traditional methods.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "leading in market size and growth. In 2023, APAC dominated the e-fuel landscape, accounting for approximately",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Africa’s market is emerging, with South Africa leading in renewable energy initiatives. Latin America shows potential due to its rich bioenergy resources and growing investments in renewable energy sectors in countries like Brazil and Argentina.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading segment by end use:",
+    "url": "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "pass": 3
+   },
+   {
+    "quote": "The global e-fuels market is projected to grow from USD 24.49 billion in 2025 to USD 66.25 billion by 2030, registering a CAGR of 22.0% during 2025-2030. Market growth is being driven by rising demand for sustainable fuel alternatives, supportive low-carbon fuel policies, stricter emissions standards, and the need to decarbonize aviation and shipping.",
+    "url": "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top companies in the global E-fuels Market include Saudi Arabian Oil Co. (Saudi Arabia), AUDI AG (Germany), Repsol (Spain), Sunfire SE (Germany), Electrochaea GmbH (Germany), Uniper SE (Germany), Ørsted A/S (Denmark), Yara (Norway), Perstorp (Sweden), HIF Global (US), and INFINIUM (US) among others.",
+    "url": "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "pass": 3
+   },
+   {
+    "quote": "Trending Topics",
+    "url": "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "pass": 3
+   },
+   {
+    "quote": "TRENDING TOPICS",
+    "url": "https://www.sia-partners.com/en/insights/publications/optimizing-e-fuel-production",
+    "pass": 3
+   },
+   {
+    "quote": "E-fuels as renewable alternatives in hard-to-abate sectors",
+    "url": "https://www.sia-partners.com/en/insights/publications/optimizing-e-fuel-production",
+    "pass": 3
+   },
+   {
+    "quote": "The single source for exploring industry data alongside leading expertise, analyses, and modelling insights.",
+    "url": "https://www.woodmac.com/press-releases/e-fuels-offer-long-term-solution-to-key-energy-transition-transport-sectors-but-journey-needs-to-start-now/",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the global E-fuels market include HIF Global, Sunfire GmbH, and Liquid Wind AB, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following are the leading companies in the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the e-fuel market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the global e-fuel market include Arcadia eFuels, Electrochaea GmbH, ExxonMobil Corporation, HIF Global, LanzaJet, Inc., Liquid Wind AB, Norsk e-Fuel AS, Sunfire GmbH, Synhelion SA, and Zero Petroleum, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Featured topics",
+    "url": "https://www.topsoe.com/knowledge-and-insights/expert-articles/large-scale-production-of-e-fuel-and-bio-fuel-set-to-get-smarter",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Breakthroughs in various",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "E-fuel production involves various technologies and has two main steps: feedstock production and fuel production.",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": ") can be produced in a low-carbon manner from various sources. Clean hydrogen production methods have been discussed in a",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "can be separated from air using various air separation",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "An often-overlooked, non-hydrocarbon variant of e-fuel is e-ammonia, produced through electrochemical or thermochemical (Haber-Bosch) methods, utilizing clean electricity, heat, water, and N",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": ", such as methanol and formic acid, that can serve as low-carbon inputs for various industrial commodities and products, aiding in decarbonizing the industrial sector.",
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor partnerships with exclusive territory rights.",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "eLeader Partner Program for African companies - eLeader news",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "eLeader Partner Program for African companies",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore key reseller sales models in Africa and find out which one fits your business goals. Learn how eLeader supports your growth with flexible Partner options.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Reseller Businesses Are Booming in Africa (And How to Start One with eLeader)?",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting a business can be overwhelming, especially when it involves high product development costs, complex logistics, or the need for deep technical expertise. But reseller businesses offer a smarter alternative for entrepreneurs who want a faster path to revenue.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The reseller business model is opening doors for entrepreneurs who want to move fast, stay lean, and serve real market needs, especially in regions where digital transformation is reshaping business operations.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Partner Program",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "This article will walk you through the opportunity ahead, explain how the reseller model works, and show you how to start, grow, and scale your own digital business in Africa and beyond.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Now Is the Best Time to Start a Reseller Business in Africa",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "This moment presents a low-risk, high-reward opportunity for digital entrepreneurs. Unlike traditional businesses that require logistics, inventory, or physical infrastructure, reselling digital solutions allows entrepreneurs to enter the market quickly, scale strategically, and build recurring revenue-all without significant upfront investment.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "At eLeader, we’ve seen this potential realized through our Reseller Partners, who are delivering enterprise-level digital tools to local markets while building sustainable, scalable businesses. With the right tools, training, and partner support, there’s never been a better time to become part of Africa’s digital growth story.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Reseller Business Model and Why It’s a Great Opportunity in African Markets?",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "A reseller business allows individuals or companies to partner with established software providers and sell their digital solutions to other businesses. Rather than spending years building a new product or managing a development team, Resellers focus on marketing, sales, and client engagement, offering solutions that are already proven in the market.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "This model is particularly well suited to the African business landscape, where companies are adopting digital technologies at an accelerating pace but often lack access to the right platforms or local implementation support. Resellers fill this gap by delivering tailored, localized services built on top of globally trusted tools.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Build a Reseller Channel Partner Program in 14 Steps",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "How to create a reseller channel partner program",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Most partner programmes fail in 18 months. Here's how to build one partners actually sell, from someone who's done it.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "What is a reseller channel partner programme?",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Why most partner programmes fail within 18 months",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Download a presentation to 'Build a Partner Reseller Program'",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "A reseller programme is not a sales channel. It is a new business model you are asking someone else to adopt. Get that wrong and nothing else matters.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Most companies treat a partner programme as a distribution deal. You sell our product, we give you a margin. Sign here.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "The ones that actually work are built differently. They are built as a business model for the partner, one that fits their sales motion, their customer relationships, their economics. The difference between those two approaches is why most partner programmes produce a flurry of signed agreements and then go quiet within 18 months.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "At Appland, a mobile games subscription service, I built the channel sales and partner programme from scratch. With one and a half people, we recruited 45 partners globally over three and a half years. Those partners helped us sign 100 of the world's biggest mobile operators as customers across 40 countries. Partners paid a $20,000 recoupable guarantee to close deals. Appland was acquired in 2018.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "I did not get there by following a checklist. I got there by rebuilding the sales presentation 45 times, by mapping every objection a prospect could raise and preparing a pre-built answer for each one, and by understanding that a channel partner will only sell what they genuinely believe they can close.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "One more thing before we get into it. The creation of a partner programme is not a straight line. It is a lovely mess that gets clearer the more you study and develop it. If the market shifts or your business changes suddenly, you may have to start over on parts of it. That is normal. Do not let it put you off starting.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Get the Partner Programme Playbook",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "This is the method we run in client workshops: 14 steps in four phases. The free Partner Programme Playbook takes you through each one.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Companies all over the world have used the first edition of this method. Docurated listed it first among ten resources for kick-starting a channel partner programme, and I still get requests and questions about it.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "technologies, which convert renewable electricity into various energy carriers, fuels, and chemicals. While they can theoretically be made with fossil-based electricity and fossil CO₂, their sustainability depends on using renewable power and CO₂ captured from biogenic sources or through Direct Air Capture to maintain a closed carbon cycle.",
+    "url": "https://www.liquidwind.com/blog/what-are-efuels",
+    "pass": 3
+   },
+   {
+    "quote": "One of the critical challenges of renewable energy is variability in supply. eFuels address this challenge by storing excess renewable electricity in a stable, transportable form, making them a key enabler of energy system flexibility.",
+    "url": "https://www.liquidwind.com/blog/what-are-efuels",
+    "pass": 3
+   },
+   {
+    "quote": "no solo busca reducir las emisiones de gases de efecto invernadero, sino también impulsar la economía y la innovación tecnológica. Grandes empresas automotrices y energéticas están colaborando estrechamente en proyectos piloto y de escala comercial para llevar esta",
+    "url": "https://www.inprord.com/futuro-con-e-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Se conservará el liderazgo mundial de Alemania en la",
+    "url": "https://www.inprord.com/futuro-con-e-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "pero algunas empresas ya los producen y distribuyen, y la disponibilidad varía según la región. Además, varios fabricantes de automóviles están desarrollando e-Fuels y han anunciado asociaciones con productores.",
+    "url": "https://www.inprord.com/futuro-con-e-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+    "url": "https://www.inprord.com/futuro-con-e-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en un sitio web o en varios sitios web con fines de marketing similares.",
+    "url": "https://www.inprord.com/futuro-con-e-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how we support our various clients.",
+    "url": "https://www.engie.com/en/explore/explainer/e-fuels-what-are-they/",
+    "pass": 3
+   },
+   {
+    "quote": "Gas Station Rebranding and Branded Wholesale Fuel Supplier - SC Fuels",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Unbranded Wholesale",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Gas Station Rebranding and Branded Wholesale Fuel Supplier",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner with a Leader in Wholesale Fuel Distribution",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing the right branded wholesale fuel supplier can help retailers improve consumer trust, loyalty, and supply reliability during shortages. SC Fuels",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Gas station rebranding is a comprehensive process that updates your fuel station’s visual identity, signage, and fuel supplier to align with a new brand image. This strategic process offers various advantages, including:",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Command premium margins:",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "The e-fuel market exhibits dynamic regional variations, with",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "the company emphasized its commitment to reducing greenhouse gas emissions and enhancing its sustainability efforts across various operations.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "This is a paid press release. Contact the press release distributor directly with any inquiries.",
+    "url": "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "pass": 3
+   },
+   {
+    "quote": "By type, the E-methane type accounted for the largest market revenue share in 2024.",
+    "url": "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "pass": 3
+   },
+   {
+    "quote": "In this context, Sia has developed a solution to minimize e-fuel production costs by determining an optimal mix of renewable energy sources (balancing onshore/offshore wind and solar PV), properly sizing the electrolyzer, and optimizing grid interactions (buying and selling electricity on the wholesale market), while adhering to regulatory constraints.",
+    "url": "https://www.sia-partners.com/en/insights/publications/optimizing-e-fuel-production",
+    "pass": 3
+   },
+   {
+    "quote": "Levelized cost of methanol (LCOM) varies between",
+    "url": "https://www.sia-partners.com/en/insights/publications/optimizing-e-fuel-production",
+    "pass": 3
+   },
+   {
+    "quote": "and steam allowed for producing syngas with constant composition and, subsequently, enabled stable syncrude production, despite variable inlet concentrations of CH",
+    "url": "https://www.topsoe.com/knowledge-and-insights/expert-articles/large-scale-production-of-e-fuel-and-bio-fuel-set-to-get-smarter",
+    "pass": 3
+   },
+   {
+    "quote": "production by integrating versatile or even variable carbon feedstocks. And because energy demand for the synthetic fuels process scheme is higher when converting CO",
+    "url": "https://www.topsoe.com/knowledge-and-insights/expert-articles/large-scale-production-of-e-fuel-and-bio-fuel-set-to-get-smarter",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White-Label EV Chargers & OEM Solutions – ChargeTronix 2026",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "/ White-Label EV Chargers & OEM Solutions: How to Expand Your Charging Brand",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label EV Chargers & OEM Solutions: How to Expand Your Charging Brand",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "white-label and OEM programs",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is a White-Label EV Charger",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "A white-label charger is a fully certified product manufactured by one company and branded by another. It lets partners sell proven hardware under their own name while retaining quality control and service flexibility.",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "ChargeTronix as Your OEM Partner",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Typical OEM Vendor",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Expand Your Brand with Proven Technology",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a White-Label Partner",
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "The infrastructure behind the best B2B payment experiences is white-labeled | WEX Inc.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "Customized payment processing solutions under your own brand",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "The infrastructure behind the best B2B payment experiences is white-labeled",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies today are always looking for ways to be more efficient and provide more value to their customers. One solution that’s gained popularity is white-labeling. But what exactly is white-labeling, and how can it benefit both your business and your clients?",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "What is white-labeling?",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "White-labeling is when a company creates a product or service and allows other businesses to brand it as their own. In other words, a company provides a",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "that other businesses can use under their own name and logo. The end customer doesn’t know who originally created the product or service, but they interact with it through the rebranded version.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "How white-labeling works in B2B",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "transactions, you could white-label a payments platform, like",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "What are the benefits of white-labeling?",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "Building a product or service from scratch takes time and money. But with white-labeling, you can skip the lengthy development process and save the resources. Instead, you leverage an existing solution that has already been tested and is ready to be branded and launched quickly. This saves you time and money, allowing you to focus on other areas of your business.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "In many industries, speed is essential. The sooner you can launch a new product or service, the sooner you can start seeing a return on investment (ROI). White-labeling helps you get your offering to market faster because the product is already developed and ready for branding. Instead of months or years of development, you can have your solution up and running in a matter of weeks.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "As a business owner, you probably already have a core area of expertise. White-labeling allows you to focus on that expertise while offering additional services to your customers that are outside of your direct capabilities.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "For example, if you’re a healthcare service but don’t have the expertise to manage payment solutions, white-labeling a payment platform means you can offer that service without diving into the technical side of things. You can still deliver a complete, high-quality solution to your clients without getting bogged down in areas that are outside your focus.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "By offering high-quality products and services, you build your reputation as a provider of top-notch solutions. Clients who interact with your branded version of a white-labeled product will think of your business as the one providing the service, strengthening your brand’s credibility.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "build complete solutions for clients by combining products from multiple vendors. Getting your product embedded in an SI's reference architecture is high-value but requires significant technical investment on your part.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Think of the relationships as a ladder: recommend or refer, resell, resell and add services, build you into their offer, integrate with you, and white-label or OEM. Each step up means more commitment, more value and more work for both sides. Some relationships bring credibility, others bring revenue, so decide what you need each one to do.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Gas Station Rebranding and Branded Wholesale Fuel Supplier - SC Fuels",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Unbranded Wholesale",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Gas Station Rebranding and Branded Wholesale Fuel Supplier",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Gas station rebranding can transform a generic fuel stop into a modern, trustworthy destination. In an age where fuel is a commodity, partnering with a nationally recognized brand immediately elevates your station’s perceived value and customer loyalty.",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "SC Fuels is your strategic rebranding partner with over 90 years of industry experience. We help independent owners maximize their site’s potential. Our end-to-end fuel delivery network provides quality fuel, unmatched service, and industry-leading expertise.",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of Gas Station Rebranding",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "Gas station rebranding is a comprehensive process that updates your fuel station’s visual identity, signage, and fuel supplier to align with a new brand image. This strategic process offers various advantages, including:",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "During fuel shortages, major branded stations receive first priority for delivery. Rebranding ensures your pumps stay wet when competitors run dry.",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "SC Fuels Is Your Dedicated Rebranding Partner",
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label service for direct marketing | BayWa r.e.",
+    "url": "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "pass": 3
+   },
+   {
+    "quote": "White-label service",
+    "url": "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "pass": 3
+   },
+   {
+    "quote": "Our comprehensive white-label solutions enable you to market fluctuating and constant energy generation installations profitably without having to take action yourself.",
+    "url": "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "pass": 3
+   },
+   {
+    "quote": "Our white-label services ensure that you benefit from our expertise in direct marketing without appearing as an external provider. This means you can retain full control over your customer relationships while you organise your marketing efficiently and profitably. You also benefit from the following services:",
+    "url": "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "pass": 3
+   },
+   {
+    "quote": "PPA as White-label-services",
+    "url": "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "White-labeling also allows you to diversify your revenue streams. By offering new products or services that are complementary to your existing ones, you open up new opportunities for profit. For example, if you already sell consulting services, adding a white-labeled financial management platform or payment solution to your offerings can generate new revenue without a significant investment.",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the first elements to evaluate is profitability. Look for a program that offers competitive commission structures, as well as recurring revenue opportunities from client renewals. Resellers who benefit from subscription-based income models often enjoy more predictable and scalable earnings, especially in markets where client loyalty is high.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "different is how it combines high profitability with real, ongoing enablement. We don’t just hand over a product and expect you to sell. Instead, we provide a complete toolkit – competitive commission structures, recurring revenue streams, marketing support, product training, and one-on-one business coaching.",
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "What are ENGIE’s revenue and net income?",
+    "url": "https://www.engie.com/en/explore/explainer/e-fuels-what-are-they/",
+    "pass": 3
+   },
+   {
+    "quote": "Our comprehensive white-label solutions enable you to market fluctuating and constant energy generation installations profitably without having to take action yourself.",
+    "url": "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "pass": 3
+   },
+   {
+    "quote": "Our white-label services ensure that you benefit from our expertise in direct marketing without appearing as an external provider. This means you can retain full control over your customer relationships while you organise your marketing efficiently and profitably. You also benefit from the following services:",
+    "url": "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "5. Increased revenue streams",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": "At Appland we recruited 45 partners. Around ten of them were very active, and together they pitched to several hundred operators. Plan for a small core of partners who carry most of the programme, and give them the most attention.",
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Revenue (2033)",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "By type, the E-methane type accounted for the largest market revenue share in 2024.",
+    "url": "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD billion/million, Volume in Million Tons, and CAGR from 2026 to 2050",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "This report forecasts revenue and volume growth at global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2021 to 2050. For this study, Grand View Research has segmented the e-fuel market report based on product, state, production method, technology, end use, carbon source, carbon capture type, and region:",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Product Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "State Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Production Method Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "End Use Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Carbon Source Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Carbon Capture Type Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook (Revenue, USD Million; Volume, Million Tons; 2021 - 2050)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Arrisa Avenue, Kharadi, Pune-411014",
+    "url": "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Japanese",
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "pass": 3
+   },
+   {
+    "quote": ", with governments such as the European Union, the U.S., and Japan spearheading the drive. In Europe alone, the European Commission has set an ambitious target to reach a capacity of",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "This substantial share is largely due to the aggressive renewable energy initiatives and governmental support across countries like China, India, and Japan, which are heavily investing in technologies such as hydrogen fuel and synthetic fuels to reduce their carbon footprints and enhance energy security.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America – US, Canada; Europe – Germany, France, The UK, Spain, Italy, Rest of Europe; Asia Pacific – China, Japan, South Korea, India, Australia, Singapore, Rest of APAC; Latin America – Brazil, Mexico, Rest of Latin America; Middle East & Africa – South Africa, Saudi Arabia, UAE, Rest of MEA",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s ENEOS & Mitsubishi – Methanol-to-Gasoline E-Fuel Pathways",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Netherlands; UK; Germany; France; Italy; Spain; Russia; China; Indonesia; Thailand; India; Japan; South Korea; Australia; Brazil; Colombia; Paraguay; Argentina; Saudi Arabia; UAE; South Africa; Egypt",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America (US, Canada), Europe (Germany, France, UK, Italy, Spain, Poland, Russsia, Rest of Europe), Asia Pacific (China, India, Japan, South Korea, Australia,ASEAN Countries, Rest of Asia Pacific), Middle East & Africa (UAE, Saudi Arabia, Qatar, Egypt, South Africa, Rest of Middle East & Africa), Latin America (Brazil, Argentina, Mexico, Colombia Rest of Latin America)",
+    "url": "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "pass": 3
+   },
+   {
+    "quote": "メタネーション試験設備（日本 新潟）",
+    "url": "https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/",
+    "pass": 3
+   },
+   {
+    "quote": "SAF（持続可能な航空燃料）製造装置（日本 山口）",
+    "url": "https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/",
+    "pass": 3
+   },
+   {
+    "quote": "SAF（持続可能な航空燃料）製造装置（日本 沖縄）",
+    "url": "https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN-GTL",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業プロジェクトの支援",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "すでに官民一体となって研究開発が進む合成燃料（e-fuel）ですが、実はその裏には、JOGMECが民間企業と共同で開発した、「JAPAN-GTLプロセス」という技術が生かされています",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、合成燃料（e-fuel）がどのようなものなのか、期待される理由や製造方法、そしてJAPAN-GTLとの関わりについて紹介します",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "もしかしたら、日本でもガソリンや灯油を製造する未来がくるかもしれません",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料（e-fuel）の製造に生かされるJOGMECの「JAPAN-GTLプロセス」",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプロジェクトの背景には、JOGMECが民間企業と共同で、1998年から2012年にかけて取り組んできた日本独自のGTL技術「JAPAN-GTLプロセス」が生かされています",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "約10年前に確立したJAPAN-GTLプロセスにおける原料以外の部分、つまり、合成ガス製造からFT合成、アップグレーティングまでの製造プロセスを最大限に活用しつつ、原料が変わったことに伴う合成ガス製造技術や、製造効率を飛躍的に高めるための革新技術を新たに開発することで、合成燃料（e-fuel）の早期商業化を目指そうというわけです",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN-GTLの歴史",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN-GTLプロセスの開発プロジェクトでは、まず、1998～2000年度にかけて、JOGMECと民間企業3社が共同で実験室レベルの研究をスタートさせ、日本独自の合成ガス製造技術とFT合成技術を開発しました",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "CO2排出を抑えて持続可能性を高めた社会を求める流れと共に、上述の経済状況の中で、JAPAN-GTLプロセスは商業化の機会が得られない状態が続きました",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "CO2を出さないクリーンな水素と組み合わせて合成燃料（e-fuel）を作る技術の検討が始まり、JAPAN-GTLプロセスが再び脚光を浴びることとなったというわけです",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "JOGMECはこれからもJAPAN-GTLプロジェクトで蓄積した技術や経験を活かし、合成燃料（e-fuel）開発プロジェクトを積極的にサポートする予定です",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © Japan Organization for Metals and Energy Security All Rights Reserved.",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "・自動車：日本自動車工業会、全日本トラック協会、",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/2023_chukan_torimatome.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本バス協会",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/2023_chukan_torimatome.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・船舶 ：日本内航海運組合総連合会（ 内 航 船 ） 、",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/2023_chukan_torimatome.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本船主協会（外航船）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/2023_chukan_torimatome.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・産業機械：日本建設機械工業会、日 本 農 業 機 械 工 業 会",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/2023_chukan_torimatome.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "幕張メッセ/Makuhari Messe, Japan",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料の活用方法、実用化に取り組む日本企業も紹介しているので、ぜひ参考にしてください",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料の実用化に取り組む日本企業",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "CO2とH2で製造できるため、日本のような化石燃料を多く国外に依存する国でも製造可能",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、グリーンイノベーション基金事業やNEDOの交付金事業により、FT合成プロセスの大規模化や効率化、合成燃料の低コスト化に向けた直接合成や共電解を組み合わせたFT合成の開発が進められています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車市場におけるカーボンニュートラル燃料導入のロードマップや製造の実現可能性を検討する方針です",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "CCUS EXPOは、RX Japanが主催する世界最大級のエネルギー総合展「スマートエネルギーWeek（SMART ENERGY WEEK）」内に新設された展示会です",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © RX Japan GK",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の「2050カーボンニュートラル」",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の水素基本戦略とは？",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のCO2排出量とその抑制対策",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車は運輸部門の85.8％（日本全体の15.9％）と多く、旅客自動車が運輸部門の47.8％（日本全体の8.8％）、貨物自動車が運輸部門の38.0％（日本全体の7.0％）を排出している",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 日本の運輸部門におけるCO2排出量 出典：国土交通省",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月、伊藤忠商事は、日本で回収したCO",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠商事が事業全体を統括し、HIFグローバルが合成燃料の製造地域やコストを調査、JFEスチールは日本でのCO",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "、経済産業省や国土交通省と、石油連盟、日本自動車工業会などの業界団体が参加して初会合が開かれた",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "日本・ドイツ・リトアニアは、合成燃料の普及に向けた連携",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではトヨタ自動車などが開発に着手しており、自動車に加え航空機での利用も視野に入れるドイツ、バルト海に面し船舶での活用を見込むリトアニアと連携する",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月、日本ガイシは",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車全体で日本国内の年間CO",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は「2050年カーボンニュートラル」を宣言し、日本自動車工業会は合成燃料をその達成手段の一つと位置付けている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省と日本船主協会は「2050年の国際海運カーボンニュートラル」を表明し、その実現に向け、外航船舶燃料について現在の重油から複数の脱炭素燃料への転換を計画している",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "図９ 日本の外航海運業 出典：国土交通省（2022年9月）",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の「2050年カーボンニュートラル」に向けた経営課題に取り組む企業等に対して、国が10年間、研究開発・実証から社会実装までを継続して支援する事業",
+    "url": "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "過去に当社が参画した日本GTL技術研究組合",
+    "url": "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "2006年10月に石油資源開発、千代田化工建設、コスモ石油、新日鉄住金エンジニアリング、国際石油開発帝石、新日本石油（各社名当時）の6社で設立",
+    "url": "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月に国内初となる原料から一貫製造可能な合成燃料製造実証プラントの実証運転を開始しており、製造した合成燃料は、2025年日本国際博覧会（大阪・関西万博）開催期間中に万博シャトルバス（軽油）、および来賓・関係者向け車両（ガソリン）に提供しました",
+    "url": "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "pass": 3
+   },
+   {
+    "quote": "EU、米国、日本など2050年までにカーボンニュートラル（CN）を目指す国や地域で再生可能エネルギー導入や水素、アンモニアといった新エネルギーの開発が加速しています",
+    "url": "https://www.mol-service.com/ja/blog/e-fuel",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は2040年までにe-fuelの商用化を目指し、グリーンイノベーション基金や新エネルギー・産業技術総合開発機構（NEDO）事業などを通じて技術開発を後押ししており、2022年度から2030年度の期間に、1200億円規模のプロジェクトとして技術開発の支援を行うことを明らかにしています",
+    "url": "https://www.mol-service.com/ja/blog/e-fuel",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本企業では",
+    "url": "https://www.mol-service.com/ja/blog/e-fuel",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "E - fuel Market Size, Share | CAGR of 23.6% — E - fuel Market Size, Share | CAGR of 23.6% Market.us https://market.us > e-fuel-market",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuel Market Size, Share & Forecast Analysis Report 2034 — E - fuel Market Size, Share & Forecast Analysis Report 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuels Market to Reach $66.25 Billion, at a 22.0% CAGR by ... — E - fuels Market to Reach $66.25 Billion, at a 22.0% CAGR by ... Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuels Market Size, Share, Trends, & Insights Report, 2035 — E - Fuels Market Size, Share, Trends, & Insights Report, 2035 Roots Analysis https://www.rootsanalysis.com > e-fue...",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuel Market Size, Share And Growth Report, 2026-2050 — E - Fuel Market Size, Share And Growth Report, 2026-2050 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料 （e-fuel）の導入促進に向けた官民協議会 2023年中間 ... — 合成燃料 （e-fuel）の導入促進に向けた官民協議会 2023年中間 ... 経済産業省 PDF https://www.meti.go.jp > 2023_chukan_torimatome",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/2023_chukan_torimatome.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料 （e-fuel）とは？作り方からメリット・デメリットや ... — 合成燃料 （e-fuel）とは？作り方からメリット・デメリットや ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_58",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター — 期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター 脱炭素技術センター https://www.decarbonation-tech.com > intro_5010",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "欧  を中  とした 合成燃料 (e-fuel) 製造プロジェクト動向 — 欧  を中  とした 合成燃料 (e-fuel) 製造プロジェクト動向 一般財団法人 カーボンニュートラル燃料技術センター PDF https://www.pecj.or.jp > uploads > 2025/05 > JPECF...",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2025/05/JPECForum_2025_program_043.pdf",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "CO2 pricing",
+    "url": "https://www.efuel-alliance.eu/initiative/who-we-are",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://enity.io/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://velocys.com/what-is-e-fuel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solutionshub.epam.com/blog/post/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.efuel-alliance.eu/efuels",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampeco.com/ev-charging-platform/white-label-ev-charging-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lynkwell.com/wp-content/uploads/2025/12/E-White-Label-BR-111524-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.advangrid.com/en/partner/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carahsoft.com/partners/resellers-service-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.partner.io/partner-types/reseller-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/PureWhiteLabel/comments/1lo63jq/top_software_reseller_programs_for_2025_which_one/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.liquidwind.com/blog/what-are-efuels",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inprord.com/futuro-con-e-fuels/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engie.com/en/explore/explainer/e-fuels-what-are-they/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ptx-hub.org/publication/e-fuels-separating-the-substance-from-the-hype/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/e-fuel-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/e-fuels-market.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sia-partners.com/en/insights/publications/optimizing-e-fuel-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.woodmac.com/press-releases/e-fuels-offer-long-term-solution-to-key-energy-transition-transport-sectors-but-journey-needs-to-start-now/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsoe.com/knowledge-and-insights/expert-articles/large-scale-production-of-e-fuel-and-bio-fuel-set-to-get-smarter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampeco.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.efuel-alliance.eu/initiative/who-we-are",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vertiv.com/en-emea/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ineratec.de/en/era-one-e-fuels-made-germany",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/2023_chukan_torimatome.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/industries/auto/e-fuel.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/001_07_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2025/05/JPECForum_2025_program_043.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mol-service.com/ja/blog/e-fuel",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "e-fuels software white label",
+   "results": [
+    "https://enity.io/en/partners/our-whitelabel-solution/",
+    "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "https://velocys.com/what-is-e-fuel/",
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://www.efuel-alliance.eu/efuels",
+    "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "https://www.liquidwind.com/blog/what-are-efuels",
+    "https://www.topsoe.com/knowledge-and-insights/expert-articles/large-scale-production-of-e-fuel-and-bio-fuel-set-to-get-smarter",
+    "https://hifglobal.com/blog/blog-description/bloghif/2025/12/15/what-are-e-fuels",
+    "https://blinkfuel.com/own-your-fuel-delivery-business/"
+   ]
+  },
+  {
+   "query": "e-fuels software OEM white-label partner",
+   "results": [
+    "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "https://www.ampeco.com/ev-charging-platform/white-label-ev-charging-software/",
+    "https://enity.io/en/partners/our-whitelabel-solution/",
+    "https://lynkwell.com/wp-content/uploads/2025/12/E-White-Label-BR-111524-2.pdf",
+    "https://www.advangrid.com/en/partner/whitelabel/",
+    "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "https://www.melasoft.com/post/white-label-e-invoicing-platform",
+    "https://bipartisanpolicy.org/article/e-fuel-basics/",
+    "https://www.eva2z.com/oem-fleet-partnership/?srsltid=AYCX9vLSBkrP29T-fKaRLksBcz3elDBxB7h-BcW9gQphGYMQqMPYZN_p",
+    "https://trendpowercharge.com/top-10-white-label-ev-charging-software-companies/"
+   ]
+  },
+  {
+   "query": "e-fuels software reseller partner program",
+   "results": [
+    "https://www.carahsoft.com/partners/resellers-service-providers",
+    "https://www.eleader.biz/eleader-partner-program-for-african-companies/",
+    "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "https://www.partner.io/partner-types/reseller-partners",
+    "https://www.reddit.com/r/PureWhiteLabel/comments/1lo63jq/top_software_reseller_programs_for_2025_which_one/",
+    "https://www.youtube.com/watch?v=sjdMD79pANU",
+    "https://www.cloudeagle.ai/blogs/software-reseller-programs",
+    "https://www.efuel-alliance.eu/initiative/become-a-partner",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://gfi.ai/reseller-partner-program/"
+   ]
+  },
+  {
+   "query": "e-fuels SaaS rebrand private label",
+   "results": [
+    "https://www.liquidwind.com/blog/what-are-efuels",
+    "https://www.efuel-alliance.eu/efuels",
+    "https://www.inprord.com/futuro-con-e-fuels/",
+    "https://www.engie.com/en/explore/explainer/e-fuels-what-are-they/",
+    "https://ptx-hub.org/publication/e-fuels-separating-the-substance-from-the-hype/",
+    "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "https://www.woodmac.com/news/opinion/e-fuels-faq/",
+    "https://www.twelve.co/post/e-fuels-and-the-policies-that-support-them",
+    "https://www.ineratec.de/en/glossary/e-fuels",
+    "https://e-fuels.com/"
+   ]
+  },
+  {
+   "query": "e-fuels software company profitable EBITDA",
+   "results": [
+    "https://market.us/report/e-fuel-market/",
+    "https://www.marketsandmarkets.com/ResearchInsight/e-fuels-market.asp",
+    "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "https://www.sia-partners.com/en/insights/publications/optimizing-e-fuel-production",
+    "https://www.rootsanalysis.com/e-fuels-market",
+    "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "https://www.woodmac.com/horizons/e-fuels-unlocking-hydrogen/",
+    "https://www.precedenceresearch.com/e-fuel-market",
+    "https://microtrends.org/energy-fuels-inc/ebitda"
+   ]
+  },
+  {
+   "query": "e-fuels software bootstrapped profitable revenue",
+   "results": [
+    "https://market.us/report/e-fuel-market/",
+    "https://www.woodmac.com/press-releases/e-fuels-offer-long-term-solution-to-key-energy-transition-transport-sectors-but-journey-needs-to-start-now/",
+    "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "https://www.topsoe.com/knowledge-and-insights/expert-articles/large-scale-production-of-e-fuel-and-bio-fuel-set-to-get-smarter",
+    "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "https://www.rootsanalysis.com/e-fuels-market",
+    "https://www.fortunebusinessinsights.com/e-fuel-market-109586"
+   ]
+  },
+  {
+   "query": "e-fuels software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.ampeco.com/",
+    "https://www.efuel-alliance.eu/initiative/who-we-are",
+    "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "https://www.vertiv.com/en-emea/",
+    "https://www.ineratec.de/en/era-one-e-fuels-made-germany",
+    "https://www.inprord.com/futuro-con-e-fuels/",
+    "https://driivz.com/",
+    "https://global-efuels.com/news/eneos-and-gef1-launch-strategic-collaboration-for-synthetic-fuels/",
+    "https://doral-energy.com/en/solutions/green-hydrogen/",
+    "https://www.efuel-alliance.eu/efuels/efuels-production-map"
+   ]
+  },
+  {
+   "query": "合成燃料 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/",
+    "https://www.youtube.com/watch?v=cC7-xUMy0As",
+    "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/2023_chukan_torimatome.pdf",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "https://www.pwc.com/jp/ja/industries/auto/e-fuel.html",
+    "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "https://www.ninesigma.com/jp/news/column-e-fuel/",
+    "https://www.jetro.go.jp/biznews/2023/01/14d1376da268c0c1.html",
+    "https://www.eneos.co.jp/rd/research/carbon-neutral/synthetic-fuel.html"
+   ]
+  },
+  {
+   "query": "合成燃料 ソフト 代理店 海外製",
+   "results": [
+    "https://www.youtube.com/watch?v=cC7-xUMy0As",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/001_07_00.pdf",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://www.pecj.or.jp/wp-content/uploads/2025/05/JPECForum_2025_program_043.pdf",
+    "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "https://www.pwc.com/jp/ja/industries/auto/e-fuel.html",
+    "https://www.mol-service.com/ja/blog/e-fuel",
+    "https://econipass.com/what-is-e-fuel/",
+    "http://kaigaisoft.com/company.htm"
+   ]
+  }
+ ],
+ "missing": {}
+}

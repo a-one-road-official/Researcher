@@ -1,0 +1,391 @@
+{
+ "name": "wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）",
+ "en": "embeddable browser CAD SDK",
+ "aliases": [
+  "web CAD SDK",
+  "CAD kernel OEM",
+  "embedded 3D CAD",
+  "online CAD API",
+  "ブラウザCAD"
+ ],
+ "context": "wl-C 3D CAD",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:29:31.035653+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cube.dev/articles/best-white-label-embedded-analytics-platforms-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unlayer.com/blog/how-to-white-label-embeddable-editor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.cloud.google.com/looker/docs/embed-sdk-intro?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apryse.com/blog/webviewer/how-to-embed-cad-viewer-in-your-application",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.adobe.com/express/embed-sdk/docs/v4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.retool.com/classic-apps/guides/app-management/embed-apps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.draftsight.com/2D-cad/become-a-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intellicadms.com/affiliate-partner-marketing-program?srsltid=AYCX9vKCB8svhkSoL4G7QTrRF9BQpsjS0VscaH7BKcnvToRMiZxudx4o",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://apryse.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidworks.com/partners/become-solidworks-reseller-partner",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/support/partners",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://brandkit.com/embeddable-media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spline.design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/xiangechen/chili3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://threadmoat.com/categories/cad-startups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trimech.com/best-cad-startup-programs-for-hardware-startups-how-to-choose-the-right-one/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pshdesign.com/from-concept-to-market-how-the-right-cad-software-accelerates-startup-growth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vntana.com/blog/developer-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/the-browser-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embeddable.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siliconangle.com/2026/09/24/enterprise-browser-developer-island-raises-400m-at-6-4b-valuation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embedded.gusto.com/blog/embedded-fintech-strategy-revenue-churn/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocanvas.com/blog/what-is-an-embedded-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insyde.com/news/press-releases/insyde-software-names-pertech-embedded-solutions-as-sales-representative-in-israel/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/778576/ECTI_STU(2025)778576_EN.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/3d-ecommerce-platform-providers/israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aps.autodesk.com/viewer-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nutrient.io/sdk/solutions/cad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rasterex.com/sdk/cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opendesign.com/products/drawings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/products/search/cad_soft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cad100.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/ja/products/creo?srsltid=AYCX9vLd4EBzzHFxj_yig18qrp66h2Q8EInc85So3Gzv4mPoH6k5NHgC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/3DCAD%E3%82%BD%E3%83%95%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/cad-software/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "embeddable browser CAD SDK white label",
+   "results": [
+    "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "https://cube.dev/articles/best-white-label-embedded-analytics-platforms-2026",
+    "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "https://unlayer.com/blog/how-to-white-label-embeddable-editor",
+    "https://meshinspector.com/white-label/",
+    "https://developers.beefree.io/page-builder",
+    "https://docs.sisense.com/main/SisenseLinux/embedding-white-labeling-and-rebranding.htm",
+    "https://www.gocanvas.com/products/white-label-embed",
+    "https://mlightcad.com/cad-sdk.html"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK OEM API embed",
+   "results": [
+    "https://docs.cloud.google.com/looker/docs/embed-sdk-intro",
+    "https://apryse.com/blog/webviewer/how-to-embed-cad-viewer-in-your-application",
+    "https://developer.adobe.com/express/embed-sdk/docs/v4/",
+    "https://docs.retool.com/classic-apps/guides/app-management/embed-apps",
+    "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "https://cpqhelp.zendesk.com/hc/en-us/articles/25665051891341-Using-the-Embed-API",
+    "https://img.ly/capabilities/embeddable-editor/",
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://developers.komo.tech/embedding/",
+    "https://unlayer.com/blog/embeddable-builder-sdks-and-api-integration-guide"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK reseller partner program",
+   "results": [
+    "https://www.draftsight.com/2D-cad/become-a-reseller",
+    "https://www.intellicadms.com/affiliate-partner-marketing-program?srsltid=AYCX9vKCB8svhkSoL4G7QTrRF9BQpsjS0VscaH7BKcnvToRMiZxudx4o",
+    "https://apryse.com/partners",
+    "https://www.solidworks.com/partners/become-solidworks-reseller-partner",
+    "https://www.youtube.com/watch?v=CqXIkK39lXc",
+    "https://www.autodesk.com/support/partners",
+    "https://www.ironcad.com/become-a-reseller/",
+    "https://www.arcvertex.com/get-started/reseller-program/",
+    "https://ketiv.com/autodesk-software/",
+    "https://aps.autodesk.com/autodesk-developer-programs"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK rebrand your logo",
+   "results": [
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://brandkit.com/embeddable-media",
+    "https://img.ly/capabilities/embeddable-editor/",
+    "https://spline.design/",
+    "https://www.youtube.com/watch?v=cLb_t3Sf0WM",
+    "https://github.com/xiangechen/chili3d",
+    "https://www.vntana.com/blog/developer-tools/",
+    "https://www.designhuddle.com/graphic-design-editor",
+    "https://www.opendesign.com/blog/2024/october/drawings-inweb-sdk-oda",
+    "https://mlightcad.com/cad-sdk.html"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK startup profitable revenue",
+   "results": [
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://threadmoat.com/categories/cad-startups",
+    "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "https://trimech.com/best-cad-startup-programs-for-hardware-startups-how-to-choose-the-right-one/",
+    "https://pshdesign.com/from-concept-to-market-how-the-right-cad-software-accelerates-startup-growth/",
+    "https://www.vntana.com/blog/developer-tools/",
+    "https://gaps.com/web-development/",
+    "https://synctera.com/post/guide-to-projecting-revenue-from-embedded-banking-products",
+    "https://www.landbase.com/blog/fastest-growing-embedded-analytics",
+    "https://zipdo.co/cad-industry-statistics/"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK company EBITDA profitable bootstrapped",
+   "results": [
+    "https://multiples.vc/private-comps/the-browser-company",
+    "https://www.vntana.com/blog/developer-tools/",
+    "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "https://embeddable.com/",
+    "https://siliconangle.com/2026/09/24/enterprise-browser-developer-island-raises-400m-at-6-4b-valuation/",
+    "https://embedded.gusto.com/blog/embedded-fintech-strategy-revenue-churn/",
+    "https://www.gocanvas.com/blog/what-is-an-embedded-sdk",
+    "https://www.youtube.com/watch?v=KgUe-kkuMRo",
+    "https://getlatka.com/companies/the-browser-company",
+    "https://techcrunch.com/2024/12/12/embedded-data-analytics-startup-embeddable-is-still-handpicking-its-customers-despite-strong-demand/"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK vendors Europe Israel Germany",
+   "results": [
+    "https://www.insyde.com/news/press-releases/insyde-software-names-pertech-embedded-solutions-as-sales-representative-in-israel/",
+    "https://www.youtube.com/watch?v=r-De57aHcIc",
+    "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "https://www.protolabs.com/",
+    "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/778576/ECTI_STU(2025)778576_EN.pdf",
+    "https://www.vntana.com/blog/developer-tools/",
+    "https://revenuebase.ai/companies/3d-ecommerce-platform-providers/israel",
+    "https://www.reddit.com/r/BuyFromEU/comments/1r01rd8/european_cad_software_alternatives/",
+    "https://github.com/xiangechen/chili3d",
+    "https://worldmetrics.org/best/browser-cad-software/"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK pricing API",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://www.nutrient.io/sdk/solutions/cad/",
+    "https://rasterex.com/sdk/cad",
+    "https://www.opendesign.com/products/drawings",
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://www.partwork.ai/viewer/",
+    "https://www.techsoft3d.com/developers/products/hoops-exchange/",
+    "https://github.com/xiangechen/chili3d",
+    "https://www.getleo.ai/blog/best-text-to-cad-api-tools"
+   ]
+  },
+  {
+   "query": "wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD） 日本 代理店",
+   "results": [
+    "https://www.cadjapan.com/products/search/cad_soft/",
+    "https://www.cad100.jp/",
+    "https://www.ptc.com/ja/products/creo?srsltid=AYCX9vLd4EBzzHFxj_yig18qrp66h2Q8EInc85So3Gzv4mPoH6k5NHgC",
+    "https://mono.ipros.com/cg3/3DCAD%E3%82%BD%E3%83%95%E3%83%88/",
+    "https://formlabs.com/jp/blog/cad-software/",
+    "https://www.zwsoft.co.jp/",
+    "https://www.3dcad-productiontech.net/",
+    "https://www.autodesk.com/jp/solutions/aec/3d-cad-software",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/17/news013.html",
+    "https://cad-kenkyujo.com/web-cad/"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業": "記載なし（読んだ45頁・検索9回）",
+  "自社名で出せる条件": "記載なし（読んだ45頁・検索9回）",
+  "再販制度": "記載なし（読んだ45頁・検索9回）",
+  "黒字・収益性": "記載なし（読んだ45頁・検索9回）",
+  "売上": "記載なし（読んだ45頁・検索9回）",
+  "価格": "記載なし（読んだ45頁・検索9回）",
+  "日本対応": "記載なし（読んだ45頁・検索9回）"
+ }
+}

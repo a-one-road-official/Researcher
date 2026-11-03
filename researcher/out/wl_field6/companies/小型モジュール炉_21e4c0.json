@@ -1,0 +1,1413 @@
+{
+ "name": "小型モジュール炉",
+ "en": "small modular reactor",
+ "aliases": [
+  "SMR",
+  "次世代革新炉"
+ ],
+ "context": "12 GX ⑥次世代革新炉",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:29:20.176773+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Leading scientific research and technology development across priority areas.",
+    "url": "https://www.energy.gov/ne/advanced-small-modular-reactors-smrs",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.energy.gov/ne/advanced-small-modular-reactors-smrs",
+    "pass": 3
+   },
+   {
+    "quote": "View all Topics",
+    "url": "https://www.energy.gov/ne/advanced-small-modular-reactors-smrs",
+    "pass": 3
+   },
+   {
+    "quote": "Related Topics",
+    "url": "https://efifoundation.org/reports/making-small-modular-reactors-bankable-investments/",
+    "pass": 3
+   },
+   {
+    "quote": "While progress has been made, applicants face challenges navigating licensing processes originally meant for larger reactors, leading to lengthy and costly interactions with the NRC. Without the appropriate regulatory framework, developers may have to compromise on design, which affects modularity, standardization, and cost reductions.",
+    "url": "https://efifoundation.org/reports/making-small-modular-reactors-bankable-investments/",
+    "pass": 3
+   },
+   {
+    "quote": "Capital providers, such as commercial lenders and private equity firms, are unlikely to invest in new nuclear projects if communities have a negative view of SMRs. Understanding specific communities’ perceptions of hosting SMR facilities, rather than generalized public opinions, is crucial for bankability.",
+    "url": "https://efifoundation.org/reports/making-small-modular-reactors-bankable-investments/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Startups Powering Data Centers with Small Modular Reactors",
+    "url": "https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Startups Revolutionizing Data Center Energy With Small Modular Reactors",
+    "url": "https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Startups Driving Sustainable Power in Data Centers with Small Modular Reactors",
+    "url": "https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we explore the top 10",
+    "url": "https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors",
+    "pass": 3
+   },
+   {
+    "quote": "companies leading the revolution in",
+    "url": "https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors",
+    "pass": 3
+   },
+   {
+    "quote": "These Top 10 companies are leading the charge in Data center energy with SMR technology, as demand for sustainable, uninterrupted power grows, SMRs offer an innovative pathway to reliable, clean energy solutions.",
+    "url": "https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors",
+    "pass": 3
+   },
+   {
+    "quote": "This partnership combines the world’s leading innovators in nuclear technology, energy project delivery, and cloud infrastructure to collaborate on the development and cost-effective deployment of X-energy’s advanced fourth generation reactor, delivering on the Trump administration’s goal to deploy advanced nuclear reactor technologies.",
+    "url": "https://x-energy.com/news/x-energy-amazon-korea-hydro-amp-nuclear-power-and-doosan-enerbility-announce-partnership-to-scale-advanced-nuclear-energy-for-ai-infrastructure/",
+    "pass": 3
+   },
+   {
+    "quote": "Skip footer and return to top.",
+    "url": "https://x-energy.com/news/x-energy-amazon-korea-hydro-amp-nuclear-power-and-doosan-enerbility-announce-partnership-to-scale-advanced-nuclear-energy-for-ai-infrastructure/",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "News & analysis by topic — every category and vertical landing page",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "Oklo describes three business lines, which it reports as a single segment: Oklo Power (reactor development and deployment), Oklo Fuel (fuel recycling and supply), and Oklo Isotopes (radioisotope production, following its",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "The sealed core unit is designed to be replaced entirely at the end of its seven-year service life. The reactor uses standard assay low-enriched uranium, avoiding the HALEU supply chain constraints faced by some competitors.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "Terra Innovatum, “U.S. NRC Dockets SOLO Micro-Modular Reactor Topical Reports,” March 5, 2026.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading scientific research and technology development across priority areas.",
+    "url": "https://www.energy.gov/ne/generation-iii-small-modular-reactor-program",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.energy.gov/ne/generation-iii-small-modular-reactor-program",
+    "pass": 3
+   },
+   {
+    "quote": "View all Topics",
+    "url": "https://www.energy.gov/ne/generation-iii-small-modular-reactor-program",
+    "pass": 3
+   },
+   {
+    "quote": "Return to top",
+    "url": "https://simpler.grants.gov/opportunity/870a5e1d-f8ec-4763-8a7c-4709086713db",
+    "pass": 3
+   },
+   {
+    "quote": "Manage {vendor_count} vendors",
+    "url": "https://fi.usembassy.gov/finland-becomes-a-contributing-partner-in-the-u-s-foundational-infrastructure-for-responsible-use-of-small-modular-reactor-technology-first-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 SMR Tech to Keep an Eye on in 2025",
+    "url": "https://www.nuclearbusiness-platform.com/media/insights/top-5-smr-tech",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic partnerships with KBR and HD Hyundai in 2025 enhance global deployment, while HALEU fuel deals with Centrus and ASP Isotopes address past delays. This coal-to-nuclear project will power ~400,000 homes and create 250 permanent jobs, cementing TerraPower’s role as a leader in advanced nuclear innovation with significant public-private backing.",
+    "url": "https://www.nuclearbusiness-platform.com/media/insights/top-5-smr-tech",
+    "pass": 3
+   },
+   {
+    "quote": "A 2016 report to the U.K. Parliament developed estimates for “optimism bias” in the anticipated overnight capital costs submitted by SMR vendors ranging from 54 percent to 200 percent (varying also by technology).",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Regulation evolved further in the 1980s and 1990s. Risk-informed approaches allowed for more intelligent safety assessment, and potentially reduced excessive conservatism in design requirements, eventually leading to technology-inclusive, risk-informed, and performance-based regulation (TIRPB) in the 1990s and early 2000s.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy providers can use either, but not both.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "INL, the nation’s top laboratory for nuclear research, development, and demonstration (RD&D), works with nuclear researchers to develop, demonstrate, test, and validate next-generation nuclear reactors.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "This may well include the licensing of key technologies outside the leading-edge firms, as some of these firms may not have the capability to get to scale: building lots of reactors is a great deal more difficult than building a lot of PV solar.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Government should also actively encourage development of collaborative consortia that include vendors, utilities, and end users. The Finnish model shows that sharing risks across different classes of stakeholders can make nuclear power much more fundable. Antitrust concerns should be waived, if necessary, to allow vertically organized collaborations to flourish.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "https://inl.gov/trending-topics/small-modular-reactors/",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.iaea.org/topics/transporting-radioactive-materials",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": ". Christopher P. Pannier and Radek Skoda, “Comparison of Small Modular Reactor and Large Nuclear Reactor Fuel Cost,” Energy and Power Engineering 2014 (April 30, 2014),",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.iaea.org/topics/small-modular-reactors/smr-regulators-forum",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "(HALEU) fuel, which is uranium enriched between 5% and under 20% uranium-235, the main isotope that produces energy during a chain reaction. HALEU is more highly enriched than the sub 5%",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "pass": 3
+   },
+   {
+    "quote": "MW=megawatts electricity; LEU=low-enriched uranium enriched to less than 4.95%, standard in currently operating reactors in the United States; TRISO=tristructural isotopic particle fuel fabricated from HALEU; Molten fissile salt=molten salted mixed with uranium 235, uranium 233, or plutonium",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "pass": 3
+   },
+   {
+    "quote": "MWe=megawatts electricity; LEU=low-enriched uranium enriched to less than 4.95%, standard in currently operating reactors in the United States; HALEU=high-assay low-enriched uranium (enrichment above 4.95%); TRISO=tristructural isotopic particle fuel fabricated from HALEU",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors with designs not readily classified in the preceding categories are also engaged in pre-application activities with the Nuclear Regulatory Commission (NRC).",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "pass": 3
+   },
+   {
+    "quote": "selected the following vendors",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2025, the following eligible vendors were named for the program: Antares Nuclear, Inc.; BWXT Advanced Technologies LLC; General Atomics Electromagnetic Systems; Kairos Power LLC; Oklo Inc.; Radiant Industries Inc.; Westinghouse Government Services; and X-Energy, LLC.",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "pass": 3
+   },
+   {
+    "quote": "Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports.",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "pass": 3
+   },
+   {
+    "quote": "Health Care Providers & Services",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top Small Modular Reactor Companies",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Global Small Modular Reactor Companies",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Next-generation reactor development, Natrium reactor design, isotope production, nuclear research, reactor construction support",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Other Leading Global Small Modular Reactor Companies",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key vendors in the Small Modular Reactor Market?",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "b). However, the most profitable sites are located in states where new nuclear infrastructure development restrictions are in place: California, Connecticut, and New York. Those deployments would require SMR vendors to go through additional legal and legislative steps to deploy nuclear capacity.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Discussion). We use this lumped decrease in capital costs since detailed analysis of the CAPEX savings from learning and multi-unit co-location are the topic of dedicated papers",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Top Articles",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Leading scientific research and technology development across priority areas.",
+    "url": "https://www.energy.gov/ne/benefits-small-modular-reactors-smrs",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.energy.gov/ne/benefits-small-modular-reactors-smrs",
+    "pass": 3
+   },
+   {
+    "quote": "View all Topics",
+    "url": "https://www.energy.gov/ne/benefits-small-modular-reactors-smrs",
+    "pass": 3
+   },
+   {
+    "quote": "The dominant segment. These players are leading early deployments, especially in North America and Europe.",
+    "url": "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Instead of constructing massive plants on-site, vendors are moving toward",
+    "url": "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "is leading early discussions",
+    "url": "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q3: Who are the key players in the small modular reactor market?",
+    "url": "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "A3: Key players include NuScale Power, Rolls-Royce SMR, GE Hitachi Nuclear Energy, Westinghouse Electric Company, China National Nuclear Corporation, Rosatom, and TerraPower.",
+    "url": "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "These advanced reactors, envisioned to vary in size from tens of megawatts up to hundreds of megawatts, can be used for power generation, process heat, desalination, or other industrial uses.",
+    "url": "https://www.energy.gov/ne/advanced-small-modular-reactors-smrs",
+    "pass": 3
+   },
+   {
+    "quote": "Four main technology options are being pursued: light water reactors, fast neutron reactors, graphite-moderated high temperature reactors and various kinds of molten salt reactors (MSRs). The first has the lowest technological risk, but the second (FNR) can be smaller, simpler and with longer operation before refuelling. Some MSRs are fast-spectrum.",
+    "url": "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors",
+    "pass": 3
+   },
+   {
+    "quote": "There are a range of over 100 SMR designs at various stages of development. For more information on SMR designs, please visit our",
+    "url": "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors",
+    "pass": 3
+   },
+   {
+    "quote": "There are a small number of SMRs already operating and under construction, as well as numerous projects at various stages of deployment. For more information on deployment of SMRs, please visit:",
+    "url": "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors",
+    "pass": 3
+   },
+   {
+    "quote": "SMRs generate power just like other reactors—by using a nuclear reaction to heat a liquid that then generates steam, which in turn powers a turbine that creates electricity (see box 2). Today, SMRs are being developed with different technologies that offer variations on this theme, using different fuels, different coolants, and new safety features.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "TerraPower emphasizes that, unlike large PWR reactors, which provide baseload power, its Natrium reactor uses molten salt energy storage; that could open the door to use as variable power, especially as a complement to wind power. That is in part the motivation for its first plant in Wyoming.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Because SMRs have not yet been produced in a factory, we have only educated guesses about cost savings. And because many variables play a significant role in eventual costs—including the technology adopted, the size of the plant, and financing methods and costs—estimates are unlikely to be accurate.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Further, unlike wind and solar, power output from nuclear is highly predictable. Adopting nuclear—either large reactors or SMRs—can reduce the need for balancing capabilities such as banks of lithium-ion batteries for short-term storage, or the use of natural gas to address long-term variation.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, SMR designs include at least four different kinds of coolants, for example, and multiple different fuels among many other varying design choices. We still don’t know what the SMR equivalent of internal combustion will be.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Nuclear waste will vary substantially depending on the nuclear technology used and a company’s design (see figure 7). Broadly, nuclear waste is divided into three categories: low-level nuclear waste (LLW or Class C); intermediate-level waste (known as “greater than class C waste” or GTCC); and high-level nuclear waste (HLW).",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "A 2016 report to the U.K. Parliament developed estimates for “optimism bias” in the anticipated overnight capital costs submitted by SMR vendors ranging from 54 percent to 200 percent (varying also by technology).",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Risks can also be mitigated by government guarantees of various kinds (e.g., CfD), and by different ways of directly allocating market risks. These are discussed in the policy section ahead.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "The various reform efforts under NEIMA and the ADVANCE Act, and through NRC’s own activities, are clearly moving in the right direction. They should make NRC certification more predictable and often shorter, while expanding coverage to a much wider array of technologies.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Design certification takes a lot of time and money—tens of millions of dollars, even though it remains an optional step. Costs also vary widely, and therefore are difficult to predict for small companies with limited resources.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "This model also means that a regulator must estimate construction costs in advance (including supply chains, construction length, interest rates, and a host of other variables) to calculate an appropriate charge for ratepayers. After all, the increased revenue certainty for investors and developers is generated by early costs imposed on ratepayers.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "With, for example, the U.K. government now effectively owning a majority share of the Hinkley plant and the Swedish government exploring such options in Swedish nuclear plants, governments around the globe are taking various stakes in nuclear plants.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports are being provided by the ARDP, which was funded through $500 million via annual appropriations and then $2.48 billion in the 2021 IIJA. That was designed to fund ARDP through 2025, and to be further supported through subsequent annual appropriations. While ARDP does not support all U.S. reactor designs, it is supporting 10 of them at various stages of development.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Much of the focus to date has unsurprisingly been on getting first-of-a-kind reactors built. They are especially expensive and especially risky. And while various private sector partners have invested heavily (including Bill Gates), the risk/reward ratio for being first makes fully private solutions unlikely.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": ". Robin Gaster, “Why Wind and Solar Need Natural Gas: A Realistic Approach to Variability” (ITIF, September 30, 2024),",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Food Distributors",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Health Care Distributors",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Trading Companies & Distributors",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Distributors",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "assesses the economic potential of using SMRs to provide high-temperature industrial heat as a decarbonization strategy, analyzing five types of SMRs across various industrial processes in five U.S. states. It concludes that only with high electricity market years (2021), do SMRs for process heat generation become viable with cogeneration. Locatelli",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Discussion). To understand the relationship between escalating capital costs and deployment, we compute a capital cost profitability margin at each industrial facility as the ratio of the difference between the breakeven SMR capital cost and the FOAK capital costs over the FOAK capital costs. In this analysis, we use manufacturer capital costs, or those provided in Table",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": ". This metric represents a threshold increase in SMR capital cost beyond which the application will not be profitable anymore. A positive capital cost profitability margin indicates that the investment is profitable and will continue to be unless the SMR capital cost increases by more than the margin. Figure",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "presents the capital cost profitability margin distribution for process hydrogen applications—ammonia, refining, and steel-making—and process heat generation from SMRs. Without the H2 PTC, only process heat presents positive margins as seen with the FOAK deployment stage without PTC (Fig.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Fig. 7: Profitability margin for Small Modular Reactor (SMR) capital costs for process hydrogen and process heat applications: the profitability margin corresponds to the maximum increase in capital costs still allowing for profitability of a given SMR applications.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Negative margins indicate that the application is not profitable at the capital costs considered. The box plot is read as center line, median; box limits, upper and lower quartiles; whiskers, 1.5 interquartile range; and points, outliers.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "variable operation and maintenance (VOM) costs,",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Techno-economic framework for SMR deployment and operation, wholesale electricity generation",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "To evaluate the economic potential of dedicated electricity production from SMRs, we build a cost-minimizing linear program to optimize SMR dispatch in wholesale electricity markets. We specifically optimize hourly electricity generation by each SMR design for a year using state-level wholesale prices for 2024 from Cambium",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "To understand the relationship between variations in capital costs and deployment potential, we compute a capital cost profitability margin as equation (",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "$$Profitability\\ margin=\\frac{CAPE{X}_{breakeven}-CAPE{X}_{FOAK}}{CAPE{X}_{FOAK}}.$$",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "The IRA of 2022 provides new tax credits available to SMRs in various forms",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Lee, K. et al. Techno-economic performances and life cycle greenhouse gas emissions of various ammonia production pathways including conventional, carbon-capturing, nuclear-powered, and renewable production",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "improved grid stability and lower marginal generation costs",
+    "url": "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key takeaway? SMRs didn’t just replace capacity — they improved how the grid responded to variability.",
+    "url": "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor and Partner Research",
+    "url": "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aditi Shivarkar",
+    "url": "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nuclear power has grown dramatically in China over the last decade because of political decisions to promote technology. The potential market for SMRs is significant within China. How well this translates to the export potential for the SMR designs remains to be seen, as the only Chinese NPP built outside of China is in Pakistan. Various regulatory and other issues could act as roadblocks.",
+    "url": "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Compound Annual Growth Rate (CAGR) from 2025 to 2033 is estimated at 6.6%. This growth rate highlights the increasing demand for small modular reactors as a viable and efficient energy solution in Europe. The market dynamics are influenced by various factors, including technological advancements and changing energy policies.",
+    "url": "https://metastatinsight.com/blogdetails/top-25-europe-small-modular-reactor-companies",
+    "pass": 3
+   },
+   {
+    "quote": "NuScale’s reactors are designed to be deployed in a variety of applications, providing reliable power while reducing carbon emissions. Their commitment to advancing nuclear technology positions them as a key contributor to the European small modular reactor landscape.",
+    "url": "https://metastatinsight.com/blogdetails/top-25-europe-small-modular-reactor-companies",
+    "pass": 3
+   },
+   {
+    "quote": "2018. Blykalla AB is focused on developing small modular reactor technologies that cater to local energy needs. The company aims to provide scalable and adaptable energy solutions for various applications.",
+    "url": "https://metastatinsight.com/blogdetails/top-25-europe-small-modular-reactor-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Not disclosed. Thorizon is dedicated to the development of small modular reactors, emphasizing innovative designs that enhance operational efficiency and safety. The company's approach revolves around meeting the diverse energy needs of various sectors.",
+    "url": "https://metastatinsight.com/blogdetails/top-25-europe-small-modular-reactor-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Studsvik’s experience in the nuclear sector supports its commitment to innovation and sustainability. The company collaborates with various stakeholders to drive advancements in small modular reactor technologies.",
+    "url": "https://metastatinsight.com/blogdetails/top-25-europe-small-modular-reactor-companies",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "NuScale’s 2025 Annual Report warns: “We have incurred significant losses since inception, we expect to incur losses in the future, and we may not be able to achieve or maintain profitability.”",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "There are also a range of ownership models for reactors, especially for SMRs and microreactors in particular. Both Last Energy and Copenhagen Atomics plan to own and permanently operate their microreactors, selling energy to their customers (presumably through a PPA). Depending on the capital structure and debt load, that model could be both more risky and more profitable.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": ", different applications for SMRs could prove critical to ensure their economic profitability.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "shows the facilities at which SMR deployment without the hydrogen Production Tax Credit is profitable at first-of-a-kind capital costs. The H2 PTC expires in 2028: if, by this year, construction of the new infrastructure hasn’t started, this incentive will not be available. Figure",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "b). However, the most profitable sites are located in states where new nuclear infrastructure development restrictions are in place: California, Connecticut, and New York. Those deployments would require SMR vendors to go through additional legal and legislative steps to deploy nuclear capacity.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Internal rate of return, and deployed capacity of profitable SMR under FOAK capital costs and without H2 PTC at industrial sites. Displayed are only those sites profitable under FOAK capital costs without the H2 PTC. Levelized cost of electricity of SMR designs are shown on the electricity price scale. Symbol shading indicates internal rate of return, while symbol size indicates deployed capacity.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "shows the locations of additional profitable sites compared to the FOAK deployment stage. Annual revenues range from $30,000 to $7 million with the median annual revenue at $2 million. Corresponding internal rates of return (IRR) range from 8 to 12% (Supplementary Fig.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "). As such, the most profitable sites among them feature a high surplus capacity and are located in states with the highest electricity prices (Fig.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Internal Rate of Return (IRR), deployed capacity of profitable SMRs under FOAK capital costs and H2 PTC at industrial sites. Displayed are only those sites profitable under FOAK capital costs with the H2 PTC. Symbol shading indicates IRR, while symbol size indicates deployed capacity. Electricity prices are not depicted since SMRs have been shown to not be competitive for electricity generation.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Cashflows for the FOAK with the H2 PTC deployment stage: process hydrogen sites. Each bar represents one profitable site. Sites are ordered by ascending net annual revenues. Net annual revenues are shown with light blue cross points.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "At each deployment stage and for each application, the additional profitable SMR capacity and subsequent avoided emissions is shown. The totals are shown in a darker shade column for each deployment scenario. FOAK First-Of-A-Kind capital costs, NOAK Nth-Of-A-Kind capital costs, H2 PTC hydrogen production tax credit.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "provide SMR deployment without and with the H2 PTC at escalated capital costs. Without H2 incentives, no industrial sites exist at which SMR deployment is profitable. Including the H2 PTC results in 41 profitable sites for H2 production (28 GWe), but does not yield any profitable sites for process heat provision. These results are in stark contrast to Figs.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "above, where we find several process heat sites are profitable regardless of the H2 PTC. For profitable sites for H2 production, 79% achieve IRRs in excess of 7% (Supplementary Fig.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, applying FOAK capital cost escalation factors of 117% or 156% significantly reduces the potential for profitable SMR deployment across the U.S. (see",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Discussion). To understand the relationship between escalating capital costs and deployment, we compute a capital cost profitability margin at each industrial facility as the ratio of the difference between the breakeven SMR capital cost and the FOAK capital costs over the FOAK capital costs. In this analysis, we use manufacturer capital costs, or those provided in Table",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": ". This metric represents a threshold increase in SMR capital cost beyond which the application will not be profitable anymore. A positive capital cost profitability margin indicates that the investment is profitable and will continue to be unless the SMR capital cost increases by more than the margin. Figure",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "presents the capital cost profitability margin distribution for process hydrogen applications—ammonia, refining, and steel-making—and process heat generation from SMRs. Without the H2 PTC, only process heat presents positive margins as seen with the FOAK deployment stage without PTC (Fig.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "The company has not yet generated revenue from module deliveries, and second-quarter 2026 revenue was $0.1 million against $8.1 million a year earlier, the drop reflecting the end of the Fluor FEED work on RoPower. It closed June 2026 with $1.9 billion of cash, cash equivalents and short- and long-term investments.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "The IMSR uses liquid fluoride salt as a coolant and fuel carrier and supplies heat at 585°C. Source:",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, Terra Innovatum said it had secured supply arrangements for the SOLO reactor’s components, including nuclear-grade graphite.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "For GEV shareholders, the BWRX-300 program represents one component within a diversified power equipment business that generated $38.1 billion in total revenue in fiscal year 2025.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "The nuclear business is still small within that: Nuclear Power revenue was $817 million in the second quarter of 2026, against $649 million in the second quarter of 2025. These figures cover the broader Nuclear Power business, including work on existing reactors, rather than BWRX-300 revenue alone.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "Its reactor work also includes the Defense Department’s Project Pele, a 1.5 MWe transportable high-temperature gas-cooled microreactor to be tested at Idaho National Laboratory; a full core of BWXT-made TRISO fuel arrived at INL in December 2025.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "BANR is one program within a business built largely on long-term government contracts. BWXT reported FY2025 revenue of $3.2 billion, about 73% of it from Government Operations, and backlog of $8.4 billion at June 30, 2026.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "Deep Fission, Inc, “Deep Fission Prototype Reactor Canister Arrives at Kansas Site, Advancing Reactor Proof-of-Concept Program,” 2026-07-07.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "FY25_CTR_Project_Narrative_Template_250708.docx",
+    "url": "https://simpler.grants.gov/opportunity/870a5e1d-f8ec-4763-8a7c-4709086713db",
+    "pass": 3
+   },
+   {
+    "quote": "FY25 CTR Project Narrative Template",
+    "url": "https://simpler.grants.gov/opportunity/870a5e1d-f8ec-4763-8a7c-4709086713db",
+    "pass": 3
+   },
+   {
+    "quote": "2: Financing arrangements for eight recent nuclear plants",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "A hidden technological risk is that the urgent need to reach commercial revenue will lead companies to lock in on current technology before the sector’s discovery phase has been completed. Even though PWR SMRs will likely be cheaper and quicker to build initially, but they may not have a sufficient pathway for cost improvement to reach P3. That, however, is speculative at this point.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": ". “Georgia Nuclear Rebirth Arrives 7 Years Late, $17B over Cost | AP News,” accessed January 22, 2025,",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": ". Dominique Finon and Fabien Roques, “Financing Arrangements and Industrial Organisation for New Nuclear Build in Electricity Markets” (Energy Policy Research Group, University of Cambridge, 2008),",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": ". Dominique Finon and Fabien Roques, “Financing Arrangements and Industrial Organisation for New Nuclear Build in Electricity Markets” (Energy Policy Research Group, University of Cambridge, 2008), https://www.jstor.org/stable/resrep44783.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": ". DOE, “Biden-Harris Administration Takes Action to Secure Nuclear Fuel Supply Chain, Equip Revitalized Domestic Nuclear Industry for the Future,” April 19, 2024.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "no publicly disclosed audited annual revenue for 2024",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "shows the locations of additional profitable sites compared to the FOAK deployment stage. Annual revenues range from $30,000 to $7 million with the median annual revenue at $2 million. Corresponding internal rates of return (IRR) range from 8 to 12% (Supplementary Fig.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "). The highest revenues can be made when deploying high capacity of the iMSR design for process hydrogen for ammonia production, with several plants generating billions of dollars in revenues when operating with SMRs. The H2 PTC is the main source of revenues for both applications while costs are dominated by the SMR CAPEX and the SMR O&M (Fig.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "). The iMSR design generates the most revenues, followed by the PBR-HTGR design. The iPWR and the Micro designs are respectively deployed at a few process heat and hydrogen sites. 1.8% of the potential deployed capacity is in states with new nuclear deployment bans, and 17% in states with restrictions.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Cashflows for the FOAK with the H2 PTC deployment stage: process hydrogen sites. Each bar represents one profitable site. Sites are ordered by ascending net annual revenues. Net annual revenues are shown with light blue cross points.",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast in 2030",
+    "url": "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recorded in the RevenueBase company graph · Sep 22, 2026 ·",
+    "url": "https://revenuebase.ai/companies/browse/small-modular-reactor-companies",
+    "pass": 3
+   },
+   {
+    "quote": "The RevenueBase company graph: 60 million companies and 398.9 million professional contacts resolved from primary sources, queried with RevenueBase SmartSearch, the natural-language company search available to every RevenueBase user.",
+    "url": "https://revenuebase.ai/companies/browse/small-modular-reactor-companies",
+    "pass": 3
+   },
+   {
+    "quote": "RevenueBase's August 25, 2026 study assessed 4,198 description/company pairs across matching settings. The publisher reports 86% good or better at Exact. This evaluates the method across queries; it does not audit this individual list. Recorded company descriptions, where available, help you judge each match yourself.",
+    "url": "https://revenuebase.ai/companies/browse/small-modular-reactor-companies",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Every clean-energy and critical-minerals IPO of 2026, with pricing, proceeds, lockups and performance vs. the S&P 500.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "Deep Fission, Inc, “Advanced Nuclear Company Deep Fission Announces Pricing of Public Offering of Common Stock,” 2026-06-17.",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "SMR markets will be global, so NRC and DOE must not ignore international regulation. United States, Europe, Japan, and other allies can align their regimes to help counter competition from Chinese and Russian state-backed enterprises.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Countries such as Japan and the United Arab Emirates",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "reflect the reality that—as Germany and Japan demonstrate—the political appetite for nuclear power can change, sometimes dramatically.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Nuclear accidents drive a second set of risks. Fukushima occurred in Japan, but the global backlash to nuclear power that it created helped destroy the German nuclear industry (and set the Japanese nuclear industry back a decade). Three Mile Island had similar effects in the United States. Every accident can trigger a turn away from nuclear, and usually tightens the regulatory screw.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": ". Government of Japan, Fact Sheet on U.S. Nuclear Powered Warship (NPW) Safety,” accessed March 26, 2025,",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Nature Japan",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "pass": 3
+   },
+   {
+    "quote": "U.S., UK, Germany, China, India, Japan, Canada, Brazil, Saudi Arabia, South Africa, etc.",
+    "url": "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "150-8512 日本",
+    "url": "https://manufacturo.com/jp/industries/small-nuclear-manufacturers-industry-software/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済全体に合計約1兆米ドルとみられる損失",
+    "url": "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "pass": 3
+   },
+   {
+    "quote": "幕張メッセ/Makuhari Messe, Japan",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のSMRへの取り組み",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本だけでなく、アメリカやイギリス、ロシアや中国など世界各国で研究開発が進められている原子炉です",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、日本原子力研究開発機構が開発を進めるナトリウム冷却高速炉では、事故時に制御棒が重力で落下し、自然に核反応が止まるシステムが想定されています※",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、軽水（普通の水）を使用する原子炉は「軽水炉」と呼ばれ、日本を含む世界の多くの原子炉で採用されています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、2019年4月の原子力イノベーション推進イニシアティブ事業内でSMRを含む原子力技術への政府支援が実施されています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "BATTERY JAPAN 二次電池展の詳細はこちら",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "※「H2 & FC EXPO 水素燃料電池展」「PV EXPO 太陽光発電展」「BATTERY JAPAN 二次電池展」「SMART GRID EXPOスマートグリッド展」「WIND EXPO 風力発電展」「BIOMASS EXPO バイオマス展」「NEXT-GEN THERMAL POWER EXPO [TPEX] ～次世代 火力発電 EXPO～（旧称：ゼロエミッション火力発電EXPO）」「CCUS EXPO -CO2の分離・回収・利用・貯蔵 技術展」は、「SMART ENERGY WEEK -スマートエネルギーWeek-」の構成展です",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © RX Japan GK",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外におけるSMRの開発・導入動向（2021.10.14掲載） | 特集 | 国立研究開発法人日本原子力研究開発機構 高速炉・新型炉に関する研究開発",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2021/20211014.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも、「2050年カーボンニュートラルに伴うグリーン成長戦略」",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2021/20211014.html",
+    "pass": 3
+   },
+   {
+    "quote": "において、海外のSMR実証プロジェクトと連携した日本企業の取組への支援や、SMRの炉型の１つである高温ガス炉を用いたカーボンフリー水素製造に必要な技術開発への支援が示されている",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2021/20211014.html",
+    "pass": 3
+   },
+   {
+    "quote": "NuScale社は、NPMの世界展開に向け、カナダ、ルーマニア、チェコ、ウクライナ、英国、ヨルダン、韓国及び日本の企業や政府組織と協力している",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2021/20211014.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の日揮ホールディングス社とIHI社が、2021年4月と5月にNuScale社への出資を発表している",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2021/20211014.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本では、NEXIP事業や原子力機構における高温ガス炉や高速炉に関する技術開発によりSMR開発が進んでいる",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2021/20211014.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021Japan Electric Power Information Center, Inc. All Rights Reserved",
+    "url": "https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本 2 2 1 1 1 7",
+    "url": "https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 日本とは2017年5月に、日本原子力研究開発機構（JAEA）と協力覚書",
+    "url": "https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 GE日立 米国日本 BWRX-300 1/2 2020",
+    "url": "https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本食品海外プロモーションセンター（JFOODO）",
+    "url": "https://www.jetro.go.jp/biznews/2024/10/9f4e0fc76c0a2f04.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright (C) 1995-2026 Japan External Trade Organization(JETRO). All rights reserved.",
+    "url": "https://www.jetro.go.jp/biznews/2024/10/9f4e0fc76c0a2f04.html",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人日本貿易振興機構 （法人番号 2010405003693）",
+    "url": "https://www.jetro.go.jp/biznews/2024/10/9f4e0fc76c0a2f04.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電気事業",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1261546_4115.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエネルギー事情",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1261546_4115.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright(c) The Federation of Electric Power Companies of Japan.",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1261546_4115.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本原子力学会 核燃料部会 夏季セミナー",
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本と同様、事業者が許認可の申請を行う",
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Top 5 SMR Tech to Keep an Eye on in 2025 — Top 5 SMR Tech to Keep an Eye on in 2025 Nuclear Business Platform https://www.nuclearbusiness-platform.com > ...",
+    "url": "https://www.nuclearbusiness-platform.com/media/insights/top-5-smr-tech",
+    "pass": 3
+   },
+   {
+    "quote": "SMR Stocks: 12 Public Companies to Watch — SMR Stocks: 12 Public Companies to Watch greenstocksresearch.com https://greenstocksresearch.com > 8-li...",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "pass": 3
+   },
+   {
+    "quote": "Small modular reactor potential lies in industry, not grid power — Small modular reactor potential lies in industry, not grid power Michigan Engineering News http://news.engin.umich.edu > 2026/09",
+    "url": "http://news.engin.umich.edu/2026/09/small-modular-reactor-potential-lies-in-industry-not-grid-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 25 Companies Europe Small Modular Reactor Market in ... — Top 25 Companies Europe Small Modular Reactor Market in ... Metastat Insights https://metastatinsight.com > Blog",
+    "url": "https://metastatinsight.com/blogdetails/top-25-europe-small-modular-reactor-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 25 Small modular reactor companies Worldwide — Top 25 Small modular reactor companies Worldwide RevenueBase https://revenuebase.ai > browse > sma...",
+    "url": "https://revenuebase.ai/companies/browse/small-modular-reactor-companies",
+    "pass": 3
+   },
+   {
+    "quote": "SMR Leaderboard: Top 20 Vendors Ranked by Readiness for ... — SMR Leaderboard: Top 20 Vendors Ranked by Readiness for ... LinkedIn https://www.linkedin.com > posts > g...",
+    "url": "https://www.linkedin.com/posts/guy-cohen-44516991_our-smr-leaderboard-is-out-the-top-20-small-activity-7430271029207539712-fo1x",
+    "pass": 3
+   },
+   {
+    "quote": "SMR とは？メリット・デメリット、国内外の開発事例や各国 ... — SMR とは？メリット・デメリット、国内外の開発事例や各国 ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_69",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラルの実現に向けて～ 小型モジュール炉 ... — カーボンニュートラルの実現に向けて～ 小型モジュール炉 ... 日本原子力研究開発機構 PDF https://www.jaea.go.jp > faq > files > material050306",
+    "url": "https://www.jaea.go.jp/04/sefard/faq/files/material050306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外 における SMR の開発・導入動向（2021.10.14掲載） | 特集 — 海外 における SMR の開発・導入動向（2021.10.14掲載） | 特集 日本原子力研究開発機構 https://www.jaea.go.jp > sefard > ordinary",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2021/20211014.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の 小型モジュール炉 の開発動向 - 原子力委員会 — 世界の 小型モジュール炉 の開発動向 - 原子力委員会 原子力委員会 PDF https://www.aec.go.jp > teirei > siryo32 > 1_haifu",
+    "url": "https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Opinion | Exercising the critical thinking muscle on OEM rankings",
+    "url": "https://www.constructionbriefing.com/news/samsung-ct-in-global-partnership-to-develop-smrs-in-europe/8133697.article",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "0.1",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "quote": "The company has not yet generated revenue from module deliveries, and second-quarter 2026 revenue was $0.1 million against $8.1 million a year earlier, the drop reflecting the end of the Fluor FEED work on RoPower. It closed June 2026 with $1.9 billion of cash, cash equivalents and short- and long-t"
+   },
+   {
+    "value": "817",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "quote": "The nuclear business is still small within that: Nuclear Power revenue was $817 million in the second quarter of 2026, against $649 million in the second quarter of 2025. These figures cover the broader Nuclear Power business, including work on existing reactors, rather than BWRX-300 revenue alone."
+   },
+   {
+    "value": "3.2",
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "quote": "BANR is one program within a business built largely on long-term government contracts. BWXT reported FY2025 revenue of $3.2 billion, about 73% of it from Government Operations, and backlog of $8.4 billion at June 30, 2026."
+   },
+   {
+    "value": "2",
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "quote": "shows the locations of additional profitable sites compared to the FOAK deployment stage. Annual revenues range from $30,000 to $7 million with the median annual revenue at $2 million. Corresponding internal rates of return (IRR) range from 8 to 12% (Supplementary Fig."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.energy.gov/ne/advanced-small-modular-reactors-smrs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://efifoundation.org/reports/making-small-modular-reactors-bankable-investments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirion.com/solutions/nuclear-power/small-modular-reactors-smrs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/nuclear/comments/1qu49wj/which_companies_in_the_small_modular_reactor_smr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nuscalepower.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x-energy.com/news/x-energy-amazon-korea-hydro-amp-nuclear-power-and-doosan-enerbility-announce-partnership-to-scale-advanced-nuclear-energy-for-ai-infrastructure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactor-smr-global-tracker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/ne/generation-iii-small-modular-reactor-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nuclearinnovationalliance.org/does-geniii-small-modular-reactor-program-innovative-approaches-public-private-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simpler.grants.gov/opportunity/870a5e1d-f8ec-4763-8a7c-4709086713db",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fi.usembassy.gov/finland-becomes-a-contributing-partner-in-the-u-s-foundational-infrastructure-for-responsible-use-of-small-modular-reactor-technology-first-program/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://www.iaea.org/newscenter/news/what-are-small-modular-reactors-smrs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuclearbusiness-platform.com/media/insights/top-5-smr-tech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://interactive.nuscalepower.com/nuscale/the-global-leader-in-small-modular-reactor-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/nuclear/comments/1vrwubb/short_sellers_reap_2bn_profit_as_modular_nuclear/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ft.com/content/a2f0e0f8-9350-4124-af77-62219e77e777?syn-25a6b1a6=1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nature.com/articles/s41467-026-76077-3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.engin.umich.edu/2026/09/small-modular-reactor-potential-lies-in-industry-not-grid-power/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/ne/benefits-small-modular-reactors-smrs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energystartups.org/top/smr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metastatinsight.com/blogdetails/top-25-europe-small-modular-reactor-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/browse/small-modular-reactor-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arabellesolutions.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.constructionbriefing.com/news/samsung-ct-in-global-partnership-to-develop-smrs-in-europe/8133697.article",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/business/energy/eib-makes-first-investment-modular-nuclear-reactors-2026-09-15/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://manufacturo.com/jp/industries/small-nuclear-manufacturers-industry-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirion.com/jp/news/mirion-to-acquire-paragon-energy-solutions-one-of-the-leading-providers-of-highly-engineered-solutions-for-large-scale-nuclear-power-plants-and-small-modular-reactors-smrs-in-the-united-states",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaea.go.jp/04/sefard/faq/files/material050306.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2021/20211014.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2024/10/9f4e0fc76c0a2f04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1261546_4115.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "small modular reactor software white label",
+   "results": [
+    "https://www.energy.gov/ne/advanced-small-modular-reactors-smrs",
+    "https://efifoundation.org/reports/making-small-modular-reactors-bankable-investments/",
+    "https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors",
+    "https://www.mirion.com/solutions/nuclear-power/small-modular-reactors-smrs",
+    "https://www.reddit.com/r/nuclear/comments/1qu49wj/which_companies_in_the_small_modular_reactor_smr/",
+    "https://www.nuscalepower.com/",
+    "https://www.ans.org/news/article-6460/white-paper-argues-for-smrs-over-renewables-for-data-centers/",
+    "https://ieefa.org/SMR",
+    "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactor-smr-design-database",
+    "https://en.wikipedia.org/wiki/Small_modular_reactor"
+   ]
+  },
+  {
+   "query": "small modular reactor software OEM white-label partner",
+   "results": [
+    "https://www.nuscalepower.com/",
+    "https://x-energy.com/news/x-energy-amazon-korea-hydro-amp-nuclear-power-and-doosan-enerbility-announce-partnership-to-scale-advanced-nuclear-energy-for-ai-infrastructure/",
+    "https://www.energy.gov/ne/advanced-small-modular-reactors-smrs",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://www.reddit.com/r/nuclear/comments/1qu49wj/which_companies_in_the_small_modular_reactor_smr/",
+    "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactor-smr-global-tracker",
+    "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "https://www.youtube.com/watch?v=wbJPIr6z6oM",
+    "https://energy.ec.europa.eu/topics/nuclear-energy/small-modular-reactors_en"
+   ]
+  },
+  {
+   "query": "small modular reactor software reseller partner program",
+   "results": [
+    "https://www.energy.gov/ne/generation-iii-small-modular-reactor-program",
+    "https://nuclearinnovationalliance.org/does-geniii-small-modular-reactor-program-innovative-approaches-public-private-partnerships",
+    "https://simpler.grants.gov/opportunity/870a5e1d-f8ec-4763-8a7c-4709086713db",
+    "https://www.nuscalepower.com/",
+    "https://fi.usembassy.gov/finland-becomes-a-contributing-partner-in-the-u-s-foundational-infrastructure-for-responsible-use-of-small-modular-reactor-technology-first-program/",
+    "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "https://discoveraccelerant.com/smr-workforce-training/",
+    "https://www.nuclearbusiness-platform.com/videos/v/smr-planning-for-new-countries",
+    "https://www.gov.uk/government/publications/small-modular-reactor-technology-partner-summary-business-case"
+   ]
+  },
+  {
+   "query": "small modular reactor SaaS rebrand private label",
+   "results": [
+    "https://www.energy.gov/ne/advanced-small-modular-reactors-smrs",
+    "http://www.iaea.org/newscenter/news/what-are-small-modular-reactors-smrs",
+    "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors",
+    "https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors",
+    "https://www.nuclearbusiness-platform.com/media/insights/top-5-smr-tech",
+    "https://interactive.nuscalepower.com/nuscale/the-global-leader-in-small-modular-reactor-technology",
+    "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "https://www.utilitydive.com/news/utilities-eye-small-modular-nuclear-reactors-for-reliability-as-hyperscaler/829681/",
+    "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "https://en.wikipedia.org/wiki/Small_modular_reactor"
+   ]
+  },
+  {
+   "query": "small modular reactor software company profitable EBITDA",
+   "results": [
+    "https://www.reddit.com/r/nuclear/comments/1vrwubb/short_sellers_reap_2bn_profit_as_modular_nuclear/",
+    "https://www.ft.com/content/a2f0e0f8-9350-4124-af77-62219e77e777?syn-25a6b1a6=1",
+    "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "https://efifoundation.org/reports/making-small-modular-reactors-bankable-investments/",
+    "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "https://www.nature.com/articles/s41467-026-76077-3",
+    "https://market.us/report/small-modular-reactor-market/",
+    "https://www.youtube.com/watch?v=s74KJKKRp4g"
+   ]
+  },
+  {
+   "query": "small modular reactor software bootstrapped profitable revenue",
+   "results": [
+    "http://news.engin.umich.edu/2026/09/small-modular-reactor-potential-lies-in-industry-not-grid-power/",
+    "https://www.reddit.com/r/nuclear/comments/1vrwubb/short_sellers_reap_2bn_profit_as_modular_nuclear/",
+    "https://www.ft.com/content/a2f0e0f8-9350-4124-af77-62219e77e777?syn-25a6b1a6=1",
+    "https://efifoundation.org/reports/making-small-modular-reactors-bankable-investments/",
+    "https://www.facebook.com/StartupSelfieOfficial/posts/small-modular-nuclear-reactors-may-find-their-strongest-early-market-inside-fact/1542168254608286/",
+    "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "https://www.energy.gov/ne/benefits-small-modular-reactors-smrs",
+    "https://www.strategicmarketresearch.com/market-report/small-modular-reactor-market",
+    "https://www.energystartups.org/top/smr/"
+   ]
+  },
+  {
+   "query": "small modular reactor software vendors Europe Israel Germany white label",
+   "results": [
+    "https://metastatinsight.com/blogdetails/top-25-europe-small-modular-reactor-companies",
+    "https://revenuebase.ai/companies/browse/small-modular-reactor-companies",
+    "https://www.linkedin.com/posts/guy-cohen-44516991_our-smr-leaderboard-is-out-the-top-20-small-activity-7430271029207539712-fo1x",
+    "https://bisresearch.com/insights/top-10-startups-revolutionizing-data-center-energy-with-small-modular-reactors",
+    "https://www.arabellesolutions.com/en",
+    "https://www.constructionbriefing.com/news/samsung-ct-in-global-partnership-to-develop-smrs-in-europe/8133697.article",
+    "https://www.nuclearbusiness-platform.com/media/insights/top-5-smr-tech",
+    "https://greenstocksresearch.com/8-listed-companies-developing-small-modular-reactors/",
+    "https://www.reuters.com/business/energy/eib-makes-first-investment-modular-nuclear-reactors-2026-09-15/",
+    "https://smrintel.com/smr-companies-complete-list/"
+   ]
+  },
+  {
+   "query": "小型モジュール炉 ソフトウェア OEM 提供",
+   "results": [
+    "https://manufacturo.com/jp/industries/small-nuclear-manufacturers-industry-software/",
+    "https://www.mirion.com/jp/news/mirion-to-acquire-paragon-energy-solutions-one-of-the-leading-providers-of-highly-engineered-solutions-for-large-scale-nuclear-power-plants-and-small-modular-reactors-smrs-in-the-united-states",
+    "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "https://www.jaea.go.jp/04/sefard/faq/files/material050306.pdf",
+    "https://www.jetro.go.jp/biznews/2024/10/9f4e0fc76c0a2f04.html",
+    "https://www.mri.co.jp/knowledge/column/20250729.html",
+    "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf",
+    "https://ja.wikipedia.org/wiki/小型モジュール炉"
+   ]
+  },
+  {
+   "query": "小型モジュール炉 ソフト 代理店 海外製",
+   "results": [
+    "https://www.jaea.go.jp/04/sefard/ordinary/2021/20211014.html",
+    "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf",
+    "https://www.jetro.go.jp/biznews/2024/10/9f4e0fc76c0a2f04.html",
+    "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1261546_4115.html",
+    "https://manufacturo.com/jp/industries/small-nuclear-manufacturers-industry-software/",
+    "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "https://jp.weforum.org/stories/energy-transition/buoyant-global-outlook-for-small-modular-reactors-2021",
+    "https://www.technologyreview.jp/s/298806/we-were-promised-smaller-nuclear-reactors-where-are-they/",
+    "https://gyokai-map.com/chaosmap-smr-2026"
+   ]
+  }
+ ],
+ "missing": {}
+}

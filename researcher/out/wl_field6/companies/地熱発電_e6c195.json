@@ -1,0 +1,932 @@
+{
+ "name": "地熱発電",
+ "en": "geothermal power",
+ "aliases": [
+  "次世代地熱",
+  "超臨界地熱"
+ ],
+ "context": "12 GX ④次世代型地熱",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:29:23.128983+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Other key players in next-gen geothermal energy generation include Calgary-based startup",
+    "url": "https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Swell Energy, a leading player in home energy storage,",
+    "url": "https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/",
+    "pass": 3
+   },
+   {
+    "quote": ". The project aims to produce green ammonia using renewable energy, contributing to the decarbonization of the industrial sector and the global push towards sustainable fertilizers and fuel alternatives.",
+    "url": "https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/",
+    "pass": 3
+   },
+   {
+    "quote": "to network with leading climate investors and startups from around the world who are working to build the future low-carbon economy.",
+    "url": "https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading scientific research and technology development across priority areas.",
+    "url": "https://www.energy.gov/hgeo/geothermal/geothermal-electricity-technology-evaluation-model",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.energy.gov/hgeo/geothermal/geothermal-electricity-technology-evaluation-model",
+    "pass": 3
+   },
+   {
+    "quote": "View all Topics",
+    "url": "https://www.energy.gov/hgeo/geothermal/geothermal-electricity-technology-evaluation-model",
+    "pass": 3
+   },
+   {
+    "quote": "TOPCon Solar Floor Tiles",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "Walk-on photovoltaic floor tiles using TOPCon cells.",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "Utility, commercial, and rooftop solar deployment.",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "Leading scientific research and technology development across priority areas.",
+    "url": "https://www.energy.gov/hgeo/geothermal/articles/og-launches-multistate-initiative-expand-geothermal-power",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.energy.gov/hgeo/geothermal/articles/og-launches-multistate-initiative-expand-geothermal-power",
+    "pass": 3
+   },
+   {
+    "quote": "View all Topics",
+    "url": "https://www.energy.gov/hgeo/geothermal/articles/og-launches-multistate-initiative-expand-geothermal-power",
+    "pass": 3
+   },
+   {
+    "quote": "Explore more on these topics:",
+    "url": "https://www.energy.gov/hgeo/geothermal/articles/og-launches-multistate-initiative-expand-geothermal-power",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "Topics and Considerations for Developing State Geothermal Regulations",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal Regulatory and Permitting Information Desktop (RAPID) Toolkit",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "Presentation: Topics and Considerations for Developing State Geothermal Regulations",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "NM Governor Michielle Lujan Grisham Announces XGS Energy, Meta Geothermal Partnership – Nation-Leading 150 MW Geothermal Project on Its Way to New Mexico",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "Mazama Energy is leading the",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "Through strategic messaging, strong visuals, and consistent engagement, Taoti turned Geothermal Rising’s social media presence into a thriving, influential community that now serves as a leading voice in the geothermal energy space.",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading PR Firm",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading PR Firms",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Content Marketing Company",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Top DC UX Design Agency",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Digital Marketing Agency",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Google Cardboard Apps",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Interactive Agencies",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Interactive Agency",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Top PR Firms",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Top UX & Interface Design Company",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Virtual Reality Production Company",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage {vendor_count} vendors",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": ". Purchase is within the service territory of the leading New York state utility Con Ed, which is",
+    "url": "https://triplepundit.com/2025/geothermal-energy-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": "In fact, Trump’s pick for Energy Secretary, Chris Wright, is the former CEO of the leading oil and gas services firm Liberty Energy. During his tenure there, Liberty invested $10 million in",
+    "url": "https://triplepundit.com/2025/geothermal-energy-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": ", an up-and-coming startup in the geothermal power generation field. Another leading fossil energy stakeholder, Devon Energy, also invested in Fervo earlier this year.",
+    "url": "https://triplepundit.com/2025/geothermal-energy-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": ". Businesses are preparing for the long-term consequences of a warming world, and they are seeking new energy resources that provide for adaptability and resilience beyond the four-year cycles that characterize federal policymaking. A temporary throttling of wind and solar energy will slow, not stop, the inevitable transition to a more sustainable economy.",
+    "url": "https://triplepundit.com/2025/geothermal-energy-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": "View All Topics",
+    "url": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-and-meta-sign-150mw-geothermal-power-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "View all topics",
+    "url": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-and-meta-sign-150mw-geothermal-power-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "Turn on desktop notifications for breaking stories about interest?",
+    "url": "https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721",
+    "pass": 3
+   },
+   {
+    "quote": "Technical Program Topics",
+    "url": "https://geothermal.org/our-impact/blog/digital-solutions-geothermal-power-increase-operational-productivity-and-longevity",
+    "pass": 3
+   },
+   {
+    "quote": "These startups are attracting attention from investors and utilities who are looking for sustainable alternatives to fossil fuels. In 2020, Fervo Energy raised $28 million in a funding round led by Capricorn Investment Group, while Eavor Technologies was awarded a",
+    "url": "https://eavor.com/blog/startups-are-shaking-up-geothermal-powers-prospects/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報Top",
+    "url": "https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービスTop",
+    "url": "https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/",
+    "pass": 3
+   },
+   {
+    "quote": "サステナビリティTop",
+    "url": "https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報Top",
+    "url": "https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースTop",
+    "url": "https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": ". Swell, which installed and financed distributed energy storage, then aggregated it into VPPs, had early success, but VPP marketplaces have notoriously small margins and it’s hard for new players to garner enough customers to scale",
+    "url": "https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/",
+    "pass": 3
+   },
+   {
+    "quote": "NASEO offers contract opportunities to provide services in support of various program areas. The process is open to all, including small and disadvantaged businesses.",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "In case studies presented last year, the Energy Department’s Geothermal Technologies Office showcased how large-scale heat pump installations could work in various parts of the country. The Taiwanese firm",
+    "url": "https://triplepundit.com/2025/geothermal-energy-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": "Made for Meta partner program",
+    "url": "https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": ", a Tokyo, Japan-based eVTOL developer company,",
+    "url": "https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanisch",
+    "url": "https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (日本語)",
+    "url": "https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/",
+    "pass": 3
+   },
+   {
+    "quote": "Baseload Power Japan",
+    "url": "https://www.baseloadcap.com/geothermal-startups-get-another-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "地熱開発ソリューション・コンサルティングサービス | Schlumberger Japan",
+    "url": "https://jp.slb.com/products-services/business-solutions/geothermal-services",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるシュルンベルジェ",
+    "url": "https://jp.slb.com/products-services/business-solutions/geothermal-services",
+    "pass": 3
+   },
+   {
+    "quote": "#Wordpress #サイト制作 #英語版 #日本語版",
+    "url": "https://trops.co.jp/geothermal_plant_software",
+    "pass": 3
+   },
+   {
+    "quote": "日本は米国、インドネシアに次ぐ世界第3位の地熱資源国です",
+    "url": "https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の再生可能エネルギー電源の比率は、2019年の段階で18.5%であり、政府はこれを2030年までに22～24%に向上させることを目標としています",
+    "url": "https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるインフラ投資、インフラファンド、プロジェクトファイナンスのニュースをご紹介",
+    "url": "https://infrato.jp/16424/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年6月1日、九州電力株式会社（以下、「九州電力」）は同社グループの株式会社キューデン・インターナショナルと西日本技術開発株式会社は米国の地熱技術会社サーモケム社及びサーモケム・インドネシア社（Thermochem,Inc.及びPT. Thermochem Indonesia、以下、「サーモケム社」）の買収に係る株式購入契約を締結したことを発表した",
+    "url": "https://infrato.jp/16424/",
+    "pass": 3
+   },
+   {
+    "quote": "（㈱キューデン・インターナショナル、西日本技術開発㈱、サーモケム社及びサーモケム・インドネシア社の地熱業務実績がある国・地域",
+    "url": "https://infrato.jp/16424/",
+    "pass": 3
+   },
+   {
+    "quote": "、2020年6月1日、九州電力株式会社（西日本技術開発株式会社、株式会社キューデン・インターナショナルとの共同リリース）",
+    "url": "https://infrato.jp/16424/",
+    "pass": 3
+   },
+   {
+    "quote": "【参画】北陸電力と日本工営エナジーソリューションズ、ベトナムの水力発電事業に出資...",
+    "url": "https://infrato.jp/16424/",
+    "pass": 3
+   },
+   {
+    "quote": "【ファンド】日本蓄電池とSBIスマートエナジー、系統用蓄電池事業ファンドを組成...",
+    "url": "https://infrato.jp/16424/",
+    "pass": 3
+   },
+   {
+    "quote": "EY新日本有限責任監査法人",
+    "url": "https://infrato.jp/16424/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトは日本におけるインフラ投資分野の情報提供を目的としており、投資勧誘を目的としておりません",
+    "url": "https://infrato.jp/16424/",
+    "pass": 3
+   },
+   {
+    "quote": "(一財)日本エネルギー経済研究所",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/geothermal/nextgeneration/data/1_8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 次世代型地熱発電プロジェクトは、米国、欧州、日本で多い",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/geothermal/nextgeneration/data/1_8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所) 各種資料に基づき、(一財)日本エネルギー経済研究所が作成",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/geothermal/nextgeneration/data/1_8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(45USD/MWh≒6.75円/kWh; 日本のFIT/FIP: 40円/kWh(<15MW)、26円/kWh(≧15MW))",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/geothermal/nextgeneration/data/1_8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 日本企業の海外プロジェクト等への参画例:",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/geothermal/nextgeneration/data/1_8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所) IEA(2024), “The Future of Geothermal Energy”等を参考に日本エネルギー経済研究所が作成",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/geothermal/nextgeneration/data/1_8.pdf",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White-label apps, custom app, web and AI development. Flat prices, buy online.",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Branded App and Website",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "Your branded app and website, live in days.",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Loyalty and Wallet App",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Marketplace and Ordering Platform",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Delivery App",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Booking and Hotel App",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Customer Portal",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Apps",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "AI APIs, n8n & white-label.",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "Powers chat widgets, embedded content, and enhanced features.",
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding the organization",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Behind the Scenes of an Award-Winning Rebrand",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "recipients of a Gold MarCom award for this rebrand.",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM カスタム圧力センサー",
+    "url": "https://www.bakerhughes.com/jp/geothermal-solutions",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Meta tags Sage for geothermal power #212 - CTVC — Meta tags Sage for geothermal power #212 - CTVC ctvc.co https://www.ctvc.co > meta-tags-sage-...",
+    "url": "https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Sage Geosystems and Meta sign 150MW geothermal power … — Sage Geosystems and Meta sign 150MW geothermal power … Canary Media https://www.canarymedia.com > articles",
+    "url": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-and-meta-sign-150mw-geothermal-power-agreement",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "NASEO's Affiliate Partnership provides businesses, trade associations, nonprofits, and other organizations a unique alliance opportunity with each and every State Energy Office.",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "Non--Profit Web Design",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofit Digital Strategy",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofit Web Design",
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Canary Media, Inc. is a nonprofit, tax-deductible 501(c)(3) organization. EIN: 86‑2478288",
+    "url": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-and-meta-sign-150mw-geothermal-power-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofits",
+    "url": "https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/",
+    "pass": 3
+   },
+   {
+    "quote": "Non-profits",
+    "url": "https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/",
+    "pass": 3
+   },
+   {
+    "quote": "Profits elude geothermal companies - ABC News",
+    "url": "https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721",
+    "pass": 3
+   },
+   {
+    "quote": "Profits elude geothermal companies",
+    "url": "https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721",
+    "pass": 3
+   },
+   {
+    "quote": "The companies, based in the West, have received $195 million in partial federal loan guarantees and grants aimed at promoting clean energy. While the companies have agreements with utilities to buy their energy, they have not operated at a profit. They face questions similar to those of Solyndra, the now bankrupt solar manufacturer that received a $535 million federal loan in 2009.",
+    "url": "https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721",
+    "pass": 3
+   },
+   {
+    "quote": "A third company, U.S. Geothermal, received a $97 million Energy Department loan in February. Its filings with the U.S. Securities and Exchange Commission show it has not made a profit in the last four years.",
+    "url": "https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Executive Order 2025-13, Removing Barriers to Delivering Affordable Energy for Arizona",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "AZ Executive Order 2025-13: Removing Barriers to Delivering Affordable Energy for Arizona",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "as his 2023 Western Governors Association Chair Initiative. The initiative examined opportunities for and barriers to the increased deployment of geothermal energy technologies for both electricity generation and heating and cooling systems in western states, which contain the vast majority of high-yield geothermal energy capacity in the U.S.",
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "But NGP, which also received an additional $66 million in government grants, and Raser received support from both sides of the aisle. Senate Majority Leader Harry Reid, D-Nevada, has cheered NGP, while Sen. Orrin Hatch, R-Utah, has long backed Raser.",
+    "url": "https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.methodia.com/white-label-utilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enity.io/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/hgeo/geothermal/geothermal-electricity-technology-evaluation-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oxoia.com/en/white-labeling-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enektri.com/en/enektri-cloud-white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solarpowerworldonline.com/2025/01/sunvoy-unveils-new-white-label-sales-platform-for-solar-installers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cleanpower.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carahsoft.com/partners/resellers-service-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/hgeo/geothermal/articles/og-launches-multistate-initiative-expand-geothermal-power",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://taoti.com/portfolio/geothermal-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://triplepundit.com/2025/geothermal-energy-businesses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facilitiesdive.com/news/meta-inks-geothermal-deal-with-sage-geosystems-data-centers-clean-energy/726046/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-and-meta-sign-150mw-geothermal-power-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adi-analytics.com/2026/04/27/how-are-digital-and-software-growing-in-oil-gas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/business/energy/big-tech-deals-propel-geothermal-power-towards-lower-costs--reeii-2026-06-08/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.columbia.edu/insights/climate/geothermal-energy-five-key-insights-industry-leaders",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bakertilly.com/insights/geothermal-power-what-investors-need-to-know-as-te",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baseloadcap.com/geothermal-startups-get-another-boost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geothermal.org/our-impact/blog/digital-solutions-geothermal-power-increase-operational-productivity-and-longevity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eavor.com/blog/startups-are-shaking-up-geothermal-powers-prospects/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsj.com/finance/stocks/a-hot-ipo-lifts-geothermal-power-companies-325a2ac0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/renewable-energy-integration-platforms/israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openei.org/wiki/List_of_Companies_in_Geothermal_Sector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zerofy.net/b2b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eranet-smartenergysystems.eu/Partners/Digital_Platform_Providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bakerhughes.com/jp/geothermal-solutions",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.slb.com/products-services/business-solutions/geothermal-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trops.co.jp/geothermal_plant_software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja-jp.ecolab.com/nalco-water/about/industries-we-serve/power-generation/geothermal-power",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chinetsukyokai.com/information/sekai.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://infrato.jp/16424/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyuden-intl.co.jp/business/thermochem.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kajima.co.jp/news/press/202402/19m1-j.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/geothermal/nextgeneration/data/1_8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "geothermal power software white label",
+   "results": [
+    "https://www.methodia.com/white-label-utilities",
+    "https://enity.io/en/partners/our-whitelabel-solution/",
+    "https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/",
+    "https://www.energy.gov/hgeo/geothermal/geothermal-electricity-technology-evaluation-model",
+    "https://gbcorp.org/geothermal-energy/?srsltid=AYCX9vIpB0J--TbzmaZg3BXE3cp95iopGqEMCAp8fo3MFilHyBaRrIO8",
+    "https://www.youtube.com/watch?v=RH-51FjhafE",
+    "https://www.nlr.gov/geothermal/data-tools",
+    "https://www.zerofy.net/b2b.html",
+    "https://www.solarpowerworldonline.com/2025/01/sunvoy-unveils-new-white-label-sales-platform-for-solar-installers/",
+    "https://www.groundloopdesign.com/"
+   ]
+  },
+  {
+   "query": "geothermal power software OEM white-label partner",
+   "results": [
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://oxoia.com/en/white-labeling-partner/",
+    "https://enektri.com/en/enektri-cloud-white-label/",
+    "https://www.methodia.com/white-label-utilities",
+    "https://www.solarpowerworldonline.com/2025/01/sunvoy-unveils-new-white-label-sales-platform-for-solar-installers/",
+    "https://www.youtube.com/watch?v=RH-51FjhafE",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "https://www.zerofy.net/b2b.html",
+    "https://whitelabelpartner.com/"
+   ]
+  },
+  {
+   "query": "geothermal power software reseller partner program",
+   "results": [
+    "https://www.cleanpower.com/partner-program/",
+    "https://www.carahsoft.com/partners/resellers-service-providers",
+    "https://www.energy.gov/hgeo/geothermal/articles/og-launches-multistate-initiative-expand-geothermal-power",
+    "https://www.naseo.org/topics/geothermal-power-accelerator",
+    "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "https://www.youtube.com/watch?v=seo1OB1ZSiU",
+    "https://www.se.com/us/en/partners/it-partner-program/",
+    "https://energyoffice.colorado.gov/geothermal-energy-grant",
+    "https://gfi.ai/gfi-partner-programs/",
+    "https://gfi.ai/reseller-partner-program/"
+   ]
+  },
+  {
+   "query": "geothermal power SaaS rebrand private label",
+   "results": [
+    "https://taoti.com/portfolio/geothermal-rising/",
+    "https://triplepundit.com/2025/geothermal-energy-businesses/",
+    "https://www.facilitiesdive.com/news/meta-inks-geothermal-deal-with-sage-geosystems-data-centers-clean-energy/726046/",
+    "https://www.ctvc.co/meta-tags-sage-for-geothermal-power-212-2/",
+    "https://www.canarymedia.com/articles/geothermal/sage-geosystems-and-meta-sign-150mw-geothermal-power-agreement",
+    "https://about.fb.com/news/2024/08/new-geothermal-energy-project-to-support-our-data-centers/",
+    "https://business.columbia.edu/insights/climate/geothermal-energy-five-key-insights-industry-leaders",
+    "https://the-brandidentity.com/project/alek-blik-transforms-an-energy-start-up-into-an-industrial-powerhouse-brand",
+    "https://geothermal.org/our-impact/blog/geothermal-rising-vision-geothermal-industry",
+    "https://resellportal.com/what-is-private-label-saas/"
+   ]
+  },
+  {
+   "query": "geothermal power software company profitable EBITDA",
+   "results": [
+    "https://adi-analytics.com/2026/04/27/how-are-digital-and-software-growing-in-oil-gas/",
+    "https://www.reuters.com/business/energy/big-tech-deals-propel-geothermal-power-towards-lower-costs--reeii-2026-06-08/",
+    "https://business.columbia.edu/insights/climate/geothermal-energy-five-key-insights-industry-leaders",
+    "https://www.bakertilly.com/insights/geothermal-power-what-investors-need-to-know-as-te",
+    "https://abcnews.com/Politics/profits-elude-geothermal-companies/story?id=14678721",
+    "https://seekingalpha.com/article/4787177-ormat-technologies-the-pure-play-geothermal-company-is-having-its-moment",
+    "https://geothermal.org/our-impact/blog/digital-solutions-geothermal-power-increase-operational-productivity-and-longevity",
+    "https://www.eenews.net/articles/a-6-5b-geothermal-company-industry-eyes-tipping-point/",
+    "https://multiples.vc/public-comps/energy-vault-valuation-multiples",
+    "https://www.energystartups.org/top/geothermal/"
+   ]
+  },
+  {
+   "query": "geothermal power software bootstrapped profitable revenue",
+   "results": [
+    "https://www.baseloadcap.com/geothermal-startups-get-another-boost/",
+    "https://geothermal.org/our-impact/blog/digital-solutions-geothermal-power-increase-operational-productivity-and-longevity",
+    "https://business.columbia.edu/insights/climate/geothermal-energy-five-key-insights-industry-leaders",
+    "https://www.reuters.com/business/energy/big-tech-deals-propel-geothermal-power-towards-lower-costs--reeii-2026-06-08/",
+    "https://eavor.com/blog/startups-are-shaking-up-geothermal-powers-prospects/",
+    "https://www.wsj.com/finance/stocks/a-hot-ipo-lifts-geothermal-power-companies-325a2ac0",
+    "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
+    "https://www.bakertilly.com/insights/geothermal-power-what-investors-need-to-know-as-te",
+    "https://www.facebook.com/bloombergbusiness/videos/tech-giants-are-making-big-bets-on-geothermal-energy-plants-that-will-produce-12/26160942086898411/",
+    "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/"
+   ]
+  },
+  {
+   "query": "geothermal power software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.baywa-re.de/en/services/direct-marketing/for-white-label-services",
+    "https://revenuebase.ai/companies/renewable-energy-integration-platforms/israel",
+    "https://openei.org/wiki/List_of_Companies_in_Geothermal_Sector",
+    "https://www.zerofy.net/b2b.html",
+    "https://www.eranet-smartenergysystems.eu/Partners/Digital_Platform_Providers",
+    "https://dealroom.co/market-maps/geothermal-energy-startups/",
+    "https://geser.eu/en/",
+    "https://www.calcalistech.com/ctechnews/article/dfpboxzg9",
+    "https://ensun.io/search/geothermal-energy/israel",
+    "https://www.energy-xprt.com/geothermal/software/available-in-europe"
+   ]
+  },
+  {
+   "query": "地熱発電 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.bakerhughes.com/jp/geothermal-solutions",
+    "https://jp.slb.com/products-services/business-solutions/geothermal-services",
+    "https://trops.co.jp/geothermal_plant_software",
+    "https://ja-jp.ecolab.com/nalco-water/about/industries-we-serve/power-generation/geothermal-power",
+    "https://www.oyo.co.jp/services/solution/environment-and-energy/renewable-energy/geothermal-hot-springs-power-and-heat-utilization-development-support/",
+    "https://www.technologyreview.jp/s/386746/how-an-overlooked-geothermal-plant-got-a-second-chance/",
+    "https://alj.com/ja/spotlight-by-fady-jameel/%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%96%B0%E3%81%9F%E3%81%AA%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF/",
+    "https://naipnews.naipo.com/ja/65783/",
+    "https://www.enecho.meti.go.jp/category/saving_and_new/saiene/kaitori/dl/fit_2017/legal/guideline_geothermal.pdf",
+    "https://jcc-jp.jp/service/software.html"
+   ]
+  },
+  {
+   "query": "地熱発電 ソフト 代理店 海外製",
+   "results": [
+    "https://www.chinetsukyokai.com/information/sekai.html",
+    "https://infrato.jp/16424/",
+    "https://www.kyuden-intl.co.jp/business/thermochem.html",
+    "https://www.bakerhughes.com/jp/geothermal-solutions",
+    "https://www.kajima.co.jp/news/press/202402/19m1-j.htm",
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/geothermal/nextgeneration/data/1_8.pdf",
+    "https://www.chinetsu.com/about/",
+    "https://alj.com/ja/spotlight-by-fady-jameel/%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%96%B0%E3%81%9F%E3%81%AA%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF/",
+    "https://www.fujielectric.co.jp/products/energy/geothermal_power_generation/service_detail/global.html",
+    "http://kaigaisoft.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "価格": "記載なし（読んだ45頁・検索9回）"
+ }
+}
