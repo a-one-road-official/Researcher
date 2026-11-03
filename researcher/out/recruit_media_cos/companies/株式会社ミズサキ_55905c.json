@@ -1,0 +1,1347 @@
+{
+ "name": "株式会社ミズサキ",
+ "aliases": [
+  "ミズサキ"
+ ],
+ "context": "成果報酬型の採用代行（ドライバー・製造）",
+ "researched_at": "2026-11-03T12:02:31.758865+00:00",
+ "official_url": "https://mizusaki-inc.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒160-0023 東京都新宿区西新宿3丁目3番13号西新宿水間ビル2F",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "愛知県名古屋市東区泉1-23-30 名古屋パナソニックビル6F",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都新宿区西新宿\n3丁目3番13号西新宿水間ビル2F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　藤村俊太郎",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "label": "代表",
+    "value": "代田 晴久",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "藤村俊太郎",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "藤村　俊太郎",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "2016年9月12日",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2024年09月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "2024年",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "料金": [
+   {
+    "quote": "成果報酬型 ドライバー採用代行",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "応募課金型 採用代行",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型 採用代行",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型 新卒採用代行",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "『成果報酬型』の採用代行サービスを徹底解説",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "応募単価3万円～",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「応募が入らない・少ない」という中小企業やベンチャー企業の課題を、初期費用・掲載費用ゼロ円で解決します",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1名採用につき50万円の完全成果報酬型",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "（求人媒体料金を含む）",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "採用できなければ1円もかかりません",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "平均30万円のコスト削減",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "（代行料金を含む）",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "求人媒体費用を含めて月額20万円～",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "追加料金は一切ありません",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用・月額固定費ゼロ",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型の内定課金",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "媒体費用もゼロ円でOK",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用は一切必要ありません",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用を1名50万円で",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "媒体費用込みの成果報酬型",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用専門プラン",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "採用するまでゼロ円の成果報酬型",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "採用を通して実現したい企業の将来設計から、どのように具体的なアクションプランへ繋げていくのか",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ミズサキのドライバー採用代行の流れ｜完全成果報酬で選ばれる理由と支援内容",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ミズサキの「完全成果報酬型ドライバー採用代行」の支援内容と、契約から採用までの流れを代表の藤村が徹底解説！初期費用0円、1人採用50万円の定額制",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型 ドライバー採用代行",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "応募課金型 採用代行",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型 採用代行",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型 新卒採用代行",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "10万円から利用できる低料金も魅力です",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "コスパが良い料金体系・利用料金10万円～",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用・月額費用は無料",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "採用に成功するまで費用はかかりません",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "採用するまで０円",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "\\ ミズサキからのご利用開始で初期費用25万円を全額割引！ /",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "\\ ミズサキからのご利用開始で初期費用10万円OFF！ /",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ミズサキのドライバー採用代行の流れ｜完全成果報酬で選ばれる理由と支援内容",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ミズサキの「完全成果報酬型ドライバー採用代行」の支援内容と、契約から採用までの流れを代表の藤村が徹底解説！初期費用0円、1人採用50万円の定額制",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型を基盤として掲載を残しつつ、急募や複数名採用、地方募集などの課題に応じてIndeedやドラピタ、人材紹介、ミズサキの採用代行を組み合わせる手法を解説します",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "応募数の伸び悩みや採用コスト悪化を解消する社内データの分析手順や、成果報酬型採用代行・掲載型メディア・求人検索エンジンなど主要4手法を徹底比較",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用の専門家が、プレックスジョブの強みや料金体系を整理し、代替・併用におすすめのサービス（ミズサキ、ドラEVER、Indeed等）を徹底比較",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタ代替サービスおすすめ8選！料金と特徴から失敗しない選び方まで解説",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタの代替サービスおすすめ8選を比較！ドライバー採用に悩む運送・物流企業に向け、成果報酬型や定額掲載型の料金・特徴から失敗しない選び方まで詳しく解説します",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "DRIVE Xの掲載料金を完全公開！費用対効果を最大化する選び方と活用ノウハウ",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "「DRIVE Xの掲載料金は本当に安いの？」「自社に合うプランはどれ？」そんな疑問にお答えします",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "全3プランの料金と対応範囲を徹底比較",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型 ドライバー採用代行",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "応募課金型 採用代行",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型 採用代行",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型 新卒採用代行",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "1,000,000円",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ミズサキのドライバー採用代行の流れ｜完全成果報酬で選ばれる理由と支援内容",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ミズサキの「完全成果報酬型ドライバー採用代行」の支援内容と、契約から採用までの流れを代表の藤村が徹底解説！初期費用0円、1人採用50万円の定額制",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型を基盤として掲載を残しつつ、急募や複数名採用、地方募集などの課題に応じてIndeedやドラピタ、人材紹介、ミズサキの採用代行を組み合わせる手法を解説します",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "応募数の伸び悩みや採用コスト悪化を解消する社内データの分析手順や、成果報酬型採用代行・掲載型メディア・求人検索エンジンなど主要4手法を徹底比較",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用の専門家が、プレックスジョブの強みや料金体系を整理し、代替・併用におすすめのサービス（ミズサキ、ドラEVER、Indeed等）を徹底比較",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタ代替サービスおすすめ8選！料金と特徴から失敗しない選び方まで解説",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタの代替サービスおすすめ8選を比較！ドライバー採用に悩む運送・物流企業に向け、成果報酬型や定額掲載型の料金・特徴から失敗しない選び方まで詳しく解説します",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "DRIVE Xの掲載料金を完全公開！費用対効果を最大化する選び方と活用ノウハウ",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "「DRIVE Xの掲載料金は本当に安いの？」「自社に合うプランはどれ？」そんな疑問にお答えします",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   }
+  ],
+  "稼ぎ方": [
+   {
+    "quote": "サービスを探す",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "応募課金型 採用代行",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーサービス紹介",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス資料",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "『成果報酬型』の採用代行サービスを徹底解説",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "採用難易度の高いドライバー専門サービスを提供中です",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ミズサキのサービス",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型の内定課金",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "EGテスティングサービスが求職者の心を掴んだ3つの仕掛け",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "シン・ノルワークスと併用すべきサービスとは？状況に合わせた選び方も解説",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "シン・ノルワークスの長所を活かした代替・併用サービスの選び方を解説します",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クロスワークの代替・併用におすすめの求人サービス7選と切り替えの基準",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クロスワークの代替や併用におすすめのドライバー求人サービス7選と切り替え基準を解説",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "プレックスジョブの代替・併用サービスおすすめ比較｜自社に合うドライバー採用手法の選び方",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用の専門家が、プレックスジョブの強みや料金体系を整理し、代替・併用におすすめのサービス（ミズサキ、ドラEVER、Indeed等）を徹底比較",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタ代替サービスおすすめ8選！料金と特徴から失敗しない選び方まで解説",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタの代替サービスおすすめ8選を比較！ドライバー採用に悩む運送・物流企業に向け、成果報酬型や定額掲載型の料金・特徴から失敗しない選び方まで詳しく解説します",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス資料のダウンロードはこちら",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ミズサキのパートナーサービス紹介｜母集団形成や選考分野における各社サービスとの連携で成果最大化・効率化",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを探す",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "応募課金型 採用代行",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーサービス紹介",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "サービス資料",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "各社サービスとの連携によって、成果の最大化・効率化を行っています",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービス事業者様は",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "新卒オファー型就活サービス「",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "知名度がなく認知されづらいベンチャー企業や中小企業でも、学生に直接オファーを送れる攻めの採用ができるサービスです",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Z世代と呼ばれる現代の学生にとってSNSはもはや”サービス”の域を超え生活そのものになりつつあります",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "「バズくる!!」のサービス詳細はこちら",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "国内最大級のオンライン履歴書サービス「ヤギッシュ」が提供するオファー送信サービスです",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "アサヒビールで確立された社員研修サービス「",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "AI採用支援サービスです",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "「yomitoki」のサービス詳細はこちら",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "シン・ノルワークスと併用すべきサービスとは？状況に合わせた選び方も解説",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "シン・ノルワークスの長所を活かした代替・併用サービスの選び方を解説します",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "クロスワークの代替・併用におすすめの求人サービス7選と切り替えの基準",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "クロスワークの代替や併用におすすめのドライバー求人サービス7選と切り替え基準を解説",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "プレックスジョブの代替・併用サービスおすすめ比較｜自社に合うドライバー採用手法の選び方",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用の専門家が、プレックスジョブの強みや料金体系を整理し、代替・併用におすすめのサービス（ミズサキ、ドラEVER、Indeed等）を徹底比較",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタ代替サービスおすすめ8選！料金と特徴から失敗しない選び方まで解説",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタの代替サービスおすすめ8選を比較！ドライバー採用に悩む運送・物流企業に向け、成果報酬型や定額掲載型の料金・特徴から失敗しない選び方まで詳しく解説します",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを探す",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "応募課金型 採用代行",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーサービス紹介",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "サービス資料",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "中⼩企業に特化した、費⽤対効果の⾼い採⽤コンサルティング‧代⾏サービスを提供し、採⽤成功を⽀援する",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "シン・ノルワークスと併用すべきサービスとは？状況に合わせた選び方も解説",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "シン・ノルワークスの長所を活かした代替・併用サービスの選び方を解説します",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "クロスワークの代替・併用におすすめの求人サービス7選と切り替えの基準",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "クロスワークの代替や併用におすすめのドライバー求人サービス7選と切り替え基準を解説",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "プレックスジョブの代替・併用サービスおすすめ比較｜自社に合うドライバー採用手法の選び方",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用の専門家が、プレックスジョブの強みや料金体系を整理し、代替・併用におすすめのサービス（ミズサキ、ドラEVER、Indeed等）を徹底比較",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタ代替サービスおすすめ8選！料金と特徴から失敗しない選び方まで解説",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタの代替サービスおすすめ8選を比較！ドライバー採用に悩む運送・物流企業に向け、成果報酬型や定額掲載型の料金・特徴から失敗しない選び方まで詳しく解説します",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ドラピタ代替サービスおすすめ8選！料金と特徴から失敗しない選び方まで解説",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを探す",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "pass": 1
+   }
+  ],
+  "製造業の顧客": [
+   {
+    "quote": "成果報酬型を基盤として掲載を残しつつ、急募や複数名採用、地方募集などの課題に応じてIndeedやドラピタ、人材紹介、ミズサキの採用代行を組み合わせる手法を解説します",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業コンサルティング・人材育成・企業研修を提供",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型を基盤として掲載を残しつつ、急募や複数名採用、地方募集などの課題に応じてIndeedやドラピタ、人材紹介、ミズサキの採用代行を組み合わせる手法を解説します",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型を基盤として掲載を残しつつ、急募や複数名採用、地方募集などの課題に応じてIndeedやドラピタ、人材紹介、ミズサキの採用代行を組み合わせる手法を解説します",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "特定の地域・職種で長期間掲載を継続していると、そのエリアで転職を検討している登録会員の大部分へ一通り求人情報が行きわたります",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "長期掲載により地域の登録会員に届ききり、従来の歩留まりが維持できなくなってきた",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブコンプラスDは、工場やドライバーなどの専門職求人に強みを持つ特化型メディアです",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "地方移住での転職を希望する求職者へのアプローチに強い",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "地方都市で幅広くドライバーや作業員を集めたい企業",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型を基盤として掲載を残しつつ、急募や複数名採用、地方募集などの課題に応じてIndeedやドラピタ、人材紹介、ミズサキの採用代行を組み合わせる手法を解説します",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "エージェントやダイレクトなど4つのプランの違い、「怪しい」という口コミの真相、導入事例まで解説",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "quote": "地域振興・23支部の",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域振興活動について知りたい",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "観光・地域情報デジタルブック",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京のものづくり企業を紹介「中小製造業の好事例集」",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営・地域情報冊子",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域振興・23支部の活動",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域振興活動",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI×ウェルネスで描く新しい健康体験――ミラーフィットが挑む地方フィットネスの革新",
+    "url": "https://kei-do.com/interview2/00701/",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "そんな中、導入したミズサキで、わずか2ヵ月で1名の採用に至ります",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、美鈴工業の採用担当者様に、ミズサキを導入する以前の課題から、具体的な改善・成果までの過程を伺いました",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ノミトツチが「1年間応募ゼロ」の苦境から、導入後わずか2ヶ月で即戦力を採用できた理由",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用に悩む企業必見！2年間で応募1名だった興生運輸株式会社様が、ミズサキの採用代行を導入しわずか2ヶ月でスピード採用に成功した理由とは？自社の強みを活かした求人原稿作成と採用実務の丸投げで、担当者の業務負担ゼロを実現した成功事例を徹底解説！ドライバーの母集団形成やコストに悩む採用担当者必見です",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "累計導入企業社数",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "その世代をターゲットとする新卒採用においてもSNSを導入するのは必要不可欠な時代になりました",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "SNSを導入したら採用単価が上がらないか不安…",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "「yomitoki」の導入効果",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用に悩む企業必見！2年間で応募1名だった興生運輸株式会社様が、ミズサキの採用代行を導入しわずか2ヶ月でスピード採用に成功した理由とは？自社の強みを活かした求人原稿作成と採用実務の丸投げで、担当者の業務負担ゼロを実現した成功事例を徹底解説！ドライバーの母集団形成やコストに悩む採用担当者必見です",
+    "url": "https://mizusaki-inc.com/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用に悩む企業必見！2年間で応募1名だった興生運輸株式会社様が、ミズサキの採用代行を導入しわずか2ヶ月でスピード採用に成功した理由とは？自社の強みを活かした求人原稿作成と採用実務の丸投げで、担当者の業務負担ゼロを実現した成功事例を徹底解説！ドライバーの母集団形成やコストに悩む採用担当者必見です",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ドライバー採用に悩む企業必見！2年間で応募1名だった興生運輸株式会社様が、ミズサキの採用代行を導入しわずか2ヶ月でスピード採用に成功した理由とは？自社の強みを活かした求人原稿作成と採用実務の丸投げで、担当者の業務負担ゼロを実現した成功事例を徹底解説！ドライバーの母集団形成やコストに悩む採用担当者必見です",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "しているため、即戦力ドライバーを採用したい運送企業にとって、真っ先に導入を検討したいサービスの一つです",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "quote": "公開できる限りすべての情報を網羅的に解説しているので、導入検討の判断材料としてご活用ください",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "quote": "トルトルくん完全ガイド｜料金・評判・導入のコツから分かる採用支援の新常識",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "quote": "StockSun株式会社の採用代行サービス「トルトルくん」の料金や評判、導入のコツを徹底解説",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "quote": "採用広報代行のおすすめ会社を徹底比較！費用相場やメリットに加え、導入前に知るべき「5つの注意点」と「失敗しない選び方」を採用のプロが解説します",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "quote": "プレックスジョブの掲載料金と評判｜企業が知るべき4つのプランと導入メリット",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "quote": "エージェントやダイレクトなど4つのプランの違い、「怪しい」という口コミの真相、導入事例まで解説",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "quote": "資金面での圧迫が大きく、特に継続的な採用や複数名の採用を行う企業にとっては導入のハードルが高い手法です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入実績・採用コスト削減事例",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "pass": 3
+   },
+   {
+    "quote": "資金面での圧迫が大きく、特に継続的な採用や複数名の採用を行う企業にとっては導入のハードルが高い手法です",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article182828/",
+    "pass": 3
+   },
+   {
+    "quote": "導入実績・採用コスト削減事例",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article182828/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みは「完全成果報酬型」による低リスクな導入と、貴社自身で採用できる力を育む「自走化支援」です",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用戦略の構築をはじめ、求人媒体の導入、求人原稿の作成、スカウト送信、応募者対応、面接調整など、採用活動全体をトータルでサポートしています",
+    "url": "https://kei-do.com/interview2/00701/",
+    "pass": 3
+   },
+   {
+    "quote": "業界異例の全額返金保証付きでリスクゼロの導入を実現",
+    "url": "https://jinzainews.net/pressrelease/20251127-2/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、成果への自信の裏付けとして「全額返金保証」を導入",
+    "url": "https://jinzainews.net/pressrelease/20251127-2/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 採用広報・採用ブランディングの導入効果（実績例）",
+    "url": "https://jinzainews.net/pressrelease/20251127-2/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "ミズサキ株式会社共同創業者",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "quote": "2016年の設立以来、運送業専門の求人メディアとして実績を積み重ね、これまでに",
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "pass": 1
+   },
+   {
+    "quote": "創業・起業支援",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社はまだ創業して間もない小さな会社ですが、その分、柔軟に動ける強みがあります",
+    "url": "https://kei-do.com/interview2/00701/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ミズサキ 株式 会社 の転職・企業 概要 - doda — ミズサキ 株式 会社 の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10244031439",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10244031439/",
+    "pass": 3
+   },
+   {
+    "quote": "ミズサキ 株式 会社 、初期費用・掲載費不要の完全応募単価制 ... — ミズサキ 株式 会社 、初期費用・掲載費不要の完全応募単価制 ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社 情報｜ ミズサキ 株式 会社 — 会社 情報｜ ミズサキ 株式 会社 ミズサキ https://mizusaki-inc.com > company",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ミズサキ ｜医療廃棄物 産業廃棄物 感染性医療廃棄物 — 株式 会社ミズサキ ｜医療廃棄物 産業廃棄物 感染性医療廃棄物 mizusaki-sampai.com https://www.mizusaki-sampai.com > company",
+    "url": "https://www.mizusaki-sampai.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬型 採用代行｜初期 費用 ゼロで始められる ... - ミズサキ — 成果報酬型 採用代行｜初期 費用 ゼロで始められる ... - ミズサキ ミズサキ https://mizusaki-inc.com > lp-total-consulting",
+    "url": "https://mizusaki-inc.com/lp-total-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "ミズサキ 株式会社、初期 費用 ・掲載費不要の完全応募単価制 ... — ミズサキ 株式会社、初期 費用 ・掲載費不要の完全応募単価制 ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "pass": 3
+   },
+   {
+    "quote": "ミズサキ 株式会社、初期 費用 ・掲載費不要の完全応募単価制 ... — ミズサキ 株式会社、初期 費用 ・掲載費不要の完全応募単価制 ... 東京新聞 https://adv.tokyo-np.co.jp > prtimes > article182828",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article182828/",
+    "pass": 3
+   },
+   {
+    "quote": "ミズサキ 株式会社 - 採用コストは人材紹介の半額以下（1人50 ... — ミズサキ 株式会社 - 採用コストは人材紹介の半額以下（1人50 ... hirogaru.jp https://hirogaru.jp > bizboost > article_view",
+    "url": "https://hirogaru.jp/bizboost/article_view.php?id=573",
+    "pass": 3
+   },
+   {
+    "quote": "ミズサキ ｜中小企業・ベンチャー企業の採用支援 — ミズサキ ｜中小企業・ベンチャー企業の採用支援 ミズサキ https://mizusaki-inc.com",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報｜ ミズサキ 株式会社 — 会社情報｜ ミズサキ 株式会社 ミズサキ https://mizusaki-inc.com > company",
+    "url": "https://mizusaki-inc.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "藤村俊太郎 ミズサキ 株式会社@採用・人事の情報発信 - X — 藤村俊太郎 ミズサキ 株式会社@採用・人事の情報発信 - X X https://x.com > MIZUSAKI_inc",
+    "url": "https://x.com/MIZUSAKI_inc",
+    "pass": 3
+   },
+   {
+    "quote": "ミズサキ 株式会社 藤村 俊太郎｜東商 社長 ネット — ミズサキ 株式会社 藤村 俊太郎｜東商 社長 ネット 東京商工会議所 https://www.tokyo-cci.or.jp > shachonet > profile",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "ミズサキ ｜中小企業・ベンチャー企業の 採用 支援 — ミズサキ ｜中小企業・ベンチャー企業の 採用 支援 ミズサキ https://mizusaki-inc.com",
+    "url": "https://mizusaki-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ミズサキ 株式会社、初期費用・掲載費不要の完全応募単価制 ... — ミズサキ 株式会社、初期費用・掲載費不要の完全応募単価制 ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "pass": 3
+   },
+   {
+    "quote": "ミズサキ 、【 採用 広報の「高額な固定費」を撤廃】初期費用 ... — ミズサキ 、【 採用 広報の「高額な固定費」を撤廃】初期費用 ... 日本人材ニュースONLINE https://jinzainews.net > pressrelease",
+    "url": "https://jinzainews.net/pressrelease/20251127-2/",
+    "pass": 3
+   },
+   {
+    "quote": "藤村俊太郎 ミズサキ 株式会社@ 採用 ・人事の情報発信 - X — 藤村俊太郎 ミズサキ 株式会社@ 採用 ・人事の情報発信 - X X https://x.com > MIZUSAKI_inc",
+    "url": "https://x.com/MIZUSAKI_inc",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "経営相談・資金調達",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "人と企業の幸福な出会いを増やし、日本経済の底上げに貢献し続けるのが私の夢です",
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "pass": 3
+   },
+   {
+    "quote": "For JAPAN",
+    "url": "https://kei-do.com/interview2/00701/",
+    "pass": 3
+   },
+   {
+    "quote": "毎回、第一線で活躍する経営者や識者たちが集まり、「日本をどう経営するべきか」を真剣に議論します",
+    "url": "https://kei-do.com/interview2/00701/",
+    "pass": 3
+   },
+   {
+    "quote": "- 日本人材ニュースONLINE",
+    "url": "https://jinzainews.net/pressrelease/20251127-2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人材ニュースONLINE",
+    "url": "https://jinzainews.net/pressrelease/20251127-2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人材ニュース運営サイト",
+    "url": "https://jinzainews.net/pressrelease/20251127-2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人材ニュースについて",
+    "url": "https://jinzainews.net/pressrelease/20251127-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 日本人材ニュースONLINE All Rights Reserved.",
+    "url": "https://jinzainews.net/pressrelease/20251127-2/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "会計で会社を強くする――黒字化を支援し、経営者とともに成長を目指す会計事務所",
+    "url": "https://kei-do.com/interview2/00701/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mizusaki-inc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/dorapita-alternative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/dorapita",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10244031439/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/444529/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baroque-global.com/jp/ir/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3187",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ms-primary.com/company/closing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.matsui.co.jp/stock/4301/settlement/index",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aslp.law.keio.ac.jp/pdf/AN00224504-20010928-0099.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KtA5YG4ucT8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E4%BA%8B%E6%A5%AD%E6%89%BF%E7%B6%99/%E8%A6%AA%E6%97%8F%E5%A4%96%E5%BE%93%E6%A5%AD%E5%93%A1%E6%89%BF%E7%B6%99/%E5%BE%93%E6%A5%AD%E5%93%A1%E6%89%BF%E7%B6%99%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/establish/basic/82608/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article182828/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirogaru.jp/bizboost/article_view.php?id=573",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/biz/customer-success-stories/category/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nec-nexs.com/sl/mfg-job-order/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cross-compass.com/aisolution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsquare-ltd.com/54212/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MIZUSAKI_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kei-do.com/interview2/00701/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jinzainews.net/pressrelease/20251127-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MIZUSAKI_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミズサキ 会社概要 設立 資本金 従業員",
+   "results": [
+    "https://doda.jp/DodaFront/View/Company/j_id__10244031439/",
+    "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "https://mizusaki-inc.com/company",
+    "https://tenshoku.mynavi.jp/company/444529/",
+    "https://www.mizusaki-sampai.com/company.html",
+    "https://leverages.jp/news/2026/0130/5517/",
+    "https://compalyze.co.jp/company/2011101108695",
+    "https://hirogaru.jp/bizboost/article_view.php?id=573",
+    "https://x.com/MIZUSAKI_inc",
+    "https://compalyze.co.jp/company/2500001025299"
+   ]
+  },
+  {
+   "query": "ミズサキ 売上高 OR 業績 OR 決算",
+   "results": [
+    "https://www.baroque-global.com/jp/ir/finance",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=3187",
+    "https://www.ms-primary.com/company/closing/",
+    "https://finance.matsui.co.jp/stock/4301/settlement/index",
+    "https://www.ms-ad-hd.com/ja/ir/financial/overview.html",
+    "https://www.city.kawasaki.jp/800/cmsfiles/contents/0000083/83914/R7_suido.pdf",
+    "https://kawasaki-corp.co.jp/ir/financial/",
+    "https://www.duskin.co.jp/ir/investor/highlight/",
+    "https://ir.jmsc.co.jp/library/highlight.html"
+   ]
+  },
+  {
+   "query": "ミズサキ 株主 OR 筆頭株主 OR 親会社 OR 資金調達",
+   "results": [
+    "https://aslp.law.keio.ac.jp/pdf/AN00224504-20010928-0099.pdf",
+    "https://www.youtube.com/watch?v=KtA5YG4ucT8",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E4%BA%8B%E6%A5%AD%E6%89%BF%E7%B6%99/%E8%A6%AA%E6%97%8F%E5%A4%96%E5%BE%93%E6%A5%AD%E5%93%A1%E6%89%BF%E7%B6%99/%E5%BE%93%E6%A5%AD%E5%93%A1%E6%89%BF%E7%B6%99%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%A0/",
+    "https://biz.moneyforward.com/establish/basic/82608/",
+    "https://frontier-eyes.online/exit-strategy_for-owner-book6/",
+    "https://www.ma-cp.com/about-ma/business-succession-financing/",
+    "https://www.jpx.co.jp/equities/improvements/study-group/nlsgeu000004acah-att/mklp77000000j2kb.pdf",
+    "https://www.dir.co.jp/report/consulting/activist/20250210_024908.pdf",
+    "https://kawasaki-corp.co.jp/1559/"
+   ]
+  },
+  {
+   "query": "ミズサキ 料金 費用 プラン",
+   "results": [
+    "https://mizusaki-inc.com/lp-total-consulting",
+    "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "https://adv.tokyo-np.co.jp/prtimes/article182828/",
+    "https://hirogaru.jp/bizboost/article_view.php?id=573",
+    "https://mizusaki-inc.com/",
+    "https://meetsmore.com/product-services/recruitment-process-outsourcing/media/264126",
+    "https://prtimes.jp/main/html/rd/p/000000007.000164371.html",
+    "https://myasp.jp/plan/",
+    "https://mizunowa-support.com/pricing/",
+    "https://josysnavi.jp/2026/34901"
+   ]
+  },
+  {
+   "query": "ミズサキ 製造業 導入事例",
+   "results": [
+    "https://www.softbank.jp/biz/customer-success-stories/category/manufacturing/",
+    "https://www.nec-nexs.com/sl/mfg-job-order/case/",
+    "https://www.cross-compass.com/aisolution",
+    "https://tsquare-ltd.com/54212/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/casestudies/assignment/",
+    "https://www.canon-its.co.jp/solution/industry/manufacturing/case",
+    "https://www.tomoraku.co.jp/casestudies",
+    "https://world-gr.com/business/works/",
+    "https://innovation.msi-net.co.jp/case",
+    "https://mizusaki-inc.com/"
+   ]
+  },
+  {
+   "query": "ミズサキ 社長 インタビュー",
+   "results": [
+    "https://mizusaki-inc.com/company",
+    "https://x.com/MIZUSAKI_inc",
+    "https://www.tokyo-cci.or.jp/shachonet/profile/2693.html",
+    "https://kei-do.com/interview2/00701/",
+    "https://the-leader.jp/interview/greenspoon/",
+    "https://integrity-sbp.com/media/podcast",
+    "https://nozokuru.jp/interview/",
+    "https://www.micro-talk-systems.co.jp/news20260723/",
+    "https://miraerror.jp/category/interview/page/5/",
+    "https://jp.linkedin.com/in/ミズサキ遠藤"
+   ]
+  },
+  {
+   "query": "ミズサキ 採用 募集要項 職種",
+   "results": [
+    "https://mizusaki-inc.com/",
+    "https://prtimes.jp/main/html/rd/p/000000013.000164371.html",
+    "https://jinzainews.net/pressrelease/20251127-2/",
+    "https://x.com/MIZUSAKI_inc",
+    "https://www.mic-p.co.jp/recruit/recruitment/",
+    "https://mybestjob.jp/baito/J01275913/",
+    "https://mizusaki-inc.com/lp-new-graduate-recruitment-outsourcing",
+    "https://doda.jp/DodaFront/View/Company/j_id__10244031439/",
+    "https://kei-do.com/interview2/00701/",
+    "https://mizusaki-inc.com/knowledge/mizusaki-service"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索7回）",
+  "設立": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索7回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索7回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索7回）",
+  "株主構成": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索7回）",
+  "売上": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索7回）",
+  "存続": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索7回）",
+  "ホワイトラベル明言": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索7回）",
+  "OEM・組込み": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索7回）",
+  "再販制度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索7回）"
+ }
+}

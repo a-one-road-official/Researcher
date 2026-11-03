@@ -1,0 +1,2760 @@
+{
+ "name": "株式会社Shake",
+ "aliases": [
+  "HRShaker",
+  "シェイク"
+ ],
+ "context": "地方中小の求人広告運用（Indeed・Airワーク）",
+ "researched_at": "2026-11-03T11:58:56.258282+00:00",
+ "official_url": "https://shakeshack.com/",
+ "identified_by": "search:yahoo_jp:Shake",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立日",
+    "value": "2000年8月",
+    "url": "https://shake.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2015年1月",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2013年1月25日",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2000年8月",
+    "url": "https://the-leader.jp/interview/shake/",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "2000年",
+    "url": "https://www.openwork.jp/a0C30000002hmBP/job/",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "年 月 日",
+    "url": "https://www.openwork.jp/a0C30000002hmBP/job/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都千代田区麹町5-3-5 麹町中田ビル6階 Google map",
+    "url": "https://shake.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区銀座8丁目21番1号　住友不動産汐留浜離宮ビル 7F",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "富山県富山市上袋599−1",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "神奈川県横浜市青葉区鴨志田町297-9",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都新宿区四谷3丁目3-1四谷安田ビル6階",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "神奈川県横浜市神奈川区栄町1-1KDX横浜ビル6F",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒171-0014 東京都豊島区池袋2-47-3 キウレイコンビル2階 Google Maps",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都新宿区大京町22-1 グランファースト新宿御苑",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都千代田区麹町",
+    "url": "https://the-leader.jp/interview/shake/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都千代田区麹町5-3-5 麹町中田ビル6階",
+    "url": "https://www.openwork.jp/a0C30000002hmBP/job/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "吉田 実",
+    "url": "https://shake.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役",
+    "value": "西野 集",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "label": "CEO transition costs",
+    "value": "—    53    35    641",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "label": "CEO transition costs",
+    "value": "—    53    35   641",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役",
+    "value": "遠藤 勇太",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 吉田 拓真",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "吉田 実",
+    "url": "https://the-leader.jp/interview/shake/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　吉田　実",
+    "url": "https://www.openwork.jp/a0C30000002hmBP/job/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "167名（2026年1月時点）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "40名",
+    "url": "https://the-leader.jp/interview/shake/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "非公開",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "1,087 1,252 1,445 1,649 1,890",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "276 286 290 316 316 328 320 356 367 400 366 417 426 438 424 476",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "label": "売上（連結）",
+    "value": "123億2,100万円（2025年9月期）",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主構成",
+    "value": "吉田拓真 ジャフコ グループ 株式会社NTTデータ SCSK株式会社",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "主要株主",
+    "value": "遠藤 勇太",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "資金調達": [
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/be-our-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/press-inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-events",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-food",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-team",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-guests",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/shack-news",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/local-news",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-events/shake-shack-x-tcs-new-york-city-marathon-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-food/scary-good-deals-are-back-this-october-at-shake-shack",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-food/shake-shacks-black-truffle-menu-is-back",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/job-board",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-events/at-shake-shack-we-really-cook",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-food/shake-shack-celebrates-halloween-with-new-reeses-peanut-butter-cup-shake",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-team/meet-aliados-our-hispanic-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-team/get-to-know-aarch-our-aapi-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-team/meet-she-our-female-empowerment-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-guests/nyc-congestion-pricing-combo",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-guests/cant-fly-have-a-fry",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/our-guests/shake-shack-will-temporarily-shift-to-a-to-go-model-in-all-company-owned-us",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-statement-on-kiosk-tipping-error-at-licensed-location",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-celebrates-national-rescue-dog-day-with-tails-that-teach",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-is-celebrating-teachers-and-nurses",
+    "pass": 1
+   },
+   {
+    "quote": "As a brand born in New York City, Shake Shack remains deeply connected to the resilience of the local community. On Friday, September 11, Shake Shack will donate $1 for every ShackBurger sold at participating locations across New York, New Jersey, and Connecticut, with Shake Shack matching 100% of the total funds raised.",
+    "url": "https://shakeshack.com/local-news/shake-shack-supporting-tunnel-to-towers",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/local-news/shake-shack-supporting-tunnel-to-towers",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/local-news/free-fries-for-ny-sports-fans",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/blog/local-news/celebrating-30-seasons-with-the-ny-liberty-cake-shake",
+    "pass": 1
+   },
+   {
+    "quote": "We offer a voluntary retirement investment plan that allows team members to defer a portion of their income and use pre-tax dollars to save for their retirement.",
+    "url": "https://shakeshack.com/join-our-team",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://shakeshack.com/join-our-team",
+    "pass": 1
+   },
+   {
+    "quote": "昨年情報サービス事業で業界最大手／大手SI企業様から、資金調達及び資本業務提携の締結をいたしました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報サービス事業で業界最大手／大手SI企業からの資金調達や資本業務提携を通じた安定した経営基盤 の上で、これまでにない大胆な挑戦を続けています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズAラウンドにて総額5億円の資金調達を実施",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズBラウンドにて総額8.48億円の資金調達を実施",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTデータとSCSK株式会社を引受先として、シリーズB追加ラウンドで総額10億円の資金調達と資本業務提携を締結",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズAラウンドにて総額5億円の資金調達を実施",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズBラウンドにて総額8.48億円の資金調達を実施",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTデータとSCSK株式会社を引受先として、シリーズB追加ラウンドで総額10億円の資金調達と資本業務提携を締結",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "(“Shake Shack” or the “Company”) (NYSE: SHAK) has posted its results for the third quarter of 2025 in a Shareholder Letter in the Quarterly Results section of the Company's Investor Relations website, which can be found here:",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The live audio webcast of the conference call will be accessible in the Events & Presentations section of the Company's Investor Relations website at investor.shakeshack.com. An archived replay of the webcast will also be available shortly after the live event has concluded.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations:",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Alison Sternberg, Head of Investor Relations",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "investor@shakeshack.com",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Contact",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Investor Relations",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Alerts",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "To opt-in for investor email alerts, please enter your email address in the field below and select at least one alert option. After submitting your request, you will receive an activation email to the requested email address. You must click the activation link in order to complete your subscription. You can sign up for additional alert options at any time.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "At Shake Shack, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the ‘unsubscribe’ section below. If you experience any issues with this process, please contact us for further assistance.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "By providing your email address below, you are providing consent to Shake Shack to send you the requested Investor Email Alert updates.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトにおけるデータは、東京証券取引所、大阪取引所、名古屋証券取引所、JPX総研、ジャパンネクスト証券、堂島取引所、China Investment Information Services、CME Group Inc. 等からの情報の提供を受けております",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "先日、スリーシェイクは資金調達及び資本業務提携を行いました",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、通常の資金調達や協業とは趣が異なるため、少し踏み込んで資本業務提携について解説や考えを記述します",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "Go to Marketに向けて、何十億、何百億も資金調達していく王道パターンも良いと思いますが、必要最低限の資金調達と業務提携によるシナジーで、ヘルシーな成長を選択するパターンも今後注目されていくと思います",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "感覚値として、VCから資金調達する5倍ぐらいの大変さがありました",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、総額23.5億円の資金調達を終え、年170%成長を続け事業が急拡大し、テックがマネタイズする過程を最も体験できるフ",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "スリーシェイク、シリーズBで総額7.48億円の資金調達を実施 | 3-shake",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "スリーシェイク、シリーズBで総額7.48億円の資金調達を実施",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "SREおよびセキュリティのプロフェッショナル集団である、株式会社スリーシェイク（本社：東京都新宿区、代表取締役社長：吉田 拓真、以下スリーシェイク）は、ジャフコ グループ株式会社（本社：東京都港区、代表取締役：豊貴 伸一）を引受先とする第三者割当増資により、シリーズBラウンドで総額7.48億円の資金調達を実施したことをお知らせします",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "■今回の資金調達用途",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/be-our-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/press-inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-events",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-food",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-team",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-guests",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/shack-news",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/local-news",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-events/shake-shack-x-tcs-new-york-city-marathon-2026",
+    "pass": 1
+   },
+   {
+    "quote": "with a variety of scary-good deals.",
+    "url": "https://shakeshack.com/blog/our-food/scary-good-deals-are-back-this-october-at-shake-shack",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-food/scary-good-deals-are-back-this-october-at-shake-shack",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-food/shake-shacks-black-truffle-menu-is-back",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/job-board",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-events/at-shake-shack-we-really-cook",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-food/shake-shack-celebrates-halloween-with-new-reeses-peanut-butter-cup-shake",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-team/meet-aliados-our-hispanic-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-team/get-to-know-aarch-our-aapi-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-team/meet-she-our-female-empowerment-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-guests/nyc-congestion-pricing-combo",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-guests/cant-fly-have-a-fry",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/our-guests/shake-shack-will-temporarily-shift-to-a-to-go-model-in-all-company-owned-us",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-statement-on-kiosk-tipping-error-at-licensed-location",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-celebrates-national-rescue-dog-day-with-tails-that-teach",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-is-celebrating-teachers-and-nurses",
+    "pass": 1
+   },
+   {
+    "quote": "The Boulevard, Amherst",
+    "url": "https://shakeshack.com/local-news/shake-shack-supporting-tunnel-to-towers",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/local-news/shake-shack-supporting-tunnel-to-towers",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/local-news/free-fries-for-ny-sports-fans",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/blog/local-news/celebrating-30-seasons-with-the-ny-liberty-cake-shake",
+    "pass": 1
+   },
+   {
+    "quote": "We take care our team members and support them in building successful futures through a variety of industry-leading benefits.",
+    "url": "https://shakeshack.com/join-our-team",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://shakeshack.com/join-our-team",
+    "pass": 1
+   },
+   {
+    "quote": "Some information on this site may vary slightly by location and in stadium, event venues and international Shacks.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "SOME INFORMATION ON THIS SITE MAY VARY SLIGHTLY BY LOCATION AND IN STADIUMS,",
+    "url": "https://shakeshack.jp/menu/",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "International Licensing",
+    "url": "https://shakeshack.com/be-our-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Get to Know AARCH: Our AAPI Employee Resource Group",
+    "url": "https://shakeshack.com/blog/our-team",
+    "pass": 1
+   },
+   {
+    "quote": "Get to Know AARCH: Our AAPI Employee Resource Group | Shake Shack",
+    "url": "https://shakeshack.com/blog/our-team/get-to-know-aarch-our-aapi-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Get to Know AARCH: Our AAPI Employee Resource Group",
+    "url": "https://shakeshack.com/blog/our-team/get-to-know-aarch-our-aapi-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Great hospitality begins with inclusivity. At Shake Shack, we aim to create that inclusive environment by sponsoring and uplifting our Employee Resource Groups. In honor of Asian American Pacific Islander (AAPI) month, we’re highlighting AARCH, our AAPI Employee Resource Group!",
+    "url": "https://shakeshack.com/blog/our-team/get-to-know-aarch-our-aapi-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Creating and maintaining an internal webpage where all Shake Shack AAPI employees can connect and celebrate their accomplishments—especially promotions",
+    "url": "https://shakeshack.com/blog/our-team/get-to-know-aarch-our-aapi-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Planning and hosting office fireside chats with AAPI partners and guests like Jordan Andino, Paul Ryu and Simon Kim",
+    "url": "https://shakeshack.com/blog/our-team/get-to-know-aarch-our-aapi-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "Members of AARCH say their vision for AARCH’s future is to enable Shake Shack employees to thrive both personally and professionally. They also aim to give back to the broader AAPI community (locally and nationally) through volunteer events. This year, they hosted",
+    "url": "https://shakeshack.com/blog/our-team/get-to-know-aarch-our-aapi-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re a teacher, this week is all about you! From May 4 through May 12, show your valid school ID at your local Shack and enjoy a FREE ShackBurger or Veggie Shack with the purchase of any other menu item. It’s our way of saying thanks for shaping the future and making a difference in our community.",
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-is-celebrating-teachers-and-nurses",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing revenue.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "“System-wide sales” is an operating measure and consists of sales from Company-operated Shacks and licensed Shacks. The Company does not recognize the sales from licensed Shacks as revenue. Of these amounts, revenue is limited to licensing revenue based on a percentage of sales from licensed Shacks, as well as certain up-front fees, such as territory fees, opening fees, and termination fees.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Additional paid-in capital",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Licensing revenue",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Less: Licensing revenue",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "スリーシェイクには外部サービスとのAPI連携やデータ基盤構築の依頼も多かったが、データ領域は要件が非常に流動的で変更が頻繁に起こることから、ノーコード型ツールを開発した",
+    "url": "https://www.liber.co.jp/corporate-interview/3-shake/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "SHE’s long-term goal is to create and maintain a sense of belonging for women in the workplace, as well as highlight and eliminate the barriers many women face.",
+    "url": "https://shakeshack.com/blog/our-team/meet-she-our-female-empowerment-employee-resource-group",
+    "pass": 1
+   },
+   {
+    "quote": ": Craving plant-based? Enjoy our flavorful patty of mushrooms, sweet potatoes, carrots, farro, and quinoa. We top it with American cheese, crispy onions, tangy pickles, and our creamy ShackSauce, tucked inside a toasted potato bun.",
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-is-celebrating-teachers-and-nurses",
+    "pass": 1
+   },
+   {
+    "quote": "Our Veggie Shack is a local favorite, featuring a blend of mushrooms, sweet potatoes, carrots, farro, and quinoa, with all the bold toppings that make it uniquely delicious.",
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-is-celebrating-teachers-and-nurses",
+    "pass": 1
+   },
+   {
+    "quote": "スリーシェイクは現在、まさにIPO（上場）準備期であり、多角事業を展開しながら、売上・組織ともに急拡大しているフェーズ です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3年連続売上高前年比が130％以上と急成長中",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Total revenue",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Shack sales",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Licensing revenue.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "System-wide sales",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Same-Shack sales",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "of $80.6 million, or 22.8% of Shack sales.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": ", a mobile ordering app that lets you save time by ordering ahead! Guests can select their location, pick their food, choose a pickup time and their meal will be cooked-to-order and timed to arrival. Available on iOS and Android.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "\"Shack sales\" is defined as the aggregate sales of food, beverages, gift card breakage income and Shake Shack branded merchandise at Company-operated Shacks and excludes sales from licensed Shacks.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "“System-wide sales” is an operating measure and consists of sales from Company-operated Shacks and licensed Shacks. The Company does not recognize the sales from licensed Shacks as revenue. Of these amounts, revenue is limited to licensing revenue based on a percentage of sales from licensed Shacks, as well as certain up-front fees, such as territory fees, opening fees, and termination fees.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "\"Same-Shack sales\" represents Shack sales for the comparable Shack base, which is defined as the number of Company-operated Shacks open for 24 full fiscal months or longer. For consecutive days that Shacks were temporarily closed, the comparative period was also adjusted.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "\"Restaurant-level profit,\" a non-GAAP measure, is defined as Shack sales less Shack-level operating expenses including Food and paper costs, Labor and related expenses, Other operating expenses and Occupancy and related expenses.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "\"Restaurant-level profit margin,\" a non-GAAP measure, is defined as Shack sales less Shack-level operating expenses including Food and paper costs, Labor and related expenses, Other operating expenses and Occupancy and related expenses as a percentage of Shack sales.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Licensing revenue",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "TOTAL REVENUE",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "(1) As a percentage of Shack sales.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Restaurant-level profit is defined as Shack sales less Shack-level operating expenses including Food and paper costs, Labor and related expenses, Other operating expenses and Occupancy and related expenses.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Less: Licensing revenue",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "(2) As a percentage of Shack sales.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated as a percentage of Total revenue, which was $367.4 million and $1,044.8 million for the thirteen and thirty-nine weeks ended September 24, 2025, respectively, and $316.9 million and $923.9 million for the thirteen and thirty-nine weeks ended September 25, 2024, respectively.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Shake Shack, Inc. – NYSE:SHAKの売上高内訳 – TradingView",
+    "url": "https://jp.tradingview.com/symbols/NYSE-SHAK/financials-segments/",
+    "pass": 3
+   },
+   {
+    "quote": "昨年、同社は ‪1.45 B‬ USD の売上高を計上しました",
+    "url": "https://jp.tradingview.com/symbols/NYSE-SHAK/financials-segments/",
+    "pass": 3
+   },
+   {
+    "quote": "PSR（株価売上高倍率）",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "米国株のPSRはTTM（Trailing Twelve Months）SPS（希薄化後1株あたり売上高）を元に算出しています",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "・業績推移：売上高、営業益、税引前益、最終益は「百万米ドル」",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "・成長性、収益性：前年比、前年同期比、売上営業利益率、ROE、ROAは「％」、総資産回転率は「回」",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "売上（連結）",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは海外売上比率10％を中期目標とし、将来的には50％規模まで成長させることを目指しています",
+    "url": "https://fs-shake.co.jp/about/ceo/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "This National Rescue Dog Day, Shake Shack is celebrating with a giveback that supports dogs and kids alike. On May 20, 2026, we’re donating $1 from every Hot Dog sold* to Tails That Teach, a nonprofit helping promote pet adoption, kindness, and early childhood education.",
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-celebrates-national-rescue-dog-day-with-tails-that-teach",
+    "pass": 1
+   },
+   {
+    "quote": "Operating income",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Restaurant-level profit",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Net income",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "of $13.7 million versus net loss of $11.1 million in 2024.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Net income attributable to Shake Shack Inc.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted pro forma net income",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Restaurant-level profit, Adjusted EBITDA and Adjusted pro forma net income are non-GAAP measures. A reconciliation to the most directly comparable financial measures presented in accordance with GAAP is set forth in the schedules accompanying this release. See “Non-GAAP Financial Measures” below.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "\"Restaurant-level profit,\" a non-GAAP measure, is defined as Shack sales less Shack-level operating expenses including Food and paper costs, Labor and related expenses, Other operating expenses and Occupancy and related expenses.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "\"Restaurant-level profit margin,\" a non-GAAP measure, is defined as Shack sales less Shack-level operating expenses including Food and paper costs, Labor and related expenses, Other operating expenses and Occupancy and related expenses as a percentage of Shack sales.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "“EBITDA,” a non-GAAP measure, is defined as Net income before interest expense (net of interest income), Income tax expense, and Depreciation and amortization expense.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "NET INCOME (LOSS)",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Less: Net income (loss) attributable to non-controlling interests",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "NET INCOME (LOSS) ATTRIBUTABLE TO SHAKE SHACK INC.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Net income (including amounts attributable to non-controlling interests)",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjustments to reconcile net income to net cash provided by operating activities:",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Restaurant-Level Profit",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Restaurant-level profit is defined as Shack sales less Shack-level operating expenses including Food and paper costs, Labor and related expenses, Other operating expenses and Occupancy and related expenses.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "A reconciliation of Restaurant-level profit to Income (loss) from operations, the most directly comparable GAAP financial measure, is set forth below.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Restaurant-level profit margin",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA and Adjusted EBITDA",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "A reconciliation of EBITDA and adjusted EBITDA to Net income (loss), the most directly comparable GAAP measure, is set forth below.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Net income (loss)",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA margin",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "・成長性、収益性：前年比、前年同期比、売上営業利益率、ROE、ROAは「％」、総資産回転率は「回」",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "EV／EBITDA（倍）",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "1,000万円",
+    "url": "https://shake.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズAラウンドにて総額5億円の資金調達を実施",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズBラウンドにて総額8.48億円の資金調達を実施",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTデータとSCSK株式会社を引受先として、シリーズB追加ラウンドで総額10億円の資金調達と資本業務提携を締結",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズAラウンドにて総額5億円の資金調達を実施",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズBラウンドにて総額8.48億円の資金調達を実施",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTデータとSCSK株式会社を引受先として、シリーズB追加ラウンドで総額10億円の資金調達と資本業務提携を締結",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "プランを贈る",
+    "url": "https://jp.tradingview.com/symbols/NYSE-SHAK/financials-segments/",
+    "pass": 3
+   },
+   {
+    "quote": "新規登録・プランの再開",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "米国株プラン",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "日米セットプラン",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "プランをご契約して見ることができます",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "※無料体験終了後は、毎月の料金が発生します",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "4,900万円",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "123億2,100万円（2025年9月期）",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、総額23.5億円の資金調達を終え、年170%成長を続け事業が急拡大し、テックがマネタイズする過程を最も体験できるフ",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "年商120億円が、8年後の今",
+    "url": "https://in-shoku.info/foodfighters/vol611-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "「2017年の、あのときは20店舗くらいで年商も10億円くらいでしたが、今は173店舗で約120億円を見込むまでになっています」とのこと",
+    "url": "https://in-shoku.info/foodfighters/vol611-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "「コロナがなければ、年商も30〜50億円でとまっていた」と、遠藤さんはいう",
+    "url": "https://in-shoku.info/foodfighters/vol611-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "「シーシャ」もそうだが、生ビール199円が話題になっていると聞けば、すぐに199円の生ビールを売り出した",
+    "url": "https://in-shoku.info/foodfighters/vol611-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "「来期は180億円超えを見込んでいる」と遠藤さん",
+    "url": "https://in-shoku.info/foodfighters/vol611-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関から3億円を借りたんですが、毎月5000万円くらいキャッシュが消えていきます",
+    "url": "https://in-shoku.info/foodfighters/vol611-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "間に合わないので、新たに3億円を借りて",
+    "url": "https://in-shoku.info/foodfighters/vol611-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "スリーシェイク、シリーズBで総額7.48億円の資金調達を実施 | 3-shake",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "スリーシェイク、シリーズBで総額7.48億円の資金調達を実施",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "SREおよびセキュリティのプロフェッショナル集団である、株式会社スリーシェイク（本社：東京都新宿区、代表取締役社長：吉田 拓真、以下スリーシェイク）は、ジャフコ グループ株式会社（本社：東京都港区、代表取締役：豊貴 伸一）を引受先とする第三者割当増資により、シリーズBラウンドで総額7.48億円の資金調達を実施したことをお知らせします",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "動画はSNSで急速に拡散し、「チップを払わないと料金が上がるのではないか」といった疑問や批判が広がりました",
+    "url": "https://lalalausa.com/archives/79884",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、シェイクシャックは今回の価格変更について、意図的な「ノーチップ料金」ではなく、端末側の不具合だったと明確に否定しています",
+    "url": "https://lalalausa.com/archives/79884",
+    "pass": 3
+   },
+   {
+    "quote": "今回の騒動で明らかになったのは、「チップを払わないと値上げされる」という新しい料金制度ではなく、特定の空港店舗の端末で起きた技術的なトラブルだったということです",
+    "url": "https://lalalausa.com/archives/79884",
+    "pass": 3
+   },
+   {
+    "quote": "157.90円",
+    "url": "https://lalalausa.com/archives/79884",
+    "pass": 3
+   },
+   {
+    "quote": "02 コース・料金 course-praice – SHAKE ダンススタジオ 八王子／橋本のダンススクール",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "コース･料金",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "コース・料金",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000円(税込)",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "1,800円(税込)／1回",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "8,900円(税込) / 月",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "8,400円(税込) / 月",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "7,100円(税込) / 月",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "15,200円(税込) / 月",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "14,800円(税込) / 月",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "12,600円(税込) / 月",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "愛川校専用プラン",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "20,400円(税込) / 月",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "17,100円(税込) / 月",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "22,000円(税込)",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "2,700円(税込)",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "3,500円(税込) /",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000円(税込) /",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "2,200円(税込)",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "5,200円(税込)",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "11,000円(税込) / 金曜・土曜・祝日の前日 13,000円(税込)",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "愛川校のみのレンタル料金",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500円(税込)",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "3,600円(税込)",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "料金システムについて",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000円のうどん業態でも、6,000円の串揚げ業態でも、「この価格でここまで楽しめるんだ」と感じていただけることを目指しています",
+    "url": "https://fs-shake.co.jp/about/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "「かつてインフラ構築には多額の費用がかかりましたが、AWSなどのクラウドサービスが登場して以降、スタートアップ企業も含めて簡単にインフラを作れるようになりました",
+    "url": "https://www.liber.co.jp/corporate-interview/3-shake/",
+    "pass": 3
+   },
+   {
+    "quote": "給与：月給 300,000円",
+    "url": "https://shake.co.jp/recruit/entry/",
+    "pass": 3
+   },
+   {
+    "quote": "月給内訳：基本給236,308円、固定超過勤務手当63,692円",
+    "url": "https://shake.co.jp/recruit/entry/",
+    "pass": 3
+   }
+  ],
+  "稼ぎ方": [
+   {
+    "quote": "サービス紹介動画",
+    "url": "https://shake.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスTOP",
+    "url": "https://shake.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://shake.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "昨年情報サービス事業で業界最大手／大手SI企業様から、資金調達及び資本業務提携の締結をいたしました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット全体をスリーシェイクが提供するサービスで支えていきたい",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報サービス事業で業界最大手／大手SI企業からの資金調達や資本業務提携を通じた安定した経営基盤 の上で、これまでにない大胆な挑戦を続けています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば「アクセスが集中してサイトがつながらない」「急にサービスが止まる」といったトラブルを防ぐため、Webの裏側の仕組みを整えます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内に散らばっているデータやアプリをつなぎ、日々の事務作業を自動化するサービスです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Webサイトやシステムに潜む「弱点」を見つけ、サイバー攻撃を未然に防ぐセキュリティ診断サービスです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "SRE構築総合支援サービス「Sreake」をリリース",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティサービス「Sreake Security」（現「Securify」）をリリース",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "フリーランスのITエンジニア向け人材紹介サービス「Relance」を提供開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "バグバウンティ運用代行サービス「Bugty」をリリース",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "シェアNo.1や特化した技術・サービスを持っている",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新商品・サービス開発に積極的",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創立5年以内、自社サービス・製品あり、ベンチャー企業、20代管理職実績あり、2年連続売り上げ10％以上UP、年間休日120日以上、教育・研修制度充実、資格支援制度充実",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "【事業内容】",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "グループサービス",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサービスへのお問い合わせ",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産ファンド、インターネットサービス、広告・PR",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "社会の根幹を支え、イノベーションを加速させるようなサービスを提供し続けることが私たちの使命です",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "最短でWebサービス、ITシステムに実現され、",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "無数のxTech/OSS/SaaSが生み出されますが、それらを選別し駆使してこそ、初めて価値あるサービス/ITシステムが作成・運用できます",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、アイデアからサービスを生み出し滑らかに運営するまでのプロセス/Ops（インフラ）が以前より格段に複雑になったのです",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "労苦〈Toil〉を無くすサービスを",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "=労苦〈Toil〉を無くすような様々なサービスを",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "スリーシェイクは、社会インフラとして世の中に必要とされるもの、願わくば、私たちのサービスが無くなれば世の全サービスが止まってしまうほど、社会にとって必要不可欠としていただけるような優良なサービスを提供できる会社を目指しております",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、xTech/OSS/SaaSが無限に発展していく中で、同時多発的に発生するプロセスの複雑さ（労苦〈Toil〉）を解消するサービスを、適正な価格で提供することに尽力いたします",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "既に存在するプロダクトやサービスが何かしらの理由で（レガシーな技術やUIUX、価格など）社会を変革できていないこともあります",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SRE構築総合支援サービス「Sreake」をリリース",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティサービス「Sreake Security」（現「Securify」）をリリース",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "フリーランスのITエンジニア向け人材紹介サービス「Relance」を提供開始",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "バグバウンティ運用代行サービス「Bugty」をリリース",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "消費者サービス",
+    "url": "https://jp.tradingview.com/symbols/NYSE-SHAK/financials-segments/",
+    "pass": 3
+   },
+   {
+    "quote": "主要セグメントと地域別業績",
+    "url": "https://jp.tradingview.com/symbols/NYSE-SHAK/financials-segments/",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち最大となる ‪1.39 B‬ USD は、最も業績の良いセグメントである Shack からもたらされました",
+    "url": "https://jp.tradingview.com/symbols/NYSE-SHAK/financials-segments/",
+    "pass": 3
+   },
+   {
+    "quote": "有料サービス「株探プレミアム」へ登録するとお気に入り銘柄を無制限で登録することができます",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "PER（株価収益率）",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "・成長性、収益性：前年比、前年同期比、売上営業利益率、ROE、ROAは「％」、総資産回転率は「回」",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "◇収益性におけるROE、ROA、総資産回転率は12ヵ月決算以外は算出せず、「－」で表記します",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "アジャイル開発で顧客志向のサービスを提供",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "スリーシェイクは、「社会に蔓延る労苦（Toil）をなくすプラットフォーマーになること」をビジョンに掲げ、2015年の創業から提供しているSRE特化型コンサルティング事業「Sreake（スリーク）」を主軸に、データ連携プラットフォーム「Reckoner（レコナー）」やフリーランスエンジニア特化型人材紹介サービス「Relance(リランス)」などのサービスを提供しています",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年にはセキュリティサービス「Securify（セキュリファイ）」をリリース、すでに多くの企業に導入いただいております",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "以後、フリーランスエンジニア特化型人材紹介サービス「Relance（リランス）」やセキュリティサービス「Securify（セキュリファイ）」を提供開始し、DX時代における技術戦略設計からセキュアなアプリケーション開発、データ活用までを一貫提供可能な体制を進めています",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 ：SRE特化型コンサルティング事業「Sreake（スリーク）」運営",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティサービス「Securify（セキュリファイ）」運営",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "フリーランスエンジニア特化型人材紹介サービス「Relance(リランス)」開発・運営",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "【ロサンゼルス12日】人気ハンバーガーチェーン「Shake Shack（シェイクシャック）」で、セルフサービスの注文端末で「No Tip（チップなし）」を選択すると商品の価格が上がったとする",
+    "url": "https://lalalausa.com/archives/79884",
+    "pass": 3
+   },
+   {
+    "quote": "レストランだけでなく、セルフサービスの端末やカウンターでの注文でもチップを求められる機会が増え、「どこまでチップを払うべきなのか」という消費者の戸惑いが広がっています",
+    "url": "https://lalalausa.com/archives/79884",
+    "pass": 3
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://lalalausa.com/archives/79884",
+    "pass": 3
+   },
+   {
+    "quote": "月謝制についての欠席振り替えサービス",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "本サービスは、レッスンを都合が悪くなりお休みしたり、休講になった際、他のクラスを振り替えクラスとして翌月いっぱいまで受講できるサービスです",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "本サービスにより月謝制の場合でも、月４回チケットと同じ役割になり、無駄なく通うことができます",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "特典! Shakeの生徒さんは、CHEER原宿店にてお会計前に受講証の提示で特別割引サービス！ ※SALE品は除外、また受講証を忘れた場合は割引対象外になりますのでお忘れなく!",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介動画",
+    "url": "https://shake.co.jp/topics/241227/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスTOP",
+    "url": "https://shake.co.jp/topics/241227/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://shake.co.jp/topics/241227/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容： 社員育成事業・人事組織コンサルティング事業",
+    "url": "https://the-leader.jp/interview/shake/",
+    "pass": 3
+   },
+   {
+    "quote": "社長,企業,情報通信,学術研究・専門技術サービス",
+    "url": "https://the-leader.jp/interview/shake/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "日本の経営学におけるリーダーシップやキャリア、モチベーション研究をリードする",
+    "url": "https://shake.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業との資本提携／日本3番目のGoogleテックパートナー",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "参入障壁の高い高度なインフラ技術を強みとし、弊社のデータDXにおけるSaaSプロダクトは日本で3番目となるGoogle社のテックパートナーに認定されるなど、確かな技術力で市場をリードしています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "宇都宮大学、京都大学、九州大学、早稲田大学、長岡技術科学大学、東京学芸大学、東京大学、東京電機大学、東京理科大学、東邦大学、東北大学、同志社大学、奈良先端科学技術大学院大学、日本大学、北海道大学、名古屋大学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県立大学、愛知淑徳大学、青山学院大学、茨城キリスト教大学、岩手県立大学、宇都宮大学、桜美林大学、大阪工業大学、大阪電気通信大学、学習院大学、関西大学、関西外国語大学、京都産業大学、倉敷芸術科学大学、県立広島大学、甲南大学、神戸大学、公立はこだて未来大学、駒澤大学、淑徳大学、上智大学、昭和音楽大学、仁愛大学、信州大学、駿河台大学、成蹊大学、専修大学、大東文化大学、千葉工業大学、中央大学、筑波大学、帝京大学、電気通信大学、東海大学、東京大学、東京学芸大学、東京工科大学、東京工業大学、東京電機大学、東京農業大学、東京理科大学、同志社大学、東邦大学、東北大学、東北工業大学、東洋大学、長岡技術科学大学、中村学園大学、名古屋大学、日本大学、日本女子大学、白鴎大学、広島大学、文教大学、法政大学、北海道大学、明治大学、明治学院大学、名城大学、目白大学、立教大学、立命館大学、龍谷大学、早稲田大学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN HEADHUNTER AWARDS",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "日本発のインフラプラットフォームを作るべく2015年1月に株式会社スリーシェイクを設立",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "日経平均株価の著作権は日本経済新聞社に帰属します",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "業務・財務情報 シェイク・シャック A[SHAK/ShakeShackA]日経会社情報DIGITAL - 日本経済新聞",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "日本株ランキング",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "日本株サマリー",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "ドキュメント日本",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "今野真二「日本語日記」",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社について",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策金融公庫 池袋支店",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東日本銀行 池袋支店",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "既にCloudNative DaysやSRE Nextなどのコミュニティを通じて、我々が得た技術や知見の還元を試みていますが、より直接的に2社で人材交流や育成に本気で取り組んでいくことで、日本におけるSREやクラウドネイティブ界隈の市場がもっと盛り上がるのでは？と思っています",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "共和党が中間選挙で勝ったら、日本人のビザはどうなる？ E-2・H-1B・L-1・F-1・グリーンカードから見る影響（11/2）",
+    "url": "https://lalalausa.com/archives/79884",
+    "pass": 3
+   },
+   {
+    "quote": "共和党が中間選挙で勝ったら、日本人のビザはどうなる？...",
+    "url": "https://lalalausa.com/archives/79884",
+    "pass": 3
+   },
+   {
+    "quote": "日本限定フレーバーの「ブラックセサミ」もおすすめです！",
+    "url": "https://shakeshack.jp/menu/",
+    "pass": 3
+   },
+   {
+    "quote": "日本上陸9周年を祝し、「トーキョーシティシェイク」として都内8店舗限定で販売しているスペシャルシェイク",
+    "url": "https://shakeshack.jp/menu/",
+    "pass": 3
+   },
+   {
+    "quote": "日本茶カフェ「八屋」がシェイク用に特別に焙煎した、香ばしさと爽やかな甘い香りが特徴的なほうじ茶を使用しています",
+    "url": "https://shakeshack.jp/menu/",
+    "pass": 3
+   },
+   {
+    "quote": "「西東京の日本人によるCreativeな発信」Tシャツ、パーカー、帽子、チラシやフライヤー名刺やロゴデザインなど、なんでもお任せ下さい",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "個人から、会社から、もっと日本を元気にしたい」です",
+    "url": "https://the-leader.jp/interview/shake/",
+    "pass": 3
+   },
+   {
+    "quote": "わたしたちシェイクは、リーダーシップ開発“を通じて『イキイキ働く人を一人でも多く増やし、日本を元気にしている会社』です",
+    "url": "https://shake.co.jp/recruit/entry/",
+    "pass": 3
+   },
+   {
+    "quote": "「イキイキと働く人が一人でも多く増えてほしい 個人から、会社から、もっと日本を元気にしたい」",
+    "url": "https://shake.co.jp/recruit/entry/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のインフラエンジニアが、世界に名を馳せるサービスを出して、あっと言わせたい",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の主力事業であり、SREの導入・実践に向けた日本初の伴走型コンサルティングサービスです",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・「イキイキと働く人が一人でも多く増えてほしい 個人から、会社から、もっと日本を元気にしたい」というミッションを共に目指して頂ける方",
+    "url": "https://www.openwork.jp/a0C30000002hmBP/job/",
+    "pass": 3
+   },
+   {
+    "quote": "個人から、会社から、もっと日本を元気にしたい",
+    "url": "https://www.wantedly.com/companies/shake/projects",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "大手企業との資本提携／日本3番目のGoogleテックパートナー",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(“Shake Shack” or the “Company”) (NYSE: SHAK) has posted its results for the third quarter of 2025 in a Shareholder Letter in the Quarterly Results section of the Company's Investor Relations website, which can be found here:",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Q3 2025 Shake Shack Shareholder Letter",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "株主資本比率は「％」",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "総資産、株主資本、剰余金は「百万米ドル」",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "株主総会日をチェック",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待検索",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待検索を使う",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "株主総会スケジュール",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "資本業務提携は、「資本提携（第三者割当増資 or 株式譲渡）」「業務提携（協業契約の締結）」を両方行うことです",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "つまり出資側は資本を提供することでリスクを負いつつ、財務的なつながりを持ちながら、より強固な関係性を築きつつ協業ができるという点が、通常の業務提携の違いです",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "基本的に持ち株比率が20%を超えない限り、出資した企業の関連会社でなく、意思決定や財務面で独立性を担保できます",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "と悩んでましたが、両社の役員の方々と面識があったので、思い切って出資の提案メールを送ってみたところ（送信するときは、かなり心臓がバクバク）、ありがたいことに前向きな返事をいただけました",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "出資サイドとしては、当然リスク評価や成長の蓋然性判断に向けてスリーシェイク全体を隅々まで把握する必要があり、私含めてプロジェクトチームを組んで、様々な情報を整理して何度も説明しました",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "また既存株主との調整や、業務提携の内容について、2社で内容を平仄（バランスや公平性を保つこと）させる必要があり、適宜ハードな交渉も必要でしたね",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "この度、セキュリティ及びETL分野において、自社プロダクトを本格展開するにあたり、再出資させていただきました",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "スリーシェイクは「インフラの世界をシンプルに、インフラの世界でイノベーションを」というビジョンのもと、2015年1月に設立されたテクノロジーカンパニーです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自宅にて創業 クラウド構築運用支援を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創立5年以内、自社サービス・製品あり、ベンチャー企業、20代管理職実績あり、2年連続売り上げ10％以上UP、年間休日120日以上、教育・研修制度充実、資格支援制度充実",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "【設立】2023年6月",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "設立から急成長を続け、今では東京オフィスも展開",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "創業してから数年",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年に創業期のポッピンゲームズジャパン株式会社に入社し、インフラレイヤーを統括しつつ、ゲームプロデューサー、事業戦略室室長など、ベンチャー創業期の技術・事業・経営を全般的にリード",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "日本発のインフラプラットフォームを作るべく2015年1月に株式会社スリーシェイクを設立",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "自宅にて創業 クラウド構築運用支援を開始",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "創業店のオープンまでの話を、前回のインタビューをもとに振り返ってみる",
+    "url": "https://in-shoku.info/foodfighters/vol611-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "スリーシェイクは、「社会に蔓延る労苦（Toil）をなくすプラットフォーマーになること」をビジョンに掲げ、2015年の創業から提供しているSRE特化型コンサルティング事業「Sreake（スリーク）」を主軸に、データ連携プラットフォーム「Reckoner（レコナー）」やフリーランスエンジニア特化型人材紹介サービス「Relance(リランス)」などのサービスを提供しています",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年の創業から提供しているSREコンサルティング事業「Sreake（スリーク）」では、AWS/GCP/Kubernetesに精通したプロフェッショナルが技術戦略から設計・開発・運用を一貫してサポートしています",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "創業当時から変わらずに",
+    "url": "https://fs-shake.co.jp/about/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "創業当時から変わらず大切にしているのは、「お客様の期待を金額以上に超える体験を提供すること」です",
+    "url": "https://fs-shake.co.jp/about/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "設立 ： 2000年8月",
+    "url": "https://the-leader.jp/interview/shake/",
+    "pass": 3
+   },
+   {
+    "quote": "同社創業者で代表取締役社長の吉田拓真氏と、Sreake事業部の佐藤慧太氏、小渕周氏、HR本部の越智優太氏にこれまでの経緯、事業内容、求める人材などについて聞いた",
+    "url": "https://www.liber.co.jp/corporate-interview/3-shake/",
+    "pass": 3
+   },
+   {
+    "quote": "その頃、noteの創業メンバーの一人である友人から相談を受けたのが最初です」",
+    "url": "https://www.liber.co.jp/corporate-interview/3-shake/",
+    "pass": 3
+   },
+   {
+    "quote": "これならインフラレイヤーでのビジネスが成立すると考え、吉田氏は2015年、インフラ系スタートアップ、スリーシェイクを設立した",
+    "url": "https://www.liber.co.jp/corporate-interview/3-shake/",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様に創業者が多かったせいか、私たちはインフラを経営的視点で見ていました",
+    "url": "https://www.liber.co.jp/corporate-interview/3-shake/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば最近では、全社で部門横断的にクラウドを用いるため、CCoE(Cloud Center of Excelence)と呼ばれる組織を置く企業もあり、設立段階から支援をしている",
+    "url": "https://www.liber.co.jp/corporate-interview/3-shake/",
+    "pass": 3
+   },
+   {
+    "quote": "【創業ストーリー】インターネットを支える3-way handshakingのように、社会の根幹を支える会社を目指して｜吉田 拓真 / スリーシェイク",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "おかげさまでスリーシェイクも創業10年目を間近に迎え、社内外で新しいメンバーやパートナーとの出会いが増えております",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、私自身の振り返りを含みつつ、皆さまによりスリーシェイクを知っていただくために、改めて創業のきっかけや想い、企業のこれからについてお話したいと思います",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "創業のきっかけ 創業のきっかけはシンプルです",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mission自体は創業以来変わりませんが、事業や組織の成長の変化に合わせて、2021年と2022年にMVVをアップデートしました",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "スリーシェイクは「インフラをシンプルにしてイノベーションが起こりやすい世界を作る」というビジョンのもと2015年に設立されました",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2000/8 に設立",
+    "url": "https://www.wantedly.com/companies/shake/projects",
+    "pass": 3
+   },
+   {
+    "quote": "森田英一 が創業",
+    "url": "https://www.wantedly.com/companies/shake/projects",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "常にアンテナを張り巡らせ、AIなどの最新技術を積極的に導入・活用し、部署に関係なく皆で学び合う文化があります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "実力主義の給与体系・評価制度を導入",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■AI導入支援",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "AWS 導入事例: 株式会社 NTT データ | AWS",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "2021年にはセキュリティサービス「Securify（セキュリファイ）」をリリース、すでに多くの企業に導入いただいております",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の主力事業であり、SREの導入・実践に向けた日本初の伴走型コンサルティングサービスです",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "技術力が求められる様々なドメインで、Google社の提唱するSREの考え方に基づき、クラウドネイティブな技術導入、開発/運用プロセスの支援をしています",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "リモートワークを導入しているため、オフィス出勤と組み合わせたハイブリッドな働き方が可能です",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "フレックスタイム制を導入しているため、時間の使い方はあなた次第",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   }
+  ],
+  "製造業の顧客": [
+   {
+    "quote": "地方の企業ながら、都市圏レベルの",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "「地方×都市」のハイブリッドな成長モデルを武器に、",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "主要セグメントと地域別業績",
+    "url": "https://jp.tradingview.com/symbols/NYSE-SHAK/financials-segments/",
+    "pass": 3
+   },
+   {
+    "quote": "地域再生ラジオ",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "AWS 導入事例: 株式会社 NTT データ | AWS",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは地元・相模原を拠点に、地域とのつながりを大切にしながら、日々の業務に取り組んでいます",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "地域密着型の企業として、信頼と実績を積み重ね、街とともに成長していくことを目指しています",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "テレワーク・フレックス・地方在住、副業などの制度を活用し、弊社価値観にある「個人の想いの実現」をしやすい環境を作っております",
+    "url": "https://www.wantedly.com/companies/shake/projects",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業情報 - 株式会社シェイク — 企業情報 - 株式会社シェイク 株式会社シェイク https://shake.co.jp > company > about",
+    "url": "https://shake.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)スリー シェイク の新卒採用・ 会社概要 | マイナビ2027 — (株)スリー シェイク の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp283158 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社Shake の求人・採用情報 - ビズリーチ — 株式 会社Shake の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "pass": 3
+   },
+   {
+    "quote": "About - 3-shake — About - 3-shake 3-shake https://3-shake.com > about",
+    "url": "https://3-shake.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社FS. shake — 会社概要 | 株式会社FS. shake 株式会社FS.shake https://fs-shake.co.jp > company",
+    "url": "https://fs-shake.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Shake Shack Announces Third Quarter 2025 Financial Results — Shake Shack Announces Third Quarter 2025 Financial Results Shake Shack https://investor.shakeshack.com > Sha...",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Shake Shack, Inc. – NYSE:SHAKの 売上高 内訳 - TradingView — Shake Shack, Inc. – NYSE:SHAKの 売上高 内訳 - TradingView TradingView https://jp.tradingview.com > ... > 飲食店 > SHAK",
+    "url": "https://jp.tradingview.com/symbols/NYSE-SHAK/financials-segments/",
+    "pass": 3
+   },
+   {
+    "quote": "シェイク ・シャック 決算 ・財務情報 - 株探米国株 — シェイク ・シャック 決算 ・財務情報 - 株探米国株 株探米国株 https://us.kabutan.jp > 米国株",
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "pass": 3
+   },
+   {
+    "quote": "業務・財務情報 シェイク ・シャック A[SHAK/ShakeShackA ... — 業務・財務情報 シェイク ・シャック A[SHAK/ShakeShackA ... 日本経済新聞 https://www.nikkei.com > company > SHAK > finance",
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "第10期 決算 公告 - 3-shake — 第10期 決算 公告 - 3-shake 3-shake https://3-shake.com > News > 電子公告",
+    "url": "https://3-shake.com/announcement-20250402-2/",
+    "pass": 3
+   },
+   {
+    "quote": "資本業務提携の裏話｜吉田 拓真 / スリー シェイク - note — 資本業務提携の裏話｜吉田 拓真 / スリー シェイク - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FS. shake 代表取締役 遠藤勇太氏 - 飲食の戦士たち — 株式会社FS. shake 代表取締役 遠藤勇太氏 - 飲食の戦士たち 飲食の戦士たち https://in-shoku.info > foodfighters > vol611-2",
+    "url": "https://in-shoku.info/foodfighters/vol611-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "スリー シェイク 、シリーズBで総額7.48億円の 資金調達 を実施 — スリー シェイク 、シリーズBで総額7.48億円の 資金調達 を実施 3-shake https://3-shake.com > News > プレスリリース",
+    "url": "https://3-shake.com/news-20220607/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FS. shake の企業情報 - バフェット・コード — 株式会社FS. shake の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/60ii2nk4dm/",
+    "pass": 3
+   },
+   {
+    "quote": "「チップを払わないと値上げ？」 シェイク シャックで“謎の ... — 「チップを払わないと値上げ？」 シェイク シャックで“謎の ... LALALA USA https://lalalausa.com > archives",
+    "url": "https://lalalausa.com/archives/79884",
+    "pass": 3
+   },
+   {
+    "quote": "FOOD & DRINK - シェイク シャック Shake Shack — FOOD & DRINK - シェイク シャック Shake Shack shakeshack.jp https://shakeshack.jp > menu",
+    "url": "https://shakeshack.jp/ja/menu/",
+    "pass": 3
+   },
+   {
+    "quote": "02 コース・ 料金 course-praice – SHAKE ダンススタジオ 八王子 — 02 コース・ 料金 course-praice – SHAKE ダンススタジオ 八王子 SHAKE ダンススタジオ 八王子 https://studio-shake.com > course-praice",
+    "url": "https://studio-shake.com/course-praice/",
+    "pass": 3
+   },
+   {
+    "quote": "ニューヨーク シティ、 Shake Shack Upper East Sideの写真 — ニューヨーク シティ、 Shake Shack Upper East Sideの写真 トリップアドバイザー https://www.tripadvisor.jp > LocationPhotoDirectLink-g6...",
+    "url": "https://www.tripadvisor.jp/LocationPhotoDirectLink-g60763-d2203076-i153886582-Shake_Shack-New_York_City_New_York.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金 表 | shakehandsdance - Wix.com — 料金 表 | shakehandsdance - Wix.com Wix.com https://shakehandsdance.wixsite.com > website > blank-6",
+    "url": "https://shakehandsdance.wixsite.com/website/blank-6",
+    "pass": 3
+   },
+   {
+    "quote": "社長インタビュー | 株式会社FS. shake — 社長インタビュー | 株式会社FS. shake 株式会社FS.shake https://fs-shake.co.jp > 私たちについて",
+    "url": "https://fs-shake.co.jp/about/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "「 社長 名鑑」に弊社代表吉田の インタビュー が掲載されました — 「 社長 名鑑」に弊社代表吉田の インタビュー が掲載されました 株式会社シェイク https://shake.co.jp > topics",
+    "url": "https://shake.co.jp/topics/241227/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社 シェイク 】 吉田実 社長インタビュー - The Leader — 【株式会社 シェイク 】 吉田実 社長インタビュー - The Leader the-leader.jp https://the-leader.jp > interview > shake",
+    "url": "https://the-leader.jp/interview/shake/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社スリー シェイク | 注目企業 インタビュー - リーベル — 株式会社スリー シェイク | 注目企業 インタビュー - リーベル liber.co.jp https://www.liber.co.jp > 注目企業インタビュー",
+    "url": "https://www.liber.co.jp/corporate-interview/3-shake/",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 ・エントリー | 新卒 採用 サイト - 株式会社 シェイク — 募集要項 ・エントリー | 新卒 採用 サイト - 株式会社 シェイク 株式会社シェイク https://shake.co.jp > recruit > entry",
+    "url": "https://shake.co.jp/recruit/entry/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 株式会社スリー シェイク — 採用 情報 株式会社スリー シェイク jobs-3-shake.com https://jobs-3-shake.com",
+    "url": "https://jobs-3-shake.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シェイク 求人一覧（3件） - OpenWork — 株式会社 シェイク 求人一覧（3件） - OpenWork OpenWork https://www.openwork.jp > 教育、研修サービス > シェイク",
+    "url": "https://www.openwork.jp/a0C30000002hmBP/job/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シェイク の 募集 ・ 採用 ・ 募集 条件 - Wantedly — 株式会社 シェイク の 募集 ・ 採用 ・ 募集 条件 - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社シェイク",
+    "url": "https://www.wantedly.com/companies/shake/projects",
+    "pass": 3
+   },
+   {
+    "quote": "新卒 採用 サイト | 株式会社 シェイク — 新卒 採用 サイト | 株式会社 シェイク 株式会社シェイク https://shake.co.jp > recruit",
+    "url": "https://shake.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "\"Same-Shack sales\" represents Shack sales for the comparable Shack base, which is defined as the number of Company-operated Shacks open for 24 full fiscal months or longer. For consecutive days that Shacks were temporarily closed, the comparative period was also adjusted.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "Powered By Q4 Inc.",
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://shakeshack.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/be-our-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/press-inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-food",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-guests",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/shack-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/local-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-events/shake-shack-x-tcs-new-york-city-marathon-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-food/scary-good-deals-are-back-this-october-at-shake-shack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-food/shake-shacks-black-truffle-menu-is-back",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/job-board",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-events/at-shake-shack-we-really-cook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-events/shake-shack-x-tcs-new-york-city-marathon-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-food/shake-shack-celebrates-halloween-with-new-reeses-peanut-butter-cup-shake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-team/meet-aliados-our-hispanic-employee-resource-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-team/get-to-know-aarch-our-aapi-employee-resource-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-team/meet-she-our-female-empowerment-employee-resource-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-guests/nyc-congestion-pricing-combo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-guests/cant-fly-have-a-fry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/our-guests/shake-shack-will-temporarily-shift-to-a-to-go-model-in-all-company-owned-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-statement-on-kiosk-tipping-error-at-licensed-location",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-celebrates-national-rescue-dog-day-with-tails-that-teach",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/shack-news/shake-shack-is-celebrating-teachers-and-nurses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/local-news/shake-shack-supporting-tunnel-to-towers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/local-news/free-fries-for-ny-sports-fans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/blog/local-news/celebrating-30-seasons-with-the-ny-liberty-cake-shake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.com/join-our-team",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://shakeshack.com/sites/default/files/styles/hero_desktop_wide/public/2021-06/Be-Our-Partner_Hero_Daegu_South-Korea.jpg?h=d28d4301&itok=TrHlb0tx",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://shakeshack.com/sites/default/files/styles/full_width_teaser_w_image_or_video/public/2021-05/2021_Be-Our-Partner_Intl-Locations.jpeg?h=476b1794&itok=K9g7Moiv",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://shakeshack.com/sites/default/files/styles/blog_teaser/public/2023-10/MicrosoftTeams-image_0.png?h=2d817f43&itok=hTkO4jmV",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://shakeshack.com/sites/default/files/styles/blog_teaser/public/2023-03/MicrosoftTeams-image%20%281%29.png?h=d1cb525d&itok=OBmBBG_d",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://shakeshack.com/sites/default/files/styles/blog_teaser/public/2022-03/MicrosoftTeams-image%20%281%29.png?h=21dfeb3f&itok=O6JhsLFw",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://shakeshack.com/sites/default/files/styles/blog_teaser/public/2025-09/2025-09_SHA_Liberty-Playoffs_Blog-Header_1920x1080.jpeg?h=d1cb525d&itok=-DJKx5n2",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://shake.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/companies/42754/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3-shake.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.tradingview.com/symbols/NYSE-SHAK/financials-segments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.kabutan.jp/stocks/SHAK/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fs-shake.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in-shoku.info/foodfighters/vol611-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3-shake.com/news-20220607/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lalalausa.com/archives/79884",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakeshack.jp/menu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studio-shake.com/course-praice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tripadvisor.jp/LocationPhotoDirectLink-g60763-d2203076-i153886582-Shake_Shack-New_York_City_New_York.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://o9solutions.com/ja/resources/o9-digital-brain-manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=GoyoGSL1DHY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.sywk.net/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizxim.com/?post_type=case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fs-shake.co.jp/about/ceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shake.co.jp/topics/241227/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-leader.jp/interview/shake/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.liber.co.jp/corporate-interview/3-shake/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shake.co.jp/recruit/entry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobs-3-shake.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/a0C30000002hmBP/job/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/shake/projects",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Shake",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/shake",
+    "https://shakeshack.com/",
+    "https://dictionary.cambridge.org/us/dictionary/english/shake",
+    "https://www.thesaurus.com/browse/shake",
+    "https://www.collinsdictionary.com/us/dictionary/english/shake",
+    "https://en.wikipedia.org/wiki/Shake",
+    "https://weedmaps.com/learn/products-and-how-to-consume/what-is-shake",
+    "https://www.thefreedictionary.com/shake",
+    "https://dictionary.cambridge.org/dictionary/english/shake",
+    "https://www.dictionary.com/browse/shake"
+   ]
+  },
+  {
+   "query": "Shake 会社概要 設立 資本金 従業員",
+   "results": [
+    "https://shake.co.jp/company/about/",
+    "https://job.mynavi.jp/27/pc/search/corp283158/outline.html",
+    "https://www.bizreach.jp/companies/42754/",
+    "https://3-shake.com/about/",
+    "https://fs-shake.co.jp/company/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10128401358/",
+    "https://jinjibu.jp/corporate/shake/",
+    "https://mid-tenshoku.com/agency/a-4694/",
+    "https://syukatsu-kaigi.jp/companies/84373/word_mouths",
+    "https://shake-jp.com/company/"
+   ]
+  },
+  {
+   "query": "Shake 売上高 OR 業績 OR 決算",
+   "results": [
+    "https://investor.shakeshack.com/press-releases/press-release-details/2025/Shake-Shack-Announces-Third-Quarter-2025-Financial-Results/default.aspx",
+    "https://jp.tradingview.com/symbols/NYSE-SHAK/financials-segments/",
+    "https://us.kabutan.jp/stocks/SHAK/finance",
+    "https://www.nikkei.com/nkd/company/us/SHAK/finance/",
+    "https://3-shake.com/announcement-20250402-2/",
+    "https://us.minkabu.jp/stocks/SHAK/financial_statements",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/17/100000",
+    "https://www.bloomberg.co.jp/news/articles/2025-08-01/T0AC1WGPL3YG00",
+    "https://s.kabutan.jp/accounting_news/",
+    "https://kabutan.jp/news/"
+   ]
+  },
+  {
+   "query": "Shake 株主 OR 筆頭株主 OR 親会社 OR 資金調達",
+   "results": [
+    "https://fs-shake.co.jp/company/",
+    "https://note.com/takuma_yoshida/n/n3e6c2cf61655",
+    "https://in-shoku.info/foodfighters/vol611-2.html",
+    "https://3-shake.com/news-20220607/",
+    "https://www.buffett-code.com/company/60ii2nk4dm/",
+    "https://investor.shakeshack.com/overview/default.aspx",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/17/100000",
+    "https://codezine.jp/news/detail/16376",
+    "https://www.foodrink.co.jp/news/2025/04/0160516.html",
+    "https://ja.wikipedia.org/wiki/株主"
+   ]
+  },
+  {
+   "query": "Shake 料金 費用 プラン",
+   "results": [
+    "https://lalalausa.com/archives/79884",
+    "https://shakeshack.jp/ja/menu/",
+    "https://studio-shake.com/course-praice/",
+    "https://www.tripadvisor.jp/LocationPhotoDirectLink-g60763-d2203076-i153886582-Shake_Shack-New_York_City_New_York.html",
+    "https://shakehandsdance.wixsite.com/website/blank-6",
+    "https://jp.pricelisto.com/menu-prices/shake-shack-jp",
+    "https://www.socie.jp/menu/",
+    "https://the-silk.co.jp/price/",
+    "https://shake-rentalstudio.com/term-of-use/",
+    "https://slack.com/intl/ja-jp/help/articles/115003205446-Slack-の料金プラン-機能"
+   ]
+  },
+  {
+   "query": "Shake 製造業 導入事例",
+   "results": [
+    "https://o9solutions.com/ja/resources/o9-digital-brain-manufacturing-case-studies",
+    "https://www.youtube.com/watch?v=GoyoGSL1DHY",
+    "https://ja.sywk.net/case-study",
+    "https://www.bizxim.com/?post_type=case",
+    "https://www.hitachi.co.jp/products/it/industry/case/index.html",
+    "https://aisaas.pkshatech.com/success?industry=manufacturing",
+    "https://www.zdh.co.jp/customer/manufacturing/",
+    "https://www.systems.nakashima.co.jp/seizou/simpflex/example/",
+    "https://www.zpt-ai.com/blog/ai-11-fourth"
+   ]
+  },
+  {
+   "query": "Shake 社長 インタビュー",
+   "results": [
+    "https://fs-shake.co.jp/about/ceo/",
+    "https://shake.co.jp/topics/241227/",
+    "https://the-leader.jp/interview/shake/",
+    "https://www.liber.co.jp/corporate-interview/3-shake/",
+    "https://in-shoku.info/foodfighters/vol611-2.html",
+    "https://note.3-shake.com/m/m2e487166e4e8",
+    "https://careetern.com/interview/detail/interview202412-1",
+    "https://fs-shake.co.jp/about/",
+    "https://www.wantedly.com/companies/3-shake/stories",
+    "https://jinjibu.jp/hr-conference/202611/interview_detl.php?anc=D3"
+   ]
+  },
+  {
+   "query": "Shake 採用 募集要項 職種",
+   "results": [
+    "https://shake.co.jp/recruit/entry/",
+    "https://jobs-3-shake.com/",
+    "https://www.openwork.jp/a0C30000002hmBP/job/",
+    "https://www.wantedly.com/companies/shake/projects",
+    "https://shake.co.jp/recruit/",
+    "https://job.mynavi.jp/27/pc/search/corp283158/employment.html",
+    "https://shakeshack.jp/ja/recruit/",
+    "https://hrmos.co/pages/threeshake/jobs",
+    "https://driver-recruit.jp/detail/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部28頁・検索8回）"
+ }
+}

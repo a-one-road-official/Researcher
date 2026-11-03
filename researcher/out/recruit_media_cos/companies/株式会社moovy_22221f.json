@@ -1,0 +1,2152 @@
+{
+ "name": "株式会社moovy",
+ "aliases": [
+  "moovy",
+  "ムービー"
+ ],
+ "context": "採用動画",
+ "researched_at": "2026-11-03T11:58:23.053861+00:00",
+ "official_url": "https://company.moovy.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒150-0042 東京都渋谷区宇田川町3-7 ヒューリック渋谷公園通りビル 5F",
+    "url": "https://company.moovy.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区宇田川町３−７\nヒューリック渋谷公園通りビル 5F-150",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "・所在地",
+    "value": "東京都渋谷区道玄坂1丁目18-3 プレミア道玄坂ビル8階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区宇田川町３−７\nヒューリック渋谷公園通りビル 5F-150",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0043 東京都渋谷区道玄坂１丁目１８−３ プレミア道玄坂ビル８階",
+    "url": "https://reashu.com/story/moovy/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区宇田川町３−７\nヒューリック渋谷公園通りビル 5F-150",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0043 東京都渋谷区道玄坂１丁目１８−３ プレミア道玄坂ビル８階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000062343.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "2020年4月13日",
+    "url": "https://company.moovy.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2020年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "・設立",
+    "value": "2020年4月13日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "創立",
+    "value": "5〜6年",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "label": "創立",
+    "value": "9〜10年",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "label": "創立",
+    "value": "15年以上",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2020年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2020年4月13日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2020/04",
+    "url": "https://initial.inc/companies/A-37837",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2020年4月13日",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2020年4月13日",
+    "url": "https://reashu.com/story/moovy/",
+    "pass": 3
+   },
+   {
+    "label": "創立",
+    "value": "11〜14年",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "label": "創立",
+    "value": "7〜8年",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2020年4月13日",
+    "url": "https://moovy.jp/media/column/item12",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2020年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2020年4月13日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000062343.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "三嶋 弘哉",
+    "url": "https://company.moovy.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "三嶋弘哉",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "・代表者",
+    "value": "三嶋 弘哉",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "三嶋弘哉",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "代表",
+    "value": "三嶋 弘哉",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "三嶋　弘哉",
+    "url": "https://initial.inc/companies/A-37837",
+    "pass": 3
+   },
+   {
+    "label": "代表",
+    "value": "三嶋 弘哉",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役",
+    "value": "三嶋 弘哉",
+    "url": "https://reashu.com/story/moovy/",
+    "pass": 3
+   },
+   {
+    "label": "代表",
+    "value": "三嶋 弘哉",
+    "url": "https://moovy.jp/media/column/item12",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "三嶋弘哉",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000062343.html",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役",
+    "value": "三嶋 弘哉",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000062343.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "5人以下",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "31〜50人",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "101〜300人",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "11〜30人",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "51〜100人",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VC不明",
+    "url": "https://initial.inc/companies/A-37837",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "料金": [
+   {
+    "quote": "料金は、サービスメニューや支援内容、動画の構成によって異なります",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご予算やご要望をお伺いしたうえで最適なプランをご提案・お見積もりいたしますので、まずはお気軽にお問い合わせください",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用動画の料金相場やかかる費用について専門家が徹底解説！",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイド型（横型）動画のサイトへの埋め込みと、その分岐・インタラクティブ設定は、プロプラン以上でご利用いただけます",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "出演者や条件により、別途キャスティング費用が発生します",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー動画の制作費用はどのくらいですか？",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "本ページでご案内しているワイド型の社員インタビュー動画は、1本あたり40万円〜100万円が目安です",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "（30〜40秒）は制作体制も料金体系も異なり、1本10万円〜、5本セット60万円、10本セット100万円でご提供しています",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイド型の社員インタビュー動画は有料プランでのご案内となり、必要な機能と動画本数をうかがったうえで費用をご提示します",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "を制作された企業には、Starterプランが無料で付帯します",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイド型（横型）動画のサイトへの埋め込みと、その分岐・インタラクティブ設定は、プロプラン以上でご利用いただけます",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画の費用はどのくらいですか？",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "本ページでご案内しているワイド型（横型）の会社紹介動画は、1本あたり40万円〜100万円が目安です",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "（30〜40秒）は制作体制も料金体系も異なり、1本10万円〜、5本セット60万円、10本セット100万円でご提供しています",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用は任意で、必要な機能に合わせて費用をご提示します",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "動画制作は費用も工数も重そうで、",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "数十万円の動画を1本つくって終わりでは、費用対効果が見えない",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "縦型ショート動画を制作いただいた企業には、Starterプランが無料で付帯します",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "」Starterプランでは再生回数などの基本的な視聴状況を、上位プランでは視聴完了率や離脱ポイントまでの詳細分析を確認できます",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "費用は抑えられるが品質が不安定",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "1本10万円〜",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "Starterプランが無料で付帯",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "」Starterプランで、採用サイトへの設置や動画個別URLでの配信、視聴データの確認まで始められます",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "上位プランのご利用は任意です",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "採用ショート動画の制作費用はどのくらいですか？",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "1本10万円〜、5本セット60万円、10本セット100万円でご提供しています",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、縦型ショート動画を制作いただいた企業には、moovyが自社開発する動画配信・分析基盤「moovy studio」のStarterプランが無料で付帯します",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "Starterプランでは、動画の登録・公開管理、テーマごとのプレイリスト作成、採用サイトなど自社Webサイトへの動画掲載、動画ごとの専用ページURL発行（一般公開・限定公開）、再生回数など基本的な視聴状況の確認まで行えます",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "制作した動画データのみの納品も可能ですが、縦型ショート動画を制作いただいた企業には、動画配信・分析基盤「moovy studio」のStarterプランが無料で付帯します",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "視聴完了率・離脱ポイントなどの詳細分析やアンケート機能は上位プランでのご案内です",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "視聴者が選択肢から次に見る動画を選べるインタラクティブ機能（分岐）も、縦型動画ならスタンダードプラン以上でご利用いただけます",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイド型（横型）動画のサイトへの埋め込みと、その分岐・インタラクティブ設定は、プロプラン以上でご利用いただけます",
+    "url": "https://company.moovy.jp/service/product-video/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介動画の制作費用はどのくらいですか？",
+    "url": "https://company.moovy.jp/service/product-video/",
+    "pass": 1
+   },
+   {
+    "quote": "1本あたり40万円〜100万円が目安です",
+    "url": "https://company.moovy.jp/service/product-video/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、全編をアニメーションで制作する場合や、Web広告向けの短尺CMとして制作する場合は、制作体制と料金体系が異なります",
+    "url": "https://company.moovy.jp/service/product-video/",
+    "pass": 1
+   },
+   {
+    "quote": "（30〜40秒）も料金体系が異なり、1本10万円〜、5本セット60万円、10本セット100万円でご提供しています",
+    "url": "https://company.moovy.jp/service/product-video/",
+    "pass": 1
+   },
+   {
+    "quote": "出演者やナレーター、依頼条件によっては、別途費用が発生します",
+    "url": "https://company.moovy.jp/service/product-video/",
+    "pass": 1
+   },
+   {
+    "quote": "テレビCMは費用が高く、踏み出せない",
+    "url": "https://company.moovy.jp/service/web-cm/",
+    "pass": 1
+   },
+   {
+    "quote": "数百万円規模の放映費をかけても、誰にどれだけ届いたか見えにくい",
+    "url": "https://company.moovy.jp/service/web-cm/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイド型（横型）動画のサイトへの埋め込みと、その分岐・インタラクティブ設定は、プロプラン以上でご利用いただけます",
+    "url": "https://company.moovy.jp/service/web-cm/",
+    "pass": 1
+   },
+   {
+    "quote": "WebCMの制作費用はどのくらいですか？",
+    "url": "https://company.moovy.jp/service/web-cm/",
+    "pass": 1
+   },
+   {
+    "quote": "1本あたり70万円〜120万円が目安です",
+    "url": "https://company.moovy.jp/service/web-cm/",
+    "pass": 1
+   },
+   {
+    "quote": "出演者や条件により、別途キャスティング費用が発生します",
+    "url": "https://company.moovy.jp/service/web-cm/",
+    "pass": 1
+   },
+   {
+    "quote": "（ワイド型動画の埋め込み・インタラクティブはプロプラン以上",
+    "url": "https://company.moovy.jp/service/company-information-session-video/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイド型（横型）動画のサイトへの埋め込みと、その分岐・インタラクティブ設定は、プロプラン以上でご利用いただけます",
+    "url": "https://company.moovy.jp/service/company-information-session-video/",
+    "pass": 1
+   },
+   {
+    "quote": "出演者や条件により、別途キャスティング費用が発生します",
+    "url": "https://company.moovy.jp/service/company-information-session-video/",
+    "pass": 1
+   },
+   {
+    "quote": "会社説明会動画の制作費用はどのくらいですか？",
+    "url": "https://company.moovy.jp/service/company-information-session-video/",
+    "pass": 1
+   },
+   {
+    "quote": "本ページでご案内しているワイド型の会社説明会動画は、1本あたり70万円〜120万円が目安です",
+    "url": "https://company.moovy.jp/service/company-information-session-video/",
+    "pass": 1
+   },
+   {
+    "quote": "（30〜40秒）は制作体制も料金体系も異なり、1本10万円〜、5本セット60万円、10本セット100万円でご提供しています",
+    "url": "https://company.moovy.jp/service/company-information-session-video/",
+    "pass": 1
+   },
+   {
+    "quote": "実写では費用や安全面で撮影が難しい場面も、アニメーションなら自由に描けます",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイド型（横型）動画のサイトへの埋め込みと、その分岐・インタラクティブ設定は、プロプラン以上でご利用いただけます",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "アニメーション動画の制作費用はどのくらいですか？",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "本ページでご案内しているアニメーション動画は、1本あたり50万円〜130万円が目安です",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "撮影費はかかりませんが、絵コンテから作画まで1カットずつ描き起こすため、撮影した映像を編集する実写動画とは料金体系が異なります",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "（30〜40秒）は制作体制も料金体系も異なり、1本10万円〜、5本セット60万円、10本セット100万円でご提供しています",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "撮影可否や費用が未定でもご相談いただけます",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "撮影条件と費用について",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン動画の撮影可否や費用は、場所、飛行条件、撮影内容によって変わります",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "費用を左右する条件",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン動画制作の費用はいくらですか？",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   }
+  ],
+  "稼ぎ方": [
+   {
+    "quote": "動画サービス",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "動画制作サービス",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "動画配信・分析サービス",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用支援サービス",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介動画の制作",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "moovyは、ショート動画制作・配信サービス「",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セールス・マーケティングで、組織やサービスの本質を",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "moovyのサービスでは、各動画に対して個別ページを作成し、一般公開と限定公開（URLを知る人だけに配信）を自由に選択することが可能",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要を見る",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "すべてのサービスを見る",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容や働く環境を動画で伝える採用動画制作事例です",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介動画",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "料金は、サービスメニューや支援内容、動画の構成によって異なります",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース、メディア掲載情報、サービスリリースなどの情報をお知らせ",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "moovyのサービス資料や採用動画制作に役立つ資料をダウンロードいただけます",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用動画制作サービスをご検討の方はぜひご一読ください",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "動画マーケティングサービス moovy studioとは",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "は、動画の配信・行動喚起・分析を一つにまとめた動画マーケティングサービスです",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "動画マーケティングサービス「moovy studio」",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "動画サービス",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "動画制作サービス",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "動画配信・分析サービス",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "採用支援サービス",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介動画の制作",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "提供サービス",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "動画マーケティングサービス",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービスの価値や仕組みを、短時間でわかりやすく伝えます",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑なサービスや目に見えない価値を、図解と動きでひと目でわかる形に",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス・企業の認知を、短い一本で広げるWebCMを制作",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "moovyのサービスでは、各動画に対して個別ページを作成し、一般公開と限定公開（URLを知る人だけに配信）を自由に選択することが可能",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "moovyのサービス資料や採用動画制作に役立つ資料をダウンロードいただけます",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "採用動画制作サービスをご検討の方はぜひご一読ください",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介動画",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "動画マーケティングサービス「moovy studio」",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "動画サービス",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "動画制作サービス",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "動画配信・分析サービス",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "採用支援サービス",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介動画の制作",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスインタビュー",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "関連サービス",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "moovyのサービス資料や採用動画制作に役立つ資料をダウンロードいただけます",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "採用動画制作サービスをご検討の方はぜひご一読ください",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介動画",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "動画マーケティングサービス「moovy studio」",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "動画サービス",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "動画制作サービス",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス紹介",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "動画配信・分析サービス",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "採用支援サービス",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   }
+  ],
+  "製造業の顧客": [
+   {
+    "quote": "採用動画の導入事例・効果",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例を見る",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例を見る",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "食品メーカー",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "弘輝様（製造業）",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "年齢・地域・興味関心などでターゲットを絞った配信ができ、再生数や視聴維持率などのデータで効果を検証しやすい点も特長です",
+    "url": "https://company.moovy.jp/service/web-cm/",
+    "pass": 1
+   },
+   {
+    "quote": "地方在住の学生、留学生、授業・研究・他社選考で多忙な候補者",
+    "url": "https://company.moovy.jp/service/company-information-session-video/",
+    "pass": 1
+   },
+   {
+    "quote": "地方在住や、授業・研究・他社選考で多忙な候補者にも、URLひとつで説明会がまるごと届きます",
+    "url": "https://company.moovy.jp/service/company-information-session-video/",
+    "pass": 1
+   },
+   {
+    "quote": "工場の敷地と周辺道路、建設現場の広がり",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "工場や施設、道路、周辺環境の配置を俯瞰で見せる",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "工場・施設紹介",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "観光・地域PR",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "観光地や地域の魅力を、風景や人の営みとともに印象づけます",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "工場・施設の外観",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "観光・地域プロモーション",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "工場や施設の内観",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスや工場の敷地と周辺道路、施設と自然環境、建設現場の広がりなど、資料や写真では説明に時間がかかる規模感や立地を短時間で伝えられます",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介・事業紹介、工場や施設の紹介、建設・不動産、観光や地域PR、採用、周年記念など幅広い用途で活用されます",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "建物の外観と、オフィスや工場の内部では、撮影方法が違いますか？",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスや工場の内部を移動しながら、空間の広がりや導線を臨場感のある映像で伝える場合は、小型のマイクロFPVドローンを活用します",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "また、土地・施設の管理者との調整や、地域ごとのルールを確認する必要があります",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "空港周辺や人口が集中する地域など、条件によって撮影方法の変更や撮影できない場合もあります",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "工場や建設現場でも撮影できますか？",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "工場や建設現場も検討対象ですが、稼働状況、安全管理、立入範囲、飛行経路、施設管理者や関係者との調整などを個別に確認する必要があります",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 – 採用動画制作・採用マーケティングならmoovy",
+    "url": "https://company.moovy.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "「moovy studioで、採用はどう変わるのか」——動画埋め込みや動画ページをスカウト・採用サイトで活用し、候補者体験と応募成果を変えた導入事例をご紹介します",
+    "url": "https://company.moovy.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "業種：製造業",
+    "url": "https://company.moovy.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "moovy導入事例",
+    "url": "https://company.moovy.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "SNS運用代行の導入事例",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業界の採用動画導入後の効果事例",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "・オフィスツアー・工場ツアー",
+    "url": "https://company.moovy.jp/column/5923/",
+    "pass": 1
+   },
+   {
+    "quote": "主な取引先はゼネコンで、一次請けとして任されることが多く、共同住宅に加え、商業施設や倉庫・工場など幅広い物件に対応してきました",
+    "url": "https://company.moovy.jp/case/technoworks/",
+    "pass": 1
+   },
+   {
+    "quote": "国内はもとより海外メーカーの商材まで、幅広い商品を仕入れることができます",
+    "url": "https://company.moovy.jp/case/mitsuwadenki/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様や仕入れ先のメーカー様にもSNSコンテンツを見ていただけています",
+    "url": "https://company.moovy.jp/case/mitsuwadenki/",
+    "pass": 1
+   },
+   {
+    "quote": "地方の伝統工芸もAIの力で支え、そこから地域経済の活性化を目指し、一緒になって開発するという姿が目に浮かぶ動画です",
+    "url": "https://moovy.jp/media/column/item12",
+    "pass": 3
+   },
+   {
+    "quote": "採用動画プラットフォームmoovyの導入事例と評判｜ 採用動画プラットフォーム「moovy」",
+    "url": "https://note.com/moovy/n/n4c9712d124ce",
+    "pass": 3
+   },
+   {
+    "quote": "moovy導入事例｜moovyを導入された企業様のお声や事例をご紹介します",
+    "url": "https://note.com/moovy/n/n4c9712d124ce",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "※導入企業実績",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用動画の導入事例・効果",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後の成果",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例を見る",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用動画の導入を検討中の方は",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "制作済みの動画を配信・分析するツールとしてのみ導入することもできます",
+    "url": "https://company.moovy.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業の応募数",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業のスカウト返信率",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "※応募数・スカウト返信率は導入企業における改善事例です",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例を見る",
+    "url": "https://company.moovy.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR CLIENTS",
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR CLIENTS",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業の事例から見えた、会社紹介動画の導入前後に生まれる変化をご紹介します",
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR CLIENTS",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "ショート動画×複数本が生む採用の3つの変化を、導入企業の実例でご紹介します",
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR CLIENTS",
+    "url": "https://company.moovy.jp/service/product-video/",
+    "pass": 1
+   },
+   {
+    "quote": "商品の質感や実際の使用シーン、現場の空気を伝えたい場合は実写、仕組みやデータの流れ、導入後の変化など目に見えないものを整理したい場合はアニメーションが向いています",
+    "url": "https://company.moovy.jp/service/product-video/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR CLIENTS",
+    "url": "https://company.moovy.jp/service/web-cm/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR CLIENTS",
+    "url": "https://company.moovy.jp/service/company-information-session-video/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR CLIENTS",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの仕組みやデータの流れ、導入後の変化",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後の姿で、価値を実感してもらう",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "仕組みの説明、データの流れ、まだ形になっていない構想、導入後に起きる変化",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "同じサービスでも、はじめて知る人と、導入を検討している人では、知りたいことが違います",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "導入前と後を並べて見せ、まだ体験していない相手にも変化を実感してもらいます",
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "pass": 1
+   },
+   {
+    "quote": "事業拠点と風景を結び、印象的な導入をつくる",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "短時間でも視線を引く導入映像として、説明や商談を支えます",
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR CLIENTS",
+    "url": "https://company.moovy.jp/service/recruit-site/",
+    "pass": 1
+   },
+   {
+    "quote": "はい、WordPressなどのCMSを導入し、求人情報や社員インタビューをお客様側で追加・修正できる形にできます",
+    "url": "https://company.moovy.jp/service/recruit-site/",
+    "pass": 1
+   },
+   {
+    "quote": "採用動画に関するご相談・導入後の効果やお見積り依頼など、お気軽にお問い合わせください",
+    "url": "https://company.moovy.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 – 採用動画制作・採用マーケティングならmoovy",
+    "url": "https://company.moovy.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY",
+    "url": "https://company.moovy.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "「moovy studioで、採用はどう変わるのか」——動画埋め込みや動画ページをスカウト・採用サイトで活用し、候補者体験と応募成果を変えた導入事例をご紹介します",
+    "url": "https://company.moovy.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業の成果事例",
+    "url": "https://company.moovy.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "「動画を見て応募しました！」応募者の心を動かした採用動画プロモーション導入背景",
+    "url": "https://company.moovy.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "採用動画のメリット・デメリット完全解説！導入前に知っておくべき注意点とは",
+    "url": "https://company.moovy.jp/column/",
+    "pass": 1
+   },
+   {
+    "quote": "moovy導入事例",
+    "url": "https://company.moovy.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "に導入したい",
+    "url": "https://company.moovy.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "採用動画制作、動画活用、moovy studioの導入検討に役立つ資料をまとめました",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後の効果事例",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "moovy動画を導入した企業の声と、スカウト返信率4倍・応募数3倍などの定量的な成果をご紹介",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "採用の打ち手、サービス概要、導入後の活用イメージを目的別に確認できます",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後の効果を知りたい方",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "moovy studio導入後の効果事例",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "SNS運用代行の導入事例",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "Instagram運用代行 導入後の効果",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "moovy動画を導入した企業の活用シーンや、具体的な成果をまとめた資料です",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "人材業界の採用動画導入後の効果事例",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "IT業界の採用動画導入後の効果事例",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "建設業界の採用動画導入後の効果事例",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業界の採用動画導入後の効果事例",
+    "url": "https://company.moovy.jp/column/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、2026年の1月から『moovy+』を導入",
+    "url": "https://company.moovy.jp/case/technoworks/",
+    "pass": 1
+   },
+   {
+    "quote": "本記事では、導入の背景から半年後の成果まで整理してご紹介します",
+    "url": "https://company.moovy.jp/case/technoworks/",
+    "pass": 1
+   },
+   {
+    "quote": "とのことで、ぜひそれを目指したい！と思いまして、導入の納得感につながりました",
+    "url": "https://company.moovy.jp/case/technoworks/",
+    "pass": 1
+   },
+   {
+    "quote": "ーー 導入前に引っかかっていた不安や迷いはありましたか？",
+    "url": "https://company.moovy.jp/case/technoworks/",
+    "pass": 1
+   },
+   {
+    "quote": "ーー 導入が決定した時の感情はどんな感情でしたか？",
+    "url": "https://company.moovy.jp/case/technoworks/",
+    "pass": 1
+   },
+   {
+    "quote": "導入決定に向けては、他社比較を繰り返し、担当者と上司の間で「moovy一択」と結論が固まった上で、幹部層へ提案をいたしました",
+    "url": "https://company.moovy.jp/case/technoworks/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "その現実を変えたいという思いから、moovyを創業しました",
+    "url": "https://company.moovy.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "創業から積み重ねてきたその挑戦を通じて、一人ひとりが納得感を持って働ける社会を、これからも実現していきます",
+    "url": "https://company.moovy.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノワークスは2012年創業で、14期目を迎える電気設備の施工会社です",
+    "url": "https://company.moovy.jp/case/technoworks/",
+    "pass": 1
+   },
+   {
+    "quote": "1982年の創業以来、42年間ずっとお取引きいただいている会社さんもあり、システムへの評価が継続的なお付き合いに繋がっていると感じています",
+    "url": "https://company.moovy.jp/case/novasystem/",
+    "pass": 1
+   },
+   {
+    "quote": "創業115年を迎える同社は、2025年の1月から『moovy+』を導入",
+    "url": "https://company.moovy.jp/case/mitsuwadenki/",
+    "pass": 1
+   },
+   {
+    "quote": "ミツワ電機は今年で創業115年を迎える、電設資材や住宅設備機器を扱う専門商社です",
+    "url": "https://company.moovy.jp/case/mitsuwadenki/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キャリアデザインセンターで転職エージェント事業部の営業統括部長、新規事業開発局長を務めた代表の三嶋が、「雇用ミスマッチを減らし、より良い採用機会を提供すること」を目的として2020年4月に創業",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "quote": "・設立：2020年4月13日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "quote": "創立:5〜6年",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "quote": "その後、人材採用におけるミスマッチと機会損失のない社会を実現すべく、2020年4月より株式会社moovyを創業",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍によってより必要性が高まった「企業の定性情報を届けること」で、自分の経験から感じた採用領域の課題を解決すべく職を辞し、創業に至りました",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "quote": "創立:9〜10年",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "quote": "創立:15年以上",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "quote": "また、東京23区で創業10年未満のスタートアップ企業については、動画制作代行を10本まで無料とさせていただいております",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立：2020年4月13日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、東京で10年以内の設立で今後も成長し続けるであろうという会社さんなどが対象になっています",
+    "url": "https://reashu.com/story/moovy/",
+    "pass": 3
+   },
+   {
+    "quote": "創立:11〜14年",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "quote": "創立:7〜8年",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "quote": "そして2020年4月に株式会社moovyを創業し、7月に採用動画プラットフォーム『moovy』をリリースしました",
+    "url": "https://glcl.co.jp/mikatamedia/interview/moovy/",
+    "pass": 3
+   },
+   {
+    "quote": "今でこそ動画を使った採用手法は市民権を得ていますが、創業当初から培った縦長短尺動画のノウハウはmoovyの強みになっていると思います",
+    "url": "https://glcl.co.jp/mikatamedia/interview/moovy/",
+    "pass": 3
+   },
+   {
+    "quote": "社長へのインタビュー！会社設立の背景とは？",
+    "url": "https://moovy.jp/media/column/item12",
+    "pass": 3
+   },
+   {
+    "quote": "創業者の思いやその理由を知る機会は求職者からするとほとんどないと思います",
+    "url": "https://moovy.jp/media/column/item12",
+    "pass": 3
+   },
+   {
+    "quote": "🗣代表三嶋の創業ストーリーも公開中🗣",
+    "url": "https://note.com/moovy/n/n4c9712d124ce",
+    "pass": 3
+   },
+   {
+    "quote": "設立 ：2020年4月13日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000062343.html",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "アップセルによる売上アップ",
+    "url": "https://company.moovy.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "WHAT’S SALES PARTNER?",
+    "url": "https://company.moovy.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "集客施策を、顧客獲得から売上に繋がる導線へ整える",
+    "url": "https://glcl.co.jp/mikatamedia/interview/moovy/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "代理店収益と顧客満足度向上を実現",
+    "url": "https://company.moovy.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "また、パナソニック様の電設資材において、ナンバーワンの代理店であり続けている点も強みです",
+    "url": "https://company.moovy.jp/case/mitsuwadenki/",
+    "pass": 1
+   },
+   {
+    "quote": "帰国後は旅行代理店におけるイベント企画やWebデザイン・マーケティングに従事",
+    "url": "https://moovy.jp/media/column/item12",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "東日本では業界ナンバーワンの実績を持ちます",
+    "url": "https://company.moovy.jp/case/mitsuwadenki/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の警備業におけるリーディングカンパニー「ALSOK」のグループ会社です",
+    "url": "https://company.moovy.jp/case/alsok/",
+    "pass": 1
+   },
+   {
+    "quote": "掲載企業は、今後の日本をアップデートするような成長著しい企業や社会的インパクトの大きい企業のみを厳選し、現在はテック系スタートアップを中心に700本以上の採用動画を掲載しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "quote": "『moovy』は、日本や世界を変革するスタートアップや成長企業を厳選し、これまでに650本のインタビュー動画を制作・掲載してきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本を変革していく、アップデートしていくような会社を中心に掲載しています",
+    "url": "https://reashu.com/story/moovy/",
+    "pass": 3
+   },
+   {
+    "quote": "大学3回生まではろくに勉強もせずに、バイクで日本中を旅するような学生だったのですが、就活時に「リクルート」という会社との出会いが自分の人生を大きく決定づけたと感じています",
+    "url": "https://glcl.co.jp/mikatamedia/interview/moovy/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大のネイル情報サービス「ネイルブック」が目指す世界観について語られた採用動画です",
+    "url": "https://moovy.jp/media/column/item12",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後、タイ・バンコクで日本語教師として活動",
+    "url": "https://moovy.jp/media/column/item12",
+    "pass": 3
+   },
+   {
+    "quote": "これまで『moovy』では、日本や世界を変革するスタートアップ・成長企業をmoovy編集部が厳選して、700本のインタビュー動画を撮り続けてきました",
+    "url": "https://note.com/moovy/n/n4c9712d124ce",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "2つ目はAPI（アプリケーション・プログラミング・インターフェイス）連携ができる点です",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "quote": "特徴③APIデータ連携により採用ホームページに動画を簡単に転載できる",
+    "url": "https://note.com/moovy/n/n4c9712d124ce",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "採用動画プラットフォーム『 moovy 』会員数1万人突破！ — 採用動画プラットフォーム『 moovy 』会員数1万人突破！ PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社moovy ・三嶋 弘哉のインタビュー | ONLY STORY — 株式 会社moovy ・三嶋 弘哉のインタビュー | ONLY STORY ONLYSTORY https://onlystory.co.jp > ITコンサル・SI業界",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "quote": "採用動画制作 会社 なら moovy ｜企画・撮影から配信・分析まで — 採用動画制作 会社 なら moovy ｜企画・撮影から配信・分析まで 株式会社moovy https://company.moovy.jp",
+    "url": "https://company.moovy.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "採用動画プラットフォーム『 moovy 』β版を公開 〜企業内の ... — 採用動画プラットフォーム『 moovy 』β版を公開 〜企業内の ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "pass": 3
+   },
+   {
+    "quote": "【HERP Hire】採用動画プラットフォーム「 moovy 」と連携を ... — 【HERP Hire】採用動画プラットフォーム「 moovy 」と連携を ... 採用管理システム HERP Hire https://lp.herp.cloud > news > 2023727_moovy",
+    "url": "https://lp.herp.cloud/news/2023727_moovy/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 moovy - スピーダ スタートアップ情報リサーチ — 株式会社 moovy - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-37837",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 moovy （東京都）の会社概要・役員 - Compalyze — 株式会社 moovy （東京都）の会社概要・役員 - Compalyze Compalyze https://compalyze.co.jp > ... > ブランディング・デザイン",
+    "url": "https://compalyze.co.jp/company/5011001133436",
+    "pass": 3
+   },
+   {
+    "quote": "エクイティファイナンス｜スタートアップの 資金調達 - moovy — エクイティファイナンス｜スタートアップの 資金調達 - moovy 株式会社moovy https://moovy.jp > column > glossary-equity-finance",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "採用動画の 料金 相場や 費用 はどれぐらい？安く抑える方法も ... — 採用動画の 料金 相場や 費用 はどれぐらい？安く抑える方法も ... 株式会社moovy https://company.moovy.jp > ホーム > 採用動画",
+    "url": "https://company.moovy.jp/column/513/",
+    "pass": 3
+   },
+   {
+    "quote": "採用動画制作会社なら moovy ｜企画・撮影から配信・分析まで — 採用動画制作会社なら moovy ｜企画・撮影から配信・分析まで 株式会社moovy https://company.moovy.jp",
+    "url": "https://company.moovy.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 の採用動画 事例 5選！応募数を伸ばした成功 事例 と制作 ... — 製造業 の採用動画 事例 5選！応募数を伸ばした成功 事例 と制作 ... 株式会社moovy https://company.moovy.jp > ホーム > 採用動画",
+    "url": "https://company.moovy.jp/column/2249/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 – 採用動画制作・採用マーケティングなら moovy — 導入事例 – 採用動画制作・採用マーケティングなら moovy 株式会社moovy https://company.moovy.jp > case",
+    "url": "https://company.moovy.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "【 社長インタビュー 】株式会社 moovy 代表取締役 三嶋弘哉様 — 【 社長インタビュー 】株式会社 moovy 代表取締役 三嶋弘哉様 就活の教科書 https://reashu.com > ホーム > 企業インタビュー",
+    "url": "https://reashu.com/story/moovy/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 moovy ・三嶋 弘哉の インタビュー | ONLY STORY — 株式会社 moovy ・三嶋 弘哉の インタビュー | ONLY STORY ONLYSTORY https://onlystory.co.jp > ITコンサル・SI業界",
+    "url": "https://onlystory.co.jp/stories/3044",
+    "pass": 3
+   },
+   {
+    "quote": "「採用の新常識を作る」 moovy 三嶋 社長 が目指すSNS時代の ... — 「採用の新常識を作る」 moovy 三嶋 社長 が目指すSNS時代の ... 株式会社グローカル https://glcl.co.jp > mikatamedia > interview > moovy",
+    "url": "https://glcl.co.jp/mikatamedia/interview/moovy/",
+    "pass": 3
+   },
+   {
+    "quote": "採用動画の事例まとめ！【 インタビュー 動画/ 社長 ・役員編 】 — 採用動画の事例まとめ！【 インタビュー 動画/ 社長 ・役員編 】 株式会社moovy https://moovy.jp > media > column > item12",
+    "url": "https://moovy.jp/media/column/item12",
+    "pass": 3
+   },
+   {
+    "quote": "moovy 三嶋 社長 ｜「個の力」を磨くことが時代を生き抜く鍵と ... — moovy 三嶋 社長 ｜「個の力」を磨くことが時代を生き抜く鍵と ... キャリアパークエージェント https://careerpark-agent.jp > トップ > 経営者インタビュー",
+    "url": "https://careerpark-agent.jp/interview/51-2",
+    "pass": 3
+   },
+   {
+    "quote": "採用 動画制作会社なら moovy ｜企画・撮影から配信・分析まで — 採用 動画制作会社なら moovy ｜企画・撮影から配信・分析まで 株式会社moovy https://company.moovy.jp",
+    "url": "https://company.moovy.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "moovy - 採用 動画プラットフォーム - YouTube — moovy - 採用 動画プラットフォーム - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UCfmEMfdSd6m9eccBrfRTCuQ",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "（過去の株主を含む）",
+    "url": "https://initial.inc/companies/A-37837",
+    "pass": 3
+   },
+   {
+    "quote": "過去の株主を含む",
+    "url": "https://initial.inc/companies/A-37837",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、企業が発行した新株を既存の株主や第三者に買い取ってもらい、エクイティの増加によって資金調達を行います",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "また、moovyは出資を受けずに事業を進める方針を取っています",
+    "url": "https://glcl.co.jp/mikatamedia/interview/moovy/",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "資金調達・提携ニュース",
+    "url": "https://initial.inc/companies/A-37837",
+    "pass": 3
+   },
+   {
+    "quote": "エクイティファイナンス｜スタートアップの資金調達 | スタートアップ用語解説集 | 転職・就職はmoovyの採用動画",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "エクイティファイナンス｜スタートアップの資金調達",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "# 資金調達",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "」の2種類の資金調達方法を行うことが多いです",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、企業が発行した新株を既存の株主や第三者に買い取ってもらい、エクイティの増加によって資金調達を行います",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "エクイティ・ファイナンスで資金調達ができると、以下のような大きなメリットが得られます",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "その他の資金調達方法として近年注目されているのが、「",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "これまで「デッドファイナンス」「エクイティファイナンス」の２択だった資金調達方法に第三の手法として、注目されています",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドファンディング｜スタートアップの資金調達",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   },
+   {
+    "quote": "2014年5月にはインキュベイトファンド、ソラシード・スタートアップスを引受先として総額5,000万円の資金調達を実施した同社",
+    "url": "https://moovy.jp/media/column/item12",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "・「今」よりも「未来」を重視しているため、いま赤字でも調達が行える",
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://company.moovy.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/service/interview-videos/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/service/company-introduction-video/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/service/vertical-short-video/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/service/product-video/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/service/web-cm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/service/company-information-session-video/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/service/animation-video/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/service/drone-video/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/service/recruit-site/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/column/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/column/downloads/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/diagnosis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/column/5923/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/case/technoworks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/case/novasystem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/case/mitsuwadenki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.moovy.jp/case/alsok/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://company.moovy.jp/img/partner/fv_image.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://company.moovy.jp/img/partner/phone1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://company.moovy.jp/img/partner/phone2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://company.moovy.jp/img/partner/diagram.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://company.moovy.jp/img/partner/case-worldintec.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://company.moovy.jp/img/partner/case-biprogy.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/stories/3044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chiome.co.jp/ir/movie/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://initial.inc/companies/A-37837",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=o04QPUY6JDo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/5011001133436",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-37837",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moovy.jp/media/column/glossary-equity-finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/%E5%BC%98%E5%93%89-%E4%B8%89%E5%B6%8B-64a66941_%E3%82%AD%E3%83%A3%E3%83%87%E3%82%A3%E7%B7%8F%E9%A1%8D803%E5%84%84%E5%86%86%E3%81%AE%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BAb%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD-activity-6835892199012626432-zd9V",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cr-cres.jp/cresight/succession/mbo%E3%81%A8%E3%81%AF%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%A7%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%83%BB%E9%80%B2%E3%82%81%E6%96%B9%E3%83%BB%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://movie-happy.com/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moviridge.com/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cine-mato.com/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/45146",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.tebiki.jp/167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reashu.com/story/moovy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/stories/3044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://glcl.co.jp/mikatamedia/interview/moovy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moovy.jp/media/column/item12",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/channel/UCfmEMfdSd6m9eccBrfRTCuQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/moovy/n/n4c9712d124ce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000062343.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "moovy 会社概要 設立 資本金 従業員",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "https://onlystory.co.jp/stories/3044",
+    "https://company.moovy.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "https://lp.herp.cloud/news/2023727_moovy/",
+    "https://initial.inc/companies/A-37837",
+    "https://talentx.co.jp/news/p250911",
+    "https://www.ipros.com/company/detail/2115604/",
+    "https://www.bgent.net/view/2952",
+    "https://company.moovy.jp/company/"
+   ]
+  },
+  {
+   "query": "moovy 売上高 OR 業績 OR 決算",
+   "results": [
+    "https://www.chiome.co.jp/ir/movie/",
+    "https://initial.inc/companies/A-37837",
+    "https://www.youtube.com/watch?v=o04QPUY6JDo",
+    "https://compalyze.co.jp/company/5011001133436",
+    "https://www.sanko-e.co.jp/read/covid19-office/01/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=4394",
+    "https://startup-db.com/companies/dYj8JyYU0bKJOxDr",
+    "https://www.moomoo.com/ja/stock/MOVE-US/earnings",
+    "https://kabutan.jp/news/",
+    "https://corp.moneyforward.com/ir/"
+   ]
+  },
+  {
+   "query": "moovy 株主 OR 筆頭株主 OR 親会社 OR 資金調達",
+   "results": [
+    "https://initial.inc/companies/A-37837",
+    "https://moovy.jp/media/column/glossary-equity-finance",
+    "https://jp.linkedin.com/posts/%E5%BC%98%E5%93%89-%E4%B8%89%E5%B6%8B-64a66941_%E3%82%AD%E3%83%A3%E3%83%87%E3%82%A3%E7%B7%8F%E9%A1%8D803%E5%84%84%E5%86%86%E3%81%AE%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BAb%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD-activity-6835892199012626432-zd9V",
+    "https://cr-cres.jp/cresight/succession/mbo%E3%81%A8%E3%81%AF%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%A7%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%83%BB%E9%80%B2%E3%82%81%E6%96%B9%E3%83%BB%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E4%BA%8B%E6%A5%AD%E6%89%BF%E7%B6%99/%E8%A6%AA%E6%97%8F%E5%A4%96%E5%BE%93%E6%A5%AD%E5%93%A1%E6%89%BF%E7%B6%99/%E5%BE%93%E6%A5%AD%E5%93%A1%E6%89%BF%E7%B6%99%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%A0/",
+    "https://www.solidworks.com/ja/solution/solidworks-for-startups-program/how-get-funding-startups-sources-and-opportunities",
+    "https://biz.moneyforward.com/establish/basic/82608/",
+    "https://ma-succeed.jp/content/knowledge/post-3898",
+    "https://aslp.law.keio.ac.jp/pdf/AN00224504-20010928-0099.pdf",
+    "https://ja.wikipedia.org/wiki/株主"
+   ]
+  },
+  {
+   "query": "moovy 料金 費用 プラン",
+   "results": [
+    "https://company.moovy.jp/column/513/",
+    "https://movie-happy.com/plan/",
+    "https://moviridge.com/price/",
+    "https://cine-mato.com/price/",
+    "https://company.moovy.jp/",
+    "https://service.onecareer.jp/blog/recruitment_video_marketprice",
+    "https://b-pos.jp/srv/moovy/video-production/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyo-dougaseisaku-ryokin-191011/",
+    "https://mvsk.jp/price",
+    "https://company.moovy.jp/faq/price/"
+   ]
+  },
+  {
+   "query": "moovy 製造業 導入事例",
+   "results": [
+    "https://company.moovy.jp/column/2249/",
+    "https://techport.co.jp/archives/45146",
+    "https://company.moovy.jp/case/",
+    "https://media.tebiki.jp/167",
+    "https://marugotoinc.jp/blog/maker_saiyoumovie/",
+    "https://note.com/moovy/n/n4c9712d124ce",
+    "https://content.technotree.com/column007/",
+    "https://www.youtube.com/watch?v=EAZH90yMhqE",
+    "https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/",
+    "https://company.moovy.jp/column/downloads/industry-manufacturing/"
+   ]
+  },
+  {
+   "query": "moovy 社長 インタビュー",
+   "results": [
+    "https://reashu.com/story/moovy/",
+    "https://onlystory.co.jp/stories/3044",
+    "https://glcl.co.jp/mikatamedia/interview/moovy/",
+    "https://moovy.jp/media/column/item12",
+    "https://careerpark-agent.jp/interview/51-2",
+    "https://hrog.net/interview/87980/",
+    "https://aporeru.com/articles/moovy",
+    "https://prtimes.jp/main/html/rd/p/000000026.000062343.html",
+    "https://www.youtube.com/watch?v=dSf-_QdVymA",
+    "https://moovy.jp/media/column/writer/hiroya-mishima"
+   ]
+  },
+  {
+   "query": "moovy 採用 募集要項 職種",
+   "results": [
+    "https://company.moovy.jp/",
+    "https://www.youtube.com/channel/UCfmEMfdSd6m9eccBrfRTCuQ",
+    "https://note.com/moovy/n/n4c9712d124ce",
+    "https://prtimes.jp/main/html/rd/p/000000032.000062343.html",
+    "https://www.youtube.com/watch?v=_LNLuaJuK3I",
+    "https://www.bgent.net/view/2952",
+    "https://prtimes.jp/main/html/rd/p/000000001.000062343.html",
+    "https://moovy.jp/media/jobs",
+    "https://initial.inc/companies/A-37837",
+    "http://company.moovy.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式26頁／PDF・画像6件／外部23頁・検索7回）",
+  "売上高": "記載なし（3回確認済み：公式26頁／PDF・画像6件／外部23頁・検索7回）",
+  "存続": "記載なし（3回確認済み：公式26頁／PDF・画像6件／外部23頁・検索7回）",
+  "ホワイトラベル明言": "記載なし（3回確認済み：公式26頁／PDF・画像6件／外部23頁・検索7回）"
+ }
+}

@@ -1,0 +1,874 @@
+{
+ "name": "株式会社ゆめスタ",
+ "aliases": [
+  "ゆめスタ"
+ ],
+ "context": "高卒向け求人誌（企業インタビュー誌面）",
+ "researched_at": "2026-11-03T11:58:24.755115+00:00",
+ "official_url": "https://yumesuta.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 飯田思遠",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "飯田思遠",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 飯田思遠",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒486-0918 愛知県春日井市如意申町７丁目15−５ アーバンハイツ春日井 302号",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "愛知県春日井市如意申町7-15-5\nアーバンハイツ春日井302号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒486-0918 愛知県春日井市如意申町７丁目15−５ アーバンハイツ春日井 302号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "愛知県春日井市如意申町７丁目15－５アーバンハイツ春日井 302号",
+    "url": "https://en-gage.net/jp-sing_saiyo1/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "2025年09月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2025年9月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "料金": [
+   {
+    "quote": "400万円以上",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "607万円 → 300万円",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ベンチャー企業の技術基盤とガバナンス体制の構築支援では、地方の小規模企業を年商800億円規模の上場企業と対等に取引できるまでに成長させた実績を持つ",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "現在は30万人が参加する国内最大級デジタルコミュニティの公式エンジニアとして、興行収入1億円規模の大手映画配給会社プロジェクトや、時価総額1.2億円の国内初となる規格の暗号資産プロジェクトの技術統括を務める",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "独自システムで年間3,000万円のコスト削減を達成",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,850円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業や店舗の経営者様へ向け、弊社の経営・集客支援サービス（無料モニタープランなど、コスト負担のない案内）の案内DM（ダイレクトメッセージ）の送信と、それに伴う簡単な日程調整をお任せします",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,700円 / 交通費支給",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給36万円 / 交通費支給",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給37万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "★年休130日＆フルフレックス▼ニーズ調査：企業の求める人材要件をヒアリング★ ▼求職者面談：希望・価値観を徹底分析！キャリアプランも提案♪ ▼案件紹介：厳選した案件をご紹介＆面接同席フォロー◎ ▼アフターケア：就業後も定期連絡でしっかりサポート！ ※マーケティング部",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,350円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "週1日～・1日3h～OK通勤なしの在宅勤務◎子育てママ・ダブルワーカー活躍中 完全リモートワーク募集！ 全国どこからでも応募OK♪ 通勤は一切なし！ 全国どこからでも応募できる、 完全在宅の事務スタッフ募集◎ 【ここがポイント】 ・週1日～／1日3時間～OK ・時給1,350円スタート ・シフトは事前に相談しながら決定します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,400円〜1,750円 / 交通費支給",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【クリスマスケーキづくり】 いちごの下処理etc《短期12/18～12/23》学生＆主婦さん活躍 株式会社東北フジパン(002) ■ 給与 時給1400円～1750円＋交通費支給 ■ シフト 週2日以上 、1日4時間以上 ■ アクセス 東北本線長町駅 ■ 時間帯 早朝、朝、昼、夕方、夜、夜勤 ■ 勤務地 仙台市太白区 冬の大人気WORK イチゴの下処理や トッピング、箱詰め…など♪ とっても簡単な作業ばかり！ 年内にしっかり稼げます★ 【12/18～12/23】の短期勤務★ 学生～シニアまで活躍中♪ ＼大量募集!!／ 同じ時期に始めるスタッフ多数で安心♪",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,350円 / 交通費支給",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【袋詰め・検品STAFF】 11月～1月限定の短期募集★チョコやお菓子材料の袋詰め♪学生歓迎 富澤商店 橋本工場 ■ 給与 時給1350円以上+交通費支給 ■ シフト 週2日以上 、1日3時間以上 ■ アクセス 横浜線橋本駅 ■ 時間帯 朝、昼、夕方 ■ 勤務地 相模原市中央区 ＼毎年大人気♪11月～1月限定の短期募集！／ スグに覚えられるシンプル＆モクモク作業◎ 学生さん＆主婦(夫)大歓迎★ ＼ スタッフならでは!! ／ 社割で人気の製菓・製パン材料をお得に購入可能◎ お料理やパン作り、スイーツ作りが 好きな方にはたまらない環境です♪ 週2日～・1日3時",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収450万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "完全在宅／データ入力／土日祝休み・在宅ワーク／月給28万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収376万円〜472万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "タイトル: 完全在宅｜データ入力／土日祝休み・在宅ワーク／月給28万円〜 このお仕事の特徴: PC スキル タイピング データ入力 ブラインドタッチ 事務 学歴不問 既卒歓迎 未経験者歓迎 業界未経験者歓迎 第二新卒歓迎 経験浅め歓迎 経験者歓迎 ポテンシャル採用 人柄重視採用 直接雇用 固定給 25 万円以上 残業手当あり 賞与あり 賞与年 2 回あり PC 貸与 定期健康診断あり 年末年始休暇あり 勤務先名: HJ株式会社 職種: データ入力スタッフ（在宅） 仕事内容: ＼朝の満員電車から解放されて／ 完全週休2日 × 年間休日125日 浮いた時間を自分のために♪ データ入力ス",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,400円 / 交通費支給",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【時給1400円！未経験歓迎】 イトーヨーカドー グランツリー武蔵小杉店では短期アルバイト募集！未経験OK♪あなたのご応募、お待ちしております♪ 食品レジ・品出し・買い物かご/カート回収など マルチに働けるスタッフ募集",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【こんな方歓迎♪】 ■短期間でしっかり稼ぎたい方（時給1400円） ■年末年始働ける方 特に12/30、12/31、1/1は必要 ■2か月間しっかり働ける方募集 ■働ける曜日に制限の少ない方歓迎 【こんなスタッフが活躍中♪】 イトーヨーカドーでは中高年層のスタッフ中心に、学生の方や子育て中のママ、子育てを終えた主婦",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給23万円〜30万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "展覧会や催事が円滑に行なわれるよう、現場を支える運営管理業務をお任せします",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エフ・オー・プランニング",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,230円 / 交通費支給",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【巫女】 ＼年末年始／思い出に残る\"レア\"バイト♪未経験・高校生～応募OK！ 廣幡八幡宮 ■ 給与 時給1,230円以上＋交通費全額支給 ■ シフト 週2日以上 、1日7時間以上 ■ アクセス 東武野田線(東武アーバンパークライン)増尾駅 ■ 時間帯 朝、昼、夕方 ■ 勤務地 柏市その他柏市 憧れの衣装に身を包んで―",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収600万円〜849万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給 300,000円～400,000円",
+    "url": "https://en-gage.net/jp-sing_saiyo1/",
+    "pass": 3
+   }
+  ],
+  "稼ぎ方": [
+   {
+    "quote": "3つのサービス: ゆめマガ（就活情報誌）・採用専用HP制作・アニリク（採用PR動画）を一気通貫で提供",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ゆめスタの3つのサービスで解決",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ゆめスタのサービス",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "求人・採用やサービスPRに最適化して制作・リニューアルします",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "全てのサービスを見る",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業、サービス業、IT企業など幅広い業種の企業が高卒採用を実施しています",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "高卒採用・サービスに関するご相談はこちらから",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "主要サービス",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース・ニュースリリース配信サービスのPR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 ：",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース配信サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "レコメンドサービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業や店舗の経営者様へ向け、弊社の経営・集客支援サービス（無料モニタープランなど、コスト負担のない案内）の案内DM（ダイレクトメッセージ）の送信と、それに伴う簡単な日程調整をお任せします",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■具体的な業務内容 ・弊社が用意したアプローチ先リストの確認 ・用意されている案内文章（テンプレート）をコピーして各企業へ送信 ・DMに対して返信（興味ありのリアクション）があった方へ、次のステップである「5～10分程度の電話挨拶」の候補日を提示して日程を調整 ・電話の日程が決まったら、指定のカレンダーへ連携（登録）して完了！ ※送信後の詳しいサービス説明や実際の電話対応、商談などは、すべて別の専門",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社北斗サービス",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "エームサービス株式会社",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・会社情報",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "製造業の顧客": [
+   {
+    "quote": "製造業・建設業・物流業の採用課題を、",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "精密加工メーカーのコーポレート＋採用サイト",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "精密加工メーカー",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "東海地区特化の地域密着型",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "愛知県・三重県を中心に、地域の高校と企業を結ぶ",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業、サービス業、IT企業など幅広い業種の企業が高卒採用を実施しています",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、地域・企業・学校・若者が垣根を越えて共創することが不可欠です",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ベンチャー企業の技術基盤とガバナンス体制の構築支援では、地方の小規模企業を年商800億円規模の上場企業と対等に取引できるまでに成長させた実績を持つ",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・建設業の3K（きつい・汚い・危険）イメージを払拭",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "• 愛知県・三重県を中心とした東海地区特化の地域密着型",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "• パートナー企業: 30社以上（製造業・建設業を中心に東海地区の企業が参画）",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "企業様、個人、行政、地域と連携して、",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "製造業は一見地味に見えるかもしれませんが、ものづくりの面白さや、形に残る仕事のやりがいは、若者にとって大きな魅力になるはずです",
+    "url": "https://yumesuta.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "一定期間を過ぎると、2社まで同時に応募できるようになる地域があります",
+    "url": "https://yumesuta.com/career-guide/choosing-company",
+    "pass": 1
+   },
+   {
+    "quote": "全国的に一人二社制への移行が進んでいますが、切り替え時期は地域によって異なります",
+    "url": "https://yumesuta.com/career-guide/choosing-company",
+    "pass": 1
+   },
+   {
+    "quote": "高校生の「進路格差」解消へ 現役大学生起業家が地域企業と学校をつなぐ就活情報誌「ゆめマガ」を毎月無料配布 ～自分で未来を選び続けられる社会を目指して～ | 株式会社ゆめスタのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "高校生の「進路格差」解消へ 現役大学生起業家が地域企業と学校をつなぐ就活情報誌��「ゆめマガ」を毎月無料配布 ～自分で未来を選び続けられる社会を目指して～",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "「教育を変える」をミッションに掲げる株式会社ゆめスタは、高校生の進路格差解消を目的に、地域企業のリアルを届ける就活情報誌『ゆめマガ』を発行し、地域高校へ毎月無料配布を開始しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "『ゆめマガ』は、地域企業で働く社会人へのインタビューや仕事のリアルを、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後は配布エリアを東海圏から全国へと拡大し、地域ごとの特色ある企業やロールモデルを紹介する「ローカル版」の展開を予定しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業の3K（きつい・汚い・危険）イメージを払拭",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "高校生の「進路格差」解消へ 現役大学生起業家が地域企業と学校をつなぐ就活情報誌「ゆめマガ」を毎月無料配布 ～自分で未来を選び続けられる社会を目指して～",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "富澤商店 橋本工場",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【袋詰め・検品STAFF】 11月～1月限定の短期募集★チョコやお菓子材料の袋詰め♪学生歓迎 富澤商店 橋本工場 ■ 給与 時給1350円以上+交通費支給 ■ シフト 週2日以上 、1日3時間以上 ■ アクセス 横浜線橋本駅 ■ 時間帯 朝、昼、夕方 ■ 勤務地 相模原市中央区 ＼毎年大人気♪11月～1月限定の短期募集！／ スグに覚えられるシンプル＆モクモク作業◎ 学生さん＆主婦(夫)大歓迎★ ＼ スタッフならでは!! ／ 社割で人気の製菓・製パン材料をお得に購入可能◎ お料理やパン作り、スイーツ作りが 好きな方にはたまらない環境です♪ 週2日～・1日3時",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "会計年度任用職員（地域スポーツ推進専門員）",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募締切：令和８年１１月１１日（水）１７時必着】 各種地域スポーツ施策の実施・企画事務等 ※東京都スポーツ推進本部のウェブサイト「スポーツＴＯＫＹＯイ ンフォメーション」に掲載の募集要項を必ずご確認ください ｈｔｔｐｓ：ｗｗｗ．ｓｐｏｒｔｓ－ｔｏｋｙｏ－ｉｎｆｏ． ｍｅｔｒｏ．ｔｏｋｙｏ．ｌｇ．ｊｐ／ ＊変更範囲：都の定める業務",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "日本最大級の高卒採用ナレッジベースです",
+    "url": "https://yumesuta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "• 1,300ページ以上の高卒採用教育コンテンツを無料公開（日本最大級）",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "日本の企業を取り巻く環境",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "今の日本の企業を取り巻く環境として『人手不足、従業員退職型の倒産が過去最多』や『8割の企業が採用目標が未達』などの理由から、採用ではなく定着に向けて考えている企業が増えています",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "この取り組みを通じ『ゆめスタ』の輪を広げて、今より輝く日本を一緒に創りましょう！",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "日本福祉大学",
+    "url": "https://yumesuta.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "日本押出成型株式会社",
+    "url": "https://yumesuta.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Yahoo! JAPANへ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "経歴としては、現場を統括し採用、定着を重点的に行い売上、利益を向上させる",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "経営、採用、法務、総務、IT関連など幅広く学び組織の安定、売上利益の向上を行った",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "後の企業では、ベンチャー企業で幹部として売上を年商24億から60億、正社員16人から160人へ拡大させる",
+    "url": "https://yumesuta.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "・声掛け、指示出し、持ち場の配置調整 ・シフト作成、スタッフの指導や育成 ・混雑時の入場制限や待機列整理の判断 ■施設管理・安全確認 ・開館・閉館準備、館内の定期巡回、安全確認 ・展示室の保全、受付や案内窓口のフォロー ■関係各所との折衝・事務 ・催事主催者や自治体職員との打ち合わせ ・チケット集計、売上管理、備品管",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Company 会社概要 - ゆめ  スタ — Company 会社概要 - ゆめ  スタ yume-suta.jp https://yume-suta.jp > company",
+    "url": "https://yume-suta.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ゆめスタ | 愛知県・三重県の高卒採用支援 - 就活情報誌・採用 ... — ゆめスタ | 愛知県・三重県の高卒採用支援 - 就活情報誌・採用 ... ゆめスタ https://yumesuta.com",
+    "url": "https://yumesuta.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ゆめスタ の企業情報 - バフェット・コード — ゆめスタ の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/e5fdp8mpuc/",
+    "pass": 3
+   },
+   {
+    "quote": "ゆめスタ ｜夢をスタートして叶えるプロジェクト   on Instagram — ゆめスタ ｜夢をスタートして叶えるプロジェクト   on Instagram Instagram https://www.instagram.com > reel",
+    "url": "https://www.instagram.com/reel/DOx9SczE2TS/",
+    "pass": 3
+   },
+   {
+    "quote": "ゆめ マガ 5月号 — ゆめ マガ 5月号 ゆめスタ https://yumesuta.com > ゆめマガ",
+    "url": "https://yumesuta.com/yumemaga/2026-may",
+    "pass": 3
+   },
+   {
+    "quote": "活動報告 - ゆめスタ — 活動報告 - ゆめスタ ゆめスタ https://yumesuta.com > reports",
+    "url": "https://yumesuta.com/reports",
+    "pass": 3
+   },
+   {
+    "quote": "ゆめスタ 募集要項 職種 の求人情報をすべて見る （6,172,982件） — ゆめスタ 募集要項 職種 の求人情報をすべて見る （6,172,982件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "ゆめスタ | 愛知県・三重県の高卒 採用 支援 - 就活情報誌・ 採用 ... — ゆめスタ | 愛知県・三重県の高卒 採用 支援 - 就活情報誌・ 採用 ... ゆめスタ https://yumesuta.com",
+    "url": "https://yumesuta.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ゆめスタ の 採用 ・求人情報-engage - エンゲージ — 株式会社 ゆめスタ の 採用 ・求人情報-engage - エンゲージ エンゲージ https://en-gage.net > jp-sing_saiyo1",
+    "url": "https://en-gage.net/jp-sing_saiyo1/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "設立 ：2025年9月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "pass": 3
+   },
+   {
+    "quote": "美術館・博物館の運営管理者 未経験歓迎／賞与年2回／住宅手当あり／創業40年以上の安定企業",
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "powered by",
+    "url": "https://en-gage.net/jp-sing_saiyo1/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://yumesuta.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/career-guide/choosing-company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://yumesuta.com/_next/image?url=%2Fimg%2Fabout%2Fhero-iida.jpg&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://yumesuta.com/_next/image?url=%2Fimg%2Fabout%2Fmanagement-philosophy.jpeg&w=1920&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://yumesuta.com/_next/image?url=%2Fimg%2Ftop%2Fabout-mobile.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://yumesuta.com/_next/image?url=%2Fimg%2Ftop%2Fabout.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://yume-suta.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp231955/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youmecard.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minkabu.jp/stock/2673/settlement",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gamebiz.jp/news/category/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9TWzREZ1XPI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/e5fdp8mpuc/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DOx9SczE2TS/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.buffett-code.com/company/e5fdp8mpuc/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pdf.irpocket.com/C3772/ccdN/I379/md1P.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.monogatari.co.jp/ir/benefits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yumephoto.com/navi/price-simulation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.cyberstar.jp/products/detail/2221",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://youme-mobile.com/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zpt-ai.com/blog/ai-11-fourth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=GoyoGSL1DHY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DOx9SczE2TS/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/yumesuta_co.ltd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youmecard.jp/recruit/regular/guideline_fresh.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-gage.net/jp-sing_saiyo1/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ゆめスタ 会社概要 設立 資本金 従業員",
+   "results": [
+    "https://yume-suta.jp/company/",
+    "https://yumesuta.com/",
+    "https://job.mynavi.jp/28/pc/search/corp231955/outline.html",
+    "https://www.youmecard.jp/company/index.html",
+    "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "https://www.instagram.com/reel/DOx9SczE2TS/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5180001168830",
+    "https://www.instagram.com/p/DPON24tiaj1/",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF-%E6%B1%82%E4%BA%BA.html",
+    "https://yumesuta.com/company"
+   ]
+  },
+  {
+   "query": "ゆめスタ 売上高 OR 業績 OR 決算",
+   "results": [
+    "https://minkabu.jp/stock/2673/settlement",
+    "https://gamebiz.jp/news/category/1",
+    "https://www.youtube.com/watch?v=9TWzREZ1XPI",
+    "https://www.buffett-code.com/company/e5fdp8mpuc/",
+    "https://www.fcimabari.com/news/gu_74n16hbn5",
+    "https://www.famitsu.com/news/202205/24261494.html",
+    "https://search.kanpoo.jp/r/20250325g63p46-2e8/"
+   ]
+  },
+  {
+   "query": "ゆめスタ 株主 OR 筆頭株主 OR 親会社 OR 資金調達",
+   "results": [
+    "https://www.instagram.com/reel/DOx9SczE2TS/",
+    "https://www.buffett-code.com/company/e5fdp8mpuc/",
+    "https://pdf.irpocket.com/C3772/ccdN/I379/md1P.pdf",
+    "https://www.monogatari.co.jp/ir/benefits/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260406/20260406598969.pdf",
+    "https://yumesuta.com/kosotsusaiyo/applications-not-coming-solution",
+    "https://www.chodai.co.jp/news/2021/09/014643.html",
+    "https://aslp.law.keio.ac.jp/pdf/AN00224504-20010928-0099.pdf",
+    "https://kabutan.jp/stock/holder?code=3465"
+   ]
+  },
+  {
+   "query": "ゆめスタ 料金 費用 プラン",
+   "results": [
+    "https://www.yumephoto.com/navi/price-simulation/",
+    "https://yumesuta.com/yumemaga/2026-may",
+    "https://shop.cyberstar.jp/products/detail/2221",
+    "https://youme-mobile.com/price",
+    "https://www.instagram.com/yumesuta_co.ltd/",
+    "https://hana-yume.net/6828/plan/",
+    "https://yumelog.site/pricing",
+    "https://help.unext.jp/guide/detail/types-of-service-plan",
+    "https://udtalk.jp/price/",
+    "https://yume-suta.jp/plan/"
+   ]
+  },
+  {
+   "query": "ゆめスタ 製造業 導入事例",
+   "results": [
+    "https://yumesuta.com/reports",
+    "https://www.zpt-ai.com/blog/ai-11-fourth",
+    "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/",
+    "https://www.youtube.com/watch?v=GoyoGSL1DHY",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/230111.html",
+    "https://www.softbank.jp/biz/customer-success-stories/category/manufacturing/",
+    "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "https://biz.teachme.jp/casestudy-industry/manufacturing/",
+    "https://www.labz-inc.com/post/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%94%9F%E6%88%90ai%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B-%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E3%81%A8%E5%B0%8E%E5%85%A5%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/",
+    "https://yumesuta.com/seisaku-jirei"
+   ]
+  },
+  {
+   "query": "ゆめスタ 社長 インタビュー",
+   "results": [
+    "https://yumesuta.com/reports",
+    "https://www.instagram.com/reel/DOx9SczE2TS/",
+    "https://www.instagram.com/yumesuta_co.ltd/",
+    "https://prtimes.jp/main/html/rd/p/000000002.000179596.html",
+    "https://gakuichi.com/blogs/gakuichi-news/20260406-yumemaga",
+    "https://www.instagram.com/p/DebgaXezfL3/",
+    "https://yumesuta.com/reports/2026-04-15-bizitai-interview-iida",
+    "https://yumetetsu-recruit.com/staff/job_offer_interview/",
+    "https://www.wantedly.com/stories/s/onestar-syainninntabyu",
+    "https://www.bizrea.net/cases/yumesuta"
+   ]
+  },
+  {
+   "query": "ゆめスタ 採用 募集要項 職種",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%86%E3%82%81%E3%82%B9%E3%82%BF+%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85+%E8%81%B7%E7%A8%AE&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://yumesuta.com/",
+    "https://www.youmecard.jp/recruit/regular/guideline_fresh.html",
+    "https://en-gage.net/jp-sing_saiyo1/",
+    "https://recruitment.happyelements.co.jp/recruit/entry",
+    "https://www.izumi.co.jp/yumedelica/graduate/",
+    "https://sunstar.recruitment.jp/",
+    "https://yumetetsu-recruit.com/recruit-info/application-guidelines/",
+    "https://www.moonstar.co.jp/corporate/recruit/newgrad/",
+    "https://recruit.one-star.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）",
+  "設立": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）",
+  "株主構成": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）",
+  "資金調達": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）",
+  "存続": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）",
+  "OEM・組込み": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）",
+  "再販制度": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）",
+  "顧客": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索7回）"
+ }
+}
