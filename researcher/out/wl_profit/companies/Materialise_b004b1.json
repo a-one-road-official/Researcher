@@ -1,0 +1,1924 @@
+{
+ "name": "Materialise",
+ "aliases": [
+  "Materialise NV",
+  "Materialise Magics"
+ ],
+ "context": "wl-A DfAM・AMソフト",
+ "researched_at": "2026-11-03T10:17:45.578742+00:00",
+ "official_url": "https://www.materialise.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "76,840   67,670   66,259   204,020   197,469",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenues",
+    "value": "36,542    9,864    21,266    67,672    (2 )   67,670",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenues",
+    "value": "33,296    10,286    22,677    66,259    0    66,259",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenues",
+    "value": "106,581    29,106    68,333    204,020    0    204,020",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenues",
+    "value": "97,224    29,933    70,313    197,469    0    197,469",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "US$ 196.67 million (2019) [ 1 ]",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "Founded",
+    "value": "1990 ; 36 years ago ( 1990 )",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2004年01月",
+    "url": "https://evort.jp/presenters/materialise",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "Founder",
+    "value": "Wilfried Vancraen",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Leuven , Belgium",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "221-0052 神奈川県横浜市神奈川区栄町8-1横浜ポートサイドビル2階",
+    "url": "https://evort.jp/presenters/materialise",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "Number of employees",
+    "value": "2000+",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "顧客": [
+   {
+    "quote": "Discover how industries evolve with 3D technology thanks to insights from our customers and experts.",
+    "url": "https://www.materialise.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of 3D printing’s potential to make mass customization scalable and economically viable to ensure every product is right for your customers.",
+    "url": "https://www.materialise.com/en/industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Explore customers' stories",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering our customers since 1990",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "From humble beginnings in 1990, when founder and Chairman of the Board Fried Vancraen bought his first 3D printer, Materialise has become an industry standard. As our journey continues to unfold, our commitment to helping our customers break new ground is stronger than ever.",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Why build if it’s not built to last? We ensure quality in everything we do. As customer needs and technologies evolve, we improve to remain relevant over time. Discover more about why customers worldwide trust in the quality of our services and solutions.",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Why are we ahead of all the rest? We invest in people because they are the cornerstone of our success. Inspired by our mission and curious by nature, they go the extra mile, both for our customers and society.",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "There is no greater inspiration or motivation than seeing what people do with our solutions and services. Across industries, our customers leverage our knowledge and expertise to drive innovation and make a difference in their fields.",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re always asking, “What can we do to make 3D printing more sustainable?” By reducing the environmental impact of our operations, innovating continuously to advance 3D printing in a sustainable way, and empowering our customers to embed sustainability into their business models, we aim to drive positive outcomes for the environment, business, and society as a whole.",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Committed to improving our operations and empowering our customers, we strive to innovate and reduce waste, manage our environmental impact, and achieve net zero carbon emissions.",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Being transparent about the overall impact of 3D printing helps us and our customers firmly embed sustainability into everything we do.",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Materialise Manufacturing empowers 3D printing customers to keep tight production deadlines while achieving optimal manufacturing quality. We offer rapid product development and innovative digital manufacturing — from concept to execution.",
+    "url": "https://www.materialise.com/en/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As a member of the technology-driven, additive manufacturing cluster in Bremen, this Materialise development center and its 100+ onsite specialists focus on R&D, software development, and partner business. It is a dedicated production site for metal 3D printing that supplies customers from various industrial areas.",
+    "url": "https://www.materialise.com/en/about/locations/germany",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of 3D printing’s potential to make mass customization scalable and economically viable to ensure every product is right for your customers.",
+    "url": "https://www.materialise.com/en/industrial/applications/rapid-prototyping",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY",
+    "url": "https://www.materialise.com/en/healthcare/hcps/cmf",
+    "pass": 1
+   },
+   {
+    "quote": "Preoperative 3D reconstruction of the imaging results could help reduce the unknown risks during surgery caused by anatomical abnormalities and improve the perioperative safety for patients",
+    "url": "https://www.materialise.com/en/healthcare/hcps/3d-planning-hospitals",
+    "pass": 1
+   },
+   {
+    "quote": "The company launched one of the first 3D printing online ordering systems in 1997, Materialise NextDay, which later became Materialise OnSite. This service allowed 3D printing service customers to send digital 3D data, which could be printed and shipped the next day.",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "A rebrand offers the perfect opportunity to refine your identity, so that it clearly reflects your business values, vision, and mission. When your brand resonates with customers on a deeper level, it becomes more memorable. Take the",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "A refreshed brand can attract new customers (and retain existing ones!) by presenting a more cohesive, relevant image that speaks to their needs and expectations. By making sure your brand reflects who you are and what you stand for, you can make your brand stand out and keep customers coming back.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "A strong, unique identity helps your brand resonate with customers and creates a lasting impression that competitors can’t easily replicate. So, use your rebrand as an opportunity to highlight what makes you, you, and turn it into your competitive edge.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "A strong, unified brand can help you build trust and credibility with international customers, making it easier to establish a presence across borders while staying true to what makes your brand unique.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Attracting new customers:",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "A stronger brand attracts the right customers, increases market share, and even commands higher pricing power. Take Old Spice, for example. Their 2010 rebranding campaign, which included the “The Man Your Man Could Smell Like” commercials, led to a",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond operational efficiencies, a consistent brand identity presented across all customer touchpoints will help to strengthen customer retention, and, in turn, can reduce the cost of working to attract new customers. Retaining customers is significantly cheaper than attracting new ones, and a strong brand keeps them engaged and loyal.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Present survey results or brand sentiment analysis to demonstrate the need for change. If customers express confusion about your messaging or perceive your brand as outdated, that’s a compelling case for a refresh.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "An outdated brand makes it harder to stand out in a crowded market. Declining customer perception can make your company appear less innovative or trustworthy, ultimately impacting sales and retention. Inconsistent messaging can cause brand confusion, which will dilute your identity and make it harder for customers to connect with and remember you.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: LEGO’s Rebrand & Market Turnaround",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "A strategic rebrand can strengthen brand recognition, attract new customers, and help you stand out from competitors. The value comes from how effectively the rebrand supports your wider business goals.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "In the last year a number of companies have overhauled their brands, but as history shows, dramatically changing a corporate profile can alienate loyal customers, not just win new ones",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Even though Radio Shack reversed its decision to rename, it hasn’t stopped the company from haemorrhaging customers and losing money. Things came to a head in February when it finally filed for Chapter 11 protection under US bankruptcy laws, having suffered 11 consecutive quarters of losses.",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Bad publicity can also be caused by unforeseen circumstances. Following last years tragic lost aircrafts, Malaysia Airlines was said to be considering a brand overhaul and change of name to stop people from associating the company with air disasters, with customer numbers plummeting after the crashes. However, such a change has yet to materialise.",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "A McDonald’s in Times Square. A healthier approach has helped bring customers back to the fast-food chain",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Enerbioflex digitalizes its business processes to support its rapid growth and secure energy purchasing for its clients, with 3DEXPERIENCE ITEROP from Dassault Systèmes",
+    "url": "https://www.3ds.com/partners/partner-details/200000000031143_MATERIALISE",
+    "pass": 3
+   },
+   {
+    "quote": "“At nTop, we are committed to advancing the power of computational design to production — which is why I’m so excited about our partnership with Materialise and integration of nTop implicit models into Magics for manufacturing”, said Bradley Rothenberg, Co-Founder and CEO of nTop. “This enables our mutual customers to streamline the manufacturing of their most complex designs.”",
+    "url": "https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ". This partnership will integrate Materialise’s software solutions with BLT’s advanced metal 3D printing systems, offering customers a comprehensive additive manufacturing solution designed to enhance production efficiency, reduce costs, and accelerate product innovation.",
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "Rapid prototyping",
+    "url": "https://www.materialise.com/en/industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Medical professionals face very different challenges depending on their expertise. Materialise can support you, from the routine to the complex, with personalized solutions based on 3D printing and planning. Whether you are a surgeon, radiologist, cardiologist, podiatrist, or physical therapist, we can help you forward.",
+    "url": "https://www.materialise.com/en/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Shaping the future of 3D technology is both a privilege and a responsibility. In everything we do — from how we run our business to the solutions and services we offer — our aim is to meet the needs of the present without compromising those of future generations.",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re always asking, “What can we do to make 3D printing more sustainable?” By reducing the environmental impact of our operations, innovating continuously to advance 3D printing in a sustainable way, and empowering our customers to embed sustainability into their business models, we aim to drive positive outcomes for the environment, business, and society as a whole.",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Being transparent about the overall impact of 3D printing helps us and our customers firmly embed sustainability into everything we do.",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Materialise Manufacturing empowers 3D printing customers to keep tight production deadlines while achieving optimal manufacturing quality. We offer rapid product development and innovative digital manufacturing — from concept to execution.",
+    "url": "https://www.materialise.com/en/careers",
+    "pass": 1
+   },
+   {
+    "quote": "RapidFit",
+    "url": "https://www.materialise.com/en/legal-terms",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Prototyping with 3D Printing | Materialise",
+    "url": "https://www.materialise.com/en/industrial/applications/rapid-prototyping",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Prototypes",
+    "url": "https://www.materialise.com/en/industrial/applications/rapid-prototyping",
+    "pass": 1
+   },
+   {
+    "quote": "Our services for rapid prototyping",
+    "url": "https://www.materialise.com/en/industrial/applications/rapid-prototyping",
+    "pass": 1
+   },
+   {
+    "quote": "Go all in with ACTech. As specialists in rapid prototyping, all casting and CNC machining processes are carried out in-house, ensuring you get the highest quality product in record time, finished and ready to install.",
+    "url": "https://www.materialise.com/en/industrial/applications/rapid-prototyping",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid prototyping success stories",
+    "url": "https://www.materialise.com/en/industrial/applications/rapid-prototyping",
+    "pass": 1
+   },
+   {
+    "quote": "Rely on a digital toolkit based on our in-depth knowledge of plantar pressure measurement and gait assessment to assist you from scan to orthotics.",
+    "url": "https://www.materialise.com/en/healthcare/hcps/pressure-measurements-orthotics",
+    "pass": 1
+   },
+   {
+    "quote": "Mercer International Announces Comprehensive Recapitalization Agreement with Significant Support from Noteholders and Shareholders",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "J-Star Holding Co., Ltd. Receives Shareholder Approval for Capital Restructuring and Reinforces Strategic Focus on U.S. Growth",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "quarter of 2026 amounted to 9,666 kEUR compared to 10,359 kEUR for the same period in 2025. Total cash used for capital expenditures for",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "not reflect the periodic costs of certain capitalized tangible and intangible assets used in generating revenues in the company’s",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "expenses, capital expenditures and cash flow provided by operating activities. The company believes that these measurements are useful",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Share capital",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Working capital adjustments and income tax (paid)/received",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Capital government grants received",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "(3) Impairments represent the impairment of tangible and intangible assets and inventory of RapidFit NV and Eyewear resulting from the transfer of the assets to their respective management teams.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "(4) Divestitures-related expenses represent fees and costs in connection with the divestitures of RapidFit and Eyewear.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "(1) Impairments represent the impairment of tangible and intangible assets and inventory of RapidFit NV and Eyewear resulting from the transfer of the assets to their respective management teams.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Prototyping",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "In 2006 Materialise launched RapidFit, developed as a 3D printed solution for shipping large parts with customized jigs and fixtures to prevent deformation or breakage while in transit.",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Prototyping Casebook",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "By securing licensing deals with globally recognised franchises like Star Wars and Harry Potter, LEGO tapped into new audiences and broadened its appeal.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding is about reshaping your business for future success.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "How AI is reshaping corporate governance",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Enerbioflex digitalizes its business processes to support its rapid growth and secure energy purchasing for its clients, with 3DEXPERIENCE ITEROP from Dassault Systèmes",
+    "url": "https://www.3ds.com/partners/partner-details/200000000031143_MATERIALISE",
+    "pass": 3
+   },
+   {
+    "quote": "Magics opens its SDK for greater workflow flexibility",
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop partnership expands with leading OEMs",
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.",
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "Visit our investor website",
+    "url": "https://www.materialise.com/en/news",
+    "pass": 1
+   },
+   {
+    "quote": "By using business as a force for good, we aim to ensure a positive impact for all our stakeholders. Discover our financial impact and results on our investor relations website.",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "With digital design iteration, you can test and improve your parts as often as necessary without costly investment in tooling, getting you to your optimal design faster and affordably.",
+    "url": "https://www.materialise.com/en/industrial/applications/rapid-prototyping",
+    "pass": 1
+   },
+   {
+    "quote": "Investment Growth Calculator",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA is a way companies measure how much money they make from their core operations, like running a business, by removing certain costs or income that aren’t part of regular business activities. It helps investors see how well a company is doing without distractions from unusual expenses or gains, making it easier to compare companies or track performance over time.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "expenses, (iii) impairments and revaluation of fair value due to business combinations and (iv) costs incurred in relation to corporate",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA, long term investment, rather than the performance of the company’s day-to-day operations. The company also uses",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "to measure a company’s ability to grow or as a valuation measurement. The company’s calculation of EBIT, EBITDA, Adjusted",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exchange differences resulting from net investment in foreign operations",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Investments in convertible loans",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Investments in non-listed equity instruments",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Investments in associates and joint ventures",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Information only. Not investment advice.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "While it might come with a hefty price tag, a smart rebrand is like planting a seed for long-term growth.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Sure, it’s an investment upfront, but the payoff in customer engagement, market share, and brand power can be huge.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we’ll show you how to build a case that goes beyond justifying the rebranding budget. We’ll help you demonstrate that rebranding is more than an expense. It’s a smart business investment.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "We know rebranding is a big investment. But before you panic over the price tag, understanding where that money goes is the first step in making smart decisions about the",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s important to keep in mind that the benefits you can expect to see from a well-executed rebrand make the investment worthwhile.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "To get buy-in, CEOs and CMOs need to see the value behind the expense, not just a nice new logo. You need to frame your rebrand as an investment; one that delivers measurable returns.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "To understand the potential return on investment, CEOs, CMOs, and other stakeholders need clarity, not vague numbers.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding isn’t a quick fix; it’s an investment in the future.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "As industries evolve, brands must stay relevant. A strategic rebrand future-proofs your business and keeps it meeting market demands. By framing your rebranding cost as a long-term investment rather than a short-term expense, you’ll get stakeholders to see the bigger picture.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "LEGO’s success story proves that rebranding isn’t just about aesthetics. It’s a strategic investment that can drive revenue, enhance brand loyalty, and future-proof a business.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Because in the end, a strategic rebrand isn’t just spending money. It’s making a smart investment in the future of your business.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Banking",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Management",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Inward Investment",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "A new blueprint for real estate investment",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Money & Funding",
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "EUR annual revenue",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Operations Manager, Materialise Software",
+    "url": "https://www.materialise.com/en/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us if you’d like to carry out research on aspects of additive manufacturing, the digitization of supply chains and manufacturing, or other areas where Materialise has expertise.",
+    "url": "https://www.materialise.com/en/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Without limiting the foregoing, everything on the website is provided to you \"AS IS\" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose or non-infringement.",
+    "url": "https://www.materialise.com/en/legal-terms",
+    "pass": 1
+   },
+   {
+    "quote": "Our Paris office houses an ambitious research and sales team of over 30 specialists focusing on cranio-maxillofacial and orthopaedic medical devices within our Materialise Medical unit. Get in touch to bring innovative solutions to surgeons and their patients.",
+    "url": "https://www.materialise.com/en/about/locations/france",
+    "pass": 1
+   },
+   {
+    "quote": "Go all in with ACTech. As specialists in rapid prototyping, all casting and CNC machining processes are carried out in-house, ensuring you get the highest quality product in record time, finished and ready to install.",
+    "url": "https://www.materialise.com/en/industrial/applications/rapid-prototyping",
+    "pass": 1
+   },
+   {
+    "quote": "Carrières",
+    "url": "https://www.materialise.com/fr/news",
+    "pass": 1
+   },
+   {
+    "quote": "Palantir Reports Q3 2026 U.S. Comm Revenue Growth of 148% Y/Y and Revenue Growth of 96% Y/Y; Raises FY 2026 Revenue Guidance to 91% Y/Y Growth and U.S. Comm Revenue Guidance to 143% Y/Y, Crushing Consensus Expectations",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise NV (MTLS) reported third-quarter 2026 revenue of",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "By segment, third-quarter adjusted EBITDA was below the prior-year quarter for Medical and Software; Manufacturing’s loss narrowed.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Third-quarter revenue:",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Third-quarter revenue",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "What was MTLS's revenue in the third quarter of 2026?",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise reported third-quarter 2026 revenue of",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": ", compared with €66.259 million in the third quarter of 2025, an increase of 2.1%. Medical segment revenue was €36.542 million.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Total revenue for the third quarter of 2026 increased",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue from our Materialise Medical segment increased",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue from our Materialise Software segment",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue from our Materialise Manufacturing segment",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "the third quarter of 2026 compared to 37,651 kEUR for the same period last year. Gross profit as a percentage of revenue was 57.7% compared",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "sales and marketing (“S&M”), and general and administrative (“G&A”) expenses increased, in the aggregate,",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "quarter of 2026 compared to 2,918 kEUR for the 2025 period. The Adjusted EBIT margin (Adjusted EBIT divided by total revenue) for the",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA margin for the segment (segment Adjusted EBITDA divided by segment revenue) was 27.4% compared to 30.6% for the third quarter of",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "not reflect the periodic costs of certain capitalized tangible and intangible assets used in generating revenues in the company’s",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cost of Sales",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit as % of revenue",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and marketing expenses",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenues",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": ". This includes updating your website, signage, business cards, social media profiles, packaging, and anything else that carries your brand.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "107% increase in sales",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "When you’re building your case, look at competitor case studies and market trends to forecast potential revenue growth.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "An outdated brand makes it harder to stand out in a crowded market. Declining customer perception can make your company appear less innovative or trustworthy, ultimately impacting sales and retention. Inconsistent messaging can cause brand confusion, which will dilute your identity and make it harder for customers to connect with and remember you.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Facing a financial crisis in the early 2000s, LEGO was struggling with declining sales, an unfocused product range, and rising operational costs. Instead of their cutting losses, they executed one of the",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "By securing licensing deals with globally recognised franchises like Star Wars and Harry Potter, LEGO tapped into new audiences and broadened its appeal.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Growth:",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "LEGO’s success story proves that rebranding isn’t just about aesthetics. It’s a strategic investment that can drive revenue, enhance brand loyalty, and future-proof a business.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Toshiba CEO resigns over accounting embarrassment",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Partners",
+    "url": "https://xactmetal.com/news_and_blog/xact-metal-extends-partnership-with-materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "We have various departments to keep the wheels in motion. Whatever your interest(s) or skill set, there’s a team waiting to call you our latest innovator.",
+    "url": "https://www.materialise.com/en/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As a member of the technology-driven, additive manufacturing cluster in Bremen, this Materialise development center and its 100+ onsite specialists focus on R&D, software development, and partner business. It is a dedicated production site for metal 3D printing that supplies customers from various industrial areas.",
+    "url": "https://www.materialise.com/en/about/locations/germany",
+    "pass": 1
+   },
+   {
+    "quote": "One connected ecosystem for planning, implants, and clinical engineering — helping you anticipate variability before the OR.",
+    "url": "https://www.materialise.com/en/healthcare/hcps/cmf",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized solutions for various conditions, including primary orbital trauma, complex orbital wall and zygoma fractures, and large bone defects.",
+    "url": "https://www.materialise.com/en/healthcare/hcps/cmf",
+    "pass": 1
+   },
+   {
+    "quote": "Variability to precision",
+    "url": "https://www.materialise.com/en/healthcare/hcps/cmf",
+    "pass": 1
+   },
+   {
+    "quote": "When planning and execution work as one, surgeons can move from variability to greater precision. With",
+    "url": "https://www.materialise.com/en/healthcare/hcps/cmf",
+    "pass": 1
+   },
+   {
+    "quote": "Find a distributor",
+    "url": "https://www.materialise.com/en/healthcare/hcps/pressure-measurements-orthotics",
+    "pass": 1
+   },
+   {
+    "quote": "Explore various studies and papers completed using Materialise solutions to discover the benefits.",
+    "url": "https://www.materialise.com/en/healthcare/hcps/pressure-measurements-orthotics",
+    "pass": 1
+   },
+   {
+    "quote": "and innovative end-to-end solutions enable flexible industrial manufacturing and mass personalization in various industries — including",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise incorporates three decades of 3D printing experience into a range of software solutions and 3D printing services, which together form the backbone of the 3D printing industry. Materialise’s open and flexible solutions enable players in a wide variety of industries, including healthcare, automotive, aerospace, art and design, and consumer goods, to build innovative 3D printing",
+    "url": "https://www.annualreports.com/Company/materialise-nv",
+    "pass": 3
+   },
+   {
+    "quote": "Different regions and cultures may have varying perceptions of your brand. A global brand rollout strategy will mean that your message, visual identity, and core values stay consistent, no matter where you’re doing business.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Branding costs vary depending on your business, project scope, and the level of strategy and design required. A smaller project will typically cost less than a complete rebrand covering strategy, identity, messaging, and implementation.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "TNO DIANA BV is developer and distributor of the DIANA and FEMGV software programs. DIANA is a general-purpose nonlinear finite element program with many specific functions for civil engineering and geotechnical applications. FEMGV is a general-purpose pre-post-processing program with interfaces to several external solvers.",
+    "url": "https://www.3ds.com/partners/partner-details/200000000031143_MATERIALISE",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Find a distributor",
+    "url": "https://www.materialise.com/en/healthcare/hcps/pressure-measurements-orthotics",
+    "pass": 1
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://materialise.helpjuice.com/IDB/determine-license-type",
+    "pass": 3
+   },
+   {
+    "quote": "TNO DIANA BV is developer and distributor of the DIANA and FEMGV software programs. DIANA is a general-purpose nonlinear finite element program with many specific functions for civil engineering and geotechnical applications. FEMGV is a general-purpose pre-post-processing program with interfaces to several external solvers.",
+    "url": "https://www.3ds.com/partners/partner-details/200000000031143_MATERIALISE",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Materialise Q3 2026 net profit falls to €1.38M | MTLS SEC Filing - Form 6-K",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profit & Loss Calculator",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Q3 2026 net profit falls to €1.38M",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nine-month net profit reached €6.535 million, while third-quarter net profit was €1.383 million.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nine-month net profit increased to",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Third-quarter net profit declined to",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "By segment, third-quarter adjusted EBITDA was below the prior-year quarter for Medical and Software; Manufacturing’s loss narrowed.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise defines adjusted EBITDA as a supplemental non-IFRS measure and cautions that it is not an alternative to IFRS net profit.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Third-quarter net profit:",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA:",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Third-quarter net profit",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nine-month net profit",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA, net cash position, treasury shares, share-based compensation expense",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Adjusted EBITDA for the third quarter of 2026\"",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA is a way companies measure how much money they make from their core operations, like running a business, by removing certain costs or income that aren’t part of regular business activities. It helps investors see how well a company is doing without distractions from unusual expenses or gains, making it easier to compare companies or track performance over time.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "What was MTLS's net profit in the third quarter of 2026?",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise reported third-quarter 2026 net profit of",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": ", compared with €1.848 million for the third quarter of 2025. For the nine months ended September 30, 2026, net profit was €6.535 million, versus €1.510 million a year earlier.",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit increased 3.7% to 39,035 kEUR for",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "the third quarter of 2026 compared to 37,651 kEUR for the same period last year. Gross profit as a percentage of revenue was 57.7% compared",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Net other operating income was 1,137 kEUR compared",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Net operating income in the third quarter of 2026",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating profit was 1,343 kEUR for the third",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "As a result of the above, net profit for the third",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "As a marketing professional, you’re probably used to hearing, “What’s the ROI on this?”, and while the exact numbers might take some time to materialise, a solid rebrand can open the doors to greater recognition, loyalty, and yes, profits.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "The company improved its manufacturing processes, cut unnecessary costs, and refined its supply chain to boost profitability.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing is being integrated into production lines for mass customization, series, and end-use production across industries including MedTech, aerospace, and consumer goods. Traditional manufacturers strive to maximize profitability by optimizing every stage of the production process, and they want to do the same for 3D printing within their manufacturing workflow.",
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "Mergers & Acquisitions",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "respectively (i) share-based compensation expenses, (ii) acquisition expenses related to business combinations or divestiture-related",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "service bureau. It was the first company of its kind in the Benelux region of Europe, through the acquisition of a single",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise acquired US company Columbia Scientific Inc, (CSI) in 2001, the creators of Sim/Plant and ImageMaster, which became the US headquarters for Materialise's dental division in that region.",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "In 2003 Materialise launched one of the first 3D printed consumer brands — .MGX by Materialise — for 3D printing end-use products as well as prototypes. In parallel, the company also acquired Fused Deposition Modelling (FDM) systems for industrial applications.",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "In 2006 Materialise developed the first Titanium 3D printed skull implants, following the acquisition of OBL, which specialized in the creation of custom cranio-maxillfacial (CMF) implants, producing customized implants with intricate porous structures, that behave like natural bone and mimic its mechanical and thermal properties.",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "to enable expansion of its services and software development. The same year the company acquired OrthoView,",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "In 2016, the company opened a new and dedicated metal production facility in Bremen, Germany. Materialise HQ, Leuven, also acquired and started testing the",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "Metal market, Materialise acquired ACTech in Germany to extend the company's metal capabilities, with a specific emphasis on low-volume production of highly complex metal parts. The acquisition also enabled Materialise to develop and improve its software suite for metal 3D printing.",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "A well-executed rebrand pays off over time through increased brand equity, stronger customer loyalty, and sustainable growth. Not only this, but a refreshed and well-positioned brand also helps to attract top-tier employees who align with your company’s values, helping with talent acquisition and retention.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Even though Radio Shack reversed its decision to rename, it hasn’t stopped the company from haemorrhaging customers and losing money. Things came to a head in February when it finally filed for Chapter 11 protection under US bankruptcy laws, having suffered 11 consecutive quarters of losses.",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions",
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions, Mergers & Partnerships",
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Materialise Revenue 2014-2026 | MTLS - Macrotrends — Materialise Revenue 2014-2026 | MTLS - Macrotrends Macrotrends https://www.macrotrends.net > revenue",
+    "url": "https://www.macrotrends.net/stocks/charts/MTLS/materialise/revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Reports Fourth Quarter and Full Year 2025 Results — Materialise Reports Fourth Quarter and Full Year 2025 Results Materialise https://investors.materialise.com > mat...",
+    "url": "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-fourth-quarter-and-full-year-2025-results",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Q3 2026 net profit falls to €1.38M | MTLS SEC Filing — Materialise Q3 2026 net profit falls to €1.38M | MTLS SEC Filing Stock Titan https://www.stocktitan.net > ... > MTLS",
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Reports Second Quarter and Half-Year 2026 Results — Materialise Reports Second Quarter and Half-Year 2026 Results Business Wire https://www.businesswire.com > home",
+    "url": "https://www.businesswire.com/news/home/20260826250614/en/Materialise-Reports-Second-Quarter-and-Half-Year-2026-Results",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise : Q3 Earnings Snapshot - Yahoo Finance — Materialise : Q3 Earnings Snapshot - Yahoo Finance Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/materialise-q3-earnings-snapshot-183744198.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise NV - AnnualReports.com — Materialise NV - AnnualReports.com Annual Reports https://www.annualreports.com > mat...",
+    "url": "https://www.annualreports.com/Company/materialise-nv",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Reports Third Quarter 2026 Results — Materialise Reports Third Quarter 2026 Results 01net https://www.01net.it > materialise-rep...",
+    "url": "https://www.01net.it/materialise-reports-third-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise NV (MTLS) Income Statement - Yahoo Finance — Materialise NV (MTLS) Income Statement - Yahoo Finance Yahoo Finance https://finance.yahoo.com > financials",
+    "url": "https://finance.yahoo.com/quote/MTLS/financials/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise - 2026 Company Profile & Team - Tracxn — Materialise - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/materialise/__eLjYftAJUe8touLZjXRZKKQFOcAc_lPyROBhDEVMDbw",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations | Materialise NV — Investor Relations | Materialise NV Materialise https://investors.materialise.com",
+    "url": "https://investors.materialise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise — venture-backed company profile | Dealroom — Materialise — venture-backed company profile | Dealroom Dealroom https://dealroom.co > materialise",
+    "url": "https://dealroom.co/companies/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Acquires Identify3D | Press Release — Materialise Acquires Identify3D | Press Release Materialise https://www.materialise.com > news",
+    "url": "https://www.materialise.com/en/news/press-releases/acquisition-identify3d",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise NV - Wikipedia — Materialise NV - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Mate...",
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise acquires Identify3D to enhance security of CO-AM ... — Materialise acquires Identify3D to enhance security of CO-AM ... Metal Additive Manufacturing magazine https://www.metal-am.com > materiali...",
+    "url": "https://www.metal-am.com/materialise-acquires-identify3d-to-enhance-security-of-co-am-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise - Overview, News & Similar companies - ZoomInfo — Materialise - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > material...",
+    "url": "https://www.zoominfo.com/c/materialise/73516209",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Completes Acquisition of Link3D — Materialise Completes Acquisition of Link3D Materialise https://www.materialise.com > news",
+    "url": "https://www.materialise.com/en/news/press-releases/link3d-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Whitepapers - Materialise — 3D Printing Whitepapers - Materialise Materialise https://www.materialise.com > whitep...",
+    "url": "https://www.materialise.com/en/inspiration/whitepapers",
+    "pass": 3
+   },
+   {
+    "quote": "Tutorial: How to Label 3D Printed Anatomical Models — Tutorial: How to Label 3D Printed Anatomical Models Materialise https://www.materialise.com > healthcare > video-tutorials",
+    "url": "https://www.materialise.com/en/academy/healthcare/mimics-innovation-suite/video-tutorials/label-3d-printed-anatomical-models",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise | 3D Printing Innovators — Materialise | 3D Printing Innovators Materialise https://www.materialise.com > ...",
+    "url": "https://www.materialise.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise - 3DPrint.com | Additive Manufacturing Business — Materialise - 3DPrint.com | Additive Manufacturing Business 3DPrint.com https://3dprint.com > materialise",
+    "url": "https://3dprint.com/industry-directory/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom Plugins | Materialise Mimics — Custom Plugins | Materialise Mimics Materialise https://www.materialise.com > mimics",
+    "url": "https://www.materialise.com/en/healthcare/mimics/custom-plugins",
+    "pass": 3
+   },
+   {
+    "quote": "Find a 3D Printer OEM Partner | Materialise Partnerships — Find a 3D Printer OEM Partner | Materialise Partnerships Materialise https://www.materialise.com > oem",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Determine the License system of your Materialise Software — Determine the License system of your Materialise Software Helpjuice https://materialise.helpjuice.com > IDB",
+    "url": "https://materialise.helpjuice.com/IDB/determine-license-type",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise | Dassault Systèmes — Materialise | Dassault Systèmes Dassault Systèmes https://www.3ds.com > Partners",
+    "url": "https://www.3ds.com/partners/partner-details/200000000031143_MATERIALISE",
+    "pass": 3
+   },
+   {
+    "quote": "Xact Metal Extends Partnership with Materialise — Xact Metal Extends Partnership with Materialise Xact Metal https://xactmetal.com > news_and_blog",
+    "url": "https://xactmetal.com/news_and_blog/xact-metal-extends-partnership-with-materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise and nTop partner to advance additive manufacturing — Materialise and nTop partner to advance additive manufacturing nTop https://www.ntop.com > blog > materi...",
+    "url": "https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Reseller | Materialise Partnerships — Become a Reseller | Materialise Partnerships Materialise https://www.materialise.com > reseller",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Partnerships | 3D Printing Software Solutions — Materialise Partnerships | 3D Printing Software Solutions Materialise https://www.materialise.com > software",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise partners with BLT, extends deals with nTop, HP — Materialise partners with BLT, extends deals with nTop, HP VoxelMatters https://www.voxelmatters.com > mate...",
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Dynamic Marketing Partners with Materialise — Medical Dynamic Marketing Partners with Materialise 3D Printing Forum https://3dprintboard.com > showthread",
+    "url": "https://3dprintboard.com/showthread.php?14772-Medical-Dynamic-Marketing-Partners-with-Materialise",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Reports Fourth Quarter and Full Year 2025 Results — Materialise Reports Fourth Quarter and Full Year 2025 Results Materialise https://www.materialise.com > financial",
+    "url": "https://www.materialise.com/en/news/financial/fourth-quarter-and-full-year-2025-results",
+    "pass": 3
+   },
+   {
+    "quote": "Japan | Locations | Materialise Around the World — Japan | Locations | Materialise Around the World Materialise https://www.materialise.com > japan",
+    "url": "https://www.materialise.com/en/about/locations/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise | 3Dプリント・イノベーター — Materialise | 3Dプリント・イノベーター Materialise https://www.materialise.com > ...",
+    "url": "https://www.materialise.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise | Yokohama Kanagawa - Facebook — Materialise | Yokohama Kanagawa - Facebook Facebook https://www.facebook.com > MaterialiseJapan",
+    "url": "https://www.facebook.com/MaterialiseJapan/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise 2026 Company Profile - PitchBook — Materialise 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/63951-13",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "Rebranding Cost vs. Value: Justifying Your Budget | Canny Creative",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Cost vs. Value: Justifying Your Budget",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Justifying a big rebranding cost can seem like an uphill battle.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "While it might come with a hefty price tag, a smart rebrand is like planting a seed for long-term growth.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "The Rebranding Brief Template",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "The Rebranding Brief Template is a free template that will help you get the brief for your rebranding project right.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "reasons for rebranding",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "As a marketing professional, you’re probably used to hearing, “What’s the ROI on this?”, and while the exact numbers might take some time to materialise, a solid rebrand can open the doors to greater recognition, loyalty, and yes, profits.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we’ll show you how to build a case that goes beyond justifying the rebranding budget. We’ll help you demonstrate that rebranding is more than an expense. It’s a smart business investment.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding the Cost of Rebranding",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "We know rebranding is a big investment. But before you panic over the price tag, understanding where that money goes is the first step in making smart decisions about the",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "rebranding process",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Breakdown of Rebranding Expenses",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "So, how much does it cost to rebrand a company? For small to medium-sized businesses, a full rebrand can range between £50,000 and £150,000. That’s because a lot more goes into it than just design work.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s an idea of where your rebranding budget typically gets allocated:",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Think of this as your brand’s ‘health check’.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "is all about assessing how your brand is currently perceived and where it stands in the market. An audit dives into customer feedback, employee insights, and competitor analysis to figure out where your brand shines and where it needs improvements.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "This is the real magic. Strategy development is what turns your rebrand into a smart, business-driven move rather than just a cosmetic makeover.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Here, your brand’s positioning is refined, and you’ll clarify your messaging, and overall identity to make sure your rebrand is aligned with your business goals. It’s about defining your brand voice, your value proposition, and how you want to be perceived in the market.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "The goal? To create a roadmap that informs your rebrand to drive long-term growth and customer loyalty.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "This is where your brand’s new look and feel are created, from the",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s about making sure your brand looks as good as it sounds and feels. Everything has to be consistent, professional, and reflect the values your brand stands for.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s where your rebrand becomes real.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": ". This includes updating your website, signage, business cards, social media profiles, packaging, and anything else that carries your brand.",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "Which Factors Affect the Cost of Your Rebrand?",
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "pass": 3
+   },
+   {
+    "quote": "What happens when brands rebrand? | World Finance",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "What happens when brands rebrand?",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Why rebrand?",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "A successful rebrand does not necessarily involve just a change in logo or name, but often requires a complete overhaul of the company’s goals, message and culture, as well as their product offerings.",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "Looking back on the debacle, Marketing Vice-President Sergio Zyman, who alongside then-President of the company’s US business Brian Dyson, had led the rebranding, said, “Yes, it infuriated the public, cost a ton of money and lasted only 77 days before we reintroduced Coca-Cola Classic. Still, New Coke was a success because it revitalised the brand and reattached the public to Coke.”",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   },
+   {
+    "quote": "The company hired to do the rebranding – The Arnell Group – were rewarded handsomely for their design, receiving $1m. However, the cost to the company is thought to have been far higher, and some speculate that the entire rebranding effort cost $1.2bn over the three years it took to implement.",
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.materialise.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/legal-terms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ko/about/locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/about/locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/belgium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/czech-republic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/france",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/germany",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/hungary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/italy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/applications/rapid-prototyping",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/orthopaedics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/cmf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/cardiovascular",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/thoracic-abdominal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/pressure-measurements-orthotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/3d-planning-hospitals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/fr/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ko/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/contact/media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/news/press-releases",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://assets-eu-01.kc-usercontent.com:443/8ff24b0e-57a3-0157-62d1-fa4ac9734eb5/2255a17b-1a5c-4942-b00f-44b11020feaa/hd-about-materialise.jpg?w=3840&q=90&lossless=true&auto=format",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.macrotrends.net/stocks/charts/MTLS/materialise/revenue",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-fourth-quarter-and-full-year-2025-results",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20260826250614/en/Materialise-Reports-Second-Quarter-and-Half-Year-2026-Results",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-fourth-quarter-and-full-year-2025-results",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.annualreports.com/Company/materialise-nv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926047676/tm261057d2_ex99-1.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.01net.it/materialise-reports-third-quarter-2026-results/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/materialise/__eLjYftAJUe8touLZjXRZKKQFOcAc_lPyROBhDEVMDbw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://investors.materialise.com/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://materialize.com/blog/materialize-raises-a-series-c/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/materialise/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/materialise-acquires-identify3d-to-enhance-security-of-co-am-platform/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/materialise/73516209",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DYKit7-28ygI&q=EgRK-YWiGPfrptcGIjAU-fTnrGIQqfn4o-zJ7BBjzRxiHNSVfhgPbT2g9cdTiwjOTcxEvr8CGqr5W1EDUtkyAnJSWgFDYM3agvSHx97wIw",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/rebranding-best-strategies-3-challenges-key-drivers-f6wtf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://materialise.helpjuice.com/IDB/determine-license-type",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/partners/partner-details/200000000031143_MATERIALISE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xactmetal.com/news_and_blog/xact-metal-extends-partnership-with-materialise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.materialise.com/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.annualreports.com/Company/materialise-nv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926047676/tm261057d2_ex99-1.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://evort.jp/presenters/materialise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/MaterialiseJapan/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dealroom.co/companies/materialise/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/materialize-38fc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-fourth-quarter-and-full-year-2025-results",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Materialise revenue profitable",
+   "results": [
+    "https://www.macrotrends.net/stocks/charts/MTLS/materialise/revenue",
+    "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-fourth-quarter-and-full-year-2025-results",
+    "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html",
+    "https://www.businesswire.com/news/home/20260826250614/en/Materialise-Reports-Second-Quarter-and-Half-Year-2026-Results",
+    "https://finance.yahoo.com/markets/stocks/articles/materialise-q3-earnings-snapshot-183744198.html",
+    "https://simplywall.st/stocks/us/software/nasdaq-mtls/materialise/health",
+    "https://www.kvue.com/article/syndication/associatedpress/materialise-q3-earnings-snapshot/616-cc99689f-02a3-4517-ad3d-2f56ec47f5dd",
+    "https://seekingalpha.com/news/4659586-materialise-reconfirms-2026-revenue-at-273m-283m-while-maintaining-adjusted-ebit-at-12m-14m",
+    "https://x.com/Finsee_main/status/2115548916724670693",
+    "https://www.materialise.com/en/news/financial/fourth-quarter-and-full-year-2024-results"
+   ]
+  },
+  {
+   "query": "Materialise EBITDA net income annual report",
+   "results": [
+    "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-fourth-quarter-and-full-year-2025-results",
+    "https://www.annualreports.com/Company/materialise-nv",
+    "https://www.sec.gov/Archives/edgar/data/1091223/000110465926047676/tm261057d2_ex99-1.pdf",
+    "https://www.01net.it/materialise-reports-third-quarter-2026-results/",
+    "https://finance.yahoo.com/quote/MTLS/financials/",
+    "https://www.stocktitan.net/sec-filings/MTLS/",
+    "https://www.daily-tribune.com/online_features/press_releases/materialise-reports-third-quarter-2026-results/article_27f346b8-5221-5e18-a35c-13ab0c7436bc.html",
+    "https://markets.ft.com/data/announce/detail?dockey=600-202610280200BIZWIRE_USPRX____20261027_BW730625-1",
+    "https://www.moomoo.com/news/post/1002598895/press-release-materialise-reports-third-quarter-2026-results",
+    "https://investors.materialise.com/financials/reports"
+   ]
+  },
+  {
+   "query": "Materialise funding raised",
+   "results": [
+    "https://tracxn.com/d/companies/materialise/__eLjYftAJUe8touLZjXRZKKQFOcAc_lPyROBhDEVMDbw",
+    "https://investors.materialise.com/",
+    "https://materialize.com/blog/materialize-raises-a-series-c/",
+    "https://dealroom.co/companies/materialise/",
+    "https://multiples.vc/private-comps/materialize",
+    "https://3dprint.com/335718/3d-printing-financials-medical-becomes-the-driving-force-behind-materialise/amp/",
+    "https://www.crunchbase.com/organization/materialize-38fc",
+    "https://www.voxelmatters.com/materialise-posts-q1-2026-profit-as-medical-segment-and-margin-gains-offset-revenue-headwinds/",
+    "https://www.facebook.com/printthatshizz/posts/materialise-euronext-brussels-nasdaq-mtls-is-seeing-continued-growth-in-its-medi/122134866230811096/",
+    "https://tracxn.com/d/companies/materialise/__eLjYftAJUe8touLZjXRZKKQFOcAc_lPyROBhDEVMDbw/funding-and-investors"
+   ]
+  },
+  {
+   "query": "Materialise acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.materialise.com/en/news/press-releases/acquisition-identify3d",
+    "https://en.wikipedia.org/wiki/Materialise_NV",
+    "https://www.metal-am.com/materialise-acquires-identify3d-to-enhance-security-of-co-am-platform/",
+    "https://www.zoominfo.com/c/materialise/73516209",
+    "https://www.materialise.com/en/news/press-releases/link3d-acquisition",
+    "https://www.trueup.io/co/materialise",
+    "https://case-law.vlex.com/vid/materialize-inc-v-materialise-903021498",
+    "https://www.additivemanufacturing.media/news/materialise-acquires-identify3d-software-encryption-company",
+    "https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-22e48effb1bb.html",
+    "https://www.voxelmatters.com/3deo-intellectual-property-assets-go-up-for-sale-in-insolvency-auction/"
+   ]
+  },
+  {
+   "query": "Materialise white label",
+   "results": [
+    "https://www.materialise.com/en/inspiration/whitepapers",
+    "https://www.materialise.com/en/academy/healthcare/mimics-innovation-suite/video-tutorials/label-3d-printed-anatomical-models",
+    "https://www.youtube.com/watch?v=YKit7-28ygI",
+    "https://www.materialise.com/en",
+    "https://3dprint.com/industry-directory/materialise/",
+    "https://pitchbook.com/profiles/company/63951-13",
+    "https://www.voxelmatters.com/i-materialise-merges-into-materialise-onsite-3d-printing-service/",
+    "https://en.wikipedia.org/wiki/Materialise_NV",
+    "https://www.sourcefrombelgium.be/c7fac910-4e4c-48da-a1de-81f544168d1b/Belgian-Economic-Mission-to-Australia/1328d113-cdff-ed11-8f6e-000d3ad986b3/MATERIALISE",
+    "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing"
+   ]
+  },
+  {
+   "query": "Materialise rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://www.materialise.com/en/healthcare/mimics/custom-plugins",
+    "https://www.canny-creative.com/blog/rebranding-cost-vs-value/",
+    "https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand",
+    "https://www.linkedin.com/pulse/rebranding-best-strategies-3-challenges-key-drivers-f6wtf",
+    "https://someform.studio/DeepMind-Branding",
+    "https://www.facebook.com/exchange4media/posts/wpp-to-rebrand-groupm-as-wpp-mediaa-news-report-said-that-the-advertising-conglo/717331377513066/",
+    "https://www.monitor.co.ug/uganda/business/auto/when-a-rebrand-becomes-necessary-1484906",
+    "https://littlegreta.co.uk/gz/",
+    "https://www.creativebloq.com/design/branding/does-apples-rumoured-iphone-rebrand-reveal-a-company-in-crisis",
+    "https://en.wikipedia.org/wiki/Private_label"
+   ]
+  },
+  {
+   "query": "Materialise OEM SDK licensing partners",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/partnerships/oem",
+    "https://materialise.helpjuice.com/IDB/determine-license-type",
+    "https://www.3ds.com/partners/partner-details/200000000031143_MATERIALISE",
+    "https://xactmetal.com/news_and_blog/xact-metal-extends-partnership-with-materialise/",
+    "https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/",
+    "https://www.youtube.com/watch?v=l9uyKuvhJG0&vl=ja",
+    "https://help.materialise.com/licensing/quick-start-guide-for-software-licensing",
+    "https://www.phillipscorp.com/federal/materialise/",
+    "https://www.voxelmatters.com/synera-connects-ai-platform-with-materialise-magics-sdk/",
+    "https://www.materialise.com/en/industrial/software/partnerships"
+   ]
+  },
+  {
+   "query": "Materialise reseller partner program",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://www.materialise.com/en/industrial/software/partnerships",
+    "https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/",
+    "https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/",
+    "https://3dprintboard.com/showthread.php?14772-Medical-Dynamic-Marketing-Partners-with-Materialise",
+    "https://www.mida.gov.my/materialise-creating-business-impact-with-additive-technology/",
+    "https://www.youtube.com/watch?v=LgFA81FTfLs",
+    "https://3dprint.com/173591/materialise-3d-systems-partners/",
+    "https://partner.materialise.com/",
+    "https://materialise.eu.ziftone.com/"
+   ]
+  },
+  {
+   "query": "Materialise Jahresabschluss OR financial statements",
+   "results": [
+    "https://investors.materialise.com/",
+    "https://www.annualreports.com/Company/materialise-nv",
+    "https://www.sec.gov/Archives/edgar/data/1091223/000110465926047676/tm261057d2_ex99-1.pdf",
+    "https://www.materialise.com/en/news/financial/fourth-quarter-and-full-year-2025-results",
+    "https://finance.yahoo.com/quote/MTLS/financials/",
+    "https://www.stocktitan.net/sec-filings/MTLS/"
+   ]
+  },
+  {
+   "query": "Materialise Japan",
+   "results": [
+    "https://www.materialise.com/en/about/locations/japan",
+    "https://evort.jp/presenters/materialise",
+    "https://www.materialise.com/ja",
+    "https://www.facebook.com/MaterialiseJapan/?locale=ja_JP",
+    "https://prtimes.jp/main/html/searchrlp/company_id/76712",
+    "https://www.linkedin.com/company/materialise",
+    "https://materialise.helpjuice.com/ja_JP",
+    "https://www.materialise.com/ja/about/locations/japan",
+    "https://en.wikipedia.org/wiki/Materialise_NV",
+    "https://www.dnb.com/business-directory/company-profiles.materialise_japan_co_ltd.948f5f85a15d9d723c018c45c3eea6a6.html"
+   ]
+  },
+  {
+   "query": "Materialise employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://dealroom.co/companies/materialise/",
+    "https://www.crunchbase.com/",
+    "https://www.crunchbase.com/organization/materialize-38fc",
+    "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-fourth-quarter-and-full-year-2025-results",
+    "https://pitchbook.com/profiles/company/63951-13",
+    "https://www.zoominfo.com/c/crunchbase/347668538",
+    "https://www.crunchbase.com/organization/dealroom-co",
+    "https://www.voxelmatters.com/materialise-reports-2025-q4-revenue-growth-of-6-8/",
+    "https://growjo.com/company/Materialize",
+    "https://dealroom.co/our-data/"
+   ]
+  }
+ ],
+ "missing": {}
+}

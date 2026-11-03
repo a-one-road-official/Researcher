@@ -1,0 +1,1478 @@
+{
+ "name": "船舶修繕",
+ "en": "ship repair",
+ "aliases": [
+  "船舶修理",
+  "ドック"
+ ],
+ "context": "8 造船 ②船舶修繕",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:25:54.965931+00:00",
+ "evidence": {
+  "法律・制度": [
+   {
+    "quote": "常石ソリューションズ、自律運航2システムで技術認証取得、社会実装へ前進",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202428/",
+    "pass": 3
+   },
+   {
+    "quote": "造船所インフラへの投資増加、海軍艦隊の近代化、エネルギー効率と環境規制遵守のための船舶改修なども、船舶修理サービス市場の成長に貢献しています",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "船主や修理業者は、固定されたメンテナンススケジュールと事後対応型の修理から、機器診断と状態基準保全を組み合わせたコネクテッドシステムへと移行しつつある",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶のエネルギー効率向上と環境規制の厳格化への対応ニーズの高まりを受け、船舶修理サービス市場における改修・改造サービスの展開が加速している",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶運航会社は、船隊の稼働率を最優先し、計画外のダウンタイムを最小限に抑えるため、運航継続性を維持するために、定期保守と状態基準修理プログラムへの投資を進めています",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "環境規制への対応やエネルギー効率向上のため、既存船舶の改修ニーズが高まるにつれ、船舶修理・改造業者にとって専門的なビジネスチャンスが生まれています",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制遵守の管理と短距離船舶のターンアラウンドタイムの​​維持が市場成長の課題",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理サービス提供業者は、世界各地の事業地域において、多様な海事規制、船級基準、旗国要件、寄港国による規制への対応という課題に直面している",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "改修・改造サービス分野は、環境規制要件の強化、代替船舶燃料の普及拡大、船舶のエネルギー効率向上に対する需要の高まりを背景に、予測期間中に年平均成長率（CAGR）6.40%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは、世界の商船隊の規模が大きいこと、船舶の利用頻度が高いこと、そしてドック入り、機械メンテナンス、規制検査といった定期的なメンテナンスの必要性によるものです",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "商用船および特殊船舶は、運航の中断を最小限に抑え、船舶の耐用年数を延ばし、海上安全基準への準拠を維持するために、定期的なメンテナンスが必要です",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "改修・近代化分野は、環境規制の強化、エネルギー効率技術の普及拡大、代替燃料への対応に対する需要の高まりを背景に、年平均成長率（CAGR）6.40%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理サービス市場のエコシステムは、老朽化する世界の船舶群、規制要件の増加、および限られたドック収容能力によって形成されている",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "ACTインフラポート社とサラミス造船所は、グジャラート州カッチ湾に新規造船・船舶修理造船所を建設するための技術協力協定を締結した",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益予測、競争環境、成長要因、環境および規制環境とトレンド",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルおよび地域市場における市場エコシステム、技術動向、需給動向、規制・政策環境、価格構造、バリューチェーン、競合上の立ち位置、新興の業界トレンドの評価において、深い知見を有しています",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、環境規制の遵守を維持するための定期的なメンテナンスとアップグレードの必要性が需要を補完しており、造船所と港湾の能力増強も日本の船舶修理市場シェアの上昇に寄与すると見込まれています",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、エコフレンドリーなコーティングやグリーンクリーニング方法といった環境に配慮したソリューションの導入は、国際的な環境基準や政策に準拠しています",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "このような先進的なイノベーションと持続可能性への重点は、船舶所有者が現代の基準を満たす高品質な修理サービスを求める中で、市場の成長を促進しています",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "最後に改修作業があり、これは船舶を最新の技術や規制に適応させるためのプロセスです",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、エンジンの性能を向上させたり、新しい安全基準に対応するための改修が行われます",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.marketresearch.co.jp/contacts/",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "常石ソリューションズ、自律運航2システムで技術認証取得、社会実装へ前進",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/10/204797/",
+    "pass": 3
+   },
+   {
+    "quote": "各国の制度・手続き",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "輸出入に関する基本的な制度",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外進出に関する基本的な制度",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "基準・認証、ルール形成戦略",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "常石ソリューションズ、自律運航2システムで技術認証取得、社会実装へ前進",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200033/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕拠点が有する機能や役割を適切に評価し、地域指定の有無によって必要な",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/200100/cms/d00213746_d/fil/R8-6ketugi60.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資等の機会が損なわれることのないよう、支援制度及び予算措置を充実",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/200100/cms/d00213746_d/fil/R8-6ketugi60.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、 その地域的 ・ 産業的役割を適切に評価し、 地域指定の有無にかかわらず、",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/200100/cms/d00213746_d/fil/R8-6ketugi60.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この要因として、河西会長は日本語能力レベルの基準が高い点を指摘する",
+    "url": "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
+    "pass": 3
+   },
+   {
+    "quote": "技能実習2号（3年）までの終了者は、特定技能1号に移行する場合、日本語能力試験が免除になっている現行の運用を新制度でも適用してほしいとの考えを示す",
+    "url": "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
+    "pass": 3
+   },
+   {
+    "quote": "・ゼロエミッション による代替建造 要：GHG 規制適合モデルにより試算",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能制度・育成就労制度による外国人材受入れ（育成就労制度は2027年4月運用開始）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国際燃料規制・インセンティブ制度による国際市場構築",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定重要物資に指定の上、抜本的な建造能力強化を図る",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法「船体」指定",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融制度（融資） 海事産業強化法見直し",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "育成就労制度運用開始",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能制度・育成就労制度による外国人材の受入れ",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国際海事機関における自動運航船規制",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国際海事機関におけるカーボンニュートラル規制",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常石ソリューションズ、自律運航2システムで技術認証取得、社会実装へ前進",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、外資規制や契約慣行などの法務リスクの観点からの整理・分析▽収益性・採算性の評価▽特定分野・工程・機能に関する技術的成立性の確認―などを想定する",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、特定船舶導入計画に基づき行う事業について、指定金融機関よりツーステップローン（TSL）を可能とする",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "国際海運において脱炭素化や自動運航に係る統一的な方針・規制に基づき、開発技術を円滑に実装することが必要",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能制度・育成就労制度による外国人材受入れ（育成就労制度は2027年4月運用開始）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国際燃料規制・インセンティブ制度による国際市場構築",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法「船体」指定",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融制度（融資） 海事産業強化法見直し",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "育成就労制度運用開始",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能制度・育成就労制度による外国人材の受入れ",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国際海事機関における自動運航船規制",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国際海事機関におけるカーボンニュートラル規制",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ですが、一次資料を追うと、今回の制度はもう少し構造的です",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、見出しの1,200億円だけを見て制度全体を判断すると、かなり読み違えます",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "この制度は「造船所への一発補助」ではなく、船体・部品・人材を含む供給能力再建の入口です",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "誰にどんな支援がつながる制度なのか",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "官民造船投資策、船舶修繕に1000億円AI活用と新拠点確保、需要増と安全保障に対応 | 造船・舶用 | ニュース | 海事プレスONLINE",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202428/",
+    "pass": 3
+   },
+   {
+    "quote": "官民造船投資策、船舶修繕に1000億円",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202428/",
+    "pass": 3
+   },
+   {
+    "quote": "日本成長戦略会議の戦略17分野での造船業の官民投資策として、船舶修繕分野で2035年までに計1000億円規模が盛り込まれた",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202428/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、鉄鋼補助金が他国の15倍、OECD造船委員会で中国産鋼材が課題視",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202428/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月、インド政府は造船所、船舶修理施設、および関連する海事インフラを支援するための海事投資基金の初期資金を承認した",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "米海軍の2025会計年度予算では、船舶の維持管理と近代化活動に130億米ドル以上が割り当てられており、船舶修理サービスへの継続的な需要を支えている",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国、鉄鋼補助金が他国の15倍、OECD造船委員会で中国産鋼材が課題視",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/10/204797/",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修繕とは｜官民投資ロードマップの目標・投資額0.1兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2035年度までで0.1兆円、経済波及効果は2035年度までで0.3兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 船舶修繕の投資額0.1兆円・経済波及効果0.3兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "原文は内閣官房「戦略17分野における「主要な製品・技術等」の官民投資ロードマップ」（2026年7月21日）から引用しています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2035年度までで0.1兆円、投資による経済波及効果は2035年度までで0.3兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "（投資額1.0兆円）と比べると規模は小さいですが、修繕は「今動いている船を止めない」ための投資であり、海上輸送の安定に直結する点が重要です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修繕の官民投資額は2035年度までで0.1兆円、経済波及効果は2035年度までで0.3兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国、鉄鋼補助金が他国の15倍、OECD造船委員会で中国産鋼材が課題視",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200033/",
+    "pass": 3
+   },
+   {
+    "quote": "２ 官民投資ロードマップに位置付けられた船舶修繕機能の強化を着実に推進",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/200100/cms/d00213746_d/fil/R8-6ketugi60.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ボット等の活用による自動化・省人化に対し、令和 ９年度予算をはじめ十分",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/200100/cms/d00213746_d/fil/R8-6ketugi60.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2015年から計上",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 令和7年度補正予算で1,200億円を措置",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「官民投資１兆円」のフレーム",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 「造船業再生ロードマップ」に基づき、2035年までに官民で１兆円規模の投資実現を目指す",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民:2,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民約2,510億円）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1兆円基金でニッポン造船再興、造工会「最後のチャンスだ」",
+    "url": "https://newswitch.jp/p/50490",
+    "pass": 3
+   },
+   {
+    "quote": "造船再生、支援対象拡大を視野27年度予算、修繕強化やLNG船再開など事項要求 | 造船・舶用 | ニュース | 海事プレスONLINE",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "27年度予算、修繕強化やLNG船再開など事項要求",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省は2027年度予算の概算要求で、造船業再生に向けた政策の対象を広げる方向を打ち出した",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに国内の船舶建造能力を1800万総トンに引き上げるため、既に1200億円規模の「造船業再生基金」を措置しているが、27年度概算要求では、建造能力拡大に加え、船舶修繕とLNG船を含む3分野について「事項要求」とした",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、鉄鋼補助金が他国の15倍、OECD造船委員会で中国産鋼材が課題視",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省海事局は2027年度予算概算要求で、日本成長戦略の17の戦略分野の一つ「造船」の官民投資促進策について、今後の予算編成過程の中で固める「事項要求」の形で進める方針を示した",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "要求総額は26年度予算比37%増の144億4700万円（うち「強く豊かな日本」投資枠が23億2800万円）",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "事項要求について海事局は昨夏の26年度予算概算要求でも「造船の強靭（きょうじん）なサプライチェーン（SC）構築」を求める上で、手法として用いた",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "この要求は、最終的には25年度補正で1200億円という多額の予算の前倒し確保につながり、「造船業再生基金」の創設に至った",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "同基金は10年間で総額3500億円規模の支援を目指すもので、25年度補正で得た1200億円は、基金利用の26―28年（フェーズ1）の部分に対応する",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "海事局関係者は「事項要求として3分野（『次世代船舶（造船業再生基金）』『船舶修繕』『LNG運搬船』）について、しっかり財務省と議論していく",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "「我が国の造船業の再生」で事項要求以外では「造船分野の国際連携に向けた調査事業」で1億4000万円を計上した",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "海技教育機構（JMETS）の経費は21%増の75億7700万円を計上",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "「官民投資１兆円」のフレーム",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「造船業再生ロードマップ」に基づき、2035年までに官民で１兆円規模の投資実現を目指す",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民:2,800億円規模）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民約2,510億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "援に2026年度当初予算（2026～2030の",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国が始めた「造船業再生基金」とは何か｜yo4shi80",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2028年の第1フェーズ向けに造成される新基金の初期規模",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "一方、令和8年度海事局関係予算概要では、",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度補正で1,200億円の基金を創設し、2026〜2028年をフェーズ1とする",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "1,200億円は「基金の初期規模」と読むのが正確",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度海事局関係予算概要では、海事産業群の競争力強化・生産性向上の文脈の中で、",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "「船体」を特定重要物資に指定した上で、10年間の基金を創設する",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "確定しているのは、まず第1フェーズの基金造成",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、現時点で「3,500億円の大型基金がすでにフルで走っている」と書くのは正確ではありません",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "中国、鉄鋼補助金が他国の15倍、OECD造船委員会で中国産鋼材が課題視",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2025/05/193108/",
+    "pass": 3
+   },
+   {
+    "quote": "Budget Requests for the Shipbuilding Industrial Base, Fiscal Years 2014–2028",
+    "url": "https://files.gao.gov/reports/GAO-25-106286/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "analysis of budget documentation. | GAO‑25‑106286",
+    "url": "https://files.gao.gov/reports/GAO-25-106286/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "over the next 5 years. It has requested funding in the President’s Budget for",
+    "url": "https://files.gao.gov/reports/GAO-25-106286/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "funding will be proposed as part of the fiscal year 2027 budget process. The",
+    "url": "https://files.gao.gov/reports/GAO-25-106286/index.html",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "限られたドック容量と熟練した海洋労働者の不足が市場拡大を阻害",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理サービス市場は、特に大規模な構造修理や大規模な改修を必要とする船舶にとって、大型乾ドックや専門的な修理インフラの不足によって制約を受けている",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工、船舶技師、電気技師、塗装専門家、その他の技術者を含む熟練した船舶作業員の不足は、市場の成長をさらに阻害している",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした人材不足は、修理施設が従来型のメンテナンスや技術的に複雑な近代化プロジェクトに対する高まる需要に対応する能力を制限している",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "深刻化する人口減少と人材不足に、船舶修繕業はどう向き合うのか",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/10/204797/",
+    "pass": 3
+   },
+   {
+    "quote": "主な課題（ボトルネック）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "・造船・修繕に係る人材の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "艦船や巡視船を含む内航船のほぼ全てが国内で修繕される一方、日本の船主が保有する外航船の修繕は海外の特定国への依存度が高く、現場人材の不足、官公庁船の修繕需要が平準化されていないこと、修繕設備の老朽化が課題とされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）現場人材の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域未来戦略の現状分析では、①地域の修繕事業所とドックの数・設備の老朽化の状況、②修繕に関わる人材の数と年齢構成、③地域の離島航路やフェリーなどの船がどこで修繕されているか、を整理しておくと、国の「人材不足」「設備の老朽化」という問題意識と同じ目線で地域の課題を説明できます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題は現場人材の不足、官公庁船の修繕需要が平準化されていないこと、修繕設備の老朽化で、修繕需要は今後拡大する見込みです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "リソース制約として、ドックの用地や人的キャパシティから全ての修繕需要を国内で吸収する余力がないこと、現場の人材不足、ドック・クレーン等の増強に長期間・多額の資金が必要なことがあります",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "・現場において人材不足が深刻化",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題は「足りないもの（リソース制約）」と「先が読めないこと（不確実性）」に整理されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場の人材不足が深刻で、ゼロエミッション船や次世代船舶の修繕にはより高い技術が必要です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "【人手不足 陸・海・空 荒波の先】 （4）造船の協力会社も危機",
+    "url": "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
+    "pass": 3
+   },
+   {
+    "quote": "協力会社では、人材不足に加え、現存の人員でも造船技術を持った技能工がほとんどいないことも大きな課題の一つとなっている",
+    "url": "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
+    "pass": 3
+   },
+   {
+    "quote": "指導者や講師の高齢化による後継者不足などに直面している",
+    "url": "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
+    "pass": 3
+   },
+   {
+    "quote": "河西会長はこの設備維持に向けた国の支援、協力会社技能者へのさらなる活用の重要性を強調する",
+    "url": "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
+    "pass": 3
+   },
+   {
+    "quote": "3月末時点の受注残6隻を26年1月までに全て引き渡し、その後は、洋上風力発電向けを中心とする海洋構造物と関連船舶建造などに事業をシフトする",
+    "url": "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 船舶は、複雑な設計、生産に対応する多数の技術者及び技能者により建造",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 設計や現場において人材不足が深刻化",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "複数事業者の一体的行動で生産能力を最大化",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外国人技能者の受入れ 等",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足緩和",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各地域内における連携体制の構築 技能者の育成",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜既存の船体生産能力の拡充＞ ＜船体生産能力拡大のための研究開発＞",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 船体生産能力拡大のための研究開発支援",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "船体生産能力拡大のための研究開発（補助対象例）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "既存の船体生産能力を拡充するための設備・施設",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "熟練工の高齢化・退職による生産能力の減少",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本人技能者の育成",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高度技能者の",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外国人技能者の育成",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足・資機材高騰…中国地域、新造船受注22％減の背景｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/p/50490",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足・資機材高騰…中国地域、新造船受注22％減の背景",
+    "url": "https://newswitch.jp/p/50490",
+    "pass": 3
+   },
+   {
+    "quote": "造船所の受注余力はひっ迫しており、人手不足や資機材高騰を背景に、新規受注への慎重さがうかがえる",
+    "url": "https://newswitch.jp/p/50490",
+    "pass": 3
+   },
+   {
+    "quote": "コンテナ船、日本発 船積み枠逼迫",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "pass": 3
+   },
+   {
+    "quote": "船舶は、複雑な設計、生産に対応する多数の技術者及び技能者により建造",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 設計や現場において人材不足が深刻化",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "複数事業者の一体的行動で生産能力を最大化",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外国人技能者の受入れ 等",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技能者 (造船所内での作業を担う者)の人数は減少傾向であり、人材確保が急務",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足緩和",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各地域内における連携体制の構築 技能者の育成",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本人技能者の育成",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高度技能者の",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外国人技能者の育成",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "船体の供給能力を経済安全保障の観点で再建すること",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "この制度は「造船所への一発補助」ではなく、船体・部品・人材を含む供給能力再建の入口です",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "今回の基金は、景気対策よりも「供給能力の確保」に重心がある制度です",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "1,800万総トンは受注残や完成船数ではなく、年間建造量・建造能力の目標として示されている",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "設備不足だけ",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "設計・現場の人材不足",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "船体の生産能力拡大に必要な設備投資と研究開発に補助を実施",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "、それ以外の供給能力向上設備は",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障を支える供給能力",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "【地方の逆襲、AIで世界へ】 人材不足を強みに変えるGemini活用術",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足を強みに変えるGemini活用術",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "pass": 3
+   },
+   {
+    "quote": "コンテナ船、日本発 船積み枠逼迫",
+    "url": "https://www.jmd.co.jp/article.php?no=317301",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "主要企業は、ドック収容能力、地理的な拠点、および船舶のターンアラウンドタイムで競争している",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要メーカーは、Cammell Laird Holdings Limited、Cochin Shipyard Limited、Damen Shipyards Group N.V.、Fincantieri S.p.A.、Grandweld Shipyard LLCである",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポートには、競争環境の包括的な分析も含まれており、市場構造、主要企業のポジショニング、主要な勝利戦略、競争ダッシュボード、企業評価象限などが網羅されています",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、全ての主要企業の詳細なプロファイルも提供されています",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には主要企業AからEの事業概要、提供サービス、事業戦略、SWOT分析、主要なニュースとイベントが記載されている",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の海外展開を支援する全国のあらゆる支援機関が結集し、海外展開にご関心をお持ちの中堅・中小企業の皆様へワンストップの支援サービスを提供します",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "コチン造船所やヒンドゥスタン造船所といった主要企業は、船体修理、エンジンオーバーホール、軍艦保守などの能力を強化している",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶の修理・保守サービスにおける主要メーカーはどこですか？",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要メーカーは、Damen Shipyards Group、Hyundai Mipo Dockyard Co., Ltd.、Sembcorp Marine Ltd.、China Shipbuilding Industry Corporationである",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": "船舶修理の日本市場（2026年～2034年）、市場規模（一般貨物船、ばら積み貨物船、原油タンカー、ケミカルタンカー、コンテナ船）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理の日本市場（2026年～2034年）、市場規模（一般貨物船、ばら積み貨物船、原油タンカー、ケミカルタンカー、コンテナ船）・分析レポートを発表",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「船舶修理の日本市場（2026年～2034年）、英文タイトル：Japan Ship Repairing Market 2026-2034」調査資料を発表しました",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "官民造船投資策、 船舶修繕 に1000 億円 AI活用と新拠点確保 ... — 官民造船投資策、 船舶修繕 に1000 億円 AI活用と新拠点確保 ... 海事プレスONLINE https://www.kaijipress.com > 造船・舶用",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202428/",
+    "pass": 3
+   },
+   {
+    "quote": "船舶 修理サービス 市場規模 、市場シェア、2034年 — 船舶 修理サービス 市場規模 、市場シェア、2034年 Straits Research https://straitsresearch.com > ... > 海軍・海洋・港湾技術",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶 修理および改造 市場 調査レポート 2032 - WiseGuyReports — 船舶 修理および改造 市場 調査レポート 2032 - WiseGuyReports WiseGuyReports https://www.wiseguyreports.com > reports > ship-repairin...",
+    "url": "https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶 修理・保守サービス 市場規模 、シェア、2034年 — 船舶 修理・保守サービス 市場規模 、シェア、2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > 船舶修理・保...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E4%BF%AE%E7%90%86%E3%83%BB%E4%BF%9D%E5%AE%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-105801",
+    "pass": 3
+   },
+   {
+    "quote": "船舶 修理の日本市場（2026年～2034年）、 市場規模 （一般 ... — 船舶 修理の日本市場（2026年～2034年）、 市場規模 （一般 ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/5374038",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修繕 とは｜修繕キャパシティを増やし特定国への依存の ... — 船舶修繕 とは｜修繕キャパシティを増やし特定国への依存の ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (8) 造船",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "pass": 3
+   },
+   {
+    "quote": "《連載》揺れる 船舶修繕 ＜上＞修繕も中国が圧倒、シェア6割 ... — 《連載》揺れる 船舶修繕 ＜上＞修繕も中国が圧倒、シェア6割 ... 海事プレスONLINE https://www.kaijipress.com > 造船・舶用",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200033/",
+    "pass": 3
+   },
+   {
+    "quote": "和議第60号 船舶修繕 能力の強化に向けた柔軟な支援を ... — 和議第60号 船舶修繕 能力の強化に向けた柔軟な支援を ... pref.wakayama.lg.jp PDF https://www.pref.wakayama.lg.jp > prefg > cms > fil",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/200100/cms/d00213746_d/fil/R8-6ketugi60.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート: 船舶修繕 ・ドック - バフェット・コードマガジン — 業界レポート: 船舶修繕 ・ドック - バフェット・コードマガジン バフェット・コード https://www.buffett-code.com > industry-report-2330704",
+    "url": "https://www.buffett-code.com/articles/industry-report-2330704",
+    "pass": 3
+   },
+   {
+    "quote": "業界 レポート : 船舶修繕 ・舶用機器製造 - バフェット・コード — 業界 レポート : 船舶修繕 ・舶用機器製造 - バフェット・コード バフェット・コード https://www.buffett-code.com > industry-report-2241006",
+    "url": "https://www.buffett-code.com/articles/industry-report-2241006",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修繕 大手5社がアライアンス修理業の環境対応を推進 — 船舶修繕 大手5社がアライアンス修理業の環境対応を推進 海事プレスONLINE https://www.kaijipress.com > 造船・舶用",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2025/05/193108/",
+    "pass": 3
+   },
+   {
+    "quote": "船舶 修理・保守サービス市場規模、市場シェア（2034年） — 船舶 修理・保守サービス市場規模、市場シェア（2034年） Straits Research https://straitsresearch.com > ... > 海軍・海洋・港湾技術",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repairing Market Size , Competitors & Forecast to 2030 — Ship Repairing Market Size , Competitors & Forecast to 2030 Research and Markets https://www.researchandmarkets.com > ...",
+    "url": "https://www.researchandmarkets.com/report/ship-repair?srsltid=AYCX9vJAGTwbCkBARCyv89W-oLfKrDWIr-fq-dEJjrjyqsTwZxhwsqT0",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Ship Repairing Market Size & Share, Demand 2034 — Japan Ship Repairing Market Size & Share, Demand 2034 IMARC Group https://www.imarcgroup.com > japan-...",
+    "url": "https://www.imarcgroup.com/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair & Maintenance Market 2035 | Growth Analysis — Ship Repair & Maintenance Market 2035 | Growth Analysis Business Research Insights https://www.businessresearchinsights.com > ...",
+    "url": "https://www.businessresearchinsights.com/market-reports/ship-repair-and-maintenance-market-119744",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国の予算億円": [
+   {
+    "value": "000",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202428/",
+    "quote": "官民造船投資策、船舶修繕に1000億円AI活用と新拠点確保、需要増と安全保障に対応 | 造船・舶用 | ニュース | 海事プレスONLINE"
+   },
+   {
+    "value": "1,200",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "quote": "⚫ 令和7年度補正予算で1,200億円を措置"
+   },
+   {
+    "value": "2,800",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "quote": "（官民:2,800億円規模）"
+   },
+   {
+    "value": "3,500",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】"
+   },
+   {
+    "value": "410",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）"
+   },
+   {
+    "value": "270",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）"
+   },
+   {
+    "value": "2,510",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "quote": "（官民約2,510億円）"
+   },
+   {
+    "value": "200",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "quote": "2035年までに国内の船舶建造能力を1800万総トンに引き上げるため、既に1200億円規模の「造船業再生基金」を措置しているが、27年度概算要求では、建造能力拡大に加え、船舶修繕とLNG船を含む3分野について「事項要求」とした"
+   },
+   {
+    "value": "200",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "quote": "この要求は、最終的には25年度補正で1200億円という多額の予算の前倒し確保につながり、「造船業再生基金」の創設に至った"
+   },
+   {
+    "value": "500",
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "quote": "同基金は10年間で総額3500億円規模の支援を目指すもので、25年度補正で得た1200億円は、基金利用の26―28年（フェーズ1）の部分に対応する"
+   },
+   {
+    "value": "2,800",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "quote": "（官民:2,800億円規模）"
+   },
+   {
+    "value": "3,500",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】"
+   },
+   {
+    "value": "410",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）"
+   },
+   {
+    "value": "270",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）"
+   },
+   {
+    "value": "2,510",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "quote": "（官民約2,510億円）"
+   },
+   {
+    "value": "1,200",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "quote": "令和7年度補正で1,200億円の基金を創設し、2026〜2028年をフェーズ1とする"
+   },
+   {
+    "value": "3,500",
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "quote": "したがって、現時点で「3,500億円の大型基金がすでにフルで走っている」と書くのは正確ではありません"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202428/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E4%BF%AE%E7%90%86%E3%83%BB%E4%BF%9D%E5%AE%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-105801",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/5374038",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/10/204797/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sansei-group.co.jp/pages/26/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yew.co.jp/business/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200033/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.wakayama.lg.jp/prefg/200100/cms/d00213746_d/fil/R8-6ketugi60.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newswitch.jp/p/50490",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=318249",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nippon-foundation.my.site.com/GrantPrograms/s/assistanceprogram/a0nfB000004JLBJ/2026%E5%B9%B4%E5%BA%A6-%E6%B5%B7%E6%B4%8B%E8%88%B9%E8%88%B6%E5%8B%9F%E9%9B%86",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/yo4shi80/n/n3346511da7a4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jttri.or.jp/topics/kenkyu_report/jitti_20250508_fukuhara.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=317301",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO95568340Z00C26A4EP0000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/articles/industry-report-2330704",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/ekimukisei_FAQ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.buffett-code.com/articles/industry-report-2241006",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://zukan.biz/maker/sanwadock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E8%88%B9%E8%88%B6%E4%BF%AE%E9%80%A0%E6%A5%AD/5771664",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kaijipress.com/news/shipbuilding/2025/05/193108/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/ship-repair-and-maintenance-services-market-105801",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/report/ship-repair?srsltid=AYCX9vJAGTwbCkBARCyv89W-oLfKrDWIr-fq-dEJjrjyqsTwZxhwsqT0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-ship-repairing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/ship-repair-and-maintenance-market-119744",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/reports/ship-maintenance-repair-and-conversion-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://files.gao.gov/reports/GAO-25-106286/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navalinstitute.com.au/over-coming-the-ship-repair-backlog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smallwarsjournal.com/2025/06/25/the-strategic-consequences-of-deferred-maintenance-challenges-to-the-resilience-of-u-s-sea-power/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nscstaffing.com/us-shipyard-growth-marine-workforce-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maritime.dot.gov/sites/marad.dot.gov/files/2026-02/US%20Shipbuilding%20Facilities%20-%202025-05-20.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "船舶修繕 国内市場規模 億円",
+   "results": [
+    "https://www.kaijipress.com/news/shipbuilding/2026/06/202428/",
+    "https://straitsresearch.com/jp/report/ship-repair-services-market",
+    "https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market",
+    "https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E4%BF%AE%E7%90%86%E3%83%BB%E4%BF%9D%E5%AE%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-105801",
+    "https://newscast.jp/news/5374038",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.atpress.ne.jp/news/1231164",
+    "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "https://www.gii.co.jp/report/imarc1956228-japan-ship-repairing-market-size-share-trends.html",
+    "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market"
+   ]
+  },
+  {
+   "query": "船舶修繕 国内 参入企業 社",
+   "results": [
+    "https://www.kaijipress.com/news/shipbuilding/2026/10/204797/",
+    "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "https://sansei-group.co.jp/pages/26/",
+    "https://www.yew.co.jp/business/index.html",
+    "https://www.tsuneishi.co.jp/tech/repair/",
+    "https://www.sanoyas.skdy.co.jp/repair",
+    "https://webcourse.jp/wakayama/articles/759",
+    "https://mono.ipros.com/product/detail/2000986351/",
+    "https://www.yano.co.jp/market_reports/R68443500"
+   ]
+  },
+  {
+   "query": "船舶修繕 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "https://www.kaijipress.com/news/shipbuilding/2026/03/200033/",
+    "https://www.pref.wakayama.lg.jp/prefg/200100/cms/d00213746_d/fil/R8-6ketugi60.pdf",
+    "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://newswitch.jp/p/50490",
+    "https://wedge.ismedia.jp/articles/-/40499?page=2",
+    "https://www.logi-today.com/991055",
+    "https://www.sanwadock.co.jp/recruit/sanwa/",
+    "https://smartf-nexta.com/archives/13522"
+   ]
+  },
+  {
+   "query": "船舶修繕 予算 補助金 基金 2026",
+   "results": [
+    "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "https://www.jmd.co.jp/article.php?no=318249",
+    "https://nippon-foundation.my.site.com/GrantPrograms/s/assistanceprogram/a0nfB000004JLBJ",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://note.com/yo4shi80/n/n3346511da7a4",
+    "https://hojokin-agent.jp/subsidy/219",
+    "https://hojokin.funaisoken.co.jp/blogs/column/20260630",
+    "https://zosenblog.com/zosenhojyokin/",
+    "https://www.nikkei.com/article/DGXZQOUA2619M0W5A121C2000000/",
+    "https://www.mlit.go.jp/maritime/content/002021490.pdf"
+   ]
+  },
+  {
+   "query": "船舶修繕 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "https://www.jttri.or.jp/topics/kenkyu_report/jitti_20250508_fukuhara.pdf",
+    "https://www.jmd.co.jp/article.php?no=317301",
+    "https://www.nikkei.com/article/DGKKZO95568340Z00C26A4EP0000/",
+    "https://www.buffett-code.com/articles/industry-report-2330704",
+    "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/ekimukisei_FAQ.pdf",
+    "https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000308453",
+    "https://www.mlit.go.jp/maritime/content/001995948.pdf",
+    "https://www.jetro.go.jp/biznews/2026/08/48c33870d5f39852.html",
+    "https://www.businesslawyers.jp/articles/1502"
+   ]
+  },
+  {
+   "query": "船舶修繕 国内 主要企業 メーカー",
+   "results": [
+    "https://www.buffett-code.com/articles/industry-report-2241006",
+    "https://zukan.biz/maker/sanwadock/",
+    "https://baike.baidu.com/ja/item/%E8%88%B9%E8%88%B6%E4%BF%AE%E9%80%A0%E6%A5%AD/5771664",
+    "https://www.kaijipress.com/news/shipbuilding/2025/05/193108/",
+    "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "https://www.yew.co.jp/business/index.html",
+    "https://mono.ipros.com/product/detail/2000986351/",
+    "https://baseconnect.in/companies/keyword/8b0b7f42-5517-464b-af92-0d7dbf572d45",
+    "https://sansei-group.co.jp/pages/26/",
+    "https://ja.wikipedia.org/wiki/日本の造船会社と造船所の一覧"
+   ]
+  },
+  {
+   "query": "ship repair Japan market size",
+   "results": [
+    "https://www.fortunebusinessinsights.com/ship-repair-and-maintenance-services-market-105801",
+    "https://www.researchandmarkets.com/report/ship-repair?srsltid=AYCX9vJAGTwbCkBARCyv89W-oLfKrDWIr-fq-dEJjrjyqsTwZxhwsqT0",
+    "https://www.imarcgroup.com/japan-ship-repairing-market",
+    "https://www.linkedin.com/pulse/japan-ship-building-repairing-market-growth-drivers-gwv8f",
+    "https://www.businessresearchinsights.com/market-reports/ship-repair-and-maintenance-market-119744",
+    "https://www.wiseguyreports.com/reports/ship-maintenance-repair-and-conversion-market",
+    "https://vocal.media/01/japan-ship-repairing-market-size-growth-and-future-trends-2026-2034",
+    "https://www.futuremarketinsights.com/reports/ship-repair-and-maintenance-services-market",
+    "https://www.marketresearchfuture.com/reports/ship-repair-maintenance-service-market-23258",
+    "https://www.researchandmarkets.com/report/ship-repair"
+   ]
+  },
+  {
+   "query": "ship repair shortage backlog supply gap 2025",
+   "results": [
+    "https://www.facebook.com/themilitarychannelusa/posts/read-while-the-pentagon-accelerates-its-vision-for-the-golden-fleet-of-2027-the-/122200133084902462/",
+    "https://files.gao.gov/reports/GAO-25-106286/index.html",
+    "https://navalinstitute.com.au/over-coming-the-ship-repair-backlog/",
+    "https://www.fortunebusinessinsights.com/ship-repair-and-maintenance-services-market-105801",
+    "https://smallwarsjournal.com/2025/06/25/the-strategic-consequences-of-deferred-maintenance-challenges-to-the-resilience-of-u-s-sea-power/",
+    "https://nscstaffing.com/us-shipyard-growth-marine-workforce-demand",
+    "https://www.maritime.dot.gov/sites/marad.dot.gov/files/2026-02/US%20Shipbuilding%20Facilities%20-%202025-05-20.pdf",
+    "https://www.facebook.com/13NewsNow/posts/the-navy-is-struggling-to-complete-maintenance-work-on-ships-according-to-a-repo/917590653749126/",
+    "https://market.us/report/ship-repair-and-maintenance-service-market/",
+    "https://www.gao.gov/products/gao-25-106286"
+   ]
+  }
+ ],
+ "missing": {
+  "国内参入企業数": "記載なし（読んだ40頁・検索8回）"
+ }
+}

@@ -1,0 +1,1289 @@
+{
+ "name": "永久磁石",
+ "en": "permanent magnet",
+ "aliases": [
+  "ネオジム磁石",
+  "レアアース磁石"
+ ],
+ "context": "9 マテリアル ①永久磁石",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:25:08.570526+00:00",
+ "evidence": {
+  "国内市場規模": [
+   {
+    "quote": "永久磁石メーカーの国内市場規模は、現在の1,286億円 と推計",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "pass": 3
+   },
+   {
+    "quote": "サマリウムコバルト磁石については、日本国内生産量は過去 10 年以上、 ほぼ一定",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場ではハイブリッド自動車が 2020 年の新車販売において約３割のシェアを",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このため、2030 年時点における国内需要量に応じて国内生産能力を増強することにより、",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、製造設備増強により、2030 年時点の国内需要量に応じた生産能力を確実に",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石の生産設備投資を支援することにより、2030 年時点の国内需要量を十分",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "体制を強化すべく、2030年時点の国内需要量を満たす生産能",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目標：2030年時点の国内需要量を十分に満たす生産能力増強を実施し、国内需要に応える状況にする",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "AIが予測する永久磁石メーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する永久磁石メーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "pass": 3
+   },
+   {
+    "quote": "当ページでは、市場予測、主要企業ランキング、成長やリスクをもたらす外部要因の分析など、戦略立案に役立つ詳細なAI予測を無料でご確認いただけます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石メーカー 主要企業シェアランキング 大同特殊鋼・プロテリアル等",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "pass": 3
+   },
+   {
+    "quote": "図：永久磁石メーカーにおける国内マーケットシェアのグラフ及び主要企業8社の状況",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、高性能磁石の開発、垂直統合された希土類サプライチェーン、精密な製造能力、および研究開発への継続的な投資を通じて競争しています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石の世界市場 （生産量） における日本企業のシェアは、2021 年において、",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ーについて、2020 年の世界シェア（生産台数）において日本企業が約半数を占めてい",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動モーターは日本企業のネオジム磁石が搭載されていると考えられること、海外自動",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "車メーカーでも日本企業の磁石利用もあることから、電動車駆動モーターにおいては、",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自国内で実施できる国であり、日本企業よりも低コストで永久磁石を製造することが",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しており、このままでは 2025 年には日本企業の世界シェアは 10％を下回ることが予",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、今後毎年、日本企業の総生産量を超える数万トン規模の生産能力拡大が計画さ",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合以降を日本企業が行っている",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ーが主に中国及び日本の２か国に偏り、日本企業の世界シェアが低下していることが課題",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のの、 主要な磁石メーカーが主に中国及び日本の２か国に偏り、 日本企業の世界シェアが",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "内需要を満たすだけに必要な 日本企業によるサマリウムコバルト磁石の安定供給を確保",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石の需要は拡大する見込みであり、 日本企業が他国企業と競争している状況",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業よりも安価にネオジム磁石を製造することができること、 また、 中国企業は大規",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中国企業は、価格競争力を強化してシェアを拡大している一方、日本企業は、シェアを落",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "磁石の国内メーカーです",
+    "url": "https://www.sagami-magnet.co.jp/strong_points",
+    "pass": 3
+   },
+   {
+    "quote": "独資企業を設立した最初の日本企業です",
+    "url": "https://www.sagami-magnet.co.jp/strong_points",
+    "pass": 3
+   },
+   {
+    "quote": "近年の日本企業の海外進出に伴い、当社も1995年に香港営業所を設立しました",
+    "url": "https://www.jishaku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "江西金鷲磁性材料有限公司は、江西省の永久磁石産業の主要企業です",
+    "url": "https://ja.gmagnets.com/blog/top-10-permanent-magnets-manufacturers-in-china-2017236.html",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "輸出規制、地政学的緊張、物流の混乱、希土類価格の変動は、世界の調達戦略を再構築し、メーカー各社に調達先の多様化と地域における加工・磁石生産能力への投資を促しています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "現在、市場は生産能力に制約のある回復局面を迎えており、希土類の採掘、精製、永久磁石製造能力の拡大ペースが需要を上回っています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "（１）需給ひっ迫時の対応 ................................................................................................................. 24",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）供給能力の維持又は強化のための継続投資又は研究開発 ...................................................... 25",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "石製造が可能な中国企業が大幅な生産能力増強 を行うことにより日本のシェアが低下し続",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "来的に需給がひっ迫するおそれのあるものについて、鉱種ごとの特性を踏まえ、上",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、今後毎年、日本企業の総生産量を超える数万トン規模の生産能力拡大が計画さ",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このため、2030 年時点における国内需要量に応じて国内生産能力を増強することにより、",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、製造設備増強により、2030 年時点の国内需要量に応じた生産能力を確実に",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、ネオジム磁石リサイクルにおいては、生産能力増強分に応じた加工屑や端材のリサ",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の生産能力増強、サマリウムコバルト磁石及びフェライト磁石の生産能力維持、原材料を安",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石生産能力の増強",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サマリウムコバルト磁石の生産能力の維持",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "フェライト磁石の生産能力の維持",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "重希土類フリー永久磁石の生産能力の増強",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に満たす生産能力増強を確実に実施し、国内需要に応える状況にする",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "りネオジム磁石生産能力増強分の加工屑及び端材のリサイクルを実施するとともに、自",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界がレアアース不足に直面し、高性能磁石の需要がますます高まっている中で、レアアース磁石を選択することは、世界的なレアアース不足を補うことになる",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "現在の需給逼迫の中で",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "“「製品の品質や納期に関して不満はない",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、磁石にまつわる皆さんのご意見もお待ちしています",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド磁石で基本形状の短納期製作や特殊形状の製作も弊社に相談して下さい",
+    "url": "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "1：製作数 ２：納期 ３：目標価格などの条件を総合的に満足できる最善のご提案をさせていただきたいと考えております",
+    "url": "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "1)発生磁界〜電磁力の論理計算→短納期試作→実測により、お客様の開発課題と磁場の関係を正確に抑えることができます",
+    "url": "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "・少量多品種から量産品まで短納期で対応",
+    "url": "https://www.sagami-magnet.co.jp/strong_points",
+    "pass": 3
+   },
+   {
+    "quote": "少数精鋭で高効率を実現し、少量多品種から量産品まで短納期で対応致します",
+    "url": "https://www.sagami-magnet.co.jp/strong_points",
+    "pass": 3
+   },
+   {
+    "quote": "フォームが表示されるまでしばらくお待ち下さい",
+    "url": "https://www.sagami-magnet.co.jp/strong_points",
+    "pass": 3
+   },
+   {
+    "quote": "恐れ入りますが、しばらくお待ちいただいてもフォームが表示されない場合は、",
+    "url": "https://www.sagami-magnet.co.jp/strong_points",
+    "pass": 3
+   },
+   {
+    "quote": "注文生産においては、標準品では不足な仕様・さまざまなご要望をすべて補完することができます",
+    "url": "https://www.magtec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "マグネット機器納期遅延のおそれについて",
+    "url": "https://www.sanshin-kk.co.jp/news/2020_covid19.htm",
+    "pass": 3
+   },
+   {
+    "quote": "ご希望納期から大幅に遅れる可能性がございます",
+    "url": "https://www.sanshin-kk.co.jp/news/2020_covid19.htm",
+    "pass": 3
+   },
+   {
+    "quote": "弊社といたしましても在庫の積み増しをはじめとする企業努力により納期の維持に努めてまいりますが、",
+    "url": "https://www.sanshin-kk.co.jp/news/2020_covid19.htm",
+    "pass": 3
+   },
+   {
+    "quote": "今後の状況によってはご希望の納期に添えないケースも出てくるかと存じます",
+    "url": "https://www.sanshin-kk.co.jp/news/2020_covid19.htm",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、永久磁石を製造する際に使用されるレアアースの供給不足が課題となっています",
+    "url": "https://www.simotec.co.jp/column/magnet/permanentmagnet/",
+    "pass": 3
+   },
+   {
+    "quote": "東和製作所の磁石製品は、少量生産(小ロットでのご購入)でも高品質、短納期、適正価格を最大の特徴としています",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の生産体制により、少量の特注委託でもご満足いただける品質、価格、納期を実現いたします",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "目標：2030年時点の国内需要量を十分に満たす生産能力増強を実施し、国内需要に応える状況にする",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ネオジム磁石の生産能力増強は年500 トン以上、本事業開発成果を用いた生産能力増強は年100 トン以上(最先端技術を生み出す研究開発所や一定規模の",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "量産を可能とする能力を国内確保した上、技術流出防止を的確に図りながら海外生産能力を増強する取組も対象）",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目標：ネオジム磁石生産能力増強分の加工屑や端材のリサイクルを実施するとともに、自動車や風力発電、家電等から回収される廃磁石の全量がリサイクル実施可",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "需要量を満たす生産能力増強の",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "磁石生産能力",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・設備導入の進捗 ・生産能力推移の確認",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "す生産能力増強を実施",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "カーのネオジム磁石生産能力/国内",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採掘、加工、リサイクルにおける国内生産能力のベンチマークを設定しています",
+    "url": "https://www.circularise.com/jp/blogs/what-the-critical-raw-materials-act-actually-requires-from-battery-and-permanent-magnet-supply-chains-jp",
+    "pass": 3
+   },
+   {
+    "quote": "サンプル・試作研究・小ロット製品などの短納期が求められるケースには、国内工場にて機敏に対応し、他のメーカーに比して素早い納品を実現しています",
+    "url": "https://www.jishaku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "希土類永久磁石の分野で強力な研究開発と生産能力を持っています",
+    "url": "https://ja.gmagnets.com/blog/top-10-permanent-magnets-manufacturers-in-china-2017236.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のご要望に応じて生産量や納期を調整できる柔軟な生産体制をとっています",
+    "url": "https://ja.gmagnets.com/blog/top-10-permanent-magnets-manufacturers-in-china-2017236.html",
+    "pass": 3
+   },
+   {
+    "quote": "Allison Lampert, Laurie Chen, Lewis Jackson and Michael Martina, “Exclusive: Rare earth shortages worsen in US aerospace, chips despite trade truce, sources say,”",
+    "url": "https://www.ussc.edu.au/the-missing-market-why-us-and-allies-rare-earth-derisking-needs-a-demand-side-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.reuters.com/business/aerospace-defense/rare-earth-shortages-worsen-us-aerospace-chips-despite-trade-truce-sources-say-2026-02-26/",
+    "url": "https://www.ussc.edu.au/the-missing-market-why-us-and-allies-rare-earth-derisking-needs-a-demand-side-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025 a rare earth magnet shortage shut a Ford assembly plant, and the exposure sat several tiers upstream of any supplier Ford dealt with directly. The lesson for operations: the response is only as fast as your view of where the constraint lives.",
+    "url": "https://www.muir.ai/blog-posts/rare-earth-magnet-shortage-stalls-production",
+    "pass": 3
+   },
+   {
+    "quote": "When a Magnet Shortage Stops an Assembly Line",
+    "url": "https://www.muir.ai/blog-posts/rare-earth-magnet-shortage-stalls-production",
+    "pass": 3
+   },
+   {
+    "quote": "In the context of permanent magnets, a number of existing bottlenecks and challenges may inhibit U.S.",
+    "url": "https://www.energy.gov/sites/default/files/2024-12/Neodymium%2520Magnets%2520Supply%2520Chain%2520Report%2520-%2520Final%5B1%5D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "supply chain to address many of these bottlenecks, but challenges remain to develop the supply chain further",
+    "url": "https://www.energy.gov/sites/default/files/2024-12/Neodymium%2520Magnets%2520Supply%2520Chain%2520Report%2520-%2520Final%5B1%5D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "shortages could be faced if supply doesn’t increase fast enough to meet this demand. This report assesses",
+    "url": "https://www.energy.gov/sites/default/files/2024-12/Neodymium%2520Magnets%2520Supply%2520Chain%2520Report%2520-%2520Final%5B1%5D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "dwarf military requirements and that military production will be prioritized during times of shortages under the",
+    "url": "https://www.energy.gov/sites/default/files/2024-12/Neodymium%2520Magnets%2520Supply%2520Chain%2520Report%2520-%2520Final%5B1%5D.pdf",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "輸出規制、地政学的緊張、物流の混乱、希土類価格の変動は、世界の調達戦略を再構築し、メーカー各社に調達先の多様化と地域における加工・磁石生産能力への投資を促しています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "厳格な資格要件と認証要件は、特に航空宇宙、防衛、医療分野において、製品開発と商業化の期間を長期化させることで、永久磁石市場の成長を抑制している",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーは個々の用途に合わせて製品をカスタマイズする必要があり、生産の複雑化、認証期間の延長、在庫管理の負担増につながっています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "車両の電動化への投資増加と厳しい燃費規制により、自動車業界全体で高性能永久磁石の需要が引き続き高まっています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益予測、競争環境、成長要因、環境および規制環境とトレンド",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "彼の研究は、市場動向、技術の導入状況、競争の動向、規制の動向、成長機会の評価に焦点を当て、情報に基づいた事業および投資判断を支援することを目的としています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "基準年: 2025",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "認証済み・保護・安全",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "第５章 永久磁石に係る法第四十四条第一項の規定による指定に関する事項 ........................................ 30",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１節 指定の要件 ............................................................................................................................... 30",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２節 指定解除の考え方 .................................................................................................................... 30",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５節 関係者の意見の適切な考慮、施行状況の公表 ......................................................................... 32",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）施行状況の適切な公表等の実施 .............................................................................................. 32",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "する法律（令和４年法律第 43 号",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アンス 「Rare Earth Magnets and Motors: A European Call for Action」2021",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020 年、 「輸出管理法」 施行により中国製の規制品目を",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "含む製品の再輸出の際に、中国域外であっても中国政府の許可を義務付けた（規制",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サビリティ等の規制と罰則を明文化している（2022 年９月現在 ： 未公布）",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "24 年法律第 228 号）の規定に基づく輸出規制・役務取引規制及び対内直接投資の厳格な運",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本制度の運用に当たっては、国家及び国民の安全を損なう事態を未然に防止する取組を",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "能を補完する範囲内で、 株式会社日本政策金融公庫から指定金融機関を通じて低利 ・ 長期の",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "する観点から法第 30 条に規定する調査の求め（関税定率法（明治 43 年法律第 54 号）に基",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の確保の推進に関する法律施行令（令和４年政令第 394 号",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ", 環境基準に適合した製品が際立っている",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "はメンテナンスが簡単で、ISO 認証を受けている",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "厳しい衛生基準の遵守",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ":グローバルな技術サポート、高度にカスタマイズ可能、厳格なRoHS環境基準、迅速な配達",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "RoHSやISOなどの国際的な認証を取得し、環境と安全へのコンプライアンスを実現",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "注：高い試験設備とサプライヤーからの完全な認証により、磁石の寿命が延び、故障率が減少する",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "品質面では、TS16949, ISO,9001, ISO14001を認証取得（中国本社）しており、安定した品質管理の下、日々生産、改善に勤めていますので、高品質製品をお客様に自信を持ってお届けします",
+    "url": "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "基準磁界マグネット",
+    "url": "https://www.magna-tokyo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "中国レアアース輸出規制に関する【2025/11/7】現時点での対応状況について",
+    "url": "https://www.magna-tokyo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・日本本社はISO9001、中国工場はISO9001、ISO14001の認証を取得",
+    "url": "https://www.sagami-magnet.co.jp/strong_points",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT",
+    "url": "https://www.magtec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO認証取得",
+    "url": "https://www.simotec.co.jp/column/magnet/permanentmagnet/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT",
+    "url": "https://www.simotec.co.jp/column/magnet/permanentmagnet/",
+    "pass": 3
+   },
+   {
+    "quote": "東和製作所の永久磁石は以下の5つのステップで仕様をご指定ください",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ1：材質の指定",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ2：形状の指定",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ3：寸法の指定",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "材質および形状により最大/最小寸法の制限はございますが、まずはご希望の寸法をご指定ください",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "図面によりご指定されるのが最も確実なご依頼方法になりますが以下のような方法でもご指定いただけます",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "※各寸法の公差の指定がある場合には 例えば 10( +0.1/-0.2)などご指定ください",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "公差の指定がない場合JIS B 0405 中級 に従います",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ4：着磁方法の指定",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "東和製作所では、パラレル着磁が基本になりますので、どの方向が着磁方向かをご指定ください",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "図面によりご指定いただく場合には、図中に着磁方向を指示ください",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ3の例のように図示ではなく、形状と寸法のみでのご指定の場合には以下のように指定できます",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "10.0mm x 8.0mm x 5.5mm 着磁方向は8.0mm方向 などとご指定いただくか、何も指示のない場合は最後の5.5mm方向を着磁方向とします",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "D10.0mm x 5.5mm 径方向着磁と指定される場合D10.0mm方向 厚さ方向あるいは指定無しの場合5.5mm方向を着磁方向とします",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "OD55.0mm x ID45.0mm x 30.0mm x 60° 内径型Nとか、外径側Nなどと指定ください",
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "NEDOは、「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律」（令和4年法律第43号）に基づき、国民の生存や生活・経済活動に甚大な影響のある物資の安定供給確保を図るため、同法の政令で定められた特定重要物資について、経済産業大臣が認定した供給確保計画に沿った生産基盤の整備、生産技術開発等に対して助成金を交付する事業等を実施しています",
+    "url": "https://www.nedo.go.jp/koubo/GI2_100001_00026.html",
+    "pass": 3
+   },
+   {
+    "quote": "制度ドキュメント",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "まず、これは何の制度なんですか？",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律」という法律に基づいて実施されてますからね",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "おおっ、法律の名前がまた長い…！でも、それだけ重要な調査だってことですね",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "実は、今回の制度は「補助金」ではなく、",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "制度の特徴まとめ",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、自然科学研究所、人文科学研究機関、法律事務所、経営コンサルタント業、土木建築サービス業、デザイン業、広告業などが含まれます",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "まず、**GビズID（法人用の電子認証システム）**を取得する必要があります",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "第３節 安定供給確保支援独立行政法人基金の管理に関する事項 ...................................................... 28",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３節 安定供給確保支援独立行政法人基金の管理に関する事項",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "NEDOは、「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律」（令和4年法律第43号）に基づき、国民の生存や生活・経済活動に甚大な影響のある物資の安定供給確保を図るため、同法の政令で定められた特定重要物資について、経済産業大臣が認定した供給確保計画に沿った生産基盤の整備、生産技術開発等に対して助成金を交付する事業等を実施しています",
+    "url": "https://www.nedo.go.jp/koubo/GI2_100001_00026.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）事業期間及び予算規模",
+    "url": "https://www.nedo.go.jp/koubo/GI2_100001_00026.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大7300万円｜安定供給確保支援基金事業（永久磁石）効果検証調査を徹底解説【令和8年度】 | 補助金エージェント",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "最大7300万円｜安定供給確保支援基金事業（永久磁石）効果検証調査を徹底解説【令和8年度】",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "P23017_安定供給確保支援基金事業",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、**7,300万円以内（3年間）**という予算規模で、その調査をしてくれる事業者を公募しています",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度補正予算要求額 170億円 製造産業局金属課",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【令和6年度補正予算 41億円】",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⇒経済安全保障基金事業(令和4～12年度、464億円) ①永久磁石製造設備の能力増強、②廃磁石からのレアアース原料リサイクル技術の",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【令和７年度補正予算 170億円】",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[R4補正予算]",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[R6補正予算]",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[R7補正予算]",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AIが予測する 永久磁石 メーカー ｜2030年 市場規模 推移と主要 ... — AIが予測する 永久磁石 メーカー ｜2030年 市場規模 推移と主要 ... xenoBrain https://service.xenobrain.jp > permanentmagnet",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模 、シェア、トレンド、成長 2034 年 — 永久磁石市場規模 、シェア、トレンド、成長 2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E5%B8%82%E5%A0%B4-102776",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模 ・産業レポート 2031 - Mordor Intelligence — 永久磁石市場規模 ・産業レポート 2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模 、シェア、成長率（2034年） — 永久磁石市場規模 、シェア、成長率（2034年） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石 に係る安定供給確保を図るための取組方針 - 経済産業省 — 永久磁石 に係る安定供給確保を図るための取組方針 - 経済産業省 経済産業省 PDF https://www.meti.go.jp > magnet_hoshin_260331",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インドの 永久磁石 メーカー上位5 社 2026年 - TOPMAG — インドの 永久磁石 メーカー上位5 社 2026年 - TOPMAG topmag.in https://www.topmag.in > top-5-permanent-magnet-manuf...",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石 - メーカー・ 企業 45 社 の業務用製品ランキング — 永久磁石 - メーカー・ 企業 45 社 の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 永久磁石",
+    "url": "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する 永久磁石 メーカー ｜2030年市場規模推移と主要 ... — AIが予測する 永久磁石 メーカー ｜2030年市場規模推移と主要 ... xenoBrain https://service.xenobrain.jp > permanentmagnet",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石 - メーカー・企業45社の業務用製品ランキング — 永久磁石 - メーカー・企業45社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 永久磁石",
+    "url": "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "最大7300万円｜安定供給確保支援 基金 事業（ 永久磁石 ）効果 ... — 最大7300万円｜安定供給確保支援 基金 事業（ 永久磁石 ）効果 ... 補助金エージェント https://hojokin-agent.jp > 補助金・給付金一覧",
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石 - メーカー ・ 企業 45社の業務用製品ランキング — 永久磁石 - メーカー ・ 企業 45社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 永久磁石",
+    "url": "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する 永久磁石メーカー ｜2030年市場規模推移と 主要 ... — AIが予測する 永久磁石メーカー ｜2030年市場規模推移と 主要 ... xenoBrain https://service.xenobrain.jp > permanentmagnet",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "pass": 3
+   },
+   {
+    "quote": "インドの 永久磁石メーカー 上位5社 2026年 - TOPMAG — インドの 永久磁石メーカー 上位5社 2026年 - TOPMAG topmag.in https://www.topmag.in > top-5-permanent-magnet-manuf...",
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size , Share, Trends & Growth 2034 — Permanent Magnet Market Size , Share, Trends & Growth 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets Market Size 2026-2030 - Technavio — Permanent Magnets Market Size 2026-2030 - Technavio Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/permanent-magnets-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size , Share, Growth, 2034 — Permanent Magnet Market Size , Share, Growth, 2034 Straits Research https://straitsresearch.com > report > p...",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "stakes in a number of companies that operate outside China . [141]",
+    "url": "https://www.energy.gov/sites/default/files/2024-12/Neodymium%2520Magnets%2520Supply%2520Chain%2520Report%2520-%2520Final%5B1%5D.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内市場億円": [
+   {
+    "value": "1,286",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "quote": "永久磁石メーカーの国内市場規模は、現在の1,286億円 と推計"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "170",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "quote": "令和７年度補正予算要求額 170億円 製造産業局金属課"
+   },
+   {
+    "value": "41",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "quote": "【令和6年度補正予算 41億円】"
+   },
+   {
+    "value": "464",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "quote": "⇒経済安全保障基金事業(令和4～12年度、464億円) ①永久磁石製造設備の能力増強、②廃磁石からのレアアース原料リサイクル技術の"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E5%B8%82%E5%A0%B4-102776",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.magna-tokyo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sagami-magnet.co.jp/strong_points",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.magtec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanshin-kk.co.jp/news/2020_covid19.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pronec-j.co.jp/blog/magnet-supply-risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simotec.co.jp/column/magnet/permanentmagnet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/koubo/GI2_100001_00026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-agent.jp/subsidy/110853",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rssystem.go.jp/project/6de6a659-1aea-4d16-b93d-a09722806506",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hojokin-os.com/subsidies/g-SRC-798113c98343a86c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://financeinjapan.com/finance/a2a3dead-472c-4bf4-a072-5ccf579c91fe",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/commodities/75FLSOLCENM33PZIYU24RARZS4-2025-05-29/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.circularise.com/jp/blogs/what-the-critical-raw-materials-act-actually-requires-from-battery-and-permanent-magnet-supply-chains-jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2025/10/3604e5b18bf9755d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jishaku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5207/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/Category/1478",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/2350709",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cndailymag.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3-html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.gmagnets.com/blog/top-10-permanent-magnets-manufacturers-in-china-2017236.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/permanent-magnets-market-industry-analysis",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/rare-earth-magnets-market/Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ussc.edu.au/the-missing-market-why-us-and-allies-rare-earth-derisking-needs-a-demand-side-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/reports/rare-earth-elements/executive-summary",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.muir.ai/blog-posts/rare-earth-magnet-shortage-stalls-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/sites/default/files/2024-12/Neodymium%2520Magnets%2520Supply%2520Chain%2520Report%2520-%2520Final%5B1%5D.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "永久磁石 国内市場規模 億円",
+   "results": [
+    "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E5%B8%82%E5%A0%B4-102776",
+    "https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market",
+    "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "https://www.zionmarketresearch.com/ja/report/permanent-magnet-market",
+    "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "https://newscast.jp/news/3762300",
+    "https://www.gii.co.jp/report/ires2100229-permanent-magnets-market-global-forecast.html",
+    "https://www.fortunebusinessinsights.com/jp/永久磁石市場-102776"
+   ]
+  },
+  {
+   "query": "永久磁石 国内 参入企業 社",
+   "results": [
+    "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "https://www.magna-tokyo.com/",
+    "https://www.sagami-magnet.co.jp/strong_points",
+    "https://www.magtec.co.jp/",
+    "https://www.himejidenshi.co.jp/about/company.html",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/towa-inc/",
+    "https://mono.ipros.com/cg2/永久磁石/"
+   ]
+  },
+  {
+   "query": "永久磁石 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://www.sanshin-kk.co.jp/news/2020_covid19.htm",
+    "https://pronec-j.co.jp/blog/magnet-supply-risk/",
+    "https://www.simotec.co.jp/column/magnet/permanentmagnet/",
+    "https://www.towa-inc.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "https://www.nedo.go.jp/koubo/GI2_100001_00026.html",
+    "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "https://hsmagnet.com/ja/2026/03/12/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%81%AE%E5%AF%BF%E5%91%BD%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E3%81%8B%EF%BC%9F%E7%A3%81%E6%B0%97%E6%B8%9B%E8%A1%B0%E3%81%AE%E7%A7%91%E5%AD%A6/",
+    "https://www.neomag.jp/",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E5%B8%82%E5%A0%B4-102776",
+    "https://smartf-nexta.com/archives/13522"
+   ]
+  },
+  {
+   "query": "永久磁石 予算 補助金 基金 2026",
+   "results": [
+    "https://hojokin-agent.jp/subsidy/110853",
+    "https://www.nedo.go.jp/koubo/GI2_100001_00026.html",
+    "https://www.meti.go.jp/policy/economy/economic_security/magnet/index.html",
+    "https://rssystem.go.jp/project/6de6a659-1aea-4d16-b93d-a09722806506",
+    "https://hojokin-os.com/subsidies/g-SRC-798113c98343a86c",
+    "https://financeinjapan.com/finance/a2a3dead-472c-4bf4-a072-5ccf579c91fe",
+    "https://www.gyoukaku.go.jp/review/aki/R07/img/3_3_1_kikin.pdf",
+    "https://troy-technical.jp/functional-materials-institution-meti/",
+    "https://www.cao.go.jp/keizai_anzen_hosho/suishinhou/supply_chain/supply_chain.html"
+   ]
+  },
+  {
+   "query": "永久磁石 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "https://www.reuters.com/jp/markets/commodities/75FLSOLCENM33PZIYU24RARZS4-2025-05-29/",
+    "https://www.circularise.com/jp/blogs/what-the-critical-raw-materials-act-actually-requires-from-battery-and-permanent-magnet-supply-chains-jp",
+    "https://www.jetro.go.jp/biznews/2025/10/3604e5b18bf9755d.html",
+    "https://www.jishaku.co.jp/",
+    "https://www.jstage.jst.go.jp/article/ieejjournal/132/11/132_758/_pdf",
+    "https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000306595",
+    "https://www.cistec.or.jp/service/keizai_anzenhosho/china/data/20251009.pdf",
+    "https://www.hondatsushin.co.jp/product/magnet/",
+    "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf"
+   ]
+  },
+  {
+   "query": "永久磁石 国内 主要企業 メーカー",
+   "results": [
+    "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "https://metoree.com/categories/5207/",
+    "https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/",
+    "https://www.indexpro.co.jp/Category/1478",
+    "https://www.buffett-code.com/industries/2350709",
+    "https://www.cndailymag.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3-html",
+    "https://ja.gmagnets.com/blog/top-10-permanent-magnets-manufacturers-in-china-2017236.html",
+    "https://www.ipros.com/cg1/%E7%A3%81%E7%9F%B3/",
+    "https://mono.ipros.com/cg2/永久磁石/"
+   ]
+  },
+  {
+   "query": "permanent magnet Japan market size",
+   "results": [
+    "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "https://www.technavio.com/report/permanent-magnets-market-industry-analysis",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/rare-earth-magnets-market/Japan",
+    "https://straitsresearch.com/report/permanent-magnet-market",
+    "https://www.imarcgroup.com/magnet-market",
+    "https://www.linkedin.com/pulse/japan-permanent-magnet-powder-market-size-key-drivers-dkj5f",
+    "https://www.grandviewresearch.com/horizon/outlook/permanent-magnets-market/japan",
+    "https://www.mordorintelligence.com/industry-reports/permanent-magnet-market",
+    "https://www.marketdataforecast.com/market-reports/europe-permanent-magnets-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/permanent-magnet-market/japan"
+   ]
+  },
+  {
+   "query": "permanent magnet shortage backlog supply gap 2025",
+   "results": [
+    "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+    "https://www.linkedin.com/posts/prandelligiacomo_us-needed-about-48000-tonnes-of-rare-activity-7517902056909787136-R9qG",
+    "https://www.ussc.edu.au/the-missing-market-why-us-and-allies-rare-earth-derisking-needs-a-demand-side-strategy",
+    "https://www.iea.org/reports/rare-earth-elements/executive-summary",
+    "https://www.muir.ai/blog-posts/rare-earth-magnet-shortage-stalls-production",
+    "https://www.energy.gov/sites/default/files/2024-12/Neodymium%2520Magnets%2520Supply%2520Chain%2520Report%2520-%2520Final%5B1%5D.pdf",
+    "https://www.adlittle.com/sites/default/files/viewpoints/ADL%20Future%20outlook%20rare%20earth%20magnets%202026.pdf",
+    "https://www.reuters.com/sustainability/climate-energy/west-scrambles-fill-heavy-rare-earth-gap-china-rivalry-deepens-2025-11-19/",
+    "https://jemelectronics.com/blog/rare-earth-magnet-shortage-oem-supply-chain-resilience/",
+    "https://discoveryalert.com/analysis/rare-earth-magnet-supply-chain/"
+   ]
+  }
+ ],
+ "missing": {}
+}

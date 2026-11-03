@@ -1,0 +1,1374 @@
+{
+ "name": "wl-A DfAM（トポロジー最適化・AM向け形状生成）",
+ "en": "DfAM generative design and topology optimization software",
+ "aliases": [
+  "topology optimization",
+  "lattice design software",
+  "generative design for additive manufacturing",
+  "AM design software",
+  "トポロジー最適化"
+ ],
+ "context": "wl-A DfAM",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:17:34.942956+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Actually some of these new tools are advanced topological optimization algorithms.",
+    "url": "https://www.puntozero3d.com/en/services/generative-design-en/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization is one of the best-known optimization methodologies in the Design for Additive Manufacturing (DfAM), obtaining greater importance than in the classic design context. Both Generative and Topology Optimization takes inspiration",
+    "url": "https://www.puntozero3d.com/en/services/generative-design-en/",
+    "pass": 3
+   },
+   {
+    "quote": "Articles and interviews with leading experts on computational design at all scales",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "from 2024, where a range of leading expert engineers, academics, and software developers shared their work around computational design, agnostic of manufacturing process, but still with a significant portion still focused on design for 3D Printing.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Topics ranged from the in depth optimization of a single high performance part, as seen in the",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "The process, from topology logic to mesh optimization, printing, postprocessing, and validation was driven by both physics and manufacturability.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Ole Sigmund is a world renowned professor at the Technical University of Denmark (DTU), where he has been one of the leading academic figures in the development of SIMP method (Solid Isotropic Material with Penalization) of topology optimisation.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "topology optimization",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "His emphasis was on creating geometries that are both structurally efficient and manufacturable with additive processes, acknowledging the limitations of standard topology methods when applied to real world AM constraints.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "On the topic of",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "AI in topology optimization",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "In his view, AI based methods for topology optimization still struggle to outperform classical, gradient based approaches, particularly in scenarios with complex boundary conditions or where physical insight is critical.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Bradley Rothenberg & Markus Lempke – Siemens Energy & nTop",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Rothenberg discussed nTop’s implicit modeling environment",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "These workflows also incorporated voxel based CFD and meshless simulation approaches to evaluate design alternatives earlier and with greater fidelity.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "These include overhang detection and correction, support aware hollowing that accounts for machine specific build constraints, and topology postprocessing that transforms raw optimization outputs into smooth, production ready geometry.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Andre advocated for robust topology optimization with uncertainty quantification (UQ) to de-risk AM adoption, highlighting the need for design methods that account for real world variability in loads, boundary conditions, and material properties.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Trending Topics",
+    "url": "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology optimization: This process seeks to produce an efficient material distribution to solve a particular problem, resulting in lightweight yet structurally sound parts.",
+    "url": "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "pass": 3
+   },
+   {
+    "quote": "Improve prototyping and testing cycles in product development. AM allows for rapid production of functional prototypes, reducing lead times and costs compared to traditional methods. You can iterate quickly without costly tooling, improving product quality early on. DfAM speeds up development, leading to faster time-to-market.",
+    "url": "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring Generative Design and Topology Optimization",
+    "url": "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "pass": 3
+   },
+   {
+    "quote": "To optimize the design process for additive manufacturing, designers should consider key factors such as part consolidation, architected materials, generative design, and topology optimization. They should also focus on designing for cost minimization, automating repetitive tasks, and leveraging the capabilities of additive manufacturing in combination with traditional methods.",
+    "url": "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization",
+    "url": "https://oqton.com/dfam/",
+    "pass": 3
+   },
+   {
+    "quote": "Generative Design, Topology Optimization, Process Simulation, Hybrid DfAM: Dedicated tools for value-added engineering.",
+    "url": "https://oqton.com/dfam/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert can seamlessly import and work with hybrid CAD models derived from patient-specific anatomical data This allows for the creation of implants that precisely match a patient’s unique anatomy, leading to better fit, function, and surgical outcomes (e.g., custom cranial implants, joint replacements, surgical guides)",
+    "url": "https://oqton.com/dfam/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert supports polymer-based processes, as well as metal additive manufacturing. Oqton partners with all major powder bed machine vendors and more (3D Systems, EOS, SLM Solutions, Renishaw, Farsoon, HP, Xact Metal, Aconity3D, Freemelt, Colibrium Additive, Trumpf) to ensure smooth integration.",
+    "url": "https://oqton.com/dfam/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology set to bolster generative design platform with new and improved DfAM tools - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology set to bolster generative design platform with new and improved DfAM tools",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "SprintRay Builds a One-Stop Digital Dentistry Workflow, From Scanning to Curing",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "AMPOWER Desktop 3D Printing Insights, Desktop 3D Printing Boom is Reshaping Factory Economics",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "is currently working on a whole slew of new developments for its topology optimization platform.",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology’s innovations are used to address some of the most difficult engineering challenges in industry, including lightweighting, thermal management, mass customization, architected materials, and manufacturing and tooling.",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "The third generation latticing technology in action. Image via nTopology.",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2015, nTopology has proven itself to be one of the major players in the generative design space. The company’s advanced algorithms are trusted and leveraged by a wide variety of manufacturing firms, including",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "To complement its part design capabilities, nTopology offers multiple avenues to augment a company’s existing software stack. This includes integrations with PLM systems and external design analysis and simulation platforms, as well as export of design data in formats compatible with traditional CAD or even direct export of 3D printing slicing data.",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "It also comes equipped with a command line interface that allows users to run nTopology workflows through scripts in a programmatic environment, automating and scaling design processes for mass customization applications.",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "The growth of nTopology over the past three years has been aided by a number of funding rounds, as",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology raised $40 million in Series C",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "The road ahead for nTopology",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "Achieve superior strength-to-weight ratios via topology optimization and advanced lattice structures.",
+    "url": "https://thed2mco.com/capabilities/design-optimization-dfam",
+    "pass": 3
+   },
+   {
+    "quote": "P3 DLP is a photopolymer additive manufacturing process used for selected polymer applications where surface quality, material behavior, and repeatable workflow control matter. D2M helps clients assess fit before production use.",
+    "url": "https://thed2mco.com/capabilities/design-optimization-dfam",
+    "pass": 3
+   },
+   {
+    "quote": "SLA stereolithography is a photopolymer additive manufacturing process used for precise models, tooling patterns, and visual or functional prototypes. D2M helps clients assess whether SLA fits the application, material route, accuracy requirement, and workflow.",
+    "url": "https://thed2mco.com/capabilities/design-optimization-dfam",
+    "pass": 3
+   },
+   {
+    "quote": "Need DfAM as a service, not a course? TMC also offers design consulting for additive manufacturing — including topology optimization, generative design, and design-to-part support. See our DfAM services →",
+    "url": "https://themfgcollaborative.com/training/dfam/",
+    "pass": 3
+   },
+   {
+    "quote": "Topics: Baseline design evaluation / CREO live optimization (BMX) / Final design validation in ANSYS / Automated report generation",
+    "url": "https://themfgcollaborative.com/training/dfam/",
+    "pass": 3
+   },
+   {
+    "quote": "Solution Providers",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Topic Moderators",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Generative Design and Topology Optimization Place in Product Development Process",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "This blog focuses on lean product design methods, which enables creation of lightweight products meeting all their functional requirements at a reduced cost & time. The technologies that will be reviewed in this blog are Generative design and Topology Optimization.",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization vs. Generative Design",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop and Autodesk Fusion Join Forces",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys | nTopology Design Competition: Jigs & Fixtures",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology 3.0: Advanced Engineering Design Faster Than Ever Before",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology shows you how to create reusable and automated design workflows to augment your Multidisciplinary Design Optimization processes in modeFRONTIER. He uses topology optimization as an example and shares tips on how to prepare your nTop workflows for automation.",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "FE Simulation of Gyroid Heat Exchangers from nTopology to ANSYS",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Maiki Vlahinos, Senior Application Engineer at nTopology, shows you how to export both solid and fluid domains of a heat exchanger and prepare them for simulation in ANSYS Fluent.",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how nTopology’s design software accelerates and simplifies the challenge of reaching the optimal design. Viewers will also see how VELO",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology optimization and generative design",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "See how Aerojet Rocketdyne used nTop’s shell-and-infill latticing capability to develop a RCS quad thruster that is 67% lighter and 66% less expensive than competing solutions.",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "All the variables must be considered to obtain the maximum from this methodology, understanding how you can take advantage of the total component shape control.",
+    "url": "https://www.puntozero3d.com/en/services/generative-design-en/",
+    "pass": 3
+   },
+   {
+    "quote": "Structural components often contain localized shape variations, realized for functional and construction reasons. Using generative design help control the distribution of tensions by controlling the form, “relaxing” the flow-lines of tensions.",
+    "url": "https://www.puntozero3d.com/en/services/generative-design-en/",
+    "pass": 3
+   },
+   {
+    "quote": "The platform allows engineers to assign spatially varying manufacturing parameters such as scan speed, laser power, or layer height within a fixed geometry. These volumetric process allocations can be optimized to balance competing objectives like mechanical performance, thermal response, and production cost, without altering the part’s shape.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "This capability makes it possible to simulate, optimize, and manufacture components in a tightly integrated workflow. Applications in aerospace and electronics included cost optimized titanium brackets and thermal management components, where performance tuning was achieved entirely through process parameter variation rather than geometric redesign.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Andre advocated for robust topology optimization with uncertainty quantification (UQ) to de-risk AM adoption, highlighting the need for design methods that account for real world variability in loads, boundary conditions, and material properties.",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Aeroforms – Zinab Eisa & Esha Morakhiya – Harvard University",
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "pass": 3
+   },
+   {
+    "quote": "One key feature is the ability to create intricate geometries that are challenging or even impossible through traditional methods, allowing for lightweight, high-performance designs. It also enables customized products tailored to user needs and design optimization through variable densities and internal structures.",
+    "url": "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "pass": 3
+   },
+   {
+    "quote": "Designing for additive manufacturing (DfAM) offers various benefits, including lighter, higher-performing designs, mass customization, reduced material wastage, simplified supply chains, and aesthetically pleasing organic appearances. DfAM also enables cost savings, improved functional performance, and the creation of complex geometries challenging to achieve with traditional methods.",
+    "url": "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "pass": 3
+   },
+   {
+    "quote": "Iterate quickly to explore various options until achieving the desired result",
+    "url": "https://oqton.com/dfam/",
+    "pass": 3
+   },
+   {
+    "quote": "Lattices allow for significant weight reduction while maintaining or even improving mechanical properties. 3DXpert enables engineers to optimize these lattice designs, including variable densities and cell sizes, to match the biomechanical properties of the surrounding bone, reducing stress shielding",
+    "url": "https://oqton.com/dfam/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2015, nTopology has proven itself to be one of the major players in the generative design space. The company’s advanced algorithms are trusted and leveraged by a wide variety of manufacturing firms, including",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Partners",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Alkaios Bournias Varotsis",
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Filaments with various properties can be used in a wide range of fields.",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "It is important to choose from a wide variety of resins according to the characteristics and uses of the modeled object.",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced engineering software with various functions",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "We are setting up. Centering on the MEX method, 3D printers of various styles such as stereolithography, LAM method,",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "Even within the same method, it is possible to visit models of various manufacturers at once.",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Engineering Software with Various Functions",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "We have uploaded videos about our latest products, technologies, and various other information.",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "Shape can be set by combining various data.",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology can combine data from various fields (CAD data, mesh data, plane data, point data, simulation results, measurement data, etc.) for designing. nTopology can design the optimum geometry based on these data.",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "You can design by combining simulation (analysis) data with shape data. By integrating material properties and characteristics with applied loads (such as forces), it’s possible to significantly reduce the time required for design analysis conducted in various departments.",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "In this Special Focus Issue, Digital Engineering takes a look at how generative design solutions can be used across different types of design problems and with a variety of manufacturing approaches to accelerate design space exploration, and…",
+    "url": "https://www.digitalengineering247.com/article/partnering-design-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The term Design for Additive Manufacturing (DfAM) gets used to describe or vaguely allude to a wide variety of design/engineering/manufacturing activities from the design of lattice structures to support structures, part orientation to topology optimization, and part consolidation to process parameter development.",
+    "url": "https://www.designforam.com/p/what-is-design-for-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Design for Manufacturing acknowledges the variations in design rules amongst the different AM processes, while also considering it as equal amongst other manufacturing technology choices. As we seek to realise the industrial value of additive manufacturing, it is only in considering it alongside other manufacturing technologies that it will be treated as such.",
+    "url": "https://www.designforam.com/p/what-is-design-for-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "While traditional methods focus on compliance, ColdStream optimizes various objectives such as temperature minimization and variance reduction, and handles constraints like pressure loss.",
+    "url": "https://www.diabatix.com/technology/topology-optimization",
+    "pass": 3
+   },
+   {
+    "quote": "FCC / BCC variants",
+    "url": "https://cncfabworks.com/design-for-additive-manufacturing-dfam-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "The most common formulation is SIMP (Solid Isotropic Material with Penalization), which assigns a density variable to each element in the mesh. Elements with low density get removed. Elements with high density stay. The algorithm converges on a material distribution that represents the most efficient load path through your design space.",
+    "url": "https://www.getleo.ai/blog/topology-optimization-vs-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design encompasses topology optimization but goes further. Where topology optimization finds one optimal solution for one set of constraints, generative design explores a broader solution space. It can vary materials, manufacturing methods, and design parameters simultaneously, producing multiple design candidates for you to evaluate.",
+    "url": "https://www.getleo.ai/blog/topology-optimization-vs-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "The algorithms behind generative design vary by software platform. Some use topology optimization as the core solver and wrap it with automation to run multiple variations. Others use evolutionary algorithms, level-set methods, or proprietary approaches. The mathematical details matter less than the practical outcome: you get a range of options instead of a single answer.",
+    "url": "https://www.getleo.ai/blog/topology-optimization-vs-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, in most practical implementations. Generative design typically uses topology optimization as one of its core algorithms but adds automation to explore multiple materials, manufacturing methods, and design variations simultaneously. Topology optimization is more focused; generative design is broader.",
+    "url": "https://www.getleo.ai/blog/topology-optimization-vs-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Discover company news, insights, case studies, testimonials, and announcements from a variety of organizations.",
+    "url": "https://www.engineering.com/leading-generative-design-company-ntopology-gets-65-million-booster-shot/",
+    "pass": 3
+   },
+   {
+    "quote": "We write a lot about what CAD can do—and about what it cannot. It cannot make organic shapes, it cannot optimize, it cannot handle the variety of geometry (points, meshes, irregularities). It cannot do what nature can do—not even close.",
+    "url": "https://www.engineering.com/leading-generative-design-company-ntopology-gets-65-million-booster-shot/",
+    "pass": 3
+   },
+   {
+    "quote": "construction of irregularly shaped cells that vary in size, going from hardly",
+    "url": "https://www.engineering.com/leading-generative-design-company-ntopology-gets-65-million-booster-shot/",
+    "pass": 3
+   },
+   {
+    "quote": "The industry’s only process improvement has been to gain marginal efficiency by uniting products under one roof, making data transfer cleaner between designers and analysts. But the process remains",
+    "url": "https://www.engineering.com/leading-generative-design-company-ntopology-gets-65-million-booster-shot/",
+    "pass": 3
+   },
+   {
+    "quote": "Financial disclosure is too sparse to underwrite revenue quality, margin durability, or runway.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Audited revenue, gross margin, cash burn, and runway remain undisclosed.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "More than 5x growth was disclosed, but reliable absolute revenue, ARR, margin, burn, and runway were not",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "High-margin structural qualification pathway expanding across tier-one defense primes.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Lacks independent audit and omits margin, cash collection, or recurring versus NRE breakdown.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": ". Finally, because private disclosures do not break down recurring unit-production revenue versus non-recurring development and engineering fees, investors cannot yet verify underlying commercial gross margin durability",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Low upfront capex; variable operational expenditure",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing mechanisms reflect public business model disclosures. Unit economics and margin parity for custom defense parts are held privately by contractors.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "No evidence of separate ARR or software gross margin",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Material, labor, utilization, yield, and program-margin data are not publicly disclosed.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "4.2 Operating economics and margin path",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Gross margin",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Provide gross margin by automotive, aerospace/defense, and program maturity",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": ". DAPS fundamentally replaces fixed hard tooling with flexible, software-driven additive fabrication, allowing rapid variant iteration without the multi-million-dollar tooling capital expenditures required by traditional manufacturing setups [CE001, CE006].",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Assess production margin per component set and OEM warranty/liability indemnification terms",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Harvard",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "L-PBF employs a high-powered laser to melt thin layers of metal powder selectively. It is compatible with various materials, including steel, titanium, aluminum, and nickel-based superalloys [",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "]. DED can process various metals, composites, and graded materials [",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "]. Despite these challenges, DED is commonly used for large-scale aerospace components, repair work, and coating applications due to its compatibility with various materials and ability to repair existing components [",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "]. Moreover, it streamlines the production process, reducing lead times and costs and making it a pivotal approach in advancing the potential and applicability of AM across various industries. By considering design intricacies specific to AM, DfAM unlocks a new realm of innovative possibilities that traditional manufacturing methods cannot match [",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "]. By highlighting its role in optimizing multi-scale structures, which is crucial for applications needing varying material properties within a single component. This iterative testing ensures that designs are innovative, practical, and manufacturable [",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "The fundament of DfAM lies in understanding and implementing its basic principles and guidelines. This thoroughly explores various facets, including material choices and selecting appropriate AM processes [",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "Allows for multi-axis deposition, meaning the orientation can be varied.",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "It can vary in infill density and pattern.",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "3DXpert supports the following languages: English, German, Chinese, Korean, Japanese.",
+    "url": "https://oqton.com/dfam/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert supports the following languages: English, German, Chinese, Korean, Japanese.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語では「付加製造のための設計」と訳されますが、実態としては「AMを使うために図面を書き直す」という受動的なものではありません",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/what-is-dfam",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングで産業技術の未来を築く 日本3Dプリンティング産業技術協会",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語での正式名称は「付加製造」(JIS B9441)である",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "・・・一般社団法人日本3Dプリンティング産業技術協会",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）日本3Dプリンティング産業技術協会",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "日本船舶海洋工学会",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "公益社団法人日本鋳造工学会",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 一般社団法人 日本3Dプリンティング産業技術協会. All rights reserved.",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert supports the following languages: English, German, Chinese, Korean, Japanese.",
+    "url": "https://oqton.com/build-preparation/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "pass": 3
+   },
+   {
+    "quote": "Development and sales of 3D printers",
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 Arrowfly LLC. All Rights Reserved.",
+    "url": "https://www.engineering.com/leading-generative-design-company-ntopology-gets-65-million-booster-shot/",
+    "pass": 3
+   },
+   {
+    "quote": "Private-company disclosure remains incomplete; valuation is based on the September 2025 Series E and July 2026 secondary marks, while revenue, headcount, and exact customer counts remain undisclosed.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "More than 5x growth was disclosed, but reliable absolute revenue, ARR, margin, burn, and runway were not",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Disclosed 2025 Revenue Run-Rate",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Reported 5x year-over-year revenue expansion following Series E late-stage round.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "4.1 Revenue model and revenue quality",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Other users include BMW, Airbus, Volkswagen, Hyundai, Volvo Trucks, MAN, Safran, ArianeGroup, EDAG, Voith, and Brose, and the company reported more than 60 enterprise customers across 15 countries, with annual recurring revenue doubling in 2025. Frost & Sullivan recognized the company with its 2025 Global AI Agents for Engineering Transformational Innovation Leadership award.",
+    "url": "https://www.voxelmatters.com/synera-brings-agentic-ai-to-additive-manufacturing-design-and-build-preparation/",
+    "pass": 3
+   },
+   {
+    "quote": "Maskery I, Aremu AO, Parry L, Wildman RD, Tuck CJ, Ashcroft IA. Effective design and simulation of surface-based lattice structures featuring volume fraction and cell type grading. Mater Design. 2018;",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "Leary M, Downing D, Lozanovski B, Harris J. 5 - Design principles. In: Yadroitsev I, Yadroitsava I, du Plessis A, MacDonald E, editors. Fundamentals of Laser Powder Bed Fusion of Metals. Elsevier; 2021. pp. 91-119, 165-184. DOI: 10.1016/C2017-0-04238-6",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert can help you handle any challenge AM throws at you. When faced with repetitive tasks, or part types that re-occur in your trays, 3DXpert can carry a lot of your load for you. By capturing your knowledge into scripts and using AI to group similar parts together and apply solutions to them, you are free to focus on more value-added tasks.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/defining-generative-design-software-implementation-ntopology-frustum-paramatters-134663/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert can help you handle any challenge AM throws at you. When faced with repetitive tasks, or part types that re-occur in your trays, 3DXpert can carry a lot of your load for you. By capturing your knowledge into scripts and using AI to group similar parts together and apply solutions to them, you are free to focus on more value-added tasks.",
+    "url": "https://oqton.com/build-preparation/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Aerospace and defense primes, plus luxury automotive OEMs and hypercar programs",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM commercial engineering and low-volume production budgets",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Chief Technical Officer / Head of Vehicle Engineering",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Procurement dynamics synthesized from defense prime subcontracts, SBIR/STTR grant structures, and hypercar OEM supply agreements.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent's strategic pivot from boutique luxury hypercars to defense munitions infrastructure reflects market boundary realities. While automotive OEMs use DAPS for low-volume, mass-optimized structural lightweighting, defense buyers face acute industrial base shortages, making high-rate missile and drone structures an 80% demand driver for new factory capacity.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Printer Hardware & Materials OEM",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D Printer OEMs (e.g. Velo3D)",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Printer OEMs (Velo3D, Desktop Metal)",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "License, usage, or embedded allocation; not disclosed",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Production-deployed across OEM and defense customer programs",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense primes, aerospace tier-1s, and automotive OEMs",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Boutique hypercar brands and luxury automotive OEMs (McLaren, Bugatti, Aston Martin)",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial series production (Czinger 21C and OEM suspension components)",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Assess production margin per component set and OEM warranty/liability indemnification terms",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies drawn directly from documented partnerships with Raytheon Naval Power, Lockheed Martin Skunk Works, and luxury automotive OEMs.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Heavy Machinery Industry Outlook 2026: Top 50 OEM sales at USD 237.6B",
+    "url": "https://www.startus-insights.com/innovators-guide/generative-design-startups/",
+    "pass": 3
+   },
+   {
+    "quote": "]. With the end of some Original Equipment Manufacturing (OEM) patent protection, plus the attention that the market is starting to show, shortly, technology will become more effective and independent of additional processes to get the same finishing as traditional manufacturing processes [",
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded conduits: Design integrated channels/paths within parts for applications like conformal cooling inserts, fluid manifolds, turbine blades with enclosed piping. This improves thermal/fluid control.",
+    "url": "https://www.unionfab.com/blog/2023/11/dfam-design-for-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded electronics: PM techniques now allow for circuitry/wiring to be incorporated within 3D printed parts for applications like IoT sensors, smart prosthetics.",
+    "url": "https://www.unionfab.com/blog/2023/11/dfam-design-for-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive documentation is embedded in 3DXpert; you can access it quickly by pressing F1. This works context sensitive and will open the relevant chapter for what you are working on. If you can’t find what you are looking for, you can submit a case to our support team.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive documentation is embedded in 3DXpert; you can access it quickly by pressing F1. This works context sensitive and will open the relevant chapter for what you are working on. If you can’t find what you are looking for, you can submit a case to our support team.",
+    "url": "https://oqton.com/build-preparation/",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys Embedded",
+    "url": "https://ozeninc.com/ansys-software/ansys-additive-software/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "FI001: Revenue model bridge and missing gross-profit proof",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "DAPS links customer requirements to manufactured hardware, but public evidence does not quantify contract pricing, recognition, production cost, or gross profit.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Signals demand acceleration but not scale or profitability",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Robust funding & secondary pricing records; opaque GAAP profitability",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent reported $72.3 million in revenue for 2025 but maintains private undisclosed operating losses and cash burn metrics without public profitability figures.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent reported $72.3M revenue in 2025, and no public profitability figure was found.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Innovative cooling solutions for greater profitability and higher performance of your tools.",
+    "url": "https://lightbau.de/en/design-for-am/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "4. Pricing Discipline: $2.3B-$3.37B valuation reflects steep premium over public comps (3.7x-6.1x) [valuation-multiple]",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "Private market secondary and funding records indicate subsequent Series F-1 and F-2 transactions in July 2026 pricing shares at $42.26 with an implied post-money valuation mark of $3.37 billion.",
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3Dプリンティング（ トポロジー最適化 ・ DfAM 活用）が実現 ... — 3Dプリンティング（ トポロジー最適化 ・ DfAM 活用）が実現 ... SOLIZE PARTNERS株式会社 https://partners.solize.com > TOP > 全ての記事",
+    "url": "https://partners.solize.com/column/3dprinter/031",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.puntozero3d.com/en/services/generative-design-en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2212827123004444",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/cad/comments/g3k8fl/generative_design_vs_topology_optimization/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hal.science/hal-02948764/file/LCPI_IJIDM_2020_BRIARD.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://oqton.com/dfam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thed2mco.com/capabilities/design-optimization-dfam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://themfgcollaborative.com/training/dfam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revolutioninsimulation.org/generative-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f6s.com/software/category/dfam-design-for-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/programs/synera-automated-dfam-processes-for-industrial-3d-printing-18158554/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalengineering247.com/article/partnering-design-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asme.org/topics-resources/content/five-popular-applications-for-design-for-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/365329780_Generative_Design_and_Topology_Optimisation_of_Products_for_Additive_Manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.designforam.com/p/what-is-design-for-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.diabatix.com/technology/topology-optimization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cncfabworks.com/design-for-additive-manufacturing-dfam-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/dfam-aerospace-ntopology-interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getleo.ai/blog/topology-optimization-vs-generative-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engineering.com/leading-generative-design-company-ntopology-gets-65-million-booster-shot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startup.genisisiq.com/divergent-technologies-646111/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startus-insights.com/innovators-guide/generative-design-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2076-3417/13/22/12532",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/topology-optimization-vs-generative-design-190920244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/generative-design-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/synera-brings-agentic-ai-to-additive-manufacturing-design-and-build-preparation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dadept.com/dfam-ntop-discusses-main-updates-of-its-flagship-product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/343412414_G-DfAM_a_methodological_proposal_of_generative_design_for_additive_manufacturing_in_the_automotive_industry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intechopen.com/chapters/1195962",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdfam.com/cdfam-schedule/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infotron-eu.com/services/on-demand-manufacturing/dfam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lightbau.de/en/design-for-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getleo.ai/blog/best-generative-design-tools-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/design-for-additive-manufacturing-dfam-simply-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unionfab.com/blog/2023/11/dfam-design-for-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ixscale.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-sol.co.jp/blog/dfam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-967/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/what-is-dfam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.or.jp/dfam25/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8688/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/defining-generative-design-software-implementation-ntopology-frustum-paramatters-134663/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/ntop4-design-software-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pinterest.com/pin/ntopology-commercializes-generative-design-software-explore-the-ntop-platform--4081455904500942/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.3dnatives.com/en/the-top-design-softwares-for-1505236/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://antonanru.sellfy.store/p/moog-dm-generative/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.stratasys.com/news-events/press-releases/detail/741/stratasys-rapidly-expands-software-ecosystem-to-add-new",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/build-preparation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ozeninc.com/ansys-software/ansys-additive-software/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "DfAM generative design and topology optimization software white label",
+   "results": [
+    "https://www.youtube.com/watch?v=QLA92V_85_I",
+    "https://www.puntozero3d.com/en/services/generative-design-en/",
+    "https://www.sciencedirect.com/science/article/pii/S2212827123004444",
+    "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "https://www.reddit.com/r/cad/comments/g3k8fl/generative_design_vs_topology_optimization/",
+    "https://www.mapyourshow.com/mys_shared/imtsspark/handouts/Tim_Simpson.pdf",
+    "https://www.ptc.com/en/blogs/corporate/myth-dispelled-topology-optimization-is-not-true-generative-design?srsltid=AYCX9vIPSUKWlZQ6OAZbwxy5SHQNloE_NQOkEAdgFtjBvDsvWSoKrrHN",
+    "https://hal.science/hal-02948764/file/LCPI_IJIDM_2020_BRIARD.pdf",
+    "https://en.wikipedia.org/wiki/Design_for_Additive_Manufacturing"
+   ]
+  },
+  {
+   "query": "DfAM generative design and topology optimization software OEM API embed",
+   "results": [
+    "https://www.puntozero3d.com/en/services/generative-design-en/",
+    "https://hal.science/hal-02948764/file/LCPI_IJIDM_2020_BRIARD.pdf",
+    "https://www.youtube.com/watch?v=LZZeg1ccGl4",
+    "https://oqton.com/dfam/",
+    "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "https://thed2mco.com/capabilities/design-optimization-dfam",
+    "https://themfgcollaborative.com/training/dfam/",
+    "https://www.getleo.ai/blog/best-generative-design-tools-additive-manufacturing",
+    "https://www.researchgate.net/publication/365329780_Generative_Design_and_Topology_Optimisation_of_Products_for_Additive_Manufacturing",
+    "https://www.intechopen.com/chapters/1195962"
+   ]
+  },
+  {
+   "query": "DfAM generative design and topology optimization software reseller partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=QLA92V_85_I",
+    "https://revolutioninsimulation.org/generative-design/",
+    "https://themfgcollaborative.com/training/dfam/",
+    "https://hal.science/hal-02948764/file/LCPI_IJIDM_2020_BRIARD.pdf",
+    "https://oqton.com/dfam/",
+    "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "https://thed2mco.com/capabilities/design-optimization-dfam",
+    "https://www.youtube.com/watch?v=Oy-fzGCelLQ",
+    "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "https://www.f6s.com/software/category/dfam-design-for-additive-manufacturing"
+   ]
+  },
+  {
+   "query": "DfAM generative design and topology optimization software rebrand your logo",
+   "results": [
+    "https://www.youtube.com/watch?v=QLA92V_85_I",
+    "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "https://hal.science/hal-02948764/file/LCPI_IJIDM_2020_BRIARD.pdf",
+    "https://oqton.com/dfam/",
+    "https://www.reddit.com/r/cad/comments/g3k8fl/generative_design_vs_topology_optimization/",
+    "https://www.asme.org/topics-resources/content/five-popular-applications-for-design-for-additive-manufacturing",
+    "https://www.researchgate.net/publication/365329780_Generative_Design_and_Topology_Optimisation_of_Products_for_Additive_Manufacturing",
+    "https://www.designforam.com/p/what-is-design-for-additive-manufacturing",
+    "https://www.hotty.co.jp/en/3d_service/ntopology/",
+    "https://www.f6s.com/software/category/dfam-design-for-additive-manufacturing"
+   ]
+  },
+  {
+   "query": "DfAM generative design and topology optimization software startup profitable revenue",
+   "results": [
+    "https://www.youtube.com/watch?v=QLA92V_85_I",
+    "https://hal.science/hal-02948764/file/LCPI_IJIDM_2020_BRIARD.pdf",
+    "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "https://www.voxelmatters.com/dfam-aerospace-ntopology-interview/",
+    "https://www.getleo.ai/blog/topology-optimization-vs-generative-design",
+    "https://solidxperts.com/en/blog/mastering-design-for-additive-manufacturing-expert-tips/",
+    "https://thed2mco.com/capabilities/design-optimization-dfam",
+    "https://www.engineering.com/leading-generative-design-company-ntopology-gets-65-million-booster-shot/",
+    "https://www.researchgate.net/publication/365329780_Generative_Design_and_Topology_Optimisation_of_Products_for_Additive_Manufacturing",
+    "https://startup.genisisiq.com/divergent-technologies-646111/"
+   ]
+  },
+  {
+   "query": "DfAM generative design and topology optimization software company EBITDA profitable bootstrapped",
+   "results": [
+    "https://www.voxelmatters.com/dfam-aerospace-ntopology-interview/",
+    "https://hal.science/hal-02948764/file/LCPI_IJIDM_2020_BRIARD.pdf",
+    "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "https://www.getleo.ai/blog/topology-optimization-vs-generative-design",
+    "https://www.mdpi.com/2076-3417/13/22/12532",
+    "https://www.engineering.com/leading-generative-design-company-ntopology-gets-65-million-booster-shot/",
+    "https://www.3dnatives.com/en/topology-optimization-vs-generative-design-190920244/",
+    "https://www.researchgate.net/publication/365329780_Generative_Design_and_Topology_Optimisation_of_Products_for_Additive_Manufacturing",
+    "https://www.mordorintelligence.com/industry-reports/generative-design-market",
+    "https://www.voxelmatters.com/synera-brings-agentic-ai-to-additive-manufacturing-design-and-build-preparation/"
+   ]
+  },
+  {
+   "query": "DfAM generative design and topology optimization software vendors Europe Israel Germany",
+   "results": [
+    "https://oqton.com/dfam/",
+    "https://hal.science/hal-02948764/file/LCPI_IJIDM_2020_BRIARD.pdf",
+    "https://www.voxelmatters.com/dfam-aerospace-ntopology-interview/",
+    "https://www.researchgate.net/publication/343412414_G-DfAM_a_methodological_proposal_of_generative_design_for_additive_manufacturing_in_the_automotive_industry",
+    "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "https://www.intechopen.com/chapters/1195962",
+    "https://cdfam.com/cdfam-schedule/",
+    "https://thed2mco.com/capabilities/design-optimization-dfam",
+    "https://themfgcollaborative.com/training/dfam/",
+    "https://3druck.com/en/programs/synera-automated-dfam-processes-for-industrial-3d-printing-18158554/"
+   ]
+  },
+  {
+   "query": "DfAM generative design and topology optimization software pricing API",
+   "results": [
+    "https://oqton.com/dfam/",
+    "https://www.youtube.com/watch?v=LZZeg1ccGl4",
+    "https://www.researchgate.net/publication/365329780_Generative_Design_and_Topology_Optimisation_of_Products_for_Additive_Manufacturing",
+    "https://thed2mco.com/capabilities/design-optimization-dfam",
+    "https://www.getleo.ai/blog/best-generative-design-tools-additive-manufacturing",
+    "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "https://themfgcollaborative.com/training/dfam/",
+    "https://all3dp.com/1/design-for-additive-manufacturing-dfam-simply-explained/",
+    "https://www.unionfab.com/blog/2023/11/dfam-design-for-additive-manufacturing",
+    "https://oqton.com/3dxpert/"
+   ]
+  },
+  {
+   "query": "wl-A DfAM（トポロジー最適化・AM向け形状生成） 日本 代理店",
+   "results": [
+    "https://www.t-sol.co.jp/blog/dfam/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-967/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/what-is-dfam",
+    "https://3dprint.or.jp/dfam25/",
+    "https://metoree.com/categories/8688/",
+    "https://partners.solize.com/column/3dprinter/031",
+    "https://www.tachibana.co.jp/3dprinter/04-DfAMOther.html",
+    "https://azuma-metal3dp.com/column/610",
+    "https://news.sharelab.jp/study/study-knowledge-dfam/"
+   ]
+  },
+  {
+   "query": "DfAM generative design and topology optimization software alternatives to CASTOR Oqton 3YOURMIND Materialise AMFG nTop",
+   "results": [
+    "https://oqton.com/dfam/",
+    "https://www.youtube.com/watch?v=QLA92V_85_I",
+    "https://www.getleo.ai/blog/best-generative-design-tools-additive-manufacturing",
+    "https://3dprintingindustry.com/news/defining-generative-design-software-implementation-ntopology-frustum-paramatters-134663/",
+    "https://all3dp.com/1/ntop4-design-software-for-additive-manufacturing/",
+    "https://cdfam.com/design-for-additive-manufacturing-at-cdfam-part-2/",
+    "https://www.pinterest.com/pin/ntopology-commercializes-generative-design-software-explore-the-ntop-platform--4081455904500942/",
+    "https://www.youtube.com/watch?v=LZZeg1ccGl4",
+    "https://www.3dnatives.com/en/the-top-design-softwares-for-1505236/",
+    "https://www.f6s.com/software/category/dfam-design-for-additive-manufacturing"
+   ]
+  },
+  {
+   "query": "DfAM generative design and topology optimization software SDK license OEM partners list",
+   "results": [
+    "https://oqton.com/dfam/",
+    "https://hal.science/hal-02948764/file/LCPI_IJIDM_2020_BRIARD.pdf",
+    "https://3dprintingindustry.com/news/ntopology-set-to-bolster-generative-design-platform-with-new-and-improved-dfam-tools-211705/",
+    "https://thed2mco.com/capabilities/design-optimization-dfam",
+    "https://www.researchgate.net/publication/343412414_G-DfAM_a_methodological_proposal_of_generative_design_for_additive_manufacturing_in_the_automotive_industry",
+    "https://all3dp.com/1/design-for-additive-manufacturing-dfam-simply-explained/",
+    "https://www.youtube.com/watch?v=xc7EuvrgSRk",
+    "https://antonanru.sellfy.store/p/moog-dm-generative/",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.f6s.com/software/category/dfam-design-for-additive-manufacturing"
+   ]
+  }
+ ],
+ "missing": {}
+}

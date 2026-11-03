@@ -1,0 +1,1349 @@
+{
+ "name": "洋上風力",
+ "en": "offshore wind",
+ "aliases": [
+  "浮体式洋上風力"
+ ],
+ "context": "12 GX ⑤洋上風力",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:30:34.019950+00:00",
+ "evidence": {
+  "需給の差": [
+   {
+    "quote": "経済的・戦略的要因に加え、サプライチェーンの現地化を背景とした、現地生産能力や専門港湾インフラへの大規模な投資が、物流費とカーボンフットプリントを削減し、市場の見通しを押し上げます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "・国内に経験ある事業者が不足",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "船舶法 工事作業・輸送用船舶の不足に対応するため、カボタージュ規制（外国籍船の寄港制限）に関する特許要件の明確化 国土交通省",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風車の拠点港で建設作業を進めていくにあたって、重機などの機材や設備とともに、それを動かす人材が不足しているのが現状です",
+    "url": "https://windjournal.jp/123479/",
+    "pass": 3
+   },
+   {
+    "quote": "建設拠点となる港はすでにいくつかノミネートされていますが、仮に第2、第3ラウンド事業の海上工事の時期が重なって来たときに、「船がない」「風車を運んで来ることができない」「スタッフが足りない」「機材もない」といったことが懸念されます",
+    "url": "https://windjournal.jp/123479/",
+    "pass": 3
+   },
+   {
+    "quote": "28年から30年にかけてラウンド事業の海上工事が輻輳（ふくそう）し、その時点で各海域のO＆Mもスタートして、作業船の不足がボトルネックとなることが心配されます",
+    "url": "https://windjournal.jp/123479/",
+    "pass": 3
+   },
+   {
+    "quote": "建築・土木の分野も含めて業界全体で人材が不足していますが、日本にはものづくりが好きな人がたくさんいると思っています",
+    "url": "https://windjournal.jp/123479/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼商品大量在庫による短納期、加工機械での加工",
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "pass": 3
+   },
+   {
+    "quote": "「洋上風力メンテナンス初級技能者向けガイドライン（V1）」のリリース",
+    "url": "https://jwpa.jp/memberlist/businesslist/",
+    "pass": 3
+   },
+   {
+    "quote": "年カーボンニュートラル達成を目指し、洋上風力発電の導入ならびに運用を着実に進めるにあたり、人材の不足が懸念されていますが、今回の検討が解決に向けた一助になればと考えています",
+    "url": "https://jwpa.jp/information/7798/",
+    "pass": 3
+   },
+   {
+    "quote": "「洋上風力メンテナンス初級技能者向けガイドライン（V1）」のリリース",
+    "url": "https://jwpa.jp/information/7798/",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力人材育成プロジェクトとは、日本国内で普及が進む洋上風力発電において、不足が懸念される洋上風力人材",
+    "url": "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力人材とは、プロジェクトを企画・風車設計などを担う「技術者」、風車の建設や設置後のメンテナンスを担う「技能者」のことをいいます",
+    "url": "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "pass": 3
+   },
+   {
+    "quote": "不足する洋上風力を担う人材",
+    "url": "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、海洋開発の現場に乏しい日本では、洋上風力発電を設置する人材が慢性的に不足しています",
+    "url": "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "pass": 3
+   },
+   {
+    "quote": "さらに設置後のメンテナンスを担う人材不足が今後課題となることが予想されます",
+    "url": "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "pass": 3
+   },
+   {
+    "quote": "によると、日本では現在、洋上風力人材が技術者と技能者併せて約4,000人しかいないのに対し、2030年には約15,700人、2050年には約48,500人の人材が必要となる推計が発表されています",
+    "url": "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足解決に向けて",
+    "url": "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "pass": 3
+   },
+   {
+    "quote": "日本財団では、今後拡大が見込まれる洋上風力発電業界における人材不足を解決するため、技術者と技能者の育成プログラムや育成拠点の整備を支援しています",
+    "url": "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "pass": 3
+   },
+   {
+    "quote": "皆さまのあたたかなご支援をお待ちしております",
+    "url": "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電、高所作業の人材が足りない！ ～再エネ拡大へ期待大だが...",
+    "url": "https://blogs.ricoh.co.jp/RISB/environment/post_886.html",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電の\"先進国\"である欧州などはメンテナンス（運用・保守）人材の育成が進んでいるものの、日本は高齢化の進展に伴う人手不足もあって、お寒い状況",
+    "url": "https://blogs.ricoh.co.jp/RISB/environment/post_886.html",
+    "pass": 3
+   },
+   {
+    "quote": "このため作業者はメーカーが雇用しているケースがほとんどで世界的に人材の不足が起きている",
+    "url": "https://blogs.ricoh.co.jp/RISB/environment/post_886.html",
+    "pass": 3
+   },
+   {
+    "quote": "そうした人材は不足しているのが現実で、「大型化に伴い建設に数千億～兆円単位の費用がかかる場合もある風力プロジェクト」（電力関係者）が\"空回り\"する事態を避けるため、待ったなしの風力発電強化に加えて高所で作業するメンテナンス人材の育成も待ったなしだ",
+    "url": "https://blogs.ricoh.co.jp/RISB/environment/post_886.html",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電メンテナンスにおける担い手の育成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．風力発電業界における人材不足",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．担い手確保に向けた現状と課題",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）トレーニングサイトの不足への対応",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "題が指摘されており、風力発電業界においても、従来から慢性的な人材不足の状態にある",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、本稿では、風力発電メンテナンス分野における担い手の育成とその課題、また",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "来から慢性的な人材不足の状態にあるとされるが、その背景としては、①風力発電業界が",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "190 人程度が不足している15",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なるとの見通しも示されており16、メンテナンス人員の不足は喫緊の課題となっている",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上記ガイドブックは再エネ全般にわたるものであるが、再エネに係る人材不足の現状を",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イトが不足しており、風車の現物を使用してトレーニングできる施設を整備すべきとの指",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求められており、とりわけ本稿で紹介したメンテナンス分野の担い手の育成が喫緊の課題",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのような観点からもメンテナンス分野における担い手の育成や技術開",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力の公募手続きの迅速化、排他的経済水域（EEZ）への拡大を見据えた法制度との連動、さらには系統接続のボトルネック解消など、予算措置と規制改革を一体で進めることが求められている",
+    "url": "https://windjournal.jp/127932/",
+    "pass": 3
+   },
+   {
+    "quote": "系統容量及び出力制御は、認証の透明性やサプライチェーンの可視性と並び、バンカビリティに影響する未解決のボトルネックとして業界全体で認識され続けている",
+    "url": "https://www.tkilaw.com/11452",
+    "pass": 3
+   },
+   {
+    "quote": "風力開発の未来を開拓する皆様からのご応募をお待ちしております",
+    "url": "https://mowd.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの大型作業船は、巨額の投資が必要となるため参入障壁が高く、将来の洋上風力建設市場における供給のボトルネックともなり得ます",
+    "url": "https://strainer.jp/notes/8731",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、これまでの豊富な実績と、将来を見据えた革新的な工法開発を両輪とし、国が推進する洋上風力発電市場において、建設分野の主要な担い手となることを目指しています",
+    "url": "https://strainer.jp/notes/8731",
+    "pass": 3
+   },
+   {
+    "quote": "between late 2020 and mid-2022. Although global steel prices have since fallen to near-2019 levels, the decline in turbine costs has been slow. Shipping and installation expenses have also increased due to post-COVID supply chain bottlenecks. Transporting monopiles from Europe can cost around",
+    "url": "https://ieefa.org/resources/japans-offshore-wind-sector-down-not-out",
+    "pass": 3
+   },
+   {
+    "quote": "for offshore projects. Japan’s lengthy baseline lead time increases exposure to component price volatility, rising financing costs, and delays, making projects more costly and risk-prone by global standards.",
+    "url": "https://ieefa.org/resources/japans-offshore-wind-sector-down-not-out",
+    "pass": 3
+   },
+   {
+    "quote": "At the same time, many of the fundamental bottlenecks identified by industry and in the Global Wind Energy Council’s (GWEC)",
+    "url": "https://ieefa.org/resources/japans-offshore-wind-sector-down-not-out",
+    "pass": 3
+   },
+   {
+    "quote": "(5) Shortages of domestic ports and installation vessels, which continue to force developers to rely on costly foreign charters",
+    "url": "https://ieefa.org/resources/japans-offshore-wind-sector-down-not-out",
+    "pass": 3
+   },
+   {
+    "quote": "Copper shortage threatens offshore wind rollout, UN warns TGS 4C | 4C Offshore News",
+    "url": "https://www.tgs4c.com/news/copper-shortage-threatens-offshore-wind-rollout2c-un-warns-nid31132.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copper shortage threatens offshore wind rollout, UN warns",
+    "url": "https://www.tgs4c.com/news/copper-shortage-threatens-offshore-wind-rollout2c-un-warns-nid31132.html",
+    "pass": 3
+   },
+   {
+    "quote": "the supply gap will require faster permitting, better technology, stronger",
+    "url": "https://www.tgs4c.com/news/copper-shortage-threatens-offshore-wind-rollout2c-un-warns-nid31132.html",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "有利な規制政策",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "固定価格買取制度（FiT）の継続的な導入",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力消費の着実な増加に加え、炭素排出に対する懸念の高まりを受け、政策立案者は支援的な規制枠組みの導入を進めており、これが再生可能エネルギー技術への投資を促進しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力セクターは、固定価格制度、技術に基づく導入目標、競争入札プロセスなどの政策メカニズムによって大きく支えられています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国、デンマーク、フランス、ドイツ、日本、オランダ、英国など複数の国では、プロジェクト開発を加速するため、洋上風力発電の入札制度を導入しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測可能な収益源を提供し、財務上の不確実性を低減する固定価格買取制度（FiT）の継続的な導入に加え、プロジェクト開発事業者の収益安定性を高める差額決済契約（CfD）メカニズムの導入により、業界内の競争環境は強化されると予想されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "長い海岸線、豊富な風力資源、整備された規制体制に支えられた欧州全域での洋上風力発電容量の導入拡大が、セクターの成長をさらに促進しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力エネルギーの普及促進を目的とした補助金、税制優遇、その他の奨励制度という形での政府支援の継続は、市場成長にプラスの影響を与えると見込まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "固定価格買取制度や電力購入契約の仕組みに代わる政府の政策枠組みと競争的な入札制度、ならびに一段と野心的な各国の目標が、事業環境を牽引します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "支援的な規制枠組みと政策の確実性は、洋上風力発電の導入を促進する最も重要な要因です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界各地の多くの沿岸地域、特にアジア太平洋、北米、アフリカおよび中南米の一部では、初期投資コストの高さ、技術的制約、規制上の課題などにより、洋上風力資源の大部分が依然として未開発です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界各国の政府は、厳格な環境規制、炭素削減目標、再生可能エネルギー導入義務を実施しており、電力会社や企業に対して、化石燃料を基盤とする発電から持続可能な代替エネルギーへの移行を促しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "FiT制度の継続的な導入",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "FiT制度は、再生可能エネルギー源から発電された電力に対して、あらかじめ定められた期間にわたり固定価格を保証するため、資本集約型の洋上風力発電プロジェクトへの投資をより予測可能かつ魅力的なものにします",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、FiT制度は、開発事業者間の競争を促して費用対効果の高いソリューションの提供を促進し、技術革新を推進するとともに、タービン、基礎構造、送電インフラの現地サプライチェーンを拡大します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partner Satisfaction Studies",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Construction and Manufacturing",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラルの政府目標、恵まれた風況、技術コストの低下、エネルギー安全保障への懸念、固定価格買取制度やオークションを通じた政策支援は、日本の洋上風力発電市場シェアに貢献している要因の一部である",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "The IMARC team was very reactive and flexible with regard to our requests. A very good overall experience. We are happy with the work that IMARC has provided, very complete and detailed. It has contributed to our business needs and provided the market visibility that we required",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "The figures of market study were very close to our assumed figures. The presentation of the study was neat and easy to analyse. The requested details of the study were fulfilled. My overall experience with the IMARC Team was satisfactory.",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market reports from IMARC have been instrumental in guiding our business strategies. We found the reports comprehensive and data-driven, which helped us make informed decisions. The detailed insights and actionable data have consistently provided us with a competitive edge in a rapidly changing alcohol market.",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "We recently commissioned multiple market research reports from IMARC, and the insights we received were invaluable. The depth of analysis, accuracy of data, and actionable recommendations have greatly enhanced our strategic decision-making.",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Report",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハラール認証取得支援サービス",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vJuwGPRB2zfTYCDeM42CG2mdqRHI6MwGhfQw7osZhOSN1UFW5H9",
+    "pass": 3
+   },
+   {
+    "quote": "陸上風力については、FIT制度の認定を取得し新設された発電所が順次運転を開始することによって、累計導入容量は増加傾向である",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vJuwGPRB2zfTYCDeM42CG2mdqRHI6MwGhfQw7osZhOSN1UFW5H9",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力では、2025年度に比較的大規模の発電所の運転開始が予定されているほか、「海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律」（以下、再エネ海域利用法）やそれ以外に基づく海域占有によって、洋上風力発電所の案件形成が行われている",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vJuwGPRB2zfTYCDeM42CG2mdqRHI6MwGhfQw7osZhOSN1UFW5H9",
+    "pass": 3
+   },
+   {
+    "quote": "また、中型風力については、FIT制度に移行認定を行って運転を開始した発電所の調達期間が2027年度にかけて終了することで、国内の累計導入容量は減少傾向である",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vJuwGPRB2zfTYCDeM42CG2mdqRHI6MwGhfQw7osZhOSN1UFW5H9",
+    "pass": 3
+   },
+   {
+    "quote": "小型風力については、2018年度以前に認定されたFIT制度による導入が継続しており、累計導入容量は増加傾向にある",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vJuwGPRB2zfTYCDeM42CG2mdqRHI6MwGhfQw7osZhOSN1UFW5H9",
+    "pass": 3
+   },
+   {
+    "quote": "2050年カーボンニュートラル達成を見据えた2040年度の姿に向け、洋上風力発電（浮体式も含む）に対して政府による案件形成目標、産業界による具体的な数値目標を記載した洋上風力ビジョンや、風力発電導入を促進する施策である再エネ海域利用法、FIT/FIP制度等の政策動向を整理した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vJuwGPRB2zfTYCDeM42CG2mdqRHI6MwGhfQw7osZhOSN1UFW5H9",
+    "pass": 3
+   },
+   {
+    "quote": "​洋上・陸上を問わず、新設の50kW以上の風力発電所については、FIT制度の適用は2024年度（浮体式洋上風力発電所を除く）で終了しており、今後はFIP制度を前提とした運用が必要となる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vJuwGPRB2zfTYCDeM42CG2mdqRHI6MwGhfQw7osZhOSN1UFW5H9",
+    "pass": 3
+   },
+   {
+    "quote": "FIP制度の下で発電事業者は供給先を自由に選択することが可能となるが、同時に発電量の計画値と実績値を一致させるバランシングの義務が課せられ、FIT制度と比較してより発電事業者としての役割が強く求められることとなる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vJuwGPRB2zfTYCDeM42CG2mdqRHI6MwGhfQw7osZhOSN1UFW5H9",
+    "pass": 3
+   },
+   {
+    "quote": "①は2019年12月に促進区域として指定し 、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②～④は2020年7月に促進区域として指定し 、2021年5月の公募終了を",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】再エネ海域利用法の施行",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海域の利用の促進に関する法律（以下、再エネ海域利用法）」が2019年４月１日より施行",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・国が、洋上風力を実施可能な促進区域を指定",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て事業者を選定、長期占用を可能とする制度を創設",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・区域指定の際、関係省庁と協議",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)事業環境整備（規制・規格の総点検）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・海域占用ルールの整備：国が促進区域を指定し、30年間占有可能（再エネ海域利用法）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➜４ヶ所（長崎、千葉、秋田×２）を指定し公募を実施済み、今後も毎年1GW程度の新区域を指定",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③事業環境整備：産業界から要望のあった各種規制(残置規制の明確化、航空障害灯の設置基準緩和、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "安全審査合理化等)の総点検を実施済、各規制の担当省庁において検討を加速化",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規制の総点検",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "残置規制等）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規制改革の更なる推進",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開発・建設のための法律が整備されてきたことから、本格的に市場が立ち上がっていくと期待されている",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/01186/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "4-1 日本：促進区域の指定状況",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-3 日本：海洋再エネ整備法による区域指定（領海及び内水）",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-4 日本：海洋再エネ整備法による区域指定（EEZ）",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "European Wind Power Action Plan 2030年までに 111GW 2023年",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "英国 クリーン電力2030行動計画Clean Power 2030 Action Plan 2030年までに43~50GW 2024年",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "フランス 官民洋上風力合意Pacte Eolien en Mer entre l’Etat et la Filière 2035年までに 18GW2050年までに 45GW 2022年",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerating Ireland’s Offshore Energy Programme－Policy Statement on the Framework for Phase Two",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "案件は価格決定が競争入札制に移行するため、その影響が懸念されているが、過去に固定価格買取制度が終了した後も、政府の財政支援なしに産業が成",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年に洋上風力ロードマップを発表し、再生可能エネルギーへの外資規制を",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図16 促進区域・有望区域等の指定・整理状況（2025年7月30日時点）",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典）資源エネルギー庁 「再エネ海域利用法に基づく区域指定・事業者公募の流れ及び案件形成状況」",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "主要メーカーは複数の市場に対応するため地域生産拠点を設立しており、ゴールドウインドをはじめとする中国メーカーも国際展開を進め、東南アジア市場での生産体制を確立していきます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業はまた、エネルギー需要が増加している新興市場へのアクセスや、顧客層の拡大に向けた国際プロジェクトへの参画を目的として、事業拡大および市場浸透戦略を推進しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力エネルギー業界で事業を展開する主な企業は次のとおりです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "General Electricは、最大14～15MWの定格出力を持つHaliade-Xシリーズのタービンを製造する、洋上風力タービンの主要メーカーです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力発電市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主な企業としては、シーメンス・ガメサ・リニューアブル・エナジー、ヴェスタス・ウィンド・システムズ、GEリニューアブル・エナジー、明陽スマートエネルギー、ゴールドウインド、オーステッドA/S、エクイノールASA、RWEリニューアブルズ、中国龍源電力、エネセレ、古河電気工業、グローバル・エナジー、IMPSA、LSケーブル＆システム、ネクサンス、ノルデックス、プリズミアン・グループ、住友電気工業、サウスワイヤ・カンパニー、スズロン・エナジー、WEGなどが挙げられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、すべての主要企業の詳細なプロフィールが提供されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "※赤枠は日本企業 ※日本企業の浮体で大型風車を複数機用いた実績はない",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・海外企業と日本企業の協業の促進（J-Bridge等）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "公募で安定調達に資する国内調達に加点、JETROを通じた海外企業と日本企業の協業の促進等",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は世界と戦えるのか？「洋上風力発電」のポテンシャルとビジネスチャンス | EMIRA",
+    "url": "https://emira-t.jp/special/14027/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は世界と戦えるのか？「洋上風力発電」のポテンシャルとビジネスチャンス",
+    "url": "https://emira-t.jp/special/14027/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業に洋上風力のビジネスチャンスはあるのか？",
+    "url": "https://emira-t.jp/special/14027/",
+    "pass": 3
+   },
+   {
+    "quote": "「このように洋上風力発電は、大規模な事業であるため投資効率が良く、将来性も高いため、再エネで先行していた日本企業の参画余地もあるはずです",
+    "url": "https://emira-t.jp/special/14027/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本企業が参画する上での課題も調査から見えてきました」",
+    "url": "https://emira-t.jp/special/14027/",
+    "pass": 3
+   },
+   {
+    "quote": "ここに日本企業が新たに参画することは、ハードルが高いと言わざるを得ません」",
+    "url": "https://emira-t.jp/special/14027/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーンの中に参入することは難しいものの、大手総合商社を中心に、日本企業も欧州の洋上風力発電市場へ積極的に出資している",
+    "url": "https://emira-t.jp/special/14027/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の洋上風力発電事業における今後のストーリーとしては、開発や資金面など全体の効率を考えて、日本企業と欧州企業の協働が進むと考えられます",
+    "url": "https://emira-t.jp/special/14027/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、こうした異なる立場で洋上風力発電に挑む主要企業をリストとしてご紹介します",
+    "url": "https://strainer.jp/notes/8731",
+    "pass": 3
+   },
+   {
+    "quote": "The EUIPO and EPO, in cooperation with the EU-Japan Centre, are organising this webinar for Japanese companies. It will introduce practical examples of how companies can protect their brands, designs…",
+    "url": "https://www.eu-japan.eu/publications/report-onshore-and-offshore-wind-market-japan",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": "1.魅力的な国内市場の創出 2.投資促進・サプライチェーン形成 3.アジア展開も見据えた次世代技術開発、国際連携",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の2030年と2050年の導入見込みが現在行われている公募の上限価格",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 経済波及効果として、日本市場全体とアジアでシェア25%を獲得すると仮定した場合、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池の国内市場、2040年度に982億円",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/01186/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "DENZAIグループは24年4月、つり上げ能力が2500トンのクレーンを導入し、15MW超の洋上風車建設にも対応できる体制を整え、日本国内はもちろん、海外でも浮体式洋上風力発電プロジェクトへの参入を目指している",
+    "url": "https://windjournal.jp/123479/",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "オランダ Hollande Kust Zuid 3 & 4 市場価格（補助金ゼロ）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(落札額10円/kWh以下、補助金ゼロの案件も)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " そのため、官民協議会及びNEDOにおいて、候補となる技術群をロングリストで抽出し 、８分野に整",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "フランス 官民洋上風力合意Pacte Eolien en Mer entre l’Etat et la Filière 2035年までに 18GW2050年までに 45GW 2022年",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本： 洋上風力の産業競争力強化に向けた官民協議会（2025年8月）「洋上風力産業ビジョン（第2次）[浮体式洋上風力等に関する産業戦略]」（2025年8月19日閲覧）",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 洋上風力の産業競争力強化に向けた官民協議会（2025年8月）「洋上風力産業ビジョン（第2次）[浮体式洋上風力等に関する産業戦略]」（2025年8月19日閲覧）",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地域経済を活性化し、雇用も生む」（商工労働部次世代産業課）として再エネ人材の育成補助に3300万円の予算を計上して支援",
+    "url": "https://blogs.ricoh.co.jp/RISB/environment/post_886.html",
+    "pass": 3
+   },
+   {
+    "quote": "「2050年カーボンニュートラル」の目標達成に向け、官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取り組む企業等に対して最長10年間、研究開発・実証から社会実装までを継続して支援する「グリーンイノベーション基金事業」の一環として、NEDOは浮体式を中心とした洋上風力発電の早期のコスト低減を図るため、「洋上風力発電の低コスト化」に係る技術開発事業を推進しています",
+    "url": "https://www.nedo.go.jp/koubo/FF1_100480.html",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力の産業競争力強化に向けた官民協議会において、2025年8月には洋上風力産業ビジョン（第2次）が発表され、NEDOでもこれを受けて「浮体式洋上風力等にかかる技術開発ロードマップ骨子」を策定し、浮体式を中心とした洋上風力発電の低コスト化に向け、さらなる取り組みを進めていくこととしています",
+    "url": "https://www.nedo.go.jp/koubo/FF1_100480.html",
+    "pass": 3
+   },
+   {
+    "quote": "2050年カーボンニュートラル達成に向けた国家戦略の一環として、グリーンイノベーション基金を活用し、洋上風力発電の発電コスト低減と運転保守の効率化を実現する技術開発を支援します",
+    "url": "https://hojokin-agent.jp/subsidy/216",
+    "pass": 3
+   },
+   {
+    "quote": "本事業は、2兆円規模のグリーンイノベーション基金を財源とする研究開発プロジェクトです",
+    "url": "https://hojokin-agent.jp/subsidy/216",
+    "pass": 3
+   },
+   {
+    "quote": "本事業がグリーンイノベーション基金事業の一環であることを踏まえ、2050年カーボンニュートラルや洋上風力導入目標への貢献度を明確に示すことが重要です",
+    "url": "https://hojokin-agent.jp/subsidy/216",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年度政府予算】風力発電関連の概算要求を読み解く - ウインドジャーナル｜風力発電のビジネス情報サイト",
+    "url": "https://windjournal.jp/127932/",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年度政府予算】風力発電関連の概算要求を読み解く",
+    "url": "https://windjournal.jp/127932/",
+    "pass": 3
+   },
+   {
+    "quote": "国の2027年度予算の概算要求が8月31日に締め切られた",
+    "url": "https://windjournal.jp/127932/",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電領域においても、経済産業省、国土交通省、環境省の3省が案件形成や基盤整備に向けた予算を要求している",
+    "url": "https://windjournal.jp/127932/",
+    "pass": 3
+   },
+   {
+    "quote": "財務省が取りまとめた2027年度予算の概算要求は、一般会計の要求総額が143兆円前後に達し、4年連続で過去最大を更新した",
+    "url": "https://windjournal.jp/127932/",
+    "pass": 3
+   },
+   {
+    "quote": "政府は今年度の当初予算と前年度の補正予算をあわせた約140.6兆円を主な比較対象として位置づけているが、現時点で金額を示さない「事項要求」も相次ぎ、実際の歳出圧力は極めて強い",
+    "url": "https://windjournal.jp/127932/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度予算編成における最大の焦点は、膨らんだ概算要求の中から風力発電関連の重要施策が確実な予算枠として確保されるかにある",
+    "url": "https://windjournal.jp/127932/",
+    "pass": 3
+   },
+   {
+    "quote": "令和9年度国土交通省予算概算要求概要",
+    "url": "https://windjournal.jp/127932/",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電補助金｜令和8年概算要求の補助金一覧(1ページ目)｜新電力ネット",
+    "url": "https://pps-net.org/subsidy/wind2026",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電補助金｜令和8年概算要求",
+    "url": "https://pps-net.org/subsidy/wind2026",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度概算要求の中で、風力発電関連で使える補助金の一覧です",
+    "url": "https://pps-net.org/subsidy/wind2026",
+    "pass": 3
+   },
+   {
+    "quote": "成立した場合、2026年1月～翌2027年1月（目安）に風力発電関連で事業を展開する方が利用できる補助金となります",
+    "url": "https://pps-net.org/subsidy/wind2026",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電補助金｜令和8年概算要求（PDF）",
+    "url": "https://pps-net.org/subsidy/wind2026",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度「洋上風力発電人材育成事業費補助金」",
+    "url": "https://r8-owp-hrdp.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "令和9年度 経済産業省概算要求（令和9年度洋上風力発電人材育成事業に関する補助金情報あり）が公表されました",
+    "url": "https://r8-owp-hrdp.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「令和8年度洋上風力発電人材育成事業費補助金」の第2次公募を締め切りました",
+    "url": "https://r8-owp-hrdp.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「令和8年度洋上風力発電人材育成事業費補助金」の第2次公募を開始しました",
+    "url": "https://r8-owp-hrdp.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「令和8年度洋上風力発電人材育成事業費補助金」の第1次公募を締め切りました",
+    "url": "https://r8-owp-hrdp.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「令和8年度洋上風力発電人材育成事業費補助金」の第1次公募を開始しました",
+    "url": "https://r8-owp-hrdp.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「令和8年度洋上風力発電人材育成事業費補助金」の公募の予告を実施いたします",
+    "url": "https://r8-owp-hrdp.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "本補助金は、令和4年度から開始され、今年で5年目を迎えます",
+    "url": "https://r8-owp-hrdp.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の著しく低い水準での落札とその後の建設コストの倍増を受け、三菱商事を中心とするコンソーシアムが2025年8月に第1ラウンドの3案件から撤退したことにより、政府は、入札制度改革、価格調整メカニズム、占用期間の延長、港湾・系統支援策という一連の継続的な見直しを迫られている",
+    "url": "https://www.tkilaw.com/11452",
+    "pass": 3
+   },
+   {
+    "quote": "その入札制度設計の中核は2026年6月の運用指針の改訂により確定したが、その他の支援策については本ブリーフィング執筆時点でなお検討が続いている",
+    "url": "https://www.tkilaw.com/11452",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月に公表された2026年度LTDA募集要綱案の下では、参加の条件として、公募占用計画上の供給価格を0円/kWhに変更し、FIP交付金（バランシングコスト相当分を含む）を受領しないことが求められており、これにより固定費の二重回収が防止される",
+    "url": "https://www.tkilaw.com/11452",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力のLTDA参加資格は、現時点では時限的な例外措置として第2・第3ラウンドに限定されており、第4ラウンド以降は制度設計上この経過措置の対象から除外されている",
+    "url": "https://www.tkilaw.com/11452",
+    "pass": 3
+   },
+   {
+    "quote": "三菱商事は、2024年度決算において既に522億円の減損損失を計上しており、撤退表明の時点で、追加の損失は限定的である旨を示している",
+    "url": "https://www.tkilaw.com/11452",
+    "pass": 3
+   },
+   {
+    "quote": "NEDO公募「グリーンイノベーション基金事業」の「洋上風力発電の低コスト化／浮体式洋上風力実証事業（フェーズ2）」に採択されて、「低コスト化による海外展開を見据えた秋田県南部沖浮体式洋上風力実証事業」を推進",
+    "url": "https://mowd.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "Round 3.2 with zero-premium bids. A zero-premium bid refers to an auction scheme in which developers bid with a premium — defined in the support scheme as a subsidy — set at zero, and proceed with the project solely based on revenues linked to wholesale electricity market prices.",
+    "url": "https://ieefa.org/resources/japans-offshore-wind-sector-down-not-out",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "洋上風力 発電 市場規模 ：世界市場レポート 2026～2035年 — 洋上風力 発電 市場規模 ：世界市場レポート 2026～2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > offshor...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本 洋上風力 発電 市場規模 ・シェア・成長2034 - IMARC Group — 日本 洋上風力 発電 市場規模 ・シェア・成長2034 - IMARC Group IMARC Group https://www.imarcgroup.com > Energy & Mining",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内洋上風力 、2030年度に 市場規模 9200 億円 - 日経BP — 国内洋上風力 、2030年度に 市場規模 9200 億円 - 日経BP 日経BP https://project.nikkeibp.co.jp > atcl > news",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/01186/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "第13回 解説記事：テーマ「 国内 外の 洋上風力 の動向」 — 第13回 解説記事：テーマ「 国内 外の 洋上風力 の動向」 一般財団法人新エネルギー財団 https://www.nef.or.jp > keyword",
+    "url": "https://www.nef.or.jp/keyword/20260430.html",
+    "pass": 3
+   },
+   {
+    "quote": "【特別企画】 洋上風力 トップ3 社 が熱い議論、日本が直面する ... — 【特別企画】 洋上風力 トップ3 社 が熱い議論、日本が直面する ... ウインドジャーナル https://windjournal.jp > 業界トピック",
+    "url": "https://windjournal.jp/123479/",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 発電の 動向2025 - 自然エネルギー財団 — 洋上風力 発電の 動向2025 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > REI_OW...",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 — 洋上風力 内閣官房 PDF https://www.cas.go.jp > seisaku > dai16 > shiryo1-2",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 発電事業に必要な人材数を推計 2050 年には48500 人 ... — 洋上風力 発電事業に必要な人材数を推計 2050 年には48500 人 ... jwpa.jp https://jwpa.jp > information",
+    "url": "https://jwpa.jp/information/7798/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度「 洋上風力 発電人材育成事業費 補助金 」 — 令和8年度「 洋上風力 発電人材育成事業費 補助金 」 r8-owp-hrdp.jp https://r8-owp-hrdp.jp",
+    "url": "https://r8-owp-hrdp.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【特別企画】 洋上風力 トップ3社が熱い議論、日本が直面する ... — 【特別企画】 洋上風力 トップ3社が熱い議論、日本が直面する ... ウインドジャーナル https://windjournal.jp > 業界トピック",
+    "url": "https://windjournal.jp/123479/",
+    "pass": 3
+   },
+   {
+    "quote": "まさに国策に売りなし､｢ 洋上風力 発電｣関連の有望7銘柄 — まさに国策に売りなし､｢ 洋上風力 発電｣関連の有望7銘柄 四季報オンライン https://shikiho.toyokeizai.net > news",
+    "url": "https://shikiho.toyokeizai.net/news/0/674256",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Fixed-Bottom Offshore Wind : Cost Drivers and the 2040 ... — Japan Fixed-Bottom Offshore Wind : Cost Drivers and the 2040 ... 自然エネルギー財団 https://www.renewable-ei.org > reports",
+    "url": "https://www.renewable-ei.org/en/activities/reports/20260420.php",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Offshore Wind Power Market Size & Outlook 2034 — Japan Offshore Wind Power Market Size & Outlook 2034 IMARC Group https://www.imarcgroup.com > japan-...",
+    "url": "https://www.imarcgroup.com/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Market Trends, Growth & Outlook Report 2035 — Offshore Wind Market Trends, Growth & Outlook Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore wind vessels availability until 2030 - WindEurope — Offshore wind vessels availability until 2030 - WindEurope WindEurope https://windeurope.org > data > product",
+    "url": "https://windeurope.org/data/product/offshore-wind-vessels-availability-until-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Industry Update | BCG — Offshore Wind Industry Update | BCG Boston Consulting Group https://www.bcg.com > 2025 > offsho...",
+    "url": "https://www.bcg.com/publications/2025/offshore-wind-industry-update",
+    "pass": 3
+   },
+   {
+    "quote": "Global Offshore Wind Report 2025 - Tethys — Global Offshore Wind Report 2025 - Tethys Pacific Northwest National Laboratory | PNNL (.gov) PDF https://tethys.pnnl.gov > files > Williams-et-al-2025",
+    "url": "https://tethys.pnnl.gov/sites/default/files/publications/Williams-et-al-2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Copper shortage threatens offshore wind rollout, UN warns — Copper shortage threatens offshore wind rollout, UN warns TGS | 4C Offshore https://www.tgs4c.com > news > copp...",
+    "url": "https://www.tgs4c.com/news/copper-shortage-threatens-offshore-wind-rollout2c-un-warns-nid31132.html",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "様々な方法で地元との協調を図っており、秋田港・能代港洋上風力発電所では7社の地元企業から出資いただくとともに、工事請負等含めて20社以上の地元企業と協業してきました",
+    "url": "https://mowd.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、生き残ってきた重工業企業群による洋上風力への関心は高く、100社以上が開発への参加に意欲を示した",
+    "url": "https://www.econ.kyoto-u.ac.jp/renewable_energy/stage2/contents/column0139.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内市場億円": [
+   {
+    "value": "982",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/01186/?ST=msb",
+    "quote": "ペロブスカイト太陽電池の国内市場、2040年度に982億円"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "522",
+    "url": "https://www.tkilaw.com/11452",
+    "quote": "三菱商事は、2024年度決算において既に522億円の減損損失を計上しており、撤退表明の時点で、追加の損失は限定的である旨を示している"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vJuwGPRB2zfTYCDeM42CG2mdqRHI6MwGhfQw7osZhOSN1UFW5H9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/01186/?ST=msb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://windjournal.jp/123479/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emira-t.jp/special/14027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jwpa.jp/memberlist/businesslist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jwpa.jp/information/7798/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.ricoh.co.jp/RISB/environment/post_886.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/yojo_furyoku/pdf/003_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nedo.go.jp/koubo/FF1_100480.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-agent.jp/subsidy/216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://windjournal.jp/127932/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pps-net.org/subsidy/wind2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r8-owp-hrdp.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagashima.com/publications/publication20250324-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cigs.canon/article/20251223_9487.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2024/03/20250307001/20250307001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenbou.nies.go.jp/navi/metadata/122716?sp%5Basc_desc%5D=DESC&sp%5Bmetadata_search_type%5D=list&sp%5Border%5D=area&sp%5Bpage%5D=1484&sp%5Bper_page%5D=20&sp%5Bstate%5D=2&sp%5Btype%5D=metadata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkilaw.com/11452",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/674256",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/themes/?theme=%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mowd.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://strainer.jp/notes/8731",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.econ.kyoto-u.ac.jp/renewable_energy/stage2/contents/column0139.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ieefa.org/resources/japans-offshore-wind-sector-down-not-out",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/en/activities/reports/20260420.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-offshore-wind-power-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eu-japan.eu/publications/report-onshore-and-offshore-wind-market-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://windeurope.org/data/product/offshore-wind-vessels-availability-until-2030/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bcg.com/publications/2025/offshore-wind-industry-update",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tethys.pnnl.gov/sites/default/files/publications/Williams-et-al-2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gwec.net/reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tgs4c.com/news/copper-shortage-threatens-offshore-wind-rollout2c-un-warns-nid31132.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "洋上風力 国内市場規模 億円",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vJuwGPRB2zfTYCDeM42CG2mdqRHI6MwGhfQw7osZhOSN1UFW5H9",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/001_04_00.pdf",
+    "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/01186/?ST=msb",
+    "https://www.nef.or.jp/keyword/20260430.html",
+    "https://www.jetro.go.jp/invest/attractive_sectors/env_and_energy/attractive_markets.html",
+    "https://note.com/reny12779/n/ne6f1e635658b",
+    "https://asuene.com/media/1565/",
+    "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/01186/?SS=imgview_msb&FD=236020539"
+   ]
+  },
+  {
+   "query": "洋上風力 国内 参入企業 社",
+   "results": [
+    "https://windjournal.jp/123479/",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "https://emira-t.jp/special/14027/",
+    "https://jwpa.jp/memberlist/businesslist/",
+    "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf",
+    "https://digital-supporter.net/mirai-ai/17invest/youjou-fuuryoku.html",
+    "https://www.jwd.co.jp/business/offshore/",
+    "https://deepwind.jp/market-insights-ja/japan-offshore-wind-turbine-suppliers-chinese-oem-ja/",
+    "https://www.energynippon.com/20260611-1"
+   ]
+  },
+  {
+   "query": "洋上風力 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://jwpa.jp/information/7798/",
+    "https://www.nippon-foundation.or.jp/what/projects/offshorewind",
+    "https://blogs.ricoh.co.jp/RISB/environment/post_886.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf",
+    "https://www.meti.go.jp/shingikai/energy_environment/yojo_furyoku/pdf/003_04_00.pdf",
+    "https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/",
+    "https://jwomtec.or.jp/wtm/purpose/",
+    "https://toa-const.actibookone.com/content/detail?param=eyJjb250ZW50TnVtIjoyMzQ2NTJ9&detailFlg=0&pNo=26",
+    "https://smartf-nexta.com/archives/13522",
+    "https://www.wonderline.cloud/blog/what-is-backlog-basic-knowledge"
+   ]
+  },
+  {
+   "query": "洋上風力 予算 補助金 基金 2026",
+   "results": [
+    "https://www.nedo.go.jp/koubo/FF1_100480.html",
+    "https://hojokin-agent.jp/subsidy/216",
+    "https://windjournal.jp/127932/",
+    "https://pps-net.org/subsidy/wind2026",
+    "https://r8-owp-hrdp.jp/",
+    "https://hojyokin-portal.jp/subsidies/70145",
+    "https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html",
+    "https://grant-search.com/grant/2071/",
+    "https://hojonavi.breakthru.co.jp/subsidies/t-wave6i-0030",
+    "https://www.enecho.meti.go.jp/appli/public_offer/2026/0522_02.html"
+   ]
+  },
+  {
+   "query": "洋上風力 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.nagashima.com/publications/publication20250324-1/",
+    "https://cigs.canon/article/20251223_9487.html",
+    "https://www.meti.go.jp/press/2024/03/20250307001/20250307001.html",
+    "https://tenbou.nies.go.jp/navi/metadata/122716?sp%5Basc_desc%5D=DESC&sp%5Bmetadata_search_type%5D=list&sp%5Border%5D=area&sp%5Bpage%5D=1484&sp%5Bper_page%5D=20&sp%5Bstate%5D=2&sp%5Btype%5D=metadata",
+    "https://www.tkilaw.com/11452",
+    "https://www8.cao.go.jp/ocean/policies/energy/energy.html",
+    "https://www.pref.akita.lg.jp/pages/archive/52046",
+    "https://criepi.denken.or.jp/jp/serc/research/publications/view?indexId=46",
+    "https://www.env.go.jp/policy/hakusyo/r07/html/hj25020607.html",
+    "https://www.meti.go.jp/shingikai/santeii/pdf/115_01_00.pdf"
+   ]
+  },
+  {
+   "query": "洋上風力 国内 主要企業 メーカー",
+   "results": [
+    "https://windjournal.jp/123479/",
+    "https://shikiho.toyokeizai.net/news/0/674256",
+    "https://www.kyushu.meti.go.jp/seisaku/kankyo/owp/kaiin.html",
+    "https://jwpa.jp/memberlist/businesslist/",
+    "https://kabutan.jp/themes/?theme=%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "https://mowd.jp/business/",
+    "https://strainer.jp/notes/8731",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "https://www.econ.kyoto-u.ac.jp/renewable_energy/stage2/contents/column0139.html",
+    "https://ja.wikipedia.org/wiki/風力原動機メーカー一覧"
+   ]
+  },
+  {
+   "query": "offshore wind Japan market size",
+   "results": [
+    "https://ieefa.org/resources/japans-offshore-wind-sector-down-not-out",
+    "https://www.renewable-ei.org/en/activities/reports/20260420.php",
+    "https://www.imarcgroup.com/japan-offshore-wind-power-market",
+    "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "https://www.eu-japan.eu/publications/report-onshore-and-offshore-wind-market-japan",
+    "https://www.linkedin.com/pulse/japan-offshore-wind-energy-farms-market-size-qx3sc",
+    "https://www.mordorintelligence.com/industry-reports/japan-wind-energy-market",
+    "https://www.tgs.com/technical-library/japanese-offshore-wind-market-overview",
+    "https://www.jetro.go.jp/en/invest/attractive_sectors/env_and_energy/attractive_markets.html",
+    "https://www.imarcgroup.com/japan-offshore-wind-energy-market"
+   ]
+  },
+  {
+   "query": "offshore wind shortage backlog supply gap 2025",
+   "results": [
+    "https://windeurope.org/data/product/offshore-wind-vessels-availability-until-2030/",
+    "https://www.bcg.com/publications/2025/offshore-wind-industry-update",
+    "https://tethys.pnnl.gov/sites/default/files/publications/Williams-et-al-2025.pdf",
+    "https://www.gwec.net/reports",
+    "https://www.tgs4c.com/news/copper-shortage-threatens-offshore-wind-rollout2c-un-warns-nid31132.html",
+    "https://www.eenews.net/articles/not-made-in-america-factory-shortage-stalls-offshore-wind/",
+    "https://venterra-group.com/wp-content/uploads/2025/02/01.5-Venterra-Offshore-Wind-Day-Feb-27-2025.pdf",
+    "https://26973329.fs1.hubspotusercontent-eu1.net/hubfs/26973329/2.%20Reports/Global%20Wind%20Report/GWEC%20Global%20Wind%20Report%202025.pdf",
+    "https://reglobal.org/european-wind-technology-supply-chains/",
+    "https://wfo-global.org/wp-content/uploads/2026/03/WFO_Global-Offshore-Wind-Report-2025_final.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

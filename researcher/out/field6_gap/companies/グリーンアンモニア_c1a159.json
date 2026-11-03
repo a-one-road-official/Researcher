@@ -1,0 +1,1391 @@
+{
+ "name": "グリーンアンモニア",
+ "en": "green ammonia",
+ "aliases": [
+  "燃料アンモニア",
+  "アンモニア発電"
+ ],
+ "context": "12 GX ②水素等",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:30:24.979348+00:00",
+ "evidence": {
+  "法律・制度": [
+   {
+    "quote": "IMARCのサービスには、徹底的な市場評価、実現可能性調査、会社設立支援、工場設立支援、規制当局の承認取得およびライセンス取得支援、ブランディング、マーケティング・販売戦略、競合状況およびベンチマーク分析、価格・コスト調査、調達調査などが含まれます",
+    "url": "https://newscast.jp/news/6882953",
+    "pass": 3
+   },
+   {
+    "quote": "関連制度・リンク",
+    "url": "https://green-innovation.nedo.go.jp/project/building-fuel-ammonia-supply-chain/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "規制・法制度の動向分析の追加（対象地域の規制環境など）",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間・基準年の調整（予測年の延長など）",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "BLUE ACTION MOL",
+    "url": "https://www.mol.co.jp/pr/2025/25038.html",
+    "pass": 3
+   },
+   {
+    "quote": "各国の制度・手続き",
+    "url": "https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html",
+    "pass": 3
+   },
+   {
+    "quote": "輸出入に関する基本的な制度",
+    "url": "https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外進出に関する基本的な制度",
+    "url": "https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html",
+    "pass": 3
+   },
+   {
+    "quote": "基準・認証、ルール形成戦略",
+    "url": "https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html",
+    "pass": 3
+   },
+   {
+    "quote": "基準・認証、規制",
+    "url": "https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html",
+    "pass": 3
+   },
+   {
+    "quote": "CCS関連法制度と事業環境（豪州）",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "CCS関連法制度と事業環境（カナダ）",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、米国おける案件が複数発表されているとおり、同国IRAによるタックスクレジットの活用も視野に入れていることが想定され、カナダやネオムにおいても公的支援を取り付けるなど制度や支援枠組みなども積極的に活用する姿勢が伺える",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、これもエア・プロダクツ社と共通して言えることだが、政府支援や制度を積極的に活用している",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "インド補助金制度（SIGHTプログラム）の活用が見込まれる",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 対象事業と制度的背景 ................................................................................................................................................................................... 3",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IHI 等 7 社は 2026 年 6 月 30 日、同計画が水素社会推進法に基づく価格差支援制度の認定を取得したと公",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本ノートでは、制度上の名称に従う場合は「低炭素アンモニア」と記す",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価格差支援の単価、基準価格、参照価格、年間支援対象",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 対象事業と制度的背景",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を支援する制度である",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を申請し、交付決定を得る制度であると説明している（JOGMEC, 2026）",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "制度設計上の問題は、価格差支援が「高価な燃料を安価な燃料のように見せる」機能を持つ点である",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "立は制度的補助に依存する",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価格差支援期間 15 年 水素社会推進法に基づく価格差支援制度",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る量は、低位発熱量基準で 18.6/36、すなわち約 51.7％である",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備が 15 年を超えて稼働する可能性はあるが、本制度が 15 年間の価格差支援を通じて商用サプライチェ",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価格差支援は、低炭素水素等の価格と既存燃料・原料の価格との差額を埋める制度である",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、インド産低炭素アンモニアの実際の基準価格は公表されていない",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実務上、価格差支援の基準価格が資本費回収を含む場合、投資額と支援額を会計的に単純加算すると一部二",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場の発展は、新たな需要の拡大ペースに合わせて、生産事業者が再生可能電力、電解装置の稼働、アンモニア合成、物流、認証済みの引取契約を連携させられるかどうかに左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場では、排出量の少ない船舶燃料や産業用原料に対する規制上の需要が市場の成長を促す一方、供給基盤はプロジェクトの遂行、インフラの整備状況、認証要件によって制約されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "International Maritime Organization. \"IMO Approves Net-Zero Regulations for Global Shipping.\" imo.org",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要航路全体でGHG排出ゼロまたはほぼゼロの船舶燃料に対する厳格な遵守基準を設け、グリーンアンモニア対応船舶への船隊転換を直接促す",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制遵守の期限により、発表段階の新造船計画が確定的な燃料調達契約へと移行するにつれて、輸送・海運用途は2035年まで最も高い成長率を維持する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトファイナンスのリスクを低減し、商業調達を加速させ、投資家のリターンを維持するうえで、いずれか一つの法域の補助金制度への依存を軽減する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMOの枠組みにより、燃料のライフサイクル性能が任意の調達基準ではなくコンプライアンス上の要件となり、船舶燃料の選択をめぐる商業上の判断基準が変わる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした政策の組み合わせは、個別の規制変更へのエクスポージャーを軽減し、再生可能資源が豊富な地域と輸入依存度の高い産業市場との間で、国境を越えた商取引を促す",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニアの毒性、安全な取り扱いの複雑さ、認証基準の整備途上が普及を遅らせる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、IMOの枠組みでは、認証済みの燃料製造チェーンを通じた、採掘から航跡までのライフサイクル検証も求められる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア燃料供給インフラ、専用貯蔵ターミナル、認証を受けた乗組員の訓練に伴うコンプライアンス対応コストは、海運分野で早期に導入する事業者の総導入コストを押し上げ、港湾ネットワークの拡大を遅らせる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸送・海運セグメントでの導入は、規制上のスケジュールに比べて遅れて進む",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "認証プロトコルの整備とアンモニア対応の燃料供給ネットワークの構築には、主要ハブ港への展開に複数年を要するためである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業規模での展開には、港湾ターミナル、貯蔵設備、パイプライン接続、船舶およびバンカリング能力、監視システム、安全と認証に関する責任を割り当てる契約上の取り決めが必要である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用途では、燃料認証とライフサイクル検証を物理的なバンカリング網と並行して整備しなければならない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 時間的制約が大きな課題となったことを考えると、今後の制度設計においてはそれぞれの事業分野",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Transition & Policy",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "India’s draft steel policy bets on coal it may not have access to",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy policy",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府の補助金制度は、ブルーポイント・コンプレックスからのアンモニア引き取りに対する強力な支援を示している",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "CFインダストリーズは、CCS技術によるCO2の回収・輸送・隔離が実現できなければ、低炭素アンモニアの生産、認証、販売が妨げられることを認めている",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月に更新された技術基準において、事業活動における100％再エネの利用を目指す世界的な企業イニシアチブであるRE100は、アンモニア混焼を含む石炭混焼を、再生可能電力としての認定対象から除外した",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "国際サステナビリティ基準審議会（ISSB）理事会",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギー固定価格買取制度（FIT）により...",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "中部電力による「基準地震動」偽装不正",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "EUの欧州サステナビリティ報告基準（ESRS）改訂版が成立",
+    "url": "https://rief-jp.org/ct4/168549",
+    "pass": 3
+   },
+   {
+    "quote": "国際サステナビリティ基準審議会（ISSB）理事会",
+    "url": "https://rief-jp.org/ct4/168549",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギー固定価格買取制度（FIT）により...",
+    "url": "https://rief-jp.org/ct4/168549",
+    "pass": 3
+   },
+   {
+    "quote": "中部電力による「基準地震動」偽装不正",
+    "url": "https://rief-jp.org/ct4/168549",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "市場構造、主要企業のポジショニング、成功のための主要戦略、競合ダッシュボード、企業評価象限など、徹底的な競合分析が含まれています",
+    "url": "https://newscast.jp/news/6882953",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本のグリーンアンモニア業界における主要企業の詳細なプロフィールも掲載しています",
+    "url": "https://newscast.jp/news/6882953",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業からもビジネス化への戦略が次々と打ち立てられています",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、資源エネルギー庁を含め官民からなる燃料アンモニア導入官民協議会は2021年2月の中間とりまとめで、「2030年に300万トン、2050年に3000万トンの燃料アンモニアの国内需要を想定するとともに、2050年に世界全体で1億トン規模の日本企業によるサプライチェーン構築を目指す」との目標を示しました",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のLNG取扱量調査 過去掲載一覧",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場の主要企業には、Yara International、CF Industries、Air Products & Chemicals、ACME Cleantech Solutions、thyssenkrupp Nuceraなどが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、アンモニア混焼設備の商業化に現実的な見通しを持つ主要企業はIHIの1社のみとなった",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、これらの目標と補助金を受けて、国内外を問わずアンモニアのサプライチェーン全体にわたるプロジェクトや技術開発を推進している",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "同プロジェクトには、JERA（35％）と三井物産（25％）の2社の日本企業が出資しており、2025年4月に最終投資決定に至り、2029年に生産開始が予定されている",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "インドでは日本企業によるグリーンアンモニアプロジェクトへの投資も進む",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】 インドのグリーン水素およびグリーンアンモニア分野における日本企業の事業機会 | 東京国際法律事務所",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】 インドのグリーン水素およびグリーンアンモニア分野における日本企業の事業機会",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の事業機会",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "特に、国家グリーン水素ミッションの立ち上げにより、インドは、世界のクリーンエネルギー転換における主要国としての地位を確立しつつあり、日本企業にとって多くのビジネスチャンスを産み出しています",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業におけるメリット",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、インドにおけるグリーン水素およびグリーンアンモニア推進の動向から、以下のような形でその恩恵を受けるチャンスがあります",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "技術提携：水素技術、その中でも特に電解槽製造における専門技術を有する日本企業は、インド企業と提携し競争入札による選定に参加することで、コスト削減と現地生産の促進を目的とするインドのSIGHTプログラムの優遇措置による恩恵を受けられる可能性があります",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "インフラへの投資：インドはグリーン水素生産を年間500万トン以上に拡大することを目指しており、日本企業には、再生可能エネルギー発電所や水素貯蔵・輸送施設などのインフラプロジェクトへの投資機会がもたらされます",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンクレジットの活用：インドのカーボンクレジットスキームと新規のグリーンクレジットルールを組み合わせることで、その温室効果ガス排出を削減し、カーボンニュートラルを実現できるポテンシャルから、インドのグリーン水素およびグリーンアンモニア分野に投資する日本企業に追加の経済的な恩恵をもたらす可能性があります",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "市場拡大：インドのエネルギー需要が増加し、脱炭素化への取り組みが強化されるのに伴い、特に海運、航空、製造業などの分野において、日本企業はインドとの長期的なパートナーシップ関係を通じた恩恵を得ることができると見込まれます",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "インドの野心的な「国家グリーン水素ミッション」は、日本企業にとって、最も急速に成長している1つであるクリーンエネルギー市場へ投資する戦略的機会をもたらします",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "そして、インドのステークホルダーと提携することによって、日本企業はより有利な政策を活用し得るほか、州レベルでの優遇措置の恩恵を受けることやエネルギー転換に参画することも可能となり得ます",
+    "url": "https://www.tkilaw.com/7717",
+    "pass": 3
+   },
+   {
+    "quote": "、RE100に参加する日本企業93社も石炭のアンモニア混焼の電力は使えないことになる",
+    "url": "https://www.renewable-ei.org/activities/column/reupdate/20250522.php",
+    "pass": 3
+   },
+   {
+    "quote": "また、2050年には国内需要として年間3000万トン（水素換算で約500万トン）を想定し、アンモニアの利用拡大に対応したさらなる製造の大規模化、高効率化を追求した日本企業主導のサプライチェーンを構築することを目指す",
+    "url": "https://www.kankyo-business.jp/dictionary/6a4a6a8d-ea24-4ff2-a1f1-8f7457be0e2c",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア世界市場レポート：主要企業、ランキング、成長予測2026-2032｜QYResearch",
+    "url": "https://note.com/qy_research/n/nbc7825892667",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア世界市場レポート：主要企業、ランキング、成長予測2026-2032",
+    "url": "https://note.com/qy_research/n/nbc7825892667",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "予算額と2050年の効果目標値",
+    "url": "https://green-innovation.nedo.go.jp/project/building-fuel-ammonia-supply-chain/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を無駄にしないでください！",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を2025年の実用的な",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算が失効する前に、 最大限に活用しよう!",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を最大限に活用する お手伝いをいたします!",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "合意文書では、途上国への温暖化対策資金について、2035年までに官民あわせた総額で年間1.3兆ドルの投資を呼びかけるとしました",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、資源エネルギー庁を含め官民からなる燃料アンモニア導入官民協議会は2021年2月の中間とりまとめで、「2030年に300万トン、2050年に3000万トンの燃料アンモニアの国内需要を想定するとともに、2050年に世界全体で1億トン規模の日本企業によるサプライチェーン構築を目指す」との目標を示しました",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "pass": 3
+   },
+   {
+    "quote": "投資額は約1400億円です",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "pass": 3
+   },
+   {
+    "quote": "みずほ銀行は、水素・アンモニア等のサプライチェーンの構築が早期に求められる中、投資額が大きい製造分野を筆頭に金融機関による資金供給の重要性が増していることを踏まえ、2030年までに当該分野に対する2兆円のファイナンス実行を目指すこととしています",
+    "url": "https://www.mol.co.jp/pr/2025/25038.html",
+    "pass": 3
+   },
+   {
+    "quote": "同案件の総投資額は45億ドルと見積もられ、2026年に稼働開始予定としている",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "総投資額16億カナダドル、2024年稼働開始予定",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、本案件は豪州再生可能エネルギー庁（ARENA）の再生可能水素導入資金援助ラウンドを通じて4,750万豪ドルの助成金を獲得し、さらに西豪州政府も再生可能水素基金から200万豪ドルの助成金を拠出している",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "ARENAはヤラ社とエンジー社の共同案件に対して4,250万豪ドルの補助金交付を発表",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "CO2回収・液化設備に係る投資額は2億ユーロとされ、2025年の稼働開始を予定している",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "総投資額26億～29億ドル",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大投資額は5.5億ドル、2026年半ばの稼働開始を目指している",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年 6 月に示された戦略 17 分野の官民投資ロードマップでは、「水素等」について",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2040 年度までに 6.2 兆円の官民投資額が掲げられた",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "報道される投資額 4,800 億円だけで、15",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業投資額 4,800 億円を社会的に拘束される資本として併せて評価すれば、 CO2 削減費用は約 12.9",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6. 投資額だけで約 4.6 万円/t-CO2 ................................................................................................................................................................ 5",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本成長戦略会議に提出された戦略 17 分野の官民投資ロードマップでは、「資源・エネ",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ルギー安全保障・GX」の項目に「水素等」が掲げられ、2040 年度までの官民投資額として 6.2 兆円が想定",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を申請し、交付決定を得る制度であると説明している（JOGMEC, 2026）",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "水素等官民投資額 2040 年度までに 6.2 兆円 内閣府（2026）",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業投資額 4,800 億円 日本経済新聞（2026b）の報道値",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6. 投資額だけで約 4.6 万円/t-CO2",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカのグリーンアンモニア市場は、2025年に2,500万米ドルの売上高を計上し、2035年には8億9,300万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジルは2025年にラテンアメリカ市場の40.0%を占め、2035年には3億5,700万米ドルの売上高を計上すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "チリは2025年に900万米ドルの売上高を計上し、2035年にはラテンアメリカ市場の35.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "サウジアラビアは2025年に中東・アフリカ市場の40.0%を占め、2035年には16.4億米ドルの売上高を計上すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アラブ首長国連邦は2025年に2,200万米ドルの売上高を計上し、2035年には中東・アフリカ市場の20.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "補助率など：委託→2/3助成（インセンティブ率は10％）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助率など：委託 → 2/3助成（インセンティブ率は10%）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助率など：助成1/2、委託 → 1/2助成（インセンティブ率は10%）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチ試験→パイロット試験2/3助成",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1/2助成 1/2助成",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年度末までの実機実証完了は困難（5年程度超過）のため、GI基金事業から自社での取り組",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（令和6年度非化石エネルギー等導入促進対策費補助金活用）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・国際標準化に向けては、官民連携体制で日本が主導して、ISO内にWGを立ち上げ、2025年",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月、経済産業省は、「燃料アンモニアサプライチェーン構築のプロジェクト」の予算を50%以上削減した",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "同プロジェクトでは4件の研究開発事業が助成対象として採択された",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "、4件中2件の事業が中止または規模縮小されたことを受け、NEDOは経産省に対しプロジェクト予算の半減以上の削減承認を要請した",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度に242億円の補助金を受けて開始されたが、技術面のマイルストーン未達および設備投資の削減に至らなかったことから、2025年1月に",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "これらの技術面・スケジュール面の遅延を受け、NEDOは当初予算698億円からの53%削減、325.6億円への減額を",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "4つの補助金プログラムが、アンモニアのサプライチェーンと発電への利用を促進することで、これらの目標を支援している",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "補助金プログラムによる、2025年度の予算総額は5,860億円（37億米㌦）に上る",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月、JERAと三井物産は、ブルーポイントからのアンモニア輸入に対し、差額契約（CfD）による補助金の交付決定を受けた",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "これらの目標は、新エネルギー・産業技術総合開発機構（NEDO）が運営する「燃料用アンモニアサプライチェーン構築プログラム」を含む4つの補助金プログラムによって支援されてきた",
+    "url": "https://rief-jp.org/ct4/168549",
+    "pass": 3
+   },
+   {
+    "quote": "前段のアンモニア製造での標準的なハーバー・ボッシュ法に代わる手法を開発して、アンモニアの生産コストを大幅に引き下げるためのプログラムには、2021年度から現行手法よりも低温・低圧で合成可能な新触媒をコアとする技術開発に、MEDOの補助金を投じてきた",
+    "url": "https://rief-jp.org/ct4/168549",
+    "pass": 3
+   },
+   {
+    "quote": "これを受け経産省は同年6月、当該技術開発に投じてきた「燃料用アンモニアサプライチェーン構築」補助金プログラムの予算を50％以上削減することを決めた",
+    "url": "https://rief-jp.org/ct4/168549",
+    "pass": 3
+   },
+   {
+    "quote": "これを受け、IHIの事業は、JERAの碧南火力発電所に建設中の大型アンモニア設備（20％混焼商用設備）を高混焼実証試験に利活用し、実証計画の見直しによりGI基金事業の期限内での実機実証とすることにしたが、三菱重工の事業は、GI補助金の期限である2030年度末までの実機実証完了は困難（5年程度超過）として、自社での取り組みに切り替え、GI基金事業としての取組は中止扱いにした",
+    "url": "https://rief-jp.org/ct4/168549",
+    "pass": 3
+   },
+   {
+    "quote": "こうした技術的・スケジュール上の遅れを受け、NEDOは当初予算の698億円を53％削減し、326億円とするよう経産省に要請した",
+    "url": "https://rief-jp.org/ct4/168549",
+    "pass": 3
+   },
+   {
+    "quote": "予算額と2050年の効果目標値",
+    "url": "https://green-innovation.nedo.go.jp/project/building-fuel-ammonia-supply-chain/scheme/",
+    "pass": 3
+   },
+   {
+    "quote": "国が2兆円を投じる「グリーンイノベーション基金（GI基金）」のなかでも、発電の脱炭素化の切り札として注目されてきたのが燃料アンモニアです",
+    "url": "https://note.com/scivanai/n/n033ce76b8245",
+    "pass": 3
+   },
+   {
+    "quote": "GI基金事業では、最長10年という長い期間にわたる研究開発の成果を確実に社会実装へつなげるため、毎年度WGに実施企業の経営者が出席し、取組状況を確認・評価する仕組みが設けられています（資料2）",
+    "url": "https://note.com/scivanai/n/n033ce76b8245",
+    "pass": 3
+   },
+   {
+    "quote": "資料3（資源エネルギー庁 水素・アンモニア課）の37ページによると、社会実装計画上の予算額を",
+    "url": "https://note.com/scivanai/n/n033ce76b8245",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、国内の建設工事費の高騰と工程の長期化により、GI基金の期限である2030年度末までの実機実証完了は「5年程度超過」して困難と判明（資料5）",
+    "url": "https://note.com/scivanai/n/n033ce76b8245",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工はGI基金事業からは退き、自社の取り組みとして2030年代の商用運転を目指すこととなりました",
+    "url": "https://note.com/scivanai/n/n033ce76b8245",
+    "pass": 3
+   },
+   {
+    "quote": "GI基金の特徴は、経営者自身のコミットメントを毎年問う点にあります（資料2）",
+    "url": "https://note.com/scivanai/n/n033ce76b8245",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": "この設備は、年間約40万トンのグリーンアンモニアの供給を目指しており、日本の電力会社や化学メーカーなど、さまざまな国内需要家に向けて、安全かつ安定的に輸送される計画です",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、資源エネルギー庁を含め官民からなる燃料アンモニア導入官民協議会は2021年2月の中間とりまとめで、「2030年に300万トン、2050年に3000万トンの燃料アンモニアの国内需要を想定するとともに、2050年に世界全体で1億トン規模の日本企業によるサプライチェーン構築を目指す」との目標を示しました",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には国の支援を受け、関係者の多大な努力により、日本国内で多くの実証試験が完遂し、世界に燃料アンモニアの実現性を強くアピールすることができました",
+    "url": "https://greenammonia.org/",
+    "pass": 3
+   },
+   {
+    "quote": "2030 年度までに豪州褐炭由来水素を利用する計画を停止し、当面は日本国内製造水素を用いる方針へ転じ",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の開示サイクルから発効するこの変更は、90社以上の日本本社の企業および日本国内で事業を展開する220社以上の多国籍企業に適用され、アンモニア混焼による発電への需要を制限する可能性がある、としている",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "燃料アンモニアの火力発電への活用については、2030年までに石炭火力への20％アンモニア混焼の導入・普及を目標に、実機を活用した混焼・専焼の実証を推進することで、2030年には国内需要として年間300万トン（水素換算で約50万トン）を想定し、現在の天然ガス価格を下回るNm3-H2当たり10円台後半で供給させたい考えだ",
+    "url": "https://www.kankyo-business.jp/dictionary/6a4a6a8d-ea24-4ff2-a1f1-8f7457be0e2c",
+    "pass": 3
+   },
+   {
+    "quote": "また、2050年には国内需要として年間3000万トン（水素換算で約500万トン）を想定し、アンモニアの利用拡大に対応したさらなる製造の大規模化、高効率化を追求した日本企業主導のサプライチェーンを構築することを目指す",
+    "url": "https://www.kankyo-business.jp/dictionary/6a4a6a8d-ea24-4ff2-a1f1-8f7457be0e2c",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "なお、世界の生産能力は2023年の約2億4000万トンから2030年には2億9000万トンに拡大する見込みですが、主に人口増加に対する農業の肥料用です",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "pass": 3
+   },
+   {
+    "quote": "第１回「エネルギー『次』の担い手へ高まる期待」",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代には11グループ(14工場)で、生産能力が376万トンあったものが、現状では4社（4工場）で生産能力は90万トンに減ってしまいました",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー「次」の担い手へ高まる期待【注目のアンモニアを徹底解説 第1回】",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "pass": 3
+   },
+   {
+    "quote": "水素の製造、加工、貯蔵、流通に秀でており、世界最大規模の液体水素供給能力と流通システムを有している",
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "pass": 3
+   },
+   {
+    "quote": "水電解によるグリーンアンモニアプロジェクトのうち、確定または成熟段階に分類されるものは、2030年までに年間生産能力が19.0 MTに達する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "先行段階のパイプライン能力と稼働中の生産能力の違いは、市場のタイミングを見極めるうえで引き続き重要である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "操業能力がまだ限られているため、供給不足と引取の不確実性が生じる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界で操業が確認されている低排出アンモニアの生産能力は、わずか0.7 MTである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2028年に供給不足が生じるリスクにより、買い手は納期の長期化や引取プレミアムの上昇を受け入れざるを得ず、短期的な供給量の拡大が抑制される可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達の不足とインフラ開発に要する長い期間がサプライチェーンの成熟を遅らせるため、予測期間前半を通じて、地域によってグリーンアンモニアの供給状況にばらつきが生じる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "この地域には、主要な肥料市場、大規模な再生可能エネルギー資源、拡大する電解槽の供給能力、政策主導の電力分野の需要が集積している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "当該技術の商業化が見込まれる企業は1社のみであり、日本の石炭火力発電所の改修において設備供給がボトルネックとなる可能性がある",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、石炭火力発電所向けアンモニアバーナーの製造実績を持つ企業はIHIの1社のみであり、日本の石炭火力発電所の改修において設備供給がボトルネックとなる可能性がある",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府による石炭火力発電へのアンモニア混焼事業は、コスト高、供給不足、タイミングの3制約で実現困難",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "｜日本政府による石炭火力発電へのアンモニア混焼事業は、コスト高、供給不足、タイミングの3制約で実現困難",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には、労働市場の逼迫やインフレ圧力に起因して、見積もりは30億米㌦に増加した",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "この技術の商用化に踏み切っている企業が1社（IHI）しかないため、日本の石炭火力発電設備の改修において、機器の入手可能性がボトルネックとなる可能性がある」と指摘している",
+    "url": "https://rief-jp.org/ct4/168549",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力（kw）を単位として補助金を拠出する",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html",
+    "pass": 3
+   },
+   {
+    "quote": "各国で水素のオフテイカー不足が問題となっているが、水素製造を取り巻くコストの点でインドの事情は少し異なる",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html",
+    "pass": 3
+   },
+   {
+    "quote": "風力由来の水素製造は安定供給能力に優れ、大規模プラントとの親和性が高い",
+    "url": "https://note.com/qy_research/n/nbc7825892667",
+    "pass": 3
+   },
+   {
+    "quote": "supply shortages.",
+    "url": "https://ptx-hub.org/wp-content/uploads/2025/05/250425_Paper-Ammoniak_V2-2.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本の グリーンアンモニア市場 は2033年までに ... - Newscast.jp — 日本の グリーンアンモニア市場 は2033年までに ... - Newscast.jp Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/6882953",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場 は、CAGR約73.94%で急成長中 — グリーンアンモニア市場 は、CAGR約73.94%で急成長中 Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 https://www.reportocean.co.jp > green-ammonia-market",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "第4節 燃料 アンモニア の導入拡大に向けた取組 — 第4節 燃料 アンモニア の導入拡大に向けた取組 資源エネルギー庁 https://www.enecho.meti.go.jp > about > whitepaper > html",
+    "url": "https://www.enecho.meti.go.jp/about/whitepaper/2021/html/3-8-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "インド再エネ大手、超高純度 グリーンアンモニア 製造事業に着手 — インド再エネ大手、超高純度 グリーンアンモニア 製造事業に着手 ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/08",
+    "url": "https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人クリーン燃料 アンモニア 協会 – CO2フリー ... — 一般社団法人クリーン燃料 アンモニア 協会 – CO2フリー ... 一般社団法人クリーン燃料アンモニア協会 https://greenammonia.org",
+    "url": "https://greenammonia.org/",
+    "pass": 3
+   },
+   {
+    "quote": "資料4 我が国の燃料 アンモニア 導入・拡大に向けた取組 ... — 資料4 我が国の燃料 アンモニア 導入・拡大に向けた取組 ... 経済産業省 PDF https://www.meti.go.jp > energy_structure > pdf",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/012_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発電燃料としての輸入 グリーンアンモニア 利用の不経済性 — 発電燃料としての輸入 グリーンアンモニア 利用の不経済性 キヤノングローバル戦略研究所 PDF https://cigs.canon > uploads > sugiyama_note_260703",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア 市場規模とシェア：2026〜2035年レポート — グリーンアンモニア 市場規模とシェア：2026〜2035年レポート Global Market Insights Inc. https://www.gminsights.com > green-ammonia-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "燃料 アンモニア 、698億円の計画は325.6億円へ。「撤退」と ... — 燃料 アンモニア 、698億円の計画は325.6億円へ。「撤退」と ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/scivanai/n/n033ce76b8245",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Green Ammonia Market Size & Share, Report | 2034 — Japan Green Ammonia Market Size & Share, Report | 2034 IMARC Group https://www.imarcgroup.com > japan-...",
+    "url": "https://www.imarcgroup.com/japan-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market (2026 - 2035) - Market Research Future — Green Ammonia Market (2026 - 2035) - Market Research Future Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Green Ammonia Market Size , Share Report 2035 — Japan Green Ammonia Market Size , Share Report 2035 Spherical Insights https://www.sphericalinsights.com > j...",
+    "url": "https://www.sphericalinsights.com/reports/japan-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size , Share And Trends Report, 2034 — Green Ammonia Market Size , Share And Trends Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/green-ammonia-market-105642",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Green Ammonia Market Size & Outlook, 2022-2030 — Japan Green Ammonia Market Size & Outlook, 2022-2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/green-ammonia-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size, Share & Growth Report 2034 — Green Ammonia Market Size, Share & Growth Report 2034 IMARC Group https://www.imarcgroup.com > green...",
+    "url": "https://www.imarcgroup.com/green-ammonia-market",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "当該技術の商業化が見込まれる企業は1社のみであり、日本の石炭火力発電所の改修において設備供給がボトルネックとなる可能性がある",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、石炭火力発電所向けアンモニアバーナーの製造実績を持つ企業はIHIの1社のみであり、日本の石炭火力発電所の改修において設備供給がボトルネックとなる可能性がある",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、アンモニア混焼設備の商業化に現実的な見通しを持つ主要企業はIHIの1社のみとなった",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "pass": 3
+   },
+   {
+    "quote": "2031年1月から、北海道電力の苫東臼杵火力発電所および他数社の工業用炉向けに、年間28万㌧のアンモニアを輸入する予定である",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の開示サイクルから発効するこの変更は、90社以上の日本本社の企業および日本国内で事業を展開する220社以上の多国籍企業に適用され、アンモニア混焼による発電への需要を制限する可能性がある、としている",
+    "url": "https://rief-jp.org/ct4/167254",
+    "pass": 3
+   },
+   {
+    "quote": "企業トップへの取材は1,000社以上",
+    "url": "https://kabu.com/kabuyomu/money/577.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国の予算億円": [
+   {
+    "value": "400",
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "quote": "投資額は約1400億円です"
+   },
+   {
+    "value": "4,800",
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "quote": "報道される投資額 4,800 億円だけで、15"
+   },
+   {
+    "value": "242",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "quote": "2021年度に242億円の補助金を受けて開始されたが、技術面のマイルストーン未達および設備投資の削減に至らなかったことから、2025年1月に"
+   },
+   {
+    "value": "698",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "quote": "これらの技術面・スケジュール面の遅延を受け、NEDOは当初予算698億円からの53%削減、325.6億円への減額を"
+   },
+   {
+    "value": "325.6",
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "quote": "これらの技術面・スケジュール面の遅延を受け、NEDOは当初予算698億円からの53%削減、325.6億円への減額を"
+   },
+   {
+    "value": "5,860",
+    "url": "https://rief-jp.org/ct4/167254",
+    "quote": "補助金プログラムによる、2025年度の予算総額は5,860億円（37億米㌦）に上る"
+   },
+   {
+    "value": "698",
+    "url": "https://rief-jp.org/ct4/168549",
+    "quote": "こうした技術的・スケジュール上の遅れを受け、NEDOは当初予算の698億円を53％削減し、326億円とするよう経産省に要請した"
+   },
+   {
+    "value": "326",
+    "url": "https://rief-jp.org/ct4/168549",
+    "quote": "こうした技術的・スケジュール上の遅れを受け、NEDOは当初予算の698億円を53％削減し、326億円とするよう経産省に要請した"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E5%B8%82%E5%A0%B4-105642",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6882953",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://green-innovation.nedo.go.jp/project/building-fuel-ammonia-supply-chain/summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mol.co.jp/pr/2025/25038.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://greenammonia.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scej.org/docs/publication/journal/backnumber/8612-open-article.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rief-jp.org/ct4/167254",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rief-jp.org/ct4/168549",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://green-innovation.nedo.go.jp/project/building-fuel-ammonia-supply-chain/scheme/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/scivanai/n/n033ce76b8245",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://beyond-coal.jp/news/ammonia-co-firing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ace.or.jp/web/law/pdf/law_0020/EnergySubsidies2025-2026Jun.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/012_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkilaw.com/7717",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/activities/column/reupdate/20250522.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metoree.com/categories/6161/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kabu.com/kabuyomu/money/577.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kankyo-business.jp/dictionary/6a4a6a8d-ea24-4ff2-a1f1-8f7457be0e2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inpex.com/business/technology/hydrogen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qy_research/n/nbc7825892667",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/ammonia-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/japan-green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/green-ammonia-market-105642",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://protonventures.com/news/why-does-green-ammonia-struggle-to-kick-off-what-can-we-do-about-it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gh2.org:443/first-roundtable-20-march-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rystadenergy.com/news/beyond-oil-strait-of-hormuz-power-struggle-threatens-fertilizer-and-ammonia-trade",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ptx-hub.org/wp-content/uploads/2025/05/250425_Paper-Ammoniak_V2-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "グリーンアンモニア 国内市場規模 億円",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E5%B8%82%E5%A0%B4-105642",
+    "https://newscast.jp/news/6882953",
+    "https://green-innovation.nedo.go.jp/project/building-fuel-ammonia-supply-chain/summary/",
+    "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5",
+    "https://www.enecho.meti.go.jp/about/whitepaper/2021/html/3-8-4.html",
+    "https://greenammonia.org/faq/%E7%87%83%E6%96%99%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E3%81%AE%E4%BE%9B%E7%B5%A6/",
+    "https://straitsresearch.com/jp/report/ammonia-market",
+    "https://asiareengage.com/wp-content/uploads/2025/06/reviewed_Japan_Ammonia_Strategy_JPN-AC.pdf",
+    "https://www.fortunebusinessinsights.com/jp/グリーンアンモニア市場-105642"
+   ]
+  },
+  {
+   "query": "グリーンアンモニア 国内 参入企業 社",
+   "results": [
+    "https://www.mol.co.jp/pr/2025/25038.html",
+    "https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html",
+    "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "https://greenammonia.org/",
+    "https://www.scej.org/docs/publication/journal/backnumber/8612-open-article.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/012_04_00.pdf",
+    "https://ideasforgood.jp/glossary/green-ammonia/",
+    "https://www.mol-service.com/ja/blog/ammonia",
+    "https://www.jera.co.jp/news/information/20261027_2562",
+    "https://note.com/qy_research/n/nbc7825892667"
+   ]
+  },
+  {
+   "query": "グリーンアンモニア 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "https://rief-jp.org/ct4/167254",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E5%B8%82%E5%A0%B4-105642",
+    "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "https://www.kankyo-business.jp/dictionary/6a4a6a8d-ea24-4ff2-a1f1-8f7457be0e2c",
+    "https://newscast.jp/smart/news/3635212"
+   ]
+  },
+  {
+   "query": "グリーンアンモニア 予算 補助金 基金 2026",
+   "results": [
+    "https://ieefa.org/Japanese_Subsidy-reduction-signals-headwinds-for-Japan%E2%80%99s-ammonia-co-firing-plans",
+    "https://rief-jp.org/ct4/168549",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf",
+    "https://green-innovation.nedo.go.jp/project/building-fuel-ammonia-supply-chain/scheme/",
+    "https://note.com/scivanai/n/n033ce76b8245",
+    "https://beyond-coal.jp/news/ammonia-co-firing/",
+    "https://www.ace.or.jp/web/law/pdf/law_0020/EnergySubsidies2025-2026Jun.pdf",
+    "https://energy-shift.com/news/bd90baab-fa69-497a-9324-b1ce399d1657",
+    "https://www.env.go.jp/earth/42024_00005.html",
+    "https://www.hubloom.jp/blog/2026/09/24/gov-strategy-news-kw-26/"
+   ]
+  },
+  {
+   "query": "グリーンアンモニア 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/012_04_00.pdf",
+    "https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html",
+    "https://www.tkilaw.com/7717",
+    "https://www.renewable-ei.org/activities/column/reupdate/20250522.php",
+    "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "https://www.mlit.go.jp/maritime/content/001735440.pdf",
+    "https://www.sustainability-hub.jp/column/fuel_ammonia/",
+    "https://www.jstage.jst.go.jp/article/jime/58/5/58_702/_pdf",
+    "https://asuene.com/media/250/"
+   ]
+  },
+  {
+   "query": "グリーンアンモニア 国内 主要企業 メーカー",
+   "results": [
+    "https://www.mol.co.jp/pr/2025/25038.html",
+    "https://metoree.com/categories/6161/",
+    "https://kabu.com/kabuyomu/money/577.html",
+    "https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html",
+    "https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/012_04_00.pdf",
+    "https://www.scej.org/docs/publication/journal/backnumber/8612-open-article.pdf",
+    "https://www.kankyo-business.jp/dictionary/6a4a6a8d-ea24-4ff2-a1f1-8f7457be0e2c",
+    "https://www.inpex.com/business/technology/hydrogen/",
+    "https://note.com/qy_research/n/nbc7825892667"
+   ]
+  },
+  {
+   "query": "green ammonia Japan market size",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/ammonia-market/japan",
+    "https://www.imarcgroup.com/japan-green-ammonia-market",
+    "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "https://www.sphericalinsights.com/reports/japan-green-ammonia-market",
+    "https://www.fortunebusinessinsights.com/green-ammonia-market-105642",
+    "https://www.grandviewresearch.com/horizon/outlook/green-ammonia-market/japan",
+    "https://www.cefia-dp.go.jp/hubfs/1)%20METI_Miyagawa.pdf",
+    "https://www.linkedin.com/pulse/japan-green-hydrogen-based-ammonia-market-xlonc",
+    "https://www.eu-japan.eu/eubusinessinjapan/library/publication/report-green-ammonia-japan-market-and-technology-intelligence",
+    "https://www.marketresearchfuture.com/reports/japan-green-ammonia-market-48164"
+   ]
+  },
+  {
+   "query": "green ammonia shortage backlog supply gap 2025",
+   "results": [
+    "https://protonventures.com/news/why-does-green-ammonia-struggle-to-kick-off-what-can-we-do-about-it/",
+    "http://gh2.org/first-roundtable-20-march-2025",
+    "https://www.rystadenergy.com/news/beyond-oil-strait-of-hormuz-power-struggle-threatens-fertilizer-and-ammonia-trade",
+    "https://www.imarcgroup.com/green-ammonia-market",
+    "https://ptx-hub.org/wp-content/uploads/2025/05/250425_Paper-Ammoniak_V2-2.pdf",
+    "https://stargatehydrogen.com/blog/the-future-of-ammonia-production/",
+    "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "https://ammoniaenergy.org/wp-content/uploads/2025/01/Project-Features-speaker-slides-Jan-2025.pdf",
+    "https://www.nature.com/articles/s41560-024-01684-7",
+    "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/ammonia-market-faces-turbulence-amid-supply-cuts-and-geopolitical-strains-37388"
+   ]
+  }
+ ],
+ "missing": {}
+}

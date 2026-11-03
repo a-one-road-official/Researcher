@@ -1,4 +1,4 @@
-# 対象6分野の小区分 — 国内規模・参入企業数・需給の差・法律・国の予算（事実のみ・33品目）
+# 対象6分野の小区分 — 国内規模・参入企業数・需給の差・法律・国の予算（事実のみ・32品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -6,9 +6,11 @@
 - 文脈：1 AI・半導体 ①フィジカルAI
 - 国内市場規模：
   - 「2029年度の国内市場を3兆1,779億円(2024年度比2.1倍)と推計」（https://www.fkg-report.jp/market-trends/2026/2767.html）
-  - 「ヒューマノイドロボットとは：主要機種と2026年の日本市場動向」（https://physical-ai-hojokin.jp/articles/humanoid-robot-hojokin-dounyuu-guide/）
   - 「2026年１月に帝華機械株式会社はBooster Roboticsと正式に日本国内正規代理店として契約致しました」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
   - 「「中国フィジカルAI産業分析レポート2026」は、中国の主要関連企業180社のデータをもとに、商用化状況、製品カテゴリ、バリューチェーン、地域集積、日本市場への進出状況を分析したレポートです」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「ヒューマノイドロボットとは：主要機種と2026年の日本市場動向」（https://physical-ai-hojokin.jp/articles/humanoid-robot-hojokin-dounyuu-guide/）
+  - 「提言3：日本の社会課題を解決する国内市場の創出」（https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html）
+  - 「2. 日本国内の主要ヒューマノイド開発企業一覧」（https://note.com/syukan3/n/n2361a8d80b7d）
 - 国内参入企業数：
   - 「メーカー数は140を超え、サプライチェーンも急拡大を遂げている」（https://www.cnn.co.jp/business/35251078.html）
   - 「世界14カ国・60社以上の人型ロボット（ヒューマノイド）メーカー」（https://mijinko.co.jp/media/humanoid-robot/）
@@ -22,28 +24,28 @@
   - 「これに加えて、ホスピタリティ、小売、建設部門における人件費の上昇と主要業務を遂行する労働力の不足が、今後数年間の地域市場の成長を促進するでしょう」（https://www.zionmarketresearch.com/ja/report/humanoid-robot-market）
   - 「労働力不足、サービスロボットの需要、医療およびホスピタリティ分野での活用事例、そしてAIとロボット工学の進歩といった機会は、ヒューマノイドロボット市場に大きな成長機会をもたらすだろう」（https://www.zionmarketresearch.com/ja/report/humanoid-robot-market）
   - 「株式会社富士経済は、労働力不足やAI技術の進展を背景に存在感・注目度が世界的に高まり、特に、米国や中国で製品開発が過熱しているヒューマノイドロボットの世界市場を調査し、その結果を「注目度が高まるヒューマノイドロボット市場最前線」にまとめました」（https://www.fkg-report.jp/market-trends/2026/2767.html）
-  - 「2014年ごろ、私はヒューマノイドロボットがビジネスとしてうまくいかない原因は日本の技術力、とくにソフトウェア・AIの能力不足にあると思っていた」（https://note.com/otl_sr/n/nbb8ebb84e6e1）
-  - 「深刻な人財不足に悩む航空業界において、24時間稼働可能な人型ロボット（ヒューマノイド）の導入により、より安定した運用体制の構築を目指します」（https://ai-robotics.gmo/news/article/gmo-unitree/）
-  - 「ディープラーニングを活用したビジョンシステムとティーチング不要の操作性により、人手不足と衛生課題の両方に対応」（https://zumen-bank.com/column/7834）
+  - 「■事業がスケールしようとするときに営業がボトルネックになるファンネル」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「製造業の組立工程では、人手不足や作業員の負担増加が課題となっています」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「関連の開発を進める日本企業に注目が集まる背景には、国内の人手不足の深刻化と国家戦略としての位置づけがあります」（https://robot-with.com/humanoid/japan-humanoid-companies）
+  - 「日本の製造業は深刻な人手不足に直面しており、ヒューマノイドロボット導入意向の理由でもっとも多いのが人手不足の解消につながるという点です」（https://robot-with.com/humanoid/japan-humanoid-companies）
+  - 「人手不足の解消を背景に大手からスタートアップまで幅広く参入している」（https://robot-with.com/humanoid/japan-humanoid-companies）
   - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に｜TOKYO MX+（プラス）」（https://s.mxtv.jp/tokyomxplus/mx/article/202604201020/detail/）
-  - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に」（https://s.mxtv.jp/tokyomxplus/mx/article/202604201020/detail/）
-  - 「「フィジカルAI」と呼ばれる、周りの状況を自ら判断して動くロボットで労働環境をサポートし、人手不足の解消につながることが期待されています」（https://s.mxtv.jp/tokyomxplus/mx/article/202604201020/detail/）
 - 法律・制度：
   - 「しかし近年は、VLA（Vision-Language Action）などのロボット基盤モデルが進化し、視覚認識から行動制御までを統合的に処理できるようになりつつある」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
-  - 「https://group.gmo/contact/press-inquiries/」（https://ai-robotics.gmo/news/article/gmo-unitree/）
-  - 「Actroid」（https://zumen-bank.com/column/7834）
-  - 「人間そっくりの外見を持つアンドロイド「Actroid」を製造」（https://zumen-bank.com/column/7834）
-  - 「cinnamon 1は、ハードウェアは中国OEMですが、視覚から行動を制御するVLA（Vision-Language-Action）は自社開発のモデルを搭載しています」（https://zumen-bank.com/column/7834）
+  - 「ヒューマノイドロボット産業における主要国の政策・支援制度、市場の需要・供給状況、主要メーカーの製品・生産・出荷・開発動向及び戦略を把握・分析することを目的とする」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「3. Statista Market Insights. (n.d). Manufacturing – Worldwide. Accessed on February 15, 2024.」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「10. Axios. (2023, December 5). The first humanoid robot factory is about to open.」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「12. PR Newswire. (2024, January 18). Figure announces commercial agreement with BMW manufacturing to bring general purpose robots into automotive production.」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「International investments may involve the risk of capital loss from unfavorable fluctuation in currency values, from differences in generally accepted principles or from social, economic, or political instability in other nations. Emerging markets involve heightened risks related to the same factors as well as increased volatility and lower trading volume. AIQ and BOTZ are non-diversified.」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「ETFは、値動きのある有価証券等に投資しますので、基準価額は変動します」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「基準価額の主な変動要因については次のとおりです」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「※ 基準価額の動きが指数と完全に一致するものではありません」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「※ 基準価額の変動要因は、上記に限定されるものではありません」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「金融商品取引所における取引価格と当サイト掲載の基準価額は異なります」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「株式または金銭の拠出により当ファンドの取得（応募、追加設定）をご希望の場合には投資信託説明書（交付目論見書）を販売会社（指定参加者）よりお渡しいたしますので、必ず内容をご確認ください」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「当ファンドは、値動きのある有価証券等に投資しますので、取引価格、基準価額は大きく変動します」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「リンク先のウェブサイトは、異なるプライバシーポリシー、利用規約、または規制上の制限によって管理されている場合があります」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
   - 「作業者が新しい業務を担うためには、教育、マニュアル整備、安全教育、評価制度、現場との合意形成が必要です」（https://www.icom-giken.com/blog/humanoid-robot-factory-employment/）
-  - 「それに対して、ロボットメーカーを経て山善に入社したヒューマノイドロボット市場開発担当課長の北野峰陽氏は、レンタル、リース、データ運用のサブスク、リカーリングといった山善が現在整備中の制度を使うことで、初期導入と運用のコストを下げられると話す」（https://forbesjapan.com/articles/detail/94528）
-  - 「米国の対中半導体輸出規制が裏目、ファーウェイに商機を与えエヌビディアの中国シェアが下落」（https://forbesjapan.com/articles/detail/94528）
-  - 「誤解2:「安全面は既存の産業用ロボットと同じ基準で考えればいい」と思われがちですが、実は規格が追いついていません」（https://note.com/seizou_dx_ai/n/n4657e62cc2a8）
-  - 「この整理ができれば、「フィジカルAI」(ロボットの知覚・判断・動作をつかさどる基盤モデルの総称)や、既存の産業用制御とAIモデルを組み合わせる「VLA(Vision-Language-Action)モデル」といった、ヒューマノイドの中身を支える技術も、思いつきではなく実務の文脈で判断できるようになります」（https://note.com/seizou_dx_ai/n/n4657e62cc2a8）
-  - 「Manufacturing Dive「BMWスパータンバーグ工場でのFigure 02パイロット導入に関する報道」」（https://note.com/seizou_dx_ai/n/n4657e62cc2a8）
-  - 「Women’s Health Action実行委員会」（https://news.ntv.co.jp/category/economy/4c4e89dc24714e7b93a57b37d4afd2f4）
-  - 「制度・仕組み」（https://physical-ai-hojokin.jp/articles/humanoid-robot-hojokin/）
-  - 「ヒューマノイドロボット補助金2026：最新動向と補助制度」（https://physical-ai-hojokin.jp/articles/humanoid-robot-hojokin/）
-  - 「注意点2：安全基準・保険の整備が補助金採択後に求められる」（https://physical-ai-hojokin.jp/articles/humanoid-robot-hojokin/）
 - 国の予算：
   - 「特に中国は国家戦略として大規模な投資を進めていて、2024年以降は地方政府による支援策やロボット産業に関するアクションプランを打ち出している」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
   - 「2025年は、関連企業への民間投資額が20億ドルを超える見通しとなった」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
@@ -73,25 +75,25 @@
   - 「SoftBank Groupはヒューマノイドロボット分野で最も積極的な投資を行っている日本企業です」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
   - 「日本企業は完成品開発だけでなく、海外ヒューマノイド企業への投資・導入を通じても市場に関与しています」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
   - 「SoftBank Groupは$53.75億のABB買収でフィジカルAIプラットフォーマーへの転換を図り、スタートアップではKyoHAが13者以上の日本企業を束ねた純国産開発を始動させました」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
-  - 「Tesla Optimus、Figure AI、Boston Dynamics、Agility、Apptronikなど主要企業の資金調達・量産計画・関連銘柄を2026年最新情報でまとめました」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
   - 「Unitree・UBTECH・Galbot・XPengなど主要企業の一覧、資金調達、政府支援、EVサプライチェーン活用まで2026年最新情報でまとめました」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
-  - 「GMO AIRは、グループが培った通信・クラウド・セキュリティ・金融の知見を結集し、日本企業と世界最先端の人型ロボット（ヒューマノイド）産業をつなぐ架け橋として、社会実装をリードしてまいります」（https://ai-robotics.gmo/news/article/gmo-unitree/）
+  - 「Tesla Optimus、Figure AI、Boston Dynamics、Agility、Apptronikなど主要企業の資金調達・量産計画・関連銘柄を2026年最新情報でまとめました」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
+  - 「中国では商用化済みでも日本との接点が薄い企業や、すでに国内展開を進める企業を可視化し、日本企業にとっての調達先、協業先、販売代理候補、潜在競合を整理しています」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
 - 検索結果の抜粋：
   - 「ヒューマノイド ロボット の 市場規模 は？2030年・2050年予測 ... — ヒューマノイド ロボット の 市場規模 は？2030年・2050年予測 ... 株式会社ミライト・ワン https://www.mirait-one.com > whatsnew > trend-data_0068」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
   - 「人型ロボット市場規模 、シェア、成長レポート[2034年] — 人型ロボット市場規模 、シェア、成長レポート[2034年] Fortune Business Insights https://www.fortunebusinessinsights.com > 人型ロボット市...」（https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188）
   - 「人型ロボット市場 の 規模 、シェア、業界概要、および2032年 ... — 人型ロボット市場 の 規模 、シェア、業界概要、および2032年 ... Zion Market Research https://www.zionmarketresearch.com > report > humanoid...」（https://www.zionmarketresearch.com/ja/report/humanoid-robot-market）
   - 「ヒューマノイド ロボット市場 を調査。2035年の世界 市場 を3兆 ... — ヒューマノイド ロボット市場 を調査。2035年の世界 市場 を3兆 ... fkg-report.jp https://www.fkg-report.jp > market-trends」（https://www.fkg-report.jp/market-trends/2026/2767.html）
   - 「ヒューマノイド ロボット メーカー15 社 - Metoree — ヒューマノイド ロボット メーカー15 社 - Metoree Metoree https://metoree.com > ロボット」（https://metoree.com/categories/9681/）
-  - 「世界No.1の 人型ロボット （ヒューマノイド）メーカーUnitree ... — 世界No.1の 人型ロボット （ヒューマノイド）メーカーUnitree ... GMO AI&ロボティクス商事 https://ai-robotics.gmo > news > article > gmo-unitree」（https://ai-robotics.gmo/news/article/gmo-unitree/）
-  - 「【2026年】ヒューマノイド ロボット の日本 企業 15選！ — 【2026年】ヒューマノイド ロボット の日本 企業 15選！ zumen-bank.com https://zumen-bank.com > column」（https://zumen-bank.com/column/7834）
+  - 「ヒューマノイド ロボット - メーカー・ 企業 17 社 の業務用製品 ... — ヒューマノイド ロボット - メーカー・ 企業 17 社 の業務用製品 ... 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ヒューマノイドロボット」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「ヒューマノイド ロボット企業 を日本の大手から解説【2026年】 — ヒューマノイド ロボット企業 を日本の大手から解説【2026年】 robot-with.com https://robot-with.com > ヒューマノイド」（https://robot-with.com/humanoid/japan-humanoid-companies）
   - 「人手不足 を救う 人型ロボット 導入意向は4割超、山善が明かす ... — 人手不足 を救う 人型ロボット 導入意向は4割超、山善が明かす ... Forbes JAPAN https://forbesjapan.com > テクノロジー > サービス」（https://forbesjapan.com/articles/detail/94528）
   - 「【 2026 年版】ヒューマノイド ロボット の 補助金 完全ガイド — 【 2026 年版】ヒューマノイド ロボット の 補助金 完全ガイド physical-ai-hojokin.jp https://physical-ai-hojokin.jp > 記事一覧 > 機体・製品別」（https://physical-ai-hojokin.jp/articles/humanoid-robot-hojokin/）
   - 「ヒューマノイド導入 補助金2026 ｜対象制度と申請の注意点 — ヒューマノイド導入 補助金2026 ｜対象制度と申請の注意点 GA Robotics https://ga-robotics.co.jp > column > subsidies-guide」（https://ga-robotics.co.jp/column/subsidies-guide/）
   - 「業種×機器で探す フィジカルAI・ ロボット の 補助金 ( 2026 年度) — 業種×機器で探す フィジカルAI・ ロボット の 補助金 ( 2026 年度) 株式会社イチドキリ https://ichidokiri.co.jp > physical-ai」（https://ichidokiri.co.jp/physical-ai/）
   - 「ヒューマノイド ロボット の日本導入【2026年】労安法・ISO ... — ヒューマノイド ロボット の日本導入【2026年】労安法・ISO ... physical-ai-hojokin.jp https://physical-ai-hojokin.jp > ... > フィジカルAI総論」（https://physical-ai-hojokin.jp/articles/humanoid-robot-hojokin-dounyuu-guide/）
+  - 「米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... — 米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/08」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
   - 「【2026年はフィジカルAI元年!?】産業用 ロボット ・協働 ... — 【2026年はフィジカルAI元年!?】産業用 ロボット ・協働 ... アルケリス株式会社 https://www.archelis.com > tachishigoto-mikata > industri...」（https://www.archelis.com/tachishigoto-mikata/industrial-collaborative-robot-safety-regulation/）
   - 「ヒューマノイド ロボット メーカー 15社 - Metoree — ヒューマノイド ロボット メーカー 15社 - Metoree Metoree https://metoree.com > ロボット」（https://metoree.com/categories/9681/）
-  - 「【徹底解説】 人型ロボットメーカー の世界ランキング20位を ... — 【徹底解説】 人型ロボットメーカー の世界ランキング20位を ... 株式会社ミジンコ https://mijinko.co.jp > media > humanoid-robot」（https://mijinko.co.jp/media/humanoid-robot/）
 
 ## エッジAIチップ（edge AI chip）
 - 文脈：1 AI・半導体 ②中核半導体
@@ -176,8 +178,6 @@
 - 文脈：1 AI・半導体 ②中核半導体
 - 国内市場規模：
   - 「電子情報技術産業協会（JEITA）の試算によれば、日本国内では、半導体メーカー主要9社においてだけでも、今後10年間で少なくとも4万人以上の半導体人材が必要になる」（https://eetimes.itmedia.co.jp/ee/articles/2605/28/news004.html）
-  - 「「クラウド・DCの国内市場規模30兆円（2035」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「までに30兆円の国内市場規模を目指す」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
 - 国内参入企業数：
   - 「中野氏は、民生機器や産業機器、医療機器などの分野から約50社に上る企業リストを作成し、各社のCEOや最高技術責任者（CTO）と個別に対話しながら、最先端の半導体設計の重要性を訴求している」（https://eetimes.itmedia.co.jp/ee/articles/2605/28/news004.html）
   - 「既に100社近くがMetisのテスト用のサンプルを要求し、50社以上が早期アクセス・プログラムに申し込んでいるとのこと」（https://chem-3.com/ai-semiconductor/）
@@ -196,8 +196,8 @@
   - 「半導体業界における人材不足は、もはや構造的な問題になっている」（https://eetimes.itmedia.co.jp/ee/articles/2605/28/news004.html）
   - 「中でも深刻なのが、最先端半導体を設計できるエンジニアやアーキテクトの不足だ」（https://eetimes.itmedia.co.jp/ee/articles/2605/28/news004.html）
   - 「このような動きは、設計人材不足という課題に対する、もう一つの現実的なアプローチでもある」（https://eetimes.itmedia.co.jp/ee/articles/2605/28/news004.html）
-  - 「術等」毎に、ボトルネックの解消と更なる投資を促すアクセラレーターを念頭に「勝ち筋」を特定し、国内投資支援、需要・市場の創出、立地競争力強化、国際」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「世界市場の急拡大に対応し、我が国の供給能力を強化」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「⚫ 本来、地域での人手不足を始め、社会課題が山積する我が国こそ、世界に先立ちＡＩと向き合い、能動的に利活用を進」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
+  - 「とした産業構造転換（競争力、組織改革、雇用等）を実現するために必要な取組やボトルネックはなにか」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
 - 法律・制度：
   - 「同政権は自国の半導体規制を厳格化する案を検討する一方で、主要同盟国にも中国の半導体産業への規制強化を迫っている」（https://media.stockmark.co.jp/articles/ai-semiconductor/）
   - 「現時点では新たな規制の詳細は公表されていないが、バイデン前政権が同年1月に導入したAI半導体の輸出規制「AI Diffusion Rule」をどう扱うかが注目されている」（https://media.stockmark.co.jp/articles/ai-semiconductor/）
@@ -211,25 +211,19 @@
   - 「NVIDIAなどの米国企業は対中規制強化によって大きな収益源を失う可能性があり、中国市場への依存度が高い企業は業績悪化のリスクを抱えています」（https://orutedia.com/ai-semiconductor-manufacturer/）
   - 「好業績の背景には中国向け輸出が規制対象となる前に駆け込みの需要があったと見られますが、その特需がなくなる2025年も露光装置が拡大するとの見通しが明らかにされ、それが市場の安心買いを誘っています」（https://kabu.com/kabuyomu/money/967.html）
   - 「最先端の半導体製造については、Rapidusに加え、TSMCが3nmノードへの転換を表明したJapan Advanced Semiconductor Manufacturing（JASM）熊本第2工場など、日本でも活発な取り組みが進む」（https://eetimes.itmedia.co.jp/ee/articles/2605/28/news004.html）
-  - 「サプライチェーン）と需要側（導入・運用・制度・現場環境）に」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「ネック（現場環境、運用体制、制度・規格等）を踏まえ、短期・」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「ボトルネック（現場環境、運用体制、制度・規格等）を考慮して、各産業・領域ごとに多用途ロボットの定量的な導入目標、」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「に、防衛調達など官公庁による調達や規制改革など新たな需要の創出や拡大策を取り入れてください」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
+  - 「(※)供給サイドに直接働きかける措置のみならず、戦略的投資促進に繋がる規制改革や国際標準化･海外市場開拓等の需要サイドからの政策も」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
+  - 「✓ 官公庁の調達・規制改革による需要創造（国内）、国際標準化戦略・海外市場開拓（海外）など、国内外連動した戦略的な」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
 - 国の予算：
   - 「新たに200億ユーロの基金を立ち上げ、EU内に現行の4倍となる10万個以上の最新AI半導体を搭載した施設を4カ所建設する予定だ」（https://media.stockmark.co.jp/articles/ai-semiconductor/）
   - 「​政府は、TSMCの第1工場に対して最大4760億円、第2工場には7320億円の補助金を提供し、総額で約1兆2000億円の支援を行っている」（https://media.stockmark.co.jp/articles/ai-semiconductor/）
-  - 「戦略17分野における「主要な製品・技術等」の官民投資ロードマップ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「２．勝ち筋の特定と官民投資の具体像【道筋】」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「（２）官民投資の具体像 ①投資内容、②投資額（注１）、③定量的インパクト：投資による経済波及効果（注２）」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「３．官民投資促進に向けた課題と政策パッケージ【政策手段】」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「（注２）経済波及効果については、各「主要な製品・技術等」の官民投資額及び当該官民投資による生産増加額をインプットとして、産業連関分析を実施して算出」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「的には、産業連関表を用いて、（１）当該製品・技術等に係る最終需要額（投資額・生産額）の増加が、生産工程の川上産業（部品、部素材、原料といった関連」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「戦略17分野における「主要な製品・技術等」の官民投資ロードマップ（計62項目）の構成」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「(2)官民投資の具体像」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
   - 「AI・半導体分野で今後10年間で50兆円を超える官民投資を実現する「AI半導体産業」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
   - 「（参考）戦略17分野における「官民投資ロードマップ」に盛り込むべき内容」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
   - 「２．勝ち筋の特定と官民投資の具体像、」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
+  - 「３．官民投資促進に向けた課題」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
+  - 「＜AMZN＞の米4社の4-6月期設備投資額は前年同期比」（https://media.paypay-sec.co.jp/cat5/f250818）
+  - 「を設立して、ラピダスには日本政府も2023年5月現在で計3300億円の補助金を出すことが決まっています」（https://kabukarin.net/semiconductor/3623/）
+  - 「to support the construction of two logic fabs in Taylor, Texas, which will also receive $250 million in incentives from the state of Texas; however, memory fabs are not part of either agreement. SK Hynix is receiving nearly $1 billion in U.S. grants and loans to」（https://www.csis.org/analysis/beyond-memory-cycle-ai-hbm-and-new-semiconductor-shortage）
 - 国内の主要企業：
   - 「AI半導体メーカーとは？種類別の特徴・主要企業一覧・市場動向|IT・エンジニア転職ならムービン」（https://www.movin.co.jp/it/ai/semiconductor.html）
   - 「AI半導体メーカーとは？種類別の特徴・主要企業一覧・市場動向」（https://www.movin.co.jp/it/ai/semiconductor.html）
@@ -240,12 +234,12 @@
   - 「日本企業がAI半導体市場でさらなる競争力を高めるためには、以下の点が重要になります」（https://orutedia.com/ai-semiconductor-manufacturer/）
   - 「東京エレクトロン、信越化学工業、SUMCOなどの日本企業は、AI半導体製造に不可欠な装置や材料で世界的な競争力を持っています」（https://orutedia.com/ai-semiconductor-manufacturer/）
   - 「これらの取り組みを総合的に推進することで、日本企業はAI半導体市場での地位を確固たるものとし、世界の競争に追いつき、さらにはリードしていくことが期待されます」（https://orutedia.com/ai-semiconductor-manufacturer/）
-  - 「その上で官民投資ロードマップ案を前提として、原則、政府担当部局が主要企業や団」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「主要企業以外のプレイヤーが多い場合や、投資予定が明確にならない将」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「の開発や社会実装を担う日本企業群を創造」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「ODAや在外公館等も活用しつつ、グローバルサウスにおける高度人材の育成・交流、現地企業と日本企業とのマッ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「チング、共同研究開発、日本企業による海外展開向け開発、知財・標準化戦略等を推進」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「-日本企業の提供するクラウド（国産クラウド）、SaaS、生成AI等の公共分野での初期需要創出」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「⚫ まずは、日本企業で一般的に活用されるオープンモデルと同程度の基本性能のモデルを開発」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
+  - 「○ 海外の主要企業・研究機関等と連携し、世界からトップクラスの人材・情報が集まり、若手が刺激を受ける場を創設する」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
+  - 「半導体の種類と主要企業」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
+  - 「2023年現在、日本企業が量産可能なのは40～60nm程度らしいので、20～30倍以上もちっちゃいやつを作ろうって話ですね」（https://kabukarin.net/semiconductor/3623/）
+  - 「ちょっと話が2nmのロジック半導体にズレましたが、ラピダスに関連する日本企業もＡＩ半導体関連株の一部と言えると思います」（https://kabukarin.net/semiconductor/3623/）
+  - 「高性能なＩＣパッケージ基板市場は世界的に日本企業のイビデンと新光電気工業が圧倒的なシェアを握っていて、イビデンは2021年5月に1800億円の新工場建設計画を発表しているほか、」（https://kabukarin.net/semiconductor/3623/）
 - 検索結果の抜粋：
   - 「AI Accelerator Chips Market Size & Share 2026-2035 — AI Accelerator Chips Market Size & Share 2026-2035 Global Market Insights Inc. https://www.gminsights.com > ai-acce...」（https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market）
   - 「AI Accelerator Chips Market Size , Share, Growth, 2034 — AI Accelerator Chips Market Size , Share, Growth, 2034 Straits Research https://straitsresearch.com > report > a...」（https://straitsresearch.com/report/ai-accelerator-chips-market）
@@ -254,7 +248,7 @@
 ## 定置用蓄電池（stationary energy storage battery）
 - 文脈：2 デジタル・サイバー ④蓄電池
 - 国内市場規模：
-  - 「蓄電所ビジネスの国内市場規模は2030年度に4,240億円程度まで拡大を予測」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vL69ggjlro_5GPnhUVhQjqfsQs8swhdOYUiwdUtVNYS-8Qc4jkw）
+  - 「蓄電所ビジネスの国内市場規模は2030年度に4,240億円程度まで拡大を予測」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X）
   - 「※Powerwall 3の日本国内発売は2026年内予定です」（https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html）
   - 「日本国内において2024年3月に鹿児島県で太陽光発電併設大型蓄電池システムの火災が発生し、消防士4名が怪我をしたことから、運用面の安全対策にも注目が集まっている」（https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html）
 - 国内参入企業数：
@@ -262,10 +256,10 @@
   - 「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」（https://www.enegaeru.com/industrial-bess-comparison-self-consumption-peakcut）
 - 需給の差：
   - 「お待ちください！」（https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78）
-  - 「需給調整市場は募集量に対して応札が少なく、調達量が不足している」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vL69ggjlro_5GPnhUVhQjqfsQs8swhdOYUiwdUtVNYS-8Qc4jkw）
-  - 「需給調整市場※は2024年4月の全面開場以降、応札不足が慢性化している」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vL69ggjlro_5GPnhUVhQjqfsQs8swhdOYUiwdUtVNYS-8Qc4jkw）
-  - 「同市場では入札価格の低い順に約定される「マルチプライスオークション方式」が採用されているため、応札不足の状況では入札者が価格決定力を有することとなる」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vL69ggjlro_5GPnhUVhQjqfsQs8swhdOYUiwdUtVNYS-8Qc4jkw）
-  - 「​需給調整市場における応札不足は2025年度も続いており、約定価格の高止まりが懸念されている」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vL69ggjlro_5GPnhUVhQjqfsQs8swhdOYUiwdUtVNYS-8Qc4jkw）
+  - 「需給調整市場は募集量に対して応札が少なく、調達量が不足している」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X）
+  - 「需給調整市場※は2024年4月の全面開場以降、応札不足が慢性化している」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X）
+  - 「同市場では入札価格の低い順に約定される「マルチプライスオークション方式」が採用されているため、応札不足の状況では入札者が価格決定力を有することとなる」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X）
+  - 「​需給調整市場における応札不足は2025年度も続いており、約定価格の高止まりが懸念されている」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X）
   - 「とりわけ中国のCATLは年間500GWhを超える生産能力を有し、LFP（リン酸鉄リチウムイオン電池）の大量供給でグローバル市場を席巻しています」（https://www.tainavi-pp.com/investment/new_grid_storage_station/316/）
   - 「：世界最大の生産能力でコスト競争力を圧倒」（https://www.tainavi-pp.com/investment/new_grid_storage_station/316/）
   - 「CATL（中国）｜世界最大の生産能力でコスト競争力を圧倒」（https://www.tainavi-pp.com/investment/new_grid_storage_station/316/）
@@ -290,8 +284,8 @@
   - 「（※）その際、蓄電池から放電される電気のうち認定発電設備に由来する電気量を算定する式は、現行制度と同様に、下図によることとしてはどうか」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf）
   - 「（※）上記措置は、必要に応じてパブコメ等を実施した上で、関係規程等を整備し、2025年４月を目途に施行することとしてはどうか」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf）
   - 「理するとともに、制度検討等に反映し導」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf）
-  - 「ハラール認証取得支援サービス」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vL69ggjlro_5GPnhUVhQjqfsQs8swhdOYUiwdUtVNYS-8Qc4jkw）
-  - 「経済産業省 資源エネルギー庁「エネルギー需給実績」によると、電源構成に占める再エネ（太陽光・風力・水力・地熱・バイオマス）の割合は、再生可能エネルギーの固定価格買取制度（FIT制度）が開始された2012年度は約10％だったが、2023年度には約23％まで上昇している」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vL69ggjlro_5GPnhUVhQjqfsQs8swhdOYUiwdUtVNYS-8Qc4jkw）
+  - 「ハラール認証取得支援サービス」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X）
+  - 「経済産業省 資源エネルギー庁「エネルギー需給実績」によると、電源構成に占める再エネ（太陽光・風力・水力・地熱・バイオマス）の割合は、再生可能エネルギーの固定価格買取制度（FIT制度）が開始された2012年度は約10％だったが、2023年度には約23％まで上昇している」（https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X）
 - 国の予算：
   - 「日本では、300kWh未満のシステムでは自治体施設や文教施設での導入が多く、300kWh以上のシステムでは、民間企業のほか、自治体・公共施設でも各種補助金制度の創設により導入が進んでいる」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja）
   - 「政府は2024年度補正予算で、家庭用、業務産業用、再エネ併設用蓄電システムの導入支援事業として127億円を計上」（https://eco-shinrai-service.com/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E6%B1%A0%E3%83%BB%E8%93%84%E9%9B%BB%E6%89%80%E3%81%AF%E5%86%8D%E3%82%A8%E3%83%8D%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%80%8C%E4%B8%AD%E6%A0%B8%E3%80%8D%E3%80%80/）
@@ -333,12 +327,8 @@
 - 国内市場規模：
   - 「日本国内のドローンビジネスの市場規模は拡大を続けており、2026年度には約5,500億円、2030年度には約9,500億円に達する見込みである旨が報じられています」（https://www.businesslawyers.jp/articles/1346）
   - 「このように、日本国内のドローンビジネス市場が拡大を続けている一方、ドローンを取り巻く法規制も継続的に見直されており、2026年には小型無人機等飛行禁止法の改正により重要施設周辺の飛行規制が強化されるなど、事業者には最新の法制度を踏まえた対応が求められています」（https://www.businesslawyers.jp/articles/1346）
-  - 「インプレス総合研究所の調査によると、2025年度の日本国内のドローンビジネス市場規模は」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
-  - 「2022年12月より、ついに日本国内でも」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
   - 「The military drone market in Japan is expected to reach a projected revenue of US$ 2,409.9 million by 2033. A compound annual growth rate of 11.4% is expected of Japan military drone market from 2026 to 2033.」（https://www.grandviewresearch.com/horizon/outlook/military-drone-market/japan）
   - 「The Japan market is expected to grow at a CAGR of 11.4% from 2026 to 2033.」（https://www.grandviewresearch.com/horizon/outlook/military-drone-market/japan）
-- 国内参入企業数：
-  - 「準備していただいた求人は100社以上もありパワフルさを感じたのですが、最初の面談の時に書類を応募する企業数と、そのうち一次面接を通る総定数や内定が出る企業の総定数を出していただいて、それをどのくらいの期間で行うのかという指針があったので、納得感がありました」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
 - 需給の差：
   - 「収益の拡大は予算の確保だけでなく、OEMの生産能力、輸出機会、航法の耐障害性、認証済みシステムを予定どおりに運用開始できる能力にも左右される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
   - 「同盟国に義務付けられた支出の下限により、先送りされていた予算が優先度の高いUAS能力の不足分に振り向けられ、従来の主要購入者を超えて潜在市場が広がる」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
@@ -382,11 +372,11 @@
   - 「【1】「国の防衛予算」という巨大な財布が開くと、企業の売上は爆発的に伸びる」（https://media.rakuten-sec.net/articles/-/52207）
   - 「2026年度（令和8年度）の防衛予算では、無人機（ドローン）関連に約2,773億円もの予算をつけました（前年の約2.5倍）」（https://media.rakuten-sec.net/articles/-/52207）
   - 「成長戦略として官民で投資する戦略17分野にも小型無人機などが盛り込まれました」（https://tokyonewsmedia.com/archives/24523）
+  - 「国産EVが販売けん引 上半期7万台超、補助金130万円が追い風」（https://tokyonewsmedia.com/archives/24523）
   - 「出典：官民協議会第8回資料1-2「」（https://www.businesslawyers.jp/articles/1346）
   - 「日本では、2015年から、関係府省庁、メーカー、利用者等の団体等をメンバーとする「小型無人機に係る環境整備に向けた官民協議会」（以下「官民協議会」といいます）において」（https://www.businesslawyers.jp/articles/1346）
   - 「なお、無人航空機の飛行レベル（レベル1～レベル4）について、官民協議会は、以下のとおり定義・分類しています」（https://www.businesslawyers.jp/articles/1346）
   - 「Rotary-wing drones, at an estimated 12.1% CAGR, lead segment growth due to versatility across precision agriculture, inspection, and logistics missions. Agriculture applications grow at approximately 14.2% CAGR, driven by aging workforce pressures and subsidy programs.」（https://www.imarcgroup.com/japan-drones-market）
-  - 「FEMA’s $250 Million Counter-Drone Grant Deadline Approaches: Applications Due November 16」（https://dronelife.com/2026/02/26/unprepared-for-drone-war-europe-and-the-us-face-procurement-crisis/）
 - 国内の主要企業：
   - 「軍用ドローン市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
   - 「軍事用ドローン市場の主要企業には、IAI、Northrop Grumman、Thales Group、Elbit Systems、General Atomicsなどがある」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
@@ -408,13 +398,15 @@
   - 「軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] — 軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...」（https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181）
   - 「軍用ドローン 市場規模、シェア、動向 |成長レポート [2034] — 軍用ドローン 市場規模、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...」（https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181）
   - 「軍用ドローン 市場規模・予測レポート 2026〜2035年 — 軍用ドローン 市場規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン 市場2035年までに305億3000万米ドル到達 次 ... — 軍用ドローン 市場2035年までに305億3000万米ドル到達 次 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/1812347）
   - 「ドローン規制 が拡大へ 2026年7月14日施行の「小型無人機等 ... — ドローン規制 が拡大へ 2026年7月14日施行の「小型無人機等 ... helicam.jp https://www.helicam.jp > お知らせ」（https://www.helicam.jp/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E8%A6%8F%E5%88%B6%E3%81%8C%E6%8B%A1%E5%A4%A7%E3%81%B8%E3%80%802026%E5%B9%B47%E6%9C%8814%E6%97%A5%E6%96%BD%E8%A1%8C%E3%81%AE%E3%80%8C%E5%B0%8F%E5%9E%8B%E7%84%A1/）
-  - 「Japan Military Drones Market (2026-2031) - MarketsandMarkets — Japan Military Drones Market (2026-2031) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Japan）
   - 「Japan Military Drone Market Outlook, 2033 — Japan Military Drone Market Outlook, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/horizon/outlook/military-drone-market/japan）
+  - 「Japan Military Drones Market (2026-2031) - MarketsandMarkets — Japan Military Drones Market (2026-2031) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Japan）
   - 「Military Drone Market Size , Share, Trends, Growth Report, 2034 — Military Drone Market Size , Share, Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/military-drone-market-102181）
   - 「Military Drone Market Size And Growth Report, 2026-2033 — Military Drone Market Size And Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/military-drone-market-report）
   - 「Between 2022 and 2025 , global military drone exports totalled ... — Between 2022 and 2025 , global military drone exports totalled ... Facebook https://www.facebook.com > TheStarKenya > posts > bet...」（https://www.facebook.com/TheStarKenya/posts/between-2022-and-2025-global-military-drone-exports-totalled-16822-units-with-th/1582947290541141/）
   - 「Military Drone Procurement Crisis - DRONELIFE — Military Drone Procurement Crisis - DRONELIFE Dronelife https://dronelife.com > 2026/02/26」（https://dronelife.com/2026/02/26/unprepared-for-drone-war-europe-and-the-us-face-procurement-crisis/）
+- 国内参入企業数：記載なし（読んだ40頁・検索8回）
 
 ## 艦艇（naval vessels）
 - 文脈：5 防衛 ②艦艇
@@ -465,14 +457,14 @@
   - 「日本の防衛予算は、2022年の5.1兆円から2024年には7.7兆円へ増加しており、この予算拡大が艦艇建造、推進システム、ミサイル防衛、電子戦、センサー、戦闘システムの需要を直接的に押し上げている」（https://www.atpress.ne.jp/news/9465387）
   - 「Maya級駆逐艦は1隻あたり約16億米ドルとされており、一隻の建造だけでも大規模な予算を必要とする」（https://www.atpress.ne.jp/news/9465387）
   - 「政府予算の拡大と長期調達計画が市場を安定的に支える一方、高コスト、輸出規制、複雑な技術統合が参入障壁となるため、国内造船大手とグローバル防衛企業との長期的な協業が、2035年までの日本駆逐艦市場の構造を大きく左右すると考えられる」（https://www.atpress.ne.jp/news/9465387）
-  - 「日本の防衛予算は、2022年の5.1兆円から2024年には7.7兆円へ増加しており、この予算拡大が艦艇建造、推進システム、ミサイル防衛、電子戦、センサー、戦闘システムの需要を直接的に押し上げている」（https://newscast.jp/smart/news/9465387）
-  - 「Maya級駆逐艦は1隻あたり約16億米ドルとされており、一隻の建造だけでも大規模な予算を必要とする」（https://newscast.jp/smart/news/9465387）
-  - 「政府予算の拡大と長期調達計画が市場を安定的に支える一方、高コスト、輸出規制、複雑な技術統合が参入障壁となるため、国内造船大手とグローバル防衛企業との長期的な協業が、2035年までの日本駆逐艦市場の構造を大きく左右すると考えられる」（https://newscast.jp/smart/news/9465387）
   - 「さらに今回、艦艇に乗り組む海自隊員の処遇改善に向け、手当増額の関連経費を６年度予算の概算要求に計上した」（https://note.com/kiyotani/n/n56c98340fdf1）
   - 「３ 最適化への取組／補助金・基金の見直しの取組」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
   - 「を計上（歳出ベース約９兆円、契約ベース約８兆円）し、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
   - 「※ 「令和９年度予算の概算要求に当たっての基本的な方針について」（令和８年７月３０日閣議了解）」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
   - 「本年中に改定する三文書を踏まえて編成される令和９年度予算については、同文書に係る議論を経て結論を得る必要があることから予算編成」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「※ 令和９年度予算においては、危機管理投資・成長投資をはじめ、国内投資を通じた潜在成長率の引上げにつながる施策を予見可能性を持って実施できるよう、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「通常歳出とは別に、「強く豊かな日本」投資枠が創設された（経済財政運営と改革の基本方針2026（令和8年7月21日閣議決定）・令和９年度予算の」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「・ 官民連携の強化(DSGの機能強化) (５０９億円)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
 - 国内の主要企業：
   - 「艦艇市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/naval-vessels-market）
   - 「艦艇市場の主要企業には、Huntington Ingalls Industries、General Dynamics Corporation、Hyundai Heavy Industries、BAE Systems、Lockheed Martin Corporationなどが含まれます」（https://www.gminsights.com/ja/industry-analysis/naval-vessels-market）
@@ -484,9 +476,6 @@
   - 「この市場における主要メーカーは、ハンティントン・インガルス・インダストリーズ、ジェネラル・ダイナミクス・コーポレーション、BAEシステムズ、ネーバル・グループ、フィンカンティエリS.p.A.です」（https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market）
   - 「主要企業のリスト：」（https://newscast.jp/news/7626300）
   - 「日本企業の投資判断を左右する政府方針、所管省庁、規制対応―防衛力強化政策が国内産業基盤の方向性を示す」（https://newscast.jp/news/7626300）
-  - 「そのため、国内メーカーが海外市場へ大規模展開する際には、政策・制度面が重要な条件となる」（https://newscast.jp/smart/news/9465387）
-  - 「競争環境では、Mitsubishi Heavy Industries、Kawasaki Heavy Industries、Japan Marine United、Lockheed Martin、General Dynamics、BAE Systems、Rolls-Royce、Thales Group、Northrop Grumman、Navantia、Fincantieriなどが主要企業として挙げられている」（https://newscast.jp/smart/news/9465387）
-  - 「12.2 その他の主要企業」（https://newscast.jp/smart/news/9465387）
   - 「日本企業の一覧 (分野別)」（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%80%A0%E8%88%B9%E4%BC%9A%E7%A4%BE%E3%81%A8%E9%80%A0%E8%88%B9%E6%89%80%E3%81%AE%E4%B8%80%E8%A6%A7）
 - 検索結果の抜粋：
   - 「海軍 艦艇市場規模 、2026〜2035年 - Global Market Insights — 海軍 艦艇市場規模 、2026〜2035年 - Global Market Insights Global Market Insights Inc. https://www.gminsights.com > naval-vessels-market」（https://www.gminsights.com/ja/industry-analysis/naval-vessels-market）
@@ -505,8 +494,8 @@
   - 「1,000社以上」（https://orgallo.co.jp/blog/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9.html）
   - 「2,000社以上」（https://orgallo.co.jp/blog/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9.html）
   - 「今般、政府においては、与党提言等を受けて、防衛装備移転三原則と運用指針の改定により「5類型」を撤廃し、原則すべての完成品が輸出可能となったものの、相手国からのオフセット要求への対応や、維持・整備への対応、知的財産権の取り扱い、国内および相手国法令への準拠、大型プラットフォームにおいては一社ではなく複数社が防衛省と直接契約関係にあるなど、民間企業単独では対処し切れないリスク・課題は多く存在している」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
-  - 「Share of defense manufacturing sales among leading defense companies in Japan 2023」（https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vIgavlt3IR_Geisf_It11j4jdpkFZVMNW59TxG1JvEUPSvvcTkB）
-  - 「Leading defense equipment supplying companies in Japan in fiscal year 2024, by number of contracts」（https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vIgavlt3IR_Geisf_It11j4jdpkFZVMNW59TxG1JvEUPSvvcTkB）
+  - 「Share of defense manufacturing sales among leading defense companies in Japan 2023」（https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH）
+  - 「Leading defense equipment supplying companies in Japan in fiscal year 2024, by number of contracts」（https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH）
 - 需給の差：
   - 「ラインメタル社は、国際的な調達需要の高まりに対応するため、軍用車両、弾薬システム、陸上防衛装備品の生産能力を増強し、防衛関連の製造能力を拡大した」（https://straitsresearch.com/jp/report/defence-equipment-market）
   - 「権限不足のため、フォローできません」（https://www.nikkei.com/article/DGXZQOUC148HG0U6A410C2000000/）
@@ -653,59 +642,52 @@
   - 「民間航空機市場規模 （2026年～2033年）：レポートには年間 ... — 民間航空機市場規模 （2026年～2033年）：レポートには年間 ... LinkedIn https://jp.linkedin.com > pulse > 民間航空機市場規模202...」（https://jp.linkedin.com/pulse/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B42033%E5%B9%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E5%B9%B4%E9%96%93cagr-136%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-xenovantab-vkxie）
   - 「航空機 部品 - メーカー ・ 企業 30社の業務用製品ランキング — 航空機 部品 - メーカー ・ 企業 30社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 航空機部品」（https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/）
   - 「Commercial Aircraft Market Size , Share | Growth Report [2034] — Commercial Aircraft Market Size , Share | Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356）
-  - 「Commercial Aircraft Leasing Market Size 2026-2030 — Commercial Aircraft Leasing Market Size 2026-2030 Technavio https://www.technavio.com > report」（https://www.technavio.com/report/commercial-aircraft-leasing-market-industry-analysis）
 - 国内市場規模：記載なし（読んだ40頁・検索8回）
 
 ## 航空機エンジン（aircraft engine）
 - 文脈：6 航空・宇宙 ①民間航空機
 - 国内市場規模：
-  - 「航空機用エンジンメーカーの国内市場規模は、現在の2,839億円と推計」（https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers）
   - 「民間航空機用エンジンの日本市場（～2031年）、市場規模（ナローボディ機、ワイドボディ機、リージョナル機）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/1478379）
   - 「民間航空機用エンジンの日本市場（～2031年）、市場規模（ナローボディ機、ワイドボディ機、リージョナル機）・分析レポートを発表」（https://newscast.jp/news/1478379）
   - 「株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「民間航空機用エンジンの日本市場（～2031年）、英文タイトル：Japan Commercial Aircraft Engines Market 2031」調査資料を発表しました」（https://newscast.jp/news/1478379）
+  - 「航空機用エンジンメーカーの国内市場規模は、現在の2,839億円と推計」（https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers）
 - 国内参入企業数：
   - 「■100社以上の応募の中、書類選考を通過した20社が加工トライアル」（https://mono.ipros.com/cg2/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E9%83%A8%E5%93%81/）
 - 需給の差：
   - 「現在では部品製造技術は世界トップレベルに達し、品質管理や納期を含めてわが国への評価」（https://www.skyaero.jp/ja/Research/Engine.pdf）
-  - 「ボーイングの状況：747事業不調での資金不足、757/767同時開発への要員不足に対応するため、共同開発相手を探す」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「認証に必要となる「実証試験インフラの整備」が不足しているという課題から認証ノウハウの共有、実証試験イ」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「➢ 安全認証プロセスの理解・経験不足」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「高度化した認証プロセスへの理解・経験不足により、設計変更等を繰り返し、開発が長期化」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「足下のＲＪ市場もパイロット不足等により先行き不透明」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「なお不足する部分について、市場メカニズムを活用した制度として、定められたベースラインを超過した排出」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「ても、労働市場にも多大な影響を与えており、雇用の喪失や人手不足、それに伴う賃金上昇が、財生産や」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「人手不足による供給制約」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「価格高騰・供給不足」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「ウクライナ侵攻等に伴う物流や原材料のコスト増、さらには労働力や部品の不足等によるサプライチェーンの」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「➢ 労働力や部品の不足等により、B787やA350の部品供給」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「⚫ 戦略的プロジェクトの特定・支援（域内の生産能力強化、域外調達先の多様化等）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「国内生産能力の増強、同盟国との関係強化等の対応策が提言」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
   - 「複合材熱硬化成形型の生産能力増強および正寸穴加工を含む高精度部品加工の生産体制構築」（https://www.pref.aichi.jp/press-release/kyojinka.html）
+  - 「ボーイングの状況：747事業不調での資金不足、757/767同時開発への要員不足に対応するため、共同開発相手を探す」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「➢ 安全認証プロセスの理解・経験不足」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「高度化した認証プロセスへの理解・経験不足により、設計変更等を繰り返し、開発が長期化」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「足下のＲＪ市場もパイロット不足等により先行き不透明」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「なお不足する部分について、市場メカニズムを活用した制度として、定められたベースラインを超過した排出」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 戦略的プロジェクトの特定・支援（域内の生産能力強化、域外調達先の多様化等）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「国内生産能力の増強、同盟国との関係強化等の対応策が提言」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「✓ 安全認証プロセスの理解・経験不足や対象となる市場の縮小など、投資回収可能性の観点からMSJは開発中止に至った」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「人材不足・育成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「ジンについては世界的な整備能力不足」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「✓ 世界的整備キャパシティ不足リスクへの備え」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「✓ 整備従事者の不足対応」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「② 整備従事者（作業者）の不足」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
 - 法律・制度：
-  - 「航空機用エンジンメーカー AI注目トレンド 国策・規制が成長の要因に」（https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers）
-  - 「今後5年間で航空機用エンジンメーカーに影響する市場環境の変化を8つのカテゴリーに分類すると、プラス要因としては国策・規制、一方マイナス要因としては技術革新の影響が大きいと予測する」（https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers）
-  - 「プラス要因である国策・規制の具体的な要因は、防衛装備輸出規制緩和や防衛関係費金額増加、海上保安庁の能力強化実施と予測する」（https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers）
+  - 「Channel Partner Satisfaction Studies」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「Construction and Manufacturing」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「Contact Us」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「大手企業は、厳しい環境規制を満たす環境に優しいエンジンを開発するため、研究開発活動に投資している」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「Gain an unparalleled competitive advantage in your domain by understanding how to utilize the report and positively impacting your operations and revenue.」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「The IMARC team was very reactive and flexible with regard to our requests. A very good overall experience. We are happy with the work that IMARC has provided, very complete and detailed. It has contributed to our business needs and provided the market visibility that we required」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「The figures of market study were very close to our assumed figures. The presentation of the study was neat and easy to analyse. The requested details of the study were fulfilled. My overall experience with the IMARC Team was satisfactory.」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「The market reports from IMARC have been instrumental in guiding our business strategies. We found the reports comprehensive and data-driven, which helped us make informed decisions. The detailed insights and actionable data have consistently provided us with a competitive edge in a rapidly changing alcohol market.」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「We recently commissioned multiple market research reports from IMARC, and the insights we received were invaluable. The depth of analysis, accuracy of data, and actionable recommendations have greatly enhanced our strategic decision-making.」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「Privacy Policy」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「Manufacturing Report」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
   - 「ManufacturerʣͱΑ͹ΕΔΤϯδϯϝʔΧʔͷٕज़։ൃΛྺ࢙తʹ࿦͍ͯ͡Δɽجຊతʹ͸」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
   - 「ͷਤ໘ʢି༩ਤʣͱ࢓༷ʹ΋ͱ͍ͮͯ੡଄͢Δྫ֎తͳ RSP ܗଶʢManufacturing RSPʣΛ」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
   - 「δϯͷࣜܕঝೝͷͨΊʹ͸ɼ࿈๜نۭߤଇ ʢFederal Aviation Regulation: FARʣ ͷ଱ۭੑ ʢୈ」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
   - 「Engine Manufacturers」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
-  - 「Abstract」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
-  - 「international division of labor in terms of commercial aircraft engine manufacturing.」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
-  - 「companies have grown from subcontractors into module partners is that long-term trading」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
-  - 「manufacturers. Second, Japanese companies cannot be involved in engine core」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
-  - 「肩しうる評価基準で試験を実施している」（https://www.skyaero.jp/ja/Research/Engine.pdf）
-  - 「(1)米国の大統領 Policy と Plan」（https://www.skyaero.jp/ja/Research/Engine.pdf）
-  - 「Research and Development Policy”が発布された（図 11」（https://www.skyaero.jp/ja/Research/Engine.pdf）
-  - 「Policy 2006」（https://www.skyaero.jp/ja/Research/Engine.pdf）
 - 国の予算：
   - 「この予算は年々拡大し、2007～2013 年の期間で」（https://www.skyaero.jp/ja/Research/Engine.pdf）
   - 「エンジン（図 12）の補助金による実用化研究に至」（https://www.skyaero.jp/ja/Research/Engine.pdf）
-  - 「 777Xの国際共同開発への基金助成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「 GE9Xの国際共同開発への基金助成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「• 航空機国際共同開発促進基金（７７７Ｘ事業）において、「マルチマテリアル構」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「①交付金620億円（累計）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「（⑤令和３年度末基金残高：116億円）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「1号助成：1/2補助」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
   - 「「航空宇宙産業高度強靭化補助金」の2026年度第1回採択案件を決定しました - 愛知県」（https://www.pref.aichi.jp/press-release/kyojinka.html）
   - 「「航空宇宙産業高度強靭化補助金」の2026年度第1回採択案件を決定しました」（https://www.pref.aichi.jp/press-release/kyojinka.html）
   - 「愛知県は、今年度から、次なる完成機事業への参画や宇宙産業、次世代空モビリティ等の新興分野のサプライチェーンの強化、供給力の向上を目的として、これに資する企業の新規設備投資を支援する「航空宇宙産業高度強靭化補助金」を創設し、公募しています（2026年4月1日発表済み）」（https://www.pref.aichi.jp/press-release/kyojinka.html）
@@ -713,26 +695,32 @@
   - 「GI基金／電力制御、熱・エアマネジメントシステム技術開発 2026年度予算 約23.8億円」（https://www.mlit.go.jp/koku/content/001992753.pdf）
   - 「2026年度予算 約23億円」（https://www.mlit.go.jp/koku/content/001992753.pdf）
   - 「Kプロ/航空機エンジン向け先進材料技術の開発・実証 2026年度予算 約6.9億円」（https://www.mlit.go.jp/koku/content/001992753.pdf）
+  - 「2026年度予算 約12.5億円」（https://www.mlit.go.jp/koku/content/001992753.pdf）
+  - 「次世代空モビリティの社会実装に向けた実現プロジェクト 2026年度予算 約28億円」（https://www.mlit.go.jp/koku/content/001992753.pdf）
+  - 「航空機向け革新複合材共通基盤技術開発事業 2026年度予算 約13億円」（https://www.mlit.go.jp/koku/content/001992753.pdf）
+  - 「2026年度予算総額 ： 約270億円」（https://www.mlit.go.jp/koku/content/001992753.pdf）
+  - 「次世代航空機向け静脈産業構築事業 2026年度予算 約5.7億円」（https://www.mlit.go.jp/koku/content/001992753.pdf）
+  - 「GI基金／水素航空機向けコア技術開発 2026年度予算 約24.4億円」（https://www.mlit.go.jp/koku/content/001992753.pdf）
 - 国内の主要企業：
-  - 「AIが予測する航空機用エンジンメーカー ｜2030年市場規模推移と主要企業ランキング」（https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers）
-  - 「AIが予測する航空機用エンジンメーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました」（https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers）
-  - 「当ページでは、市場予測、主要企業ランキング、成長やリスクをもたらす外部要因の分析など、戦略立案に役立つ詳細なAI予測を無料でご確認いただけます」（https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers）
-  - 「航空機用エンジンメーカー 主要企業シェアランキング 株式会社IHI・川崎重工業株式会社・三菱重工業株式会社等」（https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers）
   - 「世界シェア上位の日本企業」（https://deallab.info/aircraft-engine/）
+  - 「報告書によると、航空技術への潜在的な投資、主要メーカーの強い存在感、エンジン効率の継続的な改善により、北米が航空機エンジン市場をリードしている」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
+  - 「航空機エンジン市場の主要企業には Barnes Group Inc., General Electric Company, Honeywell International Inc., IHI Corporation, Mitsubishi Heavy Industries Ltd., MTU Aero Engines AG, Raytheon Technologies Corporation, Rolls-Royce Holdings plc, Safran S.A., Textron Inc., などがある」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
   - 「表 ４ ：日本企業が参画する民間航空機エンジンのプログラム（RSP 方式を中心に）」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
   - 「is required in terms of technology, and Japanese companies have accumulated technology」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
   - 「manufacturers. Second, Japanese companies cannot be involved in engine core」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
-  - 「日本企業参加比率：15％」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「日本企業参加比率：21％ 日本企業参加比率：35％」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「*1,2,3：主要企業の売上高合計（2010年）現代航空論より *4：主要企業の売上高合計（2012年）Airline Businessより」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「*5：主要企業の保有機材価値（2013年現在）、Airline Businessより *6:主要企業の売上高合計（2012年）Airline Businessより」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「日本企業が共同開発先として参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
-  - 「⚫ 経済産業省と欧米政府・企業との協力枠組を活用し、マッチングや共同技術開発支援を通じて日本企業と」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
+  - 「航空機エンジンの日本企業と海外メーカー | 記事 | ブログ」（https://outpour348.inkrich.com/posts/aircraft-engines-347928-mveskylp）
+  - 「航空機エンジンの日本企業と海外メーカー」（https://outpour348.inkrich.com/posts/aircraft-engines-347928-mveskylp）
+  - 「提供されたリストの中で日本企業に該当するのはTextronのみです」（https://outpour348.inkrich.com/posts/aircraft-engines-347928-mveskylp）
+  - 「ただしTextronは米国企業であり、日本企業ではありません」（https://outpour348.inkrich.com/posts/aircraft-engines-347928-mveskylp）
+  - 「したがって、このリストに日本企業は含まれていません」（https://outpour348.inkrich.com/posts/aircraft-engines-347928-mveskylp）
   - 「日本企業参加比率：15％」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「日本企業参加比率：21％ 日本企業参加比率：35％」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「日本企業が共同開発先として参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「*1,2,3：主要企業の売上高合計（2010年）現代航空論より *4：主要企業の売上高合計（2012年）Airline Businessより」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
 - 検索結果の抜粋：
   - 「航空機エンジン市場規模 、シェア、動向 |成長 [2034] — 航空機エンジン市場規模 、シェア、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766）
+  - 「航空機エンジン の世界 市場 は2033年までに1697億米ドルに ... — 航空機エンジン の世界 市場 は2033年までに1697億米ドルに ... IMARC Group https://www.imarcgroup.com > pressrelease > aircraft-engi...」（https://www.imarcgroup.com/pressrelease/ja/aircraft-engine-market-statistics）
   - 「民間 航空機エンジン メーカーにおける国際分業の構造 — 民間 航空機エンジン メーカーにおける国際分業の構造 立命館大学 PDF https://www.ritsumei.ac.jp > ssrc > memoirs > kiyou37」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
-  - 「航空機エンジン市場規模 、シェア、予測 | 業界分析 [2033] — 航空機エンジン市場規模 、シェア、予測 | 業界分析 [2033] IMARC Group https://www.imarcgroup.com > Aerospace and Defense」（https://www.imarcgroup.com/report/ja/aircraft-engine-market）
   - 「民間 航空機エンジンメーカー における国際分業の構造 — 民間 航空機エンジンメーカー における国際分業の構造 立命館大学 PDF https://www.ritsumei.ac.jp > ssrc > memoirs > kiyou37」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
   - 「Aircraft Engine Market Size , Share, Trends | Growth [2034] — Aircraft Engine Market Size , Share, Trends | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766）
   - 「Aircraft Engine Market Size , Share & Industry Report, 2035 — Aircraft Engine Market Size , Share & Industry Report, 2035 Global Market Insights Inc. https://www.gminsights.com > aircraft...」（https://www.gminsights.com/industry-analysis/aircraft-engine-market）
@@ -742,13 +730,14 @@
 ## 産業用ドローン（commercial drone）
 - 文脈：6 航空・宇宙 ②無人航空機
 - 国内市場規模：
+  - 「ドローンによるビジネスの市場規模は、2021年度には日本国内だけで2,000億円を超えると推測され、2027年度には7,000億円を優に突破すると見込まれています」（https://product.acsl.co.jp/useful/post-1903/）
   - 「2030年に日本国内の人口の約3割が高齢者となることで引き起こされる各種問題の総称」（https://data.wingarc.com/drone-market-64786）
   - 「調査によると、2022年度の日本国内ドローンビジネス市場は」（https://data.wingarc.com/drone-market-64786）
-  - 「ドローンによるビジネスの市場規模は、2021年度には日本国内だけで2,000億円を超えると推測され、2027年度には7,000億円を優に突破すると見込まれています」（https://product.acsl.co.jp/useful/post-1903/）
   - 「2025年の日本市場は、政府が掲げるデジタル田園都市国家構想の後押しもあり、ドローンが「珍しい技術」から「社会基盤」へと移行した転換点となりました」（https://akihabara-ds.com/column/detail/40/）
   - 「複数の予測によると、2030年度の国内市場規模は9,500億円規模に達すると見込まれており、技術革新がその成長を牽引しています」（https://akihabara-ds.com/column/detail/40/）
   - 「インプレス総合研究所の調査によると、2025年度の日本国内のドローンビジネス市場規模は」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
   - 「2022年12月より、ついに日本国内でも」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
+  - 「ドローン市場は急成長を続けており、インプレス総合研究所の調査によると、2025年度の日本国内市場規模は約5,000億円です」（https://boundary.or.jp/aboutdrone/knowledge/4124/）
   - 「日本国内のドローンビジネスの市場規模は拡大を続けており、2026年度には約5,500億円、2030年度には約9,500億円に達する見込みである旨が報じられています」（https://www.businesslawyers.jp/articles/1346）
   - 「このように、日本国内のドローンビジネス市場が拡大を続けている一方、ドローンを取り巻く法規制も継続的に見直されており、2026年には小型無人機等飛行禁止法の改正により重要施設周辺の飛行規制が強化されるなど、事業者には最新の法制度を踏まえた対応が求められています」（https://www.businesslawyers.jp/articles/1346）
   - 「今回は日本国内でも販売・ソリューション展開をしているドローンメーカーの中から、海外メーカー10社、国内メーカー10社の計20社＋αをピックアップしてご紹介します」（https://skylinkjapan.com/blog/drone-maker/）
@@ -772,18 +761,18 @@
   - 「人手不足や高齢化が進む農村部において、省力化・効率化を実現する技術として導入が拡大しています」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
   - 「物流・配送分野では、ドライバー不足や配送効率の低下といった課題を補う手段として、ドローンの活用が注目されています」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
   - 「少子高齢化、人口減少、担い手不足が課題となっている日本の中で、」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
-  - 「■人手不足を解消」（https://mono.ipros.com/cg2/%E7%94%A3%E6%A5%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/）
   - 「人手不足の解消」（https://evort.jp/article/industrial-drone）
+  - 「機体に荷物を搭載して運搬すれば、人手不足の解消や時間の短縮につながるでしょう」（https://evort.jp/article/industrial-drone）
 - 法律・制度：
   - 「2022年に有人地帯での目視外飛行が解禁されたものの、求められる機体認証のハードルが非常に高く、2025年度に至っても実施例はごくわずかに限られている」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「また国土交通省はレベル4飛行と呼ばれる、有人地帯における補助者なしの目視外飛行を実現するために法制度を整えていることも後押しとなり、多様な産業分野でドローンの実用化・商用化が促進されています」（https://product.acsl.co.jp/useful/post-1903/）
+  - 「【2023年度版】ドローンの5大規制について徹底解説！」（https://product.acsl.co.jp/useful/post-1903/）
   - 「近年、ドローン技術が進化し、さまざまな法規制も整備されています」（https://data.wingarc.com/drone-market-64786）
   - 「例えば、2023年11月には、過疎地のドローンの利用について、条件付きで監視者不要でも可能とする規制緩和が発表されるなど、その活用範囲は急速に広がっています」（https://data.wingarc.com/drone-market-64786）
   - 「さらに、冒頭でも触れた、規制緩和などにより、有人地帯での目視外飛行（レベル4飛行）が解禁され、」（https://data.wingarc.com/drone-market-64786）
   - 「しかし、米国では規制が課題となり、特にBVLOS（目視できる範囲を超える距離）飛行にはまだ課題が残っているといいます」（https://data.wingarc.com/drone-market-64786）
   - 「・過疎地のドローン規制緩和＝条件付きで監視者不要―国交省 | 時事通信ニュース」（https://data.wingarc.com/drone-market-64786）
   - 「［定期開催］生成AI対応 新生MotionBoard re:Actハンズオン：2026年11月 刷新されたUXとAI活用で進化した業務アプリなBIを体験」（https://data.wingarc.com/drone-market-64786）
-  - 「また国土交通省はレベル4飛行と呼ばれる、有人地帯における補助者なしの目視外飛行を実現するために法制度を整えていることも後押しとなり、多様な産業分野でドローンの実用化・商用化が促進されています」（https://product.acsl.co.jp/useful/post-1903/）
-  - 「【2023年度版】ドローンの5大規制について徹底解説！」（https://product.acsl.co.jp/useful/post-1903/）
   - 「技術革新による自動航行の精度向上と規制緩和の相乗効果により、2030年の1兆円市場に向けた成長スピードはさらに加速しています」（https://akihabara-ds.com/column/detail/40/）
   - 「特に、日本におけるレベル4飛行の全面解禁や、欧米諸国での規制調和が進んだことで、都市部での配送サービスや広域な自動監視が社会基盤の一部として機能し始めています」（https://akihabara-ds.com/column/detail/40/）
   - 「各国の法規制が実運用に即した形にアップデートされることで、2030年に向けた市場成長は確実なものとなっています」（https://akihabara-ds.com/column/detail/40/）
@@ -793,7 +782,6 @@
 - 国の予算：
   - 「また、ドローン機体をはじめ機材の減価償却やモバイル通信、保険などを含めると運用コストが高いため、1回数百円の配送料金だけで採算を取ることが極めて困難であり、多くの取り組みが国や自治体の補助金を活用して進められているケースが多い」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
   - 「官民一体となったインフラ整備や持続可能な運用体系の構築が進むことで、ビジネスとしての収益性が確立され、2030年に向けてさらなる投資と参入が加速する見込みです」（https://akihabara-ds.com/column/detail/40/）
-  - 「また産業用ドローンの補助金審査に関するノウハウが学べる「【WEBセミナー】補助金活用無料セミナー」が同日の15:30～17:30に開催されます」（https://mono.ipros.com/cg2/%E7%94%A3%E6%A5%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/）
   - 「補助金(8)」（https://mazex.jp/category/news/page/12）
   - 「2023年5月時点で活用できる補助金の一例は、下記のとおりです」（https://drone-navigator.com/industrial-drone）
   - 「〇産業用ドローンは50万～300万円程度が相場で、日本製のほうが高い傾向がある（条件が合えば助成金や補助金を活用できる）」（https://drone-navigator.com/industrial-drone）
@@ -803,9 +791,10 @@
   - 「ただし、補助金は申請から振込までに半年〜1年程度の期間を要し、申請書類の作成や採択後の報告書類の作成など、相応の事務負担が発生します」（https://kddi.smartdrone.co.jp/column/subsidy/814/）
   - 「2026年版 補助金・助成金5選 早見表」（https://kddi.smartdrone.co.jp/column/subsidy/814/）
   - 「2026年現在、産業用ドローン導入に活用できる主な補助金・助成金は、以下の」（https://kddi.smartdrone.co.jp/column/subsidy/814/）
-  - 「【2026年最新】ドローン導入に使える補助金まとめ！対象機体と申請のコツ | 免許・制度 | ドローンの導入支援-販売-空撮ならHELICAM株式会社 | DJI正規代理店」（https://www.helicam.jp/column/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B0%8E%E5%85%A5%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%BE%E3%81%A8%E3%82%81/）
-  - 「【2026年最新】ドローン導入に使える補助金まとめ！対象機体と申請のコツ」（https://www.helicam.jp/column/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B0%8E%E5%85%A5%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%BE%E3%81%A8%E3%82%81/）
-  - 「2026年最新版のドローン導入に活用できる補助金・助成金を一覧でご紹介します」（https://www.helicam.jp/column/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B0%8E%E5%85%A5%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%BE%E3%81%A8%E3%82%81/）
+  - 「【2026年 教則第5版対応】農業ドローン導入 完全ガイド｜機体・資格・年次点検・補助金・飛行｜KFJドローンスクール」（https://droneschool.kofuji.co.jp/drone-nougyou-dounyu-2026/）
+  - 「補助金は市町村・都道府県・国の3層で探す」（https://droneschool.kofuji.co.jp/drone-nougyou-dounyu-2026/）
+  - 「——ここに補助金（後述COLUMN 07）を組み合わせるのが、KFJドローンスクールが法人研修80社以上で見てきた実務パターンです」（https://droneschool.kofuji.co.jp/drone-nougyou-dounyu-2026/）
+  - 「——本体約54万円からのモデルもあり、補助金と組み合わせて初期負担を抑えられる」（https://droneschool.kofuji.co.jp/drone-nougyou-dounyu-2026/）
 - 国内の主要企業：
   - 「DJIやSkydioといった主要メーカーが、小型化や対応機体の拡大など、ドローンポートの機能拡充に注力している」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
   - 「なぜ、日本企業のIT化が進まないのか――日本のSI構造から考える」（https://data.wingarc.com/drone-market-64786）
@@ -829,26 +818,26 @@
   - 「【2026年最新】国産 ドローン メーカー10 社 を徹底比較！ — 【2026年最新】国産 ドローン メーカー10 社 を徹底比較！ hb-j.jp https://www.hb-j.jp > ドローン通信」（https://www.hb-j.jp/column/detail.html?id=1462）
   - 「産業用ドローン メーカー51 社 - メトリー — 産業用ドローン メーカー51 社 - メトリー Metoree https://metoree.com > ロボット」（https://metoree.com/categories/8233/）
   - 「【2026最新】 ドローン 会社・メーカー17選｜有名 企業 や ... — 【2026最新】 ドローン 会社・メーカー17選｜有名 企業 や ... Geekly https://www.geekly.co.jp > column > drone-tech-company」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
-  - 「産業ドローン - メーカー・ 企業 23 社 の業務用製品ランキング — 産業ドローン - メーカー・ 企業 23 社 の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業ドローン」（https://mono.ipros.com/cg2/%E7%94%A3%E6%A5%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/）
   - 「産業用ドローン まとめ｜種類・費用相場・資格やメーカー20選 — 産業用ドローン まとめ｜種類・費用相場・資格やメーカー20選 ドローンナビゲーター https://drone-navigator.com > ドローンの基礎知識」（https://drone-navigator.com/industrial-drone）
   - 「令和6年度 農業分野における ドローン の活用状況 — 令和6年度 農業分野における ドローン の活用状況 農林水産省 PDF https://www.maff.go.jp > attach > pdf > drone-184」（https://www.maff.go.jp/j/kanbo/smart/attach/pdf/drone-184.pdf）
   - 「【 2026 年最新】 産業用ドローン に活用できる 補助金 ・助成金5選 — 【 2026 年最新】 産業用ドローン に活用できる 補助金 ・助成金5選 KDDIスマートドローン株式会社 https://kddi.smartdrone.co.jp > ... > 補助金・助成金」（https://kddi.smartdrone.co.jp/column/subsidy/814/）
-  - 「【 2026 年最新】 ドローン 導入に使える 補助金 まとめ！対象 ... — 【 2026 年最新】 ドローン 導入に使える 補助金 まとめ！対象 ... helicam.jp https://www.helicam.jp > コラム > 免許・制度」（https://www.helicam.jp/column/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B0%8E%E5%85%A5%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%BE%E3%81%A8%E3%82%81/）
-  - 「ドローン ・UAV 補助金2026 ：物流配送・建設測量・農薬散布 ... — ドローン ・UAV 補助金2026 ：物流配送・建設測量・農薬散布 ... physical-ai-hojokin.jp https://physical-ai-hojokin.jp > 記事一覧 > 機体・製品別」（https://physical-ai-hojokin.jp/articles/drone-hojokin-guide/）
-  - 「ドローン 導入で確認したい 補助金 ・助成金まとめ｜測量・点検 ... — ドローン 導入で確認したい 補助金 ・助成金まとめ｜測量・点検 ... SkyLink Japan https://skylinkjapan.com > blog > drone-hojokin-2026」（https://skylinkjapan.com/blog/drone-hojokin-2026/）
   - 「【 2026 年 教則第5版対応】農業 ドローン 導入 完全ガイド — 【 2026 年 教則第5版対応】農業 ドローン 導入 完全ガイド KFJドローンスクール https://droneschool.kofuji.co.jp > TOP > コラム」（https://droneschool.kofuji.co.jp/drone-nougyou-dounyu-2026/）
-  - 「建設業の ドローン 導入に使える 補助金 【 2026 年版】測量 ... — 建設業の ドローン 導入に使える 補助金 【 2026 年版】測量 ... 中小企業診断士事務所rigid https://rigid-consulting.com > kensetsu-drone-hojokin」（https://rigid-consulting.com/column/kensetsu-drone-hojokin/）
+  - 「ドローン ・UAV 補助金2026 ：物流配送・建設測量・農薬散布 ... — ドローン ・UAV 補助金2026 ：物流配送・建設測量・農薬散布 ... physical-ai-hojokin.jp https://physical-ai-hojokin.jp > 記事一覧 > 機体・製品別」（https://physical-ai-hojokin.jp/articles/drone-hojokin-guide/）
+  - 「ドローン補助金 ・助成金 2026 ｜国家資格・機体・法人研修 — ドローン補助金 ・助成金 2026 ｜国家資格・機体・法人研修 DSIドローン・ビジネススクール茨城 https://www.dac-kk.com > dsi-drone-hojyokin」（https://www.dac-kk.com/dsi-drone-hojyokin/）
+  - 「ドローン補助金 【 2026 年最新版】購入・資格取得に使える ... — ドローン補助金 【 2026 年最新版】購入・資格取得に使える ... バウンダリ行政書士法人 https://boundary.or.jp > aboutdrone > knowledge」（https://boundary.or.jp/aboutdrone/knowledge/4124/）
+  - 「ドローン 導入で確認したい 補助金 ・助成金まとめ｜測量・点検 ... — ドローン 導入で確認したい 補助金 ・助成金まとめ｜測量・点検 ... SkyLink Japan https://skylinkjapan.com > blog > drone-hojokin-2026」（https://skylinkjapan.com/blog/drone-hojokin-2026/）
+  - 「【2025年】 ドローン の 法改正 （航空 法改正 ）と今後伸びる ... — 【2025年】 ドローン の 法改正 （航空 法改正 ）と今後伸びる ... エイジェックドローン https://agekke-drone.co.jp > コラム」（https://agekke-drone.co.jp/column/2874/）
 
 ## 空飛ぶクルマ（eVTOL）
 - 文脈：6 航空・宇宙 ③空飛ぶクルマ
 - 国内市場規模：
   - 「今後、MaaSの市場規模は急速に拡大していくと考えられており、2030年（令和12年）には国内市場が約6兆円、2050年までには世界市場が約900兆円にまで拡大するとの調査結果もある（図表I-2-1-14、図表I-2-1-15）」（https://www.mlit.go.jp/hakusyo/mlit/r01/hakusho/r02/html/n1213000.html）
-  - 「・オランダPAL-V社「Liberty」…日本市場向け「PAL-V Liberty Pioneer Edition」75万ドル（1億700万円）/「Liberty Sport」49万9,000ドル（約7,100万円）」（https://www.geekly.co.jp/column/cat-technology/flying-car/）
   - 「90台限定の最初の生産バージョン「PAL-V Liberty Pioneer Edition」は、日本市場向けの場合75万ドル（約1億円）となっている」（https://jidounten-lab.com/u_40758）
+  - 「・オランダPAL-V社「Liberty」…日本市場向け「PAL-V Liberty Pioneer Edition」75万ドル（1億700万円）/「Liberty Sport」49万9,000ドル（約7,100万円）」（https://www.geekly.co.jp/column/cat-technology/flying-car/）
 - 国内参入企業数：
+  - 「ン航空やヴァージンアトランティック航空など複数社と最大1,000機規模の契約をすでに交わしており、日本においても丸紅が最大200機に及ぶ契約を結んでいる」（https://jidounten-lab.com/u_40758）
   - 「準備していただいた求人は100社以上もありパワフルさを感じたのですが、最初の面談の時に書類を応募する企業数と、そのうち一次面接を通る総定数や内定が出る企業の総定数を出していただいて、それをどのくらいの期間で行うのかという指針があったので、納得感がありました」（https://www.geekly.co.jp/column/cat-technology/flying-car/）
   - 「2021年9月に発表された「ドローンサービス企業 世界ランキング2021」で、400社以上のなかから世界2位を獲得しています」（https://www.geekly.co.jp/column/cat-technology/flying-car/）
-  - 「ン航空やヴァージンアトランティック航空など複数社と最大1,000機規模の契約をすでに交わしており、日本においても丸紅が最大200機に及ぶ契約を結んでいる」（https://jidounten-lab.com/u_40758）
   - 「こうした機体開発の進展に対応し、近畿地域においては、6 社程度の民間企」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou11.pdf）
   - 「企業のサプライチェーンに連なる中小企業群も含めると、100 社以上の関連企業集積が形成さ」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou11.pdf）
 - 需給の差：
@@ -856,17 +845,17 @@
   - 「ニュースレターの配信をお待ち下さい」（https://www.nikkei.com/article/DGXZQOUC3109G0R31C24A2000000/）
   - 「人が直接行くことが難しい、あるいは危険が伴うようなところでの撮影・点検などでの活用が期待されるほか、人手不足が進行する建設業界や物流業界における生産性向上に寄与することが期待されている」（https://www.mlit.go.jp/hakusyo/mlit/r01/hakusho/r02/html/n1213000.html）
   - 「年間50機以上の生産能力を有し、2024年に商用サービスを開始する計画だ」（https://jidounten-lab.com/u_40758）
-  - 「働き方改革・人手不足対策、人材育成（企業・事業者向け情報）」（https://www.pref.oita.jp/site/sme/oita-jimobi-torikumi.html）
-  - 「働き方改革・人手不足対策」（https://www.pref.oita.jp/site/sme/oita-jimobi-torikumi.html）
+  - 「そもそも空飛ぶクルマとは、明確な定義はないものの、「電動」「自動操縦」「垂直離着陸」を満たす次世代モビリティと考えられており、実現すれば観光利用だけでなく、医師の派遣や患者搬送、山岳地での荷物搬送など、高齢化や人手不足といった社会課題を解決する可能性があることから、高い注目を浴びています」（https://rm-navi.com/search/item/2164）
   - 「現に、親和性の高い従来の飛行機による航空輸送分野においても将来的な人材不足が懸」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou11.pdf）
   - 「運航管理、整備、安全管理等の専門人材の不足に対応するため、養成機関の拡充及び教」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou11.pdf）
-  - 「つまり、高齢化、人口減少、人手不足、地域の移動手段の減少など、日本が直面する課題を、無人で空を運航できて、発着陸のスペースが小さくて済む空飛ぶクルマで解決できるかもしれないことから、期待が高まっているんです」（https://rm-navi.com/search/item/2168）
-  - 「複雑・重い・人手不足を解決！マールのカスタマイズ測定機」（https://tv.aperza.com/watch/1394）
   - 「Infrastructure bottlenecks」（https://www.precedenceresearch.com/evtol-aircraft-market）
   - 「The real imbalance is not a shortage of aircraft. It is the gap between announced demand and aircraft that can actually be certified and produced. Thousands of commitments exist, yet only a few manufacturers have reached commercial delivery scale.」（https://www.precedenceresearch.com/evtol-aircraft-market）
   - 「Component bottlenecks」（https://www.precedenceresearch.com/evtol-aircraft-market）
   - 「Delivery lead times」（https://www.precedenceresearch.com/evtol-aircraft-market）
   - 「The full report therefore ranks companies separately on delivered aircraft, firm backlog, total commitments, certification maturity, and manufacturing readiness, rather than treating non-binding letters of intent as revenue.」（https://www.precedenceresearch.com/evtol-aircraft-market）
+  - 「BETA reported a VTOL backlog of hundreds of aircraft while pursuing certification and expanding manufacturing, which shows why balancing passenger aircraft with cargo, medical, and defense uses matters. (Reuters)」（https://www.precedenceresearch.com/evtol-aircraft-market）
+  - 「Detailed profiles of the 22 companies cover revenue, funding, cash position, R&D, aircraft programs, backlog, certification stage, manufacturing footprint, technology, partnerships, customers, and strategic developments.」（https://www.precedenceresearch.com/evtol-aircraft-market）
+  - 「IATA - Aerospace Supply Chain Bottlenecks Continue to Constrain Airlines」（https://www.iata.org/en/pressroom/2025-releases/2025-12-09-02/）
 - 法律・制度：
   - 「2-2. 研究開発のロードマップ及び(TRL基準を踏まえた)ステージゲートの設定」（https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf）
   - 「省をはじめとする関係省庁 （制度面、ユーザー視点 ）、③エアライン等の運航事業を検討している事業者」（https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf）
@@ -879,10 +868,10 @@
   - 「家計の法律クリニック」（https://www.nikkei.com/article/DGXZQOUC3109G0R31C24A2000000/）
   - 「モビリティ分野の新たな動きとして注目されている「空飛ぶクルマ」は、電動・垂直離着陸型・無操縦者航空機を1つのイメージに、世界各国で開発が進んでおり、我が国においても走行空間や制度整備の課題はあるが、都市部での送迎サービス、離島や山間部の新たな移動手段などにつながるものと期待されている」（https://www.mlit.go.jp/hakusyo/mlit/r01/hakusho/r02/html/n1213000.html）
   - 「注12 野村総合研究所では、「都市において、建物間を横断してサービスを提供するための共通機能（認証技術や画像解析技術など）やインフラ管理を、クラウドなどを利用して提供するソフトウェア・サービスと、その実現に必要なカメラなどのセンサー・機器の配備に要する総額」を、スマートシティプラットフォーム市場と定義した」（https://www.mlit.go.jp/hakusyo/mlit/r01/hakusho/r02/html/n1213000.html）
-  - 「例えば、航空機やヘリコプターよりもハードルの低い法律を整備しなければ、思うような普及につながりません」（https://www.geekly.co.jp/column/cat-technology/flying-car/）
-  - 「快適な旅客サービスと高い安全基準を提供し、日本を代表する国際航空会社として知られています」（https://www.geekly.co.jp/column/cat-technology/flying-car/）
-  - 「compact」（https://skydrive.co.jp/）
-  - 「contact」（https://skydrive.co.jp/）
+  - 「量産化を見据えた資金調達や販売契約も相次いでおり、機体認証取得に向けた取り組みも加速しているようだ」（https://jidounten-lab.com/u_40758）
+  - 「2025年までに欧州で認証所得目指す」（https://jidounten-lab.com/u_40758）
+  - 「プロトタイプを2024年までに製作し、2029年までにFAAの認証を取得し、2030年にリリースする計画だ」（https://jidounten-lab.com/u_40758）
+  - 「2024年後半にFAA認証を得て、2025年にも運航を開始する計画だ」（https://jidounten-lab.com/u_40758）
 - 国の予算：
   - 「1-7. 予算額（補助上限を含む）、事業規模」（https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf）
   - 「1-7．予算額(補助上限含む)・事業規模」（https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf）
@@ -894,53 +883,52 @@
   - 「空の移動革命に向けた官民協議会（2018.8.29.～）」（https://www.soumu.go.jp/main_content/001036460.pdf）
   - 「 世界に先駆けた“空飛ぶクルマ”の実現のため、2018年8月に官民協議会を設置」（https://www.soumu.go.jp/main_content/001036460.pdf）
   - 「 官民での議論をより活発に行うため、2020年８月に実務者会合を設置」（https://www.soumu.go.jp/main_content/001036460.pdf）
-  - 「こうした考えから設立された、官民の関係者による「空の移動革命に向けた官民協議会」では、両者が歩調を合わせて取り組むべき課題について議論が重ねられ、2018年12月には「空の移動革命に向けたロードマップ」が取りまとめられました（※）」（https://bright.nikkiso.co.jp/article/life/evtol）
-  - 「第12回 空の移動革命に向けた官民協議会（METI/経済産業省）」（https://bright.nikkiso.co.jp/article/life/evtol）
-  - 「2026年3月27日、国土交通省と経済産業省は「空の移動革命に向けた官民協議会」（第12回）を開催し、約4年ぶりに「空の移動革命に向けたロードマップ」を改訂しました」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「空飛ぶクルマの社会実装に向けて、2018年より「空の移動革命に向けた官民協議会」が設置されました」（https://www.irric.co.jp/topics/press/2026/0727.html）
+  - 「国土交通省と経済産業省は2018年に「空の移動革命に向けた官民協議会（以下、協議会）」を発足し、空飛ぶクルマの商用運航実現に向けて、官民挙げて取り組んでいます」（https://rm-navi.com/search/item/2164）
   - 「これらの取組を通じて、本計画における 2040 年までの官民設備投資額は約 348 億円、付加価」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou11.pdf）
   - 「 官民設備投資額は、2040 年までのバーティポート整備に係る事業費の推計を合計した額で」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou11.pdf）
+  - 「 付加価値増加額は、2040 年までに投じた官民設備投資額（推計値）から産業連関分析を行」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou11.pdf）
 - 国内の主要企業：
   - 「本研究開発事業のアウトプットとして、国内メーカーが商用運航モデルの機体を開発し市場に展開することで、」（https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf）
   - 「日本企業が機体や周辺システム開発、更には旅客・物」（https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf）
   - 「注14 比較した市場規模は業界動向サーチの平成27-28年の値（主要企業の有価証券報告書を元に作成）海運業5兆7,118億円、アパレル業5兆3,750億円、電子部品製造業11兆928億円、製薬業10兆7,684億円」（https://www.mlit.go.jp/hakusyo/mlit/r01/hakusho/r02/html/n1213000.html）
   - 「今回は、空飛ぶクルマの概要や主要企業、必要とされるエンジニアの種類について解説しました」（https://www.geekly.co.jp/column/cat-technology/flying-car/）
-  - 「ここでは、主要メーカーの開発状況をご紹介します」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「空飛ぶクルマ業界地図、日本企業のビジネスチャンスを分析 | 日経クロステック（xTECH）」（https://xtech.nikkei.com/atcl/nxt/column/18/02892/071900005/）
+  - 「空飛ぶクルマ業界地図、日本企業のビジネスチャンスを分析」（https://xtech.nikkei.com/atcl/nxt/column/18/02892/071900005/）
   - 「4.2 機体の認証（主要メーカーの認証状況）」（https://reamo.nedo.go.jp/library/2024/04/eVTOL-Regulation-Trends-2024.pdf）
+  - 「ここでは、主要メーカーの開発状況をご紹介します」（https://bright.nikkiso.co.jp/article/life/evtol）
   - 「テーマ寄与額はまだ小さいものの、Jobyの量産段階に最も深く入り込んだ日本企業の一つです」（https://note.com/tatsuya_sabato/n/nb9f987ece79e）
   - 「決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理」（https://note.com/tatsuya_sabato/n/nb9f987ece79e）
-  - 「空飛ぶクルマの日本企業」（https://rikeistudent.com/aviation/）
   - 「There is a growing trend of investment in research and development within the evtol aircraft market. Japanese companies are increasingly allocating resources to innovate and enhance aircraft design, focusing on efficiency and sustainability. This investment is likely to accelerate the development of advanced technologies that could redefine urban transportation.」（https://www.marketresearchfuture.com/reports/japan-evtol-aircraft-market-44783）
   - 「Sustainability is becoming a central theme in the evtol aircraft market. Japanese manufacturers are prioritizing the creation of eco-friendly aircraft that utilize renewable energy sources. This focus on reducing carbon emissions aligns with global environmental goals and positions Japan as a leader in sustainable aviation technology.」（https://www.marketresearchfuture.com/reports/japan-evtol-aircraft-market-44783）
 - 検索結果の抜粋：
-  - 「空飛ぶクルマ の 市場規模 、シェア |業界レポート、2040 年 — 空飛ぶクルマ の 市場規模 、シェア |業界レポート、2040 年 Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流」（https://www.fortunebusinessinsights.com/jp/%E7%A9%BA%E9%A3%9B%E3%81%B6%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B8%82%E5%A0%B4-105378）
   - 「空飛ぶクルマ とは 世界 市場 、2050年に185兆円 - 日本経済新聞 — 空飛ぶクルマ とは 世界 市場 、2050年に185兆円 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUC3109G0R31C24A2000000/）
-  - 「空飛ぶクルマ 世界 市場 に関する調査を実施（2023年） — 空飛ぶクルマ 世界 市場 に関する調査を実施（2023年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/3252?srsltid=AYCX9vLEW413KWa7FBo0AJ2xiq9A96vcdGSrovGldV4v2FzKMnJy_ZC_）
+  - 「空飛ぶクルマ の 市場規模 、シェア |業界レポート、2040 年 — 空飛ぶクルマ の 市場規模 、シェア |業界レポート、2040 年 Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流」（https://www.fortunebusinessinsights.com/jp/%E7%A9%BA%E9%A3%9B%E3%81%B6%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B8%82%E5%A0%B4-105378）
+  - 「空飛ぶクルマ 部品 市場 に関する調査を実施（2023年） — 空飛ぶクルマ 部品 市場 に関する調査を実施（2023年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/3336?srsltid=AYCX9vJlz9XSMMcMNPUbhad4V1HjFa4BFUnVI05HGW8io3zRN-bW1Nx6）
   - 「空飛ぶクルマ の機体メーカー一覧（2023年最新版） — 空飛ぶクルマ の機体メーカー一覧（2023年最新版） 自動運転ラボ https://jidounten-lab.com > 国内ニュース」（https://jidounten-lab.com/u_40758）
-  - 「「 空飛ぶクルマ 」個人向けの予約販売開始 機体価格は約2億円 ... — 「 空飛ぶクルマ 」個人向けの予約販売開始 機体価格は約2億円 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=hTmMFjyMG3c）
+  - 「空飛ぶクルマ の本命はどこだ。2028年商用化から逆算して ... — 空飛ぶクルマ の本命はどこだ。2028年商用化から逆算して ... note https://note.com > 投資・マネー > 日本株」（https://note.com/tatsuya_sabato/n/nb9f987ece79e）
   - 「空飛ぶクルマ 戦略産業クラスター計画(近畿地域) - 内閣官房 — 空飛ぶクルマ 戦略産業クラスター計画(近畿地域) - 内閣官房 内閣官房 PDF https://www.cas.go.jp > chiikimirai > dai5 > sankou11」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou11.pdf）
+  - 「「 空飛ぶクルマ 」個人向けの予約販売開始 機体価格は約2億円 ... — 「 空飛ぶクルマ 」個人向けの予約販売開始 機体価格は約2億円 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=hTmMFjyMG3c）
   - 「空飛ぶクルマ 事業化準備事業 補助金 【 2026 年度分は ... - 豊岡市 — 空飛ぶクルマ 事業化準備事業 補助金 【 2026 年度分は ... - 豊岡市 豊岡市公式ウェブサイト https://www.city.toyooka.lg.jp > shisei > chihososei」（https://www.city.toyooka.lg.jp/shisei/chihososei/1006996/1034474/1037632.html）
   - 「大阪府「令和8年度 空飛ぶクルマ 観光ビジネス創出支援事業 ... — 大阪府「令和8年度 空飛ぶクルマ 観光ビジネス創出支援事業 ... Osaka Metro https://www.osakametro.co.jp > news > news > other > 20...」（https://www.osakametro.co.jp/news/news/other/20260615_soratobukuruma_hojyokin.php）
   - 「令和8年度 空飛ぶクルマ 観光ビジネス創出支援事業 補助金 — 令和8年度 空飛ぶクルマ 観光ビジネス創出支援事業 補助金 大阪府 https://www.pref.osaka.lg.jp > sorakuru_jigyouhi > 2026」（https://www.pref.osaka.lg.jp/o110020/energy/sorakuru_jigyouhi/2026.html）
   - 「【“不正受給”】「 空飛ぶクルマ ｣研究などめぐり JALが国に約2 ... — 【“不正受給”】「 空飛ぶクルマ ｣研究などめぐり JALが国に約2 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=RtrQjcxSagU）
+  - 「「 空飛ぶクルマ 」研究に不正受給 日航、約2.9億円を国に返還 — 「 空飛ぶクルマ 」研究に不正受給 日航、約2.9億円を国に返還 東京報道新聞 https://tokyonewsmedia.com > archives」（https://tokyonewsmedia.com/archives/24729）
   - 「空飛ぶクルマ の法 規制 動向 — 空飛ぶクルマ の法 規制 動向 NEDO PDF https://reamo.nedo.go.jp > library > 2024/04 > eVT...」（https://reamo.nedo.go.jp/library/2024/04/eVTOL-Regulation-Trends-2024.pdf）
   - 「大阪万博： 空飛ぶクルマ の法的問題 - So & Sato — 大阪万博： 空飛ぶクルマ の法的問題 - So & Sato So & Sato https://innovationlaw.jp > flying-cars-law-2025」（https://innovationlaw.jp/flying-cars-law-2025/）
-  - 「空飛ぶクルマ の機体 メーカー 一覧（2023年最新版） — 空飛ぶクルマ の機体 メーカー 一覧（2023年最新版） 自動運転ラボ https://jidounten-lab.com > 国内ニュース」（https://jidounten-lab.com/u_40758）
-  - 「Japan eVTOL Aircraft Market (2031-2036) - MarketsandMarkets — Japan eVTOL Aircraft Market (2031-2036) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/evtol-aircraft-market/Japan）
-  - 「Japan Evtol Aircraft Market Size , Share, Trends By 2035 — Japan Evtol Aircraft Market Size , Share, Trends By 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/japan-evtol-aircraft-market-44783）
+  - 「空飛ぶクルマ の社会実装とその後の課題 - JAXA航空技術部門 — 空飛ぶクルマ の社会実装とその後の課題 - JAXA航空技術部門 JAXA航空技術部門 PDF https://www.aero.jaxa.jp > pdf > eclair2024_01」（https://www.aero.jaxa.jp/news/event/pdf/event241119/eclair2024_01.pdf）
 
 ## ロケット打上げ（space launch services）
 - 文脈：6 航空・宇宙 ④ロケット・射場
 - 国内市場規模：
   - 「一方、人工衛星等（ロケット、宇宙ステーションを含む）の製造について、国内市場規模を推計すると、2,000～3,000億円程度とみられ、直近10年間は、年によって変動はあるものの、市場規模に大きな変化はないようです」（https://www.meti.go.jp/statistics/toppage/report/minikaisetsu/hitokoto_kako/20220722hitokoto.html）
 - 国内参入企業数：
-  - 「600社以上」（https://www.tokiomarineam.co.jp/fund/fund_report/2025/qjtsc20000000b7h-att/F_Material_Uchukanren_202501.pdf）
-  - 「1,000社以上約1.7倍」（https://www.tokiomarineam.co.jp/fund/fund_report/2025/qjtsc20000000b7h-att/F_Material_Uchukanren_202501.pdf）
+  - 「実績: 20以上のプランが進行中、200社以上と対話」（https://xn--29sob207cg49a.com/business/japan-space-subsidies-2026/）
 - 需給の差：
+  - 「権限不足のため、フォローできません」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「ニュースレターの配信をお待ち下さい」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
   - 「保険面の負担は、高額なミッションの資金調達とリスク配分に影響を及ぼす一方、部品の供給ボトルネックは、事業者が契約済みの需要を打上げ頻度へ転換する能力を制限する」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
   - 「Ariane 6は、欧州宇宙機関（ESA）加盟国からの資金提供と、Amazon Leoミッションを含む受注残を背景に、定期的な年間運用へと拡大することを目指している」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
-  - 「4. なぜ「発射台」がボトルネックなのか」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「4-3. 「天候待ち」と「延期」も回数を削る」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「発射台を複数持てば、1つの機体が天候待ちをしていても、別の機体の準備を止めずに済みます」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
   - 「課題は、人材不足、ロケット製造能力や射場・試験設備の不足・老朽化、打上げ失敗リスク、大規模な先行投資と長い回収期間などです」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
   - 「投資促進に向けた課題 ― ロケット・射場の人材・インフラ不足と打上げ失敗リスク」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
   - 「主な課題（ボトルネック）」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
@@ -951,7 +939,9 @@
   - 「主な課題は、ロケット製造能力と射場・試験設備の不足、大規模な先行投資と長い回収期間、海外との受注競争です」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
   - 「リソース制約として、人材不足や経験人材の流動性の低さ、ロケット製造能力や射場・試験設備、組立棟、燃焼試験場、燃料製造保管設備、追跡管制設備等の不足・老朽化があります」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
   - 「・人材：人材不足、経験人材の流動性の低さ等」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「・インフラ等：ロケット製造能力、射場・試験設備等射点、ロケット・衛星組立棟、燃焼試験場、燃料製造保管設備、追跡管制設備等の不足・老朽化」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
 - 法律・制度：
+  - 「家計の法律クリニック」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
   - 「BryceTech, "Global Space Launch Activity 2024". brycetech.com」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
   - 「既存の打上げ施設、規制対応能力、再使用可能な機体、基幹となる打上げ計画を有する事業者は、固定運営費を多数のフライトに分散できる」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
   - 「小規模な新規参入企業が計画した打上げ頻度を達成できない場合、実績のある事業者は延期されたミッションを獲得できるが、打上げ頻度の上昇に伴い、規制遵守、打上げ場へのアクセス、インテグレーション能力も維持しなければならない」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
@@ -966,23 +956,22 @@
   - 「品質認証取得」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
   - 「ISO 9001:2015認証取得企業」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
   - 「規制当局への提出書類」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
-  - 「規制・政治環境」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
 - 国の予算：
+  - 「ロケット・射場とは｜官民投資ロードマップの高頻度打上げ・投資額2.3兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「官民投資ロードマップは、国内衛星の国内打上げ比率を60～80％以上に引き上げ、2040年には最大年3,000億円規模の打上げサービス需要の獲得を目指すとしました」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「勝ち筋は、まず官民で年10機程度の打上げを確実にし、中長期的に基幹ロケットで10～22機/年、新規参入ロケットで20～30機/年の高頻度打上げを目指すことです」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「官民投資額は2040年度までで2.3兆円、経済波及効果は2040年度までで5.5兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「官民投資の具体像 ― ロケット・射場の投資額2.3兆円・経済波及効果5.5兆円」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「原文は内閣官房「戦略17分野における「主要な製品・技術等」の官民投資ロードマップ」（2026年7月21日）から引用しています」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「日本は宇宙戦略基金で技術開発を支援していますが、製造能力・サプライチェーン強化や射場設備等のインフラ整備は道半ばで、国内衛星の国内打上げは50％（2015-2024年累計）にとどまっています」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「まず基幹ロケットと新規参入ロケットの打上げ能力・信頼性を高めながら早期に打上げ実績を積み、官民で年10機程度の打上げを確実にすることです」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「・まずは、基幹ロケット、新規参入ロケットの打上げ能力・信頼性を向上させながら早期の打上げ実績を蓄積し、官民で年10機程度の打上げを確実にする」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「官民で年10機程度」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
   - 「2027年度予算の概算要求には、関連経費として760億円程度を盛り込みました」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
   - 「本記事では、日本経済新聞が2026年10月15日に報じた内容を出発点に、国内4射場の現状、H3やカイロスなど国産ロケットの到達点、世界の打ち上げ競争、予算と市場の数字までを整理し、ビジネスパーソンと投資家の目線でこの政策の意味を考えます」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
   - 「予算面では、経産省が2027年度予算の概算要求で、関連経費として760億円程度を求めました」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
   - 「政府の宇宙基本計画や、宇宙戦略基金の実施方針でも、国内ロケットの打ち上げ機数を2030年代前半までに年30機程度に伸ばすという方向性がすでに示されてきました」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
   - 「文部科学省は2027年度予算の概算要求で、H3の打ち上げ能力の強化などに235億円を盛り込みました」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「2026年度予算の29億円の約8倍です」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「同社は小型衛星用ロケット「ZERO」を開発しており、文部科学省からは最大73.7億円の交付が決まっています」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「8. お金の流れ：760億円、235億円、そして1兆円の基金」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「2026年度予算の29億円から約8倍に増やす要求になっています」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「8-3. 宇宙戦略基金：10年で総額1兆円規模」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「政府は、JAXAに「宇宙戦略基金」を設け、10年間で総額1兆円規模の支援を行う方針です」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「これまでに、第1期（2023年度補正予算）で3000億円、第2期（2024年度補正予算）で3000億円、第3期（2025年度補正予算）で2000億円が措置され、累計は約8000億円に達しています」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「基金の実施方針では、国内ロケットの打ち上げ機数を2030年代前半までに年30機程度に伸ばすことを見すえ、固体モーター材料の量産化や、民間ロケットの打ち上げ実証の加速などがテーマに挙げられています」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
-  - 「ロケット・射場とは｜官民投資ロードマップの高頻度打上げ・投資額2.3兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
-  - 「官民投資ロードマップは、国内衛星の国内打上げ比率を60～80％以上に引き上げ、2040年には最大年3,000億円規模の打上げサービス需要の獲得を目指すとしました」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
 - 国内の主要企業：
   - 「衛星打上げロケット（slv）市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
   - 「衛星打ち上げロケット（slv）市場の主要企業には、SpaceX、United Launch Alliance、Arianespace、Blue Origin、Rocket Labが挙げられます」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
@@ -992,9 +981,10 @@
   - 「まさに、日本のロケット開発の根幹を支える主要企業である」（https://space-connect.jp/rocket-development/）
   - 「また、トヨタ自動車をはじめとする国内大手企業とのパートナーシップを積極的に進め、既存の産業サプライチェーンの民生部品や技術をロケットに転用することで、圧倒的な低価格での宇宙輸送を目指している」（https://space-connect.jp/rocket-development/）
 - 検索結果の抜粋：
+  - 「ロケット打ち上げ 拠点を増強、 国内 全4カ所で 2030年代に年 ... — ロケット打ち上げ 拠点を増強、 国内 全4カ所で 2030年代に年 ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
   - 「衛星 打上げロケット市場 の 規模 ・成長レポート、2026〜2035年 — 衛星 打上げロケット市場 の 規模 ・成長レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > satellite...」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
-  - 「ロケット 射場増強で年30回へ 発射台1つの日本は宇宙輸送の ... — ロケット 射場増強で年30回へ 発射台1つの日本は宇宙輸送の ... note https://note.com > ビジネス > ビジネス全般」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
   - 「ロケット ・射場とは｜官民投資ロードマップの高頻度 打上げ ... — ロケット ・射場とは｜官民投資ロードマップの高頻度 打上げ ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (6) 航空・宇宙」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「ロケット 射場増強で年30回へ 発射台1つの日本は宇宙輸送の ... — ロケット 射場増強で年30回へ 発射台1つの日本は宇宙輸送の ... note https://note.com > ビジネス > ビジネス全般」（https://note.com/hirokimiyano/n/n8bf7a71d6af9）
   - 「小型 ロケット市場規模 ・シェア |グローバルレポート [2034] — 小型 ロケット市場規模 ・シェア |グローバルレポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 宇宙技術」（https://www.fortunebusinessinsights.com/jp/%E5%B0%8F%E5%9E%8B%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%EF%BC%88slv%EF%BC%89%E5%B8%82%E5%A0%B4-108232）
   - 「日本初の民間 ロケット 発射場 ”本州最南端から宇宙へ” — 日本初の民間 ロケット 発射場 ”本州最南端から宇宙へ” SpaceStep https://space.japanstep.jp > search > 2025/11」（https://space.japanstep.jp/search/2025/11/1485/）
   - 「小型 ロケット 「イプシロンS」爆発に 人手不足 の影 15万人足り ... — 小型 ロケット 「イプシロンS」爆発に 人手不足 の影 15万人足り ... 日経ビジネス電子版 https://business.nikkei.com > インダストリー羅針盤」（https://business.nikkei.com/atcl/gen/19/00155/112700212/）
@@ -1015,6 +1005,8 @@
   - 「宇宙ビジネス企業50社以上とゆく年くる年、2022年のトピックと2023年の展望」（https://sorabatake.jp/39122/）
   - 「(9)2025年の宇宙ビジネス予想（投資額、市場規模、企業数）とまとめ」（https://sorabatake.jp/39122/）
   - 「最後に、今回アンケートに協力いただいた企業（1社非回答）に、2025年の世界の宇宙ビジネス予測を、投資額・市場規模・新規参入企業数の3つの観点で伺った結果を紹介します」（https://sorabatake.jp/39122/）
+  - 「QPS研究所は現在、全国で25社以上ある協力企業とともに開発・製造を進めており、このうち20社以上は九州北部を中心とした地場の企業だ」（https://journal.meti.go.jp/policy/202604/45440/）
+  - 「実績: 20以上のプランが進行中、200社以上と対話」（https://xn--29sob207cg49a.com/business/japan-space-subsidies-2026/）
   - 「準備していただいた求人は100社以上もありパワフルさを感じたのですが、最初の面談の時に書類を応募する企業数と、そのうち一次面接を通る総定数や内定が出る企業の総定数を出していただいて、それをどのくらいの期間で行うのかという指針があったので、納得感がありました」（https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/）
 - 需給の差：
   - 「価格、納期 1機数百億円、5~10年程度 1機数千万～数十億円程度、1～3年程度」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
@@ -1069,12 +1061,12 @@
   - 「日本企業が国際市場で」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
   - 「• 国内投資の拡大を通じて、日本企業の「稼ぐ力」を向上させ、賃上げを含めた好循環を形成するため、高付加価」（https://www.soumu.go.jp/main_content/001056274.pdf）
   - 「JAXAのプロジェクトに関わる主な企業について以下のリンク先でご紹介しています」（https://fanfun.jaxa.jp/faq/detail/329.html）
-  - 「特殊株少ない日本企業」（https://www.nikkei.com/article/DGKKZO83015820W4A820C2EAC000/）
   - 「『【パネルディスカッション】法規制の最新動向を踏まえて、日本企業に求められる対応とは？～適切なクッキーバナー実装時の重要ポイント～』」（https://www.morihamada.com/ja/insights/newsletters/138116）
   - 「2011年現在日本企業製の衛星は2008年8月に打ち上げられた」（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%87%E5%AE%99%E6%A9%9F%E3%81%AE%E4%B8%80%E8%A6%A7）
 - 検索結果の抜粋：
   - 「4029 部品調達・ 納期 管理（ 人工衛星 ・ロケット）_AS - NEC — 4029 部品調達・ 納期 管理（ 人工衛星 ・ロケット）_AS - NEC jobs.nec-careers.com https://jobs.nec-careers.com > job」（https://jobs.nec-careers.com/u/job.phtml?job_code=4029）
-  - 「航空・宇宙 12. 人工衛星 ・サービス — 航空・宇宙 12. 人工衛星 ・サービス 内閣府ホームページ PDF https://www8.cao.go.jp > anpo-dai69 > sankou1-2」（https://www8.cao.go.jp/space/comittee/27-anpo/anpo-dai69/sankou1-2.pdf）
+  - 「アクセルスペースが小型 衛星 の量産体制、 納期 は1年未満に — アクセルスペースが小型 衛星 の量産体制、 納期 は1年未満に 日経クロステック https://xtech.nikkei.com > ニュース」（https://xtech.nikkei.com/atcl/nxt/news/18/12738/）
+  - 「〇【次期リーダークラス】宇宙事業（ 人工衛星 、宇宙輸送機 ... — 〇【次期リーダークラス】宇宙事業（ 人工衛星 、宇宙輸送機 ... progres02.jposting.net https://progres02.jposting.net > pgmitsubishielectric > job」（https://progres02.jposting.net/pgmitsubishielectric/u/sp/job.phtml?job_code=2675）
   - 「Satellite Manufacturing Market Size & Industry Report, 2034 — Satellite Manufacturing Market Size & Industry Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262）
   - 「Satellite Manufacturing Market Size & Share Report, 2033 — Satellite Manufacturing Market Size & Share Report, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report）
   - 「Satellite Manufacturing Market Size & Growth to 2031 — Satellite Manufacturing Market Size & Growth to 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market）
@@ -1083,11 +1075,11 @@
 - 文脈：6 航空・宇宙 ⑤人工衛星・サービス
 - 国内市場規模：
   - 「(2) 国内市場(データ利用関連)」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
-  - 「2023年度の衛星データ活用サービス国内市場（事業者売上高ベース）は、前年度比13.0％増の182億円となった」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY）
-  - 「さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY）
+  - 「2023年度の衛星データ活用サービス国内市場（事業者売上高ベース）は、前年度比13.0％増の182億円となった」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vJ4ygxaBgdRBTMMimg4sq2EqXl8X8DgB8Djx4hDe7FMmYceHCAW）
+  - 「さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vJ4ygxaBgdRBTMMimg4sq2EqXl8X8DgB8Djx4hDe7FMmYceHCAW）
   - 「2024年度の衛星データ活用サービス国内市場は、同11.0%増の202億円を予測している」（https://it.impress.co.jp/articles/-/27910）
-  - 「2023年度の衛星データ活用サービス国内市場（事業者売上高ベース）は、前年度比13.0％増の182億円となった」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp）
-  - 「さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp）
+  - 「2023年度の衛星データ活用サービス国内市場（事業者売上高ベース）は、前年度比13.0％増の182億円となった」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vJ4O59cbC4qzobDC6LvDbAJkf-yLZsBpoLc-j9ADw-zqWxYtNL7）
+  - 「さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vJ4O59cbC4qzobDC6LvDbAJkf-yLZsBpoLc-j9ADw-zqWxYtNL7）
 - 国内参入企業数：
   - 「10社以上が市場参入」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
   - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/news/press_260918）
@@ -1097,16 +1089,16 @@
   - 「動化・無人化で労働力不足解決に貢献」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
   - 「・車載等向けのモータ技術を活かした低コスト・短納期のリアクションホイールを開発」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
   - 「・低コスト、短納期、スケーラブルなデジタル電源を開発」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
-  - 「併せて需要家サイドでの人手不足の影響や業務効率化に向けた取り組みが進展し、衛星データ活用サービスが採用されている」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY）
+  - 「併せて需要家サイドでの人手不足の影響や業務効率化に向けた取り組みが進展し、衛星データ活用サービスが採用されている」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vJ4ygxaBgdRBTMMimg4sq2EqXl8X8DgB8Djx4hDe7FMmYceHCAW）
   - 「需要家サイドでの人手不足の影響や業務効率化に向けた取り組みも進展し、衛星データ活用サービスの採用が増えているという」（https://it.impress.co.jp/articles/-/27910）
   - 「農地活用事業では、耕作放棄地を自動で検出する農地パトロールアプリ「アクタバ」、作物の種類を判定する作付け調査用アプリ「デタバ」、そして農地の所有者と担い手をつなぐマッチングサービス「ニナタバ」を展開」（https://space-connect.jp/satellite-data/）
   - 「衛星データ×AI×区画技術で農業の課題を解決するサグリ株式会社が全国の農地所有者と作り手・担い手をつなげる農地マッチングサービス「ニナタバ」をリリースしたことを発表」（https://space-connect.jp/satellite-data/）
-  - 「農地所有者と作り手・担い手を繋げる農地マッチングサービス」（https://sagri.tokyo/）
   - 「今後も衛星データの利活用が進むことが予測される中、衛星データを扱える人材不足も課題になることが想定されます」（https://sorabatake.jp/39996/）
   - 「一方で、そのような衛星データを活用したいという需要に対して、衛星データを扱える人材が不足しているという懸念もあります」（https://sorabatake.jp/39996/）
   - 「「現状は日本の宇宙産業で素晴らしい衛星データ利活用の事例を生み出すためにエース人材にプロジェクトが集まり、失敗のできないプロジェクトが待ち構えているという状態」（https://sorabatake.jp/39996/）
   - 「一方で、宮﨑先生は「実態としては衛星データを扱える人がすぐ近くにいない」と課題を感じており、GLODAL創業の背景にも衛星データ活用人材の不足を感じられたことがあったと教えていただきました」（https://sorabatake.jp/39996/）
   - 「理想的なチーム体制は？指示・指導できるスーパーバイザーが足りない」（https://sorabatake.jp/39996/）
+  - 「その背景には、一定の専門性を持つという要件に合う人は研究者上がりが多く、研究者はすべて自分でできてしまう傾向があるため、人に指示・指導する経験や人に頼まれるという経験を有する若手が不足しているそうです」（https://sorabatake.jp/39996/）
 - 法律・制度：
   - 「データ量、精度、および規制要件の管理」（https://straitsresearch.com/jp/report/satellite-data-services-market）
   - 「衛星データサービス市場の成長は、サイバーセキュリティへの懸念、データライセンスの制限、各国の規制の違い、専門的な分析担当者の不足といった要因にも影響を受けています」（https://straitsresearch.com/jp/report/satellite-data-services-market）
@@ -1117,7 +1109,7 @@
   - 「• 宇宙輸送に関わる制度環境の整備」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
   - 「資・資金供給機能、SBIR制度等）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
   - 「• 契約制度の見直し(官民の開発リスク分担の必」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
-  - 「ハラール認証取得支援サービス」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY）
+  - 「ハラール認証取得支援サービス」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vJ4ygxaBgdRBTMMimg4sq2EqXl8X8DgB8Djx4hDe7FMmYceHCAW）
   - 「2027年4月強制適用へ待ったなし、施行迫る「新リース会計基準」対応の勘所【IT Leaders特別編集版】」（https://it.impress.co.jp/articles/-/27910）
   - 「Policy」（https://space-connect.jp/satellite-data/）
   - 「2008年に施行（2015年改正）された「宇宙基本法」では、宇宙開発利用に関する基本理念、基本的施策、宇宙基本計画などに関する事項が定められ、国を挙げて宇宙開発ならびに利用を推進しています」（https://www.pasco.co.jp/pickup/satellite/）
@@ -1131,11 +1123,11 @@
   - 「※８年間の基金事業船舶間通信衛星（VDES） 147億円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
   - 「※６年間の基金事業小型多波長センサ開発 50億円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
   - 「※５年間の基金事業リモートセンシング高度化 147億円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
-  - 「さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY）
-  - 「文部科学省 中小企業イノベーション創出推進事業 （SBIRフェーズ3基金）事業宇宙分野 「成果を最大化するための予算追加･･･」（https://aerospacebiz.jaxa.jp/solution/remotesensing/）
+  - 「さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vJ4ygxaBgdRBTMMimg4sq2EqXl8X8DgB8Djx4hDe7FMmYceHCAW）
+  - 「国の宇宙戦略基金では、2030 年代早期までに、衛星データを利用したサービスを国内外で新たに30 件以上立ち上げることを目標に掲げている」（https://www.m2ri.jp/release/detail.html?id=665）
   - 「宮﨑先生は「期間は半年から1年で、予算としては100万円から300万円程度のもの」を想定されているそうです」（https://sorabatake.jp/39996/）
   - 「成長を見込む理由として最も多かったのは「国の予算拡大や政策支援（62.5％）」であり、次いで「民間企業・スタートアップによる投資や事業参入の拡大（55.2％）」が続きました」（https://www.misumi.co.jp/news/press_260918）
-  - 「さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp）
+  - 「さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vJ4O59cbC4qzobDC6LvDbAJkf-yLZsBpoLc-j9ADw-zqWxYtNL7）
   - 「テーマ1、テーマ2の受賞者それぞれに交付します」（https://www.nedo.go.jp/koubo/SR2_100021.html）
   - 「初の1兆円超え、令和8年度宇宙関係予算を読み解く」（https://sorabatake.jp/44595/）
   - 「宇宙関係予算が初の1兆円超えに」（https://sorabatake.jp/44595/）
@@ -1143,20 +1135,21 @@
   - 「Planet Labsは、この市場における新興の主要企業です」（https://straitsresearch.com/jp/report/satellite-data-services-market）
   - 「赤字部分が日本企業」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
   - 「日本企業が国際市場で」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「パナックス株式会社は、総合コンサルティング会社として海外企業様のサポート、北米・欧州への進出したい日本企業様に、ビジネスマッチングを行っています」（https://www.spacexinsight.earth/companies）
   - 「『【パネルディスカッション】法規制の最新動向を踏まえて、日本企業に求められる対応とは？～適切なクッキーバナー実装時の重要ポイント～』」（https://www.morihamada.com/ja/insights/newsletters/138116）
   - 「例えばJAXA発のスタートアップの天地人は、国内大手の米卸業企業の神明、スマート水田サービス「paditch（パディッチ）」を提供する農業ITスタートアップである笑農和と、2021年5月から「」（https://note.com/nec_iise/n/n2e3a2fd5d08d）
-  - 「パナックス株式会社は、総合コンサルティング会社として海外企業様のサポート、北米・欧州への進出したい日本企業様に、ビジネスマッチングを行っています」（https://www.spacexinsight.earth/companies）
 - 検索結果の抜粋：
   - 「衛星データ サービス 市場規模 、シェア |成長 [2026-2034] — 衛星データ サービス 市場規模 、シェア |成長 [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 宇宙技術」（https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108359）
-  - 「衛星データ 活用サービス 市場 に関する調査を実施（2025年） — 衛星データ 活用サービス 市場 に関する調査を実施（2025年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY）
+  - 「衛星データ 活用サービス 市場 に関する調査を実施（2025年） — 衛星データ 活用サービス 市場 に関する調査を実施（2025年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vJ4ygxaBgdRBTMMimg4sq2EqXl8X8DgB8Djx4hDe7FMmYceHCAW）
   - 「衛星データ 活用サービス 市場 の成長続く、2030年度は340 億円 ... — 衛星データ 活用サービス 市場 の成長続く、2030年度は340 億円 ... IT Leaders https://it.impress.co.jp > articles」（https://it.impress.co.jp/articles/-/27910）
   - 「衛星データ サービス 市場 の 規模 ・動向レポート、2026〜2032年 — 衛星データ サービス 市場 の 規模 ・動向レポート、2026〜2032年 Global Market Insights Inc. https://www.gminsights.com > ... > 通信」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「企業 の 衛星データ 利用、「関心がある」12.1% - MM総研 — 企業 の 衛星データ 利用、「関心がある」12.1% - MM総研 株式会社ＭＭ総研 https://www.m2ri.jp > release > detail」（https://www.m2ri.jp/release/detail.html?id=665）
   - 「衛星データ で消えゆく農地を守る！ 「制度の空白」を埋める ... — 衛星データ で消えゆく農地を守る！ 「制度の空白」を埋める ... SpaceStep https://space.japanstep.jp > learn > 2026/10」（https://space.japanstep.jp/learn/2026/10/2561/）
-  - 「衛星データ 活用サービス市場に関する調査を実施（2025年） — 衛星データ 活用サービス市場に関する調査を実施（2025年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp）
+  - 「衛星データ 活用サービス市場に関する調査を実施（2025年） — 衛星データ 活用サービス市場に関する調査を実施（2025年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vJ4O59cbC4qzobDC6LvDbAJkf-yLZsBpoLc-j9ADw-zqWxYtNL7）
   - 「3つのケースで考える 衛星データ ビジネスと法実務~実践編 - 宙畑 — 3つのケースで考える 衛星データ ビジネスと法実務~実践編 - 宙畑 宙畑 https://sorabatake.jp > ...」（https://sorabatake.jp/13002/）
   - 「Satellite Data Services Market Size Report, 2025-2030 — Satellite Data Services Market Size Report, 2025-2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
-  - 「Satellite Data Services Market Size & Trends Report, 2026-2032 — Satellite Data Services Market Size & Trends Report, 2026-2032 Global Market Insights Inc. https://www.gminsights.com > satellit...」（https://www.gminsights.com/industry-analysis/satellite-data-services-market）
   - 「Japan Satellite Data Services Market (2023-2028) — Japan Satellite Data Services Market (2023-2028) MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/satellite-data-services-market/japan）
+  - 「Satellite Data Services Market Size & Trends Report, 2026-2032 — Satellite Data Services Market Size & Trends Report, 2026-2032 Global Market Insights Inc. https://www.gminsights.com > satellit...」（https://www.gminsights.com/industry-analysis/satellite-data-services-market）
   - 「Satellite Data Services Market Size, Share & Forecast 2032 — Satellite Data Services Market Size, Share & Forecast 2032 Stratview Research https://www.stratviewresearch.com > s...」（https://www.stratviewresearch.com/market-reports/satellite-data-services-market.html）
   - 「Satellite Data Services Market Size Report, 2025 -2030 — Satellite Data Services Market Size Report, 2025 -2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
 
@@ -1198,6 +1191,9 @@
   - 「通信に使用する電波周波数資源の、慢性的な不足状態」（https://note.com/nec_iise/n/n2acc7e64147a）
   - 「リクエストお待ちしています！」（https://www.asmilla.com/future/detail/?id=1027）
   - 「2050年には、約16万人の宇宙人材が必要（※２）とも言われ、この成長を見据えた人材不足が深刻化しています」（https://www.space-bd.com/ja/news/news20251028-001.html）
+  - 「「人材不足」です」（https://note.levii.co.jp/n/n9b67b41b667e?gs=6163c9d2b83b620ff6d6d5530ac937a6）
+  - 「が不足しているケースがほとんどです」（https://note.levii.co.jp/n/n9b67b41b667e?gs=6163c9d2b83b620ff6d6d5530ac937a6）
+  - 「宇宙関連事業の成長に必須な一方で人材不足が指摘されている「SE/PM人材」を育成するサービスについて紹介します」（https://note.levii.co.jp/n/n9b67b41b667e?gs=6163c9d2b83b620ff6d6d5530ac937a6）
   - 「農業従事者の高齢化や人手不足の解決手段としても期待が高まっています」（https://sorabatake.jp/44595/）
   - 「The shortage is not just in space, but also AI and big data, Ishida said. And beyond engineering, there is also the need for traditional corporate functions like sales, marketing, and branding. He hopes to see the creation of a space MBA to introduce business-minded students to the space sector’s particular challenges.」（https://payloadspace.com/the-rise-of-japans-commercial-space-industry/）
 - 法律・制度：
@@ -1250,15 +1246,17 @@
   - 「米企業だけなく、日本企業の取り組みも活発になってきた」（https://www.asmilla.com/future/detail/?id=1027）
 - 検索結果の抜粋：
   - 「商用 宇宙ステーション 関連の 国内市場 、2035年に1900 億円 ... — 商用 宇宙ステーション 関連の 国内市場 、2035年に1900 億円 ... spacemedia.jp https://spacemedia.jp > news」（https://spacemedia.jp/news/13615）
-  - 「Commercial Space Station Market Size & Industry Growth 2030 — Commercial Space Station Market Size & Industry Growth 2030 Future Data Stats https://www.futuredatastats.com > co...」（https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vI4T-62Nod6Xhvh7aMejuoxv_USHbl-i5FmGimjZJVLJJmEHBcz）
-  - 「Commercial Space Station Market Report 2026 — Commercial Space Station Market Report 2026 Research and Markets https://www.researchandmarkets.com > ...」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vI06nthmZjsGStGJ-ksh3ceg9QDr0_Lqi0f4y0uVeS5qySG22gz）
+  - 「Commercial Space Station Market Size & Industry Growth 2030 — Commercial Space Station Market Size & Industry Growth 2030 Future Data Stats https://www.futuredatastats.com > co...」（https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJeMEE-7q-aW3VaB5vjGnPYY3U5y2vz4GA8GMVjQg4bYiB7fnkd）
+  - 「Commercial Space Station Market Report 2026 — Commercial Space Station Market Report 2026 Research and Markets https://www.researchandmarkets.com > ...」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vJIzmRTCNuXlbrXMaDsn_sRcuOVe3doMkO79RUXPnlqtziddRJB）
 
 ## 次世代船舶（alternative fuel vessels）
 - 文脈：8 造船 ①次世代船舶
 - 国内市場規模：
+  - 「※ 2019年以降、我が国造船事業者は、戦闘艦以外の米艦艇の修繕を日本国内で実施」（https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf）
   - 「資源エネルギー庁は燃料用のアンモニアの国内需要は2030年の300万トンから50年に3000万トンと大きく増えるとみる」（https://business.nikkei.com/atcl/gen/19/00873/050100005/）
   - 「本記事では、「次世代船舶」をテーマに、日本国内の注目銘柄を厳選して10社紹介する」（https://katacoto.com/ship/）
-  - 「日本国内の資産バリュー株注目銘柄10選【最新】割安株で狙う投資戦略」（https://katacoto.com/ship/）
+  - 「石油開発、石油元売り、資源関連企業など日本国内の原油関連株10選をわかりやすく解説します」（https://katacoto.com/ship/）
+  - 「量子コンピューター関連株10選｜日本国内の注目銘柄と投資ポイントを徹底解説」（https://katacoto.com/ship/）
 - 国内参入企業数：
   - 「事業者数： 約900」（https://www.jpmac.or.jp/file/1773288914694.pdf）
 - 需給の差：
@@ -1310,7 +1308,7 @@
   - 「約410億円の内数：2025～2030 （官民約270億円）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
   - 「（官民約2,510億円）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
 - 国内の主要企業：
-  - 「深読み解説｜ステンレスの反ダンピング関税は何を変えるか──国内メーカーの営業利益は3年で6割減、中国・台湾材は減っても輸入は東南アジアへ」（https://zosenblog.com/zeroemisennhojyokin/）
+  - 「日本企業の国際競争力の状況も意識しつつ、世界市場の付加価値の相当程度の割合を我が国」（https://www.meti.go.jp/policy/energy_environment/global_warming/gifund/gif_17_randd_3r.pdf）
   - 「一方で、アンモニアや水素は燃焼時にCO₂を排出しないことから「究極の脱炭素燃料」として期待されており、日本企業も開発競争に積極的に参入している」（https://katacoto.com/ship/）
 - 検索結果の抜粋：
   - 「造船｜ 次世代船舶 ・船舶修繕・LNG運搬船（日本成長戦略 ... — 造船｜ 次世代船舶 ・船舶修繕・LNG運搬船（日本成長戦略 ... 日本DX地域創生応援団 https://digital-supporter.net > mirai-ai > seichou17 > zousen」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
@@ -1393,7 +1391,7 @@
   - 「業界 レポート : 船舶修繕 ・舶用機器製造 - バフェット・コード — 業界 レポート : 船舶修繕 ・舶用機器製造 - バフェット・コード バフェット・コード https://www.buffett-code.com > industry-report-2241006」（https://www.buffett-code.com/articles/industry-report-2241006）
   - 「船舶修繕 大手5社がアライアンス修理業の環境対応を推進 — 船舶修繕 大手5社がアライアンス修理業の環境対応を推進 海事プレスONLINE https://www.kaijipress.com > 造船・舶用」（https://www.kaijipress.com/news/shipbuilding/2025/05/193108/）
   - 「船舶 修理・保守サービス市場規模、市場シェア（2034年） — 船舶 修理・保守サービス市場規模、市場シェア（2034年） Straits Research https://straitsresearch.com > ... > 海軍・海洋・港湾技術」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
-  - 「Ship Repairing Market Size , Competitors & Forecast to 2030 — Ship Repairing Market Size , Competitors & Forecast to 2030 Research and Markets https://www.researchandmarkets.com > ...」（https://www.researchandmarkets.com/report/ship-repair?srsltid=AYCX9vKVeLsspouthP7HKeWgIDYqhhR7IWiY_rl-EHSOwQE64WZDm-dS）
+  - 「Ship Repairing Market Size , Competitors & Forecast to 2030 — Ship Repairing Market Size , Competitors & Forecast to 2030 Research and Markets https://www.researchandmarkets.com > ...」（https://www.researchandmarkets.com/report/ship-repair?srsltid=AYCX9vJAGTwbCkBARCyv89W-oLfKrDWIr-fq-dEJjrjyqsTwZxhwsqT0）
   - 「Japan Ship Repairing Market Size & Share, Demand 2034 — Japan Ship Repairing Market Size & Share, Demand 2034 IMARC Group https://www.imarcgroup.com > japan-...」（https://www.imarcgroup.com/japan-ship-repairing-market）
   - 「Ship Repair & Maintenance Market 2035 | Growth Analysis — Ship Repair & Maintenance Market 2035 | Growth Analysis Business Research Insights https://www.businessresearchinsights.com > ...」（https://www.businessresearchinsights.com/market-reports/ship-repair-and-maintenance-market-119744）
 - 国内参入企業数：記載なし（読んだ40頁・検索8回）
@@ -1412,12 +1410,12 @@
   - 「さらに、建造に欠かせない専門技能職──特殊溶接工──が国内に大幅に不足している」（https://note.com/deltacf/n/n0794b4e532d6）
   - 「3社が設計技術者と溶接工を互いに融通し合うという方針はこの問題への対処策だが、総体としての人材プールが不足していることに変わりはない」（https://note.com/deltacf/n/n0794b4e532d6）
   - 「加えて韓国国内では労働力不足が深刻化しており、受注量を増やしたくても生産キャパシティが追いつかない局面に入りつつある」（https://note.com/deltacf/n/n0794b4e532d6）
+  - 「今年上半期の中国のLNG運搬船受注シェアは34.5%と、直近3年平均を大きく上回り、一部統計では受注残高で韓国を既に上回ったとの分析もある」（https://finance.biggo.jp/news/872adf75-d4ee-48da-abb3-2644ab2dc852）
+  - 「今年7月初めまでの中国のLNG運搬船受注残高は34隻で、韓国の32隻を上回った」（https://finance.biggo.jp/news/872adf75-d4ee-48da-abb3-2644ab2dc852）
   - 「設計・建造の専門人材が1,000人規模で不足しており、タンクの溶接等のスキルの標準化やリ・スキリングを進めます」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
   - 「投資促進に向けた課題 ― LNG運搬船のノウハウ不足と需要の不安定さ」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
   - 「主な課題（ボトルネック）」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
   - 「投資内容は、需要サイドと供給サイドの協働に関する合意を前提に、需要サイドによる長期安定発注と、供給サイドによる技術獲得・技能者育成・設備投資等です」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
-  - 「・供給サイドによる技術獲得、技能者育成、設備投資等」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
-  - 「「技能者育成」」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
 - 法律・制度：
   - 「また、国内および国際取引に課される厳格な規制により、市場成長率をさらに悪化させる」（https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market）
   - 「市場価値、成長率、セグメンテーション、地理的カバレッジ、主要なプレーヤーなどの市場シナリオに関する洞察に加えて、Data Bridge Market Researchがキュレーションする市場レポートには、詳細なエキスパート分析、価格設定分析、ブランドシェア分析、消費者調査、デモグラフィ分析、サプライチェーン分析、バリューチェーン分析、原材料/消耗品の概要、ベンダー選定基準、PESTLE分析、ポーター分析、規制フレームワークが含まれます」（https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market）
@@ -1456,7 +1454,7 @@
   - 「BW Group、Dynagas Ltd.、Flex LNG Ltd.、GasLog Ltd.、Gaztransport and Technigaz SA、Golar LNG Ltd.などがLNG船市場の主要企業です」（https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004）
   - 「これは、日本企業 めてオマ する」（https://eneken.ieej.or.jp/data/pdf/1359.pdf）
   - 「これは債務融資に依存する日本企業の船隊拡張に影響を及ぼしかねません」（https://forourclimate.org/ja/newsroom/1172）
-  - 「日本企業が集合知で勝つためのAI変革最前線」（https://business.nikkei.com/atcl/gen/19/00800/042200019/）
+  - 「日本企業進出増え700社超の理由」（https://business.nikkei.com/atcl/gen/19/00800/042200019/）
   - 「とはいえ日本企業によるLNGタンカーの建造が大きく拡大する可能性は低いと見られることから、」（https://diamond.jp/zai/articles/-/1009024）
   - 「almost tripled since 2018; Japanese companies may be contributing to a looming oversupply of LNG」（https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf）
   - 「Japanese companies.129 As a result of this strategy, combined with declining demand at home,」（https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf）
@@ -1478,14 +1476,13 @@
   - 「LNG運搬船 市場規模・シェア分析レポート2031年 — LNG運搬船 市場規模・シェア分析レポート2031年 Mordor Intelligence https://www.mordorintelligence.com > lng-carriers-market」（https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market）
   - 「LNG船 の市場規模、シェア、成長、2035年予測 — LNG船 の市場規模、シェア、成長、2035年予測 Survey Reports合同会社 https://www.surveyreports.jp > 市場調査レポート」（https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004）
   - 「【 LNG運搬船 造船基盤の維持を！ 】 2026 年3月6日 衆議院 ... — 【 LNG運搬船 造船基盤の維持を！ 】 2026 年3月6日 衆議院 ... YouTube https://www.youtube.com > shorts > gpBSi2_LVjc」（https://www.youtube.com/shorts/gpBSi2_LVjc）
-  - 「日本で LNG船 の建造は復活するのか？―3500億円の投資と ... — 日本で LNG船 の建造は復活するのか？―3500億円の投資と ... note https://note.com > ビジネス > ビジネス全般」（https://note.com/reny12779/n/nfdbc9fcc85e0）
+  - 「LNG Carrier Market Size & Share, Growth Analysis 2035 — LNG Carrier Market Size & Share, Growth Analysis 2035 Research Nester https://www.researchnester.com > lng...」（https://www.researchnester.com/reports/lng-carrier-market/3825）
 - 国内市場規模：記載なし（読んだ40頁・検索8回）
 
 ## 永久磁石（permanent magnet）
 - 文脈：9 マテリアル ①永久磁石
 - 国内市場規模：
   - 「永久磁石メーカーの国内市場規模は、現在の1,286億円 と推計」（https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet）
-  - 「日本市場のトップ 5 プレーヤー」（https://www.sdki.jp/reports/permanent-magnet-market/61820）
   - 「サマリウムコバルト磁石については、日本国内生産量は過去 10 年以上、 ほぼ一定」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
   - 「国内市場ではハイブリッド自動車が 2020 年の新車販売において約３割のシェアを」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
   - 「このため、2030 年時点における国内需要量に応じて国内生産能力を増強することにより、」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
@@ -1496,37 +1493,37 @@
 - 国内参入企業数：
   - 「stakes in a number of companies that operate outside China . [141]」（https://www.energy.gov/sites/default/files/2024-12/Neodymium%2520Magnets%2520Supply%2520Chain%2520Report%2520-%2520Final%5B1%5D.pdf）
 - 需給の差：
-  - 「中国以外での生産能力拡充計画は供給のレジリエンス向上に寄与し得るが、単に採掘能力を増やすだけでなく、技術的に信頼性の高い分離、合金化、磁石生産能力が必要となる」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「OEMとの契約では価格の見通しやすさがますます求められる一方、新たな生産能力への投資には、長期にわたる認定プロセスと生産拡大を支えるだけの十分な利益の確実性が必要となる」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「そのため、高保磁力材料の認定済み生産能力を利用できることは、幅広い製品カタログをそろえること以上に重要な競争上の差別化要因になりつつある」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「また、これに関連する米国防総省との提携は、国内生産能力の開発に向けた重要な商業的枠組みとなっている」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「アジア太平洋地域は引き続き構造的に優位にある一方、北米と欧州では、長期引取契約、投資、認定取得へのコミットメントを通じて、現地生産能力を確保する事業上の根拠が構築されつつある」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「この合意は、国内のリサイクル磁石生産能力を支えるとともに、より地域に根差したサプライチェーンに具体的な需要の基盤をもたらす」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「世界がレアアース不足に直面し、高性能磁石の需要がますます高まっている中で、レアアース磁石を選択することは、世界的なレアアース不足を補うことになる」（https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/）
-  - 「現在の需給逼迫の中で」（https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/）
-  - 「“「製品の品質や納期に関して不満はない」（https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/）
-  - 「同時に、磁石にまつわる皆さんのご意見もお待ちしています」（https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/）
-  - 「オーダーメイド磁石で基本形状の短納期製作や特殊形状の製作も弊社に相談して下さい」（https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/）
-  - 「1：製作数 ２：納期 ３：目標価格などの条件を総合的に満足できる最善のご提案をさせていただきたいと考えております」（https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/）
-  - 「1)発生磁界〜電磁力の論理計算→短納期試作→実測により、お客様の開発課題と磁場の関係を正確に抑えることができます」（https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/）
+  - 「輸出規制、地政学的緊張、物流の混乱、希土類価格の変動は、世界の調達戦略を再構築し、メーカー各社に調達先の多様化と地域における加工・磁石生産能力への投資を促しています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「現在、市場は生産能力に制約のある回復局面を迎えており、希土類の採掘、精製、永久磁石製造能力の拡大ペースが需要を上回っています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
   - 「（１）需給ひっ迫時の対応 ................................................................................................................. 24」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
   - 「（２）供給能力の維持又は強化のための継続投資又は研究開発 ...................................................... 25」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「石製造が可能な中国企業が大幅な生産能力増強 を行うことにより日本のシェアが低下し続」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「来的に需給がひっ迫するおそれのあるものについて、鉱種ごとの特性を踏まえ、上」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「は、今後毎年、日本企業の総生産量を超える数万トン規模の生産能力拡大が計画さ」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「このため、2030 年時点における国内需要量に応じて国内生産能力を増強することにより、」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「具体的には、製造設備増強により、2030 年時点の国内需要量に応じた生産能力を確実に」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「また、ネオジム磁石リサイクルにおいては、生産能力増強分に応じた加工屑や端材のリサ」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「の生産能力増強、サマリウムコバルト磁石及びフェライト磁石の生産能力維持、原材料を安」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「ネオジム磁石生産能力の増強」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「サマリウムコバルト磁石の生産能力の維持」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「フェライト磁石の生産能力の維持」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「重希土類フリー永久磁石の生産能力の増強」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
 - 法律・制度：
-  - 「EV生産、洋上風力発電の調達、産業用モーターの規制は、それぞれ異なる購買サイクルを生み出すが、いずれも高保磁力磁石グレードへの需要と、より安定した材料供給体制の必要性を高めている」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「EUの産業用モーター効率規制」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「EU規則2019/1781により、定格出力75〜200 kWの三相モーターには2023年7月からIE4効率基準への適合が義務付けられ、2027年1月からはIE5への適合が求められる」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「規制に基づく調達は2026年から始まり、2027年1月のIE5適合義務化を境に大きく変化する」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「産業規制は、3つ目の、より計画的な需要経路となる」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「EUのモーター効率規制により、調達の判断は任意の設備更新から、規制への適合を目的とした設計変更へと移行する」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「高効率基準によって製品仕様が変わる場合、永久磁石同期モーターのサプライヤーには恩恵が期待できる」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「ただし、受注時期は更新サイクル、OEMの認証スケジュール、高保磁力材料の認定品の供給状況に左右される」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「輸出規制や供給途絶により、中国国外で入手可能な磁石グレードの希土類元素（REE）が制約され、投入コストが上昇し、中国国外の生産者の利益率が圧迫される」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「中国が2025年4月に導入した、特定の中・重希土類関連品目および関連する磁石材料を対象とする規制により、川下メーカーにとって、許認可、在庫戦略、長期的なサプライヤー認定の重要性が改めて浮き彫りになった」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「車両プラットフォームは短期的な需要を生み、洋上プロジェクトの受注はより長期の調達見通しをもたらし、モーター規制はコンプライアンス上の節目を通じて進展する」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「規制により、機器設計の変更は裁量的な設備投資ではなく、遵守が求められる期限と結び付けられるため、需要の見通しが高まる」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「プログラムの長期化と特殊な仕様が需要の安定を支える一方、認証、トレーサビリティ、技術認定の障壁により、サプライヤーの参入は引き続き制限される」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「欧州の需要は、自動車の電動化、風力発電への投資、産業効率に関する規制に支えられている」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「同地域における最も重大な課題は、需要側の政策支援を、性能、調達、規制面の要件を満たす安定した磁石供給基盤につなげることである」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
+  - 「輸出規制、地政学的緊張、物流の混乱、希土類価格の変動は、世界の調達戦略を再構築し、メーカー各社に調達先の多様化と地域における加工・磁石生産能力への投資を促しています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「厳格な資格要件と認証要件は、特に航空宇宙、防衛、医療分野において、製品開発と商業化の期間を長期化させることで、永久磁石市場の成長を抑制している」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「メーカーは個々の用途に合わせて製品をカスタマイズする必要があり、生産の複雑化、認証期間の延長、在庫管理の負担増につながっています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「車両の電動化への投資増加と厳しい燃費規制により、自動車業界全体で高性能永久磁石の需要が引き続き高まっています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「収益予測、競争環境、成長要因、環境および規制環境とトレンド」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「彼の研究は、市場動向、技術の導入状況、競争の動向、規制の動向、成長機会の評価に焦点を当て、情報に基づいた事業および投資判断を支援することを目的としています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「基準年: 2025」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「認証済み・保護・安全」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「第５章 永久磁石に係る法第四十四条第一項の規定による指定に関する事項 ........................................ 30」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「第１節 指定の要件 ............................................................................................................................... 30」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「第２節 指定解除の考え方 .................................................................................................................... 30」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「第５節 関係者の意見の適切な考慮、施行状況の公表 ......................................................................... 32」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「（２）施行状況の適切な公表等の実施 .............................................................................................. 32」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「する法律（令和４年法律第 43 号」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「アンス 「Rare Earth Magnets and Motors: A European Call for Action」2021」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
 - 国の予算：
   - 「第３節 安定供給確保支援独立行政法人基金の管理に関する事項 ...................................................... 28」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
   - 「第３節 安定供給確保支援独立行政法人基金の管理に関する事項」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
@@ -1549,32 +1546,32 @@
   - 「当ページでは、市場予測、主要企業ランキング、成長やリスクをもたらす外部要因の分析など、戦略立案に役立つ詳細なAI予測を無料でご確認いただけます」（https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet）
   - 「永久磁石メーカー 主要企業シェアランキング 大同特殊鋼・プロテリアル等」（https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet）
   - 「図：永久磁石メーカーにおける国内マーケットシェアのグラフ及び主要企業8社の状況」（https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet）
-  - 「世界の永久磁石市場の成長に重要な役割を果たす主要な主要企業には、Adams Magnetic Products, LLC、Arnold Magnetic Technologies Corporation、Stanford Magnets (Oceania International LLC)、Permanent Magnets Ltd、VACUUMSCHMELZE GmbH & Co， KGなどが含まれます」（https://www.sdki.jp/reports/permanent-magnet-market/61820）
-  - 「この調査には、世界の永久磁石市場分析レポートの詳細な競争分析、企業概要、最近の傾向、およびこれらの主要企業の主要な市場戦略が含まれています」（https://www.sdki.jp/reports/permanent-magnet-market/61820）
-  - 「シリンガアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/permanent-magnet-market/61820）
-  - 「プロピオンアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別、流通チャネル別及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/permanent-magnet-market/61820）
-  - 「永久磁石市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「永久磁石市場の主な企業には、Shin-Etsu Chemical Co., Ltd.、Proterial Ltd.、TDK Corporation、Zhong Ke San Huan、JL MAG Rare-Earth Co., Ltd.が挙げられる」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
+  - 「主要企業は、高性能磁石の開発、垂直統合された希土類サプライチェーン、精密な製造能力、および研究開発への継続的な投資を通じて競争しています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「永久磁石市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/permanent-magnet-market）
   - 「ネオジム磁石の世界市場 （生産量） における日本企業のシェアは、2021 年において、」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
   - 「ーについて、2020 年の世界シェア（生産台数）において日本企業が約半数を占めてい」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
   - 「動モーターは日本企業のネオジム磁石が搭載されていると考えられること、海外自動」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「車メーカーでも日本企業の磁石利用もあることから、電動車駆動モーターにおいては、」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「自国内で実施できる国であり、日本企業よりも低コストで永久磁石を製造することが」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「しており、このままでは 2025 年には日本企業の世界シェアは 10％を下回ることが予」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「は、今後毎年、日本企業の総生産量を超える数万トン規模の生産能力拡大が計画さ」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
+  - 「合以降を日本企業が行っている」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
 - 検索結果の抜粋：
   - 「AIが予測する 永久磁石 メーカー ｜2030年 市場規模 推移と主要 ... — AIが予測する 永久磁石 メーカー ｜2030年 市場規模 推移と主要 ... xenoBrain https://service.xenobrain.jp > permanentmagnet」（https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet）
   - 「永久磁石市場規模 、シェア、トレンド、成長 2034 年 — 永久磁石市場規模 、シェア、トレンド、成長 2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E5%B8%82%E5%A0%B4-102776）
   - 「永久磁石市場規模 ・産業レポート 2031 - Mordor Intelligence — 永久磁石市場規模 ・産業レポート 2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market）
-  - 「永久磁石市場規模 ・予測レポート（2026〜2035年） — 永久磁石市場規模 ・予測レポート（2026〜2035年） Global Market Insights Inc. https://www.gminsights.com > permanent-magnet-market」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「レアアースフリー 永久磁石市場 は2035年に49 ... - アットプレス — レアアースフリー 永久磁石市場 は2035年に49 ... - アットプレス アットプレス https://www.atpress.ne.jp > ... > Astute Analytica Co. Ltd.」（https://www.atpress.ne.jp/news/4424103）
+  - 「永久磁石市場規模 、シェア、成長率（2034年） — 永久磁石市場規模 、シェア、成長率（2034年） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「永久磁石 に係る安定供給確保を図るための取組方針 - 経済産業省 — 永久磁石 に係る安定供給確保を図るための取組方針 - 経済産業省 経済産業省 PDF https://www.meti.go.jp > magnet_hoshin_260331」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
   - 「インドの 永久磁石 メーカー上位5 社 2026年 - TOPMAG — インドの 永久磁石 メーカー上位5 社 2026年 - TOPMAG topmag.in https://www.topmag.in > top-5-permanent-magnet-manuf...」（https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/）
   - 「永久磁石 - メーカー・ 企業 45 社 の業務用製品ランキング — 永久磁石 - メーカー・ 企業 45 社 の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 永久磁石」（https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/）
   - 「AIが予測する 永久磁石 メーカー ｜2030年市場規模推移と主要 ... — AIが予測する 永久磁石 メーカー ｜2030年市場規模推移と主要 ... xenoBrain https://service.xenobrain.jp > permanentmagnet」（https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet）
-  - 「永久磁石 に係る安定供給確保を図るための取組方針 - 経済産業省 — 永久磁石 に係る安定供給確保を図るための取組方針 - 経済産業省 経済産業省 PDF https://www.meti.go.jp > magnet_hoshin_260331」（https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf）
   - 「永久磁石 - メーカー・企業45社の業務用製品ランキング — 永久磁石 - メーカー・企業45社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 永久磁石」（https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/）
   - 「最大7300万円｜安定供給確保支援 基金 事業（ 永久磁石 ）効果 ... — 最大7300万円｜安定供給確保支援 基金 事業（ 永久磁石 ）効果 ... 補助金エージェント https://hojokin-agent.jp > 補助金・給付金一覧」（https://hojokin-agent.jp/subsidy/110853）
   - 「永久磁石 - メーカー ・ 企業 45社の業務用製品ランキング — 永久磁石 - メーカー ・ 企業 45社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 永久磁石」（https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/）
   - 「AIが予測する 永久磁石メーカー ｜2030年市場規模推移と 主要 ... — AIが予測する 永久磁石メーカー ｜2030年市場規模推移と 主要 ... xenoBrain https://service.xenobrain.jp > permanentmagnet」（https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet）
   - 「インドの 永久磁石メーカー 上位5社 2026年 - TOPMAG — インドの 永久磁石メーカー 上位5社 2026年 - TOPMAG topmag.in https://www.topmag.in > top-5-permanent-magnet-manuf...」（https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-india-2026/）
   - 「Permanent Magnet Market Size , Share, Trends & Growth 2034 — Permanent Magnet Market Size , Share, Trends & Growth 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/permanent-magnet-market-102776）
+  - 「Permanent Magnets Market Size 2026-2030 - Technavio — Permanent Magnets Market Size 2026-2030 - Technavio Technavio https://www.technavio.com > report」（https://www.technavio.com/report/permanent-magnets-market-industry-analysis）
 
 ## グリーンスチール（green steel）
 - 文脈：9 マテリアル ②グリーン鉄
@@ -1585,7 +1582,6 @@
 - 国内参入企業数：
   - 「2 環境省「温室効果ガス排出量選定・報告・公表制度 2018 年度集計結果」（報告事業者数 12,150）、日本製」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
   - 「製鋼の３社のみとなっており、各社が有する全国 11 拠点で、19 基の高炉が稼働している」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「世界5カ国に拠点を持ち、提携調査会社200社以上が発行する調査資料約24万点以上をワンストップでご提供」（https://japan.cnet.com/release/31041079/）
 - 需給の差：
   - 「図 7 今後設備寿命を迎える高炉（生産能力） ..................................................... 16」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
   - 「るという側面に加え、技能労働者のひっ迫や賃金上昇、工期の長期化もあって、建設費が上昇しており、」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
@@ -1636,8 +1632,8 @@
   - 「投資額 1,400億円 電炉生産能力 50万t/年」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf）
 - 国内の主要企業：
   - 「日本企業の活用事例」（https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/）
-  - 「環境（E）、社会（S）、ガバナンス（G）を重視するESG投資が世界的に拡大しており、日本企業や日本市場の魅力を高めるため、GXの推進が不可欠となっています」（https://sustech-inc.co.jp/carbonix/media/green-steel/）
   - 「”グリーンスチール”で”脱炭素”に貢献？！知っておきたい基礎知識と国内メーカーの製品について」（https://www.daiwast.co.jp/blog/introducing-green-steel-products）
+  - 「環境（E）、社会（S）、ガバナンス（G）を重視するESG投資が世界的に拡大しており、日本企業や日本市場の魅力を高めるため、GXの推進が不可欠となっています」（https://sustech-inc.co.jp/carbonix/media/green-steel/）
   - 「以下の表は、主要企業の概要をまとめたものです」（https://note.com/harrys_search/n/n38dd629a5462）
   - 「日本企業の動き｜日本製鉄・JFEスチール・神戸製鋼の取り組み」（https://mirasus.jp/environment/19174）
   - 「国内では、日本企業のスコープ3ターゲットの採用が増加しており、時価総額が200億米ドルを超える上場企業に対しては日本のサステナビリティ基準委員会(SSBJ)の基準による最近のスコープ3開示要件（この要件は2028年から60億米ドルに引き下げ）があり、これが示すところでは、低排出鋼の需要が増加している可能性がある」（https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/）
@@ -1647,13 +1643,10 @@
   - 「グリーンスチール市場規模 、シェア、成長 | 2034 年の予測 ... — グリーンスチール市場規模 、シェア、成長 | 2034 年の予測 ... Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 金属・鉱物」（https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-108711）
   - 「グリーンスチール とは？普及への課題や日本・世界の取り組み ... — グリーンスチール とは？普及への課題や日本・世界の取り組み ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_102」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
   - 「日本における グリーンスチール への道 - 自然エネルギー財団 — 日本における グリーンスチール への道 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > REI_greensteel2022」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「グリーンスチール の 市場規模 、2030年に528億5000万米ドル ... — グリーンスチール の 市場規模 、2030年に528億5000万米ドル ... CNET Japan https://japan.cnet.com > リリース」（https://japan.cnet.com/release/31041079/）
-  - 「グリーン 鉄とは｜官民投資ロードマップの目標年300万t・投資 ... — グリーン 鉄とは｜官民投資ロードマップの目標年300万t・投資 ... 日本DX地域創生応援団 https://digital-supporter.net > mirai-ai > green-tetsu」（https://digital-supporter.net/mirai-ai/17invest/green-tetsu.html）
   - 「鉄鋼業で進むGX―「 グリーン 鉄」普及へ政府も支援 — 鉄鋼業で進むGX―「 グリーン 鉄」普及へ政府も支援 資源エネルギー庁 https://www.enecho.meti.go.jp > special > green_steel_2026」（https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_2026.html）
   - 「グリーンスチール 市場規模、シェア、成長 | 2034 年の予測 ... — グリーンスチール 市場規模、シェア、成長 | 2034 年の予測 ... Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 金属・鉱物」（https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-108711）
   - 「Green Steel Market Size , Share, Growth | Forecast Report, 2034 — Green Steel Market Size , Share, Growth | Forecast Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/green-steel-market-108711）
-  - 「Green Steel 2026, 25+ Projects Delayed, SSAB Halts EAF — Green Steel 2026, 25+ Projects Delayed, SSAB Halts EAF enkiai.com https://enkiai.com > Sustainability」（https://enkiai.com/sustainability/green-steel-projects-delays/）
-  - 「Green Steel 2025 -2035: Technologies, Players, Markets ... — Green Steel 2025 -2035: Technologies, Players, Markets ... IDTechEx https://www.idtechex.com > green-ste...」（https://www.idtechex.com/en/research-report/green-steel-2025-2035-technologies-players-markets-forecasts/1084）
+  - 「Global Green Steel Market 2026-2036 | From Pilot to Scale — Global Green Steel Market 2026-2036 | From Pilot to Scale Business Wire https://www.businesswire.com > home」（https://www.businesswire.com/news/home/20251028712767/en/Global-Green-Steel-Market-2026-2036-From-Pilot-to-Scale---New-Report-Maps-Tech-Readiness-Policy-Drivers-and-Supply-Demand-Gap-to-2036---ResearchAndMarkets.com）
 
 ## 耐熱合金（superalloy）
 - 文脈：9 マテリアル ③革新的金属部素材
@@ -1714,7 +1707,7 @@
   - 「Superalloys Market Size, Share & Growth | Industry Report 2035 — Superalloys Market Size, Share & Growth | Industry Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
   - 「Superalloys Market Size, Share, Trends | Growth Report [2034] — Superalloys Market Size, Share, Trends | Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/superalloys-market-112585）
   - 「Ni-based Superalloys Market Forecast 2026–2033 — Ni-based Superalloys Market Forecast 2026–2033 Fairfield Market Research https://www.fairfieldmarketresearch.com > ...」（https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market）
-- 国内市場規模：記載なし（読んだ39頁・検索8回）
+- 国内市場規模：記載なし（読んだ40頁・検索8回）
 
 ## 低炭素アルミ（low carbon aluminum）
 - 文脈：9 マテリアル ④低炭素金属部素材
@@ -1734,7 +1727,7 @@
   - 「市場参加各社は、最終用途産業における顧客のニーズの変化に対応するため、生産能力の増強、品質管理システム、および研究開発能力への投資を進めている」（https://www.imarcgroup.com/report/ja/japan-aluminum-extrusion-market）
   - 「住商×鉄道33事業者が挑む、鉄道業界の人手不足」（https://www.sumitomocorp.com/ja/jp/enrich/contents/0083）
   - 「世界中で深刻化する水まわり業界の人材不足：日々の暮らしを支える配管工の育成に向けて」（https://www.lixil.com/jp/stories/stories_35/）
-  - 「品質はもちろん、納期や物流面でもきめ細かな対応を実施し、お客様のご期待にお応えします」（https://www.alumihanbai.co.jp/csr/sdgs.html）
+  - 「アルミニウム生産者の供給不足やコスト増加につながる可能性があります」（https://www.techsciresearch.com/report/ja/green-aluminium-market/215.html）
   - 「その理由として、輸出相手国において、二次合金の生産能力に対し、原料（スクラップ）が不足していること、アルミスクラップの輸入関税を0％に設定、2025年3月には再生アルミニウム生産量1,500万トン以上という目標を掲げて再生アルミニウム資源の回収利用を推進していることなどがある」（https://ieei.or.jp/2026/06/jaa_260615/）
   - 「主な課題（ボトルネック）」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
   - 「・将来的なGX製品へのニーズ増加が見込まれる中、投資支援や市場拡大等を通じて、官民で連携し、日本の技術力やノウハウを活かし、段階的に高品位かつ低炭素な金属部素材の供給能力を高めておく必要がある」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
@@ -1775,11 +1768,13 @@
   - 「日本のアルミニウム押出成形市場は、確立された国内メーカーと地域特化型のプレーヤーが競合する、適度に統合された競争構造を示している」（https://www.imarcgroup.com/report/ja/japan-aluminum-extrusion-market）
   - 「主要企業は、合金開発における技術革新、持続可能な製品ラインナップ、そして要求の厳しい自動車・建設用途向けのカスタマイズされたエンジニアリングソリューションを通じて差別化を図っている」（https://www.imarcgroup.com/report/ja/japan-aluminum-extrusion-market）
   - 「主要企業リスト」（https://www.sphericalinsights.com/jp/reports/japan-aluminium-metals-market）
+  - 「世界のグリーンアルミニウム市場に存在する主要企業の詳細な分析」（https://www.techsciresearch.com/report/ja/green-aluminium-market/215.html）
   - 「主要メーカーは、再生可能エネルギーや低炭素製錬技術に投資している」（https://www.c-adtech.com/ja/top-10-aluminum-companies-in-the-world/）
   - 「ここに掲載されている主要メーカーは、生産能力の決定、脱炭素化投資、貿易行動を通じて、今後も市場動向を形成していくだろう」（https://www.c-adtech.com/ja/top-10-aluminum-companies-in-the-world/）
 - 検索結果の抜粋：
   - 「CO₂排出量50％削減の循環型 低炭素アルミ 「PremiAL」を ... — CO₂排出量50％削減の循環型 低炭素アルミ 「PremiAL」を ... LIXIL Corporation https://newsroom.lixil.com > ...」（https://newsroom.lixil.com/ja/2025091701）
   - 「グリーン 低炭素アルミニウム の世界市場の現状と推移2024 ... — グリーン 低炭素アルミニウム の世界市場の現状と推移2024 ... Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/4221113）
+  - 「グリーン アルミニウム 市場規模、シェア、予測2029年 — グリーン アルミニウム 市場規模、シェア、予測2029年 TechSci Research https://www.techsciresearch.com > green-aluminium-market」（https://www.techsciresearch.com/report/ja/green-aluminium-market/215.html）
 - 国内市場規模：記載なし（読んだ40頁・検索8回）
 
 ## レアメタルリサイクル（e-waste precious metal recovery）
@@ -1832,7 +1827,6 @@
   - 「資金の一部は日本政府から提供され、政府は2028/2029年度までに、これら3つの施設における同社の脱炭素化取り組みに対し、2,510億円の助成を行う計画です」（https://www.imarcgroup.com/report/ja/japan-metal-recycling-market）
   - 「日本政府は「グリーン・スチール」に対するインセンティブを導入し、経済産業省（METI）は、低炭素排出鋼を使用して製造されたクリーンエネルギー車（CEV）に対し、5万円の補助金を支給することとした」（https://www.imarcgroup.com/report/ja/japan-metal-recycling-market）
   - 「2025年3月期は連結売上高約452億円を計上し、日本国内でトップシェアを持つ商品も多いレアメタル・レアアースのリーディング企業として成長を続けている」（https://www.alconix.com/media/owned/2026/01/13/AMJ.html）
-  - 「大木が会長を務めるSUREコンソーシアムは、2013年に産総研内に設立した戦略的都市鉱山研究拠点を軸に、2014年に設立した官民連携組織である」（https://www.aist.go.jp/aist_j/magazine/20260624.html）
   - 「本業務は『経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（経済安全保障推進法）』に基づき、特定重要物資に指定された金属鉱産物（以下、「重要鉱物」）について、経済産業大臣が策定した『重要鉱物に係る安定供給確保を図るための取組方針』（以下、「安定供給確保取組方針」）に則り、我が国の重要鉱物の安定供給確保を図る上で効果的と認められる取組を行うとして経済産業大臣に計画が認定された供給確保事業者に対し、当該取組に係る申請者負担額の1／2の助成金を交付する事業です」（https://www.jogmec.go.jp/activities/metal/critical-grant.html）
   - 「◼並行して、2024年10月には官民が出資して中国資源循環集団を設立するなど、国内の資源リサイクルネット」（https://www.cas.go.jp/jp/seisaku/economiccirculation/kanjikai_dai1/sanko3.pdf）
 - 国内の主要企業：
@@ -1853,32 +1847,30 @@
 ## マテリアルズインフォマティクス（materials informatics）
 - 文脈：9 マテリアル ⑥AI活用材料
 - 国内市場規模：
-  - 「【図・表2．マテリアルDXプロセス・インフォマティクスの分類別国内市場規模予測」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc）
-  - 「【図・表2．有機材料マテリアルDXの分類別国内市場規模予測」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc）
-  - 「【図・表2．無機材料マテリアルDXの分類別国内市場規模予測」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc）
+  - 「【図・表2．マテリアルDXプロセス・インフォマティクスの分類別国内市場規模予測」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vK0XkWx2V19rJt8lrWBj9f9z298su2CJmFKOdHDn94hmjHRwJT5）
+  - 「【図・表2．有機材料マテリアルDXの分類別国内市場規模予測」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vK0XkWx2V19rJt8lrWBj9f9z298su2CJmFKOdHDn94hmjHRwJT5）
+  - 「【図・表2．無機材料マテリアルDXの分類別国内市場規模予測」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vK0XkWx2V19rJt8lrWBj9f9z298su2CJmFKOdHDn94hmjHRwJT5）
 - 国内参入企業数：
   - 「世界5カ国に拠点を持ち、海外の提携調査会社180社以上が発行する調査資料約30万点をワンストップでご提供」（https://newscast.jp/smart/news/8350130）
-  - 「30社以上の企業概要から得られる洞察を基に、業界動向、競争戦略、用途について検証しています」（https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096）
-  - 「インタビューに基づく30社以上の企業概要」（https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096）
   - 「）の5社以上と協業している」（https://note.com/posi7293/n/n52716473f290）
 - 需給の差：
-  - 「①データ不足」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc）
-  - 「②計算資源不足」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc）
-  - 「(3)人材不足と分野横断の困難性」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc）
-  - 「(3)実験・理論との統合不足」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc）
-  - 「(1)データの質と量の不足」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc）
-  - 「(3)実験との連携不足と実装障壁」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc）
+  - 「①データ不足」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vK0XkWx2V19rJt8lrWBj9f9z298su2CJmFKOdHDn94hmjHRwJT5）
+  - 「②計算資源不足」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vK0XkWx2V19rJt8lrWBj9f9z298su2CJmFKOdHDn94hmjHRwJT5）
+  - 「(3)人材不足と分野横断の困難性」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vK0XkWx2V19rJt8lrWBj9f9z298su2CJmFKOdHDn94hmjHRwJT5）
+  - 「(3)実験・理論との統合不足」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vK0XkWx2V19rJt8lrWBj9f9z298su2CJmFKOdHDn94hmjHRwJT5）
+  - 「(1)データの質と量の不足」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vK0XkWx2V19rJt8lrWBj9f9z298su2CJmFKOdHDn94hmjHRwJT5）
+  - 「(3)実験との連携不足と実装障壁」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vK0XkWx2V19rJt8lrWBj9f9z298su2CJmFKOdHDn94hmjHRwJT5）
   - 「権限不足のため、フォローできません」（https://www.nikkei.com/article/DGXZRSP628855_S2A320C2000000/）
   - 「ニュースレターの配信をお待ち下さい」（https://www.nikkei.com/article/DGXZRSP628855_S2A320C2000000/）
   - 「これらのステップを通じて、データ不足の現場でも開発スピードと精度を大幅に向上させます」（https://www.mi-seek.com/company-list/）
   - 「実験ノートをクラウドで一元管理できるSignals Notebookや、異分野データを活用したマテリアルキュレーション支援システムにより、データ不足の現場でも迅速にモデル構築が行えます」（https://www.mi-seek.com/company-list/）
-  - 「二つ目は、データサイエンティストなど、データを適切に扱える人材の不足です」（https://www.skillupai.com/blog/tech/mi-research/）
-  - 「一方で、自社で人的リソースと、大量のデータを保有している必要があり、それらが不足している場合は難しいでしょう」（https://www.skillupai.com/blog/tech/mi-research/）
-  - 「くわえて、公開されている汎用的な物性値では「自社材料に適用するには情報が足りない」ということもあるようです」（https://www.jsol-cae.com/tech-blog/20250529.html）
-  - 「 しかしながら、現段階では、実際のMI導入に際し、①データ基盤の不足、②データ解析技術の向上、③データ人材の不在、等の課題」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf）
-  - 「 データ量が不足」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf）
+  - 「学習データが足りない／目的が曖昧」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「自社データが不足している」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「プロジェクト定義の曖昧さと関係者間の合意不足」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「データ量が足りない領域では予測精度が出ない」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「企業が今まさに足りないもの」（https://note.com/posi7293/n/n52716473f290）
 - 法律・制度：
-  - 「ハラール認証取得支援サービス」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc）
+  - 「ハラール認証取得支援サービス」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vK0XkWx2V19rJt8lrWBj9f9z298su2CJmFKOdHDn94hmjHRwJT5）
   - 「基準年2025 7億1,995万米ドル」（https://newscast.jp/smart/news/8350130）
   - 「航空宇宙・防衛から自動車の電動化、半導体製造から医薬品開発に至るまで、幅広い産業において、マテリアル・インフォマティクスは最先端の性能基準を実現するための不可欠な要素となりつつあります」（https://newscast.jp/smart/news/8350130）
   - 「2次調査では、学術論文、特許出願、ホワイトペーパー、および公開されている技術報告書を幅広く精査し、技術的能力、業界動向、規制状況に関する包括的なベースラインを確立しました」（https://newscast.jp/smart/news/8350130）
@@ -1894,6 +1886,11 @@
   - 「規制コンプライアンスと標準フレームワーク」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
   - 「家計の法律クリニック」（https://www.nikkei.com/article/DGXZRSP628855_S2A320C2000000/）
 - 国の予算：
+  - 「三井化学・三菱ケミカル・旭化成など18社の導入事例と成果数値、MIツール比較、導入コストと2026年度の補助金、PoCで終わらせない進め方までまとめた」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「令和12年（2030年）までに、官民から相当額の資金を集め国際的に認知される「AI駆動マテリアル開発拠点」を形成」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「3番目の型は投資額が小さく、中堅企業でも着手しやすい」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「導入コストと2026年度の補助金」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「2026年度に使える主な補助金」（https://ai-revolution.co.jp/media/ai-in-chemical/）
   - 「本公募要領は、令和８(2026)年度科学研究費助成事業－科研費－ 「研究活動スタート支援」の公募」（https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf）
   - 「８(2026)年度予算成立前に始めるものです」（https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf）
   - 「究費助成事業－科研費－の概要等 ６. 科研費により得た研究成果の発信等について (4)研究デ」（https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf）
@@ -1907,14 +1904,15 @@
 - 国内の主要企業：
   - 「マテリアル・インフォマティクスの主要企業はどこですか？」（https://newscast.jp/smart/news/8350130）
   - 「主要企業はどこですか？」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
-  - 「このような状況の中で、日本企業が競争力を維持・強化するためには、データとAIを活用した開発体制への転換が不可欠です」（https://labinformatics.jp/media/column/mi）
+  - 「日本企業では」（https://ai-revolution.co.jp/media/ai-in-chemical/）
   - 「【2026年10月最新】ヒューマノイドロボットとは？特徴・主要メーカー・価格・活用事例を徹底解説」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「このような状況の中で、日本企業が競争力を維持・強化するためには、データとAIを活用した開発体制への転換が不可欠です」（https://labinformatics.jp/media/column/mi）
 - 検索結果の抜粋：
   - 「マテリアルズインフォマティクス 開発 会社10 社 - Metoree — マテリアルズインフォマティクス 開発 会社10 社 - Metoree Metoree https://metoree.com > サービス」（https://metoree.com/categories/8864/）
-  - 「Materials Informatics Conference 2026 | MI-6株式会社 — Materials Informatics Conference 2026 | MI-6株式会社 MI-6株式会社 https://mi-6.co.jp > セミナー」（https://mi-6.co.jp/webinars/20260715/）
-  - 「MI Conf 2026 Materials Informatics Conference — MI Conf 2026 Materials Informatics Conference Chem-Station (ケムステ) https://www.chem-station.com > 会告」（https://www.chem-station.com/blog/2026/06/mi-conf-2026-materials-informatics-conference.html）
-  - 「マテリアルズインフォマティクス の教育と成果の現在および未来 — マテリアルズインフォマティクス の教育と成果の現在および未来 MONOist https://monoist.itmedia.co.jp > articles > news079」（https://monoist.itmedia.co.jp/mn/articles/2401/11/news079.html）
+  - 「化学・素材業界のAI活用事例18 社 ｜MI導入の費用・失敗しない ... — 化学・素材業界のAI活用事例18 社 ｜MI導入の費用・失敗しない ... AI革命株式会社 https://ai-revolution.co.jp > メディア」（https://ai-revolution.co.jp/media/ai-in-chemical/）
   - 「【2026年10月最新】 マテリアルズインフォマティクス （MI ... — 【2026年10月最新】 マテリアルズインフォマティクス （MI ... genai-ai.co.jp https://genai-ai.co.jp > ... > ブログ > AI用語解説」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「Materials Informatics Conference 2026 | MI-6株式会社 — Materials Informatics Conference 2026 | MI-6株式会社 MI-6株式会社 https://mi-6.co.jp > セミナー」（https://mi-6.co.jp/webinars/20260715/）
+  - 「マテリアルズインフォマティクス の教育と成果の現在および未来 — マテリアルズインフォマティクス の教育と成果の現在および未来 MONOist https://monoist.itmedia.co.jp > articles > news079」（https://monoist.itmedia.co.jp/mn/articles/2401/11/news079.html）
   - 「2025年2月20日開講 WEBセミナー 「 マテリアルズ ... — 2025年2月20日開講 WEBセミナー 「 マテリアルズ ... | 株式会社AndTech https://andtech.co.jp > seminars」（https://andtech.co.jp/seminars/1efc109b-c1d6-6f1e-bc6a-064fb9a95405）
   - 「マテリアルズインフォマティクス 開発 会社10社 - Metoree — マテリアルズインフォマティクス 開発 会社10社 - Metoree Metoree https://metoree.com > サービス」（https://metoree.com/categories/8864/）
   - 「100年分のデータを強みに、MIで材料開発の新時代を開く — 100年分のデータを強みに、MIで材料開発の新時代を開く NGK株式会社 https://www.ngk.co.jp > 企業情報」（https://www.ngk.co.jp/info/dx/mi.html）
@@ -2034,7 +2032,7 @@
   - 「水素エネルギー促進協会は、2026年においては、企業は国内市場でのプレゼンスを高めつつ、海外市場への進出を強化すると予測しており、業界の競争環境は「国内競争」から「グローバル競争」へと移行すると断言している」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
   - 「（6）本邦の企業・大学等で日本国内に研究開発拠点を有していること」（https://biz.stayway.jp/hojyo_detail/48413/）
 - 国内参入企業数：
-  - 「：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vL6IBlpqg-CkuX-NrpecP1rXulHvHvOq91N2tbaH3llaqlGJMdG）
+  - 「：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJwYRJPflE6wKjSq-CWm_FKZgNraKf9Fouzv-IAOzx2ZUWjeiEP）
   - 「他方で、特定の 1 社ないし数社の企業のみに水素を独占的にパイプライン供給する場」（https://www.meti.go.jp/meti_lib/report/2021FY/000336.pdf）
   - 「世界にパソコンメーカーは多数あれど、肝心のマイクロプロセッサーは2社程度の寡占状態だ」（https://project.nikkeibp.co.jp/energy/atcl/19/feature/00007/00114/）
   - 「クリーン水素を製造する水電解装置市場は、中国勢も含めると100社以上がしのぎを削るレッドオーシャンだが、中核部材は少数メーカーの寡占状態にある」（https://project.nikkeibp.co.jp/energy/atcl/19/feature/00007/00114/）
@@ -2046,7 +2044,7 @@
   - 「生産能力過剰の状況 *1」（https://www.nedo.go.jp/content/800021685.pdf）
   - 「：研究開発での自動化による連続生産の推進により、高い生産能力において低コスト・短納期での提供が可能」（https://www.thyssenkrupp-nucera.com/jp/%E6%8A%80%E8%A1%93/%E7%94%A3%E6%A5%AD%E8%A6%8F%E6%A8%A1%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%AA%E6%B0%B4%E9%9B%BB%E8%A7%A3）
   - 「ティッセンクルップ・ニューセラの電解装置は、納期短縮のためにどのような工夫をしていますか？」（https://www.thyssenkrupp-nucera.com/jp/%E6%8A%80%E8%A1%93/%E7%94%A3%E6%A5%AD%E8%A6%8F%E6%A8%A1%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%AA%E6%B0%B4%E9%9B%BB%E8%A7%A3）
-  - 「2GW/年超の生産能力を備え、2028年度の稼働開始を計画」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vL6IBlpqg-CkuX-NrpecP1rXulHvHvOq91N2tbaH3llaqlGJMdG）
+  - 「2GW/年超の生産能力を備え、2028年度の稼働開始を計画」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJwYRJPflE6wKjSq-CWm_FKZgNraKf9Fouzv-IAOzx2ZUWjeiEP）
   - 「価格・納期のお問い合わせ」（https://tm-co.co.jp/glossary/water-electrolysis-unit/）
   - 「価格・納期を問い合わせる」（https://tm-co.co.jp/glossary/water-electrolysis-unit/）
   - 「kW規模の電解装置を使用してスタート – 納期はわずか3週間で短くなります」（https://enapter.com/ja/）
@@ -2076,8 +2074,8 @@
   - 「⚫ プロジェクト全体の予算額を上限721.5億円→上限1070.5億円に増額」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf）
   - 「NEDOのGI基金事業での取り組みは2026年12月で期間満了を迎えますが、いずれは製造した水素を外部にも供給できるように、米倉山と同様に圧縮設備や充填設備を設けることも検討しています」（https://green-innovation.nedo.go.jp/article/greenhydrogen/）
   - 「8 政策支援を合理的に捉え、生き残りのための補助金への依存を避ける」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
-  - 「日本ではGI基金事業でPFASフリー電解質膜を用いた10MWモデルの開発を推進」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vL6IBlpqg-CkuX-NrpecP1rXulHvHvOq91N2tbaH3llaqlGJMdG）
-  - 「2026年2月にNEDOのGI基金事業に採択」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vL6IBlpqg-CkuX-NrpecP1rXulHvHvOq91N2tbaH3llaqlGJMdG）
+  - 「日本ではGI基金事業でPFASフリー電解質膜を用いた10MWモデルの開発を推進」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJwYRJPflE6wKjSq-CWm_FKZgNraKf9Fouzv-IAOzx2ZUWjeiEP）
+  - 「2026年2月にNEDOのGI基金事業に採択」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJwYRJPflE6wKjSq-CWm_FKZgNraKf9Fouzv-IAOzx2ZUWjeiEP）
   - 「全国：2026年度 水素利用拡大に向けた共通基盤強化のための研究開発事業の詳細情報 | 補助金クラウドMag.」（https://biz.stayway.jp/hojyo_detail/48413/）
   - 「■2026 年度予算規模」（https://biz.stayway.jp/hojyo_detail/48413/）
   - 「※2026年度の事業の全体予算は77億円であり、「採択件数目安」に関わらず予算の範囲内で採択先を決定します」（https://biz.stayway.jp/hojyo_detail/48413/）
@@ -2089,12 +2087,12 @@
   - 「【詳細版】2026年最新版！ 中小企業むけ補助金・助成金一覧」（https://baie-amalfi.com/%E5%86%8D%E3%82%A8%E3%83%8D%E7%AD%89%E7%94%B1%E6%9D%A5%E6%B0%B4%E7%B4%A0%E6%B4%BB%E7%94%A8%E8%A3%9C%E5%8A%A9%E9%87%912026%EF%BD%9C%E6%9C%80%E5%A4%A73%E5%84%84%E5%86%86/）
 - 国内の主要企業：
   - 「化し、日本企業の開発力強化を図るとともに、国内にこうした評価基盤を整備することで、日本企業の新規参入を促す」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf）
-  - 「Ａ：日本、米国、欧州を中心にとした主要メーカーの生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vL6IBlpqg-CkuX-NrpecP1rXulHvHvOq91N2tbaH3llaqlGJMdG）
+  - 「Ａ：日本、米国、欧州を中心にとした主要メーカーの生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJwYRJPflE6wKjSq-CWm_FKZgNraKf9Fouzv-IAOzx2ZUWjeiEP）
   - 「担保されるとともに、国内外での国内メーカーの水電解装置の普及促進が期待される」（https://www.khk.or.jp/Portals/0/khk/h2/committee/standard/05/20260701_h2_05-02.pdf）
   - 「トクヤマはこの技術を国内メーカーにライセンス提供し、それが旭化成による、世界初の10MW級AWE水電解システムの実用化につながった（図3）」（https://project.nikkeibp.co.jp/energy/atcl/19/feature/00007/00114/）
 - 検索結果の抜粋：
   - 「水電解装置 の世界 市場 、前年3倍超の9497 億円 、2040年には ... — 水電解装置 の世界 市場 、前年3倍超の9497 億円 、2040年には ... 日経BP https://project.nikkeibp.co.jp > atcl > news」（https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04582/?ST=msb）
-  - 「PEM 水電解装置市場 調査、 規模 、シェア、傾向、予測2037年 — PEM 水電解装置市場 調査、 規模 、シェア、傾向、予測2037年 Research Nester Japan https://www.researchnester.jp > 業界分析」（https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461）
+  - 「世界がグリーン水素に本気、計画は2年で100倍超の 規模 に — 世界がグリーン水素に本気、計画は2年で100倍超の 規模 に 日経クロステック https://xtech.nikkei.com > クリーン水素製造で大競争」（https://xtech.nikkei.com/atcl/nxt/column/18/02655/111700001/）
   - 「水電解装置 メーカー9 社 注目ランキング【2026年】 - Metoree — 水電解装置 メーカー9 社 注目ランキング【2026年】 - Metoree Metoree https://metoree.com > 発振器・発生器」（https://metoree.com/categories/9195/）
   - 「欧州の 水電解装置 6 社 が新たな連合E4Eを組成。中国 企業 を ... — 欧州の 水電解装置 6 社 が新たな連合E4Eを組成。中国 企業 を ... BAUM Consult Japan - https://baumconsult.co.jp > 水素」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
   - 「令和4年度補正 系統用蓄電システム・ 水電解装置 導入支援事業 — 令和4年度補正 系統用蓄電システム・ 水電解装置 導入支援事業 SII：一般社団法人 環境共創イニシアチブ https://sii.or.jp > ...」（https://sii.or.jp/chikudenchi04r/）
@@ -2208,6 +2206,7 @@
   - 「日本郵船は2021年6月15日、日本国内の造船会社2社と覚書を締結し、2025〜2028年度で12隻のLNG（液化天然ガス）を燃料とする自動車専用船を建造すると発表した」（https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html）
   - 「トヨタの「bZ4X」がWaymoの自動運転タクシーに、2027年から日本国内で実証開始」（https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html）
   - 「の供給目標量を「2019年度に日本国内で生産・供給さ」（https://www.mlit.go.jp/maritime/content/001889539.pdf）
+  - 「日本国内で注目される光電融合関連株10社を、成長背景とともにわかりやすく解説します」（https://katacoto.com/efuel/）
 - 国内参入企業数：
   - 「企業トップへの取材は1,000社以上」（https://media.monex.co.jp/articles/-/25564）
 - 需給の差：
@@ -2224,8 +2223,8 @@
   - 「⚫ グリーンメタノール生産能力は、技術の継続的な進歩と政府支援の増加により、今後5年間で年間5,000」（https://www.mlit.go.jp/maritime/content/001735441.pdf）
   - 「＜バイオメタノール及びe-メタノールの生産能力の予測＞」（https://www.mlit.go.jp/maritime/content/001735441.pdf）
   - 「応じ、生産/供給能力が」（https://www.mlit.go.jp/maritime/content/001735441.pdf）
+  - 「➢ 主要なSAFサプライヤーの生産能力、及び、各種SAFの供給量、販売価格をリサーチ」（https://mono.ipros.com/cg1/%E7%87%83%E6%96%99/）
   - 「. Hard-to-abate sectors like aviation and shipping now treat synthetic fuels not as optional pilots but as core compliance tools. Enterprise buyers are shifting from small test volumes to long-term supply agreements that lock in future production capacity. This rapid demand signals a supply bottleneck risk for early offtakers if project financing does not accelerate at the same pace.」（https://evolvancemarketresearch.com/reports/e-fuels-market/）
-  - 「Supply shortage means airlines have no chance of meeting a 10% SAF by 2030 target, says IATA chief – GreenAir News」（https://www.greenairnews.com/?p=8262）
 - 法律・制度：
   - 「天然ガス、石炭、またはバイオマスから得られるこの技術は、厳しい環境基準に適合する高品質で硫黄を含まない燃料を製造できることから高く評価されています」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
   - 「合成ディーゼルは、硫黄や微粒子などの汚染物質の排出量が少ないため、厳しい環境規制のある地域で特に魅力的です」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
@@ -2251,23 +2250,24 @@
   - 「討・審議を経て、昨年12月、本官民協議会 環境整備」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf）
   - 「【2024年12月】 官民協議会 合同WG」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf）
   - 「【2025年3月10日/25日】官民協議会環境整備WG/審議会（脱炭」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf）
-  - 「現在、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の「グリーンイノベーション基金事業／CO2等を用いた燃料製造技術開発プロジェクト」（2022～2028年度）の下、商業化に向け、官民連携による合成燃料（e-fuel）の製造技術の研究開発が進められています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
   - 「2022年9月に「合成燃料（e-fuel）の導入促進に向けた官民協議会」が設置され」（https://www.decarbonation-tech.com/intro_5010/）
   - 「グリーンイノベーション（GI）基金とMEDO事業により、大規模かつ高効率な製造プロセスの開発を進め、2030年までの合成燃料の大規模製造プロセスの実証をめざすとし、大枠のロードマップを示した」（https://www.decarbonation-tech.com/intro_5010/）
   - 「図３ 「合成燃料（e-fuel）の導入促進に向けた官民協議会」の取り組み」（https://www.decarbonation-tech.com/intro_5010/）
   - 「図５ GI基金事業で進められている「高効率な大規模FT合成プロセス」の開発」（https://www.decarbonation-tech.com/intro_5010/）
   - 「図６ NEDO交付金事業で進められる「次世代FT合成プロセス」（https://www.decarbonation-tech.com/intro_5010/）
   - 「GI基金事業：CO2等を用いた燃料製造技術開発（予算額：上限1152.8億円）」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
+  - 「予算額：約576億円」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
 - 国内の主要企業：
   - 「業界が性能を損なうことなく二酸化炭素排出量の削減を目指す中、主要企業がこの需要に応えるべく先進的な生産技術に投資しており、ディーゼル燃料セグメントは今後も成長が見込まれます」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
   - 「この市場における主要企業は、アウディAG、ロイヤル・ダッチ・シェルPlc、エクソンモービル・コーポレーション、サソル・リミテッド、ペトロチャイナ・カンパニー・リミテッドである」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
-  - 「カーボンニュートラル燃料は国内でも生産できるが、大量、安価な生産は海外が有利となるため、日本企業がカーボンニュートラル燃料技術を開発して、技術、設備、ノウハウ、知見等をもとに海外で事業展開することにより、ワールドワイドのカーボンニュートラル燃料市場における主導権を獲得できる」（https://www.yano.co.jp/press-release/show/press_id/3196?srsltid=AYCX9vLgh1RTR-2zSc_PWl4K6ZFS5GcJaXRAitkeI_L-WodSfhQ91XK2）
-  - 「日本企業プロジェクトの支援」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
-  - 「欧米系企業に複数の合成燃料製造計画、日本企業も関心」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「低炭素メタノールのプロジェクトに、日本企業がオフテイカーとして参画する事例もある」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「カーボンニュートラル燃料は国内でも生産できるが、大量、安価な生産は海外が有利となるため、日本企業がカーボンニュートラル燃料技術を開発して、技術、設備、ノウハウ、知見等をもとに海外で事業展開することにより、ワールドワイドのカーボンニュートラル燃料市場における主導権を獲得できる」（https://www.yano.co.jp/press-release/show/press_id/3196?srsltid=AYCX9vJk2AJrNtb_elT10uJxdR4TZfh2UqpDU2TwkUegthFLFxFOgcxb）
   - 「合成燃料の活用方法、実用化に取り組む日本企業も紹介しているので、ぜひ参考にしてください」（https://www.wsew.jp/hub/ja-jp/blog/article_58.html）
   - 「合成燃料の実用化に取り組む日本企業」（https://www.wsew.jp/hub/ja-jp/blog/article_58.html）
-  - 「日本企業の強みや成長ポイントをわかりやすく紹介」（https://katacoto.com/efuel/）
+  - 「欧米系企業に複数の合成燃料製造計画、日本企業も関心」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「低炭素メタノールのプロジェクトに、日本企業がオフテイカーとして参画する事例もある」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「自動車向けカーボンニュートラル燃料の世界市場について、政策・制度、原料・製造技術、コスト、車両適合、主要企業の事業戦略、市場規模予測を網羅した市場調査資料です」（https://mono.ipros.com/cg1/%E7%87%83%E6%96%99/）
+  - 「・主要企業24社のCN燃料戦略を収録」（https://mono.ipros.com/cg1/%E7%87%83%E6%96%99/）
+  - 「ここまで来た！日本企業がグローバルな覇権を取り得るのか、この2年が勝負」（https://mono.ipros.com/cg1/%E7%87%83%E6%96%99/）
 - 検索結果の抜粋：
   - 「合成燃料市場規模 、シェア、成長率、分析、レポート（2034 ... — 合成燃料市場規模 、シェア、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > エネルギーと電力 > バイオ燃料」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
   - 「バイオ燃料や水素、 合成燃料 の 市場規模 は2050年に236兆円 — バイオ燃料や水素、 合成燃料 の 市場規模 は2050年に236兆円 MONOist https://monoist.itmedia.co.jp > ... > 連載一覧 > 脱炭素」（https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html）
@@ -2472,15 +2472,15 @@
   - 「安全かつ機能的なSMRを建設するための熟練した人材の不足も、市場の成長率に悪影響を与えるだろう」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
   - 「足元で52週移動平均線を割り込み、2025年10月の急伸前の水準まで下げており、仕切り直しから上昇トレンドへの転換を待ちたいところです」（https://diamond.jp/zai/articles/-/1068973）
   - 「海外で低コスト・短納期のSMRに注目が集まるのは当然である」（https://www.decarbonation-tech.com/nuclear_2121/）
-  - 「現在起きている電力需要のひっ迫は再生可能エネルギーの増加が原因との報道が見られるが、電力貯蔵技術やエネルギー・マネージメントにより解決すべき問題である」（https://www.decarbonation-tech.com/nuclear_2121/）
-  - 「原子力発電の再稼働により電力需要のひっ迫に対応することは慎重に進められる必要がある」（https://www.decarbonation-tech.com/nuclear_2121/）
-  - 「政府は、昨年2022年6月の電力需要ひっ迫を起点に、同8月には来夏以降に向け「原発の更なる再稼働が重要だ」との認識を示し、岸田文雄首相は第2回GX会議（2022年8月24日）で「これまでに再稼働した原発10基に加え、来夏以降に追加で7基の再稼働を進める方針」を表明した」（https://www.decarbonation-tech.com/nuclear_2121/）
-  - 「電力ひっ迫と原発の再稼働について（Ⅴ）」（https://www.decarbonation-tech.com/nuclear_2121/）
+  - 「電力ひっ迫と原発の再稼働について（Ⅲ）」（https://www.decarbonation-tech.com/nuclear_2121/）
+  - 「今夏は異常気象による気温上昇と、たまたま補修点検による火力発電所の停止時期が重なったのが電力需要ひっ迫の原因とされているが、隠れた原因としてに太陽光発電や風力発電など出力変動の大きい再生可能エネルギーのが急増し、その出力変動分を火力発電によって調整している点があげられる」（https://www.decarbonation-tech.com/nuclear_2121/）
   - 「小型モジュール炉SMRはデータセンターの深刻な電力不足を解消できるか：『ビジネス2.0』の視点：オルタナティブ・ブログ」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
   - 「小型モジュール炉SMRはデータセンターの深刻な電力不足を解消できるか」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
   - 「本稿ではデータセンター事業者の視点から、小型モジュール炉SMRが安定電源の解となり得るのか、そのコスト構造と実装を阻むボトルネックを客観的に検証します」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
   - 「データセンターの電力逼迫とハイパースケーラーの原子力投資」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
   - 「量産工場の資金不足と審査遅延という構造的摩擦」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
+  - 「民間の原子力投資の大半は運転実績がある大型原子炉の延命や新設に配分されており、SMR専用工場の整備資金は不足しています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
+  - 「2025年の最新予測では、日本の電力需要増加分の過半数をデータセンターが占めるとも試算されており、既存電力網だけでは供給不足に陥る可能性が出てきている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
 - 法律・制度：
   - 「2025年の基準年と2026〜2035年の予測期間は、原子炉タイプ、用途、接続形態、立地、容量、最終用途、地域の各区分で共通している」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
   - 「World Nuclear Association, “Small Nuclear Power Reactors,” world-nuclear.org」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
@@ -2559,10 +2559,6 @@
   - 「商業規模のバイオ精製施設や専門的な処理施設の不足は、生産量増加を目指すバイオベース化学品メーカーにとって障壁となっている」（https://straitsresearch.com/jp/report/bio-based-chemicals-market）
   - 「高額な投資要件と長期にわたる施設開発期間は、生産能力拡大をさらに遅らせる可能性がある」（https://straitsresearch.com/jp/report/bio-based-chemicals-market）
   - 「既存企業は主に生産能力、製品ポートフォリオ、原料の柔軟性を武器に競争している」（https://straitsresearch.com/jp/report/bio-based-chemicals-market）
-  - 「• 経済成長及び天然資源不足に対応」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「備・インフラの不足への対応策」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「出策と供給能力拡充を着実に進め、中長期的な外部依存リスクの低減と経済の自律性の確保を図る」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「（ボトルネック）」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
   - 「分類 樹脂 企業名 植物原料 （モ ノマー） 主な機能 生産能力(t/y)」（https://www.nedo.go.jp/content/100870192.pdf）
   - 「注 1 バイオマス由来のエチレン グ リ コールの生産能力からの推定値」（https://www.nedo.go.jp/content/100870192.pdf）
   - 「注 2 バイオマス由来である PA11、 PA610、 PA1010、 PA1012 の生産能力からの推定値」（https://www.nedo.go.jp/content/100870192.pdf）
@@ -2570,6 +2566,10 @@
   - 「注 University of Maine、 American Process、 Innventia については、 1日あた り の生産能力の公表データに 300を乗ずる こ と によ る推計」（https://www.nedo.go.jp/content/100870192.pdf）
   - 「安全・権利・用途の確認が後から不足する」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
   - 「納入量、納期、品質、価格、不適合時の扱いを定めます」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「最後に、納入量、ロット間の品質、納期、価格、不良時の扱いを取引条件にします」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「不足がある：主張を限定して追加確認」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「生産能力と実生産量、混合ごみと植物由来を分ける」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「年約400トンは設備の生産能力として記された値で、毎年その量を販売したという実績ではありません」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
 - 法律・制度：
   - 「性能要件や認証要件は、バイオベース化学物質が従来型化学物質と同等の純度、一貫性、安定性、および機能性能を満たすことを求めるため、導入障壁を高めます」（https://straitsresearch.com/jp/report/bio-based-chemicals-market）
   - 「追加の試験、認証、および製品検証により、製造業者がこれらの材料を工業用途に承認するまでに必要な時間が長くなる可能性があります」（https://straitsresearch.com/jp/report/bio-based-chemicals-market）
@@ -2578,21 +2578,15 @@
   - 「彼女は、市場構造、成長の原動力（ドライバー）、技術開発、規制の影響、投資動向、競争環境の把握に重点を置いて業務に取り組んでいます」（https://straitsresearch.com/jp/report/bio-based-chemicals-market）
   - 「基準年: 2025」（https://straitsresearch.com/jp/report/bio-based-chemicals-market）
   - 「認証済み・保護・安全」（https://straitsresearch.com/jp/report/bio-based-chemicals-market）
-  - 「• また、米国は2025年12月、Biosecure Act」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「を連邦政府が指定し、連邦政府の調達や補助」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「金を用いる事業において、指定された企業の機」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「• 投資拡大のため、規制当局と民間企」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「業の対話フォーラム設置、規制簡素」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「ス製品の認証・標準化を推進」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「国政府の投資、政策、規制改革の方向」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「術分野において規制の更新や承認の迅」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
+  - 「“The role of biomass and bioenergy in a future bioeconomy: Policies and facts” を基に NEDO 技術戦略研究セン ター作成 （2017）」（https://www.nedo.go.jp/content/100870192.pdf）
+  - 「個別設備の安全、菌株・用途の適合、認証を判定する診断ではありません」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「個別の認証・表示の判断は、制度運営者や専門家へ確認します」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「認証制度や法律への適合を判定する図ではなく、特定企業の契約条件や一般削減率を示しません」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「認証制度の個別適合や表示文の法的判断は、制度運営者や専門家へ確認する範囲になります」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「ただし認証対象外の工程まで適合を保証したり、割当方式を物理的含有率として広告したりしないことが前提です」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「認証機関、LCA専門家、材料供給者との提携が考えられます」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
+  - 「対価は導入支援と継続管理費ですが、認証を自社で発行する権限があるとは限りません」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
 - 国の予算：
-  - 「２つのバイオ基金における取組について」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「• CO2を原料とするバイオものづくりの技術開発・実証を行う「GI基金（バイオPJ：1,775億円）」、食」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「革命推進基金（2,700億円）」を実施中」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「①GI基金 （1,775億円）」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「②バイオものづくり革命推進事業（2,700億円、基金）」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
-  - 「• 現在、予算額1,774.7億円に対して、計5件の案件を実施中（令和６年４月）」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf）
   - 「日本の予算規模は、 欧米に比べて小さい （表4）」（https://www.nedo.go.jp/content/100870192.pdf）
   - 「プログラム領 域 概 要 2016年度予算額」（https://www.nedo.go.jp/content/100870192.pdf）
   - 「バイオものづくりとは｜官民投資ロードマップの目標11.9兆円・投資額12.8兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html）
@@ -2602,6 +2596,12 @@
   - 「原文は内閣官房「戦略17分野における「主要な製品・技術等」の官民投資ロードマップ」（2026年7月21日）から引用しています」（https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html）
   - 「官民投資額は2040年度までで12.8兆円、投資による経済波及効果は2040年度までで66.7兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html）
   - 「バイオものづくりの官民投資額は2040年度までで12.8兆円、経済波及効果は2040年度までで66.7兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html）
+  - 「「国の官民投資ロードマップは、バイオものづくりで2040年に日本企業の売上11.9兆円を目指し、構築すべき機能として地域未来戦略を踏まえた産学官の連携による産業クラスターを掲げている」（https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html）
+  - 「たとえば3年計画で3万米ドルのプロジェクトは、各年に1万米ドルを計上しています」（https://www.astamuse.co.jp/report/2024/240425-bm/）
+  - 「最大72億円｜バイオプラスチック・省CO2型製造設備導入補助金徹底解説【令和8年度】 | 補助金エージェント」（https://hojokin-agent.jp/subsidy/107124）
+  - 「②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】」（https://hojokin-agent.jp/subsidy/107124）
+  - 「最大72億円｜バイオプラスチック・省CO2型製造設備導入補助金徹底解説【令和8年度】」（https://hojokin-agent.jp/subsidy/107124）
+  - 「「令和８度予算」「全国」「第２回」」（https://hojokin-agent.jp/subsidy/107124）
 - 国内の主要企業：
   - 「BASF SE、Dow Inc.、Evonik Industries AG、DuPont de Nemours Inc.、三菱ケミカルグループ株式会社などの主要企業が、世界のバイオベース化学品市場シェアの約28～30%を占めている」（https://straitsresearch.com/jp/report/bio-based-chemicals-market）
   - 「類がないため、 一部の日本企業は原料を輸入 した り 、 海」（https://www.nedo.go.jp/content/100870192.pdf）
@@ -2621,92 +2621,7 @@
 - 検索結果の抜粋：
   - 「バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 — バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 iri-group.jp https://iri-group.jp > ... > エネルギー・資源・フード」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
   - 「バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 — バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 iri-group.jp https://iri-group.jp > ナレッジ」（https://iri-group.jp/knowledge/bio-based-chemicals/）
+  - 「バイオ プラスチック・省CO2型製造設備導入 補助金 徹底解説 ... — バイオ プラスチック・省CO2型製造設備導入 補助金 徹底解説 ... 補助金エージェント https://hojokin-agent.jp > 補助金・給付金一覧」（https://hojokin-agent.jp/subsidy/107124）
   - 「Bio - based Chemicals Market Size , Share | Global Report, 2034 — Bio - based Chemicals Market Size , Share | Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586）
   - 「Bio - Based Chemicals Market Size , Share and Growth 2026 ... — Bio - Based Chemicals Market Size , Share and Growth 2026 ... SNS Insider https://www.snsinsider.com > reports」（https://www.snsinsider.com/reports/bio-based-chemicals-market-5551）
   - 「Bio - based Chemicals Market Size, Share & Growth Report 2035 — Bio - based Chemicals Market Size, Share & Growth Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706）
-  - 「Bio - based Chemicals Market Size, Share | Global Report, 2034 — Bio - based Chemicals Market Size, Share | Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586）
-
-## バーティカルAI（vertical AI）
-- 文脈：1 AI・半導体 ③バーティカルAI
-- 国内市場規模：
-  - 「国内市場は2030年に約3兆円の見通しなので、5兆円の目標は」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「日本国内で半導体を生産する企業の合計売上高（半導体関連）は、2020年時点で5兆円規模でした」（https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/）
-  - 「「クラウド・DCの国内市場規模30兆円（2035」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「までに30兆円の国内市場規模を目指す」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「建設業は、高市AI基本計画でバーティカルAI19分野の1つに指定されており、日本国内での市場拡大が期待される領域です」（https://www.ai-souken.com/article/what-is-vertical-ai）
-- 国内参入企業数：
-  - 「研修6,000名以上・支援100社以上の実績をもとに、自社の業務に当てはめる相談も30分から受け付けています」（https://uravation.com/media/japan-ai-promotion-act-guide/）
-  - 「100社以上の企業向けAI研修・導入支援」（https://uravation.com/media/japan-ai-promotion-act-guide/）
-  - 「なお2025年3月末時点で、国内外7,000社以上が同社サービスを導入しているとされています」（https://note.com/kagawatomo/n/n83a03e1e1e22）
-- 需給の差：
-  - 「課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「データ・モデル・アプリを垂直統合した「現場で使えるAI」であるバーティカルAIを、重点領域ごとの戦略で産業や行政に広げ、AIの導入で人手不足を解消し日本社会全体のAXを実現する計画です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「主な課題（ボトルネック）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・AI研究開発人材、現場とAIの双方を理解して、AXを推進できる実装人材や中小企業伴走支援の不足」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・現場固有データの活用や計算資源の不足」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・AXへの理解不足、AIリスクへの懸念」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・研究開発の担い手の育成・確保、世界から優秀な「知」が集まる機能の創設」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・AIの導入で人手不足を解消」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・人手不足に直面する我が国の供給力を維持し、力強い成長につなげるために、中小企業を含めて、あらゆる産業や行政の現場でのバーティカルAIの導入を促進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・先端研究開発の担い手となる多様な開発人材の育成・確保」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「リソース制約として、先端研究を担う人材や現場とAIの双方を理解してAXを推進できる実装人材、中小企業への伴走支援の不足、現場固有データの活用や暗黙知の形式知化の不足、国内での計算資源供給の不足があります」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「不確実性としては、AIによる業務効率化や新事業創出の効果と手法への認識不足、AIの技術的リスクや個人情報・機微データの扱い、エージェント型AI活用による責任の所在への懸念が挙げられています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・人材：先端研究を担う人材や産業や行政の現場とAIの双方を理解してAXを推進できる実装人材、中小企業への伴走支援の不足」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・データ：現場固有データの活用、暗黙知の形式知化の不足」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・計算資源：国内での計算資源供給の不足」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-- 法律・制度：
-  - 「・政府による率先導入と制度改革による初期需要創出」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・領域別に、①データ創出・利用の促進と、必要に応じたデータ構造の標準化や、②エージェント型AIに即したルール・制度の整備を推進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「エージェント型AIに即したルール・制度」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「市場性・公共性・戦略性の観点から重点領域を定めて領域別戦略を策定し、官民で集中投資すること、政府調達や制度改革で初期需要を喚起すること、そして領域別の取組を横連携で高度化・大規模化することです」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・政府調達や制度改革により初期需要を積極的に喚起し、開発投資支援で事業拡大を加速」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・規制緩和、中小企業補助金、AI実装人材創出等による導入促進の円滑化」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革や技術標準・認証の整備を一体的に推進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「政府調達や制度改革で」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「構築すべき機能には、規制緩和・」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「（AIの安全性に関する評価手法や基準の検討・推進を行うための機関）などを通じた安全性・セキュリティ評価が並んでいます」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「政府調達や制度改革で初期需要を喚起し、戦略性を持つ分野では官需で開発事業者を育成し、市場性の高い分野では海外展開も促進します」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「規制緩和・中小企業補助金・AI実装人材創出による導入促進、政府による率先導入、AISI等を通じた安全性・セキュリティ評価機能を構築すべき機能としています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「①国内投資支援としてAI基盤の整備・充実、重点領域の研究開発・実証、公的機関の保有情報の提供等による領域データの創出、②需要創出として中小企業も含めた導入支援と地域AXの推進、規制緩和や官需主導の初期需要創出、制度・規制の見直し、AISIの機能強化などAIリスクへの包括的対応、③立地競争力強化としてAI実装人材の育成と中小企業への伴走支援、研究開発人材の確保、責任あるアジャイルガバナンス、AIインフラの整備・強化、④国際連携として同志国・グローバルサウスとの協働や広島AIプロセスの推進を進めます」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・重点領域における規制緩和等による需要創出」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・エージェント型AI 等の技術進展への対応、社会実装の推進の観点からの制度や規制の見直しを先導（弁護士業務や医師による画像読影等におけるAI活用の促進、AI活用医療機器の評価に必要な手法の検討・体制強化など）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-- 国の予算：
-  - 「バーティカルAIとは｜官民投資ロードマップの目標5兆円・投資額23.1兆円・領域特化型AIの政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「官民投資ロードマップは、2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円を獲得し、産業や行政の現場でAIを軸とした経営改革（AX）を進めるとしました」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「官民投資額は2040年度までに23.1兆円、経済波及効果は222.0兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「官民投資の具体像 ― 投資額23.1兆円・経済波及効果222.0兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「原文は内閣官房「戦略17分野における「主要な製品・技術等」の官民投資ロードマップ」（2026年7月21日）から引用しています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「２．勝ち筋の特定と官民投資の具体像、定量的インパクト【道筋】」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「(2)官民投資の具体像 (3)定量的なインパクト」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「３．官民投資促進に向けた課題と政策パッケージ【政策手段】」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「(2)官民投資の具体像」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「前述した「第5回 人工知能（AI）戦略本部」において、高市首相は「領域別に戦略を策定のうえ、官民での集中投資を実施し、将来的なフィジカルAIの開発・活用につながるバーティカルAIの開発・実装を強力に推進します」と述べています」（https://diamond.jp/zai/articles/-/1070254）
-  - 「取引報告書などを電子交付するだけで、現物取引、信用取引に加え、単元未満株の売買手数料まで0円になるので、売買コストに関しては圧倒的にお得な証券会社と言える」（https://diamond.jp/zai/articles/-/1070254）
-  - 「市場規模・投資額の数字（2030年約3兆円・23.1兆円）の読み方」（https://coplus-one.jp/vertical-ai/）
-  - 「人工知能基本計画の脚注では、バーティカルAIに係る官民投資額として、2040年度までで23.1兆円という想定が示されました」（https://coplus-one.jp/vertical-ai/）
-  - 「内閣官房が2026年7月21日に公表した官民投資ロードマップには、バーティカルAIについて、2040年度までの経済波及効果を222.0兆円と想定する記載があります」（https://coplus-one.jp/vertical-ai/）
-  - 「222.0兆円は、7月21日の官民投資ロードマップ（内閣官房公表）で確認した想定額です」（https://coplus-one.jp/vertical-ai/）
-- 国内の主要企業：
-  - 「エージェント型AIを含めてバーティカルAIの開発や社会実装を担う日本企業群を創造」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「の開発能力を確保、日本企業群を創造」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「ODAや在外公館等も活用しつつ、グローバルサウスにおける高度人材の育成・交流、現地企業と日本企業とのマッチング、共同研究開発、日本企業による海外展開向け開発、知財・標準化戦略等を推進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「開発や社会実装を担う日本企業群を創造」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「ODAや在外公館等も活用しつつ、グローバルサウスにおける高度人材の育成・交流、現地企業と日本企業とのマッ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「チング、共同研究開発、日本企業による海外展開向け開発を促進」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「日本企業の車両の量産【目標】 安全・安心かつ高い互換性が確保さ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「ケーブルについて、日本企業による総延」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「 日本企業はマルチコア光ファイバー技術で優位性を有するも、競合企業（米・仏）への政府支援・中国の新規参入で苦戦」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「られるフィルタ、 発振子、通信モジュール等では 、日本企業は大きな世界シェ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「日本企業による自律的な供給能力の維持に必要なグローバルシェア」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「・ミリ波※６等機器・サービスの市場における日本企業の高い世界」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「信･データ利活用で2040年に約12兆円規模【P】の日本企業」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「講演では、ロボットを動かすためのAI基盤モデルの開発に国内の主要企業が参画し、日米が連携して進める構図が紹介されていました」（https://www.nsight.jp/blog/vertical-ai-japan-strategy/）
-  - 「特に、日本企業は法規制への意識が高く、API連携・クラウド利用時の権限設定・監査体制の整備が必要です」（https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/）
-- 検索結果の抜粋：
-  - 「バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... — バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (1) AI・半導体」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「バーティカルAI 領域別戦略 中間とりまとめ — バーティカルAI 領域別戦略 中間とりまとめ 内閣府ホームページ PDF https://www8.cao.go.jp > ai > ai_hq > shiryo2_2」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
-  - 「専門業務を支えるVertical AI（ バーティカルAI ）とは？汎用AI ... — 専門業務を支えるVertical AI（ バーティカルAI ）とは？汎用AI ... Members Co.,Ltd. https://www.members.co.jp > 20260326-vertical-ai」（https://www.members.co.jp/column/20260326-vertical-ai）
-  - 「「 バーティカルAI 領域別戦略」から読み解く、2030年に向け ... — 「 バーティカルAI 領域別戦略」から読み解く、2030年に向け ... NewsPicks https://newspicks.com > ... > デジタル政策と未来社会」（https://newspicks.com/news/17139933/body/）
-  - 「Vertical AI Market Size , Share, Trends | CAGR of 24.5% — Vertical AI Market Size , Share, Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market」（https://market.us/report/vertical-ai-market/）
-  - 「Vertical AI Market Analysis, Size , and Forecast 2025-2029 — Vertical AI Market Analysis, Size , and Forecast 2025-2029 Technavio https://www.technavio.com > report」（https://www.technavio.com/report/vertical-ai-market-industry-analysis）
-  - 「Vertical AI Market Surpasses $3.5B, Expands Beyond ... — Vertical AI Market Surpasses $3.5B, Expands Beyond ... LinkedIn https://www.linkedin.com > posts > m...」（https://www.linkedin.com/posts/menlo-ventures_vertical-ai-has-become-a-35b-category-in-activity-7404997854827556864-gVOJ）

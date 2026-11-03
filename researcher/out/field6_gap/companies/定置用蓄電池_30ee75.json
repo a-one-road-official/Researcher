@@ -1,0 +1,1448 @@
+{
+ "name": "定置用蓄電池",
+ "en": "stationary energy storage battery",
+ "aliases": [
+  "蓄電システム",
+  "BESS"
+ ],
+ "context": "2 デジタル・サイバー ④蓄電池",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:17:54.277322+00:00",
+ "evidence": {
+  "法律・制度": [
+   {
+    "quote": "また、2026年には需給調整市場における低圧リソースの取引が解禁されDR/VPPリソースとしての活用拡大が期待されるほか、2027年よりZEH基準の要件に蓄電システムの設置が追加される予定のため、新築住宅における導入率上昇が予想され、堅調な市場拡大が予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、300kWh未満のシステムでは自治体施設や文教施設での導入が多く、300kWh以上のシステムでは、民間企業のほか、自治体・公共施設でも各種補助金制度の創設により導入が進んでいる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "系統/再エネ併設蓄電システムは、各国での電力市場制度の整備により、系統用蓄電システムの需要が高まっているため、異業種参入が相次ぎ急速に市場が拡大している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "これらに加え、有利な法規制により市場の拡大が見込まれます",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、Power Center は、リモート ソフトウェア アップグレードの柔軟性を提供し、刻々と変化する電力規制基準に対応します",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "特に系統用・再エネ併設蓄電システムは為替や市場価格、制度変更など収益性に影響を及ぼす要因が流動的であり、事業計画が立てにくい面は否めない",
+    "url": "https://eco-shinrai-service.com/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E6%B1%A0%E3%83%BB%E8%93%84%E9%9B%BB%E6%89%80%E3%81%AF%E5%86%8D%E3%82%A8%E3%83%8D%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%80%8C%E4%B8%AD%E6%A0%B8%E3%80%8D%E3%80%80/",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 安全性規格に関する第三者認証の取得や耐類焼性の確保",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 蓄電池を含めた脱炭素電源への新規投資を促進する制度である長期脱炭素電源オークションの第2回入札は、1月",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FIP併設蓄電池を系統から充電可能とする制度的措置を2025年4月から実施予定",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※）その際、蓄電池から放電される電気のうち認定発電設備に由来する電気量を算定する式は、現行制度と同様に、下図によることとしてはどうか",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※）上記措置は、必要に応じてパブコメ等を実施した上で、関係規程等を整備し、2025年４月を目途に施行することとしてはどうか",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "理するとともに、制度検討等に反映し導",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハラール認証取得支援サービス",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 資源エネルギー庁「エネルギー需給実績」によると、電源構成に占める再エネ（太陽光・風力・水力・地熱・バイオマス）の割合は、再生可能エネルギーの固定価格買取制度（FIT制度）が開始された2012年度は約10％だったが、2023年度には約23％まで上昇している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、経済産業省 資源エネルギー庁は2025年10月29日の制度検討作業部会（第108回）において、複合商品・一次調整力・二次調整力①の上限価格を7.21円/ΔkW・30分に引き下げる案を示した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "pass": 3
+   },
+   {
+    "quote": "FIT制度に頼らない再エネ投資として「系統用蓄電池事業」に注目が集まるなか、「まずは主要メーカーの顔ぶれを把握したい」「世界シェアや技術力を比較して、自社に合うパートナーを見極めたい」と考えている方も多いのではないでしょうか？",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "広域認定処理制度",
+    "url": "https://ps.gs-yuasa.com/es/",
+    "pass": 3
+   },
+   {
+    "quote": "広域認定処理制度について",
+    "url": "https://ps.gs-yuasa.com/es/",
+    "pass": 3
+   },
+   {
+    "quote": "広域認定処理制度とは、製品が廃棄物になった際の処理を、当該製品の製造者が環境大臣の認定を受けて広域的に行う制度です",
+    "url": "https://ps.gs-yuasa.com/es/",
+    "pass": 3
+   },
+   {
+    "quote": "指定された製品の処理に限って、各都道府県または政令市における個別の産業廃棄物処理業の許可が不要となります",
+    "url": "https://ps.gs-yuasa.com/es/",
+    "pass": 3
+   },
+   {
+    "quote": "ＧＳユアサは2008年1月から広域認定制度を取得しており、現在に渡り認定制度の取得状態を維持し続けている",
+    "url": "https://ps.gs-yuasa.com/es/",
+    "pass": 3
+   },
+   {
+    "quote": "【フジ・ホールディングス】FIP制度による太陽光発電所を稼働開始",
+    "url": "https://solarjournal.jp/goods/sansha-bat/",
+    "pass": 3
+   },
+   {
+    "quote": "それは、系統用蓄電池の事業としての収益性への高い期待の表れといえますが、系統用蓄電池事業は新たな事業形態であるため、様々な不確実性や制度上の問題があります",
+    "url": "https://www.renewable-ei.org/activities/reports/20260525.php",
+    "pass": 3
+   },
+   {
+    "quote": "空気清浄機 性能認証制度",
+    "url": "https://www.jema-net.or.jp/stat/lib_outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "© The Japan Electrical Manufacturers' Association",
+    "url": "https://www.jema-net.or.jp/stat/lib_outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年5月に施行された経済安全保障推進法の下、蓄電池は国民の生存に必要不可欠、または国民生活・経済活動が依拠している特定重要物資の1つに指定された",
+    "url": "https://project.nikkeibp.co.jp/energy/atcl/19/feature/00022/051900020/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州・米国は、巨大市場を背景に、規制措置も用いつつ、蓄電池サプライチェーンの域内構築を加速",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇新バッテリー規則（2023年8月発効）⇒カーボンフットプリント規制、責任ある材料調達、リサイクル材活用規制等",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ー蓄電池を含む５分野について団地を指定し、R&D等に最大2兆6千億ウォン（約2,500億円）を投入",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造能力を確保することを目的に、昨年12月、経済安全保障推進法に基づき、特定重要物資に蓄電池を指定",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 経済安全保障推進法に基づき、蓄電池を特定重要物資として指定",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また欧州とはサステナビリティルール等の制度面等での連携を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定量的な評価 公平な判断基準 秘匿性を担保した情報交換 左記取組の普及",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "算定方法 第三者認証 データ流通 事業者の対応力",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 今年度の制度確立を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FIT/FIP制度による売電を行わないこと",
+    "url": "https://enemanex.jp/battery-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電設備の費用効率性（CO2削減コスト）の基準を満たすこと",
+    "url": "https://enemanex.jp/battery-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電設備の価格が基準を満たすこと",
+    "url": "https://enemanex.jp/battery-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県・指定都市の場合",
+    "url": "https://enemanex.jp/battery-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "地域防災計画において指定避難所または防災施設／広域防災拠点として位置づけられているか、業務継続計画により災害発生時に業務を維持するべき施設であること",
+    "url": "https://enemanex.jp/battery-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "蓄電池の補助金2026｜国は終了？今使える制度と自治体の受付状況 | 太陽光発電メディア「ECOLIFE」",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】蓄電池の補助金は終了？国の現状と今使える制度・自治体一覧",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "断熱リフォームと組み合わせる国の制度が残っています",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "【締切カレンダー】いま動ける制度と期日を近い順に並べた",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "国の家庭用は終了・自治体と一部の国の制度は受付中",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "個人が申し込めるのは、この表にある制度です",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは「何が終わったのか」「次はあるのか」「今つかえる国の制度は何か」を順に整理します",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "【一覧】購入で使える国の制度は2つ(条件つき)",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用蓄電池「単体」の国の補助金は終了しましたが、条件が合えば使える国の制度は残っています",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光と同時に入れる家庭用蓄電池が対象で、補助の基準額は1kWhあたり3.8万円です",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "制度の中身は",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "お住まいの制度は次の方法で確認してください",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "制度が決めた順番より前に契約や着工をして対象外になる",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "なお申請者は制度で異なります",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "国の制度(みらいエコ住宅2026など)は工事業者が申請する方式です",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用とお得な制度",
+    "url": "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度】家庭用蓄電池の補助金制度は？",
+    "url": "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "国の蓄電池補助金制度とは？",
+    "url": "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "日本では、300kWh未満のシステムでは自治体施設や文教施設での導入が多く、300kWh以上のシステムでは、民間企業のほか、自治体・公共施設でも各種補助金制度の創設により導入が進んでいる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2024年度補正予算で、家庭用、業務産業用、再エネ併設用蓄電システムの導入支援事業として127億円を計上",
+    "url": "https://eco-shinrai-service.com/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E6%B1%A0%E3%83%BB%E8%93%84%E9%9B%BB%E6%89%80%E3%81%AF%E5%86%8D%E3%82%A8%E3%83%8D%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%80%8C%E4%B8%AD%E6%A0%B8%E3%80%8D%E3%80%80/",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電システムについても、2024年度に27案件（補助金額約346億円）を交付決定した",
+    "url": "https://eco-shinrai-service.com/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E6%B1%A0%E3%83%BB%E8%93%84%E9%9B%BB%E6%89%80%E3%81%AF%E5%86%8D%E3%82%A8%E3%83%8D%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%80%8C%E4%B8%AD%E6%A0%B8%E3%80%8D%E3%80%80/",
+    "pass": 3
+   },
+   {
+    "quote": "• 2025年度当初予算案において、引き続き、GX経済移行債を活用した系統用蓄電池等電力貯蔵システム導入支",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "援事業として400億円を計上",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 2024年度補正予算において、家庭用、業務産業用、再エネ併設用蓄電システムの導入支援事業として127億円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 系統用蓄電システムについて、27案件（補助金額約346億円相当）を交付決定",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２０２１年度から補助金による系統用蓄電池の導入支援を行い 、２０２３年度に開",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法の「サプライチェーンの強靱（きょうじん）性確保」の下、日本政府は国内の蓄電池の供給確保事業者を中心として1兆円超の予算を既に執行し、国内の製造基盤確立を急いでいる",
+    "url": "https://project.nikkeibp.co.jp/energy/atcl/19/feature/00022/051900020/",
+    "pass": 3
+   },
+   {
+    "quote": "〇新エネルギー車（NEV）補助金（約5,600億円）（2015年５月公表） ⇒2022年12月に撤廃",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇バッテリー工場等への所得税率を軽減（25％→15%）、地方自治体による補助金等",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 蓄電池・部素材の生産基盤強化を図るため、令和３年度補正予算で1,000億円を計上し、車載用・定置",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "るため、令和４年度補正予算で、3,316億円を計上",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ ８件合計で、事業総額は約5,062億円、助成額は最大約1,846億円",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ ７件合計で、事業総額は約3,554億円、助成額は最大約1,276億円",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026(令和8)年企業が蓄電池の導入に利用可能な補助金一覧",
+    "url": "https://enemanex.jp/battery-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "SII（一社｜環境共創イニシアチブ）による事業で、令和7年度までは後述の大規模業務産業用蓄電システム補助金とひとまとめに事業化されていましたが、令和8年度から100kWを境に2つの補助事業に再編されています",
+    "url": "https://enemanex.jp/battery-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "3月下旬 ～ 10月末（予算に達し次第終了）",
+    "url": "https://enemanex.jp/battery-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "蓄電池の補助金2026｜国は終了？今使える制度と自治体の受付状況 | 太陽光発電メディア「ECOLIFE」",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】蓄電池の補助金は終了？国の現状と今使える制度・自治体一覧",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "「蓄電池の補助金は、国からはもう出ないの？」——2026年の今、いちばん多い質問です",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月29日に予算満了で受付終了・再開予定なし",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "国の蓄電池補助金は今どうなっている？【2026年10月時点】",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "自治体の蓄電池補助金は受付中が多い【令和8年度(2026年度)】",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "蓄電池補助金の申請方法｜流れと失敗しない3つの注意点",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度】家庭用蓄電池の補助金一覧！条件や補助金額について解説｜蓄電池まるわかりナビ｜創エネ・蓄エネ・省エネの機器・ソリューションならオムロン",
+    "url": "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "V2Hに関する補助金情報",
+    "url": "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度】家庭用蓄電池の補助金一覧！",
+    "url": "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度】家庭用蓄電池の補助金制度は？",
+    "url": "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度から補助金により系統用蓄電池の導入を支援",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/saisei_kano/pdf/062_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ この他、東京都においても、2024年度は系統用蓄電地の導入支援事業（予算額130億",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/saisei_kano/pdf/062_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和６年度予算事業",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/saisei_kano/pdf/062_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 住友商事は、2021年度に実施した系統用蓄電池補助金を活用し、EVリユースバッテ",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/saisei_kano/pdf/062_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Q2.最新の系統用蓄電池補助金の概要や、導入ガイドラインはどこで確認できますか？",
+    "url": "https://www.q-cells.jp/blog/grid-scale-batteries/blog_260909_6/",
+    "pass": 3
+   },
+   {
+    "quote": "DR補助金とは？家庭用蓄電池でもらえる金額と申請方法【2026年度】",
+    "url": "https://www.q-cells.jp/blog/grid-scale-batteries/blog_260909_6/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新】系統用蓄電池とは？補助金と投資メリット - 省エネの教科書 | 企業担当者・個人向け「省エネ」「地球温暖化」の基礎知識を学べるサイト",
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新】系統用蓄電池とは？補助金と投資メリット",
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "２．国が補助金制度を強化し始めた",
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "を対象とした国の補助金制度は、2021年度から毎年公募されるようになりました",
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度予算案額150億円（85億円）と、",
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "※令和7年度以降の補助金制度については後ほど解説いたします",
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】経産省の系統用蓄電池補助金と公募情報",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の菅政権も所信表明した2050年カーボンニュートラル向けて、2兆円の環境基金の設立をかわきりに様々な政策を打ち出していくことが表明されました",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■投資額（概算）：約3～3.5億円",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "5. 補助金",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【ENSUS-2(エネサス2)】購入補助金制度のご案内",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "本体価格の10％が購入補助金として支給！面倒な手続きは必要ありません",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "住宅・産業用太陽光、蓄電池、EV・V2H、PPA、電力料金・補助金の経済効果を扱い、SaaS・API・BPOによる比較提案・導入判断を支援しています",
+    "url": "https://www.enegaeru.com/industrial-bess-comparison-self-consumption-peakcut",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、「令和6年度 系統用蓄電池・水電解装置導入支援事業」は、系統用蓄電池と水電解装置の設計や導入費用に対して補助金が交付されます",
+    "url": "https://wajo-holdings.jp/media/11286",
+    "pass": 3
+   },
+   {
+    "quote": "Stationary commands 71.5% share of the application segment, driven by utility-scale grid balancing, substation frequency regulation, and behind-the-meter commercial and residential storage. The segment benefits from established manufacturing supply chains and expanding subsidy support.",
+    "url": "https://www.imarcgroup.com/japan-energy-storage-systems-market",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "お待ちください！",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "需給調整市場は募集量に対して応札が少なく、調達量が不足している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "pass": 3
+   },
+   {
+    "quote": "需給調整市場※は2024年4月の全面開場以降、応札不足が慢性化している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "pass": 3
+   },
+   {
+    "quote": "同市場では入札価格の低い順に約定される「マルチプライスオークション方式」が採用されているため、応札不足の状況では入札者が価格決定力を有することとなる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "pass": 3
+   },
+   {
+    "quote": "​需給調整市場における応札不足は2025年度も続いており、約定価格の高止まりが懸念されている",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "pass": 3
+   },
+   {
+    "quote": "とりわけ中国のCATLは年間500GWhを超える生産能力を有し、LFP（リン酸鉄リチウムイオン電池）の大量供給でグローバル市場を席巻しています",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "：世界最大の生産能力でコスト競争力を圧倒",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "CATL（中国）｜世界最大の生産能力でコスト競争力を圧倒",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "CATLは、年間生産能力・世界シェアともにトップクラスの蓄電池メーカーであり、LFP電池の大量供給力を活かしたコスト競争力が最大の武器です",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "納期・量産体制",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅・産業用は流通在庫あり、比較的短納期",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "年間500GWhを超える生産能力はテスラやBYDをも上回り、LFPセルの供給量では他社を大きく引き離しています",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "※価格、納期のお問い合わせは各支社に直接お問い合わせください 「",
+    "url": "https://ps.gs-yuasa.com/es/",
+    "pass": 3
+   },
+   {
+    "quote": "大量の系統接続待ちの問題や収益源となる市場のルール変更はその代表例であり、今後は将来を見据えた収益源の多様化が求められます",
+    "url": "https://www.renewable-ei.org/activities/reports/20260525.php",
+    "pass": 3
+   },
+   {
+    "quote": "第2節 系統接続待ちの問題",
+    "url": "https://www.renewable-ei.org/activities/reports/20260525.php",
+    "pass": 3
+   },
+   {
+    "quote": "第2節 系統接続待ちに対する提言",
+    "url": "https://www.renewable-ei.org/activities/reports/20260525.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外は政策支援も背景に、急速に供給能力を拡大し、足",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜電池セルの生産能力の伸び＞[GWh]",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業者名 品目 取組の種類 供給開始 生産能力※ 事業総額 最大助成額",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リユースするために必要な情報（残存性能・材料等）やルートの不足",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DRとは、電力が足りない時間帯に蓄電池の充放電で協力する仕組みのことです",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "DR実証(電力が足りない時間帯に充放電で協力する実証)に参加すると、上乗せは1件あたり10万円です",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、DRへの活用が可能な家庭用蓄電池の更なる活用を図り、電力需給ひっ迫時だけでなく再エネ出力制御対策にも活用することで、電力の安定供給及び再エネ設備の更なる導入加速に貢献する",
+    "url": "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 近年、既存電源の退出・新規投資の停滞により供給力が低下し、電力需給のひっ迫や卸市場価格の高騰が発生",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/saisei_kano/pdf/062_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、災害や電力不足などで停電が発生した場合には、自立的に電気を賄う非常用電源として利用することができるため、「防災に役立てる」上でも大きな役割を果たします",
+    "url": "https://shizen-hatch.net/2023/07/06/storage-battery-law/",
+    "pass": 3
+   },
+   {
+    "quote": "これは検討不足によって生じる系統用蓄電池のデメリット（リスク）と言えますが、要件に適合する機器の再選定や設計のやり直しが発生すれば、系統連系のスケジュールは大幅に後ろ倒しになります",
+    "url": "https://www.q-cells.jp/blog/grid-scale-batteries/blog_260909_6/",
+    "pass": 3
+   },
+   {
+    "quote": "※１鉛蓄電池の電解液不足",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/post-116/02/shiryou1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・世界最大級の生産能力",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、年間数百GWh規模の生産能力を背景に、大規模な系統用蓄電池プロジェクトでも豊富な実績を誇ります",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、案件の急増に伴い、系統接続待ちの問題も顕在化しています",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "電力需給ひっ迫時の調整力提供や、複雑な電力取引での収益最大化を目指す場合に強みを発揮します",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "これからの環境化社会のもと各企業様のお力になれることを心待ちにいたしております",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "長納期リードタイムや生産中止等で入手困難な電子部品、ICを国内外より調達致します",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶通信の電源不足で通信が途切れてしまう",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "通信機器のバッテリーが充電不足で使用できなくなってしまう",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格：他の資料をご用意しておりました、皆様の問合せをお待ちしています！",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "自由に選択でき、セル不足を回避できます",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■短納期を実現",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■少量・短納期対応",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、東日本大震災では地震による安全装置稼働やメンテナンス不足で約3割が稼働しませんでした",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■標準納期：5日～14日",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、需要の高い製品は常時在庫しているため、納期も早いです",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンセントは10個搭載で、避難場所での容量不足を気にせず使えます",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■コンセントは10個搭載で避難場所での容量不足を気にせず使える",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "電力供給が過剰な時間帯に充電し、不足時やピーク時に放電することで購入電力を平滑化し、大幅なコスト低減へ貢献します",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンス不足による早期寿命化にはこれ！長寿命設計でメンテナンスフリーのAGM鉛蓄電池",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "管理を自動化できるため、リソース不足などで悩んでいる企業にとってメリットがあります",
+    "url": "https://wajo-holdings.jp/media/11286",
+    "pass": 3
+   },
+   {
+    "quote": "Lengthy interconnection procedures, complex permitting requirements, and grid capacity constraints can delay the deployment of utility-scale energy storage projects and increase overall project costs.",
+    "url": "https://www.imarcgroup.com/japan-energy-storage-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "German grid connection bottlenecks, maturity-based grid connection, physical tolling, impacts on German BESS market",
+    "url": "https://www.idtechex.com/en/research-report/batteries-for-stationary-energy-storage-2027-2037/1175",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "このカソードは、副反応として生成される性能を低下させるガスを大幅に抑制するため、高電圧および高出力の性能が保証されると、最近大阪で開催された日本電池シンポジウムでこの技術を発表した日本企業は主張しています",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "定置型蓄電池 市場で支配的な主要企業はどれですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "これらは既に商用化されており日本企業が先行し強みを持つ領域",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FIT制度に頼らない再エネ投資として「系統用蓄電池事業」に注目が集まるなか、「まずは主要メーカーの顔ぶれを把握したい」「世界シェアや技術力を比較して、自社に合うパートナーを見極めたい」と考えている方も多いのではないでしょうか？",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、この成長市場の中核を担う海外メーカー5社と国内メーカー5社の特徴を、個別に比較していきます",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電池の海外主要メーカー5社を比較",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の5社が、系統用蓄電池市場における海外主要メーカーです",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電池の国内主要メーカー5社を比較",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカーは、海外勢とは異なるアプローチで系統用蓄電池市場に参入しています",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "海外メーカーが「コストとスケール」で勝負するのに対し、国内メーカーは「安全性と系統運用への適合性」を武器にしているのが特徴と言えます",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカーとして、設計から保守・運用まで一貫サポート",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "※主要メーカー以外は「その他」に計上しているため、",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資規模を拡大しており、日本企業はコスト競争で劣後している状況",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらは既に商用化されており日本企業が先行し強みを持つ領域",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電池の主要メーカー",
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "・主要メーカー",
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、国内・海外を含めるとメーカー数は数十社に及び、「海外メーカーと国内メーカーでは何が違うのか？」「結局どのメーカーが自社に合っているのか？」と悩む方も多いのではないでしょうか",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場で成長した主要メーカーは、",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、国内メーカーと比較するとサポート体制や対応面で差が出る場合もあるため、日本国内では商社やEPC（設計・調達・建設）企業を介して導入されるケースが一般的です",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカーは",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックは、モーター事業で世界的に知られる日本企業ですが、近年は系統用蓄電池や再エネ関連分野にも注力しています",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカーの安心感と海外メーカーに近いコストパフォーマンスを両立",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "京セラは、太陽光発電や電子部品事業で知られる日本企業で、",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "また、安全性や品質管理を重視した設計も特徴で、国内メーカーならではの信頼性を評価する声も多くあります",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電池の市場は、2026年現在、海外メーカーによる「圧倒的なコストダウン」と、国内メーカーによる「高度な制御・安全技術」がしのぎを削る時代となっています",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "東芝や住友電工、ニデックなどの国内メーカーが安心",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電池の世界ランキング！主要メーカーの比較と価格 - GRID NAVI｜系統用蓄電池 開発・案件情報の専門メディア",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の主要メーカーより最適なセルを提案（PANASONIC, EVE, FDK...他）",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■国内メーカー・インバーター12V/24V/48V",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、自社製品の企画・開発・販売のみならず、国内メーカーへのOEM供給もしております",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（内蔵バッテリーその他部品は国内メーカー製、また多重の保護機能よる安全設計）",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■信頼性ある国内メーカー",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】系統用蓄電池メーカー一覧｜国内外の主要メーカーと選び方を解説 - チクデン｜系統用蓄電池",
+    "url": "https://battery-navi.jp/content-chikudenchi-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】系統用蓄電池メーカー一覧｜国内外の主要メーカーと選び方を解説",
+    "url": "https://battery-navi.jp/content-chikudenchi-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "海外メーカーだから避ける、国内メーカーだから安心と判断するのではなく、",
+    "url": "https://battery-navi.jp/content-chikudenchi-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、系統用蓄電池の主要メーカーや蓄電池の選び方と価格について詳しくご紹介します",
+    "url": "https://wajo-holdings.jp/media/11286",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": "蓄電所ビジネスの国内市場規模は2030年度に4,240億円程度まで拡大を予測",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "pass": 3
+   },
+   {
+    "quote": "※Powerwall 3の日本国内発売は2026年内予定です",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内において2024年3月に鹿児島県で太陽光発電併設大型蓄電池システムの火災が発生し、消防士4名が怪我をしたことから、運用面の安全対策にも注目が集まっている",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "定置用 蓄電システムの現状と課題 - 経済産業省 — 定置用 蓄電システムの現状と課題 - 経済産業省 経済産業省 PDF https://www.meti.go.jp > battery_strategy2 > shiryo06",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定置用 蓄電システム向け 蓄電池 の 市場 を調査。2045年の世界 ... — 定置用 蓄電システム向け 蓄電池 の 市場 を調査。2045年の世界 ... fkg-report.jp https://www.fkg-report.jp > market-trends",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "国民生活センターも、2021年6月3日に公表した注意喚起「家庭用蓄電池の勧誘トラブルにご注意！」で複数社の比較を勧めています",
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "pass": 3
+   },
+   {
+    "quote": "エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています",
+    "url": "https://www.enegaeru.com/industrial-bess-comparison-self-consumption-peakcut",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内市場億円": [
+   {
+    "value": "4,240",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "quote": "蓄電所ビジネスの国内市場規模は2030年度に4,240億円程度まで拡大を予測"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "127",
+    "url": "https://eco-shinrai-service.com/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E6%B1%A0%E3%83%BB%E8%93%84%E9%9B%BB%E6%89%80%E3%81%AF%E5%86%8D%E3%82%A8%E3%83%8D%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%80%8C%E4%B8%AD%E6%A0%B8%E3%80%8D%E3%80%80/",
+    "quote": "政府は2024年度補正予算で、家庭用、業務産業用、再エネ併設用蓄電システムの導入支援事業として127億円を計上"
+   },
+   {
+    "value": "346",
+    "url": "https://eco-shinrai-service.com/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E6%B1%A0%E3%83%BB%E8%93%84%E9%9B%BB%E6%89%80%E3%81%AF%E5%86%8D%E3%82%A8%E3%83%8D%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%80%8C%E4%B8%AD%E6%A0%B8%E3%80%8D%E3%80%80/",
+    "quote": "系統用蓄電システムについても、2024年度に27案件（補助金額約346億円）を交付決定した"
+   },
+   {
+    "value": "400",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "quote": "援事業として400億円を計上"
+   },
+   {
+    "value": "127",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "quote": "• 2024年度補正予算において、家庭用、業務産業用、再エネ併設用蓄電システムの導入支援事業として127億円"
+   },
+   {
+    "value": "346",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "quote": "• 系統用蓄電システムについて、27案件（補助金額約346億円相当）を交付決定"
+   },
+   {
+    "value": "5,600",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "quote": "〇新エネルギー車（NEV）補助金（約5,600億円）（2015年５月公表） ⇒2022年12月に撤廃"
+   },
+   {
+    "value": "1,000",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "quote": "◼ 蓄電池・部素材の生産基盤強化を図るため、令和３年度補正予算で1,000億円を計上し、車載用・定置"
+   },
+   {
+    "value": "3,316",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "quote": "るため、令和４年度補正予算で、3,316億円を計上"
+   },
+   {
+    "value": "5,062",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "quote": "◼ ８件合計で、事業総額は約5,062億円、助成額は最大約1,846億円"
+   },
+   {
+    "value": "1,846",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "quote": "◼ ８件合計で、事業総額は約5,062億円、助成額は最大約1,846億円"
+   },
+   {
+    "value": "3,554",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "quote": "◼ ７件合計で、事業総額は約3,554億円、助成額は最大約1,276億円"
+   },
+   {
+    "value": "1,276",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "quote": "◼ ７件合計で、事業総額は約3,554億円、助成額は最大約1,276億円"
+   },
+   {
+    "value": "150",
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "quote": "令和7年度予算案額150億円（85億円）と、"
+   },
+   {
+    "value": "85",
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "quote": "令和7年度予算案額150億円（85億円）と、"
+   },
+   {
+    "value": "3.5",
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "quote": "■投資額（概算）：約3～3.5億円"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eco-shinrai-service.com/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E6%B1%A0%E3%83%BB%E8%93%84%E9%9B%BB%E6%89%80%E3%81%AF%E5%86%8D%E3%82%A8%E3%83%8D%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%80%8C%E4%B8%AD%E6%A0%B8%E3%80%8D%E3%80%80/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ps.gs-yuasa.com/es/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2022FY/000050.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metoree.com/categories/3285/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://solarjournal.jp/goods/sansha-bat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/activities/reports/20260525.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jema-net.or.jp/stat/lib_outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/energy/atcl/19/feature/00022/051900020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/jobs/10843803/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://enemanex.jp/battery-hojokin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ess-hn.connexxsys.com/subsidy.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hojyokin-portal.jp/columns/chikudenchi_summary",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/saisei_kano/pdf/062_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shizen-hatch.net/2023/07/06/storage-battery-law/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.q-cells.jp/blog/grid-scale-batteries/blog_260909_6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enetech.co.jp/guide/grid-storage-battery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/post-116/02/shiryou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enegaeru.com/industrial-bess-comparison-self-consumption-peakcut",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://battery-navi.jp/content-chikudenchi-maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wajo-holdings.jp/media/11286",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/stationary-energy-storage-market-110450",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/battery-energy-storage-system-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-energy-storage-systems-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/en/activities/reports/20250807.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.bnef.com/insights/clean-energy/energy-storage-enters-the-100-gigawatt-era-three-things-to-know/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seia.org/news/united-states-installs-58-gwh-of-new-energy-storage-in-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/reports/batteries-and-secure-energy-transitions/executive-summary",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/sites/default/files/2025-01/BESSIE_supply-chain-battery-report_111124_OPENRELEASE_SJ_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/batteries-for-stationary-energy-storage-2027-2037/1175",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "定置用蓄電池 国内市場規模 億円",
+   "results": [
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "https://eco-shinrai-service.com/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E6%B1%A0%E3%83%BB%E8%93%84%E9%9B%BB%E6%89%80%E3%81%AF%E5%86%8D%E3%82%A8%E3%83%8D%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%80%8C%E4%B8%AD%E6%A0%B8%E3%80%8D%E3%80%80/",
+    "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "https://www.yano.co.jp/press-release/show/press_id/4006?srsltid=AYCX9vLjGdkf8R_N2SFgC_5fM0v1LWK0ZGmYZv1WZEpVUxWHqZY0ZP8X",
+    "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "https://battery-navi.jp/contents-keitouyou-chikudenchi-market-size/",
+    "https://www.renewable-ei.org/activities/reports/20250716.php",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112603819"
+   ]
+  },
+  {
+   "query": "定置用蓄電池 国内 参入企業 社",
+   "results": [
+    "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "https://ps.gs-yuasa.com/es/",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000050.pdf",
+    "https://metoree.com/categories/3285/",
+    "https://solarjournal.jp/goods/sansha-bat/",
+    "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "https://enetech.co.jp/guide/grid-storage-battery/",
+    "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "https://www.enegaeru.com/biz-lib-strategyidea"
+   ]
+  },
+  {
+   "query": "定置用蓄電池 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://ps.gs-yuasa.com/es/",
+    "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf",
+    "https://www.renewable-ei.org/activities/reports/20260525.php",
+    "https://www.jema-net.or.jp/stat/lib_outline.html",
+    "https://project.nikkeibp.co.jp/energy/atcl/19/feature/00022/051900020/",
+    "https://www.bizreach.jp/jobs/10843803/",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "https://eco-shinrai-service.com/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E6%B1%A0%E3%83%BB%E8%93%84%E9%9B%BB%E6%89%80%E3%81%AF%E5%86%8D%E3%82%A8%E3%83%8D%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%80%8C%E4%B8%AD%E6%A0%B8%E3%80%8D%E3%80%80/",
+    "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf",
+    "https://smartf-nexta.com/archives/13522"
+   ]
+  },
+  {
+   "query": "定置用蓄電池 予算 補助金 基金 2026",
+   "results": [
+    "https://enemanex.jp/battery-hojokin/",
+    "https://ess-hn.connexxsys.com/subsidy.html",
+    "https://hojyokin-portal.jp/columns/chikudenchi_summary",
+    "https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/",
+    "https://socialsolution.omron.com/jp/ja/products_service/energy/chikuden-navi/subsidy.html",
+    "http://sun-kanezawa.jp/blog/2385/",
+    "https://www.tainavi-battery.com/subsidy/",
+    "https://www.taiyoko-kakaku.jp/archives/8854.html",
+    "https://power-x.jp/ja/intl/subsidies",
+    "https://ecoda-corp.com/media/battery/battery-subsidy/"
+   ]
+  },
+  {
+   "query": "定置用蓄電池 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/saisei_kano/pdf/062_05_00.pdf",
+    "https://shizen-hatch.net/2023/07/06/storage-battery-law/",
+    "https://www.q-cells.jp/blog/grid-scale-batteries/blog_260909_6/",
+    "https://enetech.co.jp/guide/grid-storage-battery/",
+    "https://www.fdma.go.jp/singi_kento/kento/items/post-116/02/shiryou1.pdf",
+    "https://risoko.jp/useful-information/lithium-ion-battery-law-revision/",
+    "https://shikiho.toyokeizai.net/news/0/617956",
+    "https://373eco.jp/blog/2572/",
+    "https://www.renewable-ei.org/activities/reports/20260525.php",
+    "https://shoubousetsubi-works.com/column/20250430-1137/"
+   ]
+  },
+  {
+   "query": "定置用蓄電池 国内 主要企業 メーカー",
+   "results": [
+    "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "https://metoree.com/categories/3285/",
+    "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "https://ps.gs-yuasa.com/es/",
+    "https://mono.ipros.com/category/0d644aac2a8d8d9e/index.html",
+    "https://solarjournal.jp/goods/sansha-bat/",
+    "https://www.enegaeru.com/industrial-bess-comparison-self-consumption-peakcut",
+    "https://battery-navi.jp/content-chikudenchi-maker/",
+    "https://wajo-holdings.jp/media/11286",
+    "https://mirai-denchi.jp/column/storage-battery-share/"
+   ]
+  },
+  {
+   "query": "stationary energy storage battery Japan market size",
+   "results": [
+    "https://www.fortunebusinessinsights.com/stationary-energy-storage-market-110450",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/battery-energy-storage-system-market/japan",
+    "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "https://www.linkedin.com/pulse/japan-stationary-battery-storage-market-analysis-key-developments-7eb6e/",
+    "https://www.imarcgroup.com/japan-energy-storage-systems-market",
+    "https://www.renewable-ei.org/en/activities/reports/20250807.php",
+    "https://www.marketdataforecast.com/market-reports/asia-pacific-stationary-battery-storage-market",
+    "https://power-x.jp/en/investors/market-environment",
+    "https://www.iea.org/reports/batteries-and-secure-energy-transitions/executive-summary"
+   ]
+  },
+  {
+   "query": "stationary energy storage battery shortage backlog supply gap 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "https://about.bnef.com/insights/clean-energy/energy-storage-enters-the-100-gigawatt-era-three-things-to-know/",
+    "https://seia.org/news/united-states-installs-58-gwh-of-new-energy-storage-in-2025/",
+    "https://www.iea.org/reports/batteries-and-secure-energy-transitions/executive-summary",
+    "https://www.energy.gov/sites/default/files/2025-01/BESSIE_supply-chain-battery-report_111124_OPENRELEASE_SJ_1.pdf",
+    "https://www.idtechex.com/en/research-report/batteries-for-stationary-energy-storage-2027-2037/1175",
+    "https://gridlab.org/the-bess-deployment-gap-structural-barriers-in-eastern-u-s-markets/",
+    "https://www.sciencedirect.com/science/article/pii/S0921344925006226",
+    "https://www.eia.gov/todayinenergy/detail.php?id=67925",
+    "https://energyfuturesgroup.com/wp-content/uploads/2026/03/Grid_The_Storage_Gap_BBESS_Report.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1526 @@
+{
+ "name": "ペロブスカイト太陽電池",
+ "en": "perovskite solar cell",
+ "aliases": [
+  "ペロブスカイト"
+ ],
+ "context": "12 GX ①ペロブスカイト",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:29:30.093932+00:00",
+ "evidence": {
+  "国内市場規模": [
+   {
+    "quote": "軽量・フレキシブル太陽電池の国内市場、応用範囲を広げて2040年度には約5倍に成長｜SOLAR JOURNAL",
+    "url": "https://solarjournal.jp/news/61164/",
+    "pass": 3
+   },
+   {
+    "quote": "軽量・フレキシブル太陽電池の国内市場、応用範囲を広げて2040年度には約5倍に成長",
+    "url": "https://solarjournal.jp/news/61164/",
+    "pass": 3
+   },
+   {
+    "quote": "フィルム型ペロブスカイトをはじめとする軽量・フレキシブル太陽電池は、窓や壁面など多様な設置が可能で、2040年度の日本市場は449億円と、約4.9倍の成長が見込まれている",
+    "url": "https://solarjournal.jp/news/61164/",
+    "pass": 3
+   },
+   {
+    "quote": "軽量・フレキシブル太陽電池 2040年度には国内市場が5倍に",
+    "url": "https://solarjournal.jp/news/61164/",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度には国内市場が5倍に",
+    "url": "https://solarjournal.jp/news/61164/",
+    "pass": 3
+   },
+   {
+    "quote": "軽量・フレキシブル太陽電池の国内市場は、2025年度に139億円が見込まれ、40年度には449億円へと約4.9倍の拡大が予想されている",
+    "url": "https://solarjournal.jp/news/61164/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池の日本市場は、40年度には342億円規模に達すると予測され、BIPVやBAPVでの採用、さらにタンデム型の開発・量産が市場拡大のカギとなる",
+    "url": "https://solarjournal.jp/news/61164/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度の国内市場を4兆4,768億円(2025年度比149.1%)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "メリット７．日本国内で材料が調達可能",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "HISは実証実験の結果を踏まえ、最低5年の保証を付けた上での日本国内での販売を検討します",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月10日に開催された第3回会議で官民投資ロードマップの素案が示され、「2030年を待たずにGW級の量産体制を構築すること」「2040年までに国内約20GWの導入」「海外展開についても、国内需要以上の導入を野心的に目指していくこと」が確認された",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代半ば、民間投資の予見性の確保に資する国内需要創出策の継続性が十分ではな",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発電コストが 16 円/kWh に到達すると 21GW の国内需要が生まれ、さらに 10 円/kWh",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度から国内市場を立ち上げ",
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場も現状は検証・少量出荷段階ですが、積水化学工業の商用化を皮切りに、2027年度頃から他社の本格参入が始まり急拡大すると予想されています",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The perovskite solar cell market in Japan is expected to reach a projected revenue of US$ 248.0 million by 2030. A compound annual growth rate of 72.2% is expected of Japan perovskite solar cell market from 2025 to 2030.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/perovskite-solar-cell-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan market is expected to grow at a CAGR of 72.2% from 2025 to 2030.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/perovskite-solar-cell-market/japan",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "欧米や日本メーカーも積極的に開発を進めていて、今後は各国の再エネ政策や補助制度が市場成長を左右することになりそうだ",
+    "url": "https://solarjournal.jp/news/61164/",
+    "pass": 3
+   },
+   {
+    "quote": "メガソーラー対策パッケージ実現に向けて各省の「規制強化」が動き出す! 留意すべき法改正とは？",
+    "url": "https://solarjournal.jp/news/61164/",
+    "pass": 3
+   },
+   {
+    "quote": "【フジ・ホールディングス】FIP制度による太陽光発電所を稼働開始",
+    "url": "https://solarjournal.jp/news/61164/",
+    "pass": 3
+   },
+   {
+    "quote": "家計の法律クリニック",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "予測の実現は、耐久性の検証、鉛の管理に関する規制遵守、そして商業的に意味のある寸法で均一かつ認定済みのモジュールを供給するメーカーの能力に左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "EUの建築物脱炭素化義務が、規制に裏打ちされたBIPV需要の下支えを創出",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "EU主要加盟国で建築基準への指令の反映が進むことが、BIPV対応ペロブスカイトモジュールの景気循環に左右されない需要の基盤となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国国立再生可能エネルギー研究所（NREL）とCubicPVの共同研究により、認証済みペロブスカイトミニモジュールの効率は24.0%に達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "BIPVの調達は、モジュール価格だけでなく、ファサードの設計、許認可、改修スケジュール、建築物のエネルギー基準への適合によって決まることが多い",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "NRELとCubicPVの成果は技術開発が引き続き進展していることを示す一方、認証済みミニモジュールの性能と、調達規模での通常導入との隔たりも浮き彫りにしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉛の毒性による規制上および市場受容上のリスク",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制の不確実性を受け、メーカーは代替配合の準備と適合性開示を求められ、開発コストが増加するとともに、EU市場参入に向けた製品承認期間が長期化する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "現行のEU規制見直しサイクルを通じて商用PVの適用除外が維持されることが、欧州のBIPV予測の主要な前提である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "耐久性認証の不足による商業的な資金調達可能性の低下",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロール・ツー・ロール方式や蒸着プロセスを用いたペロブスカイト製造の拡大には、IEC 61215の認証試験に合格できる封止材とモジュール構造が必要である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "標準化され、融資可能性を裏付ける封止方法が商業規模で検証されるまでは、規制対象分野の調達担当者はシリコン代替品を選ぶ傾向にあり、短期的な市場浸透率が抑制される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉛の管理は、規制面と商業面の双方に関わる課題である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "確立された一連の認証試験に安定して合格できるかどうかが、メーカーが特定用途向けの導入にとどまらず、シリコン太陽電池の基準に慣れた調達担当者に受け入れられる製品を供給できるかを左右する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、融資を受ける資産として、性能の一貫性、保証範囲、規制対応が十分であることを供給企業が実証するまでは、電力事業規模の調達は選別的な姿勢が続くだろう",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池の補助金制度",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新版】デマンドレスポンス完全ガイド―仕組み・種類・参加方法・報酬・アグリゲーター・最新制度まで",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "省エネと法制度",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "特に社会実装において重要となる建物への設置施工に関する課題について法規制対応とエンドユーザーの視点から取り上げ、当社の新規事業としての参入戦略や目指すエネルギーの地産地消について詳説します",
+    "url": "https://www.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "商用化が進む電力・エネルギー分野のブロックチェーン技術2020-2021［電力トレーサビリティ／P2P取引から法規制・標準化、ビジネスモデルまで］",
+    "url": "https://sgforum.impress.co.jp/article/5883",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池の社会実装に向けては、製品の安全性確保、品質保証と認証制度の確立、製品規格の標準化、製造から廃棄・リサイクルに至るサプライチェーンの構築など、個別の企業努力だけでは解決が難しい共通課題が山積している",
+    "url": "https://sgforum.impress.co.jp/article/5883",
+    "pass": 3
+   },
+   {
+    "quote": "活動内容として、ペロブスカイト太陽電池の製品規格の作成、登録といった業務に加え、モジュールやシステム出力の認証を担う",
+    "url": "https://sgforum.impress.co.jp/article/5883",
+    "pass": 3
+   },
+   {
+    "quote": "設立初年度である今年度は幹事企業5社での活動を中心とするが、2026年12月をめどに、建設会社や施工企業を含む幅広い関連企業が参画できる法人会員制度を導入する予定である",
+    "url": "https://sgforum.impress.co.jp/article/5883",
+    "pass": 3
+   },
+   {
+    "quote": "スタートした特定計量制度! ガイドラインに見る「対象となる計量例」と「対象とならない計量例」",
+    "url": "https://sgforum.impress.co.jp/article/5883",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月にはYKK APと協業して大阪市内のビル内窓にガラス型ペロブスカイトパネルを設置し、耐風圧性能など建材基準を満たしつつ発電できることを検証し始めました（谷町YFビルでの実装検証）",
+    "url": "https://dokohatsu.jgc.com/column/post-215/",
+    "pass": 3
+   },
+   {
+    "quote": "【全３回特集】FIT/FIP制度への今後のアプローチについて３回に分けて解説します",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "省エネ法(エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律)の改正により、2026年度から「特定事業者」に対して、建物屋根への太陽光発電設備の設置目標を策定することが義務づけられることとなった",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "アプローチすべきターゲットとなる特定事業者は、資源エネルギー庁のWEBサイトにある「エネルギーの使用の合理化等に関する法律に基づく特定事業者等指定状況」で知ることができる",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "制度が後押しし、技術が追いつき、需要が高まる3つの条件がそろった屋根設置は、今後の太陽光発電市場において、最も確実性の高い成長分野といえるだろう",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度以降、低圧を含むすべての地上設置型の新規・事業用太陽光発電がFIT/FIP制度の支援対象外となる",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "メガソーラー対策パッケージ実現に向けて各省の「規制強化」が動き出す! 留意すべき法改正とは？",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "【フジ・ホールディングス】FIP制度による太陽光発電所を稼働開始",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場の属人化を防ぐには？作業と判断基準を見える化・標準化する方法（第3回）",
+    "url": "https://division.nagase.co.jp/plaplat/sustainable_solution/manufacturing-process/perovskite-solar-cell/",
+    "pass": 3
+   },
+   {
+    "quote": "② 政策による対応は、FIT制度による価格に着目した需要支援策が中心であったが、 世界市場や競争",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "予見性の確保に資する国内需要創出の面で遅れを取り、その後の余剰電力買取制度",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2009年）やFIT制度開始（2012年）後もGW級の量産体制の確立には至らず、産業",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "独のFIT制度開始後、太陽光向けシリコン価格が約10倍に急騰",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その後の政策支援は、FIT制度に",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2002 RPS制度（新エネルギー利用法） 開始",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2009 自家用太陽光発電の余剰電力買取制度 開始",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2012 FIT制度（再エネ特措法） 開始",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017 FIT制度における入札 開始",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022 FIP制度 開始",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 2012年のFIT制度開始以降、太陽光発電の導入量は大幅に拡大（平地面積当たりの導入量は主",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エネ特措法を施行",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル パネルの義務的リサイクル制度を含めた新たな制度の構築に向けて検討中 軽量・減容化に優れた特徴を活かし、最適なリサイクルシステムを確立するための検討を開始",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ FIT制度による20年間の固定価格買取によって国民負担増大",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(性能認証機関）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池の補助金一覧【最新】国や自治体の制度・条件を解説 | ソエルク",
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け 自家消費型 産業用太陽光発電の一括見積もり比較サイト｜一定の基準を満たした登録施工会社から、最大3社の提案をまとめて比較できます",
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "pass": 3
+   },
+   {
+    "quote": "> ペロブスカイト太陽電池の補助金一覧【最新】国や自治体の制度・条件を解説",
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池の補助金一覧【最新】国や自治体の制度・条件を解説",
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "pass": 3
+   },
+   {
+    "quote": "・国や自治体が実施する主要な補助金制度の全体像",
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、導入コストが課題となる中、その普及を強力に後押しするのが国や地方自治体による補助金・助成制度です",
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、企業や自治体の担当者が利用できる最新の補助金制度について、国の主要な事業から自治体独自の支援策、申請のポイントまで網羅的に解説します",
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "pass": 3
+   },
+   {
+    "quote": "【国が実施】ペロブスカイト太陽電池の主要な補助金制度を徹底解説",
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力のモニタリングと、モジュールメーカーおよび調達関係者との協議に基づき、GMIは2025年の世界のペロブスカイト太陽電池出荷量を160 MWと推定する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "耐久性認証の不足による商業的な資金調達可能性の低下",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国エネルギー省（DOE）に関連する商用化の取り組み、国内製造への優遇策、タンデム型および薄膜型の開発企業の増加を背景に、生産能力の拡大と性能実績の蓄積が進んでおり、顧客による大規模な採用を後押ししている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光用地不足による再エネ導入の鈍化の解消策になるのです",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "前述のように、日本では太陽光用地不足もあり、屋内や壁面などに使用できる従来のペロブスカイト太陽電池に対する期待が高まっています",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "世界を見ると、太陽光用地不足が日本ほど深刻ではないため、従来の太陽光用地に設置する太陽光発電の発電効率を上げる事の方が需要があると考えられているためです",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "積水化学は、ペロブスカイト太陽電池を発電容量で年約100万キロワット分の生産能力の新工場を、",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "皆様のご参加を心よりお待ちしております",
+    "url": "https://www.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足を解決するには？採用だけに頼らない「スキルを充足させる」という考え方",
+    "url": "https://division.nagase.co.jp/plaplat/sustainable_solution/manufacturing-process/perovskite-solar-cell/",
+    "pass": 3
+   },
+   {
+    "quote": "（参考）シリコン太陽電池生産能力上位15工場",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ シリコン太陽電池では、年間10GW以上の生産能力を有する工場も多く存在している",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 生産能力(GW/年)",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力 100MW※建設中 約100MW※建設予定",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "応募時点で製品供給、調達手続、施工時期、予算化のボトルネックを洗い出します",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "60点未満は、技術可能性を否定するのではなく、量産・規格・施工網の成熟を待ちながら限定用途を探す探索群としました",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "耐震・防水改修が先、需要不足、予算・調達が2年を超える",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "運行・保安基準を満たす根拠不足、保守交換が運用を阻害",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "提案時の第一資料は製品カタログではなく、①候補面の写真・図面、②従来型PVが困難な根拠、③時間帯別需要、④関係者と承認工程、⑤不足データと取得方法を一枚にした「案件成立性メモ」が有効です",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "検証KPIは、①共通入力項目の再利用率、②1施設当たりの整理時間、③不足情報の解消率、④専門家レビュー後の順位変動、⑤通常PV／PSC／混成／設置なしの判定比率、⑥意思決定までの日数、⑦継続評価の担当・予算・運用方法の確定、⑧導入後データ提供の同意率です",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "同様に屋根の耐荷重が足りないケースとして、学校などの体育館の屋根がある",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "背景には、日本の太陽光発電における「土地不足」という現実的な課題があります",
+    "url": "https://ecoact.co.jp/solar-ch/%E5%B7%A5%E5%A0%B4%E3%82%84%E5%BA%97%E8%88%97%E3%81%AB%E5%A4%AA%E9%99%BD%E5%85%89%E8%A8%AD%E7%BD%AE%E7%9B%AE%E6%A8%99%E3%81%AE%E7%AD%96%E5%AE%9A%E3%82%92%E7%BE%A9%E5%8B%99%E5%8C%96%E3%81%B8%EF%BD%9E/",
+    "pass": 3
+   },
+   {
+    "quote": "5年以内に生産能力を2倍の年間440トンに増やす",
+    "url": "https://www.nomura.co.jp/wealthstyle/article/0455/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年では生産能力10MW/年のパイロット設備で量産化検討中",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力を拡大中",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "圧倒的なグローバル供給能力と価格支配力を保有",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "確立された太陽光発電製造エコシステム、生産ラインを展開する能力、実証プロジェクトを支援する姿勢により、国内メーカーはペロブスカイトの開発成果を量産供給へとつなげるうえで構造的な優位性を持つ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場の主要企業には、Microquanta Semiconductor、Saule Technologies、GCL Optoelectronic Materials、Utmolight、Oxford PVなどが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカー・研究機関の開発動向",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "海外メーカーと国内メーカーの市場競争",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカーの開発動向",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "中国主要メーカーの動向一覧",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "この表の大きな特徴として、上位10社には中国企業が含まれていない一方で、日本企業が多数を占めている点が挙げられます",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業と中国企業の動向",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の動向",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカーと海外メーカーのどちらが",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "世界における開発や商品化の現状や、国内メーカーの取り組み、",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外主要企業の取り組みとロードマップ アプリケーション（応用製品）の開発動向",
+    "url": "https://www.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "DC Power Vil.代表取締役社長 村 文夫氏に聞く! ：加速するAIと「低圧直流」の波 ―OCP・NVIDIAが描く2028年の未来像と日本企業の勝ち筋",
+    "url": "https://sgforum.impress.co.jp/article/5883",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光パネルの価格低減・汎用化が進み、事業の選択と集中を進める中で、日本企業の多く",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業も、中国国内で、同国の太陽光パネルメーカーに製造委託を進めた",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DC Power Vil.代表取締役社長 村 文夫氏に聞く! ：加速するAIと「低圧直流」の波 ―OCP・NVIDIAが描く2028年の未来像と日本企業の勝ち筋",
+    "url": "https://sgforum.impress.co.jp/article/5893",
+    "pass": 3
+   },
+   {
+    "quote": "【一覧表】ペロブスカイト太陽電池 主要メーカーの開発・量産状況（2026年）",
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカー",
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池メーカー一覧23社｜国内外の主要企業・市場動向・関連銘柄 | けむさん 化学情報センター",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池メーカー一覧23社｜国内外の主要企業・市場動向・関連銘柄",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、ペロブスカイト太陽電池の国内外主要メーカー23社の",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は中国企業と直接競合しない事業戦略を練っています",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池の普及に伴い、セルメーカーだけでなく「原材料」「透明基板」「製造装置」を手がける日本企業にも大きなビジネスチャンスが生まれています",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "リチウムイオン電池の「正極材」の種類・特徴・主要メーカー",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "高純度フッ化水素メーカーの世界シェアとランキング｜日本企業が強い",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】ペロブスカイト太陽電池の企業ランキング！注目の日本企業や各社の実用化・開発状況を徹底解説 - trend news blog",
+    "url": "https://tkm03031414.hatenablog.com/entry/20260908/1788830183",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】ペロブスカイト太陽電池の企業ランキング！注目の日本企業や各社の実用化・開発状況を徹底解説",
+    "url": "https://tkm03031414.hatenablog.com/entry/20260908/1788830183",
+    "pass": 3
+   },
+   {
+    "quote": "そんなペロブスカイト太陽電池の開発で、特に注目されているのが日本企業です",
+    "url": "https://tkm03031414.hatenablog.com/entry/20260908/1788830183",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、2026年時点の最新情報をもとに、ペロブスカイト太陽電池に取り組む注目の日本企業をランキング形式で紹介します",
+    "url": "https://tkm03031414.hatenablog.com/entry/20260908/1788830183",
+    "pass": 3
+   },
+   {
+    "quote": "として、注目度の高い日本企業を10社紹介します",
+    "url": "https://tkm03031414.hatenablog.com/entry/20260908/1788830183",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 国内メーカー一覧｜積水化学・パナソニック・東芝など",
+    "url": "https://perovskitesolarcell.info/manufacturers/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカー一覧",
+    "url": "https://perovskitesolarcell.info/manufacturers/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 国内メーカー一覧",
+    "url": "https://perovskitesolarcell.info/manufacturers/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "積水化学・パナソニック・東芝など主要企業の動向",
+    "url": "https://perovskitesolarcell.info/manufacturers/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカー",
+    "url": "https://perovskitesolarcell.info/manufacturers/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本はペロブスカイト太陽電池の発明国として、国内主要メーカーが世界トップレベルの開発を進めています",
+    "url": "https://perovskitesolarcell.info/manufacturers/japan/",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "2025年にはNEDO「グリーンイノベーション基金」最終フェーズに採択され、量産技術と社会実装に向けたコンソーシアム体制での推進を強めています",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、NEDOグリーンイノベーション基金の採択を受けて、建材として機能するペロブスカイト太陽電池の量産技術と実証実験を強化しています",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度脱炭素成長型経済構造移行推進対策費補助金",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度二酸化炭素排出抑制対策事業費等補助金（民間企業等による再エネの導入及び地域共生加速化事業）",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新】系統用蓄電池とは？補助金と投資メリット",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にはNEDOのGI基金実証事業に採択され、ロール・ツー・ロール方式を導入した量産技術開発に着手しました",
+    "url": "https://dokohatsu.jgc.com/column/post-215/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にはAGC（ガラスメーカー）やパナソニック環境エンジニアリングとコンソーシアムを組み、NEDOのGI基金事業に採択された「ガラス型ペロブスカイト太陽電池の量産技術開発とフィールド実証」プロジェクトを開始しました",
+    "url": "https://dokohatsu.jgc.com/column/post-215/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月には大和ハウス工業、NTTアノードエナジーとコンソーシアム組成し、GI基金に採択されています",
+    "url": "https://dokohatsu.jgc.com/column/post-215/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月10日に開催された第3回会議で官民投資ロードマップの素案が示され、「2030年を待たずにGW級の量産体制を構築すること」「2040年までに国内約20GWの導入」「海外展開についても、国内需要以上の導入を野心的に目指していくこと」が確認された",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2026年度より3年間、GI基金の採択事業者の生産品に対する固定資産税の課税特例を重点化",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "経産省、FIT・FIP認定55件を取り消し 交付金返還命令を初適用",
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 環境技術普及促進協会では、令和7年度 脱炭素成長型経済構造移行推進対策費補助金（ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業）について、令和7年12月15日から令和8年1月5日まで公募を行い、応募のあった事業について厳正な審査を行った結果、以下の団体が実施する事業を採択することとしましたのでお知らせいたします",
+    "url": "https://www.eta.or.jp/offering/2025/psc/index.php",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 環境技術普及促進協会では、令和7年度 脱炭素成長型経済構造移行推進対策費補助金（ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業）について、補助事業の公募を行います",
+    "url": "https://www.eta.or.jp/offering/2025/psc/index.php",
+    "pass": 3
+   },
+   {
+    "quote": "・A-1 交付申請書",
+    "url": "https://www.eta.or.jp/offering/2025/psc/index.php",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 環境技術普及促進協会では、令和7年度 脱炭素成長型経済構造移行推進対策費補助金（ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業）について、令和7年10月23日から令和7年11月14日まで公募を行い、応募のあった事業について厳正な審査を行った結果、以下の団体が実施する事業を採択することとしましたのでお知らせいたします",
+    "url": "https://www.eta.or.jp/offering/2025/psc/index.php",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 環境技術普及促進協会では、令和7年度 脱炭素成長型経済構造移行推進対策費補助金（ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業）について、令和7年9月4日から令和7年10月3日まで公募を行い、応募のあった事業について厳正な審査を行った結果、以下の団体が実施する事業を採択することとしましたのでお知らせいたします",
+    "url": "https://www.eta.or.jp/offering/2025/psc/index.php",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素成長型経済構造移行推進対策費補助金（ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業）の間接補助事業者の公募開始については、令和7年秋頃を予定しています",
+    "url": "https://www.eta.or.jp/offering/2025/psc/index.php",
+    "pass": 3
+   },
+   {
+    "quote": "1994年から、住宅用太陽光発電向け補助金を開始",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "間投資がなされず、2005年の住宅用太陽光発電への補助金の終了も相まって、民間の投資",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かった（2005年住宅用太陽光発電への補助金の終了 ）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1994 住宅用太陽光発電向け補助金 開始",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005 住宅用太陽光発電向け補助金 終了",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2013 住宅用太陽光発電向け補助金 終了",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合計 20.4万円/kW「次世代型太陽電池の導入拡大及び産業競争力強化に向けた官民協議会」に参画するメー",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助率は最大3/4！具体的な補助金額と上限をチェック",
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金申請で失敗しないための3つのポイントと手続きの流れ",
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業 | 2026年（令和8年）省エネ・省CO2補助金 | ゼロエネルギー支援",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年補助金",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 災害時に備えた社会的重要インフラへの自衛的燃料備蓄の推進事業費補助金（LPガスタンク/GHP他）",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年ZEB関連補助金",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年（令和8年）省エネ・省CO2補助金",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度（予算案）：70億円",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "省エネ･省CO2補助金の最新情報を月1,2配信中！",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年（令和8年）ZEB関連補助金",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年（令和7年）省エネ・省CO2補助金",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年（令和7年）ZEB関連補助金",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年（令和6年度）省エネ・省CO2補助金",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池補助金2026｜9/10補助・設置判断 - エネがえる",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池補助金2026｜9/10補助・設置判断",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "住宅・産業用太陽光、蓄電池、EV・V2H、PPA、電力料金・補助金の経済効果を扱い、SaaS・API・BPOによる比較提案・導入判断を支援しています",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "本稿は、経済産業省の官民協議会第10回会合の全9資料、環境省の公募要領、NEDO/AISTの設計・施工ガイドライン等を横断し、どこまでが公式事実で、どこからが公開資料に基づく独自分析かを分けて示します",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "図面・製品供給時期・予算化・調達工程のいずれかが未確認で、2028年度までの実装見通しを説明できない施設",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "10. 自治体施策は「補助金一覧」ではなく、需要形成の仕組みとして読む",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Q11. 補助金申請から構造判定まで一括して任せられますか？",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「次世代型太陽電池の導入拡大及び産業競争力強化に向けた官民協議会」第10回会合は、2040年に国内で約20GW導入という目標を改めて示しています",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "資金面では、事務局資料が2021年度以降のグリーンイノベーション基金による研究開発を1,051億円、2026年度の社会実装支援を70億円、インフラ特化型の研究開発支援拡充を約250億円として整理しています",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "支援事業（令和８年度予算）",
+    "url": "https://www.env.go.jp/earth/post_94.html",
+    "pass": 3
+   },
+   {
+    "quote": "支援事業（令和７年度予算）",
+    "url": "https://www.env.go.jp/earth/post_94.html",
+    "pass": 3
+   },
+   {
+    "quote": "1GW 級の生産ライン の建設 にかかる投資額",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "政府が主導する官民協議会は 2025 年度末までに、ペロブスカイト太陽電池を含む「フレ",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 次世代型太陽電池の導入拡大及び産業競争力強化に向けた官民協議会（172自治体参加）において、「次世代型太",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ GI基金を活用し、2025年20円",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ また、2030年度に年間製造能力200～300MW以上の量産構想を有した3社が、GI基金を活用した研究開発を進め、追従",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ また、令和８年度予算として、導入計画策定支援とあわせ総額70億円を計上",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 東京都でも、2040年に約２GWの導入目標に向けたロードマップを策定し、独自の支援策を今年度から実施",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20自治体で次世代型太陽電池の導入に関わる予算措置等の取組がな",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 東京都では、独自の支援策を実施するとともに、2040年に２GWの導入目標に向けたロードマップを策定",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（リンク）官民協議会参加の地方公共団体における次世代型太陽電池の施策集（参考２）官民協議会参加自治体の取組・・・・",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】太陽光発電の補助金・助成金まとめ｜令和8年度の国・自治体制度",
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】太陽光発電の補助金は国からもらえる？今使える制度と自治体一覧",
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ペロブスカイト太陽電池 、前年比2倍超に 世界の 市場規模 — ペロブスカイト太陽電池 、前年比2倍超に 世界の 市場規模 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 の 市場 を調査。2040年の世界 市場 を3 ... — ペロブスカイト太陽電池 の 市場 を調査。2040年の世界 市場 を3 ... fkg-report.jp https://www.fkg-report.jp > market-trends",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場 サイズとシェア 2026-2035 — ペロブスカイト太陽電池市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > perovskite-solar-cells-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... — 【2025年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... 株式会社エネテク https://enetech.co.jp > guide > perovskite-solar-cells",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 メーカー7 社 - Metoree — ペロブスカイト太陽電池 メーカー7 社 - Metoree Metoree https://metoree.com > 電源",
+    "url": "https://metoree.com/categories/9402/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 - メーカー・ 企業 4 社 の製品一覧と ... — ペロブスカイト太陽電池 - メーカー・ 企業 4 社 の製品一覧と ... 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > 電池 > 太陽電池",
+    "url": "https://www.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "積水・パナら ペロブスカイト メーカー5 社 が新団体、規格策定 ... — 積水・パナら ペロブスカイト メーカー5 社 が新団体、規格策定 ... スマートグリッドフォーラム https://sgforum.impress.co.jp > article",
+    "url": "https://sgforum.impress.co.jp/article/5883",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】 ペロブスカイト太陽電池 メーカー一覧と実用化 ... — 【2026】 ペロブスカイト太陽電池 メーカー一覧と実用化 ... bright-co-ltd.com https://bright-co-ltd.com > ホーム > 太陽光発電一覧",
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年 ペロブスカイト太陽電池 の社会実装モデルの創出に ... — 2026 年 ペロブスカイト太陽電池 の社会実装モデルの創出に ... ゼロエネルギー支援 https://zero-energy.jp > perovskite-solar",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池補助金2026 ｜9/10補助・設置判断 — ペロブスカイト太陽電池補助金2026 ｜9/10補助・設置判断 エネがえる https://www.enegaeru.com > 電気料金・FIT・補助金",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 の導入支援 - 環境省 — ペロブスカイト太陽電池 の導入支援 - 環境省 環境省 https://www.env.go.jp > earth > post_94",
+    "url": "https://www.env.go.jp/earth/post_94.html",
+    "pass": 3
+   },
+   {
+    "quote": "① ペロブスカイト 設備導入事業 | 公募情報 — ① ペロブスカイト 設備導入事業 | 公募情報 一般社団法人 環境技術普及促進協会 https://www.eta.or.jp > offering > 2026 > psc",
+    "url": "https://www.eta.or.jp/offering/2026/psc/index.php",
+    "pass": 3
+   },
+   {
+    "quote": "政府が ペロブスカイト 普及へ 規制 緩和、2026年度中に措置 — 政府が ペロブスカイト 普及へ 規制 緩和、2026年度中に措置 スマートグリッドフォーラム https://sgforum.impress.co.jp > article",
+    "url": "https://sgforum.impress.co.jp/article/5893",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 メーカー 7社 - Metoree — ペロブスカイト太陽電池 メーカー 7社 - Metoree Metoree https://metoree.com > 電源",
+    "url": "https://metoree.com/categories/9402/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】 ペロブスカイト太陽電池メーカー 一覧と実用化 ... — 【2026】 ペロブスカイト太陽電池メーカー 一覧と実用化 ... bright-co-ltd.com https://bright-co-ltd.com > ホーム > 太陽光発電一覧",
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "積水・パナら ペロブスカイトメーカー 5社が新団体、規格策定 ... — 積水・パナら ペロブスカイトメーカー 5社が新団体、規格策定 ... スマートグリッドフォーラム https://sgforum.impress.co.jp > article",
+    "url": "https://sgforum.impress.co.jp/article/5883",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 - メーカー ・ 企業 4社の製品一覧と ... — ペロブスカイト太陽電池 - メーカー ・ 企業 4社の製品一覧と ... 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > 電池 > 太陽電池",
+    "url": "https://www.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cells Market Size , Share and Forecast 2034 — Perovskite Solar Cells Market Size , Share and Forecast 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Perovskite Solar Cell Market Outlook, 2030 — Japan Perovskite Solar Cell Market Outlook, 2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/perovskite-solar-cell-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size, Share & 2031 Growth ... — Perovskite Solar Cell Market Size, Share & 2031 Growth ... Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cells Market Size, Share and Forecast 2034 — Perovskite Solar Cells Market Size, Share and Forecast 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "pass": 3
+   },
+   {
+    "quote": "中国にはペロブスカイト太陽電池を作るメーカーが100社以上、研究者は10万人以上いると言われています（",
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内市場億円": [
+   {
+    "value": "449",
+    "url": "https://solarjournal.jp/news/61164/",
+    "quote": "フィルム型ペロブスカイトをはじめとする軽量・フレキシブル太陽電池は、窓や壁面など多様な設置が可能で、2040年度の日本市場は449億円と、約4.9倍の成長が見込まれている"
+   },
+   {
+    "value": "139",
+    "url": "https://solarjournal.jp/news/61164/",
+    "quote": "軽量・フレキシブル太陽電池の国内市場は、2025年度に139億円が見込まれ、40年度には449億円へと約4.9倍の拡大が予想されている"
+   },
+   {
+    "value": "342",
+    "url": "https://solarjournal.jp/news/61164/",
+    "quote": "ペロブスカイト太陽電池の日本市場は、40年度には342億円規模に達すると予測され、BIPVやBAPVでの採用、さらにタンデム型の開発・量産が市場拡大のカギとなる"
+   },
+   {
+    "value": "4,768",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "quote": "2030年度の国内市場を4兆4,768億円(2025年度比149.1%)と推計"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "70",
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "quote": "令和8年度（予算案）：70億円"
+   },
+   {
+    "value": "1,051",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "quote": "資金面では、事務局資料が2021年度以降のグリーンイノベーション基金による研究開発を1,051億円、2026年度の社会実装支援を70億円、インフラ特化型の研究開発支援拡充を約250億円として整理しています"
+   },
+   {
+    "value": "70",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "quote": "資金面では、事務局資料が2021年度以降のグリーンイノベーション基金による研究開発を1,051億円、2026年度の社会実装支援を70億円、インフラ特化型の研究開発支援拡充を約250億円として整理しています"
+   },
+   {
+    "value": "250",
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "quote": "資金面では、事務局資料が2021年度以降のグリーンイノベーション基金による研究開発を1,051億円、2026年度の社会実装支援を70億円、インフラ特化型の研究開発支援拡充を約250億円として整理しています"
+   },
+   {
+    "value": "70",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "quote": "⚫ また、令和８年度予算として、導入計画策定支援とあわせ総額70億円を計上"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://solarjournal.jp/news/61164/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9402/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sgforum.impress.co.jp/article/5883",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dokohatsu.jgc.com/column/post-215/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sol.kepco.jp/useful/taiyoko/w/peropusukaito/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://solarjournal.jp/renewable/66930/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eta.or.jp/offering/2025/psc/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/ondanka/psc-project-main.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://division.nagase.co.jp/plaplat/sustainable_solution/manufacturing-process/perovskite-solar-cell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://panerou.com/helpful_information/news/21953/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/columns/perovskite-solar-hojokin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/earth/post_94.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sgforum.impress.co.jp/article/5893",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wajohd/n/ne9d4bd2dc8cf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ecoact.co.jp/solar-ch/%E5%B7%A5%E5%A0%B4%E3%82%84%E5%BA%97%E8%88%97%E3%81%AB%E5%A4%AA%E9%99%BD%E5%85%89%E8%A8%AD%E7%BD%AE%E7%9B%AE%E6%A8%99%E3%81%AE%E7%AD%96%E5%AE%9A%E3%82%92%E7%BE%A9%E5%8B%99%E5%8C%96%E3%81%B8%EF%BD%9E/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/wealthstyle/article/0455/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chem-3.com/perovskite-solar-cells-related-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tkm03031414.hatenablog.com/entry/20260908/1788830183",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://perovskitesolarcell.info/manufacturers/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-perovskite-solar-cell-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/horizon/outlook/perovskite-solar-cell-market/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/perovskite-solar-cell-market-253842189.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seia.org/research-resources/solar-market-insight-report-q2-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infinitypv.com/news/why-emerging-solar-cells-struggle-to-scale-new-data-uncovers-the-missing-link-between-solar-research-and-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12804561/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/cmei/systems/quarterly-solar-industry-update",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ペロブスカイト太陽電池 国内市場規模 億円",
+   "results": [
+    "https://solarjournal.jp/news/61164/",
+    "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/20241128_1.pdf",
+    "https://www.imarcgroup.com/report/ja/japan-perovskite-solar-cell-market",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "https://www.perovskitesolarcell.info/market/size/",
+    "https://tcnc.jp/tech_journal/2026_perovskite.pdf"
+   ]
+  },
+  {
+   "query": "ペロブスカイト太陽電池 国内 参入企業 社",
+   "results": [
+    "https://metoree.com/categories/9402/",
+    "https://www.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/",
+    "https://sgforum.impress.co.jp/article/5883",
+    "https://dokohatsu.jgc.com/column/post-215/",
+    "https://sol.kepco.jp/useful/taiyoko/w/peropusukaito/",
+    "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "https://www.nomura.co.jp/wealthstyle/article/0455/",
+    "https://enecoat.com/"
+   ]
+  },
+  {
+   "query": "ペロブスカイト太陽電池 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://solarjournal.jp/renewable/66930/",
+    "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "https://www.eta.or.jp/offering/2025/psc/index.php",
+    "https://www.pref.aichi.jp/soshiki/ondanka/psc-project-main.html",
+    "https://division.nagase.co.jp/plaplat/sustainable_solution/manufacturing-process/perovskite-solar-cell",
+    "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "https://denryoku-mitsumori.com/column/column-33/",
+    "https://tm-co.co.jp/glossary/development-trends-in-perovskite-solar-cells-and-japan-s-inve/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/680/"
+   ]
+  },
+  {
+   "query": "ペロブスカイト太陽電池 予算 補助金 基金 2026",
+   "results": [
+    "https://panerou.com/helpful_information/news/21953/",
+    "https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/",
+    "https://hojyokin-portal.jp/columns/perovskite-solar-hojokin",
+    "https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026",
+    "https://www.env.go.jp/earth/post_94.html",
+    "https://www.eta.or.jp/offering/2026/psc/index.php",
+    "https://bright-co-ltd.com/solar-media/solar/about-perovskites/",
+    "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%80%812027%E5%B9%B4%E5%BA%A6%E3%81%AB%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E6%94%AF%E6%8F%B4%E3%82%92%E7%B4%84280/",
+    "https://solartechlife.jp/news20260715/"
+   ]
+  },
+  {
+   "query": "ペロブスカイト太陽電池 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://sgforum.impress.co.jp/article/5893",
+    "https://note.com/wajohd/n/ne9d4bd2dc8cf",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf",
+    "https://www.meti.go.jp/shingikai/energy_environment/regional_symbiosis/pdf/g_001_11_01.pdf",
+    "https://ecoact.co.jp/solar-ch/%E5%B7%A5%E5%A0%B4%E3%82%84%E5%BA%97%E8%88%97%E3%81%AB%E5%A4%AA%E9%99%BD%E5%85%89%E8%A8%AD%E7%BD%AE%E7%9B%AE%E6%A8%99%E3%81%AE%E7%AD%96%E5%AE%9A%E3%82%92%E7%BE%A9%E5%8B%99%E5%8C%96%E3%81%B8%EF%BD%9E/",
+    "https://www.youtube.com/watch?v=O9yseWwF_IM",
+    "https://www.jpea.gr.jp/wp-content/uploads/sw2025_sympo42_s1_doc1.pdf",
+    "https://www.eta.or.jp/offering/2025/psc/index.php",
+    "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E3%80%81%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E6%99%AE%E5%8F%8A%E3%81%AB%E5%90%91%E3%81%91bipv/"
+   ]
+  },
+  {
+   "query": "ペロブスカイト太陽電池 国内 主要企業 メーカー",
+   "results": [
+    "https://metoree.com/categories/9402/",
+    "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "https://sgforum.impress.co.jp/article/5883",
+    "https://dokohatsu.jgc.com/column/post-215/",
+    "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf",
+    "https://www.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/",
+    "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "https://sol.kepco.jp/useful/taiyoko/w/peropusukaito/",
+    "https://www.nomura.co.jp/wealthstyle/article/0455/",
+    "https://chem-3.com/perovskite-solar-cells-related-companies/"
+   ]
+  },
+  {
+   "query": "perovskite solar cell Japan market size",
+   "results": [
+    "https://www.imarcgroup.com/japan-perovskite-solar-cell-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "https://www.grandviewresearch.com/horizon/outlook/perovskite-solar-cell-market/japan",
+    "https://www.marketsandmarkets.com/Market-Reports/perovskite-solar-cell-market-253842189.html",
+    "https://www.gminsights.com/industry-analysis/perovskite-market",
+    "https://www.linkedin.com/pulse/japan-perovskite-solar-cell-module-professional-market-a9e7f",
+    "https://www.enecho.meti.go.jp/en/category/special/article/detail_195.html",
+    "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "https://ratedpower.com/blog/ultra-thin-perovskite/",
+    "https://www.morganreedinsights.com/japan-perovskite-solar-cell-market/"
+   ]
+  },
+  {
+   "query": "perovskite solar cell shortage backlog supply gap 2025",
+   "results": [
+    "https://seia.org/research-resources/solar-market-insight-report-q2-2025/",
+    "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "https://www.infinitypv.com/news/why-emerging-solar-cells-struggle-to-scale-new-data-uncovers-the-missing-link-between-solar-research-and-industry",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12804561/",
+    "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "https://www.youtube.com/watch?v=FffKMMnisu4&vl=ja",
+    "https://www.energy.gov/cmei/systems/quarterly-solar-industry-update",
+    "https://market.us/report/perovskite-solar-cells-module-market/",
+    "https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/afieldfile/2024/08/13/2407_t_zhao_e.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S0038092X24009009"
+   ]
+  }
+ ],
+ "missing": {}
+}

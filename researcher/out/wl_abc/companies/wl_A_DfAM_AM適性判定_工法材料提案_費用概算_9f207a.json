@@ -1,0 +1,834 @@
+{
+ "name": "wl-A DfAM（AM適性判定・工法材料提案・費用概算）",
+ "en": "additive manufacturing part feasibility and cost estimation software",
+ "aliases": [
+  "AM part identification",
+  "printability analysis",
+  "DfAM software",
+  "3D printing cost estimation",
+  "AM business case software",
+  "design for additive manufacturing",
+  "AM適性判定",
+  "DfAM"
+ ],
+ "context": "wl-A DfAM",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:17:46.222524+00:00",
+ "evidence": {
+  "黒字・収益性": [
+   {
+    "quote": "Oqton’s powerful production platform with CASTOR’s analysis tools will help drive contract manufacturers to profitable additive projects",
+    "url": "https://oqton.com/oqton-announces-strategic-partnership-with-castor/",
+    "pass": 3
+   },
+   {
+    "quote": "“We’re excited to partner with Oqton to provide a complete end-to-end solution for additive manufacturing,” said Omer Blaier, CEO of CASTOR. “Together, our solution enables companies to scale their 3D printing operations allowing them to automatically identify new business cases and drive profitable growth.”",
+    "url": "https://oqton.com/oqton-announces-strategic-partnership-with-castor/",
+    "pass": 3
+   },
+   {
+    "quote": "Digitalization will be next, and Spare Parts 3D will complete a digital inventory that shows the optimal production parameters for the chosen parts. Once the company completes quality tests and checks on the final printed parts, it will move on to the Profitability Analysis, and compare the costs of 3D printing spare parts vs. producing them by traditional means.",
+    "url": "https://3dprint.com/191516/spare-parts-3d-feasibility-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing.",
+    "url": "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies can further increase profit by running repeat orders. The ability to use invested planning for running and tracing a repeat order boosts your margins significantly.",
+    "url": "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "No public EBITDA or audited profitability metrics are disclosed",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Assess available profitability, financial resilience, and operating-performance evidence for the vendor without inventing non-public financial metrics.",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "As a private company, no audited EBITDA, margin, or cash-flow metrics are publicly available",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   }
+  ],
+  "提供企業": [
+   {
+    "quote": "Desktop Metal Zone",
+    "url": "https://3dprint.com/191516/spare-parts-3d-feasibility-study/",
+    "pass": 3
+   },
+   {
+    "quote": "If Electrolux uses 3D printing to produce on-demand parts, it will work with a network of 3D printing service providers, like Spare Parts 3D, to make the parts near the actual demand points, to make both rapid shipment and no physical inventory warehousing possible at once.",
+    "url": "https://3dprint.com/191516/spare-parts-3d-feasibility-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Discuss this story and other 3D printing topics at",
+    "url": "https://3dprint.com/191516/spare-parts-3d-feasibility-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay up-to-date on all the latest news from the 3D printing industry and receive information and offers from third party vendors.",
+    "url": "https://3dprint.com/191516/spare-parts-3d-feasibility-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop 3D Printer Buyer’s Guide",
+    "url": "https://3dprint.com/191516/spare-parts-3d-feasibility-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimizing the process, predictive maintenance and detecting failures are the obvious applications, and those are areas where we and our competitors are working.",
+    "url": "https://www.machinedesign.com/3d-printing-cad/video/55411867/hp-how-ai-automation-and-design-could-expand-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "The top stories, industry insights and relevant research, assembled by our editors and delivered to your inbox.",
+    "url": "https://www.machinedesign.com/3d-printing-cad/video/55411867/hp-how-ai-automation-and-design-could-expand-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "announce-top",
+    "url": "https://jsde.or.jp/wp/dfamcd2026/",
+    "pass": 3
+   },
+   {
+    "quote": "講演2 nTopのご紹介AMとnTopで実現する製品の新しい可能性",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のCADソフトなどでは困難であった複雑な形状設計を容易に行うことができるソフトウェア nTop についてご紹介いたします",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "講演3 DfAMのための造形データ準備 (ラティス設計、Magics-nTop連携等）",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "本講演では、マテリアライズソフトウェアを用いたラティスの設計や、nTopデータをMaterialise Magicsで直接処理し、メッシュ問題を回避する事例をご紹介します",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "Part Identification, formerly known as Additive Manufacturing Part Identifier (AMPI), helps enterprises analyze their part inventory for 3D printing opportunities. It can handle a large-scale, top-down inventory analysis (hundreds or thousands of parts at once) or a more focused, bottom-up screening of individual use cases.",
+    "url": "https://www.3yourmind.com/news/frequently-asked-questions-about-3yourmind-software",
+    "pass": 3
+   },
+   {
+    "quote": "News Topics",
+    "url": "https://www.3yourmind.com/news/frequently-asked-questions-about-3yourmind-software",
+    "pass": 3
+   },
+   {
+    "quote": "alternatives",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Review volume remains modest versus mass-market MES vendors, limiting statistical confidence",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "For service providers: build trust and grow visibility.",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with top 3D Printing Workflow Software solutions and streamline your procurement process.",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "For Service Providers",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Absolutely. Oqton’s cloud-based solution can be scaled to meet the needs of organizations of any size. There are many desktop software product bundles available to scale depending on your usage. For more information, please",
+    "url": "https://oqton.com/aerospace/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "3D Printing Financials: 6K Additive’s Orders Surge as Revenue Climbs 61%",
+    "url": "https://3dprint.com/191516/spare-parts-3d-feasibility-study/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive (ASX: 6KA) reported higher revenue and a record order backlog in its latest quarterly results, as growing demand for metal powders continues to push the company to expand...",
+    "url": "https://3dprint.com/191516/spare-parts-3d-feasibility-study/",
+    "pass": 3
+   },
+   {
+    "quote": "You order the part through the customer portal of the Manufacturing OS. The platform’s Digital Catalogue of parts makes it easy to manage a part inventory and capacity, and schedule production orders. After the order has been placed, the Manufacturing OS connects you to 3DXpert where you can carry out build preparation and send the files to print.",
+    "url": "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ", global additive manufacturing revenues reached US$24.2 billion in 2025, up 10.9% from the previous year. Printing services grew 15.5%, outpacing sales of systems and servicing, which rose 3.6%.",
+    "url": "https://www.machinedesign.com/3d-printing-cad/video/55411867/hp-how-ai-automation-and-design-could-expand-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Business is booming at Ohio-based Everyday Technologies, with revenue projected to grow 50% this year. But rapid growth...",
+    "url": "https://www.thefabricator.com/additivereport/article/additive/to-3d-print-or-not-to-3d-print-software-identifies-parts-for-am-1",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Companies can further increase profit by running repeat orders. The ability to use invested planning for running and tracing a repeat order boosts your margins significantly.",
+    "url": "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The ability to seamlessly transition between various stages of the workflow removes a lot of common snags in printing. You can instantaneously know if there is a good business case for printing, polish the design, and start printing on the same day. The result is a simple and smooth AM workflow that any organization can adopt.",
+    "url": "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributed Manufacturing caters to both internal production facilities and contracted on-demand manufacturing services, ensuring smooth operations and high-quality output across various production environments.",
+    "url": "https://www.3yourmind.com/news/frequently-asked-questions-about-3yourmind-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing is custom and quote-based. Third-party directories cite roughly €10,000/user/year or about $10,000 annually as a starting estimate, but official SKUs are not published and enterprise packages vary by modules and sites.",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Build-prep depth varies by connected third-party tool rather than a single native nest/orient suite",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Depth of sensor-level build telemetry varies by connected machine ecosystem",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "The depth of automated pricing, cost estimation, and approval support for additive jobs with varying materials, processes, and service levels.",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Realized payback varies heavily with inventory quality, AM maturity, and integration scope",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "As a private company, no audited EBITDA, margin, or cash-flow metrics are publicly available",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Join the partner program",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "日本語では「付加製造のための設計」と訳されますが、実態としては「AMを使うために図面を書き直す」という受動的なものではありません",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/what-is-dfam",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターのコスト試算は簡単！JAMPTの無料自動見積りサービスでAM導入を加速 | 日本積層造形株式会社",
+    "url": "https://jampt.jp/column/am-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社／JAMPT（ジャンプ）",
+    "url": "https://jampt.jp/column/am-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、日本積層造形株式会社（JAMPT）は、",
+    "url": "https://jampt.jp/column/am-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "公益社団法人 日本設計工学会 Japan Society for Design Engineering",
+    "url": "https://jsde.or.jp/wp/dfamcd2026/",
+    "pass": 3
+   },
+   {
+    "quote": "English ←→ 日本語",
+    "url": "https://jsde.or.jp/wp/dfamcd2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本設計工学会事務局 E-mail: jimukyoku@jsde.or.jp",
+    "url": "https://jsde.or.jp/wp/dfamcd2026/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングで産業技術の未来を築く 日本3Dプリンティング産業技術協会",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語での正式名称は「付加製造」(JIS B9441)である",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "・・・一般社団法人日本3Dプリンティング産業技術協会",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）日本3Dプリンティング産業技術協会",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "日本船舶海洋工学会",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "公益社団法人日本鋳造工学会",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 一般社団法人 日本3Dプリンティング産業技術協会. All rights reserved.",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "DfAM とは？金属3Dプリンタの性能を引き出す設計と3DCAM ... — DfAM とは？金属3Dプリンタの性能を引き出す設計と3DCAM ... ものづくり研究所 https://monoken.yamazen.co.jp > yamazen > what-is-dfam",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/what-is-dfam",
+    "pass": 3
+   },
+   {
+    "quote": "Design for Additive Manufacturing （ DfAM ）とComputational ... — Design for Additive Manufacturing （ DfAM ）とComputational ... 日本設計工学会 https://jsde.or.jp > dfamcd2026",
+    "url": "https://jsde.or.jp/wp/dfamcd2026/",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブ・マニュファクチャリング設計革新〜進化する ... — アディティブ・マニュファクチャリング設計革新〜進化する ... 日本 3Dプリンティング産業技術協会 https://3dprint.or.jp > dfam25",
+    "url": "https://3dprint.or.jp/dfam25/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Enterprise references span OEMs, MRO, and government distributed AM programs",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Cross-site capacity balancing at OEM scale may require professional services and custom integration",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace engineering software enables companies across all areas of aerospace manufacture, from OEMs to aftermarket modification workshops, to digitize, design and manufacture aerospace components of any kind to empower the creation of quality aircraft.",
+    "url": "https://oqton.com/aerospace/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Pricing is custom and quote-based. Third-party directories cite roughly €10,000/user/year or about $10,000 annually as a starting estimate, but official SKUs are not published and enterprise packages vary by modules and sites.",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Is 3YOURMIND pricing public?",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Public packages start at $7,950 per year for Quoting and $14,950 per year for Quoting & Production, with a listed $59 per user per month seat fee. Onboarding and integration services are extra and quoted separately.",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription starts at $7,950–$14,950 per year plus $59/user/month seats; package choice and headcount drive recurring cost.",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing formulas drive instant quotes from 3D file processing and finishing inputs",
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "24.2",
+    "url": "https://www.machinedesign.com/3d-printing-cad/video/55411867/hp-how-ai-automation-and-design-could-expand-additive-manufacturing",
+    "quote": ", global additive manufacturing revenues reached US$24.2 billion in 2025, up 10.9% from the previous year. Printing services grew 15.5%, outpacing sales of systems and servicing, which rose 3.6%."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://etda.libraries.psu.edu/catalog/14896mzb5747",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bjopm.org.br/bjopm/article/view/2883",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/enterprise-oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/simulation-software-in-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://soar.wichita.edu/bitstreams/544e3c63-a995-4d43-881c-97c6398093d6/download",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mtisystems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apriori.com/resources/video/using-manufacturing-costing-software-to-simulate-product-costs/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/oqton-announces-strategic-partnership-with-castor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metrology.news/strategic-partnership-to-facilitate-additive-manufacturing-adoption/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apriori.com/blog/what-to-look-for-in-manufacturing-costing-software/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/191516/spare-parts-3d-feasibility-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.aconity3d.com/introducing-the-aconity3d-business-case-calculator-quick-transparent-part-cost-calculation-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301440",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/for-designers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.machinedesign.com/3d-printing-cad/video/55411867/hp-how-ai-automation-and-design-could-expand-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ampower.eu/studies/cost-of-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S1755581723000780",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/org/science/article/pii/S1355254625000801",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://simulatemore.mscsoftware.com/simufact-additive-2020-optimizes-build-job-costs-and-streamlines-workflows/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wintrust.com/articles/2023/05/how-additive-manufacturing-is-evolving-and-increasing-production-workflow-for-manufacturers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/322185938_Data-driven_cost_estimation_for_additive_manufacturing_in_cybermanufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://thed2mco.com/tech-portfolio/cognitive-additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextmsc.com/report/europe-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eda.europa.eu/docs/default-source/projects/eda-am-study-and-strategic-report_v6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ampower.eu/insights/additive-manufacturing-part-cost-and-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additive-manufacturing-report.com/report-2024/region-emea-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperlessparts.com/pricing-costing-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timbercloud.com/blog/best-cost-estimating-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2504-4494/10/9/352",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtisystems.com/cost-estimating-software.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gitnux.org/best/manufacturing-cost-estimation-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/what-is-dfam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/am-estimate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yam-kyoto.com/partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsde.or.jp/wp/dfamcd2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.or.jp/dfam25/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/frequently-asked-questions-about-3yourmind-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/pl33sf/3d_systems_acquires_oqton/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thefabricator.com/additivereport/article/additive/to-3d-print-or-not-to-3d-print-software-identifies-parts-for-am-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/amfg-vs-paperlessparts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spatial.com/industries/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mayahtt.com/special-programs/preferred-pricing-for-authorized-oem-suppliers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f6s.com/software/category/additive-manufacturing-optimization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceforge.net/software/additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "additive manufacturing part feasibility and cost estimation software white label",
+   "results": [
+    "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://etda.libraries.psu.edu/catalog/14896mzb5747",
+    "https://www.bjopm.org.br/bjopm/article/view/2883",
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://www.apriori.com/blog/what-to-look-for-in-manufacturing-costing-software/",
+    "https://soar.wichita.edu/bitstreams/544e3c63-a995-4d43-881c-97c6398093d6/download",
+    "https://news.aconity3d.com/introducing-the-aconity3d-business-case-calculator-quick-transparent-part-cost-calculation-for-additive-manufacturing/",
+    "https://www.stratasys.com/contentassets/e11a212e6c0c4e208dc2f8f1fbd0f165/arc-stratasys-whitepaper-final.pdf?v=491731",
+    "https://digifabster.com/products/features/"
+   ]
+  },
+  {
+   "query": "additive manufacturing part feasibility and cost estimation software OEM API embed",
+   "results": [
+    "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "https://www.amfg.ai/enterprise-oem",
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://www.hubs.com/simulation-software-in-additive-manufacturing/",
+    "https://www.bjopm.org.br/bjopm/article/view/2883",
+    "https://soar.wichita.edu/bitstreams/544e3c63-a995-4d43-881c-97c6398093d6/download",
+    "https://www.mtisystems.com/",
+    "https://www.apriori.com/resources/video/using-manufacturing-costing-software-to-simulate-product-costs/",
+    "https://nomuda.com/industries/additive-manufacturing/"
+   ]
+  },
+  {
+   "query": "additive manufacturing part feasibility and cost estimation software reseller partner program",
+   "results": [
+    "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "https://oqton.com/oqton-announces-strategic-partnership-with-castor/",
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://soar.wichita.edu/bitstreams/544e3c63-a995-4d43-881c-97c6398093d6/download",
+    "https://metrology.news/strategic-partnership-to-facilitate-additive-manufacturing-adoption/",
+    "https://www.apriori.com/blog/what-to-look-for-in-manufacturing-costing-software/",
+    "https://www.youtube.com/watch?v=zCcvnG5bDys",
+    "https://www.materialise.com/en/industrial/software/partnerships",
+    "https://3dprint.com/191516/spare-parts-3d-feasibility-study/",
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller"
+   ]
+  },
+  {
+   "query": "additive manufacturing part feasibility and cost estimation software rebrand your logo",
+   "results": [
+    "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "https://etda.libraries.psu.edu/catalog/14896mzb5747",
+    "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "https://www.linkedin.com/pulse/cost-modelling-additive-manufacturing-3d-printing-shubham-saxena",
+    "https://news.aconity3d.com/introducing-the-aconity3d-business-case-calculator-quick-transparent-part-cost-calculation-for-additive-manufacturing/",
+    "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301440",
+    "https://www.apriori.com/blog/what-to-look-for-in-manufacturing-costing-software/",
+    "https://www.amfg.ai/for-designers",
+    "https://www.machinedesign.com/3d-printing-cad/video/55411867/hp-how-ai-automation-and-design-could-expand-additive-manufacturing",
+    "https://thed2mco.com/tech-portfolio/cognitive-additive"
+   ]
+  },
+  {
+   "query": "additive manufacturing part feasibility and cost estimation software startup profitable revenue",
+   "results": [
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/",
+    "https://soar.wichita.edu/bitstreams/544e3c63-a995-4d43-881c-97c6398093d6/download",
+    "https://ampower.eu/studies/cost-of-additive-manufacturing/",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://www.apriori.com/blog/what-to-look-for-in-manufacturing-costing-software/",
+    "https://www.linkedin.com/pulse/calculating-cost-additive-manufacturing-jason-t-ray",
+    "https://www.sciencedirect.com/science/article/pii/S1755581723000780",
+    "https://www.paperlessparts.com/processes/additive-manufacturing/"
+   ]
+  },
+  {
+   "query": "additive manufacturing part feasibility and cost estimation software company EBITDA profitable bootstrapped",
+   "results": [
+    "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://www.bjopm.org.br/bjopm/article/view/2883",
+    "https://soar.wichita.edu/bitstreams/544e3c63-a995-4d43-881c-97c6398093d6/download",
+    "https://simulatemore.mscsoftware.com/simufact-additive-2020-optimizes-build-job-costs-and-streamlines-workflows/",
+    "https://www.wintrust.com/articles/2023/05/how-additive-manufacturing-is-evolving-and-increasing-production-workflow-for-manufacturers.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://www.researchgate.net/publication/322185938_Data-driven_cost_estimation_for_additive_manufacturing_in_cybermanufacturing",
+    "https://www.sciencedirect.com/org/science/article/pii/S1355254625000801"
+   ]
+  },
+  {
+   "query": "additive manufacturing part feasibility and cost estimation software vendors Europe Israel Germany",
+   "results": [
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/israel",
+    "https://www.nextmsc.com/report/europe-additive-manufacturing-market?srsltid=AYCX9vKEg8Qe9bLO4I0Nv_o7rRFRmi2Or96RXBwBy3MjwFGNpwn80Wue",
+    "https://eda.europa.eu/docs/default-source/projects/eda-am-study-and-strategic-report_v6.pdf",
+    "https://ampower.eu/insights/additive-manufacturing-part-cost-and-pricing/",
+    "https://additive-manufacturing-report.com/report-2024/region-emea-2024/",
+    "https://soar.wichita.edu/bitstreams/544e3c63-a995-4d43-881c-97c6398093d6/download",
+    "https://addinor.eu/3d-printers/feasibility-study/",
+    "https://link.epo.org/web/service-support/publications/en-additive-manufacturing-study-2023-full-study.pdf",
+    "https://www.voxelmatters.com/eos-grows-in-the-belgian-german-heart-of-3d-printing-in-europe/",
+    "https://www.leanam.com/en/"
+   ]
+  },
+  {
+   "query": "additive manufacturing part feasibility and cost estimation software pricing API",
+   "results": [
+    "https://www.sciencedirect.com/org/science/article/pii/S1355254625000801",
+    "https://www.paperlessparts.com/pricing-costing-automation/",
+    "https://www.apriori.com/blog/what-to-look-for-in-manufacturing-costing-software/",
+    "https://soar.wichita.edu/bitstreams/544e3c63-a995-4d43-881c-97c6398093d6/download",
+    "https://ampower.eu/insights/additive-manufacturing-part-cost-and-pricing/",
+    "https://timbercloud.com/blog/best-cost-estimating-software",
+    "https://www.mdpi.com/2504-4494/10/9/352",
+    "https://www.mtisystems.com/cost-estimating-software.html",
+    "https://gitnux.org/best/manufacturing-cost-estimation-software/",
+    "https://www.paperlessparts.com/processes/additive-manufacturing/"
+   ]
+  },
+  {
+   "query": "wl-A DfAM（AM適性判定・工法材料提案・費用概算） 日本 代理店",
+   "results": [
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/what-is-dfam",
+    "https://jampt.jp/column/am-estimate/",
+    "https://www.yam-kyoto.com/partnership/",
+    "https://jsde.or.jp/wp/dfamcd2026/",
+    "https://3dprint.or.jp/dfam25/",
+    "https://www.madehere.co.jp/am",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://azuma-metal3dp.com/column/513",
+    "https://progresstech.jp/service/solution-ptdfam/"
+   ]
+  },
+  {
+   "query": "additive manufacturing part feasibility and cost estimation software alternatives to CASTOR Oqton 3YOURMIND Materialise AMFG nTop",
+   "results": [
+    "https://oqton.com/oqton-announces-strategic-partnership-with-castor/",
+    "https://www.3yourmind.com/news/frequently-asked-questions-about-3yourmind-software",
+    "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/pl33sf/3d_systems_acquires_oqton/",
+    "https://www.thefabricator.com/additivereport/article/additive/to-3d-print-or-not-to-3d-print-software-identifies-parts-for-am-1",
+    "https://www.amfg.ai/amfg-vs-paperlessparts",
+    "https://ampower.eu/studies/cost-of-additive-manufacturing/",
+    "https://www.rfp.wiki/specialty-industries/manufacturing/3d-printing-workflow-software/3yourmind/amfg",
+    "https://www.mdpi.com/2075-4701/15/10/1126",
+    "https://www.authentise.com/post/what-are-alternatives-to-amfg-a-guide-for-additive-manufacturing-teams"
+   ]
+  },
+  {
+   "query": "additive manufacturing part feasibility and cost estimation software SDK license OEM partners list",
+   "results": [
+    "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "https://www.mtisystems.com/cost-estimating-software.html",
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://www.amfg.ai/enterprise-oem",
+    "https://soar.wichita.edu/bitstreams/544e3c63-a995-4d43-881c-97c6398093d6/download",
+    "https://oqton.com/aerospace/",
+    "https://ampower.eu/insights/additive-manufacturing-part-cost-and-pricing/",
+    "https://www.spatial.com/industries/additive-manufacturing",
+    "https://www.mayahtt.com/special-programs/preferred-pricing-for-authorized-oem-suppliers/",
+    "https://www.f6s.com/software/category/additive-manufacturing-optimization"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1179 @@
+{
+ "name": "民間航空機",
+ "en": "commercial aircraft",
+ "aliases": [
+  "旅客機",
+  "航空機部品"
+ ],
+ "context": "6 航空・宇宙 ①民間航空機",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:17:42.927822+00:00",
+ "evidence": {
+  "国内参入企業数": [
+   {
+    "quote": "参画企業数：２９社",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参画企業数：１０社",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参画企業数：１８社",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参画企業数：４９社",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参画企業数：２８社",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参画企業：３００社以上（うち航空機分野56社）",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参画企業：１０社程度を想定",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界5カ国に拠点を持ち、海外の提携調査会社200社以上が発行する調査資料約15万点をワンストップでご提供",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "二次サプライヤーとして大掛かりな品質向上計画の構築と実施、高品質の製品を提供することでボーイング787の月産14機体制を支え、世界でも数社に限られる2年連続受賞という快挙を成し遂げました",
+    "url": "https://www.shinmaywa.co.jp/products/aircraft/commercial.html",
+    "pass": 3
+   },
+   {
+    "quote": "では 4～5社程度となっている",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "として 20社程度に及んでいる",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "台湾には、同様の加工会社が 50社程度いるといわれているが、同社同様の投",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資計画を考えているのは 3～5社程度といわれており、 難しい取組であることは間違いない",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": " 航空機製造業は、自動車産業と比べて、国際基準に照らした認証・証明の取得や厳しい品質管理を要求されることが多い",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基準に照らした認証・証明が必要な場合が多い",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "況等を踏まえ、原則国毎の独自基準",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "安全基準・審",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業と比べ、国際基準",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に照らした認証・証明の取得要請や、品質管理水準の要求が高い",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参入領域次第では認証取得、設備投資、",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "等を必要としない加工技術や、治具・工具等の開発業務等も生じうるが、参入領域次第では、認証取得（JISQ9100の場合で",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※TRLとは…NASAが示した、体系的な分析に基づく、新技術の開発のレベルを評価するために使用する基準",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "High Lift/Law Noise Devices",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Smart wing technologies, smart actuators",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "認証取得費もかかるため、今後自社として",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " CAD/CAMや５軸加工機等の設備投資も進め、認証取得にも取り組んだ",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "認証等を必要としない加工技術や、治具・工具等の開発業務等も生じうるが、参入領域次第では、認証",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「中小企業の航空機産業参入のためのガイド～国際認証（Nadcap）」",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機メーカーは、競争の激しいダイナミックな世界市場で事業を展開しており、経済変動から厳しい規制要件まで、さまざまな課題に直面しています",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "最も大きな課題のひとつは、各国政府や規制機関がより厳しい排出基準を導入することで、航空旅行が環境に与える影響を削減しなければならないという圧力が高まっていることです",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、電気推進システムやハイブリッド推進システムなど、持続可能な航空ソリューションへの継続的な取り組みが勢いを増しており、航空会社もメーカーも同様に、環境規制やより環境に優しい旅行オプションに対する顧客の期待に応えようとしています",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/aviation/civil-aircraft",
+    "pass": 3
+   },
+   {
+    "quote": "大型旅客機のメーカーは規制が強化されたこともあり",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "pass": 3
+   },
+   {
+    "quote": "法律および安全に関する連絡先",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "pass": 3
+   },
+   {
+    "quote": "長らく続いた武器輸出規制により、日本の防衛産業は自衛隊のみを顧客とする特殊な産業となり、規模が限定され、国際競争力が育ちにくい環境にありました",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛産業の生産基盤を強化し、防衛力の向上を推進するための法律です",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省を中心に、航空機産業の基幹産業化を目指し、完成機開発の推進、認証制度の整備、そして",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "​・国や他自治体等の補助金制度と併用可能",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "塾はカリキュラムを消化した塾生のホワイト企業内定率100%を誇り、カリキュラムを消化したにもかかわらず、ホワイト企業の内定が出なければ費用を全額返金する返金保証制度を提供中",
+    "url": "https://avalon-consulting.jp/blog/aircraft-industry-employment",
+    "pass": 3
+   },
+   {
+    "quote": "これは自動車産業と比べ、国際基準に照らした認証・証明の取得要請や、品質管理水準の要求が高いことが原因として挙げられる",
+    "url": "https://avalon-consulting.jp/blog/aircraft-industry-employment",
+    "pass": 3
+   },
+   {
+    "quote": "航空分野の規制緩和・自由化を受け、LCCが多数参入し、シェアを拡大している",
+    "url": "https://avalon-consulting.jp/blog/aircraft-industry-employment",
+    "pass": 3
+   },
+   {
+    "quote": "によると法令順守意識面では4.8/５と法律への意識はかなり高いところから労務管理もしっかり行われている",
+    "url": "https://avalon-consulting.jp/blog/aircraft-industry-employment",
+    "pass": 3
+   },
+   {
+    "quote": "業界唯一のホワイト企業への内定保証制度を提供",
+    "url": "https://avalon-consulting.jp/blog/aircraft-industry-employment",
+    "pass": 3
+   },
+   {
+    "quote": "がいなかった」「航空機認証を受けているメーカーを探していた」などの",
+    "url": "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年には、JIS Q 9100 航空宇宙防衛品質マネジメントシステム認証取得し、更に信頼性の高い製品を低コストでお届けできるよう、社員一丸となり努力し、前進し続けて参ります",
+    "url": "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "JISQ9100認証マネジメントシステムの下、航空機部品の製造を行っています",
+    "url": "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "（JISQ9100）や特殊工程に関する認証制度（Nadcap）が存在する",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・日本では（社）日本航空宇宙工業会（SJAC）に航空宇宙品質センター（JAQG）が設立され、認定制度",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■Nadcap（国際航空宇宙産業特殊工程認証プログラム）",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・National Aerospace and Defense Contractors Accreditation Program の略",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "として特殊工程を監査、認証するプログラム",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・それらの分野・工程ごとに認証と定期的な更新が必要であり、かなりの費用負担が必要となる",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "場合が多いが、匠の技術自体は素晴らしいものでも、第三者から見ても評価できる基準、",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機産業は認証などのハードルがあり、また大量生産がされにくい産業のため、スポ",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れる航空機の認証も必要である",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "もともと特殊工程については、機体メーカーや装備品メーカーからの認証を取得し",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機部品は、 製品の制度要求も厳しいが、 特に民間航空機部品はコスト要求も厳しい",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外の民生品についても管理基準の高い、付加価値の高い製品を手がけるようになってきて",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "それも、航空機産業が生産機数など、調達方針が他の産業と比較しても読みやすく、川",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりの基準となったという意味で、その持っている意味は大きいと評価している",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、海外メーカーとの競争と、ボーイング社からのスペック認証を受ける取り組",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ", higher maintenance costs, and increased spares inventory. But this represents only a portion of the economic and operational impacts facing the aviation industry due to supply chain challenges; other effects include delayed expansion of service, impacted aircraft and asset lease rates, and prolonged operational disruptions.",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "(IATA), we provide a detailed look at the current structure of aircraft supply chain — key challenges and their root causes, impacts on airlines, and some potential actions for moving the industry forward.",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "(MRO) supply chain has consolidated as well, with original equipment manufacturers (OEMs) aiming to increasingly participate in the engine and component aftermarkets.",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "Economic impact of supply chain disruption on airlines",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "Although supply chain challenges affect airlines in various ways, we have identified four primary impacts that together could cost airlines more than $11 billion in 2025.",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit 2: Estimated cost impacts of commercial aircraft supply chain challenges",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "Industry actions to build long-term resilience in aerospace supply chain",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "by increasing the ability to repair materials, and the use of parts manufacturer approval (PMA) arrangements and used serviceable materials (USM) to free up production capacity so that it can focus on critical parts in short supply.",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "We believe that present commercial aerospace supply chain challenges are not intractable. A broader, united industry response that is more proactive, flexible, and strategic could help all participants better prepare for and be ready to respond to supply chain threats, while ramping up efficiency and driving down costs over the long term.",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aftermarket solutions, including Used Serviceable Material and Parts Manufacturer Approval, are becoming popular as operators decrease dependency on OEM supply chains.",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": "The constraint rarely lives at a single stage. Raw material procurement, heat treatment, machining, non-destructive testing, and certification review stack on top of one another. Even one specialized fastener shortage can halt final assembly. That’s the delicacy operators are managing every day.",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": ". Regulatory bodies and IATA are actively working to clear the path, including renewed agreements with CFM that formally recognize alternative parts and independent repairs under warranty.",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "て、構造部位（機体・エンジン・装備品）別の状況や、その中での日本企業の参入状",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "勢となる中で、民間航空機開発プログラムへの日本企業の参加状況を整理します",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注釈*）1：主要企業の売上高合計（2012年）Airline Businessより、2：主要航空企業の燃料支出合計（推計）（2012年）IATAより、3,4,5：主要企業の売上高合計",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2010年）現代航空論より、6：主要企業の保有機材価値（2013年現在）、Airline Businessより、7:主要企業の売上高合計（2012年）Airline Businessより",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 売上が上位の日本企業はごく一部である（図表15）",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上上位の日本企業はごく一部である",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上トップ20とトップ100内日本企業】",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Tier1・Tier2等として日本企業も参入している",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入時の当面の取引先はこれらの日本企業が想定される",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に参入済み日本企業が想定される",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【図表16.航空機産業のメーカー俯瞰図】※下線は主な企業、赤字は国内メーカー",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 装備品に関しては、日本企業の参入も進んでいる",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●国内装備品メーカーは、日本企業の参入も進んでいる",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．日本企業の国際共同開発プログラムへの参入動向",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業も参加を通じ、市場を獲得しつつある",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本分析では軍用機や政府専用機などを除く「民間機」の市場データ・売上高を主軸に採用し、主要企業のシェアを分析しています",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、現在の日本の主要企業（三菱重工業、川崎重工業、SUBARU、新明和工業など）は、国際共同開発の主要パートナーとして極めて重要な地位を占めています",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "が世界で限られており、関連するエンジンや機体、装備品など主要メーカーも限定されて",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国の主要企業も機体メーカー、エンジンメーカー、装備品メーカーと特",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは、民間航空機産業全体がグローバル競争の下にあり、国内主要メーカーも",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れる装置を国内大手メーカー",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外の主要メーカーからの信頼を勝ち得てきている",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工場には日本メーカー製の工作機械が並び、日本資本が入り、日本の主要メーカーから",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカー",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "民間航空機市場規模 、シェア |成長レポート [2034] — 民間航空機市場規模 、シェア |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4-115356",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機市場規模 （2026年～2033年）：レポートには年間 ... — 民間航空機市場規模 （2026年～2033年）：レポートには年間 ... LinkedIn https://jp.linkedin.com > pulse > 民間航空機市場規模202...",
+    "url": "https://jp.linkedin.com/pulse/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B42033%E5%B9%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E5%B9%B4%E9%96%93cagr-136%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-xenovantab-vkxie",
+    "pass": 3
+   },
+   {
+    "quote": "航空機 部品 - メーカー ・ 企業 30社の業務用製品ランキング — 航空機 部品 - メーカー ・ 企業 30社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 航空機部品",
+    "url": "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Aircraft Market Size , Share | Growth Report [2034] — Commercial Aircraft Market Size , Share | Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "品質・納期遵守・コストにおけるパフォーマンスや納入後のカスタマーサービス等においてもボーイング社より特に高く評価されております",
+    "url": "https://www.shinmaywa.co.jp/products/aircraft/commercial.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを受け、新たに播磨分工場（兵庫県小野市）を生産拠点に加え、金属部品の加工は播磨分工場で、複合材料の加工は甲南工場（兵庫県神戸市）で分担製造した後、宝塚分工場（兵庫県宝塚市）にてこれらを集約して最終組み立てを行うことで、さらなる品質および生産性の向上、並びに生産能力の拡大を図っております",
+    "url": "https://www.shinmaywa.co.jp/products/aircraft/commercial.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界の人材不足 | 遙かなる大空",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界の人材不足",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの航空機の契約や、新しいAAM（アドバンスエアモビリティ）の注文も見られた一方で、更なる航空所ようの高まりと共に人材不足が問題になっています",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足に直面していることを示す調査を発表しました",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "A&D部門の従業員数は2024年に223万人に達しましたが、エンジニアリングや熟練職種における深刻な人材不足は依然として続いています",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、人材不足への対応に取り組む企業にとって、人工知能",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "HMエアロスペースとの契約により、ボルトエアロの暫定受注残高は280件となりました",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足は非常に深刻な地球規模の課題",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "各国は、この人材不足に対応するため、様々な政策や戦略を打ち出しています",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "日本もまた、航空・宇宙、防衛産業において深刻な人材不足に直面しており、他国と比較していくつかの点で遅れを取っていると指摘されています",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な人材不足の課題:",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑でグローバルなサプライチェーンの中で、特定の部品や技術を持つ中小企業の高齢化や事業承継問題が、全体の生産能力に影響を与えています",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "大学や専門学校での教育内容と、現場で求められる実践的なスキルとの間に乖離がある場合があり、即戦力となる人材が不足しています",
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "pass": 3
+   },
+   {
+    "quote": "人材求む！ 急拡大するアジア航空市場、人手不足が深刻化(2/3) - CNN.co.jp",
+    "url": "https://www.cnn.co.jp/business/35045315-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材求む！ 急拡大するアジア航空市場、人手不足が深刻化",
+    "url": "https://www.cnn.co.jp/business/35045315-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、それでもなおシャーマ氏は「訓練学校が明日すぐ１００校新たに開設したとしても、まだ足りない",
+    "url": "https://www.cnn.co.jp/business/35045315-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足はそれほど深刻だ」と話す",
+    "url": "https://www.cnn.co.jp/business/35045315-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、パイロット不足以上に懸念されているのが、整備士など地上スタッフの人材難だ",
+    "url": "https://www.cnn.co.jp/business/35045315-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "複合材熱硬化成形型の生産能力増強および正寸穴加工を含む高精度部品加工の生産体制構築",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "受注残が8,700機を超える旺盛な需要に支えられており、中大型ジェット機市場における主導権をさらに強めています",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "主力の単通路機A320neoファミリーはバックログ（受注残）が過去最高を記録しており、ボーイング737とのシェア争いで圧倒的な優位性を築いています",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量ロットを短納期でお届けいたします",
+    "url": "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリング技術と製造技術をバランス良く高度に融合させ、お客様のニーズに応え性能、品質、納期、アフターサービスなどに努め、お客様から高い評価を頂いております",
+    "url": "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "無駄のない作業で、短納期・コスト削減にも貢献しています",
+    "url": "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりのご依頼もお待ちしています",
+    "url": "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "無駄のない作業で、短納期・コスト削減にも貢献！ご要望に応じて好適なご提案！",
+    "url": "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "の供給能力がある企業やオンリーワン技術を有する企業は、単独で又は川下企業と連携し",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "完成部品を製造する一貫生産能力を身に着けても、コスト構造がグローバ",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品質（Ｑ） 、納期（Ｄ） 、そしてコスト（Ｃ）、この 3つのうち、我が国の製造業は品質と",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "納期に抜群の精度を誇るものの、コストで海外企業との競争に後塵を拝することが増えて",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造能力が不足する場合に、参入余地が大きい",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造能力不足",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多くしているが、納期や精度などの問題で、国内回帰を検討している流れも生まれてきて",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "先に述べたように、需要拡大期には、川下企業が製造能力不足によって、新規に参入で",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "様々な課題があるものの、特殊工程にどのように取り組むかによって、一貫生産能力とコ",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（どこ）川下企業のサプライヤーとなるには、製造能力不足を補う参入戦略「川下投",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「経営をガラス張りにする」ということは、単に現在の状況を社員に示すだけでは不足",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品質、納期、価格を比較すると、品質と納期では競争力があるが、",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "的な品質と納期厳守、そして「そこそこ",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "度も納期遅れ",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加工・生産不足が見込まれたことから、川下企業から直接参入要請があったことからであ",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft backlog reaches a new high as airlines delay fleet removal",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "to geopolitical conflict-driven material shortages and tight labor markets.",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit 1: Commercial aircraft backlog by aircraft type, 2010-2025",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "A second issue is supply chain disruption, including geopolitical instability, raw material shortages, and greater demand for military/business jets, which share supply chain touchpoints with commercial aircraft. A series of overlapping global crises in recent years have slowed investment in new capacity, making it more difficult for the aerospace industry to climb out.",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "through end-to-end supply chain mapping and visibility, thus revealing potential bottlenecks and hidden risks. This also could enable better collaboration and innovation, such as the integration of digital tools for real-time track and trace.",
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "pass": 3
+   },
+   {
+    "quote": "17,000 Aircraft on Backlog: Aviation's Supply Chain Crisis - International Fastener Expo",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": "17,000 Aircraft on Backlog: Aviation’s Supply Chain Crisis",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": "Engine supply constraints are forcing airlines to extend fleet lifecycles and push global MRO spending toward $193 billion by 2036, according to Oliver Wyman’s 2026-2036 forecast.",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft backlogs exceed 17,000 units as casting and forging delays sideline more than 3,500 engines awaiting critical components, costing the industry more than $11 billion in 2025 alone.",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": "Head to the airport today, and it would be hard to tell there’s a shortage of anything other than air traffic controllers. However, internationally the supply chain is tightening.",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft sit without engines. Overhaul queues stretch for months. The global backlog of commercial aircraft has topped 17,000 units, the equivalent of roughly 12 years of current production, and the binding constraint isn’t airframes. It’s engines.",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": "The Engine Shortage That Grounded Expectations",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": "significantly accelerated the backlog, pulling hundreds of Airbus A320neo aircraft off the line simultaneously. CFM LEAP engines face their own pressure as shop visits accumulate. The result is completed aircraft parked without engines while airlines absorb costs on both ends.",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": "The constraint rarely lives at a single stage. Raw material procurement, heat treatment, machining, non-destructive testing, and certification review stack on top of one another. Even one specialized fastener shortage can halt final assembly. That’s the delicacy operators are managing every day.",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   },
+   {
+    "quote": "Structural hurdles, including casting and forging lead times, certified engineer shortages, and raw materials geopolitics, aren’t resolving quickly. Carriers and suppliers that build diversified sourcing strategies, strong aftermarket relationships, and longer planning horizons will be better placed when the cycle turns.",
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "「航空宇宙産業高度強靭化補助金」の2026年度第1回採択案件を決定しました - 愛知県",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "「航空宇宙産業高度強靭化補助金」の2026年度第1回採択案件を決定しました",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県は、今年度から、次なる完成機事業への参画や宇宙産業、次世代空モビリティ等の新興分野のサプライチェーンの強化、供給力の向上を目的として、これに資する企業の新規設備投資を支援する「航空宇宙産業高度強靭化補助金」を創設し、公募しています（2026年4月1日発表済み）",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小・中堅企業1／4以内※、大企業1／6以内（ただし、国や他自治体等の補助金を併用する場合、合わせて中小・中堅企業3／4以内、大企業1／2以内）",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "1901年に設立された米国の老舗防衛関連企業であり、祖業である潜水艦製造を含む海洋システムや、M1エイブラムス戦車に代表される戦闘システムなどで世界トップクラスの国防予算シェアを持ちます",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "【支援策の視点】 ...............................................................................................................70",
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4-115356",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/commercial-aircraft-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/release/31054272/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.subaru.co.jp/recruit/aerospace/future/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boeing.jp/about/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/aviation/civil-aircraft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinmaywa.co.jp/products/aircraft/commercial.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%88%E3%83%83%E3%83%97%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%AE%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E4%BC%81%E6%A5%AD-11266",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.jadc.jp/data/order/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/economy/DVP3VK4UCJIKRBKCPYQ2XOI6PY-2026-10-15/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cnn.co.jp/business/35045315-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOGN22DXJ0S4A021C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadf.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mofa.go.jp/mofaj/files/100957175.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/solution/aerospace/column/002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://agekke-drone.co.jp/column/2874/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helicam.jp/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E8%A6%8F%E5%88%B6%E3%81%8C%E6%8B%A1%E5%A4%A7%E3%81%B8%E3%80%802026%E5%B9%B47%E6%9C%8814%E6%97%A5%E6%96%BD%E8%A1%8C%E3%81%AE%E3%80%8C%E5%B0%8F%E5%9E%8B%E7%84%A1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesslawyers.jp/articles/1346",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/koku/koku_tk10_000003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/mujinki_kisei/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/29baa10f-becb-4eae-9cfc-32ac90fb655c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/aircraft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avalon-consulting.jp/blog/aircraft-industry-employment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/japan-aviation-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-aviation-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/commercial-electric-aircraft-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/aviation/comments/1irjm0p/why_japan_still_not_have_a_major_airliner/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mckinsey.com/industries/travel/our-insights/how-severe-is-the-aircraft-shortage-and-what-happens-next",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdiintelligence.com/content/6d18d31a-d47f-4703-a10a-a6c95bb40409",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boeing.com/content/dam/boeing/boeingdotcom/market/assets/downloads/2025-commercial-market-outlook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "民間航空機 国内市場規模 億円",
+   "results": [
+    "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4-115356",
+    "https://www.mordorintelligence.com/ja/industry-reports/commercial-aircraft-market",
+    "https://jp.linkedin.com/pulse/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B42033%E5%B9%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E5%B9%B4%E9%96%93cagr-136%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-xenovantab-vkxie",
+    "https://japan.cnet.com/release/31054272/",
+    "https://www.subaru.co.jp/recruit/aerospace/future/",
+    "https://www.c-astec.jp/documents/resources/support_meeting_materials/R6/R6_AircraftIndustryStrategy.pdf",
+    "https://deallab.info/aircraft/",
+    "https://www.atpress.ne.jp/news/8708832",
+    "https://www.globalresearch.co.jp/reports/japan-aviation-market-vmr/"
+   ]
+  },
+  {
+   "query": "民間航空機 国内 参入企業 社",
+   "results": [
+    "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "https://www.boeing.jp/about/company",
+    "https://www.mhi.com/jp/business/products-services/aviation/civil-aircraft",
+    "https://www.shinmaywa.co.jp/products/aircraft/commercial.html",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%88%E3%83%83%E3%83%97%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%AE%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E4%BC%81%E6%A5%AD-11266",
+    "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "http://www.jadc.jp/files/user/50%E5%B9%B4%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF.pdf",
+    "https://pando.life/article/4756579",
+    "https://www.jamco.co.jp/ja/company/outline.html",
+    "https://ja.wikipedia.org/wiki/航空機メーカーの一覧"
+   ]
+  },
+  {
+   "query": "民間航空機 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "http://www.jadc.jp/data/order/",
+    "https://harukanaru-oozora.conohawing.com/talent-shortage-in-the-aviation-industry/5601/2025/06/",
+    "https://www.reuters.com/jp/economy/DVP3VK4UCJIKRBKCPYQ2XOI6PY-2026-10-15/",
+    "https://www.cnn.co.jp/business/35045315-2.html",
+    "https://www.nikkei.com/article/DGXZQOGN22DXJ0S4A021C2000000/",
+    "https://www.iadf.or.jp/document/survey/2024-1.pdf",
+    "https://note.com/shunji1000/n/n10c1fa9f75de",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "https://smartf-nexta.com/archives/13522",
+    "https://www.wonderline.cloud/blog/what-is-backlog-basic-knowledge"
+   ]
+  },
+  {
+   "query": "民間航空機 予算 補助金 基金 2026",
+   "results": [
+    "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "https://www.iadf.or.jp/",
+    "https://www.mofa.go.jp/mofaj/files/100957175.pdf",
+    "https://www.cybernet.co.jp/solution/aerospace/column/002/",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408.pdf",
+    "https://www.helicam.jp/column/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B0%8E%E5%85%A5%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%BE%E3%81%A8%E3%82%81/",
+    "https://www.shizuoka-shinseicho.jp/2026/03/19/r8setubitoushi/",
+    "https://mof-gov.note.jp/n/n828606d08578",
+    "https://www.soumu.go.jp/main_content/001027185.pdf",
+    "https://hojyokin-portal.jp/columns/shimokaigi-20260624"
+   ]
+  },
+  {
+   "query": "民間航空機 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://agekke-drone.co.jp/column/2874/",
+    "https://www.helicam.jp/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E8%A6%8F%E5%88%B6%E3%81%8C%E6%8B%A1%E5%A4%A7%E3%81%B8%E3%80%802026%E5%B9%B47%E6%9C%8814%E6%97%A5%E6%96%BD%E8%A1%8C%E3%81%AE%E3%80%8C%E5%B0%8F%E5%9E%8B%E7%84%A1/",
+    "https://www.businesslawyers.jp/articles/1346",
+    "https://www.mlit.go.jp/koku/koku_tk10_000003.html",
+    "https://www.meti.go.jp/shingikai/mono_info_service/mujinki_kisei/pdf/001_05_00.pdf",
+    "https://www.fddi.jp/7041",
+    "https://www.npa.go.jp/bureau/security/kogatamujinki/kouhou.html",
+    "https://tnygroup.biz/2023/04/01/newsletter-36/",
+    "https://businessandlaw.jp/articles/a20210615-1/",
+    "https://legalagent.co.jp/legal-lab/law-changes/"
+   ]
+  },
+  {
+   "query": "民間航空機 国内 主要企業 メーカー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "https://baseconnect.in/companies/keyword/29baa10f-becb-4eae-9cfc-32ac90fb655c",
+    "https://deallab.info/aircraft/",
+    "https://avalon-consulting.jp/blog/aircraft-industry-employment",
+    "https://mono.ipros.com/cg1/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%83%A8%E5%93%81/",
+    "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "https://flyteam.jp/aircrafts/special/major",
+    "https://note.com/joyous_sayyou/n/n877ea0746e2b",
+    "https://www.shinmaywa.co.jp/products/aircraft/commercial.html",
+    "https://ja.wikipedia.org/wiki/航空機メーカーの一覧"
+   ]
+  },
+  {
+   "query": "commercial aircraft Japan market size",
+   "results": [
+    "https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356",
+    "https://www.mordorintelligence.com/industry-reports/japan-aviation-market",
+    "https://www.imarcgroup.com/japan-aviation-market",
+    "https://www.linkedin.com/pulse/study-global-japan-passenger-aircraft-market-emphasis-cagr-y0u4e",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/commercial-electric-aircraft-market/japan",
+    "https://www.reddit.com/r/aviation/comments/1irjm0p/why_japan_still_not_have_a_major_airliner/",
+    "https://www.technavio.com/report/commercial-aircraft-leasing-market-industry-analysis",
+    "https://wedc.org/market-intelligence/posts/japan-forecasts-growth-in-the-aviation-industry/",
+    "https://www.decisionsadvisors.com/insights/japan-commercial-aircraft-market",
+    "https://www.skymarketinsights.com/report/japan-aviation-market"
+   ]
+  },
+  {
+   "query": "commercial aircraft shortage backlog supply gap 2025",
+   "results": [
+    "https://www.mckinsey.com/industries/travel/our-insights/how-severe-is-the-aircraft-shortage-and-what-happens-next",
+    "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "https://www.facebook.com/FlyingMagazine/posts/mckinsey-company-found-that-the-industry-is-coping-with-limited-aircraft-supply-/1609672391189134/",
+    "https://www.fdiintelligence.com/content/6d18d31a-d47f-4703-a10a-a6c95bb40409",
+    "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "https://www.boeing.com/content/dam/boeing/boeingdotcom/market/assets/downloads/2025-commercial-market-outlook.pdf",
+    "https://www.iata.org/en/iata-repository/publications/economic-reports/how-many-aircraft-are-we-missing/",
+    "https://www.gao.gov/products/gao-24-106493",
+    "https://www.youtube.com/watch?v=AIe5GoZD-bg"
+   ]
+  }
+ ],
+ "missing": {
+  "国内市場規模": "記載なし（読んだ40頁・検索8回）"
+ }
+}

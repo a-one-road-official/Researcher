@@ -1,8 +1,6 @@
 ﻿品目,英語名,文脈,売上USD（値・出典数）,提供企業_引用数,自社名で出せる条件_引用数,再販制度_引用数,黒字・収益性_引用数,売上_引用数,価格_引用数,日本対応_引用数,読んだ頁数,記載なし項目,エラー
-wl-A DfAM（AM適性判定・工法材料提案・費用概算）,additive manufacturing part feasibility and cost estimation software,wl-A DfAM,,11,0,2,5,1,0,14,45,自社名で出せる条件／価格,
-wl-A DfAM（トポロジー最適化・AM向け形状生成）,DfAM generative design and topology optimization software,wl-A DfAM,,60,3,57,2,4,1,9,42,,
-wl-B 図面読み取り（2D図面AI解析）,AI engineering drawing recognition software,wl-B 図面読み取り,,17,7,21,0,1,2,1,45,黒字・収益性,
-wl-B 図面読み取り（図面→見積の自動化）,drawing-based automatic quoting software,wl-B 図面読み取り,,5,0,3,0,1,3,0,45,自社名で出せる条件／黒字・収益性／日本対応,
-wl-C 3D CAD（自然言語→3D CAD生成AI）,text-to-CAD AI software,wl-C 3D CAD,,30,2,22,1,1,24,0,45,日本対応,
-wl-C 3D CAD（2D図面→3Dモデル変換）,2D drawing to 3D model conversion software,wl-C 3D CAD,,17,2,10,0,0,2,8,45,黒字・収益性／売上,
-wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）,embeddable browser CAD SDK,wl-C 3D CAD,,0,0,0,0,0,0,0,45,提供企業／自社名で出せる条件／再販制度／黒字・収益性／売上／価格／日本対応,
+wl-A DfAM（AM適性判定・工法材料提案・費用概算）,additive manufacturing part feasibility and cost estimation software,wl-A DfAM,24.2(1),20,3,10,9,5,5,14,55,,
+wl-A DfAM（トポロジー最適化・AM向け形状生成）,DfAM generative design and topology optimization software,wl-A DfAM,,60,22,60,8,14,3,11,55,,
+wl-C 3D CAD（自然言語→3D CAD生成AI）,text-to-CAD AI software,wl-C 3D CAD,,48,2,30,1,0,16,0,55,売上／日本対応,
+wl-C 3D CAD（2D図面→3Dモデル変換）,2D drawing to 3D model conversion software,wl-C 3D CAD,,16,2,7,0,0,2,8,55,黒字・収益性／売上,
+wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）,embeddable browser CAD SDK,wl-C 3D CAD,,0,0,0,0,0,0,0,55,提供企業／自社名で出せる条件／再販制度／黒字・収益性／売上／価格／日本対応,

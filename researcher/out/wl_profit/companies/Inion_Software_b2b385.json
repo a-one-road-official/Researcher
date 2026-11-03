@@ -1,0 +1,1301 @@
+{
+ "name": "Inion Software",
+ "aliases": [
+  "Inion",
+  "UAB Inion Software"
+ ],
+ "context": "定置用蓄電池 VPPプラットフォーム",
+ "researched_at": "2026-11-03T10:17:45.567703+00:00",
+ "official_url": "https://inionsoftware.com/",
+ "identified_by": "search:yahoo_jp:Inion Software",
+ "profile": {
+  "設立": [
+   {
+    "label": "Founded",
+    "value": "2018",
+    "url": "https://www.cventures.vc/founder/inion-software/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Location",
+    "value": "Lithuania",
+    "url": "https://www.cventures.vc/founder/inion-software/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "Founders",
+    "value": "Sarunas Stanaitis, Robertas Janickas, Mindaugas Lubys",
+    "url": "https://www.cventures.vc/founder/inion-software/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "黒字・収益性": [
+   {
+    "quote": "Green Business Norway (GBN) is a non-for-profit member organisation for the Norwegian Circular Economy and Renewable Energy Industry. With our 17 years of experience and a strong research base our contribution to the project are best practices and innovative research on modelling and forecasting tools and expertise related to planning, operations and optimisation of renewable energy production.",
+    "url": "https://inionsoftware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Non Profits",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "UAB Inion LT is implementing the project “R&D investments in the development of an innovative solar power plant generation management system”, No. 13.1.1-LVPA-K-856-01-0080, financed by the European Regional Development Fund (project budget – 957.453,68 EUR, allocated funding – 592.296,81 EUR).",
+    "url": "https://inionsoftware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The project “Solar-park financial management model implementation is receiving funding support from the 2014-2021 Norwegian Financial Mechanism ‘Business Development, Innovation and SMEs’ Call for Proposals under ICT Focus Area.",
+    "url": "https://inionsoftware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A1 Investments & Resources Ltd",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Aberdeen Emerging Markets Investment Company Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Aberdeen Japan Investment Trust plc",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "AG Mortgage Investment Trust Inc",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "AGNC Investment Corp",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Alberta Investment Management Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Allied Properties Real Estate Investment Trust",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "American Equity Investment Life Holding Co.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "American Strategic Investment Co.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Apartment Investment and Management Company",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Brokerage - National",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Argo Investments",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Argo Investments Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Arlington Asset Investment Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Artis Real Estate Investment Trust",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Asta Funding",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Mortgage Investment",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Australian Ethical Investment",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Australian Foundation Investment Company Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Australian United Investment Company Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Properties Real Estate Investment Trust",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "BCP Investment Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "BKI Investment Company Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "BlackRock Capital Investment Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Bridge Investment Group Holdings Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Seed",
+    "url": "https://www.cventures.vc/founder/inion-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnered at Seed Stage",
+    "url": "https://www.cventures.vc/founder/inion-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Peak Energy CEO Landon Mossburg tells ESS News why sodium-ion is the future of grid-scale battery energy storage and how the company, which just announced a $108 million oversubscribed Series B, is scaling its factory.",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "Inion IoT solutions provide secure connectivity between field devices and energy management systems. The platform supports industry-standard communication protocols and enables reliable real-time data acquisition across renewable energy assets.",
+    "url": "https://inionsoftware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inion Software closed the first half of the year with impressive results",
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "pass": 3
+   },
+   {
+    "quote": ", a Lithuanian developer of renewable energy management solutions, closed the first half of 2025 with a",
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "pass": 3
+   },
+   {
+    "quote": "8i Enterprises Acquisition Corp",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Acamar Partners Acquisition Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Alberton Acquisition Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Big Rock Partners Acquisition Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Far Point Acquisition Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "FinServ Acquisition Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Closed-End Fund - Equity",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Haymaker Acquisition Corp. II",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Iris Acquisition Corp II",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "LIV Capital Acquisition Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Megalith Financial Acquisition Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Navios Maritime Acquisition Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "New Providence Acquisition Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Osprey Technology Acquisition Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Rockpool Acquisitions",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Schultze Special Purpose Acquisition Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Spartan Energy Acquisition Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Closed-End Fund - Debt",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Closed-End Fund - Foreign",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Tortoise Acquisition Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Trident Acquisitions Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "Advanced energy management powered by Inion EMS.",
+    "url": "https://inionsoftware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Storebrand ASA",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Inion Software launches VPP platform and white-label offer for batteries and renewable assets - Energy Storage",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   },
+   {
+    "quote": "Inion Software launches VPP platform and white-label offer for batteries and renewable assets",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   },
+   {
+    "quote": "Lithuanian developer Inion Software has launched a virtual power plant (VPP) platform for storage and distributed energy assets. The company has dual aims: it is currently operational in Lithuania’s balancing market and expanding, while it also has a goal of rolling its VPP platform out as a white-label offering for energy companies and aggregators under their own brands.",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   },
+   {
+    "quote": "“We can offer the VPP as a white-label product,” said Šarūnas Stanaitis, CEO of Inion Software. “One of our strengths is integrating the hardware with the platform, which can be a difficult part of VPP deployment. Expanding this product outside Lithuania is one of our targets.”",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   },
+   {
+    "quote": "Cross-border expansion of European VPP software is often slowed by local regulations and fragmented TSO frameworks, limiting expansion prospects for companies that interact with grids. The company notes, as a white-label option, the architecture pairs standard hardware at the energy sites with Inion’s software to handle the equipment connection and control logic.",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   },
+   {
+    "quote": "Amplify your brand presence with the leading trade media platform for the solar and storage industry.",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Over 15 years of experience in B2B sales, product management, marketing and project management.",
+    "url": "https://inionsoftware.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Fields: industry, healthcare, system integrators. Worked in Schneider Electric international sales and management team. Experience in PLC programming.",
+    "url": "https://inionsoftware.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "More than 10 years of experience in B2B sales.",
+    "url": "https://inionsoftware.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Earlier on international sales teams of Schneider Electric and Philips. 4 years management experience as CEO.",
+    "url": "https://inionsoftware.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Dispone de más de 10 años de experiencia en los entornos de gestión y software, ejerciendo su labor como desarrollador de software y hardware.",
+    "url": "https://inionsoftware.com/es/about/",
+    "pass": 1
+   },
+   {
+    "quote": "22% revenue increase",
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "pass": 3
+   },
+   {
+    "quote": "€592,000 in sales",
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "pass": 3
+   },
+   {
+    "quote": "A.G. Barr",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Array Technologies, Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Arricano Real Estate PLC",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "ARRIS Group, Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "ArriVent BioPharma, Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Arrow Electronics Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Arrow Financial Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Arrow Global",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Arrow Minerals Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Arrowhead Pharmaceuticals, Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "ArrowMark Financial Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Barratt Developments plc",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Barrett Business Services Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Barrick Gold Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Barryroe Offshore Energy",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Capital Clean Energy Carriers Corp",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Carrefour S.A.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Carriage Services Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Carrier Global Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Carrols Restaurant Group Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Carsales.Com Ltd",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Cracker Barrel Old Country Store, Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Djerriwarrh Investments Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Garrett Motion Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Garrison Capital Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue streams",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   },
+   {
+    "quote": "Carrie Hampel",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   },
+   {
+    "quote": "David Carroll",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los",
+    "url": "https://inionsoftware.com/es/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.",
+    "url": "https://inionsoftware.com/es/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Activar o desactivar las cookies",
+    "url": "https://inionsoftware.com/es/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Activar todo",
+    "url": "https://inionsoftware.com/es/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Aardvark Therapeutics",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Discount, Variety Stores",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Calvary Health Care",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Charles & Colvard Ltd.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Fevara",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Harvard Bioscience Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Husqvarna Group",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Maven Renovar VCT Plc",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "National Oilwell Varco, Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Novartis AG",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Provaris Energy",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Renovare Environmental Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Savara Pharmaceuticals",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Savaria Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Solvar Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "TrivarX Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Tvardi Therapeutics",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Univar Solutions Inc",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Varex Imaging Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Varian Medical Systems Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Variscan Mines Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Varonis Systems Inc",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "highlights that demand for solar and wind power plants, coupled with the rapid adoption of smart energy storage systems, continues to drive growth both in Lithuania and across Europe. Strengthened",
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "pass": 3
+   },
+   {
+    "quote": "Capital Markets",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Flower Capital",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Albion Venture Capital Trust PLC",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "All Active Asset Capital Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Annaly Capital Management Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "APi Group Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Apiam Animal Health Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Arch Capital Group Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Ares Capital Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Armadale Capital PLC",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Associated Capital Group, Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Atlantic Capital Bank",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "AXIS Capital",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "BBX Capital Corp",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Bentley Capital Limited",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Bimini Capital Management, Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "BioRestorative Therapies, Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "BlackRock Capital Investment Corporation",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "BlackRock TCP Capital Corp.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Blue Capital Reinsurance Holdings Ltd.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Blue Owl Capital Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Blue Star Capital",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "BrightSpire Capital, Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Broadmark Realty Capital Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Burford Capital",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Inion Software’s systems are already trusted by large-scale projects in Lithuania and abroad. Recently, together with partners, the company completed the largest energy storage system in Lithuania for Švyturys–Utenos alus brewery. The company is also actively expanding in Italy, working with local partners to integrate its storage control technologies.",
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "pass": 3
+   },
+   {
+    "quote": "Customers Bancorp Inc",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Inion software - LinkedIn Lithuania — Inion software - LinkedIn Lithuania LinkedIn Lithuania https://lt.linkedin.com > inion-software",
+    "url": "https://lt.linkedin.com/company/inion-software",
+    "pass": 3
+   },
+   {
+    "quote": "The start-up Inion Software : sales break company records — The start-up Inion Software : sales break company records inionsoftware.com https://inionsoftware.com > blog > the...",
+    "url": "https://inionsoftware.com/blog/the-start-up-inion-software-sales-break-company-records/",
+    "pass": 3
+   },
+   {
+    "quote": "Inion Software closed the first half of the ... - Cleantech Lithuania — Inion Software closed the first half of the ... - Cleantech Lithuania cleantechlithuania.lt https://www.cleantechlithuania.lt > ini...",
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "pass": 3
+   },
+   {
+    "quote": "Inion - 2026 Company Profile , Team, Funding & Competitors — Inion - 2026 Company Profile , Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "pass": 3
+   },
+   {
+    "quote": "Inion Software — Inion Software inionsoftware.com https://inionsoftware.com",
+    "url": "https://inionsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inion - 2026 Company Profile, Team, Funding & Competitors — Inion - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "pass": 3
+   },
+   {
+    "quote": "Inion (@inionsoftware) - Facebook — Inion (@inionsoftware) - Facebook Facebook https://www.facebook.com > inionsoftware",
+    "url": "https://www.facebook.com/inionsoftware/",
+    "pass": 3
+   },
+   {
+    "quote": "IniOn Software - Contrarian Ventures — IniOn Software - Contrarian Ventures Contrarian Ventures https://www.cventures.vc > founder",
+    "url": "https://www.cventures.vc/founder/inion-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Inion Software launches VPP platform and white - label offer for ... — Inion Software launches VPP platform and white - label offer for ... ESS News https://www.ess-news.com > inion-sof...",
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "pass": 3
+   },
+   {
+    "quote": "Inion Software launches virtual power plant platform for solar ... — Inion Software launches virtual power plant platform for solar ... inionsoftware.com https://inionsoftware.com > blog > ini...",
+    "url": "https://inionsoftware.com/blog/inion-software-launches-virtual-power-plant-platform-for-solar-and-battery-assets/",
+    "pass": 3
+   },
+   {
+    "quote": "Inion End User License Agreement 2022-05-25 — Inion End User License Agreement 2022-05-25 inionsoftware.com PDF https://inionsoftware.com > uploads > 2022/05 > En...",
+    "url": "https://inionsoftware.com/wp-content/uploads/2022/05/End-User-License-Agreement-2022-05-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Inion LT Ltd, Vilnius - company details, code, address — Inion LT Ltd, Vilnius - company details, code, address vz.lt https://rekvizitai.vz.lt > inion_lt",
+    "url": "https://rekvizitai.vz.lt/en/company/inion_lt/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Aberdeen Japan Investment Trust plc",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "AVI Japan Opportunity Trust Plc",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Tobacco Inc.",
+    "url": "https://www.annualreports.com/Companies",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://inionsoftware.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inionsoftware.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inionsoftware.com/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inionsoftware.com/es/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://lt.linkedin.com/company/inion-software",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eon.com/en/investor-relations/financial-publications/annual-report.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://s1.q4cdn.com/231465352/files/doc_financials/2025/ar/web-2025-Annual-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/72741/000110465925026700/tm253884-1_ars.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.annualreports.com/Companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/inionsoftware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cventures.vc/founder/inion-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/inionsoftware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/union-software-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lt.linkedin.com/company/inion-software",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.domo.com/learn/article/what-is-white-label-analytics-and-why-does-it-matter-for-your-business-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solutionunion.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adrenalinex.com/work/unlocking-opportunity-through-credit-union-rebranding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sandbox-union",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://order.design/project/union",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ivanti.com/partners/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.add-on.com/sales-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.ionos.com/cloud/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.milestonesys.com/partners/reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rcsunionsoftware.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/inionsoftware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lt.linkedin.com/company/inion-software",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/inionsoftware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/iono",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/union-point-of-sale",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Inion Software",
+   "results": [
+    "https://inionsoftware.com/",
+    "https://lt.linkedin.com/company/inion-software",
+    "https://www.crunchbase.com/organization/inion-5456",
+    "https://www.facebook.com/inionsoftware/",
+    "https://saasdata.vercel.app/companies/inion-software",
+    "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "https://rekvizitai.vz.lt/en/company/inion_lt/",
+    "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "https://inionsoftware.com/software/",
+    "https://www.inion.com/"
+   ]
+  },
+  {
+   "query": "Inion Software revenue profitable",
+   "results": [
+    "https://lt.linkedin.com/company/inion-software",
+    "https://inionsoftware.com/blog/the-start-up-inion-software-sales-break-company-records/",
+    "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "https://inionsoftware.com/",
+    "https://gaps.com/finance/",
+    "https://www.facebook.com/TheOxfordClub1/posts/these-are-the-worlds-most-profitable-software-companies-and-microsoft-is-in-a-le/1536508251834145/",
+    "https://getlatka.com/companies/insite-software",
+    "https://www.unit.co/guides/revenues-in-financial-features-a-complete-guide-for-tech-companies",
+    "https://compworth.com/company/inion-software"
+   ]
+  },
+  {
+   "query": "Inion Software EBITDA net income annual report",
+   "results": [
+    "https://www.eon.com/en/investor-relations/financial-publications/annual-report.html",
+    "https://s1.q4cdn.com/231465352/files/doc_financials/2025/ar/web-2025-Annual-report.pdf",
+    "https://www.sec.gov/Archives/edgar/data/72741/000110465925026700/tm253884-1_ars.pdf",
+    "https://www.annualreports.com/Companies",
+    "https://www.kiongroup.com/KION-Website-Main/Investor-Relations/Reports-Presentations/2025-Reports-Presentations/FY-2025/2025-Q4_Annual_Report_KION_Group.pdf",
+    "https://invinity.com/investors/financial-reports-calendar/",
+    "https://www.ionos-group.com/fileadmin/Publications/Berichte/IONOS_Annual_Report_2024.pdf",
+    "https://ionbank.com/about-us/annual-reports/",
+    "https://iongroup.com/investor-relations/",
+    "https://compworth.com/company/inion-software"
+   ]
+  },
+  {
+   "query": "Inion Software funding raised",
+   "results": [
+    "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "https://inionsoftware.com/blog/the-start-up-inion-software-sales-break-company-records/",
+    "https://www.facebook.com/inionsoftware/",
+    "https://www.cventures.vc/founder/inion-software/",
+    "https://lt.linkedin.com/company/inion-software",
+    "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "https://rekvizitai.vz.lt/en/company/inion_lt/",
+    "https://www.sorainen.com/deals/energytech-startup-inion-lt-attracts-eur-500-000-investment/",
+    "https://tracxn.com/d/companies/inion/__jKvkAWKq2UaoC7aCdbnLd6EokIhDfHarOQHLQmhRgZM",
+    "https://startupintros.com/orgs/inion-software"
+   ]
+  },
+  {
+   "query": "Inion Software acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "https://inionsoftware.com/blog/the-start-up-inion-software-sales-break-company-records/",
+    "https://www.facebook.com/inionsoftware/",
+    "https://www.linkedin.com/company/union-software-group",
+    "https://www.valsoftcorp.com/news/valsoft-enters-the-association-management-portfolio-with-the-acquisitions-of-unionware-and-membertrak",
+    "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "https://unionsoftwaregroup.com/portfolio/",
+    "https://www.huntersearchcapital.com/portfolio-companies/union-software-group",
+    "https://www.madisonparkgrp.com/transactions/ion-acquires-reval-for-cloud-based-treasury-and-risk-management/",
+    "https://www.axial.net/company/union-software-group/"
+   ]
+  },
+  {
+   "query": "Inion Software white label",
+   "results": [
+    "https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/",
+    "https://inionsoftware.com/blog/inion-software-launches-virtual-power-plant-platform-for-solar-and-battery-assets/",
+    "https://lt.linkedin.com/company/inion-software",
+    "https://www.domo.com/learn/article/what-is-white-label-analytics-and-why-does-it-matter-for-your-business-success",
+    "https://www.facebook.com/inionsoftware/",
+    "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.sisense.com/blog/white-label-analytics-what-they-are-and-how-they-work/"
+   ]
+  },
+  {
+   "query": "Inion Software rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://www.solutionunion.com/",
+    "https://www.adrenalinex.com/work/unlocking-opportunity-through-credit-union-rebranding/",
+    "https://www.linkedin.com/company/sandbox-union",
+    "https://order.design/project/union",
+    "https://union.dev/pension-os",
+    "https://blog.uniontrack.com/union-brand",
+    "https://www.salt.software/",
+    "https://orsacu.org/about/careers",
+    "https://www.nymbus.com/",
+    "https://en.wikipedia.org/wiki/Private_label"
+   ]
+  },
+  {
+   "query": "Inion Software OEM SDK licensing partners",
+   "results": [
+    "https://www.ivanti.com/partners/oem",
+    "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://inionsoftware.com/wp-content/uploads/2022/05/End-User-License-Agreement-2022-05-25.pdf",
+    "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "https://www.linkedin.com/pulse/enterprise-oem-software-licensing-primer-part-i-andrew-paulsen",
+    "https://www.xrite.com/page/oem-licensing",
+    "https://gtmnow.com/enterprise-oem-software-licensing/",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://inionsoftware.com/"
+   ]
+  },
+  {
+   "query": "Inion Software reseller partner program",
+   "results": [
+    "https://www.add-on.com/sales-partners/",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://docs.ionos.com/cloud/partner-program",
+    "http://www.milestonesys.com/partners/reseller-program/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://www.hypeinnovation.com/blog/exploring-different-partner-programs-ecosystem",
+    "https://www.youtube.com/watch?v=sjdMD79pANU",
+    "https://www.n-able.com/partnerships/reseller-program",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.ionos.com/agency-partner"
+   ]
+  },
+  {
+   "query": "Inion Software Jahresabschluss OR financial statements",
+   "results": [
+    "https://inionsoftware.com/",
+    "https://www.rcsunionsoftware.com/",
+    "https://www.facebook.com/inionsoftware/",
+    "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "https://ncua.gov/regulation-supervision/regulatory-reporting/cuonline",
+    "https://www.solidarity.tech/solutions/membership-management-software",
+    "https://blend.com/",
+    "https://unionimpact.com/blog/lm-2-990-union-financial-reporting-workflow-basics/",
+    "https://unionware.com/news-stories/best-union-software",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "Inion Software Japan",
+   "results": [
+    "https://lt.linkedin.com/company/inion-software",
+    "https://inionsoftware.com/",
+    "https://www.facebook.com/inionsoftware/",
+    "https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti",
+    "https://rekvizitai.vz.lt/en/company/inion_lt/",
+    "https://careers.westernunion.com/",
+    "https://inionsoftware.com/blog/the-start-up-inion-software-sales-break-company-records/",
+    "https://www.onionsoft.net/index_e.html",
+    "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "https://www.inion.com/"
+   ]
+  },
+  {
+   "query": "Inion Software employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/",
+    "https://www.crunchbase.com/organization/iono",
+    "https://www.crunchbase.com/organization/union-point-of-sale",
+    "https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg",
+    "https://www.owler.com/company/crunchbase",
+    "https://www.crunchbase.com/organization/ion-group",
+    "https://www.zoominfo.com/c/crunchbase/347668538",
+    "https://app.dealroom.co/companies/crunchbase",
+    "https://www.crunchbase.com/organization/innodata",
+    "https://dealroom.co/our-data/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

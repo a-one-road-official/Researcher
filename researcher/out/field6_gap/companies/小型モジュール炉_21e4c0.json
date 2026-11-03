@@ -1,0 +1,1161 @@
+{
+ "name": "小型モジュール炉",
+ "en": "small modular reactor",
+ "aliases": [
+  "SMR",
+  "次世代革新炉"
+ ],
+ "context": "12 GX ⑥次世代革新炉",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:26:09.934481+00:00",
+ "evidence": {
+  "需給の差": [
+   {
+    "quote": "老朽化した石炭・ガス発電所の廃止により、年間の再生可能エネルギー導入量と、需給が逼迫する時間帯における信頼性の高い発電容量とのギャップが拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "NuScaleのCarbon Free Power Projectが中止された事例では、推定発電価格が58米ドル/MWhから89米ドル/MWhに上昇したことにより、モジュール型プロジェクトにおける電力引き取りの確実性不足が及ぼす影響が明らかになった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国原子力規制委員会（U.S. NRC）の手続きには、建設許可と運転認可の審査が含まれる一方、情報不足によって各段階が長期化する可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "安全かつ機能的なSMRを建設するための熟練した人材の不足も、市場の成長率に悪影響を与えるだろう",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "足元で52週移動平均線を割り込み、2025年10月の急伸前の水準まで下げており、仕切り直しから上昇トレンドへの転換を待ちたいところです",
+    "url": "https://diamond.jp/zai/articles/-/1068973",
+    "pass": 3
+   },
+   {
+    "quote": "海外で低コスト・短納期のSMRに注目が集まるのは当然である",
+    "url": "https://www.decarbonation-tech.com/nuclear_2121/",
+    "pass": 3
+   },
+   {
+    "quote": "電力ひっ迫と原発の再稼働について（Ⅲ）",
+    "url": "https://www.decarbonation-tech.com/nuclear_2121/",
+    "pass": 3
+   },
+   {
+    "quote": "今夏は異常気象による気温上昇と、たまたま補修点検による火力発電所の停止時期が重なったのが電力需要ひっ迫の原因とされているが、隠れた原因としてに太陽光発電や風力発電など出力変動の大きい再生可能エネルギーのが急増し、その出力変動分を火力発電によって調整している点があげられる",
+    "url": "https://www.decarbonation-tech.com/nuclear_2121/",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉SMRはデータセンターの深刻な電力不足を解消できるか：『ビジネス2.0』の視点：オルタナティブ・ブログ",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉SMRはデータセンターの深刻な電力不足を解消できるか",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "本稿ではデータセンター事業者の視点から、小型モジュール炉SMRが安定電源の解となり得るのか、そのコスト構造と実装を阻むボトルネックを客観的に検証します",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターの電力逼迫とハイパースケーラーの原子力投資",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "量産工場の資金不足と審査遅延という構造的摩擦",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間の原子力投資の大半は運転実績がある大型原子炉の延命や新設に配分されており、SMR専用工場の整備資金は不足しています",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の最新予測では、日本の電力需要増加分の過半数をデータセンターが占めるとも試算されており、既存電力網だけでは供給不足に陥る可能性が出てきている",
+    "url": "https://www.tel.co.jp/museum/magazine/report/202601_02/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、新技術ゆえの不確実性（設計、規制、人材、実績不足）が存在する",
+    "url": "https://www.tel.co.jp/museum/magazine/report/202601_02/",
+    "pass": 3
+   },
+   {
+    "quote": "睡眠不足を救う不眠症関連銘柄6選",
+    "url": "https://www.aizawasec-univ.jp/article/takezou_202603.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、米国原子力規制委員会が2026年2月にTRISO燃料工場の40年ライセンスを発給し、燃料供給側のボトルネック緩和に向けた重要な前進が確認されます",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "燃料（濃縮・加工・燃料工場）、大型鍛造・機械加工、原子力向けバルブや計装、モジュラー組立、EPCと統合プロジェクトデリバリー、規制対応サービスなど、製造業としての裾野が広い一方、FOAK特有のコスト超過、燃料供給遅延、規制スケジュール、受注の厚み不足が最大の下振れ要因です",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "ここは製造能力だけでなく、規制審査と事業許認可も含めた産業システム全体のスループットの課題であり、製造拡大のボトルネックが工場だけにないことを示唆します",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、米国原子力規制委員会は2026年2月にTRISO燃料工場に対し40年のPart 70ライセンスを発給し、燃料加工の供給能力拡張に向けた制度上の節目が示されました",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "Interconnection will be a problem for SMRs, as it is for other energy technologies. Recent improvements won’t be enough to solve the enormous backlog of projects seeking interconnection approval from FERC. It is possible that the long lead times for SMRs will mean that the backlog is not as much of a problem.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Again, SMRs are inherently less risky from a demand perspective than are large reactors. They have shorter lead times, so market conditions have less time in which to change adversely. And they cost less.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "https://emp.lbl.gov/news/grid-connection-backlog-grows-30-2023-dominated-requests-solar-wind-and-energy-storage",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "; This backlog may be cut by the new interconnection rule finalized by FERC. See Ted Bloch-Rubin, “What FERC Order 2023 Means for the Interconnection Queue,”",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecuador is considering nuclear power to address recent energy shortages. Government plans published in 2025 propose developing a 300 MWe small modular reactor in the medium term, followed by a larger 1000 MWe nuclear plant in the longer term.",
+    "url": "https://world-nuclear.org/our-association/publications/global-trends-reports/world-nuclear-outlook-report",
+    "pass": 3
+   },
+   {
+    "quote": "Financing is particularly complex. Nuclear power projects, including SMRs, require large upfront capital, long lead times and often face regulatory and political risks that deter investment. While many countries are working to improve their regulatory frameworks to enable faster deployment without compromising safety, progress is slow and uneven.",
+    "url": "https://www.gisreportsonline.com/r/smrs/",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "2025年の基準年と2026〜2035年の予測期間は、原子炉タイプ、用途、接続形態、立地、容量、最終用途、地域の各区分で共通している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "World Nuclear Association, “Small Nuclear Power Reactors,” world-nuclear.org",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Department of Energy, “Advanced Reactor Demonstration Program,” energy.gov",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制・認可の遅延",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "OECD Nuclear Energy Agency, “Small Modular Reactors,” oecd-nea.org",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国原子力規制委員会（U.S. NRC）の手続きには、建設許可と運転認可の審査が含まれる一方、情報不足によって各段階が長期化する可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Project Pele、KairosのHermes試験炉、USNCの5-MWe MMRは、遠隔地向けの複数基展開に先立って必要となるエンジニアリングおよび規制上の段階を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Darlington、Kemmerer、Changjiang、Shidaowan、Seadriftは、産業サイトの整備状況と確立された規制管轄区域の重要性を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Small Modular Reactor Market Size, 2023 – 2035, (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の2026年原子力安全法改正、日本の確立された原子力技術基盤、インドの220 MWe級PHWRベース小型炉計画により、同地域の技術基盤は広がっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "NuScaleは規制上の節目を維持しているものの、2023年のプロジェクト中止を受けて国際的な事業展開に軸足を移した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月：米国原子力規制委員会（NRC）は、ワイオミング州ケメラーで建設されるNatriumについて、TerraPowerに商用SMRの建設許可を発給した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 規制に関する前提条件と政策変更リスク",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "この専門家によるレビューが品質保証の重要な層となり、データが調査目的と各分野の基準に合致していることを確認します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "専門的な業務基準と顧客満足度",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型モジュール式原子炉市場は、Ultra Safe Nuclear Corporation (USNC)、Holtec International、Rolls-Royce Small Modular Reactors、Kairos Power、Seaborg Technologies、Westinghouse Electric Company、NuScale Power, LLC、ThorCon Power、General Atomics、Moltex Energy、GE Hitachi Nuclear Energy、X-energy、Terrestrial Energy Inc.、Oklo Inc.、BWX Technologies, Inc.などの企業によって牽引されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米、欧州、アジア太平洋地域における規制当局の認可、官民パートナーシップ、実証プロジェクト、および支援的な資金調達イニシアチブが、市場の信頼を高めています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府、電力会社、民間開発業者は、実証プロジェクト、規制当局の承認、官民パートナーシップ、資金調達イニシアチブを通じて、SMRの商用化を加速させています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、予測期間中は、強力な気候政策、有利な規制枠組み、および英国とその他の欧州諸国における大規模なSMR導入イニシアチブに支えられ、欧州が市場を主導すると予想されます",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、世界中の政府は環境バランスの悪化を認識しており、有害排出物に対する厳格な規制を含む、その回復に向けた必要な措置を講じています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした規制の結果、新規投資家が小型モジュール型原子炉に殺到しています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制上の障壁",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "第一の、そして最も重要な課題は、規制上の障壁の存在であります",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "SMRベンダー側は、これらの特徴により、運用に必要な要員数を削減できる（Rothwell, 2016: 168の議論を参照）ほか、規制の適用により緊急時計画区域の規模を縮小できると主張しています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制当局と技術支援機関も、こうした選択肢と革新技術について判断を下すのに時間を要するため、遅延が生じる可能性があります",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府によるインセンティブ、支援的な規制枠組み、長期電力購入契約、官民パートナーシップなどが、北米、欧州、アジア太平洋地域におけるSMRプロジェクトへの電力会社の投資をさらに後押ししています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ、英国、フランスなどの国々は、エネルギー転換戦略の一環としてSMRの開発を積極的に推進する強固な規制機関の恩恵を受けており、市場を牽引する主要なプレーヤーとなっています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "その背景には、野心的なカーボンニュートラル目標、政府による強力な資金支援、有利な規制枠組み、そして英国とフランスなどの国々が主導する進行中のSMR開発プロジェクトがあります",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制・法制度の動向分析の追加（対象地域の規制環境など）",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間・基準年の調整（予測年の延長など）",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年現在、再生可能エネルギーの導入拡大や脱炭素化の流れを背景に、SMR（Small Modular Reactor）市場は急速に注目を集めています",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "SMR（Small Modular Reactor）とは、直訳すると「小型モジュール炉」",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "設計認証取得、段階的建設・運用が可能",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "IMSR商用化準備、欧米での規制承認進行",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "NuScale Powerは米国で設計認証を取得し、段階的な建設と運用が可能なモジュール式SMRを提供しています",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "カナダのTerrestrial EnergyはIMSRの商用化を進め、欧米で規制承認を得つつあります",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size, Share, and Trends 2025 to 2034",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では、原子力規制の承認プロセスや地元自治体との協力が進むことで、世界市場と同様に急速な拡大が期待されます",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "SMR（Small Modular Reactor）は、原子力発電の新たな選択肢として開発が進められている小型モジュール型原子炉です",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMRは技術開発の途上にあり、安全基準の確立も検討段階です",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "②安全基準：",
+    "url": "https://www.decarbonation-tech.com/nuclear_2121/",
+    "pass": 3
+   },
+   {
+    "quote": "軽水炉タイプのSMRには従来の安全基準の適用が基本的に可能と考えられるが、",
+    "url": "https://www.decarbonation-tech.com/nuclear_2121/",
+    "pass": 3
+   },
+   {
+    "quote": "高温ガス炉や高速炉タイプのSMRは安全基準が確立されるまで許認可に時間を要し",
+    "url": "https://www.decarbonation-tech.com/nuclear_2121/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年5月3日に掲載された記事（Small Modular Nuclear Reactors Are Mostly Bad Policy）",
+    "url": "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "pass": 3
+   },
+   {
+    "quote": "まず、小型モジュール原子炉（Small Modular Nuclear Reactors：SMNR）あるいは中小型炉（Small and Medium Reactors：SMR）の世界を概観してみよう",
+    "url": "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "pass": 3
+   },
+   {
+    "quote": "核技術や核燃料は、核不拡散という戦略的目標のために高度に規制や制約がかけられている",
+    "url": "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "pass": 3
+   },
+   {
+    "quote": "原子力発電所を持つすべての国では、民間の賠償責任にある程度の上限を設け、それ以上の賠償責任は納税者に負わせる法律を制定している",
+    "url": "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "pass": 3
+   },
+   {
+    "quote": "諸州のうちオンタリオ州は、積極的に自然エネルギーに敵対しており、現州政府は758件の自然エネルギー契約を打ち切り、選挙後の最初の取り組みとして固定価格買取制度廃止を法制化した",
+    "url": "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、各国の規制当局による安全審査の長期化がコスト高を招いています",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "現行の審査基準は大型軽水炉を前提にしており、受動的安全性を持つ小型炉に対応した評価枠組みは途上にあります",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "初号機プロジェクトの完工精度とコスト3割低減の検証基準",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの実証案件が計画された予算と工程の枠内で運転開始まで到達できるかどうかが、後続投資を判断する基準となります",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "第一に、過酷な地震動を想定した国内独自の耐震基準への適合です",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、原子力規制委員会による審査体制の整備と、新規立地に対する地域合意の難しさです",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、データセンターへの直接給電を可能にする託送制度や、石炭火力跡地の送電容量の再配分といった市場制度の整備も欠かせません",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術的な仕様にとどまらず、立地国の規制環境や社会構造にいかに整合させられるかが、小型モジュール炉SMRの実装可能性を測る試金石となるでしょう",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": " 英国における新設原子力発電所の資金調達手法「規制資産ベース（RAB）",
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 英国の新設原子力発電所を対象とする廃棄物移転価格制度の概要",
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " フランスの原子力発電への規制アクセス制度 ARENH の見直しと新たな制度的措置の概要案",
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第4部 許認可に係る規制行政",
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "Ontario Power Generationの4基構成のBWRX-300 Darlingtonプログラムは、総予算209億カナダドルで、この段階的建設という前提を実証する現在進行中の試金石となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Darlingtonの4基構成の予算は、初号機の資本コストが、一般にコンバインドサイクルガス発電の競争力と関連付けられる水準を上回ることを示唆している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国政府は2021年、この事業への民間投資に見合う形で、ロールス・ロイスSMR社に対し2億1000万ポンドの助成金を支給すると発表しました",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を無駄にしないでください！",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を2025年の実用的な",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算が失効する前に、 最大限に活用しよう!",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を最大限に活用する お手伝いをいたします!",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "取引報告書などを電子交付するだけで、現物取引、信用取引に加え、単元未満株の売買手数料まで0円になるので、売買コストに関しては圧倒的にお得な証券会社と言える",
+    "url": "https://diamond.jp/zai/articles/-/1068973",
+    "pass": 3
+   },
+   {
+    "quote": "ではその10倍の予算が計上されているが、そのほとんどが研究開発に充てられている",
+    "url": "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "pass": 3
+   },
+   {
+    "quote": "SMRへの支出のほとんどは、Nu Scale社の救済措置（オハイオ州の13億ドルの救済措置に加えて、毎年17億ドルのあからさまな連邦補助金に加えて、毎年40億ドルの隠されたセキュリティ補助金に加えて、700億ドルの資金化されていないクリーンアップ補助金に加えて、財源のない納税者債権が投入されている）以外のことに使われているからだ",
+    "url": "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "pass": 3
+   },
+   {
+    "quote": "同リポートは、人工知能の急速な普及に伴うデータセンターの電力消費急増とエネルギー安全保障の強化を背景に、小型モジュール炉SMRへの累積投資額が2040年までに1,514億5,000万ドルに達し、同年に18.65ギガワットが稼働すると予測しています",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "• 2018年度予算にて、2021年1月以降に運転を開始する発電所につ",
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "- 先進原子炉基金（Advanced Nuclear Fund, 計38.5億ポンド）",
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【アメリカ】エネルギー省、SMR導入支援で1350億円補助金",
+    "url": "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "pass": 3
+   },
+   {
+    "quote": "米エネルギー省は3月24日、原子力発電の小型モジュール炉（SMR）の導入支援で、9億米ドル（約1,350億円）の補助金募集を開始した",
+    "url": "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "pass": 3
+   },
+   {
+    "quote": "第3+世代軽水型小型モジュール炉（Gen III+SMR）の導入で、2段階に分けて補助金を支給する",
+    "url": "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】経産省、GX地域共創補助金1次公募結果選定",
+    "url": "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "pass": 3
+   },
+   {
+    "quote": "米国エネルギー省（DOE）は2026年5月14日、小型モジュール炉（SMR）の導入加速に向け、選定企業8社に総額9,400万ドル超の連邦助成金を支給すると発表した",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1271701_8182.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回は第二弾として、残る約1億ドルの交付となる",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1271701_8182.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大27億円｜次世代革新炉補助金を徹底解説【令和7年度補正】 | 補助金エージェント",
+    "url": "https://hojokin-agent.jp/subsidy/66692",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度補正「次世代革新炉の開発・建設に向けた技術開発・サプライチェーン構築支援事業補助金」",
+    "url": "https://hojokin-agent.jp/subsidy/66692",
+    "pass": 3
+   },
+   {
+    "quote": "最大27億円｜次世代革新炉補助金を徹底解説【令和7年度補正】",
+    "url": "https://hojokin-agent.jp/subsidy/66692",
+    "pass": 3
+   },
+   {
+    "quote": "次世代革新炉補助金とは何か？ 27億円の超大型支援を解説",
+    "url": "https://hojokin-agent.jp/subsidy/66692",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち一つ目の実証炉カテゴリーの支援対象として、2020年10月、TerraPower社のナトリウム冷却高速炉「Natrium」とX-Energy社のぺブルベッド型高温ガス炉「Xe-100」が選定され、それぞれに対し8,000万ドルが初期支援金として交付されることが発表された",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2022/2022090901.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナム最新情報 ビングループ、供給企業向けに土地賃貸料50％減額などの支援策",
+    "url": "https://www.aizawasec-univ.jp/article/takezou_202603.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来の大型原発は、建設に10年以上、費用に数兆円を要し、工期遅延や予算超過が常態化していました",
+    "url": "https://note.com/saidatomoya/n/n05759510e4fb",
+    "pass": 3
+   },
+   {
+    "quote": "NuScale’s proposed flagship SMR project in Utah has closed because it became uneconomic, as the projected cost of construction increased by 75 percent (to $9.3 billion) between 2021 and 2024. As a result, the estimated cost of electricity per MWh increased from $58 to $89, even after including a $30/MWh subsidy under the Inflation Reduction Act (IRA).",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. tax policy has been used to reduce operating expenses as well. The IRA offers either ITCs—credits against construction costs for clean energy projects—or PTCs. PTCs offer a subsidy of up to $33/MWh for new clean energy projects, covering the first 10 years of operation.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "In general, we strongly support funding for TRL 3-6. Private investment will not be sufficient, especially for nuclear, where risks are high and returns are often a long way off. Building a new industry sector is challenging, and government funding will be needed. And moving through TRL 5-6 is expensive for first-of-a-kind reactors.",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": ". “US Grants $14mln for SMR Project in Romania,”",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   },
+   {
+    "quote": "https://ceenergynews.com/nuclear/us-grants-14mln-for-smr-project-in-romania/",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "小型モジュール炉市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場の主要企業には、GE Hitachi Nuclear Energy、CNNC (China National Nuclear Corp)、TerraPower、Rolls-Royce SMR Ltd、Rosatomなどが含まれ、これらの企業は2025年に合計で64%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "対象となる主要企業",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール式原子炉市場の成長を活用している主要企業はどれですか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、SMRが注目される背景や市場動向、主要企業の取り組みについて解説します",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "SMR市場を牽引する主要企業",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "SMRの主要企業は、次世代原子炉技術の新興勢力として注目されています",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "次世代原子炉「SMR」プロ本格化、主要プレーヤーになる日本企業の名前｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/p/31573",
+    "pass": 3
+   },
+   {
+    "quote": "次世代原子炉「SMR」プロ本格化、主要プレーヤーになる日本企業の名前",
+    "url": "https://newswitch.jp/p/31573",
+    "pass": 3
+   },
+   {
+    "quote": "）をめぐり、日本企業の参画するプロジェクトが本格化する",
+    "url": "https://newswitch.jp/p/31573",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が国際連携プロジェクトの主要プレーヤーとして台頭する公算が大きくなってきた",
+    "url": "https://newswitch.jp/p/31573",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】金融庁、CDSCの気候データ・ユーティリティと日本企業GHGデータ取込みで連携",
+    "url": "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "pass": 3
+   },
+   {
+    "quote": "【戦略】2030年以降、SDGsはどうなるか ～ポストSDGsを巡る国際議論と日本企業への示唆～",
+    "url": "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "pass": 3
+   },
+   {
+    "quote": "そして、SMRの開発・量産が、日本企業の競争力の高い、新たな巨大輸出産業になる可能性があること",
+    "url": "https://www.tel.co.jp/museum/magazine/report/202601_02/",
+    "pass": 3
+   },
+   {
+    "quote": "先述したように、SMRに必要な構成要素やSMRそのものの技術・ビジネス開発において、日本企業は高い競争力を持っている",
+    "url": "https://www.tel.co.jp/museum/magazine/report/202601_02/",
+    "pass": 3
+   },
+   {
+    "quote": "・大型原発建設が停滞する欧米に対し、日本企業が握る「超大型鍛造品・極厚圧力容器・耐高温腐食材料・受動安全系ポンプ配管」の高利益チョークポイント",
+    "url": "https://note.com/saidatomoya/n/n05759510e4fb",
+    "pass": 3
+   },
+   {
+    "quote": "・【第5章】結論：グローバル受注競争の裏で、日本企業（重工・鉄鋼・精密鍛造）が独占的に押さえるべき「不可侵サプライチェーン」のエントリーバリア",
+    "url": "https://note.com/saidatomoya/n/n05759510e4fb",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "小型モジュール炉市場規模 ・成長レポート、2026〜2035年 — 小型モジュール炉市場規模 ・成長レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > small-m...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場 2035年には158億7000万米ドルへ拡大 — 小型モジュール炉市場 2035年には158億7000万米ドルへ拡大 Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 https://www.reportocean.co.jp > industry-reports > small-...",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年版】 SMR （ 小型モジュール炉 ）とは？最新動向と ... — 【2025年版】 SMR （ 小型モジュール炉 ）とは？最新動向と ... ロケットモバイル https://rokemoba.co.jp > HOME > 法人向け通信",
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "SMR とは？メリット・デメリット、 国内 外の開発事例や各国 ... — SMR とは？メリット・デメリット、 国内 外の開発事例や各国 ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_69",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉SMR はデータセンターの深刻な電力不足を ... — 小型モジュール炉SMR はデータセンターの深刻な電力不足を ... オルタナティブ・ブログ https://blogs.itmedia.co.jp > business20 > 2026/10 > smrai",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉 に関する国際動向 — 小型モジュール炉 に関する国際動向 aesj.or.jp PDF https://www.aesj.or.jp > Pdf > 2022_txt > 1530_SMR",
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラルの実現に向けて～ 小型モジュール炉 ... — カーボンニュートラルの実現に向けて～ 小型モジュール炉 ... 日本原子力研究開発機構 PDF https://www.jaea.go.jp > faq > files > material050306",
+    "url": "https://www.jaea.go.jp/04/sefard/faq/files/material050306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉 市場規模・成長レポート、 2026 〜2035年 — 小型モジュール炉 市場規模・成長レポート、 2026 〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > small-m...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "【アメリカ】エネルギー省、 SMR 導入支援で1350億円 補助金 ... — 【アメリカ】エネルギー省、 SMR 導入支援で1350億円 補助金 ... Sustainable Japan https://sustainablejapan.jp > 2025/04/03 > usa-nuclear",
+    "url": "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "pass": 3
+   },
+   {
+    "quote": "[米国] DOE、 SMR 導入加速に向け8社に総額9400万ドルを支給 — [米国] DOE、 SMR 導入加速に向け8社に総額9400万ドルを支給 電気事業連合会 https://www.fepc.or.jp > ... > 海外電力関連 トピックス情報",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1271701_8182.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大27億円｜次世代革新炉 補助金 を徹底解説【令和7年度補正】 — 最大27億円｜次世代革新炉 補助金 を徹底解説【令和7年度補正】 補助金エージェント https://hojokin-agent.jp > 補助金・給付金一覧",
+    "url": "https://hojokin-agent.jp/subsidy/66692",
+    "pass": 3
+   },
+   {
+    "quote": "[世界] 9カ国の 規制 当局、 SMR 技術審査と許認可に関する国際 ... — [世界] 9カ国の 規制 当局、 SMR 技術審査と許認可に関する国際 ... 電気事業連合会 https://www.fepc.or.jp > ... > 海外電力関連 トピックス情報",
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1261199_4115.html",
+    "pass": 3
+   },
+   {
+    "quote": "｢ 小型モジュール炉 （ SMR ）」を3分解説！ | EMIRA — ｢ 小型モジュール炉 （ SMR ）」を3分解説！ | EMIRA emira-t.jp https://emira-t.jp > エネペディア",
+    "url": "https://emira-t.jp/pedia/26107/",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉 （ SMR ）関連銘柄5選！次世代原発で恩恵を ... — 小型モジュール炉 （ SMR ）関連銘柄5選！次世代原発で恩恵を ... アイザワ投資大学 https://www.aizawasec-univ.jp > article > takezou_202603",
+    "url": "https://www.aizawasec-univ.jp/article/takezou_202603.html",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size & Share Analysis 2030 — Small Modular Reactor Market Size & Share Analysis 2030 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/small-modular-reactor-smr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size | Industry Report, 2033 — Small Modular Reactor Market Size | Industry Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactors : A Realist Approach to the Future of ... — Small Modular Reactors : A Realist Approach to the Future of ... Information Technology and Innovation Foundation https://itif.org > 2025/04/14 > small-...",
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": "３.２.日本国内のSMR開発支援政策",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2022/2022090901.html",
+    "pass": 3
+   },
+   {
+    "quote": "３.２日本国内のSMR開発支援政策",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2022/2022090901.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内においては、文部科学省と経済産業省が連携して2019年4月に開始した原子力イノベーション推進（Nuclear Energy × Innovation Promotion: NEXIP）イニシアチブ事業の下、SMRを含む革新的な原子力技術を開発する民間企業等に対する支援が行われている",
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2022/2022090901.html",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "さらに、2024年時点で米国内で稼働するHALEU濃縮はCentrus子会社のみで、年最大900kgとしています",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国の予算億円": [
+   {
+    "value": "350",
+    "url": "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "quote": "【アメリカ】エネルギー省、SMR導入支援で1350億円補助金"
+   },
+   {
+    "value": "1,350",
+    "url": "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "quote": "米エネルギー省は3月24日、原子力発電の小型モジュール炉（SMR）の導入支援で、9億米ドル（約1,350億円）の補助金募集を開始した"
+   },
+   {
+    "value": "27",
+    "url": "https://hojokin-agent.jp/subsidy/66692",
+    "quote": "最大27億円｜次世代革新炉補助金を徹底解説【令和7年度補正】 | 補助金エージェント"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mri.co.jp/knowledge/column/20250729.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/zai/articles/-/1068973",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.decarbonation-tech.com/nuclear_2121/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/009_06_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newswitch.jp/p/31573",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reddit.com/r/NuclearPower/comments/1qk5qx9/why_small_modular_reactors_wont_save_nuclear/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jaea.go.jp/04/sefard/faq/files/material050306.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2025/0204_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1271701_8182.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-agent.jp/subsidy/66692",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2024/10/9f4e0fc76c0a2f04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaea.go.jp/04/sefard/ordinary/2022/2022090901.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1261199_4115.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/008_01_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.weforum.org/stories/energy-transition/small-nuclear-reactor-modular",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://emira-t.jp/pedia/26107/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tel.co.jp/museum/magazine/report/202601_02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/themes/?theme=%E5%B0%8F%E5%9E%8B%E5%8E%9F%E5%AD%90%E7%82%89",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aizawasec-univ.jp/article/takezou_202603.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/saidatomoya/n/n05759510e4fb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/small-modular-nuclear-reactor-market-101578",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/small-modular-reactor-market-5001546.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/small-modular-reactor-smr-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/Is-there-a-market-for-next-generation-nuclear-reactors-in-Japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://world-nuclear.org/our-association/publications/global-trends-reports/world-nuclear-outlook-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gisreportsonline.com/r/smrs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/nuclear/comments/1pmslh9/bloomberg_us_power_shortage_how_small_modular/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "小型モジュール炉 国内市場規模 億円",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "https://www.mri.co.jp/knowledge/column/20250729.html",
+    "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "https://note.com/better_equation/n/nee581878d4c5",
+    "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/008_01_00.pdf",
+    "https://www.mordorintelligence.com/ja/industry-reports/small-modular-reactor-smr-market"
+   ]
+  },
+  {
+   "query": "小型モジュール炉 国内 参入企業 社",
+   "results": [
+    "https://diamond.jp/zai/articles/-/1068973",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_69.html",
+    "https://www.decarbonation-tech.com/nuclear_2121/",
+    "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/009_06_00.pdf",
+    "https://newswitch.jp/p/31573",
+    "https://note.com/better_equation/n/nee581878d4c5",
+    "https://www.aizawasec-univ.jp/article/takezou_202603.html",
+    "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "https://www.aec.go.jp/kaigi/teirei/2025/siryo11/1-1_haifu.pdf",
+    "https://note.com/saidatomoya/n/n05759510e4fb"
+   ]
+  },
+  {
+   "query": "小型モジュール炉 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://www.renewable-ei.org/activities/column/REupdate/20210528.php",
+    "https://www.decarbonation-tech.com/nuclear_2121/",
+    "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "https://www.reddit.com/r/NuclearPower/comments/1qk5qx9/why_small_modular_reactors_wont_save_nuclear/?tl=ja",
+    "https://www.jaea.go.jp/04/sefard/faq/files/material050306.pdf",
+    "https://www.astuteanalytica.com/ja/industry-report/behind-the-meter-nuclear-market",
+    "https://www.aec.go.jp/kaigi/teirei/2025/siryo11/1-1_haifu.pdf",
+    "https://www.jaero.or.jp/_files/publication/tsuiseki/tsuiseki2202.pdf"
+   ]
+  },
+  {
+   "query": "小型モジュール炉 予算 補助金 基金 2026",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "https://sustainablejapan.jp/2025/04/03/usa-nuclear/112053",
+    "https://www.enecho.meti.go.jp/appli/public_offer/2025/0204_01.html",
+    "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1271701_8182.html",
+    "https://hojokin-agent.jp/subsidy/66692",
+    "https://www.jetro.go.jp/biznews/2024/10/9f4e0fc76c0a2f04.html",
+    "https://www.renewable-ei.org/activities/column/REupdate/20231120.php",
+    "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "https://www.teitanso.or.jp/nextnuc/",
+    "https://hojokin-lab.jp/next-generation-reactor-subsidy-2026/"
+   ]
+  },
+  {
+   "query": "小型モジュール炉 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.jaea.go.jp/04/sefard/ordinary/2022/2022090901.html",
+    "https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1261199_4115.html",
+    "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/008_01_00.pdf",
+    "https://jp.weforum.org/stories/energy-transition/small-nuclear-reactor-modular",
+    "https://emira-t.jp/pedia/26107/",
+    "https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf",
+    "https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf",
+    "https://www.jaero.or.jp/sogo/detail/cat-02-05.html",
+    "https://note.com/better_equation/n/nee581878d4c5"
+   ]
+  },
+  {
+   "query": "小型モジュール炉 国内 主要企業 メーカー",
+   "results": [
+    "https://diamond.jp/zai/articles/-/1068973",
+    "https://www.decarbonation-tech.com/nuclear_2121/",
+    "https://www.tel.co.jp/museum/magazine/report/202601_02/",
+    "https://kabutan.jp/themes/?theme=%E5%B0%8F%E5%9E%8B%E5%8E%9F%E5%AD%90%E7%82%89",
+    "https://www.aizawasec-univ.jp/article/takezou_202603.html",
+    "https://note.com/better_equation/n/nee581878d4c5",
+    "https://www.youtube.com/watch?v=Jqy8mCxGLZY",
+    "https://www.jaea.go.jp/04/sefard/faq/files/material050306.pdf",
+    "https://rokemoba.co.jp/column/smr-market-ai-communication-2025/",
+    "https://note.com/saidatomoya/n/n05759510e4fb"
+   ]
+  },
+  {
+   "query": "small modular reactor Japan market size",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/small-modular-nuclear-reactor-market-101578",
+    "https://www.marketsandmarkets.com/Market-Reports/small-modular-reactor-market-5001546.html",
+    "https://www.mordorintelligence.com/industry-reports/small-modular-reactor-smr-market",
+    "https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary",
+    "https://www.quora.com/Is-there-a-market-for-next-generation-nuclear-reactors-in-Japan",
+    "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/small-modular-reactor-market/japan",
+    "https://market.us/report/small-modular-reactor-market/",
+    "https://www.eria.org/uploads/Global-Situation-Small-Modular-Reactor-Development-Deployment.pdf",
+    "https://www.6wresearch.com/industry-report/japan-small-modular-reactor-market"
+   ]
+  },
+  {
+   "query": "small modular reactor shortage backlog supply gap 2025",
+   "results": [
+    "https://itif.org/publications/2025/04/14/small-modular-reactors-a-realist-approach-to-the-future-of-nuclear-power/",
+    "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "https://world-nuclear.org/our-association/publications/global-trends-reports/world-nuclear-outlook-report",
+    "https://www.gisreportsonline.com/r/smrs/",
+    "https://www.reddit.com/r/nuclear/comments/1pmslh9/bloomberg_us_power_shortage_how_small_modular/",
+    "https://news.engin.umich.edu/2025/12/new-nuclear-requires-strong-governance-to-avoid-making-old-mistakes/",
+    "https://www.iea.org/data-and-statistics/charts/number-of-small-modular-reactors-in-selected-regions-in-the-announced-pledges-scenario-2025-2050",
+    "https://oecd-nea.org/jcms/pl_57979/small-modular-reactors-challenges-and-opportunities?details=true",
+    "https://tocco.earth/article/small-nuclear-reactor-market-size",
+    "https://nucleus.iaea.org/sites/smr/Shared+Documents/IAEA+SMR+Platform+Annual+Report+2025.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

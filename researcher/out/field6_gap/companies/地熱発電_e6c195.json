@@ -1,0 +1,1210 @@
+{
+ "name": "地熱発電",
+ "en": "geothermal power",
+ "aliases": [
+  "次世代地熱",
+  "超臨界地熱"
+ ],
+ "context": "12 GX ④次世代型地熱",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:30:49.362779+00:00",
+ "evidence": {
+  "国内市場規模": [
+   {
+    "quote": "図1 日本国内の市場規模 出典:矢野経済研究所",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "図3 日本国内における産業別市場規模 出典:矢野経済研究所",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "2050年度の国内市場を3,524億円(2025年度比15.2倍)と推計 | 富士経済グループ 市場調査レポートサイト",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2050年度の国内市場を3,524億円(2025年度比15.2倍)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では、2025年度は従来型でMW規模の地熱発電システムが複数竣工しています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の国内市場を108兆4,700億円と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場において2025年度は、従来型のシステムでMW規模の地熱発電システムが複数完成している",
+    "url": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+    "pass": 3
+   },
+   {
+    "quote": "図１３ 日本国内での自然エネルギーおよび原子力の発電量の割合のトレンド 出典：ISEP",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "固定価格買取制度（FIT）以降、再生可能エネルギーへの注目は、日に日に増しています",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "固定価格買取制度（FIT）の施行",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "FITの施行後に開発が始められた地熱開発は多岐にわたり、特に火山の多い九州地方に集中しています",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "図5 FIT施行（H24年7月）後の地熱開発状況（平成27年2月時点） 出典:資源エネルギー庁",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "電験3種などの資格取得に関する経済支援制度を設けています",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "30円/kWhの目安設定やリスク分担など制度を見直し、優良海域への選択と集中で再エネ主力化を目指します",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度FIT制度は物価高を反映し一部価格を引き上げる一方、地上設置型太陽光は27年度に支援を終了します",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "単純な売電依存の時代は終わり、今後は蓄電池活用やPPA、VPP展開など、制度から自立した総合エネルギー事業への進化が生き残りの必須条件となります",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、制度設計・金融支援・標準化の動向を踏まえ、日本が形成しつつある「都市型エネルギーエコシステム」​​の全体像を明らかにします",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池が“都市インフラとしての電源”へ進化するために、どのような技術と制度基盤が求められているのかを整理します",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "環境省認定制度",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "調査が開始され、2021年度からは規制緩和に伴い自然公園内での新たな有望地点",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 現行FIT、FIP価格水準を維持し、FITｰFIP制度下での開発予見性を担保",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 基準を満たす案件は、設備容量が確定しない初期段階での系統枠の確保（仮押さえ）",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⇒地域受容推進、温泉法、自然公園、国有林等の規制緩和",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 温泉法下で都道府県ごとに定められた非科学的な許可基準の是正とその情報公開",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 現行制度では、経済性の観点から最適点を選択する傾向は否めない",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ また、FIT制度以前の平均的な出力規模である15,000kW～30,000kWの電源について",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ FIP制度",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ FIP：基準価格、期間",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ FIT/FIPは常に価格変更（切下げ）可能性を伴う制度であるものの、リードタイムが長い",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ FIT制度施行「前」に営業運転を開始した1,000kW以上の発電所は15か所",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1978年の “PURPA法（公益事業規制政策法）”と",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－ PURPA法（Public Utility Regulatory Policies Act 1978）地熱を含む再",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "控除を10年間受けられる制度",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツでは2000年から地熱に対してもFIT制度が適用された",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本では小泉進次郎環境相が今年4月に開発加速を宣言し、6月には河野太郎規制改革担当相が2030年に地熱発電施設を倍増する目標を掲げています",
+    "url": "https://kabu.com/kabuyomu/money/644.html",
+    "pass": 3
+   },
+   {
+    "quote": "河野規制改革担当相は自然公園での導入を進めるため、規制の緩和を進める考えを示しています",
+    "url": "https://kabu.com/kabuyomu/money/644.html",
+    "pass": 3
+   },
+   {
+    "quote": "CCS関連法制度と事業環境（豪州）",
+    "url": "https://journal.jogmec.go.jp/geothermal/learn/plant-japan/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "CCS関連法制度と事業環境（カナダ）",
+    "url": "https://journal.jogmec.go.jp/geothermal/learn/plant-japan/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "FIT制度の活用",
+    "url": "https://journal.jogmec.go.jp/geothermal/learn/plant-japan/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 開発のための各種規制への対応",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 当協会は、将来のFIT/FIP制度の終了に備え、地熱発電の自立化についての取",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 一方、FIT制度導入後の物価上昇および円安の影響に加えて、2026年度から",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 補助金は、現行のJOGMEC助成制度を反映",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 現在の主要な作成基準：①2000年を基準年（100）とし、5年毎に最新のプラントの動向を反映するために見直",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年8月】 物価上昇、JOGMEC助成制度、FIP単価下落（フォーミュラ方式導入）等を考慮",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 1,000kW未満の小規模発電の申請及び認定件数は、FIT制度開始当初は多かったもの",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ その中で①人材/雇用、②コスト/契約、③掘削機器/資機材、④規制、⑤技",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・JOGMECの助成金制度では1地域、1年に1坑井しか掘削",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関係官庁による敷地面積(法面上2000m2)規制",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 掘削工事敷地 関係官庁による敷地面積(法面上2000m2)規制",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（FIP制度との併用も可能）",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "値の制度的根拠の確立、購入インセンティブの創出）の早期実現に向け、当",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ JOGMECの助成制度やポテンシャル調査（フロンティアプロジェクトを含む）",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が発電コストにどの程度インパクトを与えるか試算し、効果的な制度設計",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "( １ ）法規制等に関する課題",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "( １ ）段階的な規制緩和 と国の支援体制",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "国立・国定公園内であっても、エネルギーの地産地消を目的とする開発や、公園の利用促進に資する小規模な発電設備に限定して地熱発電開発を特認するなど、国は過去段階的な 規制緩和",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの規制緩和などからうかがえるように、再生可能エネルギーの主力電源化の実現のために、 日本政府は地熱発電の普及にも期待を寄せ て、後押しする姿勢を見せてきた",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "後述する自然公園法によって、フラッシュ発電の採用は実質的に制限されていること、国は「新エネルギー利用等の促進に関する特別措置法施行令」に基づき再生可能エネルギーの中でも新エネルギーとして定義するのはバイナリー発電のみ であることから、本稿ではバイナリー発電に焦点をあて、 地熱発電開発が抱える課題と可能性について論じていく",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "「自然公園法・温泉法に係る地熱開発に関する基準等について」",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "自然公園法や温泉法による規制が代表的",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "温泉法は、温泉の保護や、温泉の採取などによって発生する可能性のある有害ガスが原因で起きる災害を未然に防ぐことを目的とした法律",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーの導入促進を目的として、各種再生可能エネルギーのポテンシャル情報（ポテンシャルは、「再生可能エネルギー源の賦存量 」、「 導入ポテンシャル 」、「 事業性を考慮したポテンシャル 」 の3つの観点を基準）を開示するため、2020年に環境省が開設したポータルサイト",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.env.go.jp/policy/kihon_keikaku/goodlifeaward/report201910-hidatakayama.html",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年以降の規制緩和と開発支援",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "地熱の他、石炭火力など安定電源による電力を取引する「ベースロード市場」の8月の約定価格は13.41円/kWh（九州エリア）で、「非化石証書」の取引市場での約定価格は同0.6円/kWh（非FIT・再エネ指定）で、落札単価はこの合計14円/kWhに一定の上乗せをした金額とみられる",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年7月の固定価格買取制度（FIT）後に行われた",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "様々な規制緩和や開発支援について示す",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "1990年からは国の補助金政策で発電設備の導入が進みましたが、",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "その他にも、①2030年度の再エネ普及目標を見据えた補助金支援、②自治体連絡会の設置、③国立・国定公園の一部開放、④世界3位のポテンシャル（図7）といった理由により、今後の地熱開発は成長が期待できます",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、経済産業省が次世代型地熱発電技術の開発事業に対し、グリーンイノベーション基金を活用して2030年度までに総額1,102億円の費用を補助し、2030年代早期の実用化を目指すことを発表しています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンイノベーション基金の開発支援予算(国費負担上限額)の約6割がこの方式の開発にあてられ、長期的には数MW～数十MW規模の案件が年数件程度開発されるとみられるほか、蒸気・熱水発生量が減衰した既存地熱発電所への技術応用も期待されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 地熱開発において、事業認定前に企業が負担する先行投資額は、例えば2,000kW級",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005年以降は毎年15 million US$程度の予算により掘削実施",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年は緊縮予算で掘削延長は減少したが、2016年から復活",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではグリーンイノベーション基金の開発支援予算の約6割がこの方式の開発に充てられ、長期的には数MW〜数十MW規模の案件が年数件程度開発されるとみられる",
+    "url": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+    "pass": 3
+   },
+   {
+    "quote": "次世代型地熱発電を2050年までに7.7GWを導入──官民協議会が中間取りまとめ案",
+    "url": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+    "pass": 3
+   },
+   {
+    "quote": "資源エネルギー庁が主催する「次世代型地熱官民協議会」の第3回会合において、次世代型地熱の早期実用化及び導入拡大に向けた長期目標の中間取りまとめ案が公表された",
+    "url": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+    "pass": 3
+   },
+   {
+    "quote": "次世代型地熱発電のコスト目標は12〜19円/kWhに 政府支援策の方針も策定へ",
+    "url": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2回「次世代型地熱推進官民協議会」では、こうした次世代型地熱技術発電のコスト目標や、その達成に向けた支援策の方針が検討された",
+    "url": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+    "pass": 3
+   },
+   {
+    "quote": "【建設費（補助金控除前）】 【初期投資額（補助金控除後）】 5",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "モデルケース（30MW）の建設費及び初期投資額",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発電方式 ー JOGMEC助成率（地表調査） % 67",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所内率 % JOGMEC助成率（調査井） % 50",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "蒸気当たり出力 kW/(t/h) 調査井買取（対助成額） % 50",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "初期投資額（補助金控除後） 百万円 8,866 11,990 15,796 24,287 35,737",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年8月】 物価上昇、JOGMEC助成制度、FIP単価下落（フォーミュラ方式導入）等を考慮",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "初期投資額（補助金控除後） 百万円 15,925 21,621 27,485 40,895 59,120",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・JOGMECの助成金制度では1地域、1年に1坑井しか掘削",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※例えば、建設費を数十%補助し、補助金相当額を運転開始後数年目以降に10年程度かけ",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "( ２ ）地域の共存共栄と国の補助金交付事業の成功例",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "次に、補助金事業として、国が地熱資源の地産地消やそれに伴う地域経済の活性化に繋がった好事例を2つ紹介したい",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "国は新たに4件の補助金事業を採択したことを本年7月に公表",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "図５ 日本の地熱関係予算の推移 出典：新エネルギー財団",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "また、JOGMECを通じて、建設費用の最大8割まで債務保証する事業化支援策を打ち出した",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "官民協議会では、地下3～6kmのマグマに近い熱源で大規模発電する",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "開発に向けた調査や試験掘削費用の2/3を国が、脱炭素技術を補助するGI基金から支出する",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までに、政府は官民で1兆円投資と発電容量：140万kW（現在は55万kW）への拡大をめざす",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年以降に政府が規制緩和や開発支援策を進めてきたことで、ようやく光が見え始めてきた",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年以降に政府が規制緩和や開発支援策を進めてきたが",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度第2回「地熱発電理解促進事業費補助金」に係る補助事業者の公募について｜資源エネルギー庁",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2026/0605_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度第2回「地熱発電理解促進事業費補助金」に係る補助事業者の公募について",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2026/0605_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度第2回「地熱発電理解促進事業費補助金」に係る補助事業者を公募いたします（応募方法等の詳細は、配布資料の募集要領等を参照）",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2026/0605_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ⅰ）「平成29年度地熱発電に対する理解促進事業費補助金」又は「平成30年度地熱発電に対する理解促進事業費補助金」の勉強会等事業に採択され、事業を実施していること",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2026/0605_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "補助金申請システム（jGrants2.0） 事業者クイックマニュアル",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2026/0605_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "交付要綱（PDF形式：444KB）",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2026/0605_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "上限1,000,000万円｜地熱発電資源量調査助成金_第3回を徹底解説【2026年度】 | 補助金エージェント",
+    "url": "https://hojokin-agent.jp/subsidy/114608",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度地熱発電の資源量調査事業費助成金交付事業_第3回",
+    "url": "https://hojokin-agent.jp/subsidy/114608",
+    "pass": 3
+   },
+   {
+    "quote": "上限1,000,000万円｜地熱発電資源量調査助成金_第3回を徹底解説【2026年度】",
+    "url": "https://hojokin-agent.jp/subsidy/114608",
+    "pass": 3
+   },
+   {
+    "quote": "室谷さん！地熱発電の助成金、新しい回が出ましたね！「令和8年度地熱発電の資源量調査事業費助成金交付事業_第3回」",
+    "url": "https://hojokin-agent.jp/subsidy/114608",
+    "pass": 3
+   },
+   {
+    "quote": "JOGMECが窓口になってる、資源量調査のための大型助成金の第3回公募が始まりました",
+    "url": "https://hojokin-agent.jp/subsidy/114608",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度東海市事業者等省エネルギー設備導入等促進補助金",
+    "url": "https://pps-net.org/bounty/geothermal",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度神奈川県自家消費型再生可能エネルギー導入費補助金",
+    "url": "https://pps-net.org/bounty/geothermal",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月、行政と民間企業が地熱発電に関して協議する「次世代型地熱推進官民協議会」が立ち上げられました",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "まずフェーズ1では、2030年までに「国内先行導入」として、「グリーンイノベーション基金」（",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年段階ではあるが、日本地熱協会がJOGMECの助成支援事業を対象にまとめた資料では、大・中規模で全国におよそ34カ所（約32万kW）での開発案件が確認されているが",
+    "url": "https://go100re.jp/2879",
+    "pass": 3
+   },
+   {
+    "quote": "JOGMEC has support programmes in place for geothermal exploration and development projects. By the end of 2025, 105 projects in total have been supported by JOGMEC. These include 72 grant subsidies for commercial developers, 25 grant subsidies for local municipalities, 1 equity capital investment and 7 loan liability guarantees.",
+    "url": "https://www.iea-gia.org/our-members/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Policymakers, economic developers, and industry stakeholders can leverage this data to target the most urgent supply-chain needs first (e.g., through grant allocation or procurement) and ensure that public policy positions American manufacturers for success in this growing global market. For additional detail, see Exhibit A1 in the Appendix.",
+    "url": "https://rmi.org/resources/the-geothermal-supply-chain-is-americas-to-gain-or-lose/",
+    "pass": 3
+   },
+   {
+    "quote": "In the United States, 17 states and Washington D.C. have incentive policies for GDU, including grants, rebates, tax and other financial incentives. In addition, 8 states, the U.S. Virgin Islands, and Puerto Rico have existing regulatory policies related to GDU including:",
+    "url": "https://www.nlr.gov/geothermal/2025-us-geothermal-market-report",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "成長の起爆剤はFIT、政策支援や国内メーカーの技術力も後押し",
+    "url": "https://pps-net.org/column/14820",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要企業の参入状況や新規の取り組み、アライアンス動向、主要プロジェクトなどについて整理しました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のLNG取扱量調査 過去掲載一覧",
+    "url": "https://journal.jogmec.go.jp/geothermal/learn/plant-japan/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1980 年代には日本企業の世界シェアが90％であったが、2010年には日本企業のシェアが69％（三菱重工業：25％、東芝：24％、富士電機が20％）に減少し、オーマットのシェアは10％であった",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "、日本企業のシェアは減少傾向にある",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "国内主要メーカーなどの動向：",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "➢ 近年の「働き方改革」による人材不足による人件費増、諸物価の高騰による、掘削コスト",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "需給ひっ迫が続く！？半導体製造装置関連10銘柄！",
+    "url": "https://kabu.com/kabuyomu/money/644.html",
+    "pass": 3
+   },
+   {
+    "quote": "1 人材不足",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 人材不足 発注者側の施工管理能力向上 ◎",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 技術継承 継続的な雇用問題等により、中間層の技術者不足 ◎",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 資機材調達(納期)",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・掘削、改修等の工事を実施したい時に、長納期品(CSG、",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の人材不足が発生する",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、バイナリー発電は、地熱貯留層から噴出する 熱水や蒸気の温度が150℃程度以下と、タービンを直接回すのに温度が足りない場合に採用される",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/",
+    "pass": 3
+   },
+   {
+    "quote": "知識が不足したまま事業を開始する 者も多く、安全性の確保や発電能力の維持のための十",
+    "url": "https://www.enecho.meti.go.jp/category/saving_and_new/saiene/kaitori/dl/fit_2017/legal/guideline_geothermal.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXDZO39548080T10C12A3PE8000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGXDZO39548080T10C12A3PE8000/",
+    "pass": 3
+   },
+   {
+    "quote": "Grid interconnection and transmission bottlenecks",
+    "url": "https://www.technavio.com/report/geothermal-power-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "supply constraints and downstream manufacturing dependencies and demand.",
+    "url": "https://www.osti.gov/servlets/purl/3000702",
+    "pass": 3
+   },
+   {
+    "quote": "2.4 Non-Technical Bottlenecks",
+    "url": "https://www.osti.gov/servlets/purl/3000702",
+    "pass": 3
+   },
+   {
+    "quote": "Non-technical bottlenecks such as financial barriers and regulatory/permitting barriers are",
+    "url": "https://www.osti.gov/servlets/purl/3000702",
+    "pass": 3
+   },
+   {
+    "quote": "arguably greater bottlenecks to broad geothermal energy rollout than supply chain constraints.",
+    "url": "https://www.osti.gov/servlets/purl/3000702",
+    "pass": 3
+   },
+   {
+    "quote": "impact material availability and lead times for turbine-grade alloys.",
+    "url": "https://www.osti.gov/servlets/purl/3000702",
+    "pass": 3
+   },
+   {
+    "quote": "preserving system-level insight into material bottlenecks and alloy supply chain dependencies.",
+    "url": "https://www.osti.gov/servlets/purl/3000702",
+    "pass": 3
+   },
+   {
+    "quote": "the consequences of this shortage would likely be felt beyond the geothermal industry, resulting",
+    "url": "https://www.osti.gov/servlets/purl/3000702",
+    "pass": 3
+   },
+   {
+    "quote": "because, like in scenario 1, the backlog for new ORC turbines begins to exceed the amount of time",
+    "url": "https://www.osti.gov/servlets/purl/3000702",
+    "pass": 3
+   },
+   {
+    "quote": "could bottleneck projects",
+    "url": "https://rmi.org/resources/the-geothermal-supply-chain-is-americas-to-gain-or-lose/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "地熱発電 システムの 市場 を調査。2050年度の 国内市場 を3524 ... — 地熱発電 システムの 市場 を調査。2050年度の 国内市場 を3524 ... fkg-report.jp https://www.fkg-report.jp > market-trends",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の 地熱発電 システム 市場 は2050年度に3500 億円規模 へ 次 ... — 日本の 地熱発電 システム 市場 は2050年度に3500 億円規模 へ 次 ... ITmedia https://www.itmedia.co.jp > smartjapan > articles > news036",
+    "url": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+    "pass": 3
+   },
+   {
+    "quote": "天候に左右されない再生可能エネルギー！ 地熱発電 関連8銘柄！ — 天候に左右されない再生可能エネルギー！ 地熱発電 関連8銘柄！ 三菱UFJ eスマート証券 https://kabu.com > カブヨム > 資産運用ノウハウ",
+    "url": "https://kabu.com/kabuyomu/money/644.html",
+    "pass": 3
+   },
+   {
+    "quote": "地熱発電 の将来性！？ - 自然エネルギー財団 — 地熱発電 の将来性！？ - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > S1-2_Sh...",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/S1-2_ShojiNumata_MachiokoshiE_250305.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地熱発電 の課題と秘めた高い潜在能力 — 地熱発電 の課題と秘めた高い潜在能力 SOMPOインスティチュート・プラス https://www.sompo-ri.co.jp > 2022/09/30",
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "pass": 3
+   },
+   {
+    "quote": "伸び悩む 地熱発電 の現状 | 脱炭素技術センター — 伸び悩む 地熱発電 の現状 | 脱炭素技術センター 脱炭素技術センター https://www.decarbonation-tech.com > renewable_5000",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   },
+   {
+    "quote": "これまで 地熱発電 が進まなかった理由①：リードタイムは10年 ... — これまで 地熱発電 が進まなかった理由①：リードタイムは10年 ... ふるさと熱電 https://furusato-nd.co.jp > magazine > time-and-cost-issues",
+    "url": "https://furusato-nd.co.jp/magazine/time-and-cost-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度第2回「 地熱発電 理解促進事業費 補助金 」に係る補助 ... — 令和8年度第2回「 地熱発電 理解促進事業費 補助金 」に係る補助 ... 資源エネルギー庁 https://www.enecho.meti.go.jp > public_offer > 2026",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2026/0605_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "「令和8年度 地熱発電 理解促進事業費 補助金 」≪第1回 — 「令和8年度 地熱発電 理解促進事業費 補助金 」≪第1回 補助金ポータル https://hojyokin-portal.jp > subsidies",
+    "url": "https://hojyokin-portal.jp/subsidies/72282",
+    "pass": 3
+   },
+   {
+    "quote": "地熱発電 資源量調査助成 金 _第3回を徹底解説【 2026 年度】 — 地熱発電 資源量調査助成 金 _第3回を徹底解説【 2026 年度】 補助金エージェント https://hojokin-agent.jp > 補助金・給付金一覧",
+    "url": "https://hojokin-agent.jp/subsidy/114608",
+    "pass": 3
+   },
+   {
+    "quote": "次世代 地熱発電 に5年で1102億円 経産省、ペロブスカイト電池 ... — 次世代 地熱発電 に5年で1102億円 経産省、ペロブスカイト電池 ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/",
+    "pass": 3
+   },
+   {
+    "quote": "次世代の 地熱発電 、経産省が1102億円 補助 へ…技術開発を ... — 次世代の 地熱発電 、経産省が1102億円 補助 へ…技術開発を ... 読売新聞 https://www.yomiuri.co.jp > 20260416-GYT1T00041",
+    "url": "https://www.yomiuri.co.jp/economy/20260416-GYT1T00041/",
+    "pass": 3
+   },
+   {
+    "quote": "地熱発電 も「次世代」へ！課題をクリアし日本の地熱を最大限 ... — 地熱発電 も「次世代」へ！課題をクリアし日本の地熱を最大限 ... 資源エネルギー庁 https://www.enecho.meti.go.jp > geothermal_power2026",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらなる普及に至るか 地熱発電 をとりまく制度変更と課題 — さらなる普及に至るか 地熱発電 をとりまく制度変更と課題 自然エネルギー100%プラットフォーム https://go100re.jp > ニュース",
+    "url": "https://go100re.jp/2879",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画策定ガイドライン （ 地熱発電 ） - 資源エネルギー庁 — 事業計画策定ガイドライン （ 地熱発電 ） - 資源エネルギー庁 資源エネルギー庁 PDF https://www.enecho.meti.go.jp > fit_2017 > legal",
+    "url": "https://www.enecho.meti.go.jp/category/saving_and_new/saiene/kaitori/dl/fit_2017/legal/guideline_geothermal.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal Power Market Analysis, Size , and Forecast 2026 ... — Geothermal Power Market Analysis, Size , and Forecast 2026 ... Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/geothermal-power-market-industry-analysis",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "企業トップへの取材は1,000社以上",
+    "url": "https://kabu.com/kabuyomu/money/644.html",
+    "pass": 3
+   },
+   {
+    "quote": "電力・建設会社、金融機関など70社以上が参加し、注目度の高い",
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内市場億円": [
+   {
+    "value": "3,524",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "quote": "2050年度の国内市場を3,524億円(2025年度比15.2倍)と推計 | 富士経済グループ 市場調査レポートサイト"
+   },
+   {
+    "value": "4,700",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "quote": "2027年の国内市場を108兆4,700億円と推計"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "1,102",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "quote": "日本では、経済産業省が次世代型地熱発電技術の開発事業に対し、グリーンイノベーション基金を活用して2030年度までに総額1,102億円の費用を補助し、2030年代早期の実用化を目指すことを発表しています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://pps-net.org/column/14820",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%9C%B0%E7%86%B1%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%B8%82%E5%A0%B4-106341",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/178",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kabu.com/kabuyomu/money/644.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geothermal.co.jp/lesson/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journal.jogmec.go.jp/geothermal/learn/plant-japan/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renovainc.com/business/geothermal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/S1-2_ShojiNumata_MachiokoshiE_250305.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOFD145RH0U6A410C2000000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.decarbonation-tech.com/renewable_5000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2026/0605_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/subsidies/72282",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hojokin-agent.jp/subsidy/114608",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pps-net.org/bounty/geothermal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go100re.jp/2879",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asuene.com/media/316/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/category/saving_and_new/saiene/kaitori/dl/fit_2017/legal/guideline_geothermal.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXDZO39548080T10C12A3PE8000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chinetsukyokai.com/information/sekai.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/example/detail/solution_geothermal_power.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/themes/?theme=%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%96%E3%83%AD%E3%82%B0/%E5%9C%B0%E7%86%B1%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%88%E3%83%83%E3%83%97-10721",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8143/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/geothermal-energy-market/Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/japan-geothermal-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/geothermal-power-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Geothermal_power_in_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea-gia.org/our-members/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osti.gov/servlets/purl/3000702",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rmi.org/resources/the-geothermal-supply-chain-is-americas-to-gain-or-lose/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ren21.net/gsr-2025/technologies/geothermal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nlr.gov/geothermal/2025-us-geothermal-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/reports/the-future-of-geothermal-energy/executive-summary",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "地熱発電 国内市場規模 億円",
+   "results": [
+    "https://pps-net.org/column/14820",
+    "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "https://www.fortunebusinessinsights.com/jp/%E5%9C%B0%E7%86%B1%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%B8%82%E5%A0%B4-106341",
+    "https://www.meti.go.jp/shingikai/santeii/pdf/088_06_00.pdf",
+    "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+    "https://www.atpress.ne.jp/news/5893568",
+    "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06136/?ST=msb",
+    "https://www.mordorintelligence.com/ja/industry-reports/geothermal-energy-market",
+    "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB",
+    "https://www.nikkei.com/article/DGXZRSP713819_U6A011C2000000/"
+   ]
+  },
+  {
+   "query": "地熱発電 国内 参入企業 社",
+   "results": [
+    "https://www.buffett-code.com/industries/178",
+    "https://kabu.com/kabuyomu/money/644.html",
+    "https://www.geothermal.co.jp/lesson/japan",
+    "https://journal.jogmec.go.jp/geothermal/learn/plant-japan/index.html",
+    "https://www.renovainc.com/business/geothermal/",
+    "https://www.chinetsukyokai.com/information/sekai.html",
+    "https://kabutan.jp/themes/?theme=%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB",
+    "https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html",
+    "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB",
+    "https://baseconnect.in/companies/keyword/87a63536-306d-40a8-a7d6-e127bd6103e3"
+   ]
+  },
+  {
+   "query": "地熱発電 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://www.renewable-ei.org/pdfdownload/activities/S1-2_ShojiNumata_MachiokoshiE_250305.pdf",
+    "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "https://www.nikkei.com/prime/gx/article/DGXZQOFD145RH0U6A410C2000000",
+    "https://www.sompo-ri.co.jp/2022/09/30/5600/",
+    "https://www.decarbonation-tech.com/renewable_5000/",
+    "https://furusato-nd.co.jp/magazine/time-and-cost-issues/",
+    "https://www.gepr.org/contents/20250730-01/",
+    "https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html",
+    "https://criepi.denken.or.jp/press/journal/denkizemi/2021/210414.html",
+    "https://smartf-nexta.com/archives/13522"
+   ]
+  },
+  {
+   "query": "地熱発電 予算 補助金 基金 2026",
+   "results": [
+    "https://www.enecho.meti.go.jp/appli/public_offer/2026/0605_01.html",
+    "https://hojyokin-portal.jp/subsidies/72282",
+    "https://hojokin-agent.jp/subsidy/114608",
+    "https://pps-net.org/bounty/geothermal",
+    "https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/",
+    "https://www.yomiuri.co.jp/economy/20260416-GYT1T00041/",
+    "https://www.nedo.go.jp/koubo/FF2_100456.html",
+    "https://power-x.jp/ja/intl/subsidies",
+    "https://hojokin-agent.jp/subsidy/233950",
+    "https://www.hkd.meti.go.jp/hokne/20260330/index.htm"
+   ]
+  },
+  {
+   "query": "地熱発電 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html",
+    "https://go100re.jp/2879",
+    "https://asuene.com/media/316/",
+    "https://www.enecho.meti.go.jp/category/saving_and_new/saiene/kaitori/dl/fit_2017/legal/guideline_geothermal.pdf",
+    "https://www.nikkei.com/article/DGXDZO39548080T10C12A3PE8000/",
+    "https://www.enaa.or.jp/?fname=gec_2021_5_2.pdf",
+    "https://www.env.go.jp/council/12nature/900432845.pdf",
+    "https://www8.cao.go.jp/kisei-kaikaku/kisei/conference/energy/20210817/210817energy09.pdf",
+    "https://furusato-nd.co.jp/magazine/japan-geothermal-power-today/",
+    "https://ja.wikipedia.org/wiki/地熱発電"
+   ]
+  },
+  {
+   "query": "地熱発電 国内 主要企業 メーカー",
+   "results": [
+    "https://www.buffett-code.com/industries/178",
+    "https://kabu.com/kabuyomu/money/644.html",
+    "https://www.chinetsukyokai.com/information/sekai.html",
+    "https://www.fujielectric.co.jp/about/example/detail/solution_geothermal_power.html",
+    "https://kabutan.jp/themes/?theme=%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%96%E3%83%AD%E3%82%B0/%E5%9C%B0%E7%86%B1%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%88%E3%83%83%E3%83%97-10721",
+    "https://journal.jogmec.go.jp/geothermal/learn/plant-japan/index.html",
+    "https://metoree.com/categories/8143/",
+    "https://www.renovainc.com/business/geothermal/",
+    "https://baseconnect.in/companies/keyword/87a63536-306d-40a8-a7d6-e127bd6103e3"
+   ]
+  },
+  {
+   "query": "geothermal power Japan market size",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/geothermal-energy-market/Japan",
+    "https://www.sphericalinsights.com/reports/japan-geothermal-energy-market",
+    "https://www.technavio.com/report/geothermal-power-market-industry-analysis",
+    "https://en.wikipedia.org/wiki/Geothermal_power_in_Japan",
+    "https://www.iea-gia.org/our-members/japan",
+    "https://www.linkedin.com/pulse/global-geothermal-market-us-japan-korea-europe-uxhjf",
+    "https://www.sciencedirect.com/science/article/pii/S2352484724008138",
+    "https://www.globaldata.com/store/report/geothermal-power-in-japan-market-outlook-to-2030-update-2016-capacity-generation-levelized-cost-of-energy-lcoe-investment-trends-regulations-and-company-profiles/",
+    "https://www.jogmec.go.jp/english/activities/geothermal/information.html",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/geothermal-energy-market/japan"
+   ]
+  },
+  {
+   "query": "geothermal power shortage backlog supply gap 2025",
+   "results": [
+    "https://www.osti.gov/servlets/purl/3000702",
+    "https://rmi.org/resources/the-geothermal-supply-chain-is-americas-to-gain-or-lose/",
+    "https://www.ren21.net/gsr-2025/technologies/geothermal/",
+    "https://www.nlr.gov/geothermal/2025-us-geothermal-market-report",
+    "https://www.iea.org/reports/the-future-of-geothermal-energy/executive-summary",
+    "https://content.govdelivery.com/accounts/USEERE/bulletins/4041848",
+    "https://globalenergymonitor.org/research/trump-administrations-policies-support-rapid-growth-geothermal-power-united-states-12-gw",
+    "https://rhg.com/wp-content/uploads/2025/03/The-Potential-for-Geothermal-Energy-to-Meet-Growing-Data-Center-Electricity-Demand.pdf",
+    "https://www.energypolicy.columbia.edu/publications/the-potential-contribution-of-enhanced-geothermal-systems-to-future-power-supply-roundtable-summary/",
+    "https://docs.nlr.gov/docs/fy26osti/91898.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

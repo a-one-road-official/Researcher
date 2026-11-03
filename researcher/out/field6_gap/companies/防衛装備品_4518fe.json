@@ -1,0 +1,1268 @@
+{
+ "name": "防衛装備品",
+ "en": "defense equipment",
+ "aliases": [
+  "デュアルユース",
+  "防衛産業"
+ ],
+ "context": "5 防衛 ③デュアルユース",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:17:42.118944+00:00",
+ "evidence": {
+  "需給の差": [
+   {
+    "quote": "ラインメタル社は、国際的な調達需要の高まりに対応するため、軍用車両、弾薬システム、陸上防衛装備品の生産能力を増強し、防衛関連の製造能力を拡大した",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXZQOUC148HG0U6A410C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGXZQOUC148HG0U6A410C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備の利益率上げ 品質や納期短縮で最高15% - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備の利益率上げ 品質や納期短縮で最高15%",
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "品質や納期短縮などの取り組みを評価する仕組みにする",
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備の生産能力維持へ｢公設民営｣ 法改正調整、輸出促進に新法人",
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品の維持・運用において、日本語では「製造源の消滅と材料供給不足」を意味するDMSMS（Diminishing Manufacturing Sources and Material Shortages）と呼ばれる概念があります",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間のプラントや工場など一瞬の停止も許されない現場においても、部品が「調達できない」事態は事業継続を揺るがす最大のボトルネックになります",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "在日米軍にとって最大のボトルネックであった「米本土からの輸送時間」を解消してきたのと同じ発想が、自衛隊にはさらにシンプルな形で当てはまります",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "3. ・ＦＭＳ中央調達の防衛装備品等の未納入は大幅に減少しているが、納期未到来の契約（ケース）の未精算額は2倍に増加",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・新規の品目（ライン）の追加や既存ラインの出荷予定時期の変更により納期未到来となっているケースの中には、",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ ＦＭＳ中央調達において、部隊等の運用に支障を来さないよう、納期未到来となっているケースのうちのラインを追加した",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "納期未到来ケース 未納入ケース 精算未完了ケース",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "納期未到来 未納入 精算未完了",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "未納入ケースで大幅に減少し、納期未到来ケースで約2倍に増加",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "納期末到来、未納入、精算未完了に区分",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "納期未到来ケースのうちのライン追加ケース等についても、",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 平成30年度末時点で納期未到来であったＦＭＳ中央調達のケース519件",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜519件の納期未到来ケースの進捗状況＞",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "118件（未精算額1兆1408億円）が納期未到来",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "納期未到来ケース 未納入ケース 精算未完了ケース 精算の完了",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補用部品等の不足によって、任務達成が既に不可能である",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "わが国の労働力人口が本格的に減少する中、他分野と同様、防衛事業を担う人材不足も例外ではない",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去に調達実績のある装備品や部品といったリピート品など、一定期間における調達数量が見通せるものについては、年度ごとの分割契約ではなく一括契約を可能とし、国庫債務負担行為の支払い可能年度範囲（契約年度＋4年度）の例外的適用を拡充することにより、企業の生産計画の最適化と納期が長期にわたるものへの対応を容易にし、効率化を図るべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、装備品の調達数量は、事業の計画性・効率性、生産能力の維持を担保する上で重要であることから、予算額を前提に数量を調整するのではなく、数量ベースでの調達を基本とするとともに、仕様に関しては、海外動向に応じ、わが国に適した形で最新のものへと更新を図るべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "物価・為替・金利・関税等の外部要因や不足・遅延等の部材調達リスクに対し、契約全般に関して、実勢価格を支払い額に柔軟に反映できるレジリエントな仕組みを制度的に整備・拡充すべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "他方で、平時の調達・運用を前提とした現行の生産基盤の枠組みでは、緊急の事態における需要急増、輸入途絶、部材不足、サイバー攻撃などの複合的なショックには、十分に対応できないおそれがある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "防衛生産・技術基盤の持続を左右するのは、一義的に研究者や技術者、そして実際に製造を担う技能者等の人材の厚みを今後とも維持できるかである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、足もとでは、装備品の開発・製造に携わっている技術者・技能者・生産現場人材の高齢化に加え、防衛事業の特殊性や将来需要の不透明感等から、若手人材の確保・定着が一層困難となっている",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "加えてデジタル・サイバー領域の人材不足は、装備の高度化とサイバー脅威が増大する中で、致命的なボトルネックとなり得る",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "目下、需要が急拡大する一方で、一時期の防衛事業の低迷等も背景に、熟練技能を有する技術者の離職が進み、人材不足に直面している",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、企業の人材採用・育成の自助努力を促すインセンティブ設計として、人材育成計画や技能者の処遇改善や教育訓練の実施、若手育成などを評価し、利益率をさらに引き上げるなど、人への投資等の企業努力が報われる仕組みを整えることが考えられる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "目下、民間同様に、深刻な人手不足が進んでいることを鑑み、さらなる処遇・勤務環境の改善をはじめとした対策を継続・強化することが求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "装備品の生産能力の維持・向上のためには、必ずしも新規設備投資だけでなく、工場・建屋・格納庫等の装備品の生産等に係る重要インフラや、従来品を生産する設備の維持、さらには、抗堪化・分散化等の観点も極めて重要である",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、防衛装備庁との契約においては、研究開発の不確実性を踏まえた納期の柔軟な設定や期間の見直し、研究開発段階のものから試作・量産等に至るまでの納期遅延ペナルティの軽減・撤廃、技術難易度に応じた利益率の設定などにより、研究開発参画のインセンティブを高めるべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、研究開発から事業化・量産、継続契約に至るまでの「死の谷」を越えることは依然として難しく、多くの企業が資金・人材・実績の不足や手続負担の大きさに直面している",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "他方、わが国防衛産業は、武器輸出三原則による事実上の輸出禁止期間が長期にわたり、防衛省・自衛隊向けの装備品を計画的に納入することに専念してきた経緯もあり、国際共同開発や装備移転を加速させる上では、法的・政治的な不確実性のほか、実戦経験不足をはじめとする多くの課題が存在する",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "人口減少下で深刻化する隊員不足を踏まえ、隊員の負担軽減や省人化・省力化を推進する",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自衛隊の運用を円滑にするため、弾薬・燃料の確保、可動数の向上(部品不足の解消等)、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "部品不足による非可動を解消し、保有装備品の可動数の最大化及び部隊能力の維持向上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "持続的な対応能力を支えることができる防衛生産能力を構築するため、民需が見込めず、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "米国や韓国といった既存の主要生産国と比べ、日本は生産能力の面で大きく後れを取る",
+    "url": "https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXZQOUA271J90X21C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGXZQOUA271J90X21C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理（Quality）、コスト管理（Cost）、納期管理（Delivery）を評価し、",
+    "url": "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ", and high-performance materials from limited suppliers. Supply disruptions, long manufacturing lead times, and limited domestic production capacity can delay equipment manufacturing and increase procurement costs. These challenges can slow defense modernization programs and restrict the timely delivery of advanced defense equipment.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aftermarket services and sustainment remain one of the industry’s most resilient revenue streams (figure 1). Aftermarket companies report robust momentum, citing double-digit growth and record sales and backlogs; engine activity is the dominant driver.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html",
+    "pass": 3
+   },
+   {
+    "quote": "As commercial operators contend with persistent production backlogs, aging fleets, and readiness challenges, the focus is shifting from expansion to maximizing the reliability and availability of assets already in service.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html",
+    "pass": 3
+   },
+   {
+    "quote": "Defense priorities are evolving rapidly, with budgets channeling investment into autonomous unmanned systems, drones, and advanced weapons platforms. Yet, the realities of aging platforms and parts shortages mean that operational readiness hinges on scalable, data-driven sustainment and a deeper pool of skilled talent.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "また、この分野は、国際的な武器貿易規制、調達政策、そして各国間の共同開発プロジェクトにおける協力関係にも影響を受けています",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益予測、競争環境、成長要因、環境および規制環境とトレンド",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルおよび地域市場における市場エコシステム、技術動向、需給動向、規制・政策環境、価格構造、バリューチェーン、競合上の立ち位置、新興の業界トレンドの評価において、深い知見を有しています",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "基準年: 2025",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "認証済み・保護・安全",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "観点から、防衛装備および技術の海外移転に関する制度整備も進展し ている",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "移転に係る制度改正が市場拡大要因となり得る",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "応等を通じてサプライチェーン全体で適正取引を促す 制度が整備されつつある（図表 8、9）",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 8 防衛省による調達制度改革",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 品質/認証/ｾｷｭﾘﾃｨ対応",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、防衛装備移転に係る制度 改正も、国内防衛産業の 拡大要因 となり得る",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品の海外移転は制度上の制約が大き かったが、足もとでは 同盟国・同志国との安全保",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "障協力を強化する観点から、防衛装備および技術の海外移転に関する制度整備が進展している",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 12 装備品移転に係る制度改正",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "制度上、移転を認め得る対象",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内防衛産業は防衛関係費の増加や装備移転制度の見直しを背景に、先行きも 市場拡大が",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関係費の増加や装備移転制度の見直し 等を背景に、明確に変わりつつある",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "移転制度の動向が周辺産業に及ぼす影響も含めてみていく 必要がある",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛省は武器輸出規制を緩和し、次世代空対空ミサイルの開発において英国政府と合意しています",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本の厳しい武器輸出規制の緩和に伴い、日本の防衛省（MoD）は、次世代空対空ミサイルの開発、設計、調達について英国政府と合意しました",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "家計の法律クリニック",
+    "url": "https://www.nikkei.com/article/DGXZQOUC148HG0U6A410C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛産業サイバーセキュリティ基準",
+    "url": "https://www.mod.go.jp/atla/soubiseisaku_newentry.html",
+    "pass": 3
+   },
+   {
+    "quote": "防衛産業サイバーセキュリティ基準の整備についてへ",
+    "url": "https://www.mod.go.jp/atla/soubiseisaku_newentry.html",
+    "pass": 3
+   },
+   {
+    "quote": "衝撃試験など自衛隊の設定する厳しい基準をクリアしたものを納品している",
+    "url": "https://mamor-web.jp/_ct/17749230",
+    "pass": 3
+   },
+   {
+    "quote": "また中小事業者の資金面での悩みに応えるため、政府は23年に「防衛生産基盤強化法」を施行",
+    "url": "https://mamor-web.jp/_ct/17749230",
+    "pass": 3
+   },
+   {
+    "quote": "企業による防衛装備品の安定的な製造などのための取り組みを促進すべく、設備投資などの計画の認定と財政措置を制度化した",
+    "url": "https://mamor-web.jp/_ct/17749230",
+    "pass": 3
+   },
+   {
+    "quote": "家計の法律クリニック",
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンや弾薬、有事増産へ設備投資を助成 防衛省が法改正検討",
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備の生産能力維持へ｢公設民営｣ 法改正調整、輸出促進に新法人",
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品の維持・運用において、日本語では「製造源の消滅と材料供給不足」を意味するDMSMS（Diminishing Manufacturing Sources and Material Shortages）と呼ばれる概念があります",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "廃番確定後の代替品設計・認証にかかるコストは、装備品によっては1アイテムに対し数億〜数十億円規模に達することがあります",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "在日米軍との協業では、DFARS（防衛連邦調達規則補足）や米国法10 USC § 4872など、厳格な防衛調達基準への準拠が求められます",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "この基準をすでにクリアしてきた実績は、そのまま自衛隊が求める品質・トレーサビリティ・セキュリティ水準にも適用可能であり、「米軍の調達現場で通用する技術力」という客観的な裏付けになっています",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy(提言・報告書)",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "を示し、防衛生産基盤強化法の施行により、供給網強靭化等に向けた法的枠組みが整備されるなど、防衛分野の事業環境は改善しつつある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、スタートアップや大学・研究機関の参画を促すことなどにより、必要な技術を迅速に獲得し、わが国の不可欠性・自律性を確保できる予算・制度体系へ進化させることが求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "(1)予見性向上と経営基盤強化に向けた「戦略的な予算・制度・施策」の確立",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）予見性向上と経営基盤強化に向けた「戦略的な予算・制度・施策」の確立",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした中、民間企業が予見可能性をもって積極的な投資を続けられるよう、防衛装備品の研究開発から調達・契約・生産・運用にいたるまでの長期のタイムスパンとキャッシュフローのミスマッチといった防衛事業特有の時間軸を踏まえた「戦略策定・予算確保・制度設計」として一体的に推進することが重要である",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "物価・為替・金利・関税等の外部要因や不足・遅延等の部材調達リスクに対し、契約全般に関して、実勢価格を支払い額に柔軟に反映できるレジリエントな仕組みを制度的に整備・拡充すべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "④効率化・迅速化のためのさらなる調達制度の見直し",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "かねてより産業界から契約・調達制度の見直しにつき要望し、随時、改善が図られてきたところであるが、政府においては、引き続き、調達のさらなる効率化・迅速化のため、競争入札・随意契約のあり方を含めて、調達制度について不断の見直しが求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "他方、秘匿すべき情報の定義・区分が不明確なまま画一的に厳格な制度を適用すると、かえってスタートアップ等の参入障壁となり、事業推進のスピードを阻害しかねない",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "政府は、秘匿情報の範囲と重要度に応じた取扱基準を改めて明確化し、セキュリティ・クリアランス等も活用しつつ、官民が機微情報および事業性判断に必要な情報を適切に共有できるセキュアな情報共有基盤を整備すべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした企業の取り組みを支えるため、政府には、プライム企業からサプライヤーも含めて、防衛関連企業全体が前広な投資計画を立てられるよう、制度的支援による環境改善を図るべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ディープテック・スタートアップ等の研究開発成果をすくい上げるために「防衛イノベーション科学技術研究所」「安全保障技術研究推進制度",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "政府としても、スタートアップの育成や防衛関連企業との連携を促すことも視野に入れた制度設計を行うためには、防衛省・自衛隊の技術ニーズを分野別に可視化し、技術成熟度や想定用途等を整理しつつ、必要となる技術等の情報を集約・開示することが望ましい",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、令和8年度より開始される「ファストパス調達」は、柔軟な契約制度の運用を通じてスタートアップ等の技術導入を迅速化するものであり、これによりスタートアップ企業の参画が促進されることを期待する",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和９年度概算要求においては、概算要求基準※に基づき、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 予備自衛官等制度の認知度向上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(ＰＡＴＳ)に接続する器材等を整備 ※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "構築するため、防衛関連企業等に対する支援制度を新たに創設",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を委託し、安定的・長期的に生産基盤を確保する制度を新たに創設",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※Government-Owned,Contractor-Operated（国有施設民間操業））",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "する企業に出資する制度を新たに創設",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 安全保障技術研究推進制度（補助事業）（事項要求)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 防衛課題解決研究制度（仮称）(事項要求)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省外から公募し、支援する制度を創設",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ ディフェンステックSBIR制度（仮称）(事項要求)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "2023年の中国の防衛予算は2303億米ドルである",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "のもとで増勢が強まっており、 補正予算勘案後の 防衛関係費は GDP 対比で１％台半ばまで拡大",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "や維持整備に 係る予算が拡大するなか、防衛大手 3 社の武器製造および軍事サービス 売上高は",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023 年度～2025 年度までの進捗 状況をみると、歳出ベースでは 5 年間総額の約 55％が計上",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 13 『防衛力整備計画』における防衛関係予算 図表 14 防衛力整備計画の進捗状況",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省は2022年度予算案にF-35AおよびF-35Bの追加取得に1,000億円以上を計上しています",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックホルム国際平和研究所（SIPRI）が2022年に発表した報告書によると、日本の防衛予算は460億米ドルで、世界第10位",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛省は、F-35AおよびF-35Bステルス戦闘機約10機の追加取得のため、2022年度予算案に1,000億円（約9億500万米ドル）以上を計上する予定",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "同様に、サイバー関連予算は約2億7000万米ドルで、これには自衛隊サイバー防衛司令部の設置や、サイバー情報収集システムの調達、サイバー防御分析装置や防衛情報基盤の改善などのプロジェクトに対する支出が含まれています",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "政府は防衛予算を長らく国内総生産（GDP）比でおおむね1%以内に抑制しており、企業側の利益といった点を優先してこなかった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、高市政権の下で防衛費は2026年度予算で史上初めて9兆円を突破(*4)し、GDP比2%目標も当初計画より2年前倒しで達成される(*5)など、国内サプライチェーンの強靭化が強力に推し進められています",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、過去10年以上にわたる「防衛事業の低採算性」や「後継者不在」によって進行した空洞化の傷跡は深く、失われた供給網を予算だけで即座に復元することは極めて困難です",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "*4参照：時事通信 「防衛費、過去最大９兆円 無人機取得、処遇改善を加速―予算」",
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "pass": 3
+   },
+   {
+    "quote": "（以下、三文書）において、国は、防衛生産・技術基盤を「防衛力そのもの」と位置づけ、抜本的強化の方向性と約43兆円予算を確保する計画",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "２．官民のあるべき基本的なスタンス",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "(1)予見性向上と経営基盤強化に向けた「戦略的な予算・制度・施策」の確立",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2)需要増加を見据えた「国内生産・官民連携体制」の構築",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）予見性向上と経営基盤強化に向けた「戦略的な予算・制度・施策」の確立",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "３ 最適化への取組／補助金・基金の見直しの取組",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を計上（歳出ベース約９兆円、契約ベース約８兆円）し、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 「令和９年度予算の概算要求に当たっての基本的な方針について」（令和８年７月３０日閣議了解）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本年中に改定する三文書を踏まえて編成される令和９年度予算については、同文書に係る議論を経て結論を得る必要があることから予算編成",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 令和９年度予算においては、危機管理投資・成長投資をはじめ、国内投資を通じた潜在成長率の引上げにつながる施策を予見可能性を持って実施できるよう、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "通常歳出とは別に、「強く豊かな日本」投資枠が創設された（経済財政運営と改革の基本方針2026（令和8年7月21日閣議決定）・令和９年度予算の",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 官民連携の強化(DSGの機能強化) (５０９億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 防衛装備移転円滑化のための基金に充てる補助金(４００億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各年度の予算編成に伴う防衛関係費 ４０兆５，０００億円程度 ２５兆５，０００億円程度",
+    "url": "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）：「装備品等の維持整備費」とは、陸海空各自衛隊の装備品等の修理や消耗品の代価及び役務費などに係る予算額（各自衛隊の修理費から、艦船の艦齢延伸及び航空機の近代化改修等のための修理費を除いたもの）を示す",
+    "url": "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注４）：令和４年度の装備品等の維持整備費は、令和３年度補正予算込みの金額",
+    "url": "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■主要装備品等の予算額、維持・整備費の推移 （平成元年度～令和４年度）",
+    "url": "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "National defense budget of Japan FY 2004-2026",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Share of defense budget for acquisition of new defense equipment Japan FY 2017-2026",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "National defense budget of Japan from fiscal year 2004 to 2026 (in trillion Japanese yen)",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Budget for defense-related expenditures in Japan in fiscal year 2026, by expense category (in billion Japanese yen)",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Share of governmental budget for national defense expenditure allocated for procurement of new defense equipment in Japan from fiscal year 2017 to 2026",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Defense budget for ammunition Japan FY 2017-2026",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Defense budget for facility maintenance Japan FY 2017-2026",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Defense budget for R&D Japan FY 2017-2026",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition budget for defense equipment through FMS in Japan FY 2017-2025",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Budget for the purchase of new defense-related equipment in Japan in fiscal year 2025, by type of equipment (in trillion Japanese yen)",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Budget for the maintenance and upgrades of defense equipment in Japan from fiscal year 2017 to 2026 (in billion Japanese yen)",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Governmental budget for national defense expenditure on ammunition in Japan from fiscal year 2017 to 2026 (in billion Japanese yen)",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Department of Defense's FY 2026 budget request allocates substantial funding to strategic weapons and major platforms, including USD 11.48 billion for Columbia-class submarines and USD 10.293 billion for the B-21 bomber program. These planned expenditures could support defense equipment procurement, advanced manufacturing, and modernization across the domestic defense supply chain.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "業界の主要企業は、次世代兵器システムの開発に向けて研究開発に多額の投資を行っており、これらのシステムは世界中の政府機関や軍事組織から高い需要があります",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場で事業を展開する主要企業には、設計・製造からライフサイクルサポート、近代化プログラムまでエンドツーエンドのソリューションを提供するグローバル防衛請負業者や造船会社が含まれます",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、推進システムの技術革新のための研究開発に巨額の投資を行うことで、航空機の性能向上を図っています",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要メーカーは、ダッソー・アビエーション、BAEシステムズ、ラファエル・アドバンスト・ディフェンス・システムズ、ヒンドゥスタン・エアロノーティクス、バーラト・エレクトロニクスである",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業はまた、「ひまわり8号」「ひまわり9号」などの気象衛星をはじめ、各種技術試験衛星、海洋・陸域観測衛星、通信衛星、放送衛星、全地球航法衛星などの開発にも貢献",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "Kawasaki Heavy Industries, Ltd., Mitsubishi Heavy Industries, Ltd., ShinMaywa Industries, Ltd., The Japan Steel Works, Ltd.が日本防衛市場で事業を展開している主要企業です",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業はどんな分野で強みを発揮できるのか",
+    "url": "https://www.nikkei.com/article/DGXZQOUC148HG0U6A410C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "また、アメリカ政府の要請によってアメリカから買う装備品が膨らんでいることも日本企業にとって「うまみ」が少なくなっている要因のひとつです",
+    "url": "https://asahi.gakujo.ne.jp/research/industry_topics/detail/id=3552",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本の主要メーカーは民間需要が主であり、軍需への依存度が低いのが特徴です",
+    "url": "https://orgallo.co.jp/blog/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国企業が開発した装備品について、日本企業が契約を結び、設計図などの技術資料や使用許諾を得て生産すること",
+    "url": "https://mamor-web.jp/_ct/17749230",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品の主要メーカーである三菱電機の設計・製造技術を継承し、現場の運用を熟知した維持整備のエキスパートが、故障対応、定期修理から、機能改善まで、客先ニーズにあった維持整備を提供します",
+    "url": "https://www.medstec.co.jp/business/defence.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "防衛装備品市場 の 規模 、シェア、成長率、予測（2034年まで） — 防衛装備品市場 の 規模 、シェア、成長率、予測（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 防衛",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛 費増で注目の 防衛 産業 「プライム 企業 」は7 社 — 防衛 費増で注目の 防衛 産業 「プライム 企業 」は7 社 就活ニュースペーパーｂｙ朝日新聞 https://asahi.gakujo.ne.jp > industry_topics > detail",
+    "url": "https://asahi.gakujo.ne.jp/research/industry_topics/detail/id=3552",
+    "pass": 3
+   },
+   {
+    "quote": "日本成長戦略会議 第1回 防衛 産業WG 事務局 参考資料 — 日本成長戦略会議 第1回 防衛 産業WG 事務局 参考資料 経済産業省 PDF https://www.meti.go.jp > defense_industry_wg > pdf",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有償援助（FMS）による 防衛装備品 等の調達の状況（要請） — 有償援助（FMS）による 防衛装備品 等の調達の状況（要請） 会計検査院 PDF https://www.jbaudit.go.jp > pdf > 080116_point",
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品 の輸出を全面解禁へ 26年前半、 国内 産業拡大へ ... — 防衛装備品 の輸出を全面解禁へ 26年前半、 国内 産業拡大へ ... 日本経済新聞 https://www.nikkei.com > 政治 > 外交・安全保障",
+    "url": "https://www.nikkei.com/article/DGXZQOUA271J90X21C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛 産業の実態 －ご説明資料－ — 防衛 産業の実態 －ご説明資料－ 防衛省 PDF https://www.mod.go.jp > atla > kentoukai01_shiryo04",
+    "url": "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Equipment Market Size , Share, Growth, Forecast, 2034 — Defense Equipment Market Size , Share, Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > d...",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "1,000社以上",
+    "url": "https://orgallo.co.jp/blog/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9.html",
+    "pass": 3
+   },
+   {
+    "quote": "2,000社以上",
+    "url": "https://orgallo.co.jp/blog/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9.html",
+    "pass": 3
+   },
+   {
+    "quote": "今般、政府においては、与党提言等を受けて、防衛装備移転三原則と運用指針の改定により「5類型」を撤廃し、原則すべての完成品が輸出可能となったものの、相手国からのオフセット要求への対応や、維持・整備への対応、知的財産権の取り扱い、国内および相手国法令への準拠、大型プラットフォームにおいては一社ではなく複数社が防衛省と直接契約関係にあるなど、民間企業単独では対処し切れないリスク・課題は多く存在している",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3
+   },
+   {
+    "quote": "Share of defense manufacturing sales among leading defense companies in Japan 2023",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   },
+   {
+    "quote": "Leading defense equipment supplying companies in Japan in fiscal year 2024, by number of contracts",
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国の予算億円": [
+   {
+    "value": "1,000",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "quote": "防衛省は2022年度予算案にF-35AおよびF-35Bの追加取得に1,000億円以上を計上しています"
+   },
+   {
+    "value": "５０９",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "quote": "・ 官民連携の強化(DSGの機能強化) (５０９億円)"
+   },
+   {
+    "value": "４００",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "quote": "○ 防衛装備移転円滑化のための基金に充てる補助金(４００億円)"
+   },
+   {
+    "value": "０００",
+    "url": "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "quote": "各年度の予算編成に伴う防衛関係費 ４０兆５，０００億円程度 ２５兆５，０００億円程度"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/japan-defense-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC148HG0U6A410C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/soubiseisaku_newentry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asahi.gakujo.ne.jp/research/industry_topics/detail/id=3552",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orgallo.co.jp/blog/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%BB%8D%E9%9C%80%E4%BC%81%E6%A5%AD%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mamor-web.jp/_ct/17749230",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/asdf/3dep/prd/nyuusatsu/nyuusatsu-setumei-pdf/kakusyou/6-all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/insight/dmsms-jsdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/seifuan2026/19.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sentry-magazine.com/ja/%E6%97%A5%E6%9C%AC%E3%81%8C%E9%81%8E%E5%8E%BB%E6%9C%80%E9%AB%98%E3%81%AE%E9%98%B2%E8%A1%9B%E4%BA%88%E7%AE%97%E6%A1%88%E3%82%92%E5%85%AC%E8%A1%A8/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rssystem.go.jp/project/6afaa1cd-54d7-48f6-8ce9-5388e3f92809",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/security/EB7Q4TFYL5MPJMDOSSXUGPL6YE-2025-12-26/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/hourei_dpb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagashima.com/publications/publication20260707-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA271J90X21C25A1000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichibenren.or.jp/document/statement/year/2026/260318.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/816051",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/50",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.medstec.co.jp/business/defence.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ishiss.co.jp/defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/japan-defense-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-defense-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/japan-defence-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2026/jul/us-defense-industrial-base-production-ramp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/us/en/industries/industrial-products/library/aerospace-and-defense-trends.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gao.gov/products/gao-25-107283",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insidedefense.com/share/228258",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "防衛装備品 国内市場規模 億円",
+   "results": [
+    "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "https://www.mordorintelligence.com/ja/industry-reports/japan-defense-market",
+    "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "https://www.nikkei.com/article/DGXZQOUC148HG0U6A410C2000000/",
+    "https://www.kdmarketinsights.jp/report-analysis/japan-defense-market/750",
+    "https://www.jsri.or.jp/publication/periodical/review/6605_02/",
+    "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "https://www.gii.co.jp/report/moi2100534-japan-defense-market-share-analysis-industry.html"
+   ]
+  },
+  {
+   "query": "防衛装備品 国内 参入企業 社",
+   "results": [
+    "https://www.mod.go.jp/atla/soubiseisaku_newentry.html",
+    "https://asahi.gakujo.ne.jp/research/industry_topics/detail/id=3552",
+    "https://orgallo.co.jp/blog/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9.html",
+    "https://ja.wikipedia.org/wiki/%E8%BB%8D%E9%9C%80%E4%BC%81%E6%A5%AD%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "https://mamor-web.jp/_ct/17749230",
+    "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "https://www.buffett-code.com/industries/50",
+    "https://kabu.com/kabuyomu/money/1017.html",
+    "https://ja.wikipedia.org/wiki/軍需企業の一覧"
+   ]
+  },
+  {
+   "query": "防衛装備品 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://www.mod.go.jp/asdf/3dep/prd/nyuusatsu/nyuusatsu-setumei-pdf/kakusyou/6-all.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA158B30V10C23A8000000/",
+    "https://madehere.co.jp/insight/dmsms-jsdf",
+    "https://www.jbaudit.go.jp/pr/kensa/result/8/pdf/080116_point.pdf",
+    "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "https://www.youtube.com/watch?v=rAvX6js3mlM",
+    "https://instituteofgeoeconomics.org/research/2025122502/",
+    "https://note.com/dsw2047/n/naa76aa0beba3",
+    "https://grandfleet.info/japan-related/japans-government-to-government-contracts-for-u-s-made-equipment-still-have-1-1-trillion-yen-worth-of-unpaid-bills/",
+    "https://smartf-nexta.com/archives/13522"
+   ]
+  },
+  {
+   "query": "防衛装備品 予算 補助金 基金 2026",
+   "results": [
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/seifuan2026/19.pdf",
+    "https://sentry-magazine.com/ja/%E6%97%A5%E6%9C%AC%E3%81%8C%E9%81%8E%E5%8E%BB%E6%9C%80%E9%AB%98%E3%81%AE%E9%98%B2%E8%A1%9B%E4%BA%88%E7%AE%97%E6%A1%88%E3%82%92%E5%85%AC%E8%A1%A8/",
+    "https://rssystem.go.jp/project/6afaa1cd-54d7-48f6-8ce9-5388e3f92809",
+    "https://www.reuters.com/jp/world/security/EB7Q4TFYL5MPJMDOSSXUGPL6YE-2025-12-26/",
+    "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "https://www.detrap-portal.jp/basic/fund/",
+    "https://www.sdki.jp/japan-news/japan-defense-policy-regional-military-impact/51",
+    "https://www.sangiin.go.jp/japanese/annai/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf"
+   ]
+  },
+  {
+   "query": "防衛装備品 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.mod.go.jp/atla/hourei_dpb.html",
+    "https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/",
+    "https://www.nagashima.com/publications/publication20260707-1/",
+    "https://www.nikkei.com/article/DGXZQOUA271J90X21C25A1000000/",
+    "https://www.nichibenren.or.jp/document/statement/year/2026/260318.html",
+    "https://www.meti.go.jp/policy/anpo/qanda01.html",
+    "https://ja.wikipedia.org/wiki/%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E7%A7%BB%E8%BB%A2%E4%B8%89%E5%8E%9F%E5%89%87",
+    "https://www.reuters.com/jp/world/security/B2F4XKBF45PUFFI5YDZ6HACTCM-2026-06-09/",
+    "https://ja.wikipedia.org/wiki/防衛装備移転三原則",
+    "https://note.com/y44901726/n/n3c1aa277a237"
+   ]
+  },
+  {
+   "query": "防衛装備品 国内 主要企業 メーカー",
+   "results": [
+    "https://orgallo.co.jp/blog/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9.html",
+    "https://shikiho.toyokeizai.net/news/0/816051",
+    "https://ja.wikipedia.org/wiki/%E8%BB%8D%E9%9C%80%E4%BC%81%E6%A5%AD%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "https://www.buffett-code.com/industries/50",
+    "https://www.medstec.co.jp/business/defence.html",
+    "https://asahi.gakujo.ne.jp/research/industry_topics/detail/id=3552",
+    "https://www.ishiss.co.jp/defense/",
+    "https://whiteorder.net/japan-defense-industry-list/",
+    "https://ja.wikipedia.org/wiki/軍需企業の一覧"
+   ]
+  },
+  {
+   "query": "defense equipment Japan market size",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/japan-defense-market",
+    "https://www.imarcgroup.com/japan-defense-market",
+    "https://www.sphericalinsights.com/reports/japan-defence-market",
+    "https://www.statista.com/topics/10495/defense-manufacturing-in-japan/?srsltid=AYCX9vJrAHGpv8rnZjnpHSQKJziGg867BOq0vZCWuKPfNq_PHyxLtpJH",
+    "https://straitsresearch.com/report/defence-equipment-market",
+    "https://www.trade.gov/country-commercial-guides/japan-defense-procurement",
+    "https://www.gmiresearch.com/report/japan-defense-market/",
+    "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "https://www.linkedin.com/pulse/japan-sea-based-defense-equipment-market-sxnjc/",
+    "https://worldmetrics.org/japan-defense-industry-statistics/"
+   ]
+  },
+  {
+   "query": "defense equipment shortage backlog supply gap 2025",
+   "results": [
+    "https://www.oliverwyman.com/our-expertise/insights/2026/jul/us-defense-industrial-base-production-ramp.html",
+    "https://www.pwc.com/us/en/industries/industrial-products/library/aerospace-and-defense-trends.html",
+    "https://www.gao.gov/products/gao-25-107283",
+    "https://www.facebook.com/themilitarychannelusa/posts/read-a-major-rift-has-emerged-in-the-global-defense-market-driven-by-the-need-to/122236579178902462/",
+    "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html",
+    "https://insidedefense.com/share/228258",
+    "https://legis1.com/news/defense-industrial-base-production-speed",
+    "https://federalnewsnetwork.com/defense-news/2026/07/staff-shortages-strain-weapons-programs-gao-says/",
+    "https://www.aerospacemanufacturinganddesign.com/article/2025-forecast-aircraft-backlog-strong-manufacturing-tackles-supply-chain-production/",
+    "https://thedefensewatch.com/policy-strategy/aerospace-supply-chains-still-strained-in-2025-as-industry-recovery-slows/"
+   ]
+  }
+ ],
+ "missing": {
+  "国内市場規模": "記載なし（読んだ40頁・検索8回）"
+ }
+}

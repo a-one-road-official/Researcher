@@ -1,0 +1,1322 @@
+{
+ "name": "艦艇",
+ "en": "naval vessels",
+ "aliases": [
+  "軍艦",
+  "護衛艦",
+  "造艦"
+ ],
+ "context": "5 防衛 ②艦艇",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:17:43.075250+00:00",
+ "evidence": {
+  "需給の差": [
+   {
+    "quote": "そのため、プログラムの実施時期、造船所の生産能力、主権国家のサプライチェーンへのアクセスが、基盤となるプラットフォーム設計と同程度に市場の商業的成否を左右することが多くなっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "艦隊再編・更新プログラムは収益の可視性を高める可能性がありますが、原子力分野の認定を受けた人材、設計能力、長納期部品が制約される場合、引き渡し可能な船体数の増加に自動的につながるわけではありません",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の艦艇調達と生産能力",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の戦略防衛見直しでは、最大12隻のSSN-AUKUS潜水艦を建造し、18か月に1隻の建造を目指して生産能力を拡大する方針が示された",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "艦隊の多様化により、調達経路の数が増加し、主力艦の生産能力が制約されている場合でも、共通制御、通信、ペイロードインターフェースへの需要が高まる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした契約は重要な生産能力を確保する一方、予算規模の小さい購入国にとっては調達の柔軟性を低下させる可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府は潜水艦や駆逐艦の建造を承認できるが、機密情報取扱資格を有するエンジニア、原子力分野の有資格技能者、または完全に認定された部品サプライチェーンを短期間で整備することはできない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、新たな大型艦の建造待ち期間が長期化するなか、改修、共通システム、より複雑性の低い哨戒艦艇は、能力を確保するための有力な手段となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "この地域の差別化要因は、受注不足ではなく、造船所と認定サプライヤーが納期に関するコミットメントを満たせるかどうかにある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国、インド、日本、オーストラリア、韓国はいずれも戦力構成計画を推進しているが、商業モデルは国内生産能力の拡大から輸出に結び付いた産業連携まで多岐にわたる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mazagon Dock Shipbuilders、Hyundai Heavy Industries、Mitsubishi Heavy Industries、China State Shipbuilding Corporation、Austalが地域の生産能力を支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化・人手不足が進む日本では、自衛隊も人員確保が大きな課題となるため、艦艇の省人化は単なるコスト削減ではなく、実際に艦隊を維持するための重要な技術要件となる",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、人手不足への対応として自動化・省人化が重要になる",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、地政学的な貿易制限、供給業者の不足、高性能防衛グレード材料の不足は、主要な海軍造船計画全体の生産スケジュールに影響を与え続けています",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月、ハンファオーシャンは、スマート海軍造船施設の拡張と、次世代海軍艦艇および輸出プログラム向けの生産能力強化のための投資を発表した",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月、同社は欧州防衛近代化構想に基づき、新型艦艇建造のための資金を確保し、先進的な水上戦闘艦の生産能力を支援した",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、国内政府、技術プロバイダー、および防衛請負業者との連携により、市場参加者は生産能力を拡大し、艦隊近代化プログラムを加速させ、世界の海軍市場全体で複数年にわたる防衛契約を獲得することが可能になっている",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇を建造する三菱・長崎と三井・玉野が一体運営できれば「生産能力が足りず受注を逃す場面も減らせる」（三井E&SHD幹部）",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の商船の受注残は2020年度、約20年ぶりの低水準に沈み、足元でも鋼材などコスト高に悩まされる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "pass": 3
+   },
+   {
+    "quote": "依然として艦艇の受注残は低水準だ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "pass": 3
+   },
+   {
+    "quote": "足元では「艦艇事業の受注残は低調」（同）なだけに、今後の受注に向け今回の買収で競争力を保ちたい考えだ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省からの発注に海外からの受注も加わり、不足する建造能力を確保する狙いだ",
+    "url": "https://seikeifocus.jp/politics/article/63331/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の船台再稼働は、追加受注の制約となる建造能力の不足を補う措置だ",
+    "url": "https://seikeifocus.jp/politics/article/63331/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛費の増額と艦艇輸出の拡大が、造船業全体の生産能力回復につながるかどうかが今後の焦点となる",
+    "url": "https://seikeifocus.jp/politics/article/63331/",
+    "pass": 3
+   },
+   {
+    "quote": "少子化やベテランの退職による人手不足が背景にあり、機器の進化で身体的要件を設ける必要性は薄れている",
+    "url": "https://note.com/kiyotani/n/n56c98340fdf1",
+    "pass": 3
+   },
+   {
+    "quote": "陸上自衛隊による､銃の調達や取り扱いから垣間見える｢知識不足｣の疑い",
+    "url": "https://note.com/kiyotani/n/n56c98340fdf1",
+    "pass": 3
+   },
+   {
+    "quote": "海自艦艇の乗組員の慢性的な充足不足（低充足率）は深刻である",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "忌避されることなどから希望者は少なく、慢性的な人手不足の傾向にある1",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "不足の全体的な解決には至っていない",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・艦艇乗組員の慢性的な充足不足は、近年、少子高齢化問題が顕在化するよりもかなり以前、具体的に",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の慢性的な充足不足は、実はかなり前から既に問題化しており、 根本的な解決策を見つけることができない",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇乗組員の慢性的な充足不足はどうすれば解決できるのか",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1「海自艦艇の乗員不足深刻 外国人登用案も一時浮上」『産経新聞』2023年5月9日、",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "任務等にあたる期間は限定的であるため、これを増やしても慢性的な人手不足の根本的な解決策には成り得ない",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本稿でははじめに、艦艇乗組員の充足不足が慢性的に続いていることに対して問題認識を持ち、 これまで",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、乗組員の担い手は決して不足しておらず、かつ、経済力",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "あっても、安全保障・国防の問題、その中での慢性的な艦艇乗組員の充足不足という問題は、待ったなしで",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "少人数運用の艦艇、輸出の切り札 豪州採用、世界の海軍で人手不足 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGKKZO96636330S6A600C2BZ0000/",
+    "pass": 3
+   },
+   {
+    "quote": "豪州採用、世界の海軍で人手不足",
+    "url": "https://www.nikkei.com/article/DGKKZO96636330S6A600C2BZ0000/",
+    "pass": 3
+   },
+   {
+    "quote": "海上自衛隊の乗員不足に対応し、少人数で運用できるよう工夫を凝らす",
+    "url": "https://www.nikkei.com/article/DGKKZO96636330S6A600C2BZ0000/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海軍でも人手不足は大きな課題で人口減少社会を映した日本の艦艇は武器輸出の切り札になる",
+    "url": "https://www.nikkei.com/article/DGKKZO96636330S6A600C2BZ0000/",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGKKZO96636330S6A600C2BZ0000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGKKZO96636330S6A600C2BZ0000/",
+    "pass": 3
+   },
+   {
+    "quote": "「海上自衛隊に求められる任務は年々拡大している一方で人員不足(特に艦艇部隊)が顕著であり、各艦艇、各人... 海上自衛隊 OpenWork",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0ARC00000mGRLZ&qco=6",
+    "pass": 3
+   },
+   {
+    "quote": "海上自衛隊 「海上自衛隊に求められる任務は年々拡大している一方で人員不足(特に艦艇部隊)が顕著であり、各艦艇、各人...」",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0ARC00000mGRLZ&qco=6",
+    "pass": 3
+   },
+   {
+    "quote": "海上自衛隊に求められる任務は年々拡大している一方で人員不足(特に艦艇部隊)が顕著であり、各艦艇、各人...",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0ARC00000mGRLZ&qco=6",
+    "pass": 3
+   },
+   {
+    "quote": "海上自衛隊に求められる任務は年々拡大している一方で人員不足(特に艦艇部隊)が顕著であ...",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0ARC00000mGRLZ&qco=6",
+    "pass": 3
+   },
+   {
+    "quote": "海上自衛隊への就職・転職を検討されている方が、海上自衛隊の実情を把握するための参考情報として、「社員による会社評価・クチコミ情報」（水上艦艇、幹部、在籍5～10年、現職（回答時）、新卒入社、男性、海上自衛隊）「海上自衛隊に求められる任務は年々拡大している一方で人員不足(特に艦艇部隊)が顕著であり、各艦艇、各人...」を共有しています",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0ARC00000mGRLZ&qco=6",
+    "pass": 3
+   },
+   {
+    "quote": "人口減少下で深刻化する隊員不足を踏まえ、隊員の負担軽減や省人化・省力化を推進する",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自衛隊の運用を円滑にするため、弾薬・燃料の確保、可動数の向上(部品不足の解消等)、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "部品不足による非可動を解消し、保有装備品の可動数の最大化及び部隊能力の維持向上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "持続的な対応能力を支えることができる防衛生産能力を構築するため、民需が見込めず、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小学校で給食費などの督促怠り5400万円不足 校長ら私費で補てん",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "pass": 3
+   },
+   {
+    "quote": "加熱不足の鶏肉食べた医師、車いす生活に「避けられた...",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "pass": 3
+   },
+   {
+    "quote": "小学校で給食費などの督促怠り5400万円不足 校長ら私費で補てん",
+    "url": "https://www.asahi.com/articles/ASS6C242HS6CUTFK00DM.html",
+    "pass": 3
+   },
+   {
+    "quote": "加熱不足の鶏肉食べた医師、車いす生活に「避けられた...",
+    "url": "https://www.asahi.com/articles/ASS6C242HS6CUTFK00DM.html",
+    "pass": 3
+   },
+   {
+    "quote": "［独自］護衛艦建造「外国人解禁」へ 受注増での人手不足、国と業界が協議：日経ビジネス電子版",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/060400025/",
+    "pass": 3
+   },
+   {
+    "quote": "［独自］護衛艦建造「外国人解禁」へ 受注増での人手不足、国と業界が協議",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/060400025/",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "複雑な戦闘艦は、認証、戦闘システムの統合、ライフサイクル全体にわたる支援がプラットフォームに組み込まれているため、設計が成熟した後にサプライヤー間で容易に切り替えることはできません",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "調達は国家安全保障関連の規制によっても形作られています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "地政学的不安定性と規制上の制約",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Navy, Navy Awards Contract Modification for Two Additional Virginia-Class Submarines, April 2025, navy.mil",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍技術は、輸出管理、安全保障、産業参加に関する制度の影響を受ける",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "改修プログラムは、互換性、認証、構成に関する知識が参入可能な供給企業を限定するため、商業面で有利な特性を持つ可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 規制に関する前提条件と政策変更リスク",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "この専門家によるレビューが品質保証の重要な層となり、データが調査目的と各分野の基準に合致していることを確認します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "専門的な業務基準と顧客満足度",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "品質認証取得",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 9001:2015認証取得企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制当局への提出書類",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制・政治環境",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "ISO認証取得",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Delaware 19975 USA",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備の輸出規制も市場上の制約となる",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、国内メーカーが海外市場へ大規模展開する際には、政策・制度面が重要な条件となる",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "原子力推進が仮に実現すれば、単なるエンジン変更ではなく、艦艇設計、乗員訓練、港湾設備、原子力安全規制、保守、燃料管理まで大規模な制度・インフラ変更が必要になる",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "大型艦建造には、長年の実績、政府との信頼関係、機密情報管理、高度な品質保証、軍用規格への対応、長期にわたる試験・認証能力が必要である",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "政府予算の拡大と長期調達計画が市場を安定的に支える一方、高コスト、輸出規制、複雑な技術統合が参入障壁となるため、国内造船大手とグローバル防衛企業との長期的な協業が、2035年までの日本駆逐艦市場の構造を大きく左右すると考えられる",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.marketresearch.co.jp/contacts/",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "これらのシステム間の相互運用性を確保するには、エンジニアリングの複雑さが増し、試験および認証期間が延長され、開発コストが増加する",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益予測、競争環境、成長要因、環境および規制環境とトレンド",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルおよび地域市場における市場エコシステム、技術動向、需給動向、規制・政策環境、価格構造、バリューチェーン、競合上の立ち位置、新興の業界トレンドの評価において、深い知見を有しています",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "基準年: 2025",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "認証済み・保護・安全",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、防衛分野は政府予算、調達制度、認証要件の影響を強く受けるため、市場成長率だけで投資判断を行うのではなく、政策との整合性、継続的な受注能力、技術蓄積を含めた事業基盤の評価が必要になります",
+    "url": "https://newscast.jp/news/7626300",
+    "pass": 3
+   },
+   {
+    "quote": "基準年から2027年までに変わる事業前提―確定情報と見通しを分けて読む",
+    "url": "https://newscast.jp/news/7626300",
+    "pass": 3
+   },
+   {
+    "quote": "• 【基準年】2025年の海軍艦艇市場は723億米ドル規模と推計され、各国の防衛能力維持・強化需要を背景に形成されています",
+    "url": "https://newscast.jp/news/7626300",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の投資判断を左右する政府方針、所管省庁、規制対応―防衛力強化政策が国内産業基盤の方向性を示す",
+    "url": "https://newscast.jp/news/7626300",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、防衛分野への参入には品質保証、安全保障上の管理、調達基準への対応が不可欠です",
+    "url": "https://newscast.jp/news/7626300",
+    "pass": 3
+   },
+   {
+    "quote": "企業経営では、短期的な受注獲得よりも、認証対応、人材育成、継続的な研究開発体制を含む長期投資として判断する必要があります",
+    "url": "https://newscast.jp/news/7626300",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、防衛関連企業や研究機関との協業可能性を検討し、認証・調達プロセスへの理解を深めることが重要です",
+    "url": "https://newscast.jp/news/7626300",
+    "pass": 3
+   },
+   {
+    "quote": "家計の法律クリニック",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ることなくAIが意思決定して人を殺傷する場合が考えられ、道徳的に問題があるため、使用を規制",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "59 Human Rights Watch, “Losing Humanity: The Case against Killer Robots,” Harvard Law School International Human",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "61 上野博嗣「ロボット兵器の自律性に関する一考察 –LAWS（自律性致死兵器システム）を中心として-」 『海幹校戦略研究』",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "68 乗組員が実施してきた処置等の判断基準に係るものを入力する仕組みを構築し、実際に乗組員が過去に実施した処置の履",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "隊させることによって起こる懲戒処分件数の増加は、 毎年、 新入隊員を入れていく現行の制度下では、",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "86 「自衛隊法施行規則（昭和二十九年総理府令第四十号） 」第五十二条（陸上自衛官及び海上自衛官の船舶居住義務）e-GOV",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法令検索、https://elaws.e-gov.go.jp/document?lawid=329M50000002040_20240401_506M60002000002）により、 「船舶（防",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）に乗組を命ぜられた陸上自衛官及び海上自衛官は、防衛大臣の指定する船舶内に居住しなけれ",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、クルー制を導入すれば、乗船指定をされていない期間が一定数存在",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "家計の法律クリニック",
+    "url": "https://www.nikkei.com/article/DGKKZO96636330S6A600C2BZ0000/",
+    "pass": 3
+   },
+   {
+    "quote": "令和９年度概算要求においては、概算要求基準※に基づき、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 予備自衛官等制度の認知度向上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(ＰＡＴＳ)に接続する器材等を整備 ※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "構築するため、防衛関連企業等に対する支援制度を新たに創設",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を委託し、安定的・長期的に生産基盤を確保する制度を新たに創設",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※Government-Owned,Contractor-Operated（国有施設民間操業））",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "する企業に出資する制度を新たに創設",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 安全保障技術研究推進制度（補助事業）（事項要求)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 防衛課題解決研究制度（仮称）(事項要求)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省外から公募し、支援する制度を創設",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ ディフェンステックSBIR制度（仮称）(事項要求)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップの研究開発を支援するSBIR（※）制度（短期間で複数企業と同時契約し",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ため、投資ファンド等へ出資する制度を新たに創設",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "安全保障技術研究推進制度をはじめとする政府の科学技術投資の成果や民生分野の先端",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 航空宇宙自衛隊における予備自衛官補制度の導入",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 沖縄に関する特別行動委員会（ＳＡＣＯ：Special Action Committee on Okinawa）最終報告（1996年12月２",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "U.S. Department of the Navy, FY 2026 Budget Highlights Book, 2025, secnav.navy.mil",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度の米国予算案は、空母向け資金および先行調達とともに、コロンビア級およびバージニア級の調達を組み合わせており、この資本集約度の規模を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "米海軍の2026年度予算は、有人艦隊の更新と並行して、大型無人水上航走体および無人水中航走体への投資を掲げている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026会計年度（FY2026）の造艦要求では、19隻の戦闘艦向け予算が計上され、コロンビア級およびバージニア級潜水艦関連の活動、空母向け予算、水上艦隊プログラムが含まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛予算は、2022年の5.1兆円から2024年には7.7兆円へ増加しており、この予算拡大が艦艇建造、推進システム、ミサイル防衛、電子戦、センサー、戦闘システムの需要を直接的に押し上げている",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "Maya級駆逐艦は1隻あたり約16億米ドルとされており、一隻の建造だけでも大規模な予算を必要とする",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "政府予算の拡大と長期調達計画が市場を安定的に支える一方、高コスト、輸出規制、複雑な技術統合が参入障壁となるため、国内造船大手とグローバル防衛企業との長期的な協業が、2035年までの日本駆逐艦市場の構造を大きく左右すると考えられる",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "さらに今回、艦艇に乗り組む海自隊員の処遇改善に向け、手当増額の関連経費を６年度予算の概算要求に計上した",
+    "url": "https://note.com/kiyotani/n/n56c98340fdf1",
+    "pass": 3
+   },
+   {
+    "quote": "３ 最適化への取組／補助金・基金の見直しの取組",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を計上（歳出ベース約９兆円、契約ベース約８兆円）し、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 「令和９年度予算の概算要求に当たっての基本的な方針について」（令和８年７月３０日閣議了解）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本年中に改定する三文書を踏まえて編成される令和９年度予算については、同文書に係る議論を経て結論を得る必要があることから予算編成",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 令和９年度予算においては、危機管理投資・成長投資をはじめ、国内投資を通じた潜在成長率の引上げにつながる施策を予見可能性を持って実施できるよう、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "通常歳出とは別に、「強く豊かな日本」投資枠が創設された（経済財政運営と改革の基本方針2026（令和8年7月21日閣議決定）・令和９年度予算の",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 官民連携の強化(DSGの機能強化) (５０９億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 防衛装備移転円滑化のための基金に充てる補助金(４００億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－現行の防衛力整備計画に基づいた４年度目予算の編成－",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "― 現行の防衛力整備計画に基づいた４年度目予算の編成 ―",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期間のうち４年度目に当たる2026年度予算政府案が閣議決定された",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年度予算は、現行の防衛力整備計画等に基づき編成されている4",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 防衛省「防衛力抜本的強化の進捗と予算－令和８年度予算案の概要－」（以下「令和８年度予算案の概要」と",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年度予算は、支出官レート6において、１ドル＝149円とされている",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９兆353億円が計上された9",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１ 防衛関係費（当初予算・歳出ベース）の推移",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８兆8,459億円11が計上されている",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 つまり、防衛省の予算だが、防衛力整備計画の対象経費から除かれる経費が存在する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度までの経費（補正予算を含む）を機械的に合算し計算すると、防衛力整備計画",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の実施に必要な防衛力整備の水準に係る金額（歳出ベース）43兆円程度のうち既計上分は",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "うち既計上分は81％となる",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ているため、それぞれについて2026年度の防衛省予算に計上された主な事業を確認する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）「令和８年度予算案の概要」及び防衛省「防衛力抜本的強化の進捗等」（2025.4.3）を基に作成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛費、過去最大の9兆円超で調整 2026年度当初予算案 [予算・税制]：朝日新聞",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度当初予算は",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "pass": 3
+   },
+   {
+    "quote": "防衛費、過去最大の9兆円超で調整 2026年度当初予算案",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "pass": 3
+   },
+   {
+    "quote": "する2026年度当初予算案で、",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "pass": 3
+   },
+   {
+    "quote": "25年度当初予算の約8兆7千億円を上回り、過去最大となる",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "pass": 3
+   },
+   {
+    "quote": "誘導弾や地上装置の取得に301億円を計上する",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "pass": 3
+   },
+   {
+    "quote": "）を活用した無人機の研究開発に48億円を計上する",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Department of the Navy, FY 2026 Budget Highlights Book. secnav.navy.mil",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Increasing defense budgets. Global military expenditure reached USD 2.718 trillion in 2024, according to SIPRI, following the largest annual increase since the end of the Cold War",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": ". Such commitments secure critical capacity, but they can reduce procurement flexibility for buyers with smaller budgets. Multi-ship arrangements can offset part of the cost: the Navy's USD 9.6 billion amphibious procurement in September 2024 was expected to save USD 901 million relative to annual contracting.",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "A paramount challenge confronting the market is the management of pervasive cost growth and schedule slippage in major procurement programs. Complex platforms such as aircraft carriers and advanced destroyers often experience budget overruns exceeding 20% of their initial estimates, driven by immense technological complexity in systems like the Aegis combat system.",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "艦艇市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇市場の主要企業には、Huntington Ingalls Industries、General Dynamics Corporation、Hyundai Heavy Industries、BAE Systems、Lockheed Martin Corporationなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、国内メーカーが海外市場へ大規模展開する際には、政策・制度面が重要な条件となる",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境では、Mitsubishi Heavy Industries、Kawasaki Heavy Industries、Japan Marine United、Lockheed Martin、General Dynamics、BAE Systems、Rolls-Royce、Thales Group、Northrop Grumman、Navantia、Fincantieriなどが主要企業として挙げられている",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "12.2 その他の主要企業",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、長期の海軍調達契約、国内造船プログラム、技術革新、および防衛機関との戦略的パートナーシップを通じて競争している",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要メーカーは、ハンティントン・インガルス・インダストリーズ、ジェネラル・ダイナミクス・コーポレーション、BAEシステムズ、ネーバル・グループ、フィンカンティエリS.p.A.です",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/news/7626300",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の投資判断を左右する政府方針、所管省庁、規制対応―防衛力強化政策が国内産業基盤の方向性を示す",
+    "url": "https://newscast.jp/news/7626300",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の一覧 (分野別)",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%80%A0%E8%88%B9%E4%BC%9A%E7%A4%BE%E3%81%A8%E9%80%A0%E8%88%B9%E6%89%80%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "海軍 艦艇市場規模 、2026〜2035年 - Global Market Insights — 海軍 艦艇市場規模 、2026〜2035年 - Global Market Insights Global Market Insights Inc. https://www.gminsights.com > naval-vessels-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍 艦艇 および水上戦闘 艦艇 の 市場規模 、シェア、2034年 — 海軍 艦艇 および水上戦闘 艦艇 の 市場規模 、シェア、2034年 Straits Research https://straitsresearch.com > ... > 海軍・海洋・港湾技術",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍 艦艇 および水上戦闘機の 市場 シェア [2034 年] — 海軍 艦艇 および水上戦闘機の 市場 シェア [2034 年] Fortune Business Insights https://www.fortunebusinessinsights.com > 海軍艦艇およ...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F%E5%B8%82%E5%A0%B4-102695",
+    "pass": 3
+   },
+   {
+    "quote": "海軍 艦艇 市場規模、2026〜2035年 - Global Market Insights — 海軍 艦艇 市場規模、2026〜2035年 - Global Market Insights Global Market Insights Inc. https://www.gminsights.com > naval-vessels-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "「大型 艦艇 を造れるのは2 社 だけ」日本の造船業、輸出拡大で ... — 「大型 艦艇 を造れるのは2 社 だけ」日本の造船業、輸出拡大で ... seikeifocus.jp https://seikeifocus.jp > 政治",
+    "url": "https://seikeifocus.jp/politics/article/63331/",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇 の極省人化に関する研究 角道 保史 — 艦艇 の極省人化に関する研究 角道 保史 防衛省 PDF https://www.mod.go.jp > gsdf > tercom > img > file16",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels Market Size 2026-2035, Global Trends Report — Naval Vessels Market Size 2026-2035, Global Trends Report Global Market Insights Inc. https://www.gminsights.com > naval-...",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels Market Analysis, Size , and Forecast 2026-2030 — Naval Vessels Market Analysis, Size , and Forecast 2026-2030 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels and Surface Combatants Market Share [2034] — Naval Vessels and Surface Combatants Market Share [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/naval-vessels-and-surface-combatants-market-102695",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "例えば航空機関連では米ロッキード・マーチンは10社以上が、欧州では英BAEシステムズは20社以上が統合し、防衛の大企業が生まれている",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "pass": 3
+   },
+   {
+    "quote": "舶用機器メーカーを含む造船関連産業には約1,000社以上が存在し、従業員数は約7.2万人（外国人を含む）であり、造船は地方経済を支える主要産業です",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": "は9月7日、尾道造船（神戸市）が米新興企業ブルワーク・ダイナミクスの開発する無人水上艇（USV）を日本国内で量産すると報じた",
+    "url": "https://seculligence.com/news/2030/",
+    "pass": 3
+   },
+   {
+    "quote": "トランプ政権に「共感」日本国内で23.1% 「日本にもトランプ氏のような強い政治家が必要」は52.6% アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】",
+    "url": "https://newsdig.tbs.co.jp/articles/mbc/3046174?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "の商船建造は、今治造船とJMUの2社で国内市場の過半を占めています",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国の予算億円": [
+   {
+    "value": "５０９",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "quote": "・ 官民連携の強化(DSGの機能強化) (５０９億円)"
+   },
+   {
+    "value": "４００",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "quote": "○ 防衛装備移転円滑化のための基金に充てる補助金(４００億円)"
+   },
+   {
+    "value": "353",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "quote": "９兆353億円が計上された9"
+   },
+   {
+    "value": "8,459",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "quote": "８兆8,459億円11が計上されている"
+   },
+   {
+    "value": "301",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "quote": "誘導弾や地上装置の取得に301億円を計上する"
+   },
+   {
+    "value": "48",
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "quote": "）を活用した無人機の研究開発に48億円を計上する"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/naval-vessels-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/7626300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmuc.co.jp/business/naval-vessel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/finance/library/business/pdf/kantei_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://seikeifocus.jp/politics/article/63331/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.emp.u-tokyo.ac.jp/onozukat/IJN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/kiyotani/n/n56c98340fdf1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO96636330S6A600C2BZ0000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://moy.cocolog-nifty.com/blog/2019/02/post-b9b8.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0ARC00000mGRLZ&qco=6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/seifuan2026/19.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sentry-magazine.com/ja/%E6%97%A5%E6%9C%AC%E3%81%8C%E9%81%8E%E5%8E%BB%E6%9C%80%E9%AB%98%E3%81%AE%E9%98%B2%E8%A1%9B%E4%BA%88%E7%AE%97%E6%A1%88%E3%82%92%E5%85%AC%E8%A1%A8/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seculligence.com/news/2030/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/china/O3QAMAA5HZPOPAETGCSBTW6KZI-2026-07-21/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newsdig.tbs.co.jp/articles/mbc/3046174?display=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASS6C242HS6CUTFK00DM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/060400025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/8b0b7f42-5517-464b-af92-0d7dbf572d45",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%80%A0%E8%88%B9%E4%BC%9A%E7%A4%BE%E3%81%A8%E9%80%A0%E8%88%B9%E6%89%80%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/military-marine-vessel-engines-market/companies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/recruit/kosen/location/nagasaki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/naval-vessels-and-surface-combatants-market-102695",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/naval-vessels-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/marine-vessels-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.congress.gov/crs-product/RL32665",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbo.gov/publication/61155",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gao.gov/products/gao-25-106990",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.usni.org/2025/12/15/navy-has-20000-gaps-at-sea-due-to-training-backlog-past-recruiting-shortfall",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/navy/comments/1po0dxc/navy_has_20000_gaps_at_sea_due_to_training/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "艦艇 国内市場規模 億円",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "https://www.atpress.ne.jp/news/9465387",
+    "https://www.mordorintelligence.com/ja/industry-reports/naval-vessels-market",
+    "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "https://newscast.jp/news/7626300",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F%E5%B8%82%E5%A0%B4-102695",
+    "https://www.astuteanalytica.com/ja/industry-report/warship-naval-vessels-market",
+    "https://japanese.joins.com/JArticle/330594?sectcode=300&servcode=300",
+    "https://www.dreamnews.jp/press/0000361813",
+    "https://digital-supporter.net/mirai-ai/17invest/kantei.html"
+   ]
+  },
+  {
+   "query": "艦艇 国内 参入企業 社",
+   "results": [
+    "https://www.jmuc.co.jp/business/naval-vessel/",
+    "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "https://www.atpress.ne.jp/news/9465387",
+    "https://www.mhi.com/jp/finance/library/business/pdf/kantei_summary.pdf",
+    "https://seikeifocus.jp/politics/article/63331/",
+    "https://www.emp.u-tokyo.ac.jp/onozukat/IJN.pdf",
+    "https://www.jmd.co.jp/article.php?no=303463"
+   ]
+  },
+  {
+   "query": "艦艇 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://note.com/kiyotani/n/n56c98340fdf1",
+    "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "https://www.nikkei.com/article/DGKKZO96636330S6A600C2BZ0000/",
+    "http://moy.cocolog-nifty.com/blog/2019/02/post-b9b8.html",
+    "https://www.openwork.jp/one_answer.php?vid=a0ARC00000mGRLZ&qco=6",
+    "https://trafficnews.jp/post/717397",
+    "https://news.infoseek.co.jp/article/trafficnews_717397/",
+    "https://japan-indepth.jp/?p=85287",
+    "https://business.nikkei.com/atcl/gen/19/00800/060400025/",
+    "https://golden-gains.com/4766.html"
+   ]
+  },
+  {
+   "query": "艦艇 予算 補助金 基金 2026",
+   "results": [
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf",
+    "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/seifuan2026/19.pdf",
+    "https://sentry-magazine.com/ja/%E6%97%A5%E6%9C%AC%E3%81%8C%E9%81%8E%E5%8E%BB%E6%9C%80%E9%AB%98%E3%81%AE%E9%98%B2%E8%A1%9B%E4%BA%88%E7%AE%97%E6%A1%88%E3%82%92%E5%85%AC%E8%A1%A8/",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "https://www.asahi.com/articles/ASTDL0R70TDLUTFK002M.html",
+    "https://www.nikkei.com/article/DGXZQOUA170ZV0X10C26A4000000/",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "https://www.tokyo-np.co.jp/article/458820",
+    "https://www.sangiin.go.jp/japanese/annai/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "https://www.kaijipress.com/news/shipbuilding/2026/01/198404/"
+   ]
+  },
+  {
+   "query": "艦艇 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://seculligence.com/news/2030/",
+    "https://www.reuters.com/jp/world/china/O3QAMAA5HZPOPAETGCSBTW6KZI-2026-07-21/",
+    "https://newsdig.tbs.co.jp/articles/mbc/3046174?display=1",
+    "https://www.asahi.com/articles/ASS6C242HS6CUTFK00DM.html",
+    "https://business.nikkei.com/atcl/gen/19/00800/060400025/",
+    "https://www.mod.go.jp/gsdf/tercom/img/file16.pdf",
+    "https://www.chosun.com/jp/international-jp/2026/10/26/D4YJV2ZFIBASJMZ7NNGKVROXYQ/",
+    "https://www.spf.org/iina/articles/sanghoe_lee_04.html",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://laws.e-gov.go.jp/index.html"
+   ]
+  },
+  {
+   "query": "艦艇 国内 主要企業 メーカー",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUC2959K0Z21C21A0000000/",
+    "https://www.jmuc.co.jp/business/naval-vessel/",
+    "https://baseconnect.in/companies/keyword/8b0b7f42-5517-464b-af92-0d7dbf572d45",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%80%A0%E8%88%B9%E4%BC%9A%E7%A4%BE%E3%81%A8%E9%80%A0%E8%88%B9%E6%89%80%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "https://www.mordorintelligence.com/ja/industry-reports/military-marine-vessel-engines-market/companies",
+    "https://www.mhi.com/jp/recruit/kosen/location/nagasaki",
+    "https://www.youtube.com/watch?v=ubrahtiW-qk",
+    "https://geopinning.space/industry/japan-shipbuilding/",
+    "http://japanese.china.org.cn/jp/txt/2012-02/16/content_24655372_3.htm",
+    "https://ja.wikipedia.org/wiki/日本の造船会社と造船所の一覧"
+   ]
+  },
+  {
+   "query": "naval vessels Japan market size",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "https://www.fortunebusinessinsights.com/naval-vessels-and-surface-combatants-market-102695",
+    "https://www.mordorintelligence.com/industry-reports/naval-vessels-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/marine-vessels-market/japan",
+    "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market/asia-pacific",
+    "https://www.linkedin.com/pulse/japan-naval-vessels-mro-market-us-korea-europe-strategic-ougjf",
+    "https://en.wikipedia.org/wiki/Japan_Maritime_Self-Defense_Force",
+    "https://www.industryresearch.biz/market-reports/naval-shipbuilding-market-109643",
+    "https://www.nexdigm.com/market-research/report-store/japan-naval-vessels-market/"
+   ]
+  },
+  {
+   "query": "naval vessels shortage backlog supply gap 2025",
+   "results": [
+    "https://www.facebook.com/themilitarychannelusa/posts/read-while-the-pentagon-accelerates-its-vision-for-the-golden-fleet-of-2027-the-/122200133084902462/",
+    "https://www.congress.gov/crs-product/RL32665",
+    "https://www.cbo.gov/publication/61155",
+    "https://www.gao.gov/products/gao-25-106990",
+    "https://news.usni.org/2025/12/15/navy-has-20000-gaps-at-sea-due-to-training-backlog-past-recruiting-shortfall",
+    "https://www.facebook.com/13NewsNow/posts/the-navy-is-struggling-to-complete-maintenance-work-on-ships-according-to-a-repo/917590653749126/",
+    "https://www.reddit.com/r/navy/comments/1po0dxc/navy_has_20000_gaps_at_sea_due_to_training/",
+    "https://www.reuters.com/business/aerospace-defense/us-navy-ship-building-schedules-hit-by-supply-chain-woes-labor-shortages-2024-04-02/",
+    "https://www.forbes.com/sites/zitaballingerfletcher/2026/10/01/us-navy-vessels-and-shipyard-workers-strained-by-lengthy-deployments/",
+    "https://modernengineeringmarvels.com/2026/03/09/navy-doom-loop-why-most-new-warships-are-still-running-late/"
+   ]
+  }
+ ],
+ "missing": {}
+}
