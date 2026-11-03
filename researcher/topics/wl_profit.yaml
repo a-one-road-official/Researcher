@@ -1,0 +1,36 @@
+# 第2段：第1段（wl_field6・wl_abc）で名前が出たホワイトラベル候補の提供企業を1社ずつ三重確認する。
+# 本人の条件：ホワイトラベルで儲かっていて黒字の製品のみ。黒字・売上・資金調達・存続（清算・買収）・自社名で出せる条件の事実だけを引用する。
+title: ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件
+input: researcher/inputs/wl_profit.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  設立: [Founded, Established, founded in, 設立, 創業]
+  従業員数: [Employees, Team size, employees, 従業員]
+  所在地: [Headquarters, Location, HQ, 所在地]
+  売上高: [Revenue, ARR, Turnover, 売上]
+  代表者: [CEO, Founder, Co-founder, 代表]
+
+evidence:
+  黒字・収益性: [profitable, profitability, profit, EBITDA, net income, net loss, operating income, cash-flow positive, cash flow positive, break-even, breakeven, bootstrapped, self-funded, Jahresüberschuss, Gewinn, Verlust, pelnas, nuostolis, 黒字, 赤字, 営業利益, 純利益]
+  売上: [revenue, ARR, turnover, sales, Umsatz, pajamos, 売上]
+  資金調達: [raised, funding, Series A, Series B, seed, investment, investor, valuation, 資金調達]
+  存続: [liquidation, insolvency, bankruptcy, shut down, closed, ceased, acquired, acquisition, merged, Insolvenz, bankrotas, 清算, 破産, 買収]
+  自社名で出せる条件: [white label, white-label, whitelabel, rebrand, your brand, your logo, OEM, embedded, API, private label, partner program, reseller, ホワイトラベル, OEM提供]
+  日本対応: [Japan, Japanese, 日本, 日本語, distributor]
+  顧客: [customers, clients, case study, used by, trusted by, 導入]
+
+subpage_keywords: [about, company, team, partner, partners, reseller, white, oem, api, pricing, press, news, blog, careers, investors, customers, case, legal, imprint, impressum]
+image_keywords: [team, about, partner]
+
+external_queries:
+  - "{name} revenue profitable"
+  - "{name} EBITDA net income annual report"
+  - "{name} funding raised"
+  - "{name} acquired OR liquidation OR insolvency OR closed"
+  - "{name} white label partner OEM"
+  - "{name} Jahresabschluss OR financial statements"
+  - "{name} Japan"
+  - "{name} employees revenue crunchbase OR dealroom OR northdata"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 6, external_per_query: 4}
