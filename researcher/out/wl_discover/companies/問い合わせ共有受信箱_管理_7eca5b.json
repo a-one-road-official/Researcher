@@ -1,0 +1,349 @@
+{
+ "name": "問い合わせ共有受信箱・管理",
+ "en": "shared inbox and helpdesk software",
+ "aliases": [
+  "customer inquiry management",
+  "helpdesk ticketing for SMB",
+  "問い合わせ管理"
+ ],
+ "context": "お問い合わせ対応",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:07:11.176392+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replypad.com/blog/help-desk-software-vs-shared-inbox-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1ocdb5g/software_to_manage_shared_inbox_with_multiple/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.deskpro.com/platform/unified-inbox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helpspot.com/platform/branding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://front.com/email-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/hubspot/comments/1ibjt1w/best_practices_for_managing_a_shared_customer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inquirly.ai/blog/fundamentals-architecture/best-shared-inbox-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://herodesk.com/product/features/shared-inbox/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://missiveapp.com/blog/shared-inbox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teamengine.io/features/shared-inbox-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helpspot.com/blog/team-inbox-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/en-us/product/supportbee.supportbee-team-inbox?tab=overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helpmonks.com/seamless-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polarismail.com/white-label-email-hosting-for-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helpdesk.com/blog/team-inbox/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://practical365.com/exchange-shared-mailboxes-help-desk-customer-support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jitbit.com/news/shared-inbox-vs-ticketing-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://raiseaticket.com/blog/shared-inbox-vs-helpdesk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/en-us/product/supportbee.supportbee-team-inbox?tab=overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.invgate.com/shared-inbox-vs-ticketing-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/tools/productivity/best-shared-inbox-software-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emailmeter.com/blog/best-shared-inbox-tools-for-your-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featurebase.app/blog/shared-inbox-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://missiveapp.com/blog/help-desk-software-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emailvendorselection.com/best-white-label-saas-software-services/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label shared inbox and helpdesk software",
+   "results": [
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "https://www.replypad.com/blog/help-desk-software-vs-shared-inbox-software/",
+    "https://www.reddit.com/r/SaaS/comments/1ocdb5g/software_to_manage_shared_inbox_with_multiple/",
+    "https://www.deskpro.com/platform/unified-inbox",
+    "https://helpcrunch.com/blog/shared-inbox-software/",
+    "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "https://marketplace.microsoft.com/en-us/product/saas/supportbee.supportbee-team-inbox?tab=overview"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software white-label",
+   "results": [
+    "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "https://www.reddit.com/r/SaaS/comments/1ocdb5g/software_to_manage_shared_inbox_with_multiple/",
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://www.helpdesk.com/blog/team-inbox/",
+    "https://whitelabelservicedesk.com/helpdesk-softwares/"
+   ]
+  },
+  {
+   "query": "best white label shared inbox and helpdesk software providers",
+   "results": [
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://www.helpspot.com/blog/email-help-desk-software",
+    "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "https://zipdo.co/service/white-label-msp/"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software rebrand your logo own brand",
+   "results": [
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://www.helpspot.com/platform/branding",
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://front.com/email-management",
+    "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "https://www.reddit.com/r/hubspot/comments/1ibjt1w/best_practices_for_managing_a_shared_customer/",
+    "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "https://inquirly.ai/blog/fundamentals-architecture/best-shared-inbox-software/",
+    "https://suitedash.com/white-label-business-software/"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software private label OEM partner",
+   "results": [
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://herodesk.com/product/features/shared-inbox/",
+    "https://missiveapp.com/blog/shared-inbox",
+    "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "https://www.reddit.com/r/SaaS/comments/1ocdb5g/software_to_manage_shared_inbox_with_multiple/",
+    "https://www.teamengine.io/features/shared-inbox-software",
+    "https://www.helpspot.com/blog/team-inbox-management",
+    "https://www.youtube.com/watch?v=EqZoNwb_AHQ",
+    "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "https://marketplace.microsoft.com/en-us/product/saas/supportbee.supportbee-team-inbox?tab=overview"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software reseller white label program",
+   "results": [
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "https://helpmonks.com/seamless-integration/",
+    "https://missiveapp.com/blog/shared-inbox",
+    "https://www.reddit.com/r/SaaS/comments/1ocdb5g/software_to_manage_shared_inbox_with_multiple/",
+    "https://www.polarismail.com/white-label-email-hosting-for-resellers/",
+    "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://www.helpdesk.com/blog/team-inbox/",
+    "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software embed SDK license OEM",
+   "results": [
+    "https://www.helpdesk.com/blog/team-inbox/",
+    "https://practical365.com/exchange-shared-mailboxes-help-desk-customer-support/",
+    "https://www.jitbit.com/news/shared-inbox-vs-ticketing-system/",
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://raiseaticket.com/blog/shared-inbox-vs-helpdesk",
+    "https://helpmonks.com/seamless-integration/",
+    "https://marketplace.microsoft.com/en-us/product/web-apps/supportbee.supportbee-team-inbox?tab=overview",
+    "https://blog.invgate.com/shared-inbox-vs-ticketing-system",
+    "https://marketplace.microsoft.com/en-us/product/supportbee.supportbee-team-inbox"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software white label company profitable",
+   "results": [
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "https://helpmonks.com/seamless-integration/",
+    "https://resources.rework.com/tools/productivity/best-shared-inbox-software-2026",
+    "https://www.helpspot.com/blog/team-inbox-management",
+    "https://www.emailmeter.com/blog/best-shared-inbox-tools-for-your-business/",
+    "https://www.featurebase.app/blog/shared-inbox-software",
+    "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "https://missiveapp.com/blog/help-desk-software-small-business",
+    "https://www.emailvendorselection.com/best-white-label-saas-software-services/"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業": "記載なし（読んだ40頁・検索8回）",
+  "自社名で出せる条件": "記載なし（読んだ40頁・検索8回）",
+  "再販制度": "記載なし（読んだ40頁・検索8回）",
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "売上": "記載なし（読んだ40頁・検索8回）",
+  "価格": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

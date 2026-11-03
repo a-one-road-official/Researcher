@@ -1,0 +1,493 @@
+{
+ "name": "Webサイト用AIチャット（問い合わせ受付）",
+ "en": "AI website chatbot for customer inquiries",
+ "aliases": [
+  "website AI chat widget",
+  "AI customer service chatbot"
+ ],
+ "context": "お問い合わせ対応",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:07:42.435219+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Track competitors",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Compare vendors",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Blog Topics",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "These bots can work across your website, mobile app, or platforms like WhatsApp, Messenger, and email, without needing breaks, training, or constant oversight. Beyond external support, organizations frequently deploy specialized hr chatbots to streamline internal employee inquiries and onboarding. Similarly, businesses can deploy an",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Lyro also supports 48 languages, and Tidio integrates with over 120 tools, from CRMs to eCommerce platforms. To see how Tidio compares with other top platforms, explore our comprehensive guide on the",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Voice support is available via Twilio, and hybrid handoffs between bots and agents are smooth. With extensive analytics, SLA tracking, and CSAT reports, the platform suits teams serious about quality. Some SDK setups still need dev time, but once you’re up and running, the automation flexibility is top-tier.",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "The AI Agent supports over 100 languages and now runs on top-tier models like GPT-4o and Claude 3.5. Conversations feel human, and when things get too complex, the bot hands off to agents, passing all the context along so users never have to repeat themselves.",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "The analytics are decent, showing resolution time and ticket deflection rates, though they lack the granularity of platforms like Zendesk or Intercom.",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Many businesses support customers across different channels like websites, social media, email, and messaging apps. So I tested how well each chatbot for customer support handled conversations across platforms like WhatsApp, Instagram, and Facebook Messenger. The best customer support bots kept the chat flowing smoothly across all channels.",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Autopilot unlocks the ability for AI agents to use their own computers in the cloud, freeing agents from the limits of API integrations.",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "At the heart of Freshchat is Freddy, their AI assistant. It can summarize long chats, detect intent, and nudge customers toward self-service when possible. Even the no-code builder barely takes 10 minutes to launch a basic bot. You can then customize widgets to match your brand and deploy them across both web and mobile apps. For teams that also handle phone or video touchpoints, a",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Its sentiment detection engine responds in real time, adjusting tone and urgency based on customer mood. I added quick replies, dynamic carousels, and even embedded booking tools using their modular interface, all without a dev team.",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Setup and onboarding vary depending on account support",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Reporting granularity can vary by integration",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, you can use a customer service chatbot on different channels, and it's a common practice to do so. Chatbots are designed to be deployed across various platforms, allowing customers to interact with them on their preferred channel.",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, chatbots can deliver personalized responses by analyzing user data, learning from interactions, and tailoring responses to individual needs and preferences. This personalization can be achieved through various methods, including offering customized recommendations, using specific user names, or adjusting the tone and style of communication.",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": ": 5 core seats, 10,000 contacts, custom objects, revenue attribution, adaptive testing, advanced Salesforce integration.",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "11 Best Customer Support Chatbots in 2026 (With Pricing)",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Plan ($19/agent/month, billed annually):",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Pro Plan ($49/agent/month, billed annually):",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Plan ($79/agent/month, billed annually)",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "10 operators, 50 conv./month, 100 unique chatbot visitors",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Starter Plan ($24.17/month billed annually, or $29 billed monthly):",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Plan (from $49.17/month billed annually, or $59 billed monthly):",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Plus Plan (from $300/month plus usage):",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Suite Team ($55/agent/month, billed annually)",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Suite Professional ($115/agent/month, billed annually)",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Copilot ($50/agent/month)",
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://botsify.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://predictabledialogs.com/white-label-ai-chatbot-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-ai-chatbot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpress.com/blog/white-label-chatbot-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uthereal.ai/glossary/white-label-ai-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/blog/11-best-whitelabel-chatbot-platforms-compared",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/partners/white-label-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/automation/comments/1hmi140/ai_enabled_chatbots_for_client_website_in_demand/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://asyntai.com/white-label-ai-chatbot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/@Vinasai_Inc/the-powerful-branding-secret-behind-personalized-ai-chatbots-95b00de6f5be",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.personal.ai/pi-ai/personalizing-your-brand-with-ai-from-chatbots-to-custom-content",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brandkit.com/chatbots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neuralai.mt/insights/why-your-business-chatbot-should-reflect-your-own-branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dreamcustomerwaves.systeme.io/white-label-ai-chatbot-solution-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onebot.cloud/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botsonic.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/blogs/chatbot-vendors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botscrew.com/chatbot-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.socialintents.com/article/245-chatbot-white-label-reseller-program-setup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.fastbots.ai/chatbot-reseller-program-how-it-works-and-what-to-offer-clients/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getchipbot.com/white-label/ai-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/blogs/white-label-chatbot-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindstudio.ai/blog/embed-ai-chatbot-website-without-code",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wonderchat.io/blog/ai-chatbot-sdk-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agentz.ai/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ethora.com/ai-sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jeenotech.com/ai-chatbot-website-sales-customer-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatmaxima.com/blog/white-label-chatbots-ultimate-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newo.ai/insights/top-use-cases-and-business-models-for-white-label-ai-from-chatbots-to-website-builders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sitespeak.ai/blog/white-label-ai-chatbot-agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/best-ai-white-label-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label AI website chatbot for customer inquiries",
+   "results": [
+    "https://botsify.com/",
+    "https://www.voiceflow.com/blog/white-label-chatbot",
+    "https://predictabledialogs.com/white-label-ai-chatbot-agencies",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://customgpt.ai/white-label-ai-chatbot/",
+    "https://botpress.com/blog/white-label-chatbot-platform",
+    "https://www.youtube.com/watch?v=1wXv2wJ4oHo&vl=ja",
+    "https://botpenguin.com/partners/white-label-chatbot",
+    "https://chatmaxima.com/blog/white-label-chatbots-ultimate-guide/",
+    "https://stammer.ai/"
+   ]
+  },
+  {
+   "query": "AI website chatbot for customer inquiries white-label",
+   "results": [
+    "https://botsify.com/",
+    "https://www.voiceflow.com/blog/white-label-chatbot",
+    "https://predictabledialogs.com/white-label-ai-chatbot-agencies",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://customgpt.ai/white-label-ai-chatbot/",
+    "https://botpress.com/blog/white-label-chatbot-platform",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://stammer.ai/",
+    "https://uthereal.ai/glossary/white-label-ai-chatbot",
+    "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/"
+   ]
+  },
+  {
+   "query": "best white label AI website chatbot for customer inquiries providers",
+   "results": [
+    "https://www.voiceflow.com/blog/white-label-chatbot",
+    "https://botpress.com/blog/white-label-chatbot-platform",
+    "https://botsify.com/",
+    "https://webchatagent.com/enterprise-white-label",
+    "https://www.robofy.ai/blog/11-best-whitelabel-chatbot-platforms-compared",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "https://botpenguin.com/partners/white-label-chatbot",
+    "https://www.reddit.com/r/automation/comments/1hmi140/ai_enabled_chatbots_for_client_website_in_demand/",
+    "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/"
+   ]
+  },
+  {
+   "query": "AI website chatbot for customer inquiries rebrand your logo own brand",
+   "results": [
+    "https://asyntai.com/white-label-ai-chatbot/",
+    "https://medium.com/@Vinasai_Inc/the-powerful-branding-secret-behind-personalized-ai-chatbots-95b00de6f5be",
+    "https://botpress.com/blog/white-label-chatbot-platform",
+    "https://www.personal.ai/pi-ai/personalizing-your-brand-with-ai-from-chatbots-to-custom-content",
+    "https://brandkit.com/ai-brand-bot",
+    "https://neuralai.mt/insights/why-your-business-chatbot-should-reflect-your-own-branding/",
+    "https://www.reddit.com/r/Entrepreneur/comments/1mqvzho/are_there_businesses_using_genuinely_custombuilt/",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://chatonbo.com/",
+    "https://www.brandmybot.com/"
+   ]
+  },
+  {
+   "query": "AI website chatbot for customer inquiries private label OEM partner",
+   "results": [
+    "https://webchatagent.com/enterprise-white-label",
+    "https://www.youtube.com/watch?v=1wXv2wJ4oHo&vl=ja",
+    "https://customgpt.ai/white-label-ai-chatbot/",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://www.voiceflow.com/blog/white-label-chatbot",
+    "https://botsify.com/",
+    "https://botpress.com/blog/white-label-chatbot-platform",
+    "https://dreamcustomerwaves.systeme.io/white-label-ai-chatbot-solution-providers",
+    "https://onebot.cloud/partner"
+   ]
+  },
+  {
+   "query": "AI website chatbot for customer inquiries reseller white label program",
+   "results": [
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://botscrew.com/chatbot-reseller/",
+    "https://customgpt.ai/white-label-ai-chatbot/",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://help.socialintents.com/article/245-chatbot-white-label-reseller-program-setup",
+    "https://botpenguin.com/partners/white-label-chatbot",
+    "https://www.voiceflow.com/blog/white-label-chatbot",
+    "https://botsify.com/",
+    "https://blog.fastbots.ai/chatbot-reseller-program-how-it-works-and-what-to-offer-clients/",
+    "https://botpress.com/blog/white-label-chatbot-platform"
+   ]
+  },
+  {
+   "query": "AI website chatbot for customer inquiries embed SDK license OEM",
+   "results": [
+    "https://www.mindstudio.ai/blog/embed-ai-chatbot-website-without-code",
+    "https://wonderchat.io/blog/ai-chatbot-sdk-comparison",
+    "https://www.agentz.ai/enterprise",
+    "https://ethora.com/ai-sdk/",
+    "https://jeenotech.com/ai-chatbot-website-sales-customer-support",
+    "https://www.enchant.com/ai-customer-service-software",
+    "https://www.lindy.ai/blog/best-customer-service-chatbots",
+    "https://www.sketricgen.ai/ai-chatbot-for-website",
+    "https://www.teamsupport.com/best-ai-chatbots-b2b-customer-service/"
+   ]
+  },
+  {
+   "query": "AI website chatbot for customer inquiries white label company profitable",
+   "results": [
+    "https://botsify.com/",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://www.youtube.com/watch?v=1wXv2wJ4oHo&vl=ja",
+    "https://chatmaxima.com/blog/white-label-chatbots-ultimate-guide/",
+    "https://newo.ai/insights/top-use-cases-and-business-models-for-white-label-ai-from-chatbots-to-website-builders",
+    "https://www.voiceflow.com/blog/white-label-chatbot",
+    "https://sitespeak.ai/blog/white-label-ai-chatbot-agency",
+    "https://insighto.ai/blog/best-ai-white-label-services/",
+    "https://botpress.com/blog/white-label-chatbot-platform"
+   ]
+  }
+ ],
+ "missing": {
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

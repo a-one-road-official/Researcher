@@ -1,0 +1,851 @@
+{
+ "name": "BtoB受注サイト・受発注ポータル",
+ "en": "B2B ordering portal software",
+ "aliases": [
+  "B2B order portal",
+  "wholesale ordering platform",
+  "B2B eCommerce platform for manufacturers",
+  "受発注システム"
+ ],
+ "context": "受発注",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:05:37.885468+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Advanced platforms like WizCommerce streamline this further with AI-powered, typo-tolerant search. Further, WizCommerce features smart image-to-image search, specific filters, and AI recommendations of similar products, all to help you find just the product you need with minimal effort.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "The B2B buying landscape has shifted dramatically, and companies that haven’t adapted are losing ground to competitors who have. Here’s why B2B e-commerce customer portals have become essential:",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "If your competitors offer B2B customer portals while you’re still relying on phone and email orders, customers will choose the more convenient option. Companies that adapt fastest are capturing market share from those that haven’t modernized.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "risk losing customers to competitors offering more convenient alternatives.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "effortless, leading to higher customer satisfaction and loyalty.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Choose vendors that provide implementation assistance, training, and ongoing support.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "sana commerce competitors",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "are specialized platforms designed for business-to-business transactions. Popular options include WizCommerce for manufacturers and distributors, Shopify Plus for companies wanting B2C-style experiences, and industry-specific platforms like Oracle Commerce for large enterprises. The best choice depends on your business model, integration requirements, and industry needs.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "is the action layer on top: placing orders, multi-cart, one-click reorder, real-time tier pricing, and order tracking. The portal is the identity; the ordering platform is the action. Both live inside WizCommerce.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Every wholesaler is spending on a website, an order-writing app, and now AI. Almost none can say whether it’s working. This report benchmarks 8 metrics across 250+ wholesalers so you can see exactly where your digital channel sits — and how far it is from the top.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Buy from vendors without the back and forth.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Keep up with OrderEase and access industry-leading order operation insights.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Top contenders are OrderEase (best for manufacturers), Shopify Plus (best hybrid DTC/B2B), and BigCommerce (best mid-market B2B features).",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "That’s why leading manufacturers are adopting",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Here are the top benefits operational leaders find in using B2B eCommerce platforms:",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "In platforms like",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Integration is critical. A strong B2B eCommerce platform integrates directly with ERP, marketplaces, and EDI portals. Platforms like OrderEase use an ERP-first approach so commerce operations work off a single source of truth.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "“Better” depends on your business requirements. Shopify excels in user experience and ability to launch your storefront quickly, but if you need deep ERP integration, multi-channel wholesale, or advanced catalog management, platforms like OrderEase, Adobe Commerce, or OroCommerce may be more suitable.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "streamline B2B workflows from order entry through fulfillment. Platforms like Shopify Plus and BigCommerce can work well for hybrid DTC and B2B sales but often require middleware or custom apps to match manufacturing needs.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Buy from vendors without the back and forth.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Absolutely. OrderEase supports ERP B2B integrations with leading platforms like QuickBooks, Sage, and Microsoft Dynamics. That means your pricing, inventory, and order data stay in sync—no manual entry required.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 Shopify Order Management Solutions for High-...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Compare the top Shopify order management solutions for high-volume stores. Explore features, integrations, pros, and cons to find the best fit as you ...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Best EDI Service Providers: Selection Criteria and...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Top 7 Features to Look For in a B2B Online Orderin...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Have you ever stopped to calculate the real cost of processing a single B2B order? Beyond the obvious labor, there are hidden costs like manual data e...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Benefits ERP Integration",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Managing eCommerce integrations is no small feat, especially when dealing with multiple products across platforms like Shopify and WooCommerce. At Ord...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Stop chasing POs and fixing portal mistakes. Give buyers a fast, self-service ordering experience, while every order syncs cleanly to your ERP.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Now that you’ve defined your requirements, it’s time to configure and tailor your B2B Customer Portal to align with your business goals and reflect your brand.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Your portal should reflect your brand and business processes. Evaluate platforms that allow custom branding, configurable workflows, and flexible product catalog structures. The ability to customize without extensive development work saves time and money.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "This shift from manual, rep-driven order placement to a customer-controlled digital experience not only speeds up transactions but also empowers buyers to interact with your brand on their own terms.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "What it is: Recently rebranded from BigCommerce (August 2025), Commerce brings together BigCommerce, Feedonomics, and Makeswift into a unified AI-driven commerce brand. The B2B Edition includes buyer portals, company accounts, quoting, invoice portals, multi-storefront, and ERP integrations.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "[Updated] 2026 Guide on B2B customer portals for Wholesalers",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Modernize wholesale order intake workflows",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn online buying into a wholesale sales channel",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Built for food and beverage wholesalers",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Insights on AI and wholesale operations",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Built for B2B Wholesale",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and e-commerce platform designed for wholesalers, distributors and manufacturers.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "which CRM software is best for distributors",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "CRM software for distributors",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "How B2B Customer Ordering Portals are enabling growth for wholesalers and distributors in 2026",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers, distributors, and service companies wanting to give customers a self-service account experience.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner portals serve channel partners, resellers, and affiliates rather than end customers. They provide access to marketing materials, training resources, sales tools, and program management features.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that sell through channel networks and need to support reseller relationships.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "03. Distributor and wholesale portals",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Designed for high-volume wholesale relationships, these portals handle complex pricing structures, tiered discounts, credit limits, and territory-based selling at the account level. They support volume-based pricing, quantity breaks, and sophisticated inventory management. Distributors usually get this as one module inside broader",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer ordering built for wholesale complexity.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "For Distributors",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Implementation costs vary wildly — budget for data migration, integrations, and team training alongside the platform fee.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "not as an add-on website, but as a new operational backbone for how they sell to distributors, retailers, and business accounts.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "A B2B eCommerce platform is an online catalog built specifically for business-to-business transactions. Unlike B2C tools adapted for wholesale, B2B eCommerce platforms are built to handle complex order rules while syncing directly with back-end systems like NetSuite or QuickBooks.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesalers consolidating orders from manufacturers",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "A B2B, wholesale portal for negotiated, complex pricing",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Automation should be built into your B2B eCommerce platform to replace the manual steps that slow teams down. Instead of having to respond to orders via email or phone, a B2B eCommerce platform empowers customers to place their own orders, automating wholesale buying experiences.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "In traditional B2B operations, margins are lost to time spent on low-value, manual tasks like rekeying orders from emails into ERP systems and processing payments through disconnected systems.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale pricing logic can be cumbersome",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "What it is: A WordPress-based eCommerce platform extended with B2B plugins for wholesale capabilities.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers, distributors & manufacturers",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "“Better” depends on your business requirements. Shopify excels in user experience and ability to launch your storefront quickly, but if you need deep ERP integration, multi-channel wholesale, or advanced catalog management, platforms like OrderEase, Adobe Commerce, or OroCommerce may be more suitable.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing varies from a few hundred dollars a month to six-figure enterprise implementations.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "The best B2B eCommerce platform for manufacturers depends on how complex your order operations are. For companies managing large catalogs, distributor relationships, and ERP integrations, solutions like",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor the online order portal user experience at more than just a company level by allowing your customers to adapt their portal for different users, with varying permissions for different job roles.",
+    "url": "https://thedigitalmaze.com/web/custom-portal-development/custom-order-portals/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer ordering built for wholesale complexity.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "For Distributors",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Support customer-specific pricing, products, minimums, pack sizes, and terms. Designed for how wholesale buyers actually order.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "A B2B Portal for Your Wholesale Customers",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "OrderEase isn't a standalone ordering interface. It brings wholesale ordering into an orchestrated ecosystem that manages order to ERP to invoice. With integrations across accounting systems, ERPs, shipping, fulfillment, marketplaces, e-commerce, EDI and more, OrderEase is able to coordinate your entire order operation.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "OrderEase is built for real wholesale workflows. Customers can place orders anytime, and your team can step in to help with changes, reorders, and exceptions. Everything follows the same pricing, product rules, and ordering requirements. Sales reps can also use the portal to place orders on behalf of customers, so everyone works from one consistent ordering experience.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Electronics Distributor",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "While eCommerce platforms focus on retail transactions, a B2B customer portal supports complex pricing, product segmentation, and account-level visibility. OrderEase’s B2B portal software is designed specifically for wholesale, with features like customer-specific catalogs, net terms, and multi-user account access.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Your wholesale customers can place orders anytime, anywhere, making it easy for them to view products, check stock, and submit orders instantly, all through an intuitive, self-service portal.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Adding a new retailer should mean more business. Too often, it also means another integration project. For manufacturers and distributors running NetS...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "What Features Should a B2B Wholesale Order Managem...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Most manufacturers didn't grow their business by selling online. They grew it through distributors who knew the market, sales reps who worked the terr...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Scaling B2B Wholesale eCommerce Without Breaking Y...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "B2B wholesale eCommerce is framed as a digital upgrade where you’re supposed to launch an online portal and immediately scale sales.In practice, it’s ...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "B2B online ordering is growing in the wholesale market. Your customers are starting to demand experiences which mirror their daily lives outside of wo...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "(schools, hospitals, and nonprofits). Each type has different purchasing processes, approval requirements, and portal needs.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "The way businesses buy has changed. If you’re still selling the old way, you’re leaving profits on the table.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "B2B customer portals are changing how businesses manage customer accounts, strengthen customer relationships, and grow revenue. As companies move toward digital operations, having the right",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B commerce portals deliver measurable value across multiple areas of your business, from reducing operational costs to driving revenue growth.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B customer portals create new revenue opportunities through product discovery",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Handles complex B2B pricing structures and payment arrangements",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "ROI is real but takes 6-12 months; calculate it using labor savings, new sales channel revenue, and error reduction to justify the investment.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Barrie ON, L4N 8J8",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "You’ve been approved as a Costco supplier. Before your first shipment leaves the dock, a 20-page EDI packet arrives along with testing requirements th...",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "5-190 Minets Point Road, Suite 425 | Barrie ON, L4N 8J8 |",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": ", where your customer can log-in 24/7, see their specific pricing, volume discounts, customised catalog, previous order status and then place an order without involving a rep or waiting for an email reply, has become essential for staying competitive. B2B customer portal software provide exactly that experience while making operations easier for the businesses that serve them.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike B2C websites, B2B e-commerce customer portals are designed specifically for business transactions, featuring custom pricing,",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "covers the options. When customers log into your online B2B portal, they see information specific to their account, such as negotiated pricing, order history, available inventory, and products relevant to their business.",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "the whole relationship, giving customers 24/7 self-service access to their account, pricing, and order history",
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "pass": 3
+   },
+   {
+    "quote": "A purpose-built B2B eCommerce solution for manufacturers supports negotiated pricing, real-time inventory visibility, and seamless data flow between eCommerce, ERP, and fulfilment.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "In B2B eCommerce, pricing is customer specific, changing based on negotiated contracts and seasonal deals.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "In B2B, your catalog isn’t just a product list. It should reflect negotiated relationships. Your B2B buyers expect to log in and see exactly what applies to them, with the right pricing and relevant products.",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "A B2C storefront with simple pricing structures",
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Give customers a fast, intuitive way to place accurate B2B orders with real-time visibility into products, pricing, and availability.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Show each customer the right products, pricing, and terms automatically based on their account. Maintain one portal experience while supporting complex B2B pricing structures behind the scenes.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "While eCommerce platforms focus on retail transactions, a B2B customer portal supports complex pricing, product segmentation, and account-level visibility. OrderEase’s B2B portal software is designed specifically for wholesale, with features like customer-specific catalogs, net terms, and multi-user account access.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Absolutely. OrderEase supports ERP B2B integrations with leading platforms like QuickBooks, Sage, and Microsoft Dynamics. That means your pricing, inventory, and order data stay in sync—no manual entry required.",
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.orderwerks.com/features/b2b-ecommerce-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insitusales.com/en/solutions/b2b-e-commerce/whitelabel-b2b-app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ordercircle.com/features/custom-branding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sparklayer.io/best-order-management-system-b2b-ecommerce/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1mcjeil/recommendation_for_a_b2b_wholesale_ordering/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.websolutionsnyc.com/blog/best-b2b-customer-portal-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://virtocommerce.com/features/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwdagency.com/blogs/news/b2b-ordering-portal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codeminttech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clinked.com/blog/9-best-white-label-client-portal-software-in-2026-honest-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://velocity.medshift.com/blog/best-order-management-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spxcommerce.com/blog/top-white-label-marketplace-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thedigitalmaze.com/web/custom-portal-development/custom-order-portals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperfox.com/products/b2b-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onramp.ai/blog/b2b-customer-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketsplash.com/best-brand-portal-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ciloo.com/solutions-brand-store/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softr.io/use-cases/oem-partner-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aleran.com/how-b2b-portals-for-manufacturers-empower-dealers-and-distributors-with-self-service-ordering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truecommerce.com/products/b2b-ecommerce-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.restolabs.com/blog/white-label-online-ordering-software-resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/What-are-some-good-white-label-B2B-software-solutions-that-I-can-resell-to-my-customers",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bluelinkerp.com/b2b-ecommerce-ordering-portal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sparklayer.io/b2b-ordering-portal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americommerce.com/blog/All-you-need-to-know-about-B2B-ordering-portals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplydepo.com/order-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orderease.com/b2b-customer-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/nocode/comments/1ev1m47/looking_for_a_whitelabel_platform_for_creating_a/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knack.com/blog/white-label-client-portal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfgsoftwarelab.com/solutions/white-label-b2b-portal-manufacturers-distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b2bware.com/features/white-label",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label B2B ordering portal software",
+   "results": [
+    "https://www.orderwerks.com/features/b2b-ecommerce-portal",
+    "https://www.insitusales.com/en/solutions/b2b-e-commerce/whitelabel-b2b-app/",
+    "https://ordercircle.com/features/custom-branding",
+    "https://www.sparklayer.io/best-order-management-system-b2b-ecommerce/",
+    "https://www.reddit.com/r/smallbusiness/comments/1mcjeil/recommendation_for_a_b2b_wholesale_ordering/",
+    "https://velocity.medshift.com/blog/best-order-management-system/",
+    "https://www.restolabs.com/blog/white-label-online-ordering-software-resellers",
+    "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "https://www.truecommerce.com/products/b2b-ecommerce-platform/",
+    "https://codeminttech.com/"
+   ]
+  },
+  {
+   "query": "B2B ordering portal software white-label",
+   "results": [
+    "https://www.orderwerks.com/features/b2b-ecommerce-portal",
+    "https://www.insitusales.com/en/solutions/b2b-e-commerce/whitelabel-b2b-app/",
+    "https://ordercircle.com/features/custom-branding",
+    "https://www.websolutionsnyc.com/blog/best-b2b-customer-portal-software/",
+    "https://www.youtube.com/watch?v=cn6XpxJSu7U",
+    "https://www.sparklayer.io/best-order-management-system-b2b-ecommerce/",
+    "https://virtocommerce.com/features/white-label",
+    "https://wizcommerce.com/blog/b2b-customer-portal/",
+    "https://www.iwdagency.com/blogs/news/b2b-ordering-portal/",
+    "https://codeminttech.com/"
+   ]
+  },
+  {
+   "query": "best white label B2B ordering portal software providers",
+   "results": [
+    "https://www.orderwerks.com/features/b2b-ecommerce-portal",
+    "https://www.clinked.com/blog/9-best-white-label-client-portal-software-in-2026-honest-comparison",
+    "https://www.youtube.com/watch?v=cn6XpxJSu7U",
+    "https://www.reddit.com/r/smallbusiness/comments/1mcjeil/recommendation_for_a_b2b_wholesale_ordering/",
+    "https://velocity.medshift.com/blog/best-order-management-system/",
+    "https://www.spxcommerce.com/blog/top-white-label-marketplace-platforms/",
+    "https://www.websolutionsnyc.com/blog/best-b2b-customer-portal-software/",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://www.orderease.com/blog/top-b2b-ecommerce-platforms",
+    "https://worldmetrics.org/best/white-label-software/"
+   ]
+  },
+  {
+   "query": "B2B ordering portal software rebrand your logo own brand",
+   "results": [
+    "https://ordercircle.com/features/custom-branding",
+    "https://thedigitalmaze.com/web/custom-portal-development/custom-order-portals/",
+    "https://www.hyperfox.com/products/b2b-portal",
+    "https://onramp.ai/blog/b2b-customer-portal",
+    "https://marketsplash.com/best-brand-portal-software/",
+    "https://ciloo.com/solutions-brand-store/",
+    "https://www.marq.com/blog/web-to-print-software/",
+    "https://bojanmitevski.com/insights/b2b-rebranding-strategy",
+    "https://www.visiblelogic.com/blog/rebrand-for-scale-a-step-by-step-guide-for-b2b-businesses/",
+    "https://www.way2order.com/custom-branding.html"
+   ]
+  },
+  {
+   "query": "B2B ordering portal software private label OEM partner",
+   "results": [
+    "https://www.orderwerks.com/features/b2b-ecommerce-portal",
+    "https://www.sparklayer.io/best-order-management-system-b2b-ecommerce/",
+    "https://virtocommerce.com/features/white-label",
+    "https://www.softr.io/use-cases/oem-partner-portal",
+    "https://velocity.medshift.com/blog/best-order-management-system/",
+    "https://www.aleran.com/how-b2b-portals-for-manufacturers-empower-dealers-and-distributors-with-self-service-ordering/",
+    "https://www.reddit.com/r/smallbusiness/comments/1mcjeil/recommendation_for_a_b2b_wholesale_ordering/",
+    "https://www.truecommerce.com/products/b2b-ecommerce-platform/",
+    "https://www.youtube.com/watch?v=ssQ9Avijgjk"
+   ]
+  },
+  {
+   "query": "B2B ordering portal software reseller white label program",
+   "results": [
+    "https://www.restolabs.com/blog/white-label-online-ordering-software-resellers",
+    "https://www.quora.com/What-are-some-good-white-label-B2B-software-solutions-that-I-can-resell-to-my-customers",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.orderwerks.com/features/b2b-ecommerce-portal",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.reddit.com/r/smallbusiness/comments/1mcjeil/recommendation_for_a_b2b_wholesale_ordering/",
+    "https://worldmetrics.org/best/white-label-reseller-software/"
+   ]
+  },
+  {
+   "query": "B2B ordering portal software embed SDK license OEM",
+   "results": [
+    "https://www.bluelinkerp.com/b2b-ecommerce-ordering-portal/",
+    "https://www.sparklayer.io/b2b-ordering-portal/",
+    "https://www.americommerce.com/blog/All-you-need-to-know-about-B2B-ordering-portals",
+    "https://www.orderwerks.com/features/b2b-ecommerce-portal",
+    "https://www.youtube.com/watch?v=ssQ9Avijgjk",
+    "https://simplydepo.com/order-management-software/",
+    "https://www.orderease.com/b2b-customer-portal",
+    "https://www.insitusales.com/en/solutions/b2b-e-commerce/",
+    "https://wizcommerce.com/product/b2b-order-management-software/",
+    "https://mitsify.com/blog/b2b-ordering-portal-development/"
+   ]
+  },
+  {
+   "query": "B2B ordering portal software white label company profitable",
+   "results": [
+    "https://www.orderwerks.com/features/b2b-ecommerce-portal",
+    "https://www.quora.com/What-are-some-good-white-label-B2B-software-solutions-that-I-can-resell-to-my-customers",
+    "https://www.youtube.com/watch?v=cn6XpxJSu7U",
+    "https://www.insitusales.com/en/solutions/b2b-e-commerce/whitelabel-b2b-app/",
+    "https://www.reddit.com/r/nocode/comments/1ev1m47/looking_for_a_whitelabel_platform_for_creating_a/",
+    "https://www.clinked.com/blog/9-best-white-label-client-portal-software-in-2026-honest-comparison",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://onramp.ai/blog/b2b-customer-portal",
+    "https://www.knack.com/blog/white-label-client-portal/",
+    "https://codeminttech.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "日本対応": "記載なし（読んだ38頁・検索8回）"
+ }
+}

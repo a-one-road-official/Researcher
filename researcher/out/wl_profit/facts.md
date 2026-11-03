@@ -1,7 +1,23 @@
-# ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件（事実のみ・9社）
+# ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件（事実のみ・6社）
 
 ## 3YOURMIND
 - 公式URL：https://www.3yourmind.com（given）
+- 株主構成：
+  - 「Our sophisticated investors include visionary family offices, leading wealth managers, institutions, founders, and senior executives. These individuals and organizations are all committed to shaping the next generation of innovation.」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+  - 「Ownership Status」（https://pitchbook.com/profiles/company/169025-59・3回目）
+- 創業年度：
+  - 「In an exclusive interview with 3YOURMIND, Meltwerk the Berlin based company founded in 2015 under the brand Trinckle3D, explain the reasons behind their production decisions that support their main mission, to break the barrier between ordinary people and 3D Printing.」（https://www.3yourmind.com/news/topic/category_interview・1回目）
+  - 「3YOURMINDはドイツに本社を置く積層造形ワークフローソフトウェアプロバイダーで、2014年に設立したのち、瞬く間に積層造形における最も著名なプレーヤーの一人となった」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「3YOURMINDの共同設立者であるStephan Kuehr氏は、企業の戦略的方向性について次のように述べている」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「3YOURMINDの共同設立者 Stephan Kuehr氏」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「3YOURMINDの共同設立者 Stephan Kuehr氏（出典：3YOURMIND）」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「3YOURMINDの共同創業者であるAleksander Ciszek氏は、顧客とのパートナーシップについて以下のように語っている」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「3YOURMINDの共同創業者 Aleksander Ciszek氏」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「3YOURMINDの共同創業者 Aleksander Ciszek氏（出典：3YOURMIND）」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「AMスタートアップ企業Confluxの創業秘話ーAM VenturesのSimon氏が紹介する」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「3YOURMIND was founded in 2014.」（https://pitchbook.com/profiles/company/169025-59・3回目）
+  - 「「3YOURMINDの共同設立者兼CEOであるAleksander Ciszek氏は」（https://www.eos.info/ja/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023・3回目）
+  - 「1989年に設立された独立企業であるEOSは、先駆的なイノベーションと持続可能な実践により、高品質な生産効率と結びつけ、製造業の未来を形作ります」（https://www.eos.info/ja/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023・3回目）
 - 売上：
   - 「Minimize 75% of lost sales」（https://www.3yourmind.com/・1回目）
   - 「Breaking the 3D Printing Barrier for the Ordinary」（https://www.3yourmind.com/news/topic/category_interview・1回目）
@@ -10,6 +26,10 @@
   - 「“We wanted to educate engineers on new possibilities to maximize their efficiency so they could obtain parts much faster using new technology,” says Ciszek. “And we thought one way to do that was to give them tools to increase access and reduce barriers to understanding the technology.”」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
   - 「Pictured: William Cuervo, 3YOURMIND's VP of Sales North America, presented at the Marine Corps Base Camp Pendleton in California in 2023.」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
   - 「Encosa offers an end-to-end solution that allows their customers to lower their costs via energy saving strategies, while also generating revenues by trading excess capacity on the energy markets.」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+  - 「Secondary market analysis of GP-led transactions and LP stake sales」（https://pitchbook.com/profiles/company/169025-59・3回目）
+  - 「Generating Revenue」（https://pitchbook.com/profiles/company/169025-59・3回目）
+  - 「What is 3YOURMIND’s current revenue?」（https://pitchbook.com/profiles/company/169025-59・3回目）
+  - 「The current revenue for 3YOURMIND is」（https://pitchbook.com/profiles/company/169025-59・3回目）
 - 資金調達：
   - 「Pictured: Material check now offers more granular assessment results, including substitute material support and material compatibility evaluations.」（https://www.3yourmind.com/news/use-ai-to-support-part-assessment・1回目）
   - 「The two young men sparked a conversation about the exciting and newly accessible subject of 3D printing. Like a seed, the conversation grew, and not long after, Kühr relocated to Berlin to start looking for more ways to gain knowledge about 3D printing. At that time, Ciszek began seriously considering what a future with 3D printing might look like.」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
@@ -28,6 +48,9 @@
   - 「3YOURMIND, a US-German software company in additive manufacturing (AM), has successfully closed a new Series A+ financing round with two prominent European investors. LBBW VC, the venture capital arm of Landesbank Baden-Württemberg, is strategically focused on supporting highly innovative companies」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
   - 「Information, pursuant to any applicable law, regulation or order, e.g. in case of merger, sale or acquisition,」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
   - 「in case of bankruptcy and liquidation, if applicable.」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+  - 「The latest data for closed-end fund returns across strategies」（https://pitchbook.com/profiles/company/169025-59・3回目）
+  - 「Acquisitions」（https://pitchbook.com/profiles/company/169025-59・3回目）
+  - 「See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.」（https://pitchbook.com/profiles/company/169025-59・3回目）
 - ホワイトラベル明言：
   - 「The risky move, powered by bold decision-making – and perhaps, young entrepreneur naivete – paid off.」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
 - OEM・組込み：
@@ -49,6 +72,20 @@
   - 「3YOURMIND Authorized Resellers」（https://www.3yourmind.com/partners・1回目）
   - 「Phillips Corporation is an authorized reseller of 3YOURMIND, serving U.S. federal customers.」（https://www.3yourmind.com/partners・1回目）
   - 「Authorized Reseller of 3YOURMIND」（https://www.3yourmind.com/hs-fs/hubfs/Partners.png?width=1200&height=630&name=Partners.png・2回目）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/169025-59・3回目）
+- 日本対応：
+  - 「日本の東京に本社を置くKKIrisuは、幅広い産業分野に従来型およびデジタル製造ソリューションを提供する大手メーカーである」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「EOSが描くAM業界のエコシステム（後編）ーJAPAN EOS DAY 2022レポート」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「独3DプリンターメーカーEOS社が2022年9月6日 （火）に開催したハウスイベント「JAPAN EOS DAY 2022」」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「EOSが描くAM業界のエコシステム（前編）ーJAPAN EOS DAY 2022レポート」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「ShareLab編集部は、世界最大規模を誇る独3DプリンターメーカーであるEOS社が2022年9月6日 （火）に開催したハウスイベント「JAPAN EOS DA …」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
+  - 「Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
 - 顧客：
   - 「Customers」（https://www.3yourmind.com/・1回目）
   - 「Trusted by Industry Leaders」（https://www.3yourmind.com/・1回目）
@@ -63,32 +100,59 @@
   - 「Case Study」（https://www.3yourmind.com/news・1回目）
   - 「Customers」（https://www.3yourmind.com/about-us・1回目）
 - 検索結果の抜粋：
-  - 「3YOURMIND 2025: Where We've Been and Where We're Going — 3YOURMIND 2025: Where We've Been and Where We're Going 3YOURMIND https://www.3yourmind.com > news」（https://www.3yourmind.com/news/3yourmind-2025-where-weve-been-where-were-going・3回目）
-  - 「3YOURMIND raises USD 12.4 to fuel its growth - verve.vc — 3YOURMIND raises USD 12.4 to fuel its growth - verve.vc verve.vc https://www.verve.vc > blog > 3your...」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
-  - 「3YOURMIND - LinkedIn — 3YOURMIND - LinkedIn LinkedIn https://www.linkedin.com > 3yourmind」（https://www.linkedin.com/company/3yourmind・3回目）
-  - 「3YOURMIND - 2026 Company Profile & Team - Tracxn — 3YOURMIND - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w・3回目）
-  - 「Customer Success Stories - 3YOURMIND — Customer Success Stories - 3YOURMIND 3YOURMIND https://www.3yourmind.com > custo...」（https://www.3yourmind.com/customers・3回目）
+  - 「3YOURMIND が歩んだグローバル展開の道のりーAM Ventures ... — 3YOURMIND が歩んだグローバル展開の道のりーAM Ventures ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > その他製品・サービス」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/・3回目）
   - 「3YOURMIND Raises $12M to Transform Industrial 3D Printing — 3YOURMIND Raises $12M to Transform Industrial 3D Printing 3YOURMIND https://www.3yourmind.com > news」（https://www.3yourmind.com/news/series-a-closed-with-12m・3回目）
-  - 「3YOURMIND | Identify and Produce Parts On-Demand — 3YOURMIND | Identify and Produce Parts On-Demand 3YOURMIND https://www.3yourmind.com」（https://www.3yourmind.com/・3回目）
-  - 「3YOURMIND - World Economic Forum — 3YOURMIND - World Economic Forum World Economic Forum https://www.weforum.org > 3yourmind」（https://www.weforum.org/organizations/3yourmind・3回目）
-  - 「3YOURMIND GmbH - LinkedIn — 3YOURMIND GmbH - LinkedIn LinkedIn https://de.linkedin.com > 3yourmind」（https://de.linkedin.com/company/3yourmind・3回目）
+  - 「3YOURMIND raises USD 12.4 to fuel its growth - verve.vc — 3YOURMIND raises USD 12.4 to fuel its growth - verve.vc verve.vc https://www.verve.vc > blog > 3your...」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
   - 「3YOURMIND - AM Ventures — 3YOURMIND - AM Ventures AM Ventures https://amventures.com > 3yourmind」（https://amventures.com/company-portfolios/3yourmind/・3回目）
-  - 「EOS North America and 3YOURMIND Launch Rapid Part ... — EOS North America and 3YOURMIND Launch Rapid Part ... EOS GmbH https://www.eos.info > ... > 2023 ...」（https://www.eos.info/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023・3回目）
-  - 「3YOURMIND Alternative for SLS 3D Printing Shops | SeekMake — 3YOURMIND Alternative for SLS 3D Printing Shops | SeekMake SeekMake https://seekmake.com > 3yourmind」（https://seekmake.com/compare/3yourmind/sls-3d-printing・3回目）
-- 設立：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部30頁・検索11回）
-- 従業員数：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部30頁・検索11回）
-- 所在地：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部30頁・検索11回）
-- 売上高：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部30頁・検索11回）
-- 代表者：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部30頁・検索11回）
-- 黒字・収益性：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部30頁・検索11回）
-- 日本対応：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部30頁・検索11回）
+  - 「3YOURMIND - 2026 Company Profile & Team - Tracxn — 3YOURMIND - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w・3回目）
+  - 「3YOURMIND , software provider in additive manufacturing ... — 3YOURMIND , software provider in additive manufacturing ... EnBW PDF https://www.enbw.com > media > enbw-new-ventures」（https://www.enbw.com/media/enbw-new-ventures/3yourmind_series-a-investment-pr_en.pdf・3回目）
+  - 「3YOURMIND Celebrates 10 Years of Modernizing Additive ... — 3YOURMIND Celebrates 10 Years of Modernizing Additive ... 3YOURMIND https://www.3yourmind.com > news」（https://www.3yourmind.com/news/3yourmind-celebrates-10-years-of-modernizing-additive-manufacturing-workflows・3回目）
+  - 「3YOURMIND 2026 Company Profile - PitchBook — 3YOURMIND 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/169025-59・3回目）
+  - 「3YOURMIND GmbH - LinkedIn — 3YOURMIND GmbH - LinkedIn LinkedIn https://de.linkedin.com > 3yourmind」（https://de.linkedin.com/company/3yourmind・3回目）
+  - 「3YOURMIND - World Economic Forum — 3YOURMIND - World Economic Forum World Economic Forum https://www.weforum.org > 3yourmind」（https://www.weforum.org/organizations/3yourmind・3回目）
+  - 「3YOURMIND 2025: Where We've Been and Where We're Going — 3YOURMIND 2025: Where We've Been and Where We're Going 3YOURMIND https://www.3yourmind.com > news」（https://www.3yourmind.com/news/3yourmind-2025-where-weve-been-where-were-going・3回目）
+  - 「3YOURMIND - LinkedIn — 3YOURMIND - LinkedIn LinkedIn https://www.linkedin.com > 3yourmind」（https://www.linkedin.com/company/3yourmind・3回目）
+- 株主：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部40頁・検索14回）
+- 設立：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部40頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部40頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部40頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部40頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部40頁・検索14回）
+- 黒字・収益性：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部40頁・検索14回）
 
 ## Citrine Informatics
 - 公式URL：https://citrine.io（given）
-- 設立：2013（https://startupintros.com/orgs/citrine-informatics・3回目）
-- 従業員数：68（https://getlatka.com/companies/Citrine_Informatics・3回目）
+- 創業年度：中国/2018年（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+- 創業年度：米国/2013年（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+- 創業年度：2013（https://startupintros.com/orgs/citrine-informatics・3回目）
 - 従業員数：10000+（https://startupintros.com/orgs/citrine-informatics・3回目）
+- 従業員数：68（https://getlatka.com/companies/Citrine_Informatics・3回目）
+- 所在地：東京都江東区豊洲3-2-20 豊洲フロント（https://www.mi-seek.com/company-list/scsk.html・3回目）
 - 所在地：Redwood City, CA, USA（https://startupintros.com/orgs/citrine-informatics・3回目）
+- 株主構成：
+  - 「Ownership」（https://citrine.io/company/・1回目）
+  - 「Our investors include companies on the forefront of funding AI and materials science. We are honored to have received support from such leading organizations as:」（https://citrine.io/company/・1回目）
+  - 「We value your contributions and want you to share ownership of our company.」（https://citrine.io/careers/・1回目）
+  - 「VENTURE DEALS June 12, 2017 • Lyft, a San Francisco-based on-demand ride company, raised $25 million in funding from InMotion Ventures, a venture capital fund backed by Jaguar Land Rover. The investment was...」（https://citrine.io/media-type/news/・1回目）
+  - 「例えば、Googleの親会社であるAlphabet 社からスピンオフし、2022年に設立された量子技術のスタートアップであるSandboxAQ社は、2023年に材料化学への参入を表明しました」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+  - 「Ownership Status」（https://pitchbook.com/profiles/company/85331-80・3回目）
+  - 「Citrine Informatics's investors include Innovation Endeavors, Mark Cupta, Alumni Ventures, Drive Catalyst, ISAI, Presidio Ventures, Scott Brady, Next47, B&C Innovation Investments, David Wallerstein, Matthew Ocko, Gary Benitt.」（https://startupintros.com/orgs/citrine-informatics・3回目）
+  - 「Citrine InformaticsがGEMDでProcess/Property/Provenanceを構造化し企業Legacy DataをAI-ready化ほど、Data OwnershipとIP境界が重要になる」（https://note.com/kagawatomo/n/n9c32bc4b760c・3回目）
+  - 「一方、複数組織をまたぐData OwnershipとIP Boundaryは難しくなるため、GEMDやEnterprise Governanceの設計力がさらに重要になる」（https://note.com/kagawatomo/n/n9c32bc4b760c・3回目）
+  - 「Citizen Shareholders」（https://getlatka.com/companies/Citrine_Informatics・3回目）
+- 創業年度：
+  - 「We are very excited to announce that Citrination now hosts data from JCAP, the Joint Center for Artificial Photosynthesis! JCAP was established in 2010 as a Department of Energy,...」（https://citrine.io/media-type/news/・1回目）
+  - 「Founded in 1895, learn how Dorfner is using AI to enable better development across paints and coatings, composites, construction chemicals, plastics, and more.」（https://citrine.io/how-dorfner-leverages-ai-to-accelerate-innovation-and-new-product-development/・1回目）
+  - 「Citrine Informatics CEO兼共同創業者 Greg Mulholland」（https://www.scsk.jp/news/2022/pdf/20220708.pdf・3回目）
+  - 「これまでに、新規物質・材料の設計開発に特化したプログラム「DMREF」の発足、計算手法と最先端の実験設備の開発を扱う研究センター「CHiMaD」の設立、そして材料特性を提供するオープンアクセスデータベース「Materials project」の構築などが実施されました」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+  - 「図5は、2012年から2023年までの間における、マテリアルズ・インフォマティクスに関するスタートアップ企業の設立された社数と資金調達額の推移です」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+  - 「図5：マテリアルズ・インフォマティクスに関連するスタートアップ企業の設立数と資金調達額の推移（2012～2023年）」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+  - 「設立社数は2012年以降増加し、2018年に最大となりましたが、資金調達額は2021年にピークを迎えています」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+  - 「図6は国別でのスタートアップ企業設立件数です」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+  - 「図6：マテリアルズ・インフォマティクスに関連するスタートアップ企業の国別設立数（2012～2023年）」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+  - 「国別でのスタートアップ企業の設立数では、米国が他国を大きく引き離しており、それに続く形で英国、中国が多く設立されています」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+  - 「米国でマテリアルズ・インフォマティクスのスタートアップが盛んに設立されている背景には、政府による早期からの手厚い支援に加え、IT技術の強みがあると考えられます」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
+  - 「例えば、Googleの親会社であるAlphabet 社からスピンオフし、2022年に設立された量子技術のスタートアップであるSandboxAQ社は、2023年に材料化学への参入を表明しました」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
 - 黒字・収益性：
   - 「Where Does EBITDA Come From?」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
   - 「Where EBITDA Typically Comes From」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
@@ -130,12 +194,12 @@
   - 「In the rapidly evolving world of AI within materials and chemicals industries, Bayesian optimization (BO) has re-emerged as a powerful tool. In this blog post, we will explore why...」（https://citrine.io/resources/blog/・1回目）
   - 「Reducing time and cost of closed-cell polyurethane foam development」（https://citrine.io/revolutionizing-the-use-of-fire-tests/・1回目）
   - 「Reducing time and cost of closed-cell polyurethane foam development」（https://citrine.io/wp-content/uploads/2025/09/Case-Study-Huntsman-PU-Fire-Testing.pdf・2回目）
+  - 「計算化学プラットフォームを提供するGood Chemistry社を2024年に買収しました」（https://www.astamuse.co.jp/report/2024/240905-mi/・3回目）
   - 「The latest data for closed-end fund returns across strategies」（https://pitchbook.com/profiles/company/85331-80・3回目）
   - 「Acquisitions」（https://pitchbook.com/profiles/company/85331-80・3回目）
   - 「Liquidation」（https://pitchbook.com/profiles/company/85331-80・3回目）
   - 「See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.」（https://pitchbook.com/profiles/company/85331-80・3回目）
-  - 「Acquisition Functions」（https://arxiv.org/html/2607.25039v2・3回目）
-  - 「The platform handles multi-objective optimization through the acquisition function, which scores each candidate using the model’s predicted properties and uncertainties; higher-scoring candidates are preferred.」（https://arxiv.org/html/2607.25039v2・3回目）
+  - 「自社Robot LabではなくCustomer LabをAI化し、人間ResearcherとのClosed Loopを作るMaterials R&D OS型である」（https://note.com/kagawatomo/n/n9c32bc4b760c・3回目）
 - ホワイトラベル明言：
   - 「Powered by」（https://citrine.io/・1回目）
   - 「Powered by」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
@@ -173,8 +237,8 @@
   - 「of applications. However, they are natural materials and their properties vary depending」（https://citrine.io/wp-content/uploads/2025/02/AI-Transforming-Product-Development.pdf・2回目）
   - 「with a large variety of experiments, which」（https://citrine.io/wp-content/uploads/2025/02/AI-Transforming-Product-Development.pdf・2回目）
   - 「variability in properties. This resulted in a」（https://citrine.io/wp-content/uploads/2025/02/AI-Transforming-Product-Development.pdf・2回目）
-  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/85331-80・3回目）
-  - 「Perstorp appoints NiMAC Ltd as UK distributor for its Synthetic-EF portfolio」（https://www.perstorp.com/en/news_center/news/2026/april/perstorp_partners_with_citrine_informatics・3回目）
+  - 「Citrine Informatics 社と「Citrine Platform」の販売代理店契約を締結」（https://www.scsk.jp/news/2022/pdf/20220708.pdf・3回目）
+  - 「「Citrine Platform（シトリンプラットフォーム）」の販売代理店契約を締結し、本日より提供開始します」（https://www.scsk.jp/news/2022/pdf/20220708.pdf・3回目）
 - 日本対応：
   - 「SCSK distributes the Citrine Platform in Japan. Their Citrine Platform experts support companies in adopting AI for materials and chemicals.」（https://citrine.io/company/partners/・1回目）
   - 「Japan Chemical Daily: Citrine Informatics Halves Materials Development Period for Clients」（https://citrine.io/media-type/news/・1回目）
@@ -185,9 +249,9 @@
   - 「SCSK has entered an agreement with Citrine Informatics to distribute the Citrine Platform to enable customers in Japan to leverage Citrine's award-winning AI-driven product development platform.」（https://citrine.io/media-type/press-releases/・1回目）
   - 「Citrine Informatics Expands Business Operations to Japan」（https://citrine.io/media-type/press-releases/・1回目）
   - 「June 4, 2020 – Citrine Informatics, a leader in AI for materials and chemicals product development – is expanding its operations to Japan with the opening of a Tokyo...」（https://citrine.io/media-type/press-releases/・1回目）
-  - 「Japanese」（https://www.perstorp.com/en/news_center/news/2026/april/perstorp_partners_with_citrine_informatics・3回目）
-  - 「Perstorp appoints NiMAC Ltd as UK distributor for its Synthetic-EF portfolio」（https://www.perstorp.com/en/news_center/news/2026/april/perstorp_partners_with_citrine_informatics・3回目）
-  - 「【AI業界の「SNSに出ない話」が次のチャンス】日本の最先端は「米国の1年遅れ」／だからアメリカで勝負せよ／勝率の8割は「市場と事業選び」／連続起業家→DeNA幹部に：小林清剛【1on1 Tech】」（https://www.youtube.com/watch?v=9aY09ii1rlM・3回目）
+  - 「このたび、SCSK は日本企業の MI 推進を支援するため、MI ソリューションの先駆けとなっており、多岐に渡る」（https://www.scsk.jp/news/2022/pdf/20220708.pdf・3回目）
+  - 「日本は産業におけるデジタル化の最前線にいます」（https://www.scsk.jp/news/2022/pdf/20220708.pdf・3回目）
+  - 「SCSKと提携して、日本のお客様が我々の最先端技術から」（https://www.scsk.jp/news/2022/pdf/20220708.pdf・3回目）
 - 顧客：
   - 「Case Study」（https://citrine.io/・1回目）
   - 「I want more application data to drive deeper conversations around subjects our customers care about.”」（https://citrine.io/・1回目）
@@ -202,20 +266,22 @@
   - 「Citrine Informatics is an enterprise SaaS platform company that leverages generative artificial intelligence (AI) and materials science to help customers to improve materials and chemicals development.」（https://citrine.io/company/・1回目）
   - 「Citrine Informatics is an enterprise SaaS platform company that leverages generative artificial intelligence (AI) and materials science to help customers to improve materials and chemicals development.」（https://citrine.io/careers/・1回目）
 - 検索結果の抜粋：
-  - 「Citrine Informatics Revenue 2024: $12.1M - GetLatka — Citrine Informatics Revenue 2024: $12.1M - GetLatka GetLatka https://getlatka.com > companies > Cit...」（https://getlatka.com/companies/Citrine_Informatics・3回目）
-  - 「Citrine Informatics Continues Growth Records — Citrine Informatics Continues Growth Records Citrine Informatics https://citrine.io > Media Post」（https://citrine.io/media-post/citrine-informatics-continues-growth-records/・3回目）
-  - 「Citrine Informatics : Revenue , Competitors, Alternatives - Growjo — Citrine Informatics : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > Citri...」（https://growjo.com/company/Citrine_Informatics・3回目）
-  - 「Citrine Informatics - Overview, News & Similar companies — Citrine Informatics - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > citrine-i...」（https://www.zoominfo.com/c/citrine-informatics-inc/403413169・3回目）
-  - 「Greg Mulholland — Citrine Informatics Founder, $75M Raised — Greg Mulholland — Citrine Informatics Founder, $75M Raised Startup Fundraising https://startupfundraising.com > articles」（https://startupfundraising.com/library/articles/greg-mulholland・3回目）
-  - 「Citrine Informatics : Chemicals & Materials Development Platform — Citrine Informatics : Chemicals & Materials Development Platform Citrine Informatics https://citrine.io」（https://citrine.io/・3回目）
+  - 「Citrine Informatics 社と「 Citrine Platform」の販売代理 ... - SCSK — Citrine Informatics 社と「 Citrine Platform」の販売代理 ... - SCSK SCSK株式会社 PDF https://www.scsk.jp > news > pdf」（https://www.scsk.jp/news/2022/pdf/20220708.pdf・3回目）
+  - 「Citrine Informatics - STARTUP DB — Citrine Informatics - STARTUP DB STARTUP DB｜スタートアップデータベース https://startup-db.com > 海外スタートアップ一覧」（https://startup-db.com/global-companies/GM0mNm4H5KLxEJL9・3回目）
+  - 「Invest In Citrine Informatics Stock | Buy Pre-IPO Shares — Invest In Citrine Informatics Stock | Buy Pre-IPO Shares EquityZen https://equityzen.com > company > ci...」（https://equityzen.com/company/citrineinformatics/・3回目）
+  - 「Company - Citrine Informatics — Company - Citrine Informatics Citrine Informatics https://citrine.io > company」（https://citrine.io/company/・3回目）
   - 「Citrine Informatics - Valuation, Funding & Investors - PitchBook — Citrine Informatics - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/85331-80・3回目）
-  - 「Citrine Informatics Raises $16M in Series C Financing — Citrine Informatics Raises $16M in Series C Financing Citrine Informatics https://citrine.io > Media Post」（https://citrine.io/media-post/citrine-informatics-raises-series-c-funding-round/・3回目）
-  - 「Citrine Informatics : Funding , Team & Investors | Startup Intros — Citrine Informatics : Funding , Team & Investors | Startup Intros Startup Intros https://startupintros.com > orgs > citri...」（https://startupintros.com/orgs/citrine-informatics・3回目）
-  - 「Citrine Informatics - Crunchbase Company Profile & Funding — Citrine Informatics - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > citrine...」（https://www.crunchbase.com/organization/citrine-informatics・3回目）
-  - 「Citrine Informatics - TomKat Center for Sustainable Energy — Citrine Informatics - TomKat Center for Sustainable Energy TomKat Center https://tomkat.stanford.edu > citrine-i...」（https://tomkat.stanford.edu/innovation-transfer/citrine-informatics・3回目）
+  - 「Citrine Informatics : Funding, Team & Investors | Startup Intros — Citrine Informatics : Funding, Team & Investors | Startup Intros Startup Intros https://startupintros.com > orgs > citri...」（https://startupintros.com/orgs/citrine-informatics・3回目）
   - 「Citrine Informatics - 2026 Funding Rounds & List of Investors — Citrine Informatics - 2026 Funding Rounds & List of Investors Tracxn https://tracxn.com > citrine-informatics」（https://tracxn.com/d/companies/citrine-informatics/__OVyUkPfdQiRY9SN1pP739S6CyJuGZZOKcSBuZbZuKgA/funding-and-investors・3回目）
-- 売上高：記載なし（3回確認済み：公式17頁／PDF・画像8件／外部33頁・検索11回）
-- 代表者：記載なし（3回確認済み：公式17頁／PDF・画像8件／外部33頁・検索11回）
+  - 「Citrine Informatics : Chemicals & Materials Development Platform — Citrine Informatics : Chemicals & Materials Development Platform Citrine Informatics https://citrine.io」（https://citrine.io/・3回目）
+  - 「Citrine Informatics - Electrical and Computer Engineering — Citrine Informatics - Electrical and Computer Engineering NC State University https://ece.ncsu.edu > ECE Startups」（https://ece.ncsu.edu/ece-startup/citrine-informatics-2/・3回目）
+  - 「第15回｜ Citrine Informatics ――AI for Scienceで本当に追う ... — 第15回｜ Citrine Informatics ――AI for Scienceで本当に追う ... note https://note.com > 科学・テクノロジー > AI・機械学習」（https://note.com/kagawatomo/n/n9c32bc4b760c・3回目）
+  - 「Citrine Informatics - LinkedIn — Citrine Informatics - LinkedIn LinkedIn https://jp.linkedin.com > company > citrine-informatics」（https://jp.linkedin.com/company/citrine-informatics・3回目）
+  - 「Citrine Informatics Revenue 2024: $12.1M - GetLatka — Citrine Informatics Revenue 2024: $12.1M - GetLatka GetLatka https://getlatka.com > companies > Cit...」（https://getlatka.com/companies/Citrine_Informatics・3回目）
+- 株主：記載なし（3回確認済み：公式17頁／PDF・画像8件／外部43頁・検索14回）
+- 設立：記載なし（3回確認済み：公式17頁／PDF・画像8件／外部43頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式17頁／PDF・画像8件／外部43頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式17頁／PDF・画像8件／外部43頁・検索14回）
 
 ## Enektri
 - 公式URL：https://enektri.com（given）
@@ -240,25 +306,27 @@
   - 「Собствено производство с модули от водещи OEM производители.」（https://enektri.com/・1回目）
   - 「Собствен BMS · OEM клетки」（https://enektri.com/about-us/・1回目）
 - 検索結果の抜粋：
-  - 「ENEKTRI Cloud White-Label - your brand, our technology — ENEKTRI Cloud White-Label - your brand, our technology ENEKTRI https://enektri.com > enektri-cloud-w...」（https://enektri.com/en/enektri-cloud-white-label/・3回目）
-  - 「ENEKTRI Cloud for Solar Plants with Batteries — ENEKTRI Cloud for Solar Plants with Batteries ENEKTRI https://enektri.com > enektri-cloud-ems」（https://enektri.com/en/enektri-cloud-ems/・3回目）
-  - 「Partner program for installers, EPCs and distributors - ENEKTRI — Partner program for installers, EPCs and distributors - ENEKTRI ENEKTRI https://enektri.com > Partners」（https://enektri.com/en/partners/・3回目）
   - 「About | ENEKTRI - Manufacturer of batteries for solar systems — About | ENEKTRI - Manufacturer of batteries for solar systems ENEKTRI https://enektri.com > about-us」（https://enektri.com/en/about-us/・3回目）
-- 設立：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
-- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
-- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
-- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
-- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
-- 黒字・収益性：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
-- 資金調達：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
-- 存続：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
-- 再販制度：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
-- 日本対応：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
-- 顧客：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部35頁・検索11回）
+  - 「ENEKTRI Cloud White-Label - your brand, our technology — ENEKTRI Cloud White-Label - your brand, our technology ENEKTRI https://enektri.com > enektri-cloud-w...」（https://enektri.com/en/enektri-cloud-white-label/・3回目）
+  - 「Partner program for installers, EPCs and distributors - ENEKTRI — Partner program for installers, EPCs and distributors - ENEKTRI ENEKTRI https://enektri.com > Partners」（https://enektri.com/en/partners/・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 設立：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 株主構成：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 黒字・収益性：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 資金調達：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 存続：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 再販制度：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 日本対応：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 顧客：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
 
 ## Inion Software
 - 公式URL：https://inionsoftware.com/（search:yahoo_jp:Inion Software）
-- 設立：2018（https://www.cventures.vc/founder/inion-software/・3回目）
+- 創業年度：2018（https://www.cventures.vc/founder/inion-software/・3回目）
 - 所在地：Lithuania（https://www.cventures.vc/founder/inion-software/・3回目）
 - 代表者：Sarunas Stanaitis, Robertas Janickas, Mindaugas Lubys（https://www.cventures.vc/founder/inion-software/・3回目）
 - 黒字・収益性：
@@ -347,45 +415,61 @@
   - 「Inion Software’s systems are already trusted by large-scale projects in Lithuania and abroad. Recently, together with partners, the company completed the largest energy storage system in Lithuania for Švyturys–Utenos alus brewery. The company is also actively expanding in Italy, working with local partners to integrate its storage control technologies.」（https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti・3回目）
   - 「Customers Bancorp Inc」（https://www.annualreports.com/Companies・3回目）
 - 検索結果の抜粋：
+  - 「Inion Software — Inion Software inionsoftware.com https://inionsoftware.com」（https://inionsoftware.com/・3回目）
+  - 「Inion - 2026 Company Profile, Team, Funding & Competitors — Inion - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg・3回目）
+  - 「Lithuanian start-up Inion Software expands its geographical ... — Lithuanian start-up Inion Software expands its geographical ... inionsoftware.com https://inionsoftware.com > blog > lit...」（https://inionsoftware.com/blog/lithuanian-start-up-inion-software-expands-its-geographical-scope-of-operations-as-it-successfully-enters-the-italian-market/・3回目）
   - 「Inion software - LinkedIn Lithuania — Inion software - LinkedIn Lithuania LinkedIn Lithuania https://lt.linkedin.com > inion-software」（https://lt.linkedin.com/company/inion-software・3回目）
+  - 「Inion (@inionsoftware) - Facebook — Inion (@inionsoftware) - Facebook Facebook https://www.facebook.com > inionsoftware」（https://www.facebook.com/inionsoftware/・3回目）
   - 「The start-up Inion Software : sales break company records — The start-up Inion Software : sales break company records inionsoftware.com https://inionsoftware.com > blog > the...」（https://inionsoftware.com/blog/the-start-up-inion-software-sales-break-company-records/・3回目）
   - 「Inion Software closed the first half of the ... - Cleantech Lithuania — Inion Software closed the first half of the ... - Cleantech Lithuania cleantechlithuania.lt https://www.cleantechlithuania.lt > ini...」（https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti・3回目）
   - 「Inion - 2026 Company Profile , Team, Funding & Competitors — Inion - 2026 Company Profile , Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg・3回目）
-  - 「Inion Software — Inion Software inionsoftware.com https://inionsoftware.com」（https://inionsoftware.com/・3回目）
-  - 「Inion - 2026 Company Profile, Team, Funding & Competitors — Inion - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg・3回目）
-  - 「Inion (@inionsoftware) - Facebook — Inion (@inionsoftware) - Facebook Facebook https://www.facebook.com > inionsoftware」（https://www.facebook.com/inionsoftware/・3回目）
   - 「IniOn Software - Contrarian Ventures — IniOn Software - Contrarian Ventures Contrarian Ventures https://www.cventures.vc > founder」（https://www.cventures.vc/founder/inion-software/・3回目）
   - 「Inion Software launches VPP platform and white - label offer for ... — Inion Software launches VPP platform and white - label offer for ... ESS News https://www.ess-news.com > inion-sof...」（https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/・3回目）
   - 「Inion Software launches virtual power plant platform for solar ... — Inion Software launches virtual power plant platform for solar ... inionsoftware.com https://inionsoftware.com > blog > ini...」（https://inionsoftware.com/blog/inion-software-launches-virtual-power-plant-platform-for-solar-and-battery-assets/・3回目）
   - 「Inion End User License Agreement 2022-05-25 — Inion End User License Agreement 2022-05-25 inionsoftware.com PDF https://inionsoftware.com > uploads > 2022/05 > En...」（https://inionsoftware.com/wp-content/uploads/2022/05/End-User-License-Agreement-2022-05-25.pdf・3回目）
-  - 「Inion LT Ltd, Vilnius - company details, code, address — Inion LT Ltd, Vilnius - company details, code, address vz.lt https://rekvizitai.vz.lt > inion_lt」（https://rekvizitai.vz.lt/en/company/inion_lt/・3回目）
-- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
-- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
+- 設立：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
+- 株主構成：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
 
 ## Materialise
 - 公式URL：https://www.materialise.com（given）
-- 設立：1990 ; 36 years ago ( 1990 )（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
-- 設立：2004年01月（https://evort.jp/presenters/materialise・3回目）
+- 創業年度：1990 ; 36 years ago ( 1990 )（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
+- 創業年度：2004年01月（https://evort.jp/presenters/materialise・3回目）
 - 従業員数：2000+（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
 - 所在地：Leuven , Belgium（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
 - 所在地：221-0052 神奈川県横浜市神奈川区栄町8-1横浜ポートサイドビル2階（https://evort.jp/presenters/materialise・3回目）
-- 売上高：76,840   67,670   66,259   204,020   197,469（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-- 売上高：36,542    9,864    21,266    67,672    (2 )   67,670（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-- 売上高：33,296    10,286    22,677    66,259    0    66,259（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
+- 売上高：1億660万ユーロ、約10%増（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+- 売上高：990万ユーロ、前年同期比4%減（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+- 売上高：2,900万ユーロ、3%減（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
 - 代表者：Wilfried Vancraen（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
+- 株主構成：
+  - 「”, among others. These and all other trademarks, service marks, and trade names used on this website are owned by Materialise or third parties and are protected by national and/or international trademark laws. No user of the website has any right, title, or interest in those marks or names not previously expressly granted in writing to such user by Materialise.」（https://www.materialise.com/en/legal-terms・1回目）
+  - 「, over 1.5 million standard implants placed, and more than 50,000 patients treated with personalized solutions, our quality in CMF is backed by proven results, peer-reviewed evidence, and reliable workflows from scan to tray.」（https://www.materialise.com/en/healthcare/hcps/cmf・1回目）
+  - 「Mercer International Announces Comprehensive Recapitalization Agreement with Significant Support from Noteholders and Shareholders」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
+  - 「J-Star Holding Co., Ltd. Receives Shareholder Approval for Capital Restructuring and Reinforces Strategic Focus on U.S. Growth」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
+  - 「Net shareholders' equity at September 30, 2026」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
+- 創業年度：
+  - 「Empowering our customers since 1990」（https://www.materialise.com/en/about・1回目）
+  - 「We’ve been a Top Employer each year since 2019. This certification recognizes employers with practices that empower their people to thrive.」（https://www.materialise.com/en/careers・1回目）
+  - 「Materialise was founded in June 1990 by Wilfried Vancraen and his wife Hilde Ingelaere as a」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
+  - 「Technology companies established in 1990」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
+  - 「Belgian companies established in 1990」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
+  - 「since 2015」（https://www.canny-creative.com/blog/rebranding-cost-vs-value/・3回目）
 - 黒字・収益性：
+  - 「純利益は140万ユーロ、1株当たり0.02ユーロでした」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「年初来の調整後EBITDAは12%増の2,570万ユーロ、調整後EBITは33%増の880万ユーロとなりました」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「調整後EBITDA」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「調整後EBITDA：1,000万ユーロ」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「年初来調整後EBITDAは3,080万ユーロ（利益率29%）」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「調整後EBITDA：150万ユーロ」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「年初来調整後EBITDAは360万ユーロ（利益率12%）」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「調整後EBITDA：30万ユーロの損失」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「年初来調整後EBITDA：30万ユーロの小幅な損失」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「金融収支：20万ユーロの黒字」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「, a non-profit organization.」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
   - 「Materialise Q3 2026 net profit falls to €1.38M | MTLS SEC Filing - Form 6-K」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Profit & Loss Calculator」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Materialise Q3 2026 net profit falls to €1.38M」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Nine-month net profit reached €6.535 million, while third-quarter net profit was €1.383 million.」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Nine-month net profit increased to」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Third-quarter net profit declined to」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「By segment, third-quarter adjusted EBITDA was below the prior-year quarter for Medical and Software; Manufacturing’s loss narrowed.」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Materialise defines adjusted EBITDA as a supplemental non-IFRS measure and cautions that it is not an alternative to IFRS net profit.」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Third-quarter net profit:」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Adjusted EBITDA:」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Third-quarter net profit」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Adjusted EBITDA」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
 - 売上：
   - 「EUR annual revenue」（https://www.materialise.com/en/about・1回目）
   - 「Sales Operations Manager, Materialise Software」（https://www.materialise.com/en/careers・1回目）
@@ -394,27 +478,25 @@
   - 「Our Paris office houses an ambitious research and sales team of over 30 specialists focusing on cranio-maxillofacial and orthopaedic medical devices within our Materialise Medical unit. Get in touch to bring innovative solutions to surgeons and their patients.」（https://www.materialise.com/en/about/locations/france・1回目）
   - 「Go all in with ACTech. As specialists in rapid prototyping, all casting and CNC machining processes are carried out in-house, ensuring you get the highest quality product in record time, finished and ready to install.」（https://www.materialise.com/en/industrial/applications/rapid-prototyping・1回目）
   - 「Carrières」（https://www.materialise.com/fr/news・1回目）
-  - 「Palantir Reports Q3 2026 U.S. Comm Revenue Growth of 148% Y/Y and Revenue Growth of 96% Y/Y; Raises FY 2026 Revenue Guidance to 91% Y/Y Growth and U.S. Comm Revenue Guidance to 143% Y/Y, Crushing Consensus Expectations」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Materialise NV (MTLS) reported third-quarter 2026 revenue of」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「By segment, third-quarter adjusted EBITDA was below the prior-year quarter for Medical and Software; Manufacturing’s loss narrowed.」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Third-quarter revenue:」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Third-quarter revenue」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
+  - 「Materialise NVは、2026年第3四半期の売上高が前年同期比2%超増の6,770万ユーロとなったと報告しました」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「売上総利益率は90ベーシスポイント上昇して57.7%となりましたが、研究開発費の増加と一時的費用が売上総利益の増加を上回ったため、調整後EBITは250万ユーロ、利益率は3.7%に低下しました」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「同社は、2026年通期の売上高見通し2億7,300万～2億8,300万ユーロおよび調整後EBIT 1,200万～1,400万ユーロを再確認しました」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「医療部門は引き続き主要な成長エンジンとなり、医療機器と医療ソフトウェアの双方が幅広く増収となったことで、売上高は約10%増加し、連結業績をけん引しました」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「製造部門の売上高は報告ベースで6%減少しましたが、事業売却の影響を除くと1.5%増加しました」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
 - 資金調達：
   - 「Visit our investor website」（https://www.materialise.com/en/news・1回目）
   - 「By using business as a force for good, we aim to ensure a positive impact for all our stakeholders. Discover our financial impact and results on our investor relations website.」（https://www.materialise.com/en/about/sustainability・1回目）
   - 「With digital design iteration, you can test and improve your parts as often as necessary without costly investment in tooling, getting you to your optimal design faster and affordably.」（https://www.materialise.com/en/industrial/applications/rapid-prototyping・1回目）
+  - 「After the speaker's presentation, there will be a question-and-answer session. To ask a question, you will need to press star 1 1 on your telephone. You will then hear a message advising your hand is raised.」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「To withdraw your question, please press star 1 1 again. Please be advised that today's conference is being recorded. Now it's my pleasure to turn the call to Jody Burfening, Managing Director at Alliance Investor Relations. Please proceed.」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「To access the slides, if you have not already done so, please go to the investor relations section of the company's website at www.materialise.com. The earnings press release that was issued earlier today can be found on that page.」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
+  - 「In medical, we see real momentum in the demand for personalized solutions in various clinical fields, and we have accelerated our investments to scale the adoption of personalization.」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
   - 「Investment Growth Calculator」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
   - 「Adjusted EBITDA is a way companies measure how much money they make from their core operations, like running a business, by removing certain costs or income that aren’t part of regular business activities. It helps investors see how well a company is doing without distractions from unusual expenses or gains, making it easier to compare companies or track performance over time.」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
   - 「expenses, (iii) impairments and revaluation of fair value due to business combinations and (iv) costs incurred in relation to corporate」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
   - 「Adjusted EBITDA, long term investment, rather than the performance of the company’s day-to-day operations. The company also uses」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
   - 「to measure a company’s ability to grow or as a valuation measurement. The company’s calculation of EBIT, EBITDA, Adjusted」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Exchange differences resulting from net investment in foreign operations」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Investments in convertible loans」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Investments in non-listed equity instruments」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「Investments in associates and joint ventures」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
 - 存続：
-  - 「Mergers & Acquisitions」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
-  - 「respectively (i) share-based compensation expenses, (ii) acquisition expenses related to business combinations or divestiture-related」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
   - 「service bureau. It was the first company of its kind in the Benelux region of Europe, through the acquisition of a single」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
   - 「Materialise acquired US company Columbia Scientific Inc, (CSI) in 2001, the creators of Sim/Plant and ImageMaster, which became the US headquarters for Materialise's dental division in that region.」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
   - 「In 2003 Materialise launched one of the first 3D printed consumer brands — .MGX by Materialise — for 3D printing end-use products as well as prototypes. In parallel, the company also acquired Fused Deposition Modelling (FDM) systems for industrial applications.」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
@@ -422,9 +504,11 @@
   - 「to enable expansion of its services and software development. The same year the company acquired OrthoView,」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
   - 「In 2016, the company opened a new and dedicated metal production facility in Bremen, Germany. Materialise HQ, Leuven, also acquired and started testing the」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
   - 「Metal market, Materialise acquired ACTech in Germany to extend the company's metal capabilities, with a specific emphasis on low-volume production of highly complex metal parts. The acquisition also enabled Materialise to develop and improve its software suite for metal 3D printing.」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
-  - 「A well-executed rebrand pays off over time through increased brand equity, stronger customer loyalty, and sustainable growth. Not only this, but a refreshed and well-positioned brand also helps to attract top-tier employees who align with your company’s values, helping with talent acquisition and retention.」（https://www.canny-creative.com/blog/rebranding-cost-vs-value/・3回目）
-  - 「Even though Radio Shack reversed its decision to rename, it hasn’t stopped the company from haemorrhaging customers and losing money. Things came to a head in February when it finally filed for Chapter 11 protection under US bankruptcy laws, having suffered 11 consecutive quarters of losses.」（https://www.worldfinance.com/strategy/what-happens-when-brands-rebrand・3回目）
-  - 「Acquisitions」（https://www.voxelmatters.com/materialise-partners-with-blt-extends-deals-with-ntop-hp/・3回目）
+  - 「Mergers & Acquisitions」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
+  - 「respectively (i) share-based compensation expenses, (ii) acquisition expenses related to business combinations or divestiture-related」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
+  - 「Data Acquisition Monitoring」（https://www.controldesign.com/management/financials/news/11415184/materialise-acquires-identify3d-to-increase-platform-security・3回目）
+  - 「, a 3D-printing solutions provider, acquired Identify3D, a company that develops software to encrypt, distribute and trace the flow of digital parts across supply chains. The acquisition of Identify3D is designed to make Materialise’s CO-AM platform a more secure platform for distributed manufacturing.」（https://www.controldesign.com/management/financials/news/11415184/materialise-acquires-identify3d-to-increase-platform-security・3回目）
+  - 「Data Acquisition & Monitoring」（https://www.controldesign.com/management/financials/news/11415184/materialise-acquires-identify3d-to-increase-platform-security・3回目）
 - ホワイトラベル明言：
   - 「Rebranding Cost vs. Value: Justifying Your Budget | Canny Creative」（https://www.canny-creative.com/blog/rebranding-cost-vs-value/・3回目）
   - 「Rebranding Cost vs. Value: Justifying Your Budget」（https://www.canny-creative.com/blog/rebranding-cost-vs-value/・3回目）
@@ -460,10 +544,10 @@
   - 「When planning and execution work as one, surgeons can move from variability to greater precision. With」（https://www.materialise.com/en/healthcare/hcps/cmf・1回目）
   - 「Find a distributor」（https://www.materialise.com/en/healthcare/hcps/pressure-measurements-orthotics・1回目）
   - 「Explore various studies and papers completed using Materialise solutions to discover the benefits.」（https://www.materialise.com/en/healthcare/hcps/pressure-measurements-orthotics・1回目）
+  - 「In medical, we see real momentum in the demand for personalized solutions in various clinical fields, and we have accelerated our investments to scale the adoption of personalization.」（https://finance.biggo.jp/quote/MTLS/earnings-call/US_MTLS_2026-10-28・3回目）
   - 「and innovative end-to-end solutions enable flexible industrial manufacturing and mass personalization in various industries — including」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
   - 「Materialise incorporates three decades of 3D printing experience into a range of software solutions and 3D printing services, which together form the backbone of the 3D printing industry. Materialise’s open and flexible solutions enable players in a wide variety of industries, including healthcare, automotive, aerospace, art and design, and consumer goods, to build innovative 3D printing」（https://www.annualreports.com/Company/materialise-nv・3回目）
   - 「Different regions and cultures may have varying perceptions of your brand. A global brand rollout strategy will mean that your message, visual identity, and core values stay consistent, no matter where you’re doing business.」（https://www.canny-creative.com/blog/rebranding-cost-vs-value/・3回目）
-  - 「Branding costs vary depending on your business, project scope, and the level of strategy and design required. A smaller project will typically cost less than a complete rebrand covering strategy, identity, messaging, and implementation.」（https://www.canny-creative.com/blog/rebranding-cost-vs-value/・3回目）
 - 日本対応：
   - 「Find a distributor」（https://www.materialise.com/en/healthcare/hcps/pressure-measurements-orthotics・1回目）
   - 「Japanese」（https://materialise.helpjuice.com/IDB/determine-license-type・3回目）
@@ -482,29 +566,55 @@
   - 「Being transparent about the overall impact of 3D printing helps us and our customers firmly embed sustainability into everything we do.」（https://www.materialise.com/en/about/sustainability・1回目）
   - 「Materialise Manufacturing empowers 3D printing customers to keep tight production deadlines while achieving optimal manufacturing quality. We offer rapid product development and innovative digital manufacturing — from concept to execution.」（https://www.materialise.com/en/careers・1回目）
 - 検索結果の抜粋：
+  - 「医療機器設計にデジタル・ツインを活用するための5つの質問 — 医療機器設計にデジタル・ツインを活用するための5つの質問 Materialise https://www.materialise.com > inspiration > articles > digit...」（https://www.materialise.com/ja/inspiration/articles/digital-twins-medical-device-design・3回目）
+  - 「Materialise NV (MTLS) 損益計算書 - Investing.com — Materialise NV (MTLS) 損益計算書 - Investing.com Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース https://jp.investing.com > materialise-income-statement」（https://jp.investing.com/equities/materialise-income-statement・3回目）
+  - 「Shareholder Structure - Investor Relations | Materialise NV — Shareholder Structure - Investor Relations | Materialise NV Materialise https://investors.materialise.com > sha...」（https://investors.materialise.com/shareholder-information/shareholder-structure・3回目）
+  - 「MTLS - Materialise NV - Depositary Receipt (Common Stock) — MTLS - Materialise NV - Depositary Receipt (Common Stock) Fintel https://fintel.io > mtls」（https://fintel.io/so/us/mtls・3回目）
+  - 「当社について | Materialise - 信頼できる革新企業 — 当社について | Materialise - 信頼できる革新企業 Materialise https://www.materialise.com > about > history」（https://www.materialise.com/ja/about/history・3回目）
+  - 「Materialise NV - Wikipedia — Materialise NV - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Mate...」（https://en.wikipedia.org/wiki/Materialise_NV・3回目）
+  - 「Materialise | LinkedIn — Materialise | LinkedIn LinkedIn Belgium https://be.linkedin.com > materialise」（https://be.linkedin.com/company/materialise・3回目）
+  - 「Life at Materialise — Life at Materialise Materialise https://www.materialise.com > life」（https://www.materialise.com/en/careers/life・3回目）
   - 「Materialise Revenue 2014-2026 | MTLS - Macrotrends — Materialise Revenue 2014-2026 | MTLS - Macrotrends Macrotrends https://www.macrotrends.net > revenue」（https://www.macrotrends.net/stocks/charts/MTLS/materialise/revenue・3回目）
   - 「Materialise Reports Fourth Quarter and Full Year 2025 Results — Materialise Reports Fourth Quarter and Full Year 2025 Results Materialise https://investors.materialise.com > mat...」（https://investors.materialise.com/news-releases/news-release-details/materialise-reports-fourth-quarter-and-full-year-2025-results・3回目）
   - 「Materialise Q3 2026 net profit falls to €1.38M | MTLS SEC Filing — Materialise Q3 2026 net profit falls to €1.38M | MTLS SEC Filing Stock Titan https://www.stocktitan.net > ... > MTLS」（https://www.stocktitan.net/sec-filings/MTLS/6-k-materialise-nv-current-report-foreign-issuer-01deb5891a29.html・3回目）
   - 「Materialise Reports Second Quarter and Half-Year 2026 Results — Materialise Reports Second Quarter and Half-Year 2026 Results Business Wire https://www.businesswire.com > home」（https://www.businesswire.com/news/home/20260826250614/en/Materialise-Reports-Second-Quarter-and-Half-Year-2026-Results・3回目）
-  - 「Materialise : Q3 Earnings Snapshot - Yahoo Finance — Materialise : Q3 Earnings Snapshot - Yahoo Finance Yahoo Finance https://finance.yahoo.com > articles」（https://finance.yahoo.com/markets/stocks/articles/materialise-q3-earnings-snapshot-183744198.html・3回目）
-  - 「Materialise NV - AnnualReports.com — Materialise NV - AnnualReports.com Annual Reports https://www.annualreports.com > mat...」（https://www.annualreports.com/Company/materialise-nv・3回目）
-  - 「Materialise Reports Third Quarter 2026 Results — Materialise Reports Third Quarter 2026 Results 01net https://www.01net.it > materialise-rep...」（https://www.01net.it/materialise-reports-third-quarter-2026-results/・3回目）
-  - 「Materialise NV (MTLS) Income Statement - Yahoo Finance — Materialise NV (MTLS) Income Statement - Yahoo Finance Yahoo Finance https://finance.yahoo.com > financials」（https://finance.yahoo.com/quote/MTLS/financials/・3回目）
-  - 「Materialise - 2026 Company Profile & Team - Tracxn — Materialise - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/materialise/__eLjYftAJUe8touLZjXRZKKQFOcAc_lPyROBhDEVMDbw・3回目）
-  - 「Investor Relations | Materialise NV — Investor Relations | Materialise NV Materialise https://investors.materialise.com」（https://investors.materialise.com/・3回目）
-  - 「Materialise — venture-backed company profile | Dealroom — Materialise — venture-backed company profile | Dealroom Dealroom https://dealroom.co > materialise」（https://dealroom.co/companies/materialise/・3回目）
-  - 「Materialise Acquires Identify3D | Press Release — Materialise Acquires Identify3D | Press Release Materialise https://www.materialise.com > news」（https://www.materialise.com/en/news/press-releases/acquisition-identify3d・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部42頁・検索14回）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部42頁・検索14回）
 
 ## Oqton
 - 公式URL：https://oqton.com（given）
 - 売上高：$ 95.5   $ 94.5（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
 - 売上高：（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
 - 売上高：$ 95.5  $ 94.5（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+- 株主構成：
+  - 「Ownership Status」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Parent Company」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 56」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「that held ownership rights to such products and technologies. In other instances, we have licensed or purchased the intellectual property rights of technologies」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「oversees the design of executive compensation and equity plans, which are designed to align executive pay to the delivery of long-term shareholder value.」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「shareholders or other third parties; and」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「strategic partners and other third parties, such as the dispute with former shareholders of Volumetric described under the heading “Termination of Volumetric」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「could harm our reputation, create negative shareholder sentiment and affect our share value. We have established policies and procedures designed to assist our」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「ownership of shares held in a nominee's name.」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「Plan. For information regarding the securities authorized for issuance under our equity compensation plans, see “Security Ownership of Certain Beneficial」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「initial investment in the joint venture of approximately $6.5 million. In February 2023, the Company became a shareholder in the joint venture and owns 49%」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「long-term sustainability. In February 2023, the Company became a shareholder in the joint venture and now owns 49% of its common stock. 3D Systems was」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+- 創業年度：
+  - 「Oqton was founded in 2017.」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「This is the world that Oqton set out to change when they were founded in 2017. The manufacturing industry has witnessed tremendous change over the past few years. Accelerated by the Covid pandemic, manufacturers started the transition to designing and programming in the cloud, driven in part by the availability of manufacturing software on subscription.」（https://www.figma.com/customers/how-oqton-is-disrupting-manufacturing-software/・3回目）
+  - 「Hexcel since 2007. In addition to Integra and Hexcel, Dr. Graves previously served as a director of FARO Technologies and Teleflex Corporation.」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「member of our Board of Directors from 1993 to May 2022 when he was designated Director Emeritus. He has served as Chief Technology Officer since 1997,」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「as Executive Vice President since 2000 and as Chief Technology Officer for Regenerative Medicine since 2021. Mr. Hull has also previously served in various」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「other executive capacities at the Company since 1986, including Chief Executive Officer, Vice Chairman of the Board of Directors and President and Chief」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「Since 2018, we have implemented new compliance procedures to identify and prevent potential violations of export controls laws, trade sanctions and」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「assessment on criteria established in Internal Control–Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
+  - 「We did not maintain an effective control environment based on the criteria established in the 2013 Framework and identified deficiencies in the principles」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
 - 黒字・収益性：
   - 「Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...」（https://oqton.com/category/blog/・1回目）
   - 「Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...」（https://oqton.com/blog/・1回目）
   - 「Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...」（https://oqton.com/category/blog/?et_blog・1回目）
   - 「Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...」（https://oqton.com/blog/?et_blog・1回目）
+  - 「3D Systems donates MultiJet 3D printer to nonprofit for production of customised dentures」（https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/・3回目）
   - 「GAAP EPS loss narrowed to $(0.03), or $(0.01) on a non-GAAP basis, while Adjusted EBITDA improved to $2.1 million, reflecting the benefits of higher sales volumes and continued execution of cost reduction initiatives.」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
   - 「Amid ongoing global risks, the Company remains focused on building top-line momentum in key markets over the coming quarters, while maintaining disciplined cost management to achieve our goal of full-year break-even Adjusted EBITDA.」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
   - 「Gross profit」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
@@ -512,7 +622,6 @@
   - 「Net loss attributable to 3D Systems Corporation」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
   - 「Non-GAAP gross profit margin」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
   - 「Adjusted EBITDA」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
-  - 「Gross profit margin increased to 35.9% compared to 34.6% in the prior year period. Non-GAAP gross profit margin increased to 36.1% compared to 35.0% in the prior year period. Adjusting for software divestitures, non-GAAP gross profit margin increased by 600 basis points.」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
 - 売上：
   - 「3DXpert can help you handle any challenge AM throws at you. When faced with repetitive tasks, or part types that re-occur in your trays, 3DXpert can carry a lot of your load for you. By capturing your knowledge into scripts and using AI to group similar parts together and apply solutions to them, you are free to focus on more value-added tasks.」（https://oqton.com/3dxpert/・1回目）
   - 「Orient, nest, support, arrange, slice, and optimize」（https://oqton.com/3dxpert/・1回目）
@@ -522,36 +631,36 @@
   - 「“Lower cost-per-part and new revenue from impossible geometries.”」（https://oqton.com/meltcontrol/・1回目）
   - 「Harry Hextall」（https://oqton.com/oqton-at-rapidtct/・1回目）
   - 「productions are seeking ways to optimise their entire workflow, we asked our Senior Sales Director, Mark McGarry, to give an overview of the MES capabilities of Oqton’s platform, the Manufacturing OS.」（https://oqton.com/additive-user-group-launch/・1回目）
-  - 「Oqton: Revenue, Competitors, Alternatives」（https://growjo.com/company/Oqton・3回目）
-  - 「Revenue & Valuation」（https://growjo.com/company/Oqton・3回目）
-  - 「Revenue and Competitors」（https://growjo.com/company/Oqton・3回目）
-  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Oqton・3回目）
+  - 「Secondary market analysis of GP-led transactions and LP stake sales」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Generating Revenue」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「What is Oqton’s current revenue?」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「The current revenue for Oqton is」（https://pitchbook.com/profiles/company/264580-93・3回目）
 - 資金調達：
   - 「The cooling and shrinking that occurs after each layer is printed may cause the metal to rise above the powder bed level. These raised tips can damage the re-coater or even cause the roller to stop its motion.」（https://oqton.com/3dxpert/・1回目）
   - 「What is the typical Return on Investment (ROI) for an MES for Additive Manufacturing?」（https://oqton.com/manufacturing-os-mes/・1回目）
   - 「The last decade has seen manufacturing change at a staggering rate. Production series are shrinking, product lifespans are shortening, and custom designs are becoming the norm. This trend is challenging conventional manufacturing planning software to unprecedented...」（https://oqton.com/category/blog/page/2/?et_blog・1回目）
   - 「The last decade has seen manufacturing change at a staggering rate. Production series are shrinking, product lifespans are shortening, and custom designs are becoming the norm. This trend is challenging conventional manufacturing planning software to unprecedented...」（https://oqton.com/blog/page/2/?et_blog・1回目）
   - 「Tom Gabriel, R&D Manager for Additive Manufacturing at Emerson Automation Solutions, also praised collaboration with the software development team in his customer presentation.」（https://oqton.com/additive-user-group-launch/・1回目）
-  - 「Revenue & Valuation」（https://growjo.com/company/Oqton・3回目）
-  - 「Total Funding」（https://growjo.com/company/Oqton・3回目）
-  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Oqton・3回目）
-  - 「's total funding is」（https://growjo.com/company/Oqton・3回目）
-  - 「Valuation」（https://growjo.com/company/Oqton・3回目）
-  - 「Investor Relations」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
-  - 「Investment Casting Patterns」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
+  - 「Oqton 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Follow capital flows across investors, deals, and industry trends」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Find investment opportunities and active investors faster」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Validate investment decisions with verified company and financial data」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Investors」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Explore investor track records and activity」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Access timely lending and investment data」（https://pitchbook.com/profiles/company/264580-93・3回目）
 - 存続：
   - 「Whether you’ve been a customer, partner, or a follower of ours on social media, you may have noticed some changes in the past months. Some of you might know that Oqton was acquired in November 2021 by 3D Systems – a move which ushered in exciting developments. Our top...」（https://oqton.com/category/blog/page/3/?et_blog・1回目）
   - 「Whether you’ve been a customer, partner, or a follower of ours on social media, you may have noticed some changes in the past months. Some of you might know that Oqton was acquired in November 2021 by 3D Systems – a move which ushered in exciting developments. Our top...」（https://oqton.com/blog/page/3/?et_blog・1回目）
   - 「We closed the day with a presentation about simplifying quoting and payments with DigiFabster. The web-based solution is helping manufacturers process quotes in minutes, generating instant quotes and orders 24/7 online. This is another step towards full automation of additive production.」（https://oqton.com/additive-user-group-launch/・1回目）
   - 「3D Systems to Drive Adoption of Additive Manufacturing in Production Environments with the Acquisition of Oqton」（https://oqton.com/category/press-release/・1回目）
-  - 「3D Systems to Drive Adoption of Additive Manufacturing in Production Environments with the Acquisition of Oqton | 3D Systems」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
-  - 「3D Systems to Drive Adoption of Additive Manufacturing in Production Environments with the Acquisition of Oqton」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
-  - 「With the acquisition of Oqton and the commitment to continue its focus on transforming and optimizing digital manufacturing systems, 3D Systems will also expand availability to the entire additive manufacturing industry and customer base its most advanced software platforms - 3DXpert」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
-  - 「3D Systems Acquisition of Oqton Conference Call Details」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
-  - 「Acquisitions and other investments, net of cash acquired」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
-  - 「amortization of intangible assets, a non-cash expense, as 3D Systems’ intangible assets were primarily acquired in connection with business combinations;」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
-  - 「costs incurred in connection with acquisitions and divestitures, such as legal, consulting and advisory fees;」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
-  - 「Acquisition and divestiture-related expense」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「Oqton 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「The latest data for closed-end fund returns across strategies」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Acquired/​Merged」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Acquisitions」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Acquired/Merged (Operating Subsidiary)」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「Acquired/Merged」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「4. Merger/Acquisition」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「3. Merger/Acquisition」（https://pitchbook.com/profiles/company/264580-93・3回目）
 - ホワイトラベル明言：
   - 「AMVero can be hosted in the cloud or locally. It enables real-time additive anomaly detection powered by AI, machine vision, and IIoT. Detect, assess, and act before failures occur. Monitor your fleet and create reports from builds.」（https://oqton.com/・1回目）
   - 「Physics-based job preparation tools powered by Amphyon technology」（https://oqton.com/3dxpert/・1回目）
@@ -591,9 +700,6 @@
   - 「We promote and sell our solutions globally through a direct sales force, channel partners and, in certain geographies, appointed distributors. Our customer」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
   - 「acceptance of those products and services, claims from distributors, end-users or others, increased end-user service and support costs, and significant warranty」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
   - 「As a result, changes in exchange rates between the U.S. Dollar and the Euro, Japanese Yen, British Pound, South Korean Won or other currencies in which we」（https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf・3回目）
-  - 「3D Systems Japan 77回視聴 4 年前」（https://www.youtube.com/watch?v=fBI3eAj0INA・3回目）
-  - 「3D Systems Japan」（https://www.youtube.com/watch?v=fBI3eAj0INA・3回目）
-  - 「【日本人だけがハマる】コレ知らないと英語は聞こえないまま...英会話教室は教えないリスニングの仕組み」（https://www.youtube.com/watch?v=fBI3eAj0INA・3回目）
 - 顧客：
   - 「Handle every file format your customers send with parametric, automation-ready build preparation and Supportless enabling strategies.」（https://oqton.com/3dxpert/・1回目）
   - 「Trusted by Customers Across Many Industries」（https://oqton.com/3dxpert/・1回目）
@@ -608,355 +714,20 @@
   - 「Have a look at how successful our customers are」（https://oqton.com/amvero/・1回目）
   - 「giving customers flexibility based on their operational requirements.」（https://oqton.com/amvero/・1回目）
 - 検索結果の抜粋：
+  - 「3D Systems to Drive Adoption of Additive Manufacturing in ... — 3D Systems to Drive Adoption of Additive Manufacturing in ... Oqton https://oqton.com > Press Release」（https://oqton.com/3d-systems-to-drive-adoption-of-additive-manufacturing-in-production-environments-with-the-acquisition-of-oqton/・3回目）
+  - 「Oqton 2026 Company Profile: Valuation, Investors , Acquisition — Oqton 2026 Company Profile: Valuation, Investors , Acquisition PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/264580-93・3回目）
+  - 「3D Systems to divest Oqton & 3DXpert software platforms — 3D Systems to divest Oqton & 3DXpert software platforms TCT Magazine https://www.tctmagazine.com > 3d-sy...」（https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/・3回目）
+  - 「Oqton Uses AI And ML To Automate Manufacturing Workflows — Oqton Uses AI And ML To Automate Manufacturing Workflows Forbes https://www.forbes.com > 2023/11/29」（https://www.forbes.com/sites/jimvinoski/2023/11/29/oqton-uses-ai-and-ml-to-automate-manufacturing-workflows/・3回目）
+  - 「Our History - Oqton — Our History - Oqton Oqton https://oqton.com > history」（https://oqton.com/history/・3回目）
+  - 「Oqton | LinkedIn — Oqton | LinkedIn LinkedIn https://jp.linkedin.com > company > oqton」（https://jp.linkedin.com/company/oqton・3回目）
+  - 「Oqton 2026 Company Profile: Valuation, Investors, Acquisition — Oqton 2026 Company Profile: Valuation, Investors, Acquisition PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/264580-93・3回目）
   - 「Oqton raises 40M Series A financing round — Oqton raises 40M Series A financing round Oqton https://oqton.com > Press Release」（https://oqton.com/oqton-raises-40m-series-a-financing-round/・3回目）
   - 「Oqton : Revenue , Competitors, Alternatives - Growjo — Oqton : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > Oqton」（https://growjo.com/company/Oqton・3回目）
   - 「How to succeed with additive manufacturing? - Oqton — How to succeed with additive manufacturing? - Oqton Oqton https://oqton.com > Blog」（https://oqton.com/how-to-succeed-with-additive-manufacturing/・3回目）
-  - 「Oqton Uses AI And ML To Automate Manufacturing Workflows — Oqton Uses AI And ML To Automate Manufacturing Workflows Forbes https://www.forbes.com > 2023/11/29」（https://www.forbes.com/sites/jimvinoski/2023/11/29/oqton-uses-ai-and-ml-to-automate-manufacturing-workflows/・3回目）
+  - 「Oqton 2026 Company Profile : Valuation, Investors, Acquisition — Oqton 2026 Company Profile : Valuation, Investors, Acquisition PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/264580-93・3回目）
   - 「Oqton investors raise $40M Series A funding , includes Sandvik — Oqton investors raise $40M Series A funding , includes Sandvik develop3d https://develop3d.com > oqton-invest...」（https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/・3回目）
-  - 「Oqton 2026 Company Profile: Valuation, Investors, Acquisition — Oqton 2026 Company Profile: Valuation, Investors, Acquisition PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/264580-93・3回目）
-  - 「Oqton Raises US$40M - Fabbaloo — Oqton Raises US$40M - Fabbaloo Fabbaloo https://www.fabbaloo.com > News」（https://www.fabbaloo.com/news/oqton-raises-us40m・3回目）
-  - 「Our History - Oqton — Our History - Oqton Oqton https://oqton.com > history」（https://oqton.com/history/・3回目）
-  - 「3D Systems acquires Oqton , Inc. — deal terms - VectorShift — 3D Systems acquires Oqton , Inc. — deal terms - VectorShift VectorShift https://vectorshift.ai > Research > Deals」（https://vectorshift.ai/research/deals/3d-systems-oqton-2021・3回目）
-  - 「How Oqton is disrupting manufacturing software with AI and ... — How Oqton is disrupting manufacturing software with AI and ... Figma https://www.figma.com > customers」（https://www.figma.com/customers/how-oqton-is-disrupting-manufacturing-software/・3回目）
-  - 「Hubb to acquire 3D Systems' Oqton and 3DXpert software ... — Hubb to acquire 3D Systems' Oqton and 3DXpert software ... Metal Additive Manufacturing magazine https://www.metal-am.com > hubb-to...」（https://www.metal-am.com/hubb-to-acquire-3d-systems-oqton-and-3dxpert-software-platforms/・3回目）
-  - 「Oqton : Manufacturing Software Solutions - 3DXpert, MOS ... — Oqton : Manufacturing Software Solutions - 3DXpert, MOS ... Oqton https://oqton.com」（https://oqton.com/・3回目）
-- 設立：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部34頁・検索11回）
-- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部34頁・検索11回）
-- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部34頁・検索11回）
-- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部34頁・検索11回）
-
-## Tech Soft 3D
-- 公式URL：https://www.techsoft3d.com（given）
-- 黒字・収益性：
-  - 「Our commitment to help others rise to the top started the day our organization was born. As a four-person, self-funded start-up, we needed to provide value for our partners. Industry leaders of the day, including Computervision, SDRC and RASNA, relied on our HOOPS Visualize graphics engine.」（https://www.techsoft3d.com/company/・1回目）
-  - 「EBITDA」（https://pitchbook.com/profiles/company/124476-04・3回目）
-- 売上：
-  - 「Sales Manager」（https://www.techsoft3d.com/company/・1回目）
-  - 「“Revenue Sharing Fee” means the distribution, subscription, royalty, and any other license fee to be paid by Integrator to TS3D, as more specifically set forth in Exhibit B to the Technology Partnership Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Use of the Integrated Product is limited to the Licensee’s internal business purposes, and the Licensee shall have no rights to distribute the Integrated Product to, or use it on behalf of, others or to make the Integrated Product available to any third party, whether as part of any hosted or SaaS solution or time-sharing or service bureau arrangement or otherwise;」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「5.4 Sales Notices.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Section 7. WARRANTIES AND DISCLAIMERS」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「7.1 Performance Warranty.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「7.2 Open Source Warranty.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Integrator shall not and shall cause Distributors and Subdistributors to not make any representations, warranties or guarantees to Licensees concerning the TS3D Software that are inconsistent with or in addition to those made in this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「any breach of the representations or warranties made by Integrator or its Distributors and Subdistributors to Licensees in regard to the Integrated Products;」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Integrator shall pay all Recurring Fee and Revenue Sharing Fee payments due TS3D up to the effective date of termination or expiration and shall continue to pay all sums which accrue to TS3D after termination or expiration during the Sunset Period (if any).」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Integrator shall continue to provide Revenue Sharing Fee Reports to TS3D, pursuant to the Technology Partnership Agreement, if applicable, until all transactions under this Agreement have been completed.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals and Blocked Persons, List of Specially Designated Terrorists or List of Specially Designated Narcotics Traffickers or the U.S. Commerce Department’s Table of Deny Orders, Denied Persons (or Parties) List, Unverified Parties List, Entities List, or the U.S. State Department’s list of Debarred Parties, or」（https://www.techsoft3d.com/legal/tpa/・1回目）
-- 資金調達：
-  - 「Integrator may distribute (and/or host and make available on a SaaS basis) and sublicense a reasonable number of copies of the TS3D Software in the Integrated Products to potential Licensees for the purpose of evaluation, subject to the terms of Section 3.5; and」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「3.5 Evaluation Licenses.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Information about your computer to ensure compliance with the Tech Soft 3D license usage requirements, during evaluation only, to collect: IP address, MAC address, Tech Soft 3D License and product usage information」（https://www.techsoft3d.com/legal/privacy-policy/・1回目）
-  - 「Informations sur votre ordinateur pour assurer la conformité aux exigences d'utilisation de la licence Tech Soft 3D, uniquement pendant l'évaluation, pour collecter : adresse IP, adresse MAC, informations sur la licence Tech Soft 3D et l'utilisation du produit」（https://www.techsoft3d.com/legal/privacy-policy-fr/・1回目）
-  - 「Tech Soft 3D is backed by investment firm Battery Ventures. For more information, please contact press@techsoft3d.com, fill out the」（https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/・1回目）
-  - 「Revenue & Valuation」（https://growjo.com/company/Tech_Soft_3D・3回目）
-  - 「Total Funding」（https://growjo.com/company/Tech_Soft_3D・3回目）
-  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Tech_Soft_3D・3回目）
-  - 「Valuation」（https://growjo.com/company/Tech_Soft_3D・3回目）
-  - 「Tech Soft 3D 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/124476-04・3回目）
-  - 「Follow capital flows across investors, deals, and industry trends」（https://pitchbook.com/profiles/company/124476-04・3回目）
-  - 「Find investment opportunities and active investors faster」（https://pitchbook.com/profiles/company/124476-04・3回目）
-- 存続：
-  - 「“Integrator Materials” means all information, documents, items, materials, techniques, know-how, software, materials (regardless of the form or medium in which they are disclosed or stored) and any other intellectual property rights owned by or licensed to Integrator, whether before or after the date of this Agreement, which, subject to this Agreement, are used in connection with this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「to impose confidentiality restrictions upon the parties to whom any Confidential Information is disclosed that are not less restrictive than those set forth in this Agreement;」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「to refrain from using the Confidential Information for any purpose other than the purposes for which that Confidential Information was disclosed as set forth in clause (a) above.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Integrator becomes insolvent, makes a general assignment for the benefit of creditors, suffers or permits the appointment of a receiver for its business or assets, becomes subject to any proceeding under any bankruptcy or insolvency laws, or has liquidated all or a substantial portion of its assets, voluntarily or otherwise.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Bankruptcy or Insolvency. Either party shall have the right to terminate this Agreement and any Order Form by giving written notice of termination to the other in the event of the insolvency or bankruptcy of such other, whether voluntary or involuntary, or the appointment of a trustee, receiver, or similar agent to take charge of or sell any material portion of such other’s property or business.」（https://www.techsoft3d.com/legal/tpa-apps/・1回目）
-  - 「. In connection with a business transaction such as a merger or bankruptcy, to comply with any applicable legal obligations (including to respond to subpoenas, search warrants and similar requests), to enforce any applicable terms of service or policies, and to protect or defend the Services, our rights, and the rights of our users or others.」（https://www.techsoft3d.com/legal/privacy-policy/・1回目）
-  - 「Shared or Disclosed to Third Parties?」（https://www.techsoft3d.com/legal/privacy-policy/・1回目）
-  - 「The latest data for closed-end fund returns across strategies」（https://pitchbook.com/profiles/company/124476-04・3回目）
-  - 「Acquisitions」（https://pitchbook.com/profiles/company/124476-04・3回目）
-  - 「Corporate Backed or Acquired」（https://pitchbook.com/profiles/company/124476-04・3回目）
-  - 「Tech Soft 3D completes acquisition of Theorem Solutions」（https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/・3回目）
-  - 「, the leading provider of engineering software development toolkits, has announced that it has acquired」（https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/・3回目）
-- ホワイトラベル明言：
-  - 「AutoCAD OEM is the white label version of Autodesk AutoCAD. This proven CAD platform enables software developers to quickly build CAD functionality into their next development project. Based on the incredibly successful and widely used AutoCAD engine, AutoCAD OEM contains a comprehensive set of tools to quickly get your customized application to market.」（https://www.techsoft3d.com/oem/autocad-oem/・1回目）
-  - 「In just a few weeks, you can bring your unique, branded application to market, powered by Autodesk Inventor and backed by flexible licensing that gives you the margins to grow.」（https://www.techsoft3d.com/oem/inventor-oem/・1回目）
-  - 「Inventor OEM is the white label version of Autodesk’s mechanical CAD application, Autodesk Inventor. The platform provides a development environment for software developers looking to create a specialized 3D mechanical CAD product. Inventor OEM includes a full 3D modelling kernel, user interface, and ability to do parametric-based designs.」（https://www.techsoft3d.com/oem/inventor-oem/・1回目）
-  - 「Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI」（https://www.techsoft3d.com/developers/resources/news/・1回目）
-  - 「Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI」（https://www.techsoft3d.com/enterprise/resources/news/・1回目）
-  - 「AutoCAD OEM lets you build a custom, branded CAD application on the same platform that powers AutoCAD. You choose which commands and features to include, configure your own UI, and ship under your own brand. It supports Object ARX, .NET, ActiveX, and JavaScript APIs, with options for multiple deployment targets and multiple languages.」（https://www.techsoft3d.com/oem/・1回目）
-  - 「Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI」（https://www.techsoft3d.com/resources/news/synera-releases-advanced-ai-add-in-powered-by-tech-soft-3d-s-hoops-ai/・1回目）
-  - 「, powered by Tech Soft 3D’s HOOPS AI, alongside the release of」（https://www.techsoft3d.com/resources/news/synera-releases-advanced-ai-add-in-powered-by-tech-soft-3d-s-hoops-ai/・1回目）
-- OEM・組込み：
-  - 「SDKs for Developers」（https://www.techsoft3d.com/・1回目）
-  - 「Developer Toolkits」（https://www.techsoft3d.com/・1回目）
-  - 「Our SDKs offer unparalleled momentum and reliability to your next engineering application.」（https://www.techsoft3d.com/・1回目）
-  - 「Explore SDKs」（https://www.techsoft3d.com/・1回目）
-  - 「development toolkits」（https://www.techsoft3d.com/・1回目）
-  - 「, including our HOOPS SDKs, equip engineering applications with ready-made modeling, visualization, simulation, and data-exchange capabilities, helping you reach the market faster and with lower risk. Our」（https://www.techsoft3d.com/・1回目）
-  - 「Autodesk AutoCAD OEM」（https://www.techsoft3d.com/・1回目）
-  - 「Autodesk Inventor OEM」（https://www.techsoft3d.com/・1回目）
-  - 「SDKs for Developers」（https://www.techsoft3d.com/company/・1回目）
-  - 「Autodesk AutoCAD OEM」（https://www.techsoft3d.com/company/・1回目）
-  - 「Autodesk Inventor OEM」（https://www.techsoft3d.com/company/・1回目）
-  - 「SDKs for Developers」（https://www.techsoft3d.com/legal/tpa/・1回目）
-- 再販制度：
-  - 「Resellers」（https://www.techsoft3d.com/・1回目）
-  - 「Resellers」（https://www.techsoft3d.com/company/・1回目）
-  - 「“Distributor” means a third party to whom Integrator grants the right to demonstrate, market, distribute, sublicense and support the Integrated Products.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「“Subdistributors” means third parties to whom Distributors grant the right to demonstrate, market, distribute, sublicense and support the Integrated Products.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「2.2 Appointment of Distributors.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「TS3D consents to the sublicense by Integrator to Distributors, and to their sublicense to Subdistributors, of the right to market, distribute, sublicense and provide support for the TS3D Software to Licensees within the Territory only when embedded within the Integrated Products, for installation and use exclusively within the Territory, in accordance with the terms of this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Integrator may sublicense and provide maintenance for an unlimited number of licensed copies of the TS3D Software in the Integrated Products, to Licensees, Distributors and Subdistributors in accordance with the terms of this Agreement;」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「3.2 License Grant (Distributors/Subdistributors).」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Integrator shall not and shall cause Distributors and Subdistributors to not make any representations, warranties or guarantees to Licensees concerning the TS3D Software that are inconsistent with or in addition to those made in this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「any unauthorized use, reproduction, or distribution of the TS3D Product by Integrator, Distributors, Subdistributors, or the agents of any of them,」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「compliance with the specifications, designs or requirements of Integrator or its authorized agents or contractors or of Distributors, Subdistributors, Licensees, or other customers.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「any breach of the representations or warranties made by Integrator or its Distributors and Subdistributors to Licensees in regard to the Integrated Products;」（https://www.techsoft3d.com/legal/tpa/・1回目）
-- 日本対応：
-  - 「Yokohama, Japan」（https://www.techsoft3d.com/company/・1回目）
-  - 「“Distributor” means a third party to whom Integrator grants the right to demonstrate, market, distribute, sublicense and support the Integrated Products.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「“Subdistributors” means third parties to whom Distributors grant the right to demonstrate, market, distribute, sublicense and support the Integrated Products.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「2.2 Appointment of Distributors.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「TS3D consents to the sublicense by Integrator to Distributors, and to their sublicense to Subdistributors, of the right to market, distribute, sublicense and provide support for the TS3D Software to Licensees within the Territory only when embedded within the Integrated Products, for installation and use exclusively within the Territory, in accordance with the terms of this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Integrator may sublicense and provide maintenance for an unlimited number of licensed copies of the TS3D Software in the Integrated Products, to Licensees, Distributors and Subdistributors in accordance with the terms of this Agreement;」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「3.2 License Grant (Distributors/Subdistributors).」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Integrator shall not and shall cause Distributors and Subdistributors to not make any representations, warranties or guarantees to Licensees concerning the TS3D Software that are inconsistent with or in addition to those made in this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「any unauthorized use, reproduction, or distribution of the TS3D Product by Integrator, Distributors, Subdistributors, or the agents of any of them,」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「compliance with the specifications, designs or requirements of Integrator or its authorized agents or contractors or of Distributors, Subdistributors, Licensees, or other customers.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「any breach of the representations or warranties made by Integrator or its Distributors and Subdistributors to Licensees in regard to the Integrated Products;」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「the breach of any of the provisions of this Agreement by Integrator or its Distributors or Subdistributors; and」（https://www.techsoft3d.com/legal/tpa/・1回目）
-- 顧客：
-  - 「compliance with the specifications, designs or requirements of Integrator or its authorized agents or contractors or of Distributors, Subdistributors, Licensees, or other customers.」（https://www.techsoft3d.com/legal/tpa/・1回目）
-  - 「Acceptance of Terms and Conditions. Customer acknowledges and agrees to abide by the terms and conditions applicable to all Products and Services of Tech Soft 3D, including but not limited to, as applicable, all terms and conditions applicable to any Customers who are also resellers, distributors, sublicensees or users of other Tech Soft 3D Products and services.」（https://www.techsoft3d.com/legal/tpa-apps/・1回目）
-  - 「Enable your customers to interact with your application via a desktop application, through a child window, Microsoft Windows .NET, or a web page」（https://www.techsoft3d.com/oem/autocad-oem/・1回目）
-  - 「Add specialized features tailored to your target customers」（https://www.techsoft3d.com/oem/autocad-oem/・1回目）
-  - 「Use a simple-to-use wizard to easily customize and brand your product to your customers’ needs.」（https://www.techsoft3d.com/oem/inventor-oem/・1回目）
-  - 「Make your application simple and easy to use by including only the features your customers need.」（https://www.techsoft3d.com/oem/inventor-oem/・1回目）
-  - 「DNV's Use of HOOPS SDKs Empowers Their Customers' Structural & Hydrodynamic Analysis」（https://www.techsoft3d.com/developers/resources/case-studies/・1回目）
-  - 「HOOPS Toolkits Help Proplanner Solve Decades-Old Data Management Challenge For Manufacturing Customers」（https://www.techsoft3d.com/developers/resources/case-studies/・1回目）
-  - 「Video Case Study: How Flex-N-Gate Uses SpinFire Insight」（https://www.techsoft3d.com/enterprise/resources/case-studies/・1回目）
-  - 「Video Case Study: How Mayco Uses SpinFire Insight」（https://www.techsoft3d.com/enterprise/resources/case-studies/・1回目）
-  - 「The scaffolding industry poses distinct challenges for both software developers and their clients. Unlike many rental markets where customers rent a few items, a scaffolding bill of materials involves managing, arranging, and returning hundreds or thousands of individual parts in a timely and organized manner. This is where Scaffolding Software products come into play.」（https://www.techsoft3d.com/resources/case-studies/scaffolding-software/・1回目）
-  - 「The comprehensive nature of their software is a cornerstone of what makes Scaffolding Software products so valuable to their customers. Andrew said, “It's not just design, it's not just estimating, but also the ability to generate quotations, reports, and inventory. All at the touch of a few buttons.”」（https://www.techsoft3d.com/resources/case-studies/scaffolding-software/・1回目）
-- 検索結果の抜粋：
-  - 「Tech Soft 3D - Overview, News & Similar companies - ZoomInfo — Tech Soft 3D - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > tech-sof...」（https://www.zoominfo.com/c/tech-soft-3d-inc/239681746・3回目）
-  - 「Tech Soft 3D : Revenue , Competitors, Alternatives - Growjo — Tech Soft 3D : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Tech_Soft_3D」（https://growjo.com/company/Tech_Soft_3D・3回目）
-  - 「Tech Soft 3D's Competitors, Revenue , Number of Employees ... — Tech Soft 3D's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > techsoft3d」（https://www.owler.com/company/techsoft3d・3回目）
-  - 「Tech Soft 3D - LinkedIn — Tech Soft 3D - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/tech-soft-3d・3回目）
-  - 「Working at Tech Soft 3D | Glassdoor — Working at Tech Soft 3D | Glassdoor Glassdoor https://www.glassdoor.com > Overview」（https://www.glassdoor.com/Overview/Working-at-Tech-Soft-3D-EI_IE357720.11,23.htm・3回目）
-  - 「Tech Soft 3D | Building Leading Engineering Applications with ... — Tech Soft 3D | Building Leading Engineering Applications with ... TechSoft3D https://www.techsoft3d.com」（https://www.techsoft3d.com/・3回目）
-  - 「Tech Soft 3D 2026 Company Profile - PitchBook — Tech Soft 3D 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/124476-04・3回目）
-  - 「Tech Soft 3D Wrapped 2025: Our Year in Numbers — Tech Soft 3D Wrapped 2025: Our Year in Numbers TechSoft3D https://www.techsoft3d.com > blog」（https://www.techsoft3d.com/resources/blog/tech-soft-3d-wrapped-2025-our-year-in-numbers/・3回目）
-  - 「Tech Soft 3D - Crunchbase Company Profile & Funding — Tech Soft 3D - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > tech-s...」（https://www.crunchbase.com/organization/tech-soft-3d・3回目）
-  - 「Tech Soft 3D Announces Significant Investment From Global ... — Tech Soft 3D Announces Significant Investment From Global ... newswire.com https://www.newswire.com > news > t...」（https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832・3回目）
-  - 「Tech Soft 3D Completes Acquisition of Theorem Solutions — Tech Soft 3D Completes Acquisition of Theorem Solutions Business Wire https://www.businesswire.com > home」（https://www.businesswire.com/news/home/20240604961979/en/Tech-Soft-3D-Completes-Acquisition-of-Theorem-Solutions・3回目）
-  - 「Tech Soft 3D Product Consolidation FAQs — Tech Soft 3D Product Consolidation FAQs TechSoft3D https://www.techsoft3d.com > blog」（https://www.techsoft3d.com/resources/blog/tech-soft-3d-product-consolidation-faqs/・3回目）
-- 設立：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部36頁・検索11回）
-- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部36頁・検索11回）
-- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部36頁・検索11回）
-- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部36頁・検索11回）
-- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部36頁・検索11回）
-
-## nTop
-- 公式URL：https://www.ntop.com（given）
-- 設立：2005年2月（https://evort.jp/presenters/t-sol/ntop・3回目）
-- 従業員数：119（https://getlatka.com/companies/ntop.com・3回目）
-- 所在地：160-0023 東京都新宿区西新宿6-6-3 新宿国際ビルディング新館3F（https://evort.jp/presenters/t-sol/ntop・3回目）
-- 売上高：EBITDA Last FY LTM 2027E Last FY LTM 2027E（https://multiples.vc/private-comps/ntopology・3回目）
-- 黒字・収益性：
-  - 「Education and No-Profit」（https://www.ntop.org/about-us/the-company/・3回目）
-  - 「Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.」（https://getlatka.com/companies/ntop.com・3回目）
-  - 「Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.」（https://multiples.vc/private-comps/ntopology・3回目）
-  - 「EBITDA」（https://multiples.vc/private-comps/ntopology・3回目）
-  - 「EV/EBITDA」（https://multiples.vc/private-comps/ntopology・3回目）
-  - 「3D Systems donates MultiJet 3D printer to nonprofit for production of customised dentures」（https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/・3回目）
-  - 「Private label mistakes to avoid often centre around poor financial planning. Many entrepreneurs focus only on manufacturing costs whilst ignoring dozens of other expenses that determine true profitability.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-- 売上：
-  - 「SVP, Sales and Customer Success」（https://www.ntop.com/about/・1回目）
-  - 「Chief Revenue Officer」（https://www.ntop.com/about/・1回目）
-  - 「This staged approach made it possible to explore broadly without using the highest analysis fidelity everywhere. It also revealed an important lesson: a coarse mean value can rank a population efficiently, but it cannot fully characterize narrow signature peaks. The final validation therefore mattered just as much as the initial screening.」（https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/・1回目）
-  - 「This study established the pattern that shaped the rest of my RCS work: generate broadly, reject invalid configurations before expensive analysis, screen the valid population efficiently, and reserve greater fidelity for the best candidates. I then carried that architecture forward into a more complex aircraft model.」（https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/・1回目）
-  - 「We've learned, and I think a lot is down to using nTop, that we can print the entire drone without an underlying carrying structure. And that's kind of revolutionary.」（https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/・1回目）
-  - 「nTop’s ability to create reliable, complex geometries efficiently allowed RICOH to develop and evaluate several structures for the camera cover before arriving at an optimal solution. The resulting design met their thermal management requirements and demonstrated the capabilities of RICOH's aluminum binder jetting technology.」（https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/・1回目）
-  - 「nTop Revenue 2024: $17.9M Est.」（https://getlatka.com/companies/ntop.com・3回目）
-  - 「revenue」（https://getlatka.com/companies/ntop.com・3回目）
-  - 「Annual revenue」（https://getlatka.com/companies/ntop.com・3回目）
-  - 「Revenue」（https://getlatka.com/companies/ntop.com・3回目）
-  - 「nTop revenue」（https://getlatka.com/companies/ntop.com・3回目）
-  - 「nTop has not published its revenue. GetLatka estimates it at about $17.9M a year (June 2024).」（https://getlatka.com/companies/ntop.com・3回目）
-- 資金調達：
-  - 「Every geometry variant flows automatically into analysis, using your solvers of choice or Physics AI, so the full design-to-evaluation pipeline runs lights-out.」（https://www.ntop.com/・1回目）
-  - 「Capture design logic once and redeploy it across variants, missions, and programs, cutting engineering investment on every one that follows.」（https://www.ntop.com/・1回目）
-  - 「in Funding」（https://www.ntop.com/about/・1回目）
-  - 「Our Investors」（https://www.ntop.com/about/・1回目）
-  - 「We're backed by leading investors across aerospace, defense, and deep including:」（https://www.ntop.com/about/・1回目）
-  - 「in Funding」（https://www.ntop.com/careers/・1回目）
-  - 「We will also cover nTop’s native meshless flow analysis capabilities for rapid external aerodynamics evaluation, as well as conjugate heat transfer (CHT) analysis for thermal systems.」（https://www.ntop.com/resources/webinars/ntop-for-student-design-teams/・1回目）
-  - 「Using simulation data, Lockheed engineers trained neural network and FNO models capable of both scalar and full-field predictions. These models provided high accuracy with millisecond evaluation times ideal for optimization.」（https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/・1回目）
-  - 「Trusted by 45,000+ founders, operators, and investors.」（https://getlatka.com/companies/ntop.com・3回目）
-  - 「nTopology Valuation, Funding & Investors | Multiples」（https://multiples.vc/private-comps/ntopology・3回目）
-  - 「Valuation, Funding & Investors」（https://multiples.vc/private-comps/ntopology・3回目）
-  - 「Last nTopology valuation」（https://multiples.vc/private-comps/ntopology・3回目）
-- 存続：
-  - 「Offices closed for the winter holiday」（https://www.ntop.com/careers/・1回目）
-  - 「Benchmark 350K+ Funding Rounds and Disclosed VC Valuation Multiples」（https://multiples.vc/private-comps/ntopology・3回目）
-  - 「Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.」（https://multiples.vc/private-comps/ntopology・3回目）
-  - 「Cloudfluid, a specialist in computational fluid dynamics (CFD) software, has been acquired by nTop, in a move it describes as revolutionising how engineers design high-performance products.」（https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/・3回目）
-  - 「nTop announces acquisition of computational fluid dynamics company cloudfluid」（https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/・3回目）
-  - 「has acquired computational fluid dynamics company」（https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/・3回目）
-  - 「. nTop has now moved to integrate the entire cloudfluid business into its operations to further improve rapid and dynamic product development. Financial terms of the transaction have not been disclosed.」（https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/・3回目）
-- ホワイトラベル明言：
-  - 「Top 10 Mistakes to Avoid When Starting Out with Private Labelling」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「Private labelling mistakes can make or break your entrepreneurial journey before it even begins. Private labelling involves partnering with manufacturers to sell products under your own brand name, offering a faster route to market than developing products from scratch.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「However, many newcomers fall into costly traps that could have been easily avoided. Understanding these common pitfalls is essential for anyone starting out in private labelling, as even small oversights can lead to inventory disasters, legal issues, or brand reputation damage.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「Successful private labelling requires 3–7 months of research to validate demand and competition.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「Marketing consistency and early customer feedback will convert your launch into scalable private label brand.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「You have found what seems like the perfect product idea, but excitement clouds judgment. Many entrepreneurs jump straight to manufacturing without understanding their market, competition, or customer needs. This represents one of the most common private label mistakes that destroys businesses before they even launch.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「The most successful private label brands solve real problems, not imagined ones. Talk to your target customers before you talk to manufacturers.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「The cheapest manufacturer often becomes the most expensive mistake. Low prices usually signal compromised quality, unreliable delivery, or hidden costs that emerge later. This is amongst the top private label mistakes to avoid when building your brand.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「Poor timeline planning ranks amongst the most costly common private label mistakes entrepreneurs make.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「Manufacturing minimums exist for good reasons, such as economies of scale, setup costs, and quality consistency. Many entrepreneurs aren’t prepared for the financial commitment required, making this one of the critical private label mistakes to avoid from day one.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「Not all manufacturing is equal. Without understanding quality standards and testing procedures, you risk receiving substandard products that damage your brand permanently. Quality negligence causes direct damage to brand reputation.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-  - 「Private label mistakes to avoid often centre around poor financial planning. Many entrepreneurs focus only on manufacturing costs whilst ignoring dozens of other expenses that determine true profitability.」（https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/・3回目）
-- OEM・組込み：
-  - 「nTop Drives Rapid UAV Innovation」（https://www.ntop.com/resources/blog/・1回目）
-  - 「Rapidly Building a Parametric Aircraft Model」（https://www.ntop.com/resources/blog/・1回目）
-  - 「Lockheed Martin accelerates design with AI and embedded simulation」（https://www.ntop.com/resources/case-studies/・1回目）
-  - 「What all of these have in common is that they need nTop running, and that's what the engine model provides. The nTop GUI is one way to drive it, and the command line interface, a notebook authoring API (currently in development), and agents are others. A team licenses the engines it needs and puts them to work however its programs demand.」（https://www.ntop.com/resources/blog/ntop-engines-orchestrate/・1回目）
-  - 「nTop Drives Rapid UAV Innovation」（https://www.ntop.com/resources/blog/ntop-engines-orchestrate/・1回目）
-  - 「We will also cover nTop’s native meshless flow analysis capabilities for rapid external aerodynamics evaluation, as well as conjugate heat transfer (CHT) analysis for thermal systems.」（https://www.ntop.com/resources/webinars/ntop-for-student-design-teams/・1回目）
-  - 「nTop Drives Rapid UAV Innovation」（https://www.ntop.com/resources/blog/closing-the-loop-between-implicit-geometry-and-flight-physics/・1回目）
-  - 「nTop Drives Rapid UAV Innovation • nTop」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
-  - 「nTop Drives Rapid UAV Innovation」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
-  - 「Rapid Prototyping Case Study」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
-  - 「Rapid Prototyping」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
-  - 「We went through a rapid build-and-test pipeline that proved how fast computational workflows facilitate speedy production. The ultimate payoff was at the airfield where we determined how well our digital models could actually fly, and pinpointed key areas for design iteration.」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
-- 再販制度：
-  - 「Parametric models that never break, so you can explore thousands of design variants in parallel.」（https://www.ntop.com/・1回目）
-  - 「Change input parameters to generate new geometric variants within your design space, without breaking the model or rebuilding it by hand.」（https://www.ntop.com/・1回目）
-  - 「Every geometry variant flows automatically into analysis, using your solvers of choice or Physics AI, so the full design-to-evaluation pipeline runs lights-out.」（https://www.ntop.com/・1回目）
-  - 「Capture design logic once and redeploy it across variants, missions, and programs, cutting engineering investment on every one that follows.」（https://www.ntop.com/・1回目）
-  - 「nTop changes how engineering gets done. Our technology collapses months of iteration into hours, letting teams explore thousands of variants instead of settling for the first option.」（https://www.ntop.com/about/・1回目）
-  - 「nTop's geometry stays robust under extreme parametric variation, so the model keeps up without a person driving every change by hand.」（https://www.ntop.com/about/・1回目）
-  - 「We believe that our team members around the world should enjoy similar perks and benefits as our US employees — no matter where they are located. In addition to a competitive salary, a fantastic vacation plan, and home office and professional reimbursements, we offer benefits to our international employees that vary by country but match the spirit of the benefits our US employees receive.」（https://www.ntop.com/careers/・1回目）
-  - 「Run complete multi-objective trade studies, from parametric geometry through multi-physics results, by connecting nTop's watertight variant generation directly to Ansys solvers and optimization tools.」（https://www.ntop.com/partners/・1回目）
-  - 「Explore thousands of design variants in real time by connecting nTop's parametric geometry directly to PhysicsX's physics AI surrogate models, trained and validated inside a single pipeline.」（https://www.ntop.com/partners/・1回目）
-  - 「Move hundreds of design variants generated in nTop directly into Flexcompute's simulation workflow, compressing requirements-driven design cycles from months to weeks.」（https://www.ntop.com/partners/・1回目）
-  - 「Each machine runs one engine, so a cluster with 20 engines works through 20 variants at a time instead of one. A design of experiments on an airframe can cover the parameter range at the resolution the problem calls for. When a payload or thermal requirement changes late in a program, the team can rerun the whole study rather than a hand-picked subset.」（https://www.ntop.com/resources/blog/ntop-engines-orchestrate/・1回目）
-  - 「The work happens on the cluster, so an engineer's workstation stays free for the next problem. Results come back organized by variant, with the inputs, outputs, and logs for each, so a failed or surprising case is easy to trace.」（https://www.ntop.com/resources/blog/ntop-engines-orchestrate/・1回目）
-- 日本対応：
-  - 「Mountain View, Andover, Washington D.C. (USA), Tokyo (Japan), Seoul (South Korea) and São Paulo」（https://www.ntop.org/about-us/partners-and-resellers/・3回目）
-  - 「Global Distributors」（https://www.ntop.org/about-us/resellers/・3回目）
-  - 「. (Japan)」（https://www.ntop.org/about-us/resellers/・3回目）
-- 顧客：
-  - 「Customers」（https://www.ntop.com/resources/blog/・1回目）
-  - 「Case Study Index • nTop」（https://www.ntop.com/resources/case-studies/・1回目）
-  - 「Customers」（https://www.ntop.com/resources/case-studies/・1回目）
-  - 「Featured Case Study」（https://www.ntop.com/resources/case-studies/・1回目）
-  - 「case Study」（https://www.ntop.com/resources/case-studies/・1回目）
-  - 「Customers using nTop」（https://www.ntop.com/about/・1回目）
-  - 「Customers using nTop」（https://www.ntop.com/careers/・1回目）
-  - 「Rapid Prototyping Case Study」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
-  - 「Case Study」（https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/・1回目）
-  - 「case Study」（https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/・1回目）
-  - 「Case Study」（https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/・1回目）
-  - 「case Study」（https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/・1回目）
-- 検索結果の抜粋：
-  - 「nTop Secures $65M in Series D Funding — nTop Secures $65M in Series D Funding nTop https://www.ntop.com > blog > ntopo...」（https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/・3回目）
-  - 「The Company - Ntop — The Company - Ntop ntop.org https://www.ntop.org > the-company」（https://www.ntop.org/about-us/the-company/・3回目）
-  - 「nTop - 2026 Company Profile , Team, Funding & Competitors — nTop - 2026 Company Profile , Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU・3回目）
-  - 「nTop Revenue 2024: $17.9M Est. - GetLatka — nTop Revenue 2024: $17.9M Est. - GetLatka GetLatka https://getlatka.com > companies > ntop」（https://getlatka.com/companies/ntop.com・3回目）
-  - 「nTop - Overview, News & Similar companies | ZoomInfo.com — nTop - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > ntopolo...」（https://www.zoominfo.com/c/ntopology-inc/420972350・3回目）
-  - 「nTopology Valuation, Funding & Investors - Multiples.vc — nTopology Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies」（https://multiples.vc/private-comps/ntopology・3回目）
-  - 「nTop - 2026 Company Profile, Team, Funding & Competitors — nTop - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU・3回目）
-  - 「Ntop - Crunchbase Company Profile & Funding — Ntop - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > ntop-1...」（https://www.crunchbase.com/organization/ntop-1d38・3回目）
-  - 「nTopology Raises $65M for its Next Generation Engineering ... — nTopology Raises $65M for its Next Generation Engineering ... AlleyWatch https://www.alleywatch.com > 2021/11」（https://www.alleywatch.com/2021/11/ntopology-engineering-design-software-advanced-manufacturing-bradley-rothenberg/・3回目）
-  - 「nTop Acquires cloudfluid to Advance the Design‑to ... — nTop Acquires cloudfluid to Advance the Design‑to ... nTop https://www.ntop.com > blog > ntop-...」（https://www.ntop.com/resources/blog/ntop-acquires-cloudfluid-to-advance-computational-design/・3回目）
-  - 「nTop acquires Cloudfluid GPU-native CFD software - develop3d — nTop acquires Cloudfluid GPU-native CFD software - develop3d develop3d https://develop3d.com > cad > ntop-a...」（https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/・3回目）
-  - 「nTop announces acquisition of computational fluid dynamics ... — nTop announces acquisition of computational fluid dynamics ... TCT Magazine https://www.tctmagazine.com > ntop-...」（https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/・3回目）
-- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部39頁・検索11回）
-
-## simus systems
-- 公式URL：https://www.simus-systems.com（given）
-- 黒字・収益性：
-  - 「So begleiten wir Unternehmen auf dem Weg zu einer profitableren, nachhaltigeren und damit zukunftsfähigen Organisation.」（https://www.simus-systems.com/・1回目）
-  - 「„Das frühe Kostenwissen in der Konzeptphase bringt bei neuen Projekten ein halbes Jahr Zeitgewinn.」（https://www.simus-systems.com/・1回目）
-  - 「Profitieren Sie von kompaktem Expertenwissen, Best Practices aus Kundenprojekten und konkreten Tipps für Ihre tägliche Arbeit.」（https://www.simus-systems.com/whitepaper/・1回目）
-  - 「Digitalisieren Sie Ihren Angebotsprozess und gewinnen Sie wertvolle Zeit im Wettbewerb」（https://www.simus-systems.com/costing24/white-label-auftragsfertiger/・1回目）
-  - 「Daten der Produktentwicklung gewinnbringend einsetzen (01.07.2022)」（https://www.simus-systems.com/referenzen/pressestimmen/・1回目）
-  - 「Sehen Sie anhand konkreter Anwendungsbeispiele, wie Unternehmen bereits von strukturierten Daten profitieren.」（https://www.simus-systems.com/whitepaper-fit-for-ai-ki-erfolg-maschinenbau/・1回目）
-  - 「Profitieren Sie von kompaktem Expertenwissen, Best Practices aus Kundenprojekten und konkreten Tipps für Ihre tägliche Arbeit.」（https://www.simus-systems.com/whitepaper/?s=・1回目）
-  - 「20 Jahre simus systems: Entwicklungsdaten auf gewinnbringenden Einsatz trimmen」（https://www.simus-systems.com/aktuelles/presse/page/2/・1回目）
-  - 「Gewinn」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
-  - 「Gewinn CAGR」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
-  - 「Gewinn-Angaben sind bei dieser Firma nur für Kunden」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
-- 売上：
-  - 「Karriere」（https://www.simus-systems.com/・1回目）
-  - 「Karriere」（https://www.simus-systems.com/whitepaper/・1回目）
-  - 「Karriere」（https://www.simus-systems.com/aktuelles/newsletter/・1回目）
-  - 「Karriere」（https://www.simus-systems.com/costing24/white-label-auftragsfertiger/・1回目）
-  - 「Karriere」（https://www.simus-systems.com/referenzen/pressestimmen/・1回目）
-  - 「Karriere」（https://www.simus-systems.com/referenzen/partner/・1回目）
-  - 「Karriere」（https://www.simus-systems.com/aktuelles/presse/・1回目）
-  - 「Karriere」（https://www.simus-systems.com/unternehmen/impressum/・1回目）
-  - 「USt-IdNr. gemäß § 27a Umsatzsteuergesetz: DE223057120」（https://www.simus-systems.com/unternehmen/impressum/・1回目）
-  - 「Karriere」（https://www.simus-systems.com/whitepaper-fit-for-ai-ki-erfolg-maschinenbau/・1回目）
-  - 「Karriere」（https://www.simus-systems.com/whitepaper/?s=・1回目）
-  - 「Boost your sales process with our quick ‘n easy cost check for turned, milled and sheet metal parts.」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-- 資金調達：
-  - 「Request an evaluation」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「Request an Evaluation」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「Gesellschafter und Investoren」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
-- 存続：
-  - 「Coreform was poised to make a real impact on the CAE world. By integrating specific Spatial SDKs customized to their needs, Coreform closed the circle on its revolutionary software.」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「Liquidation」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
-  - 「Aktualisierung Insolvenzverfahren」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
-  - 「Eröffnung Insolvenzverfahren」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
-  - 「Merger/Acquisition」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
-- ホワイトラベル明言：
-  - 「costing24 white label for contract manufacturer」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「Prototek IQ, empowered by Spatial components allow instant quoting for 3D models. It saves customers’ time, alleviates administrative tasks, and opens new opportunities in digital manufacturing.」（https://www.spatial.com/case-studies/simus-systems・3回目）
-- OEM・組込み：
-  - 「– im Unterschied zu Schätzungen mit Stift und Papier oder Kalkulationen in Excel, die oft einen erheblichen Aufwand an Datenrecherche und Rückfragen verursachen.」（https://www.simus-systems.com/costing24/white-label-auftragsfertiger/・1回目）
-  - 「Einbindung per Schnittstelle (API)」（https://www.simus-systems.com/costing24/white-label-auftragsfertiger/・1回目）
-  - 「Embedded in your website!」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「Embedding as a service in the own website」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「Why you should embed costing24 in your website」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「Embedding in iFrame」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「Embedding by iFrame is as easy as integrating a YouTube video on your website: To integrate a short HTML code on your website is enough to “pull in“ the application. The costing24 application remains entirely on our server. There is no exchange between your website and server when performing calculations for a part and there is no additional work and only little cost for you.」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「Minimal effort – as easy as embedding a video」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「Use via Interface (API)」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「Discover how InnovMetric streamlined CAD model-based dimensional inspection for 26,000 customers with Spatial's 3D InterOp SDK.」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「Discover how Simus Systems tackled their engineering challenges with Spatial's SDKs. Download the complete case study to explore the approach, solution, and outcomes.」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「See how our industry-leading SDKs have helped countless businesses across several verticals. Browse」（https://www.spatial.com/case-studies/simus-systems・3回目）
-- 再販制度：
-  - 「simus systems unterstützt Forschungsprojekt zur Fertigungsprogrammvarianz (04.06.2024)」（https://www.simus-systems.com/referenzen/pressestimmen/・1回目）
-  - 「simus systems fördert Forschungsprojekt zur Variantenreduzierung (04.06.2024)」（https://www.simus-systems.com/referenzen/pressestimmen/・1回目）
-  - 「Konstrukteure stehen unter Druck: Hersteller müssen individuellere Produkte mit immer mehr Varianten in kürzerer Zeit zu niedrigeren Kosten entwickeln. Doch einen guten Teil ihrer Arbeitszeit verwenden sie auf die Suche nach Daten, Bauteilen und Normalien sowie die Pflege von Stammdaten. Die patentierte Software classmate CAD von simus systems entlastet wirkungsvoll davon.」（https://www.simus-systems.com/aktuelles/presse/・1回目）
-  - 「Konstrukteure stehen unter Druck: Hersteller müssen individuellere Produkte mit immer mehr Varianten in kürzerer Zeit zu niedrigeren Kosten entwickeln. Doch einen guten Teil ihrer Arbeitszeit verwenden sie auf die Suche nach Daten, Bauteilen und Normalien sowie die Pflege von Stammdaten. Die patentierte Software classmate CAD von simus systems entlastet wirkungsvoll davon.」（https://www.simus-systems.com/aktuelles/presse/?s=・1回目）
-  - 「distributors」（https://www.siemens.com/en-us/ecosystem/simus-systems-gmbh/・3回目）
-  - 「Förderung (174.213 €): Gestaltung innovativer Baukasten- und Wertschöpfungsstrukturen (GiBWert), Teilprojekt: Varianzsensitivität, konstituierende Produktmerkmale und softwaretechnische Umsetzung」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
-- 日本対応：
-  - 「distributors」（https://www.siemens.com/en-us/ecosystem/simus-systems-gmbh/・3回目）
-- 顧客：
-  - 「Price quotes in seconds for satisfied customers」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「With a simple integration of the powerful online calculation costing24 into your own website, your customers will immediately receive a technically sound price information for their inquiry. Your own technical requirements, parameters and surcharges can be taken into account. The result of the calculation can be transferred directly into a shopping cart.」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「Providing instant online quotes helps shops accommodate their customers’ changing needs. Reduce your request for quote (RFQ) response time to minutes or offer online quotes and orders 24/7 on your site with costing24 machine shop quoting software.」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
-  - 「More than 250 customers」（https://www.simus-systems.com/en/white-paper-fit-for-ai-mechanical-engineering/・1回目）
-  - 「" ‘Can‘t be done’ doesn’t exist. In developing our software, we put our customers at the heart of everything we do."」（https://www.simus-systems.com/en/company/about-us/・1回目）
-  - 「Simus Case Study | Spatial」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「InnovMetric Case Study」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「Case Study / Metrology, Manufacturing」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「Discover how InnovMetric streamlined CAD model-based dimensional inspection for 26,000 customers with Spatial's 3D InterOp SDK.」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「Simus Systems Case Study」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「Download the full case study」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「Discover how Simus Systems tackled their engineering challenges with Spatial's SDKs. Download the complete case study to explore the approach, solution, and outcomes.」（https://www.spatial.com/case-studies/simus-systems・3回目）
-- 検索結果の抜粋：
-  - 「About Us - Simus Systems — About Us - Simus Systems simus systems GmbH https://www.simus-systems.com > abo...」（https://www.simus-systems.com/en/company/about-us/・3回目）
-  - 「Simus Systems Case Study - Spatial Corp — Simus Systems Case Study - Spatial Corp Spatial Corp https://www.spatial.com > case-studies」（https://www.spatial.com/case-studies/simus-systems・3回目）
-  - 「Success Stories and User Reports simus systems — Success Stories and User Reports simus systems simus systems GmbH https://www.simus-systems.com > suc...」（https://www.simus-systems.com/en/references/success-stories/・3回目）
-  - 「simus systems • Stammdaten und CAD-Daten für die ... — simus systems • Stammdaten und CAD-Daten für die ... LinkedIn https://de.linkedin.com > company」（https://de.linkedin.com/company/simus-systems-gmbh・3回目）
-  - 「simus systems GmbH | Siemens — simus systems GmbH | Siemens Siemens https://www.siemens.com > ecosystem」（https://www.siemens.com/en-us/ecosystem/simus-systems-gmbh/・3回目）
-  - 「simus systems - Adding structure to your data — simus systems - Adding structure to your data simus systems GmbH https://www.simus-systems.com > ...」（https://www.simus-systems.com/en/・3回目）
-  - 「costing24 white label for contract manufacturer - Simus Systems — costing24 white label for contract manufacturer - Simus Systems simus systems GmbH https://www.simus-systems.com > whi...」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・3回目）
-  - 「Partners - Simus Systems — Partners - Simus Systems simus systems GmbH https://www.simus-systems.com > part...」（https://www.simus-systems.com/en/references/partners/・3回目）
-  - 「simus systems GmbH, Karlsruhe - North Data — simus systems GmbH, Karlsruhe - North Data North Data https://www.northdata.de > simus syst...」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
-  - 「Simus Systems 社 事例紹介｜スペイシャル - Spatial Corp — Simus Systems 社 事例紹介｜スペイシャル - Spatial Corp Spatial Corp https://www.spatial.com > case-studies > simus-systems」（https://www.spatial.com/ja/case-studies/simus-systems・3回目）
-  - 「simus classmate Software Suite - Design News Direct — simus classmate Software Suite - Design News Direct Design News Direct https://directory.designnews.com > si...」（https://directory.designnews.com/simus-classmate-software-suite-prod1298026.html・3回目）
-- 設立：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部32頁・検索11回）
-- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部32頁・検索11回）
-- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部32頁・検索11回）
-- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部32頁・検索11回）
-- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部32頁・検索11回）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）

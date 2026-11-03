@@ -1,0 +1,635 @@
+{
+ "name": "Enektri",
+ "aliases": [
+  "enektri"
+ ],
+ "context": "定置用蓄電池 制御ソフト",
+ "researched_at": "2026-11-03T11:05:39.897535+00:00",
+ "official_url": "https://enektri.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "ホワイトラベル明言": [
+   {
+    "quote": "Powered by ENEKTRI",
+    "url": "https://enektri.com/",
+    "pass": 1
+   },
+   {
+    "quote": "(white-label) за всичките ви клиенти и собствена EMS услуга с арбитраж и цялостна поддръжка.",
+    "url": "https://enektri.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Софтуерни / white-label партньори",
+    "url": "https://enektri.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "(white-label) ги следите всичките от едно място и участвате в приходите.",
+    "url": "https://enektri.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "EMS / white-label възможности",
+    "url": "https://enektri.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by ENEKTRI",
+    "url": "https://enektri.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "ENEKTRI Cloud White-Label - вашата марка, нашата технология | ENEKTRI",
+    "url": "https://enektri.com/enektri-cloud-white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "ENEKTRI Cloud · White-Label · За инсталаторски фирми",
+    "url": "https://enektri.com/enektri-cloud-white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "iOS и Android приложение с вашата марка - като част от white-label пакета.",
+    "url": "https://enektri.com/enektri-cloud-white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label до край",
+    "url": "https://enektri.com/enektri-cloud-white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "За фирми, които стартират с white-label услугата.",
+    "url": "https://enektri.com/enektri-cloud-white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label",
+    "url": "https://enektri.com/enektri-cloud-white-label/",
+    "pass": 1
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "Използване на батерии от OEM производители",
+    "url": "https://enektri.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Модули от водещи OEM производители с доказана надеждност.",
+    "url": "https://enektri.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Собствено производство с модули от водещи OEM производители.",
+    "url": "https://enektri.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Собствен BMS · OEM клетки",
+    "url": "https://enektri.com/about-us/",
+    "pass": 1
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Presales консултации по имейл и телефон",
+    "url": "https://enektri.com/partners/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About | ENEKTRI - Manufacturer of batteries for solar systems — About | ENEKTRI - Manufacturer of batteries for solar systems ENEKTRI https://enektri.com > about-us",
+    "url": "https://enektri.com/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "ENEKTRI Cloud White-Label - your brand, our technology — ENEKTRI Cloud White-Label - your brand, our technology ENEKTRI https://enektri.com > enektri-cloud-w...",
+    "url": "https://enektri.com/en/enektri-cloud-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner program for installers, EPCs and distributors - ENEKTRI — Partner program for installers, EPCs and distributors - ENEKTRI ENEKTRI https://enektri.com > Partners",
+    "url": "https://enektri.com/en/partners/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://enektri.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enektri.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enektri.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enektri.com/enektri-cloud-white-label/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://enektri.com/assets/about/lifecycle-diagram.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.trendmicro.com/content/dam/trendmicro/global/ja/about/investor-relations/IR_FactSheet2025_J_final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.artiencegroup.com/ja/corporate/ir/stock-information/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ags.co.jp/ir/library/securities/report_20170810_1q.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.equinor.com/investors/our-shareholders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kone.com/global/en/investors/share-and-shareholders/major-shareholders.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.storaenso.com/en/investors/shares-and-shareholders/shareholders-and-ownership-changes",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.symrise.com/investors/share-and-shareholder-structure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanese.stackexchange.com/questions/6754/whats-the-difference-between-%E5%89%B5%E5%A7%8B%E8%80%85-%E5%89%B5%E6%A5%AD%E8%80%85-%E5%89%B5%E8%A8%AD%E8%80%85-and-%E5%89%B5%E7%AB%8B%E8%80%85",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/64999/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=61tn_16Vkso",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://investor.centuri.com/news/news-details/2026/Centuri-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Results-Achieves-Record-Annual-Revenue-of-3-Billion/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macrotrends.net/stocks/charts/CTRI/centuri-holdings/revenue",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/business/retail-consumer/ikea-stores-owner-ingkas-annual-operating-profit-rises-9-2022-11-25/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.eon.com/en/investor-relations/financial-publications/annual-report.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.adentragroup.com/investors/financials/financial-reporting/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engie.com/app/uploads/2026/03/2025-Management-report-and-annual-consolidated-financial-statements.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://investor.centuri.com/news/news-details/2025/Centuri-Reports-Fourth-Quarter-and-Fiscal-Year-2024-Results-Introduces-2025-Outlook/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pulse2.com/kestra-25-million-raised-for-open-source-orchestration-platform-expansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/entri/__18pycCpTbPNJtn9TvvcmjK-pO3EV9w_arL2-tVrqAb0/funding-and-investors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dealroom.co/news/150046-off-grid-ai-power-startup-raises-120m-series-a-led-by-spark-capital/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eit.europa.eu/news-events/news/enline-secures-eur-35-million-funding-round",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teneo.com/service/financial-advisory/insolvency-bankruptcy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veritaglobal.net/cyxtera",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.insolvency.gov.cy/en/ekkatharisi-eterion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.altinn.no/en/start-and-run-business/deregistration-closure-bankruptcyliquidation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adtribe.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infiterra.com/white-label-cloud-marketplace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enity.io/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eniris.com/services/whitelabeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Private_label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indeed.com/career-advice/career-development/private-label-branding",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gtmnow.com/enterprise-oem-software-licensing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xrite.com/page/oem-licensing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ivanti.com/partners/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kentik.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extremenetworks.com/partners/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncrvoyix.com/about/become-a-partner?srsltid=AYCX9vJePFAdfATEpXMHXfDDlqRwUMwh_8EgghMpB66Lii4jwEysso_M",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter.ikea.com/en/performance/download-financial-reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investor.nexteraenergy.com/reports-and-filings/annual-reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eon.com/en/investor-relations/financial-publications/annual-report.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.entergy.com/investors/financial-results-and-publications/annual-reports/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/ikimashoujapanandworld/videos/%F0%9D%97%9C%F0%9D%97%B8%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%BC%F0%9D%98%82-%F0%9D%97%98%F0%9D%98%85%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A6%F0%9D%97%BD%F0%9D%97%B6%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%94%F0%9D%98%84%F0%9D%97%AE-%F0%9D%97%A2%F0%9D%97%B1%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B6-%F0%9D%97%B6%F0%9D%97%BB-%F0%9D%97%9D%F0%9D%97%AE%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%BB-one-of-japans-most-energet/4521660734823382/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.abercrombiekent.com/journeys/small-group-journeys/japan-a-cultural-journey",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kestria.com/members/kestria-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DNnO4oCxXU1/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/dealroom-co",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/crunchbase",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Enektri 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.trendmicro.com/content/dam/trendmicro/global/ja/about/investor-relations/IR_FactSheet2025_J_final.pdf",
+    "https://www.artiencegroup.com/ja/corporate/ir/stock-information/overview.html",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.ags.co.jp/ir/library/securities/report_20170810_1q.pdf",
+    "https://www.nid.co.jp/media/2025/02/56kabutsuu.pdf",
+    "https://entrenet.jp/dokuritsu/Y1100/KW043-KW077/O02/",
+    "http://s20.si0.kabu.co.jp/Members/TradeTool/investment_info/?trid=600&trric=2207",
+    "https://jp.investing.com/news/pro/article-1694946",
+    "https://fundom.jp/news/ETCFw_Pm",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "Enektri shareholders ownership investors parent company",
+   "results": [
+    "https://www.equinor.com/investors/our-shareholders",
+    "https://www.kone.com/global/en/investors/share-and-shareholders/major-shareholders.html",
+    "https://www.storaenso.com/en/investors/shares-and-shareholders/shareholders-and-ownership-changes",
+    "https://www.symrise.com/investors/share-and-shareholder-structure/",
+    "https://www.novonordisk.com/investors/stock-information/share-and-ownership-structure.html",
+    "https://www.eni.com/en-IT/governance/shareholding-structure.html",
+    "https://finance.yahoo.com/news/adentra-inc-tse-aden-largest-121001404.html",
+    "https://equiniti.com/us/",
+    "https://www.omv.com/en/investors/omv-on-the-capital-markets/more-insights/shareholder-structure",
+    "https://companydata.com/company-ownership-lookup/"
+   ]
+  },
+  {
+   "query": "Enektri 設立 OR 創業 OR founded",
+   "results": [
+    "https://enektri.com/en/about-us/",
+    "https://japanese.stackexchange.com/questions/6754/whats-the-difference-between-%E5%89%B5%E5%A7%8B%E8%80%85-%E5%89%B5%E6%A5%AD%E8%80%85-%E5%89%B5%E8%A8%AD%E8%80%85-and-%E5%89%B5%E7%AB%8B%E8%80%85",
+    "https://eikaiwa.dmm.com/uknow/questions/64999/",
+    "https://www.youtube.com/watch?v=61tn_16Vkso",
+    "https://ejje.weblio.jp/content/%E5%89%B5%E6%A5%AD",
+    "https://www.rokutanjuku.com/sougyousya-eigo",
+    "https://motitown.com/vocabulary/ja/%E5%89%B5%E6%A5%AD%E8%80%85",
+    "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/5037/",
+    "https://engoo.jp/app/words/word/establish/zga0ELstQmCjlQAAAABhiw",
+    "https://www.founded.com/about/"
+   ]
+  },
+  {
+   "query": "Enektri revenue profitable",
+   "results": [
+    "https://enektri.com/en/enektri-cloud-white-label/",
+    "https://investor.centuri.com/news/news-details/2026/Centuri-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Results-Achieves-Record-Annual-Revenue-of-3-Billion/default.aspx",
+    "https://www.macrotrends.net/stocks/charts/CTRI/centuri-holdings/revenue",
+    "https://www.reuters.com/business/retail-consumer/ikea-stores-owner-ingkas-annual-operating-profit-rises-9-2022-11-25/",
+    "https://www.ingka.com/newsroom/ingka-group-prioritises-affordability-and-long-term-business-resilience-recording-eur-41-8-billion-in-revenue/",
+    "https://seekingalpha.com/article/4953575-centuri-revenue-is-surging-but-cash-flow-remains-the-test",
+    "https://www.morningstar.com/stocks/xnys/ctri/earnings",
+    "https://www.enefit.ee/en/-/uudised/eesti-energia-teenis-uheksa-kuuga-54-miljonit-eurot-puhaskasumit",
+    "https://www.inc.com/vikrantshaurya/3-revenue-streams-entrepreneurs-can-get-from-their-books/91262770",
+    "https://www.prnewswire.com/news-releases/grupo-elektra-announces-revenue-of-ps49-803-million-and-ebitda-of-ps6-619-million-in-the-first-quarter-of-2026--302754976.html"
+   ]
+  },
+  {
+   "query": "Enektri EBITDA net income annual report",
+   "results": [
+    "https://www.eon.com/en/investor-relations/financial-publications/annual-report.html",
+    "https://investors.adentragroup.com/investors/financials/financial-reporting/default.aspx",
+    "https://www.engie.com/app/uploads/2026/03/2025-Management-report-and-annual-consolidated-financial-statements.pdf",
+    "https://investor.centuri.com/news/news-details/2025/Centuri-Reports-Fourth-Quarter-and-Fiscal-Year-2024-Results-Introduces-2025-Outlook/default.aspx",
+    "https://ir.kinetik.com/financials/quarterly-results/default.aspx",
+    "https://www.sec.gov/Archives/edgar/data/1596783/000159678321000180/earningsreleaseex991-fy22x.htm",
+    "https://ir.nektar.com/financial-information",
+    "https://www.investor.nexteraenergy.com/~/media/Files/N/NEE-IR/2025%20Annual%20Report.pdf",
+    "https://www.investopedia.com/terms/e/ebitda.asp",
+    "https://s201.q4cdn.com/714390239/files/doc_financials/2025/ar/Annual-Report.pdf"
+   ]
+  },
+  {
+   "query": "Enektri funding raised",
+   "results": [
+    "https://pulse2.com/kestra-25-million-raised-for-open-source-orchestration-platform-expansion/",
+    "https://tracxn.com/d/companies/entri/__18pycCpTbPNJtn9TvvcmjK-pO3EV9w_arL2-tVrqAb0/funding-and-investors",
+    "https://dealroom.co/news/150046-off-grid-ai-power-startup-raises-120m-series-a-led-by-spark-capital/",
+    "https://www.eit.europa.eu/news-events/news/enline-secures-eur-35-million-funding-round",
+    "https://capturacorp.com/captura-raises-us21-5m-with-investments-from-maersk-eni-next-and-edp/",
+    "https://www.linkedin.com/posts/traded-venture-capital_traded-media-activity-7498511405185273856-IMQ0",
+    "https://www.instagram.com/p/DSdAv3dERBz/",
+    "https://www.dutchstartup.ai/en/news/dexter-energy-raises-23-million-to-expand-ai-platform-for-energy-trading",
+    "https://www.linkedin.com/posts/last-week-in-contech_this-week-in-startup-news-generative-design-activity-7409473217272197120-77IV",
+    "https://www.cbinsights.com/company/enektri"
+   ]
+  },
+  {
+   "query": "Enektri acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.teneo.com/service/financial-advisory/insolvency-bankruptcy/",
+    "https://www.veritaglobal.net/cyxtera",
+    "https://www.insolvency.gov.cy/en/ekkatharisi-eterion/",
+    "https://info.altinn.no/en/start-and-run-business/deregistration-closure-bankruptcyliquidation/",
+    "https://www.finma.ch/en/enforcement/recovery-und-resolution-n/publikationen/proceedings/",
+    "https://energynews.pro/en/enerparc-insolvency-more-than-100-inquiries-transaction-targeted-for-december",
+    "https://www.schoenherr.eu/content/acquiring-businesses-out-of-insolvency-across-cee-see-better-together",
+    "https://www.pwc.com/ca/en/services/insolvency-assignments/e-solutionsgroup.html",
+    "https://cirio.se/en/expertise/special-situations-services/restructuring-and-insolvency",
+    "https://cdncases.alixpartners.com/docs/default-source/insolvency-case-documents/planetenergy/bankruptcy-proceedings/report-to-creditors-on-preliminary-administration/pe---trustee's-preliminary-report---final.pdf?sfvrsn=9a39ef21_3"
+   ]
+  },
+  {
+   "query": "Enektri white label",
+   "results": [
+    "https://adtribe.com/white-label/",
+    "https://infiterra.com/white-label-cloud-marketplace/",
+    "https://enity.io/en/partners/our-whitelabel-solution/",
+    "https://eniris.com/services/whitelabeling",
+    "https://white-label.hanetf.com/",
+    "https://www.twentythree.com/webinars/white-label",
+    "https://www.creativemarketingincentives.biz/whitelabel",
+    "https://docs.ethena.fi/overview/ethena-whitelabel",
+    "https://aenfinite.com/agency/partner-with-us/white-label-services/",
+    "https://enektri.com/en/enektri-cloud-white-label/"
+   ]
+  },
+  {
+   "query": "Enektri rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://enektri.com/en/enektri-cloud-white-label/",
+    "https://enektri.com/en/partners/",
+    "https://en.wikipedia.org/wiki/Private_label",
+    "https://www.indeed.com/career-advice/career-development/private-label-branding",
+    "https://woosourcing.com/private-label-manufacturing-guide/",
+    "https://www.zoho.com/commerce/academy/private-label.html",
+    "https://nichedropshipping.com/create-your-private-label/",
+    "https://esellsphere.com/start/private-label-guide/",
+    "https://blog.hubspot.com/marketing/rebranding"
+   ]
+  },
+  {
+   "query": "Enektri OEM SDK licensing partners",
+   "results": [
+    "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "https://gtmnow.com/enterprise-oem-software-licensing/",
+    "https://www.xrite.com/page/oem-licensing",
+    "https://www.ivanti.com/partners/oem",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.genetec.com/legal/sdkterms",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://enektri.com/en/partners/",
+    "https://www.zinfi.com/glossary/what-is-an-oem-partner/"
+   ]
+  },
+  {
+   "query": "Enektri reseller partner program",
+   "results": [
+    "https://enektri.com/en/partners/",
+    "https://www.kentik.com/partners/",
+    "https://www.extremenetworks.com/partners/resellers",
+    "https://www.ncrvoyix.com/about/become-a-partner?srsltid=AYCX9vJePFAdfATEpXMHXfDDlqRwUMwh_8EgghMpB66Lii4jwEysso_M",
+    "https://www.nectari.com/channel-partner-program",
+    "https://www.egnyte.com/partners",
+    "https://chanimal.com/resources/channel-marketing/how-to-create-a-reseller-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.eleader.biz/partners/",
+    "https://enektri.com/en/enektri-cloud-white-label/"
+   ]
+  },
+  {
+   "query": "Enektri Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.inter.ikea.com/en/performance/download-financial-reports",
+    "https://www.investor.nexteraenergy.com/reports-and-filings/annual-reports",
+    "https://www.eon.com/en/investor-relations/financial-publications/annual-report.html",
+    "https://investors.entergy.com/investors/financial-results-and-publications/annual-reports/default.aspx",
+    "https://www.eni.com/en-IT/investors/our-reports.html",
+    "https://ir.nektar.com/financial-information",
+    "https://www.euronext.com/en/investor-relations/financial-information/financial-reports",
+    "https://www.andritz.com/group-en/investors/investors-downloads/financial-reports",
+    "https://ir.athene.com/financial-information/financial-results",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "Enektri Japan",
+   "results": [
+    "https://www.facebook.com/ikimashoujapanandworld/videos/%F0%9D%97%9C%F0%9D%97%B8%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%BC%F0%9D%98%82-%F0%9D%97%98%F0%9D%98%85%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A6%F0%9D%97%BD%F0%9D%97%B6%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%94%F0%9D%98%84%F0%9D%97%AE-%F0%9D%97%A2%F0%9D%97%B1%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B6-%F0%9D%97%B6%F0%9D%97%BB-%F0%9D%97%9D%F0%9D%97%AE%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%BB-one-of-japans-most-energet/4521660734823382/",
+    "https://www.abercrombiekent.com/journeys/small-group-journeys/japan-a-cultural-journey",
+    "https://kestria.com/members/kestria-japan/",
+    "https://www.instagram.com/reel/DNnO4oCxXU1/",
+    "https://en.japantravel.com/tokyo/koenji-awa-odori/3920",
+    "https://www.youtube.com/watch?v=Z4T_ZucWceo",
+    "https://www.enecho.meti.go.jp/en/",
+    "https://www.facebook.com/routineofjapan/posts/the-streets-of-koenji-tokyo-turned-into-a-spectacular-stage-as-thousands-of-danc/1029974556745222/",
+    "https://www.instagram.com/enterprise_japan/",
+    "https://en.wikipedia.org/wiki/Electricity_sector_in_Japan"
+   ]
+  },
+  {
+   "query": "Enektri employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/organization/dealroom-co",
+    "https://www.crunchbase.com/",
+    "https://dealroom.co/",
+    "https://www.owler.com/company/crunchbase",
+    "https://www.linkedin.com/posts/dealroom-co_where-do-ai-companies-rank-against-big-tech-activity-7317539243893944320-_ove",
+    "https://growjo.com/company/Dealroom.co",
+    "https://www.zoominfo.com/c/dealroom-inc/374690524",
+    "https://getlatka.com/companies/dealroom",
+    "https://www.crunchbase.com/organization/dealroom",
+    "https://dealroom.co/our-data/"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "設立": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "代表者": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "株主構成": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "資金調達": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "存続": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "再販制度": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "日本対応": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "顧客": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）"
+ }
+}

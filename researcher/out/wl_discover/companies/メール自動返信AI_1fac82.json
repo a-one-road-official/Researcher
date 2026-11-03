@@ -1,0 +1,348 @@
+{
+ "name": "メール自動返信AI",
+ "en": "AI email reply assistant",
+ "aliases": [
+  "AI email responder",
+  "automated email response AI"
+ ],
+ "context": "お問い合わせ対応",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:08:32.260801+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/automation/comments/1n6tgul/i_built_an_ai_email_agent_to_reply_to_customer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1lrikkc/i_built_a_free_ai_email_assistant_that/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://reply.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.instantly.ai/en/articles/11774076-ai-reply-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writemail.ai/ai-email-assistant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ProductivityApps/comments/1ggkrzv/built_a_solution_to_email_overload_an_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://stammer.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sitegpt.ai/tools/ai-email-response-generator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmelius.com/blog/best-ai-email-response-generators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/sb/app/rebrand-ai-logo-maker/id6737123019",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/Is-there-an-AI-tool-that-can-rebrand-a-logo-that-I-already-have-automatically",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.beyondkey.com/ai-email-assistant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aisdr.com/blog/best-ai-email-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ionos.com/momentum/ai-email-assistant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://replymyway.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxassist.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/Which-e-mail-marketing-company-provides-a-white-label-solution-and-a-technical-consultancy-and-support-service-for-re-sellers",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://reply.io/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.outreach.io/support/solutions/articles/159000425957-smart-email-assist-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agentmail.to/blog/info/blog/solution-recommendation/which-ai-email-api-has-the-best-inbound-reply-handling-and-two-way-messaging-capabilities-05ec81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.microsoft.com/en-us/microsoft-365-app-certification/outlook/kerna-ai-email-assistant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotomail.com/blog/ai-email-assistant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifourtechnolab.com/solutions/ai-email-assistant-for-outlook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stripo.email/blog/best-white-labeling-software-to-use/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/best-ai-white-label-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/best-white-label-ai-tools/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label AI email reply assistant",
+   "results": [
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "https://zapier.com/blog/best-ai-email-assistant/",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://www.reddit.com/r/automation/comments/1n6tgul/i_built_an_ai_email_agent_to_reply_to_customer/",
+    "https://reply.io/",
+    "https://www.linkedin.com/posts/whitelabel-ai-agency_the-owner-of-a-web-agency-we-work-with-doesnt-activity-7513480751548669952-HP99",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://www.usecarly.com/blog/white-label-ai-assistant-for-agencies/",
+    "https://whitelabelai.site/"
+   ]
+  },
+  {
+   "query": "AI email reply assistant white-label",
+   "results": [
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "https://zapier.com/blog/best-ai-email-assistant/",
+    "https://www.reddit.com/r/AI_Agents/comments/1lrikkc/i_built_a_free_ai_email_assistant_that/",
+    "https://reply.io/",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://www.youtube.com/watch?v=gzd1cmRCUI4&vl=ja",
+    "https://missiveapp.com/blog/ai-email-assistant",
+    "https://help.instantly.ai/en/articles/11774076-ai-reply-agent",
+    "https://writemail.ai/ai-email-assistant"
+   ]
+  },
+  {
+   "query": "best white label AI email reply assistant providers",
+   "results": [
+    "https://zapier.com/blog/best-ai-email-assistant/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://www.reddit.com/r/ProductivityApps/comments/1ggkrzv/built_a_solution_to_email_overload_an_ai/",
+    "https://missiveapp.com/blog/ai-email-assistant",
+    "https://stammer.ai/",
+    "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "https://www.trustfirms.com/best-whitelabel-ai-virtual-assistants",
+    "https://www.usecarly.com/blog/best-ai-email-assistants/"
+   ]
+  },
+  {
+   "query": "AI email reply assistant rebrand your logo own brand",
+   "results": [
+    "https://www.mailblaze.com/create/ai-features",
+    "https://sitegpt.ai/tools/ai-email-response-generator",
+    "https://gmelius.com/blog/best-ai-email-response-generators",
+    "https://apps.apple.com/sb/app/rebrand-ai-logo-maker/id6737123019",
+    "https://www.quora.com/Is-there-an-AI-tool-that-can-rebrand-a-logo-that-I-already-have-automatically",
+    "https://play.google.com/store/apps/details?id=hubx.logo.ai",
+    "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "https://planable.io/email-response-generator/",
+    "https://writemail.ai/tools/email-reply-generator",
+    "https://rebrand.com/ai/"
+   ]
+  },
+  {
+   "query": "AI email reply assistant private label OEM partner",
+   "results": [
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://www.beyondkey.com/ai-email-assistant",
+    "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "https://www.reddit.com/r/automation/comments/1n6tgul/i_built_an_ai_email_agent_to_reply_to_customer/",
+    "https://aisdr.com/blog/best-ai-email-assistant/",
+    "https://missiveapp.com/blog/ai-email-assistant",
+    "https://www.ionos.com/momentum/ai-email-assistant",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://writemail.ai/ai-email-assistant",
+    "https://replymyway.com/"
+   ]
+  },
+  {
+   "query": "AI email reply assistant reseller white label program",
+   "results": [
+    "https://webchatagent.com/enterprise-white-label",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://www.quora.com/Which-e-mail-marketing-company-provides-a-white-label-solution-and-a-technical-consultancy-and-support-service-for-re-sellers",
+    "https://reply.io/whitelabel/",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://www.youtube.com/watch?v=6weNaVTUmQQ",
+    "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "https://botpenguin.com/blogs/best-white-label-partner-program"
+   ]
+  },
+  {
+   "query": "AI email reply assistant embed SDK license OEM",
+   "results": [
+    "https://support.outreach.io/support/solutions/articles/159000425957-smart-email-assist-overview",
+    "https://www.youtube.com/watch?v=gzd1cmRCUI4&vl=ja",
+    "https://www.beyondkey.com/ai-email-assistant",
+    "https://www.agentmail.to/blog/info/blog/solution-recommendation/which-ai-email-api-has-the-best-inbound-reply-handling-and-two-way-messaging-capabilities-05ec81",
+    "https://aisdr.com/blog/best-ai-email-assistant/",
+    "https://learn.microsoft.com/en-us/microsoft-365-app-certification/outlook/kerna-ai-email-assistant",
+    "https://robotomail.com/blog/ai-email-assistant",
+    "https://www.ifourtechnolab.com/solutions/ai-email-assistant-for-outlook",
+    "https://snoooz.ai/ai-email-assistant",
+    "https://github.com/salbia512/ai-email-reply-assistant"
+   ]
+  },
+  {
+   "query": "AI email reply assistant white label company profitable",
+   "results": [
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://reply.io/whitelabel/",
+    "https://www.reddit.com/r/automation/comments/1n6tgul/i_built_an_ai_email_agent_to_reply_to_customer/",
+    "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "https://stripo.email/blog/best-white-labeling-software-to-use/",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://aisdr.com/blog/best-ai-email-assistant/",
+    "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "https://insighto.ai/blog/best-ai-white-label-services/"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業": "記載なし（読んだ40頁・検索8回）",
+  "自社名で出せる条件": "記載なし（読んだ40頁・検索8回）",
+  "再販制度": "記載なし（読んだ40頁・検索8回）",
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "売上": "記載なし（読んだ40頁・検索8回）",
+  "価格": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

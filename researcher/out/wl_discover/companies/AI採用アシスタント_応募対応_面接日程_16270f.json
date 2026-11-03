@@ -1,0 +1,465 @@
+{
+ "name": "AI採用アシスタント（応募対応・面接日程）",
+ "en": "AI recruiting assistant",
+ "aliases": [
+  "AI recruiter chatbot",
+  "candidate screening AI",
+  "interview scheduling AI"
+ ],
+ "context": "採用",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:09:39.322144+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Enhance candidate experience, collaborate on autopilot",
+    "url": "https://recruiterflow.com/blog/ai-recruiting-assistants/",
+    "pass": 3
+   },
+   {
+    "quote": "work like sourcing top candidates and nurturing skills.",
+    "url": "https://recruiterflow.com/blog/ai-recruiting-assistants/",
+    "pass": 3
+   },
+   {
+    "quote": "The best AI assistants are deeply embedded in your ATS or CRM. Most software offer AI as an add-on. This not only adds to the pricing complexity, it creates a flurry of disconnected tools leading to inaccurate data and context loss.",
+    "url": "https://recruiterflow.com/blog/ai-recruiting-assistants/",
+    "pass": 3
+   },
+   {
+    "quote": "Messages; a reply stops the sequence",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "$199 per agent/month on top of a seat",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Searches \"1 billion profiles on the web\" and runs outreach on \"complete autopilot\"",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Published prices vary widely. hireEZ says \"Solo recruiters start at $494/mo with a 7-day free trial\"; Juicebox charges \"$199 per agent/month\" on top of a seat; Pin's Solo plan is $100 per user per month, billed annually; Gem prices by company size, with startup rates. LinkedIn publishes no price for Hiring Assistant, and Noon has no public price list.",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Published solo plans range from $100 a month (Pin, billed annually) to $494 a month (hireEZ), and Juicebox adds $199 per agent per month on top of a seat. Hiring Assistant's price is not published. An assembled agent costs a Linked API seat from $49/mo billed annually, plus your model and time.",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Surpassing chatbots or glorified notetakers, AI recruiting assistants are context-aware systems embedded inside a recruiter’s tech stack.",
+    "url": "https://recruiterflow.com/blog/ai-recruiting-assistants/",
+    "pass": 3
+   },
+   {
+    "quote": "The best AI assistants are deeply embedded in your ATS or CRM. Most software offer AI as an add-on. This not only adds to the pricing complexity, it creates a flurry of disconnected tools leading to inaccurate data and context loss.",
+    "url": "https://recruiterflow.com/blog/ai-recruiting-assistants/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": ". It’s also why your best consultants are spending 40% of their time on tasks that don’t generate revenue. AI twins like AIRA change that.",
+    "url": "https://recruiterflow.com/blog/ai-recruiting-assistants/",
+    "pass": 3
+   },
+   {
+    "quote": "update their data regularly. Outdated data increases time-to-fill by 36% and can leak millions in lost revenue.",
+    "url": "https://recruiterflow.com/blog/ai-recruiting-assistants/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Varies: Gem requires review before sending; Juicebox runs hands-off or with checkpoints; hireEZ lets recruiters review every outreach message",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Varies – ask each vendor",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Published prices vary widely. hireEZ says \"Solo recruiters start at $494/mo with a 7-day free trial\"; Juicebox charges \"$199 per agent/month\" on top of a seat; Pin's Solo plan is $100 per user per month, billed annually; Gem prices by company size, with startup rates. LinkedIn publishes no price for Hiring Assistant, and Noon has no public price list.",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Linked API from $49/mo per seat billed annually, plus your model and time",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "$199 per agent/month on top of a seat",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Solo $100 per user per month, billed annually",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Published prices vary widely. hireEZ says \"Solo recruiters start at $494/mo with a 7-day free trial\"; Juicebox charges \"$199 per agent/month\" on top of a seat; Pin's Solo plan is $100 per user per month, billed annually; Gem prices by company size, with startup rates. LinkedIn publishes no price for Hiring Assistant, and Noon has no public price list.",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "An assembled agent is priced by its parts: a Linked API seat for each LinkedIn account (flat per seat, from $49/mo billed annually), your model usage, and the time to set it up and supervise it. It costs less in licences when you already have the model and the ATS; it costs more of your own attention, which is the trade.",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Published solo plans range from $100 a month (Pin, billed annually) to $494 a month (hireEZ), and Juicebox adds $199 per agent per month on top of a seat. Hiring Assistant's price is not published. An assembled agent costs a Linked API seat from $49/mo billed annually, plus your model and time.",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   },
+   {
+    "quote": "– researching candidates, drafting against your role brief and sending only what you approve, on your own LinkedIn account. Plans are flat per seat, from $49/mo billed annually – see",
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://zenhire.ai/api/white-label-ai-recruiting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autocalls.ai/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/B2BForHire/comments/1wjs93t/whitelabel_ai_assistant_for_agency_upsells/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://lety.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x0pa.com/white-label-recruiting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whippy.ai/blog/ai-agent-for-recruiting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sintrolab.com/guides/start-ai-agency/white-label-recruiting-software",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://360ai.io/resources/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trctalent.com/top-5-ai-recruiting-services-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heymilo.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-ai-voice-agent",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jamesallenco.com/building-a-personal-brand-in-the-age-of-ai-how-to-stand-out-to-recruiters/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brand.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=hubx.logo.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/branding/comments/1o707i6/building_an_entire_brand_with_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://helpx.adobe.com/firefly/web/firefly-ai-assistant/build-a-brand.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hiringthing.com/white-label/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://orspartners.com/white-label-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monobot.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privatelabelstaffing.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paychex.com/hiring/ai-assisted-recruiting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asyntai.com/white-label-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiapply.co/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leanware.co/insights/white-label-ai-software-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruiterflow.com/blog/ai-recruiting-assistants/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://linkedapi.io/guides/ai-recruiting-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.findem.ai/embedded-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.avatarfleet.com/avatar-assistant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sitepoint.com/best-ai-recruiting-agents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vida.io/blog/white-label-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juicebox.ai/blog/ai-recruiting-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/best-ai-white-label-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/best-white-label-ai-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label AI recruiting assistant",
+   "results": [
+    "https://zenhire.ai/api/white-label-ai-recruiting",
+    "https://autocalls.ai/white-label",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.reddit.com/r/B2BForHire/comments/1wjs93t/whitelabel_ai_assistant_for_agency_upsells/",
+    "https://lety.ai/",
+    "https://www.youtube.com/shorts/3UO0fu9loLI",
+    "https://www.matchnapply.ai/blog/white-label-recruiting-software-staffing-agencies",
+    "https://360ai.io/resources/whitelabel",
+    "https://www.hiringthing.com/white-label/",
+    "https://x0pa.com/white-label-recruiting-software/"
+   ]
+  },
+  {
+   "query": "AI recruiting assistant white-label",
+   "results": [
+    "https://zenhire.ai/api/white-label-ai-recruiting",
+    "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "https://autocalls.ai/white-label",
+    "https://x0pa.com/white-label-recruiting-software/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://www.youtube.com/watch?v=-gVk-0jsA4c",
+    "https://www.whippy.ai/blog/ai-agent-for-recruiting",
+    "https://lety.ai/",
+    "https://sintrolab.com/guides/start-ai-agency/white-label-recruiting-software"
+   ]
+  },
+  {
+   "query": "best white label AI recruiting assistant providers",
+   "results": [
+    "https://x0pa.com/white-label-recruiting-software/",
+    "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://360ai.io/resources/whitelabel",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.trctalent.com/top-5-ai-recruiting-services-companies/",
+    "https://www.heymilo.ai/",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://wotnot.io/blog/white-label-ai-voice-agent",
+    "https://worldmetrics.org/best/white-label-recruiting-software/"
+   ]
+  },
+  {
+   "query": "AI recruiting assistant rebrand your logo own brand",
+   "results": [
+    "https://jamesallenco.com/building-a-personal-brand-in-the-age-of-ai-how-to-stand-out-to-recruiters/",
+    "https://brand.ai/",
+    "https://www.youtube.com/watch?v=eBnV_CiX2LM",
+    "https://play.google.com/store/apps/details?id=hubx.logo.ai",
+    "https://www.reddit.com/r/branding/comments/1o707i6/building_an_entire_brand_with_ai/",
+    "https://helpx.adobe.com/firefly/web/firefly-ai-assistant/build-a-brand.html",
+    "https://medium.com/@everydayluxuries68/i-tried-building-my-personal-brand-using-only-ai-tools-heres-the-rsult-27ba3642ee83",
+    "https://looka.com/",
+    "https://rebrand.com/ai/",
+    "https://rebrandapp.ai/"
+   ]
+  },
+  {
+   "query": "AI recruiting assistant private label OEM partner",
+   "results": [
+    "https://x0pa.com/white-label-recruiting-software/",
+    "https://www.hiringthing.com/white-label/",
+    "https://orspartners.com/white-label-solutions/",
+    "https://monobot.ai/whitelabel/",
+    "https://www.privatelabelstaffing.com/",
+    "https://www.paychex.com/hiring/ai-assisted-recruiting",
+    "https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/",
+    "https://althire.ai/features/white-label",
+    "https://www.paradox.ai/",
+    "https://conversight.ai/oem-partners/"
+   ]
+  },
+  {
+   "query": "AI recruiting assistant reseller white label program",
+   "results": [
+    "https://asyntai.com/white-label-solutions/",
+    "https://lety.ai/",
+    "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://aiapply.co/partners",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/",
+    "https://x0pa.com/white-label-recruiting-software/",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://leanware.co/insights/white-label-ai-software-complete-guide"
+   ]
+  },
+  {
+   "query": "AI recruiting assistant embed SDK license OEM",
+   "results": [
+    "https://recruiterflow.com/blog/ai-recruiting-assistants/",
+    "https://linkedapi.io/guides/ai-recruiting-agent",
+    "https://www.findem.ai/embedded-ai",
+    "https://www.avatarfleet.com/avatar-assistant",
+    "https://www.sitepoint.com/best-ai-recruiting-agents/",
+    "https://www.workable.com/workable-ai",
+    "https://www.workday.com/en-us/products/talent-management/ai-recruiting.html",
+    "https://www.youtube.com/watch?v=6O8EAbaG3c0",
+    "https://www.smartrecruiters.com/recruiting-software/smartrecruit/",
+    "https://www.linkedin.com/help/recruiter/answer/a9311081"
+   ]
+  },
+  {
+   "query": "AI recruiting assistant white label company profitable",
+   "results": [
+    "https://360ai.io/resources/whitelabel",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "https://lety.ai/",
+    "https://vida.io/blog/white-label-ai",
+    "https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/",
+    "https://juicebox.ai/blog/ai-recruiting-agents",
+    "https://www.youtube.com/watch?v=KZTdihDZU_8",
+    "https://www.hiringthing.com/white-label/",
+    "https://insighto.ai/blog/best-ai-white-label-services/"
+   ]
+  }
+ ],
+ "missing": {
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

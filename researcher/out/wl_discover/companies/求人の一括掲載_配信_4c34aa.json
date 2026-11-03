@@ -1,0 +1,365 @@
+{
+ "name": "求人の一括掲載・配信",
+ "en": "job multiposting software",
+ "aliases": [
+  "job distribution platform",
+  "job board posting automation"
+ ],
+ "context": "採用",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:08:30.024947+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "The AI-powered recruiting platform that helps you source, engage, and hire top talent.",
+    "url": "https://www.leonar.app/features/job-multiposting/",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best Bullhorn Alternatives in 2026 (Tested by Agencies)",
+    "url": "https://www.leonar.app/features/job-multiposting/",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best Recruiterflow Alternatives & Competitors in 2026 (Tested)",
+    "url": "https://www.leonar.app/features/job-multiposting/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raklet.com/features/job-board/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1o0curp/white_label_job_board_software_needed/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dropboardhq.com/features/white-labeled-job-board/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logicspice.com/job-board-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marvins.ai/en/blog/multiposting-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://peoplemanagingpeople.com/tools/best-job-board-software/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gospacewalk.com/solutions/white-label-job-board-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/white-label-job-board-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chiefjobs.com/the-best-websites-for-multi-job-board-posting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://softgarden.com/en/products/multiposting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsmn8.com/employer-branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtin.com/articles/employer-branding-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmia.com/en-ca/multiposting-software-for-recruiters/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.leonar.app/features/job-multiposting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://100hires.com/white-label-ats.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daxtra.com/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x0pa.com/white-label-recruiting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrabber.com/job-board-software.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getwhitelabelats.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appexchange.salesforce.com/appxListingDetail?listingId=2c26c664-8754-4d07-9373-60bb077bdc23",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rexx-systems.com/multiposting-en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eploy.com/product/recruitment-marketing/multi-posting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruitcrm.io/features/job-multiposting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dstribute.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/recruiting/comments/1i6tli9/recommendations_on_software_that_will_automate/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://100hires.com/multiposting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zipdo.co/best/white-label-job-board-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jobboardly.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label job multiposting software",
+   "results": [
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.raklet.com/features/job-board/",
+    "https://www.reddit.com/r/SaaS/comments/1o0curp/white_label_job_board_software_needed/",
+    "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "https://dropboardhq.com/features/white-labeled-job-board/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://www.logicspice.com/job-board-software",
+    "https://www.loopcv.pro/white-label-job-board/",
+    "https://www.careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "https://www.jobboardsoftware.io/"
+   ]
+  },
+  {
+   "query": "job multiposting software white-label",
+   "results": [
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.reddit.com/r/SaaS/comments/1o0curp/white_label_job_board_software_needed/",
+    "https://www.loopcv.pro/white-label-job-board/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://dropboardhq.com/features/white-labeled-job-board/",
+    "https://www.raklet.com/features/job-board/",
+    "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "https://www.logicspice.com/job-board-software",
+    "https://www.careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "https://marvins.ai/en/blog/multiposting-software"
+   ]
+  },
+  {
+   "query": "best white label job multiposting software providers",
+   "results": [
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://peoplemanagingpeople.com/tools/best-job-board-software/",
+    "https://www.reddit.com/r/SaaS/comments/1o0curp/white_label_job_board_software_needed/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://www.gospacewalk.com/solutions/white-label-job-board-software",
+    "https://www.youtube.com/watch?v=GSlUiViDPtA",
+    "https://dropboardhq.com/features/white-labeled-job-board/",
+    "https://www.logicspice.com/job-board-software",
+    "https://www.careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "https://sprad.io/provider-categories/job-posting-multiposting"
+   ]
+  },
+  {
+   "query": "job multiposting software rebrand your logo own brand",
+   "results": [
+    "https://softgarden.com/en/products/multiposting/",
+    "https://sprad.io/provider-categories/job-posting-multiposting",
+    "https://dsmn8.com/employer-branding/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://builtin.com/articles/employer-branding-software",
+    "https://www.sigmia.com/en-ca/multiposting-software-for-recruiters/",
+    "https://www.leonar.app/features/job-multiposting/",
+    "https://www.youtube.com/watch?v=012evbKJHmg",
+    "https://www.pandape.com/en/employer-branding/",
+    "https://marvins.ai/en/blog/multiposting-software"
+   ]
+  },
+  {
+   "query": "job multiposting software private label OEM partner",
+   "results": [
+    "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://100hires.com/white-label-ats.html",
+    "https://www.daxtra.com/oem-partners/",
+    "https://x0pa.com/white-label-recruiting-software/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://www.marketgrabber.com/job-board-software.aspx",
+    "https://getwhitelabelats.com/",
+    "https://softgarden.com/en/products/multiposting/",
+    "https://www.chiefjobs.com/the-best-websites-for-multi-job-board-posting/"
+   ]
+  },
+  {
+   "query": "job multiposting software reseller white label program",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://www.emailvendorselection.com/best-white-label-saas-software-services/",
+    "https://buildfire.com/white-label-software-services-resell-make-money/"
+   ]
+  },
+  {
+   "query": "job multiposting software embed SDK license OEM",
+   "results": [
+    "https://softgarden.com/en/products/multiposting/",
+    "https://sprad.io/provider-categories/job-posting-multiposting",
+    "https://www.leonar.app/features/job-multiposting/",
+    "https://appexchange.salesforce.com/appxListingDetail?listingId=2c26c664-8754-4d07-9373-60bb077bdc23",
+    "https://www.daxtra.com/oem-partners/",
+    "https://www.rexx-systems.com/multiposting-en/",
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.eploy.com/product/recruitment-marketing/multi-posting/",
+    "https://recruitcrm.io/features/job-multiposting/",
+    "https://dstribute.io/"
+   ]
+  },
+  {
+   "query": "job multiposting software white label company profitable",
+   "results": [
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://www.logicspice.com/job-board-software",
+    "https://www.reddit.com/r/recruiting/comments/1i6tli9/recommendations_on_software_that_will_automate/",
+    "https://www.marketgrabber.com/job-board-software.aspx",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "https://100hires.com/multiposting.html",
+    "https://worldmetrics.org/best/white-label-job-board-software/"
+   ]
+  }
+ ],
+ "missing": {
+  "自社名で出せる条件": "記載なし（読んだ40頁・検索8回）",
+  "再販制度": "記載なし（読んだ40頁・検索8回）",
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "売上": "記載なし（読んだ40頁・検索8回）",
+  "価格": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

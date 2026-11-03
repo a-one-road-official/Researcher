@@ -1,0 +1,349 @@
+{
+ "name": "外注先への発注・進捗管理",
+ "en": "subcontractor order and job tracking software",
+ "aliases": [
+  "supplier order tracking",
+  "outsourcing job management",
+  "外注管理"
+ ],
+ "context": "受発注",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:05:37.168172+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taskip.net/white-label-tools-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manyrequests.com/blog/white-label-project-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assembly.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hellobonsai.com/blog/white-label-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.govdash.com/blog/best-subcontractor-tracking-software-govcon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fieldpulse.com/features/work-order-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://buildops.com/resources/work-order-software-for-contractors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fieldwire.com/blog/subcontractor-project-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudmore.com/content-hub/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simprogroup.com/blog/best-work-order-software-commercial-contractors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contractorforeman.com/3-best-work-order-software-for-contractors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://field-ascend.com/en-us/subcontractor-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://buildertrend.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jobtread.com/features/change-orders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brekeke.com/partner/oem-partner.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knarrtek.com/job-tracking-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contractorforeman.com/work-order-management-system-a-gamechanger-for-savvy-contractors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Construction/comments/tgo4l6/subcontractor_work_order_software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://serfy.io/features/subcontractor-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://field-ascend.com/en-us/work-order-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitti.com/apps/work-order-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowify.com/subcontractor-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fieldwire.com/blog/best-work-order-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trackvia.com/solutions/crew-vendor-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Contractor/comments/1qztkl0/job_tracking_software_or_program/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uxmag.com/articles/go-ahead-white-label-your-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knack.com/blog/white-label-client-portal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softwareadvice.com/construction/subcontractor-software-comparison/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label subcontractor order and job tracking software",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "https://manyrequests.com/blog/white-label-project-management-software",
+    "https://assembly.com/blog/white-label-software",
+    "https://www.permitflow.com/blog/subcontractor-management-software",
+    "https://www.knack.com/blog/white-label-client-portal/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://www.codementor.io/@rashidkhanrk1717/white-label-construction-project-management-software-2p3hjhii5q",
+    "https://worldmetrics.org/best/subcontractor-management-software/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software white-label",
+   "results": [
+    "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "https://www.hellobonsai.com/blog/white-label-tools-for-agencies",
+    "https://www.govdash.com/blog/best-subcontractor-tracking-software-govcon",
+    "https://www.fieldpulse.com/features/work-order-management",
+    "https://buildops.com/resources/work-order-software-for-contractors",
+    "https://www.fieldwire.com/blog/subcontractor-project-management-software/",
+    "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "https://manyrequests.com/blog/white-label-project-management-software",
+    "https://contractorforeman.com/work-order-management-system-a-gamechanger-for-savvy-contractors/",
+    "https://worldmetrics.org/best/subcontractor-work-order-management-software/"
+   ]
+  },
+  {
+   "query": "best white label subcontractor order and job tracking software providers",
+   "results": [
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://cloudmore.com/content-hub/white-label-software",
+    "https://suitedash.com/white-label-business-software/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://www.permitflow.com/blog/subcontractor-management-software",
+    "https://manyrequests.com/blog/white-label-project-management-software",
+    "https://www.simprogroup.com/blog/best-work-order-software-commercial-contractors",
+    "https://assembly.com/blog/white-label-software",
+    "https://worldmetrics.org/best/subcontractor-management-software/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software rebrand your logo own brand",
+   "results": [
+    "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "https://contractorforeman.com/3-best-work-order-software-for-contractors/",
+    "https://field-ascend.com/en-us/subcontractor-management-software",
+    "https://buildertrend.com/",
+    "https://buildops.com/resources/work-order-software-for-contractors",
+    "https://www.jobtread.com/features/change-orders",
+    "https://storyflow.so/blog/best-tools-to-plan-a-rebrand-2026",
+    "https://knowify.com/trade-contractor-software/",
+    "https://legacysaleseng.com/branding/",
+    "https://suitedash.com/white-label-business-software/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software private label OEM partner",
+   "results": [
+    "https://www.govdash.com/blog/best-subcontractor-tracking-software-govcon",
+    "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "https://www.simprogroup.com/blog/best-work-order-software-commercial-contractors",
+    "https://buildops.com/resources/work-order-software-for-contractors",
+    "https://brekeke.com/partner/oem-partner.php",
+    "https://knarrtek.com/job-tracking-software/",
+    "https://contractorforeman.com/work-order-management-system-a-gamechanger-for-savvy-contractors/",
+    "https://www.youtube.com/watch?v=2K6EbjBw6Gk",
+    "https://www.reddit.com/r/Construction/comments/tgo4l6/subcontractor_work_order_software/",
+    "https://serfy.io/features/subcontractor-management"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software reseller white label program",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://sellful.com/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://worldmetrics.org/best/white-label-reseller-software/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software embed SDK license OEM",
+   "results": [
+    "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "https://buildops.com/resources/work-order-software-for-contractors",
+    "https://www.permitflow.com/blog/subcontractor-management-software",
+    "https://www.simprogroup.com/blog/best-work-order-software-commercial-contractors",
+    "https://field-ascend.com/en-us/work-order-management-software",
+    "https://www.govdash.com/blog/best-subcontractor-tracking-software-govcon",
+    "https://mitti.com/apps/work-order-software",
+    "https://knowify.com/subcontractor-management-software/",
+    "https://www.fieldwire.com/blog/best-work-order-management-software/",
+    "https://trackvia.com/solutions/crew-vendor-management/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software white label company profitable",
+   "results": [
+    "https://www.hellobonsai.com/blog/white-label-tools-for-agencies",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "https://www.reddit.com/r/Contractor/comments/1qztkl0/job_tracking_software_or_program/",
+    "https://uxmag.com/articles/go-ahead-white-label-your-services",
+    "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "https://knarrtek.com/job-tracking-software/",
+    "https://www.permitflow.com/blog/subcontractor-management-software",
+    "https://www.knack.com/blog/white-label-client-portal/",
+    "https://trackvia.com/solutions/crew-vendor-management/"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業": "記載なし（読んだ40頁・検索8回）",
+  "自社名で出せる条件": "記載なし（読んだ40頁・検索8回）",
+  "再販制度": "記載なし（読んだ40頁・検索8回）",
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "売上": "記載なし（読んだ40頁・検索8回）",
+  "価格": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

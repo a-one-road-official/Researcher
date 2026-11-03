@@ -1,155 +1,1346 @@
-# ホワイトラベルで担げるソフトの網羅（製造業・AM・CAD・バッテリー・燃料・素材・航空宇宙）— 提供企業と再販条件（事実のみ・24品目）
+# 弊社が売れるホワイトラベルソフト（受発注・見積もり・お問い合わせ対応・採用・PR）— 提供企業と再販条件（事実のみ・48品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
-## AM造形準備ソフト（additive manufacturing build preparation software）
-- 文脈：wl-A AM
+## BtoB受注サイト・受発注ポータル（B2B ordering portal software）
+- 文脈：受発注
 - 提供企業：
-  - 「top of page」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
-  - 「In this guide, we break down what AM workflow software actually is, why it matters now more than ever, which features to look for, and how the top solutions compare in 2026. Whether you're managing a single printer or scaling across multiple facilities, this guide will help you make the right choice.」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
-  - 「Comparing the Top AM Workflow Software Tools (2026 Edition)」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
-  - 「Key questions to ask vendors:」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
-  - 「Questions to ask vendors:」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
-- 再販制度：
-  - 「Additive manufacturing workflow software is a digital backbone that connects and automates the various steps involved in producing 3D printed parts - spanning from design intake and job routing, through to post-processing and quality tracking.」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
-- 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
-
-## AM造形シミュレーション（additive manufacturing simulation software）
-- 文脈：wl-A AM
-- 提供企業：
-  - 「Topology optimization course」（https://caeassistant.com/blog/additive-manufacturing-simulation-software/）
-  - 「Topology Optimization Courses」（https://caeassistant.com/blog/additive-manufacturing-simulation-software/）
-  - 「Simulate from top to bottom」（https://vericut.com/en-gb/products/additive-manufacturing-simulation-software）
-  - 「Your top Additive Manufacturing Simulation applications.」（https://vericut.com/en-gb/products/additive-manufacturing-simulation-software）
-  - 「We looked at all of the major manufacturing software providers for their additive manufacturing simulation capabilities, and Vericut was the only one that met our needs out of the box.」（https://vericut.com/en-gb/products/additive-manufacturing-simulation-software）
-  - 「Predict in-situ material behavior that causes keyhole instabilities leading to defects.」（https://www.flow3d.com/products/flow3d-am/）
-  - 「Manage {vendor_count} vendors」（https://www.flow3d.com/products/flow3d-am/）
-  - 「Topology Optimization」（https://ansys.synopsys.com/products/additive）
-  - 「Discover how leading companies solve complex challenges with Ansys simulation—unlocking innovation across automotive, aerospace, energy, healthcare, and more.」（https://ansys.synopsys.com/products/additive）
-  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://ansys.synopsys.com/products/additive）
-  - 「Simulation Topics」（https://ansys.synopsys.com/products/additive）
-  - 「Leading Materials Data Management.」（https://ansys.synopsys.com/products/additive）
-  - 「Topology optimization speeds workflow」（https://ansys.synopsys.com/products/additive）
-  - 「ANSYS Topology Optimization Upgrades Designs to Take Full Advantage of 3-D Printing」（https://ansys.synopsys.com/products/additive）
-  - 「SIMULATION TOPICS」（https://ansys.synopsys.com/products/additive）
+  - 「Advanced platforms like WizCommerce streamline this further with AI-powered, typo-tolerant search. Further, WizCommerce features smart image-to-image search, specific filters, and AI recommendations of similar products, all to help you find just the product you need with minimal effort.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「The B2B buying landscape has shifted dramatically, and companies that haven’t adapted are losing ground to competitors who have. Here’s why B2B e-commerce customer portals have become essential:」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「If your competitors offer B2B customer portals while you’re still relying on phone and email orders, customers will choose the more convenient option. Companies that adapt fastest are capturing market share from those that haven’t modernized.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「risk losing customers to competitors offering more convenient alternatives.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「effortless, leading to higher customer satisfaction and loyalty.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Choose vendors that provide implementation assistance, training, and ongoing support.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「sana commerce competitors」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「are specialized platforms designed for business-to-business transactions. Popular options include WizCommerce for manufacturers and distributors, Shopify Plus for companies wanting B2C-style experiences, and industry-specific platforms like Oracle Commerce for large enterprises. The best choice depends on your business model, integration requirements, and industry needs.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「is the action layer on top: placing orders, multi-cart, one-click reorder, real-time tier pricing, and order tracking. The portal is the identity; the ordering platform is the action. Both live inside WizCommerce.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Every wholesaler is spending on a website, an order-writing app, and now AI. Almost none can say whether it’s working. This report benchmarks 8 metrics across 250+ wholesalers so you can see exactly where your digital channel sits — and how far it is from the top.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Buy from vendors without the back and forth.」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「Keep up with OrderEase and access industry-leading order operation insights.」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「Top contenders are OrderEase (best for manufacturers), Shopify Plus (best hybrid DTC/B2B), and BigCommerce (best mid-market B2B features).」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「That’s why leading manufacturers are adopting」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「Here are the top benefits operational leaders find in using B2B eCommerce platforms:」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
 - 自社名で出せる条件：
-  - 「Embedded Software」（https://ansys.synopsys.com/products/additive）
-  - 「Embedded additive process simulation workflows that connect build parameters to thermal and distortion outcomes」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
+  - 「Now that you’ve defined your requirements, it’s time to configure and tailor your B2B Customer Portal to align with your business goals and reflect your brand.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Your portal should reflect your brand and business processes. Evaluate platforms that allow custom branding, configurable workflows, and flexible product catalog structures. The ability to customize without extensive development work saves time and money.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「This shift from manual, rep-driven order placement to a customer-controlled digital experience not only speeds up transactions but also empowers buyers to interact with your brand on their own terms.」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「What it is: Recently rebranded from BigCommerce (August 2025), Commerce brings together BigCommerce, Feedonomics, and Makeswift into a unified AI-driven commerce brand. The B2B Edition includes buyer portals, company accounts, quoting, invoice portals, multi-storefront, and ERP integrations.」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
 - 再販制度：
-  - 「Confirm that the tool supports your process explicitly, not just “metal AM”. Powder bed fusion, directed energy deposition, and material extrusion involve different process physics and modeling approaches, and coverage varies between software tools.」（https://caeassistant.com/blog/additive-manufacturing-simulation-software/）
-  - 「Find a Distributor」（https://www.flow3d.com/products/flow3d-am/）
-  - 「Vary process parameters such as laser power, speed, hatch spacing, energy distribution, and PSD to identify process instabilities.」（https://www.flow3d.com/products/flow3d-am/）
-  - 「AM offers solutions for a variety of additive manufacturing applications.」（https://www.flow3d.com/products/flow3d-am/）
-  - 「. Additionally, capture heat transfer effects from melting in a vacuum with variable boundary conditions and phase change」（https://www.flow3d.com/products/flow3d-am/）
-  - 「Channel Partners」（https://ansys.synopsys.com/products/additive）
-  - 「Compare scan strategy variants for a thin-wall Ti alloy part to reduce distortion while controlling overheating zones」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
-  - 「Reporting depth matters because defect and qualification decisions depend on traceable records. Evidence quality depends on whether the tool’s physics coverage matches the process type and whether it clearly exposes which process inputs drive accuracy and variance.」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
-  - 「MAGMASOFT focuses on additive-oriented process physics for heat transfer, solidification, and microstructure trends that support defect and property trend evaluation. COMSOL Multiphysics Additive Manufacturing Modules adds thermo-fluid modeling for melt pools alongside structural response, which improves coverage when flow and melting behavior drive variability.」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
-  - 「Plan for input calibration requirements and evidence quality variance」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
-  - 「Simufact Additive and ANSYS Additive explicitly tie prediction credibility to process calibration quality, which depends on inputs like laser or beam power, spot size, absorptivity, and powder or material properties. If those inputs are uncertain, reporting should reflect variance by running calibrated parameter sets instead of treating one run as definitive.」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
-  - 「Yes, Vericut supports a variety of additive technologies and processes, including:」（https://vericut.com/products/additive-manufacturing-simulation-software）
-  - 「Channel Partners」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「[Updated] 2026 Guide on B2B customer portals for Wholesalers」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Modernize wholesale order intake workflows」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Turn online buying into a wholesale sales channel」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Built for food and beverage wholesalers」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Insights on AI and wholesale operations」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Built for B2B Wholesale」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Sales and e-commerce platform designed for wholesalers, distributors and manufacturers.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「which CRM software is best for distributors」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「CRM software for distributors」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「How B2B Customer Ordering Portals are enabling growth for wholesalers and distributors in 2026」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Manufacturers, distributors, and service companies wanting to give customers a self-service account experience.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Partner portals serve channel partners, resellers, and affiliates rather than end customers. They provide access to marketing materials, training resources, sales tools, and program management features.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Companies that sell through channel networks and need to support reseller relationships.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「03. Distributor and wholesale portals」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Designed for high-volume wholesale relationships, these portals handle complex pricing structures, tiered discounts, credit limits, and territory-based selling at the account level. They support volume-based pricing, quantity breaks, and sophisticated inventory management. Distributors usually get this as one module inside broader」（https://wizcommerce.com/blog/b2b-customer-portal/）
+- 黒字・収益性：
+  - 「(schools, hospitals, and nonprofits). Each type has different purchasing processes, approval requirements, and portal needs.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「The way businesses buy has changed. If you’re still selling the old way, you’re leaving profits on the table.」（https://www.orderease.com/b2b-customer-portal）
+- 売上：
+  - 「B2B customer portals are changing how businesses manage customer accounts, strengthen customer relationships, and grow revenue. As companies move toward digital operations, having the right」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「B2B commerce portals deliver measurable value across multiple areas of your business, from reducing operational costs to driving revenue growth.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「B2B customer portals create new revenue opportunities through product discovery」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Handles complex B2B pricing structures and payment arrangements」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「ROI is real but takes 6-12 months; calculate it using labor savings, new sales channel revenue, and error reduction to justify the investment.」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「Barrie ON, L4N 8J8」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「You’ve been approved as a Costco supplier. Before your first shipment leaves the dock, a 20-page EDI packet arrives along with testing requirements th...」（https://www.orderease.com/b2b-customer-portal）
+  - 「5-190 Minets Point Road, Suite 425 | Barrie ON, L4N 8J8 |」（https://www.orderease.com/b2b-customer-portal）
 - 価格：
-  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
-- 日本対応：
-  - 「日本語 - 日本」（https://vericut.com/en-gb/products/additive-manufacturing-simulation-software）
-  - 「日本語 - 日本」（https://vericut.com/products/additive-manufacturing-simulation-software）
-- 検索結果の抜粋：
-  - 「Additive Manufacturing Simulation Software - FLOW-3D AM — Additive Manufacturing Simulation Software - FLOW-3D AM FLOW-3D https://www.flow3d.com > products」（https://www.flow3d.com/products/flow3d-am/）
-  - 「Additive Manufacturing Simulation Software | FLOW-3D AM — Additive Manufacturing Simulation Software | FLOW-3D AM YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Ikfkd1OP9gc）
-- 黒字・収益性：記載なし（読んだ38頁・検索8回）
-- 売上：記載なし（読んだ38頁・検索8回）
+  - 「, where your customer can log-in 24/7, see their specific pricing, volume discounts, customised catalog, previous order status and then place an order without involving a rep or waiting for an email reply, has become essential for staying competitive. B2B customer portal software provide exactly that experience while making operations easier for the businesses that serve them.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「Unlike B2C websites, B2B e-commerce customer portals are designed specifically for business transactions, featuring custom pricing,」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「covers the options. When customers log into your online B2B portal, they see information specific to their account, such as negotiated pricing, order history, available inventory, and products relevant to their business.」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「the whole relationship, giving customers 24/7 self-service access to their account, pricing, and order history」（https://wizcommerce.com/blog/b2b-customer-portal/）
+  - 「A purpose-built B2B eCommerce solution for manufacturers supports negotiated pricing, real-time inventory visibility, and seamless data flow between eCommerce, ERP, and fulfilment.」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「In B2B eCommerce, pricing is customer specific, changing based on negotiated contracts and seasonal deals.」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「In B2B, your catalog isn’t just a product list. It should reflect negotiated relationships. Your B2B buyers expect to log in and see exactly what applies to them, with the right pricing and relevant products.」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「A B2C storefront with simple pricing structures」（https://www.orderease.com/blog/top-b2b-ecommerce-platforms）
+  - 「Give customers a fast, intuitive way to place accurate B2B orders with real-time visibility into products, pricing, and availability.」（https://www.orderease.com/b2b-customer-portal）
+  - 「Show each customer the right products, pricing, and terms automatically based on their account. Maintain one portal experience while supporting complex B2B pricing structures behind the scenes.」（https://www.orderease.com/b2b-customer-portal）
+  - 「While eCommerce platforms focus on retail transactions, a B2B customer portal supports complex pricing, product segmentation, and account-level visibility. OrderEase’s B2B portal software is designed specifically for wholesale, with features like customer-specific catalogs, net terms, and multi-user account access.」（https://www.orderease.com/b2b-customer-portal）
+  - 「Absolutely. OrderEase supports ERP B2B integrations with leading platforms like QuickBooks, Sage, and Microsoft Dynamics. That means your pricing, inventory, and order data stay in sync—no manual entry required.」（https://www.orderease.com/b2b-customer-portal）
+- 日本対応：記載なし（読んだ38頁・検索8回）
 
-## AM費用見積エンジン（additive manufacturing cost estimation engine）
-- 文脈：wl-A AM
-- 提供企業：記載なし（読んだ39頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ39頁・検索8回）
-- 再販制度：記載なし（読んだ39頁・検索8回）
-- 黒字・収益性：記載なし（読んだ39頁・検索8回）
-- 売上：記載なし（読んだ39頁・検索8回）
-- 価格：記載なし（読んだ39頁・検索8回）
+## 受注管理（OMS）（order management system for SMB）
+- 文脈：受発注
+- 提供企業：
+  - 「Businesses or startups that are looking to boost their business with a competitive approach can build their own delivery management software, even by utilizing a white label solution. By doing this, businesses can start their journey at an initial level with a low cost and in less development time.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「White label solutions are often cost-effective, reliable, and secure, but apart from all this, there is a wide range of benefits that businesses will get while investing in a white label delivery management software solution. Just have a look:」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Leverage the expertise of a white label solution provider and get a reliable solution with security and compliance.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「If a business uses third-party logistics (3PL), these integrations help manage deliveries contracted by outward service providers productively.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Before you start, it is necessary to study the target groups and competitors. Understand what customers want and what holes exist in the current market.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Businesses can either develop the mobile app from scratch or they can utilize white label solutions to build the application. Both methods have a great impact on the overall cost and the duration of development. However, the cost to develop a delivery management software starts at $5,000, but this can change depending on the development approach you choose.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「leading software development company」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Patt Cummins is an experienced content writer with over 10 years of experience creating clear and engaging content for technology-focused industries. He specializes in simplifying complex technical topics into easy-to-understand stories that educate readers, support brand communication, and help businesses effectively share their solutions.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Online retailers use white label inventory systems to manage stock, track orders, and fulfill across platforms like」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「to skincare, need accurate stock levels to meet demand without piling up extra inventory. A white label solution keeps inventory data live across warehouses or storefronts.」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Compared to building a system from the ground up, using a white-label platform cuts down significantly on costs. Companies can avoid high expenses related to software development, ongoing maintenance, and lengthy testing cycles, making it a viable solution for both startups and growing enterprises.」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「A major appeal of white-label software lies in its rebranding potential. Companies can personalize the platform by applying their own logo, color scheme, and interface design, making the software look and feel like it was developed in-house.」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「white-label software」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「ConnectPOS goes beyond basic inventory management. It supports your entire retail operation across online stores, physical locations, and warehouses. With real-time tracking and support for barcode and RFID scanning, you can stay on top of every stock movement and fulfill orders accurately, even during busy seasons.」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「SaaS providers, eCommerce businesses, IT consultants, agencies, wholesalers, and supply chain firms often adopt white label inventory systems to expand their services without building from scratch. And even retailers looking for a customizable inventory platform without developing one themselves.」（https://www.connectpos.com/white-label-inventory-management-software/）
+- 自社名で出せる条件：
+  - 「White Label Delivery Management System」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「White Label」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Advantages of Investing in A White Label Delivery Management Solution」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Unlock New Revenue Streams with White Label Delivery Solutions」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Request a Free Demo of Our White Label Delivery Management Platform Now!」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Businesses or startups that are looking to boost their business with a competitive approach can build their own delivery management software, even by utilizing a white label solution. By doing this, businesses can start their journey at an initial level with a low cost and in less development time.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「White label solutions are often cost-effective, reliable, and secure, but apart from all this, there is a wide range of benefits that businesses will get while investing in a white label delivery management software solution. Just have a look:」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Leverage the expertise of a white label solution provider and get a reliable solution with security and compliance.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Businesses can either develop the mobile app from scratch or they can utilize white label solutions to build the application. Both methods have a great impact on the overall cost and the duration of development. However, the cost to develop a delivery management software starts at $5,000, but this can change depending on the development approach you choose.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「White Label Bookkeeping Software for Small Businesses」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「White-Label Apps」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Your Brand. Your Software. Your Success.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Launch your marketplace under your own brand identity」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Considering A White Label Inventory Management Software? Here's What to Know in Advance | ConnectPOS」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「White label POS」（https://www.connectpos.com/white-label-inventory-management-software/）
+- 再販制度：
+  - 「Several types exist, differentiating the delivery management system into various niches. A detailed explanation for the same is precisely discussed below.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「These apps grant permission to users to acquire grocery items online within the app. Customers can scroll and find a variety of products.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「To meet shopping needs, the app must support various payment methods, including credit cards, digital wallets, and cash on delivery.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「ERP integration helps to connect various business functions, such as inventory, finance, and human resources, and ensures that everything works evenly together.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「A direct and effective way of making money from customers is a direct and efficient way. This fee can be safe or variable based on distance, delivery time or urgency.」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Reseller POS」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「The National Federation of Independent Business noted in June 2025 that the share of small firms worried about excess stock nearly doubled versus the previous month, reflecting how inventory missteps quickly erode margins.」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「SaaS providers, eCommerce businesses, IT consultants, agencies, wholesalers, and supply chain firms often adopt white label inventory systems to expand their services without building from scratch. And even retailers looking for a customizable inventory platform without developing one themselves.」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Pricing varies. Some providers charge monthly subscriptions, others apply one-time setup or licensing fees. It depends on features, users, data volume, and integrations.」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Lightspeed POS pricing in 2026 varies by plan,...」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Fulfill bulk or wholesale orders」（https://flow.space/blog/best-order-management-software）
+  - 「3. Cin7: Best for wholesale & B2B brands」（https://flow.space/blog/best-order-management-software）
+  - 「Cin7 handles inventory and order management for retailers and wholesalers operating across multiple channels. The platform excels at EDI integration for wholesale and B2B retailer relationships, making it simple to process large orders from business customers. Multi-location order routing and inventory syncing work seamlessly, whether you're fulfilling ecommerce, wholesale, or retail orders.」（https://flow.space/blog/best-order-management-software）
+  - 「automates wholesale and B2B order processing without manual data entry」（https://flow.space/blog/best-order-management-software）
+  - 「Omnichannel inventory sync keeps stock levels accurate across ecommerce, wholesale, and retail locations in real time」（https://flow.space/blog/best-order-management-software）
+- 黒字・収益性：
+  - 「The market contains many software-only tools that track orders without reducing fulfillment costs. Growing ecommerce brands hit a predictable wall: disconnected inventory systems, rising shipping expenses, and chaotic multi-channel operations that drain profits instead of scaling them.」（https://flow.space/blog/best-order-management-software）
+  - 「improve profitability.」（https://workdo.io/order-management-system/）
+  - 「is no longer “nice to have,” it’s the backbone of profitable, scalable growth. The right platform will:」（https://velocity.medshift.com/blog/best-order-management-system/）
+  - 「Non-profit」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「free inventory software for nonprofits」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「Profitable Partnerships: How to Succeed as a Reseller with White Label Cloud POS」（https://salesplay.com/white-label-inventory-management-software-earn-more-grow-faster/）
+  - 「Profitable Partnerships: Reselling White Label Android POS Solutions」（https://salesplay.com/white-label-inventory-management-software-earn-more-grow-faster/）
+  - 「5 Essential Tips to Maximize Sales and Profits in Your Clothing Store」（https://salesplay.com/white-label-inventory-management-software-earn-more-grow-faster/）
+  - 「The system analyzes competitor prices and current inventory levels to suggest ideal product prices. Get suggestions to offer discounts for low-selling stock. Set higher prices when an item is in high-demand. Our powerful tools empower your business for increased profits.」（https://www.suffescom.com/development/whitelabel-inventory-management-software）
+  - 「Commission fees drain profits quietly. A white-label ordering platform removes that leak. Businesses keep more from every order. Over time, savings stack up. That extra margin supports marketing, staff pay, or upgrades instead of disappearing into platform fees.」（https://whitelabelapps.ca/blog/white-label-ordering-platform/）
+  - 「A white label ordering platform gives businesses greater control over pricing, discounts, and promotional offers. Without high marketplace commissions dictating decisions, businesses can set competitive prices, protect profit margins, and create pricing strategies that suit their customers and long-term goals.」（https://whitelabelapps.ca/blog/white-label-ordering-platform/）
+  - 「Profit Making App」（https://whitelabelapps.ca/blog/white-label-ordering-platform/）
+  - 「Launch fast & profitable apps. No development delays.」（https://whitelabelapps.ca/blog/white-label-ordering-platform/）
+  - 「Tracks profitability by order or project, giving finance and operations teams a granular view of where margin is made or lost.」（https://monday.com/blog/crm-and-sales/sales-order-management-software/）
+  - 「Manual data entry is where profit goes to die. Connecting order data directly from your CRM stops the errors, returns, and credit notes that eat your margin.」（https://monday.com/blog/crm-and-sales/sales-order-management-software/）
+- 売上：
+  - 「5. Carrier and 3PL Integrations」（https://hyperlocalcloud.com/product/white-label-delivery-management-system）
+  - 「Software-only OMS tools leave you managing separate 3PL, carrier, and warehouse relationships.」（https://flow.space/blog/best-order-management-software）
+  - 「Enterprise and mid-market retailers managing both ecommerce and physical store operations at scale. Brightpearl is positioned for brands doing $5M+ in revenue across multiple channels that require sophisticated inventory planning.」（https://flow.space/blog/best-order-management-software）
+  - 「Brands generating 50%+ of revenue from Amazon, eBay, and international marketplaces who need automated cross-channel operations.」（https://flow.space/blog/best-order-management-software）
+  - 「Software-only OMS tools solve only half the problem. They track orders and sync inventory, but leave fulfillment costs—often 15–20% of revenue—largely unaddressed.」（https://flow.space/blog/best-order-management-software）
+  - 「Handles complex B2B pricing, approvals, and revenue recognition.」（https://velocity.medshift.com/blog/best-order-management-system/）
+  - 「POS Software vs. POS Hardware: The Hardware Seller’s Guide to Doubling Revenue in 2026」（https://salesplay.com/white-label-inventory-management-software-earn-more-grow-faster/）
+  - 「Cin7 is one of the top order management software solutions handling POS, warehouse management, and B2B portal connectivity in a single system. Its integration library supports hundreds of marketplaces, 3PL providers, EDI systems, and shipping carriers in a structured way.」（https://msdynamicsworld.com/blog-post/10-best-order-management-systems-updated）
+  - 「Best sales order management software: 15 solutions tested for revenue teams in 2026」（https://monday.com/blog/crm-and-sales/sales-order-management-software/）
+  - 「Best for mid-market revenue teams managing B2B orders who need deal tracking, order workflows, and customer communication in one platform.」（https://monday.com/blog/crm-and-sales/sales-order-management-software/）
+  - 「Consistent brand presentation has been linked to revenue uplifts of up to 23% across markets and touchpoints (Lucidpress, 2021). The commercial case is not abstract — it shows up in agency adaptation fees avoided, redundant photo shoots prevented, and PR risk reduced.」（https://www.papirfly.com/blog/digital-asset-management/best-brand-management-software/）
+  - 「1. A new recurring revenue stream」（https://www.restolabs.com/blog/white-label-online-ordering-software-resellers）
+  - 「I personally know many lead gen agencies layer $10K to $30K a month in branded software revenue on top of retainers, while solo sales consultants adding $800 to $2,000 in recurring revenue from 8 to 15 clients on a branded subscription.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「So I tested 10 white label software that I would actually recommend, checked what each one charges and how they share revenue, and pulled the ones that make you money instead of taking it.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「No revenue share. You keep 100% of every client sale, set your own pricing, and can onboard unlimited clients.」（https://www.salesforge.ai/blog/white-label-software）
+- 価格：
+  - 「Rain POS pricing starts at $99 per month...」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Lightspeed POS Pricing 2026: Features, Pros & Cons」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Lightspeed POS pricing in 2026 varies by plan,...」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Our evaluation examined 8 order management software tools, including Flowspace, for ecommerce—analyzing multi-channel capabilities, integration depth, automation power, and pricing transparency. Read on to learn more.」（https://flow.space/blog/best-order-management-software）
+  - 「Tiered pricing based on order volume, starting at $449/month. Additional costs apply for features like listings management, warehouse management, and forecasting. Contact sales for a full quote.」（https://flow.space/blog/best-order-management-software）
+  - 「Free plan available; paid plans start at $29/month, making it one of the most accessible options on this list」（https://flow.space/blog/best-order-management-software）
+  - 「Starter: from $14.99/mo | Standard: from $29.99/mo | Premium: from $349.99/mo (pricing scales with monthly shipment volume)」（https://flow.space/blog/best-order-management-software）
+  - 「The pricing divide is clear: budget tools like Zoho and ShipStation start under $30/month but lack enterprise automation. Mid-tier solutions like Cin7 run $349–$999/month for advanced features. Enterprise platforms require custom quotes but deliver the deepest functionality.」（https://flow.space/blog/best-order-management-software）
+  - 「Public listings show from ~$500/mo; some sources quote per-user from ~$48/user/month depending on plan and volume.」（https://velocity.medshift.com/blog/best-order-management-system/）
+  - 「Adds a B2B layer on top of your existing Shopify store; supports company-specific pricing, B2B payments/terms, MOQs, packs, and sales agents; quick to deploy.」（https://velocity.medshift.com/blog/best-order-management-system/）
+  - 「already use Shopify, want to keep your existing site, and need to turn it into a B2B storefront with custom pricing and quick B2B checkout.」（https://velocity.medshift.com/blog/best-order-management-system/）
+  - 「Entry “Self-Starter” plan around $99/mo for 1 user & up to 500 orders/month; higher tiers scale by users, order volume & integrations.」（https://velocity.medshift.com/blog/best-order-management-system/）
+  - 「Pricing often from ~$39/user/mo, with final pricing based on users, integrations, and features; typically quote-based beyond entry references.」（https://velocity.medshift.com/blog/best-order-management-system/）
+  - 「Contact vendor for pricing. Marketed as “affordable cost”; offers 14-day free trial and tiered plans for SMB wholesalers.」（https://velocity.medshift.com/blog/best-order-management-system/）
+  - 「Third-party comparisons indicate pricing from ~US$7,000/year, scaling with users and implementations; generally quote-based for serious wholesale programs.」（https://velocity.medshift.com/blog/best-order-management-system/）
+- 日本対応：
+  - 「Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「日本語 (Japanese）」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+- 検索結果の抜粋：
+  - 「Best Order Management Software for B2B in 2026 — Best Order Management Software for B2B in 2026 Velocity by MedShift https://velocity.medshift.com > blog」（https://velocity.medshift.com/blog/best-order-management-system/）
+  - 「Best Order Management Software for Small Businesses in 2026 — Best Order Management Software for Small Businesses in 2026 MRPeasy https://www.mrpeasy.com > blog > be...」（https://www.mrpeasy.com/blog/best-order-management-software/）
+  - 「7 Best Order Management Software for Small Business — 7 Best Order Management Software for Small Business Capterra https://www.capterra.com > resources」（https://www.capterra.com/resources/best-order-management-software-small-business/）
+  - 「Top 10 Best Order Management Software and Systems in 2026 — Top 10 Best Order Management Software and Systems in 2026 MetaOption https://www.metaoption.com > blog」（https://www.metaoption.com/blog/inventory-management/best-order-mangement-software/）
+  - 「What is Order Management Software ? 9 Top Solutions For 2026 — What is Order Management Software ? 9 Top Solutions For 2026 Zite https://www.zite.com > blog > order-...」（https://www.zite.com/blog/order-management-software）
+  - 「4 Best Order Management Systems (OMS) in 2026 - YouTube — 4 Best Order Management Systems (OMS) in 2026 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=pkPs7RRyrEA&vl=ja）
+  - 「Top 7 order management software tools for small businesses ... — Top 7 order management software tools for small businesses ... Jotform https://www.jotform.com > blog > or...」（https://www.jotform.com/blog/order-management-software/）
+  - 「Order Management Software : The Connected OMS - Pipe17 — Order Management Software : The Connected OMS - Pipe17 Pipe17 https://pipe17.com > order-managem...」（https://pipe17.com/order-management/）
+
+## 発注・購買管理（purchasing and procurement software for SMB）
+- 文脈：受発注
+- 提供企業：
+  - 「Onboard, evaluate, and manage vendors」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Quickbooks Desktop」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Manufacturing top Control & Power Systems' journey with Tradogram」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Can the platform stop or route a purchase before someone agrees to pay for it, or does it only document what already happened?」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Real-time budget tracking checks requests and approved orders against the relevant budget, so a budget owner sees the commitment when it's created rather than when it's invoiced. This is the specific gap described at the top of this article, and it's the capability most worth testing during a demo.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Native connections cover QuickBooks Online, QuickBooks Desktop, Xero, NetSuite, Sage, and Dynamics 365 Business Central. Reed's finance director put the before state plainly: "Before Tradogram, we were reconciling purchase orders and invoices manually across spreadsheets."」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「QuickBooks Online, QuickBooks Desktop, Xero, NetSuite, Sage, Oracle, SAP, Dynamics 365 Business Central, and more.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「A 30-day money-back guarantee applies even after onboarding and training. Few vendors in this category offer that, and it's a reasonable thing to hold them to.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「QuickBooks Online, QuickBooks Desktop and Enterprise, Xero, Sage Intacct, NetSuite, Microsoft Dynamics 365 Business Central, Bill.com, and Slack notifications. SOC 2 compliant.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「The platform is built for organizations with roughly 100 to 1,000 employees. A 25-person company can buy it, but will likely pay for governance depth it doesn't need yet, and reviewers note that customization and flexibility are areas where competitors do better.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Where Xero stops, connected tools continue, including the」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Analysts consistently place Coupa at the higher end of the market with meaningful implementation, integration, and training costs on top of subscription. Reviewers also cite a steep learning curve and complex systems integration.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Transaction-level and SKU-level pre-approvals stop out-of-policy spending before it happens, and vendor-specific, budget-controlled virtual cards handle the payment side.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Get the cost at your current size and at roughly double it. Some vendors index pricing to transaction volume or managed spend rather than seats, which changes the math considerably.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「All topics」（https://worldmetrics.org/best/small-business-purchasing-software/）
+- 自社名で出せる条件：
+  - 「GEP SMART is built cloud-native on a unified architecture with AI embedded throughout, and typically implements in 3 to 9 months versus 6 to 18 for Ariba, at meaningfully lower cost. For enterprises evaluating procurement software without a hard SAP dependency, it's a frequent competitive winner, often paired with GEP's managed-services team for full transformation programs.」（https://procurementvms.com/procurement/best-procurement-software.html）
+  - 「Unified architecture with embedded AI」（https://procurementvms.com/procurement/best-procurement-software.html）
+- 再販制度：
+  - 「Most teams arrive at this point the same way. Purchasing worked fine with a shared spreadsheet and a few emails when there were 10 people and one office. Then came a second location, a third budget owner, a handful of new suppliers, and a finance lead who now has to explain a variance nobody predicted.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「2) Every plan also includes 1,000 single-use AI credits, after which additional credits are purchased as add-ons, so the AI features that anchor the current marketing carry a variable cost that isn't in the subscription price.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「ERP integration depth varies by target system and may require manual steps」（https://worldmetrics.org/best/small-business-purchasing-software/）
+  - 「Receiving report granularity may not match teams needing detailed receiving variance workflows」（https://worldmetrics.org/best/small-business-purchasing-software/）
+  - 「Unified traceability links approvals, vendor activity, and card-backed spending into one reporting view for variance and audit trails.」（https://worldmetrics.org/best/small-business-procurement-software/）
+  - 「For small businesses, the value is traceable records that help managers quantify where spend originates and how approvals vary by team and vendor. Ramp also provides integrations with common accounting systems to reduce manual re-entry between procurement records and accounts payable processes.」（https://worldmetrics.org/best/small-business-procurement-software/）
+  - 「Teams enforce spending rules and record approvals against resulting purchases for clearer variance tracking.」（https://worldmetrics.org/best/small-business-procurement-software/）
+  - 「Approval routing flexibility matters when spending varies by amount, department, or project. If routing is rigid, you may end up with constant exceptions or bypasses.」（https://worldmetrics.org/best/small-business-procurement-software/）
+  - 「If you need approvals to vary by department or amount, prioritize approval routing flexibility.」（https://worldmetrics.org/best/small-business-procurement-software/）
+  - 「Review margins when supplier costs change」（https://www.linenow.co/procurement-software）
+  - 「Review margins and landed costs」（https://www.linenow.co/procurement-software）
+  - 「The product is a strong fit for manufacturers, distributors, contractors, chemical and pharma businesses, logistics operators, and other organizations that source goods or services from multiple suppliers. It is particularly relevant when procurement still depends on email attachments and comparison spreadsheets.」（https://www.auravms.com/blogs/procurement-automation-software-smb-practical-options-2026）
+  - 「varies based on company size, number of users, transaction volume, integrations, and implementation requirements.」（https://zapro.ai/procurement/best-procurement-software/）
+  - 「Most procurement software suppliers highlight AI capabilities, but the level of automation can vary by platform.」（https://zapro.ai/procurement/best-procurement-software/）
+  - 「Although actual costs vary by the needs and systems, Zapro AI, Precoro, and Procurify are some affordable options.」（https://zapro.ai/procurement/best-procurement-software/）
+- 黒字・収益性：
+  - 「Non-profit」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Nonprofit pricing.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Procurify now describes itself as an agentic procurement platform covering intake-to-pay, meaning it picks up at the moment someone requests something and carries through POs, invoices, payments, and card spend. The company reports managing more than $100 billion in spend for mid-market organizations in healthcare, education, biotechnology, manufacturing, and nonprofits.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「small teams whose main need is purchase request approval and budget tracking, particularly grant-funded and nonprofit organizations that must prove spend control during an audit.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Nonprofit Procurement」（https://zapro.ai/procurement/best-procurement-software/）
+- 売上：
+  - 「Most teams arrive at this point the same way. Purchasing worked fine with a shared spreadsheet and a few emails when there were 10 people and one office. Then came a second location, a third budget owner, a handful of new suppliers, and a finance lead who now has to explain a variance nobody predicted.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Premium is where the connected workflow arrives intact, and it's aimed at 20 or more users on a custom quote. Teams of eight who want the full workflow should get that number early in the conversation.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「2) Every plan also includes 1,000 single-use AI credits, after which additional credits are purchased as add-ons, so the AI features that anchor the current marketing carry a variable cost that isn't in the subscription price.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Procurify now describes itself as an agentic procurement platform covering intake-to-pay, meaning it picks up at the moment someone requests something and carries through POs, invoices, payments, and card spend. The company reports managing more than $100 billion in spend for mid-market organizations in healthcare, education, biotechnology, manufacturing, and nonprofits.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Free for businesses under $50,000 in annual revenue. Paid plans run roughly $20 to $275 per month depending on tier.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Practically, organizations with revenue above roughly $50 million and a dedicated procurement team are where the return case starts to hold.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Free under $50K revenue; paid from approximately $20/month」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+- 価格：
+  - 「Starts at $99 per month for 1 user.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Starts at $598 per month for 10 users. Purchasing & AP Automation starts at $1,020 per month. Enterprise is a custom quote.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Up to 10 users, five workflows, and 50 cards per month, with no credit card required. You can model your approval process and see whether the shape works before spending anything.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Pipefy advertises a fixed-price offer for companies with 11 to 200 employees, with discounts it describes as up to 90% off standard packages, subject to conditions. If you're in that band, ask about it directly rather than accepting list pricing.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「The small business fit has weakened. Kissflow's pricing is positioned around enterprise low-code deployments, scaling on user count, functionality, and transaction volume, and third-party listings describe entry configurations sized around 100 users. A 30-person company will likely find the procurement software capable, but will soon realize that the commercial model was built for someone else.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「Basic starts at $415 per month for up to 10 users.」（https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies）
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/small-business-purchasing-software/）
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/small-business-procurement-software/）
+  - 「Yes. LineNow is built for owners and managers who place supplier orders themselves, without a procurement department. The core plan is $100/month per business unit with a 90-day free trial and no credit card.」（https://www.linenow.co/procurement-software）
+  - 「Yes. The core plan has a 90-day free trial with no credit card required. Optional add-ons have separate pricing and trial terms. Use the trial to test one supplier order through receiving with your buyer and daily operator.」（https://www.linenow.co/procurement-software）
+  - 「The core plan is $100/month per active business unit after the 90-day trial. It includes unlimited items, suppliers, and users. Optional add-ons have separate prices and terms.」（https://www.linenow.co/procurement-software）
+  - 「Every product is looked at against the same criteria: fit, ease of use, implementation effort, value, AI depth, support and integration. We draw on public review platforms such as G2 and Capterra, vendor documentation and pricing pages, and each page names its sources and shows when it was last updated.」（https://procurementvms.com/）
+  - 「and supplier quote comparison, AuraVMS is the most direct option in this list. Suppliers can respond without creating an account, buyers can compare quotations side by side, prices receive automatic L1, L2, and L3 ranking, and the workflow supports anonymous bidding and purchase orders. AuraVMS starts at $5/month.」（https://www.auravms.com/blogs/procurement-automation-software-smb-practical-options-2026）
+  - 「AuraVMS starts at $5/month.」（https://www.auravms.com/blogs/procurement-automation-software-smb-practical-options-2026）
+  - 「ClickUp currently lists Free Forever, Unlimited at $7 per user per month billed yearly, Business at $12 per user per month billed yearly, and Enterprise by quote. The same page lists monthly rates of $10 for Unlimited and $19 for Business.」（https://www.auravms.com/blogs/procurement-automation-software-smb-practical-options-2026）
 - 日本対応：記載なし（読んだ39頁・検索8回）
 
-## AM部品選定（適性判定）（additive manufacturing part screening software）
-- 文脈：wl-A AM
-- 売上：
-  - 「Business is booming at Ohio-based Everyday Technologies, with revenue projected to grow 50% this year. But rapid growth...」（https://www.thefabricator.com/additivereport/article/additive/to-3d-print-or-not-to-3d-print-software-identifies-parts-for-am-1）
+## 外注先への発注・進捗管理（subcontractor order and job tracking software）
+- 文脈：受発注
 - 提供企業：記載なし（読んだ40頁・検索8回）
 - 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
 - 再販制度：記載なし（読んだ40頁・検索8回）
 - 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 売上：記載なし（読んだ40頁・検索8回）
 - 価格：記載なし（読んだ40頁・検索8回）
 - 日本対応：記載なし（読んだ40頁・検索8回）
 
-## ラティス・形状生成（lattice design software）
-- 文脈：wl-A AM
+## 見積書作成ツール（quote and proposal software）
+- 文脈：見積もり
 - 提供企業：
-  - 「Q&A - Lattice design software for 3D printing with nTopology - DEVELOP3D」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
-  - 「Q&A – Lattice design software for 3D printing with nTopology」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
-  - 「nTopology」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
-  - 「Spencer Wright, VP Product nTopology:」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
-  - 「Yes! We can import STL, OBJ or Parasolid files that are exported from an assembly-level CAD model, and can export those same formats to go to your FEA and/or CAM software. It’s also possible to design a part from scratch with nTopology Element – but most of our customers have a CAD/FEA/CAM workchain that they’re comfortable with, and we support them at every step.」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
-  - 「ntopology.com/elementfree」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+  - 「Stop sending prices.」（https://www.quote.cloud/proposal-software）
+  - 「Stop getting in your own way. Minimize the approvals process without losing control of what your reps are sending out the door with standardized, pre-approved content.」（https://www.proposify.com/）
+  - 「Stop losing big deals because of small errors.」（https://www.proposify.com/）
+  - 「Proposify is the leading proposal software on G2, Capterra, and other review sites.」（https://www.proposify.com/）
+  - 「Our SSO works with identity providers like Salesforce, Okta, and Azure」（https://www.proposify.com/）
+  - 「QuoteWerks Desktop」（https://quotewerks.com/solutions/proposal-software/?srsltid=AYCX9vLs1nb3f0dSQ1d06zFpeQrs-XNUUpaWrDigvKZJ8FptV21gNGyT）
+  - 「Close QuoteWerks Desktop」（https://quotewerks.com/solutions/proposal-software/?srsltid=AYCX9vLs1nb3f0dSQ1d06zFpeQrs-XNUUpaWrDigvKZJ8FptV21gNGyT）
+  - 「Open QuoteWerks Desktop」（https://quotewerks.com/solutions/proposal-software/?srsltid=AYCX9vLs1nb3f0dSQ1d06zFpeQrs-XNUUpaWrDigvKZJ8FptV21gNGyT）
+  - 「QuoteWerks Web for Desktop Users」（https://quotewerks.com/solutions/proposal-software/?srsltid=AYCX9vLs1nb3f0dSQ1d06zFpeQrs-XNUUpaWrDigvKZJ8FptV21gNGyT）
+  - 「MSPs & IT Solution Providers」（https://quotewerks.com/solutions/proposal-software/?srsltid=AYCX9vLs1nb3f0dSQ1d06zFpeQrs-XNUUpaWrDigvKZJ8FptV21gNGyT）
+  - 「Compare QuoteWerks Alternatives」（https://quotewerks.com/solutions/proposal-software/?srsltid=AYCX9vLs1nb3f0dSQ1d06zFpeQrs-XNUUpaWrDigvKZJ8FptV21gNGyT）
+  - 「Find out why QuoteWerks is the market-leading CPQ solution for SMBs.」（https://quotewerks.com/solutions/proposal-software/?srsltid=AYCX9vLs1nb3f0dSQ1d06zFpeQrs-XNUUpaWrDigvKZJ8FptV21gNGyT）
+  - 「View all competitors」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Pricing leaders already see quoting as a top target. In a」（https://www.teamwork.com/blog/quoting-software/）
+  - 「, 63% ranked configuration, quotes, and deal pricing a top-three agentic AI opportunity. Respondents are cross-sector and mostly product companies, so read it as direction.」（https://www.teamwork.com/blog/quoting-software/）
+- 自社名で出せる条件：
+  - 「White Label Proposal Software | Proposable」（https://proposable.com/white-label-proposal-software）
+  - 「White Label Proposal Software」（https://proposable.com/white-label-proposal-software）
+  - 「With a whitelabel proposal software for members and resellers, you can offer a instant solution for your member or reseller proposal process. Proposable provides a platform to deploy templates and other templated sales content directly to all your member or reseller sub-accounts while maintaining your member or reseller brands.」（https://proposable.com/white-label-proposal-software）
+  - 「Private Label Proposal Software」（https://proposable.com/white-label-proposal-software）
+  - 「When it comes to improving your reseller proposals or member proposals, private label proposal software should be the first thing you consider. Here are the main benefits to empowering your network with proposal software:」（https://proposable.com/white-label-proposal-software）
+  - 「White Label Estimate Software」（https://proposable.com/white-label-proposal-software）
+  - 「With the Proposable private label proposal system, you can enable your members and resellers to deliver custom proposals in minutes, not hours and drastically improve the proposal consistency across your entire organization while at the same time reducing errors.」（https://proposable.com/white-label-proposal-software）
+  - 「Another benefit of the Proposable White label proposal software account is that your members and resellers can maintain their own branding while at the same time, use the templates and sales content you provide. This gives them a supercharged sales process where they have ready-made templates that can be delivered to new prospects with little effort on their end.」（https://proposable.com/white-label-proposal-software）
+  - 「Our private label proposal software solution gives your members or resellers all the benefits of modern proposal software, and couples that with your industry expertise in the form of a pre-populated library of sales templates they can start using in minutes with little to no training.」（https://proposable.com/white-label-proposal-software）
+  - 「Your logo, colours and fonts on every document, with QuoteCloud branding removed.」（https://www.quote.cloud/proposal-software）
+  - 「They'll elevate your brand, reinforce your professionalism, and help your company stand out (way out) from the competition.」（https://www.proposify.com/）
+  - 「Unlimited flexibility to design beautiful proposal templates customized to your unique brand. No time to design your own? No problem. Our Professional Services team will build an interactive template based on your brand and our best practices.」（https://www.proposify.com/）
+  - 「Images can be uploaded directly, videos can be embedded from external sources like YouTube, Vidyard, and Wistia」（https://www.proposify.com/）
+  - 「Custom domain」（https://www.proposify.com/）
+  - 「Quote and proposal software is where deal velocity now lives. The average B2B buyer expects a personalized, e-signable, price-configured proposal delivered within hours of a discovery call not days. Teams that still send static Word documents attached to email lose deals to teams that send interactive proposals with live pricing, embedded video, and one-click signature.」（https://www.finlens.app/blogs/quote-and-proposal-software）
 - 再販制度：
-  - 「Since lattices are used in such a wide range of industries, we off er a variety of purchasing options. Most industrial customers will want a full Pro package, but for niche applications and smaller companies we also sell individual Pro modules at a much lower cost. It’s really up to your needs – we’re happy to support you however we can!」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+  - 「Empower your members or resellers to」（https://proposable.com/white-label-proposal-software）
+  - 「tailor-made proposal templates to your members or resellers for consistent and trackable sales proposals.」（https://proposable.com/white-label-proposal-software）
+  - 「Enable your members or resellers to quickly build quotes, bids, and estimates with our flexible estimate block within your provided templates. With optional line-items, optional quantities, taxes, discounts and more, you can quickly represent your products and services in a polished and readable format. Organize all your products and services in the Pricing Catalog for instant recall.」（https://proposable.com/white-label-proposal-software）
+  - 「Help your members and resellers close the deal faster with integrated e-Signatures. Place signatures, initials, and text field elements throughout your proposal templates wherever you need prospects to take action and prospects are guided through a quick acceptance workflow to complete their acceptance. Counter-signing support is also included.」（https://proposable.com/white-label-proposal-software）
+  - 「Ever wonder what happens to your proposal after you hit “send”? Enable members and resellers to see detailed analytics and measure how each recipient is interacting with their sales material. Turn on real-time text or email notifications for proposal views and other key events.」（https://proposable.com/white-label-proposal-software）
+  - 「Help members and resellers to save time and headaches by skipping the painful copy/paste and find & replace on all new proposals for their prospects and customers. Simplify their new proposal workflow to just a few clicks and go from spending hours on customizing new proposals to just minutes.」（https://proposable.com/white-label-proposal-software）
+  - 「With a whitelabel proposal software for members and resellers, you can offer a instant solution for your member or reseller proposal process. Proposable provides a platform to deploy templates and other templated sales content directly to all your member or reseller sub-accounts while maintaining your member or reseller brands.」（https://proposable.com/white-label-proposal-software）
+  - 「There are many frustrations with trying to enable a smoother proposal process for your members or resellers to sell more efficiently. Proposable removes the pain by empowering you to give your members and resellers a custom Proposable account where you get to control all their sales content and offer a simplified and trackable proposal, estimate, or quoting process.」（https://proposable.com/white-label-proposal-software）
+  - 「Proposable provides deep visibility into all your member or resellers’ proposal deliveries and provides real-time tracking and reporting of all delivered sales material across your entire organization. This gives you an unparalleled view into what material is working for your members or resellers and what material is not, helping you to further hone your distributed member member content.」（https://proposable.com/white-label-proposal-software）
+  - 「When it comes to improving your reseller proposals or member proposals, private label proposal software should be the first thing you consider. Here are the main benefits to empowering your network with proposal software:」（https://proposable.com/white-label-proposal-software）
+  - 「With Proposable, you can provide your members and resellers with beautiful and consistent templates tailored to your industry and their customers, giving them a powerful tool to win more business.」（https://proposable.com/white-label-proposal-software）
+  - 「You simplify member or reseller proposal process:」（https://proposable.com/white-label-proposal-software）
+  - 「most resellers are left on their own to create their own sales proposal process and often times it’s a messy affair. Give your members a simplified proposal process」（https://proposable.com/white-label-proposal-software）
+  - 「You gain visibility into member or reseller proposals:」（https://proposable.com/white-label-proposal-software）
+  - 「When you deploy Proposable to your members or resellers, you gain visibility into your entire membership sales proposals. With our proposals dashboard, you will see all member proposals and proposal activity in real time.」（https://proposable.com/white-label-proposal-software）
+- 黒字・収益性：
+  - 「Improve profitability」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Track costs and maximize profitability」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Better time tracking. More profits」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Track budgets and profits」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Real-time budgets and profitability」（https://www.teamwork.com/blog/quoting-software/）
+  - 「SugarCRM increased productivity and profitablity」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Profitability Hub」（https://www.teamwork.com/blog/quoting-software/）
+  - 「puts average EBITDA across 500+ firms worldwide at 9.9%, against a five-year average of 13.8%.」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Live cost, profit, and margin」（https://www.teamwork.com/blog/quoting-software/）
+  - 「The quote shows cost, profit, and margin before the client sees it.」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Live cost and margin on quotes, quote-to-project conversion, forecast project profitability with AI」（https://www.teamwork.com/blog/quoting-software/）
+  - 「, each line is a task, allocation, billable expense, or custom item, assigned to a person or placeholder role. Cost, profit, and margin recalculate as you edit, and you send a price you've already stress-tested.」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Budgeting & Profitability」（https://www.teamwork.com/blog/quoting-software/）
+  - 「shows whether those roles have room. Forecast project profitability with AI then projects where margin is heading, so you commit to dates and margin you can see.」（https://www.teamwork.com/blog/quoting-software/）
+  - 「, agents that work from your real project data. Flo checks project health and drafts client updates, while Scout recaps what you missed and turns meetings into summaries and action items. Jack runs custom jobs across tools like HubSpot and Xero, and Kash, a profitability teammate, is coming soon.」（https://www.teamwork.com/blog/quoting-software/）
+- 売上：
+  - 「How Fern Grew Revenue 200% with Proposify」（https://www.proposify.com/）
+  - 「Priced by role, that $18,000 quote carries a 45.8% margin. Let hours run 10% over and cost hits $10,725, cutting margin to about 40%. Speed and design wouldn't show that gap. For tracking it after the sale, see our」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Revenue Hub Professional from $57/seat/month (billed annually, promo for new Sales Hub buyers)」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Small pricing errors carry outsized weight. The same McKinsey article estimates that, on average, a 1% price increase lifts operating profit 8.7%, assuming no volume loss. Even cross-industry, it shows why a few mispriced points add up.」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Yes. Salesforce Revenue Cloud includes price and quote, a product configurator, and advanced approvals, from $150/user/month billed annually as a Sales Cloud add-on. Teamwork.com connects to Salesforce on Optimize, turning CRM pipeline into tentative projects you can quote and staff.」（https://www.teamwork.com/blog/quoting-software/）
+  - 「This guide covers ten platforms that consistently rank at top of buyer shortlists in 2026, how they differ, who each is best for, and a decision framework at end for narrowing down. It is written for sales, revenue-ops,」（https://www.finlens.app/blogs/quote-and-proposal-software）
+  - 「Custom (typically $50K+ ARR) ·」（https://www.finlens.app/blogs/quote-and-proposal-software）
+  - 「9. Salesforce Revenue Cloud」（https://www.finlens.app/blogs/quote-and-proposal-software）
+  - 「79% of revenue leaders want to increase win rates, yet our research found that 33% of sales teams still don’t use proposal software [」（https://www.getaccept.com/blog/proposal-software）
+  - 「Try the proposal software trusted by 5000+ revenue teams」（https://www.getaccept.com/blog/proposal-software）
+  - 「Yes. If you create 15 proposals monthly and save 17+ hours each, you’re saving 255+ hours monthly. At $100/hour, that’s $25,500 in time savings versus $200-600 in software costs. Plus 20-45% higher win rates and 70% conversions increase revenue significantly.」（https://www.swydo.com/blog/best-proposal-software/）
+  - 「How Fern Grew Revenue 200% with Proposify」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「How Fern Grew Revenue 200% with Proposify」（https://www.proposify.com/blog/quoting-software）
+  - 「It is an add-on to Salesforce Revenue Cloud, which starts at $150/month」（https://www.proposify.com/blog/quoting-software）
+  - 「The CPQ feature is included in the Salesforce Revenue Cloud Pricing package, which starts at $150 per user/month.」（https://www.proposify.com/blog/quoting-software）
+- 価格：
+  - 「Nine tools compared on cost visibility, quote-to-project conversion, CRM fit, and live 2026 pricing.」（https://www.teamwork.com/blog/quoting-software/）
+  - 「I judged each tool by the question my old spreadsheets never answered: will this price make money once real people deliver it? Competitor details reflect each vendor's public pricing and feature pages as of October 2026.」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Free for 5 users; from $9.99/user/month (billed annually); quotes on Optimize (custom pricing)」（https://www.teamwork.com/blog/quoting-software/）
+  - 「From $19/seat/month (listed price)」（https://www.teamwork.com/blog/quoting-software/）
+  - 「From $35/user/month (billed annually)」（https://www.teamwork.com/blog/quoting-software/）
+  - 「From $17/user/month (listed price, minimum 5 users)」（https://www.teamwork.com/blog/quoting-software/）
+  - 「Revenue Hub Professional from $57/seat/month (billed annually, promo for new Sales Hub buyers)」（https://www.teamwork.com/blog/quoting-software/）
+  - 「From $150/user/month (billed annually)」（https://www.teamwork.com/blog/quoting-software/）
+  - 「From $28/month (flat)」（https://www.teamwork.com/blog/quoting-software/）
+  - 「With over 88,000 Users in 101 countries, QuoteWerks is the market-leading sales quoting and proposal solution. What really sets QuoteWerks apart is its turn-key implementation, affordable pricing, legendary phone support, …」（https://www.featuredcustomers.com/software/quoting-and-proposal-software）
+  - 「he 10 best quote and proposal software platforms for 2026, compared. Features, pricing, ideal buyer, and a decision framework for sales teams, agencies, and professional services firms.」（https://www.finlens.app/blogs/quote-and-proposal-software）
+  - 「Quote and proposal software is where deal velocity now lives. The average B2B buyer expects a personalized, e-signable, price-configured proposal delivered within hours of a discovery call not days. Teams that still send static Word documents attached to email lose deals to teams that send interactive proposals with live pricing, embedded video, and one-click signature.」（https://www.finlens.app/blogs/quote-and-proposal-software）
+  - 「), driven by AI-generated content, deeper CPQ integrations, and collapse of boundary between proposal, contract, and e-signature. That growth has produced a crowded market dozens of platforms, overlapping feature sets, and pricing that ranges from $19/user/month at low end to enterprise contracts north of $100,000/year.」（https://www.finlens.app/blogs/quote-and-proposal-software）
+  - 「The ten platforms below were selected on four dimensions: (1) breadth of features across templates, CPQ, e-sign, and analytics; (2) integration ecosystem, especially CRM and payment; (3) pricing transparency and value at small-to-mid segment; (4) verified user review volume on」（https://www.finlens.app/blogs/quote-and-proposal-software）
+  - 「Pricing is listed at published starting tiers as of early 2026 and does not include implementation or add-on modules enterprise buyers should expect meaningful uplift over sticker.」（https://www.finlens.app/blogs/quote-and-proposal-software）
 - 検索結果の抜粋：
-  - 「Q&A - Lattice design software for 3D printing with nTopology — Q&A - Lattice design software for 3D printing with nTopology develop3d https://develop3d.com > opinion > lat...」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+  - 「Sales Proposal Software - Increase your closing rate by 23% — Sales Proposal Software - Increase your closing rate by 23% QuoteCloud https://www.quote.cloud > proposal-s...」（https://www.quote.cloud/proposal-software）
+  - 「Proposal Software : A Comparison of the Top 10 — Proposal Software : A Comparison of the Top 10 Better Proposals https://betterproposals.io > blog > pro...」（https://betterproposals.io/blog/proposal-management-software/）
+  - 「8 best proposal software for sales (100% tested) - GetAccept — 8 best proposal software for sales (100% tested) - GetAccept GetAccept https://www.getaccept.com > blog > p...」（https://www.getaccept.com/blog/proposal-software）
+  - 「7 Best Proposal Software for Marketing Agencies to Help You ... — 7 Best Proposal Software for Marketing Agencies to Help You ... Swydo https://www.swydo.com > blog > best...」（https://www.swydo.com/blog/best-proposal-software/）
+  - 「10 Best Proposal Software for Marketing Agencies (2026) — 10 Best Proposal Software for Marketing Agencies (2026) Proposify https://www.proposify.com > blog」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「10 Best Quote and Proposal Software Platforms for 2026 ... — 10 Best Quote and Proposal Software Platforms for 2026 ... Finlens https://www.finlens.app > Blogs」（https://www.finlens.app/blogs/quote-and-proposal-software）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## CPQ（構成・価格・見積）（CPQ software for SMB）
+- 文脈：見積もり
+- 提供企業：
+  - 「, 73% of small businesses report that slow, error-prone quoting is their biggest obstacle to closing deals on custom products. That's exactly why CPQ software has become one of the most recommended sales tools for small businesses on platforms like G2 and」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「While you're crafting the "perfect" quote, competitors are closing deals faster.」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「Integrates with platforms like」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「ConnectWise CPQ is specifically designed for managed service providers, IT resellers, and technology-focused small businesses.」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「IT services companies and managed service providers」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「, Experlogix excels when product configuration complexity exceeds what simpler tools can handle. This is especially true in sectors where integration is a top priority, a best practice highlighted by experts at」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「Purpose-built for technology companies and IT service providers.」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「The best CPQ software depends on your specific needs. For visual, ecommerce-first CPQ, Kickflip leads with no-code setup and storefront integration. For document-heavy workflows, PandaDoc CPQ excels. For extensive integrations, QuoteWerks is top-rated. The key is matching the tool to your product type and sales process, a common topic on user Q&A platforms like」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「By far, and I truly mean it, the best customizer available on Shopify. It’s easy to understand and manage, offers options for all types of products, and works extremely well. On top of that, it looks beautiful and feels premium. Highly recommended.」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「Alternatives」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「, so reps stop stitching quotes to contracts to invoices by hand. It handles subscription, usage-based, and hybrid pricing natively, and reps can update a live quote without resending a single document.」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「is a CPQ tool built for IT resellers and managed service providers that quote hardware. Its strength is pulling live pricing straight from distributors, so a quote reflects what parts actually cost the day you send it.」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「Most CPQ roundups stop at the list and leave you to sort it out. This is the part they skip: four questions that rule tools out fast, so you can reach a decision this week instead of next quarter. Answer them in order, and your shortlist shrinks with each one.」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「In the bustling world of small businesses, finding ways to be more efficient is often a top priority. Have you ever wondered how the right technology can make a difference? Enter the best CPQ software—a true game changer! It provides tools that not only streamline quoting but also enhance proposal accuracy and optimize sales workflows.」（https://blog.genalpha.com/10-best-cpq-software-for-small-businesses-to-boost-sales-efficiency/）
+  - 「But with so many options out there, how do you choose the right one? This article dives into the top CPQ software for small businesses, showcasing their unique features and the significant advantages they can bring to your sales process.」（https://blog.genalpha.com/10-best-cpq-software-for-small-businesses-to-boost-sales-efficiency/）
+- 自社名で出せる条件：
+  - 「Customizable sales pages with embedded quote generation」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「embedded directly in your online store. Customers see their customizations in real-time as they select colors, materials, add text, or upload logos.」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「6 Best White Label Software for Billing, Invoicing, and Subscriptions」（https://cloudmore.com/content-hub/white-label-software）
+  - 「White Label Customer Portal」（https://cloudmore.com/content-hub/white-label-software）
+  - 「In this article, we're diving into the six best white label software solutions reshaping these vital business functions. You'll get an in-depth look at their features, pricing, and usability.」（https://cloudmore.com/content-hub/white-label-software）
+  - 「Discover how these software solutions can align with your brand and drive your business success in an increasingly competitive digital marketplace.」（https://cloudmore.com/content-hub/white-label-software）
+  - 「What is White Label Software, and Why is it Good for Your Business?」（https://cloudmore.com/content-hub/white-label-software）
+  - 「White label software is a powerful tool in the modern business landscape.」（https://cloudmore.com/content-hub/white-label-software）
+  - 「Essentially, it's a product created by one company but rebranded and sold by another.」（https://cloudmore.com/content-hub/white-label-software）
+  - 「Imagine having a sophisticated software solution that fits seamlessly into your business, enhancing your brand's value without requiring extensive development time or resources.」（https://cloudmore.com/content-hub/white-label-software）
+  - 「This is what white label software offers –」（https://cloudmore.com/content-hub/white-label-software）
+  - 「a customizable, ready-to-use solution under your brand name」（https://cloudmore.com/content-hub/white-label-software）
+  - 「The beauty of white label solutions lies in their versatility. Whatever purpose they serve, these solutions cater to diverse business needs. This means enhanced efficiency and a professional edge in client interactions for your business.」（https://cloudmore.com/content-hub/white-label-software）
+  - 「White label solutions」（https://cloudmore.com/content-hub/white-label-software）
+  - 「With white label software, you're not just buying a tool but investing in a flexible, scalable solution that grows with your business.」（https://cloudmore.com/content-hub/white-label-software）
+- 再販制度：
+  - 「ConnectWise CPQ is specifically designed for managed service providers, IT resellers, and technology-focused small businesses.」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「Technology resellers and channel partners」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「is a CPQ tool built for IT resellers and managed service providers that quote hardware. Its strength is pulling live pricing straight from distributors, so a quote reflects what parts actually cost the day you send it.」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「It is for IT resellers, MSPs, and VARs selling hardware through distributor relationships, with real-time pricing from Ingram Micro, TD SYNNEX, and Autotask.」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「It might not be a fit if you don't sell hardware through distributor relationships. For a SaaS business, the distributor and PSA integrations are dead weight you'd never touch.」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「Hardware through distributors」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「Distributors」（https://blog.genalpha.com/10-best-cpq-software-for-small-businesses-to-boost-sales-efficiency/）
+  - 「Throughout this article, we’ve highlighted various software solutions like Equip360, DealHub, Conga, Salesforce CPQ, SAP CPQ, Oracle CPQ Cloud, FPX CPQ, Tacton CPQ, Zywave CPQ, and Apttus CPQ. Each of these platforms comes with unique features and benefits. For instance, they can:」（https://blog.genalpha.com/10-best-cpq-software-for-small-businesses-to-boost-sales-efficiency/）
+  - 「Partner program」（https://reflektlab.ai/blog/cpq-for-small-business/）
+  - 「Software Distributors」（https://cloudmore.com/content-hub/white-label-software）
+  - 「: Ensures quick and hassle-free invoicing, supporting various payment methods for convenience.」（https://cloudmore.com/content-hub/white-label-software）
+  - 「Invoice Ninja presents itself as a comprehensive, user-friendly solution for various professionals and small to medium-sized businesses, ensuring that every aspect of billing and invoicing is covered.」（https://cloudmore.com/content-hub/white-label-software）
+  - 「: Incorporates Billing, CPQ, CRM, Fulfillment Orchestration, and Channel Partner Enablement on a single platform.」（https://cloudmore.com/content-hub/white-label-software）
+  - 「OneBill is designed for a diverse range of industries and roles, making it a versatile choice for various business models:」（https://cloudmore.com/content-hub/white-label-software）
+  - 「: Suitable for Communications, Internet of Things (IoT), MSPs & VARs, XaaS, Logistics, Energy and Utility Companies, Healthcare, and Lease Management.」（https://cloudmore.com/content-hub/white-label-software）
+- 黒字・収益性：
+  - 「pragmaticinstitute.com (https://pragmaticinstitute.com/resources/articles/data/datas-impact-on-revenue-turning-data-insights-into-profits)」（https://blog.genalpha.com/10-best-cpq-software-for-small-businesses-to-boost-sales-efficiency/）
+  - 「: Providing tools and resources to scale agency operations and increase profitability.」（https://cloudmore.com/content-hub/white-label-software）
+  - 「Leaving margin protection to individual rep judgment rarely ends well. Some reps discount to move faster, others hold firm, and buyers quickly figure out where the best concessions come from. Over time, that inconsistency chips away at profitability.」（https://monday.com/blog/crm-and-sales/cpq/）
+  - 「Nonprofits」（https://monday.com/blog/crm-and-sales/cpq/）
+  - 「Nonprofit」（https://monday.com/blog/crm-and-sales/cpq/）
+  - 「QuoteWerks has been around since the '90s, it's still self-funded, and it publishes its prices on a page you can read without giving anyone your email. If that wasn't enough, it's also the only tool here that treats the quote as a purchasing document, which is exactly what an IT reseller or MSP needs it to be.」（https://zapier.com/blog/cpq-software-vendors/）
+  - 「Pricing engines ensure maximum profitability for each deal, and that all quotes are in line with your company’s business goals.」（https://cpq-integrations.com/cpq-software-small-businesses/）
+  - 「If you can’t provide an accurate quote that’s also feasible for your business to every customer, you’ll never be able to run a profitable operation. And, for small businesses, that can be the difference between staying afloat and going under.」（https://cpq-integrations.com/cpq-software-small-businesses/）
+  - 「CPQ software acts as a guardrail for your quoting process, ensuring every quote your team or your partners send is accurate, profitable, and professional.」（https://journeybee.io/cpq-software）
+  - 「CPQ software improves revenue by enabling faster response times, more consistent quoting, and better deal execution. It also protects margins by enforcing pricing rules and reducing unauthorized discounting. Over time, this leads to more predictable revenue and improved profitability across the sales organization.」（https://quotewerks.com/solutions/cpq-software/）
+  - 「Monetize services and make partnerships profitable」（https://www.csgi.com/insights/cpq-implementation-guide）
+  - 「Learn why and how your generic CPQ is impacting your business growth and profitability, and what you can do to fix it.」（https://www.csgi.com/insights/cpq-implementation-guide）
+- 売上：
+  - 「6. Salesforce CPQ (Revenue Cloud): Best for Growing Small Businesses Already on Salesforce」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「30% of your revenue happens while you sleep」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「Dynamic pricing strategies can boost revenue by up to 30% during peak demand periods, highlighting the importance of adapting pricing to market fluctuations.」（https://blog.genalpha.com/10-best-cpq-software-for-small-businesses-to-boost-sales-efficiency/）
+  - 「The trade-off is real: implementation typically requires months of configuration and dedicated Salesforce admin support. It is built for scale and complexity, which means smaller teams often find it over-engineered for their current needs. If you are under $10M ARR, the cost-to-value ratio rarely works in your favor yet.」（https://www.sybill.ai/blogs/best-cpq-software）
+  - 「The caveat: DealHub is better suited for teams above $10M ARR. Below that threshold, the sophistication can outpace the need.」（https://www.sybill.ai/blogs/best-cpq-software）
+  - 「B2B SaaS companies with recurring revenue」（https://monday.com/blog/crm-and-sales/cpq/）
+  - 「B2B and B2C revenue teams that want one place to run the customer journey, from lead capture to post-sale follow-through」（https://monday.com/blog/crm-and-sales/cpq/）
+  - 「7.Reporting and revenue analytics」（https://monday.com/blog/crm-and-sales/cpq/）
+  - 「Revenue Cloud Growth ($150/user/month), Revenue Cloud Advanced ($200/user/month), both billed annually; requires a Sales Cloud, Service Cloud, or CRM license」（https://zapier.com/blog/cpq-software-vendors/）
+  - 「The standard edition carries a 50-user minimum」（https://zapier.com/blog/cpq-software-vendors/）
+  - 「Read the pricing page carefully, though. The $98 seat carries a 50-user minimum, so you're at roughly (*checks math on every finger and toe*) $4,900 a month before implementation or add-ons. And the obvious con: if SAP isn't your ERP, the past few paragraphs were pretty much moot. If it」（https://zapier.com/blog/cpq-software-vendors/）
+  - 「Compare the best CPQ software in 2026, from Salesforce Revenue Cloud to QuoteWerks and Oracle, plus how to choose and connect quotes to commissions.」（https://www.qobra.co/blog/cpq-software）
+  - 「The leading 2026 platforms each fit a different profile: Salesforce Revenue Cloud (Salesforce-native), DealHub (mid-market), QuoteWerks (SMB), Conga and Oracle (complex enterprise), PandaDoc (proposals), and Experlogix (configurable products).」（https://www.qobra.co/blog/cpq-software）
+  - 「1. Salesforce Revenue Cloud」（https://www.qobra.co/blog/cpq-software）
+  - 「custom quote across three tiers, CPQ+, CPQ + CLM, and Quote-to-Revenue, with third-party estimates around $60-83 per user per month, at or below Salesforce and below Oracle.」（https://www.qobra.co/blog/cpq-software）
+- 価格：
+  - 「Picture this: A customer wants to order 50 custom t-shirts with their company logo, specific colors, and embroidery details. Your team spends three days going back and forth on emails, creating quotes in spreadsheets, recalculating pricing, and fixing mistakes. By the time you send the final quote, the customer has already moved on to a competitor who quoted them in 2 hours.」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「Scale plan starts at $59/month with transaction fees from 1.95% down to 0% as sales grow. CPQ add-on is $99/month with 10 free quotes included.」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「Starter begins at $500/month」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「Starter runs $500/month and Growth runs $1,500/month per」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「Premium plans start at $19/user/month, and most teams are live in 8 to 12 weeks without a consultant.」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「Professional runs $95/seat/month and Enterprise runs $150/seat/month」（https://www.salesbricks.com/blog/best-cpq-software-for-small-business）
+  - 「But wait, there’s more! can by up to 30% during peak demand periods. It really shows how crucial it is to adapt pricing to market fluctuations. Still, it’s important for small enterprises to keep an eye on their to ensure they’re hitting the mark consistently.」（https://blog.genalpha.com/10-best-cpq-software-for-small-businesses-to-boost-sales-efficiency/）
+  - 「Dynamic pricing strategies can boost revenue by up to 30% during peak demand periods, highlighting the importance of adapting pricing to market fluctuations.」（https://blog.genalpha.com/10-best-cpq-software-for-small-businesses-to-boost-sales-efficiency/）
+  - 「. A complete application with approvals, pricing history and integrations is $18,000 to $45,000. Running it starts around」（https://reflektlab.ai/blog/cpq-for-small-business/）
+  - 「$470 per month」（https://reflektlab.ai/blog/cpq-for-small-business/）
+  - 「: Offers a free plan and paid plans starting at $100 per year」（https://cloudmore.com/content-hub/white-label-software）
+  - 「: Offer three different plans which have monthly, yearly, and lifetime pricing tiers, with the lowest starting at $19 per month」（https://cloudmore.com/content-hub/white-label-software）
+  - 「: Multiple pricing tiers: Silver, Gold, Platinum, and Diamond with the lowest monthly starting at $495 per month」（https://cloudmore.com/content-hub/white-label-software）
+  - 「Oracle CPQ is built for scale and complexity at a level that most B2B SaaS companies will never need. It handles thousands of product line items, multi-tier pricing across global markets, and deep ERP integration with Oracle's broader ecosystem. For manufacturing companies and large enterprise software vendors with highly configurable products, it remains one of the most capable tools available.」（https://www.sybill.ai/blogs/best-cpq-software）
+  - 「$15/seat/month」（https://monday.com/blog/crm-and-sales/cpq/）
+- 日本対応：
+  - 「Japanese Yen (JPY)」（https://www.salesforce.com/sales/cpq/?bc=OTH）
+- 検索結果の抜粋：
+  - 「7 Best CPQ Software For Small Businesses in 2026 - Kickflip — 7 Best CPQ Software For Small Businesses in 2026 - Kickflip gokickflip.com https://gokickflip.com > Blog」（https://gokickflip.com/blog/best-cpq-software-for-small-business）
+  - 「10 Best CPQ Software for Small Businesses to Boost Sales ... — 10 Best CPQ Software for Small Businesses to Boost Sales ... GenAlpha Technologies https://blog.genalpha.com > 10-best-c...」（https://blog.genalpha.com/10-best-cpq-software-for-small-businesses-to-boost-sales-efficiency/）
+  - 「Best CPQ Software for B2B Sales Teams in 2025: A RevOps ... — Best CPQ Software for B2B Sales Teams in 2025: A RevOps ... Sybill.ai https://www.sybill.ai > blogs > best-cp...」（https://www.sybill.ai/blogs/best-cpq-software）
+  - 「7 Of The Best CPQ Software Options for B2B SaaS - Reddit — 7 Of The Best CPQ Software Options for B2B SaaS - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/Quote_to_Cash/comments/1tf41d9/7_of_the_best_cpq_software_options_for_b2b_saas/）
+  - 「The 8 Best CPQ Software Vendors in 2026 - Zapier — The 8 Best CPQ Software Vendors in 2026 - Zapier Zapier https://zapier.com > ... > Best apps」（https://zapier.com/blog/cpq-software-vendors/）
+  - 「CPQ Software Top Vendors - 2026 Rankings - Godlan — CPQ Software Top Vendors - 2026 Rankings - Godlan Godlan https://godlan.com > cpq-software-to...」（https://godlan.com/cpq-software-top-vendors/）
+  - 「Best CPQ Software 2026: Top Tools and How to Choose - Qobra — Best CPQ Software 2026: Top Tools and How to Choose - Qobra Qobra https://www.qobra.co > Blog」（https://www.qobra.co/blog/cpq-software）
+  - 「CPQ Software : 10 Top Platforms to Close Deals Faster — CPQ Software : 10 Top Platforms to Close Deals Faster Monday.com https://monday.com > blog > cpq」（https://monday.com/blog/crm-and-sales/cpq/）
+  - 「Best CPQ for Manufacturing 2026 | Top Tools - Qwoty — Best CPQ for Manufacturing 2026 | Top Tools - Qwoty Qwoty https://qwoty.io > best-cpq-manufactu...」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「Best CPQ Software for Small Business in 2026 - G2 — Best CPQ Software for Small Business in 2026 - G2 G2 https://www.g2.com > small-business」（https://www.g2.com/categories/cpq/small-business）
+
+## オンライン即時見積（業種を問わず）（online instant quote calculator software）
+- 文脈：見積もり
+- 提供企業：記載なし（読んだ40頁・検索8回）
 - 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 再販制度：記載なし（読んだ40頁・検索8回）
 - 黒字・収益性：記載なし（読んだ40頁・検索8回）
 - 売上：記載なし（読んだ40頁・検索8回）
 - 価格：記載なし（読んだ40頁・検索8回）
 - 日本対応：記載なし（読んだ40頁・検索8回）
 
-## トポロジー最適化（topology optimization software）
-- 文脈：wl-A AM
+## 見積→受注→請求の一気通貫（quote to cash software for small business）
+- 文脈：見積もり
 - 提供企業：
-  - 「Topology Optimization 101: How to Use Algorithmic Models to Create Lightweight Design | Formlabs」（https://formlabs.com/blog/topology-optimization/）
-  - 「Topology Optimization 101: How to Use Algorithmic Models to Create Lightweight Design」（https://formlabs.com/blog/topology-optimization/）
-  - 「become more widespread, making it possible to create complex parts easier than ever before, designers and engineers can leverage topology optimization software to push boundaries and find new ways to maximize design efficiency.」（https://formlabs.com/blog/topology-optimization/）
-  - 「In this guide, learn about the basics of topology optimization, its benefits and applications, and which software tools you can use to get started.」（https://formlabs.com/blog/topology-optimization/）
-  - 「What is Topology Optimization?」（https://formlabs.com/blog/topology-optimization/）
-  - 「Designs produced with topology optimization often include free forms and intricate shapes that are complex or impossible to manufacture with traditional production methods. However, TO designs are a perfect match for additive manufacturing processes that have more forgiving design rules and can easily reproduce complex shapes without additional costs.」（https://formlabs.com/blog/topology-optimization/）
-  - 「Topology Optimization vs. Generative Design」（https://formlabs.com/blog/topology-optimization/）
-  - 「and topology optimization have become buzzwords in the CAD design space, but it’s a common misconception that they’re synonymous.」（https://formlabs.com/blog/topology-optimization/）
-  - 「In a way, topology optimization serves as the foundation for generative design. Generative design takes the process a step further and eliminates the need for the initial human-designed model, taking on the role of the designer based on the predefined set of constraints.」（https://formlabs.com/blog/topology-optimization/）
-  - 「How Topology Optimization Works」（https://formlabs.com/blog/topology-optimization/）
-  - 「Topology optimization usually takes place towards the end of the design process, when the desired part needs to have a lower weight or use less materials. The designer then works to discover certain preset parameters, such as applied loads, material type, constraints, and layout.」（https://formlabs.com/blog/topology-optimization/）
-  - 「Structural topology optimization first determines the minimum allowable design space necessary for shape optimization of the product. Then, virtually, the topology optimization software applies pressure on the design from different angles, tests its structural integrity, and identifies unnecessary material.」（https://formlabs.com/blog/topology-optimization/）
-  - 「The topology optimization workflow. (」（https://formlabs.com/blog/topology-optimization/）
-  - 「The most common and practical technique for topology optimization is the」（https://formlabs.com/blog/topology-optimization/）
-  - 「Validating the design involves determining a threshold for the element density field between a value of 0 and 1. A value of 0 voids material in a designated region of the structure, while a value of 1 sets the designated region as solid material. The designer can then strip the model of all unnecessary material and finalize the topology optimization portion of the design.」（https://formlabs.com/blog/topology-optimization/）
+  - 「Close faster and stop discounting to force annual prepayment.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Top 5 Quote-to-Cash Software Platforms for B2B SaaS in 2025 (Ranked by Revenue Impact)」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Or do you need to stop chasing cash after "Closed Won"?」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Most Q2C platforms stop at invoicing. Few solve for seller cash flow.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「We analyzed five leading quote-to-cash platforms through one lens:」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Most quote-to-cash (Q2C) platforms automate quoting and billing—but stop short of solving the most critical piece of the sales cycle:」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Vendors selling to SMBs or procurement-led enterprises」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Most platforms stop at the invoice. Ratio finishes the job, paying you the full contract value at close.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「6 B2B Sales Enablement Tools You Did Not Know Existed (But Your Competitors Might)」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
 - 自社名で出せる条件：
-  - 「Topology optimization is a technology for developing optimized structures considering design parameters like expected loads, available design space, materials, and cost. Embedded early in the design process, it enables the creation of designs with minimal mass and maximal stiffness.」（https://www.siemens.com/en-us/technology/topology-optimization/）
+  - 「Playbooks on closing, cash flow, and embedded finance.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「The 6 Best Embedded Finance Companies Powering B2B SaaS Growth in 2026」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Buyers want Net 60. You need upfront cash. Embedded finance closes that gap; if you pick the right partner. We break down 6 embedded finance companies for B2B SaaS, how they compare on speed, risk transfer, and workflow integration, and why Ratio Boost is the one built specifically for how SaaS teams sell.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Embedded Financing」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「– Revenue-first Q2C with embedded financing and upfront seller payouts」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「1. Ratio Boost – The Only Quote-to-Cash Software with Embedded Financing for B2B SaaS」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「How CPQ with Embedded Financing Fuels SaaS Growth」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Embedded BNPL in Quotes:」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Custom payment terms are embedded directly into contracts—eliminating back-and-forth with legal and procurement.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「It doesn’t offer embedded financing like Ratio Boost or checkout-style flows like Cacheflow, but it shines in mid-market to enterprise SaaS sales with configurable deals, long cycles, and multiple stakeholders. Its strength is in operational rigor and visibility across Sales, RevOps, and Finance.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「It doesn’t offer embedded financing like Ratio Boost or buyer-facing checkout flows like Cacheflow, but it delivers unmatched control over quote integrity, ASC 606 compliance, and financial reporting. Its strength lies in serving finance-led SaaS teams scaling ARR while maintaining audit-ready processes.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Salesbricks accelerates deal velocity by eliminating complexity from quoting and checkout—but without embedded financing or deep finance-driven architecture. Its simplicity enables lean ops to scale faster and reduce quoting friction, making it ideal for SMB and startup-focused teams.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Every quote includes embedded payment options and pre-approved terms—so procurement can say yes without redlines, legal delays, or extra paperwork.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
 - 再販制度：
-  - 「At its foundation, topology optimization is about eliminating errors. By conducting stress testing, the process accounts for a wide range of variables and avoids risky assumptions that could lead to faulty products.」（https://formlabs.com/blog/topology-optimization/）
-  - 「offers a “unique toolset of generative design and automation capabilities,” speeding the design process by combining advanced geometry, simulations, and experimental data. Its geometry engine applies across a variety of applications, from aerospace and automotive to the design of football helmets to patient-specific devices in the medical field.」（https://formlabs.com/blog/topology-optimization/）
-  - 「Find a Reseller」（https://formlabs.com/blog/topology-optimization/）
-  - 「Become a Formlabs Reseller」（https://formlabs.com/blog/topology-optimization/）
-  - 「hundreds of design variables」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「many design variants, evaluates their performance, and converges toward optimal solutions using mathematical algorithms.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「Engineers define design variables (geometry parameters, material properties), objectives (minimize drag, maximize stiffness), and constraints (stress limits, manufacturing tolerances). The software searches the design space intelligently using gradient-based methods, genetic algorithms,」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「Modern aerospace systems involve hundreds of design variables and equally complex constraint sets. Classical gradient-based optimizers struggle with non-convex design spaces where local optima trap solvers far from global solutions.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「Human judgment fails when balancing 50+ design parameters and 10+ competing objectives. Engineers fix most variables arbitrarily, exploring only narrow slices of the design space and missing breakthrough configurations outside conventional thinking.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「Design-of-experiments and parametric sweeps scale exponentially with variables. A 10-variable problem with 5 levels per variable」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「These tools focus on robust design optimization and design-of-experiments, ensuring designs perform reliably despite manufacturing tolerances, material variability, and uncertain operating conditions.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「Problems involving combinatorial choices, discrete variables, and system-of-systems design」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「Combinatorial decisions, discrete variables, system-level trade-offs, bring your hardest optimization challenge.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「For programs involving combinatorial decisions, discrete variables, and system-level trade-offs at scale, classical methods consistently hit diminishing returns. BQPhy® finds near-optimal solutions 10 to 20 times faster than conventional heuristics, with 40 to 60% fewer high-fidelity simulation evaluations, on your existing HPC and GPU infrastructure.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「Simulation software answers "how will this design perform?", it analyzes a single configuration under defined conditions. Design optimization software answers "what is the best design?", it drives the simulation engine repeatedly across many variants, guided by algorithms that search for optimal solutions.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Without Margin Loss」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「These tools go beyond quoting and automation. They help sellers close faster, offer flexible terms without sacrificing margin, and accelerate actual cash collection.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Finance can set pricing, discounting, and term logic to protect margin and reduce non-compliant bookings.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「and see how Ratio Boost powers faster closes, stronger margins, and real cash in hand.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
 - 売上：
-  - 「Human judgment fails when balancing 50+ design parameters and 10+ competing objectives. Engineers fix most variables arbitrarily, exploring only narrow slices of the design space and missing breakthrough configurations outside conventional thinking.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「Services in generative design grow faster at 14.88% CAGR than software revenue because implementation and workflow integration are the hard parts. Cost reduction comes from」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
-  - 「Head Quarters : 235 Harrison St, Syracuse, NY 13202 USA」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Top 5 Quote-to-Cash Software Platforms for B2B SaaS in 2025 (Ranked by Revenue Impact)」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Most quote-to-cash software speeds up quoting, but not cash in hand. This post ranks five Q2C solutions by revenue impact: which ones help you close faster, protect ACV, and get paid upfront without discounting or delays.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Scalable for $5M → $500M+ ARR Growth」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「5 Quote-to-Cash Software for B2B SaaS — Ranked by Revenue Impact」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「– Revenue-first Q2C with embedded financing and upfront seller payouts」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「– SaaS-native Q2C stack with deep billing and revenue recognition」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
 - 価格：
-  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/topology-optimization-software/）
-- 検索結果の抜粋：
-  - 「Top Topology Optimization Software Solutions for 3D Printing — Top Topology Optimization Software Solutions for 3D Printing 3Dnatives https://www.3dnatives.com > ... > News」（https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/）
+  - 「But if you're buying quote-to-cash software in 2025, you're probably not just solving for the process. You're solving for pipeline velocity, pricing protection, and, most importantly, faster cash in the bank. After all, cash is king, right?」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+  - 「Track deal stage, forecast accuracy, pricing trends, and rep behavior across the entire Q2C process.」（https://www.ratiotech.com/blog/b2b-quote-to-cash-software）
+- 黒字・収益性：記載なし（読んだ38頁・検索8回）
+- 日本対応：記載なし（読んだ38頁・検索8回）
+
+## 過去メールから問い合わせBot作成（AI chatbot trained on email history）
+- 文脈：お問い合わせ対応
+- 提供企業：記載なし（読んだ40頁・検索8回）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 再販制度：記載なし（読んだ40頁・検索8回）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## Webサイト用AIチャット（問い合わせ受付）（AI website chatbot for customer inquiries）
+- 文脈：お問い合わせ対応
+- 提供企業：
+  - 「Track competitors」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Compare vendors」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Blog Topics」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「These bots can work across your website, mobile app, or platforms like WhatsApp, Messenger, and email, without needing breaks, training, or constant oversight. Beyond external support, organizations frequently deploy specialized hr chatbots to streamline internal employee inquiries and onboarding. Similarly, businesses can deploy an」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Lyro also supports 48 languages, and Tidio integrates with over 120 tools, from CRMs to eCommerce platforms. To see how Tidio compares with other top platforms, explore our comprehensive guide on the」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Voice support is available via Twilio, and hybrid handoffs between bots and agents are smooth. With extensive analytics, SLA tracking, and CSAT reports, the platform suits teams serious about quality. Some SDK setups still need dev time, but once you’re up and running, the automation flexibility is top-tier.」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「The AI Agent supports over 100 languages and now runs on top-tier models like GPT-4o and Claude 3.5. Conversations feel human, and when things get too complex, the bot hands off to agents, passing all the context along so users never have to repeat themselves.」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「The analytics are decent, showing resolution time and ticket deflection rates, though they lack the granularity of platforms like Zendesk or Intercom.」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Many businesses support customers across different channels like websites, social media, email, and messaging apps. So I tested how well each chatbot for customer support handled conversations across platforms like WhatsApp, Instagram, and Facebook Messenger. The best customer support bots kept the chat flowing smoothly across all channels.」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Autopilot unlocks the ability for AI agents to use their own computers in the cloud, freeing agents from the limits of API integrations.」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+- 自社名で出せる条件：
+  - 「At the heart of Freshchat is Freddy, their AI assistant. It can summarize long chats, detect intent, and nudge customers toward self-service when possible. Even the no-code builder barely takes 10 minutes to launch a basic bot. You can then customize widgets to match your brand and deploy them across both web and mobile apps. For teams that also handle phone or video touchpoints, a」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Its sentiment detection engine responds in real time, adjusting tone and urgency based on customer mood. I added quick replies, dynamic carousels, and even embedded booking tools using their modular interface, all without a dev team.」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+- 再販制度：
+  - 「Setup and onboarding vary depending on account support」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Reporting granularity can vary by integration」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Yes, you can use a customer service chatbot on different channels, and it's a common practice to do so. Chatbots are designed to be deployed across various platforms, allowing customers to interact with them on their preferred channel.」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Yes, chatbots can deliver personalized responses by analyzing user data, learning from interactions, and tailoring responses to individual needs and preferences. This personalization can be achieved through various methods, including offering customized recommendations, using specific user names, or adjusting the tone and style of communication.」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+- 売上：
+  - 「: 5 core seats, 10,000 contacts, custom objects, revenue attribution, adaptive testing, advanced Salesforce integration.」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+- 価格：
+  - 「11 Best Customer Support Chatbots in 2026 (With Pricing)」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Growth Plan ($19/agent/month, billed annually):」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Pro Plan ($49/agent/month, billed annually):」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Enterprise Plan ($79/agent/month, billed annually)」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「10 operators, 50 conv./month, 100 unique chatbot visitors」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Starter Plan ($24.17/month billed annually, or $29 billed monthly):」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Growth Plan (from $49.17/month billed annually, or $59 billed monthly):」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Plus Plan (from $300/month plus usage):」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Suite Team ($55/agent/month, billed annually)」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Suite Professional ($115/agent/month, billed annually)」（https://www.lindy.ai/blog/best-customer-service-chatbots）
+  - 「Copilot ($50/agent/month)」（https://www.lindy.ai/blog/best-customer-service-chatbots）
 - 黒字・収益性：記載なし（読んだ40頁・検索8回）
 - 日本対応：記載なし（読んだ40頁・検索8回）
+
+## 問い合わせフォームの自動応答・振り分け（AI form response automation）
+- 文脈：お問い合わせ対応
+- 提供企業：記載なし（読んだ40頁・検索8回）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 再販制度：記載なし（読んだ40頁・検索8回）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## メール自動返信AI（AI email reply assistant）
+- 文脈：お問い合わせ対応
+- 提供企業：記載なし（読んだ40頁・検索8回）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 再販制度：記載なし（読んだ40頁・検索8回）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## 問い合わせ共有受信箱・管理（shared inbox and helpdesk software）
+- 文脈：お問い合わせ対応
+- 提供企業：記載なし（読んだ40頁・検索8回）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 再販制度：記載なし（読んだ40頁・検索8回）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## AI電話受付（AI phone receptionist）
+- 文脈：お問い合わせ対応
+- 提供企業：
+  - 「IT Managed Service Providers」（https://callagentai.com/white-label）
+  - 「White Label Partner」（https://callagentai.com/white-label）
+  - 「What kind of businesses become white label partners?」（https://callagentai.com/white-label）
+  - 「Digital marketing agencies, IT managed service providers (MSPs), telecom resellers, call center operators, and business consultants who want to add AI call handling to their service offering.」（https://callagentai.com/white-label）
+  - 「Ready to stop」（https://callagentai.com/white-label）
+  - 「Typical Competitors」（https://autocalls.ai/white-label）
+  - 「Save 60-75% compared to building with separate API providers.」（https://autocalls.ai/white-label）
+  - 「and other service providers often have to juggle appointment scheduling. AI」（https://autocalls.ai/white-label）
+  - 「Think sales on autopilot. AI voice agents can cold call, follow-up leads,」（https://autocalls.ai/white-label）
+  - 「Qualify leads on autopilot」（https://autocalls.ai/white-label）
+  - 「🌍 Trusted worldwide by top businesses」（https://autocalls.ai/white-label）
+  - 「White-Label Platform」（https://autocalls.ai/white-label）
+  - 「How much can a white label partner earn per client?」（https://autocalls.ai/white-label）
+  - 「Retell charges per minute of conversation, from $0.07 per minute, depending on the language model, voice, and telephony you choose. Each client workspace is billed for its own usage, and what you charge your clients on top, such as a monthly fee per location, is up to you. Pay-as-you-go needs no contract, and Enterprise plans have custom pricing for high volume. See」（https://www.retellai.com/use-cases/white-label-ai-receptionist）
+  - 「Competitors Overview」（https://www.retellai.com/use-cases/white-label-ai-receptionist）
+- 自社名で出せる条件：
+  - 「White Label AI Call Center | Call Agent AI」（https://callagentai.com/white-label）
+  - 「White Label AI Call Center —」（https://callagentai.com/white-label）
+  - 「Your Brand,」（https://callagentai.com/white-label）
+  - 「Resell AI phone answering under your own brand. Your logo, your pricing, your clients. We power everything behind the scenes — invisibly.」（https://callagentai.com/white-label）
+  - 「White Label」（https://callagentai.com/white-label）
+  - 「What is a white label AI receptionist?」（https://callagentai.com/white-label）
+  - 「A white label AI receptionist is an AI phone answering service you sell under your own brand. With Call Agent AI, agencies, MSPs and telecom resellers put their logo, colors and domain on everything, set their own client pricing, and give each client its own AI assistant, while we run the platform behind the scenes.」（https://callagentai.com/white-label）
+  - 「Your logo, colors and domain: clients never see our name」（https://callagentai.com/white-label）
+  - 「Bundle AI receptionist with your IT services. Your business clients get 24/7 call answering under your brand.」（https://callagentai.com/white-label）
+  - 「White labeling is one of the highest-margin service additions in B2B tech.」（https://callagentai.com/white-label）
+  - 「Your Brand」（https://callagentai.com/white-label）
+  - 「Your client calls the number you provide. They see your company name, hear your custom greeting. Your brand is front and center.」（https://callagentai.com/white-label）
+  - 「. Add clients, configure AI assistants, view call analytics — all under your brand, all from one place.」（https://callagentai.com/white-label）
+  - 「Your White Label」（https://callagentai.com/white-label）
+  - 「Everything you need to launch and scale a white label AI call center business.」（https://callagentai.com/white-label）
+- 再販制度：
+  - 「PARTNER PROGRAM」（https://callagentai.com/white-label）
+  - 「Resell AI phone answering under your own brand. Your logo, your pricing, your clients. We power everything behind the scenes — invisibly.」（https://callagentai.com/white-label）
+  - 「A white label AI receptionist is an AI phone answering service you sell under your own brand. With Call Agent AI, agencies, MSPs and telecom resellers put their logo, colors and domain on everything, set their own client pricing, and give each client its own AI assistant, while we run the platform behind the scenes.」（https://callagentai.com/white-label）
+  - 「Agencies & Resellers」（https://callagentai.com/white-label）
+  - 「Add AI call handling to your client packages. Increase LTV and differentiate your offering with a high-margin recurring service.」（https://callagentai.com/white-label）
+  - 「Telecom Resellers」（https://callagentai.com/white-label）
+  - 「White labeling is one of the highest-margin service additions in B2B tech.」（https://callagentai.com/white-label）
+  - 「Wholesale Pricing」（https://callagentai.com/white-label）
+  - 「for Resellers」（https://callagentai.com/white-label）
+  - 「Enterprise-tier pricing designed to protect your margin, not eat into it.」（https://callagentai.com/white-label）
+  - 「Commission-Based Partner Program」（https://callagentai.com/white-label）
+  - 「Everything you need to know about reselling AI call handling under your brand.」（https://callagentai.com/white-label）
+  - 「White label AI call center software lets you resell AI phone answering under your own brand. Your clients see your company name, your logo, and your pricing — while Call Agent AI powers everything behind the scenes.」（https://callagentai.com/white-label）
+  - 「Digital marketing agencies, IT managed service providers (MSPs), telecom resellers, call center operators, and business consultants who want to add AI call handling to their service offering.」（https://callagentai.com/white-label）
+  - 「Can I resell a white label AI voice agent to my clients?」（https://callagentai.com/white-label）
+- 黒字・収益性：
+  - 「avg profit per client」（https://callagentai.com/white-label）
+  - 「The full path to a profitable AI voice agency. Free.」（https://autocalls.ai/white-label）
+  - 「Effort = Profit 💰」（https://autocalls.ai/white-label）
+  - 「You focus on customers. We handle the tech. Set your prices, keep the profits, and grow.」（https://autocalls.ai/white-label）
+  - 「profits」（https://autocalls.ai/white-label）
+  - 「💰 Decide your profit margins」（https://autocalls.ai/white-label）
+  - 「Create pricing plans, set profit margins, and platform limitations」（https://autocalls.ai/white-label）
+  - 「Calculate Your Profit Margin」（https://autocalls.ai/white-label）
+  - 「Your Profit」（https://autocalls.ai/white-label）
+  - 「Per Minute Profit」（https://autocalls.ai/white-label）
+  - 「We don't just give you the platform. We give you the path. The exact playbook agencies use to launch, win their first ten clients, and scale a profitable white-label voice AI business. No fluff. No theory. Just the moves that worked.」（https://autocalls.ai/white-label）
+  - 「Yes, per plan, in the plan builder, which also shows your cost and profit per plan.」（https://autocalls.ai/white-label）
+  - 「Discover AI solutions with zero development costs. Scale your agency brand effortlessly and profitably.」（https://www.myaifrontdesk.com/blogs/what-is-a-white-label-ai-receptionist-your-comprehensive-guide-3f014）
+  - 「, with implementation in 2–4 weeks and compliance already built in. Total launch cost runs under ~$2,000, including your first month's plan fee and basic sales collateral. At a $500 plan and a $397 client price, your real break-even is your *second* client. Unless you have proprietary requirements, reselling a proven platform dominates the build.」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「Profit」（https://nextlevel.ai/white-label-ai-receptionist/）
+- 売上：
+  - 「Partner Revenue Calculator — 50 Clients」（https://callagentai.com/white-label）
+  - 「Elite: 23% recurring ($100K+ referred revenue)」（https://callagentai.com/white-label）
+  - 「Call Agent AI uses a commission model with 3 tiers: Advocate (10% recurring, free to join), Partner (18-20% recurring, requires $2,700 Growth Plan license), and Elite (23% recurring, unlocked at $100K+ annual referred revenue). Commissions are paid automatically via Stripe every month.」（https://callagentai.com/white-label）
+  - 「“White-label AI voice agents turned into our biggest revenue stream. 28 clients, over $14k MRR, and it's all under our brand.”」（https://autocalls.ai/white-label）
+  - 「You can provision numbers directly in the platform in 150+ countries, or connect your own carrier via SIP.」（https://autocalls.ai/white-label）
+  - 「Clients keep the number their customers already dial. Import it over a SIP trunk or forward it from their carrier. Pay-as-you-go workspaces include 20 concurrent calls each, so one client's busy morning never takes another client's lines, and a fallback number catches calls if a workspace reaches its limit.」（https://www.retellai.com/use-cases/white-label-ai-receptionist）
+  - 「Agencies and consultants hunting recurring revenue without a development team have an opportunity here. Reselling a white-label AI receptionist is one of the highest-margin models available in 2026. You brand it, price it, and own the client, while someone else maintains the technology.」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「Text reminders reduce no-shows. After hours, the system still books next-morning appointments and triages urgent issues. Note that outbound messages carry a small per-message cost on top of your plan. NextLevel.AI's published rates run $0.15/$0.05/$0.05 (email/SMS/WhatsApp) on the entry tier, dropping to $0.12/$0.04/$0.04 on the higher tier — so factor those into flat pricing.」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「Revenue (@ $397)」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「Clients don't buy "sub-300ms latency." They buy "you stop losing after-hours jobs." Lead with the revenue they're currently leaking.」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「($500–$800/month) — missed calls carry liability, and after-hours calls often come from clients in crisis. Sell on professionalism and confidentiality.」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「, from $0.07 per minute, so a new agency carries no fixed cost before its first client.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Package Ringlyn as your own AI receptionist product and sell 24/7 call answering to clinics, law firms, dealerships, salons, and home-services companies in your market. Your brand on the dashboard, your name on the invoice, your recurring revenue — with no per-seat fees and no revenue share.」（https://www.ringlyn.com/white-label-ai-receptionist/）
+  - 「Own the codebase outright, resell to unlimited clients, and keep 100% of the recurring revenue.」（https://www.ringlyn.com/white-label-ai-receptionist/）
+  - 「Yes — the agent, summaries and client-facing communications carry your brand. Sarah 24/7 appears only in our agreement with you, never in front of your clients.」（https://sarah247.ai/white-label-ai-receptionist/）
+- 価格：
+  - 「Yes. Call Agent AI's white label AI voice agent answers your clients' calls 24/7, books appointments and captures leads under your brand. You set the client pricing, give each business its own assistant with its own greeting, hours, calendar and voice, and manage every account from one partner dashboard.」（https://callagentai.com/white-label）
+  - 「Average partner: 10,000 - 50,000 minutes/month」（https://autocalls.ai/white-label）
+  - 「$419/month + $0.09/min for additional minutes」（https://autocalls.ai/white-label）
+  - 「Trusted by over 4,000 businesses powering 100+ million calls per month.」（https://www.retellai.com/use-cases/white-label-ai-receptionist）
+  - 「By deploying conversational AI, MDS now handles 100% of inbound calls with only a 30% transfer rate, scaling effortlessly, and collecting ~$280,000 per month without sacrificing patient trust.」（https://www.retellai.com/use-cases/white-label-ai-receptionist）
+  - 「Retell charges per minute of conversation, from $0.07 per minute, depending on the language model, voice, and telephony you choose. Each client workspace is billed for its own usage, and what you charge your clients on top, such as a monthly fee per location, is up to you. Pay-as-you-go needs no contract, and Enterprise plans have custom pricing for high volume. See」（https://www.retellai.com/use-cases/white-label-ai-receptionist）
+  - 「$500/month」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「— a strong fit. You're already the technology partner. AI reception extends your automation story and can be bundled with consulting at higher price points ($600–$1,000/month).」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「$1,250/month」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「Text reminders reduce no-shows. After hours, the system still books next-morning appointments and triages urgent issues. Note that outbound messages carry a small per-message cost on top of your plan. NextLevel.AI's published rates run $0.15/$0.05/$0.05 (email/SMS/WhatsApp) on the entry tier, dropping to $0.12/$0.04/$0.04 on the higher tier — so factor those into flat pricing.」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「Margin progression as you scale, pricing clients at $397/month:」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「Margins step up as you fill a tier's bundled capacity. They dip slightly when you upgrade, then keep improving because the next tier's per-hour rate is lower ($8.33 vs. $10.00). Past ~30 clients, Enterprise pricing is negotiable. Treat the tables as a planning model, not a guarantee. Your real numbers depend on client usage, your pricing, and labor.」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「Gather feedback from your first three to five clients. Tighten the pitch and pricing. Systematize onboarding into a repeatable ~2-hour setup. Add a referral program ($100 per referred client) and build case studies from early wins.」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「Step 4 — Underpricing out of fear.」（https://nextlevel.ai/white-label-ai-receptionist/）
+  - 「Stammer AI combines AI chat and voice agents in a unified platform. Its Standard plan starts at $49/month, while the Pro plan starts at $99/month and includes white-label capabilities, advanced AI models, and reselling features. Enterprise pricing is customized based on specific business requirements.」（https://stammer.ai/post/best-white-label-ai-receptionist-platforms）
+- 日本対応：
+  - 「Answer in English, Spanish, French, German, Hindi, and Japanese — an easy upsell in any market with a bilingual customer base.」（https://www.ringlyn.com/white-label-ai-receptionist/）
+
+## 採用サイト作成（career site builder）
+- 文脈：採用
+- 提供企業：
+  - 「Paradox’s New Immersive Job Preview Named 2025 Top HR Product of the Year by HR Executive.」（https://www.paradox.ai/products/career-site-studio）
+  - 「Paradox partners with leading systems and applications.」（https://www.paradox.ai/products/career-site-studio）
+  - 「Paradox partners with leading」（https://www.paradox.ai/products/career-site-studio）
+  - 「We put as much care, thought, and attention into the mobile-optimized designs and functionality as the desktop versions.」（https://www.paradox.ai/products/career-site-studio）
+  - 「Stop wondering how candidates feel about each stage of your hiring process by letting Olivia just ask them in the moment.」（https://www.paradox.ai/products/career-site-studio）
+  - 「Paradox is proud to be leading our industry with internationally recognized security standards that safeguard your organization and candidates' data and personal information.」（https://www.paradox.ai/products/career-site-studio）
+  - 「Integrations should be simple. Through direct integrations and our open API, Olivia works with the leading systems and devices you already use.」（https://www.paradox.ai/products/career-site-studio）
+  - 「What makes Paradox different from other career site vendors?」（https://www.paradox.ai/products/career-site-studio）
+  - 「Absolutely! Paradox offers seamless career site integrations with top ATS platforms like Workday, SAP SuccessFactors, UKG, and many more! This ensures that job postings, applications, and candidate data sync effortlessly between systems, reducing administrative tasks and improving recruitment efficiency.」（https://www.paradox.ai/products/career-site-studio）
+  - 「Back to top」（https://www.paradox.ai/products/career-site-studio）
+  - 「: A sticky header is a static headers that “sticks” in place as you scroll down the page. With this header type, users do not have to scroll up to the top of the page to see your logo, access navigation links, or access other header content – the header stays fixed to the top of the screen. To convert your header into a sticky header, hover over the header, click」（https://help.lever.co/s/article/Career-Site-Builder-Getting-started）
+  - 「: By default, your tablet and mobile sites use an expandable header menu to store navigation links and other widgets. The menu button appears as three horizontal lines in the top right corner of the career site. Header menus offer more flexibility for smaller devices by storing links and widgets behind an unobtrusive menu icon.」（https://help.lever.co/s/article/Career-Site-Builder-Getting-started）
+  - 「When the Site Theme panel is open, the canvas is automatically minimized to 50% view so that the entire canvas is visible while adjusting the site theme settings. If you want to return to 100% canvas view, click the drop down in the top bar and select 100%. The ability to zoom in or out is also available in preview mode.」（https://help.lever.co/s/article/Career-Site-Builder-Getting-started）
+  - 「Warning: Disabling tracking cookies will stop stats collection for your site, as well as any tracking code you have added (for example, Facebook tracking pixels).」（https://help.lever.co/s/article/Career-Site-Builder-Getting-started）
+  - 「Ongig’s Career Site Builder is the front end that sits on top of your ATS (or ATSs) and powers your entire career site experience.」（https://www.ongig.com/career-site-builder）
+- 自社名で出せる条件：
+  - 「Yes! Paradox offers a full-service career site hosting platform, meaning we design, build, host, and manage your branded career site from end to end. No need to worry about content updates, job postings, or web maintenance — our team handles everything, so you can focus on hiring the best talent. Learn more about」（https://www.paradox.ai/products/career-site-studio）
+  - 「: A sticky header is a static headers that “sticks” in place as you scroll down the page. With this header type, users do not have to scroll up to the top of the page to see your logo, access navigation links, or access other header content – the header stays fixed to the top of the screen. To convert your header into a sticky header, hover over the header, click」（https://help.lever.co/s/article/Career-Site-Builder-Getting-started）
+  - 「: To update your logo, select the default 'Acme' logo and use the image picker to replace it. See our article on the」（https://help.lever.co/s/article/Career-Site-Builder-Getting-started）
+  - 「Each section of our Career Site Builder has been carefully crafted to provide a starting point. You have the ability to update each section to meet your needs or remove them altogether and replace a section to better highlight your brand and candidate experience.」（https://help.lever.co/s/article/Career-Site-Builder-Getting-started）
+  - 「To update your logo:」（https://help.lever.co/s/article/Career-Site-Builder-Getting-started）
+  - 「You can customize the appearance of your website through favicons, social network images, and home screen icons. These site icons reinforce your brand identity and make it easy to pick out your site among numerous tabs.」（https://help.lever.co/s/article/Career-Site-Builder-Getting-started）
+  - 「Built to reflect your brand, not your ATS」（https://www.pinpointhq.com/features/careers-website）
+  - 「Most careers sites look like they were built in an afternoon. Yours shouldn’t. Pinpoint creates a site that matches your brand, from colors and fonts to imagery and layout, so candidates land on a site that reflects who you are as a company, and as an employer.」（https://www.pinpointhq.com/features/careers-website）
+  - 「Custom domain setup」（https://www.pinpointhq.com/features/careers-website）
+  - 「Most modern ATS platforms include a built-in career site builder that allows HR and recruiting teams to create and manage a branded careers page without developer support. With tools like Pinpoint, you can customize the design to match your brand, publish job listings automatically, and add culture content like team photos and employee testimonials.」（https://www.pinpointhq.com/features/careers-website）
+  - 「the Career Site Builder. Design a tailored, user-friendly career page that reflects your brand and helps convert visitors into applicants.」（https://www.effectivepeople.com/blog/analytics-engagement/how-to-get-candidates-apply-using-sap-sf-career-site-builder）
+- 再販制度：
+  - 「How you integrate the corporate site with the CSB site will vary depending on what should remain on the corporate site. The most common option is to link the corporate site content pages in the header or footer of the CSB site and maintain the job posting and job application process on the CSB site.」（https://www.effectivepeople.com/blog/analytics-engagement/how-to-get-candidates-apply-using-sap-sf-career-site-builder）
+  - 「Use image sliders to create variety instead of creating an extra-long page.」（https://www.effectivepeople.com/blog/analytics-engagement/how-to-get-candidates-apply-using-sap-sf-career-site-builder）
+  - 「Accessibility varies」（https://blog.ongig.com/candidate-experience/best-career-site-builder/）
+  - 「Varies」（https://blog.ongig.com/candidate-experience/best-career-site-builder/）
+- 黒字・収益性：
+  - 「Non-profit」（https://www.pinpointhq.com/features/careers-website）
+  - 「Non-profit & public sector」（https://www.pinpointhq.com/features/careers-website）
+  - 「Nonprofit」（https://www.pinpointhq.com/features/careers-website）
+- 検索結果の抜粋：
+  - 「10 Best Career Site Builders for Employers in 2026 - Joveo — 10 Best Career Site Builders for Employers in 2026 - Joveo Joveo https://www.joveo.com > Blog」（https://www.joveo.com/blog/best-career-site-builders/）
+  - 「Best Career Site Builder (2026–2027) - Ongig Blog — Best Career Site Builder (2026–2027) - Ongig Blog Ongig Blog https://blog.ongig.com > best-career-s...」（https://blog.ongig.com/candidate-experience/best-career-site-builder/）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## 求人の一括掲載・配信（job multiposting software）
+- 文脈：採用
+- 提供企業：
+  - 「The AI-powered recruiting platform that helps you source, engage, and hire top talent.」（https://www.leonar.app/features/job-multiposting/）
+  - 「6 Best Bullhorn Alternatives in 2026 (Tested by Agencies)」（https://www.leonar.app/features/job-multiposting/）
+  - 「6 Best Recruiterflow Alternatives & Competitors in 2026 (Tested)」（https://www.leonar.app/features/job-multiposting/）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 再販制度：記載なし（読んだ40頁・検索8回）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## 応募者管理（ATS）（applicant tracking system for SMB）
+- 文脈：採用
+- 提供企業：
+  - 「Confidently share opinions and reduce bias in the process with multiple reviews and star ratings to rank your top talent.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Automatically post to a network of top job boards to ensure your postings appear on the sites ideal job candidates frequent.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Leverages AI to analyze market data and recommend competitive, role-appropriate compensation ranges to attract top talent.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Scores and ranks applicants based on how closely their profiles match your job criteria, so your best candidates rise to the top.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「HiringThing connects to background screening providers, job boards, video interviewing platforms, and more to smooth the evaluation process.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「"You can keep this as simple or make it as complex as you want. This is seriously what you wish an ATS was! On top of all that - you can make it really look like your employment brand - not something that looks like other ATS company or even a co-brand. It looks like your organization. Even the URL!"」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「"ATS providers have grown over the last several years, but we continue to use HiringThing both internally and with our clients. We value the ability to share user experience with their team and their responsiveness to things that make our job of finding and hiring amazing employees even easier."」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「We are an intelligent recruiting platform that creates seamless talent experiences. Our white label solutions and open API enables technology and service providers to offer hiring solutions to their clients.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「The ATS platform allows you to set candidate status, track recruitment stages, and identify resource gaps, leading to timely hiring decisions and faster talent acquisition.」（https://softteco.com/white-label-applicant-tracking-system）
+  - 「From staffing companies to tech organizations, our white label recruitment software helps businesses to make informed hiring decisions and convert top talent faster.」（https://softteco.com/white-label-applicant-tracking-system）
+  - 「HR outsourcing / RPO providers」（https://softteco.com/white-label-applicant-tracking-system）
+  - 「Recruiting technology providers」（https://softteco.com/white-label-applicant-tracking-system）
+  - 「Harness the power of your brand to nurture and convert top talent, backed by our award-winning white label applicant tracking system and recruitment marketing software.」（https://www.jazzhr.com/solutions/white-label-applicant-tracking-system）
+  - 「For HR Technology Providers」（https://www.jazzhr.com/solutions/white-label-applicant-tracking-system）
+  - 「Stop relying on your inbox and outdated Excel spreadsheets with our streamlined hiring and HR software.」（https://www.jazzhr.com/solutions/white-label-applicant-tracking-system）
+- 自社名で出せる条件：
+  - 「Learn About HiringThing White Label ATS Software | HiringThing」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「White Label Applicant Tracking System」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Expand your platform with a white label hiring solution that helps your customers attract, evaluate, hire, and onboard employees without building recruiting technology internally.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Benefits of a white label applicant tracking system」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「HiringThing helps you deliver recruiting directly inside your platform under your brand.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「WHITE LABEL & API」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Extend beyond basic white label」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「HiringThing supports both white label and deeper platform customization. Partners can tailor workflows, integrate systems, and extend hiring capabilities using our API.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「White Label Platform」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Embedded architecture section」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「WHITE LABEL HR」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Where Most White Label Integrations Fail」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Discover the key strategies to ensure a seamless white label ATS integration and unlock your full potential.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「We are an intelligent recruiting platform that creates seamless talent experiences. Our white label solutions and open API enables technology and service providers to offer hiring solutions to their clients.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Embed or resell hiring software to clients under your brand.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+- 再販制度：
+  - 「Revenue share on average.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Embed or resell hiring software to clients under your brand.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Partner Program」（https://x0pa.com/white-label-recruiting-software/）
+  - 「Deployment time for white label HR software varies based on customization, but X0PA AI is designed for rapid setup. Typically, a fully branded and functional core system can be launched within a few weeks, not months.」（https://x0pa.com/white-label-recruiting-software/）
+  - 「Software Resellers」（https://gohire.io/white-label-ats）
+  - 「We understand that businesses have varying needs and capacities. We can discuss the specifics during our partnership discussions to find a solution that suits your circumstances.」（https://gohire.io/white-label-ats）
+  - 「It’s also worth evaluating the costs tied to future growth. For high-volume accounts, per-placement fees can quickly eat into your margins」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「Compliance is crucial to maintaining your agency’s reputation and avoiding penalties. By 2026, recruitment platforms must adhere to various regulations, including」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「. When reselling a white-label system, remember that you inherit its strengths and weaknesses – compliance cannot be overlooked.」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「. To protect your profit margins, it’s crucial to understand the full scope of costs and evaluate the level of support offered.」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「The wrong pricing model can eat into your margins quickly」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「. Fragmented systems can also lead to margin leakage of about 15% to 25% due to inefficiencies and blind spots」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「Transparency is another essential factor. Look for platforms that openly explain how they match candidates to roles. Ensure the system has been tested for bias across various demographic groups. Platforms that provide detailed documentation or certifications related to fairness and compliance are generally more trustworthy.」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「Harvard Business Review」（https://workinsiders.com/tools/hiringthing/）
+  - 「HR platforms, PEOs and SaaS companies reselling hiring under their own brand」（https://workinsiders.com/tools/hiringthing/）
+- 黒字・収益性：
+  - 「Tracking the right metrics is essential for improving profitability and keeping clients satisfied. Start with」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「. To protect your profit margins, it’s crucial to understand the full scope of costs and evaluate the level of support offered.」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「Non-Profits」（https://www.manatal.com/blog/applicant-tracking-system-for-small-business）
+  - 「What Is EBITDA?」（https://www.uschamber.com/co/run/human-resources/best-small-business-applicant-tracking-systems）
+  - 「Offers 50% off for qualifying nonprofits.」（https://recruitee.com/blog/best-ats-smbs）
+  - 「10 Best Applicant Tracking Systems for Nonprofits in 2026」（https://www.jazzhr.com/insights/best-free-ats）
+  - 「Three inboxes and a spreadsheet nobody trusts? We break down the 10 best applicant tracking systems for nonprofits, organized by budget, volunteer hiring, and who each one fits.」（https://www.jazzhr.com/insights/best-free-ats）
+  - 「Non-profit」（https://www.pinpointhq.com/insights/best-applicant-tracking-system）
+  - 「Best ATS for non-profits and charities」（https://www.pinpointhq.com/insights/best-applicant-tracking-system）
+  - 「Suited for small organizations in public and non-profit spaces, such as charity organizations, universities, health and social care providers, etc.」（https://softwarefinder.com/resources/best-applicant-tracking-software-for-small-business）
+  - 「The platform’s ATS features serve businesses across industries such as technology, construction, healthcare, education, finance, and nonprofit.」（https://softwarefinder.com/resources/best-applicant-tracking-software-for-small-business）
+  - 「The software is designed for IT, healthcare, non-profit, and marketing sectors.」（https://softwarefinder.com/resources/best-applicant-tracking-software-for-small-business）
+  - 「Ideal for companies operating in government, healthcare, manufacturing, non-profit, retail, and real estate sectors.」（https://softwarefinder.com/resources/best-applicant-tracking-software-for-small-business）
+  - 「Folks HR serves businesses across manufacturing, construction, non-profits, professional services, and consulting industries.」（https://softwarefinder.com/resources/best-applicant-tracking-software-for-small-business）
+  - 「Eddy HR supports businesses in industries including professional services, healthcare, medical equipment, non-profit organizations, and information technology」（https://softwarefinder.com/resources/best-applicant-tracking-software-for-small-business）
+- 売上：
+  - 「"White labeling X0PA AI opened new markets for us. Clients get enterprise recruiting AI, we get a new revenue stream, without hiring a product engineering team."」（https://x0pa.com/white-label-recruiting-software/）
+  - 「"Launching our own branded hiring platform created a recurring revenue line that didn't exist before. X0PA's AI does the heavy lifting while we own the relationship."」（https://x0pa.com/white-label-recruiting-software/）
+  - 「Support packages typically cost between $100 and $400 per month. Look for vendors that offer clear Service Level Agreements (SLAs) and 24/7 support to safeguard your placement revenue」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「Q2 staffing revenue vs last year」（https://workinsiders.com/tools/hiringthing/）
+  - 「To find the best applicant tracking systems, we looked at 85 vendors before narrowing it down to our seven top picks. There were a lot of great options to choose from, but the following companies stood out for having comprehensive features, transparent pricing, helpful customer support, and great reputations with experts and users.」（https://nawbo.org/expert-reviews/applicant-tracking-systems-for-small-business/）
+  - 「Our reviews team includes researchers, writers, and editors who spend hours, days, and weeks collecting and analyzing data about the companies we review. We started with a list of 85 ATS vendors and narrowed it down to the top seven that will help you refine your hiring process and find the best candidates to meet your needs.」（https://nawbo.org/expert-reviews/applicant-tracking-systems-for-small-business/）
+  - 「Lever holds 4.3 / 5 on G2 (2,102 reviews), 4.6 / 5 on Capterra (655 reviews), and 4.3 / 5 on Select Software Reviews (2,284 reviews). Reviewers consistently praise the intuitive interface, the candidate-portal experience, and the unified ATS + CRM design. Post-acquisition themes flag a slower feature pace and customer-support turnover.」（https://www.pinpointhq.com/insights/best-applicant-tracking-system）
+  - 「Ashby (Y Combinator W19, founded 2018) is the ATS most associated with engineering-led tech startups and AI-native scale-ups. The product has grown its customer base rapidly, with revenue growth above 100% and a Series D in 2025 at twice the Series C valuation.」（https://www.pinpointhq.com/insights/best-applicant-tracking-system）
+  - 「70% Revenue Share」（https://www.agilesoftlabs.com/products/human-resources/online-recruitment-tracker）
+  - 「As a white label recruitment software partner, you earn 70% revenue share on all sales, receive comprehensive training and certification, get co-branded marketing materials, and access to dedicated partner support. You can launch your branded recruitment platform in weeks instead of years, with 70% lower costs than custom development.」（https://www.agilesoftlabs.com/products/human-resources/online-recruitment-tracker）
+  - 「Pricing for the software ranges between $7-$10/user/month. The vendor offers three pricing modules known as ClearRecruit, ClearTalent, and TotalTalent. The total cost may change for each organization according to users, business size, needed features, and extra service options.」（https://softwarefinder.com/resources/best-applicant-tracking-software-for-small-business）
+  - 「. Global applicant tracking software market revenue hit $3.28 billion in 2025 and is on track for $4.88 billion by 2030 (8.2% CAGR), per」（https://www.pin.com/blog/best-applicant-tracking-systems/）
+  - 「Gem also layers AI sourcing on top, surfacing and re-engaging candidates through LinkedIn and your existing relationships. Integrations with Greenhouse, Lever, and Ashby mean teams can adopt Gem even while keeping another system of record, and it carries SOC 2 certification for enterprise procurement.」（https://www.pin.com/blog/best-applicant-tracking-systems/）
+  - 「As Rich Rosen, Executive Recruiter at Cornerstone Search, puts it: “Absolutely money maker for recruiters… in 6 months I can directly attribute over $250K in revenue to Pin.”」（https://www.pin.com/blog/best-applicant-tracking-systems/）
+  - 「2. Revenue And Business Outcome Visibility」（https://www.asymbl.com/blog/best-applicant-tracking-system）
+- 価格：
+  - 「Get all of GoHire for just £83 per month for qualifying startups.」（https://gohire.io/white-label-ats）
+  - 「. Subscription plans for applicant tracking systems (ATS) can range anywhere from $50 to $500 per month. On an annual basis, small agencies typically spend between $250 and $3,000, mid-sized agencies allocate $3,000 to $15,000, and enterprise-level systems can cost more than $125,000 when factoring in custom implementations and integrations」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「Per-user pricing models can also become expensive as your team grows, with some starting at $85 per user per month」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「Support packages typically cost between $100 and $400 per month. Look for vendors that offer clear Service Level Agreements (SLAs) and 24/7 support to safeguard your placement revenue」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「Recruiting Software Pricing Statistics: Live Tracker of What Tools Charge (2026)」（https://workinsiders.com/tools/hiringthing/）
+  - 「Metaview Pricing 2026: What Every Agent Costs, and 10 Alternatives」（https://workinsiders.com/tools/hiringthing/）
+  - 「AI Note Taker Pricing 2026: 24 Tools Compared for Recruiters」（https://workinsiders.com/tools/hiringthing/）
+  - 「Vincere Pricing 2026: Plans by Team Size Explained」（https://workinsiders.com/tools/hiringthing/）
+  - 「The MCP server is included for partners and on the Pro plan. Pricing starts at $80 a month, and the 14-day free trial covers up to five active jobs with no credit card.」（https://workinsiders.com/tools/hiringthing/）
+  - 「To find the best applicant tracking systems, we looked at 85 vendors before narrowing it down to our seven top picks. There were a lot of great options to choose from, but the following companies stood out for having comprehensive features, transparent pricing, helpful customer support, and great reputations with experts and users.」（https://nawbo.org/expert-reviews/applicant-tracking-systems-for-small-business/）
+  - 「$129 per month」（https://nawbo.org/expert-reviews/applicant-tracking-systems-for-small-business/）
+  - 「$15/user/month」（https://www.manatal.com/blog/applicant-tracking-system-for-small-business）
+  - 「$10/employee/month」（https://www.manatal.com/blog/applicant-tracking-system-for-small-business）
+  - 「$5/user/month」（https://www.manatal.com/blog/applicant-tracking-system-for-small-business）
+  - 「$25/month」（https://www.manatal.com/blog/applicant-tracking-system-for-small-business）
+- 検索結果の抜粋：
+  - 「Build Your Brand With White Label Recruiting Software — Build Your Brand With White Label Recruiting Software X0PA AI https://x0pa.com > white-label-recruit...」（https://x0pa.com/white-label-recruiting-software/）
+  - 「White Label ATS Agency Guide 2026 - HireLab.io — White Label ATS Agency Guide 2026 - HireLab.io HireLab.io https://hirelab.io > Blog」（https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/）
+  - 「10 Best Applicant Tracking Systems (ATS) Ranked in 2026 - Pin — 10 Best Applicant Tracking Systems (ATS) Ranked in 2026 - Pin pin.com https://www.pin.com > blog > best-ap...」（https://www.pin.com/blog/best-applicant-tracking-systems/）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## AI採用アシスタント（応募対応・面接日程）（AI recruiting assistant）
+- 文脈：採用
+- 提供企業：
+  - 「Enhance candidate experience, collaborate on autopilot」（https://recruiterflow.com/blog/ai-recruiting-assistants/）
+  - 「work like sourcing top candidates and nurturing skills.」（https://recruiterflow.com/blog/ai-recruiting-assistants/）
+  - 「The best AI assistants are deeply embedded in your ATS or CRM. Most software offer AI as an add-on. This not only adds to the pricing complexity, it creates a flurry of disconnected tools leading to inaccurate data and context loss.」（https://recruiterflow.com/blog/ai-recruiting-assistants/）
+  - 「Messages; a reply stops the sequence」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「$199 per agent/month on top of a seat」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「Searches "1 billion profiles on the web" and runs outreach on "complete autopilot"」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「Published prices vary widely. hireEZ says "Solo recruiters start at $494/mo with a 7-day free trial"; Juicebox charges "$199 per agent/month" on top of a seat; Pin's Solo plan is $100 per user per month, billed annually; Gem prices by company size, with startup rates. LinkedIn publishes no price for Hiring Assistant, and Noon has no public price list.」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「Published solo plans range from $100 a month (Pin, billed annually) to $494 a month (hireEZ), and Juicebox adds $199 per agent per month on top of a seat. Hiring Assistant's price is not published. An assembled agent costs a Linked API seat from $49/mo billed annually, plus your model and time.」（https://linkedapi.io/guides/ai-recruiting-agent）
+- 自社名で出せる条件：
+  - 「Surpassing chatbots or glorified notetakers, AI recruiting assistants are context-aware systems embedded inside a recruiter’s tech stack.」（https://recruiterflow.com/blog/ai-recruiting-assistants/）
+  - 「The best AI assistants are deeply embedded in your ATS or CRM. Most software offer AI as an add-on. This not only adds to the pricing complexity, it creates a flurry of disconnected tools leading to inaccurate data and context loss.」（https://recruiterflow.com/blog/ai-recruiting-assistants/）
+- 再販制度：
+  - 「Varies: Gem requires review before sending; Juicebox runs hands-off or with checkpoints; hireEZ lets recruiters review every outreach message」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「Varies – ask each vendor」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「Published prices vary widely. hireEZ says "Solo recruiters start at $494/mo with a 7-day free trial"; Juicebox charges "$199 per agent/month" on top of a seat; Pin's Solo plan is $100 per user per month, billed annually; Gem prices by company size, with startup rates. LinkedIn publishes no price for Hiring Assistant, and Noon has no public price list.」（https://linkedapi.io/guides/ai-recruiting-agent）
+- 売上：
+  - 「. It’s also why your best consultants are spending 40% of their time on tasks that don’t generate revenue. AI twins like AIRA change that.」（https://recruiterflow.com/blog/ai-recruiting-assistants/）
+  - 「update their data regularly. Outdated data increases time-to-fill by 36% and can leak millions in lost revenue.」（https://recruiterflow.com/blog/ai-recruiting-assistants/）
+- 価格：
+  - 「Linked API from $49/mo per seat billed annually, plus your model and time」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「$199 per agent/month on top of a seat」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「Solo $100 per user per month, billed annually」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「Published prices vary widely. hireEZ says "Solo recruiters start at $494/mo with a 7-day free trial"; Juicebox charges "$199 per agent/month" on top of a seat; Pin's Solo plan is $100 per user per month, billed annually; Gem prices by company size, with startup rates. LinkedIn publishes no price for Hiring Assistant, and Noon has no public price list.」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「An assembled agent is priced by its parts: a Linked API seat for each LinkedIn account (flat per seat, from $49/mo billed annually), your model usage, and the time to set it up and supervise it. It costs less in licences when you already have the model and the ATS; it costs more of your own attention, which is the trade.」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「Published solo plans range from $100 a month (Pin, billed annually) to $494 a month (hireEZ), and Juicebox adds $199 per agent per month on top of a seat. Hiring Assistant's price is not published. An assembled agent costs a Linked API seat from $49/mo billed annually, plus your model and time.」（https://linkedapi.io/guides/ai-recruiting-agent）
+  - 「– researching candidates, drafting against your role brief and sending only what you approve, on your own LinkedIn account. Plans are flat per seat, from $49/mo billed annually – see」（https://linkedapi.io/guides/ai-recruiting-agent）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## プレスリリース配信（press release distribution platform）
+- 文脈：PR
+- 提供企業：
+  - 「Topical Authority」（https://dialedinweb.com/white-label-press-releases）
+  - 「Top White Label PPC Agencies」（https://dialedinweb.com/white-label-press-releases）
+  - 「500+ Top Newswires」（https://brandstorypresswire.com/agency-plans/）
+  - 「Can my story reach top news sites?」（https://brandstorypresswire.com/agency-plans/）
+  - 「Trending Topics」（https://www.prnewswire.com/）
+  - 「All Trending Topics」（https://www.prnewswire.com/）
+  - 「Big News! Cision has acquired Trajaan, the industry-leading search intelligence and GenAI monitoring platform.」（https://www.prnewswire.com/）
+  - 「Top Reasons to Work with PR Newswire」（https://www.prnewswire.com/）
+  - 「PR Newswire for Journalists helps you stay on top of the latest news in your beat. You’ll also have access to ProfNet experts and multimedia to round out your stories, plus a media blog, job listings, and other resources.」（https://www.prnewswire.com/）
+  - 「Track the topics that are taking shape, influencing conversations and powering decisions around the world」（https://www.prnewswire.com/）
+  - 「View All Trending Topics」（https://www.prnewswire.com/）
+  - 「Find news by industry or search for the topics that matter most to you」（https://www.prnewswire.com/）
+  - 「Browse All Sectors & Topics」（https://www.prnewswire.com/）
+  - 「Distribution to the world's top news outlets.」（https://pressranger.com/pages/wholesale-press-release-distribution）
+  - 「Get additional high-authority SEO backlinks via audio distribution to top podcasting」（https://pressranger.com/pages/wholesale-press-release-distribution）
+- 自社名で出せる条件：
+  - 「White Label Press Release Distribution | NewswireNEXT」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「White Label Press Release Distribution」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「What is White Label Press Release?」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「However, all the press release distribution companies charge an additional fee to make press release white label.」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「We at NewswireNEXT.com offer White Label Distribution services (Unbranded)」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「What are the benefits of white label press release distribution?」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「The beauty of white label work is everyone can benefit equally. Since it allows other groups, marketers, to rebrand or sell third party press release services as their own.」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「In other words, white label is a great example of trickle-down economics. Each person in the chain of the release garners additional marketing service for their product or service.」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「White Label Pack」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「White Label Press Release Writing & Distribution | DIW」（https://dialedinweb.com/white-label-press-releases）
+  - 「White Label Press Release Writing and Distribution」（https://dialedinweb.com/white-label-press-releases）
+  - 「A white label press release gives agencies a way to share real client news without building an in-house PR team. We handle the writing and placement work behind the scenes, helping clients earn wider visibility, branded mentions, and opportunities for citations.」（https://dialedinweb.com/white-label-press-releases）
+  - 「White-Label Partner」（https://dialedinweb.com/white-label-press-releases）
+  - 「Writing is only one part of the process. With white label press release distribution, agencies can match the release to the right channels, timing, and audience instead of treating every announcement the same way.」（https://dialedinweb.com/white-label-press-releases）
+  - 「What is a white label press release?」（https://dialedinweb.com/white-label-press-releases）
+- 再販制度：
+  - 「, where the name of distributor (NewswireNEXT or any other Third Party) is not mentioned on the published press releases and distribution report.」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「Resellers and PR Agencies」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「: Public Relation agencies and resellers can easily purchase our packages, and sell them to their clients as a part of their own services. Moreover, we do not have any special conditions or requirements for agencies. They can simply go to our」（https://newswirenext.com/white-label-press-release-distribution/）
+  - 「Can agencies resell white label press release distribution?」（https://dialedinweb.com/white-label-press-releases）
+  - 「Qualify For Reseller Account」（https://brandstorypresswire.com/agency-plans/）
+  - 「YES. Read https://brandstorypresswire.com/blockchain-press-release-distribution/ Reseller partners must be First Class Members for this facility. No exceptions.」（https://brandstorypresswire.com/agency-plans/）
+  - 「PR Pricing for Business & Resellers」（https://brandstorypresswire.com/agency-plans/）
+  - 「Wholesale press release distribution」（https://pressranger.com/pages/wholesale-press-release-distribution）
+  - 「Resellers」（https://pressranger.com/pages/wholesale-press-release-distribution）
+  - 「Get premium press release distribution at wholesale prices. Publish to 400+ major outlets including Yahoo Finance, Business Insider, Associated Press, and more with guaranteed placements and detailed reporting.」（https://pressranger.com/pages/wholesale-press-release-distribution）
+  - 「Exclusive wholesale pricing - no middlemen, no hidden fees」（https://pressranger.com/pages/wholesale-press-release-distribution）
+  - 「White label and reseller ready」（https://pressranger.com/pages/wholesale-press-release-distribution）
+  - 「Wholesale, member's only pricing」（https://pressranger.com/pages/wholesale-press-release-distribution）
+  - 「Do I need to be a paying subscriber to use Wholesale press release distribution?」（https://pressranger.com/pages/wholesale-press-release-distribution）
+  - 「No. Everyone can publish press releases at wholesale prices using Wholesale press release distribution. Just create a free account, add a company, and start creating releases.」（https://pressranger.com/pages/wholesale-press-release-distribution）
+- 黒字・収益性：
+  - 「Not For Profit」（https://www.prnewswire.com/）
+  - 「This matters even more when managing press releases for multiple clients at once. Bulk discounts from 10 percent for five orders up to 30 percent for thirty orders make EasyPRWire genuinely profitable as an agency scales its white label PR reselling operation. The gap between what you pay and what you charge your clients is your margin. EasyPRWire protects that margin as volume grows.」（https://www.openpr.com/news/4461567/best-white-label-press-release-distribution-services-in-2026）
+  - 「Starting at $189 per release, their distribution network covers 300 plus media outlets. Every submission is fully white label ready. Resellers can brand distribution reports with a custom agency logo. The wholesale pricing structure is designed for agencies distributing press releases for multiple clients simultaneously and looking for paid distribution they can mark up profitably.」（https://www.openpr.com/news/4461567/best-white-label-press-release-distribution-services-in-2026）
+  - 「The platform is built for agencies and marketing resellers, offering wholesale pricing and white-label options to provide powerful PR services under their own brand, creating a scalable and profitable business solution.」（https://pressranger.com/blog/best-press-release-distribution-service）
+  - 「Nonprofits」（https://www.prezly.com/academy/best-press-release-distribution）
+  - 「Nonprofits」（https://www.prezly.com/academy/rebranding-press-release）
+  - 「Profit Margin」（https://redpress.net/white-label-press-release-distribution）
+  - 「Unlock wholesale rates with our tiered credit system. The more you scale, the higher your profit margin.」（https://redpress.net/white-label-press-release-distribution）
+  - 「Increase your agency’s profitability with our volume-based wholesale credit tiers.」（https://redpress.net/white-label-press-release-distribution）
+  - 「Not For Profit」（https://www.prnewswire.com/me/products/pr-distribution-and-placement/）
+  - 「Many agency owners mistakenly view a press release as an episodic, secondary task—something executed only when a client explicitly demands a product launch or funding announcement. However, managing this fulfillment on an ad-hoc basis introduces a hidden leak in your agency’s profitability. Without a reliable, centralized」（https://pinionnewswire.com/blog/whitelabel-press-release-distribution-agency-blueprint/）
+  - 「transforms this operational bottleneck into a reliable profit center. By utilizing high-authority」（https://pinionnewswire.com/blog/whitelabel-press-release-distribution-agency-blueprint/）
+  - 「By packaging your distribution engine as a standard, non-negotiable line item within your ongoing retention plans, you eliminate the friction of constant one-off sales cycles, keep your client base insulated from competing platforms, and build a highly profitable revenue stream backed by」（https://pinionnewswire.com/blog/whitelabel-press-release-distribution-agency-blueprint/）
+  - 「Agency PR Pricing & Profit Calculator Template」（https://pinionnewswire.com/blog/whitelabel-press-release-distribution-agency-blueprint/）
+- 売上：
+  - 「Newswire Jet offers both single releases and bulk bundles, with placement reports. Its FAQ describes distribution to up to 300 sites, but the package you choose determines the destinations. That upper limit isn't a promise that every site will carry every release, or a count of readers.」（https://www.prezly.com/academy/best-press-release-distribution）
+  - 「Mistake 3: Forgetting old customers in the transition narrative.」（https://www.instantpress.co/blog/press-release-for-rebranding）
+  - 「A report by Lucidpress shows that consistent brand presentation across all platforms can increase revenue by up to 23%. Ensuring that all elements are cohesive and polished before the launch prevents any inconsistencies that could confuse or alienate your audience. It also demonstrates professionalism and attention to detail, reinforcing the positive attributes of your new brand identity.」（https://sterlingmarketinggroup.com/how-to-write-a-powerful-rebrand-press-release-for-your-business/）
+  - 「Reviewers single out the hands-on service, with owner Christopher Simmons frequently named for personally reviewing copy and responding quickly. It holds a 4.9/5 Trustpilot score across 257 reviews (ranked first in its category) and 4.5/5 on G2, and parent company Neotrope carries an A+ BBB rating.」（https://www.mobiloud.com/blog/press-release-distribution-platforms/）
+  - 「Bianca Caballero is a sales and customer experience contributor with a background in field sales and territory management, supporting B2B and B2C growth. She draws on experience working with customers across the health, pharmaceutical, and insurance space to help small businesses improve pipeline performance and grow revenue.」（https://fitsmallbusiness.com/best-press-release-service/）
+  - 「Syndicated links from press releases are typically nofollow and carry limited direct ranking weight. The real SEO value comes from 2 sources: earned coverage (when a journalist reads the release and links to the source site editorially) and brand mention signals (even unlinked mentions on authoritative sites strengthen entity recognition in search algorithms).」（https://vettted.com/press-release-agencies/）
+  - 「The pricing gap between base ($195) and international ($1,500+) is wide. The base tier's actual reach is narrow enough that most campaigns end up upgrading to the National or International tier to achieve meaningful coverage. Budget for the actual tier you need, not the starting price advertised.」（https://redpress.net/best-press-release-distribution-services）
+  - 「Acquired by Issuer Direct in 2021 — pricing structure has been opaque and shifting. Base tier reach is narrower than competitors at similar price points.」（https://redpress.net/best-press-release-distribution-services）
+  - 「Owned by Cision but operates as a separate brand. Distribution depth has narrowed in recent years — outlet count is meaningfully smaller than the $400+ tier services. SEO benefit relies heavily on third-party indexing rather than direct media pickup.」（https://redpress.net/best-press-release-distribution-services）
+  - 「Editorial gating means slower turnaround (often 1-2 business days). Reach is narrower than wire-style services — better positioned as a quality play than a reach play.」（https://redpress.net/best-press-release-distribution-services）
+  - 「The B2B Agency Blueprint: Scaling Revenue with Whitelabel Press Release Distribution」（https://pinionnewswire.com/blog/whitelabel-press-release-distribution-agency-blueprint/）
+  - 「The ultimate goal of any scaling B2B agency is converting transactional, project-based tasks into highly predictable Monthly Recurring Revenue (MRR). Instead of waiting for your client to hand you a breakthrough news item, establish a structured, programmatic quarterly or monthly corporate communications roadmap.」（https://pinionnewswire.com/blog/whitelabel-press-release-distribution-agency-blueprint/）
+- 価格：
+  - 「Export 750 records per month」（https://pressranger.com/pages/wholesale-press-release-distribution）
+  - 「We reviewed every major white label press release distribution service available to PR agencies, marketing agencies, digital PR teams, and PR resellers in 2026. We compared distribution networks, white label reporting quality, pricing plans, media outlet quality, turnaround times, and reseller features. Here is the full breakdown.」（https://www.openpr.com/news/4461567/best-white-label-press-release-distribution-services-in-2026）
+  - 「White label reports, 300 plus outlets, wholesale pricing, AI chatbot indexing」（https://www.openpr.com/news/4461567/best-white-label-press-release-distribution-services-in-2026）
+  - 「3. Press Ranger: Reseller-Ready Platform for Wholesale Pricing」（https://www.openpr.com/news/4461567/best-white-label-press-release-distribution-services-in-2026）
+  - 「Starting at $189 per release, their distribution network covers 300 plus media outlets. Every submission is fully white label ready. Resellers can brand distribution reports with a custom agency logo. The wholesale pricing structure is designed for agencies distributing press releases for multiple clients simultaneously and looking for paid distribution they can mark up profitably.」（https://www.openpr.com/news/4461567/best-white-label-press-release-distribution-services-in-2026）
+  - 「Starting at $299 per release, their network covers 600 plus authoritative online media outlets including Google News, Yahoo, Bing, NBC, PBS, FOX, and CBS affiliates. No NewswireNEXT branding appears on the release, in the syndicated posts, or in the distribution report.」（https://www.openpr.com/news/4461567/best-white-label-press-release-distribution-services-in-2026）
+  - 「Use EasyPRWire as your primary white label press release distribution service starting at $89 per release」（https://www.openpr.com/news/4461567/best-white-label-press-release-distribution-services-in-2026）
+  - 「The people I talked to were frustrated with empty promises, exorbitant pricing, and unclear deliverables and ROI that the industry had made standard over the past 10 years.」（https://pressranger.com/blog/best-press-release-distribution-service）
+  - 「Wholesale pricing starts at $299 per release」（https://pressranger.com/blog/best-press-release-distribution-service）
+  - 「Guaranteed Business Insider, Yahoo Finance, and AP News placements; flat wholesale pricing ($299/$399, no upsells); the only service indexing releases in ChatGPT, Perplexity, Gemini, Grok, and Copilot; audio distribution to Spotify and Apple Podcasts; white-label reports built for resellers.」（https://pressranger.com/blog/best-press-release-distribution-service）
+  - 「~$800 base plus per-word and per-image charges; pricing requires a quote and gets complex fast; no AI chatbot or audio indexing.」（https://pressranger.com/blog/best-press-release-distribution-service）
+  - 「Quote-based, opaque pricing (~$775 base plus add-ons for images, word count, and distribution options); no audio distribution and no guaranteed AI indexing.」（https://pressranger.com/blog/best-press-release-distribution-service）
+  - 「Worth knowing before you compare prices: Prowly was folded into Semrush, and as of July 2026 it's sold as the Semrush AI PR Toolkit with subscriptions from $29 to $119 per month. That's a different purchase from a per-release wire: cheap if you pitch constantly and build relationships, expensive if you wanted guaranteed placements this week.」（https://pressranger.com/blog/best-press-release-distribution-service）
+  - 「Subscription: $29–$119/month as the Semrush AI PR Toolkit (verified July 2026). No per-release fees, and no placements included.」（https://pressranger.com/blog/best-press-release-distribution-service）
+  - 「Cheap now ($29–$119/month under Semrush); strong media database and monitoring; the right tool if your strategy is relationship-driven pitching rather than syndication.」（https://pressranger.com/blog/best-press-release-distribution-service）
+- 検索結果の抜粋：
+  - 「Press Release Distribution Service (1000+ 5 Star ... - fatjoe. — Press Release Distribution Service (1000+ 5 Star ... - fatjoe. fatjoe.com https://fatjoe.com > press-release-distr...」（https://fatjoe.com/press-release-distribution/）
+  - 「The 12 Best Press Release Distribution Services of 2026 — The 12 Best Press Release Distribution Services of 2026 Press Ranger https://pressranger.com > blog > best-...」（https://pressranger.com/blog/best-press-release-distribution-service）
+  - 「Best White Label Press Release Distribution Services in 2026: — Best White Label Press Release Distribution Services in 2026: openPR.com https://www.openpr.com > news > bes...」（https://www.openpr.com/news/4461567/best-white-label-press-release-distribution-services-in-2026）
+- 日本対応：記載なし（読んだ39頁・検索8回）
+
+## 記者・メディアへのアプローチ（media outreach software）
+- 文脈：PR
+- 提供企業：
+  - 「Measure your performance and benchmark against competitors」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「Explore Top Topics」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「Explore All Topics」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「Top 10 Best Media Monitoring Tools for PR and Brand Performance」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「feature, built to give an executive summary of a feed to highlight common narratives appearing in your coverage, key themes and answers questions for deeper insights. It’s trusted by leading industry organizations including the CFDA, IMG, and the Fédération de la Haute Couture et de la Mode and」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「combines traditional search intelligence with AI search visibility. It tracks keywords, prompts, citations, mentions, competitors, and sentiment, with unlimited users and agency reporting options.」（https://searcheye.io/blog/best-media-relations-software）
+  - 「: whether the tool tracks brand mentions in AI-generated answers. This is no longer a fully empty category: at least three competitors (Meltwater, Brandwatch, Brand24) have shipped this natively. It's still not universal, and it's distinct from the AI tool integration criterion below.」（https://delve.news/post/best-media-monitoring-tools-pr-agencies/）
+  - 「Broad global source coverage makes Meltwater a common choice for agencies managing client verticals across regions and industries. Reporting output favors raw coverage data over a synthesized narrative, so an agency using Meltwater typically builds its own reporting layer on top for client delivery.」（https://delve.news/post/best-media-monitoring-tools-pr-agencies/）
+  - 「Three competitors already handle AI search visibility natively」（https://delve.news/post/best-media-monitoring-tools-pr-agencies/）
+- 自社名で出せる条件：
+  - 「Manage every aspect of your brand’s activity from a single platform」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「isn’t just about tracking how often your brand is mentioned. It’s about understanding what those mentions actually mean for your brand.」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「Not all media monitoring tools are built the same. The right choice depends on your brand’s size, industry, and the level of performance analysis you need.」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「(Media, Influencers, Celebrities, Owned Media and Partners). Using its intuitive interface, data visualization and flexibility with feeds, this makes it easier to understand not just where your brand is mentioned, but which placements are actually driving impact and compare each placement on a level-playing field, e.g. an Influencer Instagram post with a Vogue online article.」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「Ultimately, the right tool is the one that aligns with your goals and gives you clear, actionable insights into how your brand is performing.」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「Media monitoring is an essential activity for Fashion, Lifestyle and Beauty (FLB) brands. It’s how you keep a finger on the pulse of what’s being said about your brand and how people are responding to your campaigns and products. What’s more, it gives basis to your strategic decisions, ensuring that they drive your brand in […]」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「Find out which AI answers mention your brand, free.」（https://searcheye.io/blog/best-media-relations-software）
+- 再販制度：
+  - 「Muck Rack uses custom annual contracts. The company does not publish a standard rate card. Third-party estimates vary widely, so request a scoped quote based on users, monitoring, and support rather than budgeting from an unofficial number.」（https://searcheye.io/blog/best-media-relations-software）
+  - 「, checked August 2026, gives indicative annual ranges starting around $10,000 for Starter, $25,000 for Pro, and $130,000 for Enterprise. Final quotes vary by sources, searches, users, and setup.」（https://searcheye.io/blog/best-media-relations-software）
+  - 「: whether pricing works for agency margins and multi-client billing, or is built around a single enterprise account, and what the actual entry-level cost looks like」（https://delve.news/post/best-media-monitoring-tools-pr-agencies/）
+- 売上：
+  - 「Delve. Has a native MCP server, letting teams query live coverage directly from Claude, ChatGPT, and other AI tools instead of manually exporting data. Meltwater and Brand24 have also shipped MCP servers; Delve's is built specifically around PR reporting workflows, including message pull-through and narrative synthesis, rather than general coverage querying.」（https://delve.news/post/best-media-monitoring-tools-pr-agencies/）
+- 価格：
+  - 「6. Pricing and company fit」（https://www.launchmetrics.com/resources/blog/best-media-monitoring-tools）
+  - 「Pro $99/month; Agency $599/month; publisher spend separate」（https://searcheye.io/blog/best-media-relations-software）
+  - 「Starts at $149/month」（https://searcheye.io/blog/best-media-relations-software）
+  - 「Starts at €100/month billed annually」（https://searcheye.io/blog/best-media-relations-software）
+  - 「Self-serve plan starts at $295/month」（https://searcheye.io/blog/best-media-relations-software）
+  - 「$95/month, or $79/month billed annually」（https://searcheye.io/blog/best-media-relations-software）
+  - 「, checked August 2026, lists Pro at $99 per month and Agency at $599 per month. Agency includes 1,000 tracked prompts, 50 sites, and a 25% placement discount. Publisher spend is separate and shown before an order is approved.」（https://searcheye.io/blog/best-media-relations-software）
+  - 「Brand24. A lower-cost entry point starting at $199 per month, with accessible pricing, no enterprise minimums, and a native MCP server for AI tool integration.」（https://delve.news/post/best-media-monitoring-tools-pr-agencies/）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## PR効果測定・露出の収集（media monitoring software）
+- 文脈：PR
+- 提供企業：
+  - 「Media Monitoring White Label Solutions Explained - Determ」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Determ alternatives」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「All About Media Monitoring White Label Solutions」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Media Monitoring White Label Solutions Explained」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「This article will explain everything you need to know about media monitoring white label solutions and why considering one might be a great choice for you.」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「In order to identify mentions of your topic, the media monitoring tool’s crawlers will check more than 100 million online sources. That includes websites, social media, blogs, forums, and comments.」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「is a way of determining the general attitude toward your brand, product, or any other topic of interest.」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「What’s interesting is that not only new businesses looking for a boost are turning to media monitoring white label solutions. Established companies and agencies that have already built a significant market presence and gained consumers’ trust are joining in, too.」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Determ Alternatives」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Tell us more about you and your competitors. This helps us provide better, more accurate results.」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「See how top PR and Marketing teams track media, measure results, and save hours every week with the power of Determ and AI」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Analyze my competitors」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Quick comparison: Top media monitoring tools in 2026」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「Top 10 media monitoring tools in 2026」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「The right media monitoring platform can transform your PR strategy by helping you track coverage, measure campaign effectiveness, and protect your brand reputation. This guide examines the leading media monitoring software available in 2026 and how to choose the solution that fits your needs and budget.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+- 自社名で出せる条件：
+  - 「Media Monitoring White Label Solutions Explained - Determ」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「What is White Labeling?」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「All About Media Monitoring White Label Solutions」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Is a media monitoring white label for you?」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「7 reasons for white labeling」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Media Monitoring White Label Solutions Explained」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「media monitoring white label」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「This article will explain everything you need to know about media monitoring white label solutions and why considering one might be a great choice for you.」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「In general, a white label is a product or service made by one company that is then purchased and rebranded by another company or more of them. As opposed to a private label, white label products are」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Investing in a white label product means that the latter gets a」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「to which they add their brand, logo, and identity. When done well, the end consumer would probably never associate a white label product with its original producer.」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「You’d likely be surprised as to how extensively white label products and services are used. From food services to business marketing, the use-cases are as varied as they get.」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Still, white-label solutions are probably the most popular in」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「is a way of determining the general attitude toward your brand, product, or any other topic of interest.」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「What’s interesting is that not only new businesses looking for a boost are turning to media monitoring white label solutions. Established companies and agencies that have already built a significant market presence and gained consumers’ trust are joining in, too.」（https://determ.com/blog/media-monitoring-white-label/）
+- 再販制度：
+  - 「enormous reselling potential」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「You’d likely be surprised as to how extensively white label products and services are used. From food services to business marketing, the use-cases are as varied as they get.」（https://determ.com/blog/media-monitoring-white-label/）
+  - 「Modern platforms track across multiple media types: online news publications, print newspapers and magazines, broadcast TV and radio, social media platforms, podcasts, and blogs. The scope of coverage varies between tools, with enterprise platforms typically offering the most comprehensive cross-channel monitoring.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「Look for customizable alert systems with different notification thresholds for various topics or sources. The best platforms offer customizable, brandable reports with export options for presentations and strategy documents.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「, but quality varies. Look for regularly verified contact information with beat tracking and outlet details to help you identify the right journalists for your pitches.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「Where free trials are available, use them. Platform usability varies significantly and the tool that looks best on paper may not suit your team’s workflow in practice.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「Platforms vary significantly – some cover only online/social, while premium options include print and broadcast.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+- 黒字・収益性：
+  - 「Finally, the ROI. Taking advantage of all the aforementioned benefits is likely to result in a successful and profitable product, minus all the costs associated with in-house developers and development processes in general.」（https://determ.com/blog/media-monitoring-white-label/）
+- 売上：
+  - 「Black Friday in media: Why 22% of coverage on discounts but 0 narratives on live commerce disruption」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+- 価格：
+  - 「Not all media monitoring software offer the same level of coverage, licensing, or analytical depth. The comparison table below outlines how the leading platforms in 2026 differ across media types, pricing models, and core functionality.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「From $149/month」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「From $29/month」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「Cision’s pricing is not publicly available. Estimated that CisionOne pricing typically starts from $9,000 for global online monitoring.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「Complete PR platform estimated starting at $7,200 annually. Broadcast, social, and print monitoring available as add-ons.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「Meltwater’s pricing is not publicly available. Average pricing estimated around $12,000 per user annually (range $8,000-$25,000+). Base packages typically $10,000-$25,000. Insight reporting available as bespoke service or annual AI reports starting from £2,950.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「Solo: $29/month (5,000 mentions, 3 alerts). Pro: $99/month (30,000 mentions, 15 alerts). Enterprise Plan offers custom pricing for unlimited mentions and users.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+  - 「Minimum price reportedly $9,000 with average cost of $21,000 annually. Subscription-based model with custom pricing for enterprise solutions.」（https://onclusive.com/resources/blog/media-monitoring-tools-2026/）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## AI記事作成・オウンドメディア（AI content writing platform）
+- 文脈：PR
+- 提供企業：
+  - 「The top 5 AI blog writer white label solutions for agencies in 2026 | eesel AI」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「The top 5 AI blog writer white label solutions for agencies in 2026」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「What are AI blog writer white label solutions?」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「How we chose the best AI blog writer white label solutions」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Comparison of the top AI blog writer white label solutions」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「How to choose the right AI blog writer white label solutions」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Scaling your agency with AI blog writer white label solutions」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「The eesel AI blog writer, a tool that provides AI blog writer white label solutions.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「An infographic showing the benefits for agencies using AI blog writer white label solutions, including new revenue, scalability, brand authority, and client retention.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Here's a quick side-by-side look at our top picks to help you see how they compare.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「A screenshot of the eesel AI blog writer dashboard, an example of AI blog writer white label solutions.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「It's important to note that eesel AI is not a white-label platform. It's designed for agencies to use themselves to speed up their content production, not to resell the software. If you're looking to sell a full suite of AI services like chatbots, you'd need to use it alongside other tools.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「A screenshot of the Stammer.ai homepage, one of the top AI blog writer white label solutions for agencies.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「is a complete white-label platform for agencies that want to sell AI-powered communication tools. It lets you build and resell everything from」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「A screenshot of the Formwise homepage, a platform for creating custom AI blog writer white label solutions.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+- 自社名で出せる条件：
+  - 「The top 5 AI blog writer white label solutions for agencies in 2026 | eesel AI」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「The top 5 AI blog writer white label solutions for agencies in 2026」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「What are AI blog writer white label solutions?」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「How we chose the best AI blog writer white label solutions」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Comparison of the top AI blog writer white label solutions」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「How to choose the right AI blog writer white label solutions」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Scaling your agency with AI blog writer white label solutions」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「This is where white-label AI blog writers can be a useful tool. They let you rebrand proven AI technology and sell it as your own service. Instead of a messy first draft, a tool like the」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「The eesel AI blog writer, a tool that provides AI blog writer white label solutions.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「white-label solution is a product」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「made by one company that another company can put its own brand on and sell. For an agency, this means you can partner with an AI provider, customize the platform with your logo, and offer powerful AI content services directly to your clients under your own name.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「My company is nearing the end of a website build for a client, and they've just requested an AI chatbot widget for answering questions and capturing leads. I need to figure out the best way to deliver this... The main requirement here is that the widget must be white-label; the client has specifically requested that there be no third-party branding.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「73% of businesses use white-label solutions」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「An infographic showing the benefits for agencies using AI blog writer white label solutions, including new revenue, scalability, brand authority, and client retention.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「True White-Labeling:」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+- 再販制度：
+  - 「The math has to make sense. We looked at pricing models to find ones that are transparent, scalable, and leave enough room for you to add a healthy profit margin.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Building and reselling AI chat and voice agents for support and sales.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「It's important to note that eesel AI is not a white-label platform. It's designed for agencies to use themselves to speed up their content production, not to resell the software. If you're looking to sell a full suite of AI services like chatbots, you'd need to use it alongside other tools.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「is a complete white-label platform for agencies that want to sell AI-powered communication tools. It lets you build and resell everything from」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「is a no-code platform that lets you package your agency's unique processes into resellable AI tools. Instead of a generic blog writer, you could build a custom "Smartform" that generates specific real estate ad copy, or a "Copilot" that drafts email sequences based on your own」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「A video reviewing several of the best AI blog writer white label solutions for agencies looking to resell AI software.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Calculate your potential profit margins:」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「It varies. You'll find monthly subscriptions (like Stammer.ai or Formwise), usage-based fees (like Parallel AI's API calls), or a combination. This variety allows you to pick a model that aligns with your cash flow and lets you build in a healthy profit margin when reselling the service to your clients.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+- 黒字・収益性：
+  - 「Pricing and Profitability:」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「The math has to make sense. We looked at pricing models to find ones that are transparent, scalable, and leave enough room for you to add a healthy profit margin.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「For agencies that focus on delivering ready-to-publish blog content designed to rank, this tool provides a streamlined workflow. It saves time on editing and finding assets, which can impact profitability.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Just remember there are usage fees for messages and call minutes, which you can mark up for profit.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「A four-step infographic on how to choose the right AI blog writer white label solutions, covering service definition, quality testing, branding, and profitability.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Calculate your potential profit margins:」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「White-label AI is a significant opportunity for agencies to scale their services quickly and profitably. The best platform really comes down to your business model. If you're selling conversational AI, Stammer.ai is a suitable choice. If you're turning your expertise into a product, Formwise is a good option. And for high-touch thought leadership, Pressmaster.ai is well-suited.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「It varies. You'll find monthly subscriptions (like Stammer.ai or Formwise), usage-based fees (like Parallel AI's API calls), or a combination. This variety allows you to pick a model that aligns with your cash flow and lets you build in a healthy profit margin when reselling the service to your clients.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+- 価格：
+  - 「Standard Plan: $299/month for 100 blog generations.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「$197/month」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Full SaaS Mode: $497/month.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「$129/month」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「Agency Plan: $229/month for unlimited toolsets and 10,000 credits.」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「start at $119 per month」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+  - 「White label AI in 2026: Platforms, pricing & setup」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+- 検索結果の抜粋：
+  - 「The top 5 AI blog writer white label solutions for agencies in ... — The top 5 AI blog writer white label solutions for agencies in ... eesel AI https://www.eesel.ai > blog > ai-blog-...」（https://www.eesel.ai/blog/ai-blog-writer-white-label-solutions）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## SNS投稿・運用管理（social media management software）
+- 文脈：PR
+- 提供企業：
+  - 「Top Features」（https://www.socialpilot.co/white-label-solution）
+  - 「Compare your Instagram side by side with competitors and see where you stand.」（https://www.socialpilot.co/white-label-solution）
+  - 「White Label Solutions」（https://www.socialpilot.co/white-label-solution）
+  - 「Alternatives」（https://www.socialpilot.co/white-label-solution）
+  - 「Pricing for services should be considered when researching white label social media management providers. You should be able to get a clear idea of pricing based on your needs from any software provider you speak with.」（https://www.soci.ai/blog/white-label-social-media-management-software-for-agencies-and-resellers/）
+  - 「Franchise Social Media Management at Scale: Case Study Results From Top Franchise Brands」（https://www.soci.ai/blog/white-label-social-media-management-software-for-agencies-and-resellers/）
+  - 「Perfect for Agencies & SaaS Providers」（https://whitelabel.onlysocial.io/）
+  - 「Manage all your social conversations from one place - comments, reviews, direct messages, and replies across platforms - without switching tabs. OnlySocial’s Unified Inbox helps you stay on top of your audience interactions effortlessly, boosting response time and customer satisfaction.」（https://whitelabel.onlysocial.io/）
+  - 「All topics」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+  - 「Top 10 Best White Label Social Media Management Software of 2026」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+  - 「Editor’s top 3 picks」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+  - 「Vendors set the topic, but our editors set the inclusion criteria and the evaluation framework before research starts.」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+  - 「What breaks if a white-label platform lacks client workspace separation, based on Agorapulse and Cloud Campaign workflows?」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+  - 「What integration path matters most when publishing requires platform API authorization, as seen in OAuth-centered setups in platforms like Hootsuite or Social Champ?」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+- 自社名で出せる条件：
+  - 「White Label Social Media Management Software | SocialPilot」（https://www.socialpilot.co/white-label-solution）
+  - 「White Label」（https://www.socialpilot.co/white-label-solution）
+  - 「Offer a full-service social media platform under your brand, trusted by users across the world.」（https://www.socialpilot.co/white-label-solution）
+  - 「Deliver your marketing or social media services through a platform that carries your brand name, domain, and design across every touchpoint.」（https://www.socialpilot.co/white-label-solution）
+  - 「Give each region a custom dashboard while keeping central visibility. Every location runs on your brand, your rules.」（https://www.socialpilot.co/white-label-solution）
+  - 「Equip Partners To Sell or Serve Under Your Brand」（https://www.socialpilot.co/white-label-solution）
+  - 「Set up your white-labeled platform using your brand, domain, and sender details with minimal effort or support.」（https://www.socialpilot.co/white-label-solution）
+  - 「White Label Solutions」（https://www.socialpilot.co/white-label-solution）
+  - 「Build It the Way Your Brand Deserves」（https://www.socialpilot.co/white-label-solution）
+  - 「From the first login to the final report, own the details and shape the platform around your brand.」（https://www.socialpilot.co/white-label-solution）
+  - 「Custom Domain」（https://www.socialpilot.co/white-label-solution）
+  - 「Send all system-generated emails from a custom domain in line with your brand.」（https://www.socialpilot.co/white-label-solution）
+  - 「Upload custom logo, images, and colors so that your branding shines through.」（https://www.socialpilot.co/white-label-solution）
+  - 「White-Labeled Reports」（https://www.socialpilot.co/white-label-solution）
+  - 「Send analytics reports with your own logo and colors, keeping your brand in focus.」（https://www.socialpilot.co/white-label-solution）
+- 再販制度：
+  - 「Drive Recurring Revenue by Reselling a Proven Platform」（https://www.socialpilot.co/white-label-solution）
+  - 「Resell a proven social media platform under your brand to」（https://www.socialpilot.co/white-label-solution）
+  - 「White Label Social Management Software for Agencies & Resellers」（https://www.soci.ai/blog/white-label-social-media-management-software-for-agencies-and-resellers/）
+  - 「Reseller」（https://www.soci.ai/blog/white-label-social-media-management-software-for-agencies-and-resellers/）
+  - 「White Label Social Media Management Software for Agencies & Resellers」（https://www.soci.ai/blog/white-label-social-media-management-software-for-agencies-and-resellers/）
+  - 「White label software allows resellers to expand their offerings and capabilities while continuing to focus on core services and client interactions. A white label software provider plugs in the pieces that a business cannot fill on its own, and does so in a manner that integrates into an existing workflow, fully conforms to the brand, and includes support from the provider.」（https://www.soci.ai/blog/white-label-social-media-management-software-for-agencies-and-resellers/）
+  - 「Learn More About SOCi, the Flexible, Scalable Solution for Agencies and Resellers」（https://www.soci.ai/blog/white-label-social-media-management-software-for-agencies-and-resellers/）
+  - 「Resell as SaaS」（https://whitelabel.onlysocial.io/）
+  - 「Identify what works with access to dynamic performance reports for various social networks – all from one simple dashboard. Inform your social strategy using easily understandable data, including views, likes, comments, posts sent and overall audience growth.」（https://whitelabel.onlysocial.io/）
+  - 「Custom Variables」（https://whitelabel.onlysocial.io/）
+  - 「Personalize your posts using dynamic variables like name, date, or company.」（https://whitelabel.onlysocial.io/）
+  - 「Inbox coverage varies by network authorization and available message channels」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+  - 「Advanced reporting customization takes time for agencies with many report variants」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+  - 「Social media management platform offering publish, inbox, listening, and reporting features with a reseller program.」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+  - 「Integration Partner Program」（https://zapier.com/blog/best-social-media-management-tools/）
+- 黒字・収益性：
+  - 「Non Profit」（https://www.socialpilot.co/white-label-solution）
+  - 「Broadening your company’s offerings with white label management software has many benefits beyond the generalities of improved efficiency and profitability. For agencies and companies juggling multiple clients or locations, white label social media management software offers many advantages:」（https://www.soci.ai/blog/white-label-social-media-management-software-for-agencies-and-resellers/）
+  - 「Agency profit margins report 2026」（https://planable.io/blog/social-media-management-tools-for-agencies/）
+  - 「Agency profit margins」（https://planable.io/blog/social-media-management-tools-for-agencies/）
+  - 「Agency profit margins report 2025」（https://planable.io/blog/social-media-management-tools-for-agencies/）
+  - 「Nonprofits」（https://www.cloudcampaign.com/tools/white-label-social-media-management-platform）
+  - 「Nonprofits」（https://www.cloudcampaign.com/blog/the-best-white-label-social-media-management-software-for-agencies）
+  - 「Social Media for Nonprofits: A Strategy Agencies Can Run for Every Organization They Serve」（https://www.cloudcampaign.com/blog/the-best-white-label-social-media-management-software-for-agencies）
+  - 「Social media for nonprofits should keep donors and volunteers close between asks. Learn what to post, which platforms matter, how approvals work, and how agencies run it across clients.」（https://www.cloudcampaign.com/blog/the-best-white-label-social-media-management-software-for-agencies）
+  - 「Learn how to hire a social media manager without sacrificing your profit margins. Implement an AI social media strategy to master multi-account management at scale.」（https://www.cloudcampaign.com/blog/the-best-white-label-social-media-management-software-for-agencies）
+  - 「How to Outsource Social Media Marketing: The Agency Guide to More Profitable Services」（https://www.cloudcampaign.com/blog/the-best-white-label-social-media-management-software-for-agencies）
+  - 「Discover how an AI social media manager acts as your "junior associate," automating 80% of grunt work. Boost client capacity and profitability without increasing headcount.」（https://www.cloudcampaign.com/blog/the-best-white-label-social-media-management-software-for-agencies）
+  - 「Transform your agency's efficiency with Cloud Campaign's social media marketing automation. Go beyond scheduling with autonomous workflows, AI-driven content, and white-label capabilities. Scale operations, ensure quality, and boost profitability across hundreds of clients. Explore now!」（https://www.cloudcampaign.com/blog/the-best-white-label-social-media-management-software-for-agencies）
+  - 「Sprout Social Pricing vs. Cloud Campaign: Maximize Agency Profitability」（https://www.cloudcampaign.com/blog/the-best-white-label-social-media-management-software-for-agencies）
+  - 「Discover why Cloud Campaign's unlimited-user model is more profitable than Sprout Social's costly per-user pricing. Unlock advanced features like AI image creation and white-label solutions to scale your agency efficiently.」（https://www.cloudcampaign.com/blog/the-best-white-label-social-media-management-software-for-agencies）
+- 売上：
+  - 「We evaluated each product on workflow mechanics for approvals and publishing handoffs, then mapped those mechanics to how agencies operate across multiple client workspaces. Features coverage carried the highest weight at 40%, then ease of day-to-day use and overall value each contributed 30%.」（https://zipdo.co/best/white-label-social-media-management-software/）
+- 価格：
+  - 「4. Transparent Pricing」（https://www.soci.ai/blog/white-label-social-media-management-software-for-agencies-and-resellers/）
+  - 「social media scheduler from $97/month」（https://whitelabel.onlysocial.io/）
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/white-label-social-media-management-software/）
+  - 「Free plan available; from $6/month per channel」（https://zapier.com/blog/best-social-media-management-tools/）
+  - 「From $99/user/month (billed annually)」（https://zapier.com/blog/best-social-media-management-tools/）
+  - 「From $99/month for basic features; from $199/month for the more robust platform」（https://zapier.com/blog/best-social-media-management-tools/）
+  - 「From $95/month for the Starter plan, or $265/month for the Pro plan that includes Ordinal MCP」（https://zapier.com/blog/best-social-media-management-tools/）
+  - 「From $79/month」（https://zapier.com/blog/best-social-media-management-tools/）
+  - 「From $99/month」（https://zapier.com/blog/best-social-media-management-tools/）
+  - 「Free plan available; from $25/month」（https://zapier.com/blog/best-social-media-management-tools/）
+  - 「From $39/month」（https://zapier.com/blog/best-social-media-management-tools/）
+  - 「Free plan available; from $10/month」（https://zapier.com/blog/best-social-media-management-tools/）
+  - 「From $29/month」（https://zapier.com/blog/best-social-media-management-tools/）
+  - 「Agencies whose real cost is content production, not software. If your team spends 15+ hours per client per month making posts, rebranding a scheduler solves the wrong problem.」（https://apaya.com/blog/best-white-label-social-media-software）
+  - 「Per-user tools run roughly $50 to $240 per month depending on tier and seats. Reports-only tools start around $79 per dashboard. Apaya prices per brand rather than per user, with current rates on the」（https://apaya.com/blog/best-white-label-social-media-software）
+- 検索結果の抜粋：
+  - 「White Label Social Media Scheduler – Start Your SaaS for $97 — White Label Social Media Scheduler – Start Your SaaS for $97 OnlySocial Whitelabel https://whitelabel.onlysocial.io」（https://whitelabel.onlysocial.io/）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## 口コミ・評判の獲得（review management software）
+- 文脈：PR
+- 提供企業：
+  - 「Powerful white label solution for agencies」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Marketing agencies and solution providers prefer our AI powered white label reputation management software. Empower your clients, and enhance your own brand identity with our exceptional white-label review monitoring and reputation management dashboard platform. Let our website widgets promote your brand, while SeoSamba brings in new clients to you.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Unlike our competitors' widgets, a single SeoSamba」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Get automated alerts when new reviews come in, and conveniently respond from your dashboard across all connected platform. Take Control of Your Online Reputation on Leading Social Media & Healthcare Review Platforms for an Affordable $69 per month」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「By implementing the right review generation techniques and responding well to reviews, you can establish a positive image for your facility and increase the likelihood of appearing at the top of search rankings.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Review Tool White Label Solution let's you set your own Twilio account and have your own phone number for your clients to send out review invites via Text with a private number.」（https://reviewly.ai/white-label/）
+  - 「Top 25 Recommended Niches」（https://reviewly.ai/white-label/）
+  - 「With complete control over the experience you can quickly and easily transfer over clients from an aging or outdated review platform into Reviewly.ai while adding in new ones on autopilot.」（https://reviewly.ai/white-label/）
+  - 「Reviewly is the first platform to offer SMS-powered review generation in over 100 countries, for both our standard software and white label partners. Same seamless workflow, no matter where your customers are.」（https://reviewly.ai/white-label/）
+  - 「White label Reputation Management allows companies to rebrand this powerful review management software as their own. Offered as a subscription service, Reviewly.ai white label solution gives brands and agencies the ability to help businesses track, manage, and control their online reputation, to earn trust and loyalty among customers and reach a wider online audience.」（https://reviewly.ai/white-label/）
+  - 「No, we do not provide tech/training to your clients but we will train you and provide tech support to you as our white label partner so that if you face any problem we are always here to help. We act as your Tier 2 tech support and your customers work directly with you.」（https://reviewly.ai/white-label/）
+  - 「By layering review reporting and analytics on top of extremely well-designed and effective “review funnel” assets, Grade.us gives you an unsurpassed solution for creating and optimizing reputation and review marketing campaigns.」（https://www.grade.us/home/review-management-software/）
+  - 「If you’re helping your clients rank on Google, you already know that Google reviews are one of the top three factors that determine local pack appearance.」（https://www.grade.us/home/review-management-software/）
+  - 「Suggested by email, or on autopilot」（https://www.merchynt.com/white-label-reputation-management-software）
+  - 「Unlimited, suggested by email or on autopilot」（https://www.merchynt.com/white-label-reputation-management-software）
+- 自社名で出せる条件：
+  - 「Review Management Software ¦ White Label Reputation Platform」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「White Label Marketing Automation」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「White Label CRM for Agencies」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Respond collaboratively to reviews with location managers or franchisees. With our platform, you can easily coordinate and align your brand's response across different locations and stakeholders.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Powerful white label solution for agencies」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Marketing agencies and solution providers prefer our AI powered white label reputation management software. Empower your clients, and enhance your own brand identity with our exceptional white-label review monitoring and reputation management dashboard platform. Let our website widgets promote your brand, while SeoSamba brings in new clients to you.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Our reputation management dashboard gives you a bird-eye view of your brand's reputation across major review sites like」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「White-Label Review Platform」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Grow and Protect Your Brand's Reputation across 100's of sites」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「to align perfectly with your brand's aesthetics. Showcase your reviews with our website widget with a」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「White label reputation management software」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「As agencies strive to provide comprehensive services to their clients, incorporating white label review platforms and reputation management software into their offerings has become increasingly important.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「SeoSamba allow marketing agencies to streamline their processes, enhance their clients' online presence, and solidify their own brand identity. Our white label review platform and reputation management software empower agencies to achieve remarkable results.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「The key advantage of SeoSamba as a white label review platform is the ability to customize the software with」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「white label marketing automation tools」（https://www.seosamba.com/review-management-software-platform.html）
+- 再販制度：
+  - 「With over 100 local business directory review sites, we ensure that your online reputation is effectively managed across various platforms. Maximize your visibility and reach potential customers where they are.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Leverage our comprehensive review management tool to gather more and better reviews. Monitor, analyze, and respond to customer feedback from various sources. Identify trends, track performance, and take necessary actions to maintain a positive brand image.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「SeoSamba's reputation management system simplifies the consolidation of reviews across various platforms. By connecting to 100+ websites and social networks, including Google, Facebook, Yelp, or Tripadvisors you can effortlessly gather and manage reviews from diverse sources in one centralized location.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Sharing reviews across platforms not only boosts your online presence but also leverages the additional space allocated to posts when your Google Business profile appears in search results. This approach ensures that potential customers see legitimate reviews from various sources, further validating your business's reputation.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Absolutely! SeoSamba's review management platform provides a unified interface where you can efficiently manage and respond to reviews from multiple platforms. This streamlines the process, allowing you to stay engaged with your customers across various channels without the need to navigate through different platforms separately.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Explore Our Variety Of White Label Review Devices」（https://reviewly.ai/white-label/）
+  - 「Use the Grade.us Review Management ROI Calculator to determine your agency’s potential profit margins and MRR. Simply choose the number of seats (client location) you plan to start with and the amount you want to charge per seat.」（https://www.grade.us/home/review-management-software/）
+  - 「Gross Margin」（https://www.grade.us/home/review-management-software/）
+  - 「Reseller」（https://www.grade.us/home/review-management-software/）
+  - 「Reputation Management Reseller」（https://www.grade.us/home/review-management-software/）
+  - 「For $440 annually (complimentary at 100 seats), add your agency or reseller brand’s logo to the dashboard and provide your clients with fully white labeled platform access*. This add-on is ideal for when you want to offer a self-managed white label service for your clients.」（https://www.grade.us/home/review-management-software/）
+  - 「Agency Partner Program」（https://www.merchynt.com/white-label-reputation-management-software）
+  - 「Keep more margin」（https://www.merchynt.com/white-label-reputation-management-software）
+  - 「Not every client is ready for full local SEO. Reviews are an easy place to start, and at $25 a profile there’s room for your margin.」（https://www.merchynt.com/white-label-reputation-management-software）
+  - 「Part of the Agency Partner Program」（https://www.merchynt.com/white-label-reputation-management-software）
+- 黒字・収益性：
+  - 「SeoSamba's reputation management software is an effective tool for businesses looking to boost profitability by managing their online reputation.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Use the Grade.us Review Management ROI Calculator to determine your agency’s potential profit margins and MRR. Simply choose the number of seats (client location) you plan to start with and the amount you want to charge per seat.」（https://www.grade.us/home/review-management-software/）
+  - 「We aim to provide your agency with the best-in-class lead generation tools, white label marketing assets, and educational resources that you need to prospect, pitch, and close clients. Scale your agency and your profit with reputation management services powered by Grade.us.」（https://www.grade.us/home/review-management-software/）
+  - 「White label reputation management is one of the best recurring revenue lines an agency can add. It's also one of the easiest to oversell. Pick a platform that fits your client mix, price it so you actually profit, and be honest about where the software stops.」（https://www.aikenhouse.com/post/white-label-reputation-management-for-agencies）
+  - 「Most agencies charge clients $150 to $300 per month per location for full GBP management including reputation management. At $49 per location at the 25+ tier, your profit is $100+ per location per month. If you want someone else to handle the work, Lead Oracle AI's done-for-you service is $297 per month, which covers GBP management, review responses, and optimization.」（https://www.leadoracle.ai/blog/white-label-reputation-management-software-agencies）
+  - 「No hefty development costs or the need to hire a specialist team. Plus, with models like Merchynt's, you can enjoy high-profit margins.」（https://www.merchynt.com/post/beginners-guide-to-white-label-reputation-management-services）
+  - 「Look for clear, fair pricing that allows for good profit margins. Beware of hidden fees or contracts that don't offer flexibility.」（https://www.merchynt.com/post/beginners-guide-to-white-label-reputation-management-services）
+  - 「80%+ profit margin」（https://www.merchynt.com/post/beginners-guide-to-white-label-reputation-management-services）
+  - 「Most agencies mark up white-label review software between 2x and 3x their cost. If your platform costs $100 per client per month, you'd typically charge $200 to $300. Volume discounts from vendors, bundled service packages, and annual contracts with your own clients all help protect profitability.」（https://reviewly.ai/2026/06/10/white-label-review-software/）
+  - 「Finally, look for a company that offers a good margin. You want to be able to turn a profit on the services you’re offering.」（https://www.vendasta.com/blog/white-label-reputation-management-companies/）
+  - 「Yes. Offering reputation management as a white-label service adds a new revenue stream while boosting client retention. Agencies can bundle it with other digital services like PPC, SEO, or social media marketing to increase profitability and long-term client value.」（https://www.vendasta.com/blog/white-label-reputation-management-companies/）
+  - 「Next, delve into the pricing models and contractual terms offered by different white label reputation management platforms. This can greatly affect your agency's profit margins and flexibility.」（https://www.merchynt.com/post/reputation-management-software-white-label）
+  - 「Profit Margins」（https://www.merchynt.com/post/reputation-management-software-white-label）
+  - 「: Consider the cost versus the potential revenue from the platform. How much can you mark up the services to maintain healthy profit margins?」（https://www.merchynt.com/post/reputation-management-software-white-label）
+  - 「: With no annual contracts and a friendly pricing model, you can enjoy greater freedom and better profit margins, making our platform accessible for agencies of all sizes.」（https://www.merchynt.com/post/reputation-management-software-white-label）
+- 売上：
+  - 「No, there are no limitations. SeoSamba's reputation management system is designed to connect to over 100 websites and social networks, ensuring that you can gather and manage reviews from a wide array of platforms, enhancing the comprehensiveness of your online reputation.」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「It’s review management software your agency sells under its own brand: asking customers for reviews, monitoring new ones and replying to them. Merchynt’s standalone reputation management carries your logo, colors and name on your own subdomain, and Agency Partners pay $25 a month per Google Business Profile instead of $50. Clients on Paige already have reputation management included.」（https://www.merchynt.com/white-label-reputation-management-software）
+  - 「Local businesses obsess over their Google reviews. According to BrightLocal's Local Consumer Review Survey, 98% of consumers read online reviews before hiring a local service. That creates a reliable revenue stream for agencies. A single client paying $99 per month for reputation management is steady money once you automate the workflows.」（https://www.leadoracle.ai/blog/white-label-reputation-management-software-agencies）
+  - 「that helps businesses turn customer feedback into measurable growth. With over 10 years of experience in online reputation management, Jeff works with small and mid-sized businesses to build trust, improve local search visibility, and drive more revenue through smarter review strategies.」（https://reviewly.ai/2026/06/10/white-label-review-software/）
+  - 「9. Can white-label reputation management increase agency revenue?」（https://www.vendasta.com/blog/white-label-reputation-management-companies/）
+  - 「Flat-rate platforms protect margins as your client book grows, while per-location pricing scales costs in lockstep with revenue. Map your projected client count over the next 18 months and run the math on both models before committing.」（https://localimpact.com/blog/white-label-review-software）
+- 価格：
+  - 「Get automated alerts when new reviews come in, and conveniently respond from your dashboard across all connected platform. Take Control of Your Online Reputation on Leading Social Media & Healthcare Review Platforms for an Affordable $69 per month」（https://www.seosamba.com/review-management-software-platform.html）
+  - 「Per-seat pricing gets expensive as your client roster grows. Model your costs at 50 clients, not 5.」（https://www.aikenhouse.com/post/white-label-reputation-management-for-agencies）
+  - 「Agency plan starts around $400 per month for 10 seats. Premium white label runs $440 per year on top.」（https://www.aikenhouse.com/post/white-label-reputation-management-for-agencies）
+  - 「Plan minimums, with the white label client portal starting on the Professional tier around $499 per month. Reselling volume reduces what you pay.」（https://www.aikenhouse.com/post/white-label-reputation-management-for-agencies）
+  - 「Tiered plans starting under $100 per month, with reputation and white label features depending on tier and location count.」（https://www.aikenhouse.com/post/white-label-reputation-management-for-agencies）
+  - 「Published at $99 per month flat on its own comparison pages as of early 2026.」（https://www.aikenhouse.com/post/white-label-reputation-management-for-agencies）
+  - 「Priced per location with agency pricing available. Full white label is a $440 annual add-on.」（https://www.aikenhouse.com/post/white-label-reputation-management-for-agencies）
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/white-label-review-management-software/）
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/white-label-review-software/）
+  - 「Real per-location pricing for 8 white label reputation platforms, $49 to $300+/mo. Which ones hold agency margin at scale, which use minimum-spend models, and what 25 locations actually costs on each.」（https://www.leadoracle.ai/blog/white-label-reputation-management-software-agencies）
+  - 「Local businesses obsess over their Google reviews. According to BrightLocal's Local Consumer Review Survey, 98% of consumers read online reviews before hiring a local service. That creates a reliable revenue stream for agencies. A single client paying $99 per month for reputation management is steady money once you automate the workflows.」（https://www.leadoracle.ai/blog/white-label-reputation-management-software-agencies）
+  - 「at $297/month when you'd rather resell fulfillment. Agencies commonly start on DFY for their first few clients, learn what the work actually involves from the reports, then move to the software tier once volume justifies an operator — the margin difference at 10+ locations pays for the hire.」（https://www.leadoracle.ai/blog/white-label-reputation-management-software-agencies）
+  - 「Compare this to Merchynt, which charges a flat $99 per profile no matter the volume. An agency managing 25 locations pays $2,475 per month with Merchynt. With Lead Oracle AI at the 25+ tier, the same agency pays $1,225 per month—a $1,250 monthly difference that goes straight to your margin or can be passed to clients as a competitive advantage.」（https://www.leadoracle.ai/blog/white-label-reputation-management-software-agencies）
+  - 「Most agencies charge clients $150 to $300 per month per location for full GBP management including reputation management. At $49 per location at the 25+ tier, your profit is $100+ per location per month. If you want someone else to handle the work, Lead Oracle AI's done-for-you service is $297 per month, which covers GBP management, review responses, and optimization.」（https://www.leadoracle.ai/blog/white-label-reputation-management-software-agencies）
+  - 「Agencies evaluating white label platforms are usually comparing the same shortlist of vendors on feature set, white label depth, pricing, and how well the platform maps to local SEO outcomes. Here's the field as of mid-2026 (verify current pricing with each vendor — most adjust tiers yearly):」（https://www.leadoracle.ai/blog/white-label-reputation-management-software-agencies）
+- 日本対応：記載なし（読んだ39頁・検索8回）
 
 ## AM工程管理（MES）（additive manufacturing MES）
 - 文脈：wl-A AM
@@ -247,271 +1438,87 @@
   - 「Top 10 MES Software Companies: A Full Guide - JobPack — Top 10 MES Software Companies: A Full Guide - JobPack JobPack https://jobpack.com > mes-software-c...」（https://jobpack.com/mes-software-companies-review/）
   - 「The 10 Best Manufacturing Execution System ( MES ) Software ... — The 10 Best Manufacturing Execution System ( MES ) Software ... Eyelit Technologies https://eyelit.com > resource > 10-best...」（https://eyelit.com/resource/10-best-manufacturing-execution-system/）
 
-## 金属AM品質監視（metal additive manufacturing process monitoring software）
+## AM費用見積エンジン（additive manufacturing cost estimation engine）
 - 文脈：wl-A AM
-- 自社名で出せる条件：
-  - 「3D printer-specific melt pool monitoring systems: Some 3D printer OEMs provide」（https://chainreaction.anl.gov/optical-in-situ-monitoring-for-metal-additive-manufacturing/）
-  - 「monitoring systems, though these systems are cost prohibitive and inconvenient for customers often times interested in OEM-agnostic quality control systems.」（https://chainreaction.anl.gov/optical-in-situ-monitoring-for-metal-additive-manufacturing/）
 - 提供企業：記載なし（読んだ39頁・検索8回）
+- 自社名で出せる条件：記載なし（読んだ39頁・検索8回）
 - 再販制度：記載なし（読んだ39頁・検索8回）
 - 黒字・収益性：記載なし（読んだ39頁・検索8回）
 - 売上：記載なし（読んだ39頁・検索8回）
 - 価格：記載なし（読んだ39頁・検索8回）
 - 日本対応：記載なし（読んだ39頁・検索8回）
 
-## 自然言語→CAD（API）（text to CAD API）
-- 文脈：wl-C CAD
+## AM造形シミュレーション（additive manufacturing simulation software）
+- 文脈：wl-A AM
 - 提供企業：
-  - 「7 Paragon alternatives worth considering in 2026」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「A guide to Workato alternatives」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「Merge, the leading」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「The best text-to-CAD API tools for developer integration in 2026 are led by Zoo.dev for geometry generation, with code-generation APIs from Claude and OpenAI providing flexible alternatives. The choice depends on whether you need direct geometry output or scriptable parametric code.」（https://www.getleo.ai/blog/best-text-to-cad-api-tools）
-  - 「STL files contain triangulated mesh geometry. They are universally supported for 3D printing but lack the topological information needed for parametric editing. Most text-to-CAD APIs support STL output. It is useful for visualization and additive manufacturing but insufficient for most engineering workflows.」（https://www.getleo.ai/blog/best-text-to-cad-api-tools）
-  - 「Zoo.dev offers the most mature dedicated text-to-CAD API with STEP output support. For code-generation approaches, Claude and OpenAI APIs producing CadQuery code provide flexible alternatives with parametric output capability.」（https://www.getleo.ai/blog/best-text-to-cad-api-tools）
-  - 「You deliver pro-level design freedom to your users, without a trail of breadcrumbs leading elsewhere. And yes, you can create your own branded collections too!」（https://create.vista.com/blog/what-makes-api-white-label/）
-  - 「Don't miss out on our top articles」（https://create.vista.com/blog/what-makes-api-white-label/）
-  - 「Subscribe to the VistaCreate blog newsletter and get our top articles in your inbox each month. No spam 😉」（https://create.vista.com/blog/what-makes-api-white-label/）
-  - 「Desktop」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Best White-Label Canva Alternatives for SaaS in 2026」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Yet, as you go down the rabbit hole of product requirements, white-labeling, deployment type, customization of UI and workflows, and cost predictability, you might start looking for alternatives with more flexibility and a developer-first approach - like IMG.LY.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Canva explicitly discourages use of the Connect API in environments where credentials cannot be securely stored, such as mobile or desktop apps, browser extensions, or PWAs without a backend:」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「“Apps that use the Canva REST APIs must be associated with a web app. We don’t support apps in environments where it’s difficult to securely store credentials, such as mobile or desktop apps, browser extensions, Progressive Web Apps (with no backend), and Single Page Apps.” Instruction from」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Who Would Benefit from Looking for Alternatives to Canva Connect API」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Topology optimization course」（https://caeassistant.com/blog/additive-manufacturing-simulation-software/）
+  - 「Topology Optimization Courses」（https://caeassistant.com/blog/additive-manufacturing-simulation-software/）
+  - 「Simulate from top to bottom」（https://vericut.com/en-gb/products/additive-manufacturing-simulation-software）
+  - 「Your top Additive Manufacturing Simulation applications.」（https://vericut.com/en-gb/products/additive-manufacturing-simulation-software）
+  - 「We looked at all of the major manufacturing software providers for their additive manufacturing simulation capabilities, and Vericut was the only one that met our needs out of the box.」（https://vericut.com/en-gb/products/additive-manufacturing-simulation-software）
+  - 「Predict in-situ material behavior that causes keyhole instabilities leading to defects.」（https://www.flow3d.com/products/flow3d-am/）
+  - 「Manage {vendor_count} vendors」（https://www.flow3d.com/products/flow3d-am/）
+  - 「Topology Optimization」（https://ansys.synopsys.com/products/additive）
+  - 「Discover how leading companies solve complex challenges with Ansys simulation—unlocking innovation across automotive, aerospace, energy, healthcare, and more.」（https://ansys.synopsys.com/products/additive）
+  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://ansys.synopsys.com/products/additive）
+  - 「Simulation Topics」（https://ansys.synopsys.com/products/additive）
+  - 「Leading Materials Data Management.」（https://ansys.synopsys.com/products/additive）
+  - 「Topology optimization speeds workflow」（https://ansys.synopsys.com/products/additive）
+  - 「ANSYS Topology Optimization Upgrades Designs to Take Full Advantage of 3-D Printing」（https://ansys.synopsys.com/products/additive）
+  - 「SIMULATION TOPICS」（https://ansys.synopsys.com/products/additive）
 - 自社名で出せる条件：
-  - 「White label API integration: benefits, drawbacks, and tools」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「As you look to make your product more valuable for customers and more attractive to prospects, you can leverage a solution that provides white label API integrations.」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「We’ll break down the benefits and drawbacks of white-labeling integrations. And we'll help you get started in building them by walking through several types of platforms you can use.」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「But first, let’s align on the definition of a white label API integration.」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「What is a white label API integration?」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「What is a white label iPaaS?」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「Pros and cons of white label API integrations」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「Deciding whether to white label your integrations isn’t always easy. Before you can decide on whether it’s right for your business, you’ll need to carefully weigh the pros and cons of doing it.」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「Here are some of the benefits of white-labeling API integrations:」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「to collect, store, and sync their data might give them anxiety—even when it isn’t warranted. Through white-labeling, these potential concerns can be avoided altogether」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「Unfortunately, white-labeling API integrations can also come with drawbacks. Here are a few to keep in mind:」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「White label API integration solutions」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「embedded iPaaS」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「Through its white label offering, you can also customize the UI elements of the platform in your product. This includes the colors that are used, the logo that appears, etc.」（https://www.merge.dev/blog/white-label-api-integration）
-  - 「How Workato markets its white label offering」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「Embedded Software」（https://ansys.synopsys.com/products/additive）
+  - 「Embedded additive process simulation workflows that connect build parameters to thermal and distortion outcomes」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
 - 再販制度：
-  - 「Batch-generate design variants」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Automation and variable data」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「The same engine runs headlessly through the Node.js SDK for batch rendering, driven by locked templates, placeholders and text variables (Web, iOS, Android, Server). Output lands wherever your pipeline sends it.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「CMYK color and spot colors (Web, iOS, Android, Server), knockouts for overlapping colors and layers (Web, iOS, Android, Server), PDF/X export through a plugin (Web, Server), bleed and margins (Web), and cutouts and underlayers for die-cut and layered work (Web).」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「IMG.LY supports templating with placeholders, lockable design elements, and variables. What does this mean? Marketers can easily swap content, localize messaging, or tailor designs without worrying about compromising brand integrity.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Placeholders and variables can also be swapped programatically via back-end APIs or a headless mode, effectively enabling mass personalization, scale production of A/B testing variants, or campaign-level automation with thousands of assets being generated with a few clicks.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Template constraints & variable data printing:」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Merchants need more than just good visuals; they need product images, banners, and mockups that are accurate, branded, and consistent, all without bouncing between multiple tools. They also often need to handle product variations (colors, sizes, personalized text), preview them, and scale creation for large catalogs.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Automated variant generation:」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Templates with placeholders (for product visuals, prices, ad copy, etc.) can be linked to product data to automatically generate all visual variants for large catalogs. What used to take hours per product can now be done in minutes, without touching a design tool.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Today’s creative operations teams, from marketing departments to print providers, face mounting pressure to personalize assets at scale, adapt designs across hundreds of formats, and produce campaign-ready visuals in record time. Manual editing can’t keep up with the velocity and variety modern content demands. That’s where creative automation comes in.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「IMG.LY’s CreativeEditor SDK can operate in headless mode, allowing you to generate thousands of assets automatically using your templates. From campaign banners to localized ads or A/B test variants, everything is rendered programmatically through API calls without manual intervention.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Smart templates & variable data:」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Lock critical design elements (logos, margins, colors, and typography) so that automated or user-edited outputs always remain on brand, no matter how many variants you produce.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「Does Canva Connect support automated or variable-data design generation?」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-- 黒字・収益性：
-  - 「For Nonprofits」（https://create.vista.com/blog/what-makes-api-white-label/）
-  - 「Nonprofits」（https://github.com/deanhu0822/Text-to-CAD）
-  - 「Or even better, you can use the white label feature and resell Bookafy with new websites you build. You can adjust the branding to match the website, blending the product seamlessly into new websites. Or simply sell Bookafy as a standalone solution to other businesses for a profit.」（https://www.luzmo.com/blog/white-label-software）
-  - 「removes vendor risk but adds GPU operations to your cost base, so the break-even usually sits above 100,000 images per month.」（https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026）
-  - 「White Label AI Profit Margins: What Agencies Actually Earn in 2026」（https://trillet.ai/blogs/best-white-label-reseller-programs-2026）
-  - 「DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, OR THE LIKE), WHETHER」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
-  - 「Best White Label Software to Resell for Profit: Top 7 Platforms」（https://getzendo.io/blog/best-white-label-software-to-resell/）
-  - 「Avg. Profit per Client」（https://getzendo.io/blog/best-white-label-software-to-resell/）
-  - 「Is Software Reselling Profitable? 5 Benefits」（https://getzendo.io/blog/best-white-label-software-to-resell/）
-  - 「Software reselling can be extremely profitable, but like any business, the margin depends on how you structure it and the value you provide (if you scroll further, we give example profit estimates for each platform you’d be to resell).」（https://getzendo.io/blog/best-white-label-software-to-resell/）
-  - 「Profit estimate: Zendo」（https://getzendo.io/blog/best-white-label-software-to-resell/）
-  - 「Total Monthly Profit」（https://getzendo.io/blog/best-white-label-software-to-resell/）
-  - 「Profit scales linearly with the number of clients.」（https://getzendo.io/blog/best-white-label-software-to-resell/）
-  - 「Profit estimate: Personizely」（https://getzendo.io/blog/best-white-label-software-to-resell/）
-  - 「, you’re already covering costs and making profit.」（https://getzendo.io/blog/best-white-label-software-to-resell/）
-- 売上：
-  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/）
-  - 「Synup pricing starts at $34.99 per location per month with a 15% discount for annual billing. Add-ons for social media scheduling and analytics carry additional fees. A free demo is available.」（https://www.perspective.co/article/white-label-marketing-software）
-  - 「We took our agency to a seven-figures in revenue after just 4 months of using Perspective in our service.」（https://www.perspective.co/article/white-label-marketing-software）
-  - 「The team that builds FrameworX has been shipping industrial software since the DOS era. In 1996 it co-founded InduSoft (now AVEVA Edge) and built the HMI engine behind it, and it has shipped every generation of this platform since. FrameworX is the current one, built from scratch on managed .NET rather than carried forward from the last.」（https://tatsoft.com/tatsoft-oem-partner-program/）
-  - 「The Environmental Information Systems group at Wunderlich-Malec builds reporting products on FrameworX for facilities operating under Title V permits, CFR 40 Part 75 and Part 60, and California RECLAIM. Compliance reporting is where the data model, the historian and the audit trail carry the product, which is why the platform underneath it has to be the same one running the plant.」（https://tatsoft.com/tatsoft-oem-partner-program/）
-  - 「To add switching 3D views, you only need to create an array of views names (their order is important)」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
-  - 「4.DISCLAIMER OF WARRANTY」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
-  - 「According to a July 2024 report from BotsCrew, the global chatbot marketing revenue alone is projected to surpass $454.8 million by 2027, demonstrating the massive market opportunity for white label AI resellers.」（https://www.articsledge.com/post/white-label-ai-software）
-  - 「represents the fastest-growing region. Currently accounting for 33% of AI software revenue in 2025, analysts expect the region to capture 47% of the global market by 2030 as China and other Asian economies accelerate AI adoption (ABI Research, July 2024).」（https://www.articsledge.com/post/white-label-ai-software）
-  - 「Zero platform fees—keep 100% of revenue」（https://www.articsledge.com/post/white-label-ai-software）
-  - 「Achieved $3,000 monthly recurring revenue」（https://www.articsledge.com/post/white-label-ai-software）
-  - 「(Revenue – COGS) / Revenue × 100%」（https://www.articsledge.com/post/white-label-ai-software）
-  - 「(Revenue – COGS – Operational Costs) / Revenue × 100%」（https://www.articsledge.com/post/white-label-ai-software）
-  - 「Revenue: $7,500/month」（https://www.articsledge.com/post/white-label-ai-software）
-  - 「Revenue: $30,000/month」（https://www.articsledge.com/post/white-label-ai-software）
+  - 「Confirm that the tool supports your process explicitly, not just “metal AM”. Powder bed fusion, directed energy deposition, and material extrusion involve different process physics and modeling approaches, and coverage varies between software tools.」（https://caeassistant.com/blog/additive-manufacturing-simulation-software/）
+  - 「Find a Distributor」（https://www.flow3d.com/products/flow3d-am/）
+  - 「Vary process parameters such as laser power, speed, hatch spacing, energy distribution, and PSD to identify process instabilities.」（https://www.flow3d.com/products/flow3d-am/）
+  - 「AM offers solutions for a variety of additive manufacturing applications.」（https://www.flow3d.com/products/flow3d-am/）
+  - 「. Additionally, capture heat transfer effects from melting in a vacuum with variable boundary conditions and phase change」（https://www.flow3d.com/products/flow3d-am/）
+  - 「Channel Partners」（https://ansys.synopsys.com/products/additive）
+  - 「Compare scan strategy variants for a thin-wall Ti alloy part to reduce distortion while controlling overheating zones」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
+  - 「Reporting depth matters because defect and qualification decisions depend on traceable records. Evidence quality depends on whether the tool’s physics coverage matches the process type and whether it clearly exposes which process inputs drive accuracy and variance.」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
+  - 「MAGMASOFT focuses on additive-oriented process physics for heat transfer, solidification, and microstructure trends that support defect and property trend evaluation. COMSOL Multiphysics Additive Manufacturing Modules adds thermo-fluid modeling for melt pools alongside structural response, which improves coverage when flow and melting behavior drive variability.」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
+  - 「Plan for input calibration requirements and evidence quality variance」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
+  - 「Simufact Additive and ANSYS Additive explicitly tie prediction credibility to process calibration quality, which depends on inputs like laser or beam power, spot size, absorptivity, and powder or material properties. If those inputs are uncertain, reporting should reflect variance by running calibrated parameter sets instead of treating one run as definitive.」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
+  - 「Yes, Vericut supports a variety of additive technologies and processes, including:」（https://vericut.com/products/additive-manufacturing-simulation-software）
+  - 「Channel Partners」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
 - 価格：
-  - 「Documented per endpoint, per user of your app, in requests per minute. Creating an asset upload job is 30, a design autofill job 60, a design export job 20, a design import job 20. The matching get-job endpoints sit higher, at 120 to 180, so polling is not usually the binding constraint. Over the limit, the endpoint returns 429.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
-  - 「starts at $2,495 per month, billed annually, but you can」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $249 per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $49 per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $9 per user per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $59 per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $65 per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「Free plan for small teams getting started. Business plans start at $5 per user per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $20 per store, per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「Pricing: starts at $129 per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「Pricing: Start for free, or upgrade to the Agency Account for $30/month to unlock additional white label services and discounts.」（https://www.luzmo.com/blog/white-label-software）
-  - 「Pricing: Cost-effective plans start at $13.99 per user/month, with options to scale up as your business grows.」（https://www.luzmo.com/blog/white-label-software）
-  - 「White label AI image software lets you sell AI image generation under your own brand, domain, and pricing instead of reselling a vendor's logo. This guide ranks the seven best options for 2026 on the three things that decide the build: how much branding you can remove, how complete the API is, and whether per-image cost survives a resale margin.」（https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026）
-  - 「Then test at your real volume before signing. Free tiers hide the cliff, and these platforms price very differently at 1,000 images per month than at 100,000. Run fifty prompts through both finalists, measure cost and latency, and treat that as the decision. The same test applies to」（https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026）
-  - 「of the paid plans, card required. Annual plans start at $47/month (Base), $147/month (Grow), and $297/month (Expand). A/B testing on the first page unlocks on the Grow plan, and white-label branding controls sit on higher tiers. A custom Scale plan handles larger agencies with more workspaces and live funnels. There is also a」（https://www.perspective.co/article/white-label-marketing-software）
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/additive-manufacturing-simulation-software/）
 - 日本対応：
-  - 「Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.」（https://www.salesforge.ai/blog/white-label-software）
-  - 「You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「日本語 - 日本」（https://vericut.com/en-gb/products/additive-manufacturing-simulation-software）
+  - 「日本語 - 日本」（https://vericut.com/products/additive-manufacturing-simulation-software）
 - 検索結果の抜粋：
-  - 「Tripo AI launches new Text-to-CAD API for 3D model generation — Tripo AI launches new Text-to-CAD API for 3D model generation 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/）
+  - 「Additive Manufacturing Simulation Software - FLOW-3D AM — Additive Manufacturing Simulation Software - FLOW-3D AM FLOW-3D https://www.flow3d.com > products」（https://www.flow3d.com/products/flow3d-am/）
+  - 「Additive Manufacturing Simulation Software | FLOW-3D AM — Additive Manufacturing Simulation Software | FLOW-3D AM YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Ikfkd1OP9gc）
+- 黒字・収益性：記載なし（読んだ38頁・検索8回）
+- 売上：記載なし（読んだ38頁・検索8回）
 
-## ブラウザCAD（SDK）（browser based CAD SDK）
-- 文脈：wl-C CAD
+## AM造形準備ソフト（additive manufacturing build preparation software）
+- 文脈：wl-A AM
 - 提供企業：
-  - 「Desktop」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「Best White-Label Canva Alternatives for SaaS in 2026」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「It offers a complete package of tools, libraries, and documentation, making it highly customizable to suit specific use cases and easily blend with a brand’s identity. SDKs equip developers with the core components needed to build, enhance, and tailor applications across multiple platforms, including web, mobile, server, cloud, and desktop.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.」（https://meshinspector.com/white-label/）
-  - 「Mesh repair that survives real scan data. Booleans that don't fail on the hundredth operation. A viewer that opens a two-hundred-million-triangle model without falling over. Every hardware company that has tried to build this in-house discovers the same thing: the demo takes a month, production-grade takes years, and it never stops needing maintenance.」（https://meshinspector.com/white-label/）
-  - 「Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.」（https://meshinspector.com/white-label/）
-  - 「Desktop, browser, or both」（https://meshinspector.com/white-label/）
-  - 「CT scanner and medical imaging vendors」（https://meshinspector.com/white-label/）
-  - 「CNC machine and CAM vendors」（https://meshinspector.com/white-label/）
-  - 「MeshInspector gives you the model-preparation and verification half of this: feature detection, tolerance checking, and geometry clean enough to machine from. Toolpath generation and G-code simulation are built for you on top of the geometry layer — offsets, booleans, distance fields and swept volumes are already there, and our team has delivered CAM projects on them.」（https://meshinspector.com/white-label/）
-  - 「Not a services layer resold on top of someone else's kernel.」（https://meshinspector.com/white-label/）
-  - 「Windows, macOS and Linux on the desktop; the same engine in the browser through WebAssembly.」（https://meshinspector.com/white-label/）
-  - 「Desktop」（https://meshinspector.com/white-label/）
-  - 「Can we start with the browser version and add desktop later?」（https://meshinspector.com/white-label/）
-  - 「We also use analytics and advertisement cookies from the providers named below, which help us analyze how you use this website and measure and personalize our advertising. These cookies will only be stored in your browser with your prior consent.」（https://meshinspector.com/white-label/）
-- 自社名で出せる条件：
-  - 「SDK vs. White Label: Choose the Right Solution | IMG.LY Blog」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「CoDesign SDK gives your product's AI agent the tools to resize, localize, rebrand and generate designs on your own servers, and every result stays an editable CE.SDK design.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「Best White-Label Canva Alternatives for SaaS in 2026」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「Let your own agent generate, resize and rebrand editable designs in your product.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「SDK vs. White Label: Consider These Differences When You Choose a Solution」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「White Label」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「Discover how to choose between white-label tools and SDKs to enhance your product, and find the perfect solution for your budget and resources.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「Enhancing your product with new features and capabilities often brings up a critical question: Should you choose a white-label solution or opt for the flexibility of an SDK? While white-label tools offer simplicity and speed, modern SDKs can combine the ease of integration with the ability to customize and deeply integrate into your product. CE.SDK covers both sides of that trade-off: a」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「white-label editor SDK」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「you can theme, rebrand, and run on your own domain.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「: SDKs provide an option to create a solution that best matches your business needs and branding. Unlike white-label, SDKs can be fully customizable, allowing you to tailor features and capabilities to seamlessly integrate with your use case.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「: While the integration and maintenance require the involvement of developers, SDKs come with greater control over the integrated tech that’s not available with white-label solutions. Developers can determine the extensibility of the solution and shape it to fit specific needs.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「What is a White-Label Solution?」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「While SDK needs to be built with the provided tools, the white-label solution is an off-the-shelf and ready-to-use product that can be quickly rebranded and marketed. It allows businesses to get to market faster by utilizing a ready-made platform, eliminating the need for internal development from scratch.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「Key features of a White-label solution」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「top of page」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
+  - 「In this guide, we break down what AM workflow software actually is, why it matters now more than ever, which features to look for, and how the top solutions compare in 2026. Whether you're managing a single printer or scaling across multiple facilities, this guide will help you make the right choice.」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
+  - 「Comparing the Top AM Workflow Software Tools (2026 Edition)」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
+  - 「Key questions to ask vendors:」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
+  - 「Questions to ask vendors:」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
 - 再販制度：
-  - 「Batch-generate design variants」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「: Our creative engine is a powerhouse that can enable a variety of applications, from automating and scaling design and video creation for social media, marketing, and print to templating and jumpstarting users’ design, the UI can be adapted to match a specific use case perfectly.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「Variable Data Printing」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「Find a Reseller」（https://meshinspector.com/white-label/）
-  - 「Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.」（https://meshinspector.com/white-label/）
-  - 「HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.」（https://meshinspector.com/white-label/）
-  - 「Different vendors achieve this to varying degrees and with different techniques, as we’ll explore in a moment. Some basic solutions only hide their logo, while advanced ones allow you extensive rebranding and even embedding analytics」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
-  - 「(e.g., style individual widget chrome, button shapes, iconography to match your app). Some platforms explicitly let you inject custom CSS or override style variables, which can be very useful for a close match.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
-  - 「The recently added embedding SDK (available in Enterprise too) gives more control by letting you embed individual components and tweak styling via CSS variables, which moves it toward advanced territory.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
-  - 「and has modules that let you embed content in various ways.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
-  - 「This SDK (available on Pro/Enterprise) gives much finer control – you can embed individual charts or even their full query builder as native elements, apply CSS variables to restyle components, and override certain interactions. This moves Metabase closer to the “standard” category for customization, but using the SDK requires a React front-end and coding.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
-  - 「Variable Data Printing」（https://www.designhuddle.com/）
-  - 「Variable Text: Name」（https://www.designhuddle.com/）
-  - 「Variable Image: Logo」（https://www.designhuddle.com/）
-  - 「Connect customer-facing design to print production with controlled editing, variable data, and print-ready files.」（https://www.designhuddle.com/）
-- 黒字・収益性：
-  - 「Non-Profit」（https://www.designhuddle.com/）
-  - 「Or even better, you can use the white label feature and resell Bookafy with new websites you build. You can adjust the branding to match the website, blending the product seamlessly into new websites. Or simply sell Bookafy as a standalone solution to other businesses for a profit.」（https://www.luzmo.com/blog/white-label-software）
-  - 「DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, OR THE LIKE), WHETHER」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
-- 売上：
-  - 「AutoCAD OEM has an Annual Partnership Fee of $15,000 USD/€12,000 year, along with a revenue share. The revenue share is a percentage of the revenue from the developed product. The minimum annual revenue share is $24,000 USD/€18,000 year.」（https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/）
-  - 「To add switching 3D views, you only need to create an array of views names (their order is important)」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
-  - 「4.DISCLAIMER OF WARRANTY」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
-- 価格：
-  - 「$2,000/month」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
-  - 「– you must budget for at least $500/month Pro plan (plus $10 per viewer per month) to remove logos and get interactive embedding.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
-  - 「$199 per month」（https://www.banuba.com/blog/best-white-label-software）
-  - 「generate more than 60,000 leads per month」（https://www.banuba.com/blog/best-white-label-software）
-  - 「: Email sends, SMS, calls, and AI interactions are billed separately from the monthly plan, and agencies commonly add $50–$300+/month depending on volume.」（https://www.banuba.com/blog/best-white-label-software）
-  - 「starts at $2,495 per month, billed annually, but you can」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $249 per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $49 per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $9 per user per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $59 per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $65 per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「Free plan for small teams getting started. Business plans start at $5 per user per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「starts at $20 per store, per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「Pricing: starts at $129 per month.」（https://www.luzmo.com/blog/white-label-software）
-  - 「Pricing: Start for free, or upgrade to the Agency Account for $30/month to unlock additional white label services and discounts.」（https://www.luzmo.com/blog/white-label-software）
-- 検索結果の抜粋：
-  - 「web - cad - sdk -reference.pdf - ComponentSource CDN — web - cad - sdk -reference.pdf - ComponentSource CDN ComponentSource PDF https://origin2.cdn.componentsource.com > resources」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+  - 「Additive manufacturing workflow software is a digital backbone that connects and automates the various steps involved in producing 3D printed parts - spanning from design intake and job routing, through to post-processing and quality tracking.」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
 - 日本対応：記載なし（読んだ40頁・検索8回）
 
-## CADビューア（SDK）（3D CAD viewer SDK）
-- 文脈：wl-C CAD
-- 提供企業：
-  - 「MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.」（https://meshinspector.com/white-label/）
-  - 「Mesh repair that survives real scan data. Booleans that don't fail on the hundredth operation. A viewer that opens a two-hundred-million-triangle model without falling over. Every hardware company that has tried to build this in-house discovers the same thing: the demo takes a month, production-grade takes years, and it never stops needing maintenance.」（https://meshinspector.com/white-label/）
-  - 「Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.」（https://meshinspector.com/white-label/）
-  - 「Desktop, browser, or both」（https://meshinspector.com/white-label/）
-  - 「CT scanner and medical imaging vendors」（https://meshinspector.com/white-label/）
-  - 「CNC machine and CAM vendors」（https://meshinspector.com/white-label/）
-  - 「MeshInspector gives you the model-preparation and verification half of this: feature detection, tolerance checking, and geometry clean enough to machine from. Toolpath generation and G-code simulation are built for you on top of the geometry layer — offsets, booleans, distance fields and swept volumes are already there, and our team has delivered CAM projects on them.」（https://meshinspector.com/white-label/）
-  - 「Not a services layer resold on top of someone else's kernel.」（https://meshinspector.com/white-label/）
-  - 「Windows, macOS and Linux on the desktop; the same engine in the browser through WebAssembly.」（https://meshinspector.com/white-label/）
-  - 「Desktop」（https://meshinspector.com/white-label/）
-  - 「Can we start with the browser version and add desktop later?」（https://meshinspector.com/white-label/）
-  - 「We also use analytics and advertisement cookies from the providers named below, which help us analyze how you use this website and measure and personalize our advertising. These cookies will only be stored in your browser with your prior consent.」（https://meshinspector.com/white-label/）
-  - 「The fully typed API controls the viewer programmatically, from loading models through selection and visibility to BCF topics and events.」（https://crais.io/products/white-label/）
-  - 「Customisation does not stop at the interface. Selection and hover colours, measurement annotations, section planes, BCF pins and the viewport background are configurable as well.」（https://crais.io/products/white-label/）
-  - 「TypeScript, Three.js, ThatOpen Fragments, web-ifc, WebGL2」（https://crais.io/products/white-label/）
-- 自社名で出せる条件：
-  - 「OEM & White-Label 3D Software | MeshInspector」（https://meshinspector.com/white-label/）
-  - 「OEM & White-Label」（https://meshinspector.com/white-label/）
-  - 「Ship 3D Software Under Your Own Brand」（https://meshinspector.com/white-label/）
-  - 「MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.」（https://meshinspector.com/white-label/）
-  - 「White-label」（https://meshinspector.com/white-label/）
-  - 「White-label MeshInspector — your brand, our application」（https://meshinspector.com/white-label/）
-  - 「Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.」（https://meshinspector.com/white-label/）
-  - 「Your customer scans a part, and everything after the capture becomes your software problem: noise, holes, misaligned passes, and a mesh that has to be watertight before anyone can measure anything. MeshInspector covers the whole post-capture chain — noise reduction, registration, hole filling, watertight repair, deviation measurement against a reference — under your brand.」（https://meshinspector.com/white-label/）
-  - 「A model that fails to print becomes a support ticket for you, not for the designer who made it. MeshInspector repairs and prepares the mesh before it ever reaches your slicer, and ships as the front end of your print workflow with your branding on it.」（https://meshinspector.com/white-label/）
-  - 「Why OEMs choose this over building it」（https://meshinspector.com/white-label/）
-  - 「The Web Suite: MeshInspector's tools running in the browser and embedded into your platform. Branding covers tool arrangement, colors and logos. Import and export from AWS and Azure storage is supported. Performance scales with the user's browser and machine.」（https://meshinspector.com/white-label/）
-  - 「Hardware bundles, embedded modules, volume-based terms — every OEM ships differently, and we keep the commercial side flexible rather than forcing a fixed scheme. Tell us how your product reaches its users, and we'll shape the model around it together.」（https://meshinspector.com/white-label/）
-  - 「Yes — that is the standard white-label case. Distribution scope is agreed with you before work starts.」（https://meshinspector.com/white-label/）
-  - 「White-Label | Embeddable IFC Viewer | IFC SDK | crais」（https://crais.io/products/white-label/）
-  - 「White-Label」（https://crais.io/products/white-label/）
-- 再販制度：
-  - 「Find a Reseller」（https://meshinspector.com/white-label/）
-  - 「Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.」（https://meshinspector.com/white-label/）
-  - 「HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.」（https://meshinspector.com/white-label/）
-  - 「When first opened, IFC files are converted into the high-performance FRAG format. After conversion, file size and loading time are both reduced by roughly a factor of ten. Conversion time, loading time and the size reduction vary with the geometric complexity and the information content of the IFC file. The table below shows the actual measured values from one example setup.」（https://crais.io/products/white-label/）
-  - 「VNTANA is the best 3D viewer in 2026 because it pairs studio-quality rendering with enterprise governance, native CAD ingestion, and SOC2 Type II security. It is the only 3D viewer built to run across eCommerce, wholesale, retailer syndication, and AI pipelines from a single platform.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Threekit, Emersya, Threedium, and parts of Sketchfab Enterprise sit here. They run on the same WebGL core as category 2, but add configurators with variant rules, AR and product storytelling, and prebuilt UI for product detail pages and marketing campaigns.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「– works out of the box on Apple Vision Pro, Meta Quest, Pico, Magic Leap, and Varjo with no additional development.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Threekit’s main use case is replacing traditional product photography with 3D models that render every SKU and variation from a single asset.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Jewelry and eyewear brands needing high-variant visual catalogs」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「The platform is particularly well-suited to categories with high variant counts where photographing every SKU would be cost-prohibitive.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Among the best 3D viewers reviewed in this guide, VNTANA is the one built for enterprises that need 3D to work across eCommerce, wholesale, sales, training, aftermarket parts and AI; not just on a single product page.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Batch-generate design variants」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「: Our creative engine is a powerhouse that can enable a variety of applications, from automating and scaling design and video creation for social media, marketing, and print to templating and jumpstarting users’ design, the UI can be adapted to match a specific use case perfectly.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「Variable Data Printing」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
-  - 「Resellers」（https://www.techsoft3d.com/oem/）
+## AM部品選定（適性判定）（additive manufacturing part screening software）
+- 文脈：wl-A AM
 - 売上：
-  - 「A 2% conversion lift on a $200M digital channel is $4M in incremental annual revenue – the math makes the ROI case before the demo ends.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「A 2% conversion lift on a $200M digital channel is $4M in incremental revenue. The math works in the first quarter.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「AR you ready to accelerate your eCommerce revenue with 3D and AR?」（https://www.nextechar.com/industries/product-content-platforms）
-  - 「Our data translation technology makes it easy to break down barriers between formats and unlock the full value of your 3D assets. With broad support for CAD, AEC, and CAE files, you can provide your users with fast and accurate access to the models they depend on, ensuring smooth collaboration across every stage of the engineering workflow.」（https://www.techsoft3d.com/developers/solutions/）
-  - 「Integrate the latest 3D model visualization capabilities into your applications economically and quickly with flexible licensing arrangements and comprehensive support services.」（https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/）
-- 価格：
-  - 「Free to $79/month」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Free, $99/month (Pro), Custom」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Free, $14-$120/month, Custom」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「$18.99/month or $399 one-time」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Sketchfab offers a free tier with a 100 MB per-model upload limit and public visibility. Paid plans start at $15 per month (Plus), $19 per month (Premium), and $79 per month (Business) for teams needing password protection, higher upload limits (200-500 MB), and commercial embeds.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Autodesk Viewer is free. Premium collaboration features are available through Autodesk Construction Cloud and BIM Collaborate, which start at approximately $85 per user per month.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Threekit uses custom enterprise pricing that is not published on the public site. Industry reporting and sales conversations place starter packages around $1,000 per month, with enterprise deployments regularly in the low-to-mid six figures annually depending on scope.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「echo3D offers three plans. The Free plan is $0 per month for personal projects and experiences, with 10 monthly credits, basic 3D model conversion and compression, embeddable and shareable WebAR viewer, access to 45,000+ free 3D models, and basic analytics.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「The Pro plan is $99 per month for scaling commercial apps, with 500 monthly credits, automatic pay-as-you-go, advanced 3D model conversion, convert and compress API, version control, extended 3D asset library, custom logo, and 3D scene and model editors.」（https://www.vntana.com/roundup/best-3d-viewers/）
-  - 「Embed ARitize3D behind the scenes to power your customers’ 3D/AR and virtual photography—your brand forward, our engine underneath. Offer “generate 3D” as a native feature with your own pricing, packaging, and UX.」（https://www.nextechar.com/industries/product-content-platforms）
-- 検索結果の抜粋：
-  - 「SDK Solutions for Developers | Tech Soft 3D — SDK Solutions for Developers | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > solutions」（https://www.techsoft3d.com/developers/solutions/）
-  - 「3D Viewer SDK - Catenda API Documentation — 3D Viewer SDK - Catenda API Documentation Catenda https://developers.catenda.com > view...」（https://developers.catenda.com/viewer-3d）
+  - 「Business is booming at Ohio-based Everyday Technologies, with revenue projected to grow 50% this year. But rapid growth...」（https://www.thefabricator.com/additivereport/article/additive/to-3d-print-or-not-to-3d-print-software-identifies-parts-for-am-1）
+- 提供企業：記載なし（読んだ40頁・検索8回）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 再販制度：記載なし（読んだ40頁・検索8回）
 - 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
 - 日本対応：記載なし（読んだ40頁・検索8回）
 
 ## CADデータ変換（API）（CAD file conversion API）
@@ -620,6 +1627,372 @@
   - 「Batch Conversion and API Features - Scan2CAD — Batch Conversion and API Features - Scan2CAD Scan2CAD https://www.scan2cad.com > automat...」（https://www.scan2cad.com/automate-features/）
   - 「Scan2CAD Automate | Powerful API | CAD File Conversion — Scan2CAD Automate | Powerful API | CAD File Conversion Scan2CAD https://www.scan2cad.com > news > i...」（https://www.scan2cad.com/blog/news/intoducing-scan2cad-automate/）
   - 「CAD Translation SDK (3D_Kernel_IO) - Coretechnologie — CAD Translation SDK (3D_Kernel_IO) - Coretechnologie Coretechnologie https://coretechnologie.com > sie-suc...」（https://coretechnologie.com/find-out-more/sie-suchen-nach-einer-cad-translation-sdk/）
+
+## CADビューア（SDK）（3D CAD viewer SDK）
+- 文脈：wl-C CAD
+- 提供企業：
+  - 「MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.」（https://meshinspector.com/white-label/）
+  - 「Mesh repair that survives real scan data. Booleans that don't fail on the hundredth operation. A viewer that opens a two-hundred-million-triangle model without falling over. Every hardware company that has tried to build this in-house discovers the same thing: the demo takes a month, production-grade takes years, and it never stops needing maintenance.」（https://meshinspector.com/white-label/）
+  - 「Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.」（https://meshinspector.com/white-label/）
+  - 「Desktop, browser, or both」（https://meshinspector.com/white-label/）
+  - 「CT scanner and medical imaging vendors」（https://meshinspector.com/white-label/）
+  - 「CNC machine and CAM vendors」（https://meshinspector.com/white-label/）
+  - 「MeshInspector gives you the model-preparation and verification half of this: feature detection, tolerance checking, and geometry clean enough to machine from. Toolpath generation and G-code simulation are built for you on top of the geometry layer — offsets, booleans, distance fields and swept volumes are already there, and our team has delivered CAM projects on them.」（https://meshinspector.com/white-label/）
+  - 「Not a services layer resold on top of someone else's kernel.」（https://meshinspector.com/white-label/）
+  - 「Windows, macOS and Linux on the desktop; the same engine in the browser through WebAssembly.」（https://meshinspector.com/white-label/）
+  - 「Desktop」（https://meshinspector.com/white-label/）
+  - 「Can we start with the browser version and add desktop later?」（https://meshinspector.com/white-label/）
+  - 「We also use analytics and advertisement cookies from the providers named below, which help us analyze how you use this website and measure and personalize our advertising. These cookies will only be stored in your browser with your prior consent.」（https://meshinspector.com/white-label/）
+  - 「The fully typed API controls the viewer programmatically, from loading models through selection and visibility to BCF topics and events.」（https://crais.io/products/white-label/）
+  - 「Customisation does not stop at the interface. Selection and hover colours, measurement annotations, section planes, BCF pins and the viewport background are configurable as well.」（https://crais.io/products/white-label/）
+  - 「TypeScript, Three.js, ThatOpen Fragments, web-ifc, WebGL2」（https://crais.io/products/white-label/）
+- 自社名で出せる条件：
+  - 「OEM & White-Label 3D Software | MeshInspector」（https://meshinspector.com/white-label/）
+  - 「OEM & White-Label」（https://meshinspector.com/white-label/）
+  - 「Ship 3D Software Under Your Own Brand」（https://meshinspector.com/white-label/）
+  - 「MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.」（https://meshinspector.com/white-label/）
+  - 「White-label」（https://meshinspector.com/white-label/）
+  - 「White-label MeshInspector — your brand, our application」（https://meshinspector.com/white-label/）
+  - 「Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.」（https://meshinspector.com/white-label/）
+  - 「Your customer scans a part, and everything after the capture becomes your software problem: noise, holes, misaligned passes, and a mesh that has to be watertight before anyone can measure anything. MeshInspector covers the whole post-capture chain — noise reduction, registration, hole filling, watertight repair, deviation measurement against a reference — under your brand.」（https://meshinspector.com/white-label/）
+  - 「A model that fails to print becomes a support ticket for you, not for the designer who made it. MeshInspector repairs and prepares the mesh before it ever reaches your slicer, and ships as the front end of your print workflow with your branding on it.」（https://meshinspector.com/white-label/）
+  - 「Why OEMs choose this over building it」（https://meshinspector.com/white-label/）
+  - 「The Web Suite: MeshInspector's tools running in the browser and embedded into your platform. Branding covers tool arrangement, colors and logos. Import and export from AWS and Azure storage is supported. Performance scales with the user's browser and machine.」（https://meshinspector.com/white-label/）
+  - 「Hardware bundles, embedded modules, volume-based terms — every OEM ships differently, and we keep the commercial side flexible rather than forcing a fixed scheme. Tell us how your product reaches its users, and we'll shape the model around it together.」（https://meshinspector.com/white-label/）
+  - 「Yes — that is the standard white-label case. Distribution scope is agreed with you before work starts.」（https://meshinspector.com/white-label/）
+  - 「White-Label | Embeddable IFC Viewer | IFC SDK | crais」（https://crais.io/products/white-label/）
+  - 「White-Label」（https://crais.io/products/white-label/）
+- 再販制度：
+  - 「Find a Reseller」（https://meshinspector.com/white-label/）
+  - 「Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.」（https://meshinspector.com/white-label/）
+  - 「HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.」（https://meshinspector.com/white-label/）
+  - 「When first opened, IFC files are converted into the high-performance FRAG format. After conversion, file size and loading time are both reduced by roughly a factor of ten. Conversion time, loading time and the size reduction vary with the geometric complexity and the information content of the IFC file. The table below shows the actual measured values from one example setup.」（https://crais.io/products/white-label/）
+  - 「VNTANA is the best 3D viewer in 2026 because it pairs studio-quality rendering with enterprise governance, native CAD ingestion, and SOC2 Type II security. It is the only 3D viewer built to run across eCommerce, wholesale, retailer syndication, and AI pipelines from a single platform.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Threekit, Emersya, Threedium, and parts of Sketchfab Enterprise sit here. They run on the same WebGL core as category 2, but add configurators with variant rules, AR and product storytelling, and prebuilt UI for product detail pages and marketing campaigns.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「– works out of the box on Apple Vision Pro, Meta Quest, Pico, Magic Leap, and Varjo with no additional development.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Threekit’s main use case is replacing traditional product photography with 3D models that render every SKU and variation from a single asset.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Jewelry and eyewear brands needing high-variant visual catalogs」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「The platform is particularly well-suited to categories with high variant counts where photographing every SKU would be cost-prohibitive.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Among the best 3D viewers reviewed in this guide, VNTANA is the one built for enterprises that need 3D to work across eCommerce, wholesale, sales, training, aftermarket parts and AI; not just on a single product page.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Batch-generate design variants」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「: Our creative engine is a powerhouse that can enable a variety of applications, from automating and scaling design and video creation for social media, marketing, and print to templating and jumpstarting users’ design, the UI can be adapted to match a specific use case perfectly.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「Variable Data Printing」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「Resellers」（https://www.techsoft3d.com/oem/）
+- 売上：
+  - 「A 2% conversion lift on a $200M digital channel is $4M in incremental annual revenue – the math makes the ROI case before the demo ends.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「A 2% conversion lift on a $200M digital channel is $4M in incremental revenue. The math works in the first quarter.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「AR you ready to accelerate your eCommerce revenue with 3D and AR?」（https://www.nextechar.com/industries/product-content-platforms）
+  - 「Our data translation technology makes it easy to break down barriers between formats and unlock the full value of your 3D assets. With broad support for CAD, AEC, and CAE files, you can provide your users with fast and accurate access to the models they depend on, ensuring smooth collaboration across every stage of the engineering workflow.」（https://www.techsoft3d.com/developers/solutions/）
+  - 「Integrate the latest 3D model visualization capabilities into your applications economically and quickly with flexible licensing arrangements and comprehensive support services.」（https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/）
+- 価格：
+  - 「Free to $79/month」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Free, $99/month (Pro), Custom」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Free, $14-$120/month, Custom」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「$18.99/month or $399 one-time」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Sketchfab offers a free tier with a 100 MB per-model upload limit and public visibility. Paid plans start at $15 per month (Plus), $19 per month (Premium), and $79 per month (Business) for teams needing password protection, higher upload limits (200-500 MB), and commercial embeds.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Autodesk Viewer is free. Premium collaboration features are available through Autodesk Construction Cloud and BIM Collaborate, which start at approximately $85 per user per month.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Threekit uses custom enterprise pricing that is not published on the public site. Industry reporting and sales conversations place starter packages around $1,000 per month, with enterprise deployments regularly in the low-to-mid six figures annually depending on scope.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「echo3D offers three plans. The Free plan is $0 per month for personal projects and experiences, with 10 monthly credits, basic 3D model conversion and compression, embeddable and shareable WebAR viewer, access to 45,000+ free 3D models, and basic analytics.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「The Pro plan is $99 per month for scaling commercial apps, with 500 monthly credits, automatic pay-as-you-go, advanced 3D model conversion, convert and compress API, version control, extended 3D asset library, custom logo, and 3D scene and model editors.」（https://www.vntana.com/roundup/best-3d-viewers/）
+  - 「Embed ARitize3D behind the scenes to power your customers’ 3D/AR and virtual photography—your brand forward, our engine underneath. Offer “generate 3D” as a native feature with your own pricing, packaging, and UX.」（https://www.nextechar.com/industries/product-content-platforms）
+- 検索結果の抜粋：
+  - 「SDK Solutions for Developers | Tech Soft 3D — SDK Solutions for Developers | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > solutions」（https://www.techsoft3d.com/developers/solutions/）
+  - 「3D Viewer SDK - Catenda API Documentation — 3D Viewer SDK - Catenda API Documentation Catenda https://developers.catenda.com > view...」（https://developers.catenda.com/viewer-3d）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## クラウド構造解析（cloud simulation platform）
+- 文脈：wl-C CAE
+- 提供企業：記載なし（読んだ40頁・検索8回）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 再販制度：記載なし（読んだ40頁・検索8回）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## デジタルツイン基盤（digital twin platform manufacturing）
+- 文脈：製造業
+- 提供企業：
+  - 「The technology sits on top of your operational systems—sensors, PLCs, reality capture equipment, and maintenance platforms. It pulls data from 3D scans, BIM models, and IoT devices to create a unified view of your facility.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
+  - 「Not every feature vendors highlight actually drives value for factory operations. Focus your evaluation on capabilities that directly address your defined use cases.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
+  - 「How to Evaluate Digital Twin Vendors for Factory Use Cases」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
+  - 「Watch for vendors who emphasize visualization over data management. A beautiful 3D model that you cannot update, measure, or integrate delivers no operational value.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
+  - 「Question extended implementation timelines. If the vendor promises value in years rather than weeks, the complexity may never pay off. Platforms like Cintoo are designed for rapid deployment, letting you upload, process, and collaborate on scan data within days of capture.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
+  - 「Support for IFC (Industry Foundation Classes) ensures your digital twin can exchange building information with design tools regardless of vendor. Direct integration with platforms like Revit, Navisworks, and AutoCAD simplifies workflows.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
+  - 「Smaller facilities can achieve meaningful ROI with focused implementations. Start with your highest-value pain point—perhaps a congested production area or frequently reconfigured cell. Cloud-based platforms like Cintoo remove the capital investment in specialized hardware that previously limited digital twin adoption to large enterprises.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
+- 再販制度：
+  - 「Implementation timelines vary based on scope and complexity. Focused pilots on single production lines can deliver value within weeks. Plant-wide deployments typically require phased approaches spanning months. Cintoo's cloud platform accelerates initial deployment by handling scan data processing and hosting without complex infrastructure setup.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
+- 売上：
+  - 「Look for technologies that convert raw scan data into manageable formats. Cintoo's patented TurboMesh technology transforms complex 3D mesh datasets into lightweight files that teams can stream and collaborate on through standard web browsers—removing the hardware barriers that often stall adoption.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## トポロジー最適化（topology optimization software）
+- 文脈：wl-A AM
+- 提供企業：
+  - 「Topology Optimization 101: How to Use Algorithmic Models to Create Lightweight Design | Formlabs」（https://formlabs.com/blog/topology-optimization/）
+  - 「Topology Optimization 101: How to Use Algorithmic Models to Create Lightweight Design」（https://formlabs.com/blog/topology-optimization/）
+  - 「become more widespread, making it possible to create complex parts easier than ever before, designers and engineers can leverage topology optimization software to push boundaries and find new ways to maximize design efficiency.」（https://formlabs.com/blog/topology-optimization/）
+  - 「In this guide, learn about the basics of topology optimization, its benefits and applications, and which software tools you can use to get started.」（https://formlabs.com/blog/topology-optimization/）
+  - 「What is Topology Optimization?」（https://formlabs.com/blog/topology-optimization/）
+  - 「Designs produced with topology optimization often include free forms and intricate shapes that are complex or impossible to manufacture with traditional production methods. However, TO designs are a perfect match for additive manufacturing processes that have more forgiving design rules and can easily reproduce complex shapes without additional costs.」（https://formlabs.com/blog/topology-optimization/）
+  - 「Topology Optimization vs. Generative Design」（https://formlabs.com/blog/topology-optimization/）
+  - 「and topology optimization have become buzzwords in the CAD design space, but it’s a common misconception that they’re synonymous.」（https://formlabs.com/blog/topology-optimization/）
+  - 「In a way, topology optimization serves as the foundation for generative design. Generative design takes the process a step further and eliminates the need for the initial human-designed model, taking on the role of the designer based on the predefined set of constraints.」（https://formlabs.com/blog/topology-optimization/）
+  - 「How Topology Optimization Works」（https://formlabs.com/blog/topology-optimization/）
+  - 「Topology optimization usually takes place towards the end of the design process, when the desired part needs to have a lower weight or use less materials. The designer then works to discover certain preset parameters, such as applied loads, material type, constraints, and layout.」（https://formlabs.com/blog/topology-optimization/）
+  - 「Structural topology optimization first determines the minimum allowable design space necessary for shape optimization of the product. Then, virtually, the topology optimization software applies pressure on the design from different angles, tests its structural integrity, and identifies unnecessary material.」（https://formlabs.com/blog/topology-optimization/）
+  - 「The topology optimization workflow. (」（https://formlabs.com/blog/topology-optimization/）
+  - 「The most common and practical technique for topology optimization is the」（https://formlabs.com/blog/topology-optimization/）
+  - 「Validating the design involves determining a threshold for the element density field between a value of 0 and 1. A value of 0 voids material in a designated region of the structure, while a value of 1 sets the designated region as solid material. The designer can then strip the model of all unnecessary material and finalize the topology optimization portion of the design.」（https://formlabs.com/blog/topology-optimization/）
+- 自社名で出せる条件：
+  - 「Topology optimization is a technology for developing optimized structures considering design parameters like expected loads, available design space, materials, and cost. Embedded early in the design process, it enables the creation of designs with minimal mass and maximal stiffness.」（https://www.siemens.com/en-us/technology/topology-optimization/）
+- 再販制度：
+  - 「At its foundation, topology optimization is about eliminating errors. By conducting stress testing, the process accounts for a wide range of variables and avoids risky assumptions that could lead to faulty products.」（https://formlabs.com/blog/topology-optimization/）
+  - 「offers a “unique toolset of generative design and automation capabilities,” speeding the design process by combining advanced geometry, simulations, and experimental data. Its geometry engine applies across a variety of applications, from aerospace and automotive to the design of football helmets to patient-specific devices in the medical field.」（https://formlabs.com/blog/topology-optimization/）
+  - 「Find a Reseller」（https://formlabs.com/blog/topology-optimization/）
+  - 「Become a Formlabs Reseller」（https://formlabs.com/blog/topology-optimization/）
+  - 「hundreds of design variables」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「many design variants, evaluates their performance, and converges toward optimal solutions using mathematical algorithms.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Engineers define design variables (geometry parameters, material properties), objectives (minimize drag, maximize stiffness), and constraints (stress limits, manufacturing tolerances). The software searches the design space intelligently using gradient-based methods, genetic algorithms,」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Modern aerospace systems involve hundreds of design variables and equally complex constraint sets. Classical gradient-based optimizers struggle with non-convex design spaces where local optima trap solvers far from global solutions.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Human judgment fails when balancing 50+ design parameters and 10+ competing objectives. Engineers fix most variables arbitrarily, exploring only narrow slices of the design space and missing breakthrough configurations outside conventional thinking.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Design-of-experiments and parametric sweeps scale exponentially with variables. A 10-variable problem with 5 levels per variable」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「These tools focus on robust design optimization and design-of-experiments, ensuring designs perform reliably despite manufacturing tolerances, material variability, and uncertain operating conditions.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Problems involving combinatorial choices, discrete variables, and system-of-systems design」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Combinatorial decisions, discrete variables, system-level trade-offs, bring your hardest optimization challenge.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「For programs involving combinatorial decisions, discrete variables, and system-level trade-offs at scale, classical methods consistently hit diminishing returns. BQPhy® finds near-optimal solutions 10 to 20 times faster than conventional heuristics, with 40 to 60% fewer high-fidelity simulation evaluations, on your existing HPC and GPU infrastructure.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Simulation software answers "how will this design perform?", it analyzes a single configuration under defined conditions. Design optimization software answers "what is the best design?", it drives the simulation engine repeatedly across many variants, guided by algorithms that search for optimal solutions.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+- 売上：
+  - 「Human judgment fails when balancing 50+ design parameters and 10+ competing objectives. Engineers fix most variables arbitrarily, exploring only narrow slices of the design space and missing breakthrough configurations outside conventional thinking.」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Services in generative design grow faster at 14.88% CAGR than software revenue because implementation and workflow integration are the hard parts. Cost reduction comes from」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+  - 「Head Quarters : 235 Harrison St, Syracuse, NY 13202 USA」（https://www.bqpsim.com/quantum-optimization/design-optimization-software）
+- 価格：
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/topology-optimization-software/）
+- 検索結果の抜粋：
+  - 「Top Topology Optimization Software Solutions for 3D Printing — Top Topology Optimization Software Solutions for 3D Printing 3Dnatives https://www.3dnatives.com > ... > News」（https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## ブラウザCAD（SDK）（browser based CAD SDK）
+- 文脈：wl-C CAD
+- 提供企業：
+  - 「Desktop」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「Best White-Label Canva Alternatives for SaaS in 2026」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「It offers a complete package of tools, libraries, and documentation, making it highly customizable to suit specific use cases and easily blend with a brand’s identity. SDKs equip developers with the core components needed to build, enhance, and tailor applications across multiple platforms, including web, mobile, server, cloud, and desktop.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.」（https://meshinspector.com/white-label/）
+  - 「Mesh repair that survives real scan data. Booleans that don't fail on the hundredth operation. A viewer that opens a two-hundred-million-triangle model without falling over. Every hardware company that has tried to build this in-house discovers the same thing: the demo takes a month, production-grade takes years, and it never stops needing maintenance.」（https://meshinspector.com/white-label/）
+  - 「Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.」（https://meshinspector.com/white-label/）
+  - 「Desktop, browser, or both」（https://meshinspector.com/white-label/）
+  - 「CT scanner and medical imaging vendors」（https://meshinspector.com/white-label/）
+  - 「CNC machine and CAM vendors」（https://meshinspector.com/white-label/）
+  - 「MeshInspector gives you the model-preparation and verification half of this: feature detection, tolerance checking, and geometry clean enough to machine from. Toolpath generation and G-code simulation are built for you on top of the geometry layer — offsets, booleans, distance fields and swept volumes are already there, and our team has delivered CAM projects on them.」（https://meshinspector.com/white-label/）
+  - 「Not a services layer resold on top of someone else's kernel.」（https://meshinspector.com/white-label/）
+  - 「Windows, macOS and Linux on the desktop; the same engine in the browser through WebAssembly.」（https://meshinspector.com/white-label/）
+  - 「Desktop」（https://meshinspector.com/white-label/）
+  - 「Can we start with the browser version and add desktop later?」（https://meshinspector.com/white-label/）
+  - 「We also use analytics and advertisement cookies from the providers named below, which help us analyze how you use this website and measure and personalize our advertising. These cookies will only be stored in your browser with your prior consent.」（https://meshinspector.com/white-label/）
+- 自社名で出せる条件：
+  - 「SDK vs. White Label: Choose the Right Solution | IMG.LY Blog」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「CoDesign SDK gives your product's AI agent the tools to resize, localize, rebrand and generate designs on your own servers, and every result stays an editable CE.SDK design.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「Best White-Label Canva Alternatives for SaaS in 2026」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「Let your own agent generate, resize and rebrand editable designs in your product.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「SDK vs. White Label: Consider These Differences When You Choose a Solution」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「White Label」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「Discover how to choose between white-label tools and SDKs to enhance your product, and find the perfect solution for your budget and resources.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「Enhancing your product with new features and capabilities often brings up a critical question: Should you choose a white-label solution or opt for the flexibility of an SDK? While white-label tools offer simplicity and speed, modern SDKs can combine the ease of integration with the ability to customize and deeply integrate into your product. CE.SDK covers both sides of that trade-off: a」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「white-label editor SDK」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「you can theme, rebrand, and run on your own domain.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「: SDKs provide an option to create a solution that best matches your business needs and branding. Unlike white-label, SDKs can be fully customizable, allowing you to tailor features and capabilities to seamlessly integrate with your use case.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「: While the integration and maintenance require the involvement of developers, SDKs come with greater control over the integrated tech that’s not available with white-label solutions. Developers can determine the extensibility of the solution and shape it to fit specific needs.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「What is a White-Label Solution?」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「While SDK needs to be built with the provided tools, the white-label solution is an off-the-shelf and ready-to-use product that can be quickly rebranded and marketed. It allows businesses to get to market faster by utilizing a ready-made platform, eliminating the need for internal development from scratch.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「Key features of a White-label solution」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+- 再販制度：
+  - 「Batch-generate design variants」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「: Our creative engine is a powerhouse that can enable a variety of applications, from automating and scaling design and video creation for social media, marketing, and print to templating and jumpstarting users’ design, the UI can be adapted to match a specific use case perfectly.」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「Variable Data Printing」（https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/）
+  - 「Find a Reseller」（https://meshinspector.com/white-label/）
+  - 「Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.」（https://meshinspector.com/white-label/）
+  - 「HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.」（https://meshinspector.com/white-label/）
+  - 「Different vendors achieve this to varying degrees and with different techniques, as we’ll explore in a moment. Some basic solutions only hide their logo, while advanced ones allow you extensive rebranding and even embedding analytics」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「(e.g., style individual widget chrome, button shapes, iconography to match your app). Some platforms explicitly let you inject custom CSS or override style variables, which can be very useful for a close match.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「The recently added embedding SDK (available in Enterprise too) gives more control by letting you embed individual components and tweak styling via CSS variables, which moves it toward advanced territory.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「and has modules that let you embed content in various ways.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「This SDK (available on Pro/Enterprise) gives much finer control – you can embed individual charts or even their full query builder as native elements, apply CSS variables to restyle components, and override certain interactions. This moves Metabase closer to the “standard” category for customization, but using the SDK requires a React front-end and coding.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Variable Data Printing」（https://www.designhuddle.com/）
+  - 「Variable Text: Name」（https://www.designhuddle.com/）
+  - 「Variable Image: Logo」（https://www.designhuddle.com/）
+  - 「Connect customer-facing design to print production with controlled editing, variable data, and print-ready files.」（https://www.designhuddle.com/）
+- 黒字・収益性：
+  - 「Non-Profit」（https://www.designhuddle.com/）
+  - 「Or even better, you can use the white label feature and resell Bookafy with new websites you build. You can adjust the branding to match the website, blending the product seamlessly into new websites. Or simply sell Bookafy as a standalone solution to other businesses for a profit.」（https://www.luzmo.com/blog/white-label-software）
+  - 「DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, OR THE LIKE), WHETHER」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+- 売上：
+  - 「AutoCAD OEM has an Annual Partnership Fee of $15,000 USD/€12,000 year, along with a revenue share. The revenue share is a percentage of the revenue from the developed product. The minimum annual revenue share is $24,000 USD/€18,000 year.」（https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/）
+  - 「To add switching 3D views, you only need to create an array of views names (their order is important)」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+  - 「4.DISCLAIMER OF WARRANTY」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+- 価格：
+  - 「$2,000/month」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「– you must budget for at least $500/month Pro plan (plus $10 per viewer per month) to remove logos and get interactive embedding.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「$199 per month」（https://www.banuba.com/blog/best-white-label-software）
+  - 「generate more than 60,000 leads per month」（https://www.banuba.com/blog/best-white-label-software）
+  - 「: Email sends, SMS, calls, and AI interactions are billed separately from the monthly plan, and agencies commonly add $50–$300+/month depending on volume.」（https://www.banuba.com/blog/best-white-label-software）
+  - 「starts at $2,495 per month, billed annually, but you can」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $249 per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $49 per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $9 per user per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $59 per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $65 per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「Free plan for small teams getting started. Business plans start at $5 per user per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $20 per store, per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「Pricing: starts at $129 per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「Pricing: Start for free, or upgrade to the Agency Account for $30/month to unlock additional white label services and discounts.」（https://www.luzmo.com/blog/white-label-software）
+- 検索結果の抜粋：
+  - 「web - cad - sdk -reference.pdf - ComponentSource CDN — web - cad - sdk -reference.pdf - ComponentSource CDN ComponentSource PDF https://origin2.cdn.componentsource.com > resources」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## ラティス・形状生成（lattice design software）
+- 文脈：wl-A AM
+- 提供企業：
+  - 「Q&A - Lattice design software for 3D printing with nTopology - DEVELOP3D」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+  - 「Q&A – Lattice design software for 3D printing with nTopology」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+  - 「nTopology」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+  - 「Spencer Wright, VP Product nTopology:」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+  - 「Yes! We can import STL, OBJ or Parasolid files that are exported from an assembly-level CAD model, and can export those same formats to go to your FEA and/or CAM software. It’s also possible to design a part from scratch with nTopology Element – but most of our customers have a CAD/FEA/CAM workchain that they’re comfortable with, and we support them at every step.」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+  - 「ntopology.com/elementfree」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+- 再販制度：
+  - 「Since lattices are used in such a wide range of industries, we off er a variety of purchasing options. Most industrial customers will want a full Pro package, but for niche applications and smaller companies we also sell individual Pro modules at a much lower cost. It’s really up to your needs – we’re happy to support you however we can!」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+- 検索結果の抜粋：
+  - 「Q&A - Lattice design software for 3D printing with nTopology — Q&A - Lattice design software for 3D printing with nTopology develop3d https://develop3d.com > opinion > lat...」（https://develop3d.com/opinion/lattice-design-software-at-ntopology-3d-printing-cad-design/）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## 品質管理（QMS）（quality management software manufacturing）
+- 文脈：製造業
+- 提供企業：
+  - 「"While many companies offer a software application to manage specific areas of a QMS I was looking for a "One Stop Shop" where I could manage all aspects of the quality system and utilize it to drive continuous improvement! Momentum QMS checked every box on the list (and then some)."」（https://www.momentumsystems.com.au/partner-program/）
+  - 「Scroll to top」（https://www.momentumsystems.com.au/partner-program/）
+  - 「Datacor’s market-leading ERP software empowers white label manufacturers to streamline operations, boost productivity, and improve performance. By seamlessly integrating with both the manufacturer’s and customer’s back-end systems, the ERP ensures a smoother, more collaborative relationship.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「The terminology is not always consistent across vendors, but three categories are useful when building a shortlist.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
+  - 「The following products are representative, not ranked. They include established QMS vendors identified in」（https://www.tradebeyond.com/industry-hub/quality-management-software）
+  - 「emphasizes mobile-first forms and offline data capture for distributed teams and remote operations. It brings field reporting, audits, compliance tracking, and quality workflows into a connected environment. The mobile and offline emphasis matters where quality evidence is collected without dependable desktop access or connectivity.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
+  - 「Bring vendors the process that currently depends on email, a spreadsheet, or one experienced employee. Ask them to show what happens when a supplier misses a deadline, an inspector loses connectivity, a specification changes after production begins, or a corrective action fails its effectiveness check.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
+  - 「Why spreadsheets stop scaling for enterprise quality teams」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
+  - 「then check that the loop actually closed, and supplier evaluation applies the same discipline upstream to the vendors whose components caused the issue in the first place.」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
+  - 「Ask a prospective vendor what validation documentation they supply against Part 11, and whether it is maintained through their release cycle or handed over once at implementation. That answer separates vendors more reliably than a feature list does.」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
+  - 「11 Questions to Ask QMS Software Vendors in the Medical Device Industry」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
+  - 「This page is your one-stop resource for understanding what’s changing, what’s at stake, and how to stay compliant.」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
+  - 「Top Guides」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
+  - 「Compare QMS vendors, uncover compliance gaps, and choose the best solution.」（https://qt9software.com/qms/industry/manufacturing）
+  - 「Key questions to ask QMS software vendors」（https://qt9software.com/qms/industry/manufacturing）
+- 自社名で出せる条件：
+  - 「White-Label Program | Momentum Systems」（https://www.momentumsystems.com.au/partner-program/）
+  - 「HOW MOMENTUM IS DIFFERENT TO TRADITIONAL WHITE-LABEL SOLUTIONS」（https://www.momentumsystems.com.au/partner-program/）
+  - 「Let’s Build Your Own Branded eQMS」（https://www.momentumsystems.com.au/partner-program/）
+  - 「Ready to offer your own branded QMS?」（https://www.momentumsystems.com.au/partner-program/）
+  - 「How ERP Drives Growth and Trust in Private Label Manufacturing」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Unlocking Growth: How ERP Software Empowers Private Label Manufacturers」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Enterprise Resource Planning (ERP) software is a game-changer for private label manufacturers and their customers, strengthening collaboration and streamlining operations. These manufacturers handle production, packaging, and fulfillment, allowing their customers to focus on core strengths like marketing, product development, or retail.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「To win new business, private label manufacturers must make this transition as seamless and risk-free as possible. The right ERP system can help them build trust quickly, optimize processes, and differentiate themselves in a competitive market.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Datacor’s market-leading ERP software empowers white label manufacturers to streamline operations, boost productivity, and improve performance. By seamlessly integrating with both the manufacturer’s and customer’s back-end systems, the ERP ensures a smoother, more collaborative relationship.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Datacor’s ERP ensures every product is manufactured to the exact specifications and conditions agreed upon between the white label manufacturer and their customer.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「An ERP system can significantly improve operational effectiveness for both white label manufacturers and their clients by optimizing:」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Beyond these operational benefits, an integrated ERP and customer portal create a competitive edge in the private label industry.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「“Providing clients with a portal into the white label manufacturing process strengthens collaboration,” Haley explains. “Customers gain instant access to the data they need, helping them make informed decisions and work more effectively with manufacturers.”」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「ERP software has become a critical tool for modern manufacturers, bridging the gap between suppliers and customers. By enabling real-time data sharing, improving transparency, and reducing friction in manufacturing partnerships, Datacor’s ERP helps businesses build trust and gain a competitive edge in the evolving white label industry.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Documentation needed for regulatory compliance is automatically generated, tracked and stored through its lifecycle. Many QMS software solutions have embedded processes for meeting strict regulatory standards.」（https://qt9software.com/qms/industry/manufacturing）
+- 再販制度：
+  - 「Partner Program」（https://www.momentumsystems.com.au/partner-program/）
+  - 「PARTNER PROGRAM」（https://www.momentumsystems.com.au/partner-program/）
+  - 「Ideal For Consulting Practices Serving A Variety Of Sectors」（https://www.momentumsystems.com.au/partner-program/）
+  - 「Channel Partners」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「as well as ERP-integrated and inspection-focused options. Their scope, industry emphasis, and implementation models vary, so they should not be treated as direct substitutes.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
+  - 「Advantage in margin: Take control of your margins with connected, intelligent workflows.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
+  - 「There are too many QMS software solutions on the market to list them all, but we've chosen what we believe are 10 of the best QMS solutions for a variety of different needs. As you'll see, there are pros and cons to every option, even Greenlight Guru, so it's important to continue doing research once you believe you've found the right option for your organization.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Customizable for a wide variety of industries」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「ALM functionality, variant and branch management, concurrent licensing」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「An industry-agnostic approach means MasterControl's QMS software is customizable to fit the needs of a wide variety of industries.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「ETQ is a provider of a modular QMS platform called ETQ Reliance, which is used across various industries, including manufacturing, life sciences, and food and beverage. The system offers capabilities in managing compliance, risk, and quality processes, with features like document control, audit management, and CAPA.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Basic document management functionality can work for a variety of industries, like cannabis or pharmaceutical.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Handles variant and branch management for requirements hierarchies.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Partner program」（https://mitti.com/apps/quality-control-software-for-manufacturing）
+  - 「UniPoint offers industry-specific Quality Management Systems (QMS) seamlessly integrated with ERP solutions. The platform can cater to various industries, including manufacturing, chemical, food & beverage, automotive, and medical. With comprehensive features, UniPoint empowers businesses to streamline and automate quality control processes effectively.」（https://mitti.com/apps/quality-control-software-for-manufacturing）
+- 黒字・収益性：
+  - 「engineers strategic management systems that empower businesses to secure a distinct competitive advantage, enhance profitability, and achieve sustainable growth. They focus on demystifying complex requirements and delivering bespoke, efficient solutions, enabling clients to mitigate risks, optimize performance, and confidently expand their market presence.」（https://www.momentumsystems.com.au/partner-program/）
+  - 「ComplianceQuest is a cloud-based quality control software that helps organizations manage and streamline manufacturing quality processes. Its intelligent data-driven platform has integrated processes to mitigate risks, protect employees, suppliers, and brand reputation, and increase innovation, compliance, profit, and customer loyalty.」（https://mitti.com/apps/quality-control-software-for-manufacturing）
+  - 「Drive continuous quality improvements and better, safer products with Propel for happier customers and higher profits.」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
+- 売上：
+  - 「Risk management is handled as a flat table and cannot carry multiple frameworks in parallel. A team running ISO 14971, FMEA, and cybersecurity risk at the same time will end up maintaining duplicate matrices.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Recorded in the RevenueBase company graph · Sep 29, 2026 ·」（https://revenuebase.ai/companies/quality-management-software-companies-for-manufacturing/united-states）
+  - 「The RevenueBase company graph: 60 million companies and 398.9 million professional contacts resolved from primary sources, queried with RevenueBase SmartSearch, the natural-language company search available to every RevenueBase user.」（https://revenuebase.ai/companies/quality-management-software-companies-for-manufacturing/united-states）
+  - 「RevenueBase's August 25, 2026 study assessed 4,198 description/company pairs across matching settings. The publisher reports 86% good or better at Exact. This evaluates the method across queries; it does not audit this individual list. Recorded company descriptions, where available, help you judge each match yourself.」（https://revenuebase.ai/companies/quality-management-software-companies-for-manufacturing/united-states）
+  - 「unified CRM, PLM, and QMS on a single platform and drove a 25% increase in revenue while headcount decreased 20%.」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
+  - 「achieved a 74% reduction in time to market and a 35% increase in revenue.」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
+  - 「on Salesforce means the data model, workflows, and integrations can be extended as the business evolves. Customers like Breg achieved 186% ROI in 13 months after switching to Propel, and MSA Safety drove a 25% revenue increase while reducing headcount by 20%. For high-growth companies, the platform's configurability eliminates the ceiling that legacy QMS tools typically impose.」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
+- 価格：
+  - 「Premium plan $24/seat/month (with free trial period)」（https://mitti.com/apps/quality-control-software-for-manufacturing）
+  - 「Starts at $30/month」（https://mitti.com/apps/quality-control-software-for-manufacturing）
+  - 「The Starter plan starts at $79/month, billed annually (with a free 14-day trial period)」（https://mitti.com/apps/quality-control-software-for-manufacturing）
+  - 「$24/user/month*」（https://mitti.com/apps/quality-control-software-for-manufacturing）
+  - 「$30/month」（https://mitti.com/apps/quality-control-software-for-manufacturing）
+  - 「$79/month*」（https://mitti.com/apps/quality-control-software-for-manufacturing）
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/manufacturing-quality-management-software/）
+- 検索結果の抜粋：
+  - 「Quality Management Software : 10 QMS Platforms to Know — Quality Management Software : 10 QMS Platforms to Know TradeBeyond https://www.tradebeyond.com > quali...」（https://www.tradebeyond.com/industry-hub/quality-management-software）
+  - 「Best QMS Software for Manufacturing 2026 - Workerbase — Best QMS Software for Manufacturing 2026 - Workerbase Workerbase https://www.workerbase.com > blog」（https://www.workerbase.com/en/blog/best-qms-manufacturing-2026）
+  - 「10 best QMS software solutions for 2026 - Greenlight Guru — 10 best QMS software solutions for 2026 - Greenlight Guru Greenlight Guru https://www.greenlight.guru > blog」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Best Customizable QMS Software in 2026 — Best Customizable QMS Software in 2026 Propel Software https://converged.propelsoftware.com > ...」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## 外観検査AI（AI visual inspection software）
+- 文脈：製造業
+- 提供企業：
+  - 「Industry-Leading Accuracy」（https://averroes.ai/）
+  - 「Managed Service Providers」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Pricing varies significantly by platform, number of users, and feature tier. Most vendors in this category offer per-user or per-asset pricing, with enterprise contracts negotiated separately. Request a formal quote based on your actual user count and asset volume rather than relying on published pricing, which often reflects entry-level tiers.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Alternatives & Best-Of」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Top 25 AI visual inspection software companies based in the United States」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
+  - 「Top 25 AI visual inspection software」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
+  - 「Cognex Corporation tops the displayed preview by professional contacts tracked in RevenueBase. Recorded headquarters appear in the company rows.」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
+  - 「We combine the profound tech expertise and strong R&D practices to deliver top-notch blockchain and business automation services and solutions to the global market.」（https://aetsoft.net/products/ai-visual-inspection/）
+  - 「Top-notch blockchain frameworks and technologies — everything we’ve learned developing custom solutions across multiple blockchains and protocols is at your disposal.」（https://aetsoft.net/products/ai-visual-inspection/）
+  - 「Stop non-conforming units with real time processing.」（https://aetsoft.net/products/ai-visual-inspection/）
+  - 「Top AI Visual Inspection Development Companies in Canada – Talky Techs」（https://talkytech.business.blog/2026/06/24/ai-visual-inspection-development-companies-in-canada/）
+  - 「Top AI Visual Inspection Development Companies in Canada」（https://talkytech.business.blog/2026/06/24/ai-visual-inspection-development-companies-in-canada/）
+  - 「In this guide, we’ll look at the top companies, what they offer, how to compare them, and how to choose the right」（https://talkytech.business.blog/2026/06/24/ai-visual-inspection-development-companies-in-canada/）
+- 自社名で出せる条件：
+  - 「@ Semiconductor OEM」（https://averroes.ai/）
+  - 「a White-label NFT solution for trading NFTs, the world’s first Digital Health Passport protecting firms and whole countries from COVID-19, and more!」（https://aetsoft.net/products/ai-visual-inspection/）
+  - 「White-label STO Platform」（https://aetsoft.net/products/ai-visual-inspection/）
+  - 「White-label Crowdfunding Platform」（https://aetsoft.net/products/ai-visual-inspection/）
+  - 「White-label NFT Platform」（https://aetsoft.net/products/ai-visual-inspection/）
+- 再販制度：
+  - 「Find a reseller or join our partner program.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Most platforms in this category offer some level of offline functionality, but the depth varies. Some queue form submissions and sync when connectivity is restored. Others limit offline use to viewing previously downloaded records. Ask each vendor to demonstrate offline behavior specifically, including what happens to photos and form data captured offline.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Pricing varies significantly by platform, number of users, and feature tier. Most vendors in this category offer per-user or per-asset pricing, with enterprise contracts negotiated separately. Request a formal quote based on your actual user count and asset volume rather than relying on published pricing, which often reflects entry-level tiers.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Models are trained on your production data and calibrated to acceptable tolerance levels. By correlating multiple data sources and refining thresholds over time, the system distinguishes normal process variation from true defects more reliably.」（https://aetsoft.net/products/ai-visual-inspection/）
+  - 「Instead of forcing a ready-made tool into your workflow, Prismetric can build a solution that matches your products, camera setup, defect types, and reporting needs. That makes it useful for businesses dealing with unique inspection challenges, such as surface cracks, wrong assembly, label errors, missing components, packaging damage, or product size variation.」（https://talkytech.business.blog/2026/06/24/ai-visual-inspection-development-companies-in-canada/）
+- 黒字・収益性：
+  - 「Business & Nonprofit」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Non-Profit」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+- 売上：
+  - 「This list covers company matches for AI visual inspection software companies associated with the United States, found by RevenueBase SmartSearch using the meaning of business descriptions in its company graph at Exact. Ranked by professionals tracked, largest first. Rows show recorded descriptions where available, Exact search membership and the snapshot date. Data refreshed October 19, 2026.」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
+  - 「Recorded in the RevenueBase company graph · Oct 19, 2026 ·」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
+  - 「The RevenueBase company graph: 60 million companies and 398.9 million professional contacts resolved from primary sources, queried with RevenueBase SmartSearch, the natural-language company search available to every RevenueBase user.」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
+  - 「RevenueBase's August 25, 2026 study assessed 4,198 description/company pairs across matching settings. The publisher reports 86% good or better at Exact. This evaluates the method across queries; it does not audit this individual list. Recorded company descriptions, where available, help you judge each match yourself.」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
+- 検索結果の抜粋：
+  - 「AI Visual Inspection Software | 99%+ Accuracy — AI Visual Inspection Software | 99%+ Accuracy Averroes AI https://averroes.ai」（https://averroes.ai/）
+  - 「9 Best AI Visual Inspection Software of 2026 - Asset Panda — 9 Best AI Visual Inspection Software of 2026 - Asset Panda Asset Panda https://www.assetpanda.com > compare」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Top 25 AI visual inspection software companies based in the ... — Top 25 AI visual inspection software companies based in the ... RevenueBase https://revenuebase.ai > united-states」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
 
 ## 形状カーネル（ライセンス）（geometric modeling kernel licensing）
 - 文脈：wl-C CAD
@@ -766,15 +2139,109 @@
   - 「AI Automation Agency in 2026: What It Does, Tools, Pricing and How to Start」（https://www.totalum.app/blog/white-label-ai-app-builder-2026）
 - 日本対応：記載なし（読んだ40頁・検索8回）
 
-## クラウド構造解析（cloud simulation platform）
-- 文脈：wl-C CAE
-- 提供企業：記載なし（読んだ40頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
-- 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
+## 自然言語→CAD（API）（text to CAD API）
+- 文脈：wl-C CAD
+- 提供企業：
+  - 「7 Paragon alternatives worth considering in 2026」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「A guide to Workato alternatives」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「Merge, the leading」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「The best text-to-CAD API tools for developer integration in 2026 are led by Zoo.dev for geometry generation, with code-generation APIs from Claude and OpenAI providing flexible alternatives. The choice depends on whether you need direct geometry output or scriptable parametric code.」（https://www.getleo.ai/blog/best-text-to-cad-api-tools）
+  - 「STL files contain triangulated mesh geometry. They are universally supported for 3D printing but lack the topological information needed for parametric editing. Most text-to-CAD APIs support STL output. It is useful for visualization and additive manufacturing but insufficient for most engineering workflows.」（https://www.getleo.ai/blog/best-text-to-cad-api-tools）
+  - 「Zoo.dev offers the most mature dedicated text-to-CAD API with STEP output support. For code-generation approaches, Claude and OpenAI APIs producing CadQuery code provide flexible alternatives with parametric output capability.」（https://www.getleo.ai/blog/best-text-to-cad-api-tools）
+  - 「You deliver pro-level design freedom to your users, without a trail of breadcrumbs leading elsewhere. And yes, you can create your own branded collections too!」（https://create.vista.com/blog/what-makes-api-white-label/）
+  - 「Don't miss out on our top articles」（https://create.vista.com/blog/what-makes-api-white-label/）
+  - 「Subscribe to the VistaCreate blog newsletter and get our top articles in your inbox each month. No spam 😉」（https://create.vista.com/blog/what-makes-api-white-label/）
+  - 「Desktop」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Best White-Label Canva Alternatives for SaaS in 2026」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Yet, as you go down the rabbit hole of product requirements, white-labeling, deployment type, customization of UI and workflows, and cost predictability, you might start looking for alternatives with more flexibility and a developer-first approach - like IMG.LY.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Canva explicitly discourages use of the Connect API in environments where credentials cannot be securely stored, such as mobile or desktop apps, browser extensions, or PWAs without a backend:」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「“Apps that use the Canva REST APIs must be associated with a web app. We don’t support apps in environments where it’s difficult to securely store credentials, such as mobile or desktop apps, browser extensions, Progressive Web Apps (with no backend), and Single Page Apps.” Instruction from」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Who Would Benefit from Looking for Alternatives to Canva Connect API」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+- 自社名で出せる条件：
+  - 「White label API integration: benefits, drawbacks, and tools」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「As you look to make your product more valuable for customers and more attractive to prospects, you can leverage a solution that provides white label API integrations.」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「We’ll break down the benefits and drawbacks of white-labeling integrations. And we'll help you get started in building them by walking through several types of platforms you can use.」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「But first, let’s align on the definition of a white label API integration.」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「What is a white label API integration?」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「What is a white label iPaaS?」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「Pros and cons of white label API integrations」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「Deciding whether to white label your integrations isn’t always easy. Before you can decide on whether it’s right for your business, you’ll need to carefully weigh the pros and cons of doing it.」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「Here are some of the benefits of white-labeling API integrations:」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「to collect, store, and sync their data might give them anxiety—even when it isn’t warranted. Through white-labeling, these potential concerns can be avoided altogether」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「Unfortunately, white-labeling API integrations can also come with drawbacks. Here are a few to keep in mind:」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「White label API integration solutions」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「embedded iPaaS」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「Through its white label offering, you can also customize the UI elements of the platform in your product. This includes the colors that are used, the logo that appears, etc.」（https://www.merge.dev/blog/white-label-api-integration）
+  - 「How Workato markets its white label offering」（https://www.merge.dev/blog/white-label-api-integration）
+- 再販制度：
+  - 「Batch-generate design variants」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Automation and variable data」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「The same engine runs headlessly through the Node.js SDK for batch rendering, driven by locked templates, placeholders and text variables (Web, iOS, Android, Server). Output lands wherever your pipeline sends it.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「CMYK color and spot colors (Web, iOS, Android, Server), knockouts for overlapping colors and layers (Web, iOS, Android, Server), PDF/X export through a plugin (Web, Server), bleed and margins (Web), and cutouts and underlayers for die-cut and layered work (Web).」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「IMG.LY supports templating with placeholders, lockable design elements, and variables. What does this mean? Marketers can easily swap content, localize messaging, or tailor designs without worrying about compromising brand integrity.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Placeholders and variables can also be swapped programatically via back-end APIs or a headless mode, effectively enabling mass personalization, scale production of A/B testing variants, or campaign-level automation with thousands of assets being generated with a few clicks.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Template constraints & variable data printing:」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Merchants need more than just good visuals; they need product images, banners, and mockups that are accurate, branded, and consistent, all without bouncing between multiple tools. They also often need to handle product variations (colors, sizes, personalized text), preview them, and scale creation for large catalogs.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Automated variant generation:」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Templates with placeholders (for product visuals, prices, ad copy, etc.) can be linked to product data to automatically generate all visual variants for large catalogs. What used to take hours per product can now be done in minutes, without touching a design tool.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Today’s creative operations teams, from marketing departments to print providers, face mounting pressure to personalize assets at scale, adapt designs across hundreds of formats, and produce campaign-ready visuals in record time. Manual editing can’t keep up with the velocity and variety modern content demands. That’s where creative automation comes in.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「IMG.LY’s CreativeEditor SDK can operate in headless mode, allowing you to generate thousands of assets automatically using your templates. From campaign banners to localized ads or A/B test variants, everything is rendered programmatically through API calls without manual intervention.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Smart templates & variable data:」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Lock critical design elements (logos, margins, colors, and typography) so that automated or user-edited outputs always remain on brand, no matter how many variants you produce.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「Does Canva Connect support automated or variable-data design generation?」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+- 黒字・収益性：
+  - 「For Nonprofits」（https://create.vista.com/blog/what-makes-api-white-label/）
+  - 「Nonprofits」（https://github.com/deanhu0822/Text-to-CAD）
+  - 「Or even better, you can use the white label feature and resell Bookafy with new websites you build. You can adjust the branding to match the website, blending the product seamlessly into new websites. Or simply sell Bookafy as a standalone solution to other businesses for a profit.」（https://www.luzmo.com/blog/white-label-software）
+  - 「removes vendor risk but adds GPU operations to your cost base, so the break-even usually sits above 100,000 images per month.」（https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026）
+  - 「White Label AI Profit Margins: What Agencies Actually Earn in 2026」（https://trillet.ai/blogs/best-white-label-reseller-programs-2026）
+  - 「DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, OR THE LIKE), WHETHER」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+  - 「Best White Label Software to Resell for Profit: Top 7 Platforms」（https://getzendo.io/blog/best-white-label-software-to-resell/）
+  - 「Avg. Profit per Client」（https://getzendo.io/blog/best-white-label-software-to-resell/）
+  - 「Is Software Reselling Profitable? 5 Benefits」（https://getzendo.io/blog/best-white-label-software-to-resell/）
+  - 「Software reselling can be extremely profitable, but like any business, the margin depends on how you structure it and the value you provide (if you scroll further, we give example profit estimates for each platform you’d be to resell).」（https://getzendo.io/blog/best-white-label-software-to-resell/）
+  - 「Profit estimate: Zendo」（https://getzendo.io/blog/best-white-label-software-to-resell/）
+  - 「Total Monthly Profit」（https://getzendo.io/blog/best-white-label-software-to-resell/）
+  - 「Profit scales linearly with the number of clients.」（https://getzendo.io/blog/best-white-label-software-to-resell/）
+  - 「Profit estimate: Personizely」（https://getzendo.io/blog/best-white-label-software-to-resell/）
+  - 「, you’re already covering costs and making profit.」（https://getzendo.io/blog/best-white-label-software-to-resell/）
+- 売上：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/）
+  - 「Synup pricing starts at $34.99 per location per month with a 15% discount for annual billing. Add-ons for social media scheduling and analytics carry additional fees. A free demo is available.」（https://www.perspective.co/article/white-label-marketing-software）
+  - 「We took our agency to a seven-figures in revenue after just 4 months of using Perspective in our service.」（https://www.perspective.co/article/white-label-marketing-software）
+  - 「The team that builds FrameworX has been shipping industrial software since the DOS era. In 1996 it co-founded InduSoft (now AVEVA Edge) and built the HMI engine behind it, and it has shipped every generation of this platform since. FrameworX is the current one, built from scratch on managed .NET rather than carried forward from the last.」（https://tatsoft.com/tatsoft-oem-partner-program/）
+  - 「The Environmental Information Systems group at Wunderlich-Malec builds reporting products on FrameworX for facilities operating under Title V permits, CFR 40 Part 75 and Part 60, and California RECLAIM. Compliance reporting is where the data model, the historian and the audit trail carry the product, which is why the platform underneath it has to be the same one running the plant.」（https://tatsoft.com/tatsoft-oem-partner-program/）
+  - 「To add switching 3D views, you only need to create an array of views names (their order is important)」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+  - 「4.DISCLAIMER OF WARRANTY」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+  - 「According to a July 2024 report from BotsCrew, the global chatbot marketing revenue alone is projected to surpass $454.8 million by 2027, demonstrating the massive market opportunity for white label AI resellers.」（https://www.articsledge.com/post/white-label-ai-software）
+  - 「represents the fastest-growing region. Currently accounting for 33% of AI software revenue in 2025, analysts expect the region to capture 47% of the global market by 2030 as China and other Asian economies accelerate AI adoption (ABI Research, July 2024).」（https://www.articsledge.com/post/white-label-ai-software）
+  - 「Zero platform fees—keep 100% of revenue」（https://www.articsledge.com/post/white-label-ai-software）
+  - 「Achieved $3,000 monthly recurring revenue」（https://www.articsledge.com/post/white-label-ai-software）
+  - 「(Revenue – COGS) / Revenue × 100%」（https://www.articsledge.com/post/white-label-ai-software）
+  - 「(Revenue – COGS – Operational Costs) / Revenue × 100%」（https://www.articsledge.com/post/white-label-ai-software）
+  - 「Revenue: $7,500/month」（https://www.articsledge.com/post/white-label-ai-software）
+  - 「Revenue: $30,000/month」（https://www.articsledge.com/post/white-label-ai-software）
+- 価格：
+  - 「Documented per endpoint, per user of your app, in requests per minute. Creating an asset upload job is 30, a design autofill job 60, a design export job 20, a design import job 20. The matching get-job endpoints sit higher, at 120 to 180, so polling is not usually the binding constraint. Over the limit, the endpoint returns 429.」（https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/）
+  - 「starts at $2,495 per month, billed annually, but you can」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $249 per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $49 per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $9 per user per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $59 per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $65 per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「Free plan for small teams getting started. Business plans start at $5 per user per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「starts at $20 per store, per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「Pricing: starts at $129 per month.」（https://www.luzmo.com/blog/white-label-software）
+  - 「Pricing: Start for free, or upgrade to the Agency Account for $30/month to unlock additional white label services and discounts.」（https://www.luzmo.com/blog/white-label-software）
+  - 「Pricing: Cost-effective plans start at $13.99 per user/month, with options to scale up as your business grows.」（https://www.luzmo.com/blog/white-label-software）
+  - 「White label AI image software lets you sell AI image generation under your own brand, domain, and pricing instead of reselling a vendor's logo. This guide ranks the seven best options for 2026 on the three things that decide the build: how much branding you can remove, how complete the API is, and whether per-image cost survives a resale margin.」（https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026）
+  - 「Then test at your real volume before signing. Free tiers hide the cliff, and these platforms price very differently at 1,000 images per month than at 100,000. Run fifty prompts through both finalists, measure cost and latency, and treat that as the decision. The same test applies to」（https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026）
+  - 「of the paid plans, card required. Annual plans start at $47/month (Base), $147/month (Grow), and $297/month (Expand). A/B testing on the first page unlocks on the Grow plan, and white-label branding controls sit on higher tiers. A custom Scale plan handles larger agencies with more workspaces and live funnels. There is also a」（https://www.perspective.co/article/white-label-marketing-software）
+- 日本対応：
+  - 「Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.」（https://www.salesforge.ai/blog/white-label-software）
+- 検索結果の抜粋：
+  - 「Tripo AI launches new Text-to-CAD API for 3D model generation — Tripo AI launches new Text-to-CAD API for 3D model generation 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/）
 
 ## 製造原価計算（Should costing）（manufacturing should costing software）
 - 文脈：製造業
@@ -915,155 +2382,6 @@
   - 「DFM Analysis in 2026: The Best Tools for Getting Instant ... — DFM Analysis in 2026: The Best Tools for Getting Instant ... Leo AI https://www.getleo.ai > blog > dfm-an...」（https://www.getleo.ai/blog/dfm-analysis-tools-instant-feedback-2026）
 - 日本対応：記載なし（読んだ40頁・検索8回）
 
-## 調達・発注先探索（supplier sourcing platform manufacturing）
-- 文脈：製造業
-- 提供企業：記載なし（読んだ40頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
-- 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
-
-## 品質管理（QMS）（quality management software manufacturing）
-- 文脈：製造業
-- 提供企業：
-  - 「"While many companies offer a software application to manage specific areas of a QMS I was looking for a "One Stop Shop" where I could manage all aspects of the quality system and utilize it to drive continuous improvement! Momentum QMS checked every box on the list (and then some)."」（https://www.momentumsystems.com.au/partner-program/）
-  - 「Scroll to top」（https://www.momentumsystems.com.au/partner-program/）
-  - 「Datacor’s market-leading ERP software empowers white label manufacturers to streamline operations, boost productivity, and improve performance. By seamlessly integrating with both the manufacturer’s and customer’s back-end systems, the ERP ensures a smoother, more collaborative relationship.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「The terminology is not always consistent across vendors, but three categories are useful when building a shortlist.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
-  - 「The following products are representative, not ranked. They include established QMS vendors identified in」（https://www.tradebeyond.com/industry-hub/quality-management-software）
-  - 「emphasizes mobile-first forms and offline data capture for distributed teams and remote operations. It brings field reporting, audits, compliance tracking, and quality workflows into a connected environment. The mobile and offline emphasis matters where quality evidence is collected without dependable desktop access or connectivity.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
-  - 「Bring vendors the process that currently depends on email, a spreadsheet, or one experienced employee. Ask them to show what happens when a supplier misses a deadline, an inspector loses connectivity, a specification changes after production begins, or a corrective action fails its effectiveness check.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
-  - 「Why spreadsheets stop scaling for enterprise quality teams」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
-  - 「then check that the loop actually closed, and supplier evaluation applies the same discipline upstream to the vendors whose components caused the issue in the first place.」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
-  - 「Ask a prospective vendor what validation documentation they supply against Part 11, and whether it is maintained through their release cycle or handed over once at implementation. That answer separates vendors more reliably than a feature list does.」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
-  - 「11 Questions to Ask QMS Software Vendors in the Medical Device Industry」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
-  - 「This page is your one-stop resource for understanding what’s changing, what’s at stake, and how to stay compliant.」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
-  - 「Top Guides」（https://www.greenlight.guru/blog/enterprise-quality-management-software）
-  - 「Compare QMS vendors, uncover compliance gaps, and choose the best solution.」（https://qt9software.com/qms/industry/manufacturing）
-  - 「Key questions to ask QMS software vendors」（https://qt9software.com/qms/industry/manufacturing）
-- 自社名で出せる条件：
-  - 「White-Label Program | Momentum Systems」（https://www.momentumsystems.com.au/partner-program/）
-  - 「HOW MOMENTUM IS DIFFERENT TO TRADITIONAL WHITE-LABEL SOLUTIONS」（https://www.momentumsystems.com.au/partner-program/）
-  - 「Let’s Build Your Own Branded eQMS」（https://www.momentumsystems.com.au/partner-program/）
-  - 「Ready to offer your own branded QMS?」（https://www.momentumsystems.com.au/partner-program/）
-  - 「How ERP Drives Growth and Trust in Private Label Manufacturing」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「Unlocking Growth: How ERP Software Empowers Private Label Manufacturers」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「Enterprise Resource Planning (ERP) software is a game-changer for private label manufacturers and their customers, strengthening collaboration and streamlining operations. These manufacturers handle production, packaging, and fulfillment, allowing their customers to focus on core strengths like marketing, product development, or retail.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「To win new business, private label manufacturers must make this transition as seamless and risk-free as possible. The right ERP system can help them build trust quickly, optimize processes, and differentiate themselves in a competitive market.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「Datacor’s market-leading ERP software empowers white label manufacturers to streamline operations, boost productivity, and improve performance. By seamlessly integrating with both the manufacturer’s and customer’s back-end systems, the ERP ensures a smoother, more collaborative relationship.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「Datacor’s ERP ensures every product is manufactured to the exact specifications and conditions agreed upon between the white label manufacturer and their customer.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「An ERP system can significantly improve operational effectiveness for both white label manufacturers and their clients by optimizing:」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「Beyond these operational benefits, an integrated ERP and customer portal create a competitive edge in the private label industry.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「“Providing clients with a portal into the white label manufacturing process strengthens collaboration,” Haley explains. “Customers gain instant access to the data they need, helping them make informed decisions and work more effectively with manufacturers.”」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「ERP software has become a critical tool for modern manufacturers, bridging the gap between suppliers and customers. By enabling real-time data sharing, improving transparency, and reducing friction in manufacturing partnerships, Datacor’s ERP helps businesses build trust and gain a competitive edge in the evolving white label industry.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「Documentation needed for regulatory compliance is automatically generated, tracked and stored through its lifecycle. Many QMS software solutions have embedded processes for meeting strict regulatory standards.」（https://qt9software.com/qms/industry/manufacturing）
-- 再販制度：
-  - 「Partner Program」（https://www.momentumsystems.com.au/partner-program/）
-  - 「PARTNER PROGRAM」（https://www.momentumsystems.com.au/partner-program/）
-  - 「Ideal For Consulting Practices Serving A Variety Of Sectors」（https://www.momentumsystems.com.au/partner-program/）
-  - 「Channel Partners」（https://www.datacor.com/resources/erp-private-label-manufacturing）
-  - 「as well as ERP-integrated and inspection-focused options. Their scope, industry emphasis, and implementation models vary, so they should not be treated as direct substitutes.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
-  - 「Advantage in margin: Take control of your margins with connected, intelligent workflows.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
-  - 「There are too many QMS software solutions on the market to list them all, but we've chosen what we believe are 10 of the best QMS solutions for a variety of different needs. As you'll see, there are pros and cons to every option, even Greenlight Guru, so it's important to continue doing research once you believe you've found the right option for your organization.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
-  - 「Customizable for a wide variety of industries」（https://www.greenlight.guru/blog/best-qms-software-solutions）
-  - 「ALM functionality, variant and branch management, concurrent licensing」（https://www.greenlight.guru/blog/best-qms-software-solutions）
-  - 「An industry-agnostic approach means MasterControl's QMS software is customizable to fit the needs of a wide variety of industries.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
-  - 「ETQ is a provider of a modular QMS platform called ETQ Reliance, which is used across various industries, including manufacturing, life sciences, and food and beverage. The system offers capabilities in managing compliance, risk, and quality processes, with features like document control, audit management, and CAPA.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
-  - 「Basic document management functionality can work for a variety of industries, like cannabis or pharmaceutical.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
-  - 「Handles variant and branch management for requirements hierarchies.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
-  - 「Partner program」（https://mitti.com/apps/quality-control-software-for-manufacturing）
-  - 「UniPoint offers industry-specific Quality Management Systems (QMS) seamlessly integrated with ERP solutions. The platform can cater to various industries, including manufacturing, chemical, food & beverage, automotive, and medical. With comprehensive features, UniPoint empowers businesses to streamline and automate quality control processes effectively.」（https://mitti.com/apps/quality-control-software-for-manufacturing）
-- 黒字・収益性：
-  - 「engineers strategic management systems that empower businesses to secure a distinct competitive advantage, enhance profitability, and achieve sustainable growth. They focus on demystifying complex requirements and delivering bespoke, efficient solutions, enabling clients to mitigate risks, optimize performance, and confidently expand their market presence.」（https://www.momentumsystems.com.au/partner-program/）
-  - 「ComplianceQuest is a cloud-based quality control software that helps organizations manage and streamline manufacturing quality processes. Its intelligent data-driven platform has integrated processes to mitigate risks, protect employees, suppliers, and brand reputation, and increase innovation, compliance, profit, and customer loyalty.」（https://mitti.com/apps/quality-control-software-for-manufacturing）
-  - 「Drive continuous quality improvements and better, safer products with Propel for happier customers and higher profits.」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
-- 売上：
-  - 「Risk management is handled as a flat table and cannot carry multiple frameworks in parallel. A team running ISO 14971, FMEA, and cybersecurity risk at the same time will end up maintaining duplicate matrices.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
-  - 「Recorded in the RevenueBase company graph · Sep 29, 2026 ·」（https://revenuebase.ai/companies/quality-management-software-companies-for-manufacturing/united-states）
-  - 「The RevenueBase company graph: 60 million companies and 398.9 million professional contacts resolved from primary sources, queried with RevenueBase SmartSearch, the natural-language company search available to every RevenueBase user.」（https://revenuebase.ai/companies/quality-management-software-companies-for-manufacturing/united-states）
-  - 「RevenueBase's August 25, 2026 study assessed 4,198 description/company pairs across matching settings. The publisher reports 86% good or better at Exact. This evaluates the method across queries; it does not audit this individual list. Recorded company descriptions, where available, help you judge each match yourself.」（https://revenuebase.ai/companies/quality-management-software-companies-for-manufacturing/united-states）
-  - 「unified CRM, PLM, and QMS on a single platform and drove a 25% increase in revenue while headcount decreased 20%.」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
-  - 「achieved a 74% reduction in time to market and a 35% increase in revenue.」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
-  - 「on Salesforce means the data model, workflows, and integrations can be extended as the business evolves. Customers like Breg achieved 186% ROI in 13 months after switching to Propel, and MSA Safety drove a 25% revenue increase while reducing headcount by 20%. For high-growth companies, the platform's configurability eliminates the ceiling that legacy QMS tools typically impose.」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
-- 価格：
-  - 「Premium plan $24/seat/month (with free trial period)」（https://mitti.com/apps/quality-control-software-for-manufacturing）
-  - 「Starts at $30/month」（https://mitti.com/apps/quality-control-software-for-manufacturing）
-  - 「The Starter plan starts at $79/month, billed annually (with a free 14-day trial period)」（https://mitti.com/apps/quality-control-software-for-manufacturing）
-  - 「$24/user/month*」（https://mitti.com/apps/quality-control-software-for-manufacturing）
-  - 「$30/month」（https://mitti.com/apps/quality-control-software-for-manufacturing）
-  - 「$79/month*」（https://mitti.com/apps/quality-control-software-for-manufacturing）
-  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/manufacturing-quality-management-software/）
-- 検索結果の抜粋：
-  - 「Quality Management Software : 10 QMS Platforms to Know — Quality Management Software : 10 QMS Platforms to Know TradeBeyond https://www.tradebeyond.com > quali...」（https://www.tradebeyond.com/industry-hub/quality-management-software）
-  - 「Best QMS Software for Manufacturing 2026 - Workerbase — Best QMS Software for Manufacturing 2026 - Workerbase Workerbase https://www.workerbase.com > blog」（https://www.workerbase.com/en/blog/best-qms-manufacturing-2026）
-  - 「10 best QMS software solutions for 2026 - Greenlight Guru — 10 best QMS software solutions for 2026 - Greenlight Guru Greenlight Guru https://www.greenlight.guru > blog」（https://www.greenlight.guru/blog/best-qms-software-solutions）
-  - 「Best Customizable QMS Software in 2026 — Best Customizable QMS Software in 2026 Propel Software https://converged.propelsoftware.com > ...」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
-- 日本対応：記載なし（読んだ40頁・検索8回）
-
-## 外観検査AI（AI visual inspection software）
-- 文脈：製造業
-- 提供企業：
-  - 「Industry-Leading Accuracy」（https://averroes.ai/）
-  - 「Managed Service Providers」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
-  - 「Pricing varies significantly by platform, number of users, and feature tier. Most vendors in this category offer per-user or per-asset pricing, with enterprise contracts negotiated separately. Request a formal quote based on your actual user count and asset volume rather than relying on published pricing, which often reflects entry-level tiers.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
-  - 「Alternatives & Best-Of」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
-  - 「Top 25 AI visual inspection software companies based in the United States」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
-  - 「Top 25 AI visual inspection software」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
-  - 「Cognex Corporation tops the displayed preview by professional contacts tracked in RevenueBase. Recorded headquarters appear in the company rows.」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
-  - 「We combine the profound tech expertise and strong R&D practices to deliver top-notch blockchain and business automation services and solutions to the global market.」（https://aetsoft.net/products/ai-visual-inspection/）
-  - 「Top-notch blockchain frameworks and technologies — everything we’ve learned developing custom solutions across multiple blockchains and protocols is at your disposal.」（https://aetsoft.net/products/ai-visual-inspection/）
-  - 「Stop non-conforming units with real time processing.」（https://aetsoft.net/products/ai-visual-inspection/）
-  - 「Top AI Visual Inspection Development Companies in Canada – Talky Techs」（https://talkytech.business.blog/2026/06/24/ai-visual-inspection-development-companies-in-canada/）
-  - 「Top AI Visual Inspection Development Companies in Canada」（https://talkytech.business.blog/2026/06/24/ai-visual-inspection-development-companies-in-canada/）
-  - 「In this guide, we’ll look at the top companies, what they offer, how to compare them, and how to choose the right」（https://talkytech.business.blog/2026/06/24/ai-visual-inspection-development-companies-in-canada/）
-- 自社名で出せる条件：
-  - 「@ Semiconductor OEM」（https://averroes.ai/）
-  - 「a White-label NFT solution for trading NFTs, the world’s first Digital Health Passport protecting firms and whole countries from COVID-19, and more!」（https://aetsoft.net/products/ai-visual-inspection/）
-  - 「White-label STO Platform」（https://aetsoft.net/products/ai-visual-inspection/）
-  - 「White-label Crowdfunding Platform」（https://aetsoft.net/products/ai-visual-inspection/）
-  - 「White-label NFT Platform」（https://aetsoft.net/products/ai-visual-inspection/）
-- 再販制度：
-  - 「Find a reseller or join our partner program.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
-  - 「Most platforms in this category offer some level of offline functionality, but the depth varies. Some queue form submissions and sync when connectivity is restored. Others limit offline use to viewing previously downloaded records. Ask each vendor to demonstrate offline behavior specifically, including what happens to photos and form data captured offline.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
-  - 「Pricing varies significantly by platform, number of users, and feature tier. Most vendors in this category offer per-user or per-asset pricing, with enterprise contracts negotiated separately. Request a formal quote based on your actual user count and asset volume rather than relying on published pricing, which often reflects entry-level tiers.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
-  - 「Models are trained on your production data and calibrated to acceptable tolerance levels. By correlating multiple data sources and refining thresholds over time, the system distinguishes normal process variation from true defects more reliably.」（https://aetsoft.net/products/ai-visual-inspection/）
-  - 「Instead of forcing a ready-made tool into your workflow, Prismetric can build a solution that matches your products, camera setup, defect types, and reporting needs. That makes it useful for businesses dealing with unique inspection challenges, such as surface cracks, wrong assembly, label errors, missing components, packaging damage, or product size variation.」（https://talkytech.business.blog/2026/06/24/ai-visual-inspection-development-companies-in-canada/）
-- 黒字・収益性：
-  - 「Business & Nonprofit」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
-  - 「Non-Profit」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
-- 売上：
-  - 「This list covers company matches for AI visual inspection software companies associated with the United States, found by RevenueBase SmartSearch using the meaning of business descriptions in its company graph at Exact. Ranked by professionals tracked, largest first. Rows show recorded descriptions where available, Exact search membership and the snapshot date. Data refreshed October 19, 2026.」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
-  - 「Recorded in the RevenueBase company graph · Oct 19, 2026 ·」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
-  - 「The RevenueBase company graph: 60 million companies and 398.9 million professional contacts resolved from primary sources, queried with RevenueBase SmartSearch, the natural-language company search available to every RevenueBase user.」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
-  - 「RevenueBase's August 25, 2026 study assessed 4,198 description/company pairs across matching settings. The publisher reports 86% good or better at Exact. This evaluates the method across queries; it does not audit this individual list. Recorded company descriptions, where available, help you judge each match yourself.」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
-- 検索結果の抜粋：
-  - 「AI Visual Inspection Software | 99%+ Accuracy — AI Visual Inspection Software | 99%+ Accuracy Averroes AI https://averroes.ai」（https://averroes.ai/）
-  - 「9 Best AI Visual Inspection Software of 2026 - Asset Panda — 9 Best AI Visual Inspection Software of 2026 - Asset Panda Asset Panda https://www.assetpanda.com > compare」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
-  - 「Top 25 AI visual inspection software companies based in the ... — Top 25 AI visual inspection software companies based in the ... RevenueBase https://revenuebase.ai > united-states」（https://revenuebase.ai/companies/ai-visual-inspection-software-companies/united-states）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
-
-## デジタルツイン基盤（digital twin platform manufacturing）
-- 文脈：製造業
-- 提供企業：
-  - 「The technology sits on top of your operational systems—sensors, PLCs, reality capture equipment, and maintenance platforms. It pulls data from 3D scans, BIM models, and IoT devices to create a unified view of your facility.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
-  - 「Not every feature vendors highlight actually drives value for factory operations. Focus your evaluation on capabilities that directly address your defined use cases.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
-  - 「How to Evaluate Digital Twin Vendors for Factory Use Cases」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
-  - 「Watch for vendors who emphasize visualization over data management. A beautiful 3D model that you cannot update, measure, or integrate delivers no operational value.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
-  - 「Question extended implementation timelines. If the vendor promises value in years rather than weeks, the complexity may never pay off. Platforms like Cintoo are designed for rapid deployment, letting you upload, process, and collaborate on scan data within days of capture.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
-  - 「Support for IFC (Industry Foundation Classes) ensures your digital twin can exchange building information with design tools regardless of vendor. Direct integration with platforms like Revit, Navisworks, and AutoCAD simplifies workflows.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
-  - 「Smaller facilities can achieve meaningful ROI with focused implementations. Start with your highest-value pain point—perhaps a congested production area or frequently reconfigured cell. Cloud-based platforms like Cintoo remove the capital investment in specialized hardware that previously limited digital twin adoption to large enterprises.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
-- 再販制度：
-  - 「Implementation timelines vary based on scope and complexity. Focused pilots on single production lines can deliver value within weeks. Plant-wide deployments typically require phased approaches spanning months. Cintoo's cloud platform accelerates initial deployment by handling scan data processing and hosting without complex infrastructure setup.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
-- 売上：
-  - 「Look for technologies that convert raw scan data into manageable formats. Cintoo's patented TurboMesh technology transforms complex 3D mesh datasets into lightweight files that teams can stream and collaborate on through standard web browsers—removing the hardware barriers that often stall adoption.」（https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
-
 ## 製造業向けAIエージェント（AI agents for manufacturing）
 - 文脈：製造業
 - 提供企業：
@@ -1114,6 +2432,16 @@
 - 価格：記載なし（読んだ40頁・検索8回）
 - 日本対応：記載なし（読んだ40頁・検索8回）
 
+## 製造業向けWeb集客・問い合わせ（lead generation software for manufacturers）
+- 文脈：製造業
+- 提供企業：記載なし（読んだ38頁・検索8回）
+- 自社名で出せる条件：記載なし（読んだ38頁・検索8回）
+- 再販制度：記載なし（読んだ38頁・検索8回）
+- 黒字・収益性：記載なし（読んだ38頁・検索8回）
+- 売上：記載なし（読んだ38頁・検索8回）
+- 価格：記載なし（読んだ38頁・検索8回）
+- 日本対応：記載なし（読んだ38頁・検索8回）
+
 ## 製造業向け採用サイト・求人（recruiting software for manufacturing companies）
 - 文脈：製造業
 - 提供企業：
@@ -1158,12 +2486,24 @@
   - 「Mid-market platforms run from a few thousand to tens of thousands of dollars annually. Enterprise platforms — Papirfly, Phenom, Symphony Talent, Beamery — use custom pricing, with annual agreements typically ranging from $25,000 to well over $100,000 depending on scale.」（https://www.papirfly.com/blog/employer-branding/best-employer-branding-software/）
 - 日本対応：記載なし（読んだ40頁・検索8回）
 
-## 製造業向けWeb集客・問い合わせ（lead generation software for manufacturers）
+## 調達・発注先探索（supplier sourcing platform manufacturing）
 - 文脈：製造業
-- 提供企業：記載なし（読んだ38頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ38頁・検索8回）
-- 再販制度：記載なし（読んだ38頁・検索8回）
-- 黒字・収益性：記載なし（読んだ38頁・検索8回）
-- 売上：記載なし（読んだ38頁・検索8回）
-- 価格：記載なし（読んだ38頁・検索8回）
-- 日本対応：記載なし（読んだ38頁・検索8回）
+- 提供企業：記載なし（読んだ40頁・検索8回）
+- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
+- 再販制度：記載なし（読んだ40頁・検索8回）
+- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 売上：記載なし（読んだ40頁・検索8回）
+- 価格：記載なし（読んだ40頁・検索8回）
+- 日本対応：記載なし（読んだ40頁・検索8回）
+
+## 金属AM品質監視（metal additive manufacturing process monitoring software）
+- 文脈：wl-A AM
+- 自社名で出せる条件：
+  - 「3D printer-specific melt pool monitoring systems: Some 3D printer OEMs provide」（https://chainreaction.anl.gov/optical-in-situ-monitoring-for-metal-additive-manufacturing/）
+  - 「monitoring systems, though these systems are cost prohibitive and inconvenient for customers often times interested in OEM-agnostic quality control systems.」（https://chainreaction.anl.gov/optical-in-situ-monitoring-for-metal-additive-manufacturing/）
+- 提供企業：記載なし（読んだ39頁・検索8回）
+- 再販制度：記載なし（読んだ39頁・検索8回）
+- 黒字・収益性：記載なし（読んだ39頁・検索8回）
+- 売上：記載なし（読んだ39頁・検索8回）
+- 価格：記載なし（読んだ39頁・検索8回）
+- 日本対応：記載なし（読んだ39頁・検索8回）

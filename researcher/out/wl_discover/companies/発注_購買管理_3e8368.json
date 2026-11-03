@@ -1,0 +1,929 @@
+{
+ "name": "発注・購買管理",
+ "en": "purchasing and procurement software for SMB",
+ "aliases": [
+  "purchase order software",
+  "procure to pay SaaS",
+  "発注管理システム"
+ ],
+ "context": "受発注",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:05:36.190553+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Onboard, evaluate, and manage vendors",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Quickbooks Desktop",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing top Control & Power Systems' journey with Tradogram",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Can the platform stop or route a purchase before someone agrees to pay for it, or does it only document what already happened?",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time budget tracking checks requests and approved orders against the relevant budget, so a budget owner sees the commitment when it's created rather than when it's invoiced. This is the specific gap described at the top of this article, and it's the capability most worth testing during a demo.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Native connections cover QuickBooks Online, QuickBooks Desktop, Xero, NetSuite, Sage, and Dynamics 365 Business Central. Reed's finance director put the before state plainly: \"Before Tradogram, we were reconciling purchase orders and invoices manually across spreadsheets.\"",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "QuickBooks Online, QuickBooks Desktop, Xero, NetSuite, Sage, Oracle, SAP, Dynamics 365 Business Central, and more.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "A 30-day money-back guarantee applies even after onboarding and training. Few vendors in this category offer that, and it's a reasonable thing to hold them to.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "QuickBooks Online, QuickBooks Desktop and Enterprise, Xero, Sage Intacct, NetSuite, Microsoft Dynamics 365 Business Central, Bill.com, and Slack notifications. SOC 2 compliant.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "The platform is built for organizations with roughly 100 to 1,000 employees. A 25-person company can buy it, but will likely pay for governance depth it doesn't need yet, and reviewers note that customization and flexibility are areas where competitors do better.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Where Xero stops, connected tools continue, including the",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Analysts consistently place Coupa at the higher end of the market with meaningful implementation, integration, and training costs on top of subscription. Reviewers also cite a steep learning curve and complex systems integration.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Transaction-level and SKU-level pre-approvals stop out-of-policy spending before it happens, and vendor-specific, budget-controlled virtual cards handle the payment side.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Get the cost at your current size and at roughly double it. Some vendors index pricing to transaction volume or managed spend rather than seats, which changes the math considerably.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "All topics",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Small Business Purchasing Software of 2026",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Editor’s top 3 picks",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors set the topic, but our editors set the inclusion criteria and the evaluation framework before research starts.",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Procurement Process Software of 2026",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Purchasing Approval Software of 2026",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Small Business Warehouse Inventory Software of 2026",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Small Business Call Center Software of 2026",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Several of the vendors assessed here shared the cost of this study, so no single vendor paid for it. Their only input was proposing which market to study.",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Editors alone decided which vendors were included, which criteria applied and how they were weighted, and what the findings are. Every vendor in scope, funder or not, was offered the same check on facts about its own products.",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Back to top pick ↑",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "For software vendors",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Popular Topics",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Topics",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Small Business Procurement Software of 2026",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Ranked top 10 small business procurement software with tradeoffs for spend control and sourcing, including Spendesk, Ramp, and Precoro.",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors set the topic, but our editors set the inclusion criteria and the evaluation framework before research starts.",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Editor’s top 3 picks",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "For usage situations, Spendesk works well when procurement activity is distributed across departments and staff need quick purchasing with guardrails for budgets, vendors, and allowable categories.",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Request purchases from approved vendors",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Spend controls restrict categories and vendors, pushing most purchases through tracked workflows.",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Bellwether connects supplier onboarding status directly to purchasing so approvals can block vendors that are not provisioned.",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "API and integration surface are not as transparent as in top-ranked tools",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "After evaluating 10 small business procurement software, Spendesk stands out as our overall top pick — it scored highest across our combined criteria of features, ease of use, and value, which is why it sits at #1 in the rankings above.",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Top Pick",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Small business procurement software manages procurement workflows such as purchase requisition to purchase order handoffs and approval routing for buying requests. It also supports supplier onboarding and supplier directory or vendor master creation so procurement can standardize which vendors receive purchase commitments.",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Bellwether connects supplier onboarding status directly to purchasing so approvals can block vendors that are not provisioned. Bellwether also routes purchase requests through configurable approval rules tied to spend events.",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "If procurement approvals must block vendors until onboarding completes, Bellwether ties supplier onboarding status directly to purchasing. If the business only needs centralized supplier data without heavy compliance gating, Order.co and Tradogram concentrate on vendor master setup and supplier record consistency.",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Bellwether blocks purchasing from vendors that are not provisioned by linking supplier onboarding status to approval decisions. This supports tighter supplier data maintenance without relying on manual enforcement.",
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "All topics",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Small Business Procurement Software of 2026",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Editor’s top 3 picks",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors set the topic, but our editors set the inclusion criteria and the evaluation framework before research starts.",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Online Procurement Software of 2026",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Small Business Accounts Payable Software of 2026",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Small Business Human Resources Software of 2026",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Small Business Shipping Software of 2026",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Several of the vendors assessed here shared the cost of this study, so no single vendor paid for it. Their only input was proposing which market to study.",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Editors alone decided which vendors were included, which criteria applied and how they were weighted, and what the findings are. Every vendor in scope, funder or not, was offered the same check on facts about its own products.",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Back to top pick ↑",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "For software vendors",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Popular Topics",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Topics",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Rated",
+    "url": "https://procurementvms.com/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Most teams arrive at this point the same way. Purchasing worked fine with a shared spreadsheet and a few emails when there were 10 people and one office. Then came a second location, a third budget owner, a handful of new suppliers, and a finance lead who now has to explain a variance nobody predicted.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "2) Every plan also includes 1,000 single-use AI credits, after which additional credits are purchased as add-ons, so the AI features that anchor the current marketing carry a variable cost that isn't in the subscription price.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "ERP integration depth varies by target system and may require manual steps",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Receiving report granularity may not match teams needing detailed receiving variance workflows",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Unified traceability links approvals, vendor activity, and card-backed spending into one reporting view for variance and audit trails.",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "For small businesses, the value is traceable records that help managers quantify where spend originates and how approvals vary by team and vendor. Ramp also provides integrations with common accounting systems to reduce manual re-entry between procurement records and accounts payable processes.",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Teams enforce spending rules and record approvals against resulting purchases for clearer variance tracking.",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Approval routing flexibility matters when spending varies by amount, department, or project. If routing is rigid, you may end up with constant exceptions or bypasses.",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "If you need approvals to vary by department or amount, prioritize approval routing flexibility.",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Review margins when supplier costs change",
+    "url": "https://www.linenow.co/procurement-software",
+    "pass": 3
+   },
+   {
+    "quote": "Review margins and landed costs",
+    "url": "https://www.linenow.co/procurement-software",
+    "pass": 3
+   },
+   {
+    "quote": "The product is a strong fit for manufacturers, distributors, contractors, chemical and pharma businesses, logistics operators, and other organizations that source goods or services from multiple suppliers. It is particularly relevant when procurement still depends on email attachments and comparison spreadsheets.",
+    "url": "https://www.auravms.com/blogs/procurement-automation-software-smb-practical-options-2026",
+    "pass": 3
+   },
+   {
+    "quote": "varies based on company size, number of users, transaction volume, integrations, and implementation requirements.",
+    "url": "https://zapro.ai/procurement/best-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Most procurement software suppliers highlight AI capabilities, but the level of automation can vary by platform.",
+    "url": "https://zapro.ai/procurement/best-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Although actual costs vary by the needs and systems, Zapro AI, Precoro, and Procurify are some affordable options.",
+    "url": "https://zapro.ai/procurement/best-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://zapro.ai/procurement/best-procurement-software/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Non-profit",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofit pricing.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Procurify now describes itself as an agentic procurement platform covering intake-to-pay, meaning it picks up at the moment someone requests something and carries through POs, invoices, payments, and card spend. The company reports managing more than $100 billion in spend for mid-market organizations in healthcare, education, biotechnology, manufacturing, and nonprofits.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "small teams whose main need is purchase request approval and budget tracking, particularly grant-funded and nonprofit organizations that must prove spend control during an audit.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofit Procurement",
+    "url": "https://zapro.ai/procurement/best-procurement-software/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Most teams arrive at this point the same way. Purchasing worked fine with a shared spreadsheet and a few emails when there were 10 people and one office. Then came a second location, a third budget owner, a handful of new suppliers, and a finance lead who now has to explain a variance nobody predicted.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Premium is where the connected workflow arrives intact, and it's aimed at 20 or more users on a custom quote. Teams of eight who want the full workflow should get that number early in the conversation.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "2) Every plan also includes 1,000 single-use AI credits, after which additional credits are purchased as add-ons, so the AI features that anchor the current marketing carry a variable cost that isn't in the subscription price.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Procurify now describes itself as an agentic procurement platform covering intake-to-pay, meaning it picks up at the moment someone requests something and carries through POs, invoices, payments, and card spend. The company reports managing more than $100 billion in spend for mid-market organizations in healthcare, education, biotechnology, manufacturing, and nonprofits.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Free for businesses under $50,000 in annual revenue. Paid plans run roughly $20 to $275 per month depending on tier.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Practically, organizations with revenue above roughly $50 million and a dedicated procurement team are where the return case starts to hold.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Free under $50K revenue; paid from approximately $20/month",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Starts at $99 per month for 1 user.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $598 per month for 10 users. Purchasing & AP Automation starts at $1,020 per month. Enterprise is a custom quote.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 10 users, five workflows, and 50 cards per month, with no credit card required. You can model your approval process and see whether the shape works before spending anything.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Pipefy advertises a fixed-price offer for companies with 11 to 200 employees, with discounts it describes as up to 90% off standard packages, subject to conditions. If you're in that band, ask about it directly rather than accepting list pricing.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "The small business fit has weakened. Kissflow's pricing is positioned around enterprise low-code deployments, scaling on user count, functionality, and transaction volume, and third-party listings describe entry configurations sized around 100 users. A 30-person company will likely find the procurement software capable, but will soon realize that the commercial model was built for someone else.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Basic starts at $415 per month for up to 10 users.",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. LineNow is built for owners and managers who place supplier orders themselves, without a procurement department. The core plan is $100/month per business unit with a 90-day free trial and no credit card.",
+    "url": "https://www.linenow.co/procurement-software",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. The core plan has a 90-day free trial with no credit card required. Optional add-ons have separate pricing and trial terms. Use the trial to test one supplier order through receiving with your buyer and daily operator.",
+    "url": "https://www.linenow.co/procurement-software",
+    "pass": 3
+   },
+   {
+    "quote": "The core plan is $100/month per active business unit after the 90-day trial. It includes unlimited items, suppliers, and users. Optional add-ons have separate prices and terms.",
+    "url": "https://www.linenow.co/procurement-software",
+    "pass": 3
+   },
+   {
+    "quote": "Every product is looked at against the same criteria: fit, ease of use, implementation effort, value, AI depth, support and integration. We draw on public review platforms such as G2 and Capterra, vendor documentation and pricing pages, and each page names its sources and shows when it was last updated.",
+    "url": "https://procurementvms.com/",
+    "pass": 3
+   },
+   {
+    "quote": "and supplier quote comparison, AuraVMS is the most direct option in this list. Suppliers can respond without creating an account, buyers can compare quotations side by side, prices receive automatic L1, L2, and L3 ranking, and the workflow supports anonymous bidding and purchase orders. AuraVMS starts at $5/month.",
+    "url": "https://www.auravms.com/blogs/procurement-automation-software-smb-practical-options-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AuraVMS starts at $5/month.",
+    "url": "https://www.auravms.com/blogs/procurement-automation-software-smb-practical-options-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ClickUp currently lists Free Forever, Unlimited at $7 per user per month billed yearly, Business at $12 per user per month billed yearly, and Enterprise by quote. The same page lists monthly rates of $10 for Unlimited and $19 for Business.",
+    "url": "https://www.auravms.com/blogs/procurement-automation-software-smb-practical-options-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Sumtracker’s current pricing page lists Manage from $59 per month billed monthly or $50 per month billed annually for up to 2,500 yearly sales orders. However, purchase orders are not included in Manage. The Replenish plan, which includes purchase orders, starts at $119 monthly or $100 per month billed annually at that order tier.",
+    "url": "https://www.auravms.com/blogs/procurement-automation-software-smb-practical-options-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$499/Month",
+    "url": "https://zapro.ai/procurement/best-procurement-software/",
+    "pass": 3
+   },
+   {
+    "quote": "We ranked the 30 best procurement platforms of 2026 on pricing, implementation speed, feature depth, and verified user ratings, from six-figure enterprise suites to same-week SMB rollouts, so you can shortlist the best procurement platform for your team without reading ten recycled lists first.",
+    "url": "https://procurementvms.com/procurement/best-procurement-software.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zapro, AI-powered automation, transparent pricing, 4.7/5 on G2.",
+    "url": "https://procurementvms.com/procurement/best-procurement-software.html",
+    "pass": 3
+   },
+   {
+    "quote": "(published pricing versus a mandatory sales call to get a number). Pricing figures are ranges compiled from public vendor pages and third-party pricing databases current as of August 2026, confirm exact numbers with each vendor before budgeting.",
+    "url": "https://procurementvms.com/procurement/best-procurement-software.html",
+    "pass": 3
+   },
+   {
+    "quote": "Transparent, published pricing from $699/month",
+    "url": "https://procurementvms.com/procurement/best-procurement-software.html",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise suites such as SAP Ariba, Coupa, and GEP SMART typically run from $80,000 to over $500,000 per year including implementation. Mid-market and SMB platforms such as Zapro and Precoro start in the hundreds of dollars per month, with paid tiers scaling into the low tens of thousands per year.",
+    "url": "https://procurementvms.com/procurement/best-procurement-software.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zapro pairs AI-powered purchase order automation, three-way invoice matching, and vendor management in one platform, with transparent pricing starting around $699 per month and a G2 rating of 4.7 out of 5. Reviewers cite ease of use and fast deployment as the reasons it earns a top-two spot on this list.",
+    "url": "https://procurementvms.com/procurement/best-procurement-software.html",
+    "pass": 3
+   },
+   {
+    "quote": "Procurement VMS Editorial Team. Sources: vendor pricing pages, G2, Capterra, Gartner Peer Insights. Last fact-checked August 2026. Related reading:",
+    "url": "https://procurementvms.com/procurement/best-procurement-software.html",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "GEP SMART is built cloud-native on a unified architecture with AI embedded throughout, and typically implements in 3 to 9 months versus 6 to 18 for Ariba, at meaningfully lower cost. For enterprises evaluating procurement software without a hard SAP dependency, it's a frequent competitive winner, often paired with GEP's managed-services team for full transformation programs.",
+    "url": "https://procurementvms.com/procurement/best-procurement-software.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unified architecture with embedded AI",
+    "url": "https://procurementvms.com/procurement/best-procurement-software.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "50",
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "quote": "Practically, organizations with revenue above roughly $50 million and a dedicated procurement team are where the return case starts to hold."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.zycus.com/blog/source-to-pay/procurement-software-for-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/procurement/comments/1f1oyhe/procurement_software_for_smallmed_sized_business/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ramp.com/blog/procurement-software-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bill.com/blog/best-procurement-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appinventiv.com/blog/enterprise-procurement-software-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.centerpointgroup.com/blog/how-to-pick-the-best-procurement-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wonnda.com/magazine/best-procurement-platforms/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softr.io/create/free-procurement-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elementum.ai/blog/best-procurement-software-for-automating-purchasing-processes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://artofprocurement.com/blog/procurement-software-providers-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/small-business-purchasing-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gitnux.org/best/small-business-procurement-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/small-business-procurement-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spendflo.com/blog/procurement-software-for-small-business-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linenow.co/procurement-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.procurementexpress.com/research-articles/best-procurement-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/procurement-software/s/small-businesses/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.auravms.com/blogs/best-procurement-software-smb-rfq-purchase-order-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://precoro.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://procurementvms.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/procurement-software/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workus.ai/ja/blog/best-procurement-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gitnux.org/best/purchasing-and-procurement-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/white-label-reseller-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elioplus.com/white-label/vendors/procurement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wifitalents.com/best/white-label-reseller-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://penny.co/reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://virima.com/blog/software-license-procurement-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siit.io/blog/best-procurement-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brex.com/spend-trends/procurement/procurement-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cobblestonesoftware.com/products/e-procurement-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kissflow.com/procurement/purchase-order/po-software-for-smbs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.auravms.com/blogs/procurement-automation-software-smb-practical-options-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zapro.ai/procurement/best-procurement-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://procurementvms.com/procurement/best-procurement-software.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/purchasing-software/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label purchasing and procurement software for SMB",
+   "results": [
+    "https://www.zycus.com/blog/source-to-pay/procurement-software-for-small-business",
+    "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "https://business.amazon.com/en/blog/procurement-software",
+    "https://www.reddit.com/r/procurement/comments/1f1oyhe/procurement_software_for_smallmed_sized_business/",
+    "https://ramp.com/blog/procurement-software-small-business",
+    "https://www.bill.com/blog/best-procurement-software",
+    "https://kissflow.com/procurement/purchase-order/po-software-for-smbs/",
+    "https://www.vndly.io/blog/best-purchase-order-software-small-business-2026",
+    "https://www.ivalua.com/blog/procurement-automation-software/",
+    "https://worldmetrics.org/best/white-label-business-software/"
+   ]
+  },
+  {
+   "query": "purchasing and procurement software for SMB white-label",
+   "results": [
+    "https://appinventiv.com/blog/enterprise-procurement-software-cost/",
+    "https://www.zycus.com/blog/source-to-pay/procurement-software-for-small-business",
+    "https://www.reddit.com/r/procurement/comments/1f1oyhe/procurement_software_for_smallmed_sized_business/",
+    "https://www.centerpointgroup.com/blog/how-to-pick-the-best-procurement-software",
+    "https://wonnda.com/magazine/best-procurement-platforms/",
+    "https://business.amazon.com/en/blog/procurement-software",
+    "https://www.softr.io/create/free-procurement-management-software",
+    "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "https://www.elementum.ai/blog/best-procurement-software-for-automating-purchasing-processes",
+    "https://worldmetrics.org/best/white-label-software/"
+   ]
+  },
+  {
+   "query": "best white label purchasing and procurement software for SMB providers",
+   "results": [
+    "https://www.centerpointgroup.com/blog/how-to-pick-the-best-procurement-software",
+    "https://www.zycus.com/blog/source-to-pay/procurement-software-for-small-business",
+    "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "https://www.reddit.com/r/procurement/comments/1f1oyhe/procurement_software_for_smallmed_sized_business/",
+    "https://ramp.com/blog/procurement-software-small-business",
+    "https://www.elementum.ai/blog/best-procurement-software-for-automating-purchasing-processes",
+    "https://artofprocurement.com/blog/procurement-software-providers-list",
+    "https://business.amazon.com/en/blog/procurement-software",
+    "https://www.bill.com/blog/best-procurement-software",
+    "https://worldmetrics.org/best/small-business-purchasing-software/"
+   ]
+  },
+  {
+   "query": "purchasing and procurement software for SMB rebrand your logo own brand",
+   "results": [
+    "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "https://business.amazon.com/en/blog/procurement-software",
+    "https://www.reddit.com/r/procurement/comments/1f1oyhe/procurement_software_for_smallmed_sized_business/",
+    "https://www.bill.com/blog/best-procurement-software",
+    "https://www.zycus.com/blog/source-to-pay/procurement-software-for-small-business",
+    "https://www.linenow.co/procurement-software",
+    "https://ramp.com/blog/procurement-software-small-business",
+    "https://artofprocurement.com/blog/procurement-software-providers-list",
+    "https://www.procurementexpress.com/research-articles/best-procurement-software/",
+    "https://suitedash.com/white-label-business-software/"
+   ]
+  },
+  {
+   "query": "purchasing and procurement software for SMB private label OEM partner",
+   "results": [
+    "https://wonnda.com/magazine/best-procurement-platforms/",
+    "https://www.centerpointgroup.com/blog/how-to-pick-the-best-procurement-software",
+    "https://artofprocurement.com/blog/procurement-software-providers-list",
+    "https://precoro.com/",
+    "https://www.elementum.ai/blog/best-procurement-software-for-automating-purchasing-processes",
+    "https://business.amazon.com/en/blog/procurement-software",
+    "https://www.zycus.com/blog/source-to-pay/procurement-software-for-small-business",
+    "https://www.youtube.com/watch?v=RWfFNTDxeXs",
+    "https://ramp.com/blog/procurement-software-small-business",
+    "https://procurementvms.com/"
+   ]
+  },
+  {
+   "query": "purchasing and procurement software for SMB reseller white label program",
+   "results": [
+    "https://appinventiv.com/blog/enterprise-procurement-software-cost/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.centerpointgroup.com/blog/how-to-pick-the-best-procurement-software",
+    "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "https://www.bill.com/blog/best-procurement-software",
+    "https://business.amazon.com/en/blog/procurement-software",
+    "https://www.elementum.ai/blog/best-procurement-software-for-automating-purchasing-processes",
+    "https://ramp.com/blog/procurement-software-small-business",
+    "https://worldmetrics.org/best/white-label-reseller-software/"
+   ]
+  },
+  {
+   "query": "purchasing and procurement software for SMB embed SDK license OEM",
+   "results": [
+    "https://virima.com/blog/software-license-procurement-process",
+    "https://www.siit.io/blog/best-procurement-software",
+    "https://www.elementum.ai/blog/best-procurement-software-for-automating-purchasing-processes",
+    "https://www.centerpointgroup.com/blog/how-to-pick-the-best-procurement-software",
+    "https://business.amazon.com/en/blog/procurement-software",
+    "https://www.brex.com/spend-trends/procurement/procurement-software",
+    "https://www.cobblestonesoftware.com/products/e-procurement-software",
+    "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "https://kissflow.com/procurement/purchase-order/po-software-for-smbs/",
+    "https://www.capterra.com/procurement-software/"
+   ]
+  },
+  {
+   "query": "purchasing and procurement software for SMB white label company profitable",
+   "results": [
+    "https://appinventiv.com/blog/enterprise-procurement-software-cost/",
+    "https://www.centerpointgroup.com/blog/how-to-pick-the-best-procurement-software",
+    "https://www.reddit.com/r/procurement/comments/1f1oyhe/procurement_software_for_smallmed_sized_business/",
+    "https://business.amazon.com/en/blog/procurement-software",
+    "https://www.tradogram.com/blog/12-best-purchasing-software-for-small-mid-size-companies",
+    "https://www.elementum.ai/blog/best-procurement-software-for-automating-purchasing-processes",
+    "https://www.zycus.com/blog/source-to-pay/procurement-software-for-small-business",
+    "https://www.bill.com/blog/best-procurement-software",
+    "https://ramp.com/blog/procurement-software-small-business",
+    "https://www.capterra.com/procurement-software/"
+   ]
+  }
+ ],
+ "missing": {
+  "日本対応": "記載なし（読んだ39頁・検索8回）"
+ }
+}
