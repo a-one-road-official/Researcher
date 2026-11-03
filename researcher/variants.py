@@ -78,3 +78,17 @@ def name_hits(text: str, name: str, aliases: list[str] | None = None) -> bool:
         if len(k) >= 2 and k in t:
             return True
     return False
+
+
+def phrase_hits(text: str, name: str, aliases: list[str] | None = None) -> bool:
+    """Market items: True if any name/alias appears, or if every word of a multi-word
+    alias (split on spaces) appears somewhere in the text. Aliases like
+    '金属製品製造業 事業所数 規模別' are search phrases, not contiguous strings."""
+    if name_hits(text, name, aliases):
+        return True
+    t = to_half(text or "").lower()
+    for a in [name] + list(aliases or []):
+        words = [w for w in re.split(r"[\s　]+", to_half(a or "").lower()) if len(w) >= 2]
+        if len(words) >= 2 and all(w in t for w in words):
+            return True
+    return False

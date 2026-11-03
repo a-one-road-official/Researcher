@@ -194,14 +194,14 @@ def research_market(c: dict, topic: dict) -> dict:
             taken += 1
             rec["checked"]["pass3"].append({"url": page["final_url"], "status": page["status"], "method": page.get("method", "")})
             text = page.get("title", "") + " " + page.get("text", "")
-            if not page.get("text") or not variants.name_hits(text, c["name"], names[1:]):
+            if not page.get("text") or not variants.phrase_hits(text, c["name"], names[1:]):
                 continue
             ev = extract.evidence(page, cats, 3, per_cat=lim.get("per_cat", 15))
             ev = {k: [i for i in v if k not in numeric or NUM_RE.search(i["quote"])] for k, v in ev.items()}
             extract.merge_into(rec["evidence"], {k: v for k, v in ev.items() if v})
         for r in results[:6]:
             snip = f"{r['title']} — {r['snippet']}"
-            if NUM_RE.search(snip) and variants.name_hits(snip, c["name"], names[1:]):
+            if NUM_RE.search(snip) and variants.phrase_hits(snip, c["name"], names[1:]):
                 extract.merge_into(rec["evidence"], {"検索結果の抜粋": [{"quote": snip[:400], "url": r["url"], "pass": 3}]})
     rec["figures"] = extract.figures(rec["evidence"], topic.get("figure_patterns", {}))
     for field in cats:

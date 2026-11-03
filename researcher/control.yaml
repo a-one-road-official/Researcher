@@ -25,7 +25,7 @@ topics:
   mfg_recruit_land: {run: true, shards: 6, per_run: 2}  # 2026-11-03 製造業向け採用支援の競合ランドスケープ（第1段：区分ごとのプレイヤー）。第2段で会社ごとに創業年度・株主構成・売上を三重確認
   onprem_ai_box: {run: true, shards: 7, per_run: 2}  # 2026-11-03 (地域別8件が空振り→短い別名を足して再実行) オンプレのAI端末（箱型・エアギャップLLM）を世界中から洗う（イスラエル含む）。価格・人数・更新方法・ホワイトラベル・日本保守・ISO等の認証
   mfg_hiring_seg: {run: true, shards: 8, per_run: 2}  # 2026-11-03 製造業の採用コストを規模（5区分）・職種・業種・地域に分けて取る（「中小製造業」で括らない）
-  biz3_market: {run: true, shards: 7, per_run: 2}  # 2026-11-03 3つの選択肢（Yomi／卓上金属AMを担ぐ／WLソフトを受託開発会社へ）の市場の前提：売り先の数・単価・取り分・補助金・競合
+  biz3_market: {run: true, shards: 7, per_run: 2}  # 2026-11-04 再実行（複数語の別名が一致しない不具合を修正） 2026-11-03 3つの選択肢（Yomi／卓上金属AMを担ぐ／WLソフトを受託開発会社へ）の市場の前提：売り先の数・単価・取り分・補助金・競合
   desktop_metal_makers: {run: true, shards: 4, per_run: 1}  # 2026-11-03 SnowXほか卓上金属AM 4社：価格・代理店条件・保守・ISO・創業年度・株主構成・売上
   design_arch_count: {run: true, shards: 3, per_run: 2}  # 2026-11-04 デザイン事務所・建築設計事務所の数（規模別・都道府県別・瀬戸内）
   trade_bench: {run: true, shards: 3, per_run: 1}  # 2026-11-04 商社の手本3社（マクニカ・ディッカー・データ・コーンズ）の始まり方・粗利・運転資金
