@@ -1,0 +1,2149 @@
+{
+ "name": "ホワイトラベルBIM・建築設計ソフト",
+ "en": "white label BIM software",
+ "aliases": [
+  "white-label architecture software",
+  "BIM",
+  "BIM software",
+  "architectural visualization",
+  "建築 BIM"
+ ],
+ "context": "建築",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:20:20.280160+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "BIM service providers in USA",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Model review, coordination, and construction planning",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Drawing review and documentation",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "is a BIM coordination and review software used to combine models from multiple disciplines. It plays a critical role in clash detection and construction planning.",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Coordination review tools",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "is a PDF-based collaboration and review software widely used in construction documentation workflows.",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Easy document review",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "What are alternatives to Revit?",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Alternatives to Revit include ArchiCAD, AutoCAD, Tekla Structures, and Bentley Systems. These tools offer various features for different aspects of BIM, such as design, coordination, and construction management",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "The difficulty of onboarding compared to the depth of technical power",
+    "url": "https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/",
+    "pass": 3
+   },
+   {
+    "quote": "Navisworks Manage vs. Autodesk Construction Cloud (ACC) Clash Workflow",
+    "url": "https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-Native BIM vs. Cloud-Enabled BIM: What Is the Difference?",
+    "url": "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The result is that a project that would take a design team days to block out at schematic stage — site-to-envelope to compliant floor plans can be produced in hours. This is not an AI assistant making suggestions. It is an AI stack doing the early-stage design work end-to-end, with the architect reviewing, editing, and directing at each stage.",
+    "url": "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Snaptrude is the best cloud BIM for small teams - it provides real-time multi-user collaboration, browser-based client review, and AI-assisted design with no infrastructure setup. ArchiCAD with BIMcloud is a good alternative for teams committed to ArchiCAD's workflow.",
+    "url": "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "— published to the CDE for review by other parties;",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IFC compliance, COBie delivery, BCF issue tracking — open vs. proprietary exchange",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "As-built gap closure: Buildots provides the continuous construction progress record that most projects lack — actual installation progress at element level, compared against the BIM model, without relying on subcontractor self-reporting",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ALICE applies operations research and AI to construction scheduling — generating, evaluating, and optimizing thousands of construction schedule scenarios against resource constraints, cost models, and milestone requirements. It ingests the BIM model's spatial sequence logic and produces optimized schedule alternatives that human schedulers would take weeks to generate manually.",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule scenario generation: ALICE generates thousands of schedule alternatives faster than a human scheduler can generate one — the value is not replacing the scheduler but expanding the solution space that schedulers evaluate",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI construction progress monitoring via hardhat cameras vs. BIM model comparison",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI construction schedule simulation — thousands of scenarios vs. human-generated CPM",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "PLM vs BIM: How They Differ and Where They Converge",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Thread vs Twin",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "PLM vs PDM",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "TD SYNNEX, DVSAnalytics & more",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Browse local IT providers, like MSPs, based on their partnerships and products they offer",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Browse our global Managed IT Service Providers directory",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "PRM Alternatives",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Find in the list below the best BIM solutions companies like resellers, IT providers, MSPs, consultants and other channel companies in United States. You can browse the companies based on their location or the products they offer.",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Browse programs by vendors and partner with Resellers, Managed Service Providers (MSPs) and System Integrators (SIs).",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Please complete the form below to sign up. Our team will review and reach out to you via email.",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "BIM Software Pricing Compared (2026): Per-Seat, Floating, Per-Project and No-Contract Plans",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Revit reviewers cite heavy hardware needs. Bentley's OpenBuildings Designer is Windows-only with a 16GB RAM minimum.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "G2 reviewers, across 937 Revit reviews, cite a six to twelve month learning curve. Unbilled ramp-up time is a real cost.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "BIM Software List: 10 Best BIM Programs Compared (2026)",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": ", arguing that Revit's development had slowed compared with the price they paid.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Notable features include design review,",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews and Ratings",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer reviews and ratings show how BIM software performs in real use. Look for strong satisfaction and feedback from other people in construction; they'll tell you about the strengths and the drawbacks before you find them yourself.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "clash avoidance vs clash detection",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "is a set of BCF-based tools for model coordination and issue management. It lets teams share and review BIM models, track issues and changes, and works with major BIM applications including Revit, Archicad and IFC models. BCF is one of the",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "(ACC) is Autodesk's cloud platform for design and construction and the successor to BIM 360. It covers document management, design review, coordination, issues and field work, with mobile apps for the site. Plannerly can",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "is BIM coordination software that lets architects, engineers and construction professionals combine and review models from different disciplines, run clash detection, and simulate the construction sequence. It's a daily tool for most",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Run the client's checks on your own models first, so the first time they see a gap isn't in their review.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "there are alternatives",
+    "url": "https://eiposgrados.com/eng/engineers-blog/free-bim-programs-or-low-cost-licenses/",
+    "pass": 3
+   },
+   {
+    "quote": "Translating BIM content is a meticulous process due to its technical nature. Achieving precision in terminology while adapting to cultural and contextual differences presents unique challenges. The Okana work is leveraging Sean’s dual expertise in BIM and language, combined with a robust review process, to ensure every module meets high standards of accuracy and relevance.",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "“The introduction of BIM in Japan is behind compared to other countries. The Japanese BIM market is still in the developing stage,” Mr Masanori Moriya says, adding: “Some believe this is due to unique Japanese business customs.”",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "The Current State of Technology and Under 35, as Seen by MIT Technology Review",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "We will have a full review of ArchiCAD 21 in the next edition of AEC Magazine.",
+    "url": "https://aecmag.com/features/graphisoft-big-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Constructability Review",
+    "url": "https://pinnacleinfotech.com/pinnacle-infotech-unveils-cutting-edge-bim-solutions-at-japan-build/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "PDF markups, quantity takeoffs, and construction collaboration",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "PDF markup and collaboration",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Is your BIM setup truly helping you deliver projects faster, with fewer risks and better margins?",
+    "url": "https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/",
+    "pass": 3
+   },
+   {
+    "quote": "View/markup only",
+    "url": "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Discover IT vendors & their partner programs and local channel partners",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "View the best IT partner programs in the market and browse their white label options",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Software",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Find in the list below the best BIM solutions companies like resellers, IT providers, MSPs, consultants and other channel companies in United States. You can browse the companies based on their location or the products they offer.",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "-Autodesk Gold Partner (Value Added Reseller) -Autodesk Authorized Training Center -Professional Engineers and Consultants",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Software Reseller based in Los Angeles. We sell VFX Software as well as Post Production & Video Hardware.",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "AEC Technologies is your local Autodesk and Bluebeam Value Reseller serving the Western United States with locations in California and Arizona. Our services include software procurement, training, consulting and implementation.",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "We have been in the software reseller business for over 20 years. In the past we owned the largest Autodesk dealership in the Northeast US. After selling that business we became the 2nd largest intergraph/Hexagon Cadworx dealer in the world.",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Sass Partner Programs by Vendors",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Browse programs by vendors and partner with Resellers, Managed Service Providers (MSPs) and System Integrators (SIs).",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "VIEW PARTNER PROGRAMS",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Bimdex Reseller Program | Partner with Us",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Reseller",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "BECOME A RESELLER",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "BIMDex is proud to partner with a global network of trusted resellers who help bring our innovative",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "BIMDex is proud to partner with a global network of trusted resellers who help bring our innovative BIM",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "RESELLER",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "WHY RESELLER",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "Why most of our resellers",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock lucrative margins and recurring revenue through subscriptions and enterprise licenses.",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "Earn incentives and bonuses as a high-performing reseller.",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "Be part of a community of 350+ resellers and implementation partners, sharing insights and growth",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "Access exclusive partner programs and events to expand your professional network.",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "FIND A RESELLER",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "Our Global Reseller Network",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "It also offers plenty of communication and collaboration features, such as format conversion, real-time markups and file sharing.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "tools for markup",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "is a construction collaboration platform for viewing and sharing 3D models and 2D drawings, with clash detection, markups, version control and issue tracking to improve coordination between project teams. See",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/",
+    "pass": 3
+   },
+   {
+    "quote": "14年以上の製造ノウハウを活かし、エンジニア、AVインテグレーター、代理店、ブランドオーナーがガラスをメディアに変えるお手伝いをします",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "建築家や建設会社、LEDディスプレイエンジニア、AVシステムインテグレーター、広告・デザイン代理店、プロジェクト開発者/請負業者、卸売・B2Bバイヤー、中小からハイエンドブランドまで幅広くサポートしています",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店＆ブランド",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "【宮城】中古物件の仕入れ営業／リフォーム企画・再販まで",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【埼玉】中古物件の仕入れ営業／リフォーム企画・再販まで",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【群馬】中古物件の仕入れ営業／リフォーム企画・再販まで",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【栃木】中古物件の仕入れ営業／リフォーム企画・再販まで",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【茨城】中古物件の仕入れ営業／リフォーム企画・再販まで",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【福岡】中古物件の仕入れ営業／リフォーム企画・再販まで",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【宮城】中古再販事業／営業職",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【埼玉】中古再販事業／営業職",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【群馬】中古再販事業／営業職",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【茨城】中古再販事業／営業職",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【栃木】中古再販事業／営業職",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "【福岡】中古再販事業／営業職",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/nihon-sekkei-and-autodesk-delivering-next-generation-bim-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Redline Markups",
+    "url": "https://pinnacleinfotech.com/pinnacle-infotech-unveils-cutting-edge-bim-solutions-at-japan-build/",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Industrial",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Which BIM software is best for industrial construction projects?",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Tekla Structures and Revit are popular choices for industrial construction. Tekla is favored for its detailed structural modeling of steel and reinforced concrete, while Revit supports comprehensive design, documentation, and coordination across architectural, structural, and MEP disciplines.",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "This tool connects design and fabrication thus reducing waste and improving the quality of construction especially in industrial and high-rise projects.",
+    "url": "https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/",
+    "pass": 3
+   },
+   {
+    "quote": "All of this is accessible on the free plan. The limitations are around team size and advanced construction documentation features. For design exploration, feasibility studies, and",
+    "url": "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "commercial buildings, infrastructure, industrial facilities, and residential development",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "BIM and Manufacturing/PLM Convergence for Industrial Facilities",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bentley's BIM portfolio (OpenBuildings for buildings, OpenRoads for transportation, OpenPlant for process plant, all on the MicroStation foundation) is the reference platform for infrastructure projects where buildings are a component of a larger engineered system — airports, hospitals, data centers, industrial facilities, and transportation infrastructure.",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Hiring pool is significantly smaller than Revit's globally — this is a real constraint for programs outside infrastructure and industrial engineering where Revit-trained talent is the default",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Infrastructure programs (airports, rail, highways) where BIM is part of a larger civil engineering environment; industrial facilities where the D-layer iTwin connection to operations is a design requirement; programs where asset information management from construction through thirty-year operations is the primary deliverable.",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Long-span steel structures, high-rise construction, prefabricated concrete building systems, industrial structures, stadium and arena programs.",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "BIM + PLM/EAM Convergence: The Industrial Facility Digital Twin Problem",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "For industrial owner-operators — semiconductor manufacturers, pharmaceutical companies, data center operators, oil and gas facilities — BIM's D layer connects directly to the manufacturing world's EAM-APM layer. This convergence is where most industrial facility digital twin programs either realize their potential or fail.",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "For buyer organizations evaluating BIM software for industrial facilities today: specify the D-layer requirements (which EAM system must the BIM model connect to, at what level of asset granularity, through what data model) as part of the BIM Execution Plan, not as a post-handover problem. The technology exists to make the connection. The governance design must happen at project start.",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Is this an industrial facility where BIM must connect to PLM and EAM? This requires explicit D-to-FIELD layer integration design at project start.",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "— the boundary question for industrial facility owners who need both disciplines",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "— PULSE framework · industrial connectivity, unified namespace, edge, historian",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "With over 20 years of experience, our experts work to connect, master and analyze industrial data.",
+    "url": "https://www.bimdex.com/reseller.php",
+    "pass": 3
+   },
+   {
+    "quote": "Monthly or free plans you can leave without penalty. Revit month-to-month, Snaptrude Individual and Finch3D Basic qualify.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "30-day free trial",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "30-day trial; subscriptions non-refundable",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Project caps appear on free tiers. Snaptrude's Free plan allows three projects, while Individual removes the cap. Speckle's Explore plan allows one project and up to three users, and its paid Custom Plans lift both limits.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "€79 per month with a 14-day trial, for one user.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Trials:",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "The Free plan costs $0 and includes three projects, basic BIM and Revit export, and a single user. Presentation outputs are limited, and there is no teams environment. Individual costs $60 per month and adds unlimited projects and unlimited presentation outputs.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise is custom-priced and billed annually. It adds unlimited licenses, SSO, SAML and MFA, open API access, premium support and directory sync. The pricing page offers no time-limited trial, so the Free plan is the entry point.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Solo architects and small studios usually do best with a free tier or a monthly plan. Test with Snaptrude Free, Speckle Explore or a vendor trial, then commit annually once the tool earns its place.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Start with free tiers and trials. Snaptrude Free offers three projects, Speckle Explore offers one, and BricsCAD BIM, Edificius and Trimble Connect offer 30 days. Finch3D Basic offers 14 days.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Then compare total cost: seat price, add-ons, hardware, training and renewal terms. Ask every vendor for written terms on transfers, trials and cancellation. Recheck every number here before you budget, because list prices move.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "You don't have permission to access \"http://www.autodesk.com/products/bim-collaborate/free-trial\" on this server.",
+    "url": "https://www.autodesk.com/products/bim-collaborate/free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "free plan",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "offers a free BIM viewer. Design tools such as Revit and Archicad are paid, though both offer free trials and education licences.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Anything from free to thousands a year. Authoring tools like Revit and Archicad are annual subscriptions per user; cloud platforms are usually priced per user or per project. Plannerly has a free plan, and Pro is priced per project with unlimited editors and guests joining free - see",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Write the BEP, agree who delivers what and check every model in Plannerly. The Free plan costs nothing, and the 14-day Pro trial includes model checking.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Set requirements your supply chain can deliver, then see every model checked against them. Start on the Free plan; the 14-day Pro trial includes model checking.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Give every subcontractor its scope and check what comes back. Start on the Free plan; the 14-day Pro trial includes model checking.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Plan your design team's deliverables and check models before you issue. Start on the Free plan; the 14-day Pro trial includes model checking.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Run the same BEP, scope and checks for every client. Start on the Free plan; the 14-day Pro trial includes model checking.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan · No card · Try Pro free for 14 days",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "FP (ICT / Industrial / Energy / Drafting)",
+    "url": "https://eiposgrados.com/eng/engineers-blog/free-bim-programs-or-low-cost-licenses/",
+    "pass": 3
+   },
+   {
+    "quote": "Free product trials",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk and the University of Florida open the most advanced robotics industrialized construction lab in the US to tackle housing and labor shortages",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/",
+    "pass": 3
+   },
+   {
+    "quote": "BIM is a broad technology, but initially, companies probably won't roll it out company-wide all at once. Instead, most will likely start with PoC-style trials by department or project, right?",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験セミナー",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションを購入するか、または30 日間の無料体験版をお試しください",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "Archicad 無料体験版",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "Archicadの無料体験版を開始するには、",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "Archicad無料体験版には何が含まれますか？",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "30日間無料体験版",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "ABKSSでは、Archicad無料体験セミナーを定期開催しています",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "Free product trials",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/nihon-sekkei-and-autodesk-delivering-next-generation-bim-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk and the University of Florida open the most advanced robotics industrialized construction lab in the US to tackle housing and labor shortages",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/nihon-sekkei-and-autodesk-delivering-next-generation-bim-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial meets rural",
+    "url": "https://aecmag.com/features/graphisoft-big-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://pinnacleinfotech.com/pinnacle-infotech-unveils-cutting-edge-bim-solutions-at-japan-build/",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "The difficulty of onboarding compared to the depth of technical power",
+    "url": "https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Onboarding",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Revizto is powerful and easy to use",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": ". Enter it here - it lasts a few minutes.",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑な作業を、もっと簡単に",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "Archicad を Enscape、Twinmotion、D5 などのビジュアライゼーションソフトと連携すれば、リアルタイムのフォトリアル表現や没入型のプレゼンを簡単に行えます",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコードで機能構成を構築可能",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "複数案の比較や修正が簡単",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "BIMで作成した3Dモデルは、BIMxというアプリで簡単に確認できます",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "メリット2：設計の変更点の確認や複数案・バリエーションの比較が簡単にできる",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "BIMでは、設計の変更が即時的に3Dモデルと図面で確認できるほか、複数案やバリエーションの比較も簡単にできます",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "また、3Dモデルの色や素材・テクスチャーの変更も簡単にでき、バリエーションの検討や比較がスムーズです",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "変更点の比較が簡単にできるため、合意形成が効率化します",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "MacOSでの動作もサポートされており、GRAPHISOFT社が開発したBIMモデルを簡単に共有できるアプリであるBIMx（ビムエックス）との連携もスムーズです",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "BIMxなどのアプリから簡単に3Dモデルを共有できるので、検討や確認に活用できます",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "BIMによる3Dモデルは、設計の変更点や複数案の比較、什器の配置などのシミュレーションが簡単にでき、検討が効率化する",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "導入することで面倒な構造納まり図や配筋詳細図を素早く作成でき、概算数量も簡単に計算できます",
+    "url": "https://www.japan-build.jp/hub/ja-jp/column/kdx/04.html",
+    "pass": 3
+   },
+   {
+    "quote": "②修正やデータ管理が簡単",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "コスト情報を活用して概算の工事費を簡単に見積もることができるため、後からの手戻りを防ぎ、プロジェクトの効率を向上させます",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "意匠設計を中心に行う設計事務所では、操作が比較的簡単な「Archicad」が選ばれているようです",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "使いやすいウィザードを使用して、製品を簡単にカスタマイズし、ブランド化し、顧客のニーズに合わせる",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の好む形式や業界標準でデータを簡単に受け入れ供給し、3D CAD/CAMシステム間での設計データをより正確に共有および再利用してコラボレーションを促進します",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "超軽量で簡単に設置可能なソリューションを、深センの工場からB2Bパートナーへ直接ご提供します",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "BIMソフトで作成したモデルは、複数人が別々の箇所を同時編集できるため、作業時間短縮と双方での進捗状況確認を簡単にできます",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "・ＣＡＤで簡単な建築企画図作成ご経験（必須）",
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Free / ~$500+",
+    "url": "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$2,950 + ACC",
+    "url": "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$980–$2,390 + BIMcloud",
+    "url": "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Stop chasing individual vendors. Send your requirements once and receive side-by-side pricing from 3+ vetted IT partners within 24 hours.",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "BIM Software Pricing Compared (2026): Per-Seat, Floating, Per-Project and No-Contract Plans",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "This guide compares BIM pricing across four models: per-seat, floating, per-project and no-contract. All figures come from vendor pages checked in October 2026, and we flag the ones we could not verify. Where a vendor hides its price behind a sales call, we say so.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Per-seat pricing dominates the market. Revit runs about $3,012 a year, Bentley starts at $3,844 and SketchUp Pro costs about $399. Floating licenses are rare, and Rhino is the clearest published example.",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "1. Per-seat pricing: Pay for each person",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "From $251 per month on annual terms (about $3,012 per year)",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "$3,675 per year",
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Edificius ACCA Software (€48/month)",
+    "url": "https://eiposgrados.com/eng/engineers-blog/free-bim-programs-or-low-cost-licenses/",
+    "pass": 3
+   },
+   {
+    "quote": "The BIM market in Japan grew to $0.46 billion USD in 2024 and is",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "predicted to reach $0.84 billion by 2029",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "100,000〜800,000円程度",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "月額8,000〜40,000円程度",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "月額10,000〜50,000円程度",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Archicad Studio：29,750円/月",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "前払い金：357,000円",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Archicad Collaborate：35,000円/月",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "前払い金：420,000円",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "年払い：497,200円/1ユーザ",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "月払い：62,700円/1ユーザ",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "780,000円",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "132,000円/1年間",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "356,400円/3年間",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "528,000円/5年間",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "年払い：608,300円/1ユーザ",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "月払い：75,900円/1ユーザ",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "427,900円/1年契約",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "924,000円",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "650,000円",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "245,300円/1年契約、",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "490,600円（買い切り）",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "【1ヶ月／毎月更新&毎月支払い】1か月あたり 60,000円（税込66,000円）",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "【12ヶ月／1年契約&年払い】1か月あたり 実質35,000円（税込38,500円）",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "【36ヶ月／3年契約&年払い】1か月あたり 実質35,000円（税込38,500円）",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "【毎月更新&毎月支払い】1か月あたり 51,000円（税込56,100円）",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "【1年契約&年払い】1か月あたり 実質29,750円（税込32,725円）",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "【3年契約&年払い】1か月あたり 実質29,750円（税込32,725円）",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "【毎月更新&毎月支払い】1か月あたり 42,800円（税込47,080円）",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "【1年契約&年払い】1か月あたり 実質 24,917円（税込27,409円）",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "Archicad 28 (Win/Mac) 本体価格 1,323,000 円（税込1,455,300 円）",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "Archicad 28 Solo (Win/Mac) 本体価格 794,000 円（税込 873,400 円）",
+    "url": "https://www.abkss.jp/blog/c17",
+    "pass": 3
+   },
+   {
+    "quote": "サブスク：53,900円／月・427,900円／年・1,155,000円／3年",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスク：62,040円／月・434,610円／年・1,173,447円／3年",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "購入：858,000円〜",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスク：198,000円／年〜",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "購入：523,600円～",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "53,900円／月",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "427,900円／年",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "1,155,000円／3年",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "62,040円／月",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "434,610円／年",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "1,173,447円／3年",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "：858,000円〜",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "：198,000円／年〜",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "523,600円～",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "1,323,000円",
+    "url": "https://www.cadjapan.com/special/bim-navi/start/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "420,000円",
+    "url": "https://www.cadjapan.com/special/bim-navi/start/comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,260,000円",
+    "url": "https://www.cadjapan.com/special/bim-navi/start/comparison.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The Top 10 BIM Software You Need to Know in 2026 — The Top 10 BIM Software You Need to Know in 2026 United-BIM https://www.united-bim.com > top-10...",
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 BIM Software You Need to Know in 2026 — Top 10 BIM Software You Need to Know in 2026 Virtual Building Studio https://www.virtualbuildingstudio.com > ...",
+    "url": "https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Cloud BIM Software 2026 : Why 'Cloud' Means Different ... — Best Cloud BIM Software 2026 : Why 'Cloud' Means Different ... snaptrude.com https://www.snaptrude.com > Blog",
+    "url": "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best BIM Software in 2026 : 13 Tools Ranked, From AI to Open ... — Best BIM Software in 2026 : 13 Tools Ranked, From AI to Open ... LinkedIn https://www.linkedin.com > pulse > b...",
+    "url": "https://www.linkedin.com/pulse/best-bim-software-2026-13-tools-ranked-from-ai-open-source-meltflex-rtgef",
+    "pass": 3
+   },
+   {
+    "quote": "Best BIM Software 2026 : Independent AEC Buyer's Guide — Best BIM Software 2026 : Independent AEC Buyer's Guide demystifyingplm.com https://www.demystifyingplm.com > ...",
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "BIM Software List: 10 Best BIM Programs Compared (2026) — BIM Software List: 10 Best BIM Programs Compared (2026) Plannerly https://plannerly.com > 10-best-bim-s...",
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Top paid & free BIM software tools in 2025 - Revizto — Top paid & free BIM software tools in 2025 - Revizto Revizto https://revizto.com > resources > blog",
+    "url": "https://revizto.com/resources/blog/best-bim-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】 BIMソフト おすすめ16選を比較！無料版と有料版 ... — 【2026年】 BIMソフト おすすめ16選を比較！無料版と有料版 ... テックタッチ https://techtouch.jp > ... > システム導入・運用 > BIM導入",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "RevitとAutoCADと3DCADは何が違う？ BIM オペチャンネル — RevitとAutoCADと3DCADは何が違う？ BIM オペチャンネル YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=TlHkdXHzkOo",
+    "pass": 3
+   },
+   {
+    "quote": "3D CADとの違いや互換性、導入ポイントを解説 - KINO BIM — 3D CADとの違いや互換性、導入ポイントを解説 - KINO BIM KINO BIM https://kino-bim.net > コラム",
+    "url": "https://kino-bim.net/column/202502_03/",
+    "pass": 3
+   },
+   {
+    "quote": "BIM とパラメトリックデザインに特化した新卒・中途採用情報 — BIM とパラメトリックデザインに特化した新卒・中途採用情報 KAWAZOE ARCHITECTS https://www.kawazoe-architects.com > recruit-2",
+    "url": "https://www.kawazoe-architects.com/office-tokyo/recruit-2",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "View the best IT partner programs in the market and browse their white label options",
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Inventor OEM | Tech Soft 3D",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor Oem",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEM",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEMは、Autodeskの機械CADアプリケーションであるAutodesk Inventorのホワイトラベルバージョンです",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEMには、完全な3Dモデリングカーネル、ユーザーインターフェイス、ならびにパラメトリックベースの設計を行う能力が含まれています",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEM開発プラットフォームを使用することで、次のことが可能になります：",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEM製品の利点",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "製品はInventor OEM上に構築されていますが、顧客はあなただけのユニークなアプリケーションを体験します",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEMを信頼された実績あるプラットフォームにするために費やされた数百万もの開発時間から直接利益を得る",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア開発者向けにInventor OEMプラットフォームの技術概要を説明し、自分だけのユニークなCADアプリケーションを作成するためのツールキットのコンポーネントとワークフローを説明します",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMコンフィギュレータ",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Inventor OEMの包括的なCAD翻訳プログラムを使用して、サードパーティのCADツールからファイルを読み書きできます",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEMはCATIA V5、JT 6、JT 7、Parasolid、PTC GRANITEの直接インポートおよびエクスポートをサポートし、Siemens NX、SolidWorks、Pro/ENGINEER、SATファイルを直接インポートすることもサポートしています",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEM API",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEMコンフィギュレータ",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス | CAD/BIM + OEM/ODM + 保証 | ChinaLEDScreens",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "中国におけるトップクラスのLEDスクリーンOEM/ODMパートナー",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ChinaLEDScreensでは、米国、EU、その他の先進国市場のプロジェクト向けに、エンドツーエンドの透明LEDディスプレイソリューションの設計、製造、納入に加え、柔軟なOEM/ODMパートナーシップを提供しています",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "安定したSKU、ホワイトラベル梱包、一貫した品質管理",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & ホワイトラベル",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベルやOEMは提供していますか？",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "店舗、ファサード、OEM/ODM製造の検討など、どのような場合でも、当社のエンジニアが仕様、価格、実用的な回答でサポートします",
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Empowering Japan’s Construction Industry with BIM Training - Okana",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Empowering Japan’s Construction Industry with BIM Training",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Okana translates all of its training materials into Japanese to work directly with the region in upskilling industry professionals in the use of BIM.",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "The building information modeling (BIM) market in Japan is undergoing significant growth, driven by the region’s passion for technological advancement in the construction industry.",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "The BIM market in Japan grew to $0.46 billion USD in 2024 and is",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": ". Like many other regions before it, Japan has seen an upsurge in BIM adoption and a digital first approach to project design and data management.",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Back in 2020, Japan’s Ministry of Land, Infrastructure, Transport and Tourism (MLIT) published guidelines for BIM standard workflows, which also stated the following of ISO 19650 standards where possible.",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Since then the Japanese government has made significant efforts to put BIM use on the agenda of the building design and in 2010, the MLIT announced the start of pilot projects for BIM use in public construction works.",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Despite this, BIM in Japan is still not mandated, even though there is evidence that the use of BIM can address some of Japan’s unique construction challenges, such as its aging infrastructure and housing stock, plus stringent earthquake resistant building regulations.",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Recognising the need for industry wide upskilling, Okana has taken the initiative to translate all of its BIM training materials into Japanese. By doing so, we aim to work directly with the region to equip industry professionals in the use of BIM.",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Okana training is positioned to educate and support global digital construction professionals and is now working to translate its ISO 19650 aligned BIM training content into multiple languages, including Japanese.",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Once complete, the translated training content will open up access to ISO 19650 aligned BIM education for the whole of the Japanese construction marketing, allow it to adopt global standards more proficiently, streamline workflows and contribute further to international projects.",
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Japanese Architecture Firm Nihon Sekkei Partners with Autodesk on Next-Gen Building Information Modeling | Autodesk News",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Japanese Architecture Firm Nihon Sekkei Partners with Autodesk on Next-Gen Building Information Modeling",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, JAPAN, Sept 8, 2014",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/",
+    "pass": 3
+   },
+   {
+    "quote": "(NASDAQ: ADSK) today announced that they are partnering to deliver a next-generation Building Information Modeling (BIM) process tailored for the Japanese market. The two companies will co-develop Japan-originating BIM workflows that meet global building design requirements, to aid in the creation of smart, sustainable buildings and infrastructure.",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/",
+    "pass": 3
+   },
+   {
+    "quote": "Established in 1967, Nihon Sekkei is an architectural design firm that provides a comprehensive range of services including design and supervision of construction and civil engineering projects, city planning tasks, regional and urban development, and consulting. Nihon Sekkei is one of Japan’s largest architectural firms, with 795 employees. For more information, visit",
+    "url": "https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/",
+    "pass": 3
+   },
+   {
+    "quote": "Global BIM Survey: Japan seeks its own path to digital construction | ARKANCE",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Global BIM Survey: Japan seeks its own path to digital construction",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "This time we look at Japan, in discussion with",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": ", a leading Japanese provider of ITC solutions for the building industry with offices in Tokyo, Saitama and Miyazaki. M&F has helped pioneer BIM in the country.",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is no stranger to modern technology and process efficiency. In many industries, Japanese firms have written the book on workflow optimisation. But in building and construction information modelling, or BIM/CIM as it’s generally called there, the country seems to be lagging internationally.",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "“The introduction of BIM in Japan is behind compared to other countries. The Japanese BIM market is still in the developing stage,” Mr Masanori Moriya says, adding: “Some believe this is due to unique Japanese business customs.”",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Unique design-build system in Japan",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "The main uniqueness seems to be the tradition in Japan of general contractors preparing and coordinating all design documents and shop drawings. For that purpose, they generally retain their own in-house architects and engineers. As a result, decisions tend to be made rather late in projects, which reduces the potential for productivity improvements by using BIM.",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Given the extra costs and complexity of getting benefits from BIM in this situation, neither design firms nor contractors nor clients have much incentive to go that road. As of the end of 2020, less than half (46%) of Japan’s large construction companies (and their design departments) were using BIM, according to a",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "The Japanese government has made",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "But BIM/CIM is just one angle of digitalization for enhancing building work. Japanese designers and contractors have been much more proactive in adopting other types of modern technologies, including computational design, the use of pre-programmed and remote-controlled robots and unmanned machinery at construction sites, and IoT applications to digitalize buildings themselves.",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "The current technology push arose partly to address an ageing workforce and labour shortages in AEC. It has been strongly promoted by the Japanese government in collaboration with private firms. The drive accelerated amid the distancing and remote work requirements of the Covid-19 pandemic.",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "In 2021, the JAPAN BUILD exhibition, the country’s leading trade show for the building and housing industries, held annually in Tokyo and Osaka, for the first time included a",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": ". Also last year, 16 Japanese contractors formed a consortium to accelerate R&D on the use of robots and IoT in construction.",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "“Most construction projects in Japan are led by the private sector, so for the future we need ways to help owners and investors discover the benefits of BIM,” M&F tecnica’s CEO stresses.",
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "How a Japanese Startup Takes on the World with Construction DX",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "Amid this torrent, ONESTRUCTION Inc. (hereafter ONESTRUCTION), a Japanese startup challenging industry transformation with international standardization as its weapon, is drawing attention. What is its strategy for confronting the structural challenges of the construction industry head-on and elevating construction DX to a \"management agenda\"?",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "That said, adoption rates in Japan still aren't sufficient. Especially among small and medium-sized enterprises and in regional areas, many don't even know what BIM is, and it's common to hear, \"Just make a 3D model for now.\" But precisely because of that, it's worth doing now. The opportunity to change the structure isn't always there.",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Then, while in university, I participated in the \"MAKERS UNIVERSITY\" entrepreneurship support program run by the NPO ETIC. That experience dramatically heightened my ambition. Meeting student entrepreneurs from all over Japan, many of whom were aiming to start businesses in Web3 or AI at the time, made me certain: \"I want to compete in legacy industries.\"",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "ONESTRUCTION's BIM software \"OpenAEC\" is developed in accordance with international standards and is currently used in 54 countries. With this product, ONESTRUCTION became the first Japanese company selected as a finalist for the international \"openBIM Awards 2024.\"",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "It certainly is. We're the only startup from Japan. But if you're not at the table where the rules are set, you can't compete globally with your product. That's why we're not just joining; we're actively involved in the working groups.",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "One is that, in these times of what's called an IT trade deficit, Japanese software can actually sell well globally. It's about earning foreign currency. OneStructure is firmly competing here. Another significance is feeding back the insights gained from participating in standardization and specification development back into Japan's construction industry.",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "It feels very Japanese, like the philosophy of \"harmony through cooperation\" (laughs).",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than the kind of \"lock-in\" with proprietary products you see overseas, we envision sites operating freely while being connected through data as a whole. That model feels suited to Japan's construction industry. We want to steer global standardization in that direction.",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's Space Venture Challenge",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's \"Small Giants\": Small Companies That Triumph Against the Odds",
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "pass": 3
+   },
+   {
+    "quote": "Graphisoft Archicad | 建築家向けBIMソフトウェア | 日本",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "You’re now browsing our Japan website.",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "Archicad Max(日本での発売は未定）",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "Podcast (日本語字幕あり)",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "IGNITE Japan 2026",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "竹中工務店×日本ERI – BIM図面審査 第一号交付の舞台裏",
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "pass": 3
+   },
+   {
+    "quote": "GLOOBEは、日本の建築設計に最適化されたBIM建築設計支援システムです",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "日本の建築基準法や設計手法に対応している点が大きな特徴で、国内の設計事務所や建設会社を中心に利用されています",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "海外製BIMソフトと比較して、日本の建築法規や設計フローに対応しやすい点から、国内プロジェクトでのBIM導入を検討している企業に適したツールといえます",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "日本の建築基準や施工慣習に対応した機能が充実しており、配管やダクト、電気設備などの設備設計を効率的に行えます",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.cadjapan.com/products/items/rebro/",
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "設計・構造・設備・施工といった分野に対応しており、日本では大手組織設計事務所やゼネコンなどで広く導入されています",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "GLOOBEは日本の建築法規と対応した機能が豊富で、斜線計算や容積率の算出がソフト内で行えるなど、建物の企画から確認申請まで活用できるBIMです",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "はアメリカのVectorworks社が開発したソフトで、日本での販売元はA&A（エーアンドエー）株式会社が行っています",
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界における「BIM」とは？CADとの違いや導入のメリットを解説 | JAPAN BUILD－建築・土木・不動産の先端技術展",
+    "url": "https://www.japan-build.jp/hub/ja-jp/column/kdx/04.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.japan-build.jp/hub/ja-jp/column/kdx/04.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN BUILD の「建設DX展」へ",
+    "url": "https://www.japan-build.jp/hub/ja-jp/column/kdx/04.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.demystifyingplm.com/best-bim-software-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hireinsouth.com/post/best-white-label-software-development-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bimdex.com/reseller.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/products/bim-collaborate/free-trial",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.247pro.com/white-label-branding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plannerly.com/10-best-bim-software-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eiposgrados.com/eng/engineers-blog/free-bim-programs-or-low-cost-licenses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/the-best-white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webydo.com/blog/white-label-website-builders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novisign.com/blog/signage/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://architizer.com/blog/practice/tools/how-nikken-sekkei-uses-bim-to-drive-design/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dentsu-ho.com/en/articles/9350",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anlg.co.jp/bim-introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-build.jp/hub/ja-jp/column/kdx/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abkss.jp/blog/c17",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.bicomsystems.com/oem-and-white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.avaib.com/partners/agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaizensparktech.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qubesense.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://buildplatform.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kino-bim.net/column/202502_03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/special/bim-navi/start/comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bim-design.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikeshita-sekkei.com/recruitment/cad_bim_operator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecure.co.jp/j/detail/20040-06579951",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bim-kyujin.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kawazoe-architects.com/office-tokyo/recruit-2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://adsknews.autodesk.com/en/pressrelease/nihon-sekkei-and-autodesk-delivering-next-generation-bim-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.studio55.co.jp/service/software/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pr.www.ipros.com/en/graphisoft/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aecmag.com/features/graphisoft-big-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pinnacleinfotech.com/pinnacle-infotech-unveils-cutting-edge-bim-solutions-at-japan-build/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label BIM software 2026",
+   "results": [
+    "https://www.united-bim.com/top-10-bim-softwares-in-2025/",
+    "https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/",
+    "https://www.snaptrude.com/blog/best-cloud-bim-software-2026",
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://www.linkedin.com/pulse/best-bim-software-2026-13-tools-ranked-from-ai-open-source-meltflex-rtgef",
+    "https://www.demystifyingplm.com/best-bim-software-2026",
+    "https://bimservices.net/blog/top-bim-software-in-2026-the-ultimate-list-for-bim-professionals/",
+    "https://dancumberlandlabs.com/blog/bim-building-information-modeling-software/",
+    "https://www.meltplan.com/blogs/architectural-design-software-in-2026",
+    "https://www.capterra.com/bim-software/"
+   ]
+  },
+  {
+   "query": "white label BIM software reseller program agencies",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://elioplus.com/north-america/united-states/channel-partners/bim",
+    "https://www.hireinsouth.com/post/best-white-label-software-development-companies",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.bimdex.com/reseller.php",
+    "https://associative.in/top-white-label-cad-bim-aec-plugin-development/",
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://www.infomazeelite.com/partners/",
+    "https://pinnacleinfotech.com/top-bim-companies-in-usa/",
+    "https://www.endurancesoftwares.com/white-label/reseller-program"
+   ]
+  },
+  {
+   "query": "white label BIM software free trial pricing",
+   "results": [
+    "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "https://www.autodesk.com/products/bim-collaborate/free-trial",
+    "https://www.247pro.com/white-label-branding",
+    "https://plannerly.com/10-best-bim-software-programs/",
+    "https://eiposgrados.com/eng/engineers-blog/free-bim-programs-or-low-cost-licenses/",
+    "https://revizto.com/resources/blog/best-bim-software-tools",
+    "https://www.rsmeans.com/estimating-software-free-trial?srsltid=AYCX9vI85JJLzL3auqGyQSkhc9JDF8qWUNoMxG2zTkg9uJ9_LiVBh__A",
+    "https://www.meltflexai.com/blog/best-bim-software",
+    "https://www.reddit.com/r/bim/comments/18cug6t/software_for_bim_free_or_reasonable_priced_for/",
+    "https://sourceforge.net/software/bim/free-trial/"
+   ]
+  },
+  {
+   "query": "white label BIM software rebrand your logo custom domain",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "https://www.webydo.com/blog/white-label-website-builders",
+    "https://www.novisign.com/blog/signage/white-label/",
+    "https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software",
+    "https://twominutereports.com/blog/white-label-marketing-tools",
+    "https://analytify.ai/white-label-analytics-software/",
+    "https://www.boldreports.com/white-label-reporting/"
+   ]
+  },
+  {
+   "query": "white label BIM software Japan Japanese",
+   "results": [
+    "https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/",
+    "https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/",
+    "https://architizer.com/blog/practice/tools/how-nikken-sekkei-uses-bim-to-drive-design/",
+    "https://arkance.world/global/resources/read/company-insights/global-bim-survey-japan-digital-construction-strategy",
+    "https://dentsu-ho.com/en/articles/9350",
+    "https://www.graphisoft.com/en-us/case-studies/bim-in-japan-nikken-sekkei/",
+    "https://pinnacleinfotech.com/pinnacle-infotech-unveils-cutting-edge-bim-solutions-at-japan-build/",
+    "https://pr.www.ipros.com/en/graphisoft/information/",
+    "https://aecmag.com/features/graphisoft-big-in-japan/",
+    "https://sourceforge.net/software/bim/japan/"
+   ]
+  },
+  {
+   "query": "ホワイトラベルBIM・建築設計ソフト 日本",
+   "results": [
+    "https://www.graphisoft.com/ja-jp/plans-and-products/archicad/",
+    "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "https://anlg.co.jp/bim-introduction/",
+    "https://www.japan-build.jp/hub/ja-jp/column/kdx/04.html",
+    "https://www.abkss.jp/blog/c17",
+    "https://www.youtube.com/watch?v=TlHkdXHzkOo",
+    "https://www.vectorworks.net/ja-JP/architect",
+    "https://www.ipros.com/ranking/product/?category3=140725",
+    "https://www.itreview.jp/categories/bim"
+   ]
+  },
+  {
+   "query": "white label BIM software OEM partnership",
+   "results": [
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://blog.bicomsystems.com/oem-and-white-label/",
+    "https://conversight.ai/oem-partners/",
+    "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "https://www.helicalinsight.com/best-white-label-bi-tool/",
+    "https://www.scalosoft.com/software-development/white-label-software-development-services/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://elioplus.com/white-label/vendors/bim"
+   ]
+  },
+  {
+   "query": "white label BIM software partner program pricing",
+   "results": [
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://www.avaib.com/partners/agencies/",
+    "https://kaizensparktech.com/partners",
+    "https://www.qubesense.com/partner/",
+    "https://buildplatform.com/partners",
+    "https://www.canopussoft.com/white-label-partnership/",
+    "https://www.qonic.com/resellers",
+    "https://bimetix.com/services__trashed/white-label-bim-partner-ireland/",
+    "https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans",
+    "https://elioplus.com/white-label/vendors/bim"
+   ]
+  },
+  {
+   "query": "ホワイトラベルBIM・建築設計ソフト OEM提供",
+   "results": [
+    "https://www.techsoft3d.com/ja-jp/oem/inventor-oem/",
+    "https://chinaledscreens.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://techtouch.jp/media/bim/bim-recommend-comparison",
+    "https://kino-bim.net/column/202502_03/",
+    "https://www.cadjapan.com/special/bim-navi/start/comparison.html",
+    "https://anlg.co.jp/bim-introduction/",
+    "https://bim-design.com/",
+    "https://www.japan-build.jp/hub/ja-jp/column/kdx/04.html",
+    "https://www.ipros.com/cg2/BIM%E3%82%BD%E3%83%95%E3%83%88/",
+    "https://chigai2.fromation.co.jp/archives/23134"
+   ]
+  },
+  {
+   "query": "ホワイトラベルBIM・建築設計ソフト 代理店募集",
+   "results": [
+    "https://www.ikeshita-sekkei.com/recruitment/cad_bim_operator/",
+    "https://www.ecure.co.jp/j/detail/20040-06579951",
+    "https://bim-kyujin.com/",
+    "https://www.arc-career.shikaku.co.jp/career/search/detail.php?enterprise_id=3031&id=7952",
+    "https://www.kawazoe-architects.com/office-tokyo/recruit-2",
+    "https://job.architecturephoto.net/jobs/038643/",
+    "https://jp.indeed.com/q-cad-%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%8B%9F%E9%9B%86-%E6%B1%82%E4%BA%BA.html",
+    "https://constdx.com/operator-recruit/bim-job-description/",
+    "https://bim-design.com/partner/",
+    "https://dairitenboshu.com/search/categorysub_703"
+   ]
+  },
+  {
+   "query": "white label BIM software distributor Japan",
+   "results": [
+    "https://adsknews.autodesk.com/en/pressrelease/nihon-sekkei-and-autodesk-delivering-next-generation-bim-in-japan/",
+    "https://en.studio55.co.jp/service/software/",
+    "https://pr.www.ipros.com/en/graphisoft/information/",
+    "https://aecmag.com/features/graphisoft-big-in-japan/",
+    "https://pinnacleinfotech.com/pinnacle-infotech-unveils-cutting-edge-bim-solutions-at-japan-build/",
+    "https://www.siliconec.com/building-information-modelling/japan-bim-services.html",
+    "https://vicc.jp/en/projects/",
+    "https://dentsu-ho.com/en/articles/9350",
+    "https://www.assaabloydss.com/en/products/software-solutions/openings-studio-bim-software",
+    "https://elioplus.com/asia-pacific/japan/channel-partners/autodesk"
+   ]
+  }
+ ],
+ "missing": {}
+}

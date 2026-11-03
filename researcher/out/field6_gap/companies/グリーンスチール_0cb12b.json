@@ -1,0 +1,1144 @@
+{
+ "name": "グリーンスチール",
+ "en": "green steel",
+ "aliases": [
+  "グリーン鉄",
+  "水素還元製鉄",
+  "低炭素鋼"
+ ],
+ "context": "9 マテリアル ②グリーン鉄",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:24:09.823446+00:00",
+ "evidence": {
+  "法律・制度": [
+   {
+    "quote": "グリーンスチールは、製鉄工程でCO2排出量の低い鉄鋼材料をさしますが、「何をもってCO2排出量が低いとするか」「どのような測定方法を用いるか」という明確な基準が存在しません",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_102.html",
+    "pass": 3
+   },
+   {
+    "quote": "CO2排出量を測定する手法は複数あり基準も統一されていないため、世界的な定義を明確にして、需要拡大政策を展開していく必要があります",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_102.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは、鉄鋼を生産する際の原材料に応じて、基準となるCO2排出量を決めるものです",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_102.html",
+    "pass": 3
+   },
+   {
+    "quote": "ETS Emissions Trading System 排出量取引制度",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "はかなり厳しい基準だと言える",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし IEA の定義では、スクラップ鉄を利用した場合により厳しい基準の",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチールなど、他の用語についても必ずしも明確な定義はないが、定義・基準の明確化の必要",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実効性あるレベルの炭素税の導入や義務的な排出量取引制度の導入を急ぐべきである",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 環境省「温室効果ガス排出量選定・報告・公表制度 2018 年度集計結果」（報告事業者数 12,150）、日本製",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出典）環境省・経済産業省「地球温暖化対策の推進に関する法律に基づく温室効果ガス排出量算定・報告・公表制度による平",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 https://www.renewable-ei.org/activities/reports/20211214_1.php",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 https://energy.ec.europa.eu/system/files/2022-05/COM_2022_230_1_EN_ACT_part1_v5.pdf",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ル認証 XCarb®）を購入・使用",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、2021 年３月には、政府の支援制度としてグリーンイノベーション基金の立ち上げが発表され、",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コストを支払う代わりに、サステナビリティについては高い判断基準を持つ、環境コンシャスな企業・組織で",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "段階の需要家は環境コンシャスな企業・団体組織となることは予想できるし、第三者認証等により",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が、基準化により規制としていくことを視野において検討を進めるべきである",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ニア・ゼロエミッションスチール に準ずる低排出鋼・製品等についてもランク付け・基準化を",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "27年４月からエアコンの新たな省エネ基準がスタート！エアコンについて知っておくべきポイントは？",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "制度の適用要件と価値",
+    "url": "https://www.sylvera.com/ja/blog/green-steel",
+    "pass": 3
+   },
+   {
+    "quote": "CORSIA、LCFS、CFR、FuelEU Maritime など、各制度における独立した適格性評価、ギャップ分析、および価値評価",
+    "url": "https://www.sylvera.com/ja/blog/green-steel",
+    "pass": 3
+   },
+   {
+    "quote": "認証済みCIデータでプレミアム市場を開拓しましょう",
+    "url": "https://www.sylvera.com/ja/blog/green-steel",
+    "pass": 3
+   },
+   {
+    "quote": "閾値を定義するための認証フレームワークが登場していますが、標準化はまだ進行中の段階です",
+    "url": "https://www.sylvera.com/ja/blog/green-steel",
+    "pass": 3
+   },
+   {
+    "quote": "の生産者や購入者に、生産者が自社製品にどのようなラベルを付けていようとも、一貫性のある標準化された比較基準を提供します",
+    "url": "https://www.sylvera.com/ja/blog/green-steel",
+    "pass": 3
+   },
+   {
+    "quote": "生産者がどのメカニズムの対象となるか、各関連枠組みの下でそのカーボンインテンシティ 、そして現在および規制環境の変化に伴いどのような金銭的価値が生まれる可能性があるかを明らかにします",
+    "url": "https://www.sylvera.com/ja/blog/green-steel",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、生産者は同業他社との比較が可能となり、購入者は一貫したCI基準に基づいてサプライヤーを比較することができます",
+    "url": "https://www.sylvera.com/ja/blog/green-steel",
+    "pass": 3
+   },
+   {
+    "quote": "SSBJ基準対応コンサルティング",
+    "url": "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 14068認証取得コンサルティング",
+    "url": "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的にIEAが提案したのは、鉄鋼を生産する際に使う原材料に応じて基準となるCO₂排出量を決めるというもの",
+    "url": "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、国際的な定義や基準の出発点となったことは間違いないでしょう",
+    "url": "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月、住友商事株式会社は自社が事業者を担い、株式会社熊谷組が設計・施行者を担う予定の「(仮称)水道橋PREX」で、新築工事にJFEスチールのグリーン鋼材「JGreeX」が採用されることが発表しました",
+    "url": "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "pass": 3
+   },
+   {
+    "quote": "【後編】2027年適用のGRI新基準「GRI 103」とは？IFRS S2やCDP連携による実務効率化",
+    "url": "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "pass": 3
+   },
+   {
+    "quote": "【前編】2027年適用のGRI新基準「GRI 102」とは？GHG排出量開示と移行計画の実務ポイント",
+    "url": "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "pass": 3
+   },
+   {
+    "quote": "その根拠や算定方法については、国際基準に準拠した第三者の認証・監査を受けており、4月にはいすず自動車のEVトラックや実験棟の建設部材にも採用が決まっています",
+    "url": "https://mikado-denso.com/m-online/archives/post36687",
+    "pass": 3
+   },
+   {
+    "quote": "EUでは製品を外国から輸入する際に「製造でどれだけCO₂を出したか」をチェックして、高炭素の商品には追加で課税する制度（カーボン国境調整）が2026年に始まろうとしています",
+    "url": "https://mikado-denso.com/m-online/archives/post36687",
+    "pass": 3
+   },
+   {
+    "quote": "カーボン国境調整は脱炭素の規制が厳しいEU製品とゆるい国からの輸入品を比較してCO2削減コストの差額を埋める施策とも言えますが、同様の施策を米国も検討しており、これらは日本の鉄鋼業にも影響を及ぼすと見られています",
+    "url": "https://mikado-denso.com/m-online/archives/post36687",
+    "pass": 3
+   },
+   {
+    "quote": "何が何でもEVを作らなければならなかったCAFE規制ってなに？～",
+    "url": "https://mikado-denso.com/m-online/archives/post36687",
+    "pass": 3
+   },
+   {
+    "quote": "同じ「グリーン」という表現でも、対象範囲や基準が異なれば数値を単純に比較できません",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 算定範囲・基準・比較対象",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "CFPや削減率を見る場合は、対象工程、機能単位、基準年、比較対象、使用データを確かめます",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "比較対象が社内基準製品なのか、過去の実績なのか、業界平均なのかで解釈が変わるからです",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客提出、Scope3算定、調達基準への適合、環境訴求など、使いたい場面に必要な情報がそろっているかを見ます",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "公共・民間の調達基準へ対応する場合は、要求文書に指定された方式、証明、対象範囲を満たすかを照合します",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "また、自社の削減目標を管理するために使う場合は、単発の証書だけでなく、翌年度以降も同じ基準でデータを取得できるかが重要になります",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "候補を比較するときは、少なくとも対象製品、単位、対象工程、基準、証明方法を同じ表に並べます",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "指定された算定範囲、方式、証明要件",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、その情報を顧客提案、Scope3把握、調達基準への適合など、何のために使うかを明確にしてください",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、排出量取引制度はまだ本格的な政策としては実施されていない",
+    "url": "https://transitionasia.org/green-steel-economics-japan-factsheet/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼メーカーが利用する炭素クレジットもまだ比較的少ないが、今春の国会では税額控除制度を含む法律が成立した",
+    "url": "https://transitionasia.org/green-steel-economics-japan-factsheet/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼メーカーは、オペレーションコストへの補助を長年主張してきたが、この法律により、低炭素鋼1トン当たり最高2万円 (128米ドル) の税額控除（事実上の補助）を受けられるようになった",
+    "url": "https://transitionasia.org/green-steel-economics-japan-factsheet/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "排出性能規則(Regulation(EU)2023/851)において、2035年からのゼロエミッション義務や2026年までに導入予定のLCAベースの評価制度が明記されたことなどを受け、将来的なLCA開示義務化に向けた規制整備も進行しており、低CFP鋼材のニーズが一層高まっています",
+    "url": "https://www.jisf.or.jp/business/ondanka/kouken/greensteel/",
+    "pass": 3
+   },
+   {
+    "quote": "建築分野では、2025年4月に策定された「建築物のライフサイクルカーボンの削減に向けた取組の推進に係る基本構想(建築物のライフサイクルカーボン削減に関する関係省庁連絡会議)」において、2028年度を目途に建築物のライフサイクル全体における環境負荷を算定評価する制度の導入を目指す方針が示されました",
+    "url": "https://www.jisf.or.jp/business/ondanka/kouken/greensteel/",
+    "pass": 3
+   },
+   {
+    "quote": "これを受け、国土交通省は「建築物のライフサイクルカーボンの算定・評価等を促進する制度に関する検討会(建築物LCA検討会)」を設置し、建築物全体のLCA算定の義務化や、建築物全体からのGHG排出(WLC: Whole Life Carbon)の低減に向けた検討を進めています",
+    "url": "https://www.jisf.or.jp/business/ondanka/kouken/greensteel/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン購入法においても、GXスチールの優先調達方針が示されました",
+    "url": "https://www.jisf.or.jp/business/ondanka/kouken/greensteel/",
+    "pass": 3
+   },
+   {
+    "quote": "「環境物品等の調達の推進に関する基本方針（令和7年１月28日変更閣議決定）」において、「原材料に鉄鋼が使用された物品」がグリーン購入法の共通の判断の基準として新たに追加され、",
+    "url": "https://www.jisf.or.jp/business/ondanka/kouken/greensteel/",
+    "pass": 3
+   },
+   {
+    "quote": "の両方を満たす鉄鋼を使用した物品は、「より高い環境性能の基準であり、調達に際しての支障や供給上の制約等がない限り調達を推進していく基準」である基準値1に位置づけられました",
+    "url": "https://www.jisf.or.jp/business/ondanka/kouken/greensteel/",
+    "pass": 3
+   },
+   {
+    "quote": "共通の判断の基準に係る情報提供について | 環境省",
+    "url": "https://www.jisf.or.jp/business/ondanka/kouken/greensteel/",
+    "pass": 3
+   },
+   {
+    "quote": "GXスチールの制度化",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の国内資源循環政策･制度環境の実現",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "2 環境省「温室効果ガス排出量選定・報告・公表制度 2018 年度集計結果」（報告事業者数 12,150）、日本製",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製鋼の３社のみとなっており、各社が有する全国 11 拠点で、19 基の高炉が稼働している",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界5カ国に拠点を持ち、提携調査会社200社以上が発行する調査資料約24万点以上をワンストップでご提供",
+    "url": "https://japan.cnet.com/release/31041079/",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "図 7 今後設備寿命を迎える高炉（生産能力） ..................................................... 16",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "るという側面に加え、技能労働者のひっ迫や賃金上昇、工期の長期化もあって、建設費が上昇しており、",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経過し、改修など再投資が必要になる高炉は 10 基あり、生産能力でいうと、今後休止が決まっている",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 7 今後設備寿命を迎える高炉（生産能力）",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "炉分の鉄源（銑鉄）71 百万トン（表１）には全く足りない",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電力が余る時／不足する時に合わせて行うことで、電力の需給調整の一端を担うことができる",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て、冬の電力逼迫時に、要請に基づいて機動的に電炉の操業を調整し、需要のピークを引き下げる役",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本経済新聞「 東京製鉄、電炉で節電支援 需給逼迫時、電力使用を一時停止 全域停電防止の一助に」（2022",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発表済みのプロジェクト、生産能力、および販売契約に基づき、需要と供給を特定します",
+    "url": "https://www.sylvera.com/ja/blog/green-steel",
+    "pass": 3
+   },
+   {
+    "quote": "Sylvera 、生産能力、発表済みのプロジェクト、および販売契約を追跡します",
+    "url": "https://www.sylvera.com/ja/blog/green-steel",
+    "pass": 3
+   },
+   {
+    "quote": "『専門知識がなく何から始めれば良いか分からない』『対応をしたいけれど、人手が足りない…』といったお悩みを持つ方がいらっしゃいましたら、弊社にお声がけいただけますと幸いです",
+    "url": "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な規格、寸法、品質、加工、納期を同時に満たせるか",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "価格、納期、供給量、加工対応、品質に加えて、環境価値の確からしさと自社の利用目的への適合性が評価軸になります",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "環境価値の要件と同時に、規格、寸法、数量、加工、表面処理、納期、納入場所、価格を確認します",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "希望納期と納入場所",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "個別製品の対応可否、価格、納期、提示される環境情報は、品種や数量によって変わります",
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 高品位スクラップの供給能力とコストの状況",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 水素の供給能力とコストの状況",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・生産能力 1t/h",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事例は出ているけど足りない",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "将来の供給能力と市場規模に大きな乖離があり、更なる民需の抜本的需要創出政策が必要",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三井金属、キャリア付極薄銅箔「MicroThin」の生産能力増強を前倒し",
+    "url": "https://www.iru-miru.com/article/72723",
+    "pass": 3
+   },
+   {
+    "quote": "・欧州の鉄鋼業界では、水素価格の予見性不足を背景にDRI 投資は延期される",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電炉生産能力 八幡200万t/年 周南40万t/年",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資額 1,400億円 電炉生産能力 50万t/年",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最近、緑の鋼鉄グループは生産能力を拡大し、更に緑の鋼鉄市場のリーダーとして位置を固める緑の鋼材の新製品のラインを進水させました",
+    "url": "https://www.emergenresearch.com/jp/blog/%E3%83%88%E3%83%83%E3%83%9710-%E4%BC%81%E6%A5%AD-%E3%82%A4%E3%83%B3-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3-%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB-%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2025, Nippon Steel and TIER IV collaborated to introduce autonomous heavy-duty transporters for steel logistics at Nippon Steel's Nagoya plant. The initiative aims to address labor shortages while improving transportation efficiency and workplace safety within the steelmaking facility.",
+    "url": "https://www.imarcgroup.com/japan-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の鉄鋼部門はまた、低コストの中国鋼材との競争や、世界的な過剰生産能力に起因する利益率の低下など、いくつかの構造的課題に直面している",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鉱石ベースの低排出鉄鋼にかかるプレミアムを2035年までに購入者の希望価格に近づけ、今後よりクリーンな生産能力の展開を促進するために、現在実施されているものを超えた、さらなる政策支援が必要になる",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "一方では、世界的な過剰生産能力、CO",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Pipeline Bottlenecked: $30B Announced, Zero Operating",
+    "url": "https://enkiai.com/sustainability/green-steel-projects-delays/",
+    "pass": 3
+   },
+   {
+    "quote": "Extreme sensitivity to energy price volatility. Proven vulnerability to political cycles and abrupt policy reversals. Permitting and regulatory timelines are a major bottleneck.",
+    "url": "https://enkiai.com/sustainability/green-steel-projects-delays/",
+    "pass": 3
+   },
+   {
+    "quote": "Material and manufacturing shortages, geographical hurdles, supply chain woes and technological limitations are acting as major constraints on realizing a feasible green steel future.",
+    "url": "https://www.enlit.world/library/fighting-for-scraps-the-challenges-of-the-green-steel-transition",
+    "pass": 3
+   },
+   {
+    "quote": "Global scrap shortage",
+    "url": "https://www.enlit.world/library/fighting-for-scraps-the-challenges-of-the-green-steel-transition",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "また、2021 年３月には、政府の支援制度としてグリーンイノベーション基金の立ち上げが発表され、",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「２兆円の基金を造成し、官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "38 経済産業省「グリーンイノベーション基金事業の基本方針」（2021 年 12 月）",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーション基金事業として、2030 年度までに 1,935 億円の助成が計画されている",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のグリーンイノベーション基金による NEDO プロジェクトの成果も期待されるが、2030 年までに生",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "既に 45 億ドルの予算拠出が決定され、運輸省、国務省、エネルギー省などでは既にタスクフォース",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助金ロジックは広畑1･2号と",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月GI基金のステージゲート審査",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月GI基金のステージゲート審査にて試験結果報告予定",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "GI（グリーンイノベーション）基金： 2050年カーボンニュートラルの実現",
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経産省は、26年度のGX関連予算による支援（補助金など）を活用する企業は、中小企業を除いて原則、GXフューチャー・リーグへの参加を要件にする案を示している",
+    "url": "https://project.nikkeibp.co.jp/ESG/forecast/atcl/trend/053100062/",
+    "pass": 3
+   },
+   {
+    "quote": "27日に同省が公表した2025年度のCEV補助金の概要では、補助金の加算が明記されており、消費者動向への影響が注目される",
+    "url": "https://www.iru-miru.com/article/72723",
+    "pass": 3
+   },
+   {
+    "quote": "経産省は令和6年度補正予算としてCEV補助金に約1100億円を確保しており、評価項目の見直し・追加を行うとともに、GX推進に向けた鋼材（＝グリーンスチール）の需要喚起のための新たな加算措置を設けることをすでに公表している",
+    "url": "https://www.iru-miru.com/article/72723",
+    "pass": 3
+   },
+   {
+    "quote": "投資額 八幡6,302億円 周南985億円",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資額 1,400億円 電炉生産能力 50万t/年",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これを実現するための投資として、2030年までに官民合わせて150兆円規模の投資を呼び込むことを目標としています",
+    "url": "https://sustech-inc.co.jp/carbonix/media/green-steel/",
+    "pass": 3
+   },
+   {
+    "quote": "GX提言では、2030年に向けて官民合わせて約150兆円規模の投資を計画しています",
+    "url": "https://sustech-inc.co.jp/carbonix/media/green-steel/",
+    "pass": 3
+   },
+   {
+    "quote": "6. 技術開発や普及のための政府の支援策",
+    "url": "https://sustech-inc.co.jp/carbonix/media/green-steel/",
+    "pass": 3
+   },
+   {
+    "quote": "1. グリーンイノベーション基金",
+    "url": "https://sustech-inc.co.jp/carbonix/media/green-steel/",
+    "pass": 3
+   },
+   {
+    "quote": "● 2兆円規模の基金を設立し、脱炭素技術の開発を支援",
+    "url": "https://sustech-inc.co.jp/carbonix/media/green-steel/",
+    "pass": 3
+   },
+   {
+    "quote": "7. グリーンイノベーション基金事業",
+    "url": "https://sustech-inc.co.jp/carbonix/media/green-steel/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府からの支援策は大企業のみならず、中小企業への低利融資なども用意されているため、これからは鉄鋼業界全体でCO2削減に取り組むことが期待されます",
+    "url": "https://sustech-inc.co.jp/carbonix/media/green-steel/",
+    "pass": 3
+   },
+   {
+    "quote": "技術開発の側面では、経済産業省がグリーンイノベーション基金の「製鉄プロセスにおける水素活用」事業を通じて、国費負担額4,499億円を上限に支援を進めています",
+    "url": "https://mirasus.jp/environment/19174",
+    "pass": 3
+   },
+   {
+    "quote": "・経済産業省「グリーンイノベーション基金事業」（2024年・https://www.meti.go.jp/policy/energy_environment/global_warming/gifund/index.html）・一般社団法人日本鉄鋼連盟「カーボンニュートラル行動計画」関連資料（2024年・https://www.jisf.or.jp/）",
+    "url": "https://mirasus.jp/environment/19174",
+    "pass": 3
+   },
+   {
+    "quote": "Subsidy values in dollars per gigajoule (US$/GJ) are calculated by dividing the total subsidy for a fuel (US$ millions) with national consumption of the fuel in 2025. OECD, “Fossil Fuel Support,” 2025,",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "“Case Study — Japanese Government Subsidy Scheme / Government of Japan,” OECD, 2024,",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.oecd.org/content/dam/oecd/en/about/programmes/cefim/green-hydrogen/2024-case-studies/Subsidy-scheme-Japan-case-study-2024.pdf",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの主要な補助金は、現存するBFをEAFに移行することに焦点を当て、主要な製鉄会社であるJFEと日本製鉄は、EAF拡大のため、合計22億米ドルを受け取った",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資補助金に関しては、グリーンイノベーション基金の研究開発(R&D)補助金は、生産税額控除または最終用途税額控除よりも著しく影響が小さい（結果として、鉄鉱石を主原料として利用する方法の中では、プレミアムの1%以下しか削減できない）",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンイノベーション基金は、BFへの水素吹き込み技術のために最大約1億5000万米ドルの研究開発基金も別枠で設けてあるが、排出量は13%低減するに過ぎない",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "添付書類3に見られるように、プレミアムがより小さい、スクラップを利用した方法は、この補助金から最も利益を得る",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "同様に、再生可能エネルギー由来電力にかかる経費を8%削減できれば、石炭と天然ガスに対する既存の国内補助金を撤廃するよりも効果的であることが証明されている",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "本分析でテストされた現行の、また計画されている政策（すなわち、低炭素鉄鋼税額控除、グリーンイノベーション基金、およびGX-ETS）は、いまその政策が行われた場合、2050年においても、H",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グリーンスチール市場規模 、シェア、成長 | 2034 年の予測 ... — グリーンスチール市場規模 、シェア、成長 | 2034 年の予測 ... Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 金属・鉱物",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-108711",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチール とは？普及への課題や日本・世界の取り組み ... — グリーンスチール とは？普及への課題や日本・世界の取り組み ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_102",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_102.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本における グリーンスチール への道 - 自然エネルギー財団 — 日本における グリーンスチール への道 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > REI_greensteel2022",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチール の 市場規模 、2030年に528億5000万米ドル ... — グリーンスチール の 市場規模 、2030年に528億5000万米ドル ... CNET Japan https://japan.cnet.com > リリース",
+    "url": "https://japan.cnet.com/release/31041079/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン 鉄とは｜官民投資ロードマップの目標年300万t・投資 ... — グリーン 鉄とは｜官民投資ロードマップの目標年300万t・投資 ... 日本DX地域創生応援団 https://digital-supporter.net > mirai-ai > green-tetsu",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/green-tetsu.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼業で進むGX―「 グリーン 鉄」普及へ政府も支援 — 鉄鋼業で進むGX―「 グリーン 鉄」普及へ政府も支援 資源エネルギー庁 https://www.enecho.meti.go.jp > special > green_steel_2026",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチール 市場規模、シェア、成長 | 2034 年の予測 ... — グリーンスチール 市場規模、シェア、成長 | 2034 年の予測 ... Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 金属・鉱物",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-108711",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size , Share, Growth | Forecast Report, 2034 — Green Steel Market Size , Share, Growth | Forecast Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/green-steel-market-108711",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel 2026, 25+ Projects Delayed, SSAB Halts EAF — Green Steel 2026, 25+ Projects Delayed, SSAB Halts EAF enkiai.com https://enkiai.com > Sustainability",
+    "url": "https://enkiai.com/sustainability/green-steel-projects-delays/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel 2025 -2035: Technologies, Players, Markets ... — Green Steel 2025 -2035: Technologies, Players, Markets ... IDTechEx https://www.idtechex.com > green-ste...",
+    "url": "https://www.idtechex.com/en/research-report/green-steel-2025-2035-technologies-players-markets-forecasts/1084",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "日本企業の活用事例",
+    "url": "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "pass": 3
+   },
+   {
+    "quote": "環境（E）、社会（S）、ガバナンス（G）を重視するESG投資が世界的に拡大しており、日本企業や日本市場の魅力を高めるため、GXの推進が不可欠となっています",
+    "url": "https://sustech-inc.co.jp/carbonix/media/green-steel/",
+    "pass": 3
+   },
+   {
+    "quote": "”グリーンスチール”で”脱炭素”に貢献？！知っておきたい基礎知識と国内メーカーの製品について",
+    "url": "https://www.daiwast.co.jp/blog/introducing-green-steel-products",
+    "pass": 3
+   },
+   {
+    "quote": "以下の表は、主要企業の概要をまとめたものです",
+    "url": "https://note.com/harrys_search/n/n38dd629a5462",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の動き｜日本製鉄・JFEスチール・神戸製鋼の取り組み",
+    "url": "https://mirasus.jp/environment/19174",
+    "pass": 3
+   },
+   {
+    "quote": "国内では、日本企業のスコープ3ターゲットの採用が増加しており、時価総額が200億米ドルを超える上場企業に対しては日本のサステナビリティ基準委員会(SSBJ)の基準による最近のスコープ3開示要件（この要件は2028年から60億米ドルに引き下げ）があり、これが示すところでは、低排出鋼の需要が増加している可能性がある",
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "pass": 3
+   },
+   {
+    "quote": "By switching to net zero steel now, Japanese companies can maintain strong trading links with these export markets while others find themselves priced out by carbon taxes. Transitioning to net zero steel will help you reach your climate targets and secure a sustainable future for your business.",
+    "url": "https://www.theclimategroup.org/japans-transition-green-steel",
+    "pass": 3
+   },
+   {
+    "quote": "Global business leaders from the largest sectors that buy Japanese steel, such as Volvo Cars and Lendlease, have joined SteelZero. There's a clear opportunity for Japanese companies to add their voices to the call for Japanese steel decarbonisation.",
+    "url": "https://www.theclimategroup.org/japans-transition-green-steel",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": "Fe scrap watch2026#23 国内市場は強い上げ含み—国際相場や需要が追い風に",
+    "url": "https://www.iru-miru.com/article/72723",
+    "pass": 3
+   },
+   {
+    "quote": "2030年頃に鉄鋼業界全体で高炉鋼材国内市場の約1割相当規模のGXスチールが提供され",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan market is expected to grow at 55.5% CAGR, propelled by the urgent need to reduce blast furnace CO₂ intensity, alongside increasing challenges in orchestrating scrap steel collection, automotive take-back loops, and hydrogen supply chain development.",
+    "url": "https://dimensionmarketresearch.com/report/japan-green-steel-market/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内参入社数": [
+   {
+    "value": "３",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "quote": "製鋼の３社のみとなっており、各社が有する全国 11 拠点で、19 基の高炉が稼働している"
+   },
+   {
+    "value": "200",
+    "url": "https://japan.cnet.com/release/31041079/",
+    "quote": "世界5カ国に拠点を持ち、提携調査会社200社以上が発行する調査資料約24万点以上をワンストップでご提供"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "1,935",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "quote": "イノベーション基金事業として、2030 年度までに 1,935 億円の助成が計画されている"
+   },
+   {
+    "value": "100",
+    "url": "https://www.iru-miru.com/article/72723",
+    "quote": "経産省は令和6年度補正予算としてCEV補助金に約1100億円を確保しており、評価項目の見直し・追加を行うとともに、GX推進に向けた鋼材（＝グリーンスチール）の需要喚起のための新たな加算措置を設けることをすでに公表している"
+   },
+   {
+    "value": "6,302",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "quote": "投資額 八幡6,302億円 周南985億円"
+   },
+   {
+    "value": "985",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "quote": "投資額 八幡6,302億円 周南985億円"
+   },
+   {
+    "value": "1,400",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "quote": "投資額 1,400億円 電炉生産能力 50万t/年"
+   },
+   {
+    "value": "4,499",
+    "url": "https://mirasus.jp/environment/19174",
+    "quote": "技術開発の側面では、経済産業省がグリーンイノベーション基金の「製鉄プロセスにおける水素活用」事業を通じて、国費負担額4,499億円を上限に支援を進めています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-108711",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/010_04_00.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_102.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://japan.cnet.com/release/31041079/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theclimategroup.org/ribenniokerukurinsuchiruhenozhuanhuan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sylvera.com/ja/blog/green-steel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mikado-denso.com/m-online/archives/post36687",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n-nk.co.jp/column/green-steel-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://transitionasia.org/green-steel-economics-japan-factsheet/?lang=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/002_07_00.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jisf.or.jp/business/ondanka/kouken/greensteel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.wsj.com/articles/green-steel-becomes-a-hot-commodity-for-big-auto-makers-11631559409",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/forecast/atcl/trend/053100062/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iru-miru.com/article/72723",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kankyo-business.jp/news/b746ca51-eb72-445c-96e3-1ca214d1ce9a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sustech-inc.co.jp/carbonix/media/green-steel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.econetworks.jp/translationtips/2025/04/green-steel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiwast.co.jp/blog/introducing-green-steel-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/harrys_search/n/n38dd629a5462",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/jp/blog/%E3%83%88%E3%83%83%E3%83%9710-%E4%BC%81%E6%A5%AD-%E3%82%A4%E3%83%B3-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3-%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB-%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirasus.jp/environment/19174",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jigyou-v2.kabu-trendpro.com/theme/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/green-steel-market-108711",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dimensionmarketresearch.com/report/japan-green-steel-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theclimategroup.org/japans-transition-green-steel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fastmarkets.com/insights/us-steel-hrc-supply-fears-get-no-comment-from-mills-legislators/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/oecd-steel-outlook-2026_99ab9b0c-en/full-report/international-efforts-to-address-the-steel-crisis-are-intensifying_b6ca4947.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://enkiai.com/sustainability/green-steel-projects-delays/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/green-steel-2025-2035-technologies-players-markets-forecasts/1084",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enlit.world/library/fighting-for-scraps-the-challenges-of-the-green-steel-transition",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "グリーンスチール 国内市場規模 億円",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-108711",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/010_04_00.pdf",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_102.html",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "https://japan.cnet.com/release/31041079/",
+    "https://digital-supporter.net/mirai-ai/17invest/green-tetsu.html",
+    "https://www.env.go.jp/council/content/06earth04/000318048.pdf",
+    "https://www.surveyreports.jp/industry-analysis/green-steel-market/1037430",
+    "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "https://www.fortunebusinessinsights.com/jp/グリーンスチール市場-108711"
+   ]
+  },
+  {
+   "query": "グリーンスチール 国内 参入企業 社",
+   "results": [
+    "https://www.wsew.jp/hub/ja-jp/blog/article_102.html",
+    "https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_2026.html",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "https://www.theclimategroup.org/ribenniokerukurinsuchiruhenozhuanhuan",
+    "https://www.sylvera.com/ja/blog/green-steel",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-108711",
+    "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "https://mikado-denso.com/m-online/archives/post36687",
+    "https://www.daiwast.co.jp/blog/introducing-green-steel-products",
+    "https://www.emergenresearch.com/jp/blog/トップ10-企業-イン-グリーン-スチール-市場"
+   ]
+  },
+  {
+   "query": "グリーンスチール 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://n-nk.co.jp/column/green-steel-guide/",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_102.html",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-108711",
+    "https://transitionasia.org/green-steel-economics-japan-factsheet/?lang=ja",
+    "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/002_07_00.pdf",
+    "https://www.jisf.or.jp/business/ondanka/kouken/greensteel/",
+    "https://jp.wsj.com/articles/green-steel-becomes-a-hot-commodity-for-big-auto-makers-11631559409",
+    "https://frontier-eyes.online/iron-scrap-business_book5/"
+   ]
+  },
+  {
+   "query": "グリーンスチール 予算 補助金 基金 2026",
+   "results": [
+    "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_2026.html",
+    "https://project.nikkeibp.co.jp/ESG/forecast/atcl/trend/053100062/",
+    "https://www.iru-miru.com/article/72723",
+    "https://www.kankyo-business.jp/news/b746ca51-eb72-445c-96e3-1ca214d1ce9a",
+    "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf",
+    "https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf",
+    "https://note.com/scivanai/n/ne906ea2ebd7f",
+    "https://www.marubeni.com/jp/research/report/data/20251121_kuwana.pdf",
+    "https://www.japanmetal.com/news-t20250130140455.html"
+   ]
+  },
+  {
+   "query": "グリーンスチール 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.wsew.jp/hub/ja-jp/blog/article_102.html",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_01.html",
+    "https://www.jisf.or.jp/business/ondanka/kouken/greensteel/",
+    "https://sustech-inc.co.jp/carbonix/media/green-steel/",
+    "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "https://www.econetworks.jp/translationtips/2025/04/green-steel/",
+    "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf"
+   ]
+  },
+  {
+   "query": "グリーンスチール 国内 主要企業 メーカー",
+   "results": [
+    "https://www.wsew.jp/hub/ja-jp/blog/article_102.html",
+    "https://www.sylvera.com/ja/blog/green-steel",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-108711",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf",
+    "https://www.daiwast.co.jp/blog/introducing-green-steel-products",
+    "https://www.bluedotgreen.co.jp/column/emissinncalculation-cfp/green_steel/",
+    "https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_2026.html",
+    "https://note.com/harrys_search/n/n38dd629a5462",
+    "https://mikado-denso.com/m-online/archives/post36687",
+    "https://www.emergenresearch.com/jp/blog/トップ10-企業-イン-グリーン-スチール-市場"
+   ]
+  },
+  {
+   "query": "green steel Japan market size",
+   "results": [
+    "https://www.fortunebusinessinsights.com/green-steel-market-108711",
+    "https://www.imarcgroup.com/japan-steel-market",
+    "https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/",
+    "https://dimensionmarketresearch.com/report/japan-green-steel-market/",
+    "https://www.theclimategroup.org/japans-transition-green-steel",
+    "https://www.linkedin.com/pulse/revenue-analysis-forecast-japan-green-steel-market-ejr2e",
+    "https://market.us/report/green-steel-market/",
+    "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "https://www.marketresearchfuture.com/reports/japan-green-steel-market-48747",
+    "https://assets.wwf.org.au/image/upload/f_pdf/Green_steel_demand_in_Japan_-_market_status_and_enablers_01122025"
+   ]
+  },
+  {
+   "query": "green steel shortage backlog supply gap 2025",
+   "results": [
+    "https://www.fastmarkets.com/insights/us-steel-hrc-supply-fears-get-no-comment-from-mills-legislators/",
+    "https://www.oecd.org/en/publications/oecd-steel-outlook-2026_99ab9b0c-en/full-report/international-efforts-to-address-the-steel-crisis-are-intensifying_b6ca4947.html",
+    "https://enkiai.com/sustainability/green-steel-projects-delays/",
+    "https://www.idtechex.com/en/research-report/green-steel-2025-2035-technologies-players-markets-forecasts/1084",
+    "https://www.enlit.world/library/fighting-for-scraps-the-challenges-of-the-green-steel-transition",
+    "https://www.reddit.com/r/MechanicalEngineering/comments/1wadiu7/is_it_true_there_is_a_steel_shortage_in_usa/",
+    "https://group.atradius.com/knowledge-and-research/reports/global-metals-and-steel-industry-trends-2025-2026",
+    "https://www.coherentmarketinsights.com/industry-reports/green-steel-market",
+    "https://eciu.net/analysis/reports/the-uks-scrap-gap",
+    "https://sei.org/wp-content/uploads/2026/02/2025-year-in-review-green-steel.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1181 @@
+{
+ "name": "エッジAIチップ",
+ "en": "edge AI chip",
+ "aliases": [
+  "AI半導体",
+  "エッジAI半導体"
+ ],
+ "context": "1 AI・半導体 ②中核半導体",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:17:43.791283+00:00",
+ "evidence": {
+  "需給の差": [
+   {
+    "quote": "エッジAIは、自動化された公共交通機関や高齢者介護における労働力不足の課題にも対応している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "高齢者介護の現場では、エッジAIを搭載したロボットが患者のモニタリング、移動の介助、そして話し相手となることができ、介護者の不足を解消し、生活の質を向上させます",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "労働力不足と高齢化社会への対応として自動化を重視していることが、インテリジェントシステムの導入を加速させています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "AI向けメモリ・後工程の供給がボトルネック",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAの最先端AIチップに不可欠な広帯域メモリ（HBM）と、それをまとめる後工程（パッケージング、CoWoS）が世界的に不足しています",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "価格・納期のお問い合わせ",
+    "url": "https://tm-co.co.jp/glossary/current-status-of-commercialization-of-mgo-based-mtj-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "電子計測器業界の「ゲームチェンジャー」として、高性能/高信頼/低価格/短納期を武器に",
+    "url": "https://tm-co.co.jp/glossary/current-status-of-commercialization-of-mgo-based-mtj-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "価格・納期を問い合わせる",
+    "url": "https://tm-co.co.jp/glossary/current-status-of-commercialization-of-mgo-based-mtj-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアからハードウェアまでを一貫して設計する独自の技術力で、人手不足に悩む現場の明日を支えます",
+    "url": "https://tokyo-ai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を中心とする社会課題を解消します",
+    "url": "https://tokyo-ai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIのメモリ帯域不足をHBMで突破した現場の記録：コストと熱の壁を越える実装ロジック",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "pass": 3
+   },
+   {
+    "quote": "HBMによるエッジAIのメモリ帯域不足解消と性能向上",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "pass": 3
+   },
+   {
+    "quote": "それに伴い、パラメータ数と計算量の増大によってメモリ帯域幅の不足はシステム全体の致命的なボトルネックになりつつあります",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "pass": 3
+   },
+   {
+    "quote": "システム全体のボトルネックを分析すると、しばしば演算ユニットの稼働率が低いという事実に突き当たります",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、カタログスペックに踊らされることなく、自社のシステムのボトルネックが本当にメモリ帯域にあるのかを論理的に見極めることです",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、中国の先端半導体生産能力が制限される",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "半導体供給の逼迫",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "：米国による半導体製造装置の対中輸出制限は、グローバルな半導体サプライチェーンの逼迫を引き起こす可能性がある",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエッジAI企業は、NVIDIAやARMベースのチップに依存しており、部品調達コストの上昇や納期遅延のリスクが高まる",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "米国の対中輸出規制は、日本のエッジAI市場にサプライチェーンの逼迫やコンプライアンス負担といった課題をもたらす一方、中国以外の市場での成長機会や国産技術開発の推進といった好機も生み出しています",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "業界関係者の間では、TSMCの3nmおよび5nm生産ラインが2026年上期に稼働率100%に達するとの見方が広がっており、先端プロセスの供給逼迫がチップ価格の上昇圧力として作用することが想定されます",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "→1)事情に詳しい2人の関係筋によると、NVIDIAは中国の顧客に対し、受注が現在の生産量を上回ったことを受け、高性能AIチップ「H200」の生産能力増強を検討していると伝えた",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "→米エヌビディアがAI半導体「H200」の生産能力増強を検討していることが12日、わかった",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国からの受注が生産能力を上回ったという",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "◇NYダウ、続落し179ドル安 FOMC結果待ちで買い手控え (日経 電子版 06:23)",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "→先週末、TSMCがNVIDIA、Google、Amazon、MediaTekからのCoWoS需要が供給能力を上回っていることを受け、外部委託による先進的なパッケージングの拡大を計画していると情報筋が報じた",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "この動きは、プログラムが最終段階に入ったことを示唆しており、TSMCの価格上昇と生産能力逼迫の中で、サムスンは需要を取り込む態勢を整えている",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "＊SKハイニックスはまた、供給能力の拡大を目指し、国内外で多額の資本を投入している",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "この取り組みは、AI需要の急増と地政学的圧力をターゲットとしているが、人材不足とTSMCのサプライチェーンにおける優位性という課題に直面している",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "第8位:AI開発の減速を巡って引き続く警鐘&論議；メモリ不足&価格高騰の波紋",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、世界のエッジAI推論チップの出荷台数は約5億2,000万台、生産能力は9億台、平均単価は35米ドル、粗利益率は約45%でした",
+    "url": "https://newscast.jp/news/7287213",
+    "pass": 3
+   },
+   {
+    "quote": "先端プロセス投資と生産能力の拡大",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "2028年には先端プロセスの生産能力が2024年比で約69％増になるとの見通しもあり、世界中で新たな半導体工場（ファブ）の建設ラッシュが続いています",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体の「ヘリウム不足」危機！なぜ代替できない？見えない命綱の役割と対策の現状",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年春、中東情勢の緊迫化でヘリウム価格が急騰し「半導体ヘリウム不足」が現実味を帯びた",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ製造に不可欠なのか、不足時の影響、代替が難しい理由とリサイクル等の最新対策を解説",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "なので材料待ちな部分も楽しみかもですね",
+    "url": "https://kabukarin.net/ai/4936/",
+    "pass": 3
+   },
+   {
+    "quote": "水不足関連株",
+    "url": "https://kabukarin.net/ai/4936/",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "✓ 規制に関する前提条件と政策変更リスク",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "この専門家によるレビューが品質保証の重要な層となり、データが調査目的と各分野の基準に合致していることを確認します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "専門的な業務基準と顧客満足度",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "品質認証取得",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 9001:2015認証取得企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制当局への提出書類",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制・政治環境",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "ISO認証取得",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Delaware 19975 USA",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制・法制度の動向分析の追加（対象地域の規制環境など）",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間・基準年の調整（予測年の延長など）",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us",
+    "url": "https://www.edgecortix.com/ja/news",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT US",
+    "url": "https://www.edgecortix.com/ja/news",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy",
+    "url": "https://www.edgecortix.com/ja/news",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 規制・認証・法務・知財",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "米中の競争や輸出規制が激しく、日本でもRapidus（先端半導体の国産化）やTSMC熊本工場など大型投資が進んでいます",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "プルーヴは海外の規制・市場動向と関わり方を平易に整理し、調査から実行まで伴走します",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "いまAI・半導体では、米国の対中輸出規制や中国の資源（ガリウム等）の規制、米国の補助金（CHIPS法）の条件、AIの巨額投資など、",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "米中の輸出規制に板挟み（装置・材料）",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "米国は2024年12月、半導体の製造装置や材料の対中輸出規制をさらに強化し、日本・オランダ・韓国にも足並みをそろえるよう求めています",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "中国はガリウム・ゲルマニウムなどの資源の輸出規制で対抗しています",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学・SUMCO・東京エレクトロン・SCREEN・ディスコ・JSRなど日本企業の対中売上は大きく、米国の技術や装置を使う企業も実質的に規制の影響を受けます",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "→ プルーヴは、米国の輸出規制への対応体制づくり、品目分類（ECCN）の整理、輸出許可申請の準備、中国の対抗措置を見据えた調達先の分散をご一緒します",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "→ プルーヴは、海外（台湾・韓国・米国）の半導体人材の採用支援、大手IT（潜在顧客）へのアプローチ、補助金・重要物資指定の準備、Rapidusサプライヤー登録の進め方の整理をお手伝いします",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "→ プルーヴは、米CHIPS担当部局とのやり取りに向けた論点整理、条件適合性の確認、申請書類づくりの支援、政権交代に伴う規制動向のモニタリングを支援します",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "米輸出規制と中国の対抗 — 装置・材料の米中板挟み",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "規制の適用範囲、品目分類、輸出許可申請の準備、調達分散、外為法との両にらみ",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査だけ、輸出規制やCHIPS・Rapidus対応だけ、あるいはクラスター連携から顧客開拓・M&Aまで一貫して、いずれも対応できます",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "米輸出規制と外為法の両にらみ対応",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "データの暗号化と認証機能の強化",
+    "url": "https://corp.omake.co.jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BC%81%E6%8A%80%E8%A1%93%E9%9D%A9%E6%96%B0%E3%81%8C%E5%B0%8E%E3%81%8F%E6%AC%A1%E4%B8%96%E4%BB%A3ai%E3%81%AE%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT",
+    "url": "https://tm-co.co.jp/glossary/current-status-of-commercialization-of-mgo-based-mtj-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://tokyo-ai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy",
+    "url": "https://tokyo-ai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "pass": 3
+   },
+   {
+    "quote": "最新ニュース、法規制、用語集",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "pass": 3
+   },
+   {
+    "quote": "Regulations & Ethics",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な基準として、以下の条件が重なった時が本格的な検討のタイミングとされています",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響｜EDGEMATRIX",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "米国の対中輸出規制は、技術覇権を巡る米中間の緊張の高まりを背景に、近年厳格化が進んでいます",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "特に、人工知能（AI）や半導体技術は、米国の安全保障政策の中心に位置づけられ、輸出規制の主要な対象となっています",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "このブログでは、最新の米国対中輸出規制の状況とその見通しを概観し、日本のエッジAI市場への影響について考察します",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "1. 米国の対中輸出規制の最新状況",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月以降、米国商務省は半導体製造装置やAI関連技術に対する新たな対中輸出規制を導入しました",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "AI向け半導体の規制強化",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "：2025年1月、AIアクセラレータ（例：NVIDIAのH20チップ）を含む高性能半導体について、対中輸出許可を義務化",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "規制対象の拡大",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月の報道では、トランプ政権下でAIや量子コンピューティング関連技術の輸出規制がさらに強化される見込みであり、グローバルな技術サプライチェーンに大きな変動が生じています",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "2. 米国の対中輸出規制の見通し",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "規制の継続的強化",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "特に、AIや5G関連技術の輸出規制は2026年以降も拡大する見込み",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "4. 米国の対中輸出規制が日本のエッジAI市場に与える影響",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "IoTセンサーの爆発的な増加やデータプライバシー規制の強化を背景に、これまでデータセンターに集約されていた推論処理が末端のデバイスへと移行しつつある状況です",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "GDPRやCCPAに代表されるデータ保護規制の強化、5Gネットワークの商用展開、そして5nm以下の先端プロセスノードの実用化が、この構造転換を後押ししています",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、エッジAIチップ市場の成長を支える技術的・制度的要因、チップセット別・地域別の競争構造や産業応用の実態、そして、今後の展望について取り上げたいと思います",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 26262に基づく機能安全の認証要件とASIL-D対応が1台あたりのチップ価値を引き上げ、長期的な収益拡大に寄与すると期待されます",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国では、データセンター向けGPUへの輸出規制を受けて、スマート監視、EV向けECU、産業用ロボットコントローラなどエッジ領域へのシリコン投資が加速している状況です",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシー規制と5G：制度と技術が交差する成長ドライバー",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップの需要を押し上げるもう一つの構造的要因は、データプライバシー規制と通信インフラの進化が交差する地点にあります",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "GDPRやCCPAが個人情報の取り扱いに対する罰則を厳格化する中、生データをクラウドに送信せずデバイス上で推論を完結させるモデルが、規制対応と性能向上を同時に実現する解として浮上しています",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "Intel、NVIDIA、Qualcommなどの米国の主要企業は、セキュリティシステム、自動運転車、スマートファクトリー向けのエッジコンピューティング用最先端AIチップを開発しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA、Qualcomm、Intel、Apple、MediaTekはエッジ人工知能チップ業界の主要企業であり、合わせて市場シェアの約55%を占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジ人工知能チップ市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップの主要企業である NVIDIA は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップ業界の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、Advanced Micro Devices, Inc.、Apple、Arm Limited、BrainChip, Inc.、Broadcom Inc.、Intel Corporation、Lattice Semiconductor、Marvell、MediaTek Inc.、Mythic、NVIDIA Corporation が含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "労働力の確保が難しくなる中、日本企業は、業務の効率性と精度を維持しつつ、人的労働への依存度を低減させることを目的とした自動化戦略にますます注力しています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学・SUMCO・東京エレクトロン・SCREEN・ディスコ・JSRなど日本企業の対中売上は大きく、米国の技術や装置を使う企業も実質的に規制の影響を受けます",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "TSMCアリゾナの協力企業やMicron・Samsungの周辺に投資する日本企業の判断に影響し、中国に既存拠点を持つ日系（信越化学・JSR 等）は抵触リスクがあります",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の取り組み",
+    "url": "https://corp.omake.co.jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BC%81%E6%8A%80%E8%A1%93%E9%9D%A9%E6%96%B0%E3%81%8C%E5%B0%8E%E3%81%8F%E6%AC%A1%E4%B8%96%E4%BB%A3ai%E3%81%AE%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業も積極的にエッジAI分野に参入しています",
+    "url": "https://corp.omake.co.jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BC%81%E6%8A%80%E8%A1%93%E9%9D%A9%E6%96%B0%E3%81%8C%E5%B0%8E%E3%81%8F%E6%AC%A1%E4%B8%96%E4%BB%A3ai%E3%81%AE%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本企業の技術力とものづくりの強みを活かした独自のエッジAIソリューションの開発が期待されます",
+    "url": "https://corp.omake.co.jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BC%81%E6%8A%80%E8%A1%93%E9%9D%A9%E6%96%B0%E3%81%8C%E5%B0%8E%E3%81%8F%E6%AC%A1%E4%B8%96%E4%BB%A3ai%E3%81%AE%E5%85%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "：FDPRにより、日本企業も米国の技術を使用する製品の中国向け輸出において厳格なコンプライアンスが求められる",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "：中長期的に、中国が独自のエッジAI技術を開発する可能性があり、日本企業は新たな競合との競争に備える必要がある",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が柔軟な戦略と技術革新を通じて規制環境に対応できれば、グローバル市場での競争力を強化し、エッジAI分野でのリーダーシップを確立できるでしょう",
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業業績",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国のハイテク大手はエヌビディア製の半導体を欲しいものの、中国政府は国内メーカーに開発を促して自給体制を整えたい意向という",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、および主要地域・国別に、エッジAI推論チップ市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://newscast.jp/news/7287213",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーのエッジAI推論チップの製造地域分布、販売地域、提供製品タイプに関する情報、市場集中度分析、競争環境分析、CR3、CR5、CR10といった集中度指標の2024年から2026年までの分析、新製品情報と潜在的な新規参入企業、市場におけるM&A活動と戦略が詳細に解説されています",
+    "url": "https://newscast.jp/news/7287213",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、世界の主要AI半導体メーカーの動向と、日本企業がこの分野でどのような役割を果たし、今後どのような展開が期待されるのかを深掘りしていきます",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "周辺産業で重要な日本企業",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業への示唆",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "高性能AI半導体に必要なHBM（高帯域幅メモリ）の主要メーカー",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がAI半導体市場でさらなる競争力を高めるためには、以下の点が重要になります",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロン、信越化学工業、SUMCOなどの日本企業は、AI半導体製造に不可欠な装置や材料で世界的な競争力を持っています",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みを総合的に推進することで、日本企業はAI半導体市場での地位を確固たるものとし、世界の競争に追いつき、さらにはリードしていくことが期待されます",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": "エッジAIの導入コストは、日本国内の約360万社に上る中小企業にとって依然として大きな障壁となっています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "第9位:日本国内にデータセンター設立への動きが活発に、秋田県に続き四国も",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "The edge AI-hardware market in Japan is poised for growth at a remarkable 33.16% CAGR from 2025 to 2035, driven by advancements in AI algorithms, IoT integration, and demand for real-time data processing.",
+    "url": "https://www.marketresearchfuture.com/reports/japan-edge-ai-hardware-market-46825",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "エッジAIの導入コストは、日本国内の約360万社に上る中小企業にとって依然として大きな障壁となっています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーのエッジAI推論チップの製造地域分布、販売地域、提供製品タイプに関する情報、市場集中度分析、競争環境分析、CR3、CR5、CR10といった集中度指標の2024年から2026年までの分析、新製品情報と潜在的な新規参入企業、市場におけるM&A活動と戦略が詳細に解説されています",
+    "url": "https://newscast.jp/news/7287213",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "標準的なエンタープライズ向けエッジAIのパイロットプロジェクトの場合、初期投資額は通常、1拠点あたり3,000万～5,000万円程度となります",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を無駄にしないでください！",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を2025年の実用的な",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算が失効する前に、 最大限に活用しよう!",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を最大限に活用する お手伝いをいたします!",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "株式による資金調達および2024年12月以降の株式の希薄化を伴わない大規模な政府助成金を含めると、累計調達額は約150億円（1億米ドル）に達する",
+    "url": "https://www.edgecortix.com/ja/news",
+    "pass": 3
+   },
+   {
+    "quote": "EdgeCortix、AI RANチップレット開発のためNEDOから40億円の助成金を授与",
+    "url": "https://www.edgecortix.com/ja/news",
+    "pass": 3
+   },
+   {
+    "quote": "NEDOは、エネルギー効率の高い次世代AIチップレットの開発のため、日本の半導体企業EdgeCortixに40億円の助成金を授与した",
+    "url": "https://www.edgecortix.com/ja/news",
+    "pass": 3
+   },
+   {
+    "quote": "米国の半導体補助金（CHIPS法、527億ドル）には、中国での施設拡張を10年間禁じる条項や、懸念国の主体を制限する条件が付きます",
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月の経済対策において策定した「AI・半導体産業基盤強化フレーム」に基づき、半導体・AI分野に対して、2030年度までの7年間に10兆円以上の公的支援を行うことで、10年間で50兆円を超える官民投資を促し、約160兆円の経済波及効果を実現します",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "pass": 3
+   },
+   {
+    "quote": "２．予算事業一覧",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度当初予算",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年度当初予算（PR資料）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度補正予算",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度補正予算（PR資料）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度当初予算",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度当初予算（PR資料）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和６年度補正予算",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和６年度補正予算（PR資料）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "pass": 3
+   },
+   {
+    "quote": "サウジアラビアはAI関連に200億SAR（約53.3億ドル）を計上し、UAEは2030年までにGDPの14%をAIから創出する目標を掲げています",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "◇韓国、半導体の受託工場検討 官民で4800億円投資 (12月12日付け 日経)",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資額は4兆5000億ウォン（約4800億円）",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "経産省は1000億円の予算規模を見込む",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパ委員会の「ヨーロッパデジタル10年ダッシュボードレポート」によると、ヨーロッパにおけるエッジコンピューティングインフラへの投資額は、2022年の335億ユーロから2026年には568億ユーロに増加し、年平均成長率は14.1%に達すると予測されています",
+    "url": "https://www.sdki.jp/blog/what-are-edge-ai-chips-future-ai-importance/173",
+    "pass": 3
+   },
+   {
+    "quote": "高市内閣が2025年末に発表した成長戦略では、AIと半導体を危機管理投資の戦略分野として位置づけており、経済産業省は、この取り組みの一環として、2025年度前期予算において情報技術振興庁を通じてラピダス社に1000億円を拠出する予定であります",
+    "url": "https://www.sdki.jp/blog/what-are-edge-ai-chips-future-ai-importance/173",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "エッジAIチップ市場 の 規模 とシェアに関するレポート、2034年 — エッジAIチップ市場 の 規模 とシェアに関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップ 市場の規模とシェアに関するレポート、2034年 — エッジAIチップ 市場の規模とシェアに関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップ 市場、2031年に115億ドル規模へ — エッジAIチップ 市場、2031年に115億ドル規模へ オルタナティブ・ブログ https://blogs.itmedia.co.jp > business20 > 2026/03",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国政府の AI 半導体対中輸出許可に対する波紋、中国の国産品 ... — 米国政府の AI 半導体対中輸出許可に対する波紋、中国の国産品 ... セミコンポータル https://www.semiconportal.com > 251215-pickup862",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国の予算億円": [
+   {
+    "value": "150",
+    "url": "https://www.edgecortix.com/ja/news",
+    "quote": "株式による資金調達および2024年12月以降の株式の希薄化を伴わない大規模な政府助成金を含めると、累計調達額は約150億円（1億米ドル）に達する"
+   },
+   {
+    "value": "40",
+    "url": "https://www.edgecortix.com/ja/news",
+    "quote": "EdgeCortix、AI RANチップレット開発のためNEDOから40億円の助成金を授与"
+   },
+   {
+    "value": "800",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "quote": "◇韓国、半導体の受託工場検討 官民で4800億円投資 (12月12日付け 日経)"
+   },
+   {
+    "value": "000",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "quote": "経産省は1000億円の予算規模を見込む"
+   },
+   {
+    "value": "000",
+    "url": "https://www.sdki.jp/blog/what-are-edge-ai-chips-future-ai-importance/173",
+    "quote": "高市内閣が2025年末に発表した成長戦略では、AIと半導体を危機管理投資の戦略分野として位置づけており、経済産業省は、この取り組みの一環として、2025年度前期予算において情報技術振興庁を通じてラピダス社に1000億円を拠出する予定であります"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218300.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/8082788",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5320140",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edgecortix.com/ja/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9017/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20250122.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.omake.co.jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BC%81%E6%8A%80%E8%A1%93%E9%9D%A9%E6%96%B0%E3%81%8C%E5%B0%8E%E3%81%8F%E6%AC%A1%E4%B8%96%E4%BB%A3ai%E3%81%AE%E5%85%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tm-co.co.jp/glossary/current-status-of-commercialization-of-mgo-based-mtj-edge-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jst.go.jp/program/edge-ai-semicon/project/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-ai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttpc.co.jp/focusinsight/topic/topic39_edge_ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jst.go.jp/program/edge-ai-semicon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/subsidies/62265",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2024/0501/15961bdfa5453dcb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/global-markets/MDYGFJFBWVMQJGIYZIA5DSEIZI-2025-11-05/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/blog/what-are-edge-ai-chips-future-ai-importance/173",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/7287213",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabukarin.net/ai/4936/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aidma-hd.jp/ai/edgeai-kaihatu-osusume/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%82%A8%E3%83%83%E3%82%B8%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/edge-ai-hardware-market-158498281.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/japan-edge-ai-hardware-market-46825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/edge-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-artificial-intelligence-market-113971",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextmsc.com/compass/japan/edge-ai-market/buyer-type?srsltid=AYCX9vKpYvRKo1xw25MQ1d9n925DIaouKz-mTqwM-h784daZEWTty-vQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enkiai.com/ai-market-intelligence/ai-chip-shortage-2025-uncover-the-global-tech-crisis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/2025%E2%80%93present_global_memory_supply_shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cnbc.com/2026/01/26/memory-chip-shortage-synopsys-lenovo-ai-data-centers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/technology/comments/1srmn2p/chipmakers_on_track_to_meet_only_60_of_ai_memory/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.csis.org/analysis/beyond-memory-cycle-ai-hbm-and-new-semiconductor-shortage",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エッジAIチップ 国内市場規模 億円",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218300.html",
+    "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "https://newscast.jp/smart/news/8082788",
+    "https://www.atpress.ne.jp/news/5320140",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%B8%82%E5%A0%B4-107023",
+    "https://straitsresearch.com/jp/report/edge-ai-market",
+    "https://www.cao.go.jp/others/soumu/pitch2m/pdf/20190607_4902siryou.pdf",
+    "https://my.idc.com/getdoc.jsp?containerId=prJPJ53301925",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r06/html/nd218300.html"
+   ]
+  },
+  {
+   "query": "エッジAIチップ 国内 参入企業 社",
+   "results": [
+    "https://www.edgecortix.com/ja/news",
+    "https://metoree.com/categories/9017/",
+    "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "https://www.aist.go.jp/aist_j/magazine/20250122.html",
+    "https://corp.omake.co.jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BC%81%E6%8A%80%E8%A1%93%E9%9D%A9%E6%96%B0%E3%81%8C%E5%B0%8E%E3%81%8F%E6%AC%A1%E4%B8%96%E4%BB%A3ai%E3%81%AE%E5%85%A8/",
+    "https://www.aidma-hd.jp/ai/edgeai-kaihatu-osusume/",
+    "https://www.jst.go.jp/program/edge-ai-semicon/overview/index.html",
+    "https://mono.ipros.com/cg2/%E3%82%A8%E3%83%83%E3%82%B8%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/",
+    "https://www.geekly.co.jp/column/cat-technology/about_edge_ai_companies/",
+    "https://note.com/edgematrix/n/n73850be1eb97"
+   ]
+  },
+  {
+   "query": "エッジAIチップ 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://www.youtube.com/watch?v=rYFVwt6zHPQ",
+    "https://tm-co.co.jp/glossary/current-status-of-commercialization-of-mgo-based-mtj-edge-ai/",
+    "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://www.jst.go.jp/program/edge-ai-semicon/project/index.html",
+    "https://tokyo-ai.co.jp/",
+    "https://www.aist.go.jp/aist_j/magazine/20250122.html",
+    "https://newscast.jp/smart/news/8082788",
+    "https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/",
+    "https://www.nttpc.co.jp/focusinsight/topic/topic39_edge_ai/"
+   ]
+  },
+  {
+   "query": "エッジAIチップ 予算 補助金 基金 2026",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "https://www.jst.go.jp/program/edge-ai-semicon/",
+    "https://hojyokin-portal.jp/subsidies/62265",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "https://www.jetro.go.jp/biz/areareports/special/2024/0501/15961bdfa5453dcb.html",
+    "https://www.cio.com/article/4125291/%E6%97%A5%E6%9C%AC%E3%80%8C%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%BE%A9%E6%B4%BB%E3%80%8D%E3%81%B8%E3%80%81%E5%9B%BD%E3%81%AE%E3%82%AB%E3%83%8D%E3%81%AF%E3%81%A9%E3%81%86%E5%8B%95%E3%81%84%E3%81%A6%E3%81%84.html",
+    "https://it-shien.smrj.go.jp/",
+    "https://mirasapo-plus.go.jp/infomation/31537/",
+    "https://newscast.jp/news/7287213",
+    "https://www.ai-souken.com/article/japan-ai-semiconductor-policy-2026"
+   ]
+  },
+  {
+   "query": "エッジAIチップ 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://note.com/edgematrix/n/n5b8403acc4ff",
+    "https://www.reuters.com/jp/markets/global-markets/MDYGFJFBWVMQJGIYZIA5DSEIZI-2025-11-05/",
+    "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html",
+    "https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html",
+    "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "https://www.aist.go.jp/aist_j/magazine/20250122.html",
+    "https://www.sdki.jp/blog/what-are-edge-ai-chips-future-ai-importance/173",
+    "https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market"
+   ]
+  },
+  {
+   "query": "エッジAIチップ 国内 主要企業 メーカー",
+   "results": [
+    "https://metoree.com/categories/9017/",
+    "https://newscast.jp/news/7287213",
+    "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "https://kabukarin.net/ai/4936/",
+    "https://jp.linkedin.com/pulse/%E3%82%A8%E3%83%83%E3%82%B8-ai-ic%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A72026%E5%B9%B4%E7%89%88-praxentax-eilce",
+    "https://www.aidma-hd.jp/ai/edgeai-kaihatu-osusume/",
+    "https://mono.ipros.com/cg2/%E3%82%A8%E3%83%83%E3%82%B8%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/",
+    "https://pando.life/article/4759679",
+    "https://www.geekly.co.jp/column/cat-technology/about_edge_ai_companies/",
+    "https://japan.cnet.com/release/31206056/"
+   ]
+  },
+  {
+   "query": "edge AI chip Japan market size",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/edge-ai-hardware-market-158498281.html",
+    "https://www.marketresearchfuture.com/reports/japan-edge-ai-hardware-market-46825",
+    "https://www.gminsights.com/industry-analysis/edge-ai-market",
+    "https://www.fortunebusinessinsights.com/japan-artificial-intelligence-market-113971",
+    "https://www.nextmsc.com/compass/japan/edge-ai-market/buyer-type?srsltid=AYCX9vKpYvRKo1xw25MQ1d9n925DIaouKz-mTqwM-h784daZEWTty-vQ",
+    "https://www.alliedmarketresearch.com/japan-edge-ai-market-A14986",
+    "https://www.linkedin.com/pulse/edge-based-ai-market-us-japan-korea-europe-strategic-j0xqf",
+    "https://www.grandviewresearch.com/horizon/outlook/edge-ai-market/japan",
+    "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://www.decisionsadvisors.com/insights/japan-edge-artificial-intelligence-chips-market"
+   ]
+  },
+  {
+   "query": "edge AI chip shortage backlog supply gap 2025",
+   "results": [
+    "https://enkiai.com/ai-market-intelligence/ai-chip-shortage-2025-uncover-the-global-tech-crisis/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%93present_global_memory_supply_shortage",
+    "https://www.cnbc.com/2026/01/26/memory-chip-shortage-synopsys-lenovo-ai-data-centers.html",
+    "https://www.facebook.com/CharlesPayneFox/posts/is-ais-memory-bottleneck-an-opportunity-for-micronmemory-is-a-major-bottleneck-f/1711217090359988/",
+    "https://www.reddit.com/r/technology/comments/1srmn2p/chipmakers_on_track_to_meet_only_60_of_ai_memory/",
+    "https://www.csis.org/analysis/beyond-memory-cycle-ai-hbm-and-new-semiconductor-shortage",
+    "https://www.microchipusa.com/industry-news/ai-hardware-shortage-beyond-gpus?srsltid=AYCX9vLmddaycW5OjxijD74WDvmgMP3nHkmcUr4Qqxp30HBvtRNmuMbU",
+    "https://spectrum.ieee.org/dram-shortage",
+    "https://medium.com/@Elongated_musk/how-the-chip-shortage-never-really-ended-fbcc663aa3bd",
+    "https://blog.imseankim.com/ai-chip-shortage-september-2025-nvidia-blackwell-supply-update/"
+   ]
+  }
+ ],
+ "missing": {}
+}

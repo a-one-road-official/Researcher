@@ -1,0 +1,1228 @@
+{
+ "name": "航空機エンジン",
+ "en": "aircraft engine",
+ "aliases": [
+  "ジェットエンジン"
+ ],
+ "context": "6 航空・宇宙 ①民間航空機",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:22:10.721469+00:00",
+ "evidence": {
+  "国内市場規模": [
+   {
+    "quote": "航空機用エンジンメーカーの国内市場規模は、現在の2,839億円と推計",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機用エンジンの日本市場（～2031年）、市場規模（ナローボディ機、ワイドボディ機、リージョナル機）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/1478379",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機用エンジンの日本市場（～2031年）、市場規模（ナローボディ機、ワイドボディ機、リージョナル機）・分析レポートを発表",
+    "url": "https://newscast.jp/news/1478379",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「民間航空機用エンジンの日本市場（～2031年）、英文タイトル：Japan Commercial Aircraft Engines Market 2031」調査資料を発表しました",
+    "url": "https://newscast.jp/news/1478379",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "航空機用エンジンメーカー AI注目トレンド 国策・規制が成長の要因に",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で航空機用エンジンメーカーに影響する市場環境の変化を8つのカテゴリーに分類すると、プラス要因としては国策・規制、一方マイナス要因としては技術革新の影響が大きいと予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "プラス要因である国策・規制の具体的な要因は、防衛装備輸出規制緩和や防衛関係費金額増加、海上保安庁の能力強化実施と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "ManufacturerʣͱΑ͹ΕΔΤϯδϯϝʔΧʔͷٕज़։ൃΛྺ࢙తʹ࿦͍ͯ͡Δɽجຊతʹ͸",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ͷਤ໘ʢି༩ਤʣͱ࢓༷ʹ΋ͱ͍ͮͯ੡଄͢Δྫ֎తͳ RSP ܗଶʢManufacturing RSPʣΛ",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "δϯͷࣜܕঝೝͷͨΊʹ͸ɼ࿈๜نۭߤଇ ʢFederal Aviation Regulation: FARʣ ͷ଱ۭੑ ʢୈ",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Engine Manufacturers",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Abstract",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "international division of labor in terms of commercial aircraft engine manufacturing.",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "companies have grown from subcontractors into module partners is that long-term trading",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturers. Second, Japanese companies cannot be involved in engine core",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "肩しうる評価基準で試験を実施している",
+    "url": "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)米国の大統領 Policy と Plan",
+    "url": "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Research and Development Policy”が発布された（図 11",
+    "url": "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy 2006",
+    "url": "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前述の米国大統領による 2007 年 Policy でも試験インフラの重要性をうたっている",
+    "url": "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 航空機生産には、個別に厳格な安全認証が存在し、代替には大きなコス",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ ものづくりの限界は『砂型鋳造＋AM（Additive Manufacturing）』で",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 人材レベルに応じた制度・体制の構築（経産省、国交省、文科省、厚労省、防衛省の連携）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 型式証明制度の整備",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 制度・認証体制・税制等",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 認証取得等への支援",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 貿易保険法改正（海外航空会社に対する航空機リース事業を営む国内事業者",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（特定目的会社を含む）への融資の付保を可能とするよう制度変更）等により、我",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 複数機種への適用や、カスタマーサポートまで含めた事業の複合性、安全性認証への対応など、装備品分野",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "における参入障壁の高さを克服するため、複数の事業者の力を持ち寄り、資金力、認証取得能力、経験値を",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 装備品の安全性認証について、2019年に航空法を改正し、航空機に装備する全て",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の装備品・部品について、欧米の制度と同様に、原則として、国土交通省又は外国当",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "局の認定を受けた装備品メーカー等が安全性を確認する制度を2022年６月から",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• JAXA主導の「航空機装備品ソフトウェア認証技術イニシアティブ」を引き継ぐ形で",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に航空機装備品認証技術コンソーシアム（CerTCAS）が設立",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "​・国や他自治体等の補助金制度と併用可能",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "Kプロ/航空機の設計・製造・認証等のデジタル技術を用いた開発製造プロセス高度化技術の開発・実証",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Faraday Factory Japan、デロイト",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の設計・製造・認証等のデジタル技術を用いた開発製造プロセス高度化技術の開発・実証",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の航空機産業の国際競争力の向上のために、航空機の設計・製造・認証などにMBSEなどのデジタル技術を",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CbA : Certification by Analysis 実機を用いずにデジタル上の分析により行う安全性認証",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設計DX、生産DX、認証DXに関する研究開発",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の確立および認証等に必要な安全基準への適合性を証明するデータ取得に向けた基盤技術を整える",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CFRPの高レート成形プロセスのメカニズムを解析し、認証等に必要な安全基準への適合を証明する論理を構築するための高レート成形",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高レート成形プロセスにより、認証等に必要な安全基準への適合性を証明するデータを取得し成形に関する材料認証共通データベースを",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参画を果たすべく、革新的な生産性を実現する製造技術開発を行うともに、認証取得に向けた評価プロセスの実証を",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "材料認証取得に向けた評価プロセスの実証",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "制度ドキュメント",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": "実際の部品に使うには、認証を取る必要があります",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": ": 認証って、航空機関連の安全基準みたいなものですか",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": "認証取得を念頭に",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": ": ただ、これは「制度が曖昧」という意味ではありません",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": ": jGrants上では、この制度は",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": ": 今回で言うと、「国産ニッケル基超合金」「高温・高圧」「動的部品」「認証取得」「量産工程」「材料物性データ」「データベース」あたりがキーワードですね",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": "認証取得を念頭に置く",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": ": 材料としての品質だけでなく、認証に耐え得るデータをそろえる視点が求められているんですね",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": "提案書でも「どうやって認証を見据えたデータを取るのか」を語れるかが大きなポイントになりそうです",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": "「認証取得」「量産工程」「データベース整備」の3つを軸に、自分たちの研究開発がどう貢献するかを具体的に描きましょう",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": ": 研究開発系の公募では、設備費、人件費、消耗品費、外注費などが分類されますが、どの費目が対象になるかは制度ごとに違います",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": "認証取得・量産工程・データベース整備を軸に提案を組み立てる",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": "制度について、AIが何でもお答えします",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": "このページの制度について、AIが何でもお答えします",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 航空機生産には、個別に厳格な安全認証が存在し、代替には大きなコス",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ ものづくりの限界は『砂型鋳造＋AM（Additive Manufacturing）』で",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "AIが予測する航空機用エンジンメーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する航空機用エンジンメーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "当ページでは、市場予測、主要企業ランキング、成長やリスクをもたらす外部要因の分析など、戦略立案に役立つ詳細なAI予測を無料でご確認いただけます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用エンジンメーカー 主要企業シェアランキング 株式会社IHI・川崎重工業株式会社・三菱重工業株式会社等",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェア上位の日本企業",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "表 ４ ：日本企業が参画する民間航空機エンジンのプログラム（RSP 方式を中心に）",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "is required in terms of technology, and Japanese companies have accumulated technology",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturers. Second, Japanese companies cannot be involved in engine core",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業参加比率：15％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業参加比率：21％ 日本企業参加比率：35％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*1,2,3：主要企業の売上高合計（2010年）現代航空論より *4：主要企業の売上高合計（2012年）Airline Businessより",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*5：主要企業の保有機材価値（2013年現在）、Airline Businessより *6:主要企業の売上高合計（2012年）Airline Businessより",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が共同開発先として参画",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 経済産業省と欧米政府・企業との協力枠組を活用し、マッチングや共同技術開発支援を通じて日本企業と",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業参加比率：15％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業参加比率：21％ 日本企業参加比率：35％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が共同開発先として参画",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*1,2,3：主要企業の売上高合計（2010年）現代航空論より *4：主要企業の売上高合計（2012年）Airline Businessより",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*5：主要企業の保有機材価値（2013年現在）、Airline Businessより *6:主要企業の売上高合計（2012年）Airline Businessより",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業やIHIなどの国内メーカーは、世界のOEMと提携し、特定の機体クラスに最適化されたエンジンを提供することで、高性能かつ信頼性が高く、持続可能な民間航空推進ソリューションにおける日本のリーダーシップを強化している",
+    "url": "https://newscast.jp/news/1478379",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業やIHI株式会社をはじめとする国内メーカーは、世界のOEMメーカーと協力して、これらの用途に合わせたエンジンを設計しており、日本の民間航空機群が効率的かつ環境的に持続可能で、技術的に先進的な状態を維持できるよう確保しています",
+    "url": "https://newscast.jp/news/1478379",
+    "pass": 3
+   },
+   {
+    "quote": "• 主要企業プロファイル",
+    "url": "https://newscast.jp/news/1478379",
+    "pass": 3
+   },
+   {
+    "quote": "日本のジェットエンジン開発は、世界3強に比べると規模が小さいものの、IHI、三菱重工業、川崎重工業が主要メーカーとして航空機エンジン関連事業を展開しています",
+    "url": "https://ja.phongnhaexplorer.com/soj/%E6%8A%80%E8%A1%93/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%89%E5%A4%A7%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AF%EF%BC%9F.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "航空機エンジン市場規模 、シェア、動向 |成長 [2034] — 航空機エンジン市場規模 、シェア、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "pass": 3
+   },
+   {
+    "quote": "民間 航空機エンジン メーカーにおける国際分業の構造 — 民間 航空機エンジン メーカーにおける国際分業の構造 立命館大学 PDF https://www.ritsumei.ac.jp > ssrc > memoirs > kiyou37",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場規模 、シェア、予測 | 業界分析 [2033] — 航空機エンジン市場規模 、シェア、予測 | 業界分析 [2033] IMARC Group https://www.imarcgroup.com > Aerospace and Defense",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "民間 航空機エンジンメーカー における国際分業の構造 — 民間 航空機エンジンメーカー における国際分業の構造 立命館大学 PDF https://www.ritsumei.ac.jp > ssrc > memoirs > kiyou37",
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size , Share, Trends | Growth [2034] — Aircraft Engine Market Size , Share, Trends | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size , Share & Industry Report, 2035 — Aircraft Engine Market Size , Share & Industry Report, 2035 Global Market Insights Inc. https://www.gminsights.com > aircraft...",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Aircraft Engine Test Cells Market (2023-2028) — Japan Aircraft Engine Test Cells Market (2023-2028) MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/aircraft-engine-test-cells-market/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market - Industry Analysis Forecast 2034 — Aircraft Engine Market - Industry Analysis Forecast 2034 Stellar Market Research https://www.stellarmr.com > report",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "現在では部品製造技術は世界トップレベルに達し、品質管理や納期を含めてわが国への評価",
+    "url": "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ボーイングの状況：747事業不調での資金不足、757/767同時開発への要員不足に対応するため、共同開発相手を探す",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "認証に必要となる「実証試験インフラの整備」が不足しているという課題から認証ノウハウの共有、実証試験イ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 安全認証プロセスの理解・経験不足",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高度化した認証プロセスへの理解・経験不足により、設計変更等を繰り返し、開発が長期化",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "足下のＲＪ市場もパイロット不足等により先行き不透明",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお不足する部分について、市場メカニズムを活用した制度として、定められたベースラインを超過した排出",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ても、労働市場にも多大な影響を与えており、雇用の喪失や人手不足、それに伴う賃金上昇が、財生産や",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による供給制約",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価格高騰・供給不足",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウクライナ侵攻等に伴う物流や原材料のコスト増、さらには労働力や部品の不足等によるサプライチェーンの",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 労働力や部品の不足等により、B787やA350の部品供給",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 戦略的プロジェクトの特定・支援（域内の生産能力強化、域外調達先の多様化等）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内生産能力の増強、同盟国との関係強化等の対応策が提言",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "複合材熱硬化成形型の生産能力増強および正寸穴加工を含む高精度部品加工の生産体制構築",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "ボーイングの状況：747事業不調での資金不足、757/767同時開発への要員不足に対応するため、共同開発相手を探す",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 安全認証プロセスの理解・経験不足",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高度化した認証プロセスへの理解・経験不足により、設計変更等を繰り返し、開発が長期化",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "足下のＲＪ市場もパイロット不足等により先行き不透明",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお不足する部分について、市場メカニズムを活用した制度として、定められたベースラインを超過した排出",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 戦略的プロジェクトの特定・支援（域内の生産能力強化、域外調達先の多様化等）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内生産能力の増強、同盟国との関係強化等の対応策が提言",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 安全認証プロセスの理解・経験不足や対象となる市場の縮小など、投資回収可能性の観点からMSJは開発中止に至った",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足・育成",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ジンについては世界的な整備能力不足",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 世界的整備キャパシティ不足リスクへの備え",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 整備従事者の不足対応",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 整備従事者（作業者）の不足",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• グローバルな整備能力のひっ迫、エンジン事業参画における整備能力保持の条件化により整備能力の強化が必要",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事実上の新規参入の中で、安全認証プロセスの理解・経験不足による開発長期化や、度重なる設計変更が、サプライヤー対応も含めた事業コストの増",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Dependence on specialized components and precision materials creates bottlenecks, delays production schedules, and restricts timely engine deliveries, impacting both commercial and defense aircraft programs.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "この予算は年々拡大し、2007～2013 年の期間で",
+    "url": "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エンジン（図 12）の補助金による実用化研究に至",
+    "url": "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 777Xの国際共同開発への基金助成",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " GE9Xの国際共同開発への基金助成",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 航空機国際共同開発促進基金（７７７Ｘ事業）において、「マルチマテリアル構",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①交付金620億円（累計）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（⑤令和３年度末基金残高：116億円）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1号助成：1/2補助",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「航空宇宙産業高度強靭化補助金」の2026年度第1回採択案件を決定しました - 愛知県",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "「航空宇宙産業高度強靭化補助金」の2026年度第1回採択案件を決定しました",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県は、今年度から、次なる完成機事業への参画や宇宙産業、次世代空モビリティ等の新興分野のサプライチェーンの強化、供給力の向上を目的として、これに資する企業の新規設備投資を支援する「航空宇宙産業高度強靭化補助金」を創設し、公募しています（2026年4月1日発表済み）",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小・中堅企業1／4以内※、大企業1／6以内（ただし、国や他自治体等の補助金を併用する場合、合わせて中小・中堅企業3／4以内、大企業1／2以内）",
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "pass": 3
+   },
+   {
+    "quote": "GI基金／電力制御、熱・エアマネジメントシステム技術開発 2026年度予算 約23.8億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度予算 約23億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Kプロ/航空機エンジン向け先進材料技術の開発・実証 2026年度予算 約6.9億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度予算 約12.5億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次世代空モビリティの社会実装に向けた実現プロジェクト 2026年度予算 約28億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機向け革新複合材共通基盤技術開発事業 2026年度予算 約13億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度予算総額 ： 約270億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次世代航空機向け静脈産業構築事業 2026年度予算 約5.7億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "GI基金／水素航空機向けコア技術開発 2026年度予算 約24.4億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "GI基金／水素燃料電池電動推進システム技術開発 2026年度予算 約31.5億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "GI基金／水素燃料電池コア技術開発 2026年度予算 約6.7億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "GI基金／航空機主要構造部品の複雑形状・飛躍的軽量化開発 2026年度予算 約6.9億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度予算 約0.5億円",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン材料「国産ニッケル基超合金」の公募を徹底解説【2026年度】 | 補助金エージェント",
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "pass": 3
+   },
+   {
+    "quote": "積投資額 グローバル 2,050B$（246兆円） 181B$（22兆円） 3,170B$（380兆円）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "積投資額 グローバル 523B$（63兆円） 66B$（7.9兆円） 463B$（56兆円）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：NEDO「2022年度成果報告書 グリーンイノベーション基金事業／次世代航空機の開発/次世代航空機の開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「水素航空機向けコア技術開発」がNEDOグリーンイノベーション基金事業に採択（2021年11月5日）",
+    "url": "https://www.khi.co.jp/pressrelease/detail/20261008_1.html",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "■100社以上の応募の中、書類選考を通過した20社が加工トライアル",
+    "url": "https://mono.ipros.com/cg2/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E9%83%A8%E5%93%81/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内参入社数": [
+   {
+    "value": "100",
+    "url": "https://mono.ipros.com/cg2/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E9%83%A8%E5%93%81/",
+    "quote": "■100社以上の応募の中、書類選考を通過した20社が加工トライアル"
+   },
+   {
+    "value": "20",
+    "url": "https://mono.ipros.com/cg2/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E9%83%A8%E5%93%81/",
+    "quote": "■100社以上の応募の中、書類選考を通過した20社が加工トライアル"
+   }
+  ],
+  "国内市場億円": [
+   {
+    "value": "2,839",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "quote": "航空機用エンジンメーカーの国内市場規模は、現在の2,839億円と推計"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "620",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "quote": "①交付金620億円（累計）"
+   },
+   {
+    "value": "116",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "quote": "（⑤令和３年度末基金残高：116億円）"
+   },
+   {
+    "value": "23.8",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "GI基金／電力制御、熱・エアマネジメントシステム技術開発 2026年度予算 約23.8億円"
+   },
+   {
+    "value": "23",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "2026年度予算 約23億円"
+   },
+   {
+    "value": "6.9",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "Kプロ/航空機エンジン向け先進材料技術の開発・実証 2026年度予算 約6.9億円"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "2026年度予算 約12.5億円"
+   },
+   {
+    "value": "28",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "次世代空モビリティの社会実装に向けた実現プロジェクト 2026年度予算 約28億円"
+   },
+   {
+    "value": "13",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "航空機向け革新複合材共通基盤技術開発事業 2026年度予算 約13億円"
+   },
+   {
+    "value": "270",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "2026年度予算総額 ： 約270億円"
+   },
+   {
+    "value": "5.7",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "次世代航空機向け静脈産業構築事業 2026年度予算 約5.7億円"
+   },
+   {
+    "value": "24.4",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "GI基金／水素航空機向けコア技術開発 2026年度予算 約24.4億円"
+   },
+   {
+    "value": "31.5",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "GI基金／水素燃料電池電動推進システム技術開発 2026年度予算 約31.5億円"
+   },
+   {
+    "value": "6.7",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "GI基金／水素燃料電池コア技術開発 2026年度予算 約6.7億円"
+   },
+   {
+    "value": "0.5",
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "quote": "2026年度予算 約0.5億円"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://deallab.info/aircraft-engine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/event/business_briefing/_cms_conf01/__icsFiles/afieldfile/2023/07/11/pdf_2014_03_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/products/aeroengine_space_defense/aircraft_engines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/b6b7e708-d0f7-4190-800f-e1b0e4de6404",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E9%83%A8%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/japan/LNUGR5TBUNKUVJ6UTUAIPW6PI4-2025-10-24/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bloomberg.com/jp/news/articles/2025-10-30/T4X1AHGP9VCX00",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nbridge.jp/news/20260115.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/news/stock-market-news/article-93CH-791510",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/Wn2Q1Z0BYH_ypPqOVO_l",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teitanso.or.jp/s_enginemro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/information/publicoffer/saitaku/2026/s260407001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hojokin-agent.jp/subsidy/260955",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/global-markets/NGRQ6VV2IROP5JDIA3PB4YC5JE-2025-07-04/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/news/1478379",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/pressrelease/detail/20261008_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/explainlikeimfive/comments/1gm08f3/eli5_why_is_domestic_production_of_a_jet_engine/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E7%94%A8%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8061/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E7%94%A8%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.phongnhaexplorer.com/soj/%E6%8A%80%E8%A1%93/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%89%E5%A4%A7%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AF%EF%BC%9F.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/aircraft-engine-test-cells-market/Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/country-commercial-guides/japan-aircraft-and-related-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/industries/travel/our-insights/how-severe-is-the-aircraft-shortage-and-what-happens-next",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iba.aero/resources/articles/strained-supply-chains-and-maintenance-bottlenecks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iata.org/en/iata-repository/pressroom/presentations/supply-chain-study-highlights/",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "航空機エンジン 国内市場規模 億円",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "https://deallab.info/aircraft-engine/",
+    "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "https://www.ihi.co.jp/ir/event/business_briefing/_cms_conf01/__icsFiles/afieldfile/2023/07/11/pdf_2014_03_3.pdf",
+    "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "https://www.c-astec.jp/documents/resources/support_meeting_materials/R6/R6_AircraftIndustryStrategy.pdf",
+    "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "https://straitsresearch.com/jp/report/aircraft-engine-market"
+   ]
+  },
+  {
+   "query": "航空機エンジン 国内 参入企業 社",
+   "results": [
+    "https://www.ihi.co.jp/products/aeroengine_space_defense/aircraft_engines/",
+    "https://baseconnect.in/companies/keyword/b6b7e708-d0f7-4190-800f-e1b0e4de6404",
+    "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "https://deallab.info/aircraft-engine/",
+    "https://www.skyaero.jp/ja/Research/Engine.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf",
+    "https://mono.ipros.com/cg2/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E9%83%A8%E5%93%81/",
+    "https://www.khi.co.jp/history/business/engine.html",
+    "https://ja.wikipedia.org/wiki/航空用エンジンメーカーの一覧",
+    "https://ja.wikipedia.org/wiki/航空機メーカーの一覧"
+   ]
+  },
+  {
+   "query": "航空機エンジン 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://www.reuters.com/jp/markets/japan/LNUGR5TBUNKUVJ6UTUAIPW6PI4-2025-10-24/",
+    "https://www.bloomberg.co.jp/news/articles/2025-10-30/T4X1AHGP9VCX00",
+    "https://nbridge.jp/news/20260115.html",
+    "https://jp.investing.com/news/stock-market-news/article-93CH-791510",
+    "https://finance.biggo.jp/news/Wn2Q1Z0BYH_ypPqOVO_l",
+    "https://www.daily-cargo.com/news/aviation/2024/12/166607/",
+    "https://www.nikkei.com/article/DGXZQOUC2098R0Q5A620C2000000/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf"
+   ]
+  },
+  {
+   "query": "航空機エンジン 予算 補助金 基金 2026",
+   "results": [
+    "https://www.pref.aichi.jp/press-release/kyojinka.html",
+    "https://www.teitanso.or.jp/s_enginemro/",
+    "https://www.meti.go.jp/information/publicoffer/saitaku/2026/s260407001.html",
+    "https://www.mlit.go.jp/koku/content/001992753.pdf",
+    "https://hojokin-agent.jp/subsidy/260955",
+    "https://www.nri.com/jp/media/column/kiuchi/20260323_4.html",
+    "https://www.cybernet.co.jp/solution/aerospace/column/002/",
+    "https://www.iadf.or.jp/",
+    "https://rssystem.go.jp/project/3d39c640-3058-4a9a-875e-066e8e25e6e0",
+    "https://financeinjapan.com/finance/88166ead-e1ef-48cb-87ce-65d894b84802"
+   ]
+  },
+  {
+   "query": "航空機エンジン 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.reuters.com/jp/markets/global-markets/NGRQ6VV2IROP5JDIA3PB4YC5JE-2025-07-04/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf",
+    "https://newscast.jp/news/1478379",
+    "https://www.khi.co.jp/pressrelease/detail/20261008_1.html",
+    "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "https://www.reddit.com/r/explainlikeimfive/comments/1gm08f3/eli5_why_is_domestic_production_of_a_jet_engine/?tl=ja",
+    "https://www.mlit.go.jp/koku/koku_tk11_000002.html",
+    "https://aerc.jp/_public/202210/aerc-2022-3-01.pdf",
+    "https://www.reuters.com/jp/markets/bonds/3WOQVLC2HBNJZJRQO7WD47ADOM-2023-10-06/"
+   ]
+  },
+  {
+   "query": "航空機エンジン 国内 主要企業 メーカー",
+   "results": [
+    "https://deallab.info/aircraft-engine/",
+    "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E7%94%A8%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "https://www.ihi.co.jp/products/aeroengine_space_defense/aircraft_engines/",
+    "https://baseconnect.in/companies/keyword/b6b7e708-d0f7-4190-800f-e1b0e4de6404",
+    "https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf",
+    "https://service.xenobrain.jp/forecastresults/market-size/aircraft-engine-manufacturers",
+    "https://metoree.com/categories/8061/",
+    "https://ja.wikipedia.org/wiki/航空用エンジンメーカーの一覧",
+    "https://ja.wikipedia.org/wiki/航空機メーカーの一覧",
+    "https://ja.phongnhaexplorer.com/soj/技術/日本の三大ジェットエンジンメーカーは？.html"
+   ]
+  },
+  {
+   "query": "aircraft engine Japan market size",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/aircraft-engine-test-cells-market/Japan",
+    "https://www.linkedin.com/pulse/japan-aircraft-engine-parts-market-size-growth-frorf",
+    "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "https://www.trade.gov/country-commercial-guides/japan-aircraft-and-related-parts",
+    "https://www.mordorintelligence.com/industry-reports/aircraft-engines-market",
+    "https://en.wikipedia.org/wiki/Japanese_Aero_Engine_Corporation",
+    "https://www.6wresearch.com/industry-report/japan-aircraft-engines-market-outlook",
+    "https://www.actualmarketresearch.com/product/japan-aircraft-engine-market"
+   ]
+  },
+  {
+   "query": "aircraft engine shortage backlog supply gap 2025",
+   "results": [
+    "https://www.mckinsey.com/industries/travel/our-insights/how-severe-is-the-aircraft-shortage-and-what-happens-next",
+    "https://www.oliverwyman.com/our-expertise/insights/2025/oct/how-to-revive-aircraft-supply-chains-to-accelerate-delivery.html",
+    "https://fastenershows.com/news/17000-aircraft-on-backlog-aviations-supply-chain-crisis/145609/",
+    "https://www.iba.aero/resources/articles/strained-supply-chains-and-maintenance-bottlenecks/",
+    "https://www.iata.org/en/iata-repository/pressroom/presentations/supply-chain-study-highlights/",
+    "https://www.facebook.com/61554983172978/posts/the-aviation-industrys-engine-crisis-is-far-from-over-speaking-at-the-bernstein-/122267399180166105/",
+    "https://www.aerospacemanufacturinganddesign.com/article/2025-forecast-aircraft-backlog-strong-manufacturing-tackles-supply-chain-production/",
+    "https://safefly.aero/aircraft-engine-shortages-in-2026/",
+    "https://aviationweek.com/sites/default/files/2024-11/2025%20Commercial%20Fleet%20and%20MRO%20Market%20Summary%20Report.pdf",
+    "https://www.iata.org/en/programs/ops-infra/techops/aviation-supply-chain/"
+   ]
+  }
+ ],
+ "missing": {}
+}

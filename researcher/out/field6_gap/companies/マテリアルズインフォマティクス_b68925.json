@@ -1,0 +1,1141 @@
+{
+ "name": "マテリアルズインフォマティクス",
+ "en": "materials informatics",
+ "aliases": [
+  "MI",
+  "AI材料開発"
+ ],
+ "context": "9 マテリアル ⑥AI活用材料",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:27:41.554647+00:00",
+ "evidence": {
+  "国内市場規模": [
+   {
+    "quote": "【図・表2．マテリアルDXプロセス・インフォマティクスの分類別国内市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "pass": 3
+   },
+   {
+    "quote": "【図・表2．有機材料マテリアルDXの分類別国内市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "pass": 3
+   },
+   {
+    "quote": "【図・表2．無機材料マテリアルDXの分類別国内市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "①データ不足",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "pass": 3
+   },
+   {
+    "quote": "②計算資源不足",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "pass": 3
+   },
+   {
+    "quote": "(3)人材不足と分野横断の困難性",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "pass": 3
+   },
+   {
+    "quote": "(3)実験・理論との統合不足",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "pass": 3
+   },
+   {
+    "quote": "(1)データの質と量の不足",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "pass": 3
+   },
+   {
+    "quote": "(3)実験との連携不足と実装障壁",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXZRSP628855_S2A320C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGXZRSP628855_S2A320C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのステップを通じて、データ不足の現場でも開発スピードと精度を大幅に向上させます",
+    "url": "https://www.mi-seek.com/company-list/",
+    "pass": 3
+   },
+   {
+    "quote": "実験ノートをクラウドで一元管理できるSignals Notebookや、異分野データを活用したマテリアルキュレーション支援システムにより、データ不足の現場でも迅速にモデル構築が行えます",
+    "url": "https://www.mi-seek.com/company-list/",
+    "pass": 3
+   },
+   {
+    "quote": "二つ目は、データサイエンティストなど、データを適切に扱える人材の不足です",
+    "url": "https://www.skillupai.com/blog/tech/mi-research/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、自社で人的リソースと、大量のデータを保有している必要があり、それらが不足している場合は難しいでしょう",
+    "url": "https://www.skillupai.com/blog/tech/mi-research/",
+    "pass": 3
+   },
+   {
+    "quote": "くわえて、公開されている汎用的な物性値では「自社材料に適用するには情報が足りない」ということもあるようです",
+    "url": "https://www.jsol-cae.com/tech-blog/20250529.html",
+    "pass": 3
+   },
+   {
+    "quote": " しかしながら、現段階では、実際のMI導入に際し、①データ基盤の不足、②データ解析技術の向上、③データ人材の不在、等の課題",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " データ量が不足",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " データサイエンティストが不足",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新たな付加価値の創出や社会課題(高齢化､人手不足､環境･エネルギー問題等)の解決を",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 日本のIT人材は、2030年時点で数十万人単位で不足するとされ、経済産業省では義務教育期間も含めた教育環境整備を進める",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 素材メーカーではITに関するノウハウが不足しているケースが少なくないことから、ITベンダーと協業して材料プラットフォームの整",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "失敗例 2: 専門知識の不足",
+    "url": "https://www.mi-seek.com/knowledge/installation-failure.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入に失敗した事例の多くは、こうした専門知識の不足に起因します",
+    "url": "https://www.mi-seek.com/knowledge/installation-failure.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入初期には、企業内部にMIの専門知識が不足している場合が多いため、外部リソースを活用することでリスクを軽減し、スムーズな導入を実現できるメリットがあります",
+    "url": "https://www.mi-seek.com/knowledge/installation-failure.html",
+    "pass": 3
+   },
+   {
+    "quote": "MIと計算化学の融合：データ不足を克服する新潮流",
+    "url": "https://matlantis.com/ja/resources/blog/what-is-materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、シミュレーションで得られた膨大なデータをMIの学習データとして活用することで、データ不足の課題そのものを解消し、内挿を大きく広げる非常に有望なアプローチです",
+    "url": "https://matlantis.com/ja/resources/blog/what-is-materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、課題としてデータ不足が挙げられますが、これに対してはMLIPが解決方法の１つになります",
+    "url": "https://matlantis.com/ja/resources/blog/what-is-materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "データ量の不足・低品質",
+    "url": "https://labinformatics.jp/media/column/mi",
+    "pass": 3
+   },
+   {
+    "quote": "専門人材の不足",
+    "url": "https://labinformatics.jp/media/column/mi",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、この両方を兼ね備えた人材は非常に限られており、多くの企業で人材不足が課題となっています",
+    "url": "https://labinformatics.jp/media/column/mi",
+    "pass": 3
+   },
+   {
+    "quote": "材料研究者はAIや統計解析に不慣れである場合が多く、逆にデータサイエンティストは材料特有の現象や評価指標に対する理解が不足しているケースがあります",
+    "url": "https://labinformatics.jp/media/column/mi",
+    "pass": 3
+   },
+   {
+    "quote": "外部リソースを活用することで、自社の不足しているスキルやノウハウを補完し、MI導入をスムーズに進めることができます",
+    "url": "https://labinformatics.jp/media/column/mi",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、MIの導入にはデータ不足や人材不足、運用面の課題といったハードルも存在します",
+    "url": "https://labinformatics.jp/media/column/mi",
+    "pass": 3
+   },
+   {
+    "quote": "（Ｂ）次代の学術の担い手となる研究者による少数・小規模の研究グループ（３～４グループ程度）が提案す",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "課程への女性の進学率が低い状況を打破し、我が国における潜在的な知の担い手を増やしていくこととしてい",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ナフサ不足にどう備える？ パワーGXで変わる石油化学の備蓄戦略",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/11/news079.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズ・インフォマティクスの導入に失敗する主な原因として、データ品質の低さ、専門知識の不足、組織文化の抵抗、既存システムとの統合の問題が挙げられます",
+    "url": "https://www.mi-seek.com/knowledge/",
+    "pass": 3
+   },
+   {
+    "quote": "データ整備・人材不足",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "データの質と、材料科学×AI人材の不足",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "データの質と量の不足",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "材料科学とAI・データ分析の両方に詳しい人材の不足",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "データの質・専門人材の不足が普及に向けた主な課題",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 主な課題として、実験データ（特に失敗データ）の質と量の不足、材料科学とAI・データ分析の両方に精通した人材の不足、企業間でのデータ共有に対する抵抗感などが挙げられます",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足で業務が回らない",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "実験データは蓄積していても、機械学習モデルを開発するには足りないとの課題もあった",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/070600302/070600001/",
+    "pass": 3
+   },
+   {
+    "quote": "企業が今まさに足りないもの",
+    "url": "https://note.com/posi7293/n/n52716473f290",
+    "pass": 3
+   },
+   {
+    "quote": "日立のHMAX、NTTのAI Autopilot、CogniteのData Fusionはいずれも強力だが、「自社の製造工程のどこにボトルネックがあるか」「研究データのどこに価値があるか」を特定するのはDX部門の仕事だ",
+    "url": "https://note.com/posi7293/n/n52716473f290",
+    "pass": 3
+   },
+   {
+    "quote": "データサイエンティスト不足",
+    "url": "https://www.libcon.co.jp/column/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズ・インフォマティクス導入にあたって、データサイエンス不足が大きな課題です",
+    "url": "https://www.libcon.co.jp/column/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、データサイエンスや機械学習の専門知識を持つエキスパートが不足しているため、効果的に活用することがむずかしい状況です",
+    "url": "https://www.libcon.co.jp/column/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "データサイエンス不足を解消することで、マテリアルズ・インフォマティクスの効果的な導入が可能となります",
+    "url": "https://www.libcon.co.jp/column/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Inside the Workforce Gap | PMMI Reports",
+    "url": "https://www.pmmi.org/report/2025-inside-the-workforce-gap",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Inside the Workforce Gap",
+    "url": "https://www.pmmi.org/report/2025-inside-the-workforce-gap",
+    "pass": 3
+   },
+   {
+    "quote": "Raw material shortages have abated, but some lingering issues remain - Supply Chain Management Review",
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Raw material shortages have…",
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Raw material shortages have abated, but some lingering issues remain",
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Industries affected by increased demand for computing power and electricity continue to see shortages",
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "pass": 3
+   },
+   {
+    "quote": ", it’s important to emphasize that chronic shortages of raw materials/intermediate inputs that plagued U.S. manufacturers in 2021 and 2022 have declined substantially but remain above levels consistently observed from 2014-2019.",
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Raw material shortage issues differ across manufacturing industries, and continue to remain elevated for those industries most affected by increased demand for computing power and",
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "pass": 3
+   },
+   {
+    "quote": ". In this article, I will summarize current levels of raw material shortages, highlight sectors still suffering from shortages well above pre-COVID levels, and offer some thoughts as to how I see shortage levels evolving in 2025.",
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "(QSPC)shows that roughly 11% of manufacturing plants in the United States continue to cite shortages of raw materials as a key impediment affecting their capacity utilization. This is comparable to levels observed in 2018 when U.S. manufacturing showed strong",
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "in output. Importantly, while this figure is down from the ~40% readings observed in Q3 2021 through Q2 2022, it remains more than double the ~5% figures observed in 2014–2016. Consistent with the QSPC data showing that raw material shortage issues have found a stable level, separate data from the much smaller New York Fed’s",
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "ハラール認証取得支援サービス",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "pass": 3
+   },
+   {
+    "quote": "基準年2025 7億1,995万米ドル",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛から自動車の電動化、半導体製造から医薬品開発に至るまで、幅広い産業において、マテリアル・インフォマティクスは最先端の性能基準を実現するための不可欠な要素となりつつあります",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "2次調査では、学術論文、特許出願、ホワイトペーパー、および公開されている技術報告書を幅広く精査し、技術的能力、業界動向、規制状況に関する包括的なベースラインを確立しました",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、貿易政策や関税制度の変遷といった外部要因がサプライチェーン戦略を再構築しており、組織はコスト最適化と戦略的自律性のバランスを図る必要に迫られています",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.gii.co.jp/contact/",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "基準年2025",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "各業界が、製品性能の向上、資源集約度の低減、変化する規制への準拠、そして強靭なサプライチェーンの確保という圧力に直面する中、マテリアル・インフォマティクスは、純粋に調査に焦点を当てたツールではなく、戦略的な能力となりつつあります",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、データの出所、標準化、サイバーセキュリティ、および規制上のトレーサビリティへの重視が高まるにつれ、組織による実験記録や知的財産の管理方法も変化しています",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は、持続可能な材料、循環型経済の実践、電池のバリューチェーン、水素技術、および化学物質規制において強固な政策・調査基盤を有しており、データのトレーサビリティやライフサイクルを考慮した材料選定が特に重要となっています",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "欧州連合（EU）は、協調的な研究開発プログラム、持続可能性に関する規制、バッテリー関連の取り組み、循環型経済の枠組み、およびデジタル製品データ要件の恩恵を受けており、組成、加工履歴、性能、環境影響を結びつけるインフォマティクス・プラットフォームの活用を促進しています",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "本エグゼクティブサマリーは、検証済みの2次調査、分野固有の分析、および公開されている技術的・規制的・制度的情報の三角検証を中心とした、体系的な調査手法に基づいて作成されています",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "今日、体系的なマテリアル・インフォマティクスの能力を構築する組織は、技術的な複雑さ、規制上の圧力、資源の制約、そして高性能で持続可能な材料に対する需要の高まりに、より適切に対応できる立場に立つことになるでしょう",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "規制コンプライアンスと標準フレームワーク",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "家計の法律クリニック",
+    "url": "https://www.nikkei.com/article/DGXZRSP628855_S2A320C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "PFAS規制の現状と研究動向について",
+    "url": "https://www.mi-seek.com/knowledge/future-prospects.html",
+    "pass": 3
+   },
+   {
+    "quote": "PFAS規制の現状と研究動向について_top",
+    "url": "https://www.mi-seek.com/knowledge/future-prospects.html",
+    "pass": 3
+   },
+   {
+    "quote": "特許読解、法規制物質チェックにも一貫して対応",
+    "url": "https://www.mi-seek.com/knowledge/future-prospects.html",
+    "pass": 3
+   },
+   {
+    "quote": "PFAS規制の現状と研究動向について",
+    "url": "https://www.mi-seek.com/company-list/",
+    "pass": 3
+   },
+   {
+    "quote": "PFAS規制の現状と研究動向について_top",
+    "url": "https://www.mi-seek.com/company-list/",
+    "pass": 3
+   },
+   {
+    "quote": "特許読解、法規制物質チェックにも一貫して対応",
+    "url": "https://www.mi-seek.com/company-list/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、Gaussian連携のAutoMOでは入力から計算結果管理、機械学習用データ整形までを一元サポートし、Reaction plus ProではNudged Elastic Band法による反応経路解析を自動化",
+    "url": "https://www.mi-seek.com/company-list/",
+    "pass": 3
+   },
+   {
+    "quote": "PFASの規制、代替品、除去、分解 2027-2037年：技術、有力企業、市場展望",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロプラスチック 2025年：規制、技術、代替品",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Malawi",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Materials informatics is the use of data-centric approaches for the advancement of materials science. This can take numerous forms and influence all parts of R&D (hypothesis - data handling & acquisition - data analysis - knowledge extraction).",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "This is not a new approach; many sectors have adopted similar design approaches for decades. But there are three main reasons why this transformative technology is impacting the materials science space right now:",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Improvements in AI-driven solutions leveraged from other sectors. This includes the impact of large language models in simplifying materials informatics, with potential future impact from foundation models for materials and chemistry.",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "This report looks at the key progressions in machine learning for MI, the success stories, and how end-users are actively engaging with this.",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Status, developments, and limitations of AI-driven approaches for materials science R&D, including the impact of large language models.",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Analysis of the impact of the AI boom included.",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Active learning and MI: Choosing experiments to maximize improvement",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Characterizing and computing neural networks",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "ChemDataExtractor V1.0: Data mining publications and patents",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "ChemDataExtractor V2.0: Mining relational data",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Annotating and extracting the relevant information: The commercial space",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "MI with physical experiments and characterization",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": " AI技術開発に対する助成制度整備",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 更なる規制制度改革の推進",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "認定制度・資格の活用",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "府が認定する制度構築",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✦ 2011-2014: Fact Sheet - Three years of Progress",
+    "url": "https://www.ism.ac.jp/coop-math/files/220/Dam%E3%80%81%E5%85%AC%E9%96%8B%E7%94%A8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PFAS規制の現状と研究動向について",
+    "url": "https://www.mi-seek.com/knowledge/installation-failure.html",
+    "pass": 3
+   },
+   {
+    "quote": "PFAS規制の現状と研究動向について_top",
+    "url": "https://www.mi-seek.com/knowledge/installation-failure.html",
+    "pass": 3
+   },
+   {
+    "quote": "特許読解、法規制物質チェックにも一貫して対応",
+    "url": "https://www.mi-seek.com/knowledge/installation-failure.html",
+    "pass": 3
+   },
+   {
+    "quote": "RestScan・ReactionString",
+    "url": "https://matlantis.com/ja/resources/blog/what-is-materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "ReactionString・RestScan",
+    "url": "https://matlantis.com/ja/resources/blog/what-is-materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://mi-6.co.jp/webinars/20260715/",
+    "pass": 3
+   },
+   {
+    "quote": "究費制度ですので、研究計画調書の内容は応募する研究者独自のものでなければなりません",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．科研費制度の趣旨、目的の共有 ......................................................... 32",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "科研費（補助金分）は、「補助金等に係る予算の執行の適正化に関する法律（昭和 30 年法律第 179 号）」、",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "科研費（基金分）は、「補助金等に係る予算の執行の適正化に関する法律（昭和 30 年法律第 179 号）」（準",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "等における調査結果の概要、関与した者の氏名、制度名、所属機関、研究課題、予算額、研究年度、不",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）等」については、令和８(2026)年度以降に新たに公募を開始する制度",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、令和７(2025)年度以前に終了した制度においても対象となります",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在、具体的に対象となる制度について",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 各研究機関には、 「研究機関における公的研究費の管理・監査のガイドライン （実施基準）」（令",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "研究機関では、 管理・対象データの範囲や、 それら研究データの公開・共有の基準等を定めたデータポリシ",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "究機関が指定する応募手続等 （研究機関内における応募書類の提出期限等） について、 研究機関の事務担当者に確認してください",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注４）研究機関は、「研究機関における公的研究費の管理・監査のガイドライン（実施基準）」に基づく「体制整備等自己評価チェッ",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "世界5カ国に拠点を持ち、海外の提携調査会社180社以上が発行する調査資料約30万点をワンストップでご提供",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "30社以上の企業概要から得られる洞察を基に、業界動向、競争戦略、用途について検証しています",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "インタビューに基づく30社以上の企業概要",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "）の5社以上と協業している",
+    "url": "https://note.com/posi7293/n/n52716473f290",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "マテリアル・インフォマティクスの主要企業はどこですか？",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況の中で、日本企業が競争力を維持・強化するためには、データとAIを活用した開発体制への転換が不可欠です",
+    "url": "https://labinformatics.jp/media/column/mi",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月最新】ヒューマノイドロボットとは？特徴・主要メーカー・価格・活用事例を徹底解説",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "マテリアルズインフォマティクス 開発 会社10 社 - Metoree — マテリアルズインフォマティクス 開発 会社10 社 - Metoree Metoree https://metoree.com > サービス",
+    "url": "https://metoree.com/categories/8864/",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics Conference 2026 | MI-6株式会社 — Materials Informatics Conference 2026 | MI-6株式会社 MI-6株式会社 https://mi-6.co.jp > セミナー",
+    "url": "https://mi-6.co.jp/webinars/20260715/",
+    "pass": 3
+   },
+   {
+    "quote": "MI Conf 2026 Materials Informatics Conference — MI Conf 2026 Materials Informatics Conference Chem-Station (ケムステ) https://www.chem-station.com > 会告",
+    "url": "https://www.chem-station.com/blog/2026/06/mi-conf-2026-materials-informatics-conference.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズインフォマティクス の教育と成果の現在および未来 — マテリアルズインフォマティクス の教育と成果の現在および未来 MONOist https://monoist.itmedia.co.jp > articles > news079",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/11/news079.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月最新】 マテリアルズインフォマティクス （MI ... — 【2026年10月最新】 マテリアルズインフォマティクス （MI ... genai-ai.co.jp https://genai-ai.co.jp > ... > ブログ > AI用語解説",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月20日開講 WEBセミナー 「 マテリアルズ ... — 2025年2月20日開講 WEBセミナー 「 マテリアルズ ... | 株式会社AndTech https://andtech.co.jp > seminars",
+    "url": "https://andtech.co.jp/seminars/1efc109b-c1d6-6f1e-bc6a-064fb9a95405",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズインフォマティクス 開発 会社10社 - Metoree — マテリアルズインフォマティクス 開発 会社10社 - Metoree Metoree https://metoree.com > サービス",
+    "url": "https://metoree.com/categories/8864/",
+    "pass": 3
+   },
+   {
+    "quote": "100年分のデータを強みに、MIで材料開発の新時代を開く — 100年分のデータを強みに、MIで材料開発の新時代を開く NGK株式会社 https://www.ngk.co.jp > 企業情報",
+    "url": "https://www.ngk.co.jp/info/dx/mi.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics Market Companies, Size & Trends 2026 ... — Materials Informatics Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics Market (2026-2036) - Meticulous Research — Materials Informatics Market (2026-2036) - Meticulous Research Meticulous Research https://www.meticulousresearch.com > ...",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics 2025-2035: Markets, Strategies, Players — Materials Informatics 2025-2035: Markets, Strategies, Players IDTechEx https://www.idtechex.com > materials...",
+    "url": "https://www.idtechex.com/en/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Materials , Smarter R&D: Materials Informatics in 2025 — Smart Materials , Smarter R&D: Materials Informatics in 2025 IDTechEx https://www.idtechex.com > smart-ma...",
+    "url": "https://www.idtechex.com/en/research-article/smart-materials-smarter-r-d-materials-informatics-in-2025/33248",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Inside the Workforce Gap | PMMI Reports — 2025 Inside the Workforce Gap | PMMI Reports PMMI, The Association for Packaging and Processing Technologies https://www.pmmi.org > report > 202...",
+    "url": "https://www.pmmi.org/report/2025-inside-the-workforce-gap",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "本公募要領は、令和８(2026)年度科学研究費助成事業－科研費－ 「研究活動スタート支援」の公募",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８(2026)年度予算成立前に始めるものです",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "究費助成事業－科研費－の概要等 ６. 科研費により得た研究成果の発信等について (4)研究デ",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.jsps.go.jp/j-grantsinaid/01_seido/10_datamanagement/index.html",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（「 Ⅰ．科学研究費助成事業－科研費－の概要等 ６. 科研",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ．科学研究費助成事業－科研費－の概要等 ........................................ 5",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．科学研究費助成事業－科研費－の目的・性格 .............................................. 5",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．応募から交付までのスケジュール ....................................................... 15",
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys, Inc. released Ansys 2026 R1, introducing significant enhancements to Granta MI, including improved materials intelligence, expanded digital-thread connectivity, enhanced visualization capabilities, and new battery manufacturing workflows to strengthen enterprise materials information management.",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "Procurement teams facing tighter budgets and higher expectations in 2026 can unlock real value from AI by focusing on practical, modular…",
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内参入社数": [
+   {
+    "value": "180",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "quote": "世界5カ国に拠点を持ち、海外の提携調査会社180社以上が発行する調査資料約30万点をワンストップでご提供"
+   },
+   {
+    "value": "30",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "quote": "30社以上の企業概要から得られる洞察を基に、業界動向、競争戦略、用途について検証しています"
+   },
+   {
+    "value": "5",
+    "url": "https://note.com/posi7293/n/n52716473f290",
+    "quote": "）の5社以上と協業している"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/8350130",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP628855_S2A320C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mi-seek.com/knowledge/future-prospects.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mi-seek.com/company-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8864/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skillupai.com/blog/tech/mi-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsol-cae.com/tech-blog/20250529.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ism.ac.jp/coop-math/files/220/Dam%E3%80%81%E5%85%AC%E9%96%8B%E7%94%A8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mi-seek.com/knowledge/installation-failure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matlantis.com/ja/resources/blog/what-is-materials-informatics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labinformatics.jp/media/column/mi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mi-6.co.jp/webinars/20260715/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eda.co.jp/subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/hojyokin/kobo/2026/260216001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saisachi.com/budget/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/11/news079.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mi-seek.com/knowledge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/070600302/070600001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagase.com/jp/ja/discover/resources/materials-informatics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/posi7293/n/n52716473f290",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ngk.co.jp/info/dx/mi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.libcon.co.jp/column/materials-informatics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.fujitsu/ja-JP/insight/tl-materials-informatics-20251027",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hitachi-hightech.com/jp/ja/products/ict-solution/randd/mi/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/material-informatics-market-237816259.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/materials-informatics-2025/1096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bhw.hrsa.gov/data-research/projecting-health-workforce-supply-demand",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-article/smart-materials-smarter-r-d-materials-informatics-in-2025/33248",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pmmi.org/report/2025-inside-the-workforce-gap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/sites/garydrenik/2025/03/11/ai-predictions-on-2025-supply-shortages-and-industry-impact/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マテリアルズインフォマティクス 国内市場規模 億円",
+   "results": [
+    "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIeYS_jWHL06QGgP3ZJ3mMCN01c94zuVIc8_DsjkUG1hs4Q1EJc",
+    "https://newscast.jp/smart/news/8350130",
+    "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "https://www.nikkei.com/article/DGXZRSP628855_S2A320C2000000/",
+    "https://www.mi-seek.com/knowledge/future-prospects.html",
+    "https://www.cmcbooks.co.jp/products/detail.php?product_id=7921",
+    "https://bizdev.reinforz.co.jp/4649",
+    "https://www.jst.go.jp/crds/sympo/20220325/pdf/20220405_01.pdf",
+    "https://note.com/svp_japan/n/nd666fed34554",
+    "https://book.st-hakky.com/industry/materials-informatics-latest-trends"
+   ]
+  },
+  {
+   "query": "マテリアルズインフォマティクス 国内 参入企業 社",
+   "results": [
+    "https://www.mi-seek.com/company-list/",
+    "https://metoree.com/categories/8864/",
+    "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "https://www.skillupai.com/blog/tech/mi-research/",
+    "https://www.jsol-cae.com/tech-blog/20250529.html",
+    "https://note.com/posi7293/n/n52716473f290",
+    "https://techblitz.com/tech-trend/ai-new-materials/",
+    "https://mi-6.co.jp/ebook/9vt817no1n/",
+    "https://global.fujitsu/ja-JP/insight/tl-materials-informatics-20251027",
+    "https://book.st-hakky.com/industry/materials-informatics-latest-trends"
+   ]
+  },
+  {
+   "query": "マテリアルズインフォマティクス 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "https://www.ism.ac.jp/coop-math/files/220/Dam%E3%80%81%E5%85%AC%E9%96%8B%E7%94%A8.pdf",
+    "https://www.mi-seek.com/knowledge/installation-failure.html",
+    "https://matlantis.com/ja/resources/blog/what-is-materials-informatics/",
+    "https://labinformatics.jp/media/column/mi",
+    "https://www.gijutu.co.jp/doc/b_2365.htm",
+    "https://www.jst.go.jp/crds/report/CRDS-FY2013-WR-03.html",
+    "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "https://metoree.com/categories/8864/"
+   ]
+  },
+  {
+   "query": "マテリアルズインフォマティクス 予算 補助金 基金 2026",
+   "results": [
+    "https://mi-6.co.jp/webinars/20260715/",
+    "https://www.eda.co.jp/subsidy/",
+    "https://www.chusho.meti.go.jp/koukai/hojyokin/kobo/2026/260216001.html",
+    "https://saisachi.com/budget/",
+    "https://www.jsps.go.jp/file/storage/kaken_22_koubo_2026_kensuta/r8_kensta_koubo.pdf",
+    "https://www.chem-station.com/blog/2026/06/mi-conf-2026-materials-informatics-conference.html",
+    "https://www.jst.go.jp/pr/intro/outline.pdf",
+    "https://nanonet.go.jp/page/matiss.html",
+    "https://grant-search.com/",
+    "https://note.com/ideal_lemur777/n/ne425544e0f80"
+   ]
+  },
+  {
+   "query": "マテリアルズインフォマティクス 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://monoist.itmedia.co.jp/mn/articles/2401/11/news079.html",
+    "https://www.mi-seek.com/knowledge/",
+    "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/070600302/070600001/",
+    "https://www.nagase.com/jp/ja/discover/resources/materials-informatics",
+    "https://andtech.co.jp/seminars/1efc109b-c1d6-6f1e-bc6a-064fb9a95405",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf",
+    "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/882.html",
+    "https://www.jsme.or.jp/kaisi/1232-18/"
+   ]
+  },
+  {
+   "query": "マテリアルズインフォマティクス 国内 主要企業 メーカー",
+   "results": [
+    "https://metoree.com/categories/8864/",
+    "https://www.mi-seek.com/company-list/",
+    "https://note.com/posi7293/n/n52716473f290",
+    "https://www.skillupai.com/blog/tech/mi-research/",
+    "https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/",
+    "https://www.ngk.co.jp/info/dx/mi.html",
+    "https://www.libcon.co.jp/column/materials-informatics/",
+    "https://global.fujitsu/ja-JP/insight/tl-materials-informatics-20251027",
+    "https://www.hitachi-hightech.com/jp/ja/products/ict-solution/randd/mi/",
+    "https://book.st-hakky.com/industry/materials-informatics-latest-trends"
+   ]
+  },
+  {
+   "query": "materials informatics Japan market size",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/material-informatics-market-237816259.html",
+    "https://www.precedenceresearch.com/material-informatics-market",
+    "https://www.linkedin.com/pulse/materials-informatics-market-size-reach-usd-157293-million-raj-patil-lne2f",
+    "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "https://www.idtechex.com/en/research-report/materials-informatics-2025/1096",
+    "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "https://finance.yahoo.com/news/material-informatics-market-size-cross-140000447.html",
+    "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "https://www.industryarc.com/report/19609/material-informatics-market",
+    "https://www.6wresearch.com/industry-report/japan-material-informatics-market"
+   ]
+  },
+  {
+   "query": "materials informatics shortage backlog supply gap 2025",
+   "results": [
+    "https://bhw.hrsa.gov/data-research/projecting-health-workforce-supply-demand",
+    "https://www.idtechex.com/en/research-article/smart-materials-smarter-r-d-materials-informatics-in-2025/33248",
+    "https://www.pmmi.org/report/2025-inside-the-workforce-gap",
+    "https://www.forbes.com/sites/garydrenik/2025/03/11/ai-predictions-on-2025-supply-shortages-and-industry-impact/",
+    "https://www.scmr.com/article/us-manufacturing-raw-material-shortages-2025-sector-trends-analysis",
+    "https://randtech.com/the-supply-driven-shortage-is-here-exactly-as-predicted/",
+    "https://www.mordorintelligence.com/industry-reports/material-informatics-market",
+    "https://press.spglobal.com/2026-01-08-Substantial-Shortfall-in-Copper-Supply-Widens-as-the-Race-for-AI-and-Growing-Defense-Spending-Add-to-Accelerating-Demand,-New-S-P-Global-Study-Finds",
+    "https://www.supplychainconnect.com/procurement/article/55384522/the-2026-supply-chain-supercycle-why-ai-infrastructure-shortages-run-deeper-than-the-chip",
+    "https://en.wikipedia.org/wiki/2025–present_global_memory_supply_shortage"
+   ]
+  }
+ ],
+ "missing": {}
+}

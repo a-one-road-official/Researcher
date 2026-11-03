@@ -1,0 +1,1410 @@
+{
+ "name": "人工衛星",
+ "en": "satellite manufacturing",
+ "aliases": [
+  "小型衛星",
+  "衛星コンステレーション"
+ ],
+ "context": "6 航空・宇宙 ⑤人工衛星・サービス",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:22:18.412005+00:00",
+ "evidence": {
+  "国内市場規模": [
+   {
+    "quote": "(2) 国内市場(データ利用関連)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また日本では「宇宙基本計画」が2023年6月に閣議決定され、そのなかで2030年の国内市場規模は2023年時点の2倍におよぶ8兆円にすると明記されました",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "10社以上が市場参入",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "い、事業フェーズ2では3社程度、事業フェーズ3では2社程度まで支援対象を絞り込み",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ビジネス企業50社以上とゆく年くる年、2022年のトピックと2023年の展望",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "(9)2025年の宇宙ビジネス予想（投資額、市場規模、企業数）とまとめ",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、今回アンケートに協力いただいた企業（1社非回答）に、2025年の世界の宇宙ビジネス予測を、投資額・市場規模・新規参入企業数の3つの観点で伺った結果を紹介します",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "準備していただいた求人は100社以上もありパワフルさを感じたのですが、最初の面談の時に書類を応募する企業数と、そのうち一次面接を通る総定数や内定が出る企業の総定数を出していただいて、それをどのくらいの期間で行うのかという指針があったので、納得感がありました",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "価格、納期 1機数百億円、5~10年程度 1機数千万～数十億円程度、1～3年程度",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動化・無人化で労働力不足解決に貢献",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・車載等向けのモータ技術を活かした低コスト・短納期のリアクションホイールを開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・低コスト、短納期、スケーラブルなデジタル電源を開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "材料サプライヤによる供給能力の向上に向けた、主要材料",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、今すぐにビジネスとして成立するものではありませんが、これまで国家機関だけが担い手であった「宇宙探査」の分野にも民間企業が参入し投資が集まっています",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツはこれまで、広範囲かつ高解像度の地球観測データを提供できる国内事業者が不足し、他国に依存してきた経緯があります（",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "このことからもわかるとおり、一般的な見方として宇宙ビジネスは参入障壁が高い産業と受け取られがちですが、実態はむしろ人材不足で、続ける信念のある新しいプレイヤーを歓迎する「ウェルカムモード」にあるとも指摘されています（",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットについても、新規開発と既存機の量産化の両面で部品・コンポーネントをタイムリーに供給できるサプライチェーンの強化が、高頻度な宇宙輸送能力を獲得するうえで解消すべき主要なボトルネックの一つに挙げられています（",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "QPS研究所はこれまでの工場の10倍以上の広さとなる設備を設置し、年間10機の生産能力を確保する予定で年明けの本格稼働を予定しています",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "6月末時点の受注残高は1,217.1億円で、このうち951.7億円を同事業が占める",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "総収入・損益の概要に加え、防衛省案件による受注残高1,243.9億円への拡大、小型SAR衛星の運用機数、宇宙戦略基金...",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "アクセルスペースホールディングスの2026年5月期決算をもとに、売上高と受注残高が大きく伸びた背景、赤字が拡大した要因、GRUS-3の商用運用や約30機体制に向けた今後の事業計画を...",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "受注残高は363.5億円",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト収益や営業損失、受注残高、306億円の資金調達に加え、ADRAS-J2やAPS-Rなど軌道上サービス事業の進捗を...",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "部品調達・納期管理（人工衛星・ロケット）_AS | 経営・財務・管理 | 職種詳細 | 日本電気株式会社",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "4029 部品調達・納期管理（人工衛星・ロケット）_AS",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "当社が製造する人工衛星やロケットに搭載される機器において使用する部品の信頼性、コストおよび納期は当社製品のQCDに大きく影響するため、これらの部品の調達管理は極めて重要な業務です",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "・サプライヤーとの納期交渉",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "・発注品の納期遅延や不具合発生時の対応、および社内関係部門との調整",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "・長納期部品や戦略部品の調達計画策定",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "・納期通りに製品を納め顧客満足を獲得するだけでなく、「工場を止めない」という製造現場を支える重要な存在として、現場からの信頼を得られるやりがいのあるポジションです",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "・製造業における部品調達、または納期管理の実務経験（3年以上）",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "・特注品を含む調達部品の納期折衝経験（3年以上）",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "トラブル対応や納期調整の局面において受け身にならず、主体的に解決できる姿勢が求められます",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "工程表や納期・部品の管理はミスが納期遅延に直結する業務です",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "衛星急増で供給不足深刻 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGKKZO83015820W4A820C2EAC000/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星急増で供給不足深刻",
+    "url": "https://www.nikkei.com/article/DGKKZO83015820W4A820C2EAC000/",
+    "pass": 3
+   },
+   {
+    "quote": "このため衛星を打ち上げるロケットが不足し、ユーザーは打ち上げ機会の確保に苦労している",
+    "url": "https://www.nikkei.com/article/DGKKZO83015820W4A820C2EAC000/",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGKKZO83015820W4A820C2EAC000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGKKZO83015820W4A820C2EAC000/",
+    "pass": 3
+   },
+   {
+    "quote": "JM2040: JAXA、短納期化を目指した衛星バスシステムに係る概念検討を契約",
+    "url": "https://jm2040.blogspot.com/2026/01/satellite-bus.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAXA、短納期化を目指した衛星バスシステムに係る概念検討を契約",
+    "url": "https://jm2040.blogspot.com/2026/01/satellite-bus.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAXAは2025年11月に「短納期化を目指した衛星バスシステムに係る概念検討」を日本電気、三菱電機と契約しました",
+    "url": "https://jm2040.blogspot.com/2026/01/satellite-bus.html",
+    "pass": 3
+   },
+   {
+    "quote": "短納期化を目指した衛星バスシステムに係る概念検討そのア",
+    "url": "https://jm2040.blogspot.com/2026/01/satellite-bus.html",
+    "pass": 3
+   },
+   {
+    "quote": "短納期化を目指した衛星バスシステムに係る概念検討そのイ",
+    "url": "https://jm2040.blogspot.com/2026/01/satellite-bus.html",
+    "pass": 3
+   },
+   {
+    "quote": "本契約は、旬な衛星ミッションを早期にサービス開始するバスプラットフォームを実現すべく、開発期間の短縮/短納期化を最優先として、地球観測/通信/測位/科学等の多様なミッション対応できる将来衛星バスの実現を目指し、システムコンセプトの検討等を行う",
+    "url": "https://jm2040.blogspot.com/2026/01/satellite-bus.html",
+    "pass": 3
+   },
+   {
+    "quote": "品質を高め、納期を守る | 次世代地球観測衛星GRUS-3開発の流れ | Axelspace",
+    "url": "https://www.axelspace.com/ja/news/grus-3_interview_2/",
+    "pass": 3
+   },
+   {
+    "quote": "品質を高め、納期を守る | 次世代地球観測衛星GRUS-3開発の流れ",
+    "url": "https://www.axelspace.com/ja/news/grus-3_interview_2/",
+    "pass": 3
+   },
+   {
+    "quote": "品質を高め、納期を守る | 次世代地球観測衛星GRUS...",
+    "url": "https://www.axelspace.com/ja/news/grus-3_interview_2/",
+    "pass": 3
+   },
+   {
+    "quote": "農業従事者の高齢化や人手不足の解決手段としても期待が高まっています",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "しばらくお待ちください",
+    "url": "https://baseconnect.in/companies/keyword/8a59e366-fed1-4c2e-a64e-f4dc64522212",
+    "pass": 3
+   },
+   {
+    "quote": "を自社開発しており、高品質・低コスト・短納期を実現した衛星製造を国内外に提供しているのも強みです",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "新衛星生産棟の建設により並行生産能力をこれまでの10機から18機へ増強しており、宇宙需要の拡大に対応した体制強化も進めています",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "Long lead times",
+    "url": "https://dataintelo.com/report/satellite-manufacturing-and-launch-market",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "• 宇宙輸送に関わる制度環境の整備",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資・資金供給機能、SBIR制度等）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 契約制度の見直し(官民の開発リスク分担の必",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜本制度のスキーム＞",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(参考)令和7年11月11日 財務省 財政制度等審議会 財政制度分科会 資料",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "含めた宇宙分野のさらなる飛躍にどのような施策・環境/制度整備が考えら",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ その上で、官主導から官民連携による宇宙分野の自律性・市場拡大を考えた際に、どのような施策・環境/制度整備等が",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法令 ★今常会にて改正予定(p.28参照)（＋法改正等に伴う審査体制強化）",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ これを踏まえ、法改正や更なる検討が必要な事項を含めて体系的に整理し、 制度的対応の方向性を取りまとめた",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 技術開発に後れぬよう、産業発展を後押しするためにも、できる限り短期間で更なる法改正や制度見直しを行うべき",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ ロケット単体の打上げ許可制度を創設し、人工衛星に着",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "眼した規制体系からロケットに着眼した規制体系へ転換",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人工衛星の多様化に即した規制範囲・内容の明確化",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "軌道等で使用しない人工の物体も規制対象に含める",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 投入される軌道等に応じた基準を策定し、人工衛星や上",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "制度を創設、軌道遷移の際の取扱いも明確化",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ために必要な安全基準",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◎早急に法改正を行うべき事項",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の宇宙ビジネスをさらに盛り上げるため、スタートアップへの支援制度も続々と整備され、2024年度からは内閣府、総務省、文部科学省、経済産業省がJAXAに基金を造成し、JAXAを通じて民間企業や大学の宇宙分野の先端技術開発、技術実証、商業化を支援する宇宙戦略基金がいよいよ動き始めます",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ベンチャーを支援するJAXA+9機関全41のスタートアップ支援制度まとめ、JETROとJAXAに聞いてみた",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙二法とは~国際的な背景と各法律の概要、今後の課題~",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "Spire、ExactEarth、Forecast Ocean Plus",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "Virgin Galactic(米)、Blue Origin(米)、PDエアロスペース(日)、HIS(日)、ANAホールディングス(日)",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "NSR社, “GLOBAL SATELLITE MANUFACTURING AND LAUNCH MARKETS, 10TH EDITION”, PUBLISHED: JUNE 2020より抜粋",
+    "url": "https://www.mext.go.jp/kaigisiryo/content/20210118-mxt_uchukai01-000012441_5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "→BepiColombo、FACTORS、GEO-X、JUICE、Comet Interceptor",
+    "url": "https://www.mext.go.jp/kaigisiryo/content/20210118-mxt_uchukai01-000012441_5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " Virgin Galactic社は，将来的にはSpaceship 2を活用した超高速2地点間輸送を計画しており，低軌道輸送よ",
+    "url": "https://www.mext.go.jp/kaigisiryo/content/20210118-mxt_uchukai01-000012441_5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "©Virgin Galactic",
+    "url": "https://www.mext.go.jp/kaigisiryo/content/20210118-mxt_uchukai01-000012441_5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Virgin Galactic社のSpaceship 2",
+    "url": "https://www.mext.go.jp/kaigisiryo/content/20210118-mxt_uchukai01-000012441_5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "J-SPARCや宇宙戦略基金などの制度が参入を後押しする一方、宇宙環境への耐性実証、打上げの海外依存、宇宙デブリが課題です",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ビジネスの範囲は、OECDの宇宙経済の定義が基準になっています",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また日本は2024年4月にみちびきの信号認証サービスを開始し、SpacidとJAXAは、みちびきの信号を用いた空間認証システムの共同事業実証を進めています（",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "衛星測位はすでに社会インフラの一部となっており、信号認証や自動運転といった新しい用途にも広がっています",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAXAの協業プログラムを入口に、農業・広告、農地管理、水道インフラ、空間認証など異業種での衛星データ活用が実証段階から実装へ進んでいます",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダウンストリームの商業比率の高さと制度整備が異業種参入を後押しする一方、宇宙環境への耐性実証や品質管理といった固有のハードルも存在します",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙デブリ、打上げの海外依存、衛星データ利用をめぐる制度整備の3点が、今後の宇宙ビジネスを左右する論点です",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうえで、規制政策の強化、財政や市場を用いた仕組み、新たな多国間機関、能動的デブリ除去などの技術投資が求められるとしています（",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "国際的な規制のあり方も議論の対象で、宇宙デブリ除去の緊急性を扱う法学的な論考も公表されています（",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "データ利用と制度整備",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データを用いたサービスの国際競争は、制度整備の議論と結びついています",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらに対しては、宇宙戦略基金による産業基盤の強化やJ-SPARCなどの協業プログラムが整備され、異業種からの参入を制度面で後押しする体制が整いつつあります",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cambridge Core – Advancements in Space Law: Satellite Communications Industry Re",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の法改正や海外のルールメイキングの議論等に参加し、参加企業の声を届けたことを今年のトピックにあげたSpace Port Japan Associationのほか、将来宇宙輸送システムは2024年8月に次世代型宇宙港を構想するワーキンググループ（NSP-WG）を設立し、17企業・1大学が参加したとのこと",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙旅客輸送推進協議会では、2024年にシンポジウムを開催、将来は有人宇宙輸送システム（宇宙旅客輸送）が実現できるよう業界内の意見集約、法制度における安全基準、設計基準検討などで貢献していきたいと記載しています",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "不法盛土を宇宙から監視！ 国交省が公開した盛土規制法のガイドラインに衛星データが盛り込まれたワケ",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "アストロスケールはJAXAの大型デブリ除去等の技術実証を目指し実施する商業デブリ除去実証（CRD2）のフェーズIIの契約相手方として選定され、ADRAS-J（アドラスジェイ、Active Debris Removal by Astroscale-Japan の略）のミッションを実施、実際のデブリへの安全な接近や調査を実施する世界初の試みで大きな成果を挙げました",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "Policy",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "・当社では、「挑戦する姿勢」と「成果」を正当に評価する評価制度が整っており、キャリア入社された方もマネージャー、主任へ昇進するなど、年次やバックグラウンドにとらわれず、成果と貢献に応じて昇進・昇格の機会があります",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "一人ひとりがプロフェッショナルとして挑戦・活躍・成長するための制度や環境についてご紹介します",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "家計の法律クリニック",
+    "url": "https://www.nikkei.com/article/DGKKZO83015820W4A820C2EAC000/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://www.axelspace.com/ja/news/grus-3_interview_2/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、EMでの振動試験は打ち上げに求められるよりも厳しい条件を課し、基準を超える振動にも耐えられる設計であることを確かめています",
+    "url": "https://www.axelspace.com/ja/news/grus-3_interview_2/",
+    "pass": 3
+   },
+   {
+    "quote": "Feel free to contact us.",
+    "url": "https://www.axelspace.com/ja/news/grus-3_interview_2/",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy",
+    "url": "https://www.axelspace.com/ja/news/grus-3_interview_2/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障の確保に向けて、サプライチェーン強靱化や基幹インフラの安全確保などを一体的に推進する法律です",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "政府が民間事業者の取り組みに資金支援を行う仕組みで、従来は半導体や天然ガスなど12品目が指定されていました",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙活動法改正案が閣議決定 ―次世代宇宙輸送サービス",
+    "url": "https://www.gtlaw.com/-/media/files/insights/alerts/2026/04/gt-alert_japan-shifts-to-next-generation-space-transportation-regulation-with-space-activities-act-amendment-jpn.pdf?rev=5ff3b08450524eba931de272b8ea2a6f",
+    "pass": 3
+   },
+   {
+    "quote": "に向けた制度整備へ",
+    "url": "https://www.gtlaw.com/-/media/files/insights/alerts/2026/04/gt-alert_japan-shifts-to-next-generation-space-transportation-regulation-with-space-activities-act-amendment-jpn.pdf?rev=5ff3b08450524eba931de272b8ea2a6f",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "４．宇宙戦略基金及び宇宙技術戦略について",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 全体の約4分の１が政府予算、約４分の３が民間衛星・打ち上げ関連",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "データ等の利用(164億円)」が計上",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※８年間の基金事業衛星間光通信技術実証 600億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※８年間の基金事業船舶間通信衛星（VDES） 147億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※６年間の基金事業小型多波長センサ開発 50億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※５年間の基金事業リモートセンシング高度化 147億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．宇宙分野の官民戦略投資に向けて",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1. 宇宙分野の官民戦略投資に向けて",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 宇宙分野の我が国の中核機関である宇宙航空研究開発機構（JAXA）の技術基盤・人的資源の強化(R8予算案か",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業（SBIRフェーズ３基金事業）そして【R5～】宇宙戦略基金事業などといった先端技術開発・技術実証の",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙戦略基金による速やかな総額１兆円規模の支援を通じて、宇宙空間における輸送、衛星及び探査の分野において先端技術開発、",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和5年度補正予算3,000億円（文科省1,500億円、経産省1,260億円、総務省240億円）",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年度補正予算3,000億円（文科省1,550億円、経産省1,000億円、総務省450億円）",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度補正予算2,000億円（文科省xxx億円、経産省xxx億円、総務省xxx億円）",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の宇宙ビジネスをさらに盛り上げるため、スタートアップへの支援制度も続々と整備され、2024年度からは内閣府、総務省、文部科学省、経済産業省がJAXAに基金を造成し、JAXAを通じて民間企業や大学の宇宙分野の先端技術開発、技術実証、商業化を支援する宇宙戦略基金がいよいよ動き始めます",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "「10年で1兆円」宇宙戦略基金を知る、内閣府 宇宙開発戦略推進事務局への3つの質問",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "はやぶさ2予算はアポロ計画の1/300!? 各国の宇宙探査まとめ",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事に記載した海外の市場規模や投資額は、ドル・ユーロ建ての原データを2026年9月時点の為替レート（1ドル＝156円、1ユーロ＝181円）で円換算した概算値です",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ESAによると、民生と防衛を合わせた各国の公的宇宙予算は2024年に約22兆円という過去最高を記録し、前年比9%増、過去5年間の年平均成長率も9%となりました（",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間投資も水準を保ち、2024年の世界の宇宙分野への民間投資額は約1兆2700億円に達し、前年比20%増となりました",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "欧州に限ると民間投資額は過去最高を更新し、99件の取引を通じて約2700億円超を調達し、前年比56%の伸びを示しました（",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には「宇宙戦略基金」が始動し、民間企業や大学における宇宙技術開発、技術実証、宇宙分野への新規参入などを支援する体制が整いました（",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "同省は、宇宙戦略基金の支援メニューとして、光通信、小型合成開口レーダー（SAR）、小型多波長などの衛星コンステレーション構築を目指す事業者の量産・打上げのスピード加速を狙う「商業衛星コンステレーション構築加速化」に対し、7年以内に950億円を投じる計画を挙げています（",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、3月には2024年度からの3年間を、国内スタートアップ等が提供する衛星データを関係府省で積極調達・利用する「民間衛星の活用拡大期間」とする方針が、衛星リモートセンシングデータ利用タスクフォースの大臣会合で決定された他、7月から宇宙戦略基金の技術開発テーマの公募があるなど、日本政府として国内における宇宙技術の獲得や宇宙産業の発展にどのように寄与するのかといった方針がより明確になった1年でもありました",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "そのほか、前年に続いて、宇宙ビジネスの市場規模や投資額が2025年はどのように増減すると思うかといった質問にも回答いただきました",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "また、宇宙戦略基金で採択結果が発表された最初の技術開発テーマは「ロケット用大型構造部品を対象とした金属3D積層に係る基盤技術開発」で清水建設が採択されました",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "総額100億円超を追加交付【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では2024年、宇宙戦略基金が開始され、衛星開発においては「",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度は、METI-SBIRで組合員3社、JAXA基金で2社が採択されるなど、宇宙分野でのプレゼンスが高まっているとの回答がありました",
+    "url": "https://sorabatake.jp/39122/",
+    "pass": 3
+   },
+   {
+    "quote": "Mission 3ではSBIR補助金、Mission 4では宇宙戦略基金やESAとの契約を活用する",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、NASAとDraperによるCP-12契約の終了に伴い、未計上の契約残高約45億円は解消される見通しだ",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "官公庁向けでは、2026年4月から防衛省の衛星コンステレーション事業へのサービス提供と売上計上を開始",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省の衛星コンステレーション事業による売上計上開始や総収入の大幅増、9・10号機の打上げ、最大年産30機に向けた量...",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "総収入・損益の概要に加え、防衛省案件による受注残高1,243.9億円への拡大、小型SAR衛星の運用機数、宇宙戦略基金...",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "自社衛星による光学地球観測データを提供する「AxelGlobe」と、顧客向け小型衛星プロジェクトの設計・製造・打上げ・運用を担う「AxelLiner」の2事業を通じて、官民の顧客に衛星ソリューションを提供している",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益は11.9億円、政府補助金収入は8.2億円で、部材調達などの遅れにより収益計上が後ろ倒しとなった",
+    "url": "https://space-connect.jp/space-startup/",
+    "pass": 3
+   },
+   {
+    "quote": "第70回宇宙科学技術連合講演会における 宇宙戦略基金関連講演等のお知らせ",
+    "url": "https://fund.jaxa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "第124回 宇宙政策委員会（2026年9月28日開催）にて宇宙戦略基金事業の経過報告を行いました",
+    "url": "https://fund.jaxa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "初の1兆円超え、令和8年度宇宙関係予算を読み解く",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙関係予算が初の1兆円超えに",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省・総務省の大幅増額や宇宙部品の「特定重要物資」入りなど、令和8年度予算の注目点を4つのトピックで整理しました",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月21日、内閣府宇宙開発戦略推進事務局が令和8年度の宇宙関係予算を発表しました",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "対象は令和8年度当初予算案と令和7年度補正予算です",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "この補正予算と翌年度の当初予算を合わせて「15か月予算」と呼ぶことがあります",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度の宇宙関係予算は、基金関係執行予定額(436億円)を含む総額で1兆446億円と、初めて1兆円を超えました",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度当初予算案と令和7年度補正予算の合計は1兆10億円で、前年度(8,920億円)から1,090億円の増額(+12%)です",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙戦略基金は10年で1兆円規模の複数年度基金です",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "確認を受けた者には、設計確認番号が付された設計確認書が交付されます（13条4項）",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "pass": 3
+   },
+   {
+    "quote": "認定を受けた者には、適合認定番号が付された搭載前人工衛星等認定書が交付されます（同条4項）",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、スペシャリストが登場した際に求められる対応について、公共の安全確保の観点から整理した上で、必要に応じて審査基準やガイドラインに反映することを検討することや、搭乗者安全に関する推奨事項について取りまとめることも視野に、事業者が行う技術実証で得られる搭乗者安全に関する知見の蓄積を官民で進めていくべきであるとされました（Ⅴ.1.）",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "pass": 3
+   },
+   {
+    "quote": "（改正宇宙活動法第13条第1項）、当局による確認を受けると「設計確認番号」が付された「設計確認書」が交付されます（同条第4項）",
+    "url": "https://www.nagashima.com/publications/publication20260702-1/",
+    "pass": 3
+   },
+   {
+    "quote": "申請が行われた搭載前人工衛星等につき、その構造が「人工衛星等汚染等防止・安全基準」に適合していると認められると適合認定が行われ（改正宇宙活動法第18条の2第3項）、適合認定番号が付された「搭載前人工衛星等認定書」が交付されます（同条第4項）",
+    "url": "https://www.nagashima.com/publications/publication20260702-1/",
+    "pass": 3
+   },
+   {
+    "quote": "この適合認定を受けて認定番号を交付されると、宇宙ロケットの打上げ許可を申請する際、申請書にその適合認定番号を記載することで、搭載する人工衛星等の構造に関する記載を省略できるようになります[14]",
+    "url": "https://aquaxislaw.com/posts/newsletter-2026-05-01",
+    "pass": 3
+   },
+   {
+    "quote": "in the Russia-Ukraine conflict, and growing awareness of space as a contested domain have triggered an unprecedented wave of defense and intelligence satellite procurement by governments worldwide. The United States Space Force's fiscal year 2026 budget requested over",
+    "url": "https://dataintelo.com/report/satellite-manufacturing-and-launch-market",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "赤字部分が日本企業",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が国際市場で",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 国内投資の拡大を通じて、日本企業の「稼ぐ力」を向上させ、賃上げを含めた好循環を形成するため、高付加価",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "JAXAのプロジェクトに関わる主な企業について以下のリンク先でご紹介しています",
+    "url": "https://fanfun.jaxa.jp/faq/detail/329.html",
+    "pass": 3
+   },
+   {
+    "quote": "特殊株少ない日本企業",
+    "url": "https://www.nikkei.com/article/DGKKZO83015820W4A820C2EAC000/",
+    "pass": 3
+   },
+   {
+    "quote": "『【パネルディスカッション】法規制の最新動向を踏まえて、日本企業に求められる対応とは？～適切なクッキーバナー実装時の重要ポイント～』",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "pass": 3
+   },
+   {
+    "quote": "2011年現在日本企業製の衛星は2008年8月に打ち上げられた",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%87%E5%AE%99%E6%A9%9F%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "4029 部品調達・ 納期 管理（ 人工衛星 ・ロケット）_AS - NEC — 4029 部品調達・ 納期 管理（ 人工衛星 ・ロケット）_AS - NEC jobs.nec-careers.com https://jobs.nec-careers.com > job",
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "pass": 3
+   },
+   {
+    "quote": "航空・宇宙 12. 人工衛星 ・サービス — 航空・宇宙 12. 人工衛星 ・サービス 内閣府ホームページ PDF https://www8.cao.go.jp > anpo-dai69 > sankou1-2",
+    "url": "https://www8.cao.go.jp/space/comittee/27-anpo/anpo-dai69/sankou1-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Manufacturing Market Size & Industry Report, 2034 — Satellite Manufacturing Market Size & Industry Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Manufacturing Market Size & Share Report, 2033 — Satellite Manufacturing Market Size & Share Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Manufacturing Market Size & Growth to 2031 — Satellite Manufacturing Market Size & Growth to 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内参入社数": [
+   {
+    "value": "10",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "10社以上が市場参入"
+   },
+   {
+    "value": "3",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "quote": "い、事業フェーズ2では3社程度、事業フェーズ3では2社程度まで支援対象を絞り込み"
+   },
+   {
+    "value": "2",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "quote": "い、事業フェーズ2では3社程度、事業フェーズ3では2社程度まで支援対象を絞り込み"
+   },
+   {
+    "value": "50",
+    "url": "https://sorabatake.jp/39122/",
+    "quote": "宇宙ビジネス企業50社以上とゆく年くる年、2022年のトピックと2023年の展望"
+   },
+   {
+    "value": "1",
+    "url": "https://sorabatake.jp/39122/",
+    "quote": "最後に、今回アンケートに協力いただいた企業（1社非回答）に、2025年の世界の宇宙ビジネス予測を、投資額・市場規模・新規参入企業数の3つの観点で伺った結果を紹介します"
+   },
+   {
+    "value": "100",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "quote": "準備していただいた求人は100社以上もありパワフルさを感じたのですが、最初の面談の時に書類を応募する企業数と、そのうち一次面接を通る総定数や内定が出る企業の総定数を出していただいて、それをどのくらいの期間で行うのかという指針があったので、納得感がありました"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "164",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "データ等の利用(164億円)」が計上"
+   },
+   {
+    "value": "600",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "※８年間の基金事業衛星間光通信技術実証 600億円"
+   },
+   {
+    "value": "147",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "※８年間の基金事業船舶間通信衛星（VDES） 147億円"
+   },
+   {
+    "value": "50",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "※６年間の基金事業小型多波長センサ開発 50億円"
+   },
+   {
+    "value": "3,000",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "quote": "令和5年度補正予算3,000億円（文科省1,500億円、経産省1,260億円、総務省240億円）"
+   },
+   {
+    "value": "1,500",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "quote": "令和5年度補正予算3,000億円（文科省1,500億円、経産省1,260億円、総務省240億円）"
+   },
+   {
+    "value": "1,260",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "quote": "令和5年度補正予算3,000億円（文科省1,500億円、経産省1,260億円、総務省240億円）"
+   },
+   {
+    "value": "240",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "quote": "令和5年度補正予算3,000億円（文科省1,500億円、経産省1,260億円、総務省240億円）"
+   },
+   {
+    "value": "1,550",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "quote": "令和6年度補正予算3,000億円（文科省1,550億円、経産省1,000億円、総務省450億円）"
+   },
+   {
+    "value": "1,000",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "quote": "令和6年度補正予算3,000億円（文科省1,550億円、経産省1,000億円、総務省450億円）"
+   },
+   {
+    "value": "450",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "quote": "令和6年度補正予算3,000億円（文科省1,550億円、経産省1,000億円、総務省450億円）"
+   },
+   {
+    "value": "2,000",
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "quote": "令和7年度補正予算2,000億円（文科省xxx億円、経産省xxx億円、総務省xxx億円）"
+   },
+   {
+    "value": "700",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "quote": "民間投資も水準を保ち、2024年の世界の宇宙分野への民間投資額は約1兆2700億円に達し、前年比20%増となりました"
+   },
+   {
+    "value": "950",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "quote": "同省は、宇宙戦略基金の支援メニューとして、光通信、小型合成開口レーダー（SAR）、小型多波長などの衛星コンステレーション構築を目指す事業者の量産・打上げのスピード加速を狙う「商業衛星コンステレーション構築加速化」に対し、7年以内に950億円を投じる計画を挙げています（"
+   },
+   {
+    "value": "100",
+    "url": "https://sorabatake.jp/39122/",
+    "quote": "総額100億円超を追加交付【宇宙ビジネスニュース】"
+   },
+   {
+    "value": "45",
+    "url": "https://space-connect.jp/space-startup/",
+    "quote": "一方、NASAとDraperによるCP-12契約の終了に伴い、未計上の契約残高約45億円は解消される見通しだ"
+   },
+   {
+    "value": "1,243.9",
+    "url": "https://space-connect.jp/space-startup/",
+    "quote": "総収入・損益の概要に加え、防衛省案件による受注残高1,243.9億円への拡大、小型SAR衛星の運用機数、宇宙戦略基金..."
+   },
+   {
+    "value": "11.9",
+    "url": "https://space-connect.jp/space-startup/",
+    "quote": "売上収益は11.9億円、政府補助金収入は8.2億円で、部材調達などの遅れにより収益計上が後ろ倒しとなった"
+   },
+   {
+    "value": "8.2",
+    "url": "https://space-connect.jp/space-startup/",
+    "quote": "売上収益は11.9億円、政府補助金収入は8.2億円で、部材調達などの遅れにより収益計上が後ろ倒しとなった"
+   },
+   {
+    "value": "436",
+    "url": "https://sorabatake.jp/44595/",
+    "quote": "令和8年度の宇宙関係予算は、基金関係執行予定額(436億円)を含む総額で1兆446億円と、初めて1兆円を超えました"
+   },
+   {
+    "value": "446",
+    "url": "https://sorabatake.jp/44595/",
+    "quote": "令和8年度の宇宙関係予算は、基金関係執行予定額(436億円)を含む総額で1兆446億円と、初めて1兆円を超えました"
+   },
+   {
+    "value": "10",
+    "url": "https://sorabatake.jp/44595/",
+    "quote": "令和8年度当初予算案と令和7年度補正予算の合計は1兆10億円で、前年度(8,920億円)から1,090億円の増額(+12%)です"
+   },
+   {
+    "value": "8,920",
+    "url": "https://sorabatake.jp/44595/",
+    "quote": "令和8年度当初予算案と令和7年度補正予算の合計は1兆10億円で、前年度(8,920億円)から1,090億円の増額(+12%)です"
+   },
+   {
+    "value": "1,090",
+    "url": "https://sorabatake.jp/44595/",
+    "quote": "令和8年度当初予算案と令和7年度補正予算の合計は1兆10億円で、前年度(8,920億円)から1,090億円の増額(+12%)です"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sorabatake.jp/216/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mext.go.jp/kaigisiryo/content/20210118-mxt_uchukai01-000012441_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/39122/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E8%A1%9B%E6%98%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-connect.jp/space-startup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/space-business/space-business-introduction.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fanfun.jaxa.jp/faq/detail/329.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO83015820W4A820C2EAC000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jm2040.blogspot.com/2026/01/satellite-bus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/space/comittee/27-anpo/anpo-dai69/sankou1-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.axelspace.com/ja/news/grus-3_interview_2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fund.jaxa.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/44595/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001079781.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www8.cao.go.jp/space/comittee/dai123/kiso2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2025/02/20260225003/20260225003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtlaw.com/-/media/files/insights/alerts/2026/04/gt-alert_japan-shifts-to-next-generation-space-transportation-regulation-with-space-activities-act-amendment-jpn.pdf?rev=5ff3b08450524eba931de272b8ea2a6f",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cao.go.jp/houan/pdf/221/221_2gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nagashima.com/publications/publication20260702-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aquaxislaw.com/posts/newsletter-2026-05-01",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/8a59e366-fed1-4c2e-a64e-f4dc64522212",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E5%B0%8F%E5%9E%8B%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%87%E5%AE%99%E6%A9%9F%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E8%A1%9B%E6%98%9F-r18901/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/small-satellite-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandata.com/industry-reports/japan-space-service-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exterrajsc.com/p/the-space-industrial-base-capacity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aia-aerospace.org/news/new-aia-and-pwc-report-u-s-space-supply-chain-approaching-inflection-point-as-demand-surges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/satellite-manufacturing-and-launch-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiaa.org/2026/09/22/space-industry-confronts-growing-rocket-supply-crunch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/satellite-manufacturing-funding-deals",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人工衛星 国内市場規模 億円",
+   "results": [
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://www.soumu.go.jp/main_content/001056274.pdf",
+    "https://sorabatake.jp/216/",
+    "https://www.mext.go.jp/kaigisiryo/content/20210118-mxt_uchukai01-000012441_5.pdf",
+    "https://www.spexa.jp/tokyo/ja-jp/blog/article-02.html",
+    "https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E5%B8%82%E5%A0%B4-112818",
+    "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/space-business/space-business-introduction.html",
+    "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "https://www.meti.go.jp/statistics/toppage/report/minikaisetsu/hitokoto_kako/20220722hitokoto.html"
+   ]
+  },
+  {
+   "query": "人工衛星 国内 参入企業 社",
+   "results": [
+    "https://sorabatake.jp/39122/",
+    "https://mono.ipros.com/cg1/%E8%A1%9B%E6%98%9F/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://space-connect.jp/space-startup/",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/space-business/space-business-introduction.html",
+    "https://fanfun.jaxa.jp/faq/detail/329.html",
+    "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "https://baseconnect.in/companies/keyword/8a59e366-fed1-4c2e-a64e-f4dc64522212",
+    "https://sorabatake.jp/216/",
+    "https://techgym.jp/column/startup/space/"
+   ]
+  },
+  {
+   "query": "人工衛星 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://jobs.nec-careers.com/u/job.phtml?job_code=4029",
+    "https://www.nikkei.com/article/DGKKZO83015820W4A820C2EAC000/",
+    "https://jm2040.blogspot.com/2026/01/satellite-bus.html",
+    "https://www8.cao.go.jp/space/comittee/27-anpo/anpo-dai69/sankou1-2.pdf",
+    "https://www.axelspace.com/ja/news/grus-3_interview_2/",
+    "https://journal.meti.go.jp/policy/202604/45440/",
+    "https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000306578",
+    "https://progres02.jposting.net/pgmitsubishielectric/u/sp/job.phtml?job_code=2675",
+    "https://sorabatake.jp/39996/",
+    "https://smartf-nexta.com/archives/13522"
+   ]
+  },
+  {
+   "query": "人工衛星 予算 補助金 基金 2026",
+   "results": [
+    "https://fund.jaxa.jp/",
+    "https://sorabatake.jp/44595/",
+    "https://www.soumu.go.jp/main_content/001079781.pdf",
+    "https://www8.cao.go.jp/space/comittee/dai123/kiso2.pdf",
+    "https://www.youtube.com/watch?v=F1ULnBWMT0A",
+    "https://www.meti.go.jp/press/2025/02/20260225003/20260225003.html",
+    "https://biz.stayway.jp/hojyo_detail/31178/",
+    "https://www.mext.go.jp/content/20260204-mxt_uchukai01-000047103_14.pdf",
+    "https://grant-search.com/grant/632/",
+    "https://www.jaxa.jp/about/disclosure/data/kikinhojo_2026.pdf"
+   ]
+  },
+  {
+   "query": "人工衛星 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.gtlaw.com/-/media/files/insights/alerts/2026/04/gt-alert_japan-shifts-to-next-generation-space-transportation-regulation-with-space-activities-act-amendment-jpn.pdf?rev=5ff3b08450524eba931de272b8ea2a6f",
+    "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "https://www.cao.go.jp/houan/pdf/221/221_2gaiyou.pdf",
+    "https://www.nagashima.com/publications/publication20260702-1/",
+    "https://aquaxislaw.com/posts/newsletter-2026-05-01",
+    "https://yuhikaku.com/articles/-/58759",
+    "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/houan/g22109040.htm",
+    "https://www.nikkei.com/article/DGXZQOUA265CT0W6A320C2000000/",
+    "https://laws.e-gov.go.jp/law/428AC0000000076/",
+    "https://www.tele.soumu.go.jp/j/adm/proc/manual/"
+   ]
+  },
+  {
+   "query": "人工衛星 国内 主要企業 メーカー",
+   "results": [
+    "https://baseconnect.in/companies/keyword/8a59e366-fed1-4c2e-a64e-f4dc64522212",
+    "https://mono.ipros.com/cg3/%E5%B0%8F%E5%9E%8B%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "https://sorabatake.jp/216/",
+    "https://fanfun.jaxa.jp/faq/detail/329.html",
+    "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "https://space-connect.jp/space-startup/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%87%E5%AE%99%E6%A9%9F%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://www.reportprime.com/ja/%E8%A1%9B%E6%98%9F-r18901/company",
+    "https://mono.ipros.com/cg1/衛星/"
+   ]
+  },
+  {
+   "query": "satellite manufacturing Japan market size",
+   "results": [
+    "https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262",
+    "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/small-satellite-market/japan",
+    "https://www.linkedin.com/pulse/japan-satellite-market-us-korea-europe-strategic-g3bkf",
+    "https://www.marketsandata.com/industry-reports/japan-space-service-market",
+    "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "https://www.imarcgroup.com/japan-space-launch-services-market",
+    "https://www.researchandmarkets.com/report/satellite?srsltid=AYCX9vJyrqQyJUoeBs_wVCnNKYYKIkwk1pKvfP7nHolGPcMqLcf9z7rB",
+    "https://www.grandviewresearch.com/horizon/outlook/satellite-manufacturing-market/japan"
+   ]
+  },
+  {
+   "query": "satellite manufacturing shortage backlog supply gap 2025",
+   "results": [
+    "https://www.exterrajsc.com/p/the-space-industrial-base-capacity",
+    "https://www.aia-aerospace.org/news/new-aia-and-pwc-report-u-s-space-supply-chain-approaching-inflection-point-as-demand-surges/",
+    "https://dataintelo.com/report/satellite-manufacturing-and-launch-market",
+    "https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market",
+    "https://aiaa.org/2026/09/22/space-industry-confronts-growing-rocket-supply-crunch/",
+    "https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262",
+    "https://newmarketpitch.com/blogs/news/satellite-manufacturing-funding-deals",
+    "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "https://bea.gov/sites/default/files/papers/BEA-WP2025-5.pdf",
+    "https://sia.org/wp-content/uploads/2025/05/Presidents-Rep25-SIA-News-Page-May-FINAL-.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

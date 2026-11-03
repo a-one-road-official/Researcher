@@ -1,0 +1,1964 @@
+{
+ "name": "ホワイトラベルCAE・シミュレーション（OEM）",
+ "en": "OEM simulation software",
+ "aliases": [
+  "white label simulation software",
+  "CAE OEM",
+  "simulation SDK",
+  "FEA software",
+  "cloud simulation",
+  "シミュレーション"
+ ],
+ "context": "製造業・設計",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:17:56.784895+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "O = Adequate (exploration-grade) means the output is accurate enough to guide design decisions — to rank alternatives, identify failure modes, and narrow the design space — but is not intended to serve as a regulatory deliverable. AI surrogates, cloud-native platforms, and ROMs operate at this fidelity. The critical insight is that exploration-grade fidelity is",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Certified validation-grade vs. exploration-grade surrogate —",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "V=2 reflects limited AI surrogate or ROM capability compared to platforms that have invested earlier in the velocity layer",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "— Simulation output produced by a validated solver with documentation acceptable for regulatory submission, contractual deliverable, or certification authority review. O = High in the SOLVE framework.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Thread vs Twin",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "PLM vs PDM",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Robot simulation vs. robot programming: two different things",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "PLC validation vs. virtual commissioning",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Lower-cost alternatives",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program for industrial IoT solution providers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The SensFlo Reseller program is a resale arrangement for systems integrators, automation companies and solution providers that want SensFlo inside their own client offering. Resellers sell SensFlo solutions from",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Compare this program vs others",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Service Providers",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Connect Claude, Cursor or VS Code",
+    "url": "https://inproqu.com/branding-custom-domain/",
+    "pass": 3
+   },
+   {
+    "quote": "InProQu vs AI tools",
+    "url": "https://inproqu.com/branding-custom-domain/",
+    "pass": 3
+   },
+   {
+    "quote": "シート製造・性能評価統合ソリューション『VSS』導入事例",
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タチエスにて、シート製造・性能評価統合ソリューション「VSS」",
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "■シート開発における課題とCAEの活用（ VPS / VSS導入背景）",
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partnerships also offer specific software components that complete proprietary offerings. One industry that’s typically associated with OEM Partnerships is smartphones. Technology companies that produce smartphones often approach third-party software providers to design their phone’s pre-installed software.",
+    "url": "https://www.sisense.com/glossary/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partnerships: When to Embed vs Resell",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare this program vs others",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Engage in regular roadmap reviews",
+    "url": "https://mstusa.com/partners/oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware and software companies (ISVs) embed SC//HyperCore virtualization into their solutions. We’ll work with you to validate your hardware or specific application.",
+    "url": "https://www.scalecomputing.com/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "The cost-effective nature of the SC//HyperCore HyperVisor allows OEM partners to realize cost savings in both development and ongoing operational expenses. These savings can be translated into more competitive pricing for their solutions. Offering cost-effective alternatives to customers can increase market share and attract businesses looking for high-value propositions.",
+    "url": "https://www.scalecomputing.com/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews",
+    "url": "https://www.scalecomputing.com/oem-partner-program",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Aerospace primes (Boeing, Airbus, Lockheed Martin), tier-1 automotive suppliers, semiconductor companies (Intel, TSMC tool qualification), medical device OEMs requiring FDA simulation validation documentation.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive OEMs (non-linear material behavior in body structures, seating, and sealing systems), aerospace composite structural analysis, medical device fatigue analysis where non-linear material response determines failure.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Structural optimization depth — OptiStruct's topology, topography, and size optimization capabilities are production-proven at automotive OEMs where mass reduction is a primary design KPI",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive OEMs (BMW, Daimler, Ford lightweight body programs), aerospace bracket and secondary structure programs, defense antenna placement.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive OEMs and tier-1 suppliers for vehicle dynamics programs, aerospace primes for acoustic and vibro-acoustic certification, heavy equipment manufacturers for mechanism and durability analysis.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive OEM aerodynamics programs, aerospace external aero programs, commercial HVAC simulation programs seeking to move compute off on-premises HPC clusters.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Tier-1 automotive suppliers and OEMs with established CFD programs (existing validated solver history as training data), aerospace design exploration programs, consumer product programs with high geometry variation between designs.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "We evaluated 14 simulation tools across nine feature categories using publicly available vendor documentation, direct platform testing, and market research. The full dataset covers pricing tiers, supported modules, robot library breadth, PLC protocol support, API languages, CAD import formats, OEM capabilities, and trial availability.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/whitelabeling",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM and whitelabeling",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Visual Components is one of the only tools in this space offering OEM and whitelabeling capability. Partners can brand the platform under their own name and color scheme, or build genuinely differentiated products on top of Visual Components technology.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "3. OEM/whitelabeling is exclusive to Visual Components.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "All major platforms offer some API capability. Visual Components offers Python and .NET (including C#) APIs, used both for customer customization and by OEM partners building differentiated products.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/partner customization and whitelabeling",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "For teams that need layout planning, material flow, robot programming, PLC validation, and virtual commissioning in one environment, the data points clearly to Visual Components. It covers more of those capabilities at a competitive price point, offers the only OEM/whitelabeling model in the comparison, and provides a trial that lets you verify fit before committing.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Both cover the full five-module scope. Visual Components is approximately €9,000/year less expensive at comparable feature levels, does not require additional product dependencies, and is the only option offering OEM/whitelabeling. Enterprise platforms have deeper PLM integration and longer-established use in automotive manufacturing.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partners | Simerics",
+    "url": "https://www.simerics.com/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partners",
+    "url": "https://www.simerics.com/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Simerics OEM Partnership Program",
+    "url": "https://www.simerics.com/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Simerics has established the Simerics OEM partnership program to enable partnering companies to join in delivering the most comprehensive CFD simulation software solution to end users and customers worldwide.",
+    "url": "https://www.simerics.com/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Fill out the form below to start a conversation about our Simerics OEM partnership.",
+    "url": "https://www.simerics.com/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "The SensFlo Reseller program lets certified partners sell and deploy SensFlo inside their own client solutions. You earn a margin on every sale and can co-brand or white-label the platform.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "OEM program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Co-brand or white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Present SensFlo alongside your brand or under it, depending on how you sell to your clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Machine OEMs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Co-brand / white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Can resellers co-brand or white-label SensFlo?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Resellers can co-brand SensFlo alongside their own brand or white-label it under their brand, depending on how they sell to their clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": ". Resellers sell these solutions to their clients, and OEM partners can embed any of them in their own equipment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "License SensFlo and embed it in the equipment you build and sell under your brand.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Your OEM Simulation Partner - Engineering-Grade Solutions - CM Labs",
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Scalable, white-label training solutions aligned to your equipment",
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMs apply simulation across the product lifecycle. CM Labs delivers purpose-built solutions that support development, customer engagement, and long-term equipment performance.",
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Showcase real machine performance anywhere. Deliver immersive demonstrations that differentiate your brand and accelerate buying decisions.",
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Proven OEM Integration Experience",
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "From custom control replication to branded cab environments, we collaborate closely with OEM teams to align simulation with product goals.",
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "With thousands of systems deployed worldwide, CM Labs delivers scalable OEM programs backed by practical implementation and long-term support.",
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "What OEM Partners Say",
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "CM Labs x elobau at bauma 2025: Boost Training and Marketing ROI with Custom OEM Simulation",
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding and Customization, OEM Partner Support",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM / ODM",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Project Management",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding and Customization",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "AggreGate IoT Platform and all derived vertical market solutions are white-labeled. These products are designed to be rebranded and redistributed by the hardware manufacturers under an OEM agreement. To achieve your desired commercial results, the branded package will inherit your custom name, copyright, logos, icons, website links, documentation, and other elements of your corporate identity.",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Purposes",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Before you dive into the rebranding process, you first need to recognize good reasons for that. See what you get if you choose to rebrand:",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Options",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Applying the OEM partner’s corporate identity to a new product",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fully rebranded documentation",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Partners",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Equipment manufacturers (OEM/ODM partners)",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Lifecycle",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Before a rebranded product appears in the marketplace, it takes several steps to prepare:",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Parallel work on the OEM agreement",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Branded Proposal Software | Custom Domain",
+    "url": "https://inproqu.com/branding-custom-domain/",
+    "pass": 3
+   },
+   {
+    "quote": "Branding & custom domain",
+    "url": "https://inproqu.com/branding-custom-domain/",
+    "pass": 3
+   },
+   {
+    "quote": "Your logo, letterhead and domain",
+    "url": "https://inproqu.com/branding-custom-domain/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, everywhere",
+    "url": "https://inproqu.com/branding-custom-domain/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domain for share links on Pro and up, and email from your own Gmail, Outlook, Zoho or SMTP.",
+    "url": "https://inproqu.com/branding-custom-domain/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Simulation-derived predictions (fatigue life remaining, thermal margin, structural health) inform operational decisions",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program for Industrial IoT Software | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Resale margin",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program for industrial IoT solution providers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The SensFlo Reseller program lets certified partners sell and deploy SensFlo inside their own client solutions. You earn a margin on every sale and can co-brand or white-label the platform.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller partner program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The SensFlo Reseller program is a resale arrangement for systems integrators, automation companies and solution providers that want SensFlo inside their own client offering. Resellers sell SensFlo solutions from",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": ", and keep a margin on each sale.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Because resellers deploy SensFlo for their clients, their architects and engineers complete SensFlo certification before the first engagement. Tier 1 client support is optional, and resellers who take it on certify their engineers to handle first-line questions. Companies that want to build SensFlo into their own hardware should look at the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller partners earn?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers earn a margin on every SensFlo solution they sell, and deal registration protects the opportunities you bring in.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Margin on every sale",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "and earn a resale margin on each deployment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program require?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Retail / Wholesale",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Value-added resellers",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAEソフトウェアの代理店になってみませんか",
+    "url": "https://www.astom.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate My Partner Program",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partnerships: When to Embed vs Resell",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partnerships are agreements where one company embeds another’s product inside its own offering and sells it as part of a single package. They differ from reselling because the customer often never sees the underlying vendor. Sign one when the embedded capability is core to your value but not core to your roadmap, and the economics reward volume over margin.",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "Price the embed for scale, since the customer buys one package and margin is thin per unit. Model the deal at the partner’s real volume, not a hopeful one, because OEM math that works at a hundred customers can break at a thousand.",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "Signing an OEM deal that should have been a resell.",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing for margin instead of volume.",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM only works at scale. A deal structured like a high-margin resell prices itself out of the volume that makes embedding worthwhile.",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the difference between OEM and reselling?",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "A reseller sells the partner’s product as a distinct, branded thing the customer knows they are buying, while an OEM partner absorbs the capability into its own product and owns the customer relationship. The difference decides who owns support, pricing, and the customer.",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "Use it when the capability is core to your value but not core to your roadmap, the customer wants one product rather than two, and the economics reward volume over margin. If the customer needs to see the underlying vendor, resell instead.",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "Usually for volume, not margin, because the customer buys one package and the per-unit economics are thin. The deal has to be modeled at the partner’s real volume, since OEM math that works at small scale can lose money at large scale.",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "Thin margin if priced wrong, and strategic dependency on the embedded vendor’s pricing and roadmap. Both are managed in the contract through volume pricing, pricing protection, roadmap visibility, and a defined exit path.",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "Look at your next embed-or-resell decision and answer one question before anything else: who should own the customer relationship? If the answer is you, the model is OEM, and the work is to price it for volume and protect against the dependency you are about to take on.",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "partner program",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "partner program strategy",
+    "url": "https://forecastable.com/oem-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partner Program",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "The Honeywell OEM Partner Program",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "In this section, we will share additional resources about the Honeywell OEM Partner Program",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partner Program for Equipment Makers | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program for industrial equipment makers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partners pay SensFlo a licensing fee and sell the finished product at whatever price their market supports, which keeps the margin decision entirely on your side.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Full pricing and margin control",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "other partner programs?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Referral",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Referral fee",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Resale margin",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "The OEM partner does. OEM partners pay SensFlo a licensing fee and keep full control over the price and margin of the product they sell.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": ". Resellers sell these solutions to their clients, and OEM partners can embed any of them in their own equipment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Yes — many partners evolve over time, for example, starting as Referral partners and moving to Reseller as their SensFlo practice deepens. Hybrid models are also possible; for example, a hardware OEM may also pursue a",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program",
+    "url": "https://mstusa.com/partners/oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partner Program",
+    "url": "https://mstusa.com/partners/oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "ISV Partner Program",
+    "url": "https://mstusa.com/partners/oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "As a Reseller, you will have priority access to FREE technical support 24/7 via phone and e-mail",
+    "url": "https://mstusa.com/partners/oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Reseller support team is available to help you with sales and other issues",
+    "url": "https://mstusa.com/partners/oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Access to the MST Reseller Center containing marketing tools (logos, leaflets, brochures, posters, testimonials, etc.), license management tools, and more",
+    "url": "https://mstusa.com/partners/oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Newsletters bringing you important news about software, Reseller Program and the MST company",
+    "url": "https://mstusa.com/partners/oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "It is easy to understand why the network of MST Resellers is growing rapidly.",
+    "url": "https://mstusa.com/partners/oem-partner-program/",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Reduced-order models for industrial asset digital twins",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "MAGMASOFT's Virtual Design of Experiments workflow allows process parameter optimization (gate design, cooling channel placement, pour temperature) without running physical trials",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Foundries supplying automotive, aerospace, and industrial equipment programs; HPDC programs for aluminum and magnesium structural components; investment casting for turbine blades and aerospace brackets.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial programs with standard structural or CFD requirements find Ansys, Simcenter, or Abaqus faster and more cost-efficient for mainstream analysis types — COMSOL's equation-level flexibility is a strength only when standard solvers cannot address the physics",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Universities and research institutes, medical device R&D programs (bioelectromagnetics, drug delivery, implant heating), industrial R&D departments (electrochemical processing, non-standard material behavior, novel thermal systems).",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Akselos — Reduced-Order Models for Industrial Digital Twins",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Structural digital twins of large industrial assets — offshore platforms, wind turbine structures, bridges, storage tanks, large pressure vessels — where real-time structural health monitoring requires simulation-derived predictions against live sensor data at operational timescales.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "— PULSE framework · industrial connectivity, unified namespace, edge, historian",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "— An industrial data architecture pattern in which all systems publish and subscribe to a shared namespace of operational events. For simulation buyers, UNS compatibility in the E layer determines whether simulation-derived predictions can flow into operational systems (MES, analytics, maintenance) without custom integration.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial automation",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "This comparison is grounded in a structured benchmarking project covering 14 manufacturing simulation tools. We analyzed pricing, module coverage, robot support, PLC connectivity, CAD import, API capabilities, collaboration features, and trial availability.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "We evaluated 14 simulation tools across nine feature categories using publicly available vendor documentation, direct platform testing, and market research. The full dataset covers pricing tiers, supported modules, robot library breadth, PLC protocol support, API languages, CAD import formats, OEM capabilities, and trial availability.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Trial available",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "is about modeling robot motion and behavior in a layout. Visual Components ships with 2,350+ ready-to-use robot models — industrial robots, collaborative robots, autonomous mobile robots, and mobile robots for intralogistics. If you need to place a robot in a cell and see whether it reaches, cycles, and fits, the library covers almost anything you will encounter.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Trial availability",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Only 6 of the 14 tools in the full benchmarking dataset offer any trial at all. A trial reduces risk and shortens the internal sales cycle. The free Visual Components Academy provides self-paced learning that works with or without a license.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "1. Trial availability is rare.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Only 6 of 14 tools offer any trial license. This matters: purchasing simulation software without being able to test it first is a significant risk for any team.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Trial before purchase",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "For teams that need layout planning, material flow, robot programming, PLC validation, and virtual commissioning in one environment, the data points clearly to Visual Components. It covers more of those capabilities at a competitive price point, offers the only OEM/whitelabeling model in the comparison, and provides a trial that lets you verify fit before committing.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Start a 30-day trial",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Only 6 of the 14 tools analyzed offer trial licenses. Visual Components offers a 30-day trial. Free self-paced learning is also available at the Visual Components Academy, independent of a paid trial.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program for Industrial IoT Software | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Industrials",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program for industrial IoT solution providers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial software vendors",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Building your own system based on a constantly developing industrial platform",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://inproqu.com/branding-custom-domain/",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial · No credit card · Cancel anytime",
+    "url": "https://inproqu.com/branding-custom-domain/",
+    "pass": 3
+   },
+   {
+    "quote": "体験セミナーでは、ソフトウェア商品の基本的な操作手順からシミュレーション結果分析までの一連の流れを無料体験いただけます",
+    "url": "https://www.astom.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://www.sisense.com/glossary/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Services",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Operations",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Autonomous Solutions",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "global industrial automation partner you can count on.",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Simplify the Industrial IoT with Connected OEM",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "(HPS) helps industrial customers and partners around the world operate safe, reliable, efficient, sustainable and more profitable facilities. Our extensive portfolio offers leading technologies from the plant floor to the boardroom.",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": ", established in May 1993, specializes in the research, development, manufacture and sale of industrial flow control equipment.",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Protective and Control Solutions for Industrial Furnaces",
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Industrials",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program for industrial equipment makers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Trial Software",
+    "url": "https://www.scalecomputing.com/oem-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアル",
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "30日間全機能無料体験版・製品資料をダウンロード",
+    "url": "https://www.zwsoft.co.jp/become-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "30日間無料体験",
+    "url": "https://www.zwsoft.co.jp/become-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "日間無料体験",
+    "url": "https://www.zwsoft.co.jp/become-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "National Institute of Advanced Industrial Science and Technology (AIST)",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "​”Development of the Next Generation Particle Method CAE Software” was chosen as the second “Open-innovation project for IoT technology development” by NEDO (New Energy and Industrial Technology Development Organization (NEDO) in 2011.​",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "Particleworks has been named one of the Brilliant Industrial Technologies of the National Capital Region during the 62th National Capital Region Nine Government Summit 2012.​",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "— $115M raised; former OpenFOAM contributors; targeting enterprise CFD programs that run on costly on-premises HPC clusters.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "— $100M Goldman Sachs investment; commercial automotive aerodynamics deployments verified; geometry-to-result in seconds with sufficient accuracy for design exploration confirmed by disclosed customer programs.",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-native enterprise CFD — former OpenFOAM contributors, $115M raised",
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "This comparison is grounded in a structured benchmarking project covering 14 manufacturing simulation tools. We analyzed pricing, module coverage, robot support, PLC connectivity, CAD import, API capabilities, collaboration features, and trial availability.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "We evaluated 14 simulation tools across nine feature categories using publicly available vendor documentation, direct platform testing, and market research. The full dataset covers pricing tiers, supported modules, robot library breadth, PLC protocol support, API languages, CAD import formats, OEM capabilities, and trial availability.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "€13,000 (Premium simulation); OLP sold separately as Premium OLP",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "€20,000+",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "€5,000–8,000",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Pricing varies widely — and module scope matters.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "One pricing note worth repeating: the €13,000/year figure covers Visual Components Premium simulation. Robot offline programming is a separate product line (Premium OLP) at a higher price point. If OLP is in your scope, build that into your evaluation.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Both cover the full five-module scope. Visual Components is approximately €9,000/year less expensive at comparable feature levels, does not require additional product dependencies, and is the only option offering OEM/whitelabeling. Enterprise platforms have deeper PLM integration and longer-established use in automotive manufacturing.",
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：100万円 ~ 500万円",
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "月額固定金額のS3互換ストレージ",
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "国内クラウド市場は2028年に16兆円超への成長が予測され、ビジネスチャンスは拡大中",
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "IDC Japanが2024年6月に発表した報告によると、2023年の国内クラウド市場は売上額ベースで前年比29.6％増の7兆8,250億円でした",
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "また、2023～2028年のCAGR（年間平均成長率）は16.3％で推移し、2028年の市場規模は2023年の約2.1倍の16兆6,285億円になると予測しています",
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ホワイトラベルの代表例である「セブンプレミアム」でいえば、その商品数はすでに多岐にわたり（2024年2月末時点で約3,400アイテム、累計売上は15兆円超）、ユーザの生活の隅々に浸透しています",
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年に発表した「DXレポート」では、「2025年の崖」という言葉を使い、このまま課題が解決されなければ2025年以降、毎年最大12兆円の経済損失が生じる可能性があると指摘しました",
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "1,900万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "1,800万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "1,700万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "1,600万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "1,400万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "1,300万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "1,200万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "1,100万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "900万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "800万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "700万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "600万円以上",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナープランは月額150,000円（税別）で、サイト数・ユーザー数は無制限です",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "月額¥150,000（税別）／初期費用¥100,000",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "卸原価は月額¥150,000の基本料に、計測量に応じた従量課金が加わります",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "月額10万円で10社に提供した場合、粗利は月約85万円（粗利率85%）になります",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "10社に提供した場合（月額¥100,000で販売）",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "30社に提供した場合（月額¥100,000で販売）",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "50社に提供した場合（月額¥100,000で販売）",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "前提: クライアント販売単価は月額¥100,000（貴社が自由に設定できます",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "当社調べのLLMO月額コンサルティング相場は20万〜50万円）",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーは月額150,000円（税別）と初期費用100,000円です",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Tell us about the equipment you build and where it is sold. The application call can take less than 15 minutes, and the partner team will follow up with an answer.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "モデルでも簡単にふく射の設定を行うことができます",
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "ボクセルによる有限要素解析は、操作が簡単でなおかつ高速で人的コストが",
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us about the equipment you build and where it is sold. The application call can take less than 15 minutes, and the partner team will follow up with an answer.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "「Intersect 26: Japan」の舞台裏 | Applied Intuition",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "「Intersect 26: Japan」の舞台裏：日本向けに開発されたフィジカルAI",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月に開催されたこのイベントでは、Applied Intuition が、国内の自動車、トラック輸送、産業分野においてフィジカル AI 分野で発揮する実力を披露するとともに、SDS の日本への事業拡大が発表されました",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本ほど、現代の産業の発展に大きな影響を与えてきた国は多くありません",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車メーカーや産業機械メーカー、そしてさまざまな製造業関連企業は、長年にわたりエンジニアリング、品質、そして継続的改善の分野で世界的な基準を築いてきました",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "乗用車や商用トラックをはじめ、建設機械、鉱山機械、さらには工場自動化システムに至るまで、日本の OEM 各社は世界でも屈指の高度な物理システムを生み出してきました",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "こうした背景から、日本こそが「Intersect 26: Japan」の開催地としてふさわしい場所となりました",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "先週、東京の大手町三井ホールで開催された本イベントでは、先進的なソフトウェア、人工知能、そして日本の深いエンジニアリングの専門知識が交差する中で、新世代のインテリジェントマシンがどのように台頭しつつあるかが探求されました",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "その戦略が最も顕著に表れたのが、この日の最大の発表である「日本向け SDS 」のローンチでした",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本は世界でも有数の自動車市場であると同時に、自動運転技術にとって最も難易度の高い環境の一つでもあります",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Intuition が北米および欧州に続き、わずか1年足らずで日本市場向け SDS の提供を開始したことは、同社のプラットフォームが持つ柔軟性と、市場ごとにゼロから作り直すことなくグローバルに展開できる拡張性を示しています",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本車EV車両で、Applied IntuitionのVehicle OS 上にAI機能を実装したコックピット空間のデモ体験するIntersect 参加者",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Intuition はこれまで、日本の主要な乗用車メーカーや商用車メーカーと緊密に連携しながら、国内のエンジニアリング体制の強化を進めてきました",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みの目的は、日本の自動車メーカーが自動運転技術をより迅速かつ効率的に市場へ展開できるよう支援することにあります",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "狭い生活道路や複雑な交差点、左側通行といった日本特有の交通環境にも対応できるよう設計されており、日本市場に求められる高いレベルの走行性能を実現しています",
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるCAEのパイオニア",
+    "url": "https://mfg.dentsusoken.com/product/cae/",
+    "pass": 3
+   },
+   {
+    "quote": "第11回 Japan Drone 2026 ／第5回次世代エアモビリティEXPO 2026出展のご案内",
+    "url": "https://mfg.dentsusoken.com/product/cae/",
+    "pass": 3
+   },
+   {
+    "quote": "「SEMICON Japan 2025」出展のご案内",
+    "url": "https://mfg.dentsusoken.com/product/cae/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のCAEのパイオニアとして、製造業の設計開発を支援してきました",
+    "url": "https://mfg.dentsusoken.com/product/cae/",
+    "pass": 3
+   },
+   {
+    "quote": "日本イーエスアイ株式会社",
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "東日本大震災の地震波を使った解析事例!!",
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "本例題は、NX Nastranの仮想流体境界とファントム要素を利用し、2011東日本大震災（M9)の地震波*を使って右図に示す3種類のタンクの過渡応答解析を行いました",
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "■加工技術では日本は遅れをとっている？",
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "(C) JAPAN TESTING LABORATORIES, Inc. All rights reserved.",
+    "url": "https://jtla.co.jp/service/measurement_product/others/cae.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本ハイドロシステム工業株式会社(JHI)様",
+    "url": "https://www.astom.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "CAE受託解析・システム導入・エンジニア派遣｜株式会社日本アムスコ",
+    "url": "https://www.emsco-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本アムスコ",
+    "url": "https://www.emsco-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "IDC Japanが2024年6月に発表した報告によると、2023年の国内クラウド市場は売上額ベースで前年比29.6％増の7兆8,250億円でした",
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "使えるねっとがJapan IT Week春2026に出展",
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "使えるねっとがJapan IT Week春2025に出展！",
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "・Fluency in English and the local language (Japanese).",
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "pass": 3
+   },
+   {
+    "quote": "日本調査株式会社",
+    "url": "https://www.zwsoft.co.jp/become-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の船舶設計会社であるサンケイ設計は、8年前にZWCADを本格に導入し、そのシームレスな互換性、低コスト、使いやすさに満足し続けています",
+    "url": "https://www.zwsoft.co.jp/become-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "ZWSOFT Japan株式会社",
+    "url": "https://www.zwsoft.co.jp/become-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サポート",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "MADE IN JAPAN",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "操作・活用に関する質問対応（回数無制限・追加費用なし・日本語サポート）",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではLLMO、英語圏ではGEOが主流です",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではAI検索対策の総称として使われることが多い",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも提供が始まり、計測対象として重要度が上がっている",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Kita-ku, Osaka 530-0003 Japan",
+    "url": "https://empowerops.com/en/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Site",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese)",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "Hongo Dai-ichi Building, 8F, 34-3, Hongo 3-chome, Bunkyo-ku, Tokyo 113-0033, Japan",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "[ West Japan Branch ]",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "Round Terrace Fushimi, 3F, 17-26, Nishiki 1-chome, Naka-ku, Nagoya 460-0003, Japan",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "Introduced the Disaster Simulation Product FLUIDSISTA in the US and in Japan.",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "* Jointly developed with SGI Japan, Ltd.​",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "Opening of the West Japan Branch Office.​",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "Particleworks received The Japan Society for Computational Engineering and Science’s 25th Technology Award.​",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "Received the “Minister of Education, Culture, Sports, Science and Technology Award” of the “Award for Academic Startups (Organized by the Japan Science and Technology Agency. Sponsered by MEXT). ​",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "The West Japan Branch has been relocated to the Asahi Kaikan (Naka ward, Nagoya).​",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "Opening of the Osaka Branch Office. The “West Japan Branch” has been renamed to the “Nagoya Branch”.",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   },
+   {
+    "quote": "West Japan Branch [NAGOYA]",
+    "url": "https://prometech.co.jp/company_en",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/simcenter/best-simulation-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupstash.com/simulation-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/blog/simulation-software-companies-571",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esss.com/en/blog/simulation-software-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simerics.com/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simio.com/simio-global-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.processmodel.com/trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keysight.com/us/en/lib/resources/miscellaneous/free-software-trials--aerospace--defense-2649391.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/tecnomatix/free-trials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustradius.com/categories/simulation?company-size=enterprise",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/metallurgy/comments/ezbl88/casting_simulation_software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aggregate.digital/services/customization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/point-nine-news/branding-your-early-stage-software-company-8e6cb0c2fe9b",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://neweraelectronics.com/blog_posts/how-oem-branding-could-improve-your-business/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://brandyhq.com/blog/top-rebranding-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inproqu.com/branding-custom-domain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rfpro.com/autonomous-vehicle-simulation-specialist-expands-into-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.appliedintuition.com/ja/blog/intersect-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ciss.iis.u-tokyo.ac.jp/english/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pacific-hi.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.prometech.co.jp/en/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg.dentsusoken.com/product/cae/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtla.co.jp/service/measurement_product/others/cae.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astom.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emsco-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sisense.com/glossary/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partner-program/oem-software",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forecastable.com/oem-partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rockwellautomation.com/en-us/company/partnernetwork/oem-original-equipment-manufacturer-partners.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mstusa.com/partners/oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scalecomputing.com/oem-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp017_-en-p.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.autodesk.com/partner-program/bundle",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.spatial.com/ja/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96-%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AEoem%E3%81%8C%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E5%89%8A%E6%B8%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%83%88%E3%83%83%E3%83%975",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-technostar.com/services/customizeservice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grm-consulting.co.jp/correlation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://satyamventure.jp/cae/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astom.co.jp/parterner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zwsoft.co.jp/become-a-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmocheki.com/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trialpark.co.jp/advertise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://empowerops.com/en/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itnet.co.jp/en/information/news/announcing_new_automation_studio_industrial_distributor_in_japan.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://prometech.co.jp/company_en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/partners/partner-details/200000000252819_FPT_SOFTWARE_JAPAN_CO_LTD",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best OEM simulation software 2026",
+   "results": [
+    "https://www.demystifyingplm.com/best-simulation-software-2026",
+    "https://blogs.sw.siemens.com/simcenter/best-simulation-software/",
+    "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "https://startupstash.com/simulation-tools/",
+    "https://www.marketgrowthreports.com/blog/simulation-software-companies-571",
+    "https://www.devopsschool.com/blog/top-10-simulation-software-tools-in-2025-features-pros-cons-comparison/",
+    "https://www.guideflow.com/blog/engineering-simulation-software",
+    "https://visuresolutions.com/plm-guide/best-engineering-simulation-and-modeling-tools/",
+    "https://thedigitalprojectmanager.com/tools/best-business-process-simulation-software/",
+    "https://worldmetrics.org/best/oem-automotive-software/"
+   ]
+  },
+  {
+   "query": "OEM simulation software reseller program agencies",
+   "results": [
+    "https://www.esss.com/en/blog/simulation-software-reseller-program/",
+    "https://www.simerics.com/oem-partners/",
+    "https://www.simio.com/simio-global-partner-program",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "https://scoop.market.us/top-10-simulation-software-companies/",
+    "https://www.bionity.com/en/companies/simulation-software/order_t/",
+    "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "https://revolutioninsimulation.org/solution-providers/",
+    "https://openautomationsoftware.com/why-us/oem-si/"
+   ]
+  },
+  {
+   "query": "OEM simulation software free trial pricing",
+   "results": [
+    "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "https://www.processmodel.com/trial/",
+    "https://www.keysight.com/us/en/lib/resources/miscellaneous/free-software-trials--aerospace--defense-2649391.html",
+    "https://www.siemens.com/en-us/products/tecnomatix/free-trials/",
+    "https://www.trustradius.com/categories/simulation?company-size=enterprise",
+    "https://www.reddit.com/r/metallurgy/comments/ezbl88/casting_simulation_software/",
+    "https://www.getapp.za.com/directory/146/simulation/pricing/free/software",
+    "https://www.ptc.com/en/try-and-buy/free-trials?srsltid=AYCX9vKBVm9dc8DcTwZ5IEdwwTM5fpv1GMP1dxThAyWbo_goksHdLv8Z",
+    "https://www.mayahtt.com/free-trials/",
+    "https://www.einnosys.com/eigemsim/"
+   ]
+  },
+  {
+   "query": "OEM simulation software rebrand your logo custom domain",
+   "results": [
+    "https://aggregate.digital/services/customization.html",
+    "https://medium.com/point-nine-news/branding-your-early-stage-software-company-8e6cb0c2fe9b",
+    "https://neweraelectronics.com/blog_posts/how-oem-branding-could-improve-your-business/",
+    "https://brandyhq.com/blog/top-rebranding-tools/",
+    "https://inproqu.com/branding-custom-domain/",
+    "https://logo.com/logos/open-source-software",
+    "https://www.youtube.com/watch?v=WLBY4MxtxTI",
+    "https://www.themmachine.com/branding/rebrand/",
+    "https://codeandcore.com/services/rebranding/",
+    "https://zipdo.co/best/private-label-software/"
+   ]
+  },
+  {
+   "query": "OEM simulation software Japan Japanese",
+   "results": [
+    "https://rfpro.com/autonomous-vehicle-simulation-specialist-expands-into-japan/",
+    "https://www.linkedin.com/pulse/top-reasons-behind-japan-simulation-software-market-growth-uog3e",
+    "https://www.appliedintuition.com/blog/intersect-japan-2026",
+    "http://www.ciss.iis.u-tokyo.ac.jp/english/about/",
+    "https://pacific-hi.co.jp/en/",
+    "https://group.prometech.co.jp/en/about-us",
+    "https://empowerops.com/en/partners",
+    "https://www.visualcomponents.com/press/visual-components-opens-its-first-office-in-japan-and-asia-strengthening-its-regional-presence/",
+    "https://drivesncontrols.com/finnish-japanese-jv-plans-3d-simulations-for-manufacturers/",
+    "https://ensun.io/search/simulation-software/japan"
+   ]
+  },
+  {
+   "query": "ホワイトラベルCAE・シミュレーション（OEM） 日本",
+   "results": [
+    "https://mfg.dentsusoken.com/product/cae/",
+    "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "https://jtla.co.jp/service/measurement_product/others/cae.html",
+    "https://www.astom.co.jp/",
+    "https://www.emsco-jp.com/",
+    "https://www.asano-japan.com/wp/wp-content/uploads/2017/07/p42-45.pdf",
+    "https://blog.spatial.com/ja/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96-%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AEoem%E3%81%8C%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E5%89%8A%E6%B8%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%83%88%E3%83%83%E3%83%975",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article6.html",
+    "https://www.cct-inc.co.jp/koto-online/archives/101",
+    "https://www.yamada-seiyaku.com/blog/030"
+   ]
+  },
+  {
+   "query": "OEM simulation software OEM partnership",
+   "results": [
+    "https://www.simerics.com/oem-partners/",
+    "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "https://www.sisense.com/glossary/oem-partners/",
+    "https://www.autodesk.com/partner-program/oem-software",
+    "https://forecastable.com/oem-partnerships/",
+    "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.toucantoco.com/en/glossary/oem-partnership",
+    "https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp017_-en-p.pdf",
+    "https://www.simulationhub.com/buildings-ai/join-oem-partnership"
+   ]
+  },
+  {
+   "query": "OEM simulation software partner program pricing",
+   "results": [
+    "https://www.rockwellautomation.com/en-us/company/partnernetwork/oem-original-equipment-manufacturer-partners.html",
+    "https://mstusa.com/partners/oem-partner-program/",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.autodesk.com/partner-program/oem-software",
+    "https://forecastable.com/oem-partnerships/",
+    "https://www.scalecomputing.com/oem-partner-program",
+    "https://www.simio.com/simio-global-partner-program",
+    "https://process.honeywell.com/us/en/industries/original-equipment-manufacturers/oem-partner-program",
+    "https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp017_-en-p.pdf",
+    "https://www.autodesk.com/partner-program/bundle"
+   ]
+  },
+  {
+   "query": "ホワイトラベルCAE・シミュレーション（OEM） OEM提供",
+   "results": [
+    "https://blog.spatial.com/ja/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96-%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AEoem%E3%81%8C%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E5%89%8A%E6%B8%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%83%88%E3%83%83%E3%83%975",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://www.e-technostar.com/services/customizeservice/",
+    "https://mfg.dentsusoken.com/product/cae/",
+    "https://www.grm-consulting.co.jp/correlation/",
+    "https://satyamventure.jp/cae/",
+    "https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/",
+    "https://www.jfe-tec.co.jp/cae/",
+    "https://jtla.co.jp/service/measurement_product/others/cae.html",
+    "https://www.yamada-seiyaku.com/blog/030"
+   ]
+  },
+  {
+   "query": "ホワイトラベルCAE・シミュレーション（OEM） 代理店募集",
+   "results": [
+    "https://www.astom.co.jp/parterner/",
+    "https://www.jac-recruitment.jp/search/NJB2381147/",
+    "https://www.zwsoft.co.jp/become-a-reseller/",
+    "https://llmocheki.com/agency",
+    "https://trialpark.co.jp/advertise/",
+    "https://illumina.wd1.myworkdayjobs.com/ja-JP/illumina-careers/job/Buyer_39941-JOB",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015773851/",
+    "https://talents.hermes.com/ja/sites/CX/job/24087/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000004539167",
+    "https://jtla.co.jp/service/measurement_product/others/cae.html",
+    "https://b-seeds.com/column/white-label-business"
+   ]
+  },
+  {
+   "query": "OEM simulation software distributor Japan",
+   "results": [
+    "https://empowerops.com/en/partners",
+    "https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html",
+    "https://www.itnet.co.jp/en/information/news/announcing_new_automation_studio_industrial_distributor_in_japan.html",
+    "https://prometech.co.jp/company_en",
+    "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/",
+    "https://www.3ds.com/partners/partner-details/200000000252819_FPT_SOFTWARE_JAPAN_CO_LTD",
+    "https://www.ashisuto.co.jp/english/why/what-we-do/",
+    "https://www.tokai-ele.com/english/maker/partner.html",
+    "https://www.ipros.com/en/cg2/Creation%20software/OEM/",
+    "https://ensun.io/search/simulation-software/japan"
+   ]
+  }
+ ],
+ "missing": {}
+}

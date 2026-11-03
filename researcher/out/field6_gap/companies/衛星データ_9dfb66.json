@@ -1,0 +1,1240 @@
+{
+ "name": "衛星データ",
+ "en": "satellite data services",
+ "aliases": [
+  "地球観測",
+  "リモートセンシング"
+ ],
+ "context": "6 航空・宇宙 ⑤人工衛星・サービス",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:23:41.703453+00:00",
+ "evidence": {
+  "需給の差": [
+   {
+    "quote": "衛星データサービス市場の成長は、サイバーセキュリティへの懸念、データライセンスの制限、各国の規制の違い、専門的な分析担当者の不足といった要因にも影響を受けています",
+    "url": "https://straitsresearch.com/jp/report/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "価格、納期 1機数百億円、5~10年程度 1機数千万～数十億円程度、1～3年程度",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動化・無人化で労働力不足解決に貢献",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・車載等向けのモータ技術を活かした低コスト・短納期のリアクションホイールを開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・低コスト、短納期、スケーラブルなデジタル電源を開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "併せて需要家サイドでの人手不足の影響や業務効率化に向けた取り組みが進展し、衛星データ活用サービスが採用されている",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "pass": 3
+   },
+   {
+    "quote": "需要家サイドでの人手不足の影響や業務効率化に向けた取り組みも進展し、衛星データ活用サービスの採用が増えているという",
+    "url": "https://it.impress.co.jp/articles/-/27910",
+    "pass": 3
+   },
+   {
+    "quote": "農地活用事業では、耕作放棄地を自動で検出する農地パトロールアプリ「アクタバ」、作物の種類を判定する作付け調査用アプリ「デタバ」、そして農地の所有者と担い手をつなぐマッチングサービス「ニナタバ」を展開",
+    "url": "https://space-connect.jp/satellite-data/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データ×AI×区画技術で農業の課題を解決するサグリ株式会社が全国の農地所有者と作り手・担い手をつなげる農地マッチングサービス「ニナタバ」をリリースしたことを発表",
+    "url": "https://space-connect.jp/satellite-data/",
+    "pass": 3
+   },
+   {
+    "quote": "農地所有者と作り手・担い手を繋げる農地マッチングサービス",
+    "url": "https://sagri.tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も衛星データの利活用が進むことが予測される中、衛星データを扱える人材不足も課題になることが想定されます",
+    "url": "https://sorabatake.jp/39996/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、そのような衛星データを活用したいという需要に対して、衛星データを扱える人材が不足しているという懸念もあります",
+    "url": "https://sorabatake.jp/39996/",
+    "pass": 3
+   },
+   {
+    "quote": "「現状は日本の宇宙産業で素晴らしい衛星データ利活用の事例を生み出すためにエース人材にプロジェクトが集まり、失敗のできないプロジェクトが待ち構えているという状態",
+    "url": "https://sorabatake.jp/39996/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、宮﨑先生は「実態としては衛星データを扱える人がすぐ近くにいない」と課題を感じており、GLODAL創業の背景にも衛星データ活用人材の不足を感じられたことがあったと教えていただきました",
+    "url": "https://sorabatake.jp/39996/",
+    "pass": 3
+   },
+   {
+    "quote": "理想的なチーム体制は？指示・指導できるスーパーバイザーが足りない",
+    "url": "https://sorabatake.jp/39996/",
+    "pass": 3
+   },
+   {
+    "quote": "その背景には、一定の専門性を持つという要件に合う人は研究者上がりが多く、研究者はすべて自分でできてしまう傾向があるため、人に指示・指導する経験や人に頼まれるという経験を有する若手が不足しているそうです",
+    "url": "https://sorabatake.jp/39996/",
+    "pass": 3
+   },
+   {
+    "quote": "宮﨑先生は「問題に対処する人は多くいるが、プロジェクトの進捗を時間と予算いずれも把握しながら予測できる人が足りない」と話します",
+    "url": "https://sorabatake.jp/39996/",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで、衛星データ活用人材が足りないという課題に対して、どのようにして人材を増やし、育てていく方策があるのかについて、宮﨑先生に伺った内容を紹介しました",
+    "url": "https://sorabatake.jp/39996/",
+    "pass": 3
+   },
+   {
+    "quote": "少量多品種による採算性、高い信頼性・安全性への対応、専門人材不足が壁となっています",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "：宇宙産業機械設計者・開発者の76.8％が業務の逼迫を実感",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "納期の不透明さや見積取得の長期化も開発の停滞を招いているようです",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "：3Dデータのまま発注し、価格・納期・製作可否を即時に確認できるデジタル調達によって、周辺業務を削減し、設計者が注力すべき業務へ集中できる環境づくりが求められます",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "収益性、技術要求、人材不足",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "人材・実績の壁：「初期顧客・初号案件を獲得しにくいこと（27.5％）」に加え、一般の製造業従事者からは「宇宙産業の知見・経験者の不足（28.3％）」を不安視する声も多く挙がりました",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "調査からは、宇宙ビジネスを「魅力的な市場」と捉えつつも、収益化の難しさ、技術的ハードル、専門人材の不足という三つの壁が、多くの企業の前に立ちはだかる現状が明らかとなりました",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "開発を停滞させる「待ち時間」の実態",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙分野の最前線で働く設計・開発者の日常業務そのものが、深刻なリソース不足と非効率に直面している実態も明らかになりました",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "現在の設計・開発業務の負荷感について尋ねたところ、宇宙産業機械設計者の76.8％が「常に逼迫している」または「やや逼迫している」と回答しました",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "調達・購買関連のリスクや負担を尋ねたところ、「納期が読みづらく、開発スケジュールに影響が出やすい（52.2％）」が最多となりました",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査結果は、こうした待ち時間が、現場の生産性を阻害する大きなボトルネックになっていることを示しています",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査で理想の調達として上位に挙がった「図面を描かず、3Dデータのまま発注できる（46.4％）」や「その場で見積金額や製作可否が分かり、待ち時間や確認作業が発生しない（27.5％）」というニーズに直接応え、設計者が本来注力すべき「付加価値を生み出す業務」に集中できる環境を支援します",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、専門の加工業者を自ら探し、何週間もかけて見積もりや納期を調整していた従来の調達プロセスを、Web上の操作だけで完結できます",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "大量注文だって即時見積もり！納期回答待ちなしの発注体験",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に喘ぐ自治体において、見落とされた農地を客観的に特定し、いかに手を差し伸べられるかは、切実な課題であった",
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "pass": 3
+   },
+   {
+    "quote": "県が独自に支援対象を広げる「特認地域」の指定制度もあるが、直近5〜10年の土地利用や耕作実態を裏づける最新データが不足していたのが実情だ",
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "pass": 3
+   },
+   {
+    "quote": "その環境下において、実際に測定した約20年分もの土地利用変化のデータは、人手不足に悩む行政の負担を軽減するとともに、声の届きにくかった限界集落に対しても客観的な根拠に基づいて支援を届ける基盤となるだろう",
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "pass": 3
+   },
+   {
+    "quote": "併せて需要家サイドでの人手不足の影響や業務効率化に向けた取り組みが進展し、衛星データ活用サービスが採用されている",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "pass": 3
+   },
+   {
+    "quote": "インフラ構造物の劣化等の点検やモニタリングの効率化・高度化・人手不足解消",
+    "url": "https://www.nedo.go.jp/koubo/SR2_100021.html",
+    "pass": 3
+   },
+   {
+    "quote": "農業従事者の高齢化や人手不足の解決手段としても期待が高まっています",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙だけの法律では足りない",
+    "url": "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "また、スマート農業では深刻な労働力不足の解決策として農機の自動運転が注目されており、日本でも「RTK-GNSS」と呼ばれる",
+    "url": "https://note.com/nec_iise/n/n2e3a2fd5d08d",
+    "pass": 3
+   },
+   {
+    "quote": "人工衛星をうまく活用できれば、畜産業における労働力不足の課題解消や、耕作放棄地の活用などが期待できます",
+    "url": "https://note.com/nec_iise/n/n2e3a2fd5d08d",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "データ量、精度、および規制要件の管理",
+    "url": "https://straitsresearch.com/jp/report/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データサービス市場の成長は、サイバーセキュリティへの懸念、データライセンスの制限、各国の規制の違い、専門的な分析担当者の不足といった要因にも影響を受けています",
+    "url": "https://straitsresearch.com/jp/report/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益予測、競争環境、成長要因、環境および規制環境とトレンド",
+    "url": "https://straitsresearch.com/jp/report/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルおよび地域市場における技術トレンド、市場動向、規制の動き、需給パターン、バリューチェーン、競争環境の分析に携わってきました",
+    "url": "https://straitsresearch.com/jp/report/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "基準年: 2025",
+    "url": "https://straitsresearch.com/jp/report/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "認証済み・保護・安全",
+    "url": "https://straitsresearch.com/jp/report/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 宇宙輸送に関わる制度環境の整備",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資・資金供給機能、SBIR制度等）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 契約制度の見直し(官民の開発リスク分担の必",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハラール認証取得支援サービス",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "pass": 3
+   },
+   {
+    "quote": "2027年4月強制適用へ待ったなし、施行迫る「新リース会計基準」対応の勘所【IT Leaders特別編集版】",
+    "url": "https://it.impress.co.jp/articles/-/27910",
+    "pass": 3
+   },
+   {
+    "quote": "Policy",
+    "url": "https://space-connect.jp/satellite-data/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年に施行（2015年改正）された「宇宙基本法」では、宇宙開発利用に関する基本理念、基本的施策、宇宙基本計画などに関する事項が定められ、国を挙げて宇宙開発ならびに利用を推進しています",
+    "url": "https://www.pasco.co.jp/pickup/satellite/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年度に施行された改正森林法により、森林所有者は伐採・造林届に加え、再造林後の状況報告も義務化されました",
+    "url": "https://www.pasco.co.jp/pickup/satellite/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより自治体は、状況報告書の記載内容と伐採造林届および各種計画との照合や現地確認が必要となり、それに係る手間やコストの簡略化と届出制度の継続的な運用の実現が課題となっています",
+    "url": "https://www.pasco.co.jp/pickup/satellite/",
+    "pass": 3
+   },
+   {
+    "quote": "JAXAスタートアップ支援制度",
+    "url": "https://aerospacebiz.jaxa.jp/solution/remotesensing/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT",
+    "url": "https://aerospacebiz.jaxa.jp/solution/remotesensing/",
+    "pass": 3
+   },
+   {
+    "quote": "【イベントレポート】JAXA・SPACETIDE共催 第1回「地域産業×宇宙 Action Forum －ビジネスを生み･･･",
+    "url": "https://aerospacebiz.jaxa.jp/solution/remotesensing/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「J-Startup Impact」選定",
+    "url": "https://sagri.tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://sagri.tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://sorabatake.jp/39996/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO認証取得拠点一覧",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙という極限環境で使用される製品には、地上向け製品とは比較にならない高水準の品質や、厳格な規制・認証への対応が求められます",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "特に「宇宙産業機械設計者」の間では、「規制・認証・制度対応の複雑さ」を挙げる割合が43.5％と非常に高く、実務レベルでの制度的ハードルが、開発スピードを阻害する大きな要因と認識されています",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "次いで「特定のサプライヤへの依存が高い（43.5％）」や「品質基準や証憑（材料証明・検査成績書等）への対応が煩雑（43.5％）」、「見積取得に時間がかかる（42.0％）」が挙がりました",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙分野では一律に厳格な品質基準が求められがちですが、46.4％の設計者が「ミッションの重要度に応じて適用する品質要求レベルを使い分けるべきだ」と回答しています",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "機能や安全に直接影響しない部品には柔軟な基準を適用し、調達のスピードやコストとのバランスを最適化すべきだという、現場の切実な声が明らかとなりました",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データで消えゆく農地を守る！ 「制度の空白」を埋める宇宙からの農業支援",
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "pass": 3
+   },
+   {
+    "quote": "国や自治体の支援制度は存在するものの、法律の画一的な基準や古い統計、自己申告に依存するあまり、真に過酷な環境にありながら支援から取り残された集落は少なくない",
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "pass": 3
+   },
+   {
+    "quote": "ここに「制度の空白」がある",
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "pass": 3
+   },
+   {
+    "quote": "条件不利地域を支える「中山間地域等直接支払制度」は、法律で定められたエリアが中心となっている",
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、実質的に厳しい営農環境にありながらも、国の基準から外れて交付を受けられていない集落が存在してきた",
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "pass": 3
+   },
+   {
+    "quote": "県が独自に支援対象を広げる「特認地域」の指定制度もあるが、直近5〜10年の土地利用や耕作実態を裏づける最新データが不足していたのが実情だ",
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "pass": 3
+   },
+   {
+    "quote": "ハラール認証取得支援サービス",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障の確保に向けて、サプライチェーン強靱化や基幹インフラの安全確保などを一体的に推進する法律です",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "政府が民間事業者の取り組みに資金支援を行う仕組みで、従来は半導体や天然ガスなど12品目が指定されていました",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データビジネスを運営するにあたって、考えなければならない法律や法的な論点はいくつもあります",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、問題となる法律群及び契約上の留意点について、以下の仮想事例を用いながら、概要を紹介いたします",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況に照らして、衛星リモートセンシングデータの適正な取り扱いについて定めた法律が「衛星リモートセンシング記録の適正な取扱いの確保に関する法律」（通称：衛星リモセン法）です",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "この法律は大きく分けて、",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "①衛星リモートセンシング装置の使用に関する規制及び②衛星リモートセンシング記録の流通に関する規制",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "ポイントとして、衛星リモセン法は、上記①及び②の各規制につき、センサー毎に分解能の基準値を設け、その基準値を超えた場合にのみ規制の対象となります",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙二法とは~国際的な背景と各法律の概要、今後の課題~",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、この操作用無線設備が日本国外にのみ所在する場合には、日本国内で衛星が製造されたかどうかに関係なく、また、Case①のX社が日本の会社であるかどうかに関係なく、衛星リモセン法の事前許可に関する規制は適用されないことになります",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "※操作用無線設備が設置される国の法令等に規制が適用される可能性がある点にはご留意ください",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "規制の対象となる「衛星リモートセンシング装置」は、上述のように内閣府令で定める分解能の閾値を超えるもののみということ",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、搭載するセンサーの分解能をこれらの閾値以下にすることによって、装置の使用に関する規制の対象外となります",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "また、衛星リモセン法は、衛星リモートセンシング装置の使用に関する上記の規制のほか、衛星リモートセンシング記録（衛星リモセン法２条６号参照",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "※この規制も、国内に所在する操作用無線設備を用いて取得したデータが対象ですので、操作用無線設備が国外にある場合には規制は及ばないですし、上述のような分解能に関する閾値の制限があります",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、X社が取り扱う衛星リモセンデータが(i)日本国外に所在する操作用無線設備を用いて取得された場合、もしくは、(ii)分解能が内閣府において定められた閾値を超えない場合には、この規制は発動しません",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ビジネスにはどの法律が適用されるのか｜打上げ・衛星運用・画像販売で変わる許可の要否 | 法務ラボ｜iCraft法律事務所",
+    "url": "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "弁護士・弁理士 内田誠（iCraft法律事務所）が、IT と知的財産を軸に、AI・量子・宇宙・メタバース、特許・著作権・知財戦略、システム開発・個人情報・スタートアップの法律問題を解説します",
+    "url": "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "法務ラボ｜iCraft法律事務所",
+    "url": "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ビジネスにはどの法律が適用されるのか｜打上げ・衛星運用・画像販売で変わる許可の要否",
+    "url": "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星画像には2つの規制が別々に働きます",
+    "url": "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "装置の使用が規制の対象か（衛星リモセン法4条1項）と、販売する記録が規制の対象か（同法2条6号）は、別に判断します",
+    "url": "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "加工したという事実だけでは、規制の対象外とは判断できません",
+    "url": "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "各国の許可制度は、この国際的な義務を国内で実行するために置かれています",
+    "url": "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "Planet Labsは、この市場における新興の主要企業です",
+    "url": "https://straitsresearch.com/jp/report/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "赤字部分が日本企業",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が国際市場で",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "『【パネルディスカッション】法規制の最新動向を踏まえて、日本企業に求められる対応とは？～適切なクッキーバナー実装時の重要ポイント～』",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "pass": 3
+   },
+   {
+    "quote": "例えばJAXA発のスタートアップの天地人は、国内大手の米卸業企業の神明、スマート水田サービス「paditch（パディッチ）」を提供する農業ITスタートアップである笑農和と、2021年5月から「",
+    "url": "https://note.com/nec_iise/n/n2e3a2fd5d08d",
+    "pass": 3
+   },
+   {
+    "quote": "パナックス株式会社は、総合コンサルティング会社として海外企業様のサポート、北米・欧州への進出したい日本企業様に、ビジネスマッチングを行っています",
+    "url": "https://www.spacexinsight.earth/companies",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": "(2) 国内市場(データ利用関連)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度の衛星データ活用サービス国内市場（事業者売上高ベース）は、前年度比13.0％増の182億円となった",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "pass": 3
+   },
+   {
+    "quote": "さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の衛星データ活用サービス国内市場は、同11.0%増の202億円を予測している",
+    "url": "https://it.impress.co.jp/articles/-/27910",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度の衛星データ活用サービス国内市場（事業者売上高ベース）は、前年度比13.0％増の182億円となった",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "pass": 3
+   },
+   {
+    "quote": "さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "10社以上が市場参入",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ他、国内外の取扱メーカーは4,000社以上",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "４．宇宙戦略基金及び宇宙技術戦略について",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 全体の約4分の１が政府予算、約４分の３が民間衛星・打ち上げ関連",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "データ等の利用(164億円)」が計上",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※８年間の基金事業衛星間光通信技術実証 600億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※８年間の基金事業船舶間通信衛星（VDES） 147億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※６年間の基金事業小型多波長センサ開発 50億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※５年間の基金事業リモートセンシング高度化 147億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "pass": 3
+   },
+   {
+    "quote": "文部科学省 中小企業イノベーション創出推進事業 （SBIRフェーズ3基金）事業宇宙分野 「成果を最大化するための予算追加･･･",
+    "url": "https://aerospacebiz.jaxa.jp/solution/remotesensing/",
+    "pass": 3
+   },
+   {
+    "quote": "宮﨑先生は「期間は半年から1年で、予算としては100万円から300万円程度のもの」を想定されているそうです",
+    "url": "https://sorabatake.jp/39996/",
+    "pass": 3
+   },
+   {
+    "quote": "成長を見込む理由として最も多かったのは「国の予算拡大や政策支援（62.5％）」であり、次いで「民間企業・スタートアップによる投資や事業参入の拡大（55.2％）」が続きました",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "pass": 3
+   },
+   {
+    "quote": "さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "pass": 3
+   },
+   {
+    "quote": "テーマ1、テーマ2の受賞者それぞれに交付します",
+    "url": "https://www.nedo.go.jp/koubo/SR2_100021.html",
+    "pass": 3
+   },
+   {
+    "quote": "初の1兆円超え、令和8年度宇宙関係予算を読み解く",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙関係予算が初の1兆円超えに",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省・総務省の大幅増額や宇宙部品の「特定重要物資」入りなど、令和8年度予算の注目点を4つのトピックで整理しました",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月21日、内閣府宇宙開発戦略推進事務局が令和8年度の宇宙関係予算を発表しました",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "対象は令和8年度当初予算案と令和7年度補正予算です",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "この補正予算と翌年度の当初予算を合わせて「15か月予算」と呼ぶことがあります",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度の宇宙関係予算は、基金関係執行予定額(436億円)を含む総額で1兆446億円と、初めて1兆円を超えました",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度当初予算案と令和7年度補正予算の合計は1兆10億円で、前年度(8,920億円)から1,090億円の増額(+12%)です",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙戦略基金は10年で1兆円規模の複数年度基金です",
+    "url": "https://sorabatake.jp/44595/",
+    "pass": 3
+   },
+   {
+    "quote": "第70回宇宙科学技術連合講演会における 宇宙戦略基金関連講演等のお知らせ",
+    "url": "https://fund.jaxa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "第124回 宇宙政策委員会（2026年9月28日開催）にて宇宙戦略基金事業の経過報告を行いました",
+    "url": "https://fund.jaxa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "※APIの受領から交付までの約3ヶ月間、クレームの申立期間の4ヶ月間及びクレームへの対応の数ヶ月間で、大凡1年程度",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "確認を受けた者には、設計確認番号が付された設計確認書が交付されます（13条4項）",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "pass": 3
+   },
+   {
+    "quote": "認定を受けた者には、適合認定番号が付された搭載前人工衛星等認定書が交付されます（同条4項）",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、スペシャリストが登場した際に求められる対応について、公共の安全確保の観点から整理した上で、必要に応じて審査基準やガイドラインに反映することを検討することや、搭乗者安全に関する推奨事項について取りまとめることも視野に、事業者が行う技術実証で得られる搭乗者安全に関する知見の蓄積を官民で進めていくべきであるとされました（Ⅴ.1.）",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省SBIRフェーズ３基金事業における採択事業のステージゲート審査通過のお知らせ",
+    "url": "https://www.sd-services.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2024, Planet Labs signed a three-year agreement with the German Space Agency at the German Aerospace Center, enabling Planet to provide Earth observation data and products to support German researchers. The agreement grants access to PlanetScope's advanced monitoring tools, including PlanetScope’s and RapidEye's extensive imagery archives, supporting R&D activities across Germany.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "衛星データ サービス 市場規模 、シェア |成長 [2026-2034] — 衛星データ サービス 市場規模 、シェア |成長 [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 宇宙技術",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108359",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データ 活用サービス 市場 に関する調査を実施（2025年） — 衛星データ 活用サービス 市場 に関する調査を実施（2025年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データ 活用サービス 市場 の成長続く、2030年度は340 億円 ... — 衛星データ 活用サービス 市場 の成長続く、2030年度は340 億円 ... IT Leaders https://it.impress.co.jp > articles",
+    "url": "https://it.impress.co.jp/articles/-/27910",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データ サービス 市場 の 規模 ・動向レポート、2026〜2032年 — 衛星データ サービス 市場 の 規模 ・動向レポート、2026〜2032年 Global Market Insights Inc. https://www.gminsights.com > ... > 通信",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データ で消えゆく農地を守る！ 「制度の空白」を埋める ... — 衛星データ で消えゆく農地を守る！ 「制度の空白」を埋める ... SpaceStep https://space.japanstep.jp > learn > 2026/10",
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データ 活用サービス市場に関する調査を実施（2025年） — 衛星データ 活用サービス市場に関する調査を実施（2025年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "pass": 3
+   },
+   {
+    "quote": "3つのケースで考える 衛星データ ビジネスと法実務~実践編 - 宙畑 — 3つのケースで考える 衛星データ ビジネスと法実務~実践編 - 宙畑 宙畑 https://sorabatake.jp > ...",
+    "url": "https://sorabatake.jp/13002/",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Data Services Market Size Report, 2025-2030 — Satellite Data Services Market Size Report, 2025-2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Data Services Market Size & Trends Report, 2026-2032 — Satellite Data Services Market Size & Trends Report, 2026-2032 Global Market Insights Inc. https://www.gminsights.com > satellit...",
+    "url": "https://www.gminsights.com/industry-analysis/satellite-data-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Satellite Data Services Market (2023-2028) — Japan Satellite Data Services Market (2023-2028) MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/satellite-data-services-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Data Services Market Size, Share & Forecast 2032 — Satellite Data Services Market Size, Share & Forecast 2032 Stratview Research https://www.stratviewresearch.com > s...",
+    "url": "https://www.stratviewresearch.com/market-reports/satellite-data-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Data Services Market Size Report, 2025 -2030 — Satellite Data Services Market Size Report, 2025 -2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内参入社数": [
+   {
+    "value": "10",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "10社以上が市場参入"
+   },
+   {
+    "value": "000",
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "quote": "ミスミ他、国内外の取扱メーカーは4,000社以上"
+   }
+  ],
+  "国内市場億円": [
+   {
+    "value": "182",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "quote": "2023年度の衛星データ活用サービス国内市場（事業者売上高ベース）は、前年度比13.0％増の182億円となった"
+   },
+   {
+    "value": "202",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "quote": "さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む"
+   },
+   {
+    "value": "202",
+    "url": "https://it.impress.co.jp/articles/-/27910",
+    "quote": "2024年度の衛星データ活用サービス国内市場は、同11.0%増の202億円を予測している"
+   },
+   {
+    "value": "182",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "quote": "2023年度の衛星データ活用サービス国内市場（事業者売上高ベース）は、前年度比13.0％増の182億円となった"
+   },
+   {
+    "value": "202",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "quote": "さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "164",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "データ等の利用(164億円)」が計上"
+   },
+   {
+    "value": "600",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "※８年間の基金事業衛星間光通信技術実証 600億円"
+   },
+   {
+    "value": "147",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "※８年間の基金事業船舶間通信衛星（VDES） 147億円"
+   },
+   {
+    "value": "50",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "※６年間の基金事業小型多波長センサ開発 50億円"
+   },
+   {
+    "value": "202",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "quote": "さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む"
+   },
+   {
+    "value": "202",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "quote": "さらにJAXA戦略宇宙基金に牽引される形で、周辺領域における衛星データ活用に関わるPoCが進展したこともあり、市場は引き続き高伸長を継続し、2024年度の衛星データ活用サービス国内市場は同11.0％増の202億円を見込む"
+   },
+   {
+    "value": "436",
+    "url": "https://sorabatake.jp/44595/",
+    "quote": "令和8年度の宇宙関係予算は、基金関係執行予定額(436億円)を含む総額で1兆446億円と、初めて1兆円を超えました"
+   },
+   {
+    "value": "446",
+    "url": "https://sorabatake.jp/44595/",
+    "quote": "令和8年度の宇宙関係予算は、基金関係執行予定額(436億円)を含む総額で1兆446億円と、初めて1兆円を超えました"
+   },
+   {
+    "value": "10",
+    "url": "https://sorabatake.jp/44595/",
+    "quote": "令和8年度当初予算案と令和7年度補正予算の合計は1兆10億円で、前年度(8,920億円)から1,090億円の増額(+12%)です"
+   },
+   {
+    "value": "8,920",
+    "url": "https://sorabatake.jp/44595/",
+    "quote": "令和8年度当初予算案と令和7年度補正予算の合計は1兆10億円で、前年度(8,920億円)から1,090億円の増額(+12%)です"
+   },
+   {
+    "value": "1,090",
+    "url": "https://sorabatake.jp/44595/",
+    "quote": "令和8年度当初予算案と令和7年度補正予算の合計は1兆10億円で、前年度(8,920億円)から1,090億円の増額(+12%)です"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108359",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/satellite-data-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it.impress.co.jp/articles/-/27910",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-connect.jp/satellite-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pasco.co.jp/pickup/satellite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startup-db.com/companies/tags/satellite-data",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aerospacebiz.jaxa.jp/solution/remotesensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sagri.tokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/39996/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/press_260918",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space.japanstep.jp/learn/2026/10/2561/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/koubo/SR2_100021.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/44595/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fund.jaxa.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mext.go.jp/content/20260204-mxt_uchukai01-000047103_14.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www8.cao.go.jp/space/budget/r08/fy08yosan_fy7hosei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2025/02/20260225003/20260225003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtlaw.com/-/media/files/insights/alerts/2026/04/gt-alert_japan-shifts-to-next-generation-space-transportation-regulation-with-space-activities-act-amendment-jpn.pdf?rev=5ff3b08450524eba931de272b8ea2a6f",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sorabatake.jp/13002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagashima.com/publications/publication20260702-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tellusxdp.com/ja/about/satellite_data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sd-services.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E8%A1%9B%E6%98%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nec_iise/n/n2e3a2fd5d08d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spacexinsight.earth/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/japan-satellite-imagery-services-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/japan-satellite-imagery-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/satellite-data-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/satellite-data-services-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/satellite-data-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/satellite-data-service-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/satellite-data-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/satellite-data-services-market-55690321.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/satellite-data-services-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "衛星データ 国内市場規模 億円",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108359",
+    "https://straitsresearch.com/jp/report/satellite-data-services-market",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vL5kf4txbezeg29HG5Wh6xsrmvqbWpColEsEGChd0Rmk1ITwJiY",
+    "https://it.impress.co.jp/articles/-/27910",
+    "https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market",
+    "https://www.yanoict.com/summary/show/id/774",
+    "https://prtimes.jp/main/html/rd/p/000000135.000109717.html",
+    "https://www.sphericalinsights.com/jp/reports/japan-satellite-based-earth-observation-market",
+    "https://www.yano.co.jp/press-release/show/press_id/3824"
+   ]
+  },
+  {
+   "query": "衛星データ 国内 参入企業 社",
+   "results": [
+    "https://space-connect.jp/satellite-data/",
+    "https://www.pasco.co.jp/pickup/satellite/",
+    "https://startup-db.com/companies/tags/satellite-data",
+    "https://aerospacebiz.jaxa.jp/solution/remotesensing/",
+    "https://sagri.tokyo/",
+    "https://www.tellusxdp.com/ja/about/satellite_data.html",
+    "https://www.m2ri.jp/release/detail.html?id=665",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://www.restec.or.jp/notice/notice_year_2021/uhe8si000000255x.html",
+    "https://xn--29sob207cg49a.com/satellite/japan-satellite-data-companies-2026/"
+   ]
+  },
+  {
+   "query": "衛星データ 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://sorabatake.jp/39996/",
+    "https://www.misumi.co.jp/news/press_260918",
+    "https://space.japanstep.jp/learn/2026/10/2561/",
+    "https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vLmCpoPLBVzKnAQiuCctk5-A0r6iHNg0FF6JAARMEjYDbMpaCWp",
+    "https://www.nedo.go.jp/koubo/SR2_100021.html",
+    "https://www.yomiuri.co.jp/economy/20250902-OYT1T50108/",
+    "https://www8.cao.go.jp/space/comittee/27-anpo/anpo-dai69/sankou1-2.pdf",
+    "https://www.m2ri.jp/release/detail.html?id=665",
+    "https://coso.isee.nagoya-u.ac.jp/sero/course_2605.html"
+   ]
+  },
+  {
+   "query": "衛星データ 予算 補助金 基金 2026",
+   "results": [
+    "https://sorabatake.jp/44595/",
+    "https://fund.jaxa.jp/",
+    "https://www.mext.go.jp/content/20260204-mxt_uchukai01-000047103_14.pdf",
+    "https://www8.cao.go.jp/space/budget/r08/fy08yosan_fy7hosei.pdf",
+    "https://www.meti.go.jp/press/2025/02/20260225003/20260225003.html",
+    "https://www.soumu.go.jp/main_content/001050725.pdf",
+    "https://www.youtube.com/watch?v=F1ULnBWMT0A",
+    "https://www.mitsubishielectric.co.jp/ja/pr/2026/0701_ds/",
+    "https://biz.stayway.jp/hojyo_detail/31178/",
+    "https://xn--29sob207cg49a.com/business/japan-space-subsidies-2026/"
+   ]
+  },
+  {
+   "query": "衛星データ 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.gtlaw.com/-/media/files/insights/alerts/2026/04/gt-alert_japan-shifts-to-next-generation-space-transportation-regulation-with-space-activities-act-amendment-jpn.pdf?rev=5ff3b08450524eba931de272b8ea2a6f",
+    "https://sorabatake.jp/13002/",
+    "https://www.nagashima.com/publications/publication20260702-1/",
+    "https://icraft-law.com/column/tech/space/space-law-overview/",
+    "https://www.morihamada.com/ja/insights/newsletters/138116",
+    "https://www.nikkei.com/article/DGXZQOUA265CT0W6A320C2000000/",
+    "https://www.cao.go.jp/houan/pdf/221/221_2gaiyou.pdf",
+    "https://aquaxislaw.com/posts/newsletter-2026-05-01",
+    "https://www.nishimura.com/ja/knowledge/newsletters/data_protection_260526"
+   ]
+  },
+  {
+   "query": "衛星データ 国内 主要企業 メーカー",
+   "results": [
+    "https://space-connect.jp/satellite-data/",
+    "https://aerospacebiz.jaxa.jp/solution/remotesensing/",
+    "https://www.tellusxdp.com/ja/about/satellite_data.html",
+    "https://www.sd-services.co.jp/",
+    "https://www.pasco.co.jp/pickup/satellite/",
+    "https://startup-db.com/companies/tags/satellite-data",
+    "https://mono.ipros.com/cg1/%E8%A1%9B%E6%98%9F/",
+    "https://note.com/nec_iise/n/n2e3a2fd5d08d",
+    "https://www.spacexinsight.earth/companies",
+    "https://xn--29sob207cg49a.com/satellite/japan-satellite-data-companies-2026/"
+   ]
+  },
+  {
+   "query": "satellite data services Japan market size",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market",
+    "https://www.mordorintelligence.com/industry-reports/japan-satellite-imagery-services-market",
+    "https://www.sphericalinsights.com/reports/japan-satellite-imagery-services-market",
+    "https://www.gminsights.com/industry-analysis/satellite-data-services-market",
+    "https://www.linkedin.com/pulse/satellite-data-service-market-us-japan-korea-europe-k6bmf",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/satellite-data-services-market/japan",
+    "https://www.marketsandata.com/industry-reports/japan-space-service-market",
+    "https://www.fortunebusinessinsights.com/satellite-data-services-market-108359",
+    "https://earth.jaxa.jp/en/data/index.html",
+    "https://www.grandviewresearch.com/horizon/outlook/satellite-data-services-market/japan"
+   ]
+  },
+  {
+   "query": "satellite data services shortage backlog supply gap 2025",
+   "results": [
+    "https://www.stratviewresearch.com/market-reports/satellite-data-services-market.html",
+    "https://market.us/report/satellite-data-service-market/",
+    "https://www.precedenceresearch.com/satellite-data-services-market",
+    "https://www.marketsandmarkets.com/Market-Reports/satellite-data-services-market-55690321.html",
+    "https://www.linkedin.com/pulse/north-america-satellite-data-services-report-industry-analysis-n4ate",
+    "https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market",
+    "https://straitsresearch.com/report/satellite-data-services-market",
+    "https://www.bundesbank.de/resource/blob/941514/280d68e58f7ace557184221e7e92b12f/mL/2024-02-climate-related-data-gap-data.pdf",
+    "https://www.fortunebusinessinsights.com/satellite-data-services-market-108359",
+    "https://marketintelo.com/report/satellite-data-services-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

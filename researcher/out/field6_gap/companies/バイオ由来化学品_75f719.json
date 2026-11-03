@@ -1,0 +1,1184 @@
+{
+ "name": "バイオ由来化学品",
+ "en": "bio-based chemicals",
+ "aliases": [
+  "GXケミカル",
+  "グリーンケミカル",
+  "バイオプラスチック"
+ ],
+ "context": "12 GX ⑦GXケミカル",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:30:04.799317+00:00",
+ "evidence": {
+  "需給の差": [
+   {
+    "quote": "生産能力への投資は、他の再生可能な原材料を含むバイオマス原料の安定供給に対する新たな需要を生み出しています",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業規模のバイオ精製施設や専門的な処理施設の不足は、生産量増加を目指すバイオベース化学品メーカーにとって障壁となっている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "高額な投資要件と長期にわたる施設開発期間は、生産能力拡大をさらに遅らせる可能性がある",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "既存企業は主に生産能力、製品ポートフォリオ、原料の柔軟性を武器に競争している",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 経済成長及び天然資源不足に対応",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備・インフラの不足への対応策",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出策と供給能力拡充を着実に進め、中長期的な外部依存リスクの低減と経済の自律性の確保を図る",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（ボトルネック）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "分類 樹脂 企業名 植物原料 （モ ノマー） 主な機能 生産能力(t/y)",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 1 バイオマス由来のエチレン グ リ コールの生産能力からの推定値",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 2 バイオマス由来である PA11、 PA610、 PA1010、 PA1012 の生産能力からの推定値",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 3 1， 3プロパンジオールの生産能力からの推定値",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 University of Maine、 American Process、 Innventia については、 1日あた り の生産能力の公表データに 300を乗ずる こ と によ る推計",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "安全・権利・用途の確認が後から不足する",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "納入量、納期、品質、価格、不適合時の扱いを定めます",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、納入量、ロット間の品質、納期、価格、不良時の扱いを取引条件にします",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "不足がある：主張を限定して追加確認",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力と実生産量、混合ごみと植物由来を分ける",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "年約400トンは設備の生産能力として記された値で、毎年その量を販売したという実績ではありません",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "記録不足や二重割当のおそれ",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "最低購入量や納期が曖昧なまま設備を建設すると、品質が合っても稼働を支える契約がありません",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "課題は、人材不足、大規模設備への投資の難しさ、需要不十分・高コスト、規制や価格差、資金調達難などです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "・併せて、経済安全保障や脱炭素の観点から国内生産基盤の構築が求められる領域（バイオエタノール等）については、需要創出策と供給能力拡充を着実に進め、中長期的な外部依存リスクの低減と経済の自律性の確保を図る",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "主な課題（ボトルネック）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "・安価な糖原料と労働力にアクセス可能な地域において、一部商用化が先行（米：トウモロコシ、南米：サトウキビ、中：大規模生産能力）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "大規模生産能力",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "・経済安全保障や脱炭素の観点から国内生産基盤の構築が肝要となる領域（バイオエタノール等）における需要創出及び供給能力拡充を進め、中長期的な外部依存リスクの低減と経済の自律性確保を図る",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "リソース制約として、ウェット技術・スケールアップ・AI・デジタル技術・経営管理の能力を持つ人材の不足と、規模に応じた機器設備や大規模生産設備への投資のしにくさがあります",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "・人材：ウェット技術（特に育種改良培養）、スケールアップによる産業化、AI・デジタル技術への素養、経営管理といったバイオものづくり産業を牽引するために必要な能力を持った人材の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題は「足りないもの（リソース制約）」と「先が読めないこと（不確実性）」に整理されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "）、スケールアップ、AI、経営のわかる人が足りない",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "ウェット技術（特に育種改良培養）、スケールアップ、AI・デジタル技術、経営管理の能力を持つ人材の不足が、バイオものづくりの課題です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "一部のプラントでは生産能力がほぼ倍増し、同時に有害排出を大幅に削減したと報告されています",
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "pass": 3
+   },
+   {
+    "quote": "国内の巨大な生産能力と比較的低い労働コストによって、中国は競合他国に対して明確な優位性を持っています",
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "pass": 3
+   },
+   {
+    "quote": "過剰生産の課題とスペシャリティケミカルの不足",
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "pass": 3
+   },
+   {
+    "quote": "化学産業は特定の分野で深刻な過剰生産能力の問題に直面しており、とりに生産が需要を大きく上回っている中国市場においてその傾向が顕著です",
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品中間体や高性能材料などのニッチ製品では供給不足が生じており、現在の生産能力と市場需要の間に明確なギャップがあることを示しています",
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "pass": 3
+   },
+   {
+    "quote": "大量生産技術を突破したナノ・マイクロ微粒子製品☆低コスト・短納期",
+    "url": "https://mono.ipros.com/category/8ad9ae3f959eadc5/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "５，微粒子の大量製作技術：大量生産技術により納期短縮またコストダウンに繋がります",
+    "url": "https://mono.ipros.com/category/8ad9ae3f959eadc5/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、多品種・小ロットに対応し、納期、価格、サービス面でも",
+    "url": "https://mono.ipros.com/category/8ad9ae3f959eadc5/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "長年培ったノウハウを生かし高品質、短納期を実現します",
+    "url": "https://mono.ipros.com/category/8ad9ae3f959eadc5/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体工場が水不足に苦しむ中、TSMCは水使用量を90%削減し、水コストを年間200億円削減しています",
+    "url": "https://note.com/iceman_23/n/n4c99a6f861e4",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-based feedstocks are already in high demand for other markets such as food and energy, creating potential supply constraints for bio-based chemicals",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "性能要件や認証要件は、バイオベース化学物質が従来型化学物質と同等の純度、一貫性、安定性、および機能性能を満たすことを求めるため、導入障壁を高めます",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "追加の試験、認証、および製品検証により、製造業者がこれらの材料を工業用途に承認するまでに必要な時間が長くなる可能性があります",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "BASFは、建築用塗料向けに認証済みのバイオマスバランス型添加剤3種類を発表し、より資源効率の高い塗料配合を実現するための持続可能な添加剤ポートフォリオを拡充した",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益予測、競争環境、成長要因、環境および規制環境とトレンド",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "彼女は、市場構造、成長の原動力（ドライバー）、技術開発、規制の影響、投資動向、競争環境の把握に重点を置いて業務に取り組んでいます",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "基準年: 2025",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "認証済み・保護・安全",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "• また、米国は2025年12月、Biosecure Act",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を連邦政府が指定し、連邦政府の調達や補助",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金を用いる事業において、指定された企業の機",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 投資拡大のため、規制当局と民間企",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業の対話フォーラム設置、規制簡素",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ス製品の認証・標準化を推進",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国政府の投資、政策、規制改革の方向",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "術分野において規制の更新や承認の迅",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "速化を図る「規制イノベーション局」を新",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“The role of biomass and bioenergy in a future bioeconomy: Policies and facts” を基に NEDO 技術戦略研究セン ター作成 （2017）",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "個別設備の安全、菌株・用途の適合、認証を判定する診断ではありません",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "個別の認証・表示の判断は、制度運営者や専門家へ確認します",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "認証制度や法律への適合を判定する図ではなく、特定企業の契約条件や一般削減率を示しません",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "認証制度の個別適合や表示文の法的判断は、制度運営者や専門家へ確認する範囲になります",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし認証対象外の工程まで適合を保証したり、割当方式を物理的含有率として広告したりしないことが前提です",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "認証機関、LCA専門家、材料供給者との提携が考えられます",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "対価は導入支援と継続管理費ですが、認証を自社で発行する権限があるとは限りません",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "データ整理と、認証・法的な表示適合の判断の責任を分けます",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "第三者認証の対象と、自社が集めた計算データの範囲を別々に管理し、根拠のない「無排出」「必ず分解」の表現は使いません",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "個々の製品の物理的な含有率と区別し、認証の対象と取引資料を確認します",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "最初の買い手と納める成果物を定め、製造や安全・認証を担う提携先との責任範囲を明確にします",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "政策・規制・市場変化（9）",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "課題は、人材不足、大規模設備への投資の難しさ、需要不十分・高コスト、規制や価格差、資金調達難などです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、新技術に合わせた規制の更新や承認の迅速化に向けた新組織の設置及び大胆な制度改正も並行して実施されている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "規制の更新・承認の迅速化",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "に向けた新組織や制度改正",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "不確実性としては、需要不十分・コスト増・生産効率の低さ、規制・ルールや既存製品との価格差・消費者受容性の不安定さ、資金調達難、脱炭素トランジションの遅滞が挙げられています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "・市場：規制・ルール、既存製品との価格差、消費者受容性が不安定",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "規制・ルール、",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "需要不十分・コスト増・生産効率の低さ、規制・価格差・消費者受容性の不安定さ、資金調達難、脱炭素トランジションの遅滞が不確実性の要因です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "①国内投資支援としてバイオ製造技術プラットフォームの高度化や設備投資リスクの低減、②需要創出として消費者の認知拡大、国産SAF等の官公需調達による初期需要喚起、実証事業、③立地競争力強化として原料の安定調達・コスト低減と人材エコシステムの確立、④国際連携として国際認証制度との連携やLCAガイドライン策定、バイオセーフティ・セキュリティの確保を進めます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "・初期需要喚起（例：国産SAF等の官公需調達、製造・販売・購入規制）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "・原料の安定調達・コスト低減（例：糖価調整制度における工業原料糖の除外、森林資源の循環利用の促進、未利用資源・廃棄物の循環促進、水素調達の支援、アルコール事業の手続き明確化、工場や農地での原料栽培促進）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "・戦略的なルールの形成・活用（例：国際認証制度との連携強化、LCAガイドライン策定、標準化の推進、知財活用）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "国際認証制度、",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "④国際連携：国際認証制度との連携やLCAガイドライン策定、国際エコシステムとの連携、バイオセーフティ・セキュリティの確保を進めます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "成長率の高い語は、微生物に関する語や、biomanufacturing (バイオマニュファクチャリング) などのバイオテクノロジーを用いた製造自体を指す語で占められています",
+    "url": "https://www.astamuse.co.jp/report/2024/240425-bm/",
+    "pass": 3
+   },
+   {
+    "quote": "Future Biomanufacturing Research Hub",
+    "url": "https://www.astamuse.co.jp/report/2024/240425-bm/",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy",
+    "url": "https://www.astamuse.co.jp/report/2024/240425-bm/",
+    "pass": 3
+   },
+   {
+    "quote": "高付加価値化学品が通常の汎用品と異なる点は、優れた性能を持ち、特定の用途に特化して働き、純度基準がはるかに高い点です",
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の政府がグリーン代替資源の導入をさらに推進し、規制を強化する中で、メタノール産業は今後数年間着実に成長すると予想されています",
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "pass": 3
+   },
+   {
+    "quote": "規制圧力による循環経済モデルの推進",
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "pass": 3
+   },
+   {
+    "quote": "規制の圧力により、多くの産業がリソースをより効率的に使い、廃棄物を最小限に抑える循環型経済への移行を迫られています",
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "pass": 3
+   },
+   {
+    "quote": "こうした規制に従う企業は市場で有利になり、他の企業が追随するグリーンイノベーションのトレンドを牽引しています",
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "pass": 3
+   },
+   {
+    "quote": "低コスト化・量産等に向けた規制や市場のあり",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・省庁連携による規制・ルールの調整、国際議論への対応、バイ",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "薬価制度等におけるイノベ―ションの適切な評価を",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 海外市場を念頭に置いたLCA等の評価⼿法や認証システム整備・クレジット化、製品表示、国際標準",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ルール形成、国際標準化、データ共有（評価・測定方法、安全基準、LCA、菌株・データ等）",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ガスを用いることから、商用スケールを⾒越した安全性基準を整えていく",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関する安全基準、LCA、国際標準化、ブランディング⼿法、菌株・データ等、プロジェ",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事例① ガス発酵に関する安全性基準",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "BASF SE、Dow Inc.、Evonik Industries AG、DuPont de Nemours Inc.、三菱ケミカルグループ株式会社などの主要企業が、世界のバイオベース化学品市場シェアの約28～30%を占めている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "類がないため、 一部の日本企業は原料を輸入 した り 、 海",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ま れた地域で海外企業が主に生産 してお り 、 日本企業は",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、三菱ケミ カルが、 バイオマス由来のイソソ",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、 植物由来の特徴を活か した高機能グ レー ド",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■は日本企業",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "件数では、 日本企業が上位を占める",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資ロードマップは、日本の発酵産業の蓄積やエンジニアリングの強みを生かし、AI・データと融合させて、2040年に日本企業の売上11.9兆円（グローバルシェア10%）を目指すとしています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標は、2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年の日本企業の売上11.9兆円を目指し、バイオエタノール等の国内生産基盤も整えて外部依存リスクを下げます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年に日本企業の売上",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオものづくりの目標は、2040年の日本企業の売上11.9兆円と、資源特性を生かした持続可能な国内生産基盤の構築です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）が目標です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオものづくりの数値目標は、2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "「国の官民投資ロードマップは、バイオものづくりで2040年に日本企業の売上11.9兆円を目指し、構築すべき機能として地域未来戦略を踏まえた産学官の連携による産業クラスターを掲げている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が同じ技術を使うには、ライセンス料を支払う必要があります",
+    "url": "https://note.com/iceman_23/n/n4c99a6f861e4",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が取るべき戦略は、",
+    "url": "https://note.com/iceman_23/n/n4c99a6f861e4",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間で11カ国58拠点の製造現場を訪問し、「タイムマシン経営」の視点から日本企業への戦略提言を行っている",
+    "url": "https://note.com/iceman_23/n/n4c99a6f861e4",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "２つのバイオ基金における取組について",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• CO2を原料とするバイオものづくりの技術開発・実証を行う「GI基金（バイオPJ：1,775億円）」、食",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "革命推進基金（2,700億円）」を実施中",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①GI基金 （1,775億円）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②バイオものづくり革命推進事業（2,700億円、基金）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 現在、予算額1,774.7億円に対して、計5件の案件を実施中（令和６年４月）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の予算規模は、 欧米に比べて小さい （表4）",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プログラム領 域 概 要 2016年度予算額",
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "バイオものづくりとは｜官民投資ロードマップの目標11.9兆円・投資額12.8兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資ロードマップは、日本の発酵産業の蓄積やエンジニアリングの強みを生かし、AI・データと融合させて、2040年に日本企業の売上11.9兆円（グローバルシェア10%）を目指すとしています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までに12.8兆円、経済波及効果は66.7兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― バイオものづくりの投資額12.8兆円・経済波及効果66.7兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "原文は内閣官房「戦略17分野における「主要な製品・技術等」の官民投資ロードマップ」（2026年7月21日）から引用しています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで12.8兆円、投資による経済波及効果は2040年度までで66.7兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオものづくりの官民投資額は2040年度までで12.8兆円、経済波及効果は2040年度までで66.7兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "「国の官民投資ロードマップは、バイオものづくりで2040年に日本企業の売上11.9兆円を目指し、構築すべき機能として地域未来戦略を踏まえた産学官の連携による産業クラスターを掲げている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば3年計画で3万米ドルのプロジェクトは、各年に1万米ドルを計上しています",
+    "url": "https://www.astamuse.co.jp/report/2024/240425-bm/",
+    "pass": 3
+   },
+   {
+    "quote": "１兆円規模の大型予算が措置されるなどバイオエコノミーに対する期待が高まっている",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２つの大規模な予算事業（GI基⾦バイオものづくりPJ、バイオものづくり⾰命推進事業）を軸に、国内の微⽣物・",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 予算額1,767億円に対して、計6件・国費負担総額1,806億円を採択（令和５年３⽉）",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 予算額3,000億円に対して、 国費負担総額2,376億円（事業総額3,995億円）の提案 が",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "GI基金事業「バイオものづくり技術によるCO2を直接原料としたカーボンリサイクルの推進」や、科学技術振興機構（JST）による「戦略的創造研究推進事業先端的カーボンニュートラル技術開発（ALCA-Next）」など、複数の技術開発のプロジェクトを官民連携により推進しています",
+    "url": "https://axetimesbiz.com/articles/chemical-biomanufacturing-industry_market-research_202404",
+    "pass": 3
+   },
+   {
+    "quote": "・補助金：15億円（国・県補助金の合計）",
+    "url": "https://note.com/iceman_23/n/n4c99a6f861e4",
+    "pass": 3
+   },
+   {
+    "quote": "Europe held market value of USD 41 billion in 2024, led specifically by the trend toward sustainability, government funding, and consumer environmental beliefs.",
+    "url": "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 — バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 iri-group.jp https://iri-group.jp > ... > エネルギー・資源・フード",
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 — バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 iri-group.jp https://iri-group.jp > ナレッジ",
+    "url": "https://iri-group.jp/knowledge/bio-based-chemicals/",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - based Chemicals Market Size , Share | Global Report, 2034 — Bio - based Chemicals Market Size , Share | Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - Based Chemicals Market Size , Share and Growth 2026 ... — Bio - Based Chemicals Market Size , Share and Growth 2026 ... SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - based Chemicals Market Size, Share & Growth Report 2035 — Bio - based Chemicals Market Size, Share & Growth Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - based Chemicals Market Size, Share | Global Report, 2034 — Bio - based Chemicals Market Size, Share | Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": " ２つの基⾦事業を通じて、日本国内で以下のような微⽣物・細胞設計プラットフォーム",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 調査の結果、2018年度のバイオマスプラスチック製品の国内出荷量は8.4万トン、その中に含まれるバイオマスプラスチック",
+    "url": "https://www.env.go.jp/recycle/mat052214.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• プラスチック分野のアジェンダでは、バイオマスプラスチックについて、国内市場投入量を2015/2016年の約2万トンから2030",
+    "url": "https://www.env.go.jp/recycle/mat052214.pdf",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "950社以上が集結する世界最大規模の素材/技術展示会となります",
+    "url": "https://mono.ipros.com/category/8ad9ae3f959eadc5/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内参入社数": [
+   {
+    "value": "950",
+    "url": "https://mono.ipros.com/category/8ad9ae3f959eadc5/index.html",
+    "quote": "950社以上が集結する世界最大規模の素材/技術展示会となります"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "1,775",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "quote": "• CO2を原料とするバイオものづくりの技術開発・実証を行う「GI基金（バイオPJ：1,775億円）」、食"
+   },
+   {
+    "value": "2,700",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "quote": "革命推進基金（2,700億円）」を実施中"
+   },
+   {
+    "value": "1,774.7",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "quote": "• 現在、予算額1,774.7億円に対して、計5件の案件を実施中（令和６年４月）"
+   },
+   {
+    "value": "1,767",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "quote": " 予算額1,767億円に対して、計6件・国費負担総額1,806億円を採択（令和５年３⽉）"
+   },
+   {
+    "value": "1,806",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "quote": " 予算額1,767億円に対して、計6件・国費負担総額1,806億円を採択（令和５年３⽉）"
+   },
+   {
+    "value": "3,000",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "quote": " 予算額3,000億円に対して、 国費負担総額2,376億円（事業総額3,995億円）の提案 が"
+   },
+   {
+    "value": "2,376",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "quote": " 予算額3,000億円に対して、 国費負担総額2,376億円（事業総額3,995億円）の提案 が"
+   },
+   {
+    "value": "3,995",
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "quote": " 予算額3,000億円に対して、 国費負担総額2,376億円（事業総額3,995億円）の提案 が"
+   },
+   {
+    "value": "15",
+    "url": "https://note.com/iceman_23/n/n4c99a6f861e4",
+    "quote": "・補助金：15億円（国・県補助金の合計）"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E5%B8%82%E5%A0%B4-106586",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/basic-chemicals-manufacturers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/100870192.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dbj.jp/upload/investigate/docs/0a50c7c869c2bb6be490300804a3d5fe.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://division.nagase.co.jp/plaplat/sustainable_solution/material/bio-manufacturing-003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sojitz.com/jp/news/article/20210611.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forestcircularity.jp/category/biomass-chemistry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astamuse.co.jp/report/2024/240425-bm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/activities/ZZJP_100246.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA24BF30U6A620C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-agent.jp/subsidy/2203",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grant-search.com/field/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saisachi.com/budget/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/022_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.reach24h.com/cosmetic/industry-news/registration-rule-update",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nite.go.jp/data/000158927.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkakyo.org/safety_of_chemical_products/domestic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/recycle/mat052214.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ibismaterials.com/jp/category/%E6%A4%8D%E7%89%A9%E7%94%B1%E6%9D%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/category/8ad9ae3f959eadc5/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axetimesbiz.com/articles/chemical-biomanufacturing-industry_market-research_202404",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/2728/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/iceman_23/n/n4c99a6f861e4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-bio-based-chemicals-market/97713/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/japan-green-and-bio-based-polyol-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spglobal.com/energy/en/news-research/special-reports/chemicals/bio-chemicals-2025",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://biconsortium.eu/sites/biconsortium.eu/files/publications/Is%20there%20enough%20biomass%20to%20defossilise%20the%20chemicals%20and%20derived%20materials%20sector%20by%202050.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "バイオ由来化学品 国内市場規模 億円",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E5%B8%82%E5%A0%B4-106586",
+    "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "https://service.xenobrain.jp/forecastresults/market-size/basic-chemicals-manufacturers",
+    "https://www.nedo.go.jp/content/100870192.pdf",
+    "https://axetimes.com/report/research-about-biomanufacturing-technology-and-market-global-2026-2027/",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "https://www8.cao.go.jp/cstp/bio/bio_sijomap_mono.pdf",
+    "https://www.fcr.co.jp/report/242q12.htm",
+    "https://www.indexbox.io/ja/store/japan-biotechnology-based-chemicals-market-analysis-forecast-size-trends-and-insights/"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 国内 参入企業 社",
+   "results": [
+    "https://www.dbj.jp/upload/investigate/docs/0a50c7c869c2bb6be490300804a3d5fe.pdf",
+    "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "https://division.nagase.co.jp/plaplat/sustainable_solution/material/bio-manufacturing-003",
+    "https://www.sojitz.com/jp/news/article/20210611.html",
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://kepple.co.jp/articles/89illrykpv3w",
+    "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "https://www.ibismaterials.com/jp/category/%E6%A4%8D%E7%89%A9%E7%94%B1%E6%9D%A5/",
+    "https://www.nedo.go.jp/content/100870192.pdf",
+    "https://www.axc.ne.jp/insights/article/enterprise/4848/"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "https://www.dbj.jp/upload/investigate/docs/0a50c7c869c2bb6be490300804a3d5fe.pdf",
+    "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "https://forestcircularity.jp/category/biomass-chemistry/",
+    "https://iri-group.jp/knowledge/bio-based-chemicals/",
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://www.astamuse.co.jp/report/2024/240425-bm/",
+    "https://www.slchemtek.com/ja/blog/understanding-high---value---added-chemicals-their-role-in-modern-industries-and-technological-advan",
+    "https://www.nedo.go.jp/content/100927425.pdf"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 予算 補助金 基金 2026",
+   "results": [
+    "https://www.nedo.go.jp/activities/ZZJP_100246.html",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA24BF30U6A620C2000000/",
+    "https://hojokin-agent.jp/subsidy/2203",
+    "https://grant-search.com/field/energy/",
+    "https://saisachi.com/budget/",
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000007.000134033.html",
+    "https://chemicaldaily.com/archives/774186",
+    "https://kenkyuhi-navi.com/category/bio"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.dbj.jp/upload/investigate/docs/0a50c7c869c2bb6be490300804a3d5fe.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/022_04_00.pdf",
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://forestcircularity.jp/category/biomass-chemistry/",
+    "https://jp.reach24h.com/cosmetic/industry-news/registration-rule-update",
+    "https://www.nite.go.jp/data/000158927.pdf",
+    "https://www.nikkakyo.org/safety_of_chemical_products/domestic",
+    "https://www.env.go.jp/recycle/mat052214.pdf",
+    "https://www.envix.co.jp/"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 国内 主要企業 メーカー",
+   "results": [
+    "https://www.ibismaterials.com/jp/category/%E6%A4%8D%E7%89%A9%E7%94%B1%E6%9D%A5/",
+    "https://mono.ipros.com/category/8ad9ae3f959eadc5/index.html",
+    "https://axetimesbiz.com/articles/chemical-biomanufacturing-industry_market-research_202404",
+    "https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/",
+    "https://metoree.com/categories/2728/",
+    "https://note.com/iceman_23/n/n4c99a6f861e4",
+    "https://kepple.co.jp/articles/89illrykpv3w",
+    "https://division.nagase.co.jp/plaplat/sustainable_solution/material/bio-manufacturing-003",
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://rikei-career-lab.com/chemical-maker-comparison-2026/"
+   ]
+  },
+  {
+   "query": "bio-based chemicals Japan market size",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "https://www.maximizemarketresearch.com/market-report/global-bio-based-chemicals-market/97713/",
+    "https://www.futuremarketinsights.com/reports/japan-green-and-bio-based-polyol-market",
+    "https://www.linkedin.com/pulse/japan-bio-based-acrylic-acid-market-share-20262033-trends-ivj0e/",
+    "https://www.expertmarketresearch.com/reports/bio-based-platform-chemicals-market",
+    "https://pq-ue.ani.pt/brochuras/h-europa/alimentacao--bioeconomia--recursos-naturais--agricultura-e-ambiente/jrc_technicalreport_biobased_valuechains.pdf",
+    "https://www.marketsandmarkets.com/Market-Reports/bio-based-chemicals-market-177965704.html",
+    "https://www.indexbox.io/store/japan-biobased-chemicals-market-analysis-forecast-size-trends-and-insights/"
+   ]
+  },
+  {
+   "query": "bio-based chemicals shortage backlog supply gap 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "https://www.spglobal.com/energy/en/news-research/special-reports/chemicals/bio-chemicals-2025",
+    "https://biconsortium.eu/sites/biconsortium.eu/files/publications/Is%20there%20enough%20biomass%20to%20defossilise%20the%20chemicals%20and%20derived%20materials%20sector%20by%202050.pdf",
+    "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "https://market.us/report/bio-based-chemicals-market/",
+    "https://cen.acs.org/business/biobased-chemicals/Biobased-chemicals-face-fraught-year/104/web/2026/01",
+    "https://www.spglobal.com/content/dam/spglobal/ci/en/images/news-research/special-reports/bio-petrochemicals-2025/Bio-chemicals_2025.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

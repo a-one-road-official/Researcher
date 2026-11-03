@@ -1,0 +1,929 @@
+{
+ "name": "レアメタルリサイクル",
+ "en": "e-waste precious metal recovery",
+ "aliases": [
+  "都市鉱山",
+  "製錬",
+  "分離精製"
+ ],
+ "context": "9 マテリアル ⑤製錬・分離精製・リサイクル",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:22:52.507813+00:00",
+ "evidence": {
+  "国内市場規模": [
+   {
+    "quote": "図 4 リ サイ ク ル素材 （非鉄金属・レア メ タル） に関す る産業の国内市場規模",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都市鉱山は国内資源としての価値が高く、日本国内に蓄積された金属量は一部で世界埋蔵量の1割以上に相当すると評価されています",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本国内に蓄積された14億トンという膨大な鉄鋼ストックと、スクラップを鉄筋や形鋼に転換する電気アーク炉ミニミルが主流であるという構造的な要因に支えられています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、輸出市場における炭素国境調整措置の強化は、低炭素リサイクル鋼に対する国内需要を後押ししており、2034年までの日本の金属リサイクル市場の展望を支えています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "炭素排出量削減の取り組みの一環として、日本国内の3つの施設に電気アーク炉を導入するために、約8,700億円（60億5,000万ドル）を投資する計画です",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は連結売上高約452億円を計上し、日本国内でトップシェアを持つ商品も多いレアメタル・レアアースのリーディング企業として成長を続けている",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の開発事業では、高温で磁石原料を抽出し、不純物混入を抑えるプロセス設計が進められています（参照*3）",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "ズムの台頭な どに よ り 将来的な金属資源供給のひっ迫が",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2009年以降は、 金属資源供給のひっ迫や高コ ス ト 化と",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ているが、 分離・選別に関する技術不足から回収コ ス ト を",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルの必要性に関する認知不足も影響しており、回収参加を促す仕組みづくりが求められます",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "粗鋼生産量が減少し、高炉（BF）と転炉（BOF）の割合が縮小するにつれ、生産量と密接に関連する高品質な国内スクラップや即時供給可能なスクラップの供給は徐々に減少し、需給バランスが逼迫することになります",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争力があり予測可能な再生可能電力へのアクセスがなければ、EAF事業者は海外の一貫製鉄メーカーと比べてコスト面で不利となり、高炉からEAFへの生産能力転換の進展を制限している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "しばらくお待ちください",
+    "url": "https://baseconnect.in/companies/keyword/ba488a4c-28bb-48dd-a0e9-c35103d2d181",
+    "pass": 3
+   },
+   {
+    "quote": "定尺品、寸切品の小ロット、短納期販売のことでしたらお任せください",
+    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発から、小ロットで特殊仕様に、短納期で対応いたします",
+    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "お待ちしております",
+    "url": "https://service.matsuda-sangyo.co.jp/greenbusiness/disposal/metal/",
+    "pass": 3
+   },
+   {
+    "quote": "に逼迫した場合等には、 レアメタルの回収を進める上での課題を精査した上で、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国へのレアメタルの供給途絶等により需給が更に逼迫した場合等には、レアメ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、レアメタルの海外依存度が高く、2050年のカーボンニュートラルを見据えた場合、輸入依存だけでは供給不足や価格高騰に直面する懸念があります（参照*2）",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "これにより金属純度の向上や安定した生産量の維持が可能となり、人手不足対策にもつながっています",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "日本原燃株式会社が運営するウラン濃縮工場における濃縮ウランの生産能力について、450トンSWU／年に向上させる",
+    "url": "https://www.jogmec.go.jp/activities/metal/critical-grant.html",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンの還元及び炭化設備を新設し、タングステン粉末及び炭化タングステン粉末の生産能力を向上させる",
+    "url": "https://www.jogmec.go.jp/activities/metal/critical-grant.html",
+    "pass": 3
+   },
+   {
+    "quote": "保管スペースの不足や、廃棄か再販かの判断、複数の処分業者の管理に負担を感じている場合は、五十鈴株式会社の「",
+    "url": "https://www.isz.co.jp/circular/column/1683/",
+    "pass": 3
+   },
+   {
+    "quote": "）と環境制約面（①最終処分場のひっ迫、②適正な環境管理）により、特に使用済み小型電子機器等に焦点を当て、再資源化を促進することで、貴金属やレアメタル等の貴重な資源の有効な利用の確保と、廃棄物の適正な処理を図ることが目的となっています",
+    "url": "https://tenbou.nies.go.jp/learning/topics/kogatakaden3.html",
+    "pass": 3
+   },
+   {
+    "quote": "※環境制約：①最終処分場のひっ迫、②適正な環境管理",
+    "url": "https://tenbou.nies.go.jp/learning/topics/kogatakaden3.html",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXZQOUB02A9D0S6A400C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGXZQOUB02A9D0S6A400C2000000/",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "設備の廃棄や解体、 処理を規制する法律と して、 「電子",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・廃棄物の処理及び清掃に関する法律（1970）・公害の顕在化・埋立て地対策の拡大",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・各種リサイクル制度の構築",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主な課題 法律の制定、計画・戦略の策定",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 １ に示すよ う に、 我が国の リ サイ ク ルに関する法制度",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ま た、 法制度の整備と並",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1 リ サイ ク ルに関わる主な課題 と 法制度の変遷",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会や法制度に依",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CRM （Critical Raw Materials） に指定されているレ",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "離、 ④指定有害物質の除去、 ⑤強靭でコ ス ト 効率の高い",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法制度等の運用で対応",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と と も に、 法制度の運用・整備に よ る回収量の増大や、 規格",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資源制約と環境規制の強化により、貴金属リサイクルの重要性は高まっています",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "海外では制度整備が進んだ地域と未整備の地域で差があります",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "欧米では拡大生産者責任に基づく回収制度が整備されています",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "回収ルート、技術、コスト、制度が相互に関係しており、個別ではなく全体最適の視点での整備が求められます",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "制度・国際流通と不適正処理のリスク",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "国際的には環境基準を満たさない精錬が行われる地域もあり、土壌や水質への影響が問題視されています",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "適正処理を担保するためには、トレーサビリティの確保と制度整備、国際的な連携が不可欠です",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "経済性と制度設計による回収促進",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "補助金や税制優遇などの制度設計により、企業と消費者の参加を促進することが有効です",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "制度と市場の両面から支えることで、持続可能な回収モデルが成立します",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "環境基準やトレーサビリティの共通化により、不適正処理や資源流出の抑制が可能となります",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "供給不安や価格変動への対応には、回収技術の高度化だけでなく、分別・回収インフラ、制度設計、国際連携まで含めた総合的な取り組みが求められます",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partner Satisfaction Studies",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Construction and Manufacturing",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "重量ベースで99%を超えるリサイクル率を誇り、自動車スクラップから鉄鋼およびアルミニウムを回収するプロセスは深く制度化されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "循環型経済に関する法規制の強化：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉄鋼連盟（JISF）は、回収インフラの整備と新たなインセンティブ制度を通じて、2030年までに国内のスクラップ循環量を690万トン増加させるという正式な目標を設定した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車セクターは、車両のライフサイクル全体を通じてメーカーに拡大生産者責任を課す「自動車リサイクル法」に支えられ、日本における二次金属の最も制度化された供給源となっています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場参加者は、スクラップ調達ネットワークの広さ、加工技術力、およびプレミアムなグリーン鋼用途に向けたリサイクル含有率の認証能力において競争を繰り広げている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "分析の基準年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "The IMARC team was very reactive and flexible with regard to our requests. A very good overall experience. We are happy with the work that IMARC has provided, very complete and detailed. It has contributed to our business needs and provided the market visibility that we required",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "The figures of market study were very close to our assumed figures. The presentation of the study was neat and easy to analyse. The requested details of the study were fulfilled. My overall experience with the IMARC Team was satisfactory.",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market reports from IMARC have been instrumental in guiding our business strategies. We found the reports comprehensive and data-driven, which helped us make informed decisions. The detailed insights and actionable data have consistently provided us with a competitive edge in a rapidly changing alcohol market.",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "We recently commissioned multiple market research reports from IMARC, and the insights we received were invaluable. The depth of analysis, accuracy of data, and actionable recommendations have greatly enhanced our strategic decision-making.",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Report",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "contact",
+    "url": "https://service.matsuda-sangyo.co.jp/greenbusiness/disposal/metal/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact",
+    "url": "https://service.matsuda-sangyo.co.jp/greenbusiness/disposal/metal/",
+    "pass": 3
+   },
+   {
+    "quote": "――2010年の輸出規制の際にも、翌年の売上を飛躍的に伸ばしています",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、全国平均を上回る既存社員の給与引き上げ（※）や、業績付加賞与制度を設けるなどして、「働いた成果」を実感できる仕組みづくりにも注力してきました",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3
+   },
+   {
+    "quote": "の多くは、法律に基づく回収スキーム（自動車、家電４品目、パソコン、小",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の現行法の規制を逃れて不法に海外輸出されるケースについては、海外での",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "不適正な処理を防止する観点から、現行法の更なる適正な施行、運用を検討",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プすることにより、 PDCA （Plan, Do, Check, Action ）を実施することも重要で",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "けてきた現行リサイクル制度 における外部費用の内部化の観点に加え 、リサイ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "等が講じる個人情報保護措置の制度的 担保化、消費者への普及啓発等を通",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かかる整理を踏まえ、現行制度の対象外となっている",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "理されるものについては制度の対象とするべきである",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・アンケート調査により消費者における制度の認知度は約２０％と他の製品",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に比べ低いため、制度の認知度向上に向けて消費者への更なる普及啓発を",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とめられた「家電リサイクル制度の施行 状況の評価・検討に関する報告書」",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "13回収率の推計の対象年度は平成 22 年度であり、家電エコポイント制度の対象期間となる",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "在することや、回収拠点の場所など制度内容の認知度向上の余地があるこ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とを踏まえ、消費者に対する制度内容も含めた普及啓発（電池取り外しの",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "再資源化の促進に関する法律による新たな回収スキームを構築するとともに、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "環境負荷だけでなく収益面にもメリットがあるため、補助制度や政府支援も普及を後押ししています",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.meti.go.jp/policy/economy/economic_security/metal/250619_torikumihoshin.pdf",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "技術に約 1,460 万ユーロの予算をつけており、欧州ではこ",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を設立 し、 2013年よ り5年間、 年約3,000万 ドルの予算で",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月、経済産業省（METI）は、低炭素鋼を使用して製造されたクリーンエネルギー車（CEV）1台につき5万円の補助金を導入した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「GX推進法」は、高炉から電気炉への転換に対して2,514億円の補助金枠を設けており、リサイクル鉄スクラップの需要を直接的に刺激している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "資金の一部は日本政府から提供され、政府は2028/2029年度までに、これら3つの施設における同社の脱炭素化取り組みに対し、2,510億円の助成を行う計画です",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は「グリーン・スチール」に対するインセンティブを導入し、経済産業省（METI）は、低炭素排出鋼を使用して製造されたクリーンエネルギー車（CEV）に対し、5万円の補助金を支給することとした",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は連結売上高約452億円を計上し、日本国内でトップシェアを持つ商品も多いレアメタル・レアアースのリーディング企業として成長を続けている",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3
+   },
+   {
+    "quote": "大木が会長を務めるSUREコンソーシアムは、2013年に産総研内に設立した戦略的都市鉱山研究拠点を軸に、2014年に設立した官民連携組織である",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260624.html",
+    "pass": 3
+   },
+   {
+    "quote": "本業務は『経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（経済安全保障推進法）』に基づき、特定重要物資に指定された金属鉱産物（以下、「重要鉱物」）について、経済産業大臣が策定した『重要鉱物に係る安定供給確保を図るための取組方針』（以下、「安定供給確保取組方針」）に則り、我が国の重要鉱物の安定供給確保を図る上で効果的と認められる取組を行うとして経済産業大臣に計画が認定された供給確保事業者に対し、当該取組に係る申請者負担額の1／2の助成金を交付する事業です",
+    "url": "https://www.jogmec.go.jp/activities/metal/critical-grant.html",
+    "pass": 3
+   },
+   {
+    "quote": "◼並行して、2024年10月には官民が出資して中国資源循環集団を設立するなど、国内の資源リサイクルネット",
+    "url": "https://www.cas.go.jp/jp/seisaku/economiccirculation/kanjikai_dai1/sanko3.pdf",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "内容 海外企業動向 日本企業動向 日本企業の競争力",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・日本企業は 、本分野への 参入が で",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "については、 日本企業は参入で き ていない",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 3 リ サイ ク ルビジネスにおけ る 日本企業の国際競争力",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出願人ラ ン キ ン グ （表6） では、 上位集団に 日本企業が位",
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中部地域は日本の自動車製造拠点と深く結びついており、主要企業や精密金属部品メーカーの密なネットワークが形成されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業プロジェクトの支援",
+    "url": "https://www.jogmec.go.jp/activities/metal/critical-grant.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】ゼロエミッションに取り組む日本企業9社｜業種別の事例と進め方を解説",
+    "url": "https://www.isz.co.jp/circular/column/1683/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】カーボンニュートラルに取り組む日本企業15社｜業種別の事例と導入メリットを解説",
+    "url": "https://www.isz.co.jp/circular/column/1683/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造は日本企業の技術が必須 業界マップで投資先探し",
+    "url": "https://www.nikkei.com/article/DGXZQOUB02A9D0S6A400C2000000/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "資料3 レアメタルリサイクル の現状 1． レアメタル ... — 資料3 レアメタルリサイクル の現状 1． レアメタル ... 環境省 PDF https://www.env.go.jp > content",
+    "url": "https://www.env.go.jp/content/900535625.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内市場億円": [
+   {
+    "value": "8,700",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "quote": "炭素排出量削減の取り組みの一環として、日本国内の3つの施設に電気アーク炉を導入するために、約8,700億円（60億5,000万ドル）を投資する計画です"
+   },
+   {
+    "value": "452",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "quote": "2025年3月期は連結売上高約452億円を計上し、日本国内でトップシェアを持つ商品も多いレアメタル・レアアースのリーディング企業として成長を続けている"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "2,514",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "quote": "経済産業省の「GX推進法」は、高炉から電気炉への転換に対して2,514億円の補助金枠を設けており、リサイクル鉄スクラップの需要を直接的に刺激している"
+   },
+   {
+    "value": "2,510",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "quote": "資金の一部は日本政府から提供され、政府は2028/2029年度までに、これら3つの施設における同社の脱炭素化取り組みに対し、2,510億円の助成を行う計画です"
+   },
+   {
+    "value": "452",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "quote": "2025年3月期は連結売上高約452億円を計上し、日本国内でトップシェアを持つ商品も多いレアメタル・レアアースのリーディング企業として成長を続けている"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/rare-metal-scrap-recycling",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/100804857.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/ba488a4c-28bb-48dd-a0e9-c35103d2d181",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cjc.or.jp/raremetal/company-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.matsuda-sangyo.co.jp/greenbusiness/disposal/metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cjc.or.jp/raremetal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/council/former2013/03haiki/y0326-04/mat05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260624.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA237L80T21C25A2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanmetaldaily.com/articles/-/251774",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/earth/42024_00005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iru-miru.com/article/79895",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jogmec.go.jp/activities/metal/critical-grant.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA1857S0Y4A710C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/content/900535625.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/economiccirculation/kanjikai_dai1/sanko3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.isz.co.jp/circular/column/1683/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenbou.nies.go.jp/learning/topics/kogatakaden3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/categories/5256/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://strainer.jp/notes/8708",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/9bbf5892-ff43-4705-82ce-ececb66f45ac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUB02A9D0S6A400C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/precious-metals-e-waste-recovery-market-191615472.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/precious-metals-e-waste-recovery-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/report/precious-waste-e-waste-recovery?srsltid=AYCX9vIDbsZfgRQklY78P2P79_sV-llgkbgR_3GrfrLvB-ALB0diUtim",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/reports/global-precious-metals-e-waste-recovery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-precious-metal-recovery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/precious-metals-e-waste-recovery-102100639.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/e-waste-recycling-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.backthruthefuture.com/electronic-waste-in-2025/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "レアメタルリサイクル 国内市場規模 億円",
+   "results": [
+    "https://service.xenobrain.jp/forecastresults/market-size/rare-metal-scrap-recycling",
+    "https://www.nedo.go.jp/content/100804857.pdf",
+    "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "https://trashtech.jp/journal/detail/20250414",
+    "https://newscast.jp/news/3506878",
+    "https://jp.linkedin.com/pulse/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%ABcagr133%E3%81%A7%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%9F%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E3%81%A6%E3%81%8A%E3%82%8A%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86-7493500947101380608-tk2xe",
+    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/"
+   ]
+  },
+  {
+   "query": "レアメタルリサイクル 国内 参入企業 社",
+   "results": [
+    "https://baseconnect.in/companies/keyword/ba488a4c-28bb-48dd-a0e9-c35103d2d181",
+    "https://www.cjc.or.jp/raremetal/company-list",
+    "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "https://service.matsuda-sangyo.co.jp/greenbusiness/disposal/metal/",
+    "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "https://strainer.jp/notes/8708",
+    "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "https://metoree.com/categories/5256/",
+    "https://www.cjc.or.jp/raremetal/"
+   ]
+  },
+  {
+   "query": "レアメタルリサイクル 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "https://www.cjc.or.jp/raremetal/",
+    "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "https://www.env.go.jp/council/former2013/03haiki/y0326-04/mat05.pdf",
+    "https://www.aist.go.jp/aist_j/magazine/20260624.html",
+    "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "https://tenbou.nies.go.jp/science/description/detail.php?id=62"
+   ]
+  },
+  {
+   "query": "レアメタルリサイクル 予算 補助金 基金 2026",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUA237L80T21C25A2000000/",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://www.japanmetaldaily.com/articles/-/251774",
+    "https://www.env.go.jp/earth/42024_00005.html",
+    "https://www.iru-miru.com/article/79895",
+    "https://www.jogmec.go.jp/activities/metal/critical-grant.html",
+    "https://hojokin-agent.jp/subsidy/2200",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
+    "https://www.cjc.or.jp/raremetal/g-policy",
+    "https://hojoguide.jp/guides/recycling-business-subsidy"
+   ]
+  },
+  {
+   "query": "レアメタルリサイクル 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA1857S0Y4A710C2000000/",
+    "https://www.env.go.jp/content/900535625.pdf",
+    "https://www.cas.go.jp/jp/seisaku/economiccirculation/kanjikai_dai1/sanko3.pdf",
+    "https://www.isz.co.jp/circular/column/1683/",
+    "https://tenbou.nies.go.jp/learning/topics/kogatakaden3.html",
+    "https://www.jstage.jst.go.jp/article/safety/52/3/52_173/_pdf/-char/ja",
+    "https://www.jiji.com/jc/article?k=2026081400610&g=soc"
+   ]
+  },
+  {
+   "query": "レアメタルリサイクル 国内 主要企業 メーカー",
+   "results": [
+    "https://baseconnect.in/companies/keyword/ba488a4c-28bb-48dd-a0e9-c35103d2d181",
+    "https://metoree.com/categories/5256/",
+    "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "https://www.cjc.or.jp/raremetal/company-list",
+    "https://strainer.jp/notes/8708",
+    "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "https://baseconnect.in/companies/keyword/9bbf5892-ff43-4705-82ce-ececb66f45ac",
+    "https://www.nikkei.com/article/DGXZQOUB02A9D0S6A400C2000000/",
+    "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "https://mono.ipros.com/cg2/レアメタル/"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery Japan market size",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
+    "https://www.marketsandmarkets.com/Market-Reports/precious-metals-e-waste-recovery-market-191615472.html",
+    "https://www.facebook.com/ItisaScience/posts/japan-engineered-a-technology-that-recovers-precious-metals-from-electronic-wast/122220882770051326/",
+    "https://www.grandviewresearch.com/industry-analysis/precious-metals-e-waste-recovery-market-report",
+    "https://www.researchandmarkets.com/report/precious-waste-e-waste-recovery?srsltid=AYCX9vIDbsZfgRQklY78P2P79_sV-llgkbgR_3GrfrLvB-ALB0diUtim",
+    "https://www.linkedin.com/pulse/tracking-emerging-trends-japan-precious-metal-recovery-market-ogyje",
+    "https://www.databridgemarketresearch.com/reports/global-precious-metals-e-waste-recovery-market",
+    "https://www.marketresearchfuture.com/reports/japan-e-waste-management-market-59668",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0921344922006425",
+    "https://www.6wresearch.com/industry-report/japan-precious-metals-e-waste-recovery-market"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery shortage backlog supply gap 2025",
+   "results": [
+    "https://dataintelo.com/report/global-precious-metal-recovery-market",
+    "https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market",
+    "https://finance.yahoo.com/news/precious-metals-e-waste-recovery-102100639.html",
+    "https://www.mordorintelligence.com/industry-reports/e-waste-recycling-market",
+    "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
+    "https://www.backthruthefuture.com/electronic-waste-in-2025/",
+    "https://www.linkedin.com/pulse/precious-metal-e-scrap-recycling-market-trends-opportunities-fp3tf",
+    "https://emew.com/blog/global-e-waste-statistics",
+    "https://rmis.jrc.ec.europa.eu/uploads/cp/circec.pdf",
+    "https://recyclefind.com/scrap-metal-reports/e-waste-precious-metals-2025"
+   ]
+  }
+ ],
+ "missing": {
+  "国内参入企業数": "記載なし（読んだ40頁・検索8回）"
+ }
+}

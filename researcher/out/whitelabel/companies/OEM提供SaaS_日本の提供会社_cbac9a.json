@@ -1,0 +1,1825 @@
+{
+ "name": "OEM提供SaaS（日本の提供会社）",
+ "en": "Japanese SaaS OEM",
+ "aliases": [
+  "OEM提供",
+  "OEM",
+  "ホワイトラベル",
+  "再販パートナー",
+  "販売代理店募集",
+  "自社ブランド"
+ ],
+ "context": "日本の提供会社",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:23:40.382767+00:00",
+ "evidence": {
+  "日本対応": [
+   {
+    "quote": "SaaS Companies in Japan | Japan Dev | Japan Dev",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "/r/JapanDev",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "- Check out our new Reddit Community for Tech Careers in Japan",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS Companies in Japan",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Top tech companies in Japan focused on SaaS",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "in Japan",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "browse all open developer jobs in Japan",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "LY Corporation is one of Japan's largest tech companies, formed in October 2023 through the reorganization of Group comp...",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Autify, Inc. is a start-up company founded in San Francisco by a team of engineers who were the first Japanese team to g...",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Build AI that Brings Japanese Omotenashi to the World",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "enechain is a startup operating the largest energy marketplace in Japan.",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Givery’s mission is to create the world's most indispensable technology companies and revitalize Japan as a digital supe...",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "HeartCore is a Japanese company that runs the number one CMS (Content Management System) used in Japan.",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "O is an art technology studio based in the US and Japan. O's mission is to amplify creativity through our daily digital ...",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "FoodTech Capital, founded in 2021, aims to promote digital transformation and revitalize Japan’s food industry using tec...",
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Top Japanese IT, Computing & Networking Distributors & Importers",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "JapaneseDistributors.com - The Japan Distribution Experts",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "How To Sell Your Products In Japan (FAQ)",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Check Your Japan Potential",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose the Right Japanese Distributor",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Cybersecurity Distributors",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Networking Infrastructure Distributors",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Physical Security & Video Surveillance Distributors",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Data Center, Server & Storage Distributors",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese CAD, CAE & Engineering Software Distributors",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Pro AV, Broadcast & Digital Signage Distributors",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Enterprise Software & SaaS Distributors",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese IT Peripheral & Endpoint Hardware Distributors",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "The Japanese regulatory framework covered below applies to imports of IT, computing, and networking products regardless of the country of origin. Note that the Japanese importer of record (the distributor) manages each of these requirements as part of standard operations; the items below describe what that work covers.",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Need help navigating Japanese regulations for your category? We can connect you with distributors who handle compliance routinely.",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (Japanese）",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Design a japan logo | Logogenie",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Design a japan logo",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Celebrate Japanese heritage with a distinctive Japan logo. Browse professionally designed Japan-inspired templates, customize every detail, and create a memorable brand in minutes.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "A Japan logo is ideal for restaurants, travel companies, cultural organizations, technology brands, import and export businesses, educational institutions, and businesses inspired by Japanese design and tradition. It symbolizes innovation, harmony, craftsmanship, and cultural heritage while helping your brand stand out.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Explore our japan logo templates",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Choose from our premium japan logo templates and customize your logo today",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "See More japan Logos",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your company name, tagline and industry, and browse hundreds of japan logos.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Browse through thousands of japan logo designs and customise your logo online.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "How to create a professional japan logo",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Our tips for creating a modern, professional japan logo",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "When creating a japan logo, incorporate elements like cherry blossoms, koi fish, or traditional patterns. Focus on simple shapes and clean lines for a design that stands out. A balanced composition with proper spacing enhances clarity, making your logo easily recognizable in a market that values tradition and modernity.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Your japan logo design should be versatile for various applications, including clothing, packaging, and vehicles. Ensure it looks good in both print and digital formats. Using online logo design tools can help make your logo effective across all merchandise and promotional materials, boosting its visibility in the market.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Create your japan logo",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Other interesting japan related industries",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Done in Japan – Make your products or brand in Japan – TAKASKI.COM",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Coffee",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "FROM JAPAN",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "or entire brand in Japan",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Done in Japan",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "is a premium service designed to find the most suitable Japanese companies who can produce your individual product or entire line with your branding.",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Based on our wholesale and retail experience by running Takaski.com, we help you to find min. three Japanese companies to fulfil your requirements. If we won’t be able to find min. three companies then we refund your full fee immediately.",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Your all requirements translated into Japanese",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "We’ll find 3 Japanese companies fitting your requirements",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "If you decide to go ahead with a Japanese OEM company,",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": ", please fill out the below form by providing full product and requirements description including images of your branding, approximate quantity, specific product quality and country’s import requirements. This information is crucial for Japanese companies to provide a quote or ask specific questions.",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Made in Japan Only",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Everything at our store is made in Japan and 100% original only",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "NITTOH KOCHA Royal Milk Tea x 8 Sachets - Made in Japan",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Looking for a Japanese distributor that fits your brand? We can help you find the right partner.",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM BI Tools: Add Embedded Analytics to Your SaaS App",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "OEM BI Tools: How to Add Analytics to Your SaaS Product",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Adding analytics to your SaaS product typically means choosing between a lengthy custom build or licensing an OEM BI tool designed for redistribution. This article explains how OEM BI works, walks through evaluation criteria like multi-tenant architecture and licensing models, and explores how AI is changing what customers expect from embedded analytics.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "OEM BI tools let SaaS companies embed white-labeled analytics into their products without building from scratch",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "The right OEM BI solution accelerates time to market while maintaining brand consistency across multi-tenant environments",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Self-service analytics within OEM BI increases adoption and creates competitive differentiation",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered OEM BI tools are shifting from static dashboards to intelligent, actionable insights",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "What are OEM BI tools?",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "OEM stands for original equipment manufacturer.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "OEM BI tools",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "white-label theming",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "What OEM BI requires:",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "OEM licensing rights that permit redistribution to your customers",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "White-label theming to match your brand identity",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "What OEM BI is not: internal BI tools used by your own employees, standard SaaS analytics subscriptions without redistribution rights, or reporting features bolted onto an application without proper data governance.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding and Customization, OEM Partner Support",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM / ODM",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Project Management",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding and Customization",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "AggreGate IoT Platform and all derived vertical market solutions are white-labeled. These products are designed to be rebranded and redistributed by the hardware manufacturers under an OEM agreement. To achieve your desired commercial results, the branded package will inherit your custom name, copyright, logos, icons, website links, documentation, and other elements of your corporate identity.",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Purposes",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Before you dive into the rebranding process, you first need to recognize good reasons for that. See what you get if you choose to rebrand:",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Options",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Applying the OEM partner’s corporate identity to a new product",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fully rebranded documentation",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Partners",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Equipment manufacturers (OEM/ODM partners)",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Lifecycle",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Before a rebranded product appears in the marketplace, it takes several steps to prepare:",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Parallel work on the OEM agreement",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Everything your brand needs",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Use our easy-to-use online tools to create dazzling branded products with your logo and matching colors! Discover our wide range.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "A Japan logo is ideal for restaurants, travel companies, cultural organizations, technology brands, import and export businesses, educational institutions, and businesses inspired by Japanese design and tradition. It symbolizes innovation, harmony, craftsmanship, and cultural heritage while helping your brand stand out.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Choose from our premium japan logo templates and customize your logo today",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your information, customize your logo, and download it in just a few clicks",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Customize your logo",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Browse through thousands of japan logo designs and customise your logo online.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Download your logo",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "When creating a japan logo, incorporate elements like cherry blossoms, koi fish, or traditional patterns. Focus on simple shapes and clean lines for a design that stands out. A balanced composition with proper spacing enhances clarity, making your logo easily recognizable in a market that values tradition and modernity.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Your japan logo design should be versatile for various applications, including clothing, packaging, and vehicles. Ensure it looks good in both print and digital formats. Using online logo design tools can help make your logo effective across all merchandise and promotional materials, boosting its visibility in the market.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Earth tones like green and brown reflect japan's natural beauty, while soft beige and dark green evoke tranquility, perfect for wellness brands. Using these color schemes in logo design tools can elevate your brand identity.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, all logos can be fully customized. You can adjust colors, fonts, layouts, and icons to create a unique japan logo that matches your brand identity.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, once purchased, your logo is yours to use for all commercial purposes including websites, business cards, social media, and marketing materials.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, your logo can be used across all platforms, including websites, social media, business cards, signage, and merchandise, ensuring consistent branding everywhere.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, your logo is designed to work across all digital and print formats, including websites, email signatures, business cards, and advertising materials.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Done in Japan – Make your products or brand in Japan – TAKASKI.COM",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Make your OEM products",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Done in Japan",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "is a premium service designed to find the most suitable Japanese companies who can produce your individual product or entire line with your branding.",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "We send you all questions from the OEM companies",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "If you decide to go ahead with a Japanese OEM company,",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": ", please fill out the below form by providing full product and requirements description including images of your branding, approximate quantity, specific product quality and country’s import requirements. This information is crucial for Japanese companies to provide a quote or ask specific questions.",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Automotive OEM and Parts",
+    "url": "https://www.trade.gov/market-intelligence/japan-automotive-oem-and-parts",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Auto Parts",
+    "url": "https://www.trade.gov/market-intelligence/japan-automotive-oem-and-parts",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous vehicle related technology has also become a high priority among Japanese OEMs. U.S. auto parts manufacturers with technologies in the areas of “next-generation” transportation systems, transportation safety, traffic accident reduction, theft-resistance, and electronic components should consider entering this market.",
+    "url": "https://www.trade.gov/market-intelligence/japan-automotive-oem-and-parts",
+    "pass": 3
+   },
+   {
+    "quote": "How to Source OEM Parts from Japan: A Comprehensive Guide for Global Buyers | JapaneseMFG",
+    "url": "https://japanesemfg.com/insights/how-to-source-oem-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Source OEM Parts from Japan: A Comprehensive Guide for Global Buyers",
+    "url": "https://japanesemfg.com/insights/how-to-source-oem-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM parts Japan",
+    "url": "https://japanesemfg.com/insights/how-to-source-oem-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "source OEM parts directly from Japan",
+    "url": "https://japanesemfg.com/insights/how-to-source-oem-parts/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "(日本総代理店,",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "System integrator and reseller channel reach.",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Single sign-on (SSO) integration through Security Assertion Markup Language (SAML) or OpenID Connect (OIDC) is non-negotiable for enterprise deployments. Your customers expect to authenticate once and access analytics without additional login steps. Verify that the platform supports your identity provider and can pass user context for row-level security enforcement.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Licensing structures vary significantly across OEM BI vendors, and the wrong model can erode margins as your customer base grows.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Per-active-viewer or capacity-based pricing ties costs to actual usage, typically measured by monthly active people or query volume. This model aligns vendor costs with your revenue and protects margins at scale.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 2026 Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Progress and certain product names used herein are trademarks or registered trademarks of Progress Software Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries. See",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Retail / Wholesale",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Value-added resellers",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate program",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Based on our wholesale and retail experience by running Takaski.com, we help you to find min. three Japanese companies to fulfil your requirements. If we won’t be able to find min. three companies then we refund your full fee immediately.",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "近い概念として、代理店販売、リセール、ホワイトラベルなどがあります",
+    "url": "https://cano-pus.com/lab/2026/02/10/knowledge-partnersales-007/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSのチャネルコンフリクト ー 直販と代理店併用のリスクと対策",
+    "url": "https://cano-pus.com/lab/2026/02/10/knowledge-partnersales-007/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店モデルでは通常 利用許諾はベンダーと利用者の間で締結されます",
+    "url": "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店経由で契約したSaaSサービスでも、利用規約はベンダーの規約に同意しますよね",
+    "url": "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliates",
+    "url": "https://partnerstack.com/glossary/oem-partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "The only affiliate platform built for B2B",
+    "url": "https://partnerstack.com/glossary/oem-partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "For Affiliates",
+    "url": "https://partnerstack.com/glossary/oem-partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Our partner program",
+    "url": "https://partnerstack.com/glossary/oem-partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Denodo OEM Partner Program",
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to our OEM Partner Program for embedded and commercial partnerships. Whether you want to integrate our technology into your products, offer new solutions, or explore new markets, our program provides the framework and support you need. Together, we can unlock possibilities, drive innovation, and create lasting value for our customers.",
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Join the Partner Program",
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Want to become a Denodo partner? Complete the application form. After preliminary approval, you will receive limited access to the Denodo Partner Portal, where you can utilize enablement resources, leverage training discounts, and register sales opportunities. You will then be able to explore the Denodo Partner Program and become a full member by signing the Denodo Partner Agreement.",
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partner Program for Equipment Makers | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program for industrial equipment makers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partners pay SensFlo a licensing fee and sell the finished product at whatever price their market supports, which keeps the margin decision entirely on your side.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Full pricing and margin control",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "other partner programs?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Referral",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Referral fee",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Resale margin",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "The OEM partner does. OEM partners pay SensFlo a licensing fee and keep full control over the price and margin of the product they sell.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": ". Resellers sell these solutions to their clients, and OEM partners can embed any of them in their own equipment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Yes — many partners evolve over time, for example, starting as Referral partners and moving to Reseller as their SensFlo practice deepens. Hybrid models are also possible; for example, a hardware OEM may also pursue a",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・制作会社・SEO会社が、自社開発なしでAI検索対策のSaaSを商品化するときに使われます",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル・OEM・販売代理店・紹介は何が違うのか？",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "自社の製品として持つならホワイトラベル／OEM、売ることから始めるなら代理店です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "代理店プログラム",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理店の自社メニュー化",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店とは何が違いますか？",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店はLLMOチェキという製品名のまま貴社が販売しますが、ホワイトラベルでは製品そのものが貴社ブランドになり、エンドユーザーとの契約・請求・価格決定も貴社が握ります",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・制作会社・SEO会社が、自社開発なしでAI検索対策のSaaSを商品化する手段として使われる",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店とは、開発元の製品を開発元のブランドのまま販売する事業者である",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・パートナー募集",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "「ごく一部の代理店しか売ってくれない・・・」",
+    "url": "https://partnersuccess.jp/media/what-is-oem",
+    "pass": 3
+   },
+   {
+    "quote": "「代理店データが可視化できず、施策も意思決定も属人化している」",
+    "url": "https://partnersuccess.jp/media/what-is-oem",
+    "pass": 3
+   },
+   {
+    "quote": "貴社のパートナービジネス・代理店販売に、このような課題はありませんか？",
+    "url": "https://partnersuccess.jp/media/what-is-oem",
+    "pass": 3
+   },
+   {
+    "quote": "「代理店ビジネスの業務を効率化し、売上を伸ばしたい」",
+    "url": "https://partnersuccess.jp/media/what-is-oem",
+    "pass": 3
+   },
+   {
+    "quote": "代理店ビジネスを伸ばすPRM（代理店CRM）サービス「",
+    "url": "https://partnersuccess.jp/media/what-is-oem",
+    "pass": 3
+   },
+   {
+    "quote": "「代理店データが可視化できず、施策も意思決定も属人化している」Rich Text Box",
+    "url": "https://partnersuccess.jp/media/what-is-oem",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・パートナービジネスの課題を一挙に解決できますので、まずは資料をダウンロードしてみてください",
+    "url": "https://partnersuccess.jp/media/what-is-oem",
+    "pass": 3
+   },
+   {
+    "quote": "代理店ビジネスのことなら、",
+    "url": "https://partnersuccess.jp/media/what-is-oem",
+    "pass": 3
+   },
+   {
+    "quote": "代理店ビジネスの",
+    "url": "https://partnersuccess.jp/media/what-is-oem",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Everything from highly specialized B2B, medical, industrial, technical, and scientific products… to all types of consumer goods",
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Building your own system based on a constantly developing industrial platform",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Download the Denodo Platform trial to explore, learn, and build with governed data access.",
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "pass": 3
+   },
+   {
+    "quote": "START FREE TRIAL",
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Industrials",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program for industrial equipment makers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": ", JTB Corp., and Toda Corporation declared that altogether they carried out a suitable field trial for ECHIZEN Quest, which is considered a digital transformation project.",
+    "url": "https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216",
+    "pass": 3
+   },
+   {
+    "quote": "driving strategy, innovation, and client success across niche industrial domains. His sectoral expertise spans",
+    "url": "https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアル可能で年間12,000円～という圧倒的な低価格を強みに 、既存顧客へのクロスセルやリスクゼロのドアノック商材としてご活用いただけるパートナーを募集します",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアルを提供できるサービスであれば、実際に触ってもらうことが最も強い導入の後押しになります",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   }
+  ],
+  "提供企業": [
+   {
+    "quote": "Independent software vendors (ISVs) embedding analytics into vertical solutions benefit significantly. A healthcare software company, for example, can offer clinical dashboards without hiring a data visualization team. Platform providers wanting to",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "their customers want to access but lacking the internal expertise to build analytics should evaluate OEM BI as a build vs buy decision. The math often favors buying when you factor in ongoing maintenance, security updates, and feature development.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "capabilities determine how easily the OEM platform connects to your existing data sources. Look for native connectors to your data warehouse, support for live queries vs data extraction, and the ability to handle the concurrency demands of your customer base.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare software providers embed clinical dashboards that help medical practices track patient outcomes, appointment utilization, and billing efficiency. Best for: companies whose customers need to monitor operational and clinical metrics without exporting data to spreadsheets.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Service Providers",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "My logo turned out exactly how I envisioned it. The preview features helped a lot, and I appreciated getting multiple file formats instantly.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Find Service Providers",
+    "url": "https://www.trade.gov/market-intelligence/japan-automotive-oem-and-parts",
+    "pass": 3
+   },
+   {
+    "quote": "Step 4: Review Quotes, Evaluate, and Engage with Japanese Suppliers",
+    "url": "https://japanesemfg.com/insights/how-to-source-oem-parts/",
+    "pass": 3
+   },
+   {
+    "quote": ". Japanese suppliers might not aggressively negotiate on price compared to some other regions, as their pricing often reflects meticulous quality control and advanced processes. While the unit price for",
+    "url": "https://japanesemfg.com/insights/how-to-source-oem-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "to SaaS, Data, and ISVs, so they can swiftly adapt products and services to address changes in business conditions, competitive landscape, market trends, and customer requirements.",
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Compare this program vs others",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "is one of the leading cloud infrastructure providers, and the ultimate backbone for its massive ecosystem of both international and domestic SaaS applications in Japan. Its huge scale, along with continuous advancement in AI services, storage, and compute, has made it the most default option for enterprises and startups deploying cloud-based solutions.",
+    "url": "https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216",
+    "pass": 3
+   },
+   {
+    "quote": "Explore a preview of key market trends and insights",
+    "url": "https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216",
+    "pass": 3
+   },
+   {
+    "quote": "Review sample data tables and segment breakdowns",
+    "url": "https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216",
+    "pass": 3
+   },
+   {
+    "quote": "Preview how actionable insights can support your strategy",
+    "url": "https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Named-user pricing charges for each individual who can access analytics. This model often appears affordable initially but scales poorly. A pricing structure that works at 500 people may become prohibitive at 50,000.",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "1,200万円のSaaSを回避したスギ薬局のAI内製化事例",
+    "url": "https://cano-pus.com/lab/2026/02/10/knowledge-partnersales-007/",
+    "pass": 3
+   },
+   {
+    "quote": "$ 12.2",
+    "url": "https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216",
+    "pass": 3
+   },
+   {
+    "quote": "$ 38.1",
+    "url": "https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216",
+    "pass": 3
+   },
+   {
+    "quote": "月額150,000円（税別）で、サイト数・ユーザー数は無制限です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "当社の卸価格は月額150,000円〜（税別・計測枠の超過分は従量課金）",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "当社が運用（月額¥150,000に込み）",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "卸価格は月額¥150,000〜（税別）で、計測枠の超過分は従量課金（ポイント購入）です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "当社は卸価格（月額150,000円〜・税別",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "お支払いは月額（150,000円・税別）です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "■全国の100円ショップやカタログ通販会社、ホテルチェーンなどの量販店を通じて販売 など",
+    "url": "https://www.ipros.com/cg1/OEM%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "10万円以上～30万円未満",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "30万円以上～50万円未満",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "50万円以上～100万円未満",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "100万円以上～300万円未満",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "300万円以上",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "10万円以上～",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "30万円未満",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "30万円以上～",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "50万円未満",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "50万円以上～",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "100万円未満",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "100万円以上～",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "300万円未満",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "「初期開発費0円」のオーダーメイドシステムを提案",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "OEM加盟金「完全無料”0円”」",
+    "url": "https://www.asteal.co.jp/partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店の紹介で1店舗最大12万円の報酬！「Airレジ オーダー」販売パートナー募集",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の代理店制度では、1店舗あたり最大12万円の紹介手数料を受け取れます",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用10万円未満",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用50万円未満",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用30万円未満",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用100万円未満",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のパートナー制度では、顧客の初期費用と月額費用のそれぞれ10％が報酬として還元されま...",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "1契約で月額11,000円の継続マージン！ストック収益を目指せる！「AI search 極」販売パートナー募集",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "この代理店制度の大きな魅力は、お客様との契約が継続する限り、1契約につき月額11,000円のマージンが発生することです",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、継続契約が5件あれば月額55,000円、10件なら月額110,000円のマージンとなります",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の初期開発費は0円",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "10万円未満",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "30万円未満",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Drag-and-drop ETL",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "No-Code Workflows",
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "pass": 3
+   },
+   {
+    "quote": "Celebrate Japanese heritage with a distinctive Japan logo. Browse professionally designed Japan-inspired templates, customize every detail, and create a memorable brand in minutes.",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Try our logo maker and create a logo in minutes",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Super easy to use",
+    "url": "https://www.logogenie.com/logo-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Someone in Monaco purchased this product 22 minutes ago",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Someone in Monaco purchased this product 17 minutes ago",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Someone in Germany purchased this product 36 minutes ago",
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding",
+    "url": "https://partnerstack.com/glossary/oem-partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Provision APIs in minutes or hours, not weeks.",
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us about the equipment you build and where it is sold. The application call can take less than 15 minutes, and the partner team will follow up with an answer.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコードフロー作成",
+    "url": "https://passwork.prazto.com/use_case_4/",
+    "pass": 3
+   },
+   {
+    "quote": "「操作が簡単なリモコンが欲しい」「電波干渉が少ない無線機が欲しい」などのお悩みはございませんか？自社設計の実績を生かし解決します",
+    "url": "https://www.ipros.com/cg1/OEM%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートの代用に！耐食、耐候、絶縁、メンテナンス性に優れ、持ち運びも簡単",
+    "url": "https://www.ipros.com/cg1/OEM%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "そのツール使えてますか？ファンを作る簡単・低価格のクラウド型ポイント・プリペイドシステム「ミニラボ」",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "毎月のように機能追加をしており、現在では勤怠管理や社会保険の手続きもウェブ上から簡単に損さが完了します",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "お客様は自身のスマートフォンでQRコードを読み取るだけで簡単に注文でき、注文管理から会計までをサポートします",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "「ウェブれる」は、初期費用・更新費無料（年額3万円のみ）で高品質なホームページを誰でも簡単に作成・運用できる画期的なサービスです",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "60秒で簡単に登録できます",
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "pass": 3
+   },
+   {
+    "quote": "簡単・低リスクで始める",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   },
+   {
+    "quote": "紹介パートナーにお願いするのは、見込みのある学習塾への案内と簡単な課題のヒアリング、デモ商談への橋渡しです",
+    "url": "https://b-seeds.com/business/product/aiit",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SaaS サービスのマルチテナントと OEM （ホワイトラベル）を ... — SaaS サービスのマルチテナントと OEM （ホワイトラベル）を ... OPTiM TECH BLOG https://tech-blog.optim.co.jp > entry > 2022/06/23",
+    "url": "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "pass": 3
+   },
+   {
+    "quote": "【 OEM提供 】 SaaS × 他システム連携 - Passwork - Prazto — 【 OEM提供 】 SaaS × 他システム連携 - Passwork - Prazto 株式会社Prazto https://passwork.prazto.com > use_case_4",
+    "url": "https://passwork.prazto.com/use_case_4/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://nihonium.io/best-saas-companies-japan-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f6s.com/companies/saas/japan/co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scalerr.com/japan-market-entry-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madeinjapan.substack.com/p/why-i-think-japanese-saas-is-undervalued-8cc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-dev.com/companies/tags/is-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fideltech.com/servicenow-reseller-partner-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.nihonium.io/services/japan-market-entry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/find-a-business-partner-in-japan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ashisuto.co.jp/english/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stripe.com/resources/more/the-saas-market-in-japan-and-worldwide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embedworkflow.com/blog/what-saas-founders-should-know-about-entering-the-japanese-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/horizon/outlook/software-as-a-service-saas-market/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.nihonium.io/guide/complete-guide-japan-saas-go-to-market-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aggregate.digital/services/customization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.itglue.kaseya.com/help/Content/1-admin/account-administration/custom-ssl-branding.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logogenie.com/logo-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://celerart.com/blog/rebranding-for-saas-and-technology-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/sysadmin/comments/ej062a/company_wants_to_rebrand_which_includes_renaming/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/vwcj32/i_dont_speak_japanese_but_i_created_a_saas_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.disruptingjapan.com/what-you-need-to-know-to-sell-saas-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-automotive-oem-and-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesemfg.com/insights/how-to-source-oem-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appexchangejp.salesforce.com/learn/recruit-oem",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://documentforce.ai/lp-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cano-pus.com/lab/2026/02/10/knowledge-partnersales-007/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thebridge.jp/2023/07/anyflow-embed-official-launch",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerstack.com/glossary/oem-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralaspect.com/posts/oem-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.denodo.com/en/partners/oem-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanitpartners.com/finding-the-right-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sloanreview.mit.edu/article/japanesestyle-partnerships-giving-companies-a-competitive-edge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://luvina.net/winning-strategies-for-saas-market-entry-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aqpartners.jp/blog/global-vs-domestic-accounting-software-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihonium.io/ja/pricing-models-saas-japan-success/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://passwork.prazto.com/use_case_4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmocheki.com/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabel-inc.com/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnersuccess.jp/media/what-is-oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/cg1/OEM%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greentree.co.jp/oempartner/oem-partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebisumart-lite.com/blog/saas-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asteal.co.jp/partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/business/product/aiit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.litmus-jp.com/thought-starters/saas-marketing-strategies-in-japan-what-works",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagase.com/discover/resources/unlock-the-japan-asian-markets-with-nagase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mailmate.jp/blog/bringing-your-saas-business-to-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dxjapan.co.jp/?lang=en",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best Japanese SaaS OEM 2026",
+   "results": [
+    "https://nihonium.io/best-saas-companies-japan-2026/",
+    "https://www.f6s.com/companies/saas/japan/co",
+    "https://scalerr.com/japan-market-entry-saas",
+    "https://www.linkedin.com/pulse/why-japan-still-high-potential-saas-market-many-fail-yuki-asano-ytujc",
+    "https://madeinjapan.substack.com/p/why-i-think-japanese-saas-is-undervalued-8cc",
+    "https://japan-dev.com/companies/tags/is-saas",
+    "https://www.youtube.com/watch?v=k2a5p-gM_L8",
+    "https://www.grandviewresearch.com/horizon/outlook/software-as-a-service-saas-market/japan",
+    "https://wellfound.com/startups/l/tokyo/saas"
+   ]
+  },
+  {
+   "query": "Japanese SaaS OEM reseller program agencies",
+   "results": [
+    "https://www.fideltech.com/servicenow-reseller-partner-japan/",
+    "https://resources.nihonium.io/services/japan-market-entry",
+    "https://www.jetro.go.jp/usa/investinjapan/find-a-business-partner-in-japan.html",
+    "https://www.ashisuto.co.jp/english/partner/",
+    "https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/",
+    "https://revenuebase.ai/companies/enterprise-software-resellers/japan",
+    "https://www.youtube.com/watch?v=k2a5p-gM_L8",
+    "https://www.01growth.com/en/post/cracking-saas-success-japan",
+    "https://ycp.com/lp/japan-business-partner-search-consulting",
+    "https://japanitpartners.com/"
+   ]
+  },
+  {
+   "query": "Japanese SaaS OEM free trial pricing",
+   "results": [
+    "https://stripe.com/resources/more/the-saas-market-in-japan-and-worldwide",
+    "https://embedworkflow.com/blog/what-saas-founders-should-know-about-entering-the-japanese-market/",
+    "https://scalerr.com/japan-market-entry-saas",
+    "https://www.grandviewresearch.com/horizon/outlook/software-as-a-service-saas-market/japan",
+    "https://resources.nihonium.io/guide/complete-guide-japan-saas-go-to-market-strategy",
+    "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "https://blog.invgate.com/help-desk-software-japan",
+    "https://www.youtube.com/watch?v=1wElP5N6QgY",
+    "https://multiples.vc/largest-horizontal-saas-public-comps-in-japan",
+    "https://hirakilocalization.com/insight-japanese-saas-free-trial-demo-flow"
+   ]
+  },
+  {
+   "query": "Japanese SaaS OEM rebrand your logo custom domain",
+   "results": [
+    "https://aggregate.digital/services/customization.html",
+    "https://help.itglue.kaseya.com/help/Content/1-admin/account-administration/custom-ssl-branding.html",
+    "https://www.logogenie.com/logo-japan",
+    "https://celerart.com/blog/rebranding-for-saas-and-technology-companies",
+    "https://www.reddit.com/r/sysadmin/comments/ej062a/company_wants_to_rebrand_which_includes_renaming/",
+    "https://rebrand.com/author/anaezi/",
+    "https://conversionfactory.co/services/saas-branding-agency",
+    "https://custom-media.com/what-we-do/branding/",
+    "https://www.ninjaone.com/docs/administration/branding/branding-customization/",
+    "https://fineartdesign.agency/branding-and-rebranding-japan/"
+   ]
+  },
+  {
+   "query": "Japanese SaaS OEM Japan Japanese",
+   "results": [
+    "https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP",
+    "https://www.reddit.com/r/SaaS/comments/vwcj32/i_dont_speak_japanese_but_i_created_a_saas_in/",
+    "https://www.youtube.com/watch?v=k2a5p-gM_L8",
+    "https://madeinjapan.substack.com/p/why-i-think-japanese-saas-is-undervalued-8cc",
+    "https://www.disruptingjapan.com/what-you-need-to-know-to-sell-saas-in-japan/",
+    "https://www.trade.gov/market-intelligence/japan-automotive-oem-and-parts",
+    "https://japanesemfg.com/insights/how-to-source-oem-parts/",
+    "https://www.linkedin.com/pulse/why-japan-still-high-potential-saas-market-many-fail-yuki-asano-ytujc",
+    "https://embedworkflow.com/blog/what-saas-founders-should-know-about-entering-the-japanese-market/",
+    "https://www.f6s.com/companies/saas/japan/co"
+   ]
+  },
+  {
+   "query": "OEM提供SaaS（日本の提供会社） 日本",
+   "results": [
+    "https://appexchangejp.salesforce.com/learn/recruit-oem",
+    "https://documentforce.ai/lp-oem/",
+    "https://cano-pus.com/lab/2026/02/10/knowledge-partnersales-007/",
+    "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "https://thebridge.jp/2023/07/anyflow-embed-official-launch",
+    "https://mono.ipros.com/cg2/OEM%E7%94%9F%E7%94%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://news.mynavi.jp/techplus/article/20091216-a012/",
+    "https://partnersuccess.jp/media/what-is-oem",
+    "https://www.synapse-i.jp/news/cdata_um_20231207/",
+    "https://www.saaspresto.jp/"
+   ]
+  },
+  {
+   "query": "Japanese SaaS OEM OEM partnership",
+   "results": [
+    "https://partnerstack.com/glossary/oem-partnerships",
+    "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "https://www.neuralaspect.com/posts/oem-partnerships",
+    "https://www.denodo.com/en/partners/oem-partners",
+    "https://japanitpartners.com/finding-the-right-partner/",
+    "https://www.reddit.com/r/SaaS/comments/vwcj32/i_dont_speak_japanese_but_i_created_a_saas_in/",
+    "https://sloanreview.mit.edu/article/japanesestyle-partnerships-giving-companies-a-competitive-edge/",
+    "https://resources.nihonium.io/glossary/systems-integrator-sier",
+    "https://www.youtube.com/watch?v=k2a5p-gM_L8",
+    "https://japanese.opswat.com/blog/oem-partnerships"
+   ]
+  },
+  {
+   "query": "Japanese SaaS OEM partner program pricing",
+   "results": [
+    "https://resources.nihonium.io/services/japan-market-entry",
+    "https://scalerr.com/japan-market-entry-saas",
+    "https://luvina.net/winning-strategies-for-saas-market-entry-in-japan/",
+    "https://www.youtube.com/watch?v=k2a5p-gM_L8",
+    "https://www.aqpartners.jp/blog/global-vs-domestic-accounting-software-japan",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://embedworkflow.com/blog/what-saas-founders-should-know-about-entering-the-japanese-market/",
+    "https://www.reddit.com/r/SaaS/comments/vwcj32/i_dont_speak_japanese_but_i_created_a_saas_in/",
+    "https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216",
+    "https://nihonium.io/ja/pricing-models-saas-japan-success/"
+   ]
+  },
+  {
+   "query": "OEM提供SaaS（日本の提供会社） OEM提供",
+   "results": [
+    "https://cano-pus.com/lab/2026/02/10/knowledge-partnersales-007/",
+    "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "https://documentforce.ai/lp-oem/",
+    "https://appexchangejp.salesforce.com/learn/recruit-oem",
+    "https://passwork.prazto.com/use_case_4/",
+    "https://llmocheki.com/whitelabel",
+    "https://www.whitelabel-inc.com/oem",
+    "https://thebridge.jp/2023/07/anyflow-embed-official-launch",
+    "https://partnersuccess.jp/media/what-is-oem",
+    "https://www.ipros.com/cg1/OEMサービス/"
+   ]
+  },
+  {
+   "query": "OEM提供SaaS（日本の提供会社） 代理店募集",
+   "results": [
+    "https://www.greentree.co.jp/oempartner/oem-partner.html",
+    "https://dairitenboshu.com/search/categorysub_103",
+    "https://ebisumart-lite.com/blog/saas-list/",
+    "https://www.asteal.co.jp/partner.html",
+    "https://b-seeds.com/business/product/aiit",
+    "https://itsuki-inc.net/cloud-wifi-partner/",
+    "https://prtimes.jp/topics/keywords/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E5%8B%9F%E9%9B%86",
+    "https://meo-analytics.com/partner/",
+    "https://smafac.net/sales_partner/",
+    "https://www.takerobo.co.jp/seeking_partners.html"
+   ]
+  },
+  {
+   "query": "Japanese SaaS OEM distributor Japan",
+   "results": [
+    "https://www.youtube.com/watch?v=k2a5p-gM_L8",
+    "https://www.reddit.com/r/SaaS/comments/vwcj32/i_dont_speak_japanese_but_i_created_a_saas_in/",
+    "https://embedworkflow.com/blog/what-saas-founders-should-know-about-entering-the-japanese-market/",
+    "https://www.litmus-jp.com/thought-starters/saas-marketing-strategies-in-japan-what-works",
+    "https://japan-dev.com/companies/tags/is-saas",
+    "https://nihonium.io/best-saas-companies-japan-2026/",
+    "https://www.nagase.com/discover/resources/unlock-the-japan-asian-markets-with-nagase",
+    "https://mailmate.jp/blog/bringing-your-saas-business-to-japan",
+    "https://madeinjapan.substack.com/p/why-i-think-japanese-saas-is-undervalued-8cc",
+    "https://www.f6s.com/companies/saas/japan/co"
+   ]
+  }
+ ],
+ "missing": {}
+}

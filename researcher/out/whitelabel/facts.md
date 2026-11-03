@@ -1,4 +1,4 @@
-# ホワイトラベルで担げるソフト・AIソフト（無料体験・30分で分かるもの優先）（事実のみ・39品目）
+# ホワイトラベルで担げるソフト・AIソフト（無料体験・30分で分かるもの優先）（事実のみ・48品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3310,6 +3310,121 @@
   - 「How Much Does Inventory Management Software Cost in 2026? — How Much Does Inventory Management Software Cost in 2026? inFlow Inventory https://www.inflowinventory.com > i...」（https://www.inflowinventory.com/blog/inventory-management-software-cost/）
   - 「How Much Does Inventory Management Software Cost in 2026? — How Much Does Inventory Management Software Cost in 2026? ERP Software Blog https://erpsoftwareblog.com > 2026/07」（https://erpsoftwareblog.com/2026/07/inventory-management-software-cost/）
 
+## ホワイトラベルAI画像検査（white label AI visual inspection）
+- 文脈：製造業・検査
+- 提供企業：
+  - 「Managed Service Providers」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Audit readiness requires timestamped, tamper-evident records. Confirm how the platform stores inspection history and whether that history is exportable for compliance reviews.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「For operations buyers who have struggled with inspection data that never makes it back to a central system, this matters. The platform is built so that the person filling out the form in the field and the manager reviewing asset history in the back office are working from the same record, not two separate systems that need to be reconciled later.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Are inspection records timestamped and stored in a way that supports compliance review?」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Alternatives & Best-Of」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Asset Panda vs Cheqroom | 2026 Comparison Guide」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Telecom & Internet Providers」（https://blitzz.co/inspect-pricing）
+  - 「Private Providers」（https://blitzz.co/inspect-pricing）
+  - 「Tailored pricing for government agencies and inspection providers」（https://blitzz.co/inspect-pricing）
+  - 「Blitzz video platform enables our team to quickly review training facilities, even in remote areas, supporting accreditation and provider monitoring. Virtual site visits accelerate processes and improve efficiency for SETA.」（https://blitzz.co/inspect-pricing）
+  - 「Security questionnaires, custom legal review / custom MSA」（https://blitzz.co/inspect-pricing）
+  - 「Review workflows & insights」（https://humansignal.com/pricing/）
+  - 「Assign roles (Owner, Admin, Manager, Reviewer, Annotator) and granular permissions.」（https://humansignal.com/pricing/）
+  - 「Review and verify other users' annotation and prediction results.」（https://humansignal.com/pricing/）
+  - 「Assign Reviewer」（https://humansignal.com/pricing/）
+- 自社名で出せる条件：
+  - 「Automotive OEMs & Dealerships」（https://blitzz.co/inspect-pricing）
+  - 「White-label branding options」（https://blitzz.co/inspect-pricing）
+  - 「White labeling and branding」（https://blitzz.co/inspect-pricing）
+  - 「Custom domain URL using host mapping (e.g. support.acme.com)」（https://blitzz.co/inspect-pricing）
+  - 「Can I rebrand the app theme?」（https://blitzz.co/inspect-pricing）
+  - 「Yes! You can adjust colors and themes to match whatever your brand requires.」（https://blitzz.co/inspect-pricing）
+  - 「Yes, you'll be able to use your own domain (Eg, video.acme.com). Custom domains are available on our」（https://blitzz.co/inspect-pricing）
+  - 「WHITE LABELING AND BRANDING」（https://blitzz.co/inspect-pricing）
+  - 「Custom domains are available on our」（https://blitzz.co/inspect-pricing）
+  - 「OEM Telematics」（https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide）
+  - 「協業・パートナー募集｜AI画像検査のOEM・共同開発｜Nsight」（https://www.nsight.jp/partners/）
+  - 「Nsightは、AI画像検査（多品種外観検査・ラベル文字認識・カウント）を軸に、技術パートナー・ハード×ソフト連携・OEM／技術ライセンス・販売代理店の4つの形態で協業を受け付けているAI画像検査スタートアップです」（https://www.nsight.jp/partners/）
+  - 「ソフトウェアのOEM提供にも対応」（https://www.nsight.jp/partners/）
+  - 「OEM・技術ライセンス」（https://www.nsight.jp/partners/）
+  - 「技術パートナーの場合は案件ごとの受託費用、OEMの場合はライセンス費用が発生します」（https://www.nsight.jp/partners/）
+- 再販制度：
+  - 「Find a reseller or join our partner program.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Collaborative markup on photos」（https://blitzz.co/inspect-pricing）
+  - 「Save photos and their markups」（https://blitzz.co/inspect-pricing）
+  - 「Collaborative pointer & markup on screen share」（https://blitzz.co/inspect-pricing）
+  - 「Preferred Partner Program」（https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/）
+  - 「Partner Program」（https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/）
+  - 「Become a Reseller」（https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/）
+  - 「Nsightは、AI画像検査（多品種外観検査・ラベル文字認識・カウント）を軸に、技術パートナー・ハード×ソフト連携・OEM／技術ライセンス・販売代理店の4つの形態で協業を受け付けているAI画像検査スタートアップです」（https://www.nsight.jp/partners/）
+  - 「販売代理店・紹介パートナー」（https://www.nsight.jp/partners/）
+  - 「商社・販売代理店向け」（https://www.nsight.jp/partners/）
+  - 「商社・販売代理店」（https://www.nsight.jp/partners/）
+  - 「販売代理店の場合は初期費用なしで、成約時に手数料をお支払いする形です」（https://www.nsight.jp/partners/）
+  - 「The AI vision inspection market is not one market — it is four, layered on top of each other. Understanding which segment your investment lands in is often more important than the total spend, because growth rates and margin structures differ sharply across them.」（https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr）
+  - 「Foreign-object detection, seal integrity, label verification, and portion consistency are all under pressure from tightening safety regulations and private-label margins.」（https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr）
+  - 「Pharma Pulse: GoodRx Opens Employer GLP-1 Channel, Lilly Fends Off Novo Ad Challenge, PCMA Takes Aim at Wholesalers」（https://www.pharmaceuticalcommerce.com/view/antares-vision-group-debuts-ai-powered-visual-inspection-platform）
+- 無料体験・貸出：
+  - 「Industrial」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Try for Free」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Field Eagle is built for organizations that conduct recurring inspections of physical infrastructure, including utilities, facilities, and industrial equipment.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Utilities, facilities, and industrial operations teams managing recurring inspection programs with compliance reporting requirements.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Start free trial」（https://blitzz.co/inspect-pricing）
+  - 「14-days Free Trial」（https://blitzz.co/inspect-pricing）
+  - 「Yes, Blitzz is a subscription-based service, which means that your plan renews every month or year (depending on the term you choose). You can cancel your subscription at any time during your plan term to cancel the auto-renewal of your subscription. We also offer a 14-day free trial. You're in good hands. :)」（https://blitzz.co/inspect-pricing）
+  - 「14-Days Free Trial, Contact us for usage-based pricing」（https://blitzz.co/inspect-pricing）
+  - 「We also offer a 14-day free trial. You’re in good hands. :)」（https://blitzz.co/inspect-pricing）
+  - 「Experience the future of business resilience with Oxipital AI technology, now available with a risk-free trial. In a sea of AI solutions, choosing the right one can be overwhelming. That’s why we’re committed to offering you a no-obligation trial to see how our AI can enhance your business. Try Oxipital AI today and take the first step toward a stronger, more adaptive future.」（https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/）
+  - 「Start free trial」（https://humansignal.com/pricing/）
+  - 「Free trial」（https://humansignal.com/pricing/）
+  - 「NTN launches Condition Monitoring System for early fault detection in industrial equipment」（https://seisanzai-japan.com/article/p6316/）
+  - 「Login / Start for Free」（https://landing.ai/industries/medical-and-pharmaceutical）
+  - 「Start for Free」（https://landing.ai/industries/medical-and-pharmaceutical）
+- 価格：
+  - 「– Over $500,000 in projected savings over five years by replacing manual quality control roles with Oxipital AI’s OX system.」（https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/）
+  - 「$99 per month」（https://humansignal.com/pricing/）
+  - 「$49 per month for each additional user」（https://humansignal.com/pricing/）
+  - 「Plans starting at $99/users/mo」（https://humansignal.com/pricing/）
+  - 「Dollar General, then receiving an OSHA fine totaling over $400,000」（https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/）
+  - 「nearly $1 trillion in revenue」（https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/）
+  - 「The AI Vision Inspection Market in 2026: $32B and Growing at 23% CAGR」（https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr）
+  - 「$32.66B」（https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr）
+  - 「Jetson-class edge GPUs deliver inference at price points that made no economic sense pre-2023. Every station now viable as an edge node.」（https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr）
+  - 「Book a 30-minute strategy session with iFactory. Share your current inspection footprint and top three quality pain points; leave with a phased roadmap, sector benchmarks, and a fixed-price pilot proposal aligned to your capex cycle.」（https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr）
+  - 「The AI Industrial Defect Detection Market: $2.7B in 2025, Growing at 8.6% CAGR」（https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr）
+- 日本対応：
+  - 「Localization & Multilingual」（https://humansignal.com/pricing/）
+  - 「MENOU launches robot-assisted visual inspection system for complex-shaped products | Industry and Manufacturing News Archive | SEISANZAI Japan」（https://seisanzai-japan.com/article/p6316/）
+  - 「Japanese Cutting-Edge」（https://seisanzai-japan.com/article/p6316/）
+  - 「SEISANZAI Japan」（https://seisanzai-japan.com/article/p6316/）
+  - 「Epson Sales Japan launches “LS4-C” SCARA robot with cycle time reduced by up to 20%」（https://seisanzai-japan.com/article/p6316/）
+  - 「Japanʼs Machine Tool Order」（https://seisanzai-japan.com/article/p6316/）
+  - 「Source : Japan Machine Tool Builderʼs Association」（https://seisanzai-japan.com/article/p6316/）
+  - 「Japan machine tool orders total JPY 223.2 billion in September 2026, with total orders and foreign orders both setting new all-time highs」（https://seisanzai-japan.com/article/p6316/）
+  - 「Japan’s machine tool order outlook 2026: JPY 1.7 trillion forecast despite growing risks」（https://seisanzai-japan.com/article/p6316/）
+  - 「SEISANZAIJapan」（https://seisanzai-japan.com/article/p6316/）
+  - 「About SEISANZAI Japan」（https://seisanzai-japan.com/article/p6316/）
+  - 「© 2018 SEISANZAI Japan」（https://seisanzai-japan.com/article/p6316/）
+  - 「賞味期限・ロット番号・産地情報等の日本語テキストを読み取り、マスターデータと照合」（https://www.nsight.jp/services/ai-inspection/）
+  - 「日本語・英語・中国語での対応が可能です」（https://www.nsight.jp/partners/）
+  - 「Fastest CAGR — China, Japan, South Korea, India」（https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr）
+- 使いやすさ：
+  - 「The platform supports drag-and-drop form building, photo capture within forms, and offline data collection. Teams that already use QuickBase for operations management may find the integration straightforward.」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「Drag-and-drop mobile form builder」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「A total call duration of up to 60 minutes counts as 1 credit within a unique session. If calls are recorded, every 60 minutes counts as 1.25 credits.」（https://blitzz.co/inspect-pricing）
+  - 「Yes, all sessions automatically expire 30 minutes after any inactivity. If you would like to schedule a call in advance for a specific period of time, you could use the Call Scheduling feature. Call Scheduling is available on our」（https://blitzz.co/inspect-pricing）
+  - 「Yes, all sessions automatically expire 30 minutes after any inactivity. If you would like to schedule a call in advance for a specific period of time, you could use the Call Scheduling feature.」（https://blitzz.co/inspect-pricing）
+  - 「V-CORTX is designed to have an immediate impact and require no code, no DIY, and no machine learning expertise to deploy into production. User-friendly, web-based setup tools and dashboards make AI more accessible, leaving your business with insights you can act on right now.」（https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/）
+  - 「Users maintain control of the operation through a robust set of no-code tools allowing for the creation of human-readable rules allowing for rapid testing, iteration, and highly reliable deployments.」（https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/）
+  - 「At Oxipital AI we have taken the complexity out of deploying AI for machine vision. Our solution comes ready to use out of the box with pre-trained object models and a set of no-code application builder tools. With Oxipital AI, anyone can deploy and AI-enabled machine vision application.」（https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/）
+  - 「Dedicated customer success manager to support onboarding, education, and escalations. Early access and ability to provide feedback on the product roadmap.」（https://humansignal.com/pricing/）
+  - 「An automotive supplier implemented AI-driven weld seam measurement to analyse results in real time. The system reduces inspection time from minutes to seconds, ensuring precise seam quality while increasing production speed and efficiency.」（https://www.gft.com/us/en/solutions/visual-inspection）
+  - 「学習データがあればノーコードでも可能」（https://www.future-artisan.co.jp/column/SearchMaru_image_inspection）
+  - 「ノーコード設定・シンプルな操作画面により、現場のオペレーターでも容易に運用可能です」（https://www.future-artisan.co.jp/column/SearchMaru_image_inspection）
+  - 「また、CKDは①②のどちらにも属さないビジュアルプログラミング型のノーコードツール「Facilea」を提供しており、プログラミングの知識がなくても画像検査システムを構築できる選択肢として注目されています」（https://www.ckd.co.jp/kiki/jp/column/column_121.html）
+  - 「②ノーコード・ビジュアルプログラミングなど、専門知識がなくても設定・調整できるUI/UXを備えているかどうかも重要な選定基準となるでしょう」（https://www.ckd.co.jp/kiki/jp/column/column_121.html）
+  - 「Better training and onboarding with Digital Mentors」（https://www.ptc.com/en/technologies/augmented-reality/inspection/visual-inspection?srsltid=AYCX9vKN6brJJ2M5plZV81qR3S7zEtJWx3wQFKzZgiK9UwiSBiEbI0Il）
+- 検索結果の抜粋：
+  - 「9 Best AI Visual Inspection Software of 2026 - Asset Panda — 9 Best AI Visual Inspection Software of 2026 - Asset Panda Asset Panda https://www.assetpanda.com > compare」（https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/）
+  - 「AI を有効活用した外観 検査 で“三現主義”を拡張 — AI を有効活用した外観 検査 で“三現主義”を拡張 ものづくり ワールド https://www.manufacturing-world.jp > blog > article22」（https://www.manufacturing-world.jp/hub/ja-jp/blog/article22.html）
+  - 「AI Visual Inspection in Manufacturing: 2026 Guide — AI Visual Inspection in Manufacturing: 2026 Guide iFactory AI https://ifactoryapp.com > ai-visual-ins...」（https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide）
+
 ## ホワイトラベル製品コンフィギュレーター（CPQ）（white label CPQ manufacturing）
 - 文脈：製造業・営業
 - 提供企業：
@@ -3641,6 +3756,110 @@
   - 「ソフト ( 3dスキャン ) - メーカー・企業と製品の一覧 | イプロス — ソフト ( 3dスキャン ) - メーカー・企業と製品の一覧 | イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > ソフト > 3dスキャン」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
   - 「保存版】本当は教えたくない！無料で使える 3Dスキャン 後 ... — 保存版】本当は教えたくない！無料で使える 3Dスキャン 後 ... 株式会社Seed3D https://www.seed3d.net > post > 【2025年度-保存版】本...」（https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89）
 
+## ホワイトラベルCAE・シミュレーション（OEM）（OEM simulation software）
+- 文脈：製造業・設計
+- 提供企業：
+  - 「O = Adequate (exploration-grade) means the output is accurate enough to guide design decisions — to rank alternatives, identify failure modes, and narrow the design space — but is not intended to serve as a regulatory deliverable. AI surrogates, cloud-native platforms, and ROMs operate at this fidelity. The critical insight is that exploration-grade fidelity is」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Certified validation-grade vs. exploration-grade surrogate —」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「V=2 reflects limited AI surrogate or ROM capability compared to platforms that have invested earlier in the velocity layer」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「— Simulation output produced by a validated solver with documentation acceptable for regulatory submission, contractual deliverable, or certification authority review. O = High in the SOLVE framework.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Digital Thread vs Twin」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「PLM vs PDM」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Robot simulation vs. robot programming: two different things」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「PLC validation vs. virtual commissioning」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「Lower-cost alternatives」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「Reseller program for industrial IoT solution providers」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「The SensFlo Reseller program is a resale arrangement for systems integrators, automation companies and solution providers that want SensFlo inside their own client offering. Resellers sell SensFlo solutions from」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Compare this program vs others」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Managed Service Providers」（https://aggregate.digital/services/customization.html）
+  - 「Connect Claude, Cursor or VS Code」（https://inproqu.com/branding-custom-domain/）
+  - 「InProQu vs AI tools」（https://inproqu.com/branding-custom-domain/）
+- 自社名で出せる条件：
+  - 「Aerospace primes (Boeing, Airbus, Lockheed Martin), tier-1 automotive suppliers, semiconductor companies (Intel, TSMC tool qualification), medical device OEMs requiring FDA simulation validation documentation.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Automotive OEMs (non-linear material behavior in body structures, seating, and sealing systems), aerospace composite structural analysis, medical device fatigue analysis where non-linear material response determines failure.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Structural optimization depth — OptiStruct's topology, topography, and size optimization capabilities are production-proven at automotive OEMs where mass reduction is a primary design KPI」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Automotive OEMs (BMW, Daimler, Ford lightweight body programs), aerospace bracket and secondary structure programs, defense antenna placement.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Automotive OEMs and tier-1 suppliers for vehicle dynamics programs, aerospace primes for acoustic and vibro-acoustic certification, heavy equipment manufacturers for mechanism and durability analysis.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Automotive OEM aerodynamics programs, aerospace external aero programs, commercial HVAC simulation programs seeking to move compute off on-premises HPC clusters.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Tier-1 automotive suppliers and OEMs with established CFD programs (existing validated solver history as training data), aerospace design exploration programs, consumer product programs with high geometry variation between designs.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「We evaluated 14 simulation tools across nine feature categories using publicly available vendor documentation, direct platform testing, and market research. The full dataset covers pricing tiers, supported modules, robot library breadth, PLC protocol support, API languages, CAD import formats, OEM capabilities, and trial availability.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「OEM/whitelabeling」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「OEM and whitelabeling」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「Visual Components is one of the only tools in this space offering OEM and whitelabeling capability. Partners can brand the platform under their own name and color scheme, or build genuinely differentiated products on top of Visual Components technology.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「3. OEM/whitelabeling is exclusive to Visual Components.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「All major platforms offer some API capability. Visual Components offers Python and .NET (including C#) APIs, used both for customer customization and by OEM partners building differentiated products.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「OEM/partner customization and whitelabeling」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「For teams that need layout planning, material flow, robot programming, PLC validation, and virtual commissioning in one environment, the data points clearly to Visual Components. It covers more of those capabilities at a competitive price point, offers the only OEM/whitelabeling model in the comparison, and provides a trial that lets you verify fit before committing.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+- 再販制度：
+  - 「Simulation-derived predictions (fatigue life remaining, thermal margin, structural health) inform operational decisions」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Reseller Program for Industrial IoT Software | SensFlo」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Partner Programs」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Reseller」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Resale margin」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Reseller program for industrial IoT solution providers」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「The SensFlo Reseller program lets certified partners sell and deploy SensFlo inside their own client solutions. You earn a margin on every sale and can co-brand or white-label the platform.」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Reseller partner program?」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「The SensFlo Reseller program is a resale arrangement for systems integrators, automation companies and solution providers that want SensFlo inside their own client offering. Resellers sell SensFlo solutions from」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「, and keep a margin on each sale.」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Because resellers deploy SensFlo for their clients, their architects and engineers complete SensFlo certification before the first engagement. Tier 1 client support is optional, and resellers who take it on certify their engineers to handle first-line questions. Companies that want to build SensFlo into their own hardware should look at the」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Reseller partners earn?」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Resellers earn a margin on every SensFlo solution they sell, and deal registration protects the opportunities you bring in.」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Margin on every sale」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「and earn a resale margin on each deployment.」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+- 無料体験・貸出：
+  - 「Reduced-order models for industrial asset digital twins」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「MAGMASOFT's Virtual Design of Experiments workflow allows process parameter optimization (gate design, cooling channel placement, pour temperature) without running physical trials」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Foundries supplying automotive, aerospace, and industrial equipment programs; HPDC programs for aluminum and magnesium structural components; investment casting for turbine blades and aerospace brackets.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Industrial programs with standard structural or CFD requirements find Ansys, Simcenter, or Abaqus faster and more cost-efficient for mainstream analysis types — COMSOL's equation-level flexibility is a strength only when standard solvers cannot address the physics」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Universities and research institutes, medical device R&D programs (bioelectromagnetics, drug delivery, implant heating), industrial R&D departments (electrochemical processing, non-standard material behavior, novel thermal systems).」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Akselos — Reduced-Order Models for Industrial Digital Twins」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Structural digital twins of large industrial assets — offshore platforms, wind turbine structures, bridges, storage tanks, large pressure vessels — where real-time structural health monitoring requires simulation-derived predictions against live sensor data at operational timescales.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「— PULSE framework · industrial connectivity, unified namespace, edge, historian」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「— An industrial data architecture pattern in which all systems publish and subscribe to a shared namespace of operational events. For simulation buyers, UNS compatibility in the E layer determines whether simulation-derived predictions can flow into operational systems (MES, analytics, maintenance) without custom integration.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Industrial automation」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「This comparison is grounded in a structured benchmarking project covering 14 manufacturing simulation tools. We analyzed pricing, module coverage, robot support, PLC connectivity, CAD import, API capabilities, collaboration features, and trial availability.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「We evaluated 14 simulation tools across nine feature categories using publicly available vendor documentation, direct platform testing, and market research. The full dataset covers pricing tiers, supported modules, robot library breadth, PLC protocol support, API languages, CAD import formats, OEM capabilities, and trial availability.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「Trial available」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「is about modeling robot motion and behavior in a layout. Visual Components ships with 2,350+ ready-to-use robot models — industrial robots, collaborative robots, autonomous mobile robots, and mobile robots for intralogistics. If you need to place a robot in a cell and see whether it reaches, cycles, and fits, the library covers almost anything you will encounter.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「Trial availability」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+- 価格：
+  - 「— $115M raised; former OpenFOAM contributors; targeting enterprise CFD programs that run on costly on-premises HPC clusters.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「— $100M Goldman Sachs investment; commercial automotive aerodynamics deployments verified; geometry-to-result in seconds with sufficient accuracy for design exploration confirmed by disclosed customer programs.」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「Cloud-native enterprise CFD — former OpenFOAM contributors, $115M raised」（https://www.demystifyingplm.com/best-simulation-software-2026）
+  - 「This comparison is grounded in a structured benchmarking project covering 14 manufacturing simulation tools. We analyzed pricing, module coverage, robot support, PLC connectivity, CAD import, API capabilities, collaboration features, and trial availability.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「We evaluated 14 simulation tools across nine feature categories using publicly available vendor documentation, direct platform testing, and market research. The full dataset covers pricing tiers, supported modules, robot library breadth, PLC protocol support, API languages, CAD import formats, OEM capabilities, and trial availability.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「€13,000 (Premium simulation); OLP sold separately as Premium OLP」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「€20,000+」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「€5,000–8,000」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「4. Pricing varies widely — and module scope matters.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「One pricing note worth repeating: the €13,000/year figure covers Visual Components Premium simulation. Robot offline programming is a separate product line (Premium OLP) at a higher price point. If OLP is in your scope, build that into your evaluation.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「Both cover the full five-module scope. Visual Components is approximately €9,000/year less expensive at comparable feature levels, does not require additional product dependencies, and is the only option offering OEM/whitelabeling. Enterprise platforms have deeper PLM integration and longer-established use in automotive manufacturing.」（https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/）
+  - 「価格：100万円 ~ 500万円」（https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/）
+  - 「月額固定金額のS3互換ストレージ」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「国内クラウド市場は2028年に16兆円超への成長が予測され、ビジネスチャンスは拡大中」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「IDC Japanが2024年6月に発表した報告によると、2023年の国内クラウド市場は売上額ベースで前年比29.6％増の7兆8,250億円でした」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+- 日本対応：
+  - 「「Intersect 26: Japan」の舞台裏 | Applied Intuition」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「「Intersect 26: Japan」の舞台裏：日本向けに開発されたフィジカルAI」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「2026年6月に開催されたこのイベントでは、Applied Intuition が、国内の自動車、トラック輸送、産業分野においてフィジカル AI 分野で発揮する実力を披露するとともに、SDS の日本への事業拡大が発表されました」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「日本ほど、現代の産業の発展に大きな影響を与えてきた国は多くありません」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「日本の自動車メーカーや産業機械メーカー、そしてさまざまな製造業関連企業は、長年にわたりエンジニアリング、品質、そして継続的改善の分野で世界的な基準を築いてきました」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「乗用車や商用トラックをはじめ、建設機械、鉱山機械、さらには工場自動化システムに至るまで、日本の OEM 各社は世界でも屈指の高度な物理システムを生み出してきました」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「こうした背景から、日本こそが「Intersect 26: Japan」の開催地としてふさわしい場所となりました」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「先週、東京の大手町三井ホールで開催された本イベントでは、先進的なソフトウェア、人工知能、そして日本の深いエンジニアリングの専門知識が交差する中で、新世代のインテリジェントマシンがどのように台頭しつつあるかが探求されました」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「その戦略が最も顕著に表れたのが、この日の最大の発表である「日本向け SDS 」のローンチでした」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「日本は世界でも有数の自動車市場であると同時に、自動運転技術にとって最も難易度の高い環境の一つでもあります」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「Applied Intuition が北米および欧州に続き、わずか1年足らずで日本市場向け SDS の提供を開始したことは、同社のプラットフォームが持つ柔軟性と、市場ごとにゼロから作り直すことなくグローバルに展開できる拡張性を示しています」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「日本車EV車両で、Applied IntuitionのVehicle OS 上にAI機能を実装したコックピット空間のデモ体験するIntersect 参加者」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「Applied Intuition はこれまで、日本の主要な乗用車メーカーや商用車メーカーと緊密に連携しながら、国内のエンジニアリング体制の強化を進めてきました」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「こうした取り組みの目的は、日本の自動車メーカーが自動運転技術をより迅速かつ効率的に市場へ展開できるよう支援することにあります」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+  - 「狭い生活道路や複雑な交差点、左側通行といった日本特有の交通環境にも対応できるよう設計されており、日本市場に求められる高いレベルの走行性能を実現しています」（https://www.appliedintuition.com/ja/blog/intersect-japan-2026）
+- 使いやすさ：
+  - 「Tell us about the equipment you build and where it is sold. The application call can take less than 15 minutes, and the partner team will follow up with an answer.」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「モデルでも簡単にふく射の設定を行うことができます」（https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/）
+  - 「ボクセルによる有限要素解析は、操作が簡単でなおかつ高速で人的コストが」（https://www.ipros.com/cg2/CAE%E8%A7%A3%E6%9E%90%E3%82%BD%E3%83%95%E3%83%88/）
+  - 「Tell us about the equipment you build and where it is sold. The application call can take less than 15 minutes, and the partner team will follow up with an answer.」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+
 ## ホワイトラベル生成設計・設計AI（OEM）（OEM generative design software）
 - 文脈：製造業・設計
 - 提供企業：
@@ -3863,3 +4082,773 @@
   - 「No-code」（https://www.knack.com/blog/oem-partner-portals-no-code/）
 - 検索結果の抜粋：
   - 「第25回 調達 戦略に生かされない サプライヤー 評価 — 第25回 調達 戦略に生かされない サプライヤー 評価 jmac.co.jp https://www.jmac.co.jp > コラム」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_25.html）
+
+## ホワイトラベル製造業マーケットプレイス（white label manufacturing marketplace）
+- 文脈：製造業・受発注
+- 提供企業：
+  - 「The 14 Best White Label Products To Sell in 2024」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「14 best white label products to sell in 2024.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「14 Best White Label Products to Sell in 2024」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「Making a name for yourself isn’t easy in the incredibly competitive digital marketing space. Fortunately, a white label marketing tool can give you a significant edge over your competitors. Depending on your marketing niche, here are some of the best white label digital marketing tools to consider:」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「White label website builders are some of the best white label digital products to sell. As a web agency or freelancer that builds websites for clients, using third-party platforms like Shopify won’t cut it if you want to」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「, Brizy ensures you’ll have a considerable advantage over your competitors. This allows your customers to create usable websites with simple natural language prompts – all under 30 seconds. This makes it one of the best white label SaaS products in the market.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「Tons of live chat software providers have white label options. These include」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「If you want to venture into the clothing industry, white label apparel is available to brand and sell as your own. White label clothing providers offer print-on-demand services for shirts, sweatshirts, hoodies, sweatpants, and other types of clothing.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「You should assess the quality of the product before going to market. If possible ask for a sample you can evaluate, if not, look at what others say about the product from reviews and ratings. For controlled products like foodstuffs and CBD products check to see if they are approved by the respective regulatory body (for instance, the FDA).」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「In this article, we’ve covered some of the best white label business ideas to get you started. You can pick one that aligns with your brand, dive into more research to iron out the logistics and go to market once you sort everything out.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「B2B marketplaces such as Alibaba and Tradekey are great places to find reliable suppliers of white label products. You can also source these products from other sellers online but be sure to check reviews and ratings, the types of materials they use, and whether they comply with the respective regulators.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「These are pre-built online tools (usually software apps) that you can purchase online and resell under your own brand name. The Brizy White Label Website Builder, one of the best white label SaaS products, is one such example.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「BRIZY vs. COMPETITORS」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「Reviews」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Some platforms like Rakuten Japan, Yahoo Shopping Japan, and Amazon Japan are home to thousands of official brand stores, specialty retailers, and independent sellers. They're useful for ordering samples, testing new products, or finding limited-edition and Japan-only items before committing to larger purchases.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+- 自社名で出せる条件：
+  - 「The 14 Best White Label Products To Sell in 2024」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「White Label」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「White Label AI Builder」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「White Label AI Website Builder」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「Businesses selling white label products are thriving today. In fact, the white label market is expected to grow by」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「. New white label products become available to ecommerce businesses almost every day. If you want to join this space as an online retailer, small business owner, or entrepreneur, there is no shortage of white label products to sell.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「In this article, we’ll cover 14 different types of white label products you can sell to get your business off the ground or expand it as quickly as possible. These products will enable you to leverage white labeling – a cost-friendly, time-saving, and risk-averse business model.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「What a white label product is.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「Choosing the right white label product.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「14 best white label products to sell in 2024.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「How to source and market white label products.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「Let’s first understand what a white label product is, to begin with.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「What is a white label product?」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「The term white label and private label products are often used interchangeably, but there are subtle differences between the two. Private label products are typically customized further for specific retailers. This makes the rebranded product exclusive to the reseller’s business.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「Looking back at our website builder example, with private labeling, the manufacturer can add a proprietary client management platform to the website builder for Company B. They can also modify other features of the website builder to fit Company B’s operations.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+- 再販制度：
+  - 「Hosts & Resellers」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「For Hosts & Resellers」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「Affiliates」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「Resellers」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「The term white label and private label products are often used interchangeably, but there are subtle differences between the two. Private label products are typically customized further for specific retailers. This makes the rebranded product exclusive to the reseller’s business.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「- The manufacturer has sufficient expertise to ensure the product is of high quality. When you buy and resell the white label product, you can benefit from this knowledge and experience without having to build your own.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「, etc. You can contact your nearest supplier, get your white label products wholesale, and kickstart a CBD product line for your business.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「, etc. Prioritize supplies who manufacture organic essential oils – they have a great demand. You can choose to get them from a white label product wholesale and then repackage them in smaller quantities. Or have the supplier take all of this work off your hands.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「. You can buy them in bulk at wholesale prices.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「As the brand owner, your sole focus will be to develop your brand identity. This includes the name, logo, and packaging design that will differentiate you from your competitors. Then, you’ll add your branding elements to the food’s packaging material and resell it as your own. Seeing as food is highly perishable it would be best to source it from nearby vendors.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「These are pre-built online tools (usually software apps) that you can purchase online and resell under your own brand name. The Brizy White Label Website Builder, one of the best white label SaaS products, is one such example.」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「isn't always as straightforward as running a quick Google search. Many of the country's best manufacturers and wholesalers focus on the domestic market, while others have limited English information or don't actively market to overseas buyers. That often makes it difficult to know where to start, even when you already know what products you want to source.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「The good news is that you don't need to travel to Japan to build a reliable supply network. From wholesale platforms and manufacturer directories to Japanese marketplaces and proxy buying services, there are several ways to connect with trusted suppliers from anywhere in the world.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「, they often picture manufacturers. In reality, there are several ways to source products, and each supplier type serves a different purpose. Some are better for large wholesale orders, while others work well if you're buying samples or testing new products.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Japan Wholesale Clothing Manufacturers Explained: What Buyers Should Know」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+- 無料体験・貸出：
+  - 「Start Free Trial Now」（https://www.brizy.io/14-best-white-label-products-to-sell）
+  - 「The trade-off is that many manufacturers expect larger order quantities. Some also work mainly with domestic businesses, so communication in English or small trial orders may not always be available.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Before contacting a supplier, confirm the minimum order requirement and ask whether sample orders or trial purchases are available. Starting small is often a practical way to evaluate both the product and the supplier before making a larger commitment.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Japan offers a wide range of sourcing opportunities, from manufacturers and wholesalers to domestic marketplaces and industry trade shows. The right option depends on what you're buying, how much you need, and whether you're looking for long-term supply or small product trials.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Trial Sets」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+- 価格：
+  - 「We raised $2.4M Seed Round」（https://www.brizy.io/14-best-white-label-products-to-sell）
+- 日本対応：
+  - 「How to Find Reliable Suppliers from Japan」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Japanese Tea」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「How to Find Reliable Suppliers from Japan (Without Flying to Japan)」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「suppliers from Japan」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「The good news is that you don't need to travel to Japan to build a reliable supply network. From wholesale platforms and manufacturer directories to Japanese marketplaces and proxy buying services, there are several ways to connect with trusted suppliers from anywhere in the world.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「This guide covers the different types of Japanese suppliers, the best platforms to find them, how to evaluate potential partners, and practical tips for sourcing products from Japan with confidence.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Why do businesses source products from Japan?」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Japan has earned a reputation for producing goods that are reliable, well-made, and consistent. Many manufacturers follow strict production standards and quality control processes, which is one reason businesses around the world continue to source products from Japan.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Some of Japan's strongest export categories include:」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Japan also has a highly developed domestic distribution network. Products can move efficiently between factories, warehouses, and retailers, making it easier for suppliers to fulfill orders accurately and reduce shipping damage before products even leave the country.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Of course, finding the right supplier still takes research. Some companies only sell within Japan, while others require larger minimum orders or communicate mainly in Japanese. Understanding the different types of suppliers is the first step toward building a reliable sourcing strategy.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「What Types of Japanese Suppliers Can You Work With?」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Before choosing where to source, it's worth understanding how each option works. Below are the main types of Japanese suppliers you'll come across.」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「Japan Wholesale Clothing Manufacturers Explained: What Buyers Should Know」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+  - 「The Ultimate List of Wholesale Suppliers in Japan for Global Buyers」（https://janbox.com/us/blog/how-to-find-reliable-suppliers-from-japan）
+- 使いやすさ：記載なし（読んだ55頁・検索11回）
+
+## ホワイトラベルBIM・建築設計ソフト（white label BIM software）
+- 文脈：建築
+- 提供企業：
+  - 「BIM service providers in USA」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「Model review, coordination, and construction planning」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「Drawing review and documentation」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「is a BIM coordination and review software used to combine models from multiple disciplines. It plays a critical role in clash detection and construction planning.」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「Coordination review tools」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「is a PDF-based collaboration and review software widely used in construction documentation workflows.」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「Easy document review」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「What are alternatives to Revit?」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「Alternatives to Revit include ArchiCAD, AutoCAD, Tekla Structures, and Bentley Systems. These tools offer various features for different aspects of BIM, such as design, coordination, and construction management」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「The difficulty of onboarding compared to the depth of technical power」（https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/）
+  - 「Navisworks Manage vs. Autodesk Construction Cloud (ACC) Clash Workflow」（https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/）
+  - 「Cloud-Native BIM vs. Cloud-Enabled BIM: What Is the Difference?」（https://www.snaptrude.com/blog/best-cloud-bim-software-2026）
+  - 「The result is that a project that would take a design team days to block out at schematic stage — site-to-envelope to compliant floor plans can be produced in hours. This is not an AI assistant making suggestions. It is an AI stack doing the early-stage design work end-to-end, with the architect reviewing, editing, and directing at each stage.」（https://www.snaptrude.com/blog/best-cloud-bim-software-2026）
+  - 「Snaptrude is the best cloud BIM for small teams - it provides real-time multi-user collaboration, browser-based client review, and AI-assisted design with no infrastructure setup. ArchiCAD with BIMcloud is a good alternative for teams committed to ArchiCAD's workflow.」（https://www.snaptrude.com/blog/best-cloud-bim-software-2026）
+  - 「— published to the CDE for review by other parties;」（https://www.demystifyingplm.com/best-bim-software-2026）
+- 自社名で出せる条件：
+  - 「View the best IT partner programs in the market and browse their white label options」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「Autodesk Inventor OEM | Tech Soft 3D」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「Inventor Oem」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「Inventor OEM」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「Inventor OEMは、Autodeskの機械CADアプリケーションであるAutodesk Inventorのホワイトラベルバージョンです」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「Inventor OEMには、完全な3Dモデリングカーネル、ユーザーインターフェイス、ならびにパラメトリックベースの設計を行う能力が含まれています」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「Inventor OEM開発プラットフォームを使用することで、次のことが可能になります：」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「Inventor OEM製品の利点」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「製品はInventor OEM上に構築されていますが、顧客はあなただけのユニークなアプリケーションを体験します」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「Inventor OEMを信頼された実績あるプラットフォームにするために費やされた数百万もの開発時間から直接利益を得る」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「ソフトウェア開発者向けにInventor OEMプラットフォームの技術概要を説明し、自分だけのユニークなCADアプリケーションを作成するためのツールキットのコンポーネントとワークフローを説明します」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「OEMコンフィギュレータ」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「Autodesk Inventor OEMの包括的なCAD翻訳プログラムを使用して、サードパーティのCADツールからファイルを読み書きできます」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「Inventor OEMはCATIA V5、JT 6、JT 7、Parasolid、PTC GRANITEの直接インポートおよびエクスポートをサポートし、Siemens NX、SolidWorks、Pro/ENGINEER、SATファイルを直接インポートすることもサポートしています」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+  - 「Inventor OEM API」（https://www.techsoft3d.com/ja-jp/oem/inventor-oem/）
+- 再販制度：
+  - 「PDF markups, quantity takeoffs, and construction collaboration」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「PDF markup and collaboration」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「Is your BIM setup truly helping you deliver projects faster, with fewer risks and better margins?」（https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/）
+  - 「View/markup only」（https://www.snaptrude.com/blog/best-cloud-bim-software-2026）
+  - 「Discover IT vendors & their partner programs and local channel partners」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「View the best IT partner programs in the market and browse their white label options」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「Referral Software」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「Find in the list below the best BIM solutions companies like resellers, IT providers, MSPs, consultants and other channel companies in United States. You can browse the companies based on their location or the products they offer.」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「-Autodesk Gold Partner (Value Added Reseller) -Autodesk Authorized Training Center -Professional Engineers and Consultants」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「Autodesk Software Reseller based in Los Angeles. We sell VFX Software as well as Post Production & Video Hardware.」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「AEC Technologies is your local Autodesk and Bluebeam Value Reseller serving the Western United States with locations in California and Arizona. Our services include software procurement, training, consulting and implementation.」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「We have been in the software reseller business for over 20 years. In the past we owned the largest Autodesk dealership in the Northeast US. After selling that business we became the 2nd largest intergraph/Hexagon Cadworx dealer in the world.」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「Sass Partner Programs by Vendors」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「Browse programs by vendors and partner with Resellers, Managed Service Providers (MSPs) and System Integrators (SIs).」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「VIEW PARTNER PROGRAMS」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+- 無料体験・貸出：
+  - 「Industrial」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「Which BIM software is best for industrial construction projects?」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「Tekla Structures and Revit are popular choices for industrial construction. Tekla is favored for its detailed structural modeling of steel and reinforced concrete, while Revit supports comprehensive design, documentation, and coordination across architectural, structural, and MEP disciplines.」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「This tool connects design and fabrication thus reducing waste and improving the quality of construction especially in industrial and high-rise projects.」（https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/）
+  - 「All of this is accessible on the free plan. The limitations are around team size and advanced construction documentation features. For design exploration, feasibility studies, and」（https://www.snaptrude.com/blog/best-cloud-bim-software-2026）
+  - 「commercial buildings, infrastructure, industrial facilities, and residential development」（https://www.demystifyingplm.com/best-bim-software-2026）
+  - 「BIM and Manufacturing/PLM Convergence for Industrial Facilities」（https://www.demystifyingplm.com/best-bim-software-2026）
+  - 「Bentley's BIM portfolio (OpenBuildings for buildings, OpenRoads for transportation, OpenPlant for process plant, all on the MicroStation foundation) is the reference platform for infrastructure projects where buildings are a component of a larger engineered system — airports, hospitals, data centers, industrial facilities, and transportation infrastructure.」（https://www.demystifyingplm.com/best-bim-software-2026）
+  - 「Hiring pool is significantly smaller than Revit's globally — this is a real constraint for programs outside infrastructure and industrial engineering where Revit-trained talent is the default」（https://www.demystifyingplm.com/best-bim-software-2026）
+  - 「Infrastructure programs (airports, rail, highways) where BIM is part of a larger civil engineering environment; industrial facilities where the D-layer iTwin connection to operations is a design requirement; programs where asset information management from construction through thirty-year operations is the primary deliverable.」（https://www.demystifyingplm.com/best-bim-software-2026）
+  - 「Long-span steel structures, high-rise construction, prefabricated concrete building systems, industrial structures, stadium and arena programs.」（https://www.demystifyingplm.com/best-bim-software-2026）
+  - 「BIM + PLM/EAM Convergence: The Industrial Facility Digital Twin Problem」（https://www.demystifyingplm.com/best-bim-software-2026）
+  - 「For industrial owner-operators — semiconductor manufacturers, pharmaceutical companies, data center operators, oil and gas facilities — BIM's D layer connects directly to the manufacturing world's EAM-APM layer. This convergence is where most industrial facility digital twin programs either realize their potential or fail.」（https://www.demystifyingplm.com/best-bim-software-2026）
+  - 「For buyer organizations evaluating BIM software for industrial facilities today: specify the D-layer requirements (which EAM system must the BIM model connect to, at what level of asset granularity, through what data model) as part of the BIM Execution Plan, not as a post-handover problem. The technology exists to make the connection. The governance design must happen at project start.」（https://www.demystifyingplm.com/best-bim-software-2026）
+  - 「Is this an industrial facility where BIM must connect to PLM and EAM? This requires explicit D-to-FIELD layer integration design at project start.」（https://www.demystifyingplm.com/best-bim-software-2026）
+- 価格：
+  - 「Free / ~$500+」（https://www.snaptrude.com/blog/best-cloud-bim-software-2026）
+  - 「$2,950 + ACC」（https://www.snaptrude.com/blog/best-cloud-bim-software-2026）
+  - 「$980–$2,390 + BIMcloud」（https://www.snaptrude.com/blog/best-cloud-bim-software-2026）
+  - 「Stop chasing individual vendors. Send your requirements once and receive side-by-side pricing from 3+ vetted IT partners within 24 hours.」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「BIM Software Pricing Compared (2026): Per-Seat, Floating, Per-Project and No-Contract Plans」（https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans）
+  - 「This guide compares BIM pricing across four models: per-seat, floating, per-project and no-contract. All figures come from vendor pages checked in October 2026, and we flag the ones we could not verify. Where a vendor hides its price behind a sales call, we say so.」（https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans）
+  - 「Per-seat pricing dominates the market. Revit runs about $3,012 a year, Bentley starts at $3,844 and SketchUp Pro costs about $399. Floating licenses are rare, and Rhino is the clearest published example.」（https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans）
+  - 「1. Per-seat pricing: Pay for each person」（https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans）
+  - 「From $251 per month on annual terms (about $3,012 per year)」（https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans）
+  - 「$3,675 per year」（https://www.snaptrude.com/blog/bim-software-pricing-compared-2026-per-seat-floating-per-project-and-no-contract-plans）
+  - 「Edificius ACCA Software (€48/month)」（https://eiposgrados.com/eng/engineers-blog/free-bim-programs-or-low-cost-licenses/）
+  - 「The BIM market in Japan grew to $0.46 billion USD in 2024 and is」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「predicted to reach $0.84 billion by 2029」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「100,000〜800,000円程度」（https://techtouch.jp/media/bim/bim-recommend-comparison）
+  - 「月額8,000〜40,000円程度」（https://techtouch.jp/media/bim/bim-recommend-comparison）
+- 日本対応：
+  - 「Empowering Japan’s Construction Industry with BIM Training - Okana」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「Empowering Japan’s Construction Industry with BIM Training」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「Okana translates all of its training materials into Japanese to work directly with the region in upskilling industry professionals in the use of BIM.」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「The building information modeling (BIM) market in Japan is undergoing significant growth, driven by the region’s passion for technological advancement in the construction industry.」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「The BIM market in Japan grew to $0.46 billion USD in 2024 and is」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「. Like many other regions before it, Japan has seen an upsurge in BIM adoption and a digital first approach to project design and data management.」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「Back in 2020, Japan’s Ministry of Land, Infrastructure, Transport and Tourism (MLIT) published guidelines for BIM standard workflows, which also stated the following of ISO 19650 standards where possible.」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「Since then the Japanese government has made significant efforts to put BIM use on the agenda of the building design and in 2010, the MLIT announced the start of pilot projects for BIM use in public construction works.」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「Despite this, BIM in Japan is still not mandated, even though there is evidence that the use of BIM can address some of Japan’s unique construction challenges, such as its aging infrastructure and housing stock, plus stringent earthquake resistant building regulations.」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「Recognising the need for industry wide upskilling, Okana has taken the initiative to translate all of its BIM training materials into Japanese. By doing so, we aim to work directly with the region to equip industry professionals in the use of BIM.」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「Okana training is positioned to educate and support global digital construction professionals and is now working to translate its ISO 19650 aligned BIM training content into multiple languages, including Japanese.」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「Once complete, the translated training content will open up access to ISO 19650 aligned BIM education for the whole of the Japanese construction marketing, allow it to adopt global standards more proficiently, streamline workflows and contribute further to international projects.」（https://www.okana.global/insights/empowering-japans-construction-industry-with-bim-training/）
+  - 「Leading Japanese Architecture Firm Nihon Sekkei Partners with Autodesk on Next-Gen Building Information Modeling | Autodesk News」（https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/）
+  - 「Leading Japanese Architecture Firm Nihon Sekkei Partners with Autodesk on Next-Gen Building Information Modeling」（https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/）
+  - 「Tokyo, JAPAN, Sept 8, 2014」（https://adsknews.autodesk.com/en/pressrelease/leading-japanese-architecture-firm-nihon-sekkei-partners-with-autodesk-on-next-gen-building-information-modeling/）
+- 使いやすさ：
+  - 「The difficulty of onboarding compared to the depth of technical power」（https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/）
+  - 「Partner Onboarding」（https://elioplus.com/north-america/united-states/channel-partners/bim）
+  - 「Revizto is powerful and easy to use」（https://plannerly.com/10-best-bim-software-programs/）
+  - 「. Enter it here - it lasts a few minutes.」（https://plannerly.com/10-best-bim-software-programs/）
+  - 「複雑な作業を、もっと簡単に」（https://www.graphisoft.com/ja-jp/plans-and-products/archicad/）
+  - 「Archicad を Enscape、Twinmotion、D5 などのビジュアライゼーションソフトと連携すれば、リアルタイムのフォトリアル表現や没入型のプレゼンを簡単に行えます」（https://www.graphisoft.com/ja-jp/plans-and-products/archicad/）
+  - 「ノーコードで機能構成を構築可能」（https://techtouch.jp/media/bim/bim-recommend-comparison）
+  - 「複数案の比較や修正が簡単」（https://anlg.co.jp/bim-introduction/）
+  - 「BIMで作成した3Dモデルは、BIMxというアプリで簡単に確認できます」（https://anlg.co.jp/bim-introduction/）
+  - 「メリット2：設計の変更点の確認や複数案・バリエーションの比較が簡単にできる」（https://anlg.co.jp/bim-introduction/）
+  - 「BIMでは、設計の変更が即時的に3Dモデルと図面で確認できるほか、複数案やバリエーションの比較も簡単にできます」（https://anlg.co.jp/bim-introduction/）
+  - 「また、3Dモデルの色や素材・テクスチャーの変更も簡単にでき、バリエーションの検討や比較がスムーズです」（https://anlg.co.jp/bim-introduction/）
+  - 「変更点の比較が簡単にできるため、合意形成が効率化します」（https://anlg.co.jp/bim-introduction/）
+  - 「MacOSでの動作もサポートされており、GRAPHISOFT社が開発したBIMモデルを簡単に共有できるアプリであるBIMx（ビムエックス）との連携もスムーズです」（https://anlg.co.jp/bim-introduction/）
+  - 「BIMxなどのアプリから簡単に3Dモデルを共有できるので、検討や確認に活用できます」（https://anlg.co.jp/bim-introduction/）
+- 検索結果の抜粋：
+  - 「The Top 10 BIM Software You Need to Know in 2026 — The Top 10 BIM Software You Need to Know in 2026 United-BIM https://www.united-bim.com > top-10...」（https://www.united-bim.com/top-10-bim-softwares-in-2025/）
+  - 「Top 10 BIM Software You Need to Know in 2026 — Top 10 BIM Software You Need to Know in 2026 Virtual Building Studio https://www.virtualbuildingstudio.com > ...」（https://www.virtualbuildingstudio.com/blog/top-bim-software-tool/）
+  - 「Best Cloud BIM Software 2026 : Why 'Cloud' Means Different ... — Best Cloud BIM Software 2026 : Why 'Cloud' Means Different ... snaptrude.com https://www.snaptrude.com > Blog」（https://www.snaptrude.com/blog/best-cloud-bim-software-2026）
+  - 「Best BIM Software in 2026 : 13 Tools Ranked, From AI to Open ... — Best BIM Software in 2026 : 13 Tools Ranked, From AI to Open ... LinkedIn https://www.linkedin.com > pulse > b...」（https://www.linkedin.com/pulse/best-bim-software-2026-13-tools-ranked-from-ai-open-source-meltflex-rtgef）
+  - 「Best BIM Software 2026 : Independent AEC Buyer's Guide — Best BIM Software 2026 : Independent AEC Buyer's Guide demystifyingplm.com https://www.demystifyingplm.com > ...」（https://www.demystifyingplm.com/best-bim-software-2026）
+  - 「BIM Software List: 10 Best BIM Programs Compared (2026) — BIM Software List: 10 Best BIM Programs Compared (2026) Plannerly https://plannerly.com > 10-best-bim-s...」（https://plannerly.com/10-best-bim-software-programs/）
+  - 「Top paid & free BIM software tools in 2025 - Revizto — Top paid & free BIM software tools in 2025 - Revizto Revizto https://revizto.com > resources > blog」（https://revizto.com/resources/blog/best-bim-software-tools）
+  - 「【2026年】 BIMソフト おすすめ16選を比較！無料版と有料版 ... — 【2026年】 BIMソフト おすすめ16選を比較！無料版と有料版 ... テックタッチ https://techtouch.jp > ... > システム導入・運用 > BIM導入」（https://techtouch.jp/media/bim/bim-recommend-comparison）
+  - 「RevitとAutoCADと3DCADは何が違う？ BIM オペチャンネル — RevitとAutoCADと3DCADは何が違う？ BIM オペチャンネル YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=TlHkdXHzkOo）
+  - 「3D CADとの違いや互換性、導入ポイントを解説 - KINO BIM — 3D CADとの違いや互換性、導入ポイントを解説 - KINO BIM KINO BIM https://kino-bim.net > コラム」（https://kino-bim.net/column/202502_03/）
+  - 「BIM とパラメトリックデザインに特化した新卒・中途採用情報 — BIM とパラメトリックデザインに特化した新卒・中途採用情報 KAWAZOE ARCHITECTS https://www.kawazoe-architects.com > recruit-2」（https://www.kawazoe-architects.com/office-tokyo/recruit-2）
+
+## ホワイトラベル建築・インテリア3D可視化（white label architectural visualization）
+- 文脈：建築・デザイン
+- 提供企業：
+  - 「The “best” choice in 2026 is usually a workflow-oriented pipeline—not one isolated tool—built around stable transitions between BIM/CAD, real-time preview, DCC refinement where needed, and final rendering.」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「Real-time rendering accelerates reviews and stakeholder alignment, while offline ray tracing still sets the quality ceiling for final marketing imagery and cinematic sequences.」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「This guide was reviewed from a workflow-first editorial perspective to reflect how architectural visualization teams evaluate software in 2026—across BIM/CAD handoff, DCC-based scene refinement, GPU rendering, operating system support, and hybrid real-time/offline production pipelines.」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「Choosing architectural visualization software starts with clarity: what do you ship most—weekly design reviews, marketing stills, or mixed deliverables? For professional architectural design, the question is not only which architecture rendering software looks best in a demo, but which rendering engine fits your design process, your update cycles, and your delivery requirements.」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「GPU rendering vs CPU: performance, VRAM limits, stability」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「Modern 3D rendering software is increasingly GPU-first. GPU rendering delivers near-real-time IPR (interactive preview rendering) for look-dev, lighting, and materials—especially valuable for interiors, where small changes can radically alter the mood.」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「That matters even more for large-scale projects, where predictable preview performance, stable rendering behavior, and efficient memory handling contribute directly to saving time across teams.」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「Ray tracing: real-time vs offline for photorealistic architectural renderings」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「Real-time BIM preview, marketing stills, animation」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「Best for teams that want one ecosystem to cover BIM-linked real-time preview, controlled refinement, and higher-quality final rendering across major production platforms.」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「A balanced Archviz workflow that can cover both real-time preview and higher-quality production rendering. Redshift for architectural visualization brings native BIM-linked rendering and live preview into supported authoring tools, while Cinema 4D extends the same ecosystem into more advanced scene management, animation, and finishing workflows.」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「, teams can render, preview, and refine directly inside supported BIM environments such as Vectorworks using a live workflow, while still keeping」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「Work directly inside supported BIM tools with Redshift for Archviz for live preview, refinement, and fast review cycles」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「Use Redshift Live for BIM-linked real-time preview workflows and Redshift Production for higher-quality final output」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「Iteration can feel slower than real-time tools during early design phases, although teams in the Chaos ecosystem can add Enscape as a real-time layer for design review and hybrid workflows. That said, Enscape is an additional license and cost layer rather than something included with V-Ray itself.」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+- 自社名で出せる条件：
+  - 「You have 10+ images to produce on a schedule, your brand reputation depends on consistent quality, or you don’t have bandwidth to manage individual relationships.」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「Yes, specifically for small, well-defined, low-stakes projects — a single product image, a personal project, a startup testing an idea. Once you need more than a handful of consistent images, or your brand reputation depends on the result, a studio’s structured QA process becomes worth the extra cost.」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「A CGI studio that covers real estate pre-sales, with exterior and interior renders, aerials, animation and virtual tours, alongside product and advertising work and a white-label service for marketing agencies.」（https://notrianglestudio.com/blog/best-3d-rendering-companies/）
+  - 「white-label」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+  - 「Our studio specializes in white-label architectural visualization and real estate CGI, delivering production-ready renders to clients around the world.」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+  - 「Real project case studies from architects, developers, and hospitality brands who partner with Archvizly for photorealistic renders, virtual tours, and animations. See how a confidential white-label production bench helps teams pitch, launch, and market faster, project after project.」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+  - 「Archvizly is a white-label architectural visualization studio serving architects, developers, interior designers, and hospitality brands worldwide. We deliver production-ready renders, 3D models, and virtual tours for pitches, launches, and marketing campaigns on time, at scale.」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+  - 「White Label Design Services for Agencies - White Label IQ」（https://www.whitelabeliq.com/design/）
+  - 「White Label Design Services Built for Agency Workflows」（https://www.whitelabeliq.com/design/）
+  - 「Your clients expect design that performs — not just design that looks good in a mockup. White Label IQ delivers UI/UX, graphic design, and 3D rendering under your brand, at the quality level your agency promises but without the overhead of a full in-house design team.」（https://www.whitelabeliq.com/design/）
+  - 「White Label IQ’s design team builds with performance in mind from the first wireframe. We don’t hand off pretty mockups that fall apart during development. We deliver production-ready design systems that translate cleanly into code, meet accessibility standards, and solve the specific business problems your client briefed you on.」（https://www.whitelabeliq.com/design/）
+  - 「Four Capabilities Under One White Label Roof」（https://www.whitelabeliq.com/design/）
+  - 「Hiring senior designers is expensive and slow. Freelancers introduce quality variance and availability risk. White Label IQ gives your agency a dedicated design function that scales with your project pipeline. When you land a design-heavy project, our team ramps immediately. When the workload drops, you don’t carry idle salaries.」（https://www.whitelabeliq.com/design/）
+  - 「Every deliverable ships under your brand. Your client sees your agency’s name on the Figma files, your watermark on the presentations, and your team in every meeting. We stay invisible so your client relationship stays yours — and your margins stay intact.」（https://www.whitelabeliq.com/design/）
+  - 「Yes, our designers can participate in client calls as members of your team. They use your agency’s email addresses, introduce themselves under your brand, and present work as your employees would. This is common for complex projects where direct designer-client dialogue speeds up the feedback cycle.」（https://www.whitelabeliq.com/design/）
+- 再販制度：
+  - 「Find a Reseller」（https://www.d5render.com/posts/best-architectural-visualization-software）
+  - 「Affiliate Program」（https://www.d5render.com/posts/best-architectural-visualization-software）
+  - 「Found via LinkedIn, portfolio sites like ArtStation or Behance, or referral — not a marketplace.」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「Every deliverable ships under your brand. Your client sees your agency’s name on the Figma files, your watermark on the presentations, and your team in every meeting. We stay invisible so your client relationship stays yours — and your margins stay intact.」（https://www.whitelabeliq.com/design/）
+  - 「White label design pricing varies by project scope and complexity. Typical engagements are quoted on a per-project basis with clear deliverables and revision rounds defined upfront. Agencies set their own client-facing rates and retain the margin between what they charge and what they pay the white label provider. White Label IQ provides transparent project-based quotes with no hidden fees.」（https://www.whitelabeliq.com/design/）
+  - 「Become an ArchiVinci Reseller | ArchiVinci」（https://www.archivinci.com/reseller）
+  - 「RESELLER PROGRAM」（https://www.archivinci.com/reseller）
+  - 「ArchiVinci Reseller」（https://www.archivinci.com/reseller）
+  - 「Add a high-margin AI rendering solution to your catalog and capture new demand in the fastest-growing archviz space.​」（https://www.archivinci.com/reseller）
+  - 「Apply to become reseller」（https://www.archivinci.com/reseller）
+  - 「Join our reseller partner program today」（https://www.archivinci.com/reseller）
+  - 「Apply to become a reseller」（https://www.archivinci.com/reseller）
+  - 「What other software do you resell?」（https://www.archivinci.com/reseller）
+  - 「Become a Reseller」（https://www.archivinci.com/reseller）
+  - 「You receive the final images in the resolution and format you need, and the source files on request. Once the work is paid for, it is yours to use, edit and resell.」（https://www.kotiger.co/partnership）
+- 無料体験・貸出：
+  - 「Planner 5D costs $0 on the Free plan, $19.99 a month or $59.99 a year for Premium, and $49.99 a month or $399.99 a year for Professional, with Enterprise priced on request. Below: what each plan includes, the annual-vs-monthly math, trials, education pricing and the extras that cost more.」（https://www.renderahouse.com/blog/planner-5d-pricing）
+  - 「Free trial: 7-day PRO, 3-day Premium」（https://www.renderahouse.com/blog/planner-5d-pricing）
+  - 「says the PRO trial includes 50 credits and that monthly credits expire at the end of each 30-day cycle. Credit pack prices: Not published (checked October 2026).」（https://www.renderahouse.com/blog/planner-5d-pricing）
+  - 「trial article」（https://www.renderahouse.com/blog/planner-5d-pricing）
+  - 「, a 7-day PRO trial is available on web, iOS, Android and Windows, and a 3-day Premium trial on macOS and iPhone/iPad. Trials can be activated once; after that you are charged the full price. The trial converts to a paid subscription automatically, so cancel at least 1 day before it ends. The pricing page adds that eligibility and terms depend on the offer shown at checkout.」（https://www.renderahouse.com/blog/planner-5d-pricing）
+  - 「Free plan」（https://www.renderahouse.com/blog/planner-5d-pricing）
+  - 「Yes. The Free plan costs $0 with no time limit: unlimited projects, web and mobile, and 50% of the furniture catalog. Floor-plan upload, the full catalog of 10,000+ items, renders beyond screenshots and AI Studio credits need Premium or Professional.」（https://www.renderahouse.com/blog/planner-5d-pricing）
+  - 「Does Planner 5D have a free trial?」（https://www.renderahouse.com/blog/planner-5d-pricing）
+  - 「Yes. Planner 5D's help center lists a 7-day PRO trial on web, iOS, Android and Windows, and a 3-day Premium trial on macOS and iPhone/iPad. Trials can be activated once, then convert to a paid subscription unless you cancel at least 24 hours before the trial ends.」（https://www.renderahouse.com/blog/planner-5d-pricing）
+  - 「Freepik, now Magnific, costs $20, $45 or $110 a month billed monthly, about 25% less billed annually, plus Business at $69 per seat. Free plan, credits and extras explained.」（https://www.renderahouse.com/blog/planner-5d-pricing）
+- 価格：
+  - 「D5's pricing page」（https://www.d5render.com/posts/best-architectural-visualization-software）
+  - 「Get a price for your project in 30 seconds.」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「$2,000–$8,000+ per image」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「$99–$2,000 per image」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「$50–$1,000 per image」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「$2,000–$8,000+ per image.」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「Agency-scale pricing and process; Trustpilot sits at 3.9/5 from a small sample (10 reviews) — worth weighing against its broader positioning rather than treating as a pure quality signal.」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「We did not rank on price or speed. Every studio here quotes to scope, and schedules depend on the project and the client’s feedback as much as on the studio. We rechecked each studio’s own website on 24 October 2026 and review the list every six months.」（https://notrianglestudio.com/blog/best-3d-rendering-companies/）
+  - 「Published 2026 industry pricing guides put a single architectural rendering at roughly $250 to $5,000+ per still image, depending on detail, realism and scope. These are industry figures, not any one studio's prices. Most studios, including ours, quote each project to its scope. See our」（https://notrianglestudio.com/blog/best-3d-rendering-companies/）
+  - 「is the most common recommendation because it plugs directly into Revit, SketchUp, or Rhino with almost no separate learning curve, and its ~$575/year cost is easy to justify against even a single won project.」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+  - 「Blender is the fallback for a solo practice with zero software budget and someone willing to invest the time to learn it. D5 Render’s free Community tier is a middle path: real-time speed at no cost, with the option to upgrade to Pro ($360/year) once volume justifies it.」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+  - 「A studio with dedicated visualization staff and a steady flow of competition entries or client presentations usually outgrows real-time-only tools. The typical stack pairs 3ds Max (~$1,945/year) for modeling with V-Ray or Corona (~$540/year, bundled) for hero-quality stills, plus a real-time engine like Enscape or D5 Render for day-to-day client walkthroughs.」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+  - 「Teams running sales galleries increasingly add Chaos Vantage (~$659/year) as a companion tool: it lets a salesperson walk a prospective buyer through a V-Ray-quality scene live, without waiting on a full offline render.」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+  - 「$0–$575/year」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+  - 「~$2,500–$3,500/year」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+- 日本対応：
+  - 「(Japanese)」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「3D Rendering Services for Japan: 5 Architectural Project in Tokyo, Hokkaido and more • AIMIR CG | 3D Architectural Visualization Rendering Services Company」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「3D Rendering Services for Japan: 5 Architectural Project in Tokyo, Hokkaido and more」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「Creating architectural renders is not bonded by location. As one of the merits of 3D rendering services, no one can deny the fact that 3D artists are able to deliver perfect visuals in a short time to anywhere on this planet. In Japan, 3D rendering services are widely used to save time and money, communicate ideas more effectively, and gain a competitive advantage in their industry.」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「Japan’s incredibly diverse and innovative array of modern architecture deeply connect to the traditional architecture, also has transformed with the modern world today. Whether you’re into wabi-sabi houses, stunning capsule towers, or wooden-structured buildings, you’re going to find some surprises in this Architectural Rendering Projects in Japan list. Marvel at the detail of」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (1)」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (2)」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (5)」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (3)」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (4)」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (6)」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (7)」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「Located in Hokkaido, ES13 is a quiet, tranquil mansion on the mountainside. With a total floor area of 778 square meters, this reinforced concrete is nestled in the forests where nature flows. Equipped with 5 bedrooms and a Japanese bath, this 3-storey mansion finds peace within the texture of wood, stone and brick.」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「architectural-visualization-3d-rendering-services-interior-cgi-z-residence-tokyo-japan (19)」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+  - 「architectural-visualization-3d-rendering-services-interior-cgi-z-residence-tokyo-japan (20)」（https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/）
+- 使いやすさ：
+  - 「Before you compare logos, lock four decisions. Skip them and every demo looks good for twenty minutes.」（https://www.d5render.com/posts/best-architectural-visualization-software）
+  - 「14 minutes」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「· 8 minutes」（https://notrianglestudio.com/blog/best-3d-rendering-companies/）
+  - 「Expand your business with a cloud-based solution that does not require complex setup, costly hardware, or heavy onboarding.」（https://www.archivinci.com/reseller）
+  - 「Easy to use」（https://www.archivinci.com/reseller）
+  - 「Our process is simple and intuitive. Go from a photo of your room to a stunning new design in just a few minutes.」（https://www.archivinci.com/reseller）
+- 検索結果の抜粋：
+  - 「Best Architectural Visualization Software in 2026 - Maxon — Best Architectural Visualization Software in 2026 - Maxon Maxon https://www.maxon.net > article > bes...」（https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_）
+  - 「Best Architectural Visualization Software Guide for 2026 — Best Architectural Visualization Software Guide for 2026 D5 https://www.d5render.com > Blog」（https://www.d5render.com/posts/best-architectural-visualization-software）
+  - 「Best 3D Rendering & Architectural Visualization Studios in ... — Best 3D Rendering & Architectural Visualization Studios in ... Rapid Renders https://rapidrenders.com > best-3d-re...」（https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/）
+  - 「Architectural Visualization Software Comparison ( 2026 Guide) — Architectural Visualization Software Comparison ( 2026 Guide) archvizly.com https://archvizly.com > architectural-v...」（https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/）
+
+## ホワイトラベルノーコード業務アプリ（white label no-code app builder）
+- 文脈：業務
+- 提供企業：
+  - 「Reviews」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Free App Preview」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Get a Free App Preview」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「over 500 Trustpilot reviews」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Trustpilot reviewer」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「more than 400 reviews on G2」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「more than 80 reviews on Capterra」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「more than 300 reviews on Capterra」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「It depends on the tool, and the deciding factor is whose Apple and Google developer accounts the app is published under. If it's your own accounts, you own the listing, the reviews, and the app's store presence. Some tools also let you keep a working app (or even the source code) if you leave; others tie the app to an active subscription or to their platform. Always check both before you commit.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「free preview」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Start my free preview →」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Tapcart vs MobiLoud」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「MobiLoud vs Custom Development」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「MobiLoud vs In-House Development」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Best No-Code App Builders in 2026: "One-App Test" expert review」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+- 自社名で出せる条件：
+  - 「The 7 Best White-Label App Builders in 2026 (Fully Branded, Fully Owned) | MobiLoud」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「The 7 Best White-Label App Builders in 2026 (Fully Branded, Fully Owned)」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「What to Look For in a White-Label App Builder」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「The Best White-Label App Builders at a Glance」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Final Thoughts: Picking the Right White-Label Mobile App Builder」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「A white-label app builder is a great way to get a clean, fully-functional mobile app, without someone else’s brand hanging over everything.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「In all of these situations, white-labeling is a crucial feature. It lets you own the branding, and the success, of the app, and makes it look and feel like a mobile app custom-built from the ground up (without the associated cost).」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「That’s what we’re going to look at in this article. Read on and we’ll suggest the best white-label mobile app builders for any situation, to help you launch the perfect branded mobile app.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「The best white-label app builder depends on what」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「When you’re looking for a white-label app builder, you’re looking for an app that can be your own (or your client’s).」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「This is an important part of it all. And one where some app builders that seem white-labelled (and perhaps even claim to be) don’t meet the threshold.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Technically, an app builder can be “white-label”, by not mentioning their brand anywhere in the app. But if it only offers the same templates, with minimal customization, there’s a real question of whether it fits the bill.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Beyond white-label specific features, here are some things to look for from a quality app builder:」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Fully white-labeled, from app to app store accounts」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「, which a lot of builders ignore. It's a no-code tool: connect your site, and it produces native iOS, Android, and PWA apps. There's a full white-label agency plan too, so you can deliver branded apps to a roster of clients under your own name.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+- 再販制度：
+  - 「Other options exist depending on what you need; from affordable website to app tools like AppMySite, to no-code app builders like GoodBarber and Bubble which are great for agencies and resellers building custom apps.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「From $5/mo (agency plan $999/mo)」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「It’s built for both individual creators and resellers/agencies.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「If you're an agency, you can turn out as many client apps as you need from one place, each fully branded as the client's. It handles ecommerce, content, and community apps, so one tool covers a range of clients, and its reseller tier puts your agency's brand on the dashboard and the offer.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Pricing starts around €36 a month for content and €50 for ecommerce, with reseller plans from about €280 a month. GoodBarber holds a 4.3 rating across」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「, which a lot of builders ignore. It's a no-code tool: connect your site, and it produces native iOS, Android, and PWA apps. There's a full white-label agency plan too, so you can deliver branded apps to a roster of clients under your own name.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Standard plans run from $5 to about $49 a month, with the white-label agency plan at $999 a month for unlimited clients and apps. AppMySite holds a 4.2 rating across」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「White-label agency plan」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「There isn't a single winner; it depends on who you are. MobiLoud is the strongest fit for a premium, fully-owned app built for you. Other options, such as Passion.io, Bubble and GoodBarber, are targeted at solo creators or resellers, with simpler and cheaper approaches.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Reseller」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「GoodBarber for Resellers」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「You have an agency and you want to resell our solutions」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「MOBILE APPS RESELLERS」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「Reseller program」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「Reseller testimonials」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+- 無料体験・貸出：
+  - 「No credit card required.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「~$199/mo Business (point-in-time; free plan for 1 app)」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「Free plan available for prototypes」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「~$36–52/mo (point-in-time; free plan; push from the $52 Professional tier)」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「~$39/mo+ per seat (point-in-time; free plan for 1 project)」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「~$32/mo Starter (point-in-time; free plan)」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「Start your 30-day free trial →」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「Try for Free」（https://www.weweb.io/blog/app-builder-white-label-guide-use-cases-costs-steps）
+  - 「30-day free trial」（https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/）
+  - 「of the reseller program (no credit card).」（https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/）
+  - 「, weighted down for low confidence. Worth a hands-on trial, not yet a bet-your-brand commitment.」（https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/）
+  - 「with no credit card, and reseller resources (agency playbook, pricing strategy, contract templates). Even the AI assets are reseller-friendly: GoodBarber's open-source Claude Skills and Model Context Protocol (MCP) integration are」（https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/）
+  - 「It varies by model. GoodBarber's reseller program is flat-rate from €280/mo (Content) or €380/mo (with e-commerce) for unlimited apps, with a 30-day free trial.」（https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/）
+  - 「(unlimited apps, own-brand back-office/domain/email, 0% commission, granular client access, 30-day trial),」（https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/）
+  - 「Start Your 30-Day Free Reseller Trial」（https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/）
+- 価格：
+  - 「$799/mo」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「From ~€36/mo (~$40)」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「From $5/mo (agency plan $999/mo)」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「From $99/mo (+ payment fee)」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「From $90/user/mo」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Free; $39/mo for code export」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「From $29/mo」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「starts at $799 per month.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Pricing starts around €36 a month for content and €50 for ecommerce, with reseller plans from about €280 a month. GoodBarber holds a 4.3 rating across」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Standard plans run from $5 to about $49 a month, with the white-label agency plan at $999 a month for unlimited clients and apps. AppMySite holds a 4.2 rating across」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Pricing starts at $99 a month. Passion.io holds a 4.5 rating」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Pricing starts at $90 per user per month, with rebranded mobile apps from the Professional plan ($300 per user per month) up.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「€55/mo」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「~$165/mo* (Standard)」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「~$199/mo* (Business)」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+- 日本対応：
+  - 「Multilingual support」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Single front-office language per app, no runtime multilingual UI」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「kintone | 日本製で業務アプリ作成に適しており高いカスタマイズ性が特徴」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「kintone｜日本製で業務アプリ作成に適しており高いカスタマイズ性が特徴」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「kintoneは、サイボウズ株式会社が提供する日本製の業務アプリ作成ツールです」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「日本語による手厚いサポート体制も整っているため、安心して利用できます」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「基本の言語は英語ですが、ブラウザの翻訳機能などを使えば日本語での利用も可能です」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「また、ツール自体の設定を変更すれば、日本語での使用もできます」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「公式言語は英語ですが、設定すれば日本語に変更可能です」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「日本語対応やサポート体制は整っているか」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「特に海外製のツールを検討する場合、日本語に対応しているかは重要な確認ポイントです」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「管理画面やマニュアルが日本語に対応していないと、操作の難易度が上がってしまいます」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「また、問題が発生した際に日本語で問い合わせができるサポート窓口があるかどうかも確認しておきましょう」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「海外製のツールであっても、日本の販売代理店が日本語でのサポートを提供している場合もあります」（https://pepacomi.com/efficiency/no-code-app/）
+  - 「中でも「kintone」は、日本企業向けに作られており、柔軟なカスタマイズが可能です」（https://pepacomi.com/efficiency/no-code-app/）
+- 使いやすさ：
+  - 「Other options exist depending on what you need; from affordable website to app tools like AppMySite, to no-code app builders like GoodBarber and Bubble which are great for agencies and resellers building custom apps.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「No-code builder + agency program」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「No-code, multi-platform」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「No-code / AI (web + mobile)」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Unlike most app builders, which are DIY drag-and-drop tools, MobiLoud’s approach skips the templates and creates an app that’s fully personalized to the brand.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「is a no-code app builder that lets you build custom apps from the ground up, using a no-code editor.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「No-code drag-and-drop builder」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「, which a lot of builders ignore. It's a no-code tool: connect your site, and it produces native iOS, Android, and PWA apps. There's a full white-label agency plan too, so you can deliver branded apps to a roster of clients under your own name.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「No-code builder for WooCommerce, WordPress, and Shopify (plus custom sites via webviews)」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「is built for one person in particular: a creator with an audience who wants to turn courses, coaching, fitness programs, or a community into their own app. It's no-code and creator-first, with lessons, progress tracking, memberships, and payments built in, and it publishes to the App Store and Google Play.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Low-code drag-and-drop builder」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「is a general no-code platform for building web apps and mobile apps from a blank canvas, with an AI generator that can rough out a working prototype from a prompt.」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Visual no-code builder」（https://www.mobiloud.com/blog/best-white-label-app-builders/）
+  - 「Best No-Code App Builders in 2026: "One-App Test" expert review」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「NO CODE APP BUILDER」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+- 検索結果の抜粋：
+  - 「The 10 best No - Code App Builders in 2026 - GoodBarber — The 10 best No - Code App Builders in 2026 - GoodBarber GoodBarber App Builder https://www.goodbarber.com > blog」（https://www.goodbarber.com/blog/best-app-builders-for-mobile-apps-a1419/）
+  - 「11 Best No - Code App Builders for 2026 - Choicely — 11 Best No - Code App Builders for 2026 - Choicely Choicely Inc https://www.choicely.com > blog > be...」（https://www.choicely.com/blog/best-no-code-app-builder）
+
+## ホワイトラベル生成AI基盤（企業向けChatGPT）（white label ChatGPT for business）
+- 文脈：業務
+- 提供企業：
+  - 「White-label platform」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Compare white-label ChatGPT alternatives for agencies on branding, client workspaces, billing, voice AI, integrations, compliance, and operating cost.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「This article explains why agencies reach for ChatGPT first and why it fails as a resale platform, what the OpenAI DIY stack actually costs to assemble, how a native white-label platform compares on a feature-by-feature basis, and a step-by-step setup for deploying your first branded client in minutes. There is a margin model you can copy and an honest note on where Trillet is not the right fit.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「native vs wrapper vs developer platforms」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「: Paste the client's website URL. Trillet extracts business information, services, FAQs, and reviews to train the agent automatically.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「white-label voice AI: wrappers vs integrated platforms」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「See the white-label platform」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「The website builder can draft an agent from a client's URL in minutes. Production deployment time depends on call flows, testing, integrations, number provisioning, compliance review, and client approval, so complex implementations should not be promised in a fixed number of hours.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Voice AI Platform Architecture: Native vs Wrapper vs Developer (2026)」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「White-Label Voice AI: Wrappers vs Integrated Platforms」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「NiCE Cognigy Alternatives in 2026: What to Weigh After the NICE Deal」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Cognigy alternatives after the NICE acquisition: what to ask NICE at renewal, and how Kore.ai, PolyAI, Parloa, Trillet and Amazon Connect compare in 2026.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Kore.ai Alternatives in 2026: Voice-First and Managed Options」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Kore.ai alternatives in 2026: when PolyAI, NiCE Cognigy, Parloa, Trillet, Amazon Connect or Google fit a voice project better than a broad agent platform.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「PolyAI Alternatives in 2026: 6 Options for Contact Centers」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+- 自社名で出せる条件：
+  - 「White-Label ChatGPT Alternative for Agencies (2026) | Trillet Blog」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「White-label platform」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Isolated multi-tenant workspaces under your own brand」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Technology & OEM」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Agency & white-label」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Run the platform under your own brand」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「White-Label」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「White-Label ChatGPT Alternative for Agencies (2026)」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Compare white-label ChatGPT alternatives for agencies on branding, client workspaces, billing, voice AI, integrations, compliance, and operating cost.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「This article explains why agencies reach for ChatGPT first and why it fails as a resale platform, what the OpenAI DIY stack actually costs to assemble, how a native white-label platform compares on a feature-by-feature basis, and a step-by-step setup for deploying your first branded client in minutes. There is a margin model you can copy and an honest note on where Trillet is not the right fit.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Why ChatGPT is not a white-label agency platform」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「: A ChatGPT subscription is not an agency white-label licence. An API-based commercial application is a different route, with the agency responsible for its own product, permissions, billing, and customer terms.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「No white-label infrastructure」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「What makes a strong white-label ChatGPT alternative」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「White-label branding: custom domain, your logo, your colors, no vendor mentions in front of clients」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+- 再販制度：
+  - 「A self-serve AI receptionist. No partner program required.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Partner program」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Resellers」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Sell Trillet to your clients and earn margin」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Referral」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「This article explains why agencies reach for ChatGPT first and why it fails as a resale platform, what the OpenAI DIY stack actually costs to assemble, how a native white-label platform compares on a feature-by-feature basis, and a step-by-step setup for deploying your first branded client in minutes. There is a margin model you can copy and an honest note on where Trillet is not the right fit.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「There is a difference between using ChatGPT and reselling it, and that difference is where agency business models live. Building a brandable, billable voice product on OpenAI alone runs into five concrete blockers.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「For agencies serving plumbers, dentists, clinics, and real estate offices, these gaps translate directly into thinner margins and more operational work per client. ChatGPT is a great assistant for your team. It is not a product you can put a client's name on and invoice for.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Margin-protecting features:」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「The platform you build on determines whether your margins are yours or someone else's. There are three structural choices, and they are not equal.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Sign up for the Agency plan ($299/month)」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「: Upload the logo and set the product name and colours. Connect a custom domain on the Agency plan; Studio uses a branded Trillet-hosted address.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Gross margin」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Resell voice AI under your own brand」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「If you are ready to resell branded voice AI,」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+- 無料体験・貸出：
+  - 「Dola AIの代替をお探しですか？動画生成、無料プラン、料金、プライバシーの観点で1min.AIとDola AIを比較し、最適なAIアプリを選びましょう」（https://1min.ai/ja/white-label-ai-for-small-businesses）
+  - 「No credit card. No code. Live in minutes.」（https://botpenguin.com/solutions/whitelabel-chatgpt）
+  - 「2週間無料トライアルと導入支援を活用し、企業のDX・AI活用提案につなげられます」（https://bizresearch.net/prod/514）
+  - 「2週間の無料トライアルを活用し、実際の社内データで導入検討を進められる」（https://bizresearch.net/prod/514）
+  - 「2週間の無料トライアルから検証可能」（https://bizresearch.net/prod/514）
+  - 「・まず2週間の無料トライアルで検証する」（https://bizresearch.net/prod/514）
+  - 「2週間の無料トライアルで実際の社内データを使って検証でき、トライアル時にはデータ棚卸しも支援します」（https://bizresearch.net/prod/514）
+- 価格：
+  - 「$99/month (Studio)」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「White-label under Enterprise (from ~$30k/yr)」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「$299/month」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「~$0.15-0.24/min (PAYG usage)」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「$0.12/min after included AI minutes」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Sign up for the Agency plan ($299/month)」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「As of September 2026, Agency is $299/month with 3,000 included AI minutes; additional AI usage is $0.12/minute, excluding telephony. Standard deployment needs no custom application development, although complex client integrations still require implementation work.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「$18 billion in 2026」（https://www.voiceflow.com/blog/white-label-chatbot）
+  - 「the white-label option lives in the Tidio Partners program, with the Tidio+ plan starting around $394 a month. Watch the total: Lyro AI and Flows are billed separately, so the real cost often runs higher than the headline.」（https://www.voiceflow.com/blog/white-label-chatbot）
+  - 「~$394/mo (Tidio+); Lyro and Flows extra」（https://www.voiceflow.com/blog/white-label-chatbot）
+  - 「The resale math is what makes it work. A single well-designed AI agent can carry a retainer of $1,000 a month or more, and a good platform lets you run many clients off one account. Price the platform against what you can charge, not against zero.」（https://www.voiceflow.com/blog/white-label-chatbot）
+  - 「Prioritize full rebranding, model flexibility, security and compliance (SOC 2 Type 2, PII handling), integrations, transparent pricing, and agent-management tooling like evaluations and」（https://www.voiceflow.com/blog/white-label-chatbot）
+  - 「It varies by scope, but a single well-built agent commonly carries a retainer of $1,000 a month or more. Because one platform account can serve many clients, margins improve as you add accounts. Price against the value you deliver, including the」（https://www.voiceflow.com/blog/white-label-chatbot）
+  - 「1minAI Face Swapで$0でファッションウィークを体験」（https://1min.ai/ja/white-label-ai-for-small-businesses）
+  - 「資本： 1億円（資本準備金15億2500万円）」（https://prtimes.jp/main/html/rd/p/000000554.000040956.html）
+- 日本対応：
+  - 「【2026年最新】ChatGPT 日本企業の導入事例25選｜業界別の活用方法・メリット・セキュリティ対策まで徹底解説 – ゴリラのAI研究所」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「【2026年最新】ChatGPT 日本企業の導入事例25選｜業界別の活用方法・メリット・セキュリティ対策まで徹底解説」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「chatgpt 日本企業の導入は2026年に大きな転換期を迎え、三菱UFJ銀行の全行員展開など事例が急増しています」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「2026年、日本企業のChatGPT導入状況｜留意すべき4つの最新動向」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「ChatGPTとは？日本企業が注目すべき4つの基礎知識【2026年版】」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「ChatGPTを導入した日本企業の業界別事例25社｜7業界の活用方法【2026年最新】」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「日本企業がChatGPTを導入する7つのメリット【具体的な効果を検証】」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「ChatGPTの日本企業活用で押さえるべき6つのデメリット・注意点」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「日本企業のChatGPT導入で発生しやすい5つのセキュリティリスクと対策」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「日本企業がChatGPTを導入する具体的な5ステップ【失敗しない手順】」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「2026年のChatGPT活用トレンド｜日本企業が取り組むべき4つの最新テーマ」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「ChatGPTの日本企業導入を成功させる5つのポイント【専門家が解説】」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「ChatGPTの日本企業導入に関するよくある7つの質問【2026年版FAQ】」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「まとめ｜ChatGPTの日本企業活用は「導入」から「競争優位」を生む段階へ」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「日本企業を取り巻く」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+- 使いやすさ：
+  - 「The AI receptionist for small business — live in minutes」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「This article explains why agencies reach for ChatGPT first and why it fails as a resale platform, what the OpenAI DIY stack actually costs to assemble, how a native white-label platform compares on a feature-by-feature basis, and a step-by-step setup for deploying your first branded client in minutes. There is a margin model you can copy and an honest note on where Trillet is not the right fit.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Templates and playbooks so onboarding is repeatable」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「$0.12/min after included AI minutes」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Minutes」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Website scraping onboarding」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「As of September 2026, Agency is $299/month with 3,000 included AI minutes; additional AI usage is $0.12/minute, excluding telephony. Standard deployment needs no custom application development, although complex client integrations still require implementation work.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Native onboarding is fast because the platform already handles the parts you would otherwise build. With Trillet, the typical first deployment looks like this.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「Included minutes」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「The website builder can draft an agent from a client's URL in minutes. Production deployment time depends on call flows, testing, integrations, number provisioning, compliance review, and client approval, so complex implementations should not be promised in a fixed number of hours.」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「既存のAI製品を紹介するだけなら簡単です」（https://1min.ai/ja/white-label-ai-for-small-businesses）
+  - 「1min.AIで、アイデアのリサーチからキャラクター作成、アニメーション動画まで、3つの簡単なステップでTikTokとReels向けのカートゥーン動画を作成できます」（https://1min.ai/ja/white-label-ai-for-small-businesses）
+  - 「転職希望者が簡単な経歴情報を入力するだけで最短30秒で職務経歴書を自動作成できる機能を提供」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「自社の業務に特化した専用AI（カスタムGPT）を、プログラミング知識のない社員でもノーコードで簡単に作成し社内展開する動きも活発です」（https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/）
+  - 「Partner onboarding and pre-sales support」（https://botpenguin.com/solutions/whitelabel-chatgpt）
+- 検索結果の抜粋：
+  - 「White - Label ChatGPT Alternative for Agencies ( 2026 ) - Trillet — White - Label ChatGPT Alternative for Agencies ( 2026 ) - Trillet Trillet https://trillet.ai > Blog」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+  - 「White - Label ChatGPT Alternative for Agencies (2026) - Trillet — White - Label ChatGPT Alternative for Agencies (2026) - Trillet Trillet https://trillet.ai > Blog」（https://trillet.ai/blogs/white-label-chatgpt-alternative-for-agencies）
+
+## OEM提供SaaS（日本の提供会社）（Japanese SaaS OEM）
+- 文脈：日本の提供会社
+- 提供企業：
+  - 「Independent software vendors (ISVs) embedding analytics into vertical solutions benefit significantly. A healthcare software company, for example, can offer clinical dashboards without hiring a data visualization team. Platform providers wanting to」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「their customers want to access but lacking the internal expertise to build analytics should evaluate OEM BI as a build vs buy decision. The math often favors buying when you factor in ongoing maintenance, security updates, and feature development.」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「capabilities determine how easily the OEM platform connects to your existing data sources. Look for native connectors to your data warehouse, support for live queries vs data extraction, and the ability to handle the concurrency demands of your customer base.」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Healthcare software providers embed clinical dashboards that help medical practices track patient outcomes, appointment utilization, and billing efficiency. Best for: companies whose customers need to monitor operational and clinical metrics without exporting data to spreadsheets.」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Managed Service Providers」（https://aggregate.digital/services/customization.html）
+  - 「My logo turned out exactly how I envisioned it. The preview features helped a lot, and I appreciated getting multiple file formats instantly.」（https://www.logogenie.com/logo-japan）
+  - 「Find Service Providers」（https://www.trade.gov/market-intelligence/japan-automotive-oem-and-parts）
+  - 「Step 4: Review Quotes, Evaluate, and Engage with Japanese Suppliers」（https://japanesemfg.com/insights/how-to-source-oem-parts/）
+  - 「. Japanese suppliers might not aggressively negotiate on price compared to some other regions, as their pricing often reflects meticulous quality control and advanced processes. While the unit price for」（https://japanesemfg.com/insights/how-to-source-oem-parts/）
+  - 「to SaaS, Data, and ISVs, so they can swiftly adapt products and services to address changes in business conditions, competitive landscape, market trends, and customer requirements.」（https://www.denodo.com/en/partners/oem-partners）
+  - 「Compare this program vs others」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「is one of the leading cloud infrastructure providers, and the ultimate backbone for its massive ecosystem of both international and domestic SaaS applications in Japan. Its huge scale, along with continuous advancement in AI services, storage, and compute, has made it the most default option for enterprises and startups deploying cloud-based solutions.」（https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216）
+  - 「Explore a preview of key market trends and insights」（https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216）
+  - 「Review sample data tables and segment breakdowns」（https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216）
+  - 「Preview how actionable insights can support your strategy」（https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216）
+- 自社名で出せる条件：
+  - 「Looking for a Japanese distributor that fits your brand? We can help you find the right partner.」（https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/）
+  - 「OEM BI Tools: Add Embedded Analytics to Your SaaS App」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「OEM BI Tools: How to Add Analytics to Your SaaS Product」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Adding analytics to your SaaS product typically means choosing between a lengthy custom build or licensing an OEM BI tool designed for redistribution. This article explains how OEM BI works, walks through evaluation criteria like multi-tenant architecture and licensing models, and explores how AI is changing what customers expect from embedded analytics.」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「OEM BI tools let SaaS companies embed white-labeled analytics into their products without building from scratch」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「The right OEM BI solution accelerates time to market while maintaining brand consistency across multi-tenant environments」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Self-service analytics within OEM BI increases adoption and creates competitive differentiation」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「AI-powered OEM BI tools are shifting from static dashboards to intelligent, actionable insights」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「What are OEM BI tools?」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「OEM stands for original equipment manufacturer.」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「OEM BI tools」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「white-label theming」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「What OEM BI requires:」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「OEM licensing rights that permit redistribution to your customers」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「White-label theming to match your brand identity」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+- 再販制度：
+  - 「(日本総代理店,」（https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/）
+  - 「System integrator and reseller channel reach.」（https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/）
+  - 「Single sign-on (SSO) integration through Security Assertion Markup Language (SAML) or OpenID Connect (OIDC) is non-negotiable for enterprise deployments. Your customers expect to authenticate once and access analytics without additional login steps. Verify that the platform supports your identity provider and can pass user context for row-level security enforcement.」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Licensing structures vary significantly across OEM BI vendors, and the wrong model can erode margins as your customer base grows.」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Per-active-viewer or capacity-based pricing ties costs to actual usage, typically measured by monthly active people or query volume. This model aligns vendor costs with your revenue and protects margins at scale.」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Copyright © 2026 Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Progress and certain product names used herein are trademarks or registered trademarks of Progress Software Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries. See」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Retail / Wholesale」（https://aggregate.digital/services/customization.html）
+  - 「Value-added resellers」（https://aggregate.digital/services/customization.html）
+  - 「Affiliate program」（https://www.logogenie.com/logo-japan）
+  - 「Based on our wholesale and retail experience by running Takaski.com, we help you to find min. three Japanese companies to fulfil your requirements. If we won’t be able to find min. three companies then we refund your full fee immediately.」（https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP）
+  - 「Wholesale」（https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP）
+  - 「近い概念として、代理店販売、リセール、ホワイトラベルなどがあります」（https://cano-pus.com/lab/2026/02/10/knowledge-partnersales-007/）
+  - 「SaaSのチャネルコンフリクト ー 直販と代理店併用のリスクと対策」（https://cano-pus.com/lab/2026/02/10/knowledge-partnersales-007/）
+  - 「販売代理店モデルでは通常 利用許諾はベンダーと利用者の間で締結されます」（https://tech-blog.optim.co.jp/entry/2022/06/23/100000）
+- 無料体験・貸出：
+  - 「Everything from highly specialized B2B, medical, industrial, technical, and scientific products… to all types of consumer goods」（https://japanesedistributors.com/top-japanese-it-computing-networking-distributors-importers/）
+  - 「Free Trial」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Industrial Automation」（https://aggregate.digital/services/customization.html）
+  - 「Building your own system based on a constantly developing industrial platform」（https://aggregate.digital/services/customization.html）
+  - 「Download the Denodo Platform trial to explore, learn, and build with governed data access.」（https://www.denodo.com/en/partners/oem-partners）
+  - 「START FREE TRIAL」（https://www.denodo.com/en/partners/oem-partners）
+  - 「Energy & Industrials」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「OEM partner program for industrial equipment makers」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「, JTB Corp., and Toda Corporation declared that altogether they carried out a suitable field trial for ECHIZEN Quest, which is considered a digital transformation project.」（https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216）
+  - 「driving strategy, innovation, and client success across niche industrial domains. His sectoral expertise spans」（https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216）
+  - 「無料トライアル可能で年間12,000円～という圧倒的な低価格を強みに 、既存顧客へのクロスセルやリスクゼロのドアノック商材としてご活用いただけるパートナーを募集します」（https://dairitenboshu.com/search/categorysub_103）
+  - 「無料トライアルを提供できるサービスであれば、実際に触ってもらうことが最も強い導入の後押しになります」（https://dairitenboshu.com/search/categorysub_103）
+- 価格：
+  - 「Named-user pricing charges for each individual who can access analytics. This model often appears affordable initially but scales poorly. A pricing structure that works at 500 people may become prohibitive at 50,000.」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「1,200万円のSaaSを回避したスギ薬局のAI内製化事例」（https://cano-pus.com/lab/2026/02/10/knowledge-partnersales-007/）
+  - 「$ 12.2」（https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216）
+  - 「$ 38.1」（https://www.researchnester.com/reports/japan-software-as-a-service-saas-market/2216）
+  - 「月額150,000円（税別）で、サイト数・ユーザー数は無制限です」（https://llmocheki.com/whitelabel）
+  - 「当社の卸価格は月額150,000円〜（税別・計測枠の超過分は従量課金）」（https://llmocheki.com/whitelabel）
+  - 「当社が運用（月額¥150,000に込み）」（https://llmocheki.com/whitelabel）
+  - 「卸価格は月額¥150,000〜（税別）で、計測枠の超過分は従量課金（ポイント購入）です」（https://llmocheki.com/whitelabel）
+  - 「当社は卸価格（月額150,000円〜・税別」（https://llmocheki.com/whitelabel）
+  - 「お支払いは月額（150,000円・税別）です」（https://llmocheki.com/whitelabel）
+  - 「■全国の100円ショップやカタログ通販会社、ホテルチェーンなどの量販店を通じて販売 など」（https://www.ipros.com/cg1/OEM%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「10万円以上～30万円未満」（https://dairitenboshu.com/search/categorysub_103）
+  - 「30万円以上～50万円未満」（https://dairitenboshu.com/search/categorysub_103）
+  - 「50万円以上～100万円未満」（https://dairitenboshu.com/search/categorysub_103）
+  - 「100万円以上～300万円未満」（https://dairitenboshu.com/search/categorysub_103）
+- 日本対応：
+  - 「SaaS Companies in Japan | Japan Dev | Japan Dev」（https://japan-dev.com/companies/tags/is-saas）
+  - 「/r/JapanDev」（https://japan-dev.com/companies/tags/is-saas）
+  - 「- Check out our new Reddit Community for Tech Careers in Japan」（https://japan-dev.com/companies/tags/is-saas）
+  - 「SaaS Companies in Japan」（https://japan-dev.com/companies/tags/is-saas）
+  - 「Top tech companies in Japan focused on SaaS」（https://japan-dev.com/companies/tags/is-saas）
+  - 「in Japan」（https://japan-dev.com/companies/tags/is-saas）
+  - 「browse all open developer jobs in Japan」（https://japan-dev.com/companies/tags/is-saas）
+  - 「LY Corporation is one of Japan's largest tech companies, formed in October 2023 through the reorganization of Group comp...」（https://japan-dev.com/companies/tags/is-saas）
+  - 「Autify, Inc. is a start-up company founded in San Francisco by a team of engineers who were the first Japanese team to g...」（https://japan-dev.com/companies/tags/is-saas）
+  - 「Build AI that Brings Japanese Omotenashi to the World」（https://japan-dev.com/companies/tags/is-saas）
+  - 「enechain is a startup operating the largest energy marketplace in Japan.」（https://japan-dev.com/companies/tags/is-saas）
+  - 「Givery’s mission is to create the world's most indispensable technology companies and revitalize Japan as a digital supe...」（https://japan-dev.com/companies/tags/is-saas）
+  - 「HeartCore is a Japanese company that runs the number one CMS (Content Management System) used in Japan.」（https://japan-dev.com/companies/tags/is-saas）
+  - 「O is an art technology studio based in the US and Japan. O's mission is to amplify creativity through our daily digital ...」（https://japan-dev.com/companies/tags/is-saas）
+  - 「FoodTech Capital, founded in 2021, aims to promote digital transformation and revitalize Japan’s food industry using tec...」（https://japan-dev.com/companies/tags/is-saas）
+- 使いやすさ：
+  - 「Drag-and-drop ETL」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「No-Code Workflows」（https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge）
+  - 「Celebrate Japanese heritage with a distinctive Japan logo. Browse professionally designed Japan-inspired templates, customize every detail, and create a memorable brand in minutes.」（https://www.logogenie.com/logo-japan）
+  - 「Try our logo maker and create a logo in minutes」（https://www.logogenie.com/logo-japan）
+  - 「Super easy to use」（https://www.logogenie.com/logo-japan）
+  - 「Someone in Monaco purchased this product 22 minutes ago」（https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP）
+  - 「Someone in Monaco purchased this product 17 minutes ago」（https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP）
+  - 「Someone in Germany purchased this product 36 minutes ago」（https://www.takaski.com/oem-japan/?srsltid=AYCX9vJ33Jqs7cgmbdrKa2ZoC8Ato4INA8PBXUONlwLHw6RVz_1BtSIP）
+  - 「Onboarding」（https://partnerstack.com/glossary/oem-partnerships）
+  - 「Provision APIs in minutes or hours, not weeks.」（https://www.denodo.com/en/partners/oem-partners）
+  - 「Tell us about the equipment you build and where it is sold. The application call can take less than 15 minutes, and the partner team will follow up with an answer.」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「ノーコードフロー作成」（https://passwork.prazto.com/use_case_4/）
+  - 「「操作が簡単なリモコンが欲しい」「電波干渉が少ない無線機が欲しい」などのお悩みはございませんか？自社設計の実績を生かし解決します」（https://www.ipros.com/cg1/OEM%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「コンクリートの代用に！耐食、耐候、絶縁、メンテナンス性に優れ、持ち運びも簡単」（https://www.ipros.com/cg1/OEM%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「そのツール使えてますか？ファンを作る簡単・低価格のクラウド型ポイント・プリペイドシステム「ミニラボ」」（https://dairitenboshu.com/search/categorysub_103）
+- 検索結果の抜粋：
+  - 「SaaS サービスのマルチテナントと OEM （ホワイトラベル）を ... — SaaS サービスのマルチテナントと OEM （ホワイトラベル）を ... OPTiM TECH BLOG https://tech-blog.optim.co.jp > entry > 2022/06/23」（https://tech-blog.optim.co.jp/entry/2022/06/23/100000）
+  - 「【 OEM提供 】 SaaS × 他システム連携 - Passwork - Prazto — 【 OEM提供 】 SaaS × 他システム連携 - Passwork - Prazto 株式会社Prazto https://passwork.prazto.com > use_case_4」（https://passwork.prazto.com/use_case_4/）
+
+## ホワイトラベル代理店制度（日本のSaaS）（Japan SaaS reseller program）
+- 文脈：日本の提供会社
+- 提供企業：
+  - 「Reseller programs also allow you to create recurring revenue streams while focusing on what you do best, as you can bundle products and services with your existing offerings. In a competitive landscape, partnering with the right SaaS platforms allows agencies to position themselves as more strategic, end-to-end solution providers rather than just service vendors.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「3. Managed Service Providers (MSP) Programs」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「operates through the Cloud Solution Provider (CSP) program, allowing partners to sell Microsoft 365, Teams, Azure, and other cloud services. It is ideal for IT service providers, MSPs, and consultants who deliver cloud migrations, security, and productivity solutions. The program includes structured partner tiers, incentives, and training pathways.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「SaaS reseller programs offer a powerful way for agencies, consultants, and service providers to expand their offerings without investing in product development. By partnering with established SaaS companies, businesses can add valuable tools to their portfolio, strengthen client relationships, and create reliable recurring revenue streams.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Prepare to gather and manage reviews in your brand.」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「Preview →」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「review AUTOP1LOT’s package and SU1TE prerequisites together.」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「User Access Reviews」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「User access reviews」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「Reviewed by」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「The program caters to diverse partnership models, including solution providers, app builders, and affiliate marketers.」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「enables businesses, agencies, and solution providers to resell its robust customer experience automation platform.」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「I. Pipedrive Solution Providers Program」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「Pipedrive's Solution Providers Program」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「Create value-added services around onboarding, governance, optimization, and renewal management to differentiate from direct vendor sales. Resellers adding AI coding tools to their portfolio should also review our」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+- 自社名で出せる条件：
+  - 「But, as an agency, you don't have to build a SaaS platform from scratch, nor do you need to be an encyclopedia of digital services. Instead, you can partner with an established SaaS provider and resell their products to your clients under your own brand. It’s a practical and scalable way to expand your portfolio without incurring heavy development costs.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「1. White-label Reseller Programs」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「White-label reseller programs allow you to rebrand the product completely as your own. Clients never know which vendor powers it. This is ideal for full-service digital agencies looking to create predictable, recurring revenue and own the client relationship end-to-end.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Complete brand ownership—clients see your brand, not the vendor's.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Standard software solutions aren't built for agencies managing multiple clients and complex workflows, which is exactly why agency-focused SaaS reseller programs exist. These programs are purpose-built to solve the problems agencies face daily. They empower resellers to rebrand and tailor software solutions to meet specific client needs, all from a single dashboard, under your own brand.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Instead of stitching together a dozen disconnected tools, you deliver one cohesive, branded experience to every client. Your role as a reseller is to bridge the gap—offering curated solutions under your brand while building client relationships that generate recurring monthly revenue. Less chaos, more control and a revenue stream that grows with every client you onboard.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「enables agencies and marketing professionals to resell its suite of SEO and marketing tools. Partners get access to white-label reports, client management dashboards, and branded analytics, making it easy to deliver premium, data-driven services without building their own software.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Fully customizable white-label reports branded to the agency.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「White-label content writing services that agencies can resell directly to clients.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Category: White-Label Partner Marketplace」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Partners gain access to a white-label marketplace of digital solutions.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「To join the Vendasta white-label partner program, you have to register by filling out your organisation details and signing up, which enables access to tools, training, and the marketplace immediately after setup. Alternatively, you can also start by signing up for a 30-day free trial.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「offers affiliate, reseller, and white-label partner models for AI chatbot solutions. It allows agencies to sell automation tools across websites and social platforms. White-label options enable full rebranding under the partner’s identity. The program is suited for agencies focused on conversational marketing and automation. It provides a growing AI-driven service opportunity.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「The program offers affiliate, reseller, and white-label partnership models.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「White-label partners can resell the platform under their own brand.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+- 再販制度：
+  - 「Top 10 SaaS Reseller Programs for Agencies - CookieYes」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Agency Partner」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Affiliate Partner」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Find the right partner program」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Not sure which partner program will work best for you? Let's help you.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Top 10 SaaS Reseller Programs for Agencies」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「What is a reseller program?」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Types of reseller programs」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「How SaaS reseller programs solve agency challenges」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Best SaaS reseller programs for agencies」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「How to choose the right SaaS reseller program?」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「. This exponential growth, as more businesses adopt SaaS tools to manage everything from marketing and analytics to compliance and customer experience, has paved a smart way for agencies to build recurring revenue streams through reseller programs.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「But, as an agency, you don't have to build a SaaS platform from scratch, nor do you need to be an encyclopedia of digital services. Instead, you can partner with an established SaaS provider and resell their products to your clients under your own brand. It’s a practical and scalable way to expand your portfolio without incurring heavy development costs.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Reseller programs also allow you to create recurring revenue streams while focusing on what you do best, as you can bundle products and services with your existing offerings. In a competitive landscape, partnering with the right SaaS platforms allows agencies to position themselves as more strategic, end-to-end solution providers rather than just service vendors.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「A reseller program is a business partnership model wherein a business allows another business or individual to sell its products or services under the latter’s own brand to their customers. The reseller typically purchases the product at a discounted rate and then resells it at a margin by either bundling it with their existing services or as a separate offering.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+- 無料体験・貸出：
+  - 「Try for free」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「To join the Vendasta white-label partner program, you have to register by filling out your organisation details and signing up, which enables access to tools, training, and the marketplace immediately after setup. Alternatively, you can also start by signing up for a 30-day free trial.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「To join the GoHighLevel Reseller Program, you can start by signing up for the 14-day free trial on their website. After choosing the subscription plan and providing your payment and billing information, you can then opt for the reseller program and create your account.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Free Trial」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「Practical trial」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「Use a trial account to inspect the login URL, page title, email sender, invitation, portal screens, support path and mobile access. For SuiteDash,」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「Run one practical trial before choosing」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「Free Trial」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「Free Trial for Your Clients」（https://www.salesforge.ai/blog/white-label-software）
+  - 「14 days with no credit card required」（https://www.salesforge.ai/blog/white-label-software）
+  - 「The standard 14-day trial is short for fully testing white-label setup and onboarding workflows」（https://www.salesforge.ai/blog/white-label-software）
+  - 「14-day free trial with full platform access (30-day trials are sometimes available through partner offers)」（https://www.salesforge.ai/blog/white-label-software）
+  - 「14-day free trial available before committing」（https://www.salesforge.ai/blog/white-label-software）
+  - 「14-day free trial with access to all features」（https://www.salesforge.ai/blog/white-label-software）
+  - 「14-day free trial with full feature access」（https://www.salesforge.ai/blog/white-label-software）
+- 価格：
+  - 「Partners receive discounted license pricing up to 50% and retain the margin when reselling to clients.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Partners can get 25-55% discounted pricing when reselling accounts.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Partners can join the program at a subscription fee of $97 a month for 3 sub accounts and later upgrade to the unlimited plan for unlimited sub accounts at $297 a month.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「The program offers highly competitive commission rates, with the potential to earn up to $4,100,000 in revenue.」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「I personally know many lead gen agencies layer $10K to $30K a month in branded software revenue on top of retainers, while solo sales consultants adding $800 to $2,000 in recurring revenue from 8 to 15 clients on a branded subscription.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「That's because plenty of platforms gate white-label behind their most expensive plan or charge per client so scaling to 30 clients turns a $200 subscription into $600.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「Full multichannel outreach (cold email + 6 native LinkedIn actions) resold under your own brand, with your custom domain, your logo, and your pricing plans.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「20% flat share on every client subscription. You can mark up client pricing above wholesale.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「Free to join. Underlying mailbox cost from $4/month, dropping to $2.50/month at bulk (billed annually).」（https://www.salesforge.ai/blog/white-label-software）
+  - 「Agency Unlimited $297/month (~$247/month billed annually). Agency Pro $497/month (~$414/month billed annually).」（https://www.salesforge.ai/blog/white-label-software）
+  - 「None. Flat SaaS pricing. You set your own retail price and keep 100% of the markup.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「Starter $99/month (~$79/month billed annually). White-label starts on Professional at $499/month (~$399/month billed annually).」（https://www.salesforge.ai/blog/white-label-software）
+  - 「White-label plans start at $1,500/year. AI voice agents are available on King and Emperor plans.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「No revenue share. You keep 100% of every client sale, set your own pricing, and can onboard unlimited clients.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「Core plan: $20 per client per month (billed annually). Enterprise custom.」（https://www.salesforge.ai/blog/white-label-software）
+- 日本対応：
+  - 「Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「日本のSaaS企業は代理店販売を知らない | Coral Capital」（https://coralcap.co/2022/01/partner-success/）
+  - 「日本のSaaS企業は代理店販売を知らない」（https://coralcap.co/2022/01/partner-success/）
+  - 「「日本で最近IPOしたSaaS企業の約半数は代理店販売をしていますし、国内でZoomの販売額の約70％は代理店経由です」（https://coralcap.co/2022/01/partner-success/）
+  - 「例えば、SB C&S、ダイワボウ情報システム、ネットワールド、シネックスジャパンといった大手は「ITディストリビューター」と呼ばれ、全国各地の販売店とともに、日本のITビジネスエコシステムを支えてきたプレイヤーです」（https://coralcap.co/2022/01/partner-success/）
+  - 「冒頭に挙げたZoomに似た例として、今年春に日本法人が立ち上がったMiro Japanのような組織には、MicrosoftやDropboxといった外資IT日本法人で販売実績を挙げたビジネスパーソンがいて、すでに野村総合研究所、日立ソリューションズ、CTCエスピー、Tooの4社が販売代理店として稼働しています」（https://coralcap.co/2022/01/partner-success/）
+  - 「SaaSの世界ではプロダクトの作り方や事業立ち上げ関連のプラクティスがシリコンバレーから輸入されてきた面が強いこともあって、日本の商習慣に関して案外すっぽり抜けているケースがあるのかもしれません」（https://coralcap.co/2022/01/partner-success/）
+  - 「Andurilとともに、日本を未来へ進める」（https://coralcap.co/2022/01/partner-success/）
+  - 「日本のアポロ計画──ダイヤモンド半導体という挑戦」（https://coralcap.co/2022/01/partner-success/）
+  - 「【超早割あり】日本最大のスタートアップキャリアフェア「Startup Aquarium 2026」を開催します」（https://coralcap.co/2022/01/partner-success/）
+  - 「146億円セカンダリーはどう決まったのか──日本最大ディールの裏側」（https://coralcap.co/2022/01/partner-success/）
+  - 「1.3. 日本市場でパートナーチャネル比率が高い理由」（https://note.com/ripla_business/n/n124ad2f92434）
+  - 「Zoomの日本事業は売上の約70%がパートナー経由と言われています」（https://note.com/ripla_business/n/n124ad2f92434）
+  - 「米国のSaaSが直販中心で成長するのとは対照的に、日本はSIerや専門商社を通じた間接販売の文化が根強い」（https://note.com/ripla_business/n/n124ad2f92434）
+- 使いやすさ：
+  - 「Partners receive priority technical and onboarding support.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「To join the Zendesk Reseller Program, you must first choose the reseller partnership type and then submit an application through the Zendesk Partner Connect website. Once your application is approved, you need to complete the onboarding and training.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Sales and onboarding support resources help partners acquire clients.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「To join the Respond.io Partner Program, you can sign up directly from their website by submitting an application with your organisation's details. To qualify as a partner, you have to pass a test during the onboarding.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Client Onboarding」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「One-on-One Onboarding」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「describes a preconfigured white-label offering that runs on SU1TE. Approval as a SU1TE partner comes first, then a separate AUTOP1LOT activation. Evaluate its package and terms alongside the partner account and child-account costs. A prepared setup can reduce initial configuration work, but you still need to validate branding, permissions, client onboarding and support for the market you serve.」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「Connect client work across CRM, onboarding, portal access, proposals and billing. Choose the workflows you configure and the plan or optional Power-Ups you need. Every plan includes unlimited Clients and Staff.」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「Onboarding」（https://suitedash.com/best-white-label-saas-reseller-programs/）
+  - 「Employee Onboarding & Offboarding」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「Employee onboarding & offboarding」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「Partner Onboarding:」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「Partners handle onboarding, first-line technical support, and renewal management. Vendors support partners via escalation channels for complex issues and provide resources for ongoing customer care.」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「As a GetResponse MAX partner, you'll be assigned a dedicated partner manager to guide you through onboarding and support your partnership journey.」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+  - 「Onboarding assistance:」（https://www.cloudeagle.ai/blogs/software-reseller-programs）
+- 検索結果の抜粋：
+  - 「代理店募集 している SaaS サービス34社の一覧 — 代理店募集 している SaaS サービス34社の一覧 ebisumart-lite.com https://ebisumart-lite.com > ホーム > 代理店」（https://ebisumart-lite.com/blog/saas-list/）
+  - 「代理店募集 サイト比較7選｜葛西了太 | SaaS パートナーセールス — 代理店募集 サイト比較7選｜葛西了太 | SaaS パートナーセールス note https://note.com > ビジネス > 営業」（https://note.com/r_kasai32/n/ncf3f1172edef）

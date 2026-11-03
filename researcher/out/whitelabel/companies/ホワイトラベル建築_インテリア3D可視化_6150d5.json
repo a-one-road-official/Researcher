@@ -1,0 +1,1479 @@
+{
+ "name": "ホワイトラベル建築・インテリア3D可視化",
+ "en": "white label architectural visualization",
+ "aliases": [
+  "white-label interior design software",
+  "architectural visualization",
+  "interior design software",
+  "3D floor planner",
+  "room planner"
+ ],
+ "context": "建築・デザイン",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:17:40.959977+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "The “best” choice in 2026 is usually a workflow-oriented pipeline—not one isolated tool—built around stable transitions between BIM/CAD, real-time preview, DCC refinement where needed, and final rendering.",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time rendering accelerates reviews and stakeholder alignment, while offline ray tracing still sets the quality ceiling for final marketing imagery and cinematic sequences.",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "This guide was reviewed from a workflow-first editorial perspective to reflect how architectural visualization teams evaluate software in 2026—across BIM/CAD handoff, DCC-based scene refinement, GPU rendering, operating system support, and hybrid real-time/offline production pipelines.",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing architectural visualization software starts with clarity: what do you ship most—weekly design reviews, marketing stills, or mixed deliverables? For professional architectural design, the question is not only which architecture rendering software looks best in a demo, but which rendering engine fits your design process, your update cycles, and your delivery requirements.",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "GPU rendering vs CPU: performance, VRAM limits, stability",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "Modern 3D rendering software is increasingly GPU-first. GPU rendering delivers near-real-time IPR (interactive preview rendering) for look-dev, lighting, and materials—especially valuable for interiors, where small changes can radically alter the mood.",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "That matters even more for large-scale projects, where predictable preview performance, stable rendering behavior, and efficient memory handling contribute directly to saving time across teams.",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "Ray tracing: real-time vs offline for photorealistic architectural renderings",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time BIM preview, marketing stills, animation",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "Best for teams that want one ecosystem to cover BIM-linked real-time preview, controlled refinement, and higher-quality final rendering across major production platforms.",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "A balanced Archviz workflow that can cover both real-time preview and higher-quality production rendering. Redshift for architectural visualization brings native BIM-linked rendering and live preview into supported authoring tools, while Cinema 4D extends the same ecosystem into more advanced scene management, animation, and finishing workflows.",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": ", teams can render, preview, and refine directly inside supported BIM environments such as Vectorworks using a live workflow, while still keeping",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "Work directly inside supported BIM tools with Redshift for Archviz for live preview, refinement, and fast review cycles",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "Use Redshift Live for BIM-linked real-time preview workflows and Redshift Production for higher-quality final output",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "Iteration can feel slower than real-time tools during early design phases, although teams in the Chaos ecosystem can add Enscape as a real-time layer for design review and hybrid workflows. That said, Enscape is an additional license and cost layer rather than something included with V-Ray itself.",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026, the useful answer is almost never \"buy one app and ignore the rest.\" Most studios run a short stack: something fast for reviews, something stronger for final stills or film work when the stakes are high. Here's the decision in plain terms: what to optimize for, how common tools fit, and where",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Start from the deliverable: weekly design reviews, marketing stills, walkthroughs, or a mix.",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "If most weeks are internal reviews and client alignment, prioritize live feedback and clean CAD/BIM sync. If most of the value sits in a few hero stills for marketing or a competition board, offline control still matters. Animation and interactive walkthroughs pull you toward real-time engines with solid cameras and assets.",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time vs offline. Be honest about both.",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "In a client review, D5 Render shifts the streetscape from day to evening, no re-render",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews inside the modeling environment",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "D5 is a strong fit to evaluate when a team wants a real-time workflow across frequent revisions and final delivery. If every board must be finished offline, or your team relies on a specialist DCC rendering workflow, keep that last mile—and you can still run client reviews in",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "D5 Render Interactive Presentation lets clients switch floors to review each level",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Enscape — in-model review plugin",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Enscape is a common plugin seat inside Revit, SketchUp, Rhino, Archicad, or Vectorworks for quick in-model reviews. It is a natural fit when review speed inside the authoring environment is the priority; teams that also need early AI exploration, finished stills, and animation should weigh whether they want those stages handled across separate tools or in one production workflow.",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "V-Ray and Corona cover locked, high-control stills—especially in 3ds Max–centric pipelines and competition or marketing boards. That control usually costs iteration time and specialist attention. A practical 2026 pattern: use real-time for the review loop, then bring in an offline workflow when the final frame truly needs that depth.",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Weekly reviews and early concept inside CAD/BIM (SketchUp, Rhino, Revit):",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "If your office is split—\"we review in one tool and finish in another\"—that's normal. Just name the split on purpose; stacks you drift into are where the hours go.",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time tools prioritize live feedback so lighting and materials update while you work—ideal for reviews and fast client loops. Offline engines prioritize control and final-pixel polish on locked frames. Many studios use both. D5 sits in the real-time production lane; Chaos V-Ray/Corona often cover the offline final when a board demands it.",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Sometimes. If your pain is hopping between a review plugin and an offline finisher, an all-in-one real-time production workflow like D5 can cover a large share of stills and animation. Teams with a deep offline culture may still keep V-Ray or Corona for hero boards. Run a pilot on a real deadline before you collapse the stack.",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Agency-scale pricing and process; Trustpilot sits at 3.9/5 from a small sample (10 reviews) — worth weighing against its broader positioning rather than treating as a pure quality signal.",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Structured production model with defined QA checkpoints and brief templates built specifically to prevent quality drops at volume. 4.9/5 on Trustpilot across 125 reviews, with clients repeatedly praising responsiveness and round-the-clock turnaround.",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Enormous range of talent and price points; you can review portfolios and work history before hiring; flexible hourly or fixed-price engagement.",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Full payment required before any review stage",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "At the high-volume and premium tiers especially, confirm exactly who reviews your feedback and how fast they respond. Vague “our team will handle it” answers tend to turn into delays once production is underway.",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Best 3D Rendering Companies 2026: 11 Compared | NoTriangle Studio",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Best 3D Rendering and Visualization Companies in 2026: 11 Studios Compared",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "The eleven studios compared here are NoTriangle Studio, DBOX, Easy Render, Hayes Davidson, K2 Visual, Kilograph, Luxigon, Maverick Frame, RealSpace 3D, Spine 3D and The Boundary. The right 3D rendering company depends on your project type, what the images have to do, and how you want to work.",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "We compared eleven 3D rendering and architectural visualization companies: NoTriangle Studio (founded 2014), DBOX, Easy Render, Hayes Davidson, K2 Visual, Kilograph, Luxigon, Maverick Frame, RealSpace 3D, Spine 3D and The Boundary. The best one depends on the job: a landmark tower, a planning approval, a real-time sales tool, a brand launch, or a luxury home or multi-unit project that has to sell.",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Last reviewed: 24 October 2026. Every studio’s details were checked on its own website that day.",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "We did not rank on price or speed. Every studio here quotes to scope, and schedules depend on the project and the client’s feedback as much as on the studio. We rechecked each studio’s own website on 24 October 2026 and review the list every six months.",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews and references",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Our clients’ reviews, all 41 of them, are on",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "our reviews page",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "No. It is published by NoTriangle Studio, and we included ourselves in first place. The other ten are listed alphabetically, not ranked. For independent views, compare it with the third-party lists linked above and with each studio's client reviews.",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Approval Renderings vs Sales Renderings",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "41 client reviews, all 5 stars",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Archviz Software 2026: Compared by Role",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "What’s the difference between archviz software for architects vs. developers?",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Your account manager shares the client brief. Our design lead reviews it, identifies gaps, and confirms scope, deliverables, and timeline before any design work starts. No assumptions, no rework from misunderstood requirements.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "High-fidelity mockups are built in Figma with your client’s brand system applied. We share designs for your team’s review, incorporate feedback in structured rounds, and finalize every screen and state before handoff.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "Planner 5D costs $0 on the Free plan, $19.99 a month or $59.99 a year for Premium, and $49.99 a month or $399.99 a year for Professional, with Enterprise priced on request. Below: what each plan includes, the annual-vs-monthly math, trials, education pricing and the extras that cost more.",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Annual vs monthly: the math",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Planner 5D annual vs monthly billing, cost over 12 months",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Planner 5D and Render a House pricing compared",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Planner 5D alternatives",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Offer next-generation rendering technology that helps you stay ahead of slower, traditional alternatives.",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Leave a Google review",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Whatever way you brief, share files and collect feedback - by email, in a messenger, through a review platform or your own project system - we work inside it.",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "(Japanese)",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "3D Rendering Services for Japan: 5 Architectural Project in Tokyo, Hokkaido and more • AIMIR CG | 3D Architectural Visualization Rendering Services Company",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Rendering Services for Japan: 5 Architectural Project in Tokyo, Hokkaido and more",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Creating architectural renders is not bonded by location. As one of the merits of 3D rendering services, no one can deny the fact that 3D artists are able to deliver perfect visuals in a short time to anywhere on this planet. In Japan, 3D rendering services are widely used to save time and money, communicate ideas more effectively, and gain a competitive advantage in their industry.",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s incredibly diverse and innovative array of modern architecture deeply connect to the traditional architecture, also has transformed with the modern world today. Whether you’re into wabi-sabi houses, stunning capsule towers, or wooden-structured buildings, you’re going to find some surprises in this Architectural Rendering Projects in Japan list. Marvel at the detail of",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (1)",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (2)",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (5)",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (3)",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (4)",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (6)",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "architectural-visualization-3d-rendering-services-exterior-interior-cgi-Es13-japan (7)",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Located in Hokkaido, ES13 is a quiet, tranquil mansion on the mountainside. With a total floor area of 778 square meters, this reinforced concrete is nestled in the forests where nature flows. Equipped with 5 bedrooms and a Japanese bath, this 3-storey mansion finds peace within the texture of wood, stone and brick.",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "architectural-visualization-3d-rendering-services-interior-cgi-z-residence-tokyo-japan (19)",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "architectural-visualization-3d-rendering-services-interior-cgi-z-residence-tokyo-japan (20)",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "architectural-visualization-3d-rendering-services-interior-cgi-z-residence-tokyo-japan (18)",
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Find a Reseller",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate Program",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Found via LinkedIn, portfolio sites like ArtStation or Behance, or referral — not a marketplace.",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Every deliverable ships under your brand. Your client sees your agency’s name on the Figma files, your watermark on the presentations, and your team in every meeting. We stay invisible so your client relationship stays yours — and your margins stay intact.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "White label design pricing varies by project scope and complexity. Typical engagements are quoted on a per-project basis with clear deliverables and revision rounds defined upfront. Agencies set their own client-facing rates and retain the margin between what they charge and what they pay the white label provider. White Label IQ provides transparent project-based quotes with no hidden fees.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "Become an ArchiVinci Reseller | ArchiVinci",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "RESELLER PROGRAM",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "ArchiVinci Reseller",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Add a high-margin AI rendering solution to your catalog and capture new demand in the fastest-growing archviz space.​",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Apply to become reseller",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Join our reseller partner program today",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Apply to become a reseller",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "What other software do you resell?",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Reseller",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "You receive the final images in the resolution and format you need, and the source files on request. Once the work is paid for, it is yours to use, edit and resell.",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Our rates are partner rates - set for studios and agencies that resell the work and need room for their own margin",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "D5's pricing page",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Get a price for your project in 30 seconds.",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "$2,000–$8,000+ per image",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "$99–$2,000 per image",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "$50–$1,000 per image",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "$2,000–$8,000+ per image.",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Agency-scale pricing and process; Trustpilot sits at 3.9/5 from a small sample (10 reviews) — worth weighing against its broader positioning rather than treating as a pure quality signal.",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "We did not rank on price or speed. Every studio here quotes to scope, and schedules depend on the project and the client’s feedback as much as on the studio. We rechecked each studio’s own website on 24 October 2026 and review the list every six months.",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Published 2026 industry pricing guides put a single architectural rendering at roughly $250 to $5,000+ per still image, depending on detail, realism and scope. These are industry figures, not any one studio's prices. Most studios, including ours, quote each project to its scope. See our",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "is the most common recommendation because it plugs directly into Revit, SketchUp, or Rhino with almost no separate learning curve, and its ~$575/year cost is easy to justify against even a single won project.",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Blender is the fallback for a solo practice with zero software budget and someone willing to invest the time to learn it. D5 Render’s free Community tier is a middle path: real-time speed at no cost, with the option to upgrade to Pro ($360/year) once volume justifies it.",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "A studio with dedicated visualization staff and a steady flow of competition entries or client presentations usually outgrows real-time-only tools. The typical stack pairs 3ds Max (~$1,945/year) for modeling with V-Ray or Corona (~$540/year, bundled) for hero-quality stills, plus a real-time engine like Enscape or D5 Render for day-to-day client walkthroughs.",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Teams running sales galleries increasingly add Chaos Vantage (~$659/year) as a companion tool: it lets a salesperson walk a prospective buyer through a V-Ray-quality scene live, without waiting on a full offline render.",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "$0–$575/year",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "~$2,500–$3,500/year",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "~$1,000–$2,000/year",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Enscape is the most common recommendation for solo architects because it plugs directly into Revit, SketchUp, or Rhino with almost no setup time, at roughly $575/year. Blender is the free alternative for anyone willing to invest more setup time.",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "The clearest signal is render volume outpacing what one person can produce on a free tier within your deadlines, or hitting a commercial revenue threshold that moves you out of a free license’s terms, as with Twinmotion above $1 million in annual revenue.",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $2,500–$3,500 per seat per year is typical for a studio running a modeling tool, an offline renderer, and a real-time engine together, though costs scale with the number of seats needed.",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Planner 5D Pricing 2026: Free, $19.99 Premium & $49.99 Pro",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Planner 5D Pricing 2026: Free, Premium ($19.99/mo) & Professional ($49.99/mo)",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Planner 5D costs $0 on the Free plan, $19.99 a month or $59.99 a year for Premium, and $49.99 a month or $399.99 a year for Professional, with Enterprise priced on request. Below: what each plan includes, the annual-vs-monthly math, trials, education pricing and the extras that cost more.",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Planner 5D pricing at a glance",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Free — $0",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Premium — $19.99/mo or $59.99/yr",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Professional — $49.99/mo or $399.99/yr",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Common questions about Planner 5D pricing",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Quick answer: Planner 5D Free is $0. Premium is $19.99 per month billed monthly or $59.99 billed annually (about $5 a month). Professional is $49.99 per month billed monthly or $399.99 billed annually (about $33.33 a month), per the",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Planner 5D pricing page",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Every Planner 5D figure on this page comes from Planner 5D’s own pricing page, help center and legal pages, checked on 27 October 2026 and linked inline. Planner 5D is a home and floor-plan design app on web, iOS, Android, Windows, macOS and visionOS.",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Planner 5D plans, prices and billing periods, October 2026",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "White-label architectural visualization is 3D rendering produced under another firm's brand. Studio Lunex delivers unbranded files, does not contact your clients and works under NDA, at the same starting prices as direct projects.",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label work is priced the same way as direct projects: exteriors from $300, interiors from $5 per square metre and walkthrough animation from $1,000, each confirmed in a fixed written quote. If you expect regular work, mention it in your brief so we can discuss it.",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Photoreal exterior renders of houses, villas, cabins and multi-unit buildings from $300.",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Furnished, lit and styled interior renders from $5 per m², staging included.",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Our partner rates are available on request - leave your details and we will send you a link to the price list within 24 hours.",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Before you compare logos, lock four decisions. Skip them and every demo looks good for twenty minutes.",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "14 minutes",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "· 8 minutes",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Expand your business with a cloud-based solution that does not require complex setup, costly hardware, or heavy onboarding.",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Easy to use",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Our process is simple and intuitive. Go from a photo of your room to a stunning new design in just a few minutes.",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "You have 10+ images to produce on a schedule, your brand reputation depends on consistent quality, or you don’t have bandwidth to manage individual relationships.",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, specifically for small, well-defined, low-stakes projects — a single product image, a personal project, a startup testing an idea. Once you need more than a handful of consistent images, or your brand reputation depends on the result, a studio’s structured QA process becomes worth the extra cost.",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "A CGI studio that covers real estate pre-sales, with exterior and interior renders, aerials, animation and virtual tours, alongside product and advertising work and a white-label service for marketing agencies.",
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "white-label",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Our studio specializes in white-label architectural visualization and real estate CGI, delivering production-ready renders to clients around the world.",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Real project case studies from architects, developers, and hospitality brands who partner with Archvizly for photorealistic renders, virtual tours, and animations. See how a confidential white-label production bench helps teams pitch, launch, and market faster, project after project.",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Archvizly is a white-label architectural visualization studio serving architects, developers, interior designers, and hospitality brands worldwide. We deliver production-ready renders, 3D models, and virtual tours for pitches, launches, and marketing campaigns on time, at scale.",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Design Services for Agencies - White Label IQ",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Design Services Built for Agency Workflows",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients expect design that performs — not just design that looks good in a mockup. White Label IQ delivers UI/UX, graphic design, and 3D rendering under your brand, at the quality level your agency promises but without the overhead of a full in-house design team.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label IQ’s design team builds with performance in mind from the first wireframe. We don’t hand off pretty mockups that fall apart during development. We deliver production-ready design systems that translate cleanly into code, meet accessibility standards, and solve the specific business problems your client briefed you on.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "Four Capabilities Under One White Label Roof",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "Hiring senior designers is expensive and slow. Freelancers introduce quality variance and availability risk. White Label IQ gives your agency a dedicated design function that scales with your project pipeline. When you land a design-heavy project, our team ramps immediately. When the workload drops, you don’t carry idle salaries.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "Every deliverable ships under your brand. Your client sees your agency’s name on the Figma files, your watermark on the presentations, and your team in every meeting. We stay invisible so your client relationship stays yours — and your margins stay intact.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, our designers can participate in client calls as members of your team. They use your agency’s email addresses, introduce themselves under your brand, and present work as your employees would. This is common for complex projects where direct designer-client dialogue speeds up the feedback cycle.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "What are white label design services for agencies?",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "White label design services allow digital agencies to outsource UI/UX design, graphic design, and other visual work to a specialized partner that operates under the agency’s brand. The agency’s clients never know a third party is involved. White Label IQ provides these services exclusively for US-based agencies, covering web design, mobile app design, brand identity, and 3D rendering.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "What types of design can be white labeled?",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "Common white label design services include UI/UX design for websites and applications, graphic design for marketing collateral and brand assets, 3D product rendering, landing page design, mobile app interface design, and design system creation. White Label IQ covers all of these under a single partner relationship.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "How much do white label design services cost?",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "White label design pricing varies by project scope and complexity. Typical engagements are quoted on a per-project basis with clear deliverables and revision rounds defined upfront. Agencies set their own client-facing rates and retain the margin between what they charge and what they pay the white label provider. White Label IQ provides transparent project-based quotes with no hidden fees.",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "How do white label designers integrate with agency teams?",
+    "url": "https://www.whitelabeliq.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label 3D Rendering for Agencies",
+    "url": "https://www.whitelabeliq.com/design/3d-rendering/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://www.whitelabeliq.com/design/3d-rendering/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label",
+    "url": "https://www.whitelabeliq.com/design/3d-rendering/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label 3D Rendering?",
+    "url": "https://www.whitelabeliq.com/design/3d-rendering/",
+    "pass": 3
+   },
+   {
+    "quote": "info@whitelabeliq.com",
+    "url": "https://www.whitelabeliq.com/design/3d-rendering/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 White Label IQ | WordPress, HubSpot and Web Development Company",
+    "url": "https://www.whitelabeliq.com/design/3d-rendering/",
+    "pass": 3
+   },
+   {
+    "quote": "This digital guide makes it easy to say “yes” to more client work—with confidence, structure, and White Label IQ behind you.",
+    "url": "https://www.whitelabeliq.com/design/3d-rendering/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label planners and product configurators",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Custom pricing through sales for companies that want a white-label room planner, their own 3D product catalog, a product configurator, APIs and cart/CRM/ERP connections. No list price is published.",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "White-label ready",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Offer ArchiVinci under your own brand, giving clients a seamless experience tied to your business.",
+    "url": "https://www.archivinci.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label 3D Rendering for Architects | Studio Lunex",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "/ White-Label Visualization",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label 3D visualization for",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label architectural visualization is 3D rendering produced under another firm's brand. Studio Lunex delivers unbranded files, does not contact your clients and works under NDA, at the same starting prices as direct projects.",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "What white-label means",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, our production",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Unbranded delivery.",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label rates",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label work is priced the same way as direct projects: exteriors from $300, interiors from $5 per square metre and walkthrough animation from $1,000, each confirmed in a fixed written quote. If you expect regular work, mention it in your brief so we can discuss it.",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "What does white-label 3D rendering mean?",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "It means we produce the renders under your brand. Files are unbranded, we do not contact your clients, and everything is covered by an NDA.",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Visualization",
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label 3D Rendering for Studios and Agencies | Kotiger.co",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Renders that go straight to your client - no rework, no third-party credits. White-label 3D rendering services since 2016, helping agencies and studios deliver more without growing the team.",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "3D production unit behind your brand",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2016 we have worked mostly white-label - our renderings go out under our clients’ names, not ours.",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Why do you work white-label?",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "How are you different from other studios that work white-label?",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Ten years of white-label work for agencies and studios in the United States and Europe.",
+    "url": "https://www.kotiger.co/partnership",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Best Architectural Visualization Software in 2026 - Maxon — Best Architectural Visualization Software in 2026 - Maxon Maxon https://www.maxon.net > article > bes...",
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "pass": 3
+   },
+   {
+    "quote": "Best Architectural Visualization Software Guide for 2026 — Best Architectural Visualization Software Guide for 2026 D5 https://www.d5render.com > Blog",
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Best 3D Rendering & Architectural Visualization Studios in ... — Best 3D Rendering & Architectural Visualization Studios in ... Rapid Renders https://rapidrenders.com > best-3d-re...",
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Architectural Visualization Software Comparison ( 2026 Guide) — Architectural Visualization Software Comparison ( 2026 Guide) archvizly.com https://archvizly.com > architectural-v...",
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Planner 5D costs $0 on the Free plan, $19.99 a month or $59.99 a year for Premium, and $49.99 a month or $399.99 a year for Professional, with Enterprise priced on request. Below: what each plan includes, the annual-vs-monthly math, trials, education pricing and the extras that cost more.",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial: 7-day PRO, 3-day Premium",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "says the PRO trial includes 50 credits and that monthly credits expire at the end of each 30-day cycle. Credit pack prices: Not published (checked October 2026).",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "trial article",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": ", a 7-day PRO trial is available on web, iOS, Android and Windows, and a 3-day Premium trial on macOS and iPhone/iPad. Trials can be activated once; after that you are charged the full price. The trial converts to a paid subscription automatically, so cancel at least 1 day before it ends. The pricing page adds that eligibility and terms depend on the offer shown at checkout.",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. The Free plan costs $0 with no time limit: unlimited projects, web and mobile, and 50% of the furniture catalog. Floor-plan upload, the full catalog of 10,000+ items, renders beyond screenshots and AI Studio credits need Premium or Professional.",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Does Planner 5D have a free trial?",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Planner 5D's help center lists a 7-day PRO trial on web, iOS, Android and Windows, and a 3-day Premium trial on macOS and iPhone/iPad. Trials can be activated once, then convert to a paid subscription unless you cancel at least 24 hours before the trial ends.",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Freepik, now Magnific, costs $20, $45 or $110 a month billed monthly, about 25% less billed annually, plus Business at $69 per seat. Free plan, credits and extras explained.",
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabeliq.com/design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalpolo.com/best-unlimited-graphic-design-for-agencies-and-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.10comwebdevelopment.com/whitelabel-reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manypixels.co/blog/get-a-designer/best-white-label-design-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/whitelabel-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabeliq.com/design/3d-rendering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appinstitute.com/best-practices-for-custom-branding-in-white-label-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.docsie.io/blog/glossary/white-label-capability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customer-portals.com/features/white-label-branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novisign.com/blog/signage/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://white-japan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.architectmagazine.com/design/wood-ai-crystals-mirrors-japans-pavilions-break-all-the-rules-at-expo-2025_o/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://architizer.com/blog/inspiration/collections/white-homes-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://arcadium3d.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.megasoft.co.jp/3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imsidesign.com/ja/solutions/interior-design?srsltid=AYCX9vJz5HtUjkOsmrtkXrJMBGZTB6OQ0-FrM_MV40eFQRW2j582pITO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alphacox.com/blog/20240129/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livehome3d.com/useful-articles/ja/creating-a-traditional-japanese-house-in-live-home-3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/what-is-white-label-analytics-and-why-does-it-matter-for-your-business-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.personalarch.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.archivinci.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deskteam360.com/blog/white-label-design-partner-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.roompalette.net/scene/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.megasoft.co.jp/neo10/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.sherpatimes.biz/others/18901/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3cata.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adobe.com/jp/products/substance3d/discover/3d-interior-design-software.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mag.tecture.jp/job/158097/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coohom.com/jp/sales-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talentacquisition.3ds.com/careersection/qa/jobapply.ftl?job=549554&lang=ja&src=CWS-10080",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.tenpodesign.com/jobs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancers.jp/profile/search/design/architecture_interior_drawing?job=graphic_designer&refinement_skill%5B0%5D=3D%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0&srsltid=AYCX9vJEA15uREus6NfeoIHDhjC2IlLSvcLsKKOehrUJlEHvmEPx_yMV",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://studiolunex.com/white-label-architectural-visualization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cgifurniture.com/industry/marketing-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kotiger.co/partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://artclickdev.com/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qecad.com/concept-design-drafting.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label architectural visualization 2026",
+   "results": [
+    "https://www.maxon.net/en/article/best-architectural-visualization-software?srsltid=AYCX9vJ1u_oBYXJNTqTxbR8sgDzFPKKY3ppxF-sJRBa4VzFdhm6GZsP_",
+    "https://www.d5render.com/posts/best-architectural-visualization-software",
+    "https://rapidrenders.com/best-3d-rendering-architectural-visualization-studios-2026/",
+    "https://notrianglestudio.com/blog/best-3d-rendering-companies/",
+    "https://archvizly.com/archviz-software/architectural-visualization-software-comparison-2026/",
+    "https://infalliblestudio.com/best-architectural-rendering-software-in-2026-tools-features-and-use-cases/",
+    "https://www.youtube.com/watch?v=NeRno6I3j8w",
+    "https://blog.chaos.com/top-7-trends-in-archviz-you-cant-ignore",
+    "https://www.meltplan.com/blogs/the-best-3d-rendering-software-for-architects-in-2026",
+    "https://mrrendering.com/"
+   ]
+  },
+  {
+   "query": "white label architectural visualization reseller program agencies",
+   "results": [
+    "https://www.whitelabeliq.com/design/",
+    "https://www.digitalpolo.com/best-unlimited-graphic-design-for-agencies-and-resellers/",
+    "https://www.10comwebdevelopment.com/whitelabel-reseller-program",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.manypixels.co/blog/get-a-designer/best-white-label-design-services",
+    "https://www.iqcomputing.com/white-label-web-design/",
+    "https://dribbble.com/resources/agencies/white-label-web-design-agencies",
+    "https://www.personalarch.com/business/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://3dmodelize.com/white-label-architectural-visualization"
+   ]
+  },
+  {
+   "query": "white label architectural visualization free trial pricing",
+   "results": [
+    "https://simvoly.com/whitelabel-website-builder",
+    "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "https://www.whitelabeliq.com/design/3d-rendering/",
+    "https://www.perspective.co/article/white-label-landing-page-builder",
+    "https://www.renderahouse.com/blog/planner-5d-pricing",
+    "https://www.personalarch.com/business/",
+    "https://sellful.com/pricing/",
+    "https://www.247pro.com/white-label-branding",
+    "https://www.halorenders.com/",
+    "https://archvizly.com/"
+   ]
+  },
+  {
+   "query": "white label architectural visualization rebrand your logo custom domain",
+   "results": [
+    "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "https://appinstitute.com/best-practices-for-custom-branding-in-white-label-platforms/",
+    "https://www.docsie.io/blog/glossary/white-label-capability/",
+    "https://customer-portals.com/features/white-label-branding/",
+    "https://www.whitelabeliq.com/design/",
+    "https://www.novisign.com/blog/signage/white-label/",
+    "https://www.boldreports.com/white-label-reporting/",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://www.duda.co/website-builder/white-label",
+    "https://www.allzonetech.com/how-to-build-white-label-software/"
+   ]
+  },
+  {
+   "query": "white label architectural visualization Japan Japanese",
+   "results": [
+    "https://white-japan.co.jp/",
+    "https://www.aimircg.com/3d-rendering-services-for-japan-architectural-projects-case-study/",
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://www.architectmagazine.com/design/wood-ai-crystals-mirrors-japans-pavilions-break-all-the-rules-at-expo-2025_o/",
+    "https://www.youtube.com/watch?v=mduVYRlw3X8",
+    "https://architizer.com/blog/inspiration/collections/white-homes-in-japan/",
+    "https://www.magnific.com/free-photos-vectors/japanese-architecture-3d-visualization",
+    "https://www.sensesatlas.com/the-japan-architect-theoretical-architecture/",
+    "https://www.facebook.com/61565244002554/videos/top-architecture-in-japantraditional-japanese-architecture-was-shaped-by-timber-/1017540077689182/",
+    "https://vertexbloom.com/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル建築・インテリア3D可視化 日本",
+   "results": [
+    "https://arcadium3d.com/ja",
+    "https://www.megasoft.co.jp/3d/",
+    "https://www.imsidesign.com/ja/solutions/interior-design?srsltid=AYCX9vJz5HtUjkOsmrtkXrJMBGZTB6OQ0-FrM_MV40eFQRW2j582pITO",
+    "https://www.alphacox.com/blog/20240129/",
+    "https://www.livehome3d.com/useful-articles/ja/creating-a-traditional-japanese-house-in-live-home-3d",
+    "https://www.homestyler.com/?affiliateCode=OS7woEFT&lang=ja_JP",
+    "https://about.roompalette.net/scene/",
+    "https://www.unite.ai/ja/best-ai-interior-design-tools/",
+    "https://www.cg.union-tec.jp/post/ai-tools-architecture-cg",
+    "https://note.com/jasonjiang/n/n8ee2d3fde99f"
+   ]
+  },
+  {
+   "query": "white label architectural visualization OEM partnership",
+   "results": [
+    "https://www.whitelabeliq.com/design/3d-rendering/",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://www.domo.com/learn/article/what-is-white-label-analytics-and-why-does-it-matter-for-your-business-success",
+    "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "https://www.personalarch.com/business/",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://dashtera.com/service-models/oem-white-labeling/",
+    "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "https://www.creatio.com/partners/oem",
+    "https://vertexbloom.com/"
+   ]
+  },
+  {
+   "query": "white label architectural visualization partner program pricing",
+   "results": [
+    "https://www.whitelabeliq.com/design/3d-rendering/",
+    "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.archivinci.com/reseller",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.personalarch.com/business/",
+    "https://www.manypixels.co/blog/get-a-designer/best-white-label-design-services",
+    "https://deskteam360.com/blog/white-label-design-partner-guide",
+    "https://www.g2.com/products/whitelabel-partner/pricing"
+   ]
+  },
+  {
+   "query": "ホワイトラベル建築・インテリア3D可視化 OEM提供",
+   "results": [
+    "https://about.roompalette.net/scene/",
+    "https://www.megasoft.co.jp/neo10/",
+    "https://blog.sherpatimes.biz/others/18901/",
+    "https://www.3cata.com/",
+    "https://www.adobe.com/jp/products/substance3d/discover/3d-interior-design-software.html",
+    "https://sketchup.trimble.com/ja-jp/industries/interior-design?srsltid=AYCX9vICcfNagc_ot_m7PajO4xJK7Fnmv2JnDbks6VvaIM-zDcQF4FCY",
+    "https://prtimes.jp/main/html/rd/p/000000057.000148812.html",
+    "https://kosmu.co.jp/services/",
+    "https://www.acimus.com/sponsor-program",
+    "https://llmocheki.com/blog/llmo/llmowhitelabel"
+   ]
+  },
+  {
+   "query": "ホワイトラベル建築・インテリア3D可視化 代理店募集",
+   "results": [
+    "https://mag.tecture.jp/job/158097/",
+    "https://www.coohom.com/jp/sales-distributor",
+    "https://talentacquisition.3ds.com/careersection/qa/jobapply.ftl?job=549554&lang=ja&src=CWS-10080",
+    "https://job.tenpodesign.com/jobs",
+    "https://www.lancers.jp/profile/search/design/architecture_interior_drawing?job=graphic_designer&refinement_skill%5B0%5D=3D%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0&srsltid=AYCX9vJEA15uREus6NfeoIHDhjC2IlLSvcLsKKOehrUJlEHvmEPx_yMV",
+    "https://dairitenboshu.com/search/categorysub_703",
+    "https://jp.indeed.com/viewjob?jk=e400c328938b4089",
+    "https://www.bamboo-media.jp/resource/",
+    "https://www.kawazoe-architects.com/metabrain-lab/recruit-2"
+   ]
+  },
+  {
+   "query": "white label architectural visualization distributor Japan",
+   "results": [
+    "https://www.personalarch.com/business/",
+    "https://studiolunex.com/white-label-architectural-visualization/",
+    "https://cgifurniture.com/industry/marketing-agencies/",
+    "https://www.kotiger.co/partnership",
+    "https://artclickdev.com/whitelabel",
+    "https://www.qecad.com/concept-design-drafting.php",
+    "https://white-japan.co.jp/",
+    "https://maverickframe.com/",
+    "https://renderby.com/3d-visualization-rendering-services-in-33japan/",
+    "https://www.abhiwan.com/architectural-visualization-services/japan"
+   ]
+  }
+ ],
+ "missing": {}
+}

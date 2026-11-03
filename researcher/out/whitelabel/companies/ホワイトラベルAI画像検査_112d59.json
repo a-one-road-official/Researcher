@@ -1,0 +1,1304 @@
+{
+ "name": "ホワイトラベルAI画像検査",
+ "en": "white label AI visual inspection",
+ "aliases": [
+  "white-label machine vision",
+  "AI visual inspection",
+  "visual inspection",
+  "defect detection",
+  "外観検査"
+ ],
+ "context": "製造業・検査",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:17:32.149749+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Managed Service Providers",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Audit readiness requires timestamped, tamper-evident records. Confirm how the platform stores inspection history and whether that history is exportable for compliance reviews.",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "For operations buyers who have struggled with inspection data that never makes it back to a central system, this matters. The platform is built so that the person filling out the form in the field and the manager reviewing asset history in the back office are working from the same record, not two separate systems that need to be reconciled later.",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Are inspection records timestamped and stored in a way that supports compliance review?",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Alternatives & Best-Of",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Asset Panda vs Cheqroom | 2026 Comparison Guide",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Telecom & Internet Providers",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Private Providers",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Tailored pricing for government agencies and inspection providers",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Blitzz video platform enables our team to quickly review training facilities, even in remote areas, supporting accreditation and provider monitoring. Virtual site visits accelerate processes and improve efficiency for SETA.",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Security questionnaires, custom legal review / custom MSA",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Review workflows & insights",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Assign roles (Owner, Admin, Manager, Reviewer, Annotator) and granular permissions.",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Review and verify other users' annotation and prediction results.",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Assign Reviewer",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Assign individual users to review and verify specific annotations.",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Metrics and statistics to review and monitor individual annotator performance.",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP Joule Deployment: On-Prem vs Cloud AI for SAP Enterprises",
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Complete Guide to Greenfield vs Brownfield Industrial Projects",
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Deep learning model runs on local edge GPU — no cloud dependency. Each image classified in 10–50ms. Confidence score determines whether result is auto-decided or escalated to human review.",
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Binary or multi-class: conforming vs. non-conforming. Fastest and simplest. Best when the entire part surface is captured in a single camera view.",
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Quarterly retraining reviews. Automated alerts when accuracy or false positive rate deviates from baseline. New defect categories retrained within 2 weeks of first identification.",
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Quarterly Review",
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "PoC vs Production",
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "The Intelligence Shift: Emerging AI Trends Shaping the Future of VSaaS",
+    "url": "https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "For years, video surveillance systems served a single purpose: recording footage that security teams could review after an incident. However, to meet the needs of today’s organizations, video systems must be able to detect suspicious activity, notify the right people, accelerate investigations, and provide operational insights that improve day-to-day business performance. Powered by advances in…",
+    "url": "https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "VR Design Reviews",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP Joule Deployment: On-Prem vs Cloud AI for SAP Enterprises",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Complete Guide to Greenfield vs Brownfield Industrial Projects",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI vs Cloud AI for Industrial Vision: When Each Makes Sense",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "AI Vision vs Traditional Machine Vision: Why Deep Learning Wins in 2026",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Get answers about your camera. Review recipes, diagnose logs, and plan your next inspection.",
+    "url": "https://www.overview.ai/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Find a reseller or join our partner program.",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborative markup on photos",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Save photos and their markups",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborative pointer & markup on screen share",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Preferred Partner Program",
+    "url": "https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Reseller",
+    "url": "https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Nsightは、AI画像検査（多品種外観検査・ラベル文字認識・カウント）を軸に、技術パートナー・ハード×ソフト連携・OEM／技術ライセンス・販売代理店の4つの形態で協業を受け付けているAI画像検査スタートアップです",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店・紹介パートナー",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "商社・販売代理店向け",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "商社・販売代理店",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店の場合は初期費用なしで、成約時に手数料をお支払いする形です",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "The AI vision inspection market is not one market — it is four, layered on top of each other. Understanding which segment your investment lands in is often more important than the total spend, because growth rates and margin structures differ sharply across them.",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Foreign-object detection, seal integrity, label verification, and portion consistency are all under pressure from tightening safety regulations and private-label margins.",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Pharma Pulse: GoodRx Opens Employer GLP-1 Channel, Lilly Fends Off Novo Ad Challenge, PCMA Takes Aim at Wholesalers",
+    "url": "https://www.pharmaceuticalcommerce.com/view/antares-vision-group-debuts-ai-powered-visual-inspection-platform",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Industrial",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Try for Free",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Field Eagle is built for organizations that conduct recurring inspections of physical infrastructure, including utilities, facilities, and industrial equipment.",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Utilities, facilities, and industrial operations teams managing recurring inspection programs with compliance reporting requirements.",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "14-days Free Trial",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, Blitzz is a subscription-based service, which means that your plan renews every month or year (depending on the term you choose). You can cancel your subscription at any time during your plan term to cancel the auto-renewal of your subscription. We also offer a 14-day free trial. You're in good hands. :)",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "14-Days Free Trial, Contact us for usage-based pricing",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "We also offer a 14-day free trial. You’re in good hands. :)",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Experience the future of business resilience with Oxipital AI technology, now available with a risk-free trial. In a sea of AI solutions, choosing the right one can be overwhelming. That’s why we’re committed to offering you a no-obligation trial to see how our AI can enhance your business. Try Oxipital AI today and take the first step toward a stronger, more adaptive future.",
+    "url": "https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "NTN launches Condition Monitoring System for early fault detection in industrial equipment",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "Login / Start for Free",
+    "url": "https://landing.ai/industries/medical-and-pharmaceutical",
+    "pass": 3
+   },
+   {
+    "quote": "Start for Free",
+    "url": "https://landing.ai/industries/medical-and-pharmaceutical",
+    "pass": 3
+   },
+   {
+    "quote": "Complete Guide to Greenfield vs Brownfield Industrial Projects",
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AI Visual Inspection: Industrial Digital Twin ROI",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Equipment",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluating Enterprise AI Inspection Platforms and Industrial Digital Twins",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "To eliminate these vulnerabilities, operations executives are transitioning to an automated framework: an Enterprise AI Visual Inspection Platform paired with Industrial Digital Twins. This deployment shifts quality assurance from a lagging, manual checkpoint to a real-time, data-driven optimization process.",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "For Chief Operating Officers and Vice Presidents of Manufacturing evaluating a capital expenditure of this scale, the primary consideration is financial validation. This analysis outlines the direct operational return on investment from integrating an enterprise AI visual inspection platform with industrial digital twins.",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "How does the integration of industrial digital twins work?",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "The operational value of an enterprise AI visual inspection platform multiplies when integrated with industrial digital twins. An industrial digital twin is a dynamic, high-fidelity virtual replica of a physical asset, embedded with its master three-dimensional Computer-Aided Design data and performance tolerances.",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "The entire industrial digital twins ecosystem functions through a continuous information loop between two primary layers:",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "The Industrial Digital Twins Foundation:",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "The physical deployment of industrial digital twins follows a structured, three-step execution sequence:",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrating industrial digital twins completely bypasses this data collection bottleneck through synthetic data model training.",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "factories showed that deploying automated industrial digital twins intelligence led to a",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, data from industrial implementations indicates that an visual inspection platform reduces direct QA inspection labor costs by up to 30%, allowing management to reallocate specialized human personnel away from repetitive visual screening and toward higher-value root-cause engineering tasks.",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "of initial deployment. The combination of immediate scrap reduction, lowered penalty fees from commercial customers, and minimized warranty liabilities drives a projected three-year return on investment of 374% when combining computer vision with industrial digital twins.",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "If a regulatory body or an internal audit team requires verification of a specific asset’s integrity years down the line, operators can open the asset’s industrial digital twins profile to pull up an unalterable spatial record proving that every valve clearance, weld, and bolt met strict engineering specifications before leaving the shop floor.",
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "pass": 3
+   },
+   {
+    "quote": "Complete Guide to Greenfield vs Brownfield Industrial Projects",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Compound annual growth rate — among the highest in industrial software",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Other industrial",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "The AI Industrial Defect Detection Market: $2.7B in 2025, Growing at 8.6% CAGR",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI vs Cloud AI for Industrial Vision: When Each Makes Sense",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Transformers (ViT) for Industrial Quality Inspection",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "“Today, artificial intelligence has become a fundamental strategic lever for industrial competitiveness. Integrated in a secure, transparent and verifiable way, it enables us to offer our customers better performing inspection machines, able to improve product quality, reduce false rejects, and increase production efficiency,” noted Gianluca Mazzantini, CEO of Antares Vision Group.",
+    "url": "https://www.pharmaceuticalcommerce.com/view/antares-vision-group-debuts-ai-powered-visual-inspection-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Cameras",
+    "url": "https://www.overview.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Native industrial protocols including Ethernet/IP, Profinet, Modbus TCP, and Node-RED",
+    "url": "https://www.overview.ai/",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "The platform supports drag-and-drop form building, photo capture within forms, and offline data collection. Teams that already use QuickBase for operations management may find the integration straightforward.",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-drop mobile form builder",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "A total call duration of up to 60 minutes counts as 1 credit within a unique session. If calls are recorded, every 60 minutes counts as 1.25 credits.",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, all sessions automatically expire 30 minutes after any inactivity. If you would like to schedule a call in advance for a specific period of time, you could use the Call Scheduling feature. Call Scheduling is available on our",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, all sessions automatically expire 30 minutes after any inactivity. If you would like to schedule a call in advance for a specific period of time, you could use the Call Scheduling feature.",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "V-CORTX is designed to have an immediate impact and require no code, no DIY, and no machine learning expertise to deploy into production. User-friendly, web-based setup tools and dashboards make AI more accessible, leaving your business with insights you can act on right now.",
+    "url": "https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "Users maintain control of the operation through a robust set of no-code tools allowing for the creation of human-readable rules allowing for rapid testing, iteration, and highly reliable deployments.",
+    "url": "https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "At Oxipital AI we have taken the complexity out of deploying AI for machine vision. Our solution comes ready to use out of the box with pre-trained object models and a set of no-code application builder tools. With Oxipital AI, anyone can deploy and AI-enabled machine vision application.",
+    "url": "https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated customer success manager to support onboarding, education, and escalations. Early access and ability to provide feedback on the product roadmap.",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "An automotive supplier implemented AI-driven weld seam measurement to analyse results in real time. The system reduces inspection time from minutes to seconds, ensuring precise seam quality while increasing production speed and efficiency.",
+    "url": "https://www.gft.com/us/en/solutions/visual-inspection",
+    "pass": 3
+   },
+   {
+    "quote": "学習データがあればノーコードでも可能",
+    "url": "https://www.future-artisan.co.jp/column/SearchMaru_image_inspection",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコード設定・シンプルな操作画面により、現場のオペレーターでも容易に運用可能です",
+    "url": "https://www.future-artisan.co.jp/column/SearchMaru_image_inspection",
+    "pass": 3
+   },
+   {
+    "quote": "また、CKDは①②のどちらにも属さないビジュアルプログラミング型のノーコードツール「Facilea」を提供しており、プログラミングの知識がなくても画像検査システムを構築できる選択肢として注目されています",
+    "url": "https://www.ckd.co.jp/kiki/jp/column/column_121.html",
+    "pass": 3
+   },
+   {
+    "quote": "②ノーコード・ビジュアルプログラミングなど、専門知識がなくても設定・調整できるUI/UXを備えているかどうかも重要な選定基準となるでしょう",
+    "url": "https://www.ckd.co.jp/kiki/jp/column/column_121.html",
+    "pass": 3
+   },
+   {
+    "quote": "Better training and onboarding with Digital Mentors",
+    "url": "https://www.ptc.com/en/technologies/augmented-reality/inspection/visual-inspection?srsltid=AYCX9vKN6brJJ2M5plZV81qR3S7zEtJWx3wQFKzZgiK9UwiSBiEbI0Il",
+    "pass": 3
+   },
+   {
+    "quote": "This machine is capable of working with containers ranging from 40-180 mm in height, and 22-80 mm in diameter. It can apply labels as tall as 100 mm at speeds of up to 80 meters per minute. The unit is also able to switch between various container and label sizes; changeover only takes 15-30 minutes.",
+    "url": "https://www.pharmaceuticalcommerce.com/view/antares-vision-group-debuts-ai-powered-visual-inspection-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy production systems in hours. Train models in minutes. Achieve ROI in weeks, not quarters.",
+    "url": "https://www.overview.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Haystack visualization exposes model uncertainty. Teams retrain and adapt models in minutes with no vendor dependency for continuous improvement.",
+    "url": "https://www.overview.ai/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "9 Best AI Visual Inspection Software of 2026 - Asset Panda — 9 Best AI Visual Inspection Software of 2026 - Asset Panda Asset Panda https://www.assetpanda.com > compare",
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "pass": 3
+   },
+   {
+    "quote": "AI を有効活用した外観 検査 で“三現主義”を拡張 — AI を有効活用した外観 検査 で“三現主義”を拡張 ものづくり ワールド https://www.manufacturing-world.jp > blog > article22",
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article22.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI Visual Inspection in Manufacturing: 2026 Guide — AI Visual Inspection in Manufacturing: 2026 Guide iFactory AI https://ifactoryapp.com > ai-visual-ins...",
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Automotive OEMs & Dealerships",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "White-label branding options",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "White labeling and branding",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domain URL using host mapping (e.g. support.acme.com)",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Can I rebrand the app theme?",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Yes! You can adjust colors and themes to match whatever your brand requires.",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, you'll be able to use your own domain (Eg, video.acme.com). Custom domains are available on our",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "WHITE LABELING AND BRANDING",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domains are available on our",
+    "url": "https://blitzz.co/inspect-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Telematics",
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "協業・パートナー募集｜AI画像検査のOEM・共同開発｜Nsight",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Nsightは、AI画像検査（多品種外観検査・ラベル文字認識・カウント）を軸に、技術パートナー・ハード×ソフト連携・OEM／技術ライセンス・販売代理店の4つの形態で協業を受け付けているAI画像検査スタートアップです",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアのOEM提供にも対応",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM・技術ライセンス",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "技術パートナーの場合は案件ごとの受託費用、OEMの場合はライセンス費用が発生します",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "画像処理検査デバイス OEM供給事業 ライオンエンジニアリング株式会社",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "ニーズに合わせたオリジナルの検査装置をOEMにて製作したします",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM供給事業",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM製品採用によるお客様の",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が「画像処理検査／計測システム」を自社ブランド化し、お客様の装置に搭載するメリットをご紹介します",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "自社ブランド化により検査システムの販売価格設定はお客様次第！",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "画像処理検査デバイス OEM供給事業とは",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM事業のサービス内容",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "製品仕様書のご提示、開発コストのご提示、試作コストのご提示、量産コストのご提示、OEM契約の締結",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM製品採用のメリット",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM供給事業とは",
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Telematics",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "OEM contracts increasingly specify parts-per-million defect ceilings that manual inspection cannot deliver, forcing 100% AI coverage as table stakes.",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive OEM",
+    "url": "https://www.overview.ai/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "– Over $500,000 in projected savings over five years by replacing manual quality control roles with Oxipital AI’s OX system.",
+    "url": "https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "$99 per month",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$49 per month for each additional user",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Plans starting at $99/users/mo",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Dollar General, then receiving an OSHA fine totaling over $400,000",
+    "url": "https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "nearly $1 trillion in revenue",
+    "url": "https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The AI Vision Inspection Market in 2026: $32B and Growing at 23% CAGR",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "$32.66B",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Jetson-class edge GPUs deliver inference at price points that made no economic sense pre-2023. Every station now viable as an edge node.",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "Book a 30-minute strategy session with iFactory. Share your current inspection footprint and top three quality pain points; leave with a phased roadmap, sector benchmarks, and a fixed-price pilot proposal aligned to your capex cycle.",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "The AI Industrial Defect Detection Market: $2.7B in 2025, Growing at 8.6% CAGR",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Localization & Multilingual",
+    "url": "https://humansignal.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "MENOU launches robot-assisted visual inspection system for complex-shaped products | Industry and Manufacturing News Archive | SEISANZAI Japan",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Cutting-Edge",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "SEISANZAI Japan",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "Epson Sales Japan launches “LS4-C” SCARA robot with cycle time reduced by up to 20%",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanʼs Machine Tool Order",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "Source : Japan Machine Tool Builderʼs Association",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan machine tool orders total JPY 223.2 billion in September 2026, with total orders and foreign orders both setting new all-time highs",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s machine tool order outlook 2026: JPY 1.7 trillion forecast despite growing risks",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "SEISANZAIJapan",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "About SEISANZAI Japan",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2018 SEISANZAI Japan",
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "pass": 3
+   },
+   {
+    "quote": "賞味期限・ロット番号・産地情報等の日本語テキストを読み取り、マスターデータと照合",
+    "url": "https://www.nsight.jp/services/ai-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語・英語・中国語での対応が可能です",
+    "url": "https://www.nsight.jp/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest CAGR — China, Japan, South Korea, India",
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "pass": 3
+   },
+   {
+    "quote": "500 Akahama, Soja-shi, Okayama 719-1121, JAPAN",
+    "url": "https://www.coretec.co.jp/en/products/vision/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-generation-platform-tools-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabeliq.com/white-label-ai-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/BrandGrowth/comments/1qk2zap/best_ai_monitoring_tools_with_whitelabel/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blitzz.co/inspect-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lety.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/white-label-voice-ai-with-free-trial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humansignal.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promptowl.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmpulse.ai/blog/white-label-ai-visibility-tools-rebrand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gft.com/us/en/solutions/visual-inspection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisanzai-japan.com/article/p6316/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pda.org/pda-letter-portal/home/full-article/understanding-japan-quality",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/industries/medical-and-pharmaceutical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.oracle.com/ai-and-datascience/visual-inspection-in-manufacturing-using-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mars-tohken.co.jp/case/printinginspection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/10827/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nsight.jp/services/ai-inspection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future-artisan.co.jp/column/SearchMaru_image_inspection",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ckd.co.jp/kiki/jp/column/column_121.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/technologies/augmented-reality/inspection/visual-inspection?srsltid=AYCX9vKN6brJJ2M5plZV81qR3S7zEtJWx3wQFKzZgiK9UwiSBiEbI0Il",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.nvidia.com/en-us-industrial-sector-resources/ai-agents-for-visual-inspection-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vida.io/blog/white-label-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatmaxima.com/blog/white-label-ai-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e2msolutions.com/ai-service-reseller-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsight.jp/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmocheki.com/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabel-inc.com/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lion-eng.co.jp/kensa/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sato.co.jp/products/ai_food_labeling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-ai%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/business/product/aiit/ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmocheki.com/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/ja/best-white-label-ai-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuwalyst.ai/ja/agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/computervision/comments/1s9jyhs/what_companies_provide_aipowered_visual/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pharmaceuticalcommerce.com/view/antares-vision-group-debuts-ai-powered-visual-inspection-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coretec.co.jp/en/products/vision/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label AI visual inspection 2026",
+   "results": [
+    "https://www.wireflow.ai/blog/best-white-label-ai-generation-platform-tools-in-2026",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://www.youtube.com/watch?v=-gVk-0jsA4c",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://www.assetpanda.com/resource-center/compare/best-ai-visual-inspection-software/",
+    "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://llmpulse.ai/blog/white-label-ai-seo-software/",
+    "https://toolradar.com/guides/best-ai-visual-inspection-tools"
+   ]
+  },
+  {
+   "query": "white label AI visual inspection reseller program agencies",
+   "results": [
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://www.whitelabeliq.com/white-label-ai-services/",
+    "https://www.reddit.com/r/BrandGrowth/comments/1qk2zap/best_ai_monitoring_tools_with_whitelabel/",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://autocalls.ai/article/best-white-label-ai-voice-agent-platforms",
+    "https://www.vida.io/blog/white-label-ai-agent-platform",
+    "https://lety.ai/",
+    "https://www.e2msolutions.com/ai-service-reseller-partner/"
+   ]
+  },
+  {
+   "query": "white label AI visual inspection free trial pricing",
+   "results": [
+    "https://blitzz.co/inspect-pricing",
+    "https://lety.ai/",
+    "https://trillet.ai/blogs/white-label-voice-ai-with-free-trial",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/",
+    "https://humansignal.com/pricing/",
+    "https://rankprompt.com/best-ai-visibility-tools-for-agencies/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.lighthouselocal.ai/for-agencies",
+    "https://sourceforge.net/software/ai-visual-inspection/free-trial/"
+   ]
+  },
+  {
+   "query": "white label AI visual inspection rebrand your logo custom domain",
+   "results": [
+    "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.reddit.com/r/BrandGrowth/comments/1qk2zap/best_ai_monitoring_tools_with_whitelabel/",
+    "https://promptowl.ai/whitelabel/",
+    "https://pickaxe.co/post/white-label-ai-for-clients",
+    "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://llmpulse.ai/blog/white-label-ai-visibility-tools-rebrand/",
+    "https://productizeyourmind.com/white-label-ai-tools-for-experts/"
+   ]
+  },
+  {
+   "query": "white label AI visual inspection Japan Japanese",
+   "results": [
+    "https://www.gft.com/us/en/solutions/visual-inspection",
+    "https://www.linkedin.com/pulse/top-10-ai-powered-quality-control-software-companies-ojvnc",
+    "https://seisanzai-japan.com/article/p6316/",
+    "https://www.pda.org/pda-letter-portal/home/full-article/understanding-japan-quality",
+    "https://landing.ai/industries/medical-and-pharmaceutical",
+    "https://blogs.oracle.com/ai-and-datascience/visual-inspection-in-manufacturing-using-ai",
+    "http://jglobal.jst.go.jp/en/public/202202280961729620",
+    "https://slashdot.org/software/ai-visual-inspection/in-japan/",
+    "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "https://www.generativeai.tokyo/media/factory-ai-visual-inspection-2026/"
+   ]
+  },
+  {
+   "query": "ホワイトラベルAI画像検査 日本",
+   "results": [
+    "https://www.mars-tohken.co.jp/case/printinginspection/",
+    "https://metoree.com/categories/10827/",
+    "https://www.nsight.jp/services/ai-inspection/",
+    "https://www.future-artisan.co.jp/column/SearchMaru_image_inspection",
+    "https://www.ckd.co.jp/kiki/jp/column/column_121.html",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article22.html",
+    "https://www.visualinspection-eqp.com/",
+    "https://www.inouekabu.com/deepi/",
+    "https://www.youtube.com/watch?v=JfPebpYk_2Y",
+    "https://www.dmiexpo.com/ja/ai/white-label-ai-tools/"
+   ]
+  },
+  {
+   "query": "white label AI visual inspection OEM partnership",
+   "results": [
+    "https://www.gft.com/us/en/solutions/visual-inspection",
+    "https://www.ptc.com/en/technologies/augmented-reality/inspection/visual-inspection?srsltid=AYCX9vKN6brJJ2M5plZV81qR3S7zEtJWx3wQFKzZgiK9UwiSBiEbI0Il",
+    "https://www.youtube.com/watch?v=HCh3nOLuUCA&vl=ja",
+    "https://ifactoryapp.com/inspection-management/ai-visual-inspection-manufacturing-guide",
+    "https://blogs.oracle.com/ai-and-datascience/visual-inspection-in-manufacturing-using-ai",
+    "https://www.openeye.net/automated-visual-inspection-improve-workflows-and-drive-revenue-with-ai/",
+    "https://resources.nvidia.com/en-us-industrial-sector-resources/ai-agents-for-visual-inspection-in-manufacturing",
+    "https://exxar.co/blog/enterprise-ai-visual-inspection-industrial-digital-twin-roi/",
+    "https://www.reddit.com/r/computervision/comments/1s9jyhs/what_companies_provide_aipowered_visual/",
+    "https://blog.keyetech.com/blog/Selecting-an-OEM-Partner-for-AI-Vision-Inspection-Equipment:-A-Guide-for-Packaging-Manufacturers.html"
+   ]
+  },
+  {
+   "query": "white label AI visual inspection partner program pricing",
+   "results": [
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.whitelabeliq.com/white-label-ai-services/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://vida.io/blog/white-label-ai",
+    "https://chatmaxima.com/blog/white-label-ai-platform/",
+    "https://www.e2msolutions.com/ai-service-reseller-partner/",
+    "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "https://www.amicited.com/blog/white-label-ai-visibility-tools-agencies/",
+    "https://www.placa.ai/lpr-software-pricing-guide/"
+   ]
+  },
+  {
+   "query": "ホワイトラベルAI画像検査 OEM提供",
+   "results": [
+    "https://www.nsight.jp/partners/",
+    "https://llmocheki.com/whitelabel",
+    "https://www.whitelabel-inc.com/oem",
+    "https://www.lion-eng.co.jp/kensa/oem/",
+    "https://www.sato.co.jp/products/ai_food_labeling/",
+    "https://www.zebra.com/jp/ja/products/oem.html",
+    "https://www.primall.co.jp/contents/DX/case_inspection.html",
+    "https://lmi3d.com/blog/determining-if-ai-is-right-for-your-inspection-application/?lang=ja",
+    "https://aipicks.jp/glossary/white-label-ai",
+    "https://llmocheki.com/blog/llmo/llmowhitelabel"
+   ]
+  },
+  {
+   "query": "ホワイトラベルAI画像検査 代理店募集",
+   "results": [
+    "https://www.nsight.jp/partners/",
+    "https://jp.indeed.com/q-ai%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB-%E6%B1%82%E4%BA%BA.html",
+    "https://b-seeds.com/business/product/aiit/ai",
+    "https://llmocheki.com/agency",
+    "https://www.unite.ai/ja/best-white-label-ai-tools/",
+    "https://kuwalyst.ai/ja/agencies/",
+    "https://ai-gage.com/partner/",
+    "https://herp.careers/v1/lpixel",
+    "https://industriate.jp/products/inspection",
+    "https://citadex.io/ja/blog/llmo-2026"
+   ]
+  },
+  {
+   "query": "white label AI visual inspection distributor Japan",
+   "results": [
+    "https://www.gft.com/us/en/solutions/visual-inspection",
+    "https://www.linkedin.com/pulse/top-10-ai-powered-quality-control-software-companies-ojvnc",
+    "https://ifactoryapp.com/ai-vision-camera/ai-vision-inspection-market-2026-32b-growing-23-cagr",
+    "https://www.oxipitalai.com/solutions/visual-ai-inspection-systems/",
+    "https://www.reddit.com/r/computervision/comments/1s9jyhs/what_companies_provide_aipowered_visual/",
+    "https://blogs.oracle.com/ai-and-datascience/visual-inspection-in-manufacturing-using-ai",
+    "https://www.pharmaceuticalcommerce.com/view/antares-vision-group-debuts-ai-powered-visual-inspection-platform",
+    "https://www.overview.ai/",
+    "https://www.youtube.com/watch?v=LkaikpgPt7E",
+    "https://www.coretec.co.jp/en/products/vision/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1081 @@
+{
+ "name": "合成燃料",
+ "en": "e-fuels",
+ "aliases": [
+  "e-fuel",
+  "SAF",
+  "合成メタン"
+ ],
+ "context": "12 GX ②水素等",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:27:36.420622+00:00",
+ "evidence": {
+  "需給の差": [
+   {
+    "quote": "この工場では、回収した二酸化炭素、再生可能電力、グリーン水素を用いて、持続可能な航空燃料（SAF）、eディーゼル、eナフサを製造し、商業用合成燃料の生産能力を大幅に拡大する予定だ",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "供給量が不足、価格が高騰",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力拡大を目指すとともに、輸出も計画している",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立当初から企画され、待ち望まれたABB FIA フォーミュラE世界選手権の日本での開催がようやく実現した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "【災害時の石油の重要性】3.11東日本大震災での石油不足",
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用にかかわらずガソリン・灯油など石油不足",
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "バイオマス原料不足が懸念",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "/hの生産能力を有し、水素やCO",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "始され、2026年までに年間55万kℓに段階的に生産能力を",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 拠点の担い手は、供給から利用にいたるまで幅広いステークホルダーを巻き込み、かつ長期的なコミットメントを有",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ グリーンメタノール生産能力は、技術の継続的な進歩と政府支援の増加により、今後5年間で年間5,000",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜バイオメタノール及びe-メタノールの生産能力の予測＞",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "応じ、生産/供給能力が",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ". Hard-to-abate sectors like aviation and shipping now treat synthetic fuels not as optional pilots but as core compliance tools. Enterprise buyers are shifting from small test volumes to long-term supply agreements that lock in future production capacity. This rapid demand signals a supply bottleneck risk for early offtakers if project financing does not accelerate at the same pace.",
+    "url": "https://evolvancemarketresearch.com/reports/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Supply shortage means airlines have no chance of meeting a 10% SAF by 2030 target, says IATA chief – GreenAir News",
+    "url": "https://www.greenairnews.com/?p=8262",
+    "pass": 3
+   },
+   {
+    "quote": "Supply shortage means airlines have no chance of meeting a 10% SAF by 2030 target, says IATA chief",
+    "url": "https://www.greenairnews.com/?p=8262",
+    "pass": 3
+   },
+   {
+    "quote": "The main reason for the shortage of SAF supply is that it is not generating the kind of returns to attract enough investors, she said.",
+    "url": "https://www.greenairnews.com/?p=8262",
+    "pass": 3
+   },
+   {
+    "quote": "The order backlog has now surpassed 17,000 aircraft, a number equal to almost 60% of the active fleet, up from a historical average of 40%, and equivalent to nearly 12 years of the current production capacity. “If an airline orders an aircraft today, it’s going to take roughly 6.8 years to be delivered – that’s significant,” said Stuart Fox, Director, Flight and Technical Operations at IATA.",
+    "url": "https://www.greenairnews.com/?p=8262",
+    "pass": 3
+   },
+   {
+    "quote": "On the positive side, aircraft shortages mean load factors are forecast to set a record high with airlines expected to fill 83.8% of all seats over the year 2026.",
+    "url": "https://www.greenairnews.com/?p=8262",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "天然ガス、石炭、またはバイオマスから得られるこの技術は、厳しい環境基準に適合する高品質で硫黄を含まない燃料を製造できることから高く評価されています",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成ディーゼルは、硫黄や微粒子などの汚染物質の排出量が少ないため、厳しい環境規制のある地域で特に魅力的です",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素化目標を達成するため、海運業界も同様に、硫黄排出に関する国際規制を遵守するために合成燃料の導入を検討している",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、クリーンエネルギー技術への投資増加と厳格な環境規制を背景に、著しい成長が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益予測、競争環境、成長要因、環境および規制環境とトレンド",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "彼女は、市場構造、成長の原動力（ドライバー）、技術開発、規制の影響、投資動向、競争環境の把握に重点を置いて業務に取り組んでいます",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "基準年: 2025",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "認証済み・保護・安全",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2) https://climateaction.unfccc.int/views/cooperative-initiative-details.html?id=95",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空分野の国際的な CO2排出削減に向けた規制等を背景に 、ジェット燃料の代替となる 持続可能な航空燃料 （SAF,",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SAFが必要となる背景：ICAOによる国際航空輸送分野でのCO2排出規制",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年のCO2排出量（基準排出量）に抑えることが目標とされている",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 中国、ロシア等も義務化の対象",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "テーマ ：SAFのサプライチェーン構築、国産SAFのCORSIA適格燃料登録・認証",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と中期的な規制・制度的措置により、 需給創出を同時に実現していく",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SAFの利用・供給拡大に向けた「支援策」と「規制・制度」の方向性について",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に係る技術開発・実証支援及び認証取得",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "利用目標等に関する「判断基準」 （告示）を策定し、特定石油精製業者（※2）に対して、バイオエタノー",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※1）エネルギー供給事業者によるエネルギー源の環境適合利用及び化石エネルギー原料の有効な利用の促進に関する法律",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 判断基準（告示）策定、施行",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "→ 判断基準に照らし、取組状況が著しく不十分な場合に措置",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SAFの利用に関する予見性を高めるための規制・制度の在り方についても検討を進める",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の安全性や排ガス基準への影響等の検証が必要を経て、新たな基準の策定が必要",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハラール認証取得支援サービス",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3196?srsltid=AYCX9vLgh1RTR-2zSc_PWl4K6ZFS5GcJaXRAitkeI_L-WodSfhQ91XK2",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月にEU域内の空港を対象にSAFやe-Fuelの使用率に関する法規制が定められたことが市場拡大に大きく寄与する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "EUのようにe-Fuelの使用が義務付けられている地域は現状では限定的だが、SAFの使用義務化は日本などでも設定され始めている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "中長期的には、SAF使用義務化によって需要が大きく増加するが、原料確保などの観点からバイオジェット燃料の供給量に限界があり、化学的に大量の合成が可能なe-Fuelの需要が喚起されるという",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "介護に関わるお金・制度の基本",
+    "url": "https://media.monex.co.jp/articles/-/25564",
+    "pass": 3
+   },
+   {
+    "quote": "■次世代燃料の環境価値認証・移転制度の検討",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 本TFにおいて、制度検討、議論及び調整を集中的に実",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リーン燃焼証書制度の創設を目指し 、実証を皮切りに",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "証書制度の運営体制構築や規程類整備に向けた検討等",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 環境価値認証・移転制度の検討を開始",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 環境整備WGの下に環境価値認証・移転制度検討タスクフォース",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 環境価値認証・移転制度の手法選択の方向性及び実現する上での",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 委託事業において、証書制度の運営体制構築や規程類整備に向",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 合成燃料の社会実装に向けて技術開発・実証、価値認証制度等の取組を進めているが、既存",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の制度や取組の中では、合成燃料が想定されていないため、安全面やスムーズな流通の観点",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定義（品確法令、JISなど） 既存制度では合成燃料が想定されていないことか",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 合成燃料の商用化に向けて、ロードマップに基づき製造技術開発・実証、制度検討等の取組",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＳＤＧｓ投資拡大や気候変動対策、環境配慮を取引選定基準とする動きが活発になるなど、地域の脱炭素への取り組みは必要条件となってきます",
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "エナジーカンポ２のRPFはJIS認証取得しています",
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "（2011年7月JIS認証）",
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "熊本市にある指定公共機関、大手通信キャリア、大手放送局に燃料を",
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策スタッフを現地に派遣し、熊本市にある指定公共機関、",
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "コンプライアンス相談・通報制度",
+    "url": "https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/",
+    "pass": 3
+   },
+   {
+    "quote": "出資制度の概要",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "債務保証制度の概要",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "細則・審査基準等",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "調達実績・調達方針",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "競争の導入による公共サービスの改革に関する法律に基づく民間競争入札（市場化テスト）",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、E20の認証制度にかかる議論を速やかに開始し、車両開発等のリードタイムを十分に確保した上で、2030年代のできるだけ早期に、乗用車の新車販売におけるE20対応車の比率を100%とすることを目指します",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3
+   },
+   {
+    "quote": "排出削減に向けた規制等を背景に、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "、2030年に一層厳しくなる環境規制に備えると発表",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "内燃機関搭載車の正確な終了時期を決めるのは、最終的には顧客と環境規制",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "の一環として、環境配慮型船舶（LNG燃料船、水素燃料船、バッテリー推進船、アンモニア燃料船、合成燃料(グリーンメタン、グリーンメタノール)を使用する船）の入港料を全額免除する制度導入を開始",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "クリーンガス証書評価委員会は４月、合成メタンやバイオガスによる環境価値を証書にして取引する「クリーンガス証書制度」を始めた",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "東京ガスはこの制度に基づいて証書を取得し、ガス灯の燃料から出るCO2を実質的に減らせる",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "排出は「地球温暖化対策の推進に関する法律（温対法）」上の算出対象外であり、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "従来、大気中に放出されていたメタン放出を抑制できるため、米国制度の環境クレジットの獲得をめざす",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "業界が性能を損なうことなく二酸化炭素排出量の削減を目指す中、主要企業がこの需要に応えるべく先進的な生産技術に投資しており、ディーゼル燃料セグメントは今後も成長が見込まれます",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、アウディAG、ロイヤル・ダッチ・シェルPlc、エクソンモービル・コーポレーション、サソル・リミテッド、ペトロチャイナ・カンパニー・リミテッドである",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラル燃料は国内でも生産できるが、大量、安価な生産は海外が有利となるため、日本企業がカーボンニュートラル燃料技術を開発して、技術、設備、ノウハウ、知見等をもとに海外で事業展開することにより、ワールドワイドのカーボンニュートラル燃料市場における主導権を獲得できる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3196?srsltid=AYCX9vLgh1RTR-2zSc_PWl4K6ZFS5GcJaXRAitkeI_L-WodSfhQ91XK2",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業プロジェクトの支援",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "欧米系企業に複数の合成燃料製造計画、日本企業も関心",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3
+   },
+   {
+    "quote": "低炭素メタノールのプロジェクトに、日本企業がオフテイカーとして参画する事例もある",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料の活用方法、実用化に取り組む日本企業も紹介しているので、ぜひ参考にしてください",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料の実用化に取り組む日本企業",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の強みや成長ポイントをわかりやすく紹介",
+    "url": "https://katacoto.com/efuel/",
+    "pass": 3
+   }
+  ],
+  "国内市場規模": [
+   {
+    "quote": "給を促すため、対象期間におけるSAFの供給目標量を「2019年度に日本国内で生産・供給されたジェット燃料の",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2019年度に日本国内で生産・供給されたジェット燃料×SAFの混合率10%×GHG削減効果50%相当",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船は2021年6月15日、日本国内の造船会社2社と覚書を締結し、2025〜2028年度で12隻のLNG（液化天然ガス）を燃料とする自動車専用船を建造すると発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタの「bZ4X」がWaymoの自動運転タクシーに、2027年から日本国内で実証開始",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "の供給目標量を「2019年度に日本国内で生産・供給さ",
+    "url": "https://www.mlit.go.jp/maritime/content/001889539.pdf",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "発（GI基金 約511億円）",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 予算規模：3,368億円（総額）",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 合成燃料（e-fuel）の導入促進に向けた官民協議会における検討等を経て、2023年６月、",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "豪州では、2023〜2024年度予算において大規模グリーン水素生産プロジェクトに対し、生産コストと販売価格の値差をクレジットとして支援している",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "• 合成燃料（e-fuel）の導入促進に向けた官民協議会における検討等を経て、2023年６月、",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "討・審議を経て、昨年12月、本官民協議会 環境整備",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2024年12月】 官民協議会 合同WG",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年3月10日/25日】官民協議会環境整備WG/審議会（脱炭",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の「グリーンイノベーション基金事業／CO2等を用いた燃料製造技術開発プロジェクト」（2022～2028年度）の下、商業化に向け、官民連携による合成燃料（e-fuel）の製造技術の研究開発が進められています",
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年9月に「合成燃料（e-fuel）の導入促進に向けた官民協議会」が設置され",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンイノベーション（GI）基金とMEDO事業により、大規模かつ高効率な製造プロセスの開発を進め、2030年までの合成燃料の大規模製造プロセスの実証をめざすとし、大枠のロードマップを示した",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "図３ 「合成燃料（e-fuel）の導入促進に向けた官民協議会」の取り組み",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "図５ GI基金事業で進められている「高効率な大規模FT合成プロセス」の開発",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "図６ NEDO交付金事業で進められる「次世代FT合成プロセス",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "GI基金事業：CO2等を用いた燃料製造技術開発（予算額：上限1152.8億円）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "予算額：約576億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 2022年、GI基金に採択",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～2028年度（GI基金）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～2030年度（GI基金）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PEM型 ～2025年度（GI基金）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料（e-fuel）の導入促進に向けた官民協議会（2022年9月～）",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年９月に「合成燃料（e-fuel）の導入促進に向けた官民協議会」を設立",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ GI基金事業についての支援の拡充を通じて、商用化時期の前倒し（2040年→2030年代前半）を検討",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度「非化石エネルギー等導入促進対策費補助金（次世代燃料生産・利用技術開発等事業費のうち、合成燃料（e-fuel）等導入促進事業）」に係る補助事業者の公募について｜資源エネルギー庁",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2025/0130_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度「非化石エネルギー等導入促進対策費補助金（次世代燃料生産・利用技術開発等事業費のうち、合成燃料（e-fuel）等導入促進事業）」に係る補助事業者の公募について",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2025/0130_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度「非化石エネルギー等導入促進対策費補助金（次世代燃料生産・利用技術開発等事業費のうち、合成燃料（e-fuel）等導入促進事業）」に係る補助事業者を公募します",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2025/0130_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "※この公募は、令和8年度予算の成立等を前提に募集の手続を行うものです",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2025/0130_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "交付要綱（案）（PDF形式：495KB）",
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2025/0130_01.html",
+    "pass": 3
+   },
+   {
+    "quote": " 補助金上限額の8%をカバーする完工保証を得る",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総予算額 約8億€ 約12億€（うち2億€：海運分野）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 総予算額は最大11億€",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 各種公開情報を基に「令和6年度合成燃料（e-fuel）の導入促進に向けた官民協議会に係る調査等事業報告書」の",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発（GI基金 約511億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001889539.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同社は2025年6月、エアバス（欧州の航空機製造業者）とともに、国際民間航空機関（ICAO）のボランタリー環境基金に拠出する意向表明書に署名した",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3
+   },
+   {
+    "quote": "ENEOSグループは、2022年4月に採択されたグリーンイノベーション基金（GI基金）",
+    "url": "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "合成燃料市場規模 、シェア、成長率、分析、レポート（2034 ... — 合成燃料市場規模 、シェア、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > エネルギーと電力 > バイオ燃料",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ燃料や水素、 合成燃料 の 市場規模 は2050年に236兆円 — バイオ燃料や水素、 合成燃料 の 市場規模 は2050年に236兆円 MONOist https://monoist.itmedia.co.jp > ... > 連載一覧 > 脱炭素",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料 （e-fuel）とは？作り方からメリット・デメリットや ... — 合成燃料 （e-fuel）とは？作り方からメリット・デメリットや ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_58",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "pass": 3
+   },
+   {
+    "quote": "期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター — 期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター 脱炭素技術センター https://www.decarbonation-tech.com > intro_5010",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuel Market Size , Share & Forecast Analysis Report 2034 — E - fuel Market Size , Share & Forecast Analysis Report 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "pass": 3
+   },
+   {
+    "quote": "Japan E - Fuel Market Size , Growth, Outlooks, Forecasts to 2033 — Japan E - Fuel Market Size , Growth, Outlooks, Forecasts to 2033 Spherical Insights https://www.sphericalinsights.com > j...",
+    "url": "https://www.sphericalinsights.com/reports/japan-e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuels Market CAGR of 21.9% Through 2035 — E - Fuels Market CAGR of 21.9% Through 2035 evolvancemarketresearch.com https://evolvancemarketresearch.com > ...",
+    "url": "https://evolvancemarketresearch.com/reports/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuels Market worth $66.25 billion by 2030 — E - fuels Market worth $66.25 billion by 2030 MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/PressReleases/e-fuels.asp",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuel Market Size , Share And Growth Report, 2026-2050 — E - Fuel Market Size , Share And Growth Report, 2026-2050 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "企業トップへの取材は1,000社以上",
+    "url": "https://media.monex.co.jp/articles/-/25564",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内参入社数": [
+   {
+    "value": "000",
+    "url": "https://media.monex.co.jp/articles/-/25564",
+    "quote": "企業トップへの取材は1,000社以上"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "511",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "quote": "発（GI基金 約511億円）"
+   },
+   {
+    "value": "3,368",
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "quote": "⚫ 予算規模：3,368億円（総額）"
+   },
+   {
+    "value": "152.8",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "quote": "GI基金事業：CO2等を用いた燃料製造技術開発（予算額：上限1152.8億円）"
+   },
+   {
+    "value": "576",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "quote": "予算額：約576億円"
+   },
+   {
+    "value": "511",
+    "url": "https://www.mlit.go.jp/maritime/content/001889539.pdf",
+    "quote": "発（GI基金 約511億円）"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3196?srsltid=AYCX9vLgh1RTR-2zSc_PWl4K6ZFS5GcJaXRAitkeI_L-WodSfhQ91XK2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/e-%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-109586",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://media.monex.co.jp/articles/-/25564",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ninesigma.com/jp/news/column-e-fuel/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/appli/public_offer/2025/0130_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nri.com/jp/media/column/kiuchi/20260402.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/japan/3RUPZDN6HBKRNNDZUMJDWL4CYQ-2026-03-24/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ace.or.jp/web/law/pdf/law_0020/EnergySubsidies2025-2026Jun.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nenryo-teigakuhikisage.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/commodities/NNBGB2Z7EZLXVII6CWYBXMKCHE-2026-03-18/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001889539.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/column/carbon-neutral.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://katacoto.com/efuel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/005_04_00.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/japan-e-fuel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evolvancemarketresearch.com/reports/e-fuels-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/PressReleases/e-fuels.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/commentaries/how-global-oil-supplies-have-readjusted-to-help-fill-the-huge-gap-left-by-the-strait-of-hormuz-shock",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenairnews.com/?p=8262",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cnbc.com/2024/02/05/oil-market-will-face-supply-shortage-by-end-of-2025-occidental-ceo-says.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ieefa.org/resources/four-reasons-largest-energy-crisis-record-has-been-held-bay-and-why-theres-pain-come",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rhg.com/research/seeking-alternatives-how-fast-can-sustainable-aviation-fuel-scale/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "合成燃料 国内市場規模 億円",
+   "results": [
+    "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "https://www.kansai.meti.go.jp/3-9sekiyu/jisedai/2025/2025kouen1.pdf",
+    "https://www.yano.co.jp/press-release/show/press_id/3196?srsltid=AYCX9vLgh1RTR-2zSc_PWl4K6ZFS5GcJaXRAitkeI_L-WodSfhQ91XK2",
+    "https://monoist.itmedia.co.jp/mn/articles/2405/10/news096_2.html",
+    "https://www.fortunebusinessinsights.com/jp/e-%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-109586",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=22045&la=ja",
+    "https://www.fkg-report.jp/market-trends/2026/2499.html",
+    "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/合成燃料市場-101497"
+   ]
+  },
+  {
+   "query": "合成燃料 国内 参入企業 社",
+   "results": [
+    "https://media.monex.co.jp/articles/-/25564",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/",
+    "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "https://www.youtube.com/watch?v=Vi2mdMflnX0",
+    "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/005_04_00.pdf"
+   ]
+  },
+  {
+   "query": "合成燃料 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "https://www.ninesigma.com/jp/news/column-e-fuel/",
+    "https://www.pwc.com/jp/ja/knowledge/column/carbon-neutral.html",
+    "https://www.kankyo-business.jp/dictionary/abd21b12-186f-4d5b-a376-777ea82499ab",
+    "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "https://kpmg.com/jp/ja/insights/2025/12/auto-intelligence-biofuel02.html",
+    "https://www.wonderline.cloud/blog/what-is-backlog-basic-knowledge"
+   ]
+  },
+  {
+   "query": "合成燃料 予算 補助金 基金 2026",
+   "results": [
+    "https://www.enecho.meti.go.jp/appli/public_offer/2025/0130_01.html",
+    "https://www.nri.com/jp/media/column/kiuchi/20260402.html",
+    "https://www.reuters.com/jp/markets/japan/3RUPZDN6HBKRNNDZUMJDWL4CYQ-2026-03-24/",
+    "https://www.ace.or.jp/web/law/pdf/law_0020/EnergySubsidies2025-2026Jun.pdf",
+    "https://nenryo-teigakuhikisage.go.jp/",
+    "https://www.pecj.or.jp/wp-content/uploads/2026/03/JPEC_report_No.260301.pdf",
+    "https://zero-energy.jp/hojyokin-ichiran-2026/",
+    "https://www.teitannso.jp/part-article/115210015",
+    "https://www.nikkei.com/article/DGXZQOUA121WU0S6A310C2000000/",
+    "https://cros2.jp/file/非化石・合成燃料公募要領_v5.pdf"
+   ]
+  },
+  {
+   "query": "合成燃料 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_01.pdf",
+    "https://www.reuters.com/jp/markets/commodities/NNBGB2Z7EZLXVII6CWYBXMKCHE-2026-03-18/",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "https://www.mlit.go.jp/maritime/content/001889539.pdf",
+    "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "https://www.pwc.com/jp/ja/knowledge/column/carbon-neutral.html",
+    "https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03725/082800003/?P=2",
+    "https://ja.wikipedia.org/wiki/合成燃料"
+   ]
+  },
+  {
+   "query": "合成燃料 国内 主要企業 メーカー",
+   "results": [
+    "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "https://media.monex.co.jp/articles/-/25564",
+    "https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_58.html",
+    "https://katacoto.com/efuel/",
+    "https://www.hd.eneos.co.jp/innovation/group_innovation/synthetic_fuels/",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/005_04_00.pdf",
+    "https://www.ipros.com/cg1/燃料/"
+   ]
+  },
+  {
+   "query": "e-fuels Japan market size",
+   "results": [
+    "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "https://www.sphericalinsights.com/reports/japan-e-fuel-market",
+    "https://evolvancemarketresearch.com/reports/e-fuels-market/",
+    "https://www.marketsandmarkets.com/PressReleases/e-fuels.asp",
+    "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S0196890425010532",
+    "https://www.polarismarketresearch.com/industry-analysis/japan-e-fuel-market",
+    "https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/afieldfile/2025/04/28/2503_m_inada_e.pdf",
+    "https://www.grandviewresearch.com/horizon/outlook/e-fuel-market/japan"
+   ]
+  },
+  {
+   "query": "e-fuels shortage backlog supply gap 2025",
+   "results": [
+    "https://www.iea.org/commentaries/how-global-oil-supplies-have-readjusted-to-help-fill-the-huge-gap-left-by-the-strait-of-hormuz-shock",
+    "https://www.greenairnews.com/?p=8262",
+    "https://www.cnbc.com/2024/02/05/oil-market-will-face-supply-shortage-by-end-of-2025-occidental-ceo-says.html",
+    "https://ieefa.org/resources/four-reasons-largest-energy-crisis-record-has-been-held-bay-and-why-theres-pain-come",
+    "https://rhg.com/research/seeking-alternatives-how-fast-can-sustainable-aviation-fuel-scale/",
+    "https://www.reuters.com/business/energy/ship-fuel-shortage-looms-refiners-strained-by-war-favour-other-products-2026-09-07/",
+    "https://bipartisanpolicy.org/explainer/filling-up-the-e-fuel-tank-policy-options-to-advance-e-fuels/",
+    "https://balkangreenenergynews.com/iea-sees-early-2027-relief-for-fuel-shortage-amid-supply-recovery-demand-destruction/",
+    "https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/071726-jet-fuel-supply-shortages-add-pressure-on-airlines-to-improve-efficiency",
+    "https://e-fuels.com/e-fuels-market-analysis.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

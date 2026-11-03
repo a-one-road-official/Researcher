@@ -1,0 +1,1253 @@
+{
+ "name": "LNG運搬船",
+ "en": "LNG carrier",
+ "aliases": [
+  "LNG船"
+ ],
+ "context": "8 造船 ③LNG運搬船",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:24:11.784115+00:00",
+ "evidence": {
+  "需給の差": [
+   {
+    "quote": "例えば、2024年～2025年の間に鋼価格、人件費、造船所容量の制約が増加し、LNG船の建設コストと納期を納期短縮",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶の建設サイクルと専門LNG造船所の限られた可用性は、供給ボトルネックを作成します",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月、カタール政府は、2030年までに世界規模のLNG貨物取引を30～40億に上るLNG生産を大幅に拡大する計画を明らかにし、国内生産能力は160万トンに達すると、グローバルLNGサプライチェーンにおけるカタールのリーダーシップをさらに強化",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "コンテナ船、日本発 船積み枠逼迫",
+    "url": "https://www.jmd.co.jp/article.php?no=318412",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXZQOUA211G90R20C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースレターの配信をお待ち下さい",
+    "url": "https://www.nikkei.com/article/DGXZQOUA211G90R20C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、建造に欠かせない専門技能職──特殊溶接工──が国内に大幅に不足している",
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "pass": 3
+   },
+   {
+    "quote": "3社が設計技術者と溶接工を互いに融通し合うという方針はこの問題への対処策だが、総体としての人材プールが不足していることに変わりはない",
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "pass": 3
+   },
+   {
+    "quote": "加えて韓国国内では労働力不足が深刻化しており、受注量を増やしたくても生産キャパシティが追いつかない局面に入りつつある",
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "pass": 3
+   },
+   {
+    "quote": "設計・建造の専門人材が1,000人規模で不足しており、タンクの溶接等のスキルの標準化やリ・スキリングを進めます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資促進に向けた課題 ― LNG運搬船のノウハウ不足と需要の不安定さ",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "主な課題（ボトルネック）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資内容は、需要サイドと供給サイドの協働に関する合意を前提に、需要サイドによる長期安定発注と、供給サイドによる技術獲得・技能者育成・設備投資等です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "・供給サイドによる技術獲得、技能者育成、設備投資等",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "「技能者育成」",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船の建造には、タンクの溶接や防熱加工など専門的な技能が必要で、その担い手は地域で育てる必要があります",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資内容は、需要サイドによる長期安定発注と、供給サイドによる技術獲得・技能者育成・設備投資等です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "リソース制約として、2019年以降建造していないため建造ノウハウ等が不足していること、初期投資が大きく回収に長い期間がかかること、設計・建造の専門人材が1,000人規模で不足していること、サプライチェーンの途絶があります",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "・2019年以降LNG運搬船の建造を行っていないため、建造ノウハウ等が不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "・既存の船種の建造量を増加させることに比べ、人材育成・確保を含めコストが大きいため、新造船建造量の1,800万総トン目標や造船人材不足とのバランスを考慮する必要",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNGタンクの防熱加工に関する人材を含め、設計・建造の専門人材が1000人規模で不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題は「足りないもの（リソース制約）」と「先が読めないこと（不確実性）」に整理されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "ノウハウ不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人規模で不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "輸送需要大幅増加、29年以降 船不足か|日本海事新聞 電子版",
+    "url": "https://www.jmd.co.jp/article.php?no=315387",
+    "pass": 3
+   },
+   {
+    "quote": "輸送需要大幅増加、29年以降 船不足か",
+    "url": "https://www.jmd.co.jp/article.php?no=315387",
+    "pass": 3
+   },
+   {
+    "quote": "短期・中期的にはLNG船の船腹余剰が続く見込みだが、最終投資決定（FID）済みの生産能力年2億トン以上に上る天然ガス液化プラントが2030年ごろまでに稼働すれば、現在の新造発注残では対応し切れないとみられているためだ",
+    "url": "https://www.jmd.co.jp/article.php?no=315387",
+    "pass": 3
+   },
+   {
+    "quote": "「短期・中期的に船余りが続くことが予想されるが、20年代の終わりに船腹不足が発生する可能性が高い",
+    "url": "https://www.jmd.co.jp/article.php?no=315387",
+    "pass": 3
+   },
+   {
+    "quote": "一方、29年以降は一転して船腹不足が発生することが予想されている",
+    "url": "https://www.jmd.co.jp/article.php?no=315387",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）によると、米国や中東を中心にFID済みのLNGプロジェクトが稼働すれば、LNG生産能力は30年ごろまでに年2・2億トン増え、貿易量は年6億トンを超える",
+    "url": "https://www.jmd.co.jp/article.php?no=315387",
+    "pass": 3
+   },
+   {
+    "quote": "最近でも、シンガポールの海運大手BWグループのBW・LNGが韓国のHD現代三湖に29年納期でLNG船2隻を発注したことを公表した",
+    "url": "https://www.jmd.co.jp/article.php?no=315387",
+    "pass": 3
+   },
+   {
+    "quote": "コンテナ船、日本発 船積み枠逼迫",
+    "url": "https://www.jmd.co.jp/article.php?no=315387",
+    "pass": 3
+   },
+   {
+    "quote": "社が生産能力を拡大し、供給隻数を伸ばした",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（5）造船会社による新規LNG船供給能力",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005 年当初、受注残は 1 隻であった中国の Hudong-Zhonghua シッピングが受注高を 5",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後の建造費については、2003 年に IEA が、建造船台（ドック）不足が生じることが",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、需要逼迫時には建造後 20 年を経過したような中古 LNG 船でもプレミアムが",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）LNG船需要増へのボトルネック",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "傾向が強く、その供給は逼迫している",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "逼迫したマーケットを反映し、船員費コストも",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 船台不足",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "船台の不足についての業界の見方は次のとおりである",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れらの点を考慮すると、一概に船台需給が逼迫しているとはいえないとの見方もあ",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、将来の LNG 船需要増に対するボトルネックとなるのは、船台不足より、船員問",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "更なる変化に対するボトルネック",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "運用形態の変化に対するボトルネックとして",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定められる部分が大きく、需要逼迫時には建造後 20 年を経過したような古い LNG 船でも",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "JMU、最終赤字694億円 LNG船納期遅れ響く - 日本経済新聞",
+    "url": "https://note.com/reny12779/n/nfdbc9fcc85e0",
+    "pass": 3
+   },
+   {
+    "quote": "かつてSPB方式を支えた熟練技能者の多くはすでに引退しており、アルミ溶接をはじめとする高度なノウハウが次世代へ十分に継承されていませんでした",
+    "url": "https://note.com/reny12779/n/nfdbc9fcc85e0",
+    "pass": 3
+   },
+   {
+    "quote": "「インテルに首位奪われてもNEC役員は平然」 半導体不足、30年前の遠因",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/042200019/",
+    "pass": 3
+   },
+   {
+    "quote": "Skilled labour shortage and safety concerns",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "Skilled labour shortage and safety concerns:",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "The global orderbook remains concentrated in a limited number of capable shipyards, exposing buyers to slot scarcity, equipment bottlenecks and milestone-payment risk. Procurement discipline and refund guarantees are central to capital protection.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "others are facing a 600bn ft³ LNG supply gap.\" Shipments through the strait have",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2767075-lng-supply-growth-outstrips-carrier-orderbook-to-2030",
+    "pass": 3
+   },
+   {
+    "quote": "suggest that the expansion could face the same feedgas shortages that have plagued Trains 1-6.",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "production fell 4.6%, following a 5.7% decline in FY22.201,202 Due to gas shortages, Bangladesh aims",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "fuel shortages for key sectors. 214,215 As a result, the country announced in February 2023 that it",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "215 The Express Tribune. Gas shortage paralyses textile industry in Sindh, Balochistan. May 24, 2023.",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "222 The News International. Govt pushes for Qatari LNG project amid pipeline bottleneck. September 22, 2023.",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Australia Ichthys LNG (debottleneck) 2024 0.4",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "また、国内および国際取引に課される厳格な規制により、市場成長率をさらに悪化させる",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場価値、成長率、セグメンテーション、地理的カバレッジ、主要なプレーヤーなどの市場シナリオに関する洞察に加えて、Data Bridge Market Researchがキュレーションする市場レポートには、詳細なエキスパート分析、価格設定分析、ブランドシェア分析、消費者調査、デモグラフィ分析、サプライチェーン分析、バリューチェーン分析、原材料/消耗品の概要、ベンダー選定基準、PESTLE分析、ポーター分析、規制フレームワークが含まれます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルなLNG取引が拡大し、環境規制を強化する中、LNG船は、安全・効率的・持続可能なエネルギー輸送に不可欠です",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "厳しい環境規制により、排出量管理、燃料システム、安全基準に関するコンプライアンスコストが増加",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらのシステムは、厳格な安全と環境基準を遵守し、最大限に活用された排ガス管理を可能にしています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "ME-GIとXDF 2ストロークエンジンセグメントは、2026年から2033年までの最速のCAGRで成長し、優れた燃費効率、低メタンスリップ、およびIMO排出規制に準拠することが期待されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集と基準年分析は、大規模なサンプル サイズのデータ​​収集モジュールを使用して行われます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ モデルには、ベンダー ポジショニング グリッド、市場タイムライン分析、市場概要とガイド、企業ポジショニング グリッド、特許分析、価格分析、企業市場シェア分析、測定基準、グローバルと地域、ベンダー シェア分析が含まれます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "コンプライアンスと認証",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "基準年: 2024",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "政府のイニシアティブと厳しい規制",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "政府のイニシアティブと規制は、市場のもう一つの主要な成長ドライバーです",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "環境問題への関心が高まる中、世界各国の政府は温室効果ガスの排出を削減するために厳しい規制を実施しています",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "このような規制は、化石燃料よりもクリーンで環境に優しいエネルギー源であるLNGの普及にもつながり、同時に市場の需要を増加させています",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "政府の取り組みと厳しい規制",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "2024 - 基準年",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "環境意識の高まりと厳しい環境規制により、クリーンエネルギーへのシフトが市場を後押ししています",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "厳しい規制が環境に優しい海上輸送の採用を奨励しており、欧州の市場はさらに拡大します",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "スコープの指定",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "天然ガス需要の増加、技術の進歩、政府のイニシアティブと厳格な規制は、LNG船市場の成長を促進する主な要因の一部です",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "Malawi (+265)",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "基準年2025 155億2,000万米ドル",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "本エグゼクティブサマリーは、エネルギー機関、海事規制当局、港湾・ターミナル当局、船級協会のガイダンス、税関および貿易情報源、船舶技術文献、政府の政策文書、業界の技術基準など、公的に検証可能な情報に焦点を当てた、構造化された証拠に基づく調査手法を用いて作成されています",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "本分析では、貿易フロー、インフラ開発、船舶技術、規制要件、地域のエネルギー安全保障上の優先事項、および運航リスク要因に関する定性的評価を通じて、LNG運搬船の動向を評価しています",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "この分野は、エネルギー安全保障の優先事項、再ガス化および液化インフラの拡大、排出規制の厳格化、ならびにデジタルおよびAIを活用した運用ツールの導入によって、その様相を変化させつつあります",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "競争上の優位性は、安全性、効率性、排出性能、貨物の完全性、規制への対応力、そして地政学的・運営上の複雑さを乗り切る能力にますます依存するようになっています",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "貿易ルート、推進基準、エネルギー安全保障の優先順位が変化する中、構造的な変革を遂げています",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "船隊の効率性、規制への備え、およびデジタルレジリエンスを優先すべきです",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.gii.co.jp/contact/",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us",
+    "url": "https://www.jmd.co.jp/article.php?no=318412",
+    "pass": 3
+   },
+   {
+    "quote": "家計の法律クリニック",
+    "url": "https://www.nikkei.com/article/DGXZQOUA211G90R20C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "高市早苗政権は「造船」を重点投資17分野に指定しており、この政策は「目玉」として位置づけられている",
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "pass": 3
+   },
+   {
+    "quote": "とは、「この作業ができる人はこのレベル」という基準をそろえ、見えるようにすることです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "基準があれば、講座で何を教えればよいかが明確になり、学び直し（",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us",
+    "url": "https://www.jmd.co.jp/article.php?no=315387",
+    "pass": 3
+   },
+   {
+    "quote": "スエズ運河の通行料は SCNT(The Suez Canal Net Tonnage)が基準になり、タリフによって",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16 HOEGH GALLEON 87,600 1974 Leif Hoegh Tractebel",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 MATTHEW 126,540 1979 Tractebel North America Atlantic LNG",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "腅�仕向地規制",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "腅�安全性確保のための基準",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "バイヤーが LNG 取引のさらなる柔軟性を志向するなかで、仕向地規制をめぐる輸出国",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 33．は仕向地規制撤廃を求める輸入国側の要望に対する各輸出国（輸出プロジェク",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 33．仕向地規制に対する輸出プロジェクト側の立場",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト 国名 仕向地規制に対する立場",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルジェリアLNG アルジェリア 仕向地規制必要、転売する場合にはProfit Sharing",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ナイジェリアLNG ナイジェリア 既存契約、将来の契約について仕向地規制撤廃承諾",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欧州向けパイプライン ロシア 将来の契約について仕向地規制撤廃承諾",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アトランティックLNG トリニダード Gas NaturalとTractebelがスペイン、ボストン間で自由にスワップすることが認められる等、規制が緩和されている",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ダーウィン（バユ・ウンダン） 東ティモールオーストラリア 仕向地規制は緩和される見込み",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ノルウェー 原則仕向地規制なし",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、海運分野におけるグリーン投資の基準は曖昧です",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "常石ソリューションズ、自律運航2システムで技術認証取得、社会実装へ前進",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、日本の主要海運会社は液化天然ガス（LNG）運搬船の船隊拡大を続ける中、法的・規制的・財務的リスクの増大に直面しています",
+    "url": "https://forourclimate.org/ja/newsroom/1172",
+    "pass": 3
+   },
+   {
+    "quote": "法的拘束力はないものの、この意見は国内規制の根拠を強化し、政府が企業による気候変動関連の海洋被害への関与を防止することへの社会的要請を裏付けています",
+    "url": "https://forourclimate.org/ja/newsroom/1172",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、ESG関連融資へのアクセスの制限、顧客による契約見直し、さらにはグリーンウォッシュの疑いがある場合、環境省、消費者庁、公正取引委員会などの規制当局による介入が生じる事態が想定されます",
+    "url": "https://forourclimate.org/ja/newsroom/1172",
+    "pass": 3
+   },
+   {
+    "quote": "ライフサイクル排出量、間接排出量、先進技術を活用することで追加される排出量（enabled emissions）を含む包括的な排出量の情報開示の強化は、投資家の期待や新たな規制基準を満たすために不可欠となりつつあります",
+    "url": "https://forourclimate.org/ja/newsroom/1172",
+    "pass": 3
+   },
+   {
+    "quote": "日本の海運会社は、地球規模の気候変動対策の義務化、市場環境の変化、規制当局および投資家の要請水準の推移を考慮して、LNG中心の成長計画を見直す必要があります",
+    "url": "https://forourclimate.org/ja/newsroom/1172",
+    "pass": 3
+   },
+   {
+    "quote": "［独自］船舶の排出規制、日本がLNG船優遇の折衷案 トランプ米政権反対で：日経ビジネス電子版",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/042200019/",
+    "pass": 3
+   },
+   {
+    "quote": "［独自］船舶の排出規制、日本がLNG船優遇の折衷案 トランプ米政権反対で",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/042200019/",
+    "pass": 3
+   },
+   {
+    "quote": "船舶の温暖化ガス排出規制で日本が折衷案提示",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/042200019/",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "世界の液化天然ガス（LNG）運搬船市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "BW Group、Dynagas Ltd.、Flex LNG Ltd.、GasLog Ltd.、Gaztransport and Technigaz SA、Golar LNG Ltd.などがLNG船市場の主要企業です",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本企業 めてオマ する",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは債務融資に依存する日本企業の船隊拡張に影響を及ぼしかねません",
+    "url": "https://forourclimate.org/ja/newsroom/1172",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が集合知で勝つためのAI変革最前線",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/042200019/",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ日本企業によるLNGタンカーの建造が大きく拡大する可能性は低いと見られることから、",
+    "url": "https://diamond.jp/zai/articles/-/1009024",
+    "pass": 3
+   },
+   {
+    "quote": "almost tripled since 2018; Japanese companies may be contributing to a looming oversupply of LNG",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese companies.129 As a result of this strategy, combined with declining demand at home,",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese companies are likely to continue cultivating LNG demand elsewhere in Asia by investing in",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Agreements concluded by Japanese companies. November 10, 2023.",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "to Japanese companies, Chinese LNG players are investing heavily in LNG infrastructure in",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "世界5カ国に拠点を持ち、海外の提携調査会社180社以上が発行する調査資料約30万点をワンストップでご提供",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "LNG運搬船市場規模 ・シェア分析レポート2031年 — LNG運搬船市場規模 ・シェア分析レポート2031年 Mordor Intelligence https://www.mordorintelligence.com > lng-carriers-market",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Lng船 の 市場規模 、シェア&成長レポート2033 — Lng船 の 市場規模 、シェア&成長レポート2033 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船 の 市場規模 、シェア、成長、2035年予測 — LNG船 の 市場規模 、シェア、成長、2035年予測 Survey Reports合同会社 https://www.surveyreports.jp > 市場調査レポート",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船市場 ―2026年～2032年の世界 市場 予測 — LNG運搬船市場 ―2026年～2032年の世界 市場 予測 アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "日本で LNG船 の建造は復活するのか？―3500 億円 の投資と ... — 日本で LNG船 の建造は復活するのか？―3500 億円 の投資と ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/reny12779/n/nfdbc9fcc85e0",
+    "pass": 3
+   },
+   {
+    "quote": "【ニュース深読み/造船】再開へ3 社 が決意表明。 LNG船 建造 ... — 【ニュース深読み/造船】再開へ3 社 が決意表明。 LNG船 建造 ... 日本海事新聞 電子版 https://www.jmd.co.jp > 造船/舶用の記事一覧",
+    "url": "https://www.jmd.co.jp/article.php?no=318412",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船 の安定的な供給体制の構築に向けた懇談会を開催 ... — LNG運搬船 の安定的な供給体制の構築に向けた懇談会を開催 ... 国土交通省 https://www.mlit.go.jp > press > kaiji05_hh_000344",
+    "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000344.html",
+    "pass": 3
+   },
+   {
+    "quote": "国産 LNG船 「自立的な建造体制目指す」 国交相と造船3 社 が面会 — 国産 LNG船 「自立的な建造体制目指す」 国交相と造船3 社 が面会 日本経済新聞 https://www.nikkei.com > ビジネス > 機械",
+    "url": "https://www.nikkei.com/article/DGXZQOUA211G90R20C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "国産 LNG船 が復活する    今治・川重・名村3 社 連合、年5隻 ... — 国産 LNG船 が復活する    今治・川重・名村3 社 連合、年5隻 ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "pass": 3
+   },
+   {
+    "quote": "03_エネルギー輸送_ LNG船 |いろいろな船 — 03_エネルギー輸送_ LNG船 |いろいろな船 商船三井 https://www.mol.co.jp > various-vessels > lng_carrier",
+    "url": "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船 とは｜2035年以降に年3-5隻を国内で建造する体制へ — LNG運搬船 とは｜2035年以降に年3-5隻を国内で建造する体制へ 日本DX地域創生応援団 https://digital-supporter.net > ... > (8) 造船",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船 市場規模・シェア分析レポート2031年 — LNG運搬船 市場規模・シェア分析レポート2031年 Mordor Intelligence https://www.mordorintelligence.com > lng-carriers-market",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船 の市場規模、シェア、成長、2035年予測 — LNG船 の市場規模、シェア、成長、2035年予測 Survey Reports合同会社 https://www.surveyreports.jp > 市場調査レポート",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "【 LNG運搬船 造船基盤の維持を！ 】 2026 年3月6日 衆議院 ... — 【 LNG運搬船 造船基盤の維持を！ 】 2026 年3月6日 衆議院 ... YouTube https://www.youtube.com > shorts > gpBSi2_LVjc",
+    "url": "https://www.youtube.com/shorts/gpBSi2_LVjc",
+    "pass": 3
+   },
+   {
+    "quote": "日本で LNG船 の建造は復活するのか？―3500億円の投資と ... — 日本で LNG船 の建造は復活するのか？―3500億円の投資と ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/reny12779/n/nfdbc9fcc85e0",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carrier Market Size & Share, Growth Analysis 2035 — LNG Carrier Market Size & Share, Growth Analysis 2035 Research Nester https://www.researchnester.com > lng...",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size & Share Analysis Report 2031 — LNG Carriers Market Size & Share Analysis Report 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global LNG Carriers Market Size , Share & Forecast 2026-2031 — Global LNG Carriers Market Size , Share & Forecast 2026-2031 Ken Research https://www.kenresearch.com > globa...",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size , Industry Share , Forecast to 2034 — LNG Carriers Market Size , Industry Share , Forecast to 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/lng-carriers-market-109927",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size, Share & Forecast Report 2025 to ... — LNG Carriers Market Size, Share & Forecast Report 2025 to ... Dataintelo https://dataintelo.com > report > glob...",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "高市早苗政権が「造船」を重点投資17分野の一つに位置づけ、2026年6月中に策定予定の官民投資ロードマップへの明記と、船主への購入補助金支給を検討",
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "pass": 3
+   },
+   {
+    "quote": "LNG内需の約98%を海上輸送に依存する日本のエネルギー安全保障を官民一体で強化する構え",
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を読むことで、「なぜ世界最大級の船主国・日本が、自国でLNG船を1隻も建造できない逆説的状況に陥ったか」という構造的問題の本質と、政府補助金という政策的テコを使ってでも造船技術を国内に取り戻さなければならない地政学・エネルギー安保上の必然性を理解できる",
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月中に策定される官民投資ロードマップには、今回の国産LNG船再建プロジェクトが明記される見通しだ",
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "pass": 3
+   },
+   {
+    "quote": "船主の側──すなわち2025年3月末時点でLNG運搬船107隻を保有・管理する商船三井（世界1位）、89隻の日本郵船（世界2位）、46隻の川崎汽船（世界6位）といった日本の大手海運会社──に対して、韓中勢との建造コスト差分を補填する補助金を支給することで、船主が自発的に国産船を選択する構造を人工的に作り出す設計だ",
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船とは｜官民投資ロードマップの目標年3-5隻建造・投資の考え方・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本では2019年以降LNG運搬船の建造が途絶えていますが、官民投資ロードマップは、経済安全保障の観点から建造技術を取り戻し、2035年以降に年3-5隻を建造する安定的な供給体制を築くとしました",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "原文は内閣官房「戦略17分野における「主要な製品・技術等」の官民投資ロードマップ」（2026年7月21日）から引用しています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船の官民投資ロードマップは、2019年以降途絶えている国内建造を再開し、2035年以降に年3-5隻建造の安定的供給体制を構築する計画です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船の生産基盤強化へ官民1兆円投資 政府の経済対策 - 日本経済新聞",
+    "url": "https://note.com/reny12779/n/nfdbc9fcc85e0",
+    "pass": 3
+   },
+   {
+    "quote": "政府は月内にも策定する総合経済対策に、官民で造船業に1兆円規模を投資すると盛り込む",
+    "url": "https://note.com/reny12779/n/nfdbc9fcc85e0",
+    "pass": 3
+   },
+   {
+    "quote": "造船再生、支援対象拡大を視野27年度予算、修繕強化やLNG船再開など事項要求 | 造船・舶用 | ニュース | 海事プレスONLINE",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "27年度予算、修繕強化やLNG船再開など事項要求",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省は2027年度予算の概算要求で、造船業再生に向けた政策の対象を広げる方向を打ち出した",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに国内の船舶建造能力を1800万総トンに引き上げるため、既に1200億円規模の「造船業再生基金」を措置しているが、27年度概算要求では、建造能力拡大に加え、船舶修繕とLNG船を含む3分野について「事項要求」とした",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、鉄鋼補助金が他国の15倍、OECD造船委員会で中国産鋼材が課題視",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "pass": 3
+   },
+   {
+    "quote": "人口最少798人の町、補助金55件をゼロから検証 分配から選別に転換",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/042200019/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、鉄鋼補助金が他国の15倍、OECD造船委員会で中国産鋼材が課題視",
+    "url": "https://www.kaijipress.com/news/tramper/2026/10/204951/",
+    "pass": 3
+   },
+   {
+    "quote": "取引報告書などを電子交付するだけで、現物取引、信用取引に加え、単元未満株の売買手数料まで0円になるので、売買コストに関しては圧倒的にお得な証券会社と言える",
+    "url": "https://diamond.jp/zai/articles/-/1009024",
+    "pass": 3
+   },
+   {
+    "quote": "人口最少798人の町、補助金55件をゼロから検証 分配から選別に転換",
+    "url": "https://business.nikkei.com/atcl/gen/19/00179/010700296/",
+    "pass": 3
+   },
+   {
+    "quote": "the fertilizer sector increased 24%. The government has budgeted USD22.7 billion for subsidies in",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "243 Energy Market Authority (EMA). EMA Grants Conditional Approval for 1 Gigawatt (GW) of Electricity Imports from Cambodia.",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "244 EMA. EMA Grants Conditional Approval for 1.2 Gigawatt (GW) of Electricity Imports from Vietnam. October 24, 2023.",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   },
+   {
+    "quote": "245 EMA. EMA Grants Conditional Approvals for 2 Gigawatt of Electricity Imports from Indonesia. September 8, 2023.",
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "国内参入社数": [
+   {
+    "value": "180",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "quote": "世界5カ国に拠点を持ち、海外の提携調査会社180社以上が発行する調査資料約30万点をワンストップでご提供"
+   }
+  ],
+  "国の予算億円": [
+   {
+    "value": "200",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "quote": "2035年までに国内の船舶建造能力を1800万総トンに引き上げるため、既に1200億円規模の「造船業再生基金」を措置しているが、27年度概算要求では、建造能力拡大に加え、船舶修繕とLNG船を含む3分野について「事項要求」とした"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/LNG%E9%81%8B%E6%90%AC%E8%88%B9%E6%96%B0%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4/1671739",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=318412",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000344.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/mobility/marine/ships/lng.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA211G90R20C26A8000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/deltacf/n/n0794b4e532d6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/872adf75-d4ee-48da-abb3-2644ab2dc852",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=315387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/reny12779/n/nfdbc9fcc85e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forourclimate.org/ja/insights/99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-agent.jp/subsidy/219",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pczes.jstra.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/us/UYRG5JO2TBM33AUZXDBHD6REAM-2026-10-05/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://forourclimate.org/ja/newsroom/1172",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/042200019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaijipress.com/news/tramper/2026/10/204951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/780663",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.logi-today.com/1011639",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/zai/articles/-/1009024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/themes/?theme=LNG%E9%81%8B%E6%90%AC%E8%88%B9&market=",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/gen/19/00179/010700296/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minkabu.jp/theme/LNG%E9%81%8B%E6%90%AC%E8%88%B9",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/lng-carriers-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/lng-carriers-market-109927",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://anasalhajjieoa.substack.com/p/key-players-in-the-lng-carrier-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/business/energy/lng-tanker-orders-gain-pace-despite-mixed-outlook-iran-war-2026-04-27/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2767075-lng-supply-growth-outstrips-carrier-orderbook-to-2030",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rivieramm.com/news-content-hub/wood-mackenzie-us-stands-to-benefit-from-lng-supply-gap-created-by-iran-war-90122",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LNG運搬船 国内市場規模 億円",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "https://www.databridgemarketresearch.com/jp/reports/global-liquefied-natural-gas-lng-carrier-market",
+    "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "https://baike.baidu.com/ja/item/LNG%E9%81%8B%E6%90%AC%E8%88%B9%E6%96%B0%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4/1671739",
+    "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "https://note.com/reny12779/n/nfdbc9fcc85e0",
+    "https://www.fortunebusinessinsights.com/jp/lng%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E5%B8%82%E5%A0%B4-109927",
+    "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "https://zosenblog.com/lng-fukayomi/",
+    "https://www.mlit.go.jp/maritime/content/002015885.pdf"
+   ]
+  },
+  {
+   "query": "LNG運搬船 国内 参入企業 社",
+   "results": [
+    "https://www.jmd.co.jp/article.php?no=318412",
+    "https://www.mlit.go.jp/report/press/kaiji05_hh_000344.html",
+    "https://www.khi.co.jp/mobility/marine/ships/lng.html",
+    "https://www.nikkei.com/article/DGXZQOUA211G90R20C26A8000000/",
+    "https://note.com/deltacf/n/n0794b4e532d6",
+    "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "https://www.yomiuri.co.jp/economy/20260723-GYT1T00346/",
+    "https://kabutan.jp/themes/?theme=LNG%E9%81%8B%E6%90%AC%E8%88%B9&market=",
+    "https://www.mlit.go.jp/maritime/content/002015885.pdf",
+    "https://tech.antique-nagomi.com/2026/08/28/japan-domestic-lng-carrier-construction/"
+   ]
+  },
+  {
+   "query": "LNG運搬船 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://finance.biggo.jp/news/872adf75-d4ee-48da-abb3-2644ab2dc852",
+    "https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html",
+    "https://www.jmd.co.jp/article.php?no=315387",
+    "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "https://note.com/reny12779/n/nfdbc9fcc85e0",
+    "https://hotservice.com.tw/ja/%E3%83%A2%E3%82%B6%E3%83%B3%E3%83%93%E3%83%BC%E3%82%AF%E3%80%81lng%E8%88%B9%E5%95%86%E8%AB%87-%E5%86%8D%E9%96%8B%E3%80%82%E6%B5%B7%E9%81%8B%E5%A4%A7%E6%89%8B%E3%80%81%E4%BA%8B%E6%A5%AD%E6%8B%A1/",
+    "https://www.youtube.com/watch?v=br8qnaLDpi4"
+   ]
+  },
+  {
+   "query": "LNG運搬船 予算 補助金 基金 2026",
+   "results": [
+    "https://forourclimate.org/ja/insights/99",
+    "https://www.kaijipress.com/news/shipbuilding/2026/08/203904/",
+    "https://www.youtube.com/shorts/gpBSi2_LVjc",
+    "https://hojokin-agent.jp/subsidy/219",
+    "https://pczes.jstra.jp/",
+    "https://www.reuters.com/jp/world/us/UYRG5JO2TBM33AUZXDBHD6REAM-2026-10-05/",
+    "https://zosenblog.com/zeroemisennhojyokin/",
+    "https://www.asahi.com/articles/ASV9251M1V92ULFA001M.html",
+    "https://www.jmd.co.jp/article.php?no=316658",
+    "https://www.mlit.go.jp/maritime/content/002015885.pdf"
+   ]
+  },
+  {
+   "query": "LNG運搬船 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://forourclimate.org/ja/newsroom/1172",
+    "https://business.nikkei.com/atcl/gen/19/00800/042200019/",
+    "https://www.kaijipress.com/news/tramper/2026/10/204951/",
+    "https://www.nikkan.co.jp/articles/view/780663",
+    "https://www.logi-today.com/1011639",
+    "https://note.com/reny12779/n/nfdbc9fcc85e0",
+    "https://www.mlit.go.jp/maritime/content/001617274.pdf",
+    "https://logishift.net/gov/tokutei-tanker-act-amendment-lng-petroleum-202610/",
+    "https://www.meti.go.jp/press/2026/10/20261013001.html",
+    "https://www.yomiuri.co.jp/politics/20261003-GYT1T00099/"
+   ]
+  },
+  {
+   "query": "LNG運搬船 国内 主要企業 メーカー",
+   "results": [
+    "https://diamond.jp/zai/articles/-/1009024",
+    "https://kabutan.jp/themes/?theme=LNG%E9%81%8B%E6%90%AC%E8%88%B9&market=",
+    "https://business.nikkei.com/atcl/gen/19/00179/010700296/",
+    "https://www.khi.co.jp/mobility/marine/ships/lng.html",
+    "https://www.youtube.com/watch?v=GyTBlhFinwc",
+    "https://baike.baidu.com/ja/item/LNG%E9%81%8B%E6%90%AC%E8%88%B9%E6%96%B0%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4/1671739",
+    "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "https://minkabu.jp/theme/LNG%E9%81%8B%E6%90%AC%E8%88%B9",
+    "https://www.nyk.com/stories/01/04/20261009.html",
+    "https://www.mlit.go.jp/maritime/content/002015885.pdf"
+   ]
+  },
+  {
+   "query": "LNG carrier Japan market size",
+   "results": [
+    "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "https://www.mordorintelligence.com/industry-reports/lng-carriers-market",
+    "https://www.kenresearch.com/global-lng-carriers-market",
+    "https://www.linkedin.com/pulse/japan-lng-carriers-market-future-growth-investment-hf61f",
+    "https://www.fortunebusinessinsights.com/lng-carriers-market-109927",
+    "https://anasalhajjieoa.substack.com/p/key-players-in-the-lng-carrier-market",
+    "https://www.imarcgroup.com/japan-lng-bunkering-market",
+    "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "https://www.imarinenews.com/36226.html",
+    "https://www.6wresearch.com/industry-report/japan-liquefied-natural-gas-lng-carrier-market"
+   ]
+  },
+  {
+   "query": "LNG carrier shortage backlog supply gap 2025",
+   "results": [
+    "https://www.reuters.com/business/energy/lng-tanker-orders-gain-pace-despite-mixed-outlook-iran-war-2026-04-27/",
+    "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2767075-lng-supply-growth-outstrips-carrier-orderbook-to-2030",
+    "https://www.energy.gov/documents/067-ieefa-global-lng-outlook-2024-2028pdf",
+    "https://dataintelo.com/report/global-lng-carriers-market",
+    "https://www.rivieramm.com/news-content-hub/news-content-hub/wood-mackenzie-us-stands-to-benefit-from-lng-supply-gap-created-by-iran-war-90122",
+    "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "https://www.shell.com/what-we-do/oil-and-natural-gas/liquefied-natural-gas-lng/lng-outlook-2025/_jcr_content/root/main/section_125126292_co/promo_copy_copy_copy/links/item0.stream/1740577530786/97f8aacf1e8b27cd8dd32f6070d6463f60cff411/lng-outlook-2025-full-report.pdf",
+    "https://www.lloydslist.com/LL1156662/Gulf-states-attacked-by-Iran-with-two-more-vessels-hit",
+    "https://www.seala.ai/analytics/lng-2025q3",
+    "https://www.worldports.org/the-lng-carrier-market-faces-short-term-pressure-but-remains-promising-in-the-medium-to-long-term/"
+   ]
+  }
+ ],
+ "missing": {
+  "国内市場規模": "記載なし（読んだ40頁・検索8回）"
+ }
+}
