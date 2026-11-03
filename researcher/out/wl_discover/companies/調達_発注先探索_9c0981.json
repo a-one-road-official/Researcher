@@ -1,0 +1,348 @@
+{
+ "name": "調達・発注先探索",
+ "en": "supplier sourcing platform manufacturing",
+ "aliases": [
+  "manufacturing supplier discovery",
+  "procurement platform for manufacturers"
+ ],
+ "context": "製造業",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:58:39.692851+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://wonnda.com/white-label-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usadrop.com/best-private-label-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pietrastudio.com/blog/sourcing/sourcing-white-label-product-manufacturers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://community.latenode.com/t/which-companies-do-you-think-rely-on-private-label-manufacturing/33589",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spscommerce.com/community/articles/how-to-become-a-private-label-supplier",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novasupplier.com/hub/blog/10-best-websites-to-find-manufacturers-for-your-product-brand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wonnda.com/magazine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chinasourcingai.com/en/sourcing/white-label-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourceready.com/blog/ai-tools-private-label-white-label-supplier-discovery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/How-do-I-find-reliable-suppliers-for-my-private-label-products",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thomasnet.com/articles/top-suppliers/private-label-manufacturing-companies-suppliers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workus.ai/ja/blog/white-label-manufacturer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dodropshipping.com/best-white-label-dropshipping-suppliers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wonnda.com/private-label-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intrepidsourcing.com/solutions/white-label-package/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.witandcraft.com/rebranding-manufacturers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycalidesigns.com/blog/top-branding-platforms-for-manufacturing-businesses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://euphoriccolors.com/custom-apparel-rebranding-los-angeles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourceready.com/blog/top-product-sourcing-tools-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stockandship.com/services/private-label-product-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wonnda.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcy.ai/blogs/what-is-odm-oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mugroup.com/supply-chain/private-label-supplier-china-for-brand-focused-product-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://valuesourceglobal.com/manufacturing-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kurationai.com/guides/how-to-choose-an-oem-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wonnda.com/magazine/best-procurement-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entproc.com/manufacturing-procurement-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partanalytics.com/solutions-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gembah.com/blog/private-label-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dscpsmartfulfillment.com/blog/white-label-products-to-sell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://titannetwork.com/private-label-suppliers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growabledigital.com/whitelabel-software-to-resell-2026/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ongraph.com/white-label-software/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label supplier sourcing platform manufacturing",
+   "results": [
+    "https://wonnda.com/white-label-manufacturers/",
+    "https://usadrop.com/best-private-label-manufacturers/",
+    "https://www.pietrastudio.com/blog/sourcing/sourcing-white-label-product-manufacturers",
+    "https://community.latenode.com/t/which-companies-do-you-think-rely-on-private-label-manufacturing/33589",
+    "https://www.spscommerce.com/community/articles/how-to-become-a-private-label-supplier",
+    "https://www.novasupplier.com/hub/blog/10-best-sourcing-platforms-for-product-brands-in-2026",
+    "https://www.sourceready.com/blog/ai-tools-private-label-white-label-supplier-discovery",
+    "https://www.chinasourcingai.com/sourcing/white-label-products",
+    "https://uk.linkedin.com/company/white-label-sourcing",
+    "https://www.workus.ai/blog/white-label-manufacturer"
+   ]
+  },
+  {
+   "query": "supplier sourcing platform manufacturing white-label",
+   "results": [
+    "https://www.novasupplier.com/hub/blog/10-best-sourcing-platforms-for-product-brands-in-2026",
+    "https://wonnda.com/magazine/",
+    "https://www.chinasourcingai.com/sourcing/white-label-products",
+    "https://www.sourceready.com/blog/ai-tools-private-label-white-label-supplier-discovery",
+    "https://www.spscommerce.com/community/articles/how-to-become-a-private-label-supplier",
+    "https://www.quora.com/How-do-I-find-reliable-suppliers-for-my-private-label-products",
+    "https://titannetwork.com/private-label-suppliers/",
+    "https://wholesalehub.biz/white-label-manufacturers/",
+    "https://sourcing.docshipper.com/en/sourcing-2/private-labeling-complete-guide/",
+    "https://www.workus.ai/blog/white-label-manufacturer"
+   ]
+  },
+  {
+   "query": "best white label supplier sourcing platform manufacturing providers",
+   "results": [
+    "https://wonnda.com/white-label-manufacturers/",
+    "https://www.novasupplier.com/hub/blog/10-best-sourcing-platforms-for-product-brands-in-2026",
+    "https://community.latenode.com/t/which-companies-do-you-think-rely-on-private-label-manufacturing/33589",
+    "https://www.thomasnet.com/articles/top-suppliers/private-label-manufacturing-companies-suppliers/",
+    "https://www.sourceready.com/blog/ai-tools-private-label-white-label-supplier-discovery",
+    "https://usadrop.com/best-private-label-manufacturers/",
+    "https://www.pietrastudio.com/blog/sourcing/sourcing-white-label-product-manufacturers",
+    "https://www.quora.com/How-do-I-find-reliable-suppliers-for-my-private-label-products",
+    "https://www.youtube.com/watch?v=RyrWu4PI8r0",
+    "https://www.workus.ai/blog/white-label-manufacturer"
+   ]
+  },
+  {
+   "query": "supplier sourcing platform manufacturing rebrand your logo own brand",
+   "results": [
+    "https://www.witandcraft.com/rebranding-manufacturers",
+    "https://www.mycalidesigns.com/blog/top-branding-platforms-for-manufacturing-businesses",
+    "https://euphoriccolors.com/custom-apparel-rebranding-los-angeles",
+    "https://www.youtube.com/watch?v=ZvxpaklnMXI",
+    "https://www.novasupplier.com/hub/blog/10-best-sourcing-platforms-for-product-brands-in-2026",
+    "https://www.sourceready.com/blog/top-product-sourcing-tools-guide",
+    "https://stockandship.com/services/private-label-product-development/",
+    "https://www.sustainment.com/platform/strategic-sourcing",
+    "https://www.novasupplier.com/hub/blog/10-best-websites-to-find-manufacturers-for-your-product-brand",
+    "https://nichesources.com/sourcing-websites.html"
+   ]
+  },
+  {
+   "query": "supplier sourcing platform manufacturing private label OEM partner",
+   "results": [
+    "https://wonnda.com/",
+    "https://www.sourcy.ai/blogs/what-is-odm-oem",
+    "https://www.spscommerce.com/community/articles/how-to-become-a-private-label-supplier",
+    "https://www.mugroup.com/supply-chain/private-label-supplier-china-for-brand-focused-product-development/",
+    "https://www.quora.com/How-do-I-find-reliable-suppliers-for-my-private-label-products",
+    "https://valuesourceglobal.com/manufacturing-partner",
+    "https://kurationai.com/guides/how-to-choose-an-oem-partner",
+    "https://elchemy.com/blogs/chemical-market/private-label-vs-oem-a-guide-for-brands-working-with-custom-formulation-manufacturers",
+    "https://www.youtube.com/watch?v=wBTgL4v1BsY",
+    "https://findmymanufacturer.com/"
+   ]
+  },
+  {
+   "query": "supplier sourcing platform manufacturing reseller white label program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://wonnda.com/magazine/best-procurement-platforms/",
+    "https://www.spscommerce.com/community/articles/how-to-become-a-private-label-supplier",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://entproc.com/manufacturing-procurement-tools/",
+    "https://www.shipturtle.com/blog/how-to-build-white-label-reseller-marketplace",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://www.ongraph.com/white-label-software/"
+   ]
+  },
+  {
+   "query": "supplier sourcing platform manufacturing embed SDK license OEM",
+   "results": [
+    "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://partanalytics.com/solutions-oem/",
+    "https://seminode.com/oem-procurement",
+    "https://www.z2data.com/insights/the-7-most-effective-supplier-discovery-platforms-for-electronics/",
+    "https://adek.com/solutions/oem-embedded-platforms",
+    "https://iriscorporate.com/partners/oem/",
+    "https://www.supplios.com/"
+   ]
+  },
+  {
+   "query": "supplier sourcing platform manufacturing white label company profitable",
+   "results": [
+    "https://www.spscommerce.com/community/articles/how-to-become-a-private-label-supplier",
+    "https://www.pietrastudio.com/blog/sourcing/sourcing-white-label-product-manufacturers",
+    "https://community.latenode.com/t/which-companies-do-you-think-rely-on-private-label-manufacturing/33589",
+    "https://www.youtube.com/watch?v=_SGPavJgJBY",
+    "https://gembah.com/blog/private-label-manufacturing/",
+    "https://usadrop.com/best-private-label-manufacturers/",
+    "https://www.quora.com/How-do-I-find-reliable-suppliers-for-my-private-label-products",
+    "https://dscpsmartfulfillment.com/blog/white-label-products-to-sell/",
+    "https://titannetwork.com/private-label-suppliers/",
+    "https://wonnda.com/white-label-manufacturers/"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業": "記載なし（読んだ40頁・検索8回）",
+  "自社名で出せる条件": "記載なし（読んだ40頁・検索8回）",
+  "再販制度": "記載なし（読んだ40頁・検索8回）",
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "売上": "記載なし（読んだ40頁・検索8回）",
+  "価格": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

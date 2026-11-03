@@ -1,0 +1,814 @@
+{
+ "name": "製造原価計算（Should costing）",
+ "en": "manufacturing should costing software",
+ "aliases": [
+  "product cost estimation software",
+  "cost engineering software"
+ ],
+ "context": "製造業",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:57:46.889984+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "leading automotive, aerospace, medical-device, and consumer-products manufacturers worldwide.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Related topics",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Many organizations set cost-reduction targets top-down and expect suppliers to comply. Without understanding underlying costs, that often becomes an argument about price, rather than a discussion about what truly drives manufacturing cost.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "At a leading electronics company, a supplier quoted",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": ". The customer is described as a leading electronics company.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The cost a part must hit to meet a product's margin or selling-price goal, set top-down from the market.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "topics",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Should cost analysis is one part of a broader toolkit for managing manufacturing costs. These related topics provide additional context and connect to other areas of DFMA methodology.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering can test material, process, and tolerance alternatives",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supports early lifecycle cost calculations and alternatives within the Teamcenter ecosystem",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Compare material and process alternatives before design release",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cost modeling software builds a structured model of what a product, part, or assembly should cost based on the materials, processes, cycle times, labor, tooling, overhead, scrap, and production assumptions that create cost. In manufacturing, the best cost models expose the drivers behind the number so engineers and sourcing teams can test alternatives.",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "to build transparent should-cost models, test design alternatives, and prepare for supplier discussions.",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Are you seeking top-notch cost estimating software tailored for the manufacturing sector? Do you require improved quoting and estimating solutions specific to machining or fabrication processes? Look no further than",
+    "url": "https://www.mtisystems.com/blog/analysis-of-supplier-expenses-with-should-cost-estimating-software.html",
+    "pass": 3
+   },
+   {
+    "quote": "Are you seeking top-notch cost estimating software tailored for the manufacturing sector? Do you require improved quoting and estimating solutions specific to machining or fabrication processes? Look no further than",
+    "url": "https://www.mtisystems.com/blog/2025/01/29/analysis-of-supplier-expenses-with-should-cost-estimating-software/",
+    "pass": 3
+   },
+   {
+    "quote": "raw materials, labor rates, overhead expenses, tooling, logistics, and supplier margins. Unlike top-down approaches relying on historical spend or vendor estimates, this methodology",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "techniques to digital twins, enabling rapid simulations of product cost across geographies, production scales, and design alternatives. These tools ingest 3D CAD files, benchmark global pricing trends, and estimate costs in minutes rather than weeks.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "The Top Five Trends Impacting Cost Engineering in 2024",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Each value is modeled using engineering data, market intelligence, and historical benchmarks. Unlike top-down approaches, which apply aggregate cost ratios, this method delivers cost transparency at the component level, revealing both inefficiencies and optimization opportunities.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Design alternatives assessment",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Top-down + bottom-up",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "targets are achievable without pushing efficient suppliers into unsustainable margins.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The simplest way to account for supplier profit is a flat percentage of total manufacturing cost, but this approach ignores the varying levels of value-added labor across parts.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "DFMA advocates applying separate profit margins to each cost component:",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "margins to setup and processing (reflecting labor and capital intensity)",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "margins to material (reflecting pass-through costs)",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted margins for dedicated tooling to reflect low production volumes",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Processing is the largest variable on most parts:",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Illustrative example. Actual proportions vary by part geometry, process, and volume.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier margin applied per component (not a flat %)",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Margin rates for material vs. value-added work",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The most common mistake in spreadsheet-based models is applying a single profit percentage to the total. DFMA applies separate margins to material, processing, and tooling to reflect the different levels of value-added work, producing a more accurate and fairer estimate.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "higher margin on value-added processing, lower on pass-through material.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Reflects commercial strategy, current capacity, and margin goals. Price is not cost.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The cost a part must hit to meet a product's margin or selling-price goal, set top-down from the market.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Increased Profit Margins:",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Quote price, margin, lead time, and shop workflow data",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "The exact equation varies by process, but the principle does not: every cost driver should be visible.",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Many companies treat cost as a sourcing problem. Drawings go out, supplier quotes come back, and procurement tries to negotiate the number down. That process can work for margin and terms, but it does not fix a design that carries unnecessary parts, operations, tolerances, or process complexity.",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Teams can separate supplier margin from design-driven cost",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "A cost model that exposes cost drivers can support cost engineering, value engineering, design-to-cost, and procurement from the same evidence. The team can see whether savings come from design simplification, process change, regional sourcing, volume assumptions, or supplier margin.",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Varies by workflow and configured model; strong users should ask how assumptions are exposed in outputs",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Separate supplier margin from design-driven cost",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Smarter Manufacturing Quotes, Stronger Margins",
+    "url": "https://www.mtisystems.com/blog/2025/01/29/analysis-of-supplier-expenses-with-should-cost-estimating-software/",
+    "pass": 3
+   },
+   {
+    "quote": "raw materials, labor rates, overhead expenses, tooling, logistics, and supplier margins. Unlike top-down approaches relying on historical spend or vendor estimates, this methodology",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "incur assuming efficient manufacturing and fair profit margins. When applied as a methodology, it becomes a repeatable system for",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Instead of replacing supplier pricing, should cost analysis establishes a validation benchmark. Significant gaps between this benchmark and a supplier’s quote can reveal inefficiencies or excessive margins, creating a foundation for data-driven negotiation.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margins",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "accuracy range, depending on data granularity and supplier variability. Still, this margin of error is acceptable and even expected, given its role as a",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "– validate total cost of ownership (TCO), ensure cost alignment with budgets, and assess margin expectations",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Uncover categories with margin inflation",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "In complex design environments, failure to consider cost early leads to redesign, delays, or underperforming margins. Should cost analysis transforms",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "to assess materials, assembly steps, and supplier margins in detail.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": ", procurement leaders assess materials, printing technologies, and supplier geographies, balancing sustainability targets and margin pressures. Should cost models inform both product development and seasonal SKU planning.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit and risk margin (based on industry benchmarks)",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Variance comparison between modeled cost and supplier price",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "The duration and depth of should cost analysis vary according to product complexity, data availability, and organizational maturity.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-part BOMs; varied materials; regional cost inputs",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "These platforms provide comprehensive bottom-up modeling by analyzing all cost components: raw materials, labor rates, overhead, tooling, logistics, and profit margins. By digitizing this process, organizations move from manual estimation to streamlined, fact-based analysis, reducing turnaround time while improving accuracy.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "DFMA Should Costing breaks the cost of a part into transparent layers: material, processing, setup, tooling, scrap/yield, overhead, and supplier profit. The sections below explain the major driver groups and how each is calculated.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Tooling costs are estimated from tool-supplier charge-out rates, which capture machine, consumable, and toolmaker labor costs. The model assumes your company rents equipment, purchases supplies, and hires a toolmaker for the time required to produce dedicated tooling. Supplier profit is added once, as its own line, rather than buried inside each rate.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Profit (Why a Single % Can Mislead)",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The simplest way to account for supplier profit is a flat percentage of total manufacturing cost, but this approach ignores the varying levels of value-added labor across parts.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "DFMA advocates applying separate profit margins to each cost component:",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "At its simplest, a should-cost estimate is the sum of every cost a competitive supplier incurs to make the part, plus a reasonable profit on the value they add. Written out:",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Profit",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Profit",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier profit: $0.27",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "7. Profit",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The most common mistake in spreadsheet-based models is applying a single profit percentage to the total. DFMA applies separate margins to material, processing, and tooling to reflect the different levels of value-added work, producing a more accurate and fairer estimate.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "A free Excel worksheet with the seven layers above already laid out: production volume and batch size, material grade and weights, routing and cycle times, machine and labor rates, tooling cost and life, yield, overhead, and per-component profit. Enter your inputs and the worksheet builds the cost roll-up for you.",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Add supplier profit by component:",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Overhead + profit",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Increased Profit Margins:",
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise product cost management for product, tool, quotation, carbon footprint, and profitability analysis",
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "incur assuming efficient manufacturing and fair profit margins. When applied as a methodology, it becomes a repeatable system for",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margins",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "By providing this data, should cost analysis ensures products are engineered for profitability, not just performance.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Should cost platforms enable instant cost projections during NPI phases, where product decisions shape long-term profitability. Engineers and sourcing teams use real-time pricing feeds and CAD-linked tools to minimize cost creep while supporting agile design cycles.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Each cost element, materials, labor, overhead, tooling, and profit, is quantified using validated cost estimating relationships (CERs).",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit and risk margin (based on industry benchmarks)",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "These platforms provide comprehensive bottom-up modeling by analyzing all cost components: raw materials, labor rates, overhead, tooling, logistics, and profit margins. By digitizing this process, organizations move from manual estimation to streamlined, fact-based analysis, reducing turnaround time while improving accuracy.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "offers a forward-looking estimate—calculated from raw materials, labor, overhead, logistics, and profit margins under efficient production conditions. It represents what something",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "is a detailed analysis conducted by OEMs or engineering firms on behalf of their OEM customers to determine the expenses involved in manufacturing a specific part or assembly. Thus, the Analysis of Supplier Expenses with Should Cost Estimating Software.",
+    "url": "https://www.mtisystems.com/blog/analysis-of-supplier-expenses-with-should-cost-estimating-software.html",
+    "pass": 3
+   },
+   {
+    "quote": "is a detailed analysis conducted by OEMs or engineering firms on behalf of their OEM customers to determine the expenses involved in manufacturing a specific part or assembly. Thus, the Analysis of Supplier Expenses with Should Cost Estimating Software.",
+    "url": "https://www.mtisystems.com/blog/2025/01/29/analysis-of-supplier-expenses-with-should-cost-estimating-software/",
+    "pass": 3
+   },
+   {
+    "quote": ".This integrated structure ensures that technical precision, commercial insight, and financial accountability are embedded into every stage of the cost estimation process.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": ". These units often operate within matrix organizations, embedded into both design and procurement units, allowing them to influence early product decisions while supporting supplier negotiations and RFQs.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "enabled by should cost analysis become embedded in everyday operations.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Detect overcharges embedded in bundled services",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "By acknowledging these implementation barriers early, organizations can build the infrastructure and alignment required for success. When deployed with the right tools, teams, and governance, should cost analysis evolves from an isolated function into a strategic capability embedded across the product lifecycle.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "or historical pricing in today’s volatile, competitive markets. When a part quoted at $12 could feasibly be produced for $4, reactive pricing strategies fail to deliver accuracy or control.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "techniques to digital twins, enabling rapid simulations of product cost across geographies, production scales, and design alternatives. These tools ingest 3D CAD files, benchmark global pricing trends, and estimate costs in minutes rather than weeks.",
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.sellerscommerce.com/blog/how-much-does-white-labeling-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dfma.com/should-cost-analysis.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investopedia.com/terms/w/white-label-product.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apriori.com/should-cost-analysis/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtisystems.com/blog/analysis-of-supplier-expenses-with-should-cost-estimating-software.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appinventiv.com/blog/enterprise-procurement-software-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gep.com/blog/technology/should-cost-modeling-because-you-must-get-the-cost-right",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lenderkit.com/blog/top-white-label-crowdfunding-software-providers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hireinsouth.com/post/best-white-label-software-development-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.witandcraft.com/rebranding-manufacturers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/What-is-the-average-cost-of-changing-a-company-logo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bigredjelly.com/blog/cost-to-rebrand-a-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/smallbusiness/comments/12a88c8/how_much_would_you_invest_in_branding_for_your/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://oralabx.com/blog/compliance/oem-vs-private-label-vs-contract-manufacturing-oral-care/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gtsetu.com/blogs/white-label-vs-private-label-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/What-is-the-difference-between-OEM-and-Private-Labeling",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtisystems.com/blog/2025/01/29/analysis-of-supplier-expenses-with-should-cost-estimating-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://softwarepricing.com/blog/channel-oem-partner-licensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://licensespring.com/blog/guide/oem-software-licensing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apriori.com/blog/product-should-cost-software-turns-novices-into-cost-and-manufacturing-experts/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtisystems.com/blog/2023/06/05/power-of-cost-estimating-software-for-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://galorath.com/cost/should-cost-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indeavor.com/blog/private-label-manufacturing-tactics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ecommerce/comments/1k55jgh/what_was_your_startup_cost_using_private_label/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label manufacturing should costing software",
+   "results": [
+    "https://www.sellerscommerce.com/blog/how-much-does-white-labeling-cost/",
+    "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://www.dfma.com/should-cost-analysis.asp",
+    "https://www.linkedin.com/pulse/build-vs-buy-when-choose-white-label-software-your-6pdcc",
+    "https://www.investopedia.com/terms/w/white-label-product.asp",
+    "https://www.reddit.com/r/engineering/comments/78annt/question_looking_for_should_cost_software_any/",
+    "https://www.mtisystems.com/blog/analysis-of-supplier-expenses-with-should-cost-estimating-software.html",
+    "https://blog.hiringthing.com/private-label-vs-white-label-ats",
+    "https://worldmetrics.org/best/manufacturing-costing-software/"
+   ]
+  },
+  {
+   "query": "manufacturing should costing software white-label",
+   "results": [
+    "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "https://www.apriori.com/should-cost-analysis/",
+    "https://www.mtisystems.com/blog/analysis-of-supplier-expenses-with-should-cost-estimating-software.html",
+    "https://appinventiv.com/blog/enterprise-procurement-software-cost/",
+    "https://www.gep.com/blog/technology/should-cost-modeling-because-you-must-get-the-cost-right",
+    "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "https://timbercloud.com/blog/best-cost-estimating-software",
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://www.4cost.de/en/resources/blog/should-cost-analysis-3/",
+    "https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/"
+   ]
+  },
+  {
+   "query": "best white label manufacturing should costing software providers",
+   "results": [
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://lenderkit.com/blog/top-white-label-crowdfunding-software-providers/",
+    "https://www.hireinsouth.com/post/best-white-label-software-development-companies",
+    "https://www.apriori.com/should-cost-analysis/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://blog.hiringthing.com/private-label-vs-white-label-ats",
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://worldmetrics.org/best/white-label-software/"
+   ]
+  },
+  {
+   "query": "manufacturing should costing software rebrand your logo own brand",
+   "results": [
+    "https://www.witandcraft.com/rebranding-manufacturers",
+    "https://www.youtube.com/watch?v=yYCHOUOYNqw",
+    "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "https://www.quora.com/What-is-the-average-cost-of-changing-a-company-logo",
+    "https://bigredjelly.com/blog/cost-to-rebrand-a-business/",
+    "https://www.reddit.com/r/smallbusiness/comments/12a88c8/how_much_would_you_invest_in_branding_for_your/",
+    "https://www.brandingmag.com/michael-gentle/why-ai-shouldnt-cost-or-plan-your-rebrand-alone/",
+    "https://medium.com/point-nine-news/branding-your-early-stage-software-company-8e6cb0c2fe9b",
+    "https://www.indielaw.com/blog/the-real-cost-of-rebranding-and-how-to-avoid-it/",
+    "https://www.designrush.com/agency/logo-branding/trends/how-much-does-branding-cost"
+   ]
+  },
+  {
+   "query": "manufacturing should costing software private label OEM partner",
+   "results": [
+    "https://oralabx.com/blog/compliance/oem-vs-private-label-vs-contract-manufacturing-oral-care/",
+    "https://gtsetu.com/blogs/white-label-vs-private-label-manufacturing/",
+    "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://www.quora.com/What-is-the-difference-between-OEM-and-Private-Labeling",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://tedscottdesign.com/private-label-white-label-oem-knowing-the-difference/",
+    "https://brightinnovationlabs.com/insights/compare-private-label-white-label-contract-manufacturing/",
+    "https://flowwright.com/blog/oem-white-label-workflow-software-guide",
+    "https://www.dfma.com/software/cost-estimating-software-manufacturing.html"
+   ]
+  },
+  {
+   "query": "manufacturing should costing software reseller white label program",
+   "results": [
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://startinfinity.com/blog/white-label-reseller-programs"
+   ]
+  },
+  {
+   "query": "manufacturing should costing software embed SDK license OEM",
+   "results": [
+    "https://www.dfma.com/software/cost-modeling-software-for-manufacturing.html",
+    "https://www.apriori.com/should-cost-analysis/",
+    "https://www.mtisystems.com/blog/2025/01/29/analysis-of-supplier-expenses-with-should-cost-estimating-software/",
+    "https://softwarepricing.com/blog/channel-oem-partner-licensing/",
+    "https://licensespring.com/blog/guide/oem-software-licensing",
+    "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://shouldcost.com/",
+    "https://galorath.com/cost/should-cost-analysis/",
+    "https://licensespring.com/industries/manufacturing"
+   ]
+  },
+  {
+   "query": "manufacturing should costing software white label company profitable",
+   "results": [
+    "https://www.apriori.com/blog/product-should-cost-software-turns-novices-into-cost-and-manufacturing-experts/",
+    "https://www.dfma.com/should-cost-analysis.asp",
+    "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://www.mtisystems.com/blog/2023/06/05/power-of-cost-estimating-software-for-manufacturing/",
+    "https://galorath.com/cost/should-cost-analysis/",
+    "https://www.linkedin.com/pulse/build-vs-buy-when-choose-white-label-software-your-6pdcc",
+    "https://www.indeavor.com/blog/private-label-manufacturing-tactics/",
+    "https://www.reddit.com/r/ecommerce/comments/1k55jgh/what_was_your_startup_cost_using_private_label/",
+    "https://fastercapital.com/content/Cost-Savings--Maximizing-Profit-Margins-with-White-Label-Products.html"
+   ]
+  }
+ ],
+ "missing": {
+  "売上": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

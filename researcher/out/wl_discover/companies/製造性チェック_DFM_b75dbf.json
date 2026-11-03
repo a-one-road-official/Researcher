@@ -1,0 +1,911 @@
+{
+ "name": "製造性チェック（DFM）",
+ "en": "design for manufacturing analysis software",
+ "aliases": [
+  "DFM analysis API",
+  "manufacturability check"
+ ],
+ "context": "製造業",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:00:21.635372+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "With a white label tool, the client or customer has the impression that the end product is yours. This makes you appear as a reputable player in the market, someone who can afford a top-notch tool or build it on their own.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you have a SaaS tool, a mobile app, or run an agency offering marketing services, there is a white label solution for your needs below. Keep on reading to learn more.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ", this is one of the top ones to get.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "SERanking is a top-notch software",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "is ​​the leading team communication platform, providing businesses and organizations with a secure and reliable way to collaborate and share information. Brosix' advanced features and easy-to-use interface make it easy for teams to stay connected and collaborate from anywhere in the world.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Teamwork is a comprehensive white label SaaS platform designed to streamline project management for businesses that work with clients, such as agencies, startup SaaS solutions, consulting services, and IT providers.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "We're helping the world's leading manufacturers accelerate product development with AI.",
+    "url": "https://www.colabsoftware.com/post/best-ai-tools-for-dfm-a-guide-for-mechanical-engineers",
+    "pass": 3
+   },
+   {
+    "quote": "Its software analyzes CAD geometry to estimate manufacturing operations, cycle times, materials, and costs. Engineers can compare design alternatives, production methods, factory assumptions, and sourcing scenarios to understand the financial implications of a design choice.",
+    "url": "https://www.colabsoftware.com/post/best-ai-tools-for-dfm-a-guide-for-mechanical-engineers",
+    "pass": 3
+   },
+   {
+    "quote": "Its engineering teams previously conducted design reviews through PowerPoint presentations and live meetings. Reviews varied according to who was leading them, and engineers often encountered the design for the first time during the meeting itself.",
+    "url": "https://www.colabsoftware.com/post/best-ai-tools-for-dfm-a-guide-for-mechanical-engineers",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier-side platforms like Protolabs, Xometry, and Hubs offer instant manufacturability feedback as part of their quoting process. AI-powered DFM and knowledge retrieval is the newest category. Rather than relying on a fixed rule library, AI-based tools can analyze designs against industry standards, material datasheets, process guidelines, and even your organization's own manufacturing history.",
+    "url": "https://www.getleo.ai/blog/dfm-analysis-tools-instant-feedback-2026",
+    "pass": 3
+   },
+   {
+    "quote": "CAD-integrated tools like DFMPro and SolidWorks DFM Xpress provide instant geometric checks inside the design environment. Supplier platforms like Protolabs and Xometry offer DFM feedback tied to real production capabilities. AI-powered tools like Leo AI provide a broader context layer that complements geometric analysis.",
+    "url": "https://www.getleo.ai/blog/dfm-analysis-tools-instant-feedback-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Appreciate this Topic?",
+    "url": "https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers",
+    "pass": 3
+   },
+   {
+    "quote": "The model starts to break down when competitors access the same products. In categories where white labeling is common, multiple brands end up selling functionally identical items under different packaging. Pricing becomes the primary lever. Margins compress. The brand has no product-level advantage to defend.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Private label gives brands what white label cannot: a product that belongs to them. Competitors cannot source it. The brand controls the specifications. That exclusivity creates meaningful positioning room in competitive categories.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Inability to meaningfully differentiate from competitors selling similar products",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Private label is the model most Amazon sellers build on, because exclusivity keeps competitors from listing the identical product against you. White label works for testing a category quickly but tends to compress margins once other sellers list the same item. Sellers scaling past their first few SKUs usually need private label at minimum, and many eventually move to brand-owned manufacturing.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Can competitors sell the same product as my private label product?",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading solutions for CAM / DFM / 3D software. Clever, affordable CAD EDA 3D viewers, translators, and DFM verification software.",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Photopolymers",
+    "url": "https://www.protolabs.com/help-center/manufacturing-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Tough Black (Loctite Henkel 3843) and Ceramic-Filled (BASF 3280) are two new advanced photopolymer materials now available for 3D printing.",
+    "url": "https://www.protolabs.com/help-center/manufacturing-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "In-depth guides and reports on a range of digital manufacturing topics",
+    "url": "https://www.protolabs.com/help-center/manufacturing-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "for similar parts, leading to faster machine setup and fewer errors.",
+    "url": "https://caddi.com/en-us/resources/insights/design-for-manufacturability/",
+    "pass": 3
+   },
+   {
+    "quote": "Navigating Manufacturing Challenges in the Post-Tariff Era: Top 10 Solutions",
+    "url": "https://caddi.com/en-us/resources/insights/design-for-manufacturability/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "17 Best White Label Software to Try in 2026 | Luzmo Blog",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "17 Best White Label Software to Try in 2026",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "One way to do that is to invest in white label software.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "We’ll show you some of the best white label tools you can use today, whether you run an agency or a small business.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "What is white label software?",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label software is a tool that allows its customers to remove all company branding and sell it or lease it to their users. That way, businesses don’t have to build software of their own for a specific use case. Instead, they can purchase white label SaaS tools",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "The benefits of using white label software",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "There are many white label SaaS tools out there that put a huge focus on this part of their offer. As it turns out, there are many benefits to white labeling.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "For example, if you want to use a reporting tool, you can build your own and spend hundreds of thousands of dollars on development costs. You can also grab an existing reporting tool on the market, pay for it, and have its logo displayed on your reports. Or simply use a white label tool for a fraction of the cost and add your own company logo to your reports.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "With a white label tool, the client or customer has the impression that the end product is yours. This makes you appear as a reputable player in the market, someone who can afford a top-notch tool or build it on their own.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re building a new product, a white label tool can help you ship it much more quickly. You’re grabbing a product off the shelf as opposed to developing it in house, which would take months of development time and a lot of resources.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "The best white label tools to try in 2026",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you have a SaaS tool, a mobile app, or run an agency offering marketing services, there is a white label solution for your needs below. Keep on reading to learn more.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Luzmo – for white label embedded analytics",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "is a white label embedded analytics tool that allows anyone to build an embedded dashboard in hours – not weeks or months. From proptech, fintech, martech, and any other type of industry, we’ve helped SaaS companies create white label analytics tools.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs Private Label Manufacturing: Which Model Gives You More Control - Linton Group",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs Private Label Manufacturing: Which Model Gives You More Control",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "White label products are generic items sold by multiple brands. Private label products are built to one brand’s specifications and sold exclusively by them.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "White label gets products to market faster and at lower cost, but offers no product-level differentiation.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Private label creates product exclusivity but leaves brands dependent on the manufacturer’s processes and quality decisions.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label Manufacturing?",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "White label manufacturing is a model in which a factory produces a generic product and makes it available to multiple brands. Each brand applies its own packaging, logo, and positioning, but the underlying product is identical across every buyer.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "The tradeoff is fundamental. If one brand can access that product from a white label manufacturer, so can any competitor. There is no product-level differentiation. The only defensible position is brand awareness and distribution strength, which in crowded categories gets harder to maintain as competition intensifies and price pressure increases.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is Private Label Manufacturing?",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Private label manufacturing takes a different approach. Rather than purchasing a generic shelf-ready product, the brand works with a manufacturer to produce something built to its own specifications, sold exclusively under its name.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "The brand controls product specs, materials, and quality standards. The factory produces that configuration only for them. This creates product exclusivity that white label cannot offer.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Private label products are the model behind most Amazon private-label sellers and many DTC brands that want differentiated SKUs without building their own manufacturing infrastructure. The product belongs to the brand. No competitor can source the same item.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs Private Label: Key Differences",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Software Technology & Custom Engineering | Numerical Innovations",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Solutions",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded DFM Engines",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "How an OEM Project Works",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Proven OEM & Custom Engineering Experience",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Data Translation",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Developed embedded conversion technology allowing SEMCAD X to import Gerber, ODB++, and GDSII data, along with netlist extraction for EMC/EMI simulation.",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded AutoCAD Conversion",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Developed an embedded AutoCAD conversion application for generating optimized Gerber output directly from AutoCAD.",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": ", PPC, and many other use cases. Digital marketing agencies love Whatagraph because the white labeling is really easy to use, much like their drag and drop dashboard and the large variety of templates.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "You can use Paddle to build your own payment system, or if you do web development, you can grab their white label offer and resell their solution to your customers. With 4,000 existing customers, you know Paddle is a great product worth being resold.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "With its user-friendly interface, users can easily design and launch portals that reflect their brand identity, ensuring a professional look and feel. Softr’s integration capabilities allow for smooth connectivity with various data sources, making it ideal for managing client relationships and streamlining workflows.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Or even better, you can use the white label feature and resell Bookafy with new websites you build. You can adjust the branding to match the website, blending the product seamlessly into new websites. Or simply sell Bookafy as a standalone solution to other businesses for a profit.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Their white label website builder allows agencies and businesses to resell Simvoly to others. If you do software development and want to resell a website builder to clients who don’t want to hire you, this is an excellent choice to make an extra income. In terms of",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "With CloudWaitress, you can resell a fully customizable",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Build SEO-optimized websites using customizable templates, publish on your subdomain for free, and resell hosting with full pricing control. With intuitive features like a white label CMS, real-time client feedback, API integrations, a variety of fonts to choose from, and advanced web design and SEO tools, WebWave helps you manage all design projects from one dashboard.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "If you resell a product under someone else's brand, or your own under several, the localisation work scales with the number of brands rather than the number of products: interface strings, onboarding and support content all need a version per market.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "It identifies regions with inadequate draft, excessive wall thickness variation, undercuts, and knife-edge geometry. Results are highlighted directly in Fusion, allowing engineers to revise the component and run the analysis again.",
+    "url": "https://www.colabsoftware.com/post/best-ai-tools-for-dfm-a-guide-for-mechanical-engineers",
+    "pass": 3
+   },
+   {
+    "quote": "Its engineering teams previously conducted design reviews through PowerPoint presentations and live meetings. Reviews varied according to who was leading them, and engineers often encountered the design for the first time during the meeting itself.",
+    "url": "https://www.colabsoftware.com/post/best-ai-tools-for-dfm-a-guide-for-mechanical-engineers",
+    "pass": 3
+   },
+   {
+    "quote": "Various grades of plastics across moulding, machining, and 3D printing",
+    "url": "https://www.protolabs.com/en-gb/automated-design-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Our sample quotes let you test drive our digital manufacturing platform to get a feel for how to navigate through the system. You can adjust things like materials, quantity, and turn time and see pricing implications as well as explore interactive design analysis on various parts. Each service has its own set of nuances so choose take a spin through all three.",
+    "url": "https://www.protolabs.com/en-gb/automated-design-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Venezuela, Bolivarian Republic of",
+    "url": "https://www.protolabs.com/en-gb/automated-design-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Avoid unnecessarily complex geometries, such as closely spaced bends or aggressive forming operations, that can increase tooling complexity and manufacturing variation.",
+    "url": "https://synectic.net/what-is-dfm/",
+    "pass": 3
+   },
+   {
+    "quote": "Maintain consistent wall thickness to reduce air entrapment, shrinkage, and curing variation.",
+    "url": "https://synectic.net/what-is-dfm/",
+    "pass": 3
+   },
+   {
+    "quote": "Varies Significantly",
+    "url": "https://synectic.net/what-is-dfm/",
+    "pass": 3
+   },
+   {
+    "quote": "A Variety Industries",
+    "url": "https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers",
+    "pass": 3
+   },
+   {
+    "quote": "As brands scale, both models tend to create margin pressure and quality variability that a more controlled manufacturing approach resolves.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "The model starts to break down when competitors access the same products. In categories where white labeling is common, multiple brands end up selling functionally identical items under different packaging. Pricing becomes the primary lever. Margins compress. The brand has no product-level advantage to defend.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Brands that built a business on white label products frequently discover that the volume increases they worked toward only make the margin problem more visible. Higher revenue, lower profit per unit, no clear path to differentiation. That is the structural problem white label creates when a brand outgrows it.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "As brands grow, that dependency becomes a structural liability. COGS rises as factory relationships evolve. Quality variability appears across production runs. The brand needs to make product improvements but lacks the access and control to execute them quickly. These are the signals that a more controlled manufacturing model is needed.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Margin pressure that persists even as order volume increases",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "is the right move when consistent quality at scale, full product ownership, active production oversight, and long-term margin control are the priority. The model for brands building something that needs to hold up as volume grows.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "White label is cheaper to start because development, tooling, and testing costs are spread across every brand buying the same product, and minimum order quantities are usually lower. Private label can require more upfront investment in specifications, sampling, and sometimes tooling, but greater product differentiation can reduce direct price competition and support stronger margins over time.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Private label is the model most Amazon sellers build on, because exclusivity keeps competitors from listing the identical product against you. White label works for testing a category quickly but tends to compress margins once other sellers list the same item. Sellers scaling past their first few SKUs usually need private label at minimum, and many eventually move to brand-owned manufacturing.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Developed specialized geometry scaling technology to compensate for dimensional variations occurring during Kodak's chemical etching process.",
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Various grades of plastics across molding, machining, and 3D printing",
+    "url": "https://www.protolabs.com/help-center/manufacturing-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Analysis variables depend on the manufacturing service you are using.",
+    "url": "https://www.protolabs.com/help-center/manufacturing-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Venezuela, Bolivarian Republic of",
+    "url": "https://www.protolabs.com/help-center/manufacturing-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": ": DOE uses statistical methods to analyze the impact of multiple variables on an outcome, while",
+    "url": "https://caddi.com/en-us/resources/insights/design-for-manufacturability/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Or even better, you can use the white label feature and resell Bookafy with new websites you build. You can adjust the branding to match the website, blending the product seamlessly into new websites. Or simply sell Bookafy as a standalone solution to other businesses for a profit.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Brands that built a business on white label products frequently discover that the volume increases they worked toward only make the margin problem more visible. Higher revenue, lower profit per unit, no clear path to differentiation. That is the structural problem white label creates when a brand outgrows it.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   },
+   {
+    "quote": "The results: 1,200+ products developed, a 99% project success rate, and approximately 25% higher net profit on hero SKUs compared to competitor development firms.",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "starts at $2,495 per month, billed annually, but you can",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $249 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $49 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $9 per user per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $59 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $65 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan for small teams getting started. Business plans start at $5 per user per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $20 per store, per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: starts at $129 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: Start for free, or upgrade to the Agency Account for $30/month to unlock additional white label services and discounts.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: Cost-effective plans start at $13.99 per user/month, with options to scale up as your business grows.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Captured more than 350 additional pieces of design feedback per month.",
+    "url": "https://www.colabsoftware.com/post/best-ai-tools-for-dfm-a-guide-for-mechanical-engineers",
+    "pass": 3
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Best AI Tools for DFM in 2026: 8 Software Options Compared — Best AI Tools for DFM in 2026: 8 Software Options Compared CoLab Software https://www.colabsoftware.com > post",
+    "url": "https://www.colabsoftware.com/post/best-ai-tools-for-dfm-a-guide-for-mechanical-engineers",
+    "pass": 3
+   },
+   {
+    "quote": "DFM Analysis in 2026: The Best Tools for Getting Instant ... — DFM Analysis in 2026: The Best Tools for Getting Instant ... Leo AI https://www.getleo.ai > blog > dfm-an...",
+    "url": "https://www.getleo.ai/blog/dfm-analysis-tools-instant-feedback-2026",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Key Takeaways Design for manufacturing (DFM) starts at the first concept, because material, process, and geometry choices set tooling cost before any factory quote arrives. Boothroyd Dewhurst, the firm behind design for manufacture and assembly (DFMA) software, states that 70% of a product’s cost is determined during the design phase. A design that looks right […]",
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.sigmacomputing.com/blog/white-label-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/what-is-white-label-analytics-and-why-does-it-matter-for-your-business-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://soltech.net/the-white-label-software-development-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DesignSystems/comments/16mevz5/white_label_vs_private_label_design_systems/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.colabsoftware.com/post/best-ai-tools-for-dfm-a-guide-for-mechanical-engineers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/en-gb/automated-design-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getleo.ai/blog/dfm-analysis-tools-instant-feedback-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synectic.net/what-is-dfm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://simvoly.com/the-best-white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dribbble.com/resources/agencies/white-label-web-design-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.adobe.com/blog/basics/how-to-build-a-brand",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.themanufacturer.com/press-releases/rebrand-manufacturing-company-successfully/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/learn/rebranding/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.slammedialab.com/post/branding-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.themmachine.com/branding/rebrand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.analysis-oem.com/custom-oem-private-label-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thinkaes.com/private-label-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kurationai.com/guides/how-to-choose-an-oem-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/What-is-the-difference-between-OEM-and-Private-Labeling",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://boomerangme.com/blog/white-label-saas-software-for-resellers-and-agencies-the-ultimate-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.10comwebdevelopment.com/whitelabel-reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.numericalinnovations.com/oem-solutions",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://licensespring.com/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/help-center/manufacturing-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revealbi.io/glossary/oem-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ituonline.com/blogs/white-label-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiftasia.com/column/white-label-vs-custom-development-a-strategic-guide-for-businesses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indeavor.com/blog/private-label-manufacturing-tactics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caddi.com/en-us/resources/insights/design-for-manufacturability/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label design for manufacturing analysis software",
+   "results": [
+    "https://www.sigmacomputing.com/blog/white-label-analytics",
+    "https://www.domo.com/learn/article/what-is-white-label-analytics-and-why-does-it-matter-for-your-business-success",
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://soltech.net/the-white-label-software-development-process/",
+    "https://www.reddit.com/r/DesignSystems/comments/16mevz5/white_label_vs_private_label_design_systems/",
+    "https://www.designhuddle.com/print-design-software",
+    "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "https://www.uxpin.com/studio/blog/white-label-designs/",
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://www.banuba.com/blog/best-white-label-software"
+   ]
+  },
+  {
+   "query": "design for manufacturing analysis software white-label",
+   "results": [
+    "https://www.colabsoftware.com/post/best-ai-tools-for-dfm-a-guide-for-mechanical-engineers",
+    "https://www.protolabs.com/en-gb/automated-design-analysis/",
+    "https://www.getleo.ai/blog/dfm-analysis-tools-instant-feedback-2026",
+    "https://synectic.net/what-is-dfm/",
+    "https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers",
+    "https://caddi.com/en-us/resources/insights/design-for-manufacturability/",
+    "https://www.autodesk.com/solutions/design-for-manufacturing-software",
+    "https://www.vayoinfo.com/blogs/dfm-software-tools-how-can-they-benefit-your-company/",
+    "https://ansys.synopsys.com/blog/design-for-manufacturing-best-practices",
+    "https://www.designhuddle.com/"
+   ]
+  },
+  {
+   "query": "best white label design for manufacturing analysis software providers",
+   "results": [
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://dribbble.com/resources/agencies/white-label-web-design-agencies",
+    "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "https://www.boldreports.com/blog/top-7-white-label-reporting-tools/",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://www.labelvalue.com/blog/label-design-software-programs?srsltid=AYCX9vIUeYQ2dgMaRW0eBvgeqkIjQUr9hCqz8xyBApNKUo4hJKXe5fKy",
+    "https://worldmetrics.org/service/white-label-design/"
+   ]
+  },
+  {
+   "query": "design for manufacturing analysis software rebrand your logo own brand",
+   "results": [
+    "https://business.adobe.com/blog/basics/how-to-build-a-brand",
+    "https://www.themanufacturer.com/press-releases/rebrand-manufacturing-company-successfully/",
+    "https://www.canva.com/learn/rebranding/",
+    "https://www.youtube.com/watch?v=Lqgl0J8RqVo",
+    "https://www.slammedialab.com/post/branding-tools",
+    "https://www.themmachine.com/branding/rebrand/",
+    "https://www.papirfly.com/blog/brand-management/rebranding-tools-and-technologies/",
+    "https://madebyshape.co.uk/web-design-blog/the-best-branding-software-for-beginners-and-amateurs/",
+    "https://mylogo.review/",
+    "https://whatifdesign.co/feeds/service/manufacturing-rebrand-services"
+   ]
+  },
+  {
+   "query": "design for manufacturing analysis software private label OEM partner",
+   "results": [
+    "https://www.analysis-oem.com/custom-oem-private-label-products/",
+    "https://thinkaes.com/private-label-oem/",
+    "https://lintonusa.com/resources/white-label-vs-private-label-manufacturing-which-model-gives-you-more-control/",
+    "https://kurationai.com/guides/how-to-choose-an-oem-partner",
+    "https://www.quora.com/What-is-the-difference-between-OEM-and-Private-Labeling",
+    "https://www.fictiv.com/articles/jdm-odm-oem-manufacturing-models",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://lesstellclothing.com/blogs/journal/oem-vs-odm-vs-private-label-vs-white-label-the-real-difference",
+    "https://www.instagram.com/reel/DbA5Qn7MK2P/",
+    "https://www.xibup.com/knowledge-center/how-to-find-oem-and-private-label-manufacturing-partners"
+   ]
+  },
+  {
+   "query": "design for manufacturing analysis software reseller white label program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://boomerangme.com/blog/white-label-saas-software-for-resellers-and-agencies-the-ultimate-guide",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.10comwebdevelopment.com/whitelabel-reseller-program",
+    "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://suitedash.com/white-label-business-software/",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/"
+   ]
+  },
+  {
+   "query": "design for manufacturing analysis software embed SDK license OEM",
+   "results": [
+    "https://www.numericalinnovations.com/oem-solutions",
+    "https://licensespring.com/industries/manufacturing",
+    "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "https://www.protolabs.com/help-center/manufacturing-analysis/",
+    "https://www.colabsoftware.com/post/best-ai-tools-for-dfm-a-guide-for-mechanical-engineers",
+    "https://www.revealbi.io/glossary/oem-software",
+    "https://www.youtube.com/watch?v=G2VbWBp_R4U",
+    "https://aster-technologies.com/en/products-and-services/solutions/dfm-analysis/",
+    "https://www.dfma.com/resources/default.asp"
+   ]
+  },
+  {
+   "query": "design for manufacturing analysis software white label company profitable",
+   "results": [
+    "https://www.ituonline.com/blogs/white-label-solutions/",
+    "https://shiftasia.com/column/white-label-vs-custom-development-a-strategic-guide-for-businesses/",
+    "https://www.sigmacomputing.com/blog/white-label-analytics",
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://www.indeavor.com/blog/private-label-manufacturing-tactics/",
+    "https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers",
+    "https://caddi.com/en-us/resources/insights/design-for-manufacturability/",
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/"
+   ]
+  }
+ ],
+ "missing": {
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

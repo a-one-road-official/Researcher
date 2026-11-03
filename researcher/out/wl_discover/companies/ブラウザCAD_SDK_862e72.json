@@ -1,0 +1,1421 @@
+{
+ "name": "ブラウザCAD（SDK）",
+ "en": "browser based CAD SDK",
+ "aliases": [
+  "web CAD platform",
+  "online CAD engine"
+ ],
+ "context": "wl-C CAD",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:56:34.828998+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Desktop",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Best White-Label Canva Alternatives for SaaS in 2026",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "It offers a complete package of tools, libraries, and documentation, making it highly customizable to suit specific use cases and easily blend with a brand’s identity. SDKs equip developers with the core components needed to build, enhance, and tailor applications across multiple platforms, including web, mobile, server, cloud, and desktop.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Mesh repair that survives real scan data. Booleans that don't fail on the hundredth operation. A viewer that opens a two-hundred-million-triangle model without falling over. Every hardware company that has tried to build this in-house discovers the same thing: the demo takes a month, production-grade takes years, and it never stops needing maintenance.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop, browser, or both",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "CT scanner and medical imaging vendors",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC machine and CAM vendors",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "MeshInspector gives you the model-preparation and verification half of this: feature detection, tolerance checking, and geometry clean enough to machine from. Toolpath generation and G-code simulation are built for you on top of the geometry layer — offsets, booleans, distance fields and swept volumes are already there, and our team has delivered CAM projects on them.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Not a services layer resold on top of someone else's kernel.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Windows, macOS and Linux on the desktop; the same engine in the browser through WebAssembly.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Can we start with the browser version and add desktop later?",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "We also use analytics and advertisement cookies from the providers named below, which help us analyze how you use this website and measure and personalize our advertising. These cookies will only be stored in your browser with your prior consent.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "The leading embeddable suite of content builders",
+    "url": "https://developers.beefree.io/page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Different vendors achieve this to varying degrees and with different techniques, as we’ll explore in a moment. Some basic solutions only hide their logo, while advanced ones allow you extensive rebranding and even embedding analytics",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "on top of the vendor’s engine.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "top embedded analytics tools that support white labeling",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": ". Essentially, if you have specific UI needs, you are free to implement them on top of Embeddable’s data/query backbone.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "These advanced solutions (Embeddable, Sisense Compose, etc.) are ideal if your top priority is a",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "is the top self-hosted/hosted tier (around $15k+/year) which includes all Pro features like interactive embedding and white-label customization.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "To remove that watermark entirely, you need to be on a higher-tier plan (their “Professional” or “Elite” plans). The top-tier (Elite) also lets you white-label email notifications and alerts with your branding.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "is an end-to-end AI-powered analytics platform with native SQL, NoSQL and document support and embedded analytics. It stands out for its ability to connect directly to a wide range of SQL, NoSQL, API, and document data sources without ETL. It supports teams with internal BI while giving SaaS vendors and enterprises white-labeling and OEM capabilities.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Tableau is a leading BI platform known for rich visuals. It",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Tableau’s reliability and scalability for analytics workloads are proven, and it provides features like row-level security which are important for multi-tenant scenarios (though configuring that in an embed context is non-trivial). If your use case needs top-notch analytics and you’re willing to settle for a “good enough” UI integration, Tableau could serve.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Use a standard white-label platform (e.g., GoodData, Yellowfin, Qrvey, or Luzmo)",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Embeddable and Sisense Compose SDK are top choices for advanced scenarios. Both let you build analytics directly into your app’s DOM with full styling control. These options are ideal when you want analytics to look and behave as if your team built them entirely in-house.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Investopedia",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.investopedia.com/terms/w/white-label-product.asp",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Top embedded analytics tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "The leading library for creating and manipulating PDF files in Java and .NET",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Document SDK Alternatives",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Web, Server, Desktop",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Easily add high-fidelity direct conversion from CAD files, on any web, mobile, server or desktop software. Convert to PDF, PDF/A, PDF/E-2, image file types, and more.",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "View, mark up and measure DWG, DXF, DGN and PLT inside your own product. No AutoCAD, no plugin, no desktop install.",
+    "url": "https://rasterex.com/sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle layers, follow external references. The drawing behaves like it does in the desktop tool.",
+    "url": "https://rasterex.com/sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop tools",
+    "url": "https://rasterex.com/sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "with unlimited sub-accounts and unlimited users, so adding clients does not change the software bill. Fulfilment services are bought separately on top.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "If Dashclicks is the go-to for agencies, GoHire is the dream tool for companies and resellers in the HR, recruitment, and staffing space. Whether you run a small agency helping businesses find top talent or you’re building a SaaS platform with HR features, GoHire lets you white label their powerful hiring software and call it your own.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ": Since you're reselling third-party tools, you're sometimes at the mercy of outside vendors’ roadmaps.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Growth is based on engaging with users who follow competitors, hashtags, and locations relevant to your client’s niche.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Usage costs stack on top of the subscription",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ": branding removal, the reseller dashboard, and your own payment gateway sit on the agency-level tier, and extra sub-accounts are charged on top.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS providers",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "HighLevel. (n.d.). How to set up a whitelabel domain for the desktop web app. HighLevel Support.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "https://help.gohighlevel.com/support/solutions/articles/48000982207-how-to-set-up-a-whitelabel-domain-for-the-desktop-web-app",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Singh, M. (2021, March 30). Council Post: White label partnerships: Benefits and considerations before jumping in. Forbes.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Most vendors price on usage rather than headcount. Banuba licenses the Video Editor SDK on monthly active users, with no per-seat developer fee, and quotes add-ons such as integration assistance separately; the",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Picsart Alternatives in 2026: 8 Video Editor SDKs Compared",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Creatomate Alternatives: 5 Video APIs and SDKs Compared",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "With a white label tool, the client or customer has the impression that the end product is yours. This makes you appear as a reputable player in the market, someone who can afford a top-notch tool or build it on their own.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you have a SaaS tool, a mobile app, or run an agency offering marketing services, there is a white label solution for your needs below. Keep on reading to learn more.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ", this is one of the top ones to get.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "SERanking is a top-notch software",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "is ​​the leading team communication platform, providing businesses and organizations with a secure and reliable way to collaborate and share information. Brosix' advanced features and easy-to-use interface make it easy for teams to stay connected and collaborate from anywhere in the world.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Teamwork is a comprehensive white label SaaS platform designed to streamline project management for businesses that work with clients, such as agencies, startup SaaS solutions, consulting services, and IT providers.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Get access to in-depth whitepapers from a variety of topics",
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Software and Analytics: Enhancing Your Brand",
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-only deployment limits options for regulated industries. Native data connector coverage is narrower than SDK-first platforms like Reveal or Qrvey. Integration often relies on APIs or Cube Cloud, adding a dependency. Developer involvement is required for setup and ongoing customization, which is by design but can be a constraint for teams without dedicated front-end resources.",
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "SDK vs. White Label: Choose the Right Solution | IMG.LY Blog",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "CoDesign SDK gives your product's AI agent the tools to resize, localize, rebrand and generate designs on your own servers, and every result stays an editable CE.SDK design.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Best White-Label Canva Alternatives for SaaS in 2026",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Let your own agent generate, resize and rebrand editable designs in your product.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "SDK vs. White Label: Consider These Differences When You Choose a Solution",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how to choose between white-label tools and SDKs to enhance your product, and find the perfect solution for your budget and resources.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Enhancing your product with new features and capabilities often brings up a critical question: Should you choose a white-label solution or opt for the flexibility of an SDK? While white-label tools offer simplicity and speed, modern SDKs can combine the ease of integration with the ability to customize and deeply integrate into your product. CE.SDK covers both sides of that trade-off: a",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "white-label editor SDK",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "you can theme, rebrand, and run on your own domain.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": ": SDKs provide an option to create a solution that best matches your business needs and branding. Unlike white-label, SDKs can be fully customizable, allowing you to tailor features and capabilities to seamlessly integrate with your use case.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": ": While the integration and maintenance require the involvement of developers, SDKs come with greater control over the integrated tech that’s not available with white-label solutions. Developers can determine the extensibility of the solution and shape it to fit specific needs.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "What is a White-Label Solution?",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "While SDK needs to be built with the provided tools, the white-label solution is an off-the-shelf and ready-to-use product that can be quickly rebranded and marketed. It allows businesses to get to market faster by utilizing a ready-made platform, eliminating the need for internal development from scratch.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Key features of a White-label solution",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & White-Label 3D Software | MeshInspector",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & White-Label",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship 3D Software Under Your Own Brand",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label MeshInspector — your brand, our application",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Your customer scans a part, and everything after the capture becomes your software problem: noise, holes, misaligned passes, and a mesh that has to be watertight before anyone can measure anything. MeshInspector covers the whole post-capture chain — noise reduction, registration, hole filling, watertight repair, deviation measurement against a reference — under your brand.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "A model that fails to print becomes a support ticket for you, not for the designer who made it. MeshInspector repairs and prepares the mesh before it ever reaches your slicer, and ships as the front end of your print workflow with your branding on it.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Why OEMs choose this over building it",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "The Web Suite: MeshInspector's tools running in the browser and embedded into your platform. Branding covers tool arrangement, colors and logos. Import and export from AWS and Azure storage is supported. Performance scales with the user's browser and machine.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware bundles, embedded modules, volume-based terms — every OEM ships differently, and we keep the commercial side flexible rather than forcing a fixed scheme. Tell us how your product reaches its users, and we'll shape the model around it together.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes — that is the standard white-label case. Distribution scope is agreed with you before work starts.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Landing Page Builder | Beefree SDK",
+    "url": "https://developers.beefree.io/page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "The white label, embeddable",
+    "url": "https://developers.beefree.io/page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "White label",
+    "url": "https://developers.beefree.io/page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Boost your brand’s visibility by removing the Beefree SDK logo in the template builder.",
+    "url": "https://developers.beefree.io/page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "integration and enhance your brand's value with custom CSS.",
+    "url": "https://developers.beefree.io/page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "The Best White Label Embedded Analytics Tools for 2026",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Analytics Solution of the Year",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "List of White-Label Embedded Analytics Tools for Customer-Facing Analytics",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "The best white label embedded analytics tools, sorted according to the level of customization they provide.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded analytics",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "What is white-labeling, and why does it matter?",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Levels of white-labeling in analytics tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Basic white-labeling",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Standard white-labeling",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced (full) white-labeling:",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "How to evaluate white label embedded analytics tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Domain white labeling (custom hostnames)",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced (full) white-labeling embedded analytics tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Standard white labeling tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Metabase Embedded",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Self-hosted & embedded",
+    "url": "https://rasterex.com/sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Design & Video Automation Platform | Design Huddle",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Editing",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Put white-labeled design and video editing directly inside your product without building the creative stack yourself.",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Use a branded portal, embedded editor, API or combine them.",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer adoption of embedded video editing inside an advertising platform.",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Turnkey, Embedded, or Headless?",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Launch a white-label hosted portal to get distributed teams, partners, or customers creating quickly, or embed Design Huddle in your application or storefront. You can also automate production through headless APIs—or combine all three approaches using the same templates, assets, and user permissions.",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": ", showing users designs already populated with their information and images. They can select a design and open it in the embedded editor for last-mile changes within your controls.",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Batch-generate design variants",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": ": Our creative engine is a powerhouse that can enable a variety of applications, from automating and scaling design and video creation for social media, marketing, and print to templating and jumpstarting users’ design, the UI can be adapted to match a specific use case perfectly.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Variable Data Printing",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Reseller",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Different vendors achieve this to varying degrees and with different techniques, as we’ll explore in a moment. Some basic solutions only hide their logo, while advanced ones allow you extensive rebranding and even embedding analytics",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "(e.g., style individual widget chrome, button shapes, iconography to match your app). Some platforms explicitly let you inject custom CSS or override style variables, which can be very useful for a close match.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "The recently added embedding SDK (available in Enterprise too) gives more control by letting you embed individual components and tweak styling via CSS variables, which moves it toward advanced territory.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "and has modules that let you embed content in various ways.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "This SDK (available on Pro/Enterprise) gives much finer control – you can embed individual charts or even their full query builder as native elements, apply CSS variables to restyle components, and override certain interactions. This moves Metabase closer to the “standard” category for customization, but using the SDK requires a React front-end and coding.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Variable Data Printing",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Variable Text: Name",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Variable Image: Logo",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect customer-facing design to print production with controlled editing, variable data, and print-ready files.",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Import designs from InDesign, Illustrator, Figma, Canva, and Claude using supported formats such as PDF, plus After Effects motion graphics through Lottie files. Add new creative whenever you need it, then configure editable elements, locking rules, and variable fields without developer work.",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Depth of branding varies a lot.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label is rarely on the entry plan. Boomerangme puts it on the Agency tier, WotNot unlocks branding removal on its Premium tier, and Vendasta and SEOReseller price it as a partner programme.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ": the software price is flat, but the done-for-you services you resell are charged per order, so your real cost per client depends on how much you outsource.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "If Dashclicks is the go-to for agencies, GoHire is the dream tool for companies and resellers in the HR, recruitment, and staffing space. Whether you run a small agency helping businesses find top talent or you’re building a SaaS platform with HR features, GoHire lets you white label their powerful hiring software and call it your own.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta is one of the best white label reseller programs designed with digital marketing agencies, MSPs, and business consultants in mind. If you're helping local businesses thrive online, Vendasta offers a plug-and-play solution that lets you deliver faster.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "services you resell can be delivered through Vendasta's marketplace and task manager rather than by your own team.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Some plans and service fees may stretch smaller budgets—especially if you’re not reselling at volume yet.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ": Since you're reselling third-party tools, you're sometimes at the mercy of outside vendors’ roadmaps.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Results can vary depending on Instagram’s evolving rules. It’s not immune to limitations or occasional API hiccups.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "the reseller programme starts at a minimum number of managed accounts, so it suits agencies with an existing client base rather than a first client.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "8. SEOReseller: Your Behind-the-Scenes SEO Partner with Done-for-You Results",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients log in and see your brand—not SEOReseller’s.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "“We are so impressed with SEOReseller! Your team really captured the essence of our company and what we do best! The way you executed our campaign exceeded all expectations, especially for an SEO agency – thank goodness there’s finally some good ones out there :)”",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "While wholesale pricing exists, you’ll need to dig a bit to calculate your margins.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ": Agencies buy SMS, email, and AI usage at GoHighLevel's rates and resell it to clients with their own markup, turning platform costs into a margin line rather than a pure expense.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ", PPC, and many other use cases. Digital marketing agencies love Whatagraph because the white labeling is really easy to use, much like their drag and drop dashboard and the large variety of templates.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "You can use Paddle to build your own payment system, or if you do web development, you can grab their white label offer and resell their solution to your customers. With 4,000 existing customers, you know Paddle is a great product worth being resold.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "With its user-friendly interface, users can easily design and launch portals that reflect their brand identity, ensuring a professional look and feel. Softr’s integration capabilities allow for smooth connectivity with various data sources, making it ideal for managing client relationships and streamlining workflows.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Or even better, you can use the white label feature and resell Bookafy with new websites you build. You can adjust the branding to match the website, blending the product seamlessly into new websites. Or simply sell Bookafy as a standalone solution to other businesses for a profit.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Their white label website builder allows agencies and businesses to resell Simvoly to others. If you do software development and want to resell a website builder to clients who don’t want to hire you, this is an excellent choice to make an extra income. In terms of",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "With CloudWaitress, you can resell a fully customizable",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Build SEO-optimized websites using customizable templates, publish on your subdomain for free, and resell hosting with full pricing control. With intuitive features like a white label CMS, real-time client feedback, API integrations, a variety of fonts to choose from, and advanced web design and SEO tools, WebWave helps you manage all design projects from one dashboard.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "If you resell a product under someone else's brand, or your own under several, the localisation work scales with the number of brands rather than the number of products: interface strings, onboarding and support content all need a version per market.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Get access to in-depth whitepapers from a variety of topics",
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Enhance your offerings with our Reveal Reseller Program",
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "pass": 3
+   },
+   {
+    "quote": "platform lets you embed dashboards, reports, and data experiences inside your product under your own brand — with no visible trace of a third-party tool. The depth of white labeling varies: some platforms offer logo swaps and color theming; others give you full control over every UI component, interaction, and behavior.",
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Some are designed for resellers who want to repackage software as their own. Others are geared toward agencies that need2 to offer clients a clean, fully branded experience, without a trace of the original provider.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "White label isn’t for resellers",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "– Resell more than 250 products under your brand at wholesale pricing.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "While it’s primarily SMS-focused, SimpleTexting supports omnichannel workflows via integrations with Mailchimp, Zapier, and CRMs, allowing teams to tie texting into broader marketing efforts. Combined with a smooth UI and a white-label reseller program, it’s a strong contender for agencies looking to add texting to their services without building from scratch.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label reseller program",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "– Fully brand the platform under your own domain to resell SMS services as your own.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "SimpleTexting uses a credit-based pricing model with plans starting at $39/month for 500 credits. Resellers interested in white‑label functionality should apply via the partner program for customized pricing.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "or reseller portal to explore credit bundles and get your own white-label account.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "No A/B testing or multivariate campaign options",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "Xtensio earns a 4.5/5‑star average rating on G2, with users highlighting its template variety and collaboration tools. Read",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "gives agencies and resellers a flexible suite of white-label hosting solutions, all optimized for speed, security, and brand control. Whether you’re managing WordPress sites, offering shared hosting to clients, or running a full reseller business, every plan includes essential white-label features, like custom nameservers, domain branding, and cPanel/WHM access.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "White label reseller hosting",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Hosting",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": ": Fully white-label, cPanel-driven hosting for agencies and digital resellers starts at $24.71/month, with plans up to enterprise-level resources.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "HostArmada ranks a stellar 4.9/5 stars on G2 for reseller and shared hosting. Users rave about its speed, reliability, and standout support. I’ll let",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM has an Annual Partnership Fee of $15,000 USD/€12,000 year, along with a revenue share. The revenue share is a percentage of the revenue from the developed product. The minimum annual revenue share is $24,000 USD/€18,000 year.",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller Margins and Creative Freedom",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$2,000/month",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "– you must budget for at least $500/month Pro plan (plus $10 per viewer per month) to remove logos and get interactive embedding.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "$199 per month",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "generate more than 60,000 leads per month",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ": Email sends, SMS, calls, and AI interactions are billed separately from the monthly plan, and agencies commonly add $50–$300+/month depending on volume.",
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $2,495 per month, billed annually, but you can",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $249 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $49 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $9 per user per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $59 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $65 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan for small teams getting started. Business plans start at $5 per user per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $20 per store, per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: starts at $129 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: Start for free, or upgrade to the Agency Account for $30/month to unlock additional white label services and discounts.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: Cost-effective plans start at $13.99 per user/month, with options to scale up as your business grows.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "platforms. And here’s where the second problem starts: most platforms are easy to demo and hard to ship. They look clean in a sandbox. Then you try to match your product’s design system and hit the ceiling. Or you embed via iFrame and your design team tells you it looks like a third-party tool bolted on. Or the pricing model made sense at 500 users and becomes a budget problem at 5,000.",
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Usage-based pricing can look reasonable early and become a significant cost center as analytics adoption grows. Model out what your costs look like at 3x your current user count before committing. Fixed pricing tied to application deployment, not user volume, is significantly easier to budget and doesn’t create a disincentive to drive analytics adoption inside your product.",
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Don’t evaluate pricing at your current user count. Model it at 3x and 10x. Usage-based pricing (per query, per user, per data volume) that looks affordable early becomes a significant cost center as analytics adoption grows. Fixed pricing tied to application deployment, not usage, is significantly easier to budget and removes the perverse incentive to limit analytics adoption to control costs.",
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "pass": 3
+   },
+   {
+    "quote": "This list breaks down the top white label marketing tools across 12 categories, highlighting standout features, pricing, and customer reviews, so you can confidently choose solutions that fit your needs.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "option is available on the Agency plan, which starts at $10/month per 5,000 contacts for 200k+ contacts and can be used by up to 100 users.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "All plans include white-label features and start at $65/month, with free migration and a 20% discount for annual billing.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot’s white-label features are available on the Ultimate plan, priced at $200/month. Discounts are available for annual billing as well as a demo and a 14-day free trial.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "– Resell more than 250 products under your brand at wholesale pricing.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "All plans offer a white-label feature and start at $99/month. They also offer annual billing discounts and free access to explore the platform before you buy.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "Synup’s pricing starts at $34.99 per location/month, with optional add-ons for social media scheduling, approvals, and analytics. They offer a 15% discount for annual billing and a free demo.",
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Non-Profit",
+    "url": "https://www.designhuddle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Or even better, you can use the white label feature and resell Bookafy with new websites you build. You can adjust the branding to match the website, blending the product seamlessly into new websites. Or simply sell Bookafy as a standalone solution to other businesses for a profit.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, OR THE LIKE), WHETHER",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "AutoCAD OEM has an Annual Partnership Fee of $15,000 USD/€12,000 year, along with a revenue share. The revenue share is a percentage of the revenue from the developed product. The minimum annual revenue share is $24,000 USD/€18,000 year.",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "To add switching 3D views, you only need to create an array of views names (their order is important)",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.DISCLAIMER OF WARRANTY",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "web - cad - sdk -reference.pdf - ComponentSource CDN — web - cad - sdk -reference.pdf - ComponentSource CDN ComponentSource PDF https://origin2.cdn.componentsource.com > resources",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developers.beefree.io/page-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rasterex.com/sdk/cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opendesign.com/products/drawings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.designhuddle.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chiefdelphi.com/t/someone-please-make-browser-based-solidworks/500708",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/nocode/comments/1jnrlgu/is_there_a_nocode_platform_that_offers_white/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidworks.com/product/solidworks-xdesign",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brandmark.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technogoober.com/services/marketing/logo-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.affinity.studio/ja_jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agilitypr.com/pr-news/branding-reputation/10-handy-online-tools-to-quickly-create-brand-assets/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brekeke.com/partner/oem-partner.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/webdesign/comments/1ow0ykg/white_label_reseller/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/the-best-white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e2msolutions.com/blog/how-to-profitably-sell-white-label-web-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.opendesign.com/products/mcad-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nutrient.io/sdk/solutions/cad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intellicadms.com/oem-cad-software-license-custom-cad?srsltid=AYCX9vJIRMesSiZabnpjgFQqZZGifVAWuHgDkbpgELTISTRG1LGDQ7FK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://xovakstudio.com/pages/white-label-web-development-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weweb.io/blog/app-builder-white-label-guide-use-cases-costs-steps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iqcomputing.com/white-label-web-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/whitelabel-website-builder",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label browser based CAD SDK",
+   "results": [
+    "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "https://meshinspector.com/white-label/",
+    "https://developers.beefree.io/page-builder",
+    "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://www.designhuddle.com/",
+    "https://www.astrivis.com/blog/choosing-between-a-hosted-app-sdk-and-white-label",
+    "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "https://www.reddit.com/r/gnome/comments/1sgovem/designweb_is_a_2d_cad_application_that_runs_in_a/",
+    "https://mlightcad.com/"
+   ]
+  },
+  {
+   "query": "browser based CAD SDK white-label",
+   "results": [
+    "https://apryse.com/products/core-sdk/cad",
+    "https://rasterex.com/sdk/cad",
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://www.opendesign.com/products/drawings",
+    "https://meshinspector.com/white-label/",
+    "https://www.designhuddle.com/",
+    "https://www.chiefdelphi.com/t/someone-please-make-browser-based-solidworks/500708",
+    "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "https://rasterex.com/solutions/white-label-document-viewer",
+    "https://mlightcad.com/"
+   ]
+  },
+  {
+   "query": "best white label browser based CAD SDK providers",
+   "results": [
+    "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://www.reddit.com/r/nocode/comments/1jnrlgu/is_there_a_nocode_platform_that_offers_white/",
+    "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/",
+    "https://worldmetrics.org/best/browser-based-cad-software/"
+   ]
+  },
+  {
+   "query": "browser based CAD SDK rebrand your logo own brand",
+   "results": [
+    "https://www.solidworks.com/product/solidworks-xdesign",
+    "https://brandmark.io/",
+    "https://www.youtube.com/watch?v=EjWMh4havbI",
+    "https://www.technogoober.com/services/marketing/logo-design/",
+    "https://www.affinity.studio/",
+    "https://www.agilitypr.com/pr-news/branding-reputation/10-handy-online-tools-to-quickly-create-brand-assets/",
+    "https://madebyshape.co.uk/web-design-blog/the-best-branding-software-for-beginners-and-amateurs/",
+    "https://img.ly/industries/brands-agencies/",
+    "https://www.namecheap.com/logo-maker/",
+    "https://bravocad.com/"
+   ]
+  },
+  {
+   "query": "browser based CAD SDK private label OEM partner",
+   "results": [
+    "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://meshinspector.com/white-label/",
+    "https://brekeke.com/partner/oem-partner.php",
+    "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "https://conversight.ai/oem-partners/",
+    "https://www.beyondprivatelabel.com/us-based-white-label-website-partner/",
+    "https://www.pseven.io/company/oem-partnership/",
+    "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "https://www.autodesk.com/partner-program/customized-applications"
+   ]
+  },
+  {
+   "query": "browser based CAD SDK reseller white label program",
+   "results": [
+    "https://meshinspector.com/white-label/",
+    "https://sellful.com/",
+    "https://www.reddit.com/r/webdesign/comments/1ow0ykg/white_label_reseller/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://www.e2msolutions.com/blog/how-to-profitably-sell-white-label-web-development/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.10comwebdevelopment.com/whitelabel-reseller-program",
+    "https://elioplus.com/white-label/vendors/general-purpose_cad"
+   ]
+  },
+  {
+   "query": "browser based CAD SDK embed SDK license OEM",
+   "results": [
+    "https://apryse.com/products/core-sdk/cad",
+    "https://www.techsoft3d.com/oem/",
+    "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "https://www.opendesign.com/products/mcad-sdk",
+    "https://www.nutrient.io/sdk/solutions/cad/",
+    "https://rasterex.com/sdk/cad",
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://www.intellicadms.com/oem-cad-software-license-custom-cad?srsltid=AYCX9vJIRMesSiZabnpjgFQqZZGifVAWuHgDkbpgELTISTRG1LGDQ7FK"
+   ]
+  },
+  {
+   "query": "browser based CAD SDK white label company profitable",
+   "results": [
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://xovakstudio.com/pages/white-label-web-development-for-agencies",
+    "https://www.weweb.io/blog/app-builder-white-label-guide-use-cases-costs-steps",
+    "https://www.iqcomputing.com/white-label-web-design/",
+    "https://www.e2msolutions.com/blog/how-to-profitably-sell-white-label-web-development/",
+    "https://simvoly.com/whitelabel-website-builder",
+    "https://rubicotech.com/specialities/agencies/",
+    "https://growabledigital.com/whitelabel-software-to-resell-2026/"
+   ]
+  }
+ ],
+ "missing": {
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

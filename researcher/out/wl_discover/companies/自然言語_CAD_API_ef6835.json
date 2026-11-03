@@ -1,0 +1,1957 @@
+{
+ "name": "自然言語→CAD（API）",
+ "en": "text to CAD API",
+ "aliases": [
+  "AI CAD generation API",
+  "prompt to CAD"
+ ],
+ "context": "wl-C CAD",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:56:53.764043+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "7 Paragon alternatives worth considering in 2026",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "A guide to Workato alternatives",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Merge, the leading",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "The best text-to-CAD API tools for developer integration in 2026 are led by Zoo.dev for geometry generation, with code-generation APIs from Claude and OpenAI providing flexible alternatives. The choice depends on whether you need direct geometry output or scriptable parametric code.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "pass": 3
+   },
+   {
+    "quote": "STL files contain triangulated mesh geometry. They are universally supported for 3D printing but lack the topological information needed for parametric editing. Most text-to-CAD APIs support STL output. It is useful for visualization and additive manufacturing but insufficient for most engineering workflows.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Zoo.dev offers the most mature dedicated text-to-CAD API with STEP output support. For code-generation approaches, Claude and OpenAI APIs producing CadQuery code provide flexible alternatives with parametric output capability.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "pass": 3
+   },
+   {
+    "quote": "You deliver pro-level design freedom to your users, without a trail of breadcrumbs leading elsewhere. And yes, you can create your own branded collections too!",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on our top articles",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to the VistaCreate blog newsletter and get our top articles in your inbox each month. No spam 😉",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Best White-Label Canva Alternatives for SaaS in 2026",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Yet, as you go down the rabbit hole of product requirements, white-labeling, deployment type, customization of UI and workflows, and cost predictability, you might start looking for alternatives with more flexibility and a developer-first approach - like IMG.LY.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Canva explicitly discourages use of the Connect API in environments where credentials cannot be securely stored, such as mobile or desktop apps, browser extensions, or PWAs without a backend:",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "“Apps that use the Canva REST APIs must be associated with a web app. We don’t support apps in environments where it’s difficult to securely store credentials, such as mobile or desktop apps, browser extensions, Progressive Web Apps (with no backend), and Single Page Apps.” Instruction from",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Who Would Benefit from Looking for Alternatives to Canva Connect API",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "If your company identifies with those needs, Canva Connect API might not be a good fit for you. Luckily, there are a few alternatives available on the market. In this article, we will focus on IMG.LY.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Web apps with a backend. Canva’s security recommendations say apps must be associated with a web app, and that it does not support mobile apps, desktop apps, browser extensions, Progressive Web Apps without a backend, or single page apps.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Deliver a unified editing experience across platforms - web, desktop, native mobile. Whether users design from a laptop, a tablet, or directly in a print kiosk, they get the same high-fidelity rendering, responsive UI, and access to the same templates and features. This ensures brand and production consistency across every touchpoint in your workflow.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Users can create, preview, or customize products across desktop, web, or mobile. The editing experience is unified, fast, and fully integrated into your platform - making switching between devices seamless.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "By integrating IMG.LY, e-learning providers can transform passive course platforms into interactive, creative spaces that promote engagement, creativity, and digital literacy, all while keeping control over user experience, data, and design standards.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Today’s creative operations teams, from marketing departments to print providers, face mounting pressure to personalize assets at scale, adapt designs across hundreds of formats, and produce campaign-ready visuals in record time. Manual editing can’t keep up with the velocity and variety modern content demands. That’s where creative automation comes in.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Can Canva Connect be used in a mobile or desktop app?",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Canva advises against it. Their security guidelines state that Connect integrations must be associated with a web app, and that they do not support environments where credentials are difficult to store securely, including mobile apps, desktop apps, browser extensions, Progressive Web Apps without a backend, and single page apps.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "InDesign files hold valuable design structure - yet remain stuck offline. This article shows how CE.SDK turns IDML templates into web-editable layouts with full fidelity, unlocking collaboration and automation impossible in desktop-only workflows.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "And one we thought was funny, tis the season: \"a sketch of a christmas tree with a star on top\"",
+    "url": "https://zoo.dev/blog/introducing-text-to-cad",
+    "pass": 3
+   },
+   {
+    "quote": "own applications on top of our API. Have fun and remember to leave feedback,",
+    "url": "https://zoo.dev/blog/introducing-text-to-cad",
+    "pass": 3
+   },
+   {
+    "quote": "B-Rep, or Boundary Representation, succinctly defines 3D objects using surfaces composed of vertices, edges, and faces, outlining their external shape. Unlike implicit modeling, B-Rep provides precise control over the object's geometry and topology, facilitating accurate and efficient design modifications, essential for manufacturing processes where exact dimensions and tolerances are crucial.",
+    "url": "https://zoo.dev/blog/introducing-text-to-cad",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://github.com/deanhu0822/Text-to-CAD",
+    "pass": 3
+   },
+   {
+    "quote": "SprintRay Builds a One-Stop Digital Dentistry Workflow, From Scanning to Curing",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "pass": 3
+   },
+   {
+    "quote": "AMPOWER Desktop 3D Printing Insights, Desktop 3D Printing Boom is Reshaping Factory Economics",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "pass": 3
+   },
+   {
+    "quote": "Customization and conversion are also on the table. Users can stylize models with creative twists, such as converting them into lego-like or voxel-based versions, to suit various project needs. On top of that, the API supports conversion into widely-used formats like USDZ and FBX, ensuring compatibility across different platforms and applications.",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "pass": 3
+   },
+   {
+    "quote": "Expanding your product offerings with white-label software solutions",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "The leading embeddable suite of content builders",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "That’s why white-label software solutions have significantly altered the competitive landscape.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "White-label software helps growing businesses scale and adapt to new technologies and innovative solutions (AI, for example). All with very little intervention, time, and resources.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding white label solutions in software",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "White label solutions",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "When you're considering building a new software, there are three general options. You can scratch from scratch, use open source software, or use a white-label software solution.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "or in-house software, white label solutions offer a fully customizable and branded experience for businesses without the need for extensive development or coding knowledge.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Because white label solutions are pre-built, customizable in terms of UI are limited. However, due to the nature of white label solutions, it is almost always likely that you'll be able to fully customize the software in alignment with your branding.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing can vary from a one-time fee, to monthly or yearly subscriptions. However, considering white label solutions are maintained by the provider, this option ends up being the cost-effective as it offers a predictable pricing structure to budget for.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "White label providers often offer comprehensive support services to ensure smooth software integration, day-to-day operation, and ongoing maintenance.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of Using White Label Solutions",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "White label solutions are a great way to meet your clients' evolving needs without tackling the risks of developing software from scratch.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "White label solutions are designed to accommodate varying levels of usage and members. As your business grows, your software can meet the increased demand without compromising performance and ensuring an undisrupted customer experience.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "In addition, the scalability of a white label solution can bring forth opportunities for global expansion, growth in niche markets, and diversification of product suites. Best of all, you’ll be able to ensure quick and dynamic responses to market changes and uphold long-term success.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "With a white label tool, the client or customer has the impression that the end product is yours. This makes you appear as a reputable player in the market, someone who can afford a top-notch tool or build it on their own.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you have a SaaS tool, a mobile app, or run an agency offering marketing services, there is a white label solution for your needs below. Keep on reading to learn more.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ", this is one of the top ones to get.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "SERanking is a top-notch software",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "is ​​the leading team communication platform, providing businesses and organizations with a secure and reliable way to collaborate and share information. Brosix' advanced features and easy-to-use interface make it easy for teams to stay connected and collaborate from anywhere in the world.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Teamwork is a comprehensive white label SaaS platform designed to streamline project management for businesses that work with clients, such as agencies, startup SaaS solutions, consulting services, and IT providers.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Alternatives",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "takes the top spot for exposing multi-model image workflows through a REST API you can wrap in your own interface.",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "If neither binds, the deciding factor is the shape of your cost curve rather than image quality, since output from the top models has converged. Prefer the platform where one integration covers generation, editing, and batch work, because every extra provider adds an invoice, an SLA, and a failure mode. That argues for a consolidated",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "over stitching four vendors together.",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "leave to you. Full tenant isolation with separate billing is something you build on top.",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best Video Creative Software for Agencies: Top Tools in 2026",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Find and hire top talent in a flash",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White label API integration: benefits, drawbacks, and tools",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "As you look to make your product more valuable for customers and more attractive to prospects, you can leverage a solution that provides white label API integrations.",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "We’ll break down the benefits and drawbacks of white-labeling integrations. And we'll help you get started in building them by walking through several types of platforms you can use.",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "But first, let’s align on the definition of a white label API integration.",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "What is a white label API integration?",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "What is a white label iPaaS?",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Pros and cons of white label API integrations",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Deciding whether to white label your integrations isn’t always easy. Before you can decide on whether it’s right for your business, you’ll need to carefully weigh the pros and cons of doing it.",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Here are some of the benefits of white-labeling API integrations:",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "to collect, store, and sync their data might give them anxiety—even when it isn’t warranted. Through white-labeling, these potential concerns can be avoided altogether",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Unfortunately, white-labeling API integrations can also come with drawbacks. Here are a few to keep in mind:",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "White label API integration solutions",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "embedded iPaaS",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Through its white label offering, you can also customize the UI elements of the platform in your product. This includes the colors that are used, the logo that appears, etc.",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "How Workato markets its white label offering",
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Dimensions may be approximately right but not precisely right. Features may be geometrically valid but not manufacturable. Material and tolerance information is not embedded in the geometry. Interface dimensions with mating components are not guaranteed.",
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Behind the curtain: What makes a creative API truly white-label - VistaCreate",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Behind the curtain: What makes a creative API truly white-label",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Quick white-label checklist to keep in mind:",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Why white-label matters more than ever",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "knows when to get out of the way. The kind you can trust and control. The kind that blends seamlessly and effortlessly with your branding. As if it was always there.",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "So what makes a creative API “white-label friendly”? What are the architectural, visual, and functional decisions that separate a true plug-and-play partner from an awkward bolt-on?",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Let’s start with the obvious: a white-label API needs to vanish. No logos and watermarks. No extra redirect modals and layers that distort the illusion of it being one whole product.",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Simply put, your users should not have an “external service” moment. If they do, it’s not white-label.",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "is as flexible as it can be: it’s customizable and white-label. You get creative tools your users can access right from your product, and if you want, they’ll never know these tools were not made by your team. That’s the whole point.",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded experience, not a redirect",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Too many APIs claim to be white-label, then hand over a cookie-cutter interface with just one editable element: the logo. That’s not a true white-label. That’s lipstick on someone else’s brand.",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label API gives you more design freedom. Right down to layout, tool availability, and UX decisions. With VistaCreate’s API Suite, for example, you don’t get a single locked solution—you get building blocks:",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s a developer’s nightmare: integrating an API that drags along its own rules, layout, and limitations. A white-label-friendly API is modular by design. It doesn’t assume it’s the center of your product universe. Instead, it plays well with others. This principle is just as critical for",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "embedded finance solutions",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label doesn’t mean “set it and forget it.” Neither does your overall product development, right? You’re learning more about your customers every day and tweaking your product to make it better for them.",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Canva Connect API Alternative for White-Label | IMG.LY Blog",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "CoDesign SDK gives your product's AI agent the tools to resize, localize, rebrand and generate designs on your own servers, and every result stays an editable CE.SDK design.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Best White-Label Canva Alternatives for SaaS in 2026",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Let your own agent generate, resize and rebrand editable designs in your product.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "IMG.LY: A Canva Connect API Alternative for White-Label, Scalable Editing",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedding an editor that fits your brand, scales, and meets all technical constraints is harder than it looks. For many, Canva (and its Canva Connect offering) is a natural first thought because of its extensive user base and polished editor.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Yet, as you go down the rabbit hole of product requirements, white-labeling, deployment type, customization of UI and workflows, and cost predictability, you might start looking for alternatives with more flexibility and a developer-first approach - like IMG.LY.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "comprehensive, we went through a lot of nitty-gritty details so please explore the table of contents and make sure you find the bits and pieces that interest you most. If white-labeling is what you’re after, our",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "white-label editor",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "page shows how to theme CE.SDK to your brand, remove IMG.LY branding, and run it on your own domain.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "For most platforms, Canva Connect acts as a bridge rather than a deeply embedded creative layer, giving users access to Canva’s familiar design interface within another product, while maintaining Canva’s own hosted environment and branding.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "white-labeled",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Branding & white-labeling",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Canva is designed first and foremost as a branded platform. This makes full white-label deployments difficult for SaaS companies or platforms that need the editor to blend seamlessly into their product. So if you want the editor to feel like a native part of your app, Canva is not the best option.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label & fully customizable UI:",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "following a rebranding effort in January 2024. Designed as an open-source platform, the tool uses the KittyCAD design API and ML-ephant machine learning API to convert short text prompts into CAD files, with export options including formats like STL, OBJ, and FBX.",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "pass": 3
+   },
+   {
+    "quote": "Expanding your product offerings with white-label software solutions",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "That’s why white-label software solutions have significantly altered the competitive landscape.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "White-label software helps growing businesses scale and adapt to new technologies and innovative solutions (AI, for example). All with very little intervention, time, and resources.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding white label solutions in software",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "White label solutions",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "A great benefit of this is that any company that uses Stripe's white label payment processing system didn't have to use any additional resources to build out a custom solution and benefits from the reliability and support of Stripe.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Differences between white label, open source, and in-house software",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "When you're considering building a new software, there are three general options. You can scratch from scratch, use open source software, or use a white-label software solution.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "or in-house software, white label solutions offer a fully customizable and branded experience for businesses without the need for extensive development or coding knowledge.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Because there is an limitless level of customization, you can fully integrate your brand into every aspect of the software during the development process.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "White label software",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Because white label solutions are pre-built, customizable in terms of UI are limited. However, due to the nature of white label solutions, it is almost always likely that you'll be able to fully customize the software in alignment with your branding.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing can vary from a one-time fee, to monthly or yearly subscriptions. However, considering white label solutions are maintained by the provider, this option ends up being the cost-effective as it offers a predictable pricing structure to budget for.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "For Nonprofits",
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofits",
+    "url": "https://github.com/deanhu0822/Text-to-CAD",
+    "pass": 3
+   },
+   {
+    "quote": "Or even better, you can use the white label feature and resell Bookafy with new websites you build. You can adjust the branding to match the website, blending the product seamlessly into new websites. Or simply sell Bookafy as a standalone solution to other businesses for a profit.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "removes vendor risk but adds GPU operations to your cost base, so the break-even usually sits above 100,000 images per month.",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Profit Margins: What Agencies Actually Earn in 2026",
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "pass": 3
+   },
+   {
+    "quote": "DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, OR THE LIKE), WHETHER",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Best White Label Software to Resell for Profit: Top 7 Platforms",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Avg. Profit per Client",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Is Software Reselling Profitable? 5 Benefits",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Software reselling can be extremely profitable, but like any business, the margin depends on how you structure it and the value you provide (if you scroll further, we give example profit estimates for each platform you’d be to resell).",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit estimate: Zendo",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Total Monthly Profit",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit scales linearly with the number of clients.",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit estimate: Personizely",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": ", you’re already covering costs and making profit.",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "$1.3K/month profit",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "With ActiveCampaign, you have the option to basically purchase ActiveCampaign accounts on a discount, and then, resell those for profit:",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit estimate: ActiveCampaign",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit estimate: WPKraken",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit estimate: GoHighLevel",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Profit scales quickly since the base cost doesn’t increase with sub-accounts.",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "while maintaining 100–300% profit margins",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Real-world case studies show 20–100% profit margins",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Profit Margins & Business Models",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional SaaS locks you into fixed pricing tiers. White label AI lets you set your own pricing structure, targeting different market segments and maximizing profit margins based on your positioning.",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margin tracking per AI agent",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing agency partner tripled profitability through white-labeling, achieving $3,000 MRR",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Tripled profitability through white-labeling",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 100% profit margins achievable",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Profit Margin Analysis",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Net Profit",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "According to white label profitability analysis (White Label Wonder, May 2025):",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Gross Profit Margin Formula:",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Net Profit Margin Formula:",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margins can reach 100% with proper pricing and scale (My AI Front Desk, 2024)",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Net profit: ~40%",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "3) Is white label software profitable for agencies and consultants?",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "12 Profitable White Label Business Opportunities for 2026",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "a wide range of products and software. Each comes with its own setup needs, profit potential, and target market. Choosing the right niche is key to building a successful brand without having to start from scratch.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "This setup offers a smart balance of simplicity, profit potential, and flexibility, placing AI chatbots among the top",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Cost & Profit Potential",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Startup costs depend on the provider. Some plans start under $200/month, while others charge per client. Since chat automation delivers value, profit margins can reach 70–80%, especially when bundled with extra services.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margins can range from 30% to 70%, depending on pricing strategy and customization options.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Entry costs typically range from $50 to $200 per month, depending on features and client count. Profit margins can reach 60–80%, especially when combined with value-added services like training or custom integrations.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "With low technical barriers and strong profit potential, it’s a solid choice among the",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies typically charge clients $500–$3,000+ per site, with additional fees for hosting, updates, and SEO, leading to profit margins of 70% or higher.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "consistent demand, emotional brand loyalty, and room to build a passionate community—making it a fun and profitable venture to explore.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margins can reach 70%, especially if paired with design or ad services.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Since professionals can charge $30- $ 300 per user per month, resellers can enjoy 60–80% profit margins when bundled with content or habit-tracking features.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Branded items like serums or vitamin packs often have profit margins of 50–70%, especially when paired with content marketing and premium positioning.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "With commission on orders, setup fees, and premium service add-ons, profit margins can reach",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Enough margin to operate profitably",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Batch-generate design variants",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Automation and variable data",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "The same engine runs headlessly through the Node.js SDK for batch rendering, driven by locked templates, placeholders and text variables (Web, iOS, Android, Server). Output lands wherever your pipeline sends it.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "CMYK color and spot colors (Web, iOS, Android, Server), knockouts for overlapping colors and layers (Web, iOS, Android, Server), PDF/X export through a plugin (Web, Server), bleed and margins (Web), and cutouts and underlayers for die-cut and layered work (Web).",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "IMG.LY supports templating with placeholders, lockable design elements, and variables. What does this mean? Marketers can easily swap content, localize messaging, or tailor designs without worrying about compromising brand integrity.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Placeholders and variables can also be swapped programatically via back-end APIs or a headless mode, effectively enabling mass personalization, scale production of A/B testing variants, or campaign-level automation with thousands of assets being generated with a few clicks.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Template constraints & variable data printing:",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Merchants need more than just good visuals; they need product images, banners, and mockups that are accurate, branded, and consistent, all without bouncing between multiple tools. They also often need to handle product variations (colors, sizes, personalized text), preview them, and scale creation for large catalogs.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Automated variant generation:",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Templates with placeholders (for product visuals, prices, ad copy, etc.) can be linked to product data to automatically generate all visual variants for large catalogs. What used to take hours per product can now be done in minutes, without touching a design tool.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Today’s creative operations teams, from marketing departments to print providers, face mounting pressure to personalize assets at scale, adapt designs across hundreds of formats, and produce campaign-ready visuals in record time. Manual editing can’t keep up with the velocity and variety modern content demands. That’s where creative automation comes in.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "IMG.LY’s CreativeEditor SDK can operate in headless mode, allowing you to generate thousands of assets automatically using your templates. From campaign banners to localized ads or A/B test variants, everything is rendered programmatically through API calls without manual intervention.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart templates & variable data:",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Lock critical design elements (logos, margins, colors, and typography) so that automated or user-edited outputs always remain on brand, no matter how many variants you produce.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "Does Canva Connect support automated or variable-data design generation?",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "With this launch, Tripo aims to provide developers with tools to integrate 3D model generation into their applications and services. Designed to enhance user interaction, create immersive environments, and support simulation development, the API offers various features intended to streamline creative workflows.",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "pass": 3
+   },
+   {
+    "quote": ", Tripo’s capabilities are also accessible via its API, which is tailored for broader and more customized use cases. For developers looking to streamline their 3D modeling process, Tripo’s API offers a variety of tools designed to streamline processes ranging from initial drafts to polished, animated models.",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "pass": 3
+   },
+   {
+    "quote": "Customization and conversion are also on the table. Users can stylize models with creative twists, such as converting them into lego-like or voxel-based versions, to suit various project needs. On top of that, the API supports conversion into widely-used formats like USDZ and FBX, ensuring compatibility across different platforms and applications.",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "pass": 3
+   },
+   {
+    "quote": "While the cost varies, this option will require the most investment. This is due to the fact that you're hiring your own team of skilled Software Designers, Engineers, Developers, and starting from scratch which will require ongoing testing, integration, upkeep, and maintenance on your team's behalf.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing can vary from a one-time fee, to monthly or yearly subscriptions. However, considering white label solutions are maintained by the provider, this option ends up being the cost-effective as it offers a predictable pricing structure to budget for.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "White label solutions are designed to accommodate varying levels of usage and members. As your business grows, your software can meet the increased demand without compromising performance and ensuring an undisrupted customer experience.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "is a white label solution that allows businesses to embed our email, landing page, and popup builder into their applications. With different subscriptions varying from Free to Enterprise, we follow a “grow as you go” model that offers different levels of customization depending on your budget and current needs.",
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "pass": 3
+   },
+   {
+    "quote": ", PPC, and many other use cases. Digital marketing agencies love Whatagraph because the white labeling is really easy to use, much like their drag and drop dashboard and the large variety of templates.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "You can use Paddle to build your own payment system, or if you do web development, you can grab their white label offer and resell their solution to your customers. With 4,000 existing customers, you know Paddle is a great product worth being resold.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "With its user-friendly interface, users can easily design and launch portals that reflect their brand identity, ensuring a professional look and feel. Softr’s integration capabilities allow for smooth connectivity with various data sources, making it ideal for managing client relationships and streamlining workflows.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Or even better, you can use the white label feature and resell Bookafy with new websites you build. You can adjust the branding to match the website, blending the product seamlessly into new websites. Or simply sell Bookafy as a standalone solution to other businesses for a profit.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Their white label website builder allows agencies and businesses to resell Simvoly to others. If you do software development and want to resell a website builder to clients who don’t want to hire you, this is an excellent choice to make an extra income. In terms of",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "With CloudWaitress, you can resell a fully customizable",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Build SEO-optimized websites using customizable templates, publish on your subdomain for free, and resell hosting with full pricing control. With intuitive features like a white label CMS, real-time client feedback, API integrations, a variety of fonts to choose from, and advanced web design and SEO tools, WebWave helps you manage all design projects from one dashboard.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "If you resell a product under someone else's brand, or your own under several, the localisation work scales with the number of brands rather than the number of products: interface strings, onboarding and support content all need a version per market.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI image software lets you sell AI image generation under your own brand, domain, and pricing instead of reselling a vendor's logo. This guide ranks the seven best options for 2026 on the three things that decide the build: how much branding you can remove, how complete the API is, and whether per-image cost survives a resale margin.",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial structure is third. Usage-based pricing with no per-seat fee is what makes resale viable, because your margin is the gap between wholesale inference cost and the price you set. Per-seat pricing kills that math as your client base grows, which is why the shortlists for",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Output carries no Wireflow branding or watermark, and pricing is usage-based with no per-seat component, so reseller margin is yours to set. The gap worth naming: there is no drop-in customer-facing editor widget, so you build the front end. Teams that want a hosted UI out of the box should look at Picsart or Leonardo instead. See",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Latency is low enough for interactive use, batch endpoints handle catalog-sized jobs, and per-image pricing drops sharply with volume, which protects resale margin. The limit is obvious: no general text-to-image model, so Photoroom is a component rather than a platform. Pair it with a generator if your roadmap goes beyond product imagery, as in a standard",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Can I resell AI generated images under my own brand?",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The better ones do not. Wireflow, Segmind, and Photoroom price on usage, which is what makes resale margin possible. Per-seat pricing breaks the model because your cost scales with your client's headcount while your revenue scales with their image volume.",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Plug in a tool, swap the vendor's name for your own, resell it as part of your offering. New services under your name, no new payroll.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers who want everything SEO under one login",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Reselling local marketing services under one roof",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SeoReseller",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "ActiveCampaign is an email marketing and automation platform with an Agency Partner Program for resale. Agencies can purchase client accounts at a discount and manage them under their own brand.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "ActiveCampaign uses tiered subscription pricing based on contact count, with the Agency Partner Program offering reseller rates. A 14-day free trial is offered. Branded reseller features require Partner Program enrollment.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program adds onboarding complexity",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta plans start at $99/month with annual billing discounts and free platform access for evaluation. Marketplace product margins vary by SKU. White-label features are available on every plan tier.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Marketplace economics dilute margins on resold tools",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Tooling depth varies widely across the marketplace",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta shows up most often in agencies reselling tools to local SMB clients in service-based or regulated verticals.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SimpleTexting is an SMS marketing platform with a white-label reseller program for agencies. It supports bulk texting, two-way messaging, autoresponders, and branded reseller accounts.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label reseller program with branded portal",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SimpleTexting starts at $39/month for 500 credits with credit-based pricing scaling by volume. White-label features sit inside the reseller partner program with custom pricing. A free trial is available before signup.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program offers branded customer-facing portal",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Logo Variations",
+    "url": "https://logodiffusion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Upload a logo you already have and generate variations of it. Auto mode matches the concept and style on its own, or pick one of the 11 styles yourself. Each run returns four, and you can keep generating for more.",
+    "url": "https://logodiffusion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Create logo variations",
+    "url": "https://logodiffusion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Variation 1",
+    "url": "https://logodiffusion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Variation 2",
+    "url": "https://logodiffusion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Variation 3",
+    "url": "https://logodiffusion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Variation 4",
+    "url": "https://logodiffusion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Original logo → 4 generated variations",
+    "url": "https://logodiffusion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Create variations",
+    "url": "https://logodiffusion.com/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Documented per endpoint, per user of your app, in requests per minute. Creating an asset upload job is 30, a design autofill job 60, a design export job 20, a design import job 20. The matching get-job endpoints sit higher, at 120 to 180, so polling is not usually the binding constraint. Over the limit, the endpoint returns 429.",
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $2,495 per month, billed annually, but you can",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $249 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $49 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $9 per user per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $59 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $65 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan for small teams getting started. Business plans start at $5 per user per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $20 per store, per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: starts at $129 per month.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: Start for free, or upgrade to the Agency Account for $30/month to unlock additional white label services and discounts.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: Cost-effective plans start at $13.99 per user/month, with options to scale up as your business grows.",
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI image software lets you sell AI image generation under your own brand, domain, and pricing instead of reselling a vendor's logo. This guide ranks the seven best options for 2026 on the three things that decide the build: how much branding you can remove, how complete the API is, and whether per-image cost survives a resale margin.",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Then test at your real volume before signing. Free tiers hide the cliff, and these platforms price very differently at 1,000 images per month than at 100,000. Run fifty prompts through both finalists, measure cost and latency, and treat that as the decision. The same test applies to",
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "of the paid plans, card required. Annual plans start at $47/month (Base), $147/month (Grow), and $297/month (Expand). A/B testing on the first page unlocks on the Grow plan, and white-label branding controls sit on higher tiers. A custom Scale plan handles larger agencies with more workspaces and live funnels. There is also a",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot's white-label features sit on the Ultimate plan at $200/month with annual billing discounts. A 14-day free trial is available with no credit card. Lower-tier plans do not include white-label customization.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "All SE Ranking plans include white-label features and start at $65/month, with a 20% discount for annual billing. Free migration from competing tools is offered. A free trial is available before commitment.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "ActiveCampaign uses tiered subscription pricing based on contact count, with the Agency Partner Program offering reseller rates. A 14-day free trial is offered. Branded reseller features require Partner Program enrollment.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "AgencyAnalytics offers tiered plans starting around $99/month per agency, with white-label features available on most plans. Pricing scales with the number of campaigns or client accounts. A free trial is offered.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta plans start at $99/month with annual billing discounts and free platform access for evaluation. Marketplace product margins vary by SKU. White-label features are available on every plan tier.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SimpleTexting starts at $39/month for 500 credits with credit-based pricing scaling by volume. White-label features sit inside the reseller partner program with custom pricing. A free trial is available before signup.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Mention plans start at $41/month, with higher tiers offering more sources and team seats. A 14-day free trial and live demos are available. White-label features are gated behind paid tiers.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Sendible plans start around $29/month, with white-label features on higher agency tiers and annual billing discounts. A free trial is offered. White-label customization includes custom domain, logo, and login page setup.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Our production is as flexible as your needs. From smaller R&D systems starting at 2 L to setups reaching 2000 L, we can adjust our production scale to match the phase of your project, supporting everything from research trials to commercial production.",
+    "url": "https://thinkaes.com/private-label-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Automation Agency in 2026: What It Does, Tools, Pricing and How to Start",
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Lovable vs v0 in 2026: Pricing, Backend, Code and Which to Choose",
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "pass": 3
+   },
+   {
+    "quote": "You keep the gap between the wholesale rate and your retail price, every month a client stays. On Trillet, usage is $0.12 a minute after the included allowance, and the $300/month, 300-minute reference scenario lands around 74% gross margin before telephony; model your own band. A flat retainer with no usage band is how that margin disappears.",
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Updated for October 2026: corrected VoiceAIWrapper, Stammer, Synthflow, and GoHighLevel pricing and architecture, and scoped Trillet's custom domain to Agency and its BAA to Agency and Enterprise.",
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The program costs a $100 one-time setup, a $100 monthly platform fee and $7 per active client per month. Extra storage is $10 per 100 GB, the mobile app is $50 setup plus $50 a month, and customisation is $30 an hour (reseller page, 30 September 2026).",
+    "url": "https://oncloudapi.com/blogs/white-label-whatsapp-business-api-reseller-in-egypt-start-under-your-own-brand",
+    "pass": 3
+   },
+   {
+    "quote": "As published on our reseller page on 30 September 2026: a $100 one-time setup, a $100 monthly platform fee and $7 per active client per month. Extra storage is $10 per 100 GB, the white label mobile app is $50 setup plus $50 a month, add-on apps are $1 per app per client, and customisation is $30 an hour.",
+    "url": "https://oncloudapi.com/blogs/white-label-whatsapp-business-api-reseller-in-egypt-start-under-your-own-brand",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. You set your own markup and price every client package yourself. You pay a flat $7 per active client per month whatever package the client is on, so your margin is the difference between your price and your costs.",
+    "url": "https://oncloudapi.com/blogs/white-label-whatsapp-business-api-reseller-in-egypt-start-under-your-own-brand",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing and requirements as published on 30 September 2026);",
+    "url": "https://oncloudapi.com/blogs/white-label-whatsapp-business-api-reseller-in-egypt-start-under-your-own-brand",
+    "pass": 3
+   },
+   {
+    "quote": "$299/month",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label access is included in Personizely’s standard plans, which start at $39 per month for 2 websites and 10k visitors. Now, according to Personizely, a typical reseller setup starts at",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "$139/month",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "$1.3K/month profit",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "*Assuming reselling the Enterprise plan, which costs $145/month.",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "into fixed SaaS-style packages (e.g. $299/month flat for X minutes + support).",
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "pass": 3
+   },
+   {
+    "quote": "Typical pricing ranges from $20–$1,000+ monthly",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Allows agencies to sell AI agents for $300–$500/month per agent with 0% platform fees (Stammer AI, 2024)",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "First fully-featured white label AI website builder starting at $159/month (Brizy, 2024)",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "$20–$200/month",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Limited conversations/messages (typically 1,000–5,000/month)",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "$200–$1,000/month",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000–$10,000+/month",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Full multichannel outreach (cold email + 6 native LinkedIn actions) resold under your own brand, with your custom domain, your logo, and your pricing plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "20% flat share on every client subscription. You can mark up client pricing above wholesale.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free to join. Underlying mailbox cost from $4/month, dropping to $2.50/month at bulk (billed annually).",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Agency Unlimited $297/month (~$247/month billed annually). Agency Pro $497/month (~$414/month billed annually).",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "None. Flat SaaS pricing. You set your own retail price and keep 100% of the markup.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starter $99/month (~$79/month billed annually). White-label starts on Professional at $499/month (~$399/month billed annually).",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label plans start at $1,500/year. AI voice agents are available on King and Emperor plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "No revenue share. You keep 100% of every client sale, set your own pricing, and can onboard unlimited clients.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Core plan: $20 per client per month (billed annually). Enterprise custom.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "None. Per-client SaaS pricing. You set your own retail price and keep 100% of the markup.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Personal from $12/month (billed annually). White-label reseller plan priced after a sales call.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Startup costs depend on the provider. Some plans start under $200/month, while others charge per client. Since chat automation delivers value, profit margins can reach 70–80%, especially when bundled with extra services.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Startup plans range from $50 to $150/month, depending on the features. Many platforms offer tiered pricing based on users or brands. Margins of 60–75% are common when you add strategy, posting support, or performance audits.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Entry-level plans usually start at $30-$100 per month, depending on email volume and features.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Startup costs vary by platform and product range, often starting as low as $50/month or on a pay-per-order basis.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "pass": 3
+   },
+   {
+    "quote": "Synup pricing starts at $34.99 per location per month with a 15% discount for annual billing. Add-ons for social media scheduling and analytics carry additional fees. A free demo is available.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "We took our agency to a seven-figures in revenue after just 4 months of using Perspective in our service.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "The team that builds FrameworX has been shipping industrial software since the DOS era. In 1996 it co-founded InduSoft (now AVEVA Edge) and built the HMI engine behind it, and it has shipped every generation of this platform since. FrameworX is the current one, built from scratch on managed .NET rather than carried forward from the last.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "The Environmental Information Systems group at Wunderlich-Malec builds reporting products on FrameworX for facilities operating under Title V permits, CFR 40 Part 75 and Part 60, and California RECLAIM. Compliance reporting is where the data model, the historian and the audit trail carry the product, which is why the platform underneath it has to be the same one running the plant.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "To add switching 3D views, you only need to create an array of views names (their order is important)",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.DISCLAIMER OF WARRANTY",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "According to a July 2024 report from BotsCrew, the global chatbot marketing revenue alone is projected to surpass $454.8 million by 2027, demonstrating the massive market opportunity for white label AI resellers.",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "represents the fastest-growing region. Currently accounting for 33% of AI software revenue in 2025, analysts expect the region to capture 47% of the global market by 2030 as China and other Asian economies accelerate AI adoption (ABI Research, July 2024).",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Zero platform fees—keep 100% of revenue",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Achieved $3,000 monthly recurring revenue",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "(Revenue – COGS) / Revenue × 100%",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "(Revenue – COGS – Operational Costs) / Revenue × 100%",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: $7,500/month",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: $30,000/month",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "I personally know many lead gen agencies layer $10K to $30K a month in branded software revenue on top of retainers, while solo sales consultants adding $800 to $2,000 in recurring revenue from 8 to 15 clients on a branded subscription.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "So I tested 10 white label software that I would actually recommend, checked what each one charges and how they share revenue, and pulled the ones that make you money instead of taking it.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "No revenue share. You keep 100% of every client sale, set your own pricing, and can onboard unlimited clients.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free to join with no maintenance fees. Flat 20% revenue share lets you keep 80% of every client subscription",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Choose between two monetization models: a recurring 20% revenue share or setting your own pricing markup",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "20% revenue share on every client subscription",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Infraforge Whitelabel gives you the same 20% revenue share or custom markup structure as Salesforge Whitelabel, on a different product: private",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Take the 20% revenue share and let us handle billing, or set your own markup above wholesale and keep the full difference. Your call.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Choose between a 20% recurring revenue share or setting your own pricing markup",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Some niches may have low entry barriers but also high churn or intense price wars. Others—like specialized B2B tools—take longer to sell but offer better retention and upselling potential.",
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tripo AI launches new Text-to-CAD API for 3D model generation — Tripo AI launches new Text-to-CAD API for 3D model generation 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.merge.dev/blog/white-label-api-integration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://create.vista.com/blog/what-makes-api-white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forums.autodesk.com/t5/civil-3d-customization-forum/getting-label-s-display-text-in-c3d-2025/td-p/13657948",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://zoo.dev/blog/introducing-text-to-cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/singularity/comments/1hsaox8/day_two_of_2025_and_we_already_got_text_to_cad/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://github.com/deanhu0822/Text-to-CAD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Futurology/comments/196wp8c/text_to_3d_cad_is_coming_whos_building_it/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=hubx.logo.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vistaprint.com/logomaker?srsltid=AYCX9vK5qsVmyE1phbzyy7lUMHkHlh32-7Lse0ibs6Rwo56dbxjLjBTf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://logodiffusion.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sloyd.ai/ja/3d-logos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namecheap.com/logo-maker/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brekeke.com/partner/oem-partner.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thinkaes.com/private-label-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dmic.com/applications/oem-private-label-custom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://text-world.com/partners.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/webdesign/comments/1pouyr1/white_label_whatsapp_product/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://oncloudapi.com/blogs/white-label-whatsapp-business-api-reseller-in-egypt-start-under-your-own-brand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/find-out-more/sie-suchen-nach-einer-cad-translation-sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://visual-integrity.com/pdf-sdk/pdf-sdk-oem-commercial-developers/?srsltid=AYCX9vLfBSkZIBO-KFzq_vr1pAbip9y0Zz9_AZRsy86J2y1ZYU2TXJch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.semify.com/white-label-marketing-api",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label text to CAD API",
+   "results": [
+    "https://www.merge.dev/blog/white-label-api-integration",
+    "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "https://create.vista.com/blog/what-makes-api-white-label/",
+    "https://img.ly/blog/img-ly-a-canva-connect-api-alternative-for-white-label-scalable-editing/",
+    "https://forums.autodesk.com/t5/civil-3d-customization-forum/getting-label-s-display-text-in-c3d-2025/td-p/13657948",
+    "https://www.semify.com/white-label-marketing-api",
+    "https://unlayer.com/blog/guide-api-white-label-solutions",
+    "https://medium.com/@emilhein1/white-labeling-your-software-why-and-how-d4cad2726bac",
+    "https://prismatic.io/blog/what-is-a-white-label-integration-platform/",
+    "https://zoo.dev/blog/introducing-text-to-cad"
+   ]
+  },
+  {
+   "query": "text to CAD API white-label",
+   "results": [
+    "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "https://zoo.dev/blog/introducing-text-to-cad",
+    "https://www.reddit.com/r/singularity/comments/1hsaox8/day_two_of_2025_and_we_already_got_text_to_cad/",
+    "https://github.com/deanhu0822/Text-to-CAD",
+    "https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/",
+    "https://www.reddit.com/r/Futurology/comments/196wp8c/text_to_3d_cad_is_coming_whos_building_it/",
+    "https://www.simscale.com/blog/text-to-cad/",
+    "https://mechanomy.com/posts/240205_textToCAD/",
+    "https://www.youtube.com/watch?v=hJKVqERZqwY",
+    "https://prompt2cad.com/text-to-cad-how-it-works"
+   ]
+  },
+  {
+   "query": "best white label text to CAD API providers",
+   "results": [
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://blog.duda.co/top-white-label-tools-for-agencies",
+    "https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/",
+    "https://appscrip.com/blog/best-white-label-app-development-companies/",
+    "https://www.banuba.com/blog/best-white-label-software"
+   ]
+  },
+  {
+   "query": "text to CAD API rebrand your logo own brand",
+   "results": [
+    "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "https://play.google.com/store/apps/details?id=hubx.logo.ai",
+    "https://www.vistaprint.com/logomaker?srsltid=AYCX9vK5qsVmyE1phbzyy7lUMHkHlh32-7Lse0ibs6Rwo56dbxjLjBTf",
+    "https://logodiffusion.com/",
+    "https://www.sloyd.ai/3d-logos",
+    "https://www.namecheap.com/logo-maker/",
+    "https://www.instagram.com/reel/DI7L-FjtNED/",
+    "https://www.reddit.com/r/NoStupidQuestions/comments/1dtrubt/is_there_a_site_where_i_can_edit_existing_brand/",
+    "https://textocad.com/text-to-cad",
+    "https://github.com/earthtojake/text-to-cad/tree/main/scripts/brand"
+   ]
+  },
+  {
+   "query": "text to CAD API private label OEM partner",
+   "results": [
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://brekeke.com/partner/oem-partner.php",
+    "https://thinkaes.com/private-label-oem/",
+    "https://conversight.ai/oem-partners/",
+    "https://www.dmic.com/applications/oem-private-label-custom/",
+    "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "https://oemdent.com/blogs/blog/private-label-dental-implants-how-distributors-build-their-own-brand-with-oem-dent?srsltid=AYCX9vJM86prZU-jd-3qhyWY2puJNDgayd7pCOHfwdX6MSLlzRRcxvCE",
+    "https://flow-like.com/whitelabel/",
+    "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "https://meshinspector.com/white-label/"
+   ]
+  },
+  {
+   "query": "text to CAD API reseller white label program",
+   "results": [
+    "https://text-world.com/partners.html",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.reddit.com/r/webdesign/comments/1pouyr1/white_label_whatsapp_product/",
+    "https://www.youtube.com/watch?v=jy2WJUVQDfI",
+    "https://oncloudapi.com/blogs/white-label-whatsapp-business-api-reseller-in-egypt-start-under-your-own-brand",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://hellobotz.com/partners/",
+    "https://dmly.io/white-label-whatsapp-software-agencies/"
+   ]
+  },
+  {
+   "query": "text to CAD API embed SDK license OEM",
+   "results": [
+    "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "https://www.techsoft3d.com/oem/",
+    "https://github.com/earthtojake/text-to-cad",
+    "https://zoo.dev/blog/introducing-text-to-cad",
+    "https://coretechnologie.com/find-out-more/sie-suchen-nach-einer-cad-translation-sdk/",
+    "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "https://visual-integrity.com/pdf-sdk/pdf-sdk-oem-commercial-developers/?srsltid=AYCX9vLfBSkZIBO-KFzq_vr1pAbip9y0Zz9_AZRsy86J2y1ZYU2TXJch",
+    "https://www.intellicadms.com/oem-cad-software-license-custom-cad?srsltid=AYCX9vKGIwgvFV2mdQRyri-G0ffPJ2Xp35C6kJXG7MuAZOIrzhhAWANg",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://www.instagram.com/reel/DbBQi2JuNnF/"
+   ]
+  },
+  {
+   "query": "text to CAD API white label company profitable",
+   "results": [
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://developers.beefree.io/blog/expanding-your-product-offerings-with-white-label-software-solutions",
+    "https://www.getleo.ai/blog/best-text-to-cad-api-tools",
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://www.semify.com/white-label-marketing-api",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.salesforge.ai/blog/white-label-software"
+   ]
+  }
+ ],
+ "missing": {}
+}

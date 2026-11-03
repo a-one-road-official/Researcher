@@ -1,0 +1,346 @@
+{
+ "name": "クラウド構造解析",
+ "en": "cloud simulation platform",
+ "aliases": [
+  "cloud FEA",
+  "simulation as a service"
+ ],
+ "context": "wl-C CAE",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:57:42.033168+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.acronis.com/en/blog/posts/white-label-cloud-platform-for-msps-and-hosters/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/white-label-hub/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudblue.com/glossary/white-label-cloud-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudblue.com/glossary/white-label-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://massivegrid.com/white-label-cloud-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conexisvmssoftware.com/white-label-vms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apptium.com/resources/white-label-cloud-marketplaces-a-smarter-way-to-scale-your-cloud-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solutionshub.epam.com/blog/post/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spxcommerce.com/blog/top-white-label-marketplace-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lenderkit.com/blog/top-white-label-crowdfunding-software-providers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infiterra.com/white-label-cloud-marketplace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/cloud-based-simulation-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudcontrolmedia.com/blog/a-rebrand-rooted-in-purpose/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://designcloud.app/services/branding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brandkity.com/blog/top-rebranding-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.cloud.google.com/chronicle/docs/soar/admin-tasks/advanced/rebranding?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://owncloud.com/blogs/branding-owncloud-online-corporate-identity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sinch.com/voice/ucaas/private-label-cloud-communications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brekeke.com/partner/oem-partner.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thinkaes.com/private-label-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omc.cloud/products/white-label-resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v2cloud.com/add-ons/white-label-cloud-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudblue.com/glossary/white-label-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://licensespring.com/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qlik.dev/manage/oem/what-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/compute.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rescale.com/resources/engineering-simulation-in-the-cloud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growabledigital.com/whitelabel-software-to-resell-2026/",
+    "status": "http_404",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label cloud simulation platform",
+   "results": [
+    "https://www.acronis.com/en/blog/posts/white-label-cloud-platform-for-msps-and-hosters/",
+    "https://upcloud.com/global/white-label-hub/",
+    "https://www.cloudblue.com/glossary/white-label-cloud-service/",
+    "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "https://www.conexisvmssoftware.com/white-label-vms",
+    "https://www.apptium.com/resources/white-label-cloud-marketplaces-a-smarter-way-to-scale-your-cloud-business",
+    "https://massivegrid.com/white-label-cloud-platform/",
+    "https://gitnux.org/service/white-label-cloud/",
+    "https://upcloud.com/white-label-hub/"
+   ]
+  },
+  {
+   "query": "cloud simulation platform white-label",
+   "results": [
+    "https://www.acronis.com/en/blog/posts/white-label-cloud-platform-for-msps-and-hosters/",
+    "https://www.cloudblue.com/glossary/white-label-platform/",
+    "https://upcloud.com/global/white-label-hub/",
+    "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "https://massivegrid.com/white-label-cloud-platform/",
+    "https://www.conexisvmssoftware.com/white-label-vms",
+    "https://www.apptium.com/resources/white-label-cloud-marketplaces-a-smarter-way-to-scale-your-cloud-business",
+    "https://solutionshub.epam.com/blog/post/white-label-software"
+   ]
+  },
+  {
+   "query": "best white label cloud simulation platform providers",
+   "results": [
+    "https://www.spxcommerce.com/blog/top-white-label-marketplace-platforms/",
+    "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "https://www.apptium.com/resources/white-label-cloud-marketplaces-a-smarter-way-to-scale-your-cloud-business",
+    "https://www.conexisvmssoftware.com/white-label-vms",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://lenderkit.com/blog/top-white-label-crowdfunding-software-providers/",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "https://infiterra.com/white-label-cloud-marketplace/",
+    "https://worldmetrics.org/best/cloud-based-simulation-software/"
+   ]
+  },
+  {
+   "query": "cloud simulation platform rebrand your logo own brand",
+   "results": [
+    "https://cloudcontrolmedia.com/blog/a-rebrand-rooted-in-purpose/",
+    "https://designcloud.app/services/branding",
+    "https://brandkity.com/blog/top-rebranding-tools",
+    "https://docs.cloud.google.com/chronicle/docs/soar/admin-tasks/advanced/rebranding",
+    "https://www.youtube.com/watch?v=n00TLpjg3GY",
+    "https://owncloud.com/blogs/branding-owncloud-online-corporate-identity/",
+    "https://suitedash.com/white-label-business-software/",
+    "https://cloudinary.com/guides/digital-asset-management/brand-management-platform",
+    "https://www.reddit.com/r/grafana/comments/1f1mop4/is_it_possible_to_have_our_own_logo_instead_of/",
+    "https://rebrandapp.ai/"
+   ]
+  },
+  {
+   "query": "cloud simulation platform private label OEM partner",
+   "results": [
+    "https://sinch.com/voice/ucaas/private-label-cloud-communications/",
+    "https://brekeke.com/partner/oem-partner.php",
+    "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://thinkaes.com/private-label-oem/",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.cloudoffix.com/white-label-partner",
+    "https://conversight.ai/oem-partners/",
+    "https://blog.bicomsystems.com/oem-and-white-label/",
+    "https://cm-labs.com/en/simulation-built-for-oem-equipment-manufacturers/"
+   ]
+  },
+  {
+   "query": "cloud simulation platform reseller white label program",
+   "results": [
+    "https://omc.cloud/products/white-label-resellers",
+    "https://v2cloud.com/add-ons/white-label-cloud-services",
+    "https://www.cloudblue.com/glossary/white-label-reseller/",
+    "https://www.acronis.com/en/blog/posts/white-label-cloud-platform-for-msps-and-hosters/",
+    "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "https://www.apptium.com/resources/white-label-cloud-marketplaces-a-smarter-way-to-scale-your-cloud-business",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://caasify.com/reseller"
+   ]
+  },
+  {
+   "query": "cloud simulation platform embed SDK license OEM",
+   "results": [
+    "https://licensespring.com/industries/manufacturing",
+    "https://qlik.dev/manage/oem/what-oem/",
+    "https://www.cadence.com/en_US/home/tools/msc-software/compute.html",
+    "https://rescale.com/resources/engineering-simulation-in-the-cloud/",
+    "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "https://devicepartner.microsoft.com/en-gb/products/licensing",
+    "https://www.advantech.com/en-us/embedded-boards-design-in-services/embedded-software-licensing/authorityprocess/ms-windows-embedded-os",
+    "https://docs.nvidia.com/cuda/cusolvermp/license.html",
+    "https://www.anylogic.com/blog/advanced-simulation-platform-anylogic-cloud-release/"
+   ]
+  },
+  {
+   "query": "cloud simulation platform white label company profitable",
+   "results": [
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://www.apptium.com/resources/white-label-cloud-marketplaces-a-smarter-way-to-scale-your-cloud-business",
+    "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "https://omc.cloud/products/white-label-resellers",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://www.cloudblue.com/glossary/white-label-platform/",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "https://growabledigital.com/whitelabel-software-to-resell-2026/"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業": "記載なし（読んだ40頁・検索8回）",
+  "自社名で出せる条件": "記載なし（読んだ40頁・検索8回）",
+  "再販制度": "記載なし（読んだ40頁・検索8回）",
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "売上": "記載なし（読んだ40頁・検索8回）",
+  "価格": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

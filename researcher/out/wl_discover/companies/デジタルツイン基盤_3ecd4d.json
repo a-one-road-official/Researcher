@@ -1,0 +1,393 @@
+{
+ "name": "デジタルツイン基盤",
+ "en": "digital twin platform manufacturing",
+ "aliases": [
+  "factory digital twin software"
+ ],
+ "context": "製造業",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:01:10.562871+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "The technology sits on top of your operational systems—sensors, PLCs, reality capture equipment, and maintenance platforms. It pulls data from 3D scans, BIM models, and IoT devices to create a unified view of your facility.",
+    "url": "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Not every feature vendors highlight actually drives value for factory operations. Focus your evaluation on capabilities that directly address your defined use cases.",
+    "url": "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "How to Evaluate Digital Twin Vendors for Factory Use Cases",
+    "url": "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Watch for vendors who emphasize visualization over data management. A beautiful 3D model that you cannot update, measure, or integrate delivers no operational value.",
+    "url": "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Question extended implementation timelines. If the vendor promises value in years rather than weeks, the complexity may never pay off. Platforms like Cintoo are designed for rapid deployment, letting you upload, process, and collaborate on scan data within days of capture.",
+    "url": "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Support for IFC (Industry Foundation Classes) ensures your digital twin can exchange building information with design tools regardless of vendor. Direct integration with platforms like Revit, Navisworks, and AutoCAD simplifies workflows.",
+    "url": "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller facilities can achieve meaningful ROI with focused implementations. Start with your highest-value pain point—perhaps a congested production area or frequently reconfigured cell. Cloud-based platforms like Cintoo remove the capital investment in specialized hardware that previously limited digital twin adoption to large enterprises.",
+    "url": "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Implementation timelines vary based on scope and complexity. Focused pilots on single production lines can deliver value within weeks. Plant-wide deployments typically require phased approaches spanning months. Cintoo's cloud platform accelerates initial deployment by handling scan data processing and hosting without complex infrastructure setup.",
+    "url": "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Look for technologies that convert raw scan data into manageable formats. Cintoo's patented TurboMesh technology transforms complex 3D mesh datasets into lightweight files that teams can stream and collaborate on through standard web browsers—removing the hardware barriers that often stall adoption.",
+    "url": "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://wldt.github.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/wldt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://firstlinesoftware.com/blog/digital-twin-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/figure/Basic-structure-and-main-modules-of-White-Label-Digital-Twin_fig1_348888684",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing-today.com/tech-brief/manufacturing-digital-twin-companies/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://start.docuware.com/blog/document-management/digital-twin-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/industry-insights/digital-twin?srsltid=AYCX9vLglIYIhR1P9Y-bXoQuQvudUlbDjf6c3GwNvlbwkU1yguyzSbdi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dataparc.com/blog/digital-twin-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visualcomponents.com/blog/digital-twin-in-manufacturing-what-it-is-how-it-works-why-it-matters/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2213846324002050",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://treeview.studio/blog/top-digital-twin-development-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/GlobalITFirms/comments/1qxd3fx/top_digital_twin_services_solution_providers_to/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hololight.com/news/best-digital-twin-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S277266222300005X",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mosimtec.com/digital-twin-technology-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hexagon.com/company/divisions/manufacturing-intelligence/what-we-do/manufacturing-digital-twin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://makersite.io/insights/digital-twins-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-digital-twin-technology",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://ifactoryapp.com/industries/manufacturing-plant/digital-twin-manufacturing-build-deploy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grip.tools/digitaltwins",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://processgenius.eu/articles/oem-manufacturing-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visualcomponents.com/blog/understanding-digital-twins-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nvidia.com/en-us/glossary/digital-twin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dashdevs.com/blog/product-owner-talks-20-digital-twins-service-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/industry-insights/digital-twin?srsltid=AYCX9vJLUnhzt_cfCcU344TWRinO48GPxhVvaa-DIOCuNqabJ6TXFZKA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibm.com/think/topics/digital-twin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://treeview.studio/blog/digital-twin-companies-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matterport.com/ja/learn/digital-twin/examples?srsltid=AYCX9vJrTW2o46MWpG8k_2buFpL-Wc35NMU7hC7QA3HbUM-PFZ_GiZAT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ongraph.com/white-label-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iot-analytics.com/why-no-vendor-owns-the-full-digital-twin-tech-stack/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perforce.com/blog/p4/digital-twin-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchoutreach.org/articles/digital-twin-integration-design-manufacturing-maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognite.com/en/resources/blog/open-industrial-digital-twin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://licensespring.com/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simio.com/blog/digital-twin-manufacturing-applications-benefits-and-industry-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/stocks/comments/sz67f0/best_companies_to_invest_in_digital_twin_creation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://acuvate.com/blog/digital-twin-use-cases-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://discoverinai.com/digital-twins-manufacturing-s-2026-profit-edge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtin.com/software-engineering-perspectives/top-digital-twin-companies",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label digital twin platform manufacturing",
+   "results": [
+    "https://wldt.github.io/",
+    "https://github.com/wldt",
+    "https://firstlinesoftware.com/blog/digital-twin-in-manufacturing/",
+    "https://www.researchgate.net/figure/Basic-structure-and-main-modules-of-White-Label-Digital-Twin_fig1_348888684",
+    "https://manufacturing-today.com/tech-brief/manufacturing-digital-twin-companies/",
+    "https://www.dataparc.com/blog/digital-twin-manufacturing/",
+    "https://www.visualcomponents.com/blog/digital-twin-in-manufacturing-what-it-is-how-it-works-why-it-matters/",
+    "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "https://www.sciencedirect.com/science/article/pii/S2213846324002050",
+    "https://en.wikipedia.org/wiki/Digital_twin"
+   ]
+  },
+  {
+   "query": "digital twin platform manufacturing white-label",
+   "results": [
+    "https://wldt.github.io/",
+    "https://start.docuware.com/blog/document-management/digital-twin-in-manufacturing",
+    "https://www.ptc.com/en/industry-insights/digital-twin?srsltid=AYCX9vLglIYIhR1P9Y-bXoQuQvudUlbDjf6c3GwNvlbwkU1yguyzSbdi",
+    "https://www.dataparc.com/blog/digital-twin-manufacturing/",
+    "https://www.visualcomponents.com/blog/digital-twin-in-manufacturing-what-it-is-how-it-works-why-it-matters/",
+    "https://www.sciencedirect.com/science/article/pii/S2213846324002050",
+    "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-digital-twin-technology",
+    "https://acuvate.com/blog/digital-twin-use-cases-manufacturing/",
+    "https://appinventiv.com/blog/digital-twins-in-manufacturing/",
+    "https://www.agilesoftlabs.com/products/manufacturing"
+   ]
+  },
+  {
+   "query": "best white label digital twin platform manufacturing providers",
+   "results": [
+    "https://treeview.studio/blog/top-digital-twin-development-companies",
+    "https://wldt.github.io/",
+    "https://www.reddit.com/r/GlobalITFirms/comments/1qxd3fx/top_digital_twin_services_solution_providers_to/",
+    "https://hololight.com/news/best-digital-twin-software",
+    "https://www.linkedin.com/pulse/best-digital-twin-companies-abhiwantechnology-8hmpc",
+    "https://manufacturing-today.com/tech-brief/manufacturing-digital-twin-companies/",
+    "https://www.sciencedirect.com/science/article/pii/S277266222300005X",
+    "https://mosimtec.com/digital-twin-technology-companies/",
+    "https://reliamag.com/topics/guides/best-digital-twin-platforms"
+   ]
+  },
+  {
+   "query": "digital twin platform manufacturing rebrand your logo own brand",
+   "results": [
+    "https://hexagon.com/company/divisions/manufacturing-intelligence/what-we-do/manufacturing-digital-twin",
+    "https://www.youtube.com/watch?v=8KZiwhWUMa8",
+    "https://makersite.io/insights/digital-twins-explained/",
+    "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-digital-twin-technology",
+    "https://ifactoryapp.com/industries/manufacturing-plant/digital-twin-manufacturing-build-deploy",
+    "https://www.facebook.com/WevolverApp/videos/from-design-to-production-and-operations-digital-twins-are-transforming-how-indu/1287291060016673/",
+    "https://www.visualcomponents.com/blog/digital-twin-in-manufacturing-what-it-is-how-it-works-why-it-matters/",
+    "https://grip.tools/digitaltwins"
+   ]
+  },
+  {
+   "query": "digital twin platform manufacturing private label OEM partner",
+   "results": [
+    "https://processgenius.eu/articles/oem-manufacturing-challenges/",
+    "https://hexagon.com/company/divisions/manufacturing-intelligence/what-we-do/manufacturing-digital-twin",
+    "https://treeview.studio/blog/top-digital-twin-development-companies",
+    "https://www.reddit.com/r/GlobalITFirms/comments/1qxd3fx/top_digital_twin_services_solution_providers_to/",
+    "https://www.visualcomponents.com/blog/understanding-digital-twins-in-manufacturing/",
+    "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "https://www.nvidia.com/en-us/glossary/digital-twin/",
+    "https://dashdevs.com/blog/product-owner-talks-20-digital-twins-service-companies/",
+    "https://www.simio.com/simio-global-partner-program",
+    "https://www.b2bheadlines.com/blog/6-private-label-marketplaces-to-find-manufacturers"
+   ]
+  },
+  {
+   "query": "digital twin platform manufacturing reseller white label program",
+   "results": [
+    "https://cintoo.com/en/blog/how-to-choose-digital-twin-software-for-factories-in-2026",
+    "https://www.ptc.com/en/industry-insights/digital-twin?srsltid=AYCX9vJLUnhzt_cfCcU344TWRinO48GPxhVvaa-DIOCuNqabJ6TXFZKA",
+    "https://www.ibm.com/think/topics/digital-twin",
+    "https://start.docuware.com/blog/document-management/digital-twin-in-manufacturing",
+    "https://www.visualcomponents.com/blog/understanding-digital-twins-in-manufacturing/",
+    "https://treeview.studio/blog/digital-twin-companies-manufacturing",
+    "https://www.youtube.com/watch?v=jiYPP5AYt1Q",
+    "https://www.sciencedirect.com/science/article/pii/S277266222300005X",
+    "https://matterport.com/learn/digital-twin/examples?srsltid=AYCX9vJrTW2o46MWpG8k_2buFpL-Wc35NMU7hC7QA3HbUM-PFZ_GiZAT",
+    "https://www.ongraph.com/white-label-software/"
+   ]
+  },
+  {
+   "query": "digital twin platform manufacturing embed SDK license OEM",
+   "results": [
+    "https://iot-analytics.com/why-no-vendor-owns-the-full-digital-twin-tech-stack/",
+    "https://www.perforce.com/blog/p4/digital-twin-manufacturing",
+    "https://researchoutreach.org/articles/digital-twin-integration-design-manufacturing-maintenance/",
+    "https://www.cognite.com/en/resources/blog/open-industrial-digital-twin",
+    "https://www.visualcomponents.com/blog/digital-twin-in-manufacturing-what-it-is-how-it-works-why-it-matters/",
+    "https://www.youtube.com/watch?v=8KZiwhWUMa8",
+    "https://licensespring.com/industries/manufacturing",
+    "https://ifactoryapp.com/industries/manufacturing-plant/digital-twin-manufacturing-build-deploy",
+    "https://www.nvidia.com/en-us/omniverse/",
+    "https://www.synopsys.com/blogs/chip-design/electronics-digital-twin-platform.html"
+   ]
+  },
+  {
+   "query": "digital twin platform manufacturing white label company profitable",
+   "results": [
+    "https://start.docuware.com/blog/document-management/digital-twin-in-manufacturing",
+    "https://www.sciencedirect.com/science/article/pii/S277266222300005X",
+    "https://www.simio.com/blog/digital-twin-manufacturing-applications-benefits-and-industry-insights",
+    "https://hexagon.com/company/divisions/manufacturing-intelligence/what-we-do/manufacturing-digital-twin",
+    "https://www.reddit.com/r/stocks/comments/sz67f0/best_companies_to_invest_in_digital_twin_creation/",
+    "https://treeview.studio/blog/digital-twin-companies-manufacturing",
+    "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-digital-twin-technology",
+    "https://www.visualcomponents.com/blog/understanding-digital-twins-in-manufacturing/",
+    "https://acuvate.com/blog/digital-twin-use-cases-manufacturing/",
+    "https://discoverinai.com/digital-twins-manufacturing-s-2026-profit-edge/"
+   ]
+  }
+ ],
+ "missing": {
+  "自社名で出せる条件": "記載なし（読んだ40頁・検索8回）",
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "価格": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

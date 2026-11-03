@@ -1,0 +1,1165 @@
+{
+ "name": "CADビューア（SDK）",
+ "en": "3D CAD viewer SDK",
+ "aliases": [
+  "web 3D viewer SDK",
+  "CAD visualization SDK"
+ ],
+ "context": "wl-C CAD",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:57:36.522934+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Mesh repair that survives real scan data. Booleans that don't fail on the hundredth operation. A viewer that opens a two-hundred-million-triangle model without falling over. Every hardware company that has tried to build this in-house discovers the same thing: the demo takes a month, production-grade takes years, and it never stops needing maintenance.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop, browser, or both",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "CT scanner and medical imaging vendors",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC machine and CAM vendors",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "MeshInspector gives you the model-preparation and verification half of this: feature detection, tolerance checking, and geometry clean enough to machine from. Toolpath generation and G-code simulation are built for you on top of the geometry layer — offsets, booleans, distance fields and swept volumes are already there, and our team has delivered CAM projects on them.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Not a services layer resold on top of someone else's kernel.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Windows, macOS and Linux on the desktop; the same engine in the browser through WebAssembly.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Can we start with the browser version and add desktop later?",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "We also use analytics and advertisement cookies from the providers named below, which help us analyze how you use this website and measure and personalize our advertising. These cookies will only be stored in your browser with your prior consent.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "The fully typed API controls the viewer programmatically, from loading models through selection and visibility to BCF topics and events.",
+    "url": "https://crais.io/products/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Customisation does not stop at the interface. Selection and hover colours, measurement annotations, section planes, BCF pins and the viewport background are configurable as well.",
+    "url": "https://crais.io/products/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "TypeScript, Three.js, ThatOpen Fragments, web-ifc, WebGL2",
+    "url": "https://crais.io/products/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer Top",
+    "url": "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "pass": 3
+   },
+   {
+    "quote": "3D model viewing with IFC tree navigation. No plugin, no desktop app.",
+    "url": "https://rasterex.com/sdk",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop tools",
+    "url": "https://rasterex.com/sdk",
+    "pass": 3
+   },
+   {
+    "quote": "Topic API",
+    "url": "https://developers.catenda.com/viewer-3d",
+    "pass": 3
+   },
+   {
+    "quote": "Best 3D Viewers in 2026 (Top Software Reviewed and Compared)",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Best 3D Viewers in 2026 (Top-Rated Software Reviewed and Compared)",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 3D Viewers in 2026 at a Glance",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D viewer market doesn’t split by four different technologies. It splits by how much of the workflow the platform owns on top of WebGL delivery.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "1. Desktop CAD viewers (engineering-native)",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "This tier is where eDrawings, Autodesk Viewer, and ZW3D live. They are built to view and review native CAD files in a desktop or controlled web environment, and they do that job well.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "The catch is that they still depend on clean, optimized, standardized 3D inputs to work. They are experience layers on top of WebGL, not the pipeline that produces what they show.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "They need a platform that automates optimization and file conversion so non 3D teams can view and approve content in a web viewer versus needing desktop software and an engineer.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Features",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "– multiple viewer instances share GPU resources, delivering 5-10x faster load times than alternatives on apparel and footwear assets. Includes SSAO, screen-space reflections, bloom, PBR lighting, scene graph navigation, exploded views, measurements, and animated hotspots.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "If your 3D assets are trapped with specialists, duplicated across teams, or failing to reach eCommerce and retail partners, VNTANA is the platform that fixes the operational problem and ships the viewer on top of it.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Not SOC2 Type II certified – a hard stop for most enterprise security reviews",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s designed for quick file review, markup, and sharing across distributed engineering teams without installing desktop CAD software.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Developers comfortable building their own UI layer on top of a headless CMS",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "It is not a replacement for an enterprise 3D platform – it’s the rendering primitive that commercial platforms layer orchestration, governance, and workflow on top of.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Best White-Label Canva Alternatives for SaaS in 2026",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "It offers a complete package of tools, libraries, and documentation, making it highly customizable to suit specific use cases and easily blend with a brand’s identity. SDKs equip developers with the core components needed to build, enhance, and tailor applications across multiple platforms, including web, mobile, server, cloud, and desktop.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "RealDWG is an SDK for reading and writing DWG and DXF files without a dependency on AutoCAD. It uses the same ObjectDBX libraries found inside AutoCAD, making it the most accurate option available for DWG interoperability. Licensed annually, it's a straightforward way to add native DWG support to a Windows desktop application.",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "TENADO Builds Its Metal 3D with Inventor OEM from Tech Soft 3D to Provide Industry-Leading Tools to Metalworkers",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Service Providers",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Back to Top",
+    "url": "https://www.nextechar.com/industries/product-content-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D’s Software Development Kits (SDKs) power hundreds of leading engineering applications worldwide. Offload core features like data access, 3D visualization, simulation and analysis, and 3D modeling so you can launch faster and focus on what makes your software stand out.",
+    "url": "https://www.techsoft3d.com/developers/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "TENADO Builds Its Metal 3D with Inventor OEM from Tech Soft 3D to Provide Industry-Leading Tools to Metalworkers",
+    "url": "https://www.techsoft3d.com/developers/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Service Providers",
+    "url": "https://www.techsoft3d.com/developers/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Providers",
+    "url": "https://apis.io/apis/autodesk/viewer-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://apis.io/apis/autodesk/viewer-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "START HERE — APIs, providers and tags for one query, each with its total.",
+    "url": "https://apis.io/apis/autodesk/viewer-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "Every scored population of providers in the catalog.",
+    "url": "https://apis.io/apis/autodesk/viewer-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop tools",
+    "url": "https://rasterex.com/solutions/white-label-document-viewer",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced topics",
+    "url": "https://aps.autodesk.com/developer/overview/viewer-sdk",
+    "pass": 3
+   },
+   {
+    "quote": "Join the Autodesk Developer Network (ADN) for top tier support, special event opportunities, access to Autodesk software, and more.",
+    "url": "https://aps.autodesk.com/developer/overview/viewer-sdk",
+    "pass": 3
+   },
+   {
+    "quote": "The leading library for creating and manipulating PDF files in Java and .NET",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Document SDK Alternatives",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Web, Server, Desktop",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Easily add high-fidelity direct conversion from CAD files, on any web, mobile, server or desktop software. Convert to PDF, PDF/A, PDF/E-2, image file types, and more.",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Developed and supported by leading visualisation experts for leading software application vendors in fields ranging from consumer products to automotive and the built environment.",
+    "url": "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "Quickly and easily enrich your web, server or desktop app with access to CAD and BIM data.",
+    "url": "https://cadexchanger.com/products/sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "Top it off with optional components for maximum productivity",
+    "url": "https://cadexchanger.com/products/sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop and",
+    "url": "https://cadexchanger.com/products/sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "Utilize SDK's capabilities on desktop, mobile and in the cloud. Directly embed into C++, C#, Java, Python and Javascript apps, or run in a separate process from any other language.",
+    "url": "https://cadexchanger.com/products/sdk/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "OEM & White-Label 3D Software | MeshInspector",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & White-Label",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship 3D Software Under Your Own Brand",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label MeshInspector — your brand, our application",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Your customer scans a part, and everything after the capture becomes your software problem: noise, holes, misaligned passes, and a mesh that has to be watertight before anyone can measure anything. MeshInspector covers the whole post-capture chain — noise reduction, registration, hole filling, watertight repair, deviation measurement against a reference — under your brand.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "A model that fails to print becomes a support ticket for you, not for the designer who made it. MeshInspector repairs and prepares the mesh before it ever reaches your slicer, and ships as the front end of your print workflow with your branding on it.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Why OEMs choose this over building it",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "The Web Suite: MeshInspector's tools running in the browser and embedded into your platform. Branding covers tool arrangement, colors and logos. Import and export from AWS and Azure storage is supported. Performance scales with the user's browser and machine.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware bundles, embedded modules, volume-based terms — every OEM ships differently, and we keep the commercial side flexible rather than forcing a fixed scheme. Tell us how your product reaches its users, and we'll shape the model around it together.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes — that is the standard white-label case. Distribution scope is agreed with you before work starts.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label | Embeddable IFC Viewer | IFC SDK | crais",
+    "url": "https://crais.io/products/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label",
+    "url": "https://crais.io/products/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label IFC Viewer",
+    "url": "https://crais.io/products/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Adaptable to your brand",
+    "url": "https://crais.io/products/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "The viewer as part of your brand",
+    "url": "https://crais.io/products/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Interested in the White-Label IFC Viewer?",
+    "url": "https://crais.io/products/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Your UI, your brand, your infrastructure. No drawing engine to build, maintain or hire for.",
+    "url": "https://rasterex.com/sdk",
+    "pass": 3
+   },
+   {
+    "quote": "Self-hosted & embedded",
+    "url": "https://rasterex.com/sdk",
+    "pass": 3
+   },
+   {
+    "quote": "Studio-quality rendering, embedded viewer",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "The use case is concrete: a rep on a video call with an OEM buyer pulls up a configurable 3D model, rotates it, shows the cutaway view, and answers spec questions in real time.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "The Enterprise plan is custom and includes SSO, Intelligent Optimization™, CAD format support (STEP, JT, AutoCAD and others), WebXR, a white-labeled 3D & AR web viewer, Admin API access, a dedicated account manager, unlimited users, and an on-premise deployment option.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "– allows developers to script basic camera moves, annotation, and configurator-style interactions for custom embedded experiences.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "The Custom plan (contact for pricing) is for experiences at a global scale, with custom monthly credits, unlimited admins and users, custom analytics, enterprise support, dedicated servers, and a white label option.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "The viewer is designed to showcase portfolio work with studio-quality lighting and materials, and is embedded in artist portfolios on ArtStation and personal sites.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded viewer files",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "No web-embedded viewer for product pages",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "It is not suitable for consumer eCommerce, B2B sales enablement on product pages, retailer syndication, AI training pipelines, or any business use case that requires a web-embedded, configurable, governed 3D viewer.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "SDK vs. White Label: Choose the Right Solution | IMG.LY Blog",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "CoDesign SDK gives your product's AI agent the tools to resize, localize, rebrand and generate designs on your own servers, and every result stays an editable CE.SDK design.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Best White-Label Canva Alternatives for SaaS in 2026",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Let your own agent generate, resize and rebrand editable designs in your product.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "SDK vs. White Label: Consider These Differences When You Choose a Solution",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how to choose between white-label tools and SDKs to enhance your product, and find the perfect solution for your budget and resources.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Enhancing your product with new features and capabilities often brings up a critical question: Should you choose a white-label solution or opt for the flexibility of an SDK? While white-label tools offer simplicity and speed, modern SDKs can combine the ease of integration with the ability to customize and deeply integrate into your product. CE.SDK covers both sides of that trade-off: a",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "white-label editor SDK",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "you can theme, rebrand, and run on your own domain.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": ": SDKs provide an option to create a solution that best matches your business needs and branding. Unlike white-label, SDKs can be fully customizable, allowing you to tailor features and capabilities to seamlessly integrate with your use case.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": ": While the integration and maintenance require the involvement of developers, SDKs come with greater control over the integrated tech that’s not available with white-label solutions. Developers can determine the extensibility of the solution and shape it to fit specific needs.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "What is a White-Label Solution?",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "While SDK needs to be built with the provided tools, the white-label solution is an off-the-shelf and ready-to-use product that can be quickly rebranded and marketed. It allows businesses to get to market faster by utilizing a ready-made platform, eliminating the need for internal development from scratch.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Key features of a White-label solution",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk OEM Solutions | Tech Soft 3D",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk OEM Solutions",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D is Autodesk's exclusive global provider for AutoCAD OEM, Inventor OEM, and the RealDWG SDK. Developers worldwide license these technologies through Tech Soft 3D to build specialised CAD applications, extend existing tools into standalone products, or add native DWG file support to their software.",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEM",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM lets you build a custom, branded CAD application on the same platform that powers AutoCAD. You choose which commands and features to include, configure your own UI, and ship under your own brand. It supports Object ARX, .NET, ActiveX, and JavaScript APIs, with options for multiple deployment targets and multiple languages.",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEM gives you Autodesk Inventor's parametric 3D modelling engine to embed in your own application. A built-in configurator lets you select which modules, translators, and features your product includes. iLogic support, comprehensive CAD translators, and a sample branded application are included to help you get started quickly.",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Case Studies",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor Oem",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "TENADO Builds Its Metal 3D with Inventor OEM from Tech Soft 3D to Provide Industry-Leading Tools to Metalworkers",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Autocad Oem",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Scaffolding Software Licenses AutoCAD OEM as a Foundation for Their Comprehensive Scaffolding Tools",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Striker Systems Uses AutoCAD OEM To Give Sheet Metal Manufacturers A Nesting Software That’s A Cut Above",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Find a Reseller",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "When first opened, IFC files are converted into the high-performance FRAG format. After conversion, file size and loading time are both reduced by roughly a factor of ten. Conversion time, loading time and the size reduction vary with the geometric complexity and the information content of the IFC file. The table below shows the actual measured values from one example setup.",
+    "url": "https://crais.io/products/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "VNTANA is the best 3D viewer in 2026 because it pairs studio-quality rendering with enterprise governance, native CAD ingestion, and SOC2 Type II security. It is the only 3D viewer built to run across eCommerce, wholesale, retailer syndication, and AI pipelines from a single platform.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Threekit, Emersya, Threedium, and parts of Sketchfab Enterprise sit here. They run on the same WebGL core as category 2, but add configurators with variant rules, AR and product storytelling, and prebuilt UI for product detail pages and marketing campaigns.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "– works out of the box on Apple Vision Pro, Meta Quest, Pico, Magic Leap, and Varjo with no additional development.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Threekit’s main use case is replacing traditional product photography with 3D models that render every SKU and variation from a single asset.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Jewelry and eyewear brands needing high-variant visual catalogs",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "The platform is particularly well-suited to categories with high variant counts where photographing every SKU would be cost-prohibitive.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Among the best 3D viewers reviewed in this guide, VNTANA is the one built for enterprises that need 3D to work across eCommerce, wholesale, sales, training, aftermarket parts and AI; not just on a single product page.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Batch-generate design variants",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": ": Our creative engine is a powerhouse that can enable a variety of applications, from automating and scaling design and video creation for social media, marketing, and print to templating and jumpstarting users’ design, the UI can be adapted to match a specific use case perfectly.",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Variable Data Printing",
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Drop in a 3D viewer and WebAR launcher with theming, hotspots, variants, and QR handoff to mobile.",
+    "url": "https://www.nextechar.com/industries/product-content-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/developers/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "The Viewer SDK is a JavaScript library for building interactive web applications that display 2D and 3D design models. It supports various file formats, offers customizable toolbars, and provides a flexible extension framework for creating immersive design experiences.",
+    "url": "https://apis.io/apis/autodesk/viewer-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "2D and 3D design models. It supports various file formats, offers customizable toolbars, and provides",
+    "url": "https://apis.io/apis/autodesk/viewer-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "Deliver high performance rendering across a variety of platforms with HOOPS Visualize, a powerful 3D visualization software development toolkit.",
+    "url": "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "var aModel = new ModelData_Model(); // format-neutral document",
+    "url": "https://cadexchanger.com/products/sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "var aReader = new STEP_Reader();",
+    "url": "https://cadexchanger.com/products/sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "var aWriter = new STL_Writer();",
+    "url": "https://cadexchanger.com/products/sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "Eyeshot provides various rendering techniques, from basic wireframe models to advanced surface shading and texture mapping.",
+    "url": "https://prototechsolutions.com/blog/top-5-powerful-3d-visualization-sdks-for-engineering-software-in-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "The library boasts a wide array of features, including support for various geometries, materials, lights, and cameras.",
+    "url": "https://prototechsolutions.com/blog/top-5-powerful-3d-visualization-sdks-for-engineering-software-in-2024/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "A 2% conversion lift on a $200M digital channel is $4M in incremental annual revenue – the math makes the ROI case before the demo ends.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "A 2% conversion lift on a $200M digital channel is $4M in incremental revenue. The math works in the first quarter.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "AR you ready to accelerate your eCommerce revenue with 3D and AR?",
+    "url": "https://www.nextechar.com/industries/product-content-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Our data translation technology makes it easy to break down barriers between formats and unlock the full value of your 3D assets. With broad support for CAD, AEC, and CAE files, you can provide your users with fast and accurate access to the models they depend on, ensuring smooth collaboration across every stage of the engineering workflow.",
+    "url": "https://www.techsoft3d.com/developers/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate the latest 3D model visualization capabilities into your applications economically and quickly with flexible licensing arrangements and comprehensive support services.",
+    "url": "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Free to $79/month",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Free, $99/month (Pro), Custom",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Free, $14-$120/month, Custom",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "$18.99/month or $399 one-time",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Sketchfab offers a free tier with a 100 MB per-model upload limit and public visibility. Paid plans start at $15 per month (Plus), $19 per month (Premium), and $79 per month (Business) for teams needing password protection, higher upload limits (200-500 MB), and commercial embeds.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Viewer is free. Premium collaboration features are available through Autodesk Construction Cloud and BIM Collaborate, which start at approximately $85 per user per month.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Threekit uses custom enterprise pricing that is not published on the public site. Industry reporting and sales conversations place starter packages around $1,000 per month, with enterprise deployments regularly in the low-to-mid six figures annually depending on scope.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "echo3D offers three plans. The Free plan is $0 per month for personal projects and experiences, with 10 monthly credits, basic 3D model conversion and compression, embeddable and shareable WebAR viewer, access to 45,000+ free 3D models, and basic analytics.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "The Pro plan is $99 per month for scaling commercial apps, with 500 monthly credits, automatic pay-as-you-go, advanced 3D model conversion, convert and compress API, version control, extended 3D asset library, custom logo, and 3D scene and model editors.",
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "pass": 3
+   },
+   {
+    "quote": "Embed ARitize3D behind the scenes to power your customers’ 3D/AR and virtual photography—your brand forward, our engine underneath. Offer “generate 3D” as a native feature with your own pricing, packaging, and UX.",
+    "url": "https://www.nextechar.com/industries/product-content-platforms",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SDK Solutions for Developers | Tech Soft 3D — SDK Solutions for Developers | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > solutions",
+    "url": "https://www.techsoft3d.com/developers/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Viewer SDK - Catenda API Documentation — 3D Viewer SDK - Catenda API Documentation Catenda https://developers.catenda.com > view...",
+    "url": "https://developers.catenda.com/viewer-3d",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://aps.autodesk.com/viewer-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trimachine.com/en/3d-service-webgl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crais.io/products/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/bim/comments/1jd7jpj/need_suggestion_for_an_web_sdklibrary_that/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://rasterex.com/sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stackoverflow.com/questions/4145322/3d-cad-viewer-to-embed-in-web-page",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://developers.catenda.com/viewer-3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/openscad/comments/1nibhic/can_you_open_3d_models_in_your_browser_without/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.vntana.com/roundup/best-3d-viewers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vanenkhuizen.com/the-10-best-free-3d-cad-viewers-for-metalworking-sheet-metal-shops/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opendesign.com/products/drawings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadcam.org/blog/tips-for-picking-the-perfect-3d-cad-viewer-for-your-needs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://realitymax.com/product/3d-viewers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://re3d.org/category/branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opendesign.com/products/mcad-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-tool.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sloyd.ai/ja/3d-logos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextechar.com/industries/product-content-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opendesign.com/products/visualize",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabeliq.com/design/3d-rendering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/developers/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apis.io/apis/autodesk/viewer-sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partners/programs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rasterex.com/solutions/white-label-document-viewer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aps.autodesk.com/developer/overview/viewer-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadexchanger.com/products/sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partner-program/oem-software",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partner-program/customized-applications",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prototechsolutions.com/blog/top-5-powerful-3d-visualization-sdks-for-engineering-software-in-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://occt3d.com/components/light-web-viewer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growabledigital.com/whitelabel-software-to-resell-2026/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://elioplus.com/white-label/vendors/3d_cad",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label 3D CAD viewer SDK",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://www.trimachine.com/en/3d-service-webgl/",
+    "https://meshinspector.com/white-label/",
+    "https://crais.io/products/white-label/",
+    "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://www.opendesign.com/products/visualize",
+    "https://developers.catenda.com/viewer-3d",
+    "https://rasterex.com/sdk",
+    "https://www.nutrient.io/sdk/solutions/cad/"
+   ]
+  },
+  {
+   "query": "3D CAD viewer SDK white-label",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "https://www.trimachine.com/en/3d-service-webgl/",
+    "https://www.reddit.com/r/bim/comments/1jd7jpj/need_suggestion_for_an_web_sdklibrary_that/",
+    "https://crais.io/products/white-label/",
+    "https://rasterex.com/sdk",
+    "https://stackoverflow.com/questions/4145322/3d-cad-viewer-to-embed-in-web-page",
+    "https://www.youtube.com/watch?v=I76GkB8k5zw",
+    "https://developers.catenda.com/viewer-3d",
+    "https://www.reddit.com/r/openscad/comments/1nibhic/can_you_open_3d_models_in_your_browser_without/"
+   ]
+  },
+  {
+   "query": "best white label 3D CAD viewer SDK providers",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://meshinspector.com/white-label/",
+    "https://www.vntana.com/roundup/best-3d-viewers/",
+    "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "https://vanenkhuizen.com/the-10-best-free-3d-cad-viewers-for-metalworking-sheet-metal-shops/",
+    "https://www.trimachine.com/en/3d-service-webgl/",
+    "https://www.opendesign.com/products/drawings",
+    "https://www.cadcam.org/blog/tips-for-picking-the-perfect-3d-cad-viewer-for-your-needs",
+    "https://www.techsoft3d.com/developers/solutions/",
+    "https://crais.io/products/white-label/"
+   ]
+  },
+  {
+   "query": "3D CAD viewer SDK rebrand your logo own brand",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://www.instagram.com/reel/DKwSJX1T0Io/",
+    "https://realitymax.com/product/3d-viewers",
+    "https://www.facebook.com/visualmodo/posts/how-to-create-custom-3d-view-of-any-brand-logo-online-for-free-brand-logo-create/810199318292202/",
+    "https://re3d.org/category/branding/",
+    "https://www.youtube.com/watch?v=oNu2qh38eZM",
+    "https://www.opendesign.com/products/mcad-sdk",
+    "https://www.3d-tool.com/",
+    "https://www.sloyd.ai/3d-logos"
+   ]
+  },
+  {
+   "query": "3D CAD viewer SDK private label OEM partner",
+   "results": [
+    "https://meshinspector.com/white-label/",
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://www.techsoft3d.com/oem/",
+    "https://www.nextechar.com/industries/product-content-platforms",
+    "https://cadviewer.com/our_pricing/oem/",
+    "https://www.opendesign.com/products/visualize",
+    "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "https://rasterex.com/sdk",
+    "https://www.whitelabeliq.com/design/3d-rendering/",
+    "https://www.3dviewstation.com/verticals/automotive-aero.html"
+   ]
+  },
+  {
+   "query": "3D CAD viewer SDK reseller white label program",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://meshinspector.com/white-label/",
+    "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "https://www.techsoft3d.com/developers/solutions/",
+    "https://rasterex.com/sdk",
+    "https://apis.io/apis/autodesk/viewer-sdk/",
+    "https://www.opendesign.com/products/visualize",
+    "https://cadviewer.com/our_pricing/oem/",
+    "https://crais.io/products/white-label/",
+    "https://www.autodesk.com/partners/programs"
+   ]
+  },
+  {
+   "query": "3D CAD viewer SDK embed SDK license OEM",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://www.techsoft3d.com/oem/",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "https://www.opendesign.com/products/mcad-sdk",
+    "https://developers.catenda.com/viewer-3d",
+    "https://apis.io/apis/autodesk/viewer-sdk/",
+    "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "https://cadexchanger.com/products/sdk/",
+    "https://aps.autodesk.com/developer/overview/viewer-sdk"
+   ]
+  },
+  {
+   "query": "3D CAD viewer SDK white label company profitable",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://www.opendesign.com/products/visualize",
+    "https://rasterex.com/sdk",
+    "https://www.nextechar.com/industries/product-content-platforms",
+    "https://www.whitelabeliq.com/design/3d-rendering/",
+    "https://www.trimachine.com/en/3d-service-webgl/",
+    "https://prototechsolutions.com/blog/top-5-powerful-3d-visualization-sdks-for-engineering-software-in-2024/",
+    "https://occt3d.com/components/light-web-viewer/",
+    "https://www.reddit.com/r/bim/comments/1jd7jpj/need_suggestion_for_an_web_sdklibrary_that/",
+    "https://crais.io/products/white-label/"
+   ]
+  }
+ ],
+ "missing": {
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

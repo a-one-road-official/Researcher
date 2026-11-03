@@ -1,0 +1,841 @@
+{
+ "name": "トポロジー最適化",
+ "en": "topology optimization software",
+ "aliases": [
+  "topology optimization SDK",
+  "structural optimization API"
+ ],
+ "context": "wl-A AM",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:54:55.679872+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Topology Optimization 101: How to Use Algorithmic Models to Create Lightweight Design | Formlabs",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization 101: How to Use Algorithmic Models to Create Lightweight Design",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "become more widespread, making it possible to create complex parts easier than ever before, designers and engineers can leverage topology optimization software to push boundaries and find new ways to maximize design efficiency.",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "In this guide, learn about the basics of topology optimization, its benefits and applications, and which software tools you can use to get started.",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Topology Optimization?",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Designs produced with topology optimization often include free forms and intricate shapes that are complex or impossible to manufacture with traditional production methods. However, TO designs are a perfect match for additive manufacturing processes that have more forgiving design rules and can easily reproduce complex shapes without additional costs.",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization vs. Generative Design",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "and topology optimization have become buzzwords in the CAD design space, but it’s a common misconception that they’re synonymous.",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "In a way, topology optimization serves as the foundation for generative design. Generative design takes the process a step further and eliminates the need for the initial human-designed model, taking on the role of the designer based on the predefined set of constraints.",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "How Topology Optimization Works",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology optimization usually takes place towards the end of the design process, when the desired part needs to have a lower weight or use less materials. The designer then works to discover certain preset parameters, such as applied loads, material type, constraints, and layout.",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Structural topology optimization first determines the minimum allowable design space necessary for shape optimization of the product. Then, virtually, the topology optimization software applies pressure on the design from different angles, tests its structural integrity, and identifies unnecessary material.",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "The topology optimization workflow. (",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "The most common and practical technique for topology optimization is the",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Validating the design involves determining a threshold for the element density field between a value of 0 and 1. A value of 0 voids material in a designated region of the structure, while a value of 1 sets the designated region as solid material. The designer can then strip the model of all unnecessary material and finalize the topology optimization portion of the design.",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 7 Design Optimization Software Tools for Engineers in 2026",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Leading tools available",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "System-level decisions like component selection, routing topologies, and mission sequencing involve discrete choices that gradient-based methods can't handle effectively.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Generative & Topology Optimization",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Lightweighting through material removal and topology refinement",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "topology optimization software market is projected to reach $1.2 billion by 2026",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Workflow automation across CAD and CAE tools including Ansys Fluent, Mechanical, and Electronics Desktop",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "tools within the Altair ecosystem, with OptiStruct being a pioneer in commercial topology optimization.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Structural topology optimization and lightweighting",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Basic structural optimization and topology studies",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Topology optimization identifies material removal opportunities invisible to manual design. For a deep-dive into domain-specific applications, see our work on",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "topology optimization of airfoil structures using quantum inspired evolutionary optimization technique",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "doesn't replace CAD-integrated topology optimization or MDO workflow automation. Teams continue using Ansys, Altair, or COMSOL for physics simulation while BQP handles system-level optimization and",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "The tools in this guide address different layers of the problem. CAD-integrated platforms handle early-stage concept work. Topology tools manage structural lightweighting. MDO platforms orchestrate multi-solver workflows. Statistical tools address robustness and uncertainty. The right choice depends on your problem type, program phase, and compute environment.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "The right tool depends on the problem type. For structural topology and lightweighting, Altair OptiStruct and Ansys are widely used. For multidisciplinary workflow orchestration across coupled physics domains, modeFRONTIER provides vendor-neutral integration. For statistical robustness and DOE-driven studies, Design-Expert is the standard.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Topology optimization | Siemens",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology optimization is a technology for developing optimized structures considering design parameters like expected loads, available design space, materials, and cost. Embedded early in the design process, it enables the creation of designs with minimal mass and maximal stiffness.",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Topology Optimization?",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization for any manufacturing method",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens offers industry leading topology optimization software includes shape optimization that focuses on multiple manufacturing processes. These topology optimization tools are built to consider and adhere to the rules and specs of multiple different manufacturing methods. Some of these rules include: symmetry patterns, draw direction, cavity avoidance, overhand angles, and more.",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry‑proven structural solver for linear and nonlinear analysis under static and dynamic loads, leading the market in design and optimization",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligence Driven Design: Topology Optimization",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology optimization –for CFD: Creating designs like nature",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology optimization in NX",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Topology Optimization Software Solutions for 3D Printing - 3Dnatives",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "By topic",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "Software vendors",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "The Top Topology Optimization Software Solutions for 3D Printing",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "Ameba Topology Optimization Software From XIE Technologies",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "Altair Engineering and its Range of Software for Topology Optimization",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Software",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "TopOpt, Topology Optimization Software for Grasshopper",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "TopOpt is a tool integrated into",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "Photo Credits: TopOpt",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization Software in Z88",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "What do you think of our list of topology optimization software solutions? Did we miss any? Let us know in a comment below or on our",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "Protopasta: Making 3D Printing Filament In-House Since 2013",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "#Startup3D: Scrap Labs Shrinks Metal 3D Printing to Desktop Size",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "CATIA on 3DEXPERIENCE also has topology optimization and CAD reconstruction tools.",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Topology Optimization Software | 2026 Edition",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "All topics",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Topology Optimization Software of 2026",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Ranking of topology optimization software for engineers and design teams, covering modeFRONTIER, ParaView, and FreeCAD feature tradeoffs and workflows.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "ParaView Topology Optimization",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "At its foundation, topology optimization is about eliminating errors. By conducting stress testing, the process accounts for a wide range of variables and avoids risky assumptions that could lead to faulty products.",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "offers a “unique toolset of generative design and automation capabilities,” speeding the design process by combining advanced geometry, simulations, and experimental data. Its geometry engine applies across a variety of applications, from aerospace and automotive to the design of football helmets to patient-specific devices in the medical field.",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Reseller",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Formlabs Reseller",
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "pass": 3
+   },
+   {
+    "quote": "hundreds of design variables",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "many design variants, evaluates their performance, and converges toward optimal solutions using mathematical algorithms.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Engineers define design variables (geometry parameters, material properties), objectives (minimize drag, maximize stiffness), and constraints (stress limits, manufacturing tolerances). The software searches the design space intelligently using gradient-based methods, genetic algorithms,",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Modern aerospace systems involve hundreds of design variables and equally complex constraint sets. Classical gradient-based optimizers struggle with non-convex design spaces where local optima trap solvers far from global solutions.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Human judgment fails when balancing 50+ design parameters and 10+ competing objectives. Engineers fix most variables arbitrarily, exploring only narrow slices of the design space and missing breakthrough configurations outside conventional thinking.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Design-of-experiments and parametric sweeps scale exponentially with variables. A 10-variable problem with 5 levels per variable",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "These tools focus on robust design optimization and design-of-experiments, ensuring designs perform reliably despite manufacturing tolerances, material variability, and uncertain operating conditions.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Problems involving combinatorial choices, discrete variables, and system-of-systems design",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Combinatorial decisions, discrete variables, system-level trade-offs, bring your hardest optimization challenge.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "For programs involving combinatorial decisions, discrete variables, and system-level trade-offs at scale, classical methods consistently hit diminishing returns. BQPhy® finds near-optimal solutions 10 to 20 times faster than conventional heuristics, with 40 to 60% fewer high-fidelity simulation evaluations, on your existing HPC and GPU infrastructure.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation software answers \"how will this design perform?\", it analyzes a single configuration under defined conditions. Design optimization software answers \"what is the best design?\", it drives the simulation engine repeatedly across many variants, guided by algorithms that search for optimal solutions.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "BQPhy® uses these methods for engineering problems involving discrete decisions, mixed-integer variables, and system-level trade-offs, delivering 10 to 20× faster convergence on complex problems compared to conventional heuristics, with 40 to 60% fewer high-fidelity simulation evaluations required.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "No, and it shouldn't be expected to. Optimization software executes search strategies defined by engineers. The objectives, constraints, design variables, and trade-off priorities all require human judgment to set correctly. A poorly defined optimization problem produces mathematically optimal solutions to the wrong question.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Process-chain orchestration that manages variable mapping, constraint evaluation, and batch simulation across iterative optimization runs.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "modeFRONTIER supports the full optimization loop with configurable process chaining, including variable definitions, constraint handling, and stopping criteria linked to simulation outputs. The tool’s practical strength is orchestration, because it can manage parameter sweeps and optimization iterations while running FEA workflows through supported interfaces.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Couple topology variables to FEA runs",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Automates mapping from design variables to solver inputs and uses results for constrained optimization updates.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Strong coupling model for tying optimization variables to FEA workflows",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom optimization loops over FreeFEM weak forms, enabling tight coupling of topology variables to user-defined PDE solvers and sensitivities.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology optimization software automates density-based structural layout searches by updating design variables from objective and constraint evaluations, then rerunning analysis until a convergence criterion is met. modeFRONTIER supports process-chain orchestration that manages variable mapping, constraint evaluation, and batch simulation across iterative optimization runs.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "modeFRONTIER orchestrates variable mapping, constraint evaluation, and batch simulation across iterative optimization runs, which suits repeatable studies across multiple load cases. ParaView Topology Optimization also supports iterative study structure, but the physics quality depends more heavily on external solver coupling rather than built-in orchestration.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "modeFRONTIER fits because it automates optimization study setup and repeated simulation runs with strong coupling models for mapping optimization variables to FEA workflows.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization in Python (TopOpt) fits for transparent density update and sensitivity scripts, while FreeFEM fits when topology variables must couple directly to user-defined PDE weak forms.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   },
+   {
+    "quote": "While traditional methods focus on compliance, ColdStream optimizes various objectives such as temperature minimization and variance reduction, and handles constraints like pressure loss.",
+    "url": "https://www.diabatix.com/technology/topology-optimization",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens/Altair Channel Partner",
+    "url": "https://www.trueinsight.io/topology-optimization",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Altair Channel Partner",
+    "url": "https://www.trueinsight.io/topology-optimization",
+    "pass": 3
+   },
+   {
+    "quote": "TrueInsight is the premium channel partner for Altair Engineering, providing solutions and support for Altair’s cutting-edge design, simulation and data analytics solutions like HyperMesh, OptiStruct and Feko.",
+    "url": "https://www.trueinsight.io/topology-optimization",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Human judgment fails when balancing 50+ design parameters and 10+ competing objectives. Engineers fix most variables arbitrarily, exploring only narrow slices of the design space and missing breakthrough configurations outside conventional thinking.",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Services in generative design grow faster at 14.88% CAGR than software revenue because implementation and workflow integration are the hard parts. Cost reduction comes from",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   },
+   {
+    "quote": "Head Quarters : 235 Harrison St, Syracuse, NY 13202 USA",
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Topology optimization is a technology for developing optimized structures considering design parameters like expected loads, available design space, materials, and cost. Embedded early in the design process, it enables the creation of designs with minimal mass and maximal stiffness.",
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Top Topology Optimization Software Solutions for 3D Printing — Top Topology Optimization Software Solutions for 3D Printing 3Dnatives https://www.3dnatives.com > ... > News",
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://ansys.synopsys.com/applications/topology-optimization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/blog/topology-optimization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sites.google.com/ualberta.ca/mdam/software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/fea/comments/1ap41nz/are_there_any_fe_software_that_can_do_topology/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.ntop.com/topology-optimization-software/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://swanlab.github.io/Swan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/topology-optimization-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/engineering/comments/xz315s/best_software_for_generative_design_and_topology/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.autodesk.com/solutions/topology-optimization",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.diabatix.com/technology/topology-optimization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/post/Which-software-is-good-for-topology-optimization",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/white-label-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/re-introducing-ntop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/point-nine-news/branding-your-early-stage-software-company-8e6cb0c2fe9b",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.papirfly.com/solutions/rebranding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bofu.ca/en/blogs/the-top-of-the-funnel/image-de-marque-guide-ultime-pour-une-refonte-de-votre-marque?srsltid=AYCX9vI9H7Evn4_RLm_-X4llu75w18XSAbVXyjo5L5Ct5WPdHd6CxvM4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://phenomenonstudio.com/article/designing-brand-systems-that-scale-from-the-first-visuals-to-long-term-identity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.analysis-oem.com/custom-oem-private-label-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brekeke.com/partner/oem-partner.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thinkaes.com/private-label-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optimizedwebmedia.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/fea/comments/1vcg9bh/freesingle_buy_topology_optimization/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.trueinsight.io/topology-optimization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engineering.org.cn/engi/EN/10.1016/j.eng.2017.09.002",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caess.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/store/topology-optimization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plgengineering.com/topology-optimization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proto3000.com/service/3d-design-services-canada-and-united-states/topology-optimization-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bing.com/aclick?ld=e8BcjaP0Hwo9eQR6mk05BB9DVUCUyV0YmLan2pxppXDBq5gSpFAVyG4WTmRabUgAcTCCYbl1fKVZiGvpwB1w-im7yCL5azu0KXAynTLAv5n9626WjHEn2Sz5QH5gmaaSa5HLJUKFGwrCCuhoZHvY7y9TBJh0gV7Yf-OKDbhtvRVNc0mkshyMagKa6vaUG_iD96IaXUSg&u=aHR0cHMlM2ElMmYlMmZ3d3cuc2NhbGVwYWQuY29tJTJmc2Fhcy1tYW5hZ2VyJTJmdW51c2VkLWFwcHMlM2Z1dG1fY2FtcGFpZ24lM2RTTV8wNzBfQ1BHX0Fkc19CaW5nX0dTX05vbi1CcmFuZGVkJTI2dXRtX3Rlcm0lM2RzYWFzJTI1MjBjb3N0JTI1MjBvcHRpbWl6YXRpb24lMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1faWQlM2Q1MzM2OTI1NTMlMjZoc2FfYWNjJTNkMTgwNzIxNTc3JTI2aHNhX2NhbSUzZDUzMzY5MjU1MyUyNmhzYV9ncnAlM2QxMzU1NzAwNTc0OTIxMjA3JTI2aHNhX2FkJTNkODQ3MzE3MTM4NTM3OTclMjZoc2Ffa3clM2RzYWFzJTI1MjBjb3N0JTI1MjBvcHRpbWl6YXRpb24lMjZoc2FfbXQlM2RiJTI2aHNhX3NyYyUzZG8lMjZoc2FfdGd0JTNka3dkLTg0NzMyNTU4MzMxMjk2JTNhbG9jLTMyJTI2aHNhX25ldCUzZGJpbmclMjZoc2FfdmVyJTNkMyUyNmNhbXBhaWduaWQlM2Q1MzM2OTI1NTMlMjZhZGdyb3VwaWQlM2QxMzU1NzAwNTc0OTIxMjA3JTI2Y3JlYXRpdmUlM2QlMjZkZXZpY2UlM2RjJTI2bmV0d29yayUzZG8lMjZtYXRjaHR5cGUlM2RiJTI2cGxhY2VtZW50JTNkJTI2dGFyZ2V0aWQlM2Rrd2QtODQ3MzI1NTgzMzEyOTYlM2Fsb2MtMzIlMjZoc2FfY2FtbmFtZSUzZHNtXzA3MF9jcGdfYWRzX2dzX25vbl9icmFuZGVkJTI2bXNjbGtpZCUzZGM0NTkyNjcxOWI2MzFjNjM1OWEyNGM5ODI2OTk3MDVjJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkU01fMDcwX0NQR19BZHNfQmluZ19HU19Ob24tQnJhbmRlZCUyNnV0bV90ZXJtJTNkc2FhcyUyNTIwY29zdCUyNTIwb3B0aW1pemF0aW9uJTI2dXRtX2NvbnRlbnQlM2RTYWFTJTI1MjBDb3N0JTI1MjAlMjUyNiUyNTIwTGljZW5zZSUyNTIwT3B0aW1pemF0aW9uJTI1MjAtJTI1MjBCcm9hZA&rlid=c45926719b631c6359a24c982699705c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bing.com/aclick?ld=e8K4NRbcNSCTQJcRmaQ-LOejVUCUztEUsDpeLcmkNjB9yP6eDe-t-p3qtQRivk-JOiX3sFm4lLeQ02sGTVz8RbW1Z6WWf3L2K2NeJ3bJ9QlpH3B1vBwINnH_6WxmZgQn0b3K27ABwnBKi44Sj5CQJJqPmHjnApIp3-9G0O0kWIxSn-t7s0oNnaUyN__CEF14s7Xi6dMw&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2FwdGVycmEuY29tJTJmc2VtLWNvbXBhcmUtYiUyZm1hbnVmYWN0dXJpbmctc29mdHdhcmUlMmYlM2ZoZWFkbGluZSUzZE1hbnVmYWN0dXJpbmclMjUyMFNvZnR3YXJlJTI2YWNjb3VudF9jYW1wYWlnbl9pZCUzZDY5ODEzNTYzOSUyNmFjY291bnRfYWRncm91cF9pZCUzZDEyNDY4NDc0ODg3MjU4NjAlMjZ0YXJnZXQlM2Rzb2Z0d2FyZSUyNTIwdXNlZCUyNTIwaW4lMjUyMG1hbnVmYWN0dXJpbmclMjUyMGluZHVzdHJ5JTI2YWRfaWQlM2QlMjZtYXRjaHR5cGUlM2RwJTI2dXRtX3NvdXJjZSUzZHBzLWJpbmclMjZ1dG1fbWVkaXVtJTNkcHBjJTI2dXRtX2NhbXBhaWduJTNkJTNhMSUzYUNBUCUzYTIlM2FDT00lM2EzJTNhQWxsJTNhNCUzYUlOVEwlM2E1JTNhQkFVJTNhNiUzYVNPRiUzYTclM2FEZXNrdG9wJTNhOCUzYUJSJTNhOSUzYU1hbnVmYWN0dXJpbmclMjZuZXR3b3JrJTNkbyUyNm1zY2xraWQlM2RjZTM4NDY2YWYwYjgxZTNjNGQwYjJjODM0ZDQyOTQzZQ&rlid=ce38466af0b81e3c4d0b2c834d42943e",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label topology optimization software",
+   "results": [
+    "https://ansys.synopsys.com/applications/topology-optimization",
+    "https://formlabs.com/blog/topology-optimization/",
+    "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "https://www.facebook.com/groups/1910026672591728/posts/3387552704839110/",
+    "https://sites.google.com/ualberta.ca/mdam/software",
+    "https://www.reddit.com/r/fea/comments/1vcg9bh/freesingle_buy_topology_optimization/",
+    "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "https://www.dashclicks.com/",
+    "https://swanlab.github.io/Swan/"
+   ]
+  },
+  {
+   "query": "topology optimization software white-label",
+   "results": [
+    "https://ansys.synopsys.com/applications/topology-optimization",
+    "https://formlabs.com/blog/topology-optimization/",
+    "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "https://www.reddit.com/r/fea/comments/1ap41nz/are_there_any_fe_software_that_can_do_topology/",
+    "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "https://www.facebook.com/groups/1910026672591728/posts/3387552704839110/",
+    "https://resources.ntop.com/topology-optimization-software/",
+    "https://swanlab.github.io/Swan/",
+    "https://worldmetrics.org/best/topology-optimization-software/"
+   ]
+  },
+  {
+   "query": "best white label topology optimization software providers",
+   "results": [
+    "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "https://www.reddit.com/r/engineering/comments/xz315s/best_software_for_generative_design_and_topology/",
+    "https://ansys.synopsys.com/applications/topology-optimization",
+    "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "https://www.autodesk.com/solutions/topology-optimization",
+    "https://www.diabatix.com/technology/topology-optimization",
+    "https://formlabs.com/blog/topology-optimization/",
+    "https://www.researchgate.net/post/Which-software-is-good-for-topology-optimization",
+    "https://worldmetrics.org/best/white-label-software/"
+   ]
+  },
+  {
+   "query": "topology optimization software rebrand your logo own brand",
+   "results": [
+    "https://www.ntop.com/resources/blog/re-introducing-ntop/",
+    "https://formlabs.com/blog/topology-optimization/",
+    "https://medium.com/point-nine-news/branding-your-early-stage-software-company-8e6cb0c2fe9b",
+    "https://www.papirfly.com/solutions/rebranding/",
+    "https://bofu.ca/en/blogs/the-top-of-the-funnel/image-de-marque-guide-ultime-pour-une-refonte-de-votre-marque?srsltid=AYCX9vI9H7Evn4_RLm_-X4llu75w18XSAbVXyjo5L5Ct5WPdHd6CxvM4",
+    "https://phenomenonstudio.com/article/designing-brand-systems-that-scale-from-the-first-visuals-to-long-term-identity/",
+    "https://brandkity.com/blog/top-rebranding-tools",
+    "https://smartechor.com/what-we-build/branding",
+    "https://ansys.synopsys.com/applications/topology-optimization",
+    "https://swanlab.github.io/Swan/"
+   ]
+  },
+  {
+   "query": "topology optimization software private label OEM partner",
+   "results": [
+    "https://www.analysis-oem.com/custom-oem-private-label-products/",
+    "https://brekeke.com/partner/oem-partner.php",
+    "https://thinkaes.com/private-label-oem/",
+    "https://conversight.ai/oem-partners/",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.rockwellautomation.com/en-us/company/partnernetwork/oem-original-equipment-manufacturer-partners.html",
+    "https://intralearn.com/oem/",
+    "https://www.vectairsystems.com/blog/how-oem-customization-turns-your-vision-into-reality/",
+    "https://www.siemens.com/en-us/partners/software/find-a-partner/"
+   ]
+  },
+  {
+   "query": "topology optimization software reseller white label program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.optimizedwebmedia.com/white-label/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://customgpt.ai/white-label-saas-reseller/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/"
+   ]
+  },
+  {
+   "query": "topology optimization software embed SDK license OEM",
+   "results": [
+    "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "https://www.reddit.com/r/fea/comments/1vcg9bh/freesingle_buy_topology_optimization/",
+    "https://ansys.synopsys.com/applications/topology-optimization",
+    "https://resources.ntop.com/topology-optimization-software/",
+    "https://formlabs.com/blog/topology-optimization/",
+    "https://www.autodesk.com/solutions/topology-optimization",
+    "https://www.trueinsight.io/topology-optimization",
+    "https://www.engineering.org.cn/engi/EN/10.1016/j.eng.2017.09.002",
+    "https://www.caess.eu/"
+   ]
+  },
+  {
+   "query": "topology optimization software white label company profitable",
+   "results": [
+    "https://www.siemens.com/en-us/technology/topology-optimization/",
+    "https://www.bqpsim.com/quantum-optimization/design-optimization-software",
+    "https://formlabs.com/blog/topology-optimization/",
+    "https://www.reddit.com/r/fea/comments/1vcg9bh/freesingle_buy_topology_optimization/",
+    "https://resources.ntop.com/topology-optimization-software/",
+    "https://www.plgengineering.com/topology-optimization/",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://proto3000.com/service/3d-design-services-canada-and-united-states/topology-optimization-services/",
+    "https://www.3dnatives.com/en/topological-optimization-software-for-3d-printing-230920214/",
+    "https://www.bing.com/aclick?ld=e8BcjaP0Hwo9eQR6mk05BB9DVUCUyV0YmLan2pxppXDBq5gSpFAVyG4WTmRabUgAcTCCYbl1fKVZiGvpwB1w-im7yCL5azu0KXAynTLAv5n9626WjHEn2Sz5QH5gmaaSa5HLJUKFGwrCCuhoZHvY7y9TBJh0gV7Yf-OKDbhtvRVNc0mkshyMagKa6vaUG_iD96IaXUSg&u=aHR0cHMlM2ElMmYlMmZ3d3cuc2NhbGVwYWQuY29tJTJmc2Fhcy1tYW5hZ2VyJTJmdW51c2VkLWFwcHMlM2Z1dG1fY2FtcGFpZ24lM2RTTV8wNzBfQ1BHX0Fkc19CaW5nX0dTX05vbi1CcmFuZGVkJTI2dXRtX3Rlcm0lM2RzYWFzJTI1MjBjb3N0JTI1MjBvcHRpbWl6YXRpb24lMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1faWQlM2Q1MzM2OTI1NTMlMjZoc2FfYWNjJTNkMTgwNzIxNTc3JTI2aHNhX2NhbSUzZDUzMzY5MjU1MyUyNmhzYV9ncnAlM2QxMzU1NzAwNTc0OTIxMjA3JTI2aHNhX2FkJTNkODQ3MzE3MTM4NTM3OTclMjZoc2Ffa3clM2RzYWFzJTI1MjBjb3N0JTI1MjBvcHRpbWl6YXRpb24lMjZoc2FfbXQlM2RiJTI2aHNhX3NyYyUzZG8lMjZoc2FfdGd0JTNka3dkLTg0NzMyNTU4MzMxMjk2JTNhbG9jLTMyJTI2aHNhX25ldCUzZGJpbmclMjZoc2FfdmVyJTNkMyUyNmNhbXBhaWduaWQlM2Q1MzM2OTI1NTMlMjZhZGdyb3VwaWQlM2QxMzU1NzAwNTc0OTIxMjA3JTI2Y3JlYXRpdmUlM2QlMjZkZXZpY2UlM2RjJTI2bmV0d29yayUzZG8lMjZtYXRjaHR5cGUlM2RiJTI2cGxhY2VtZW50JTNkJTI2dGFyZ2V0aWQlM2Rrd2QtODQ3MzI1NTgzMzEyOTYlM2Fsb2MtMzIlMjZoc2FfY2FtbmFtZSUzZHNtXzA3MF9jcGdfYWRzX2dzX25vbl9icmFuZGVkJTI2bXNjbGtpZCUzZGM0NTkyNjcxOWI2MzFjNjM1OWEyNGM5ODI2OTk3MDVjJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkU01fMDcwX0NQR19BZHNfQmluZ19HU19Ob24tQnJhbmRlZCUyNnV0bV90ZXJtJTNkc2FhcyUyNTIwY29zdCUyNTIwb3B0aW1pemF0aW9uJTI2dXRtX2NvbnRlbnQlM2RTYWFTJTI1MjBDb3N0JTI1MjAlMjUyNiUyNTIwTGljZW5zZSUyNTIwT3B0aW1pemF0aW9uJTI1MjAtJTI1MjBCcm9hZA&rlid=c45926719b631c6359a24c982699705c"
+   ]
+  }
+ ],
+ "missing": {
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}

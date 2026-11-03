@@ -1,0 +1,651 @@
+{
+ "name": "AM造形シミュレーション",
+ "en": "additive manufacturing simulation software",
+ "aliases": [
+  "metal AM distortion simulation",
+  "AM process simulation"
+ ],
+ "context": "wl-A AM",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:54:53.865990+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Topology optimization course",
+    "url": "https://caeassistant.com/blog/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization Courses",
+    "url": "https://caeassistant.com/blog/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Simulate from top to bottom",
+    "url": "https://vericut.com/en-gb/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your top Additive Manufacturing Simulation applications.",
+    "url": "https://vericut.com/en-gb/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "We looked at all of the major manufacturing software providers for their additive manufacturing simulation capabilities, and Vericut was the only one that met our needs out of the box.",
+    "url": "https://vericut.com/en-gb/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "Predict in-situ material behavior that causes keyhole instabilities leading to defects.",
+    "url": "https://www.flow3d.com/products/flow3d-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage {vendor_count} vendors",
+    "url": "https://www.flow3d.com/products/flow3d-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how leading companies solve complex challenges with Ansys simulation—unlocking innovation across automotive, aerospace, energy, healthcare, and more.",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation Topics",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Materials Data Management.",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Topology optimization speeds workflow",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "ANSYS Topology Optimization Upgrades Designs to Take Full Advantage of 3-D Printing",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "SIMULATION TOPICS",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "All topics",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Additive Manufacturing Simulation Software of 2026",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology (simulation-enabled lattice and additive workflows)",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Editor’s top 3 picks",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors set the topic, but our editors set the inclusion criteria and the evaluation framework before research starts.",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "ntop.com",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Teams running iterative lattice and topology optimization with simulation-informed additive parts",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology ties simulation to additive manufacturing workflows through lattice-enabled design and manufacturing-ready analysis. The tool supports simulation-enabled topology optimization and can generate build-supporting structures such as lattices for performance-driven parts.",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation-enabled topology optimization generating lattice geometries directly tied to performance objectives",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation-driven lattice and topology optimization for performance-focused additive design",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Visit nTopology (simulation-enabled lattice and additive workflows)",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "This guide helps choose additive manufacturing simulation software for measurable outcomes like thermal histories, residual stress, and distortion. It compares Simufact Additive, Abaqus Additive Manufacturing, and ANSYS Additive alongside COMSOL Multiphysics Additive Manufacturing Modules, MAGMASOFT, Altair HyperWorks Additive Manufacturing, forge3d, Materialise Magics, nTopology, and Siemens NX.",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive design teams generating performance-driven lattices and topology-informed structures",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology supports simulation-enabled topology optimization and generates lattice geometries directly tied to performance objectives for iterative refinement and build validation. This segment is best when simulation-in-the-loop design output must translate into manufacturable additive structures.",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Your top Additive Manufacturing Simulation benefits.",
+    "url": "https://vericut.com/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "Simulate from top to bottom",
+    "url": "https://vericut.com/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your top Additive Manufacturing Simulation applications.",
+    "url": "https://vericut.com/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "We looked at all of the major manufacturing software providers for their additive manufacturing simulation capabilities, and Vericut was the only one that met our needs out of the box.",
+    "url": "https://vericut.com/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace, automotive, and medical industries are leading adopters of Additive Manufacturing and, therefore, simulation. That’s because these sectors demand precision, safety, and customization.",
+    "url": "https://vericut.com/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "This search text may be transcribed, used, stored, or accessed by our third-party service providers per our",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Topology Optimization and Design Generation within MSC Apex",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "MSC Apex Generative Design bridges the gap between CAD and CAE with automatic, high-resolution topology optimization. It creates lightweight, manufacturable parts directly within the MSC Apex platform—reducing design time by up to 80% and delivering stress-optimized, printable results ready for production.",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "We also share your personal data with our trusted third-party providers to achieve the purposes described above. For a list of our third-party providers and for more information about our cookies and how we use them, please see our",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors List",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Confirm that the tool supports your process explicitly, not just “metal AM”. Powder bed fusion, directed energy deposition, and material extrusion involve different process physics and modeling approaches, and coverage varies between software tools.",
+    "url": "https://caeassistant.com/blog/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Distributor",
+    "url": "https://www.flow3d.com/products/flow3d-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Vary process parameters such as laser power, speed, hatch spacing, energy distribution, and PSD to identify process instabilities.",
+    "url": "https://www.flow3d.com/products/flow3d-am/",
+    "pass": 3
+   },
+   {
+    "quote": "AM offers solutions for a variety of additive manufacturing applications.",
+    "url": "https://www.flow3d.com/products/flow3d-am/",
+    "pass": 3
+   },
+   {
+    "quote": ". Additionally, capture heat transfer effects from melting in a vacuum with variable boundary conditions and phase change",
+    "url": "https://www.flow3d.com/products/flow3d-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partners",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Compare scan strategy variants for a thin-wall Ti alloy part to reduce distortion while controlling overheating zones",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Reporting depth matters because defect and qualification decisions depend on traceable records. Evidence quality depends on whether the tool’s physics coverage matches the process type and whether it clearly exposes which process inputs drive accuracy and variance.",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "MAGMASOFT focuses on additive-oriented process physics for heat transfer, solidification, and microstructure trends that support defect and property trend evaluation. COMSOL Multiphysics Additive Manufacturing Modules adds thermo-fluid modeling for melt pools alongside structural response, which improves coverage when flow and melting behavior drive variability.",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Plan for input calibration requirements and evidence quality variance",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Simufact Additive and ANSYS Additive explicitly tie prediction credibility to process calibration quality, which depends on inputs like laser or beam power, spot size, absorptivity, and powder or material properties. If those inputs are uncertain, reporting should reflect variance by running calibrated parameter sets instead of treating one run as definitive.",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, Vericut supports a variety of additive technologies and processes, including:",
+    "url": "https://vericut.com/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partners",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "日本語 - 日本",
+    "url": "https://vericut.com/en-gb/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 - 日本",
+    "url": "https://vericut.com/products/additive-manufacturing-simulation-software",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Additive Manufacturing Simulation Software - FLOW-3D AM — Additive Manufacturing Simulation Software - FLOW-3D AM FLOW-3D https://www.flow3d.com > products",
+    "url": "https://www.flow3d.com/products/flow3d-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing Simulation Software | FLOW-3D AM — Additive Manufacturing Simulation Software | FLOW-3D AM YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Ikfkd1OP9gc",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Embedded Software",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded additive process simulation workflows that connect build parameters to thermal and distortion outcomes",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.3ds.com/products/simulia/additive-manufacturing-simulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caeassistant.com/blog/additive-manufacturing-simulation-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vericut.com/en-gb/products/additive-manufacturing-simulation-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flow3d.com/products/flow3d-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/post/10-companies-offering-cutting-edge-simulation-3d-printing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ansys.synopsys.com/products/additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/solutions/simulation/metal-additive-manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://simulatemore.mscsoftware.com/computational-methods-in-additive-manufacturing-engineering-for-improving-and-ensuring-consistent-microstructure-and-mechanical-properties/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://oqton.com/additive-manufacturing-bottlenecks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/additive-manufacturing-simulation-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/post/What_are_the_simulation_softwares_for_additive_manufacturing2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/1fshrnm/opensource_tool_for_additive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.featuredcustomers.com/software/additive-manufacturing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/additive-manufacturing-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f6s.com/software/category/additive-manufacturing-simulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://addinor.eu/articles/markforged-simulation-software-takes-the-guesswork-out-of-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/products/markforged-adds-simulation-feature-to-additive-manufacturing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/technologies/cad/additive-manufacturing?srsltid=AYCX9vLG8KKlDjTOaNf2M_cuILbaeUBlWwwNTleVO2nXA02k6IoVJ1YI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/solutions/additive-manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefabricator.com/additivereport/article/additive/additive-manufacturing-software-and-hardware-suppliers-collaborate-to-speed-industrys-growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vericut.com/products/additive-manufacturing-simulation-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elioplus.com/white-label/vendors/simulation_software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evotechcae.com/virtual-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/industrialengineering/comments/jc30v5/manufacturing_simulation_software_packages/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additivemanufacturingresearch.com/news/additive-manufacturing-software-market-to-reach-6-2-billion-opportunity-in-2031-according-to-new-report-by-smartech-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growabledigital.com/whitelabel-software-to-resell-2026/",
+    "status": "http_404",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label additive manufacturing simulation software",
+   "results": [
+    "https://www.3ds.com/products/simulia/additive-manufacturing-simulation",
+    "https://caeassistant.com/blog/additive-manufacturing-simulation-software/",
+    "https://vericut.com/en-gb/products/additive-manufacturing-simulation-software",
+    "https://www.flow3d.com/products/flow3d-am/",
+    "https://www.amfg.ai/post/10-companies-offering-cutting-edge-simulation-3d-printing-software",
+    "https://www.anylogic.com/manufacturing/",
+    "https://oqton.com/build-preparation/",
+    "https://www.youtube.com/watch?v=Ikfkd1OP9gc",
+    "https://simulatemore.mscsoftware.com/computational-methods-in-additive-manufacturing-engineering-for-improving-and-ensuring-consistent-microstructure-and-mechanical-properties/",
+    "https://www.df3d.com/"
+   ]
+  },
+  {
+   "query": "additive manufacturing simulation software white-label",
+   "results": [
+    "https://ansys.synopsys.com/products/additive",
+    "https://www.flow3d.com/products/flow3d-am/",
+    "https://caeassistant.com/blog/additive-manufacturing-simulation-software/",
+    "https://www.amfg.ai/post/10-companies-offering-cutting-edge-simulation-3d-printing-software",
+    "https://www.3ds.com/products/simulia/additive-manufacturing-simulation",
+    "https://www.autodesk.com/solutions/simulation/metal-additive-manufacturing",
+    "https://simulatemore.mscsoftware.com/computational-methods-in-additive-manufacturing-engineering-for-improving-and-ensuring-consistent-microstructure-and-mechanical-properties/",
+    "https://oqton.com/additive-manufacturing-bottlenecks/",
+    "https://www.youtube.com/watch?v=XgtWsAiLs3Q",
+    "https://worldmetrics.org/best/additive-manufacturing-simulation-software/"
+   ]
+  },
+  {
+   "query": "best white label additive manufacturing simulation software providers",
+   "results": [
+    "https://www.3ds.com/products/simulia/additive-manufacturing-simulation",
+    "https://www.amfg.ai/post/10-companies-offering-cutting-edge-simulation-3d-printing-software",
+    "https://caeassistant.com/blog/additive-manufacturing-simulation-software/",
+    "https://www.researchgate.net/post/What_are_the_simulation_softwares_for_additive_manufacturing2",
+    "https://vericut.com/en-gb/products/additive-manufacturing-simulation-software",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1fshrnm/opensource_tool_for_additive/",
+    "https://www.autodesk.com/solutions/simulation/metal-additive-manufacturing",
+    "https://oqton.com/additive-manufacturing-bottlenecks/",
+    "https://www.featuredcustomers.com/software/additive-manufacturing-software",
+    "https://worldmetrics.org/best/additive-manufacturing-simulation-software/"
+   ]
+  },
+  {
+   "query": "additive manufacturing simulation software rebrand your logo own brand",
+   "results": [
+    "https://addinor.eu/articles/markforged-simulation-software-takes-the-guesswork-out-of-3d-printing/",
+    "https://www.additivemanufacturing.media/products/markforged-adds-simulation-feature-to-additive-manufacturing-software",
+    "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "https://www.ptc.com/en/technologies/cad/additive-manufacturing?srsltid=AYCX9vLG8KKlDjTOaNf2M_cuILbaeUBlWwwNTleVO2nXA02k6IoVJ1YI",
+    "https://oqton.com/additive-manufacturing-bottlenecks/",
+    "https://www.youtube.com/watch?v=OTjo_jd4nrA",
+    "https://ansys.synopsys.com/products/additive",
+    "https://www.autodesk.com/solutions/additive-manufacturing",
+    "https://www.amfg.ai/post/10-companies-offering-cutting-edge-simulation-3d-printing-software",
+    "https://worldmetrics.org/best/additive-manufacturing-simulation-software/"
+   ]
+  },
+  {
+   "query": "additive manufacturing simulation software private label OEM partner",
+   "results": [
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "https://oqton.com/additive-manufacturing-bottlenecks/",
+    "https://ansys.synopsys.com/products/additive",
+    "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "https://www.thefabricator.com/additivereport/article/additive/additive-manufacturing-software-and-hardware-suppliers-collaborate-to-speed-industrys-growth",
+    "https://www.youtube.com/watch?v=OTjo_jd4nrA",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://enterprise.trimech.com/category/topic/manufacturing/additive-manufacturing/",
+    "https://www.panoptimization.com/"
+   ]
+  },
+  {
+   "query": "additive manufacturing simulation software reseller white label program",
+   "results": [
+    "https://ansys.synopsys.com/products/additive",
+    "https://caeassistant.com/blog/additive-manufacturing-simulation-software/",
+    "https://www.3ds.com/products/simulia/additive-manufacturing-simulation",
+    "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "https://www.flow3d.com/products/flow3d-am/",
+    "https://simulatemore.mscsoftware.com/computational-methods-in-additive-manufacturing-engineering-for-improving-and-ensuring-consistent-microstructure-and-mechanical-properties/",
+    "https://www.amfg.ai/post/10-companies-offering-cutting-edge-simulation-3d-printing-software",
+    "https://www.youtube.com/watch?v=dewyyxqVLho",
+    "https://vericut.com/products/additive-manufacturing-simulation-software",
+    "https://worldmetrics.org/best/additive-manufacturing-simulation-software/"
+   ]
+  },
+  {
+   "query": "additive manufacturing simulation software embed SDK license OEM",
+   "results": [
+    "https://www.3ds.com/products/simulia/additive-manufacturing-simulation",
+    "https://caeassistant.com/blog/additive-manufacturing-simulation-software/",
+    "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "https://www.amfg.ai/post/10-companies-offering-cutting-edge-simulation-3d-printing-software",
+    "https://www.youtube.com/watch?v=Ikfkd1OP9gc",
+    "https://vericut.com/products/additive-manufacturing-simulation-software",
+    "https://simulatemore.mscsoftware.com/computational-methods-in-additive-manufacturing-engineering-for-improving-and-ensuring-consistent-microstructure-and-mechanical-properties/",
+    "https://evotechcae.com/virtual-manufacturing/",
+    "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html"
+   ]
+  },
+  {
+   "query": "additive manufacturing simulation software white label company profitable",
+   "results": [
+    "https://www.amfg.ai/post/10-companies-offering-cutting-edge-simulation-3d-printing-software",
+    "https://www.3ds.com/products/simulia/additive-manufacturing-simulation",
+    "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "https://www.autodesk.com/solutions/simulation/metal-additive-manufacturing",
+    "https://www.reddit.com/r/industrialengineering/comments/jc30v5/manufacturing_simulation_software_packages/",
+    "https://www.featuredcustomers.com/software/additive-manufacturing-software",
+    "https://www.visualcomponents.com/blog/manufacturing-simulation-software-what-to-look-for-in-2026/",
+    "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "https://additivemanufacturingresearch.com/news/additive-manufacturing-software-market-to-reach-6-2-billion-opportunity-in-2031-according-to-new-report-by-smartech-analysis/",
+    "https://worldmetrics.org/best/additive-manufacturing-simulation-software/"
+   ]
+  }
+ ],
+ "missing": {
+  "黒字・収益性": "記載なし（読んだ38頁・検索8回）",
+  "売上": "記載なし（読んだ38頁・検索8回）"
+ }
+}

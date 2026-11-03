@@ -1,0 +1,382 @@
+{
+ "name": "AM造形準備ソフト",
+ "en": "additive manufacturing build preparation software",
+ "aliases": [
+  "build prep software",
+  "3D print preparation",
+  "slicer for metal AM"
+ ],
+ "context": "wl-A AM",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:55:22.973201+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "top of page",
+    "url": "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "pass": 3
+   },
+   {
+    "quote": "In this guide, we break down what AM workflow software actually is, why it matters now more than ever, which features to look for, and how the top solutions compare in 2026. Whether you're managing a single printer or scaling across multiple facilities, this guide will help you make the right choice.",
+    "url": "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing the Top AM Workflow Software Tools (2026 Edition)",
+    "url": "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Key questions to ask vendors:",
+    "url": "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Questions to ask vendors:",
+    "url": "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Additive manufacturing workflow software is a digital backbone that connects and automates the various steps involved in producing 3D printed parts - spanning from design intake and job routing, through to post-processing and quality tracking.",
+    "url": "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formware.co/slicer/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/additive-manufacturing-bottlenecks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-software--15255?srsltid=AYCX9vJrj-xNwxhvLdD1xayRveV4kV1zOVlNKTMLcsqvehZwdSpb4sGm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-unveils-new-gpu-powered-python-scriptable-additive-manufacturing-build-processor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/build-preparation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-software--15255?srsltid=AYCX9vKtsx1FrYVQfjANwopDqOCykqMkQ2LHl4PVmIw8OxAADXdUw4y-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabrico.io/blog/best-cmms-additive-manufacturing-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-accelerates-production-scale-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-software--15255?srsltid=AYCX9vL4IIIaVPQVK5aMxVU9Ti5OpCxsSyXP-0VsxISNbOMLoPUHxcnT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/software/additive-manufacturing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/solutions/additive-manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/additive-manufacturing-workflow-software-solutions-300620204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturo.com/industries/additive-industry-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/technologies/cad/additive-manufacturing?srsltid=AYCX9vLkZ_eWSejkrLg-aE-34TiEp03OabS6q7ro8nvdE4Ox53EWf1Yv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3dnatives-rebrand-24062026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b9c.com/custom-high-resolution-additive-manufacturing-solutions?srsltid=AYCX9vIPEp0GQcD6uX66X-IQXGGMlG1FOGiYkwNoKcFOShOMrQhm7DKg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-software--15255?srsltid=AYCX9vLKYAc-x_c-YqvphuBqBUUjzzXm9wwVymMNOBlE0TBJL-2i3qy4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/oqton-announces-strategic-partnership-with-castor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.structo3d.net/custom-and-oem-builds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b9c.com/custom-high-resolution-additive-manufacturing-solutions?srsltid=AYCX9vIqR39slzlYR5h23g8RtaoJKKS7amRtx67wuiZOUSfrSY_skbL3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/distributed-manufacturing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/news/press-releases/control-3d-printing-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/3d-printing/materialises-open-software-strategy-adds-new-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/blog/additive-manufacturing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/amis-launches-runtime-software-for-industrial-additive-manufacturing-automation-249064/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-build-preparation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.stratasys.com/news-events/press-releases/detail/817/stratasys-helps-boost-additive-manufacturing-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/post/the-complete-guide-to-additive-manufacturing-workflow-software-strategies-roi-compliance-real-w",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/blog/scaling-up-additive-manufacturing-in-4-steps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wintrust.com/articles/2023/05/how-additive-manufacturing-is-evolving-and-increasing-production-workflow-for-manufacturers.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label additive manufacturing build preparation software",
+   "results": [
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://www.formware.co/slicer/whitelabel",
+    "https://oqton.com/additive-manufacturing-bottlenecks/",
+    "https://www.renishaw.com/en/additive-manufacturing-software--15255?srsltid=AYCX9vJrj-xNwxhvLdD1xayRveV4kV1zOVlNKTMLcsqvehZwdSpb4sGm",
+    "https://www.dyndrite.com/press-releases/dyndrite-unveils-new-gpu-powered-python-scriptable-additive-manufacturing-build-processor",
+    "https://www.youtube.com/watch?v=Ium0WcaZty8",
+    "https://simplyprint.io/oem",
+    "https://www.fabrico.io/blog/best-cmms-additive-manufacturing-3d-printing/",
+    "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-build-preparation/"
+   ]
+  },
+  {
+   "query": "additive manufacturing build preparation software white-label",
+   "results": [
+    "https://oqton.com/build-preparation/",
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "https://www.renishaw.com/en/additive-manufacturing-software--15255?srsltid=AYCX9vKtsx1FrYVQfjANwopDqOCykqMkQ2LHl4PVmIw8OxAADXdUw4y-",
+    "https://www.youtube.com/watch?v=Ium0WcaZty8",
+    "https://www.fabrico.io/blog/best-cmms-additive-manufacturing-3d-printing/",
+    "https://www.3dsystems.com/press-releases/3d-systems-accelerates-production-scale-additive-manufacturing",
+    "https://mosaicmfg.com/supply-chain-white-paper/",
+    "https://www.dyndrite.com/press-releases/dyndrite-unveils-new-gpu-powered-python-scriptable-additive-manufacturing-build-processor",
+    "https://worldmetrics.org/best/additive-manufacturing-software/"
+   ]
+  },
+  {
+   "query": "best white label additive manufacturing build preparation software providers",
+   "results": [
+    "https://oqton.com/build-preparation/",
+    "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "https://www.renishaw.com/en/additive-manufacturing-software--15255?srsltid=AYCX9vL4IIIaVPQVK5aMxVU9Ti5OpCxsSyXP-0VsxISNbOMLoPUHxcnT",
+    "https://www.featuredcustomers.com/software/additive-manufacturing-software",
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://www.autodesk.com/solutions/additive-manufacturing",
+    "https://www.fabrico.io/blog/best-cmms-additive-manufacturing-3d-printing/",
+    "https://www.3dnatives.com/en/additive-manufacturing-workflow-software-solutions-300620204/",
+    "https://manufacturo.com/industries/additive-industry-software/",
+    "https://worldmetrics.org/best/additive-manufacturing-software/"
+   ]
+  },
+  {
+   "query": "additive manufacturing build preparation software rebrand your logo own brand",
+   "results": [
+    "https://oqton.com/build-preparation/",
+    "https://www.ptc.com/en/technologies/cad/additive-manufacturing?srsltid=AYCX9vLkZ_eWSejkrLg-aE-34TiEp03OabS6q7ro8nvdE4Ox53EWf1Yv",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "https://www.youtube.com/watch?v=On5ZyyyOElY",
+    "https://www.3dnatives.com/en/3dnatives-rebrand-24062026/",
+    "https://www.b9c.com/custom-high-resolution-additive-manufacturing-solutions?srsltid=AYCX9vIPEp0GQcD6uX66X-IQXGGMlG1FOGiYkwNoKcFOShOMrQhm7DKg",
+    "https://www.renishaw.com/en/additive-manufacturing-software--15255?srsltid=AYCX9vLKYAc-x_c-YqvphuBqBUUjzzXm9wwVymMNOBlE0TBJL-2i3qy4",
+    "https://globalluxsoft.com/how-to-scale-additive-manufacturing-from-concept-to-mass-production",
+    "https://worldmetrics.org/best/additive-manufacturing-software/",
+    "https://www.guideflow.com/blog/additive-manufacturing-software"
+   ]
+  },
+  {
+   "query": "additive manufacturing build preparation software private label OEM partner",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/partnerships/oem",
+    "https://oqton.com/oqton-announces-strategic-partnership-with-castor/",
+    "https://simplyprint.io/oem",
+    "https://www.structo3d.net/custom-and-oem-builds/",
+    "https://www.youtube.com/watch?v=OTjo_jd4nrA",
+    "https://www.b9c.com/custom-high-resolution-additive-manufacturing-solutions?srsltid=AYCX9vIqR39slzlYR5h23g8RtaoJKKS7amRtx67wuiZOUSfrSY_skbL3",
+    "https://uptivemfg.com/solutions/additive-manufacturing-services/",
+    "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "https://www.3yourmind.com/distributed-manufacturing-software",
+    "https://oqton.com/build-preparation/"
+   ]
+  },
+  {
+   "query": "additive manufacturing build preparation software reseller white label program",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.3yourmind.com/distributed-manufacturing-software",
+    "https://www.youtube.com/watch?v=zCcvnG5bDys",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://worldmetrics.org/best/additive-manufacturing-software/"
+   ]
+  },
+  {
+   "query": "additive manufacturing build preparation software embed SDK license OEM",
+   "results": [
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "https://oqton.com/build-preparation/",
+    "https://www.materialise.com/en/news/press-releases/control-3d-printing-process",
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://www.youtube.com/watch?v=OTjo_jd4nrA",
+    "https://develop3d.com/3d-printing/materialises-open-software-strategy-adds-new-solutions/",
+    "https://markforged.com/resources/blog/additive-manufacturing-software",
+    "https://3dprintingindustry.com/news/amis-launches-runtime-software-for-industrial-additive-manufacturing-automation-249064/",
+    "https://www.3yourmind.com/distributed-manufacturing-software",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-build-preparation/"
+   ]
+  },
+  {
+   "query": "additive manufacturing build preparation software white label company profitable",
+   "results": [
+    "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "https://investors.stratasys.com/news-events/press-releases/detail/817/stratasys-helps-boost-additive-manufacturing-production",
+    "https://www.3ds.com/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://www.authentise.com/post/the-complete-guide-to-additive-manufacturing-workflow-software-strategies-roi-compliance-real-w",
+    "https://markforged.com/resources/blog/scaling-up-additive-manufacturing-in-4-steps",
+    "https://www.youtube.com/watch?v=zCcvnG5bDys",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "https://www.fabrico.io/blog/best-cmms-additive-manufacturing-3d-printing/",
+    "https://www.wintrust.com/articles/2023/05/how-additive-manufacturing-is-evolving-and-increasing-production-workflow-for-manufacturers.html",
+    "https://worldmetrics.org/best/additive-manufacturing-software/"
+   ]
+  }
+ ],
+ "missing": {
+  "自社名で出せる条件": "記載なし（読んだ40頁・検索8回）",
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "売上": "記載なし（読んだ40頁・検索8回）",
+  "価格": "記載なし（読んだ40頁・検索8回）",
+  "日本対応": "記載なし（読んだ40頁・検索8回）"
+ }
+}
