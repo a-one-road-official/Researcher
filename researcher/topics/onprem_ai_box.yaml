@@ -14,6 +14,7 @@ evidence:
   オフライン・エアギャップ: [air-gapped, air gapped, offline, no internet, no cloud, on-premise, on-prem, local network, data never leaves, エアギャップ, オフライン, 閉域]
   更新方法: [USB, update, firmware, quarterly, offline update, model updates, 更新, アップデート]
   ホワイトラベル・再販: [white label, white-label, OEM, rebrand, reseller, distributor, channel partner, partner program, VAR, system integrator, 代理店, 再販, OEM提供]
+  認証（ISO等）: [ISO 27001, ISO/IEC 27001, ISO 9001, ISO 14001, SOC 2, SOC2, ISMS, certified, certification, FedRAMP, IEC 62443, 認証取得, ISO認証]
   日本・保守: [Japan, Japanese, 日本, support, warranty, maintenance, 保守, サポート]
 
 numeric: [価格]
@@ -27,5 +28,6 @@ external_queries:
   - "{en} Israel"
   - "{en} Japan distributor"
   - "{name}"
+  - "{en} ISO 27001 certified"
 
 limits: {pages: 60, external_per_query: 6, per_cat: 15}
