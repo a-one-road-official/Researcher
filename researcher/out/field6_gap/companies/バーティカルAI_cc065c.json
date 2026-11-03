@@ -1,0 +1,1383 @@
+{
+ "name": "バーティカルAI",
+ "en": "vertical AI",
+ "aliases": [
+  "業界特化AI",
+  "特化型AI"
+ ],
+ "context": "1 AI・半導体 ③バーティカルAI",
+ "kind": "market",
+ "researched_at": "2026-11-03T10:38:51.646174+00:00",
+ "evidence": {
+  "国内市場規模": [
+   {
+    "quote": "国内市場は2030年に約3兆円の見通しなので、5兆円の目標は",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内で半導体を生産する企業の合計売上高（半導体関連）は、2020年時点で5兆円規模でした",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "pass": 3
+   },
+   {
+    "quote": "「クラウド・DCの国内市場規模30兆円（2035",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "までに30兆円の国内市場規模を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業は、高市AI基本計画でバーティカルAI19分野の1つに指定されており、日本国内での市場拡大が期待される領域です",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   }
+  ],
+  "需給の差": [
+   {
+    "quote": "課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "データ・モデル・アプリを垂直統合した「現場で使えるAI」であるバーティカルAIを、重点領域ごとの戦略で産業や行政に広げ、AIの導入で人手不足を解消し日本社会全体のAXを実現する計画です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "主な課題（ボトルネック）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・AI研究開発人材、現場とAIの双方を理解して、AXを推進できる実装人材や中小企業伴走支援の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・現場固有データの活用や計算資源の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・AXへの理解不足、AIリスクへの懸念",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・研究開発の担い手の育成・確保、世界から優秀な「知」が集まる機能の創設",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・AIの導入で人手不足を解消",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・人手不足に直面する我が国の供給力を維持し、力強い成長につなげるために、中小企業を含めて、あらゆる産業や行政の現場でのバーティカルAIの導入を促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・先端研究開発の担い手となる多様な開発人材の育成・確保",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "リソース制約として、先端研究を担う人材や現場とAIの双方を理解してAXを推進できる実装人材、中小企業への伴走支援の不足、現場固有データの活用や暗黙知の形式知化の不足、国内での計算資源供給の不足があります",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "不確実性としては、AIによる業務効率化や新事業創出の効果と手法への認識不足、AIの技術的リスクや個人情報・機微データの扱い、エージェント型AI活用による責任の所在への懸念が挙げられています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・人材：先端研究を担う人材や産業や行政の現場とAIの双方を理解してAXを推進できる実装人材、中小企業への伴走支援の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・データ：現場固有データの活用、暗黙知の形式知化の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・計算資源：国内での計算資源供給の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・人手不足に直面する我が国の供給力を維持し、力強い成長",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・先端研究開発の担い手となる多様な開発人材の育成・確保",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・先端研究開発の担い手の育成・確保、世界から優秀な「知」が集まる機能（重点領域を中心としたデータ収集、研",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の伴走支援の不足",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "源供給の不足",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・AI導入やAXへの理解不足：",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に対する認識不足",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計算資源の不足",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・AXへの理解不足、AIリ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（ボトルネック）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・AIの導入で人手不足を解消",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・研究開発の担い手の育成・確保、世界から優秀な「知」が集まる機能",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "バー人材が不足している",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "タ収集力・分析力が不足",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "課題（ボトルネック）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは人手不足対策や業務効率化の目的で利用されることが多かった生成AIをめぐって、今後は新たなサービス創出を目指した活用も進むとみられています",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、ホリゾンタルAIは多種多様な作業をこなせる反面、医療や金融のように高い専門性や正確性が求められる領域や、業界固有の慣習・文脈などを前提とする状況では使いづらく、判断の精度が不足する場合があります",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "結論：汎用AIを先に整え、足りない業務だけ業界特化AIを足す",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "社員10〜200名の会社がバーティカルAIを検討するときは、汎用AIで足りる業務と足りない業務を先に分けることが出発点になります",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "まず3つ目で足りるかを試し、足りない部分を1つ目と2つ目で埋めるのが無理のない順番になります",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "汎用AIで事務を回し、足りない所だけを特化させるという順番は、中間とりまとめの警察領域の戦略にも書かれています",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "この4つの手順を2〜3か月回すと、汎用AIで足りる業務と足りない業務の境目が、自社の言葉ではっきりしてきます",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "公共性領域における人手不足とAI活用を阻む制度的摩擦",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化に伴う深刻な人手不足や、海外プラットフォームへの過度な依存によるデジタル赤字の拡大が懸念される中、各現場の暗黙知をデータ化して再現する「",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "医療、介護、農林水産、建設といった公共性の高い領域では、急速に進む人手不足と従事者の高齢化への対応が急務です",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、現場では機微情報の取り扱いに対するルールや、多種多様な非構造化データを有機的に連携させるための技術成熟度が未だ不足しているのが実情です",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化に伴う深刻な人手不足や、海外プラットフォームへの過度な依存によるデジタル赤字の拡大が懸念される中、各現場の暗黙知をデータ化して再現する「バーティカルAI」の重要性が増しています",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIデータセンターの電力消費と水不足問題：7兆ドル巨額投資の成敗を握る環境規制と立地戦略",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "その背景には、人材不足や業務の複雑化、法規制対応の高度化など、企業が「専門作業を安定して任せられる仕組み」を求めるという環境の変化があります",
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "自動化が機能すれば、人手不足の緩和だけでなく、担当者が創造性の高い業務に時間を割けるようになります",
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、情報整理には時間とスキルが必要で、準備不足のまま導入すると、後の修正コストが増加します",
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "専門業務の自動化精度が高いため、人手不足の対策や判断の標準化に直結する点が強みです",
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業にも導入が広がり、コストやノウハウ不足で難しかった高度業務の効率化が一気に進む可能性があります",
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "があり、汎用AIでは精度や信頼性が足りない領域だという点です",
+    "url": "https://www.waltsu.co.jp/blog/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "専門業務が多い、独自データがある、業務ルールが複雑、人手不足がある、汎用AIでは足りない——この5つに複数当てはまる企業ほど、バーティカルAIの効果が出やすくなります",
+    "url": "https://www.waltsu.co.jp/blog/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "専門業務が多い、独自データがある、業務ルールが複雑、人手不足がある、汎用AIでは精度が足りない——といった条件に複数当てはまる企業です",
+    "url": "https://www.waltsu.co.jp/blog/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "少々お待ちください…",
+    "url": "https://www.waltsu.co.jp/blog/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "術等」毎に、ボトルネックの解消と更なる投資を促すアクセラレーターを念頭に「勝ち筋」を特定し、国内投資支援、需要・市場の創出、立地競争力強化、国際",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場の急拡大に対応し、我が国の供給能力を強化",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・AIロボット市場の成長を取り込むべく、供給能力（設計・量産",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・構造的な人手不足を背景とする潜在的な導入需要を顕在化させ、",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解消・生産性向上により、産業競争力の強化",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・戦略的重要性：フィジカルAI導入による省力化を通じ構造的人手不足の解決に貢献",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ボトルネック（現場環境、運用体制、制度・規格等）を考慮して、各産業・領域ごとに多用途ロボットの定量的な導入目標、",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産投資不足による導入コス",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   }
+  ],
+  "法律・制度": [
+   {
+    "quote": "・政府による率先導入と制度改革による初期需要創出",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・領域別に、①データ創出・利用の促進と、必要に応じたデータ構造の標準化や、②エージェント型AIに即したルール・制度の整備を推進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "エージェント型AIに即したルール・制度",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場性・公共性・戦略性の観点から重点領域を定めて領域別戦略を策定し、官民で集中投資すること、政府調達や制度改革で初期需要を喚起すること、そして領域別の取組を横連携で高度化・大規模化することです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・政府調達や制度改革により初期需要を積極的に喚起し、開発投資支援で事業拡大を加速",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・規制緩和、中小企業補助金、AI実装人材創出等による導入促進の円滑化",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革や技術標準・認証の整備を一体的に推進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "政府調達や制度改革で",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "構築すべき機能には、規制緩和・",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "（AIの安全性に関する評価手法や基準の検討・推進を行うための機関）などを通じた安全性・セキュリティ評価が並んでいます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "政府調達や制度改革で初期需要を喚起し、戦略性を持つ分野では官需で開発事業者を育成し、市場性の高い分野では海外展開も促進します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "規制緩和・中小企業補助金・AI実装人材創出による導入促進、政府による率先導入、AISI等を通じた安全性・セキュリティ評価機能を構築すべき機能としています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "①国内投資支援としてAI基盤の整備・充実、重点領域の研究開発・実証、公的機関の保有情報の提供等による領域データの創出、②需要創出として中小企業も含めた導入支援と地域AXの推進、規制緩和や官需主導の初期需要創出、制度・規制の見直し、AISIの機能強化などAIリスクへの包括的対応、③立地競争力強化としてAI実装人材の育成と中小企業への伴走支援、研究開発人材の確保、責任あるアジャイルガバナンス、AIインフラの整備・強化、④国際連携として同志国・グローバルサウスとの協働や広島AIプロセスの推進を進めます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・重点領域における規制緩和等による需要創出",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・エージェント型AI 等の技術進展への対応、社会実装の推進の観点からの制度や規制の見直しを先導（弁護士業務や医師による画像読影等におけるAI活用の促進、AI活用医療機器の評価に必要な手法の検討・体制強化など）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "ル・制度の整備を推進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・政府調達や制度改革により初期需要を積極的に喚起し、開発投資支援",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・規制緩和、中小企業補助金、AI実装人材創出等による導入促進の円滑",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "要の制度改革や技術標準・認証の整備を一体的に推進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・重点領域における規制緩和等による需要創出",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・AIエージェント等の技術進展への対応、社会実装の推進の観点からの制度や規制の見直しを先導（弁護士業務や医",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法や基準の検討・推進を行うための機関",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・制度の不断の見直し、ガバナンス人材の育成をはじめ、責任あるアジャイルガバナンスの推進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・政府による率先導入と制度改革による初期需要創出",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "けたセキュリティ対策評価制度（SCS評価制",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有志国間での②に関連する制度の調和（相互運用性の確保）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・企業のセキュリティ対策状況を「共通のものさし」で評価する制度（SCS評価制度）の2026年度末頃の",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・サイバーセキュリティ・サービス事業者の信頼性強化に向けた制度構築",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊1 一定のセキュリティ基準に適合するIoT製品を認証する制度",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図9 ｅＭＡＸＩＳ Ｎｅｏ ＡＩテクノロジーの基準価格・純資産総額",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "pass": 3
+   },
+   {
+    "quote": "ＭＡＸＩＳ米国AIインフラ株上場投信の基準価格・純資産総額は以下のようになっています",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "pass": 3
+   },
+   {
+    "quote": "図10 ＭＡＸＩＳ米国AIインフラ株上場投信の基準価格・純資産総額",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "pass": 3
+   },
+   {
+    "quote": "「NISA」制度をご利用の際は、次の点にご注意ください",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "pass": 3
+   },
+   {
+    "quote": "・NISA制度では、すべての金融機関を通じて1人につき1口座しか開設することはできません（金融機関の変更を行った場合を除く）",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "pass": 3
+   },
+   {
+    "quote": "・NISA制度では、年間の非課税投資枠（つみたて投資枠は年間120万円、成長投資枠は年間240万円）と非課税保有限度額（総枠）（つみたて投資枠・成長投資枠あわせて1,800万円、うち成長投資枠1,200万円）の範囲内で購入した上場株式等の商品から生じる配当所得および譲渡所得等が非課税となります",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "pass": 3
+   },
+   {
+    "quote": "・基準経過日において、NISA口座を開設しているお客さまの氏名・住所を、所定の方法で確認します",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "pass": 3
+   },
+   {
+    "quote": "・成長投資枠の対象商品は、NISA制度の目的（安定的な資産形成）に適したものに限られます",
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "pass": 3
+   },
+   {
+    "quote": "この改定では、製造、医療、農業、金融、行政といった19の重点領域を指定し、",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "その業界ならではの業務フローや商習慣、法規制などに最適化されており、より正確で専門性の高い判断や作業を行うことが可能です",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "政府の戦略は、国として投資や制度づくりを進める分野を選んだものであり、個々の会社がどのAIを買うべきかを示したものとは性格が異なります",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "メールや案内文の作成、議事録の要約、取引先や制度の下調べ、企画書のたたき台など",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "制度の概要は",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "19領域は国が投資や制度づくりを進める分野を選んだもので、個々の会社がどのAIを使えるかを決めたものではありません",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "+265 Malawi",
+    "url": "https://www.makinarocks.ai/ja/blog/%E7%94%A3%E6%A5%AD%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%80%81%E4%BC%81%E6%A5%AD%E3%82%92%E5%A4%89%E9%9D%A9%E3%81%99%E3%82%8B%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%82%A8%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy",
+    "url": "https://www.makinarocks.ai/ja/blog/%E7%94%A3%E6%A5%AD%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%80%81%E4%BC%81%E6%A5%AD%E3%82%92%E5%A4%89%E9%9D%A9%E3%81%99%E3%82%8B%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%82%A8%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "公共性領域における人手不足とAI活用を阻む制度的摩擦",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "行政と研究インフラのAIネイティブ化を支える技術と制度の同期",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "産業構造の維持と競争力強化に向けた具体的な投資や制度改革への取り組みが、今まさに求められている状況です",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "この課題を解決するため、政府の戦略では企業ごとの用語や判定基準を一貫して処理する共通層の設置や、データの秘匿性を確保した安全な連携技術の開発を支援する方針を示しています",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "また、高度な安全性が求められる対人サービスにおいて、AIの判断に対する責任の所在や安全性確保のルールが未成熟であるという制度的な摩擦も存在します",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした技術と制度の同期が進むことで、サービスの質を維持しながら持続可能な公共社会を再構築することが期待されます",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "今後の展望として、バーティカルAIの社会実装は、各産業における技術の枠組みを超え、組織や社会制度のあり方そのものを変える契機となることが予想されます",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けた技術開発と制度改革の進展は、人材の流動化や産業構造の再編をさらに促すでしょう",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AIの行動基準を策定する国際標準化のロードマップ",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIデータセンターの電力消費と水不足問題：7兆ドル巨額投資の成敗を握る環境規制と立地戦略",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "業務ロジックを組み込み、現場の判断基準を反映した動作が可能で、高い信頼性につながります",
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "バーティカルAIが注目を集める理由は、業界特有の複雑な業務や規制に適応し、汎用AIでは難しい精度と安定性を実現できる点にあります",
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "その背景には、人材不足や業務の複雑化、法規制対応の高度化など、企業が「専門作業を安定して任せられる仕組み」を求めるという環境の変化があります",
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "pass": 3
+   }
+  ],
+  "国の予算": [
+   {
+    "quote": "バーティカルAIとは｜官民投資ロードマップの目標5兆円・投資額23.1兆円・領域特化型AIの政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資ロードマップは、2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円を獲得し、産業や行政の現場でAIを軸とした経営改革（AX）を進めるとしました",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までに23.1兆円、経済波及効果は222.0兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 投資額23.1兆円・経済波及効果222.0兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "原文は内閣官房「戦略17分野における「主要な製品・技術等」の官民投資ロードマップ」（2026年7月21日）から引用しています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "２．勝ち筋の特定と官民投資の具体像、定量的インパクト【道筋】",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)官民投資の具体像 (3)定量的なインパクト",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．官民投資促進に向けた課題と政策パッケージ【政策手段】",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)官民投資の具体像",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前述した「第5回 人工知能（AI）戦略本部」において、高市首相は「領域別に戦略を策定のうえ、官民での集中投資を実施し、将来的なフィジカルAIの開発・活用につながるバーティカルAIの開発・実装を強力に推進します」と述べています",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "取引報告書などを電子交付するだけで、現物取引、信用取引に加え、単元未満株の売買手数料まで0円になるので、売買コストに関しては圧倒的にお得な証券会社と言える",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模・投資額の数字（2030年約3兆円・23.1兆円）の読み方",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "人工知能基本計画の脚注では、バーティカルAIに係る官民投資額として、2040年度までで23.1兆円という想定が示されました",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "内閣官房が2026年7月21日に公表した官民投資ロードマップには、バーティカルAIについて、2040年度までの経済波及効果を222.0兆円と想定する記載があります",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "222.0兆円は、7月21日の官民投資ロードマップ（内閣官房公表）で確認した想定額です",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金があるからといって、判断表の3種類目に当たらない業務まで業界特化AIに置き換える必要はありません",
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略17分野における「主要な製品・技術等」の官民投資ロードマップ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．勝ち筋の特定と官民投資の具体像【道筋】",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）官民投資の具体像 ①投資内容、②投資額（注１）、③定量的インパクト：投資による経済波及効果（注２）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．官民投資促進に向けた課題と政策パッケージ【政策手段】",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注２）経済波及効果については、各「主要な製品・技術等」の官民投資額及び当該官民投資による生産増加額をインプットとして、産業連関分析を実施して算出",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "的には、産業連関表を用いて、（１）当該製品・技術等に係る最終需要額（投資額・生産額）の増加が、生産工程の川上産業（部品、部素材、原料といった関連",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "戦略17分野における「主要な製品・技術等」の官民投資ロードマップ（計62項目）の構成",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)官民投資の具体像",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とフィジカルAIを追加）、第Ⅱ期基本計画（7月14日・エージェント型AIとAXが中心・制度の見直しを明記）、令和9年度概算要求のAI関連予算の公表（9月18日）",
+    "url": "https://uravation.com/media/japan-ai-promotion-act-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "令和9年度予算の概算要求におけるAI関連予算を公表",
+    "url": "https://uravation.com/media/japan-ai-promotion-act-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "本文は、バーティカルAI・フィジカルAI（特にAIロボット）・半導体に係る官民投資額を2040年度までにそれぞれ23.1兆円、10.5兆円、68.0兆円と想定",
+    "url": "https://uravation.com/media/japan-ai-promotion-act-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "同月21日に政府の日本成長戦略本部が決定した官民投資ロードマップでは、2040年度までのバーティカルAIへの官民投資額を23.1兆円と想定し、経済波及効果は同年度までで222兆円を見込む",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月、日本では高市首相が主宰する人工知能戦略本部が第2期AI基本計画の改定案でバーティカルAI19分野への官民集中投資を決定し、海外ではSierra（顧客対応）が$15B超評価、Harvey（法務）が$11B評価で急成長するなど、政策と資本の両輪で「業界特化」の主戦場化が加速しています",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "この19分野の指定は、単なるスローガンではなく官民投資推進とセットで動き出しています",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Turns out there are many more markets where you can build a $10B+ company than you’d think, especially when looking at labor budgets. For example, did you know that 17% of accountants",
+    "url": "https://www.nea.com/blog/tomorrows-titans-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "50% of the IT Budget on",
+    "url": "http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf",
+    "pass": 3
+   }
+  ],
+  "国内の主要企業": [
+   {
+    "quote": "エージェント型AIを含めてバーティカルAIの開発や社会実装を担う日本企業群を創造",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "の開発能力を確保、日本企業群を創造",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "ODAや在外公館等も活用しつつ、グローバルサウスにおける高度人材の育成・交流、現地企業と日本企業とのマッチング、共同研究開発、日本企業による海外展開向け開発、知財・標準化戦略等を推進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "開発や社会実装を担う日本企業群を創造",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ODAや在外公館等も活用しつつ、グローバルサウスにおける高度人材の育成・交流、現地企業と日本企業とのマッ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チング、共同研究開発、日本企業による海外展開向け開発を促進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の車両の量産【目標】 安全・安心かつ高い互換性が確保さ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ケーブルについて、日本企業による総延",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 日本企業はマルチコア光ファイバー技術で優位性を有するも、競合企業（米・仏）への政府支援・中国の新規参入で苦戦",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "られるフィルタ、 発振子、通信モジュール等では 、日本企業は大きな世界シェ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業による自律的な供給能力の維持に必要なグローバルシェア",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ミリ波※６等機器・サービスの市場における日本企業の高い世界",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "信･データ利活用で2040年に約12兆円規模【P】の日本企業",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に、日本企業は法規制への意識が高く、API連携・クラウド利用時の権限設定・監査体制の整備が必要です",
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、日本企業の具体的な事例を取り上げながら、どのような形で成果が生まれているのかを紹介します",
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "その上で官民投資ロードマップ案を前提として、原則、政府担当部局が主要企業や団",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業以外のプレイヤーが多い場合や、投資予定が明確にならない将",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の開発や社会実装を担う日本企業群を創造",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ODAや在外公館等も活用しつつ、グローバルサウスにおける高度人材の育成・交流、現地企業と日本企業とのマッ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チング、共同研究開発、日本企業による海外展開向け開発、知財・標準化戦略等を推進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "-日本企業の提供するクラウド（国産クラウド）、SaaS、生成AI等の公共分野での初期需要創出",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "心に、車載用や定置用を含む全体で、日本企業の",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・そのためには、車載用・定置用で重視されるエネルギー密度（容量）に加えて、日本企業が",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の車両の量産【目標】 安全・安心かつ高い互換性が確保さ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ケーブルについて、日本企業による総延",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 日本企業はマルチコア光ファイバ技術で優位性を有するも、競合企業（米・仏）への政府支援・中国の新規参入で苦戦",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "齊藤企画官は、「品質管理（QC）活動などを通じて日本企業の現場には細かな知見が蓄積されており、これをAIに取り込めば質の高いサービスをつくれる」という",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の勝ち筋は現場データ・熟練者の暗黙知を意味層として整備し、業界特化エージェントに繋ぐ設計",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、バーティカルAIの定義と汎用AI（Horizontal AI）との違い、加速の背景となる政策・ユニコーン成長・SaaS再定義の3つの動き、業界別の活用事例、per-seatからoutcome-basedへ変わる料金モデル、導入時の落とし穴、日本企業がバーティカルAIを選ぶ判断軸までを、2026年7月時点の最新情報で体系的に解説します",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がバーティカルAIを選ぶ判断軸",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がバーティカルAIを検討する際、PoC〜本番導入までのコスト目安は以下の3段階で見積もるのが現実的です",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "海外プレイヤーが先行するバーティカルAIですが、日本企業が導入を検討する際には、業種・データ主権・現場暗黙知といった日本市場固有の観点を組み込む必要があります",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "本セクションでは、AI総合研究所が支援している企業の傾向を踏まえ、日本企業がバーティカルAIを選ぶ際の実務的な判断軸を整理します",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の強みは、",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が国内独自資産（現場データ・熟練者の暗黙知）を活かして同じ勝ち方を狙うには、意味層をAI-ready dataで整え、実行基盤とガバナンス層を自社側に持つ設計が現実解になります",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、バーティカルAI（Vertical AI）について、定義・汎用AIとの違い・2026年の加速要因・業界別事例・料金モデル・導入の落とし穴・日本企業の判断軸まで、2026年7月時点の最新情報で解説しました",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の判断軸は「業種と規制環境」「データ主権と現場暗黙知」「導入経路4パターンの選択」の3層",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Mythosとは？その性能や日本企業の動向、使い方を解説",
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... — バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (1) AI・半導体",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "バーティカルAI 領域別戦略 中間とりまとめ — バーティカルAI 領域別戦略 中間とりまとめ 内閣府ホームページ PDF https://www8.cao.go.jp > ai > ai_hq > shiryo2_2",
+    "url": "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「 バーティカルAI 領域別戦略」から読み解く、2030年に向け ... — 「 バーティカルAI 領域別戦略」から読み解く、2030年に向け ... NewsPicks https://newspicks.com > ... > デジタル政策と未来社会",
+    "url": "https://newspicks.com/news/17139933/body/",
+    "pass": 3
+   },
+   {
+    "quote": "専門業務を支えるVertical AI（ バーティカルAI ）とは？汎用AI ... — 専門業務を支えるVertical AI（ バーティカルAI ）とは？汎用AI ... Members Co.,Ltd. https://www.members.co.jp > 20260326-vertical-ai",
+    "url": "https://www.members.co.jp/column/20260326-vertical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size , Share, Trends | CAGR of 24.5% — Vertical AI Market Size , Share, Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Surpasses $3.5B, Expands Beyond ... — Vertical AI Market Surpasses $3.5B, Expands Beyond ... LinkedIn https://www.linkedin.com > posts > m...",
+    "url": "https://www.linkedin.com/posts/menlo-ventures_vertical-ai-has-become-a-35b-category-in-activity-7404997854827556864-gVOJ",
+    "pass": 3
+   }
+  ],
+  "国内参入企業数": [
+   {
+    "quote": "研修6,000名以上・支援100社以上の実績をもとに、自社の業務に当てはめる相談も30分から受け付けています",
+    "url": "https://uravation.com/media/japan-ai-promotion-act-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "100社以上の企業向けAI研修・導入支援",
+    "url": "https://uravation.com/media/japan-ai-promotion-act-guide/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd219100.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coplus-one.jp/vertical-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.movin.co.jp/it/ai/firmlist/physicalai/meigara.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.makinarocks.ai/ja/blog/%E7%94%A3%E6%A5%AD%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%80%81%E4%BC%81%E6%A5%AD%E3%82%92%E5%A4%89%E9%9D%A9%E3%81%99%E3%82%8B%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%82%A8%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newspicks.com/news/17139933/body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waltsu.co.jp/blog/vertical-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/13980/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2026/0721_shiryo03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001089257.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yomiuri.co.jp/politics/20260624-GYT1T00108/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dtsi.deloitte.jp/information/articles/000914",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://business.ntt-west.co.jp/bizclip/articles/bcl00071-160.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uravation.com/media/japan-ai-promotion-act-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001043230.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.businesslawyers.jp/articles/1475",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.members.co.jp/column/20260326-vertical-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_260109.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-souken.com/article/what-is-vertical-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.movin.co.jp/it/ai/firmlist/rank_japan.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-artificial-intelligence-market-113971",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/artificial-intelligence-market/JAPAN",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-artificial-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/vertical-ai-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/outlook/tmo/artificial-intelligence/japan/?srsltid=AYCX9vIsv-lzMXp9dSW11Wr2GAKLQBQMTrXLko6R_rYfLrdMYI8LhB7t",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nea.com/blog/tomorrows-titans-vertical-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://cdn.hl.com/pdf/2026/ai-in-vertical-softtware-market-update-q1-26.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://axecompute.com/data-center-buildout-ai-supply-gap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexential.com/resources/report/2025-state-ai-infrastructure",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "バーティカルAI 国内市場規模 億円",
+   "results": [
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "https://moneycanvas.bk.mufg.jp/canvas/minna-unyo/zZgHBMOyzUmN9kf/",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd219100.html",
+    "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "https://my.idc.com/getdoc.jsp?containerId=prJPJ53362125",
+    "https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf",
+    "https://innovatopia.jp/ai/ai-news/113176/",
+    "https://businessnetwork.jp/article/24002/",
+    "https://www.ai-souken.com/article/what-is-vertical-ai"
+   ]
+  },
+  {
+   "query": "バーティカルAI 国内 参入企業 社",
+   "results": [
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf",
+    "https://diamond.jp/zai/articles/-/1070254",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf",
+    "https://coplus-one.jp/vertical-ai/",
+    "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "https://www.movin.co.jp/it/ai/firmlist/physicalai/meigara.html",
+    "https://www.makinarocks.ai/ja/blog/%E7%94%A3%E6%A5%AD%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%80%81%E4%BC%81%E6%A5%AD%E3%82%92%E5%A4%89%E9%9D%A9%E3%81%99%E3%82%8B%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%82%A8%E3%83%BC/",
+    "https://www.youtube.com/watch?v=pP67Zt-BBKI",
+    "https://www.ai-souken.com/article/what-is-vertical-ai"
+   ]
+  },
+  {
+   "query": "バーティカルAI 人手不足 OR 供給不足 OR 受注残 OR 納期",
+   "results": [
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf",
+    "https://newspicks.com/news/17139933/body/",
+    "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "https://www.waltsu.co.jp/blog/vertical-ai/",
+    "https://www.youtube.com/watch?v=iOqyCEBWn3Q",
+    "https://coplus-one.jp/vertical-ai/",
+    "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "https://www.issoh.co.jp/column/details/13980/"
+   ]
+  },
+  {
+   "query": "バーティカルAI 予算 補助金 基金 2026",
+   "results": [
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2026/0721_shiryo03.pdf",
+    "https://www.soumu.go.jp/main_content/001089257.pdf",
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html",
+    "https://www.yomiuri.co.jp/politics/20260624-GYT1T00108/",
+    "https://renue.co.jp/posts/meti-physical-ai-national-strategy-japan-budget-2026",
+    "https://profectus-note.com/blog/ai-semiconductor-wg-sme-chances",
+    "https://ai-mikata.com/news/takatsu-pm-ai-semiconductor-budget-no-limit/",
+    "https://www.chusho.meti.go.jp/koukai/hojyokin/kobo/2026/260310001.html"
+   ]
+  },
+  {
+   "query": "バーティカルAI 法改正 OR 義務化 OR 規制 国内",
+   "results": [
+    "https://dtsi.deloitte.jp/information/articles/000914",
+    "https://business.ntt-west.co.jp/bizclip/articles/bcl00071-160.html",
+    "https://uravation.com/media/japan-ai-promotion-act-guide/",
+    "https://www.soumu.go.jp/main_content/001043230.pdf",
+    "https://www.businesslawyers.jp/articles/1475",
+    "https://www.kka-ai.com/ai-regulation-map/",
+    "https://athenatech.jp/blog/ai-legal-guide",
+    "https://note.com/datamanagement/n/nd823471290c6",
+    "https://www.onamae.com/business/article/298838/"
+   ]
+  },
+  {
+   "query": "バーティカルAI 国内 主要企業 メーカー",
+   "results": [
+    "https://diamond.jp/zai/articles/-/1070254",
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf",
+    "https://www.makinarocks.ai/ja/blog/%E7%94%A3%E6%A5%AD%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%80%81%E4%BC%81%E6%A5%AD%E3%82%92%E5%A4%89%E9%9D%A9%E3%81%99%E3%82%8B%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%82%A8%E3%83%BC/",
+    "https://www.members.co.jp/column/20260326-vertical-ai",
+    "https://www.movin.co.jp/it/ai/firmlist/physicalai/meigara.html",
+    "https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/",
+    "https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_260109.html",
+    "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "https://www.ai-souken.com/article/what-is-vertical-ai"
+   ]
+  },
+  {
+   "query": "vertical AI Japan market size",
+   "results": [
+    "https://www.fortunebusinessinsights.com/japan-artificial-intelligence-market-113971",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/artificial-intelligence-market/JAPAN",
+    "https://www.trade.gov/market-intelligence/japan-artificial-intelligence",
+    "https://market.us/report/vertical-ai-market/",
+    "https://www.statista.com/outlook/tmo/artificial-intelligence/japan/?srsltid=AYCX9vIsv-lzMXp9dSW11Wr2GAKLQBQMTrXLko6R_rYfLrdMYI8LhB7t",
+    "https://www.imarcgroup.com/japan-generative-ai-market",
+    "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "https://www.linkedin.com/pulse/japan-ai-healthcare-technology-market-size-long-term-n522f",
+    "https://www.marknteladvisors.com/research-library/japan-ai-data-center-market-study.html",
+    "https://digitalinasia.com/japan-ai-market/"
+   ]
+  },
+  {
+   "query": "vertical AI shortage backlog supply gap 2025",
+   "results": [
+    "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "https://www.nea.com/blog/tomorrows-titans-vertical-ai",
+    "https://www2.hl.com/ai-in-vertical-software-q1-2026.pdf",
+    "https://axecompute.com/data-center-buildout-ai-supply-gap/",
+    "https://www.flexential.com/resources/report/2025-state-ai-infrastructure",
+    "https://www.linkedin.com/posts/menlo-ventures_vertical-ai-has-become-a-35b-category-in-activity-7404997854827556864-gVOJ",
+    "https://brainpool.ai/blog/specialised-ai-statistics-2026-50-data-points-on-the-vertical-ai-boom-enterprise-roi-reality-and-sector-adoption",
+    "https://market.us/report/vertical-ai-market/",
+    "https://action.deloitte.com/insight/4719/7-shortages-challenging-ai-data-center-expansion",
+    "https://enkiai.com/ai-market-intelligence/ai-chip-shortage-2025-uncover-the-global-tech-crisis/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2054 @@
+{
+ "name": "nTop",
+ "aliases": [
+  "nTopology",
+  "nTop Inc"
+ ],
+ "context": "wl-A DfAM（AM向け形状生成）",
+ "researched_at": "2026-11-03T10:39:01.429348+00:00",
+ "official_url": "https://www.ntop.com",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Employees",
+    "value": "119",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "EBITDA Last FY LTM 2027E Last FY LTM 2027E",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "160-0023 東京都新宿区西新宿6-6-3 新宿国際ビルディング新館3F",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2005年2月",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "資金調達": [
+   {
+    "quote": "Every geometry variant flows automatically into analysis, using your solvers of choice or Physics AI, so the full design-to-evaluation pipeline runs lights-out.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture design logic once and redeploy it across variants, missions, and programs, cutting engineering investment on every one that follows.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in Funding",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Investors",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We're backed by leading investors across aerospace, defense, and deep including:",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "in Funding",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We will also cover nTop’s native meshless flow analysis capabilities for rapid external aerodynamics evaluation, as well as conjugate heat transfer (CHT) analysis for thermal systems.",
+    "url": "https://www.ntop.com/resources/webinars/ntop-for-student-design-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "Using simulation data, Lockheed engineers trained neural network and FNO models capable of both scalar and full-field predictions. These models provided high accuracy with millisecond evaluation times ideal for optimization.",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 45,000+ founders, operators, and investors.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology Valuation, Funding & Investors | Multiples",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation, Funding & Investors",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Last nTopology valuation",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Last nTopology funding round",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Cumulative funding nTopology raised",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "across 5 funding rounds",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Key investors in nTopology",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Funding history",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology Valuation",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "The $65M round was led by Tiger Global, with participation from Canaan Partners, Haystack, Root Ventures, Oldslip, DCVC and 1 other investor.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology's valuation has grown 4.4x from $90M at its Series B in July 2019 to $400M in November 2021, across 2 priced rounds.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology valuation by funding round",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Series B",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology Funding History",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology has raised a total of $135M across 5 funding rounds.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology's first fundraising round was a $3M seed round in August 2016. The most recent completed round was a $65M Series D in November 2021.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology funding rounds",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Raised",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "John Curtius of Tiger Global highlighted nTopology's potential leadership in engineering software. The funding supports international expansion and feature development, positioning nTopology against competitors in hardware design software amid VC interest in the sector.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Series A",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "19 investors have backed nTopology across its funding rounds, including Haystack, Root Ventures, DCVC, Canaan Partners, Insight Partners and 1517 Fund.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Lead investors include Tiger Global, Insight Partners, Canaan Partners, DCVC and Root Ventures.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology Investors",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Rialto Ventures (which led Roboze's Series A round), Club degli Investitori, and a broader international investor group were among the investors that provided Roboze with new financial backing.",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   },
+   {
+    "quote": "Calculate total investment required, including minimums, shipping, and working capital",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Confused about manufacturing minimums and costs? Arise Cosmetic offers flexible minimum order quantities and transparent pricing. We help new brands start with manageable investments whilst maintaining quality standards.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Many first-time founders assume that if a product is trending, it’s the best place to start. In reality, this is one of the biggest common private label mistakes. Jumping into an overcrowded niche or picking a product without researching demand often leads to unsold stock, wasted investment, and a damaged brand reputation.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Change input parameters to generate new geometric variants within your design space, without breaking the model or rebuilding it by hand.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every geometry variant flows automatically into analysis, using your solvers of choice or Physics AI, so the full design-to-evaluation pipeline runs lights-out.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture design logic once and redeploy it across variants, missions, and programs, cutting engineering investment on every one that follows.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop changes how engineering gets done. Our technology collapses months of iteration into hours, letting teams explore thousands of variants instead of settling for the first option.",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop's geometry stays robust under extreme parametric variation, so the model keeps up without a person driving every change by hand.",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that our team members around the world should enjoy similar perks and benefits as our US employees — no matter where they are located. In addition to a competitive salary, a fantastic vacation plan, and home office and professional reimbursements, we offer benefits to our international employees that vary by country but match the spirit of the benefits our US employees receive.",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Run complete multi-objective trade studies, from parametric geometry through multi-physics results, by connecting nTop's watertight variant generation directly to Ansys solvers and optimization tools.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore thousands of design variants in real time by connecting nTop's parametric geometry directly to PhysicsX's physics AI surrogate models, trained and validated inside a single pipeline.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Move hundreds of design variants generated in nTop directly into Flexcompute's simulation workflow, compressing requirements-driven design cycles from months to weeks.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Each machine runs one engine, so a cluster with 20 engines works through 20 variants at a time instead of one. A design of experiments on an airframe can cover the parameter range at the resolution the problem calls for. When a payload or thermal requirement changes late in a program, the team can rerun the whole study rather than a hand-picked subset.",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "The work happens on the cluster, so an engineer's workstation stays free for the next problem. Results come back organized by variant, with the inputs, outputs, and logs for each, so a failed or surprising case is easy to trace.",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven at scale: valid geometry for every variant",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "generated 2,400 drone geometry variants and evaluated each at five angles of attack",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": ", for 12,000 CFD simulations run across 280 NVIDIA RTX Pro 6000 Blackwell GPUs. Every one of those 2,400 variants produced valid geometry, with zero geometry failures across the full run.",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "Conceptual aircraft design often involves a frustrating bottleneck: traditional CAD tools are too rigid to evaluate dozens of geometric variations programmatically, while low-fidelity aerodynamic tools lack the geometric feedback needed for structural integration and manufacturing.",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-between-implicit-geometry-and-flight-physics/",
+    "pass": 1
+   },
+   {
+    "quote": "Throughout these 3 months of designing and building various remote-controlled planes, I learned more about the core principles of aircraft design – not just theory, but how to materialize that knowledge into tangible RC UAVs.",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Gained a working understanding of parametric computational design, going from beginner nTop Learn tutorials to complex master files that flex with a variety of inputs",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "The existing model exposed variables controlling the planform, center body, duct position, and inlet geometry. nTop Automate generated the candidate population, and each parameter set was evaluated against the notebook’s primary conditions before it could proceed to additional validation or RCS analysis.",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/",
+    "pass": 1
+   },
+   {
+    "quote": "8 airframe, engine, and complete system packaging variants designs created and analyzed in 5 days",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Regeneratively cooled combustors use fuel flowing through small channels in the combustor wall to cool the structure before burning. The channel geometry is complex: hundreds of parallel channels, varying cross-sections, precise wall thicknesses. It's a heat exchanger that also has to survive hypersonic flight loads.",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional parametric CAD forces a choice: hand-craft every variant (too slow) or build parametric models that collapse under variation.",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin set out to optimize the design of a dual-fluid heat exchanger featuring a gyroid-based TPMS core. The engineering goal was straightforward but technically challenging: maximize heat transfer while minimizing pressure drop all under varied inlet flow conditions and within additive manufacturing constraints.",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Exploring design variants",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "The team believed the final component would feature Voronoi ribbing at the top layer to keep the skin strong, a gyroid-based lattice core, and an aluminum wrap. With nTop, the team was able to determine how the Voronoi ribbing impacted performance at a specific mass penalty. This helped them quickly iterate on a variety of configurations of ribbing structures and lattice networks.",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "Performance and mass characteristics of design variants evaluated for the project",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "Each iteration took about five minutes to develop, then was simulated in a separate ANSYS software platform, which is widely used in aerospace for validation. The NASA team appreciated the fact that nTop allowed them to build workflows knowing what variables they intended to change. They could copy the workflow and change the variables, knowing the model would update parametrically.",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "To hit that mark, blueflite used advanced design strategies to quickly reduce the mass of the fuselage. While CAD worked well to create aerodynamic surfaces, it was slow to manually model the variably shelled components, and it couldn’t generate the lattice infills and sophisticated ribbing needed for structural rigidity.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "First, they imported Class A surfaces designed in CAD into nTop and ‌generated a variable-thickness skin. Then they applied a lattice infill and structural support with isogrid ribbing. Next, they optimized key design parameters with field-driven design.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/team/bradley-rothenberg/",
+    "pass": 1
+   },
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/team/joel-bejar/",
+    "pass": 1
+   },
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/team/valerie-chianuri/",
+    "pass": 1
+   },
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/team/kevin-chlan/",
+    "pass": 1
+   },
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/team/jason-gordon/",
+    "pass": 1
+   },
+   {
+    "quote": "ran 2,400 drone planform geometry variants across five angles of attack for a total of 12,000 simulations. One engineer set it up and walked away while 280 NVIDIA GPUs on CoreWeave were fully saturated for the entire run without any geometry failures.",
+    "url": "https://www.ntop.com/resources/blog/ntop-coreweave-nasa-2030-grand-challenge-in-cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "Parameters used to produce geometric variants of group 3 UAS.",
+    "url": "https://www.ntop.com/resources/blog/ntop-coreweave-nasa-2030-grand-challenge-in-cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "That's what makes autonomous execution possible. The pipeline does not need to be managed because every one of the 2,400 variants generated a valid geometry. Where jobs failed, the failures were solver-side and recoverable, not geometry failures, and everything else ran to completion.",
+    "url": "https://www.ntop.com/resources/blog/ntop-coreweave-nasa-2030-grand-challenge-in-cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional CFD requires a body-fitted mesh — a volume discretization that conforms to the surface of the geometry being analyzed. Generating that mesh is a manual, iterative process when geometry changes and requires a trained analyst to repair before the next simulation can run. In a parametric study of 2,400 variants, that step would make autonomous execution impossible.",
+    "url": "https://www.ntop.com/resources/blog/ntop-coreweave-nasa-2030-grand-challenge-in-cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORI used variable shelling and latticing to reduce the original design’s weight.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Since the DMG MORI engineers couldn’t alter the external form of the part, the results of topology optimization could not be used as the final design. However, they could use them to vary the thickness of the outer shell. This helped the team leverage some of the structural benefits of topology optimization without changing the part’s exterior.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "The topology optimization result drives the thickness of the variable shelling operation.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-section of the combustion engine cylinder showing the internal variations of the lattice.",
+    "url": "https://www.ntop.com/resources/case-studies/cobra-aero-multiphysics-simulation-drone-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "The redesigned microturbine generator housing. It features a conformal cooling channel created using variable shelling and automated smoothening.",
+    "url": "https://www.ntop.com/resources/case-studies/cobra-aero-multiphysics-simulation-drone-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "pass": 3
+   },
+   {
+    "quote": "How to generate surface roughness with varying amplitude or frequency",
+    "url": "https://support.ntop.com/hc/en-us/articles/18683788336531-How-to-label-parts",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Live: Labeling Design Variations with Serial Numbers - YouTube",
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Live: Labeling Design Variations with Serial Numbers",
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "pass": 3
+   },
+   {
+    "quote": "The parametric and generative design capabilities of nTop Platform open up the door to creating a huge amount of design variations which can be tested — experimentally or through simulations — to identify the optimal solution.",
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "pass": 3
+   },
+   {
+    "quote": "In this nTop Live, Blake Johnson, Customer Success Engineer at nTopology, gives you tips on how to control multiple design variations in a single nTop Workflow and add individual labels or serial numbers to each of them.",
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "pass": 3
+   },
+   {
+    "quote": "Set up a custom block for parametric design to generate design variations",
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "pass": 3
+   },
+   {
+    "quote": "View multiple design variations using different methods",
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "pass": 3
+   },
+   {
+    "quote": "Add an individual text label or serial number to design variation",
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "pass": 3
+   },
+   {
+    "quote": "The minimum order quantity (MOQ) for private label cosmetics is typically 1000 units per variant, though this can vary by manufacturer and product.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "We are committed to simplifying product development for established and emerging beauty brands. With over 8 years of industry experience, we have proudly supported various Indian cosmetic brands in building successful product lines.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.ntop.org/page/2/?faq-group=products-and-licenses",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers – ntop",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers and Sales Representatives",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "for details, price and availability, or get touch with our resellers (A-Z):",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "nTop Drives Rapid UAV Innovation",
+    "url": "https://www.ntop.com/resources/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapidly Building a Parametric Aircraft Model",
+    "url": "https://www.ntop.com/resources/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin accelerates design with AI and embedded simulation",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "What all of these have in common is that they need nTop running, and that's what the engine model provides. The nTop GUI is one way to drive it, and the command line interface, a notebook authoring API (currently in development), and agents are others. A team licenses the engines it needs and puts them to work however its programs demand.",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop Drives Rapid UAV Innovation",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "We will also cover nTop’s native meshless flow analysis capabilities for rapid external aerodynamics evaluation, as well as conjugate heat transfer (CHT) analysis for thermal systems.",
+    "url": "https://www.ntop.com/resources/webinars/ntop-for-student-design-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop Drives Rapid UAV Innovation",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-between-implicit-geometry-and-flight-physics/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop Drives Rapid UAV Innovation • nTop",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop Drives Rapid UAV Innovation",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Prototyping Case Study",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Prototyping",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "We went through a rapid build-and-test pipeline that proved how fast computational workflows facilitate speedy production. The ultimate payoff was at the airfield where we determined how well our digital models could actually fly, and pinpointed key areas for design iteration.",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "\"By being able to rapidly go from designs to performances, we can explore the design space and meet or exceed current system ranges at a fraction of the cost, enabling affordable mass without compromising performance.\"",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin accelerates design with AI and embedded simulation",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin accelerates design with AI and embedded simulation • nTop",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin accelerates design with AI and embedded simulation",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded simulation meets AI-driven inverse design",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers at nTop created a fully parametric heat exchanger model using implicit geometry. This enabled high design flexibility while maintaining geometric robustness under rapid iteration – a requirement for AI-driven iteration, where dozens of changes can happen in seconds.",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin and nTop are exploring the potential of simulation-driven, AI-enabled engineering. By embedding simulation into modeling and combining it with intelligent surrogate modeling, the team has made early progress toward proving that engineering teams can move faster, explore more, and trust the results.",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid iteration",
+    "url": "https://www.ntop.com/resources/case-studies/cold-plate-automotive-power-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop’s rapid iteration capabilities allowed Puntozero’s engineers to quickly target the main opportunities for optimization and, after multiple rapid design iteration cycles, develop a final cold plate heat sink design that could hold up to race track conditions.",
+    "url": "https://www.ntop.com/resources/case-studies/cold-plate-automotive-power-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Venture Capital",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Licensing, Subscription",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "GRIDS Capital",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Insight Partners (lead); GRIDS Capital; Canaan Partners; Grant Verstandig; Haystack; Root Ventures; DCVC",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Canaan Partners (lead); GRIDS Capital; Avidan Ross; James Hardiman",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "DCVC (lead); Root Ventures (lead); Tuesday Capital; Haystack; Pathbreaker Ventures; 1517 Fund",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Root Ventures (lead); Bob Pasker; Haystack; Notation Capital; Colin Carrier; Pathbreaker Ventures; 1517 Fund; Greg Schroy; Bob Pasker's Syndicate",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Tuesday Capital",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Notation Capital",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "While CFD simulation typically involves labour-intensive meshing and lengthy run times, particularly for complex computationally designed products, it is impractical to use for rapid design iterations. With the addition of Cloudfluid, nTop now offers what it says is the ‘most advanced and complete platform’ for computational design.",
+    "url": "https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/",
+    "pass": 3
+   },
+   {
+    "quote": ". nTop has now moved to integrate the entire cloudfluid business into its operations to further improve rapid and dynamic product development. Financial terms of the transaction have not been disclosed.",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   },
+   {
+    "quote": "© Rapid News Publications Ltd. A Rapid News Group Company. All Rights Reserved.",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   },
+   {
+    "quote": "Shaping the Future: Top Op in nTop",
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "pass": 3
+   },
+   {
+    "quote": "MCP vs API：なぜ従来のAPIはAIエージェントにとって不十分なのか",
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "pass": 3
+   },
+   {
+    "quote": "Calculate total investment required, including minimums, shipping, and working capital",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Below you can find a list of company with whom we’re doing business such as software licensing or custom development projects.",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "adapters enable rapid development of powerful appliances for high performance analysis. Napatech",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "実例として、米空軍のRapid Sustainment Office（RSO）のプロジェクトでは、F-16航空機で使用される油圧チューブクランプの再設計を行いました",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Customers",
+    "url": "https://www.ntop.com/resources/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Index • nTop",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Featured Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers using nTop",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers using nTop",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Prototyping Case Study",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Scalability is also key. blueflite customers won’t need just one drone—they’ll need a whole fleet.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop enables blueflite to meet tight deadlines when customizing drones for customers.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Thermal management case study from RICOH and nTop • nTop",
+    "url": "https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the Best",
+    "url": "https://www.ntop.com/request-a-demo/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/cold-plate-automotive-power-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/cold-plate-automotive-power-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: DMG MORI Redesigns Robotic End-Effector • nTop",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/cobra-aero-multiphysics-simulation-drone-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/cobra-aero-multiphysics-simulation-drone-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/aerojet-rocketdyne-low-cost-quad-thruster/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/aerojet-rocketdyne-low-cost-quad-thruster/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 45,000+ founders, operators, and investors.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology is a New York-headquartered engineering software firm specializing in generative design for additive manufacturing. The nTop platform generates lattice structures, topology optimization, and simulation-driven models exportable to printers like those from Stratasys and EOS. Used by aerospace firms such as SpaceX and GE Aviation, it accelerates lightweight part development.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology serves over 300 customers including Ford, Lockheed Martin, Honeywell, Emerson, and Wilson, with its software enabling design of critical product parts amid advances in manufacturing.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Forward Industries Inc is a provider of carrying and protective solutions. The company operates in two segments: design and digital assets. The design segment consists of two operating segments (IPS and Kablooe, which have been aggregated into one reportable segment) that provide a full spectrum of hardware and software product design and engineering services to customers predominantly.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "ditto is a collaborative copywriting platform that enables teams to manage text assets with version history, status tracking, duplicate synchronization, and metadata search. Used by startups and tech corporations, it facilitates cross-team editing for design and marketing materials.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   },
+   {
+    "quote": "Validate your idea with potential customers before committing to manufacturing",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "The most successful private label brands solve real problems, not imagined ones. Talk to your target customers before you talk to manufacturers.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Ask for client references and speak with existing customers",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers don’t just buy cosmetics for function; they buy into the story, the packaging, and the brand promise.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Build campaigns that educate, inspire, and engage customers.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "particularly the control panel, which is immediately available on the web to all customers from the first",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "vendors in telecom, enterprise, financial and government markets choose Napatech. Customers",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.simscale.com/press/simscale-and-ntop-integration-announcement/",
+    "pass": 3
+   },
+   {
+    "quote": "The result: streamlined, high-fidelity simulation workflows that enable faster iteration, deeper design exploration, and better-performing heat exchangers. The value of this capability has already been proven at customers such as",
+    "url": "https://www.simscale.com/press/simscale-and-ntop-integration-announcement/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopの導入効果",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   },
+   {
+    "quote": "テクノソリューションズによるnTop導入サポート",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   },
+   {
+    "quote": "nTopの導入により、製品開発と設計プロセスが大幅に加速されます",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   },
+   {
+    "quote": "nTopの導入は、効率的な設計プロセスの実現と最適化された部品形状が作成可能になることにより、材料費や製造コストの削減につながります",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社テクノソリューションズは、nTopの正規販売代理店として、お客様のnTop導入を多角的にサポートいたします",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では、nTopの導入・技術サポートに加え、3Dプリンターの選定に関するコンシェルジュサービスや、ご希望の形状での無料サンプル造形・造形相談なども承っております",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   },
+   {
+    "quote": "また、製品情報や技術的な内容については、ブログ、Webセミナーアーカイブ、導入事例、資料ダウンロードなど、様々なコンテンツをご用意しております",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   },
+   {
+    "quote": "nTopの導入支援として、無料の少人数制体験セミナー（ワークショップ／ウェビナー）を随時開催しています",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "SVP, Sales and Customer Success",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "This staged approach made it possible to explore broadly without using the highest analysis fidelity everywhere. It also revealed an important lesson: a coarse mean value can rank a population efficiently, but it cannot fully characterize narrow signature peaks. The final validation therefore mattered just as much as the initial screening.",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/",
+    "pass": 1
+   },
+   {
+    "quote": "This study established the pattern that shaped the rest of my RCS work: generate broadly, reject invalid configurations before expensive analysis, screen the valid population efficiently, and reserve greater fidelity for the best candidates. I then carried that architecture forward into a more complex aircraft model.",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/",
+    "pass": 1
+   },
+   {
+    "quote": "We've learned, and I think a lot is down to using nTop, that we can print the entire drone without an underlying carrying structure. And that's kind of revolutionary.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop’s ability to create reliable, complex geometries efficiently allowed RICOH to develop and evaluate several structures for the camera cover before arriving at an optimal solution. The resulting design met their thermal management requirements and demonstrated the capabilities of RICOH's aluminum binder jetting technology.",
+    "url": "https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop Revenue 2024: $17.9M Est.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Annual revenue",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTop revenue",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTop has not published its revenue. GetLatka estimates it at about $17.9M a year (June 2024).",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is nTop's revenue?",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates nTop's revenue at about",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "SalesTech",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tiny Team Giant Revenue",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Tools",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue model",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Root Ventures (lead); Bob Pasker; Haystack; Notation Capital; Colin Carrier; Pathbreaker Ventures; 1517 Fund; Greg Schroy; Bob Pasker's Syndicate",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Colin Carrier",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Multiple",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "EV/Revenue",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Forward Industries Inc is a provider of carrying and protective solutions. The company operates in two segments: design and digital assets. The design segment consists of two operating segments (IPS and Kablooe, which have been aggregated into one reportable segment) that provide a full spectrum of hardware and software product design and engineering services to customers predominantly.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT: Global 3D printer revenues rise 31% year-on-year",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry's Nikolaus Mroncz details the three tests that engineering and procurement teams should carry out before proceeding with additive manufacturing.",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, you can launch a cosmetic brand without manufacturing by using private label services. This lets you focus on branding and sales while a third party handles production.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers and Sales Representatives",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "Offices closed for the winter holiday",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Benchmark 350K+ Funding Rounds and Disclosed VC Valuation Multiples",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Cloudfluid, a specialist in computational fluid dynamics (CFD) software, has been acquired by nTop, in a move it describes as revolutionising how engineers design high-performance products.",
+    "url": "https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop announces acquisition of computational fluid dynamics company cloudfluid",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   },
+   {
+    "quote": "has acquired computational fluid dynamics company",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   },
+   {
+    "quote": ". nTop has now moved to integrate the entire cloudfluid business into its operations to further improve rapid and dynamic product development. Financial terms of the transaction have not been disclosed.",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Education and No-Profit",
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "EV/EBITDA",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems donates MultiJet 3D printer to nonprofit for production of customised dentures",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   },
+   {
+    "quote": "Private label mistakes to avoid often centre around poor financial planning. Many entrepreneurs focus only on manufacturing costs whilst ignoring dozens of other expenses that determine true profitability.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "nTop Secures $65M in Series D Funding — nTop Secures $65M in Series D Funding nTop https://www.ntop.com > blog > ntopo...",
+    "url": "https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "The Company - Ntop — The Company - Ntop ntop.org https://www.ntop.org > the-company",
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop - 2026 Company Profile , Team, Funding & Competitors — nTop - 2026 Company Profile , Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Revenue 2024: $17.9M Est. - GetLatka — nTop Revenue 2024: $17.9M Est. - GetLatka GetLatka https://getlatka.com > companies > ntop",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTop - Overview, News & Similar companies | ZoomInfo.com — nTop - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > ntopolo...",
+    "url": "https://www.zoominfo.com/c/ntopology-inc/420972350",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology Valuation, Funding & Investors - Multiples.vc — nTopology Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTop - 2026 Company Profile, Team, Funding & Competitors — nTop - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "pass": 3
+   },
+   {
+    "quote": "Ntop - Crunchbase Company Profile & Funding — Ntop - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > ntop-1...",
+    "url": "https://www.crunchbase.com/organization/ntop-1d38",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology Raises $65M for its Next Generation Engineering ... — nTopology Raises $65M for its Next Generation Engineering ... AlleyWatch https://www.alleywatch.com > 2021/11",
+    "url": "https://www.alleywatch.com/2021/11/ntopology-engineering-design-software-advanced-manufacturing-bradley-rothenberg/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Acquires cloudfluid to Advance the Design‑to ... — nTop Acquires cloudfluid to Advance the Design‑to ... nTop https://www.ntop.com > blog > ntop-...",
+    "url": "https://www.ntop.com/resources/blog/ntop-acquires-cloudfluid-to-advance-computational-design/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop acquires Cloudfluid GPU-native CFD software - develop3d — nTop acquires Cloudfluid GPU-native CFD software - develop3d develop3d https://develop3d.com > cad > ntop-a...",
+    "url": "https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop announces acquisition of computational fluid dynamics ... — nTop announces acquisition of computational fluid dynamics ... TCT Magazine https://www.tctmagazine.com > ntop-...",
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "pass": 3
+   },
+   {
+    "quote": "How to label parts - nTop Support — How to label parts - nTop Support nTop Support https://support.ntop.com > articles > 1...",
+    "url": "https://support.ntop.com/hc/en-us/articles/18683788336531-How-to-label-parts",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Live: Labeling Design Variations with Serial Numbers — nTop Live: Labeling Design Variations with Serial Numbers YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "pass": 3
+   },
+   {
+    "quote": "nTop - LinkedIn — nTop - LinkedIn LinkedIn https://www.linkedin.com > ntopology",
+    "url": "https://www.linkedin.com/company/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology launches the latest addition of its software, nTop ... — nTopology launches the latest addition of its software, nTop ... Metal Additive Manufacturing magazine https://www.metal-am.com > ntopolo...",
+    "url": "https://www.metal-am.com/ntopology-launches-the-latest-addition-of-its-software-ntop-platform-2-0/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Platform 2.4 Review - DEVELOP3D — nTop Platform 2.4 Review - DEVELOP3D develop3d https://develop3d.com > reviews > re...",
+    "url": "https://develop3d.com/reviews/review-ntop-platform-2-4/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners – ntop — Partners – ntop ntop.org https://www.ntop.org > about-us > pa...",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Partners — nTop Partners nTop https://www.ntop.com > partners",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale & nTop Announce Native Integration for Simulation — SimScale & nTop Announce Native Integration for Simulation SimScale https://www.simscale.com > Press",
+    "url": "https://www.simscale.com/press/simscale-and-ntop-integration-announcement/",
+    "pass": 3
+   },
+   {
+    "quote": "Products and Licenses – Page 2 - Ntop — Products and Licenses – Page 2 - Ntop ntop.org https://www.ntop.org > page",
+    "url": "https://www.ntop.org/page/2/?faq-group=products-and-licenses",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology | Ansys Official Technology Partner — nTopology | Ansys Official Technology Partner Ansys https://ansys.synopsys.com > ntopology",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers - Ntop — Resellers - Ntop ntop.org https://www.ntop.org > resellers",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop /nTopology – 3Dプリンタの可能性を限界まで高める ... — nTop /nTopology – 3Dプリンタの可能性を限界まで高める ... ntop.jp https://ntop.jp",
+    "url": "https://ntop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "엔탑(N.TOP) (@official_ntop) / X — 엔탑(N.TOP) (@official_ntop) / X X https://x.com > official_ntop",
+    "url": "https://x.com/official_ntop",
+    "pass": 3
+   },
+   {
+    "quote": "nTop | テクノソリューションズ | evort — nTop | テクノソリューションズ | evort evort https://evort.jp > 株式会社テクノソリューションズ",
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "pass": 3
+   },
+   {
+    "quote": "ntop – Network Visibility and Cybersecurity — ntop – Network Visibility and Cybersecurity ntop.org https://www.ntop.org",
+    "url": "https://www.ntop.org/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop — Colt company profile - Dealroom — nTop — Colt company profile - Dealroom Dealroom https://dealroom.co > ntopology",
+    "url": "https://dealroom.co/companies/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop company information, funding & investors — nTop company information, funding & investors Startup Luxembourg https://directory.startupluxembourg.com > ...",
+    "url": "https://directory.startupluxembourg.com/companies/ntopology",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "Top 10 Mistakes to Avoid When Starting Out with Private Labelling",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Private labelling mistakes can make or break your entrepreneurial journey before it even begins. Private labelling involves partnering with manufacturers to sell products under your own brand name, offering a faster route to market than developing products from scratch.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "However, many newcomers fall into costly traps that could have been easily avoided. Understanding these common pitfalls is essential for anyone starting out in private labelling, as even small oversights can lead to inventory disasters, legal issues, or brand reputation damage.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Successful private labelling requires 3–7 months of research to validate demand and competition.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing consistency and early customer feedback will convert your launch into scalable private label brand.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "You have found what seems like the perfect product idea, but excitement clouds judgment. Many entrepreneurs jump straight to manufacturing without understanding their market, competition, or customer needs. This represents one of the most common private label mistakes that destroys businesses before they even launch.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "The most successful private label brands solve real problems, not imagined ones. Talk to your target customers before you talk to manufacturers.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "The cheapest manufacturer often becomes the most expensive mistake. Low prices usually signal compromised quality, unreliable delivery, or hidden costs that emerge later. This is amongst the top private label mistakes to avoid when building your brand.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Poor timeline planning ranks amongst the most costly common private label mistakes entrepreneurs make.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing minimums exist for good reasons, such as economies of scale, setup costs, and quality consistency. Many entrepreneurs aren’t prepared for the financial commitment required, making this one of the critical private label mistakes to avoid from day one.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Not all manufacturing is equal. Without understanding quality standards and testing procedures, you risk receiving substandard products that damage your brand permanently. Quality negligence causes direct damage to brand reputation.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Private label mistakes to avoid often centre around poor financial planning. Many entrepreneurs focus only on manufacturing costs whilst ignoring dozens of other expenses that determine true profitability.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Many first-time founders assume that if a product is trending, it’s the best place to start. In reality, this is one of the biggest common private label mistakes. Jumping into an overcrowded niche or picking a product without researching demand often leads to unsold stock, wasted investment, and a damaged brand reputation.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Analyse your audience, study reviews of competing products, and identify gaps where your brand can add value",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Even if your formulation is solid, failing to invest in branding and differentiation is a major private label mistake to avoid. Too many products look and feel the same, blending into the crowd with generic labels or uninspired packaging.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Even small touches like embossing, custom colours, or sustainable packaging materials can elevate your brand.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Launching your product is only half the journey. Another common private label mistake is assuming “a good product sells itself.” In reality, without consistent marketing and customer engagement, even the best product can fail.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Launching a private label brand is exciting, but avoiding these mistakes is what sets winners apart. Don’t let poor planning, weak branding, or missed feedback hold you back.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Take the smarter route: Partner with us to scale your brand the right way, from day one!",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "1.What is a private label in cosmetics?",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "A private label in cosmetics means a third-party manufacturer produces products sold under another brand’s name, letting businesses offer their own cosmetic lines without needing their own factories.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, you can launch a cosmetic brand without manufacturing by using private label services. This lets you focus on branding and sales while a third party handles production.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "3. How long does it take to launch a private label cosmetic line?",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "Launching a private label cosmetic line typically takes 3 to 9 months, depending on product complexity, customisation, and regulatory approvals.",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   },
+   {
+    "quote": "4. What’s the minimum order quantity for private label cosmetics?",
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Mountain View, Andover, Washington D.C. (USA), Tokyo (Japan), Seoul (South Korea) and São Paulo",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Distributors",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": ". (Japan)",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ntop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/webinars/ntop-for-student-design-teams/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-between-implicit-geometry-and-flight-physics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/ntop-interns-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/team/bradley-rothenberg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/team/joel-bejar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/team/valerie-chianuri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/team/kevin-chlan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/team/jason-gordon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/contact-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/ntop-coreweave-nasa-2030-grand-challenge-in-cfd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/request-a-demo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/cold-plate-automotive-power-electronics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/cobra-aero-multiphysics-simulation-drone-engine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/aerojet-rocketdyne-low-cost-quad-thruster/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/ntop.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bhp.com/investor-centre/reports-and-presentations/annual-report",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.intapp.com/financials/quarterly-results/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.netflix.net/financials/annual-reports-and-proxies/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tieto.com/siteassets/01-group/investor/files/2025/tieto_annual_report_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/ntopology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/ntop-1d38",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.ntop.com/hc/en-us/articles/18683788336531-How-to-label-parts",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ntopology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.metal-am.com/ntopology-launches-the-latest-addition-of-its-software-ntop-platform-2-0/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.selfnamed.com/en/private-label-skincare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xiranskincare.com/top-10-global-private-label-skin-care-manufacturers-recommended-by-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/marketing/brand-growth-and-development/private-label-strategies-for-brand-growth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/press/simscale-and-ntop-integration-announcement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.org/page/2/?faq-group=products-and-licenses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=jPzwiuOQIwQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.set.or.th/en/market/product/stock/quote/top/financial-statement/financial-statements-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otb.net/en/financial-statement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tieto.com/en/investors/financial-reports-and-presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://totalenergies.com/investors/publications-and-regulated-information/regulated-information/annual-financial-reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DQG3zpjAaOu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ntop.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/official_ntop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://evort.jp/presenters/t-sol/ntop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/ntop-1d38",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/crunchbase",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/ntopology/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zippia.com/crunchbase-careers-1457159/revenue/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "nTop revenue profitable",
+   "results": [
+    "https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/",
+    "https://www.ntop.org/about-us/the-company/",
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "https://getlatka.com/companies/ntop.com",
+    "https://www.zoominfo.com/c/ntopology-inc/420972350",
+    "https://rocketreach.co/ntop-profile_b558412ff6417326",
+    "https://pitchbook.com/profiles/company/153371-89",
+    "https://www.crunchbase.com/organization/ntop-1d38",
+    "https://equityzen.com/company/ntop1d38/",
+    "https://techlist.ai/ntop.com"
+   ]
+  },
+  {
+   "query": "nTop EBITDA net income annual report",
+   "results": [
+    "https://www.bhp.com/investor-centre/reports-and-presentations/annual-report",
+    "https://investors.intapp.com/financials/quarterly-results/default.aspx",
+    "https://ir.netflix.net/financials/annual-reports-and-proxies/default.aspx",
+    "https://www.tieto.com/siteassets/01-group/investor/files/2025/tieto_annual_report_2025.pdf",
+    "https://www.ril.com/investors/financial-reporting",
+    "https://www.sec.gov/Archives/edgar/data/40987/000004098726000012/a2025annualreport.pdf",
+    "https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/2026/thd-annualreport-2025.pdf",
+    "https://group.ntt/en/ir/library/results/",
+    "https://www.generali.com/investors/financial-results-and-reports/financial-results",
+    "https://investors.netapp.com/financials/annual-reports/default.aspx"
+   ]
+  },
+  {
+   "query": "nTop funding raised",
+   "results": [
+    "https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/",
+    "https://multiples.vc/private-comps/ntopology",
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "https://www.crunchbase.com/organization/ntop-1d38",
+    "https://www.alleywatch.com/2021/11/ntopology-engineering-design-software-advanced-manufacturing-bradley-rothenberg/",
+    "https://pitchbook.com/profiles/company/153371-89",
+    "https://startupintros.com/orgs/ntopology",
+    "https://www.insightpartners.com/ideas/ntopology-announces-40m-series-c-funding-led-by-insight-partners/",
+    "https://www.linkedin.com/posts/ntopology_ntopology-secures-65m-in-series-d-funding-activity-6867099072243765248-dXV7",
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU/funding-and-investors"
+   ]
+  },
+  {
+   "query": "nTop acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.ntop.com/resources/blog/ntop-acquires-cloudfluid-to-advance-computational-design/",
+    "https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/",
+    "https://www.tctmagazine.com/ntop-announces-acquisition-of-cloudfluid/",
+    "https://www.ntop.org/about-us/the-company/",
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "https://3dprint.com/316451/ntop-acquires-cloudfluid-further-integrates-cfd-simulation/",
+    "https://www.linkedin.com/posts/ntopology_tomorrow-ntop-and-physicsx-show-what-a-closed-loop-activity-7475628325961654273--Taa",
+    "https://builtin.com/company/ntop/faq/stability-growth",
+    "https://www.crunchbase.com/organization/ntop-1d38",
+    "https://equityzen.com/company/ntop1d38/"
+   ]
+  },
+  {
+   "query": "nTop white label",
+   "results": [
+    "https://support.ntop.com/hc/en-us/articles/18683788336531-How-to-label-parts",
+    "https://www.youtube.com/watch?v=UCJbR-tGizI",
+    "https://www.linkedin.com/company/ntopology",
+    "https://www.metal-am.com/ntopology-launches-the-latest-addition-of-its-software-ntop-platform-2-0/",
+    "https://develop3d.com/reviews/review-ntop-platform-2-4/",
+    "https://baike.baidu.com/es/item/nTop/7359473",
+    "https://www.digitalengineering247.com/company/ntop",
+    "https://atlas.verdantix.com/vendors/ntop-platform",
+    "https://www.voxelmatters.com/ntopology-launches-ntop-4/",
+    "https://www.ntop.org/?faq-group=products-and-licenses"
+   ]
+  },
+  {
+   "query": "nTop rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://www.selfnamed.com/en/private-label-skincare",
+    "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "https://xiranskincare.com/top-10-global-private-label-skin-care-manufacturers-recommended-by-2025/",
+    "https://www.linkedin.com/top-content/marketing/brand-growth-and-development/private-label-strategies-for-brand-growth/",
+    "https://oem-cosmetic.com/en/private-label-hair-care-manufacturer",
+    "https://www.vogonagency.com/blog/tips-6-private-label-cosmetics-companies-amp-how-to-choose-one",
+    "https://zmbeautysupply.com/blogs/news/top-private-label-cosmetics-manufacturers-in-mexico-a-strategic-guide-by-zm-beauty-supply",
+    "https://blankabrand.com/blogs/beyond-the-brand-beauty-blog/behind-the-scenes-how-private-label-beauty-and-wellness-products-work?srsltid=AYCX9vJ01L7On2MyvKddAgI5BkM662fuEnESS1Txborr7OuAyXFQQexO",
+    "https://nutralabs.com.au/what-is-the-difference-between-private-label-manufacturing-and-contract-manufacturing/",
+    "https://newtropin.com/services/private-labeling"
+   ]
+  },
+  {
+   "query": "nTop OEM SDK licensing partners",
+   "results": [
+    "https://www.ntop.org/about-us/partners-and-resellers/",
+    "https://www.ntop.com/partners/",
+    "https://www.simscale.com/press/simscale-and-ntop-integration-announcement/",
+    "https://www.ntop.org/page/2/?faq-group=products-and-licenses",
+    "https://ansys.synopsys.com/partner-ecosystem/technology-partners/ntopology",
+    "https://www.imeche.org/news/news-article/webinar-create-transformative-parts-with-an-edu-ntop-license-for-your-team",
+    "https://www.linkedin.com/posts/ntopology_today-were-introducing-ntop-engines-a-activity-7514076064952786944-ojmY",
+    "https://github.com/ntop/License",
+    "https://www.voxelmatters.com/ntop-launches-ntop-5-with-new-integration-partners/",
+    "https://support.ntop.com/hc/en-us/articles/6022955299091-nTop-Licensing-Options"
+   ]
+  },
+  {
+   "query": "nTop reseller partner program",
+   "results": [
+    "https://www.ntop.org/about-us/resellers/",
+    "https://www.ntop.org/about-us/partners-and-resellers/",
+    "https://www.ntop.com/partners/",
+    "https://www.youtube.com/watch?v=jPzwiuOQIwQ",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.n-able.com/partnerships/reseller-program",
+    "https://www.cloudeagle.ai/blogs/software-reseller-programs",
+    "https://www.partner.io/partner-types/reseller-partners",
+    "https://partner.tp-link.com/",
+    "https://www.bing.com/aclick?ld=e8yhp3iTjKmlLyX88x8SckhzVUCUwtNoxbq7o-sTJ3wdoGpRfSplCbbj2e8EEp9dedZV9X6ML6mgWAIg8fZlzKGWu5ktjTpvHUqYY-YhRE8Mr4zbRu1ZGjj7LfSmtHoFUMBgLRqJ0b9W3PCqqE0-UR79WCwqOhM_fNIUKo-49B0utjp2uWfVLO8aGTL3YVESKTY5Cj_Gc1I3UcgzlRjVzayRkGy7SHDD0qJsCfh6ZVrDJftfmx&u=aHR0cHMlM2ElMmYlMmZ3d3cub2Rvby5jb20lMmZpbmR1c3RyaWVzJTJmc29mdHdhcmUtcmVzZWxsZXIlM2ZuZXR3b3JrJTNkbyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE5BLUVOLUluZHVzdHJ5JTI2dXRtX3Rlcm0lM2REaWdpdGFsJTI1MjBCdXNpbmVzcyUyNTIwU29sdXRpb24lMjUyMFNvZnR3YXJlJTI1MjBSZXNlbGxlcnV0bV9nY2xpZCUzZCUyNm1zY2xraWQlM2Q5ZWQzZGJkODMwMDYxZDgxMmY5MmIxMzE4YTY4ZTdkZQ&rlid=9ed3dbd830061d812f92b1318a68e7de"
+   ]
+  },
+  {
+   "query": "nTop Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.set.or.th/en/market/product/stock/quote/top/financial-statement/financial-statements-analysis",
+    "https://www.otb.net/en/financial-statement",
+    "https://www.tieto.com/en/investors/financial-reports-and-presentations/",
+    "https://totalenergies.com/investors/publications-and-regulated-information/regulated-information/annual-financial-reports",
+    "https://www.jotun.com/ww-en/about-jotun/financial-and-annual-reports",
+    "https://www.euronext.com/en/investor-relations/financial-information/financial-reports",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets",
+    "https://enento.com/financial-reports-and-presentations/",
+    "https://www.workday.com/en-us/perspectives/finance/top-financial-reports-small-businesses.html",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "nTop Japan",
+   "results": [
+    "https://www.instagram.com/p/DQG3zpjAaOu/",
+    "https://ntop.jp/",
+    "https://x.com/official_ntop",
+    "https://evort.jp/presenters/t-sol/ntop",
+    "https://www.ntop.org/",
+    "https://www.t-sol.co.jp/product/ntopology/",
+    "https://www.bubbleforjapan.com/news/detail/164",
+    "https://baike.baidu.com/ja/item/nTop/7359475",
+    "https://news.sharelab.jp/cases/other-fields/ntop-5-240705/",
+    "https://x.com/official_ntop/status/2033484482578403817"
+   ]
+  },
+  {
+   "query": "nTop employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/organization/ntop-1d38",
+    "https://www.owler.com/company/crunchbase",
+    "https://dealroom.co/companies/ntopology/",
+    "https://www.zippia.com/crunchbase-careers-1457159/revenue/",
+    "https://directory.startupluxembourg.com/companies/ntopology",
+    "https://www.linkedin.com/posts/dealroom-co_where-do-ai-companies-rank-against-big-tech-activity-7317539243893944320-_ove",
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "https://rocketreach.co/ntop-profile_b558412ff6417326",
+    "https://getlatka.com/companies/dealroom.co",
+    "https://dealroom.co/our-data/"
+   ]
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部39頁・検索11回）"
+ }
+}
