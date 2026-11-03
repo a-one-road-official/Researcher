@@ -1,0 +1,297 @@
+{
+ "name": "日本製測定機器・計測器の輸出",
+ "en": "Japanese measuring instruments export",
+ "aliases": [
+  "測定機器 輸出",
+  "計測器 輸出",
+  "精密測定 輸出"
+ ],
+ "context": "輸出",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:43:47.483999+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.keikoren.or.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalnote.jp/post-12120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lanes.info/precision-instruments-industry-trade-trend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jemima.or.jp/statistics/file/mof_2016_09-10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.automation-news.jp/2024/12/87378/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.solid-corp.com/column/184/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.co.jp/reports/japan-metrology-market-mrf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXLASFB26H0V_W4A820C1L01000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9124381",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-reports/japan-test-and-measurement-equipment-market/884",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sugi-net.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/235/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jisc-jp.com/company/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-denkei.co.jp/overseas_operation/expand_overseas_business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/b9bad500-5ed3-49bf-86fa-c262a85a48d0?page=9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1937",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tradingeconomics.com/japan/exports/india/machines-chapter-90-profile-project",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nicchukei.co.jp/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-analytical-instruments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing.asia/manufacturing/news/japanese-machine-tool-orders-hit-record-overseas-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tendata.com/blogs/export/10884.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.volza.com/global-trade-data/japan-export-trade-data/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/theme/export/js-links/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gmo-globalec.co.jp/cross-border-ec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-pro.jp/yomyom-colorme/106362",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/455203",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ayusawa-partners.jp/column/ec-oukyo-kaigai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hojokinmatch.jp/column/column-s-1345",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/qanda03b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keysight.com/jp/ja/lib/resources/miscellaneous/export-control.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saburai.com/%E8%A7%A3%E8%AA%AC-%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%83%BB%E5%88%86%E6%9E%90%E8%A3%85%E7%BD%AE%E3%81%AE%E8%A9%B2%E9%9D%9E%E5%88%A4%E5%AE%9A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adcmt.com/support/export",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmcti.org/publication/correction/pdf/2018/ka6(6).pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本製測定機器・計測器の輸出 輸出額 推移",
+   "results": [
+    "https://www.keikoren.or.jp/statistics/",
+    "https://www.globalnote.jp/post-12120.html",
+    "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_02.html",
+    "https://lanes.info/precision-instruments-industry-trade-trend/",
+    "https://www.jemima.or.jp/statistics/file/mof_2016_09-10.pdf",
+    "https://www.wis-jma.go.jp/sataid/ec/IR20261022.Z0020",
+    "https://www.researchnester.jp/industry-reports/japan-test-and-measurement-equipment-market/884",
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.customs.go.jp/toukei/srch/index.htm"
+   ]
+  },
+  {
+   "query": "日本製測定機器・計測器の輸出 輸出 増加 海外需要",
+   "results": [
+    "https://www.automation-news.jp/2024/12/87378/",
+    "https://www.jetro.go.jp/biz/areareports/special/2018/1001/efa7580c25d588d6.html",
+    "https://global.solid-corp.com/column/184/",
+    "https://www.globalresearch.co.jp/reports/japan-metrology-market-mrf/",
+    "https://www.nikkei.com/article/DGXLASFB26H0V_W4A820C1L01000/",
+    "https://www.globalnote.jp/post-12120.html",
+    "https://lanes.info/precision-instruments-industry-trade-trend/",
+    "https://www.atpress.ne.jp/news/9124381",
+    "https://www.researchnester.jp/industry-reports/japan-test-and-measurement-equipment-market/884",
+    "https://www.keikoren.or.jp/statistics/"
+   ]
+  },
+  {
+   "query": "日本製測定機器・計測器の輸出 輸出商社 代理店",
+   "results": [
+    "https://www.sugi-net.co.jp/business/",
+    "https://metoree.com/companies/235/distributors/",
+    "https://jisc-jp.com/company/agency/",
+    "https://www.n-denkei.co.jp/overseas_operation/expand_overseas_business/",
+    "https://baseconnect.in/companies/keyword/b9bad500-5ed3-49bf-86fa-c262a85a48d0?page=9",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1937",
+    "https://www.kk-yanagisawa.co.jp/reason.html",
+    "https://www.keisoku.co.jp/inquiry/agent/",
+    "https://www.tokairiki.co.jp/link/",
+    "https://distymap.com/categories/test-measurement"
+   ]
+  },
+  {
+   "query": "Japanese measuring instruments export demand overseas buyers",
+   "results": [
+    "https://tradingeconomics.com/japan/exports/india/machines-chapter-90-profile-project",
+    "https://nicchukei.co.jp/en",
+    "https://www.trade.gov/market-intelligence/japan-analytical-instruments",
+    "https://manufacturing.asia/manufacturing/news/japanese-machine-tool-orders-hit-record-overseas-demand",
+    "https://www.linkedin.com/pulse/japan-measuring-control-instruments-market-size-demand-growth-jk9yc",
+    "https://www.tendata.com/blogs/export/10884.html",
+    "https://www.volza.com/global-trade-data/japan-export-trade-data/",
+    "https://www.chukoichi.com/en/guide",
+    "https://www.qualitymag.com/articles/85074-industry-news-mitutoyo-gets-export-ban",
+    "https://www.volza.com/p/flow-measuring-instrument/export-data/exports-from-japan/"
+   ]
+  },
+  {
+   "query": "日本製測定機器・計測器の輸出 越境EC 手数料",
+   "results": [
+    "https://www.jetro.go.jp/theme/export/js-links/",
+    "https://www.gmo-globalec.co.jp/cross-border-ec/",
+    "https://shop-pro.jp/yomyom-colorme/106362",
+    "https://www.nikkan.co.jp/articles/view/455203",
+    "https://ayusawa-partners.jp/column/ec-oukyo-kaigai",
+    "https://www.hojokinmatch.jp/column/column-s-1345",
+    "https://ec-hanbai-suishin.jp/article/998/",
+    "https://force-r.co.jp/column/column-29289/",
+    "https://ec-tsumugu.com/method/ec-customs-tax/",
+    "https://www.customs.go.jp/tsukan/index.htm"
+   ]
+  },
+  {
+   "query": "日本製測定機器・計測器の輸出 輸出管理 該非判定",
+   "results": [
+    "https://www.meti.go.jp/policy/anpo/qanda03b.html",
+    "https://www.keysight.com/jp/ja/lib/resources/miscellaneous/export-control.html",
+    "https://www.saburai.com/%E8%A7%A3%E8%AA%AC-%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%83%BB%E5%88%86%E6%9E%90%E8%A3%85%E7%BD%AE%E3%81%AE%E8%A9%B2%E9%9D%9E%E5%88%A4%E5%AE%9A/",
+    "https://www.adcmt.com/support/export",
+    "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "https://www.jmcti.org/publication/correction/pdf/2018/ka6(6).pdf",
+    "https://www.engineer.or.jp/c_cmt/kokusai/topics/005/attached/attach_5584_1.pdf",
+    "https://www.sanwa-meter.co.jp/japan/support/security_trade.html",
+    "https://www.konicaminolta.jp/instruments/support/certificate/",
+    "https://www.meti.go.jp/policy/anpo/matrix_intro.html"
+   ]
+  }
+ ],
+ "missing": {
+  "輸出額・伸び": "記載なし（読んだ36頁・検索6回）",
+  "仕向け先": "記載なし（読んだ36頁・検索6回）",
+  "価格差・需要": "記載なし（読んだ36頁・検索6回）",
+  "取り分・商流": "記載なし（読んだ36頁・検索6回）",
+  "規制": "記載なし（読んだ36頁・検索6回）"
+ }
+}

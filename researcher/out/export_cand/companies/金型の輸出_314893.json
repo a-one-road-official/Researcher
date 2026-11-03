@@ -1,0 +1,857 @@
+{
+ "name": "金型の輸出",
+ "en": "Japanese molds and dies export",
+ "aliases": [
+  "金型 輸出",
+  "プレス金型 輸出",
+  "金型 海外"
+ ],
+ "context": "輸出",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:46:04.240652+00:00",
+ "evidence": {
+  "輸出額・伸び": [
+   {
+    "quote": "金型の輸出金額（2025年）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の輸出金額 2025年・2022年・2020年比較",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の生産額がピークだった1991年（平成3年）は1兆9,575億円で、2023年は1兆4,332億円であるため、生産額が約27%減少",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "1,229億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "1,312億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "1,272億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "1,791億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "1,174億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "1,487億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "1531億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "1,945億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "3,198億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "3,556億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "3,584億円",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の機械統計をもとにした日本金型工業会の集計では、2026年1月から7月までの金型生産額は1,866億円で、前年同期比は105.15%でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、日本から出ていく金型は年間2,000億円を超え、入ってくる金型を上回り続けています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "35カ国の合計は13兆1,221億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易統計サービスのTrendEconomyがまとめた2023年の集計では、HS8480の世界輸出額は178億ドル、HS8207.30は54.3億ドルでした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の金型生産額は7兆382億円で、35カ国合計の53.6%を占めます（2024年）",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易でも同じ傾向が出ており、2023年のHS8480の世界輸出額178億ドルのうち中国が65.6億ドルで36.78%と最大、HS8207.30でも15.4億ドルで28%を占めました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の金型生産額は2兆3,014億円で17.5%を占めます（2021年）",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本から見ても、メキシコは2025年の金型輸出先の4位で213億円、全体の10%を占めます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の輸出金額（2020年）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の生産高がピークだった1991年（平成3年）は1兆9,575億円で、2019年（平成30年）は1兆3,602億円であるため、金型生産高は30%減少",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "上記グラフは、日本の金型輸出金額（2020年）をまとめたものです",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型輸出金額上位はアメリカ、中国、タイ、メキシコ、インドネシア（2020年データ）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   }
+  ],
+  "仕向け先": [
+   {
+    "quote": "世界の金型生産高上位は中国、アメリカ、日本、韓国、ドイツ",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "1位の中国は日本の約7倍の生産高",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の金型生産高は2021年から2024年にかけて約53%増加",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の金型生産髙について、2024年は2019年と比較して約90%増加",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型輸出金額上位はアメリカ、タイ、中国、メキシコ、ベトナム",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年から中国が2位から3位、ベトナムが7位から5位に変わりました",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は世界の金型生産高1位の中国と2位のアメリカに対して、輸出しています",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "中国への金型輸出金額は2022年から2025年にかけて約30%減少",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "中国に対する金型輸出金額について、2025年は2020年と比較して約48%減少",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型輸入金額上位は中国、韓国、タイ",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は世界の金型生産高1位の中国から輸入しています",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "中国からの金型輸入金額は2022年から2025年にかけて約14%増加",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "中国からの金型輸入金額について、2025年は2020年と比較して約50%増加",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金型生産高（2024年）について、上位は中国、アメリカ、日本、韓国、ドイツ",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の勢力図では、中国が圧倒的な量を握ります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "通して考えたいのは、量では中国に半分以上を持っていかれた日本の金型産業が、どこで勝ち続けているのかという問いです",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "円高と国内需要の頭打ちを受けて、顧客である家電と自動車の工場が中国や東南アジアへ移ります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年には、自動車ボディ用大型プレス金型を手がけてきたオギハラの館林工場が中国のBYDグループに買収され、技術の海外流出として広く報じられました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "中国｜量で世界の半分を超える",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の金型生産額は7兆382億円で、35カ国合計の53.6%を占めます（2024年）",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金型の半分以上は中国でつくられている計算です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易でも同じ傾向が出ており、2023年のHS8480の世界輸出額178億ドルのうち中国が65.6億ドルで36.78%と最大、HS8207.30でも15.4億ドルで28%を占めました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出先は米国が10.3%、メキシコが7.55%、ベトナムが6.67%、インドが6.39%、ドイツが6.1%と分散しています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "米国とカナダ、メキシコ｜北米の自動車が巨大な需要をつくる",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の金型生産額は2兆3,014億円で17.5%を占めます（2021年）",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、米国の統計には治具など金型以外の特殊工具が含まれるという指摘があり、他国と単純には比べにくい面があります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金型生産高上位は中国、アメリカ、日本、韓国、ドイツ",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "1位の中国は日本の約2.7倍、2位のアメリカは日本の約1.4倍の生産高",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "中国および韓国の躍進が目覚ましい",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型輸出金額上位はアメリカ、中国、タイ、メキシコ、インドネシア",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は世界の金型生産高1位の中国と2位のアメリカに対して、輸出しています",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型輸入金額上位は中国、韓国、タイ",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は世界の金型生産高1位の中国から輸入しています",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金型生産高上位は、中国、アメリカ、日本、韓国、ドイツ",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "1位の中国は日本の約2.7倍、2位のアメリカは日本の約1.4倍の生産高（2019年データ）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型輸出金額上位はアメリカ、中国、タイ、メキシコ、インドネシア（2020年データ）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型輸入金額上位は中国、韓国、タイ（2020年データ）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "中国物流カレンダー",
+    "url": "https://hunade.com/kanagata-yunyu",
+    "pass": 3
+   },
+   {
+    "quote": "中国、韓国、タイ、インドネシア、ベトナムその他の国に海外輸出を行っています",
+    "url": "https://mold-meister.com/about-export",
+    "pass": 3
+   },
+   {
+    "quote": "（米国イリノイ州）",
+    "url": "https://jtdtky.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "米国シカゴ市に駐在員事務所を設置",
+    "url": "https://jtdtky.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "米国シカゴ市に駐在員事務所を現地法人化",
+    "url": "https://jtdtky.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "価格差・需要": [
+   {
+    "quote": "日本の金型生産額・数量・単価、需要業界別の金型生産金額構成、世界の金型生産高と輸出・輸入先、金型製造業の事業所・従業員数の推移をまとめ",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "需要業界別の金型生産金額構成（2024年）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "需要業界別の金型生産金額構成",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "上記グラフは、需要業界別の金型生産金額構成（2024年）をまとめたものです",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "需要業界別の金型生産金額構成（2024年）について、圧倒的に自動車・二輪・輸送用車両機器が多く、728%を占めている",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "課題は、自動車の電動化による需要の入れ替わり、1991年に約13,000あった事業所が約4,000まで減ったこと、型代と無償保管をめぐる取引慣行、そして技能者の確保です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会が示す需要業界別の生産金額構成比では、2025年時点で自動車、二輪、輸送用車両機器が73.0%を占め、産業機器が6.0%、生活用品が2.9%、情報・通信機器が2.8%と続きます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "1950年代から1960年代に家電と自動車の量産が始まると、プレス型と射出成形型の需要が一気に増えます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "円高と国内需要の頭打ちを受けて、顧客である家電と自動車の工場が中国や東南アジアへ移ります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "米国とカナダ、メキシコ｜北米の自動車が巨大な需要をつくる",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車と家電、半導体という需要産業が国内にそろっていることが金型産業を支えています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "組み立てが移る先に型の需要が移り、その調達先をめぐって日本と中国が競う構図です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "直近の市況｜2026年の生産と需要はどう動いているか",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "需要側の変化も見ておきます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "モーターの鉄心を薄い電磁鋼板から打ち抜いて積み重ねる順送型のように、需要が伸びている領域もあります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元データから自動で見積もりと加工を進める仕組みも広がり、ミスミグループ本社のmeviyが2026年3月期に219億円まで伸びたのは、その需要の大きさを示しています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため金型は製品開発の最上流に置かれ、自動車、二輪、輸送用車両機器だけで日本の金型生産額の73.0%（2025年）を占めるほど、需要産業と一体で動いてきました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型生産額、産業別の生産需要の他、世界の金型生産高と輸出・輸入先、金型製造業の事業所・従業員数の推移をまとめ",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の業界別の生産需要（2020年）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の業界別の生産需要",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "上記グラフは、需要業界別の金型生産金額構成（2020年）をまとめたものです",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型の産業別の生産需要は圧倒的に自動車用が多く、73.7%を占めている（2020年データ）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   }
+  ],
+  "規制": [
+   {
+    "quote": "また、金型の用途や仕様によっては、外為法上の輸出管理確認が必要になる可能性があります",
+    "url": "https://hunade.com/kanagata-yunyu",
+    "pass": 3
+   },
+   {
+    "quote": "特に、特定の産業用途、精密加工、軍事転用可能性があるもの、特殊材料や高度な技術に関係するものは、該非判定や用途確認を行ってください",
+    "url": "https://hunade.com/kanagata-yunyu",
+    "pass": 3
+   },
+   {
+    "quote": "輸出管理の基本は、",
+    "url": "https://hunade.com/kanagata-yunyu",
+    "pass": 3
+   },
+   {
+    "quote": "輸出管理・該非判定の確認",
+    "url": "https://hunade.com/kanagata-yunyu",
+    "pass": 3
+   },
+   {
+    "quote": "用途・仕様により輸出管理確認を行います",
+    "url": "https://hunade.com/kanagata-yunyu",
+    "pass": 3
+   },
+   {
+    "quote": "金型は、HSコード、無償提供時の評価申告、輸出管理、重量物輸送、保険条件まで確認が必要です",
+    "url": "https://hunade.com/kanagata-yunyu",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定や用途確認が必要か確認します",
+    "url": "https://hunade.com/kanagata-yunyu",
+    "pass": 3
+   },
+   {
+    "quote": "金型の輸出入では、HSコードや関税だけでなく、評価申告、無償提供、関連会社間取引、輸出管理、重量物輸送まで確認する必要があります",
+    "url": "https://hunade.com/kanagata-yunyu",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 輸出管理リスクの初期確認",
+    "url": "https://hunade.com/kanagata-yunyu",
+    "pass": 3
+   }
+  ],
+  "取り分・商流": [
+   {
+    "quote": "長きに亘り日本国内において独占販売代理店権を取得した海外トップブランド２０数社の製品を保有している唯一の商社です",
+    "url": "https://jtdtky.co.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boyanmfg.com/ja/export-molds-vs-demestic-use-injection-molds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F9381491&contentNo=1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.antenna.co.jp/kpd/case001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/c0620.html?srsltid=AYCX9vK8Uj4ii73F9wRdMJOP7gmfmdSP2SIj1wSxp5qO08A7RC1WpYKn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hunade.com/kanagata-yunyu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mold-meister.com/about-export",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtdtky.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/72b9afeb-19f1-408e-a06e-9baea7dbb360",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/90308/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/1021001031254",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technoplas.co.jp/business/import-and-export.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://super-ingenuity.cn/ja/export-mold-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon.com/en/articles/-/18408",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imotosangyo.biz/export_business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resourcewise.com/market-watch-blog/japans-booming-timber-exports-driven-by-chinese-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fas.usda.gov/data/japans-reopening-signals-export-opportunities",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing.asia/manufacturing/news/japans-machine-tool-exports-surge-foreign-orders-hit-776-share",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alpine-mold.com/export-injection-molds-what-global-buyers-should-know.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/services/amazon_japan_store/ekkyoechandbook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shopee.jp/column/cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx.wovn.io/blog/0036",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcci.or.jp/kokusai/ec_supportbook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/china/4746.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spool.co.jp/service/logi/overseas/ekkyouec.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futaba.co.jp/support/judgment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/guidance/guidance_2_jirei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://d21xsz2za2b5mz.cloudfront.net/8416/3945/5098/2021_05_moldbase.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cistec.or.jp/export/kyokashinsei/gaihi_tetsuzukii_kisokouza.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://image.trusco-sterra2.com/pdf/torisetsu_english/TSSWR2655_6600__TSE.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fefta-fa.com/column/2164/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金型の輸出 輸出額 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://kanagata-shimbun.com/200701news-istma/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://d-engineer.com/mold2/kanagatagyo.html",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf",
+    "https://monoscope-media.com/die-press-machining-market/"
+   ]
+  },
+  {
+   "query": "金型の輸出 輸出 増加 海外需要",
+   "results": [
+    "https://boyanmfg.com/ja/export-molds-vs-demestic-use-injection-molds/",
+    "https://www.youtube.com/watch?v=wLNl-XXdm_o",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F9381491&contentNo=1",
+    "https://kanagata-shimbun.com/200701news-istma/",
+    "https://www.antenna.co.jp/kpd/case001.html",
+    "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/c0620.html?srsltid=AYCX9vK8Uj4ii73F9wRdMJOP7gmfmdSP2SIj1wSxp5qO08A7RC1WpYKn",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://hunade.com/kanagata-yunyu",
+    "https://mold-meister.com/about-export",
+    "https://monoscope-media.com/die-press-machining-market/"
+   ]
+  },
+  {
+   "query": "金型の輸出 輸出商社 代理店",
+   "results": [
+    "https://jtdtky.co.jp/company/",
+    "https://baseconnect.in/companies/keyword/72b9afeb-19f1-408e-a06e-9baea7dbb360",
+    "https://boyanmfg.com/ja/export-molds-vs-demestic-use-injection-molds/",
+    "https://mono.ipros.com/company/detail/90308/",
+    "https://www.antenna.co.jp/kpd/case001.html",
+    "https://compalyze.co.jp/company/1021001031254",
+    "https://www.technoplas.co.jp/business/import-and-export.html",
+    "https://super-ingenuity.cn/ja/export-mold-production/",
+    "https://www.rapiddirect.com/ja/services/export-mold-manufacturing/",
+    "https://www.sh-zhongshen.com/ja/foreign-trade-knowledge/how-to-choose-export-mold/"
+   ]
+  },
+  {
+   "query": "Japanese molds and dies export demand overseas buyers",
+   "results": [
+    "https://www.instagram.com/reel/C7UCdRHS4i7/",
+    "https://www.nippon.com/en/articles/-/18408",
+    "https://www.youtube.com/watch?v=xorO_vKfjO4",
+    "https://imotosangyo.biz/export_business/",
+    "https://www.resourcewise.com/market-watch-blog/japans-booming-timber-exports-driven-by-chinese-demand",
+    "https://www.fas.usda.gov/data/japans-reopening-signals-export-opportunities",
+    "https://manufacturing.asia/manufacturing/news/japans-machine-tool-exports-surge-foreign-orders-hit-776-share",
+    "https://www.alpine-mold.com/export-injection-molds-what-global-buyers-should-know.html",
+    "https://www.gewinnmachinery.com/revealing-the-competitiveness-of-japanese-molds-in-the-world-market",
+    "https://www.linkedin.com/pulse/japan-diesandmolds-market-size-forecast-regional-1tzof"
+   ]
+  },
+  {
+   "query": "金型の輸出 越境EC 手数料",
+   "results": [
+    "https://www.jetro.go.jp/ext_images/services/amazon_japan_store/ekkyoechandbook.pdf",
+    "https://shopee.jp/column/cost/",
+    "https://mx.wovn.io/blog/0036",
+    "https://www.jcci.or.jp/kokusai/ec_supportbook.pdf",
+    "https://www.digima-japan.com/knowhow/china/4746.php",
+    "https://www.spool.co.jp/service/logi/overseas/ekkyouec.html",
+    "https://boyanmfg.com/ja/export-molds-vs-demestic-use-injection-molds/",
+    "https://hunade.com/kanagata-yunyu",
+    "https://ayusawa-partners.jp/column/ec-oukyo-kaigai",
+    "https://ekkyo-ec-junbi.com/"
+   ]
+  },
+  {
+   "query": "金型の輸出 輸出管理 該非判定",
+   "results": [
+    "https://www.futaba.co.jp/support/judgment",
+    "https://www.meti.go.jp/policy/anpo/guidance/guidance_2_jirei.pdf",
+    "https://d21xsz2za2b5mz.cloudfront.net/8416/3945/5098/2021_05_moldbase.pdf",
+    "https://www.cistec.or.jp/export/kyokashinsei/gaihi_tetsuzukii_kisokouza.html",
+    "https://image.trusco-sterra2.com/pdf/torisetsu_english/TSSWR2655_6600__TSE.pdf",
+    "https://fefta-fa.com/column/2164/",
+    "https://www.tokyo-cci.or.jp/international/outreach/column03/",
+    "https://www.jetro.go.jp/ext_images/world/security_trade_control/pdf/guide/202401_v2.pdf",
+    "https://coi-sec.tsukuba.ac.jp/export_control/goodsexport/",
+    "https://www.meti.go.jp/policy/anpo/matrix_intro.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,279 @@
+{
+ "name": "町工場の試作・部品加工の海外受託",
+ "en": "Japanese job shop machining for overseas customers",
+ "aliases": [
+  "海外向け 部品加工 受託",
+  "町工場 海外 受注",
+  "Japan machining service overseas"
+ ],
+ "context": "輸出",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:47:12.541660+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tech-journey.jp/column/11-blg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agency-assist.co.jp/column/1924/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takion21.co.jp/column/machining-overseas-transfer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshimoto-fc.co.jp/outsourcing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/mfg/articles/supplier-development6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwai-global-parts.com/reason/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnam-metal-kakou.com/2025/07/28/parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tech-journey.jp/column/fe-cu-sus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwai-global-parts.com/column/%E6%B5%B7%E5%A4%96%E9%83%A8%E5%93%81%E8%AA%BF%E9%81%94%E3%81%A7%E5%95%86%E7%A4%BE%E3%82%92%E4%BD%BF%E3%81%86%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/mfg/articles/small-factory-matching15",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bantec2022.com/archives/1438",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ozekinet.com/metal_cutting/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing.asia/manufacturing/news/japanese-machine-tool-orders-hit-record-overseas-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.naitetech.com/top-cnc-machining-companies-in-japan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resellcnc.com/cnc-resell-news/article/japanese-machine-tool-invasion-american-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/MechanicalEngineering/comments/1p8vi83/are_us_manufacturers_still_buying_mechanical/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekai-c.jp/case/column_usecase002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tech-journey.jp/column/merit062223/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ammex.co.jp/service/overseas-parts-import/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/wtm/product/detail/2001626652/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_level1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/world/security_trade_control/pdf/guide/202401_v2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpnca.or.jp/column-article/manufacturing-export-risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cistec.or.jp/service/daigaku/data/shizuoka_daigaku_anpohandbook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkakyo.org/system/files/%E5%88%9D%E5%AD%A6%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E8%BC%B8%E5%87%BA%E7%AE%A1%E7%90%86%E8%A7%A3%E8%AA%AC%E6%9B%B8%E2%80%97202410%E7%99%BA%E8%A1%8C.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://d-monoweb.com/blog/foreign-exchange-law/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "町工場の試作・部品加工の海外受託 輸出額 推移",
+   "results": [
+    "https://asiaplanning.com/machining/column/column-3626/",
+    "https://www.tech-journey.jp/column/11-blg/",
+    "https://www.agency-assist.co.jp/column/1924/",
+    "https://www.takion21.co.jp/column/machining-overseas-transfer/",
+    "https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/",
+    "https://www.yoshimoto-fc.co.jp/outsourcing/",
+    "https://www.meti.go.jp/statistics/toppage/report/minikeizai/kako/20160617minikeizai.html",
+    "https://www.jetro.go.jp/ext_images/_Reports/01/dcd5884576619dba/20160020.pdf",
+    "https://jupiter-japan.jp/journal/355/",
+    "https://www.customs.go.jp/toukei/search/index1.htm"
+   ]
+  },
+  {
+   "query": "町工場の試作・部品加工の海外受託 輸出 増加 海外需要",
+   "results": [
+    "https://asiaplanning.com/machining/column/column-3626/",
+    "https://lefixea.jp/mfg/articles/supplier-development6",
+    "https://www.agency-assist.co.jp/column/1924/",
+    "https://www.takion21.co.jp/column/machining-overseas-transfer/",
+    "https://iwai-global-parts.com/reason/strategy/",
+    "https://www.hirano-s.jp/kaigaisei",
+    "https://vietnam-metal-kakou.com/2025/07/28/parts/",
+    "https://www.tech-journey.jp/column/fe-cu-sus/",
+    "https://www.yoshimoto-fc.co.jp/outsourcing/"
+   ]
+  },
+  {
+   "query": "町工場の試作・部品加工の海外受託 輸出商社 代理店",
+   "results": [
+    "https://asiaplanning.com/machining/column/column-3626/",
+    "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "https://iwai-global-parts.com/column/%E6%B5%B7%E5%A4%96%E9%83%A8%E5%93%81%E8%AA%BF%E9%81%94%E3%81%A7%E5%95%86%E7%A4%BE%E3%82%92%E4%BD%BF%E3%81%86%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "https://www.hirano-s.jp/kaigaisei",
+    "https://www.takion21.co.jp/column/machining-overseas-transfer/",
+    "https://lefixea.jp/mfg/articles/small-factory-matching15",
+    "https://www.tech-journey.jp/column/fe-cu-sus/",
+    "https://www.bantec2022.com/archives/1438",
+    "https://www.ozekinet.com/metal_cutting/about/"
+   ]
+  },
+  {
+   "query": "Japanese job shop machining for overseas customers demand overseas buyers",
+   "results": [
+    "https://manufacturing.asia/manufacturing/news/japanese-machine-tool-orders-hit-record-overseas-demand",
+    "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "https://www.naitetech.com/top-cnc-machining-companies-in-japan.html",
+    "https://www.resellcnc.com/cnc-resell-news/article/japanese-machine-tool-invasion-american-manufacturing/",
+    "https://www.reddit.com/r/MechanicalEngineering/comments/1p8vi83/are_us_manufacturers_still_buying_mechanical/",
+    "https://seisanzai-japan.com/article/p6194/",
+    "https://japan-dev.com/blog/japan-tech-companies-hiring-from-overseas",
+    "https://www.youtube.com/watch?v=D_rQIwdG1JA",
+    "https://made-in-japan.jp/en/guide/sourcing-from-japan/",
+    "https://japanesemfg.com/category/machining/"
+   ]
+  },
+  {
+   "query": "町工場の試作・部品加工の海外受託 越境EC 手数料",
+   "results": [
+    "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://sekai-c.jp/case/column_usecase002/",
+    "https://asiaplanning.com/machining/column/column-3626/",
+    "https://www.hirano-s.jp/kaigaisei",
+    "https://www.tech-journey.jp/column/merit062223/",
+    "https://www.takion21.co.jp/column/machining-overseas-transfer/",
+    "https://www.yoshimoto-fc.co.jp/outsourcing/",
+    "https://ammex.co.jp/service/overseas-parts-import/",
+    "https://pr.mono.ipros.com/wtm/product/detail/2001626652/",
+    "https://www.agency-assist.co.jp/column/1924/"
+   ]
+  },
+  {
+   "query": "町工場の試作・部品加工の海外受託 輸出管理 該非判定",
+   "results": [
+    "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_level1.pdf",
+    "https://www.jetro.go.jp/ext_images/world/security_trade_control/pdf/guide/202401_v2.pdf",
+    "https://www.jpnca.or.jp/column-article/manufacturing-export-risk/",
+    "https://www.cistec.or.jp/service/daigaku/data/shizuoka_daigaku_anpohandbook.pdf",
+    "https://www.nikkakyo.org/system/files/%E5%88%9D%E5%AD%A6%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E8%BC%B8%E5%87%BA%E7%AE%A1%E7%90%86%E8%A7%A3%E8%AA%AC%E6%9B%B8%E2%80%97202410%E7%99%BA%E8%A1%8C.pdf",
+    "https://d-monoweb.com/blog/foreign-exchange-law/",
+    "https://www.futaba.co.jp/support/judgment",
+    "https://chubu-meti-gov.note.jp/n/ncb8cf107a9c7",
+    "https://nissin21.co.jp/%E3%83%9E%E3%83%AB%E3%83%8F%E3%83%8A%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB/machine-export/"
+   ]
+  }
+ ],
+ "missing": {
+  "輸出額・伸び": "記載なし（読んだ33頁・検索6回）",
+  "仕向け先": "記載なし（読んだ33頁・検索6回）",
+  "価格差・需要": "記載なし（読んだ33頁・検索6回）",
+  "取り分・商流": "記載なし（読んだ33頁・検索6回）",
+  "規制": "記載なし（読んだ33頁・検索6回）"
+ }
+}

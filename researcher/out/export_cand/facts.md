@@ -1,0 +1,191 @@
+# 日本から海外へ売る商材の候補 — 輸出額・伸び・仕向け先・取り分・規制（事実のみ・6品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 中古工作機械の輸出（used machine tools export Japan）
+- 文脈：輸出
+- 輸出額・伸び：
+  - 「日本工作機械工業会（JMTBA）の統計によると、2020年（暦年）の工作機械受注額は前年比26.7%減の9,018億円となり、10年ぶりに1兆円を割り込みました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「もともと2019年も米中貿易摩擦の影響で前年比32.3%減となっており、2年連続の大幅な落ち込みという厳しい状況でした」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「2022年にはさらに勢いを増し、受注総額は1兆7,596億円と前年比14.2%増を記録、2018年に次ぐ史上2番目の高水準となりました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「好調だった2022年の反動もあり、2023年の受注額は前年比15.5%減の1兆4,865億円となりました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「内需は4,768億円（前年比21.0%減）、外需は1兆97億円（同12.7%減）と、内外需ともに縮小しましたが、外需比率は67.9%と、外需への依存度自体は高い水準を保っていました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「続く2024年は受注総額1兆4,851億円（前年比0.1%減）とほぼ横ばいでしたが、内訳を見ると内需4,415億円（同7.4%減）に対し外需は1兆436億円（同3.4%増）と明暗が分かれ、外需比率は70.3%と暦年ベースで初めて7割を突破しました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「そして2025年には受注総額が前年比8%増の1兆6,043億円まで回復し、歴代4番目の高水準を記録」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「外需は1兆1,634億円（同11.5%増）と過去最高を更新しています」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+- 仕向け先：
+  - 「お預かりした機械は、いずれも国内での再稼働先が見つかりにくい年式のもので、東南アジア向けの輸出を前提に査定を進めていました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「一方、内燃機関の部品加工に特化した専用機は、EVシフトの進行とともに国内での需要が減少しており、輸出先を慎重に見極める必要が出てきています」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「感染拡大を比較的早く抑え込んだ中国は、外需の一角として存在感を発揮し、東南アジア各国も段階的に経済活動を再開させていきました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「中古工作機械の輸出先としては、東南アジアやインドといった新興国の重要性がコロナ後さらに増しています」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「インド・アジア向け中古機械市場とは？」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「例えば、欧州連合（EU）では、機械の安全性を証明するCEマーキングが要求されることがあります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「欧州連合（EU）における中古工作機械の輸出入には、域内共通の規制が適用されます」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「例えば、中国では、中古工作機械の輸入に対して、安全基準や環境基準が厳格化されており、輸入許可を得るための手続きが複雑化しています」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「中古工作機械の輸出入においては、その用途が軍事目的に転用される可能性がないか、輸出先国の需要者が正当な民間企業であるか、といった点を慎重に確認し、必要に応じて許可申請を行う必要があります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「輸出入する工作機械の型番、仕様、搭載されているソフトウェア、そして輸出先国や最終需要者に関する情報を、可能な限り詳細に収集し、それがリスト規制やキャッチオール規制の対象となるかどうかを、経済産業省のウェブサイトや関連する法令集で確認することが基本となります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「しかし、輸出入の可否は、その機械の「仕様」「搭載技術」「製造国」「輸出先国」「最終用途」など、様々な要因によって決定されます」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「・現地の安全規格（中国のGB規格、韓国のKCs規格等）に対応した仕様になっていること」（https://note.com/exportcontrol/n/n4a0fd2da8a90）
+  - 「📦【2】輸出先国での規制・条件」（https://www.star-express.co.jp/2025/11/05/6690/）
+  - 「インドネシア」（https://www.star-express.co.jp/2025/11/05/6690/）
+  - 「CEマーク（欧州）、UL（米国）など、安全規格に適合していないと輸入不可の国もあります」（https://www.star-express.co.jp/2025/11/05/6690/）
+- 価格差・需要：
+  - 「コロナ後の中古工作機械市場——需要の変化を振り返る」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「一方で、巣ごもり需要の拡大により、パソコンやゲーム機、家電製品向けの半導体・電子部品需要は急増しました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「巣ごもり需要による荷動きの偏り、港湾の人手不足、船のスケジュール乱れなどが重なり、コンテナ船の予約自体が取れない状況が長期間続きました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「国内需要の落ち込みと、輸出ルートの目詰まりが同時に起きたことで、中古機械市場は二重の打撃を受けることになりました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「半導体不足を背景とした自動化投資の本格化や、巣ごもり需要で好調だった自動車・電子機器関連の設備投資が、受注を押し上げました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「半導体製造装置そのものだけでなく、その周辺で使われる精密加工用の工作機械にも投資が波及し、中古機械市場でも半導体関連の需要に対応できる機種の引き合いが急速に強まりました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「少子高齢化による将来の需要縮小懸念、後継者不在による廃業の増加、人手不足による生産計画の見直しなど、コロナとは直接関係のない構造的な課題が、内需の重しになり続けています」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「コロナを経て変わった需要の質」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「コロナ後の受注回復をけん引したのは、半導体製造装置向けやEV部品向けの精密加工需要でした」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「従来の自動車（エンジン・ミッション関連）向け需要が伸び悩む一方で、これらの成長分野向けの機械には根強い需要があり、中古機械の査定額にも機種による明暗が表れるようになっています」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「一方、内燃機関の部品加工に特化した専用機は、EVシフトの進行とともに国内での需要が減少しており、輸出先を慎重に見極める必要が出てきています」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「これらの地域では、人件費の上昇に伴う自動化ニーズの高まりと、製造業そのものの拡大が同時に進んでおり、価格と性能のバランスが取れた中古の日本製機械への需要は根強く残っています」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「コロナ禍で一時停滞した輸出網も、こうした新興国の需要拡大によって、以前にも増して重要な販路として機能するようになりました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「2025年の外需は過去最高を記録するなど、海外需要は堅調に推移しています」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+  - 「コロナ禍は、中古工作機械市場に「受注の急減」「国際物流の混乱」という二重の打撃を与えましたが、2021年以降は半導体・EV関連需要を追い風に急回復し、2025年には外需が過去最高を更新するまでになりました」（https://kikaikaitori-center.com/2026/09/26/post-covid-used-machine-tool-market-demand-shift/）
+- 取り分・商流：
+  - 「さらに、輸出入代行業者や仲介業者の選定ミスも、思わぬトラブルを招く原因となります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「これらの複雑な規制をクリアするためには、専門知識を持つコンサルタントや、EU域内の信頼できる輸入代理店との連携が不可欠となります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「特に、輸出入代行業者、通関業者、現地の販売代理店などは、国際取引における専門知識とネットワークを持ち、複雑な手続きを円滑に進める上で重要な役割を果たします」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「製造者以外の者が輸出した場合でも、現地における保守、修理に必要な部品や役務を提供するのは主に当該工作機械製造者の海外子会社や代理店であるため、例えば、」（https://note.com/exportcontrol/n/n4a0fd2da8a90）
+  - 「・当該工作機械製造者の海外子会社や代理店のサービスマンが認識できる言語への改造が施されていること」（https://note.com/exportcontrol/n/n4a0fd2da8a90）
+- 規制：
+  - 「各国には、自国の安全保障や経済秩序を守るための輸出管理制度が存在します」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「これには、大量破壊兵器の開発等に用いられるおそれのある貨物（「リスト規制貨物」）や、それらの貨物を開発・製造・使用するための技術などが含まれます」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「中古工作機械の場合、その機械自体がリスト規制貨物に該当するかどうか、あるいは搭載されている部品やソフトウェアが規制対象となるかを慎重に確認する必要があります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「また、輸出令で定める「キャッチオール規制」により、たとえリスト規制貨物でなくても、大量破壊兵器等の開発等に用いられるおそれがある場合には、経済産業大臣の許可が必要となるケースもあります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「したがって、輸出前には、外為令の条文や通達を精読し、不明な点は経済産業省や輸出管理機関に確認することが極めて重要です」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「また、近年では、輸出管理規則（EAR）に基づく外国からの技術移転や、特定の国への輸出制限についても、中古機械の輸出入に関わる事業者は注意を払う必要があります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「これは、国際社会の平和と安全の維持、そして各国の安全保障政策の実現を目的とした、輸出管理体制のことです」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「リスト規制と汎用製品：輸出入の境界線」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「安全保障貿易管理における「リスト規制」とは、国際的な合意（主に「ワッセナー合意」など）に基づき、大量破壊兵器への転用リスクが高い特定の貨物や技術を、輸出許可の対象としたものです」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「これらの品目は、輸出管理令（日本においては外国為替及び外国貿易法）の別表に具体的にリストアップされており、輸出に際しては、原則として経済産業大臣の許可が必要となります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「中古工作機械の場合、その機械自体がリストに掲載されている場合や、搭載されている制御装置、ソフトウェア、あるいは特定の部品がリスト規制の対象となる可能性があります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「これが「キャッチオール規制」と呼ばれるものです」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「キャッチオール規制は、たとえリスト規制貨物でなくても、大量破壊兵器や通常兵器の開発、製造、使用等に用いられるおそれがある貨物・技術について、輸出者がその「用途」や「需要者」を合理的に確認し、懸念がある場合は経済産業大臣の許可を得ることを義務付けるものです」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「輸出入する工作機械の型番、仕様、搭載されているソフトウェア、そして輸出先国や最終需要者に関する情報を、可能な限り詳細に収集し、それがリスト規制やキャッチオール規制の対象となるかどうかを、経済産業省のウェブサイトや関連する法令集で確認することが基本となります」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+  - 「これらの情報をもとに、該当する輸出管理令や法令に基づき、許可が必要か否か、また、どの当局にどのような書類を提出する必要があるのかを、入念に調査しなければなりません」（https://mt-ump.co.jp/used-machine-tools-import-export-regulations/）
+
+## 日本製切削工具の輸出（Japanese cutting tools export）
+- 文脈：輸出
+- 輸出額・伸び：
+  - 「日本からの工具全体の輸出は、2026年後半に入っても増加基調を継続している」（https://www.iru-miru.com/article/86458）
+  - 「二次電池輸出入Report #232リチウムイオン電池輸出 1-9月輸出額 2026年過去最高」（https://www.iru-miru.com/article/86458）
+  - 「酸化コバルト輸入Report #90 2026年後半も増加基調続く」（https://www.iru-miru.com/article/86458）
+  - 「日本国内自動車生産 2026年7-9月生産台数 198万3千台 前年同期比2%増加」（https://www.iru-miru.com/article/86458）
+- 仕向け先：
+  - 「穴あけ工具を見ても、中国や台湾向けを中心に、それ以外の主要な輸出先のほぼ全てにおいて昨年よりも輸出が増えている」（https://www.iru-miru.com/article/86458）
+  - 「10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新」（https://www.iru-miru.com/article/86458）
+  - 「米国に滞留する銅在庫 COMEX–LME価格差の逆転でも動かぬ地金 モルスタ分析を検証」（https://www.iru-miru.com/article/86458）
+  - 「中国の輸出規制がレアアース、タングステン、アンチモンを対象とする中、タングステン粉末は逆行高、酸化ジスプロシウムは下落し、戦略的マイナーメタルの明暗が分かれている」（https://www.iru-miru.com/article/86458）
+- 価格差・需要：
+  - 「超硬工具輸出Report#59工具 2026年後半も世界的に工具需要旺盛」（https://www.iru-miru.com/article/86458）
+  - 「10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新」（https://www.iru-miru.com/article/86458）
+  - 「レアアース市場近況2026#20 すべて横ばい、年末需要見極めで様子見」（https://www.iru-miru.com/article/86458）
+- 検索結果の抜粋：
+  - 「超硬 工具輸出 Report#59 工具 2026年後半も世界的に 工具需要 ... — 超硬 工具輸出 Report#59 工具 2026年後半も世界的に 工具需要 ... Iru-miru.com https://www.iru-miru.com > article」（https://www.iru-miru.com/article/86458）
+- 取り分・商流：記載なし（読んだ36頁・検索6回）
+- 規制：記載なし（読んだ36頁・検索6回）
+
+## 日本製測定機器・計測器の輸出（Japanese measuring instruments export）
+- 文脈：輸出
+- 輸出額・伸び：記載なし（読んだ36頁・検索6回）
+- 仕向け先：記載なし（読んだ36頁・検索6回）
+- 価格差・需要：記載なし（読んだ36頁・検索6回）
+- 取り分・商流：記載なし（読んだ36頁・検索6回）
+- 規制：記載なし（読んだ36頁・検索6回）
+
+## 金型の輸出（Japanese molds and dies export）
+- 文脈：輸出
+- 輸出額・伸び：
+  - 「金型の輸出金額（2025年）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型の輸出金額 2025年・2022年・2020年比較」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型の生産額がピークだった1991年（平成3年）は1兆9,575億円で、2023年は1兆4,332億円であるため、生産額が約27%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1,229億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1,312億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1,272億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1,791億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1,174億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1,487億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1531億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1,945億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「3,198億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「3,556億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「3,584億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+- 仕向け先：
+  - 「世界の金型生産高上位は中国、アメリカ、日本、韓国、ドイツ」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1位の中国は日本の約7倍の生産高」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「中国の金型生産高は2021年から2024年にかけて約53%増加」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「中国の金型生産髙について、2024年は2019年と比較して約90%増加」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「日本の金型輸出金額上位はアメリカ、タイ、中国、メキシコ、ベトナム」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「2022年から中国が2位から3位、ベトナムが7位から5位に変わりました」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「日本は世界の金型生産高1位の中国と2位のアメリカに対して、輸出しています」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「インドネシア」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「中国への金型輸出金額は2022年から2025年にかけて約30%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「中国に対する金型輸出金額について、2025年は2020年と比較して約48%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「日本の金型輸入金額上位は中国、韓国、タイ」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「日本は世界の金型生産高1位の中国から輸入しています」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「中国からの金型輸入金額は2022年から2025年にかけて約14%増加」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「中国からの金型輸入金額について、2025年は2020年と比較して約50%増加」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「世界の金型生産高（2024年）について、上位は中国、アメリカ、日本、韓国、ドイツ」（https://takumi-senpai.com/blog/mold-industry-2026/）
+- 価格差・需要：
+  - 「日本の金型生産額・数量・単価、需要業界別の金型生産金額構成、世界の金型生産高と輸出・輸入先、金型製造業の事業所・従業員数の推移をまとめ」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「需要業界別の金型生産金額構成（2024年）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「需要業界別の金型生産金額構成」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「上記グラフは、需要業界別の金型生産金額構成（2024年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「需要業界別の金型生産金額構成（2024年）について、圧倒的に自動車・二輪・輸送用車両機器が多く、728%を占めている」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「課題は、自動車の電動化による需要の入れ替わり、1991年に約13,000あった事業所が約4,000まで減ったこと、型代と無償保管をめぐる取引慣行、そして技能者の確保です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が示す需要業界別の生産金額構成比では、2025年時点で自動車、二輪、輸送用車両機器が73.0%を占め、産業機器が6.0%、生活用品が2.9%、情報・通信機器が2.8%と続きます」（https://forwit.jp/column/die-and-mold/）
+  - 「1950年代から1960年代に家電と自動車の量産が始まると、プレス型と射出成形型の需要が一気に増えます」（https://forwit.jp/column/die-and-mold/）
+  - 「円高と国内需要の頭打ちを受けて、顧客である家電と自動車の工場が中国や東南アジアへ移ります」（https://forwit.jp/column/die-and-mold/）
+  - 「米国とカナダ、メキシコ｜北米の自動車が巨大な需要をつくる」（https://forwit.jp/column/die-and-mold/）
+  - 「自動車と家電、半導体という需要産業が国内にそろっていることが金型産業を支えています」（https://forwit.jp/column/die-and-mold/）
+  - 「組み立てが移る先に型の需要が移り、その調達先をめぐって日本と中国が競う構図です」（https://forwit.jp/column/die-and-mold/）
+  - 「直近の市況｜2026年の生産と需要はどう動いているか」（https://forwit.jp/column/die-and-mold/）
+  - 「需要側の変化も見ておきます」（https://forwit.jp/column/die-and-mold/）
+  - 「モーターの鉄心を薄い電磁鋼板から打ち抜いて積み重ねる順送型のように、需要が伸びている領域もあります」（https://forwit.jp/column/die-and-mold/）
+- 取り分・商流：
+  - 「長きに亘り日本国内において独占販売代理店権を取得した海外トップブランド２０数社の製品を保有している唯一の商社です」（https://jtdtky.co.jp/company/）
+- 規制：
+  - 「また、金型の用途や仕様によっては、外為法上の輸出管理確認が必要になる可能性があります」（https://hunade.com/kanagata-yunyu）
+  - 「特に、特定の産業用途、精密加工、軍事転用可能性があるもの、特殊材料や高度な技術に関係するものは、該非判定や用途確認を行ってください」（https://hunade.com/kanagata-yunyu）
+  - 「輸出管理の基本は、」（https://hunade.com/kanagata-yunyu）
+  - 「輸出管理・該非判定の確認」（https://hunade.com/kanagata-yunyu）
+  - 「用途・仕様により輸出管理確認を行います」（https://hunade.com/kanagata-yunyu）
+  - 「金型は、HSコード、無償提供時の評価申告、輸出管理、重量物輸送、保険条件まで確認が必要です」（https://hunade.com/kanagata-yunyu）
+  - 「該非判定や用途確認が必要か確認します」（https://hunade.com/kanagata-yunyu）
+  - 「金型の輸出入では、HSコードや関税だけでなく、評価申告、無償提供、関連会社間取引、輸出管理、重量物輸送まで確認する必要があります」（https://hunade.com/kanagata-yunyu）
+  - 「▸ 輸出管理リスクの初期確認」（https://hunade.com/kanagata-yunyu）
+
+## 町工場の試作・部品加工の海外受託（Japanese job shop machining for overseas customers）
+- 文脈：輸出
+- 輸出額・伸び：記載なし（読んだ33頁・検索6回）
+- 仕向け先：記載なし（読んだ33頁・検索6回）
+- 価格差・需要：記載なし（読んだ33頁・検索6回）
+- 取り分・商流：記載なし（読んだ33頁・検索6回）
+- 規制：記載なし（読んだ33頁・検索6回）
+
+## 日本製の金属材料・特殊鋼の輸出（Japanese specialty steel export）
+- 文脈：輸出
+- 輸出額・伸び：
+  - 「3年ぶりに増加した」（https://www.iru-miru.com/article/77591）
+  - 「2024暦年のステンレス鋼鋼材輸出量は、71万6,353トンと、2023暦年比4.1 %増となり、3年ぶりに増加した」（https://www.iru-miru.com/article/77591）
+  - 「日本国内自動車生産 2026年7-9月生産台数 198万3千台 前年同期比2%増加」（https://www.iru-miru.com/article/77591）
+- 仕向け先：
+  - 「中国・台湾産ニッケル系ステンレス冷延鋼板にAD関税を本決定 10月31日から5年間、中国産は最大42.1%」（https://www.iru-miru.com/article/77591）
+  - 「海外の冷延鋼板価格（10/30）：欧州・中国弱含み」（https://www.iru-miru.com/article/77591）
+  - 「海外の熱延鋼板価格（10/23）：米国内堅調に推移」（https://www.iru-miru.com/article/77591）
+  - 「欧州とインドは弱含み」（https://www.iru-miru.com/article/77591）
+  - 「鉄鋼：欧州の輸入鋼材価格（10/30）：すべて変わらず」（https://www.iru-miru.com/article/77591）
+  - 「鉄鋼：米国輸入鋼材価格（10/30）：表面処理鋼板のみ弱含み」（https://www.iru-miru.com/article/77591）
+  - 「鉄鋼：米国内の鋼材価格（10/30）：熱延・表面処理鋼板上昇」（https://www.iru-miru.com/article/77591）
+  - 「10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新」（https://www.iru-miru.com/article/77591）
+  - 「米国に滞留する銅在庫 COMEX–LME価格差の逆転でも動かぬ地金 モルスタ分析を検証」（https://www.iru-miru.com/article/77591）
+  - 「LME Weekly 2026年10月26～30日 世界的株安で銅・ニッケル反落 銅は中国の現物ひっ迫で逆ザヤ拡大」（https://www.iru-miru.com/article/77591）
+- 価格差・需要：
+  - 「10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新」（https://www.iru-miru.com/article/77591）
+- 取り分・商流：記載なし（読んだ34頁・検索6回）
+- 規制：記載なし（読んだ34頁・検索6回）

@@ -1,0 +1,1688 @@
+{
+ "name": "マクニカ",
+ "aliases": [
+  "マクニカホールディングス",
+  "Macnica"
+ ],
+ "context": "技術商社の手本",
+ "researched_at": "2026-11-03T16:43:35.116629+00:00",
+ "official_url": "https://www.macnica.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "1972年10月30日",
+    "url": "https://www.macnica.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1972年 （ 昭和 47年） 10月30日 （ジャパンマクニクス株式会社）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒222-8561 横浜市港北区新横浜1-6-3 マクニカ第1ビル",
+    "url": "https://www.macnica.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 222-8561 神奈川県 横浜市 港北区 新横浜 一丁目6番地3 マクニカ第1ビル",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結従業員数",
+    "value": "5,261名（2026年3月31日現在）",
+    "url": "https://www.macnica.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "マクニカホールディングス > 従業員・生産性",
+    "value": "GET https://the-shashi.com /api /3132 /financials /employee.json",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：4,187名（2023年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "12,142億円/25年度実績 10,342億円/24年度実績 10,287億円/23年度実績 10,293億円/22年度実績 7,618億円/21年度実績",
+    "url": "https://www.macnica.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結：1兆円（2022年度実績）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "761,823 1,029,263 1,028,718 1,034,180 1,214,196",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "492,562 546,961 518,960 575,435 831,293",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "880,242 153,938 1,034,180 － 1,034,180",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "－ 5 5 － 5",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "1,040,045 174,150 1,214,196 － 1,214,196",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "－ 79 79 － 79",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "前連結会計年度 当連結会計年度",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "label": "連結財務諸表の売上高",
+    "value": "1,034,180 1,214,196",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "281,613 393,443",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "238,616 41,629 1,367 281,613 - 281,613",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "- 54 - 54 - 54",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "334,890 56,744 1,808 393,443 - 393,443",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "- - - - - -",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "原一将（ 代表取締役 社長 ）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "主要 株主",
+    "value": "マクニカホールディングス 100% （2022年8月1日時点）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "label": "株主資本",
+    "value": "",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "株主資本合計",
+    "value": "241,342 246,021",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "非支配株主持分",
+    "value": "10,183 11,819",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "親会社株主に帰属する四半期純利益",
+    "value": "5,091 10,928",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "親会社株主に係る四半期包括利益",
+    "value": "4,449 14,071",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "非支配株主に係る四半期包括利益",
+    "value": "15 873",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "非支配株主からの払込みによる収入",
+    "value": "- 762",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "非支配株主への配当金の支払額",
+    "value": "△0 -",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "label": "定時株主総会",
+    "value": "毎年6月",
+    "url": "https://holdings.macnica.co.jp/investors/stock/stock/",
+    "pass": 3
+   },
+   {
+    "label": "期末配当金支払株主確定日",
+    "value": "3月31日",
+    "url": "https://holdings.macnica.co.jp/investors/stock/stock/",
+    "pass": 3
+   },
+   {
+    "label": "中間配当金支払株主確定日",
+    "value": "9月30日",
+    "url": "https://holdings.macnica.co.jp/investors/stock/stock/",
+    "pass": 3
+   },
+   {
+    "label": "株主数",
+    "value": "35,063名",
+    "url": "https://holdings.macnica.co.jp/investors/stock/stock/",
+    "pass": 3
+   },
+   {
+    "label": "株主名簿管理人 （特定口座の口座管理機関）",
+    "value": "三菱UFJ信託銀行株式会社　証券代行部 東京都府中市日鋼町1-1 TEL 0120-232-711（通話料無料） （受付時間 土・日・祝祭日を除く9時～17時）",
+    "url": "https://holdings.macnica.co.jp/investors/stock/stock/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "技術支援": [
+   {
+    "quote": "技術商社だからできることもある",
+    "url": "https://www.macnica.co.jp/aboutus/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "万が一､不具合現象が発生した場合には､マクニカの専門知識を有する技術者(CQE/FAE)がすみやかに現象を確認､あるいは初期解析を行うなどの対応､対策をとり原因の究明につとめています｡",
+    "url": "https://www.macnica.co.jp/company/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "マクニカは技術サポートに力を注ぎ、",
+    "url": "https://www.macnica.co.jp/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "「技術商社」という新しい商社像を打ち立てました",
+    "url": "https://www.macnica.co.jp/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "手厚い技術サポートはもちろん、",
+    "url": "https://www.macnica.co.jp/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体の技術商社として1972年、パン屋の2階で創業したマクニカ",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   }
+  ],
+  "在庫・運転資金": [
+   {
+    "quote": "高速道路へのアクセスがよく物流拠点として最適な立地にあるロジスティクスセンターは、6,000坪超のスペースを有し常時50万箱以上の在庫を管理しています",
+    "url": "https://www.macnica.co.jp/company/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "通常のWMSが備える入出荷管理、在庫管理、棚卸管理に加え、製品特性・用途により異なる製造ロット情報を正確に管理し、トレーサビリティーを強化しています",
+    "url": "https://www.macnica.co.jp/company/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "受 取 手 形 17 買掛金 55,949",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 棚卸資産の評価基準及び評価方法",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "棚卸資産の評価",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債務である支払手形及び買掛金は、そのほとんどが１年以内の支払期日です",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「受取手形」、「電子記録債権」、「売掛金」、「関係会社短期貸付金」、「支払手形」、「買掛金」、「短期借入金」、「関",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 棚卸資産の評価基準及び評価方法",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 棚卸資産の評価",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債務である支払手形及び買掛金は、そのほとんどが１年以内の支払期日です",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「受取手形」、「電子記録債権」、「売掛金」、「関係会社短期貸付金」、「支払手形」、「買掛金」、「短期借入金」、「関",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "－ 商品の 仕入 商品の仕入 (注6) 16,319 買掛金 10,968 関係会社",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年4月1日にグローセルの受注残及び売上債権などを残し吸収分割にて当社に承継いたします",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受 取 手 形 283 買掛金 41,805",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 棚卸資産の評価基準及び評価方法",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 棚卸資産の評価",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "棚卸資産評価損 572百万円（当該金額は売上原価に含まれております",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債務である支払手形及び買掛金は、そのほとんどが１年以内の支払期日です",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受 取 手 形 672 買掛金 52,758",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 棚卸資産の評価基準及び評価方法",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 棚卸資産の評価",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "棚卸資産評価損 1,101百万円（当該金額は売上原価に含まれております",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債務である支払手形及び買掛金は、そのほとんどが１年以内の支払期日です",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受 取 手 形 583 買掛金 39,900",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 棚卸資産の評価基準及び評価方法",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 棚卸資産の評価",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "棚卸資産評価損戻入益 60百万円（当該金額は売上原価に含まれております",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債務である支払手形及び買掛金は、そのほとんどが１年以内の支払期日です",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「受取手形」、「電子記録債権」、「売掛金」、「支払手形」、「買掛金」、「関係会社短期",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "買掛金 510",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受 取 手 形 2,776 買掛金 23,307",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債務である支払手形及び買掛金は、そのほとんどが１年以内の支払期日です",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（4）支払手形及び買掛金 23,421 23,421 －",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（4）支払手形及び買掛金、（5）未払金、並びに（6）関係会社借入金",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "買掛金 750",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手形 1,648 買掛金 14,531",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債務である支払手形及び買掛金は、そのほとんどが１年以内の支払期日です",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（4）支払手形及び買掛金 14,757 14,757 －",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（4）支払手形及び買掛金、（5）短期借入金、並びに（6）関係会社借入金",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "買掛金 232",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、2020年４月１日に当社の兄弟会社である富士エレクトロニクス㈱より、現預金、売上債権及",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(㈱)の現預金、売上債権及び受注残等を除く全ての事業について当社が承継いたしました",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現預金、売上債権及び受注残等を除く全ての事業",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手形 2,749 買掛金 19,214",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債務である支払手形及び買掛金は、そのほとんどが１年以内の支払期日です",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（4）支払手形及び買掛金 19,462 19,462 －",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（4）支払手形及び買掛金、並びに（5）短期借入金",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "買掛金 1,996",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "運転資金の増減 9.83 (9.68) 0.71 1.31 (3.56)",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "買掛金 186.84 151.13 161.14 179.87 196.82",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に支払手形及び買掛金が",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に売上債権及び棚卸資産の増加があったものの、税金等調整前当期純利益",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器市場では、国内市場において、年度の前半は顧客在庫の調整の影響を受け回復が遅れていましたが、海外市場では回復が進みました",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "集積回路及び電子デバイスその他事業におきましては、産業機器に関しては、国内では年度の前半は顧客在庫の調整により微減となりましたが、海外ではアナログICを中心に新たな商流獲得によるシェア拡大に加え、市場自体の回復により売上高は増加しました",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの運転資金需要の主要なものは、売上の増加に伴う支払と回収のサイト差及び商品在庫の保有によるものです",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "また商品在庫に関しては、得意先への納入期限に対応するために適正水準を保持しております",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループにおける増加運転資金につきましては、内部資金、売上債権の流動化、金融機関からの借入等によって調達しております",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "この連結財務諸表の作成にあたって、資産・負債の帳簿価額及び収益・費用の報告数字に影響を与える見積りは、主として棚卸資産、貸倒引当金、投資の減損、繰延税金資産、賞与引当金、退職給付費用等であり、継続して評価を行っております",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "a. 棚卸資産",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "棚卸資産の保有日数に応じて一定金額まで帳簿価",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   }
+  ],
+  "最初の商材・始まり方": [
+   {
+    "quote": "たった数名で創業した50数年前も、5,000名近くの規模となった今でも、それは変わりません",
+    "url": "https://www.macnica.co.jp/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "マクニカは1972年の創業以来、世界中から価値ある半導体製品を見つけ出し、独自の技術的価値を加えたうえでお客さまに提供してきました",
+    "url": "https://www.macnica.co.jp/company/technology/mpression/",
+    "pass": 1
+   },
+   {
+    "quote": "また、その一部には、商品の輸入に伴う外",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、その一部には、商品の輸入に伴う外",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の一部には、 商品の輸入に伴う外貨建てのものがあり、 為替の変動リスクに晒されていますが、",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の一部には、 商品の輸入に伴う外貨建てのものがあり、 為替の変動リスクに晒されていますが、",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の一部には、 商品の輸入に伴う外貨建てのものがあり、 為替の変動リスクに晒されていますが、",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の一部には、商品の輸入に伴う外貨建てのものがあり、為替の変動リスクに晒されていますが、",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の一部には、商品の輸入に伴う外貨建てのものがあり、為替の変動リスクに晒されていますが、",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の一部には、商品の輸入に伴う外貨建てのものがあり、為替の変動リスクに晒されていますが、",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体ナンバーワン商社・マクニカ創業者が語る「配偶者は最高の応援者」 | 経営の本質 すべては人に始まり人に終わる | ダイヤモンド・オンライン",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "半導体ナンバーワン商社・マクニカ創業者が語る「配偶者は最高の応援者」",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "1972年、26歳の時にパン屋の2階のオフィスでジャパンマクニクス（現マクニカ）を創業した神山治貴・マクニカ名誉会長",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "半導体の技術商社として1972年、パン屋の2階で創業したマクニカ",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "創業期の4度の経営危機を乗り越え、ただの一度も営業赤字に転落しなかったマクニカ",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "人材育成から資金繰り、M&Aや事業撤退の判断など、多くの経営者が悩む局面を、創業者・神山治貴名誉会長はどう乗り越えてきたのか？その経営哲学を余すところなく語ってもらいました",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "1972年神山治貴が創業",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカホールディングス 有価証券報告書「沿革」",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "富士エレクトロニクスの設立とジャパンマクニクスの創業",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "神山治貴氏がジャパンマクニクスを創業",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "日本モトローラと代理店契約",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機と代理店契約",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "TDKと代理店契約・スイッチング電源などの販売を開始",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "1980年〜：三菱電機・TDKとの代理店契約と、イーサネット製品JET101・川崎本社",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカホールディングス「公開買付けの開始に関するお知らせ」（公開買付者の沿革）（2024年1月）",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカホールディングス 公式サイト「沿革」（2026年10月）",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ公式サイト（沿革）",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカホールディングス公式サイト（沿革）",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "/history.json",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "/financials_history.csv",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "47年） - 創業者",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "quote": "また、近年、企業のITシステムは、クラウド活用やリモートワークの進展などにより外部接続の増加とともに対策するべき点が増えており、社内システム内でもユーザーやデバイスを最初から信頼しないことを前提とするゼロトラストや情報資産のリスクを評価・管理するASM（アタック・サーフェス・マネジメント）への注目が高まっています",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "Price history",
+    "url": "https://companiesmarketcap.com/macnica-holdings/annual-reports/",
+    "pass": 3
+   }
+  ],
+  "売上・粗利率": [
+   {
+    "quote": "売上高 648,192",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 74,121",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 19,838",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 594,932",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 73,100",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 25,043",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 720,885",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 93,286",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 49,287",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 661,710",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 85,579",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 42,003",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 424,264",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 52,661",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 19,105",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引であり、売上高と売上原価を相殺しているため、上記取引金額に含めておりません",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 281,075",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 29,803",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 2,692",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "症の拡大の影響等を背景とした将来売上高、売上高総利益率及びその伸長率、並びに将来キャ",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ッシュ・フローに使用された割引率は重要な仮定であり、将来売上高、売上高総利益率及びそ",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "え方に基づき、売上高と売上原価を相殺しているため、上記取引金額に含めておりません",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 262,722",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 23,024",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 893",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "え方に基づき、売上高と売上原価を相殺しているため、上記取引金額に含めておりません",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 252,259",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 23,560",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 676",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "え方に基づき、売上高と売上原価を相殺しているため、上記取引金額に含めておりません",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その後50年間で連結売上高7610億円、従業員数3900人の東証プライム上場企業に成長させた",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャーキャピタルの支援もあまりない時代、まさに個人商店からスタートしたマクニカは、その後50年で連結売上高7610億円、社員数約3900人の上場企業に成長しました",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ、零細から売上高7600億円企業に成長できたのは「誰もが納得する昇進」を貫いたから",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "個人商店から売上高7600億円へ、マクニカの成長を加速させた「M＆A」成功の法則とは",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大の独立系半導体商社で、2023年に連結売上高が初めて1兆円を超えた",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "富士エレクトロニクスの吸収合併と連結売上高1兆円突破",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "連結売上高が初の1兆円を突破",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "【最終増益】売上高の85%を占める主力の半導体事業が人工知…",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率（%）",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "pass": 3
+   },
+   {
+    "quote": "※１円の変動による、営業利益など本業収益へのプラス効果を示す",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "pass": 3
+   },
+   {
+    "quote": "直近期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の営業利益",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "pass": 3
+   },
+   {
+    "quote": "利益が直近比 8.0%増、営業利益率も改善がみられた（2025 年 3 月",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、大幅な営業利益成長（前年 3Q までの累計比 79%増）を達成し、",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高（十億円） 1,029.26 1,028.72 1,058.95 1,186.02 1,297.84",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益（十億円） 61.65 63.73 48.86 69.46 81.90",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高伸び率 (%) +35.1 -0.1 +2.9 +12.0 +9.4",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益成長率 (%) +67.9 +3.4 -23.3 +42.2 +17.9",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EV/EBITDA（倍） 2.0 1.9 2.5 1.8 1.5",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EV/売上高（倍） 0.1 0.1 0.1 0.1 0.1",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 253.34 262.63 262.83 +0.1 +3.7 1,040.00 +1.1",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益（損失） 30.39 28.71 31.00 +8.0 +2.0 120.80 -6.8",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益（損失） 13.31 10.33 10.84 +4.9 -18.6 44.50 -30.2",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率（%） 5.3 3.9 4.1 4.3",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "半導体事業におけるプロダクトミックスの向上などにより、直近比で売上総利益が拡大し",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期は 7.7%）、連結営業利益率は第 2 四半期より高い水準で着地した",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前四半期ベースでみると、産業機器向けの売上高の減少に歯止",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "もかかわらず、大幅な営業利益成長（前年比 84.7%増）を達成し、セグメント利益率は",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "大株主・株主構成",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "大株主・株主構成・大量保有",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "大株主の状況",
+    "url": "https://holdings.macnica.co.jp/investors/stock/stock/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカホールディングス 大株主 | ストレイナー",
+    "url": "https://strainer.jp/companies/JP-3132/ownership",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカホールディングス【3132】 大株主",
+    "url": "https://strainer.jp/companies/JP-3132/ownership",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【50周年特別企画】 マクニカ の開発の 歴史 — 【50周年特別企画】 マクニカ の開発の 歴史 株式会社マクニカ https://www.macnica.co.jp > ... > マクニカの製品・サービス",
+    "url": "https://www.macnica.co.jp/business/semiconductor/macnica_products/development_history/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒストリー - 会社情報 - マクニカ — ヒストリー - 会社情報 - マクニカ 株式会社マクニカ https://www.macnica.co.jp > 会社情報",
+    "url": "https://www.macnica.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体ナンバーワン商社・ マクニカ創業 者が語る「配偶者は ... — 半導体ナンバーワン商社・ マクニカ創業 者が語る「配偶者は ... ダイヤモンド・オンライン https://diamond.jp > articles",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ HDの 歴史 - The社史 — マクニカ HDの 歴史 - The社史 The社史 https://the-shashi.com > tse",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ のパーパス《誕生秘話》 - 株式会社 マクニカ — マクニカ のパーパス《誕生秘話》 - 株式会社 マクニカ 株式会社マクニカ https://www.macnica.co.jp > company > purpose_series2",
+    "url": "https://www.macnica.co.jp/company/purpose_series2/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ - Wikipedia — マクニカ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > マクニカ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ HDの歴史 - The社史 — マクニカ HDの歴史 - The社史 The社史 https://the-shashi.com > tse",
+    "url": "https://the-shashi.com/tse/3132/",
+    "pass": 3
+   },
+   {
+    "quote": "【50周年特別企画】 マクニカ の開発の歴史 — 【50周年特別企画】 マクニカ の開発の歴史 株式会社マクニカ https://www.macnica.co.jp > ... > マクニカの製品・サービス",
+    "url": "https://www.macnica.co.jp/business/semiconductor/macnica_products/development_history/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体ナンバーワン商社・ マクニカ創業者 が語る「配偶者は ... — 半導体ナンバーワン商社・ マクニカ創業者 が語る「配偶者は ... ダイヤモンド・オンライン https://diamond.jp > articles",
+    "url": "https://diamond.jp/articles/-/310845",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ 社長とクラウドストライク取締役会長が語る 成長 ... — マクニカ 社長とクラウドストライク取締役会長が語る 成長 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=T9dCw77s1nY",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ 「キャリアオーナーシップが自然と根付く社風 ... — マクニカ 「キャリアオーナーシップが自然と根付く社風 ... キャリアオーナーシップとはたらく未来コンソーシアム https://co-consortium.persol-career.co.jp > 2024/02/26",
+    "url": "https://co-consortium.persol-career.co.jp/article/2024/02/26/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ HDの業績・財務 - 3132 / プライム / 卸売業 — マクニカ HDの業績・財務 - 3132 / プライム / 卸売業 バフェット・コード https://www.buffett-code.com > company > financial",
+    "url": "https://www.buffett-code.com/company/3132/financial",
+    "pass": 3
+   },
+   {
+    "quote": "業績・財務情報 - マクニカホールディングス — 業績・財務情報 - マクニカホールディングス マクニカホールディングス https://holdings.macnica.co.jp > investors > financial",
+    "url": "https://holdings.macnica.co.jp/investors/financial/",
+    "pass": 3
+   },
+   {
+    "quote": "【 マクニカ ホールディングス】[3132]決算発表や業務・財務情報 — 【 マクニカ ホールディングス】[3132]決算発表や業務・財務情報 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ ホールディングス (3132) - Astris Advisory — マクニカ ホールディングス (3132) - Astris Advisory Astris Advisory Japan PDF https://www.astrisadvisory.com > hubfs",
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ HD、半導体 売上 が初の1兆円を突破、サイバー ... — マクニカ HD、半導体 売上 が初の1兆円を突破、サイバー ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/384293",
+    "pass": 3
+   },
+   {
+    "quote": "第53期 計算書類 - マクニカ — 第53期 計算書類 - マクニカ 株式会社マクニカ PDF https://www.macnica.co.jp > assets > pdf > notice",
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ ホールディングス【3132】の事業内容 - キタイシホン — マクニカ ホールディングス【3132】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3132/business",
+    "pass": 3
+   },
+   {
+    "quote": "[ マクニカ HD 3132.T] 2027年3月期第1四半期 決算短信 ... — [ マクニカ HD 3132.T] 2027年3月期第1四半期 決算短信 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260724599411",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "pass": 3
+   },
+   {
+    "quote": "変化の先頭に立ち - マクニカホールディングス — 変化の先頭に立ち - マクニカホールディングス マクニカホールディングス PDF https://holdings.macnica.co.jp > holdings > library",
+    "url": "https://holdings.macnica.co.jp/content/dam/holdings/ir/ja/library/LIMITLESS%202026%20(for%20printing)_J.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "History - Company Information - Macnica — History - Company Information - Macnica 株式会社マクニカ https://www.macnica.co.jp > history",
+    "url": "https://www.macnica.co.jp/en/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica 's business — Macnica 's business 株式会社マクニカ https://www.macnica.co.jp > business",
+    "url": "https://www.macnica.co.jp/en/business/",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Solutions & Innovation Partner | Macnica Americas — Technology Solutions & Innovation Partner | Macnica Americas Macnica https://www.macnica.com > mai",
+    "url": "https://www.macnica.com/americas/mai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Technology - Company Information - Macnica — Technology - Company Information - Macnica 株式会社マクニカ https://www.macnica.co.jp > company",
+    "url": "https://www.macnica.co.jp/en/company/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers - Semiconductor business - Macnica — Manufacturers - Semiconductor business - Macnica 株式会社マクニカ https://www.macnica.co.jp > business",
+    "url": "https://www.macnica.co.jp/en/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica Holdings, Inc. (3132.T) Income Statement — Macnica Holdings, Inc. (3132.T) Income Statement Yahoo Finance https://finance.yahoo.com > financials",
+    "url": "https://finance.yahoo.com/quote/3132.T/financials/",
+    "pass": 3
+   },
+   {
+    "quote": "決算公表資料（短信等） - マクニカホールディングス — 決算公表資料（短信等） - マクニカホールディングス マクニカホールディングス https://holdings.macnica.co.jp > library > earning",
+    "url": "https://holdings.macnica.co.jp/investors/library/earning/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Reports - Macnica Holdings - Companies Market Cap — Annual Reports - Macnica Holdings - Companies Market Cap Companies Market Cap https://companiesmarketcap.com > an...",
+    "url": "https://companiesmarketcap.com/macnica-holdings/annual-reports/",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica Holdings 3132 マクニカ ホールディングス株式会社 — Macnica Holdings 3132 マクニカ ホールディングス株式会社 Japan Finsight https://japanfinsight.com > Wholesale Trade",
+    "url": "https://japanfinsight.com/company/3132-macnica-holdings",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated Report Issued - Latest Information - Macnica — Integrated Report Issued - Latest Information - Macnica 株式会社マクニカ https://www.macnica.co.jp > news",
+    "url": "https://www.macnica.co.jp/en/public-relations/news/2025/148376/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ ホールディングス【3132】の 大株主 情報 - 株探 — マクニカ ホールディングス【3132】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=3132",
+    "pass": 3
+   },
+   {
+    "quote": "株式基本情報 - マクニカホールディングス — 株式基本情報 - マクニカホールディングス マクニカホールディングス https://holdings.macnica.co.jp > investors > stock > stock",
+    "url": "https://holdings.macnica.co.jp/investors/stock/stock/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ HD【3132】の 大株主 - バフェット・コード — マクニカ HD【3132】の 大株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder",
+    "url": "https://www.buffett-code.com/company/3132/mainshareholder",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ ホールディングス【3132】 大株主 - ストレイナー — マクニカ ホールディングス【3132】 大株主 - ストレイナー ストレイナー https://strainer.jp > 卸売業 > マクニカホールディングス",
+    "url": "https://strainer.jp/companies/JP-3132/ownership",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ HD（3132）の 大株主 一覧 - IRBANK — マクニカ HD（3132）の 大株主 一覧 - IRBANK IRBANK https://irbank.net > 卸売業 > マクニカ HD",
+    "url": "https://irbank.net/E31167/holder",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "1972年に設立以来、最先端の半導体、電子デバイス、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "pass": 3
+   }
+  ],
+  "仕入れ先との契約": [
+   {
+    "quote": "Macnica Americas Expands Distribution Agreement with Ambarella",
+    "url": "https://www.macnica.com/americas/mai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica Announces Distribution Agreement for icetana’s Next-Generation AI Video Analytics Across the Americas",
+    "url": "https://www.macnica.com/americas/mai/en/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.macnica.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/company/branch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/company/csr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/company/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/company/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/voice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/technology/ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/technology/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/technology/ai/arih/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/technology/ai/brail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/co-creation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/company/operation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/company/purpose/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/company/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/company/technology/mpression/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/technology/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/technology/ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/technology/ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/technology/ai/arih/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/aboutus/technology/ai/brail/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://diamond.jp/articles/-/310845",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/3132/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/3132/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/310845",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=T9dCw77s1nY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%B1%B1%E6%B2%BB%E8%B2%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/3132/financial",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://holdings.macnica.co.jp/investors/financial/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitaishihon.com/company/3132/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://holdings.macnica.co.jp/content/dam/holdings/ir/ja/library/LIMITLESS%202026%20(for%20printing)_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.macnica.com/americas/mai/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/quote/3132.T/financials/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://holdings.macnica.co.jp/investors/library/earning/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://companiesmarketcap.com/macnica-holdings/annual-reports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanfinsight.com/company/3132-macnica-holdings",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=3132",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://holdings.macnica.co.jp/investors/stock/stock/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/3132/mainshareholder",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://strainer.jp/companies/JP-3132/ownership",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マクニカ 創業 歴史 最初の取扱",
+   "results": [
+    "https://www.macnica.co.jp/business/semiconductor/macnica_products/development_history/",
+    "https://www.macnica.co.jp/company/history/",
+    "https://diamond.jp/articles/-/310845",
+    "https://the-shashi.com/tse/3132/",
+    "https://www.macnica.co.jp/company/purpose_series2/",
+    "https://www.macnica.co.jp/company/overview/",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "https://kitaishihon.com/company/3132/story",
+    "https://holdings.macnica.co.jp/company/history/",
+    "https://ja.wikipedia.org/wiki/マクニカ"
+   ]
+  },
+  {
+   "query": "マクニカ 沿革",
+   "results": [
+    "https://www.macnica.co.jp/company/history/",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB",
+    "https://the-shashi.com/tse/3132/",
+    "https://www.macnica.co.jp/business/semiconductor/macnica_products/development_history/",
+    "https://www.macnica.co.jp/company/purpose_series2/",
+    "https://www.macnica.co.jp/company/overview/",
+    "https://kitaishihon.com/company/3132/story",
+    "https://careerforum.net/ja/company_list/1214/company_detail/",
+    "https://ja.wikipedia.org/wiki/マクニカ",
+    "https://ja.wikipedia.org/wiki/マクニカホールディングス"
+   ]
+  },
+  {
+   "query": "マクニカ 創業者 インタビュー",
+   "results": [
+    "https://diamond.jp/articles/-/310845",
+    "https://www.youtube.com/watch?v=T9dCw77s1nY",
+    "https://www.macnica.co.jp/business/semiconductor/macnica_products/development_history/",
+    "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%B1%B1%E6%B2%BB%E8%B2%B4",
+    "https://co-consortium.persol-career.co.jp/article/2024/02/26/index.html",
+    "https://www.itmedia.co.jp/business/articles/2603/27/news022.html",
+    "https://the-shashi.com/tse/3132/ceo/",
+    "https://k-nbc.jp/lecture/14619",
+    "https://www.youtube.com/watch?v=F-7HCYhlT68",
+    "https://ja.wikipedia.org/wiki/神山治貴"
+   ]
+  },
+  {
+   "query": "マクニカ 粗利率 売上総利益",
+   "results": [
+    "https://www.buffett-code.com/company/3132/financial",
+    "https://holdings.macnica.co.jp/investors/financial/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=3132",
+    "https://www.astrisadvisory.com/hubfs/Corporate%20Advisory/Corporate%20Research%20Reports/MACNICA%20HOLDINGS%2002102025%20(JPN).pdf",
+    "https://finance.logmi.jp/articles/384293",
+    "https://strainer.jp/companies/JP-3132/financials",
+    "https://x.com/kessan_db/status/2117186578745590067",
+    "https://kitaishihon.com/company/3132/finance",
+    "https://holdings.macnica.co.jp/content/dam/holdings/ir/ja/library/LIMITLESS%202025%20(for%20viewing)_J.pdf",
+    "https://gurafu.net/jpn/macnica"
+   ]
+  },
+  {
+   "query": "マクニカ 棚卸資産 運転資金",
+   "results": [
+    "https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf",
+    "https://kitaishihon.com/company/3132/business",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260724599411",
+    "https://holdings.macnica.co.jp/content/dam/holdings/ir/ja/library/LIMITLESS%202026%20(for%20printing)_J.pdf",
+    "https://wheat-biz.com/fp/unten-shikin-tekisei-suijun-gyoshubetsu-finance/",
+    "https://finance.logmi.jp/articles/381537",
+    "https://shikiho.toyokeizai.net/news/0/706862",
+    "https://shi-harai.com/column/67/",
+    "https://www.macnica.co.jp/assets/pdf/cp/notice/12.pdf",
+    "https://yomitoka.com/blog/working-capital"
+   ]
+  },
+  {
+   "query": "マクニカ history founded first product",
+   "results": [
+    "https://www.macnica.co.jp/en/company/history/",
+    "https://www.macnica.co.jp/en/business/",
+    "https://www.macnica.com/americas/mai/en/",
+    "https://www.macnica.co.jp/en/company/technology/",
+    "https://www.macnica.co.jp/en/business/semiconductor/manufacturers/",
+    "https://www.macnica-nw.com/smartphone/about.html",
+    "https://careerforum.net/en/company_list/1214/company_detail/",
+    "https://www.macnica.co.jp/business/semiconductor/macnica_products/",
+    "https://pitchbook.com/profiles/company/55681-75",
+    "https://ja.wikipedia.org/wiki/マクニカ"
+   ]
+  },
+  {
+   "query": "マクニカ annual report gross margin",
+   "results": [
+    "https://finance.yahoo.com/quote/3132.T/financials/",
+    "https://holdings.macnica.co.jp/investors/library/earning/",
+    "https://companiesmarketcap.com/macnica-holdings/annual-reports/",
+    "https://japanfinsight.com/company/3132-macnica-holdings",
+    "https://www.macnica.co.jp/en/public-relations/news/2025/148376/",
+    "https://www.macnica.com/apac/galaxy/en/investors/financials/",
+    "https://multiples.vc/public-comps/macnica-holdings-valuation-multiples",
+    "https://holdings.macnica.co.jp/en/investors/financial/",
+    "https://note.com/open_azalea2045/n/n7d88a4816b29?hl=en",
+    "https://holdings.macnica.co.jp/en/investors/library/integratedreport/"
+   ]
+  },
+  {
+   "query": "マクニカ 大株主 OR substantial holders",
+   "results": [
+    "https://kabutan.jp/stock/holder?code=3132",
+    "https://holdings.macnica.co.jp/investors/stock/stock/",
+    "https://www.buffett-code.com/company/3132/mainshareholder",
+    "https://strainer.jp/companies/JP-3132/ownership",
+    "https://irbank.net/E31167/holder",
+    "https://edinetdb.jp/company/E31167/shareholders",
+    "https://the-shashi.com/tse/3132/shareholders/",
+    "https://www.ullet.com/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9/%E5%A4%A7%E6%A0%AA%E4%B8%BB",
+    "https://www.nikkei.com/nkd/company/stockholder/?scode=3132",
+    "https://ja.wikipedia.org/wiki/マクニカホールディングス"
+   ]
+  }
+ ],
+ "missing": {}
+}

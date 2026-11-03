@@ -1,0 +1,363 @@
+{
+ "name": "日本製切削工具の輸出",
+ "en": "Japanese cutting tools export",
+ "aliases": [
+  "切削工具 輸出",
+  "超硬工具 輸出",
+  "エンドミル 輸出"
+ ],
+ "context": "輸出",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:43:33.469859+00:00",
+ "evidence": {
+  "輸出額・伸び": [
+   {
+    "quote": "日本からの工具全体の輸出は、2026年後半に入っても増加基調を継続している",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   },
+   {
+    "quote": "二次電池輸出入Report #232リチウムイオン電池輸出 1-9月輸出額 2026年過去最高",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   },
+   {
+    "quote": "酸化コバルト輸入Report #90 2026年後半も増加基調続く",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内自動車生産 2026年7-9月生産台数 198万3千台 前年同期比2%増加",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   }
+  ],
+  "仕向け先": [
+   {
+    "quote": "穴あけ工具を見ても、中国や台湾向けを中心に、それ以外の主要な輸出先のほぼ全てにおいて昨年よりも輸出が増えている",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   },
+   {
+    "quote": "10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   },
+   {
+    "quote": "米国に滞留する銅在庫 COMEX–LME価格差の逆転でも動かぬ地金 モルスタ分析を検証",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   },
+   {
+    "quote": "中国の輸出規制がレアアース、タングステン、アンチモンを対象とする中、タングステン粉末は逆行高、酸化ジスプロシウムは下落し、戦略的マイナーメタルの明暗が分かれている",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   }
+  ],
+  "価格差・需要": [
+   {
+    "quote": "超硬工具輸出Report#59工具 2026年後半も世界的に工具需要旺盛",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   },
+   {
+    "quote": "10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース市場近況2026#20 すべて横ばい、年末需要見極めで様子見",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "超硬 工具輸出 Report#59 工具 2026年後半も世界的に 工具需要 ... — 超硬 工具輸出 Report#59 工具 2026年後半も世界的に 工具需要 ... Iru-miru.com https://www.iru-miru.com > article",
+    "url": "https://www.iru-miru.com/article/86458",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.customs.go.jp/toukei/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/cutting-industry-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/gtir/2026/ch1/sec3/sub1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/cutting-tools-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iti.or.jp/flash/522",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/st/20268/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iru-miru.com/article/86458",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamatool.co.jp/2026/06/02/%E4%B8%AD%E5%9B%BD%E3%81%8B%E3%82%89%E3%81%AE%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E5%AF%BE%E6%97%A5%E8%BC%B8%E5%87%BA%E3%81%8C%E3%82%BC%E3%83%AD%E3%81%AB-%E3%80%8C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakusakuec.com/shop/pages/guide_07.aspx?srsltid=AYCX9vIzvN72_2jneINbi6vjJgS7xUq03dyOe_4pzbpLtJoxfUD6MRH4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/cutting-industry-history-japan-prewar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ainvest.com/ja/news/japan-machine-tool-orders-surge-45-foreign-demand-soars-2605/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUF222HB0S6A021C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmk-in.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.endmill-tw.com/webls-tran-j/msg/msg91.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tresbo.co.jp/?Chinese-Companies-Export/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykt.co.jp/strengths/100th/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kobayashi-tools.com/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hotas.biz/suppliers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing.asia/manufacturing/news/japans-machine-tool-exports-surge-foreign-orders-hit-776-share",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syntaxpartners.com/en/japan-cutting-tools-carbide-tools-ma-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/country-commercial-guides/japan-market-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imotosangyo.biz/export_business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisanzai-japan.com/article/p3482/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eximpedia.app/blog/major-exports-of-japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jcci.or.jp/kokusai/ec_supportbook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.plc.co.jp/blog/crossborder-ec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recustomer.me/blog/cross-border-ec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shopee.jp/column/cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.post.japanpost.jp/bizpost/column/overseas5/border-crossing-ec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebay.co.jp/info/cbt-blog/cbt-p4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/qanda03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cistec.or.jp/export/faq/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nissin21.co.jp/%E3%83%9E%E3%83%AB%E3%83%8F%E3%83%8A%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB/machine-export/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futaba.co.jp/support/judgment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000941.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoto-u.ac.jp/sites/default/files/static/ja/research/export/enlightenment/documents/briefing110104_1-cdd4c245f4499405b100fd89b3b5c38f.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本製切削工具の輸出 輸出額 推移",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://takumi-senpai.com/blog/cutting-industry-2025/",
+    "https://jp.linkedin.com/pulse/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%81%AE%E8%BC%B8%E5%87%BA%E5%8B%95%E5%90%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E3%81%AE%E5%8B%95%E7%9A%84%E3%82%B0%E3%83%A9%E3%83%952002%E5%B9%B42021%E5%B9%B4-gary-inwood",
+    "https://www.jetro.go.jp/world/gtir/2026/ch1/sec3/sub1.html",
+    "https://www.gminsights.com/ja/industry-analysis/cutting-tools-market",
+    "https://iti.or.jp/flash/522",
+    "https://monoque.jp/st/20268/",
+    "https://www.jta-tool.jp/pdf/new_seisansuii.pdf",
+    "https://washutrading.com/trade/export/chapter/82.html",
+    "https://keizai-marumie.com/balance_of_payments_out/"
+   ]
+  },
+  {
+   "query": "日本製切削工具の輸出 輸出 増加 海外需要",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/cutting-tools-market",
+    "https://www.youtube.com/watch?v=wSoyA6Iv2Bw",
+    "https://www.iru-miru.com/article/86458",
+    "https://jp.linkedin.com/pulse/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%81%AE%E8%BC%B8%E5%87%BA%E5%8B%95%E5%90%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E3%81%AE%E5%8B%95%E7%9A%84%E3%82%B0%E3%83%A9%E3%83%952002%E5%B9%B42021%E5%B9%B4-gary-inwood",
+    "https://hamatool.co.jp/2026/06/02/%E4%B8%AD%E5%9B%BD%E3%81%8B%E3%82%89%E3%81%AE%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E5%AF%BE%E6%97%A5%E8%BC%B8%E5%87%BA%E3%81%8C%E3%82%BC%E3%83%AD%E3%81%AB-%E3%80%8C/",
+    "https://sakusakuec.com/shop/pages/guide_07.aspx?srsltid=AYCX9vIzvN72_2jneINbi6vjJgS7xUq03dyOe_4pzbpLtJoxfUD6MRH4",
+    "https://takumi-senpai.com/blog/cutting-industry-history-japan-prewar/",
+    "https://www.ainvest.com/ja/news/japan-machine-tool-orders-surge-45-foreign-demand-soars-2605/",
+    "https://www.nikkei.com/article/DGXZQOUF222HB0S6A021C2000000/",
+    "https://jp.gdfreak.com/public/detail/jp01009000111016hlbg/1"
+   ]
+  },
+  {
+   "query": "日本製切削工具の輸出 輸出商社 代理店",
+   "results": [
+    "https://jmk-in.com/",
+    "https://www.endmill-tw.com/webls-tran-j/msg/msg91.html",
+    "https://www.tresbo.co.jp/?Chinese-Companies-Export/",
+    "https://www.ykt.co.jp/strengths/100th/",
+    "https://kobayashi-tools.com/agency",
+    "https://hotas.biz/suppliers/",
+    "https://www.wjtc.co.jp/",
+    "https://pr.mono.ipros.com/kyoni/product/detail/2000228074/",
+    "http://mech.bz/overseas/",
+    "https://www.taiyo-tool.co.jp/agent/overseas-agency"
+   ]
+  },
+  {
+   "query": "Japanese cutting tools export demand overseas buyers",
+   "results": [
+    "https://manufacturing.asia/manufacturing/news/japans-machine-tool-exports-surge-foreign-orders-hit-776-share",
+    "https://syntaxpartners.com/en/japan-cutting-tools-carbide-tools-ma-guide/",
+    "https://www.linkedin.com/pulse/metal-cutting-machine-tools-which-countrys-technology-gary-inwood",
+    "https://www.trade.gov/country-commercial-guides/japan-market-overview",
+    "https://www.instagram.com/reel/C7UCdRHS4i7/",
+    "https://imotosangyo.biz/export_business/",
+    "https://seisanzai-japan.com/article/p3482/",
+    "https://www.eximpedia.app/blog/major-exports-of-japan",
+    "https://www.cistec.or.jp/english/export/Overview4th.pdf",
+    "https://www.imarcgroup.com/japan-cutting-tools-market"
+   ]
+  },
+  {
+   "query": "日本製切削工具の輸出 越境EC 手数料",
+   "results": [
+    "https://www.jcci.or.jp/kokusai/ec_supportbook.pdf",
+    "https://www.plc.co.jp/blog/crossborder-ec/",
+    "https://recustomer.me/blog/cross-border-ec",
+    "https://shopee.jp/column/cost/",
+    "https://www.post.japanpost.jp/bizpost/column/overseas5/border-crossing-ec/index.html",
+    "https://www.ebay.co.jp/info/cbt-blog/cbt-p4/",
+    "https://business.kuronekoyamato.co.jp/promotion/learning/start-up/what-is-cross-border-e-commerce/index.html",
+    "https://www.ricoh.co.jp/magazines/smb/column/005657/",
+    "https://link-ecconsulting.co.jp/column/cross-border-ec-guide/",
+    "https://ayusawa-partners.jp/column/ec-oukyo-kaigai"
+   ]
+  },
+  {
+   "query": "日本製切削工具の輸出 輸出管理 該非判定",
+   "results": [
+    "https://www.meti.go.jp/policy/anpo/qanda03.html",
+    "https://www.cistec.or.jp/export/faq/faq.html",
+    "https://nissin21.co.jp/%E3%83%9E%E3%83%AB%E3%83%8F%E3%83%8A%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB/machine-export/",
+    "https://www.futaba.co.jp/support/judgment",
+    "https://www.jetro.go.jp/world/qa/04A-000941.html",
+    "https://www.kyoto-u.ac.jp/sites/default/files/static/ja/research/export/enlightenment/documents/briefing110104_1-cdd4c245f4499405b100fd89b3b5c38f.pdf",
+    "https://www.tokyo-cci.or.jp/international/outreach/column03/",
+    "https://laws.e-gov.go.jp/law/403M50000400049",
+    "https://www.mitutoyo.co.jp/support-and-services/export-transport/info/",
+    "https://www.meti.go.jp/policy/anpo/matrix_intro.html"
+   ]
+  }
+ ],
+ "missing": {
+  "取り分・商流": "記載なし（読んだ36頁・検索6回）",
+  "規制": "記載なし（読んだ36頁・検索6回）"
+ }
+}

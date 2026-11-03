@@ -1,0 +1,249 @@
+# 商社の手本3社 — 最初の商材・始まり方・粗利・運転資金（事実のみ・3社）
+
+## Dicker Data
+- 公式URL：https://www.dickerdata.com.au（given）
+- 従業員数：995 137 - - -（https://www.globaldata.com/company-profile/dicker-data-ltd/・3回目）
+- 所在地：Australia Australia Australia Australia Australia（https://www.globaldata.com/company-profile/dicker-data-ltd/・3回目）
+- 最初の商材・始まり方：
+  - 「Dicker Data (ASX:DDR) is an Australian owned and operated, ASX listed technology hardware, software, and cloud distributor, founded in 1978.」（https://www.dickerdata.com.au/・1回目）
+  - 「Dicker Data (ASX:DDR) is an Australian owned and operated, ASX listed technology hardware, software, and cloud distributor, founded in 1978.」（https://www.dickerdata.com.au/services・1回目）
+  - 「is a proudly Australian-owned and operated, ASX-listed distributor of technology hardware, software, and cloud solutions, supporting the local IT channel since 1978. We work exclusively with our valued network of over 12,000 resellers across Australia and New Zealand, building long-term partnerships founded on trust, collaboration, and shared success.」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「FOUNDED JULY 1978」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「Dicker Data (ASX:DDR) is an Australian owned and operated, ASX listed technology hardware, software, and cloud distributor, founded in 1978.」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「Dicker Data (ASX:DDR) is an Australian owned and operated, ASX listed technology hardware, software, and cloud distributor, founded in 1978.」（https://www.dickerdata.com.au/esg・1回目）
+  - 「The below share price chart demonstrates the current share price and trading history live from the ASX website.」（https://www.dickerdata.com.au/investor・1回目）
+  - 「Founded in 1925, Shure beings 100 years of extraordinary sound solutions to Dicker Data’s partner ecosystem. The unique Shure team, comprised of engineers, concert-goers, performers and presenters enables them to create products with passion fuelled by a deep understanding and respect for the needs of their users.」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+  - 「Founded in 2011 with direct investment from ASUS, ASUSTOR has rapidly emerged as a leader in private cloud storage and video surveillance solutions. Known for their unique and innovative AI designs, ASUSTOR develops next-generation network storage devices, offering cutting-edge NAS solutions tailored to meet diverse needs, from home users to large enterprises.」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+  - 「Dicker Data (ASX:DDR) pays interim dividends to shareholders. For our dividends history, please refer to the below table.」（https://www.dickerdata.com.au/investor/dividends・1回目）
+  - 「History」（https://www.globaldata.com/company-profile/dicker-data-ltd/・3回目）
+  - 「History section provides information on new products, mergers, acquisitions, expansions, approvals, and many more key events.」（https://www.globaldata.com/company-profile/dicker-data-ltd/・3回目）
+- 創業年度：
+  - 「Dicker Data (ASX:DDR) is an Australian owned and operated, ASX listed technology hardware, software, and cloud distributor, founded in 1978.」（https://www.dickerdata.com.au/・1回目）
+  - 「Dicker Data (ASX:DDR) is an Australian owned and operated, ASX listed technology hardware, software, and cloud distributor, founded in 1978.」（https://www.dickerdata.com.au/services・1回目）
+  - 「Dicker Data (ASX:DDR) is an Australian owned and operated, ASX listed technology hardware, software, and cloud distributor, founded in 1978.」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「Dicker Data (ASX:DDR) is an Australian owned and operated, ASX listed technology hardware, software, and cloud distributor, founded in 1978.」（https://www.dickerdata.com.au/esg・1回目）
+  - 「Announced on 6 October, the acquisiton sees Dicker Data acquire 100 per cent of Asia-Pacific distributor Sektor Group, a business established in 2009 that operates across Australia, New Zealand, Thailand and Malaysia and employs approximately 230 staff.」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+  - 「Founded in 1925, Shure beings 100 years of extraordinary sound solutions to Dicker Data’s partner ecosystem. The unique Shure team, comprised of engineers, concert-goers, performers and presenters enables them to create products with passion fuelled by a deep understanding and respect for the needs of their users.」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+  - 「Founded in 2011 with direct investment from ASUS, ASUSTOR has rapidly emerged as a leader in private cloud storage and video surveillance solutions. Known for their unique and innovative AI designs, ASUSTOR develops next-generation network storage devices, offering cutting-edge NAS solutions tailored to meet diverse needs, from home users to large enterprises.」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+  - 「Thailand and Malaysia. Sektor was established in 2009 and employs approximately 230 people.」（https://www.dickerdata.com.au/hubfs/Dicker%20Data/Investors/Announcement/2026/3131621.pdf・2回目）
+  - 「David Dicker's IT distribution business has weathered more than one economic downturn, having been founded in 1978.」（https://www.afr.com/company/asx/ddr・3回目）
+- 株主構成：
+  - 「My Shareholding」（https://www.dickerdata.com.au/investor・1回目）
+  - 「My Shareholding」（https://www.dickerdata.com.au/investor/board-of-directors・1回目）
+  - 「My Shareholding」（https://www.dickerdata.com.au/investor/announcements・1回目）
+  - 「Ceasing to be a substantial holder from MUFG」（https://www.dickerdata.com.au/investor/announcements・1回目）
+  - 「Ceasing to be a substantial holder」（https://www.dickerdata.com.au/investor/announcements・1回目）
+  - 「Becoming a Substantial Holder From MUFG」（https://www.dickerdata.com.au/investor/announcements・1回目）
+  - 「Becoming a Substantial Holder」（https://www.dickerdata.com.au/investor/announcements・1回目）
+  - 「Ceasing to be a substantial holder - David Dicker」（https://www.dickerdata.com.au/investor/announcements・1回目）
+  - 「Change in Substantial Holder Notices」（https://www.dickerdata.com.au/investor/announcements・1回目）
+  - 「My Shareholding」（https://www.dickerdata.com.au/investor/important-dates・1回目）
+  - 「My Shareholding」（https://www.dickerdata.com.au/investor/governance-and-policy・1回目）
+  - 「Executive and Board Minimum Shareholding Policy」（https://www.dickerdata.com.au/investor/governance-and-policy・1回目）
+- 売上・粗利率：
+  - 「Annual Revenue exceeded $100m」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「Annual Revenue exceeded $2b」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「Launched DAS and Annual Revenue Exceeded $3b」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「Tony is recognised for strong leadership and cross‑functional skills, with a proven ability to consistently drive revenue and profit growth while fostering a high‑performance culture. Under his guidance, Dicker Data’s hardware team has earned numerous distributor awards from leading vendors such as」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「Jason Hall joined Dicker Data in 2014 and is General Manager – Services, leading the company’s national Services organisation. He is responsible for building and operating two core capabilities that help partners deliver more value and create new revenue opportunities.」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「The second is Dicker Data’s emerging and fast-growing Telco Services capability, which extends the partner offering into connectivity and communications. This area is designed to complete the solution for customers and create new, sustainable revenue streams for partners within the Australian IT distribution market.」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「Annual Revenue」（https://www.dickerdata.com.au/investor・1回目）
+  - 「EBITDA」（https://www.dickerdata.com.au/investor・1回目）
+  - 「Financially, Sektor brings scale, having generated NZ$440 million in revenue and unaudited EBITDA of NZ$22.7 million in the 12 months to 31 August 2026.」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+  - 「“The Sektor team brings a level of strength, capability and vendor line card that creates a new revenue segment for Dicker Data and further diversifies the business,” Johnson said.」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+  - 「The agreement also creates further opportunities for partners to expand into recurring revenue and managed security services while helping customers respond to increasingly complex cybersecurity challenges.」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+  - 「In these environments, evolving regulatory requirements, growing cyber risk and the rapid introduction of AI are driving demand for ongoing governance, compliance and security services rather than one-off projects. For partners, this represents a significant opportunity to build recurring revenue, increase customer lifetime value and deliver differentiated, service-led offerings.」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+- 在庫・運転資金：
+  - 「We offer secure storage, precise inventory management, product handling, labelling, tracking, order dispatch and specialised freight—delivered with the same consistency whether you're moving single units or coordinating thousands. Our services are fully customisable and integrate cleanly with your systems, giving you visibility and confidence that your stock is ready when you need it.」（https://www.dickerdata.com.au/services・1回目）
+  - 「We offer secure warehousing, inventory management, product handling, labelling, order dispatch, specialised freight and drop-ship fulfilment. Our services scale from day-to-day operations to large national rollouts.」（https://www.dickerdata.com.au/services・1回目）
+  - 「Absolutely. Our logistics and inventory processes integrate cleanly with your systems, ensuring smooth communication, accurate updates and consistent alignment with your operational requirements and schedules.」（https://www.dickerdata.com.au/services・1回目）
+  - 「Outsourcing your logistics can save you money. Avoid big upfront costs for warehouse setup and equipment, benefit from lower ongoing expenses due to economies of scale and only pay for the space and services you actually use, making it easier to handle changing inventory levels.」（https://www.dickerdata.com.au/services・1回目）
+  - 「We streamline inventory management, automate manual steps and keep every detail aligned to your customer’s schedule. You receive tailored reporting, including clear stock movement updates, consolidated inventory summaries and automated notifications such as dispatch reports and end-user alerts.」（https://www.dickerdata.com.au/services・1回目）
+  - 「In this role, Chris leads vendor partnerships, branch expansion, and the development of one of ANZ's most trusted access control and surveillance operations. His focus is on combining end-to-end service, high inventory levels, and dedicated branch infrastructure to support partners and deliver exceptional outcomes.」（https://www.dickerdata.com.au/about-us・1回目）
+  - 「Credit」（https://www.dickerdata.com.au/investor・1回目）
+  - 「Credit」（https://www.dickerdata.com.au/investor/board-of-directors・1回目）
+  - 「Credit」（https://www.dickerdata.com.au/investor/announcements・1回目）
+  - 「Credit」（https://www.dickerdata.com.au/investor/important-dates・1回目）
+  - 「Credit」（https://www.dickerdata.com.au/investor/governance-and-policy・1回目）
+  - 「Credit」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+- 技術支援：
+  - 「Expanding further, James said “Citrix will continue to invest heavily in product development, engineering, and technical support across its Citrix and NetScaler business units. Working collaboratively with Dicker Data, we will scale our go to market delivery capabilities, enhanced customer and partner management as well as accelerate the adoption of Citrix products”」（https://www.dickerdata.com.au/investor/press-and-media・1回目）
+- 仕入れ先との契約：
+  - 「Vendors」（https://www.dickerdata.com.au/・1回目）
+  - 「Dicker Data is proud to represent leading technology vendors, forming strategic partnerships」（https://www.dickerdata.com.au/・1回目）
+  - 「Browse All Vendors」（https://www.dickerdata.com.au/・1回目）
+  - 「Our Vendors」（https://www.dickerdata.com.au/・1回目）
+  - 「Vendors」（https://www.dickerdata.com.au/services・1回目）
+  - 「Dicker Data is proud to represent leading technology vendors, forming strategic partnerships」（https://www.dickerdata.com.au/services・1回目）
+  - 「Browse All Vendors」（https://www.dickerdata.com.au/services・1回目）
+  - 「Alliance Vendors」（https://www.dickerdata.com.au/services・1回目）
+  - 「Whether you're a partner needing flexible day-to-day logistics support, a vendor managing ongoing national operations, or a project team delivering a one-off rollout, we adapt to the size, complexity and pace of your work.」（https://www.dickerdata.com.au/services・1回目）
+  - 「Our 3PL warehouse is vendor-agnostic and source-agnostic—wherever your stock comes from, our team can store it, manage it and deploy it to exactly where it needs to be, on time and ready for the next stage. From on-demand storage and drop-ship fulfilment to personalised shipping documents, we help partners and vendors run smoother operations and achieve better scale.」（https://www.dickerdata.com.au/services・1回目）
+  - 「Vendor-agnostic and source-agnostic stock management」（https://www.dickerdata.com.au/services・1回目）
+  - 「Can you handle stock from any vendor or distributor?」（https://www.dickerdata.com.au/services・1回目）
+- 検索結果の抜粋：
+  - 「Dicker Data | Australian IT Distributor — Dicker Data | Australian IT Distributor Dicker Data https://www.dickerdata.com.au」（https://www.dickerdata.com.au/・3回目）
+  - 「Dicker Data - LinkedIn — Dicker Data - LinkedIn LinkedIn Australia https://au.linkedin.com > dicker-data」（https://au.linkedin.com/company/dicker-data・3回目）
+  - 「Dicker Data Ltd Company Profile - Overview - GlobalData — Dicker Data Ltd Company Profile - Overview - GlobalData Global Data https://www.globaldata.com > dicker-...」（https://www.globaldata.com/company-profile/dicker-data-ltd/・3回目）
+  - 「Dicker Data (@ASXDDR) - Facebook — Dicker Data (@ASXDDR) - Facebook Facebook https://www.facebook.com > ... > Brand > Electronics」（https://www.facebook.com/ASXDDR/・3回目）
+  - 「Interviewing David Dicker of Dicker Data (ASX:DDR): $2B ... — Interviewing David Dicker of Dicker Data (ASX:DDR): $2B ... Apple https://apple.news > ...」（https://apple.news/AGG8taYDlQQGVa-xZxw7-OQ・3回目）
+  - 「Dicker Data Limited - Enterprise Profile - IBISWorld — Dicker Data Limited - Enterprise Profile - IBISWorld IBISWorld https://www.ibisworld.com > company」（https://www.ibisworld.com/australia/company/dicker-data-limited/12960/・3回目）
+  - 「Dicker Data Limited - AnnualReports.com — Dicker Data Limited - AnnualReports.com Annual Reports https://www.annualreports.com > dick...」（https://www.annualreports.com/Company/dicker-data-limited・3回目）
+  - 「Happy 35th anniversary, Dicker Data - ARNnet — Happy 35th anniversary, Dicker Data - ARNnet ARNnet https://www.arnnet.com.au > article」（https://www.arnnet.com.au/article/1265763/happy-35th-anniversary-dicker-data.html・3回目）
+  - 「David Dicker , Chair and CEO of Dicker Data — David Dicker , Chair and CEO of Dicker Data The CEO Magazine https://www.theceomagazine.com > d...」（https://www.theceomagazine.com/executive-interviews/it-electronics/david-dicker-2/・3回目）
+  - 「Dicker Data Ltd (DDR) 財務比率 - Investing.com — Dicker Data Ltd (DDR) 財務比率 - Investing.com Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース https://jp.investing.com > equities > dickerdata-ratios」（https://jp.investing.com/equities/dickerdata-ratios・3回目）
+  - 「DICKER DATA LTD (DCKDF) 主要財務指標 - moomoo証券 — DICKER DATA LTD (DCKDF) 主要財務指標 - moomoo証券 Moomoo https://www.moomoo.com > financials-key-indicators」（https://www.moomoo.com/ja/stock/DCKDF-US/financials-key-indicators・3回目）
+  - 「Dicker Data's H1 FY26 gross revenue tops $2b — Dicker Data's H1 FY26 gross revenue tops $2b techpartner.news https://www.techpartner.news > news」（https://www.techpartner.news/news/dicker-datas-h1-fy26-gross-revenue-tops-2b-628536・3回目）
+- 株主：記載なし（3回確認済み：公式22頁／PDF・画像8件／外部25頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式22頁／PDF・画像8件／外部25頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式22頁／PDF・画像8件／外部25頁・検索8回）
+
+## コーンズ・アンド・カンパニー
+- 公式URL：https://www.cornes.co.jp（given）
+- 創業年度：1861年（文久元年）4月1日（https://www.cornes.co.jp/company/profile/・1回目）
+- 創業年度：1947年5月27日（https://www.cornes.co.jp/company/profile/・1回目）
+- 創業年度：香港会社法（https://www.cornes.co.jp/company/profile/・1回目）
+- 従業員数：約210名（ 国内外グループ全体 約1840名 ）（https://www.cornes.co.jp/company/profile/・1回目）
+- 従業員数：210 (approx)　Group Total 1840 (approx)（https://www.cornes.co.jp/en/company/profile/・1回目）
+- 従業員数：約160名（国内外グループ全体 約1700名）（https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA・3回目）
+- 所在地：10/F, Fairmont House, 8 Cotton Tree Drive, Central, Hong Kong（https://www.cornes.co.jp/company/profile/・1回目）
+- 所在地：東京都港区芝3丁目3番10号 TEL 03-5730-1660 （代表）  FAX  03-5730-1628（https://www.cornes.co.jp/company/profile/・1回目）
+- 所在地：〒105-0014 東京都港区芝3丁目5番1号 コーンズハウスⅡ（https://www.cornesmotors.com/company・3回目）
+- 代表者：代表取締役社長　林 誠吾（https://www.cornesmotors.com/company・3回目）
+- 代表者：代表取締役社長 渡 謙作（https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA・3回目）
+- 最初の商材・始まり方：
+  - 「それは、私どもコーンズが一世紀半にわたり創業時より追い求めてきた企業理念です」（https://www.cornes.co.jp/・1回目）
+  - 「コーンズが創業したのは、江戸時代末期、文久元年（1861年）のことでした」（https://www.cornes.co.jp/about/・1回目）
+  - 「創業当初は絹と茶を中心とした貿易でしたが、7年後の1868年には日本初のロイズ・エージェントに選任され、検査海損業務を開始しました」（https://www.cornes.co.jp/about/・1回目）
+  - 「近年では、欧州よりいち早く自動車、キッチン用品をはじめとした一般消費財を輸入し、また海外の最先端技術を駆使したエレクトロニクス製品を日本市場に紹介してきました」（https://www.cornes.co.jp/about/・1回目）
+  - 「History」（https://www.cornes.co.jp/company/・1回目）
+  - 「現在、グループとしては自動車、エレクトロニクス、産業機材、キッチン用品、アパレルなどの輸入・販売に加え、損害保険、損害調査・査定など、広範な分野で事業を展開しております」（https://www.cornes.co.jp/company/・1回目）
+  - 「そして、創業160周年が経過した今日、私たちは次の時代を見据えています」（https://www.cornes.co.jp/company/・1回目）
+  - 「The Cornes business was founded in Yokohama more than one-and-a-half centuries ago on 1st April 1861 in the closing years of Japan’s Edo period by Frederick Cornes and his partner, William Aspinall.」（https://www.cornes.co.jp/en/company/・1回目）
+  - 「沿革 | 企業情報 | コーンズ・アンド・カンパニー・リミテッド」（https://www.cornes.co.jp/company/history/・1回目）
+  - 「History」（https://www.cornes.co.jp/company/history/・1回目）
+  - 「*図 創業当時の横浜旧居留地」（https://www.cornes.co.jp/company/history/・1回目）
+  - 「当初は絹と緑茶の輸出を行っていたが、その後ランカシャーの綿製品、金属、消費財、石炭、ケロシンの輸入業にも拡大する」（https://www.cornes.co.jp/company/history/・1回目）
+- 創業年度：
+  - 「The Cornes business was founded in Yokohama more than one-and-a-half centuries ago on 1st April 1861 in the closing years of Japan’s Edo period by Frederick Cornes and his partner, William Aspinall.」（https://www.cornes.co.jp/en/company/・1回目）
+- 技術支援：
+  - 「これからも「技術商社」として、先進的な製品・技術をいち早く察知し、国内外の産業発展の一翼を担っていく気概を持ち、我々の付加価値向上を目指します」（https://cornestech.co.jp/company/company-history・3回目）
+  - 「コーンズ テク�ノロジーは、「先進性と高品質」という言葉を軸にテクノロジーで世界を繋ぐ技術商社です」（https://newgrads-recruit.cornes.co.jp/cornes-technologies・3回目）
+- 仕入れ先との契約：
+  - 「9月4日、ほぼ独占的に東アジアへの蒸気船を運行していたP&O社（The Peninsular and Oriental Steam Navigation Company）の代理店になる」（https://www.cornes.co.jp/company/history/・1回目）
+  - 「1976年にイタリアフェラーリ社の日本総代理店となり、世界最高峰のスポーツカーの輸入を開始する」（https://www.cornes.co.jp/company/history/・1回目）
+  - 「*図 フェラーリ社の総代理店になる」（https://www.cornes.co.jp/company/history/・1回目）
+  - 「イタリアフェラーリ社の日本総代理店となる」（https://www.cornes.co.jp/company/history/・1回目）
+  - 「イタリアマセラティ社の日本総代理店となる」（https://www.cornes.co.jp/company/history/・1回目）
+  - 「それまでの日本総代理店であった（株）ガレーヂ伊太利屋を吸収し、コーンズ・イタリア（株）を設立」（https://www.cornes.co.jp/company/history/・1回目）
+  - 「EXCLUSIVE SERVICE」（https://www.cornesmotors.com/company/about・3回目）
+  - 「そんなおり、1976年、コーンズはフェラーリの日本総代理店として契約」（https://www.cornesmotors.com/company/about・3回目）
+  - 「イタリア「フェラーリ社」の日本総代理店として「フェラーリ」の正規輸入を開始しました」（https://recruit.cornesmotors.com/company/journey_future.html・3回目）
+  - 「EXCLUSIVE SERVICE」（https://www.cornesmotors.com/company・3回目）
+  - 「ロールス・ロイス＆ベントレーの日本総代理店として」（https://www.cornesmotors.com/company・3回目）
+  - 「フェラーリ社の日本総代理店となる」（https://www.cornesmotors.com/company・3回目）
+- 検索結果の抜粋：
+  - 「コーンズ ・モータースについて | CORNES 高級外車・中古車 ... — コーンズ ・モータースについて | CORNES 高級外車・中古車 ... CORNES MOTORS https://www.cornesmotors.com > 企業情報 > 会社概要」（https://www.cornesmotors.com/company/about・3回目）
+  - 「沿革 | 企業情報 - コーンズ・アンド・カンパニー・リミテッド — 沿革 | 企業情報 - コーンズ・アンド・カンパニー・リミテッド コーンズ・アンド・カンパニー・リミテッド https://www.cornes.co.jp > 企業情報」（https://www.cornes.co.jp/company/history/・3回目）
+  - 「歩みとこれから - コーンズ・モータース 採用サイト — 歩みとこれから - コーンズ・モータース 採用サイト CORNES MOTORS https://recruit.cornesmotors.com > journey_future」（https://recruit.cornesmotors.com/company/journey_future.html・3回目）
+  - 「企業情報 | CORNES 高級外車・中古車の購入なら コーンズ ... — 企業情報 | CORNES 高級外車・中古車の購入なら コーンズ ... CORNES MOTORS https://www.cornesmotors.com > 企業情報」（https://www.cornesmotors.com/company・3回目）
+  - 「沿革 - コーンズテクノロジー — 沿革 - コーンズテクノロジー コーンズテクノロジー https://cornestech.co.jp > 企業情報」（https://cornestech.co.jp/company/company-history・3回目）
+  - 「沿革 | 株式会社 コーンズ ・エージー — 沿革 | 株式会社 コーンズ ・エージー コーンズ・エージー https://www.cornesag.com > outline > history」（https://www.cornesag.com/outline/history.html・3回目）
+  - 「コーンズ テクノロジー株式会社の企業情報 - 転職は アンド プロ — コーンズ テクノロジー株式会社の企業情報 - 転職は アンド プロ アンドプロ https://and-pro.jp > company-info-28243」（https://and-pro.jp/company-info-28243/・3回目）
+  - 「〈 インタビュー 〉 コーンズ ・ アンド ・ カンパニー ・リミテッド — 〈 インタビュー 〉 コーンズ ・ アンド ・ カンパニー ・リミテッド 日刊自動車新聞 https://www.netdenjd.com > archives」（https://www.netdenjd.com/archives/104279・3回目）
+  - 「コーンズ テクノロジー — コーンズ テクノロジー コーンズ・アンド・カンパニー・リミテッド https://newgrads-recruit.cornes.co.jp > cornes-technologies」（https://newgrads-recruit.cornes.co.jp/cornes-technologies・3回目）
+  - 「先輩社員 インタビュー - コーンズ・モータース 採用サイト — 先輩社員 インタビュー - コーンズ・モータース 採用サイト CORNES MOTORS https://recruit.cornesmotors.com > interview」（https://recruit.cornesmotors.com/interview/・3回目）
+  - 「コーンズ - Wikipedia — コーンズ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > コーンズ」（https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA・3回目）
+  - 「コーンズ ・ アンド ・ カンパニー ・リミテッドの事業とカルチャー — コーンズ ・ アンド ・ カンパニー ・リミテッドの事業とカルチャー Wantedly https://www.wantedly.com > companies > cornes > about」（https://www.wantedly.com/companies/cornes/about・3回目）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像4件／外部29頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像4件／外部29頁・検索8回）
+- 株主構成：記載なし（3回確認済み：公式13頁／PDF・画像4件／外部29頁・検索8回）
+- 売上・粗利率：記載なし（3回確認済み：公式13頁／PDF・画像4件／外部29頁・検索8回）
+- 在庫・運転資金：記載なし（3回確認済み：公式13頁／PDF・画像4件／外部29頁・検索8回）
+
+## マクニカ
+- 公式URL：https://www.macnica.co.jp（given）
+- 創業年度：1972年10月30日（https://www.macnica.co.jp/company/overview/・1回目）
+- 創業年度：1972年 （ 昭和 47年） 10月30日 （ジャパンマクニクス株式会社）（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB・3回目）
+- 株主：マクニカホールディングス 100% （2022年8月1日時点）（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB・3回目）
+- 株主：（https://finance.biggo.jp/news/jpx_tdnet_140120260724599411・3回目）
+- 株主：241,342 246,021（https://finance.biggo.jp/news/jpx_tdnet_140120260724599411・3回目）
+- 従業員数：5,261名（2026年3月31日現在）（https://www.macnica.co.jp/company/overview/・1回目）
+- 従業員数：GET https://the-shashi.com /api /3132 /financials /employee.json（https://the-shashi.com/tse/3132/・3回目）
+- 従業員数：連結：4,187名（2023年3月31日現在）（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB・3回目）
+- 所在地：〒222-8561 横浜市港北区新横浜1-6-3 マクニカ第1ビル（https://www.macnica.co.jp/company/overview/・1回目）
+- 所在地：日本 〒 222-8561 神奈川県 横浜市 港北区 新横浜 一丁目6番地3 マクニカ第1ビル（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB・3回目）
+- 売上高：12,142億円/25年度実績 10,342億円/24年度実績 10,287億円/23年度実績 10,293億円/22年度実績 7,618億円/21年度実績（https://www.macnica.co.jp/company/overview/・1回目）
+- 売上高：連結：1兆円（2022年度実績）（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB・3回目）
+- 売上高：761,823 1,029,263 1,028,718 1,034,180 1,214,196（https://www.nikkei.com/nkd/company/kessan/?scode=3132・3回目）
+- 代表者：原一将（ 代表取締役 社長 ）（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB・3回目）
+- 最初の商材・始まり方：
+  - 「たった数名で創業した50数年前も、5,000名近くの規模となった今でも、それは変わりません」（https://www.macnica.co.jp/company/aboutus/・1回目）
+  - 「マクニカは1972年の創業以来、世界中から価値ある半導体製品を見つけ出し、独自の技術的価値を加えたうえでお客さまに提供してきました」（https://www.macnica.co.jp/company/technology/mpression/・1回目）
+  - 「また、その一部には、商品の輸入に伴う外」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf・2回目）
+  - 「また、その一部には、商品の輸入に伴う外」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf・2回目）
+  - 「の一部には、 商品の輸入に伴う外貨建てのものがあり、 為替の変動リスクに晒されていますが、」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf・2回目）
+  - 「の一部には、 商品の輸入に伴う外貨建てのものがあり、 為替の変動リスクに晒されていますが、」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf・2回目）
+  - 「の一部には、 商品の輸入に伴う外貨建てのものがあり、 為替の変動リスクに晒されていますが、」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_51.pdf・2回目）
+  - 「の一部には、商品の輸入に伴う外貨建てのものがあり、為替の変動リスクに晒されていますが、」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_50.pdf・2回目）
+  - 「の一部には、商品の輸入に伴う外貨建てのものがあり、為替の変動リスクに晒されていますが、」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_49.pdf・2回目）
+  - 「の一部には、商品の輸入に伴う外貨建てのものがあり、為替の変動リスクに晒されていますが、」（https://www.macnica.co.jp/assets/pdf/cp/notice/20.pdf・2回目）
+  - 「半導体ナンバーワン商社・マクニカ創業者が語る「配偶者は最高の応援者」 | 経営の本質 すべては人に始まり人に終わる | ダイヤモンド・オンライン」（https://diamond.jp/articles/-/310845・3回目）
+  - 「半導体ナンバーワン商社・マクニカ創業者が語る「配偶者は最高の応援者」」（https://diamond.jp/articles/-/310845・3回目）
+- 創業年度：
+  - 「1972年に設立以来、最先端の半導体、電子デバイス、」（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB・3回目）
+- 株主構成：
+  - 「大株主・株主構成」（https://the-shashi.com/tse/3132/・3回目）
+  - 「大株主・株主構成・大量保有」（https://the-shashi.com/tse/3132/・3回目）
+  - 「大株主の状況」（https://holdings.macnica.co.jp/investors/stock/stock/・3回目）
+  - 「マクニカホールディングス 大株主 | ストレイナー」（https://strainer.jp/companies/JP-3132/ownership・3回目）
+  - 「マクニカホールディングス【3132】 大株主」（https://strainer.jp/companies/JP-3132/ownership・3回目）
+- 売上・粗利率：
+  - 「売上高 648,192」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf・2回目）
+  - 「売上総利益 74,121」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf・2回目）
+  - 「営業利益 19,838」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf・2回目）
+  - 「売上高 594,932」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf・2回目）
+  - 「売上総利益 73,100」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf・2回目）
+  - 「営業利益 25,043」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf・2回目）
+  - 「売上高 720,885」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf・2回目）
+  - 「売上総利益 93,286」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf・2回目）
+  - 「営業利益 49,287」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_53.pdf・2回目）
+  - 「売上高 661,710」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf・2回目）
+  - 「売上総利益 85,579」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf・2回目）
+  - 「営業利益 42,003」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_52.pdf・2回目）
+- 在庫・運転資金：
+  - 「高速道路へのアクセスがよく物流拠点として最適な立地にあるロジスティクスセンターは、6,000坪超のスペースを有し常時50万箱以上の在庫を管理しています」（https://www.macnica.co.jp/company/operation/・1回目）
+  - 「通常のWMSが備える入出荷管理、在庫管理、棚卸管理に加え、製品特性・用途により異なる製造ロット情報を正確に管理し、トレーサビリティーを強化しています」（https://www.macnica.co.jp/company/operation/・1回目）
+  - 「受 取 手 形 17 買掛金 55,949」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf・2回目）
+  - 「(2) 棚卸資産の評価基準及び評価方法」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf・2回目）
+  - 「棚卸資産の評価」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf・2回目）
+  - 「営業債務である支払手形及び買掛金は、そのほとんどが１年以内の支払期日です」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf・2回目）
+  - 「「受取手形」、「電子記録債権」、「売掛金」、「関係会社短期貸付金」、「支払手形」、「買掛金」、「短期借入金」、「関」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_55.pdf・2回目）
+  - 「(2) 棚卸資産の評価基準及び評価方法」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf・2回目）
+  - 「1. 棚卸資産の評価」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf・2回目）
+  - 「営業債務である支払手形及び買掛金は、そのほとんどが１年以内の支払期日です」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf・2回目）
+  - 「「受取手形」、「電子記録債権」、「売掛金」、「関係会社短期貸付金」、「支払手形」、「買掛金」、「短期借入金」、「関」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf・2回目）
+  - 「－ 商品の 仕入 商品の仕入 (注6) 16,319 買掛金 10,968 関係会社」（https://www.macnica.co.jp/assets/pdf/cp/notice/21_54.pdf・2回目）
+- 技術支援：
+  - 「技術商社だからできることもある」（https://www.macnica.co.jp/aboutus/voice/・1回目）
+  - 「万が一､不具合現象が発生した場合には､マクニカの専門知識を有する技術者(CQE/FAE)がすみやかに現象を確認､あるいは初期解析を行うなどの対応､対策をとり原因の究明につとめています｡」（https://www.macnica.co.jp/company/operation/・1回目）
+  - 「マクニカは技術サポートに力を注ぎ、」（https://www.macnica.co.jp/company/aboutus/・1回目）
+  - 「「技術商社」という新しい商社像を打ち立てました」（https://www.macnica.co.jp/company/aboutus/・1回目）
+  - 「手厚い技術サポートはもちろん、」（https://www.macnica.co.jp/company/aboutus/・1回目）
+  - 「半導体の技術商社として1972年、パン屋の2階で創業したマクニカ」（https://diamond.jp/articles/-/310845・3回目）
+- 仕入れ先との契約：
+  - 「Macnica Americas Expands Distribution Agreement with Ambarella」（https://www.macnica.com/americas/mai/en/・3回目）
+  - 「Macnica Announces Distribution Agreement for icetana’s Next-Generation AI Video Analytics Across the Americas」（https://www.macnica.com/americas/mai/en/・3回目）
+- 検索結果の抜粋：
+  - 「【50周年特別企画】 マクニカ の開発の 歴史 — 【50周年特別企画】 マクニカ の開発の 歴史 株式会社マクニカ https://www.macnica.co.jp > ... > マクニカの製品・サービス」（https://www.macnica.co.jp/business/semiconductor/macnica_products/development_history/・3回目）
+  - 「ヒストリー - 会社情報 - マクニカ — ヒストリー - 会社情報 - マクニカ 株式会社マクニカ https://www.macnica.co.jp > 会社情報」（https://www.macnica.co.jp/company/history/・3回目）
+  - 「半導体ナンバーワン商社・ マクニカ創業 者が語る「配偶者は ... — 半導体ナンバーワン商社・ マクニカ創業 者が語る「配偶者は ... ダイヤモンド・オンライン https://diamond.jp > articles」（https://diamond.jp/articles/-/310845・3回目）
+  - 「マクニカ HDの 歴史 - The社史 — マクニカ HDの 歴史 - The社史 The社史 https://the-shashi.com > tse」（https://the-shashi.com/tse/3132/・3回目）
+  - 「マクニカ のパーパス《誕生秘話》 - 株式会社 マクニカ — マクニカ のパーパス《誕生秘話》 - 株式会社 マクニカ 株式会社マクニカ https://www.macnica.co.jp > company > purpose_series2」（https://www.macnica.co.jp/company/purpose_series2/・3回目）
+  - 「マクニカ - Wikipedia — マクニカ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > マクニカ」（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB・3回目）
+  - 「マクニカ HDの歴史 - The社史 — マクニカ HDの歴史 - The社史 The社史 https://the-shashi.com > tse」（https://the-shashi.com/tse/3132/・3回目）
+  - 「【50周年特別企画】 マクニカ の開発の歴史 — 【50周年特別企画】 マクニカ の開発の歴史 株式会社マクニカ https://www.macnica.co.jp > ... > マクニカの製品・サービス」（https://www.macnica.co.jp/business/semiconductor/macnica_products/development_history/・3回目）
+  - 「半導体ナンバーワン商社・ マクニカ創業者 が語る「配偶者は ... — 半導体ナンバーワン商社・ マクニカ創業者 が語る「配偶者は ... ダイヤモンド・オンライン https://diamond.jp > articles」（https://diamond.jp/articles/-/310845・3回目）
+  - 「マクニカ 社長とクラウドストライク取締役会長が語る 成長 ... — マクニカ 社長とクラウドストライク取締役会長が語る 成長 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=T9dCw77s1nY・3回目）
+  - 「マクニカ 「キャリアオーナーシップが自然と根付く社風 ... — マクニカ 「キャリアオーナーシップが自然と根付く社風 ... キャリアオーナーシップとはたらく未来コンソーシアム https://co-consortium.persol-career.co.jp > 2024/02/26」（https://co-consortium.persol-career.co.jp/article/2024/02/26/index.html・3回目）
+  - 「マクニカ HDの業績・財務 - 3132 / プライム / 卸売業 — マクニカ HDの業績・財務 - 3132 / プライム / 卸売業 バフェット・コード https://www.buffett-code.com > company > financial」（https://www.buffett-code.com/company/3132/financial・3回目）

@@ -1,0 +1,352 @@
+{
+ "name": "日本製の金属材料・特殊鋼の輸出",
+ "en": "Japanese specialty steel export",
+ "aliases": [
+  "特殊鋼 輸出",
+  "金属材料 輸出",
+  "アルミ材 輸出"
+ ],
+ "context": "輸出",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:46:08.355915+00:00",
+ "evidence": {
+  "輸出額・伸び": [
+   {
+    "quote": "3年ぶりに増加した",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "2024暦年のステンレス鋼鋼材輸出量は、71万6,353トンと、2023暦年比4.1 %増となり、3年ぶりに増加した",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内自動車生産 2026年7-9月生産台数 198万3千台 前年同期比2%増加",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   }
+  ],
+  "仕向け先": [
+   {
+    "quote": "中国・台湾産ニッケル系ステンレス冷延鋼板にAD関税を本決定 10月31日から5年間、中国産は最大42.1%",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "海外の冷延鋼板価格（10/30）：欧州・中国弱含み",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "海外の熱延鋼板価格（10/23）：米国内堅調に推移",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "欧州とインドは弱含み",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼：欧州の輸入鋼材価格（10/30）：すべて変わらず",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼：米国輸入鋼材価格（10/30）：表面処理鋼板のみ弱含み",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼：米国内の鋼材価格（10/30）：熱延・表面処理鋼板上昇",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "米国に滞留する銅在庫 COMEX–LME価格差の逆転でも動かぬ地金 モルスタ分析を検証",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   },
+   {
+    "quote": "LME Weekly 2026年10月26～30日 世界的株安で銅・ニッケル反落 銅は中国の現物ひっ迫で逆ザヤ拡大",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   }
+  ],
+  "価格差・需要": [
+   {
+    "quote": "10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新",
+    "url": "https://www.iru-miru.com/article/77591",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jisf.or.jp/data/jikeiretsu/boueki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iru-miru.com/article/77591",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/factbook/2023/11-10.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokushuko.or.jp/data/export.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jisf.or.jp/data/boeki/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/monthly_topics/2026/0410/topics_085.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2026/0401/7d1080d3ba6dcfaa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanmetal.com/news-t20260813150315.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jisf.or.jp/data/boeki/month.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO95382900R00C26A4QM8000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/common/secure/ir/library/pdf/nsc_jp_ir_2024_19_57.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanematsu.co.jp/business/steel_materials_plant/specialty_steel_foreign_trade",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakkotrading.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/1f019891-6b84-43c2-8392-08f5cb95aaa0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiyoshoji.co.jp/pages/81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinx-corp.co.jp/features/service/export/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakuma-ss.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jisf.or.jp/en/statistics/SupplyandDemand/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.steelorbis.com/steel-news/latest-news/japans-crude-steel-demand-forecast-to-rise-23-percent-in-october-december-2026-1484217.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/en/factbook/11-10.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/data-visualization/japan-steel-exports-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanematsu.co.jp/en/business/steel_materials_plant/specialty_steel_foreign_trade",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/trade_policy/wto/ADletter.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanzei.or.jp/wp-content/uploads/2025/06/777_tsukyoshiryo_2024.7.9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/special/good_company/2018121001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rakuraku-boeki.jp/category/column",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/matrix_intro.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cistec.or.jp/service/gaihi_benricho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/international/outreach/column03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-001028.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/list-control/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fefta-fa.com/column/2164/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本製の金属材料・特殊鋼の輸出 輸出額 推移",
+   "results": [
+    "https://www.jisf.or.jp/data/jikeiretsu/boueki.html",
+    "https://www.iru-miru.com/article/77591",
+    "https://www.nipponsteel.com/factbook/2023/11-10.html",
+    "https://www.tokushuko.or.jp/data/export.htm",
+    "https://www.jisf.or.jp/data/boeki/index.html",
+    "https://www5.cao.go.jp/keizai3/monthly_topics/2026/0410/topics_085.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.globalnote.jp/post-3673.html",
+    "https://www.iru-miru.com/article/72819"
+   ]
+  },
+  {
+   "query": "日本製の金属材料・特殊鋼の輸出 輸出 増加 海外需要",
+   "results": [
+    "https://www.jetro.go.jp/biz/areareports/special/2026/0401/7d1080d3ba6dcfaa.html",
+    "https://www.japanmetal.com/news-t20260813150315.html",
+    "https://www.jisf.or.jp/data/boeki/month.html",
+    "https://www.nikkei.com/article/DGKKZO95382900R00C26A4QM8000/",
+    "https://www.iru-miru.com/article/77591",
+    "https://www.nipponsteel.com/common/secure/ir/library/pdf/nsc_jp_ir_2024_19_57.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "https://www.japanmetaldaily.com/articles/-/267451",
+    "https://www5.cao.go.jp/keizai3/monthly_topics/2026/0410/topics_085.pdf",
+    "https://www.jisf.or.jp/data/boeki/index.html"
+   ]
+  },
+  {
+   "query": "日本製の金属材料・特殊鋼の輸出 輸出商社 代理店",
+   "results": [
+    "https://www.kanematsu.co.jp/business/steel_materials_plant/specialty_steel_foreign_trade",
+    "https://www.hakkotrading.co.jp/business/",
+    "https://baseconnect.in/companies/keyword/1f019891-6b84-43c2-8392-08f5cb95aaa0",
+    "https://www.taiyoshoji.co.jp/pages/81/",
+    "https://www.shinx-corp.co.jp/features/service/export/",
+    "https://www.sakuma-ss.co.jp/",
+    "https://www.aoyamasteel.co.jp/service/sales/",
+    "https://www.sakane-syoji.com/lp/export-support/",
+    "https://www.y-entex.co.jp/steel.html"
+   ]
+  },
+  {
+   "query": "Japanese specialty steel export demand overseas buyers",
+   "results": [
+    "https://www.jisf.or.jp/en/statistics/SupplyandDemand/index.html",
+    "https://www.steelorbis.com/steel-news/latest-news/japans-crude-steel-demand-forecast-to-rise-23-percent-in-october-december-2026-1484217.htm",
+    "https://www.nipponsteel.com/en/factbook/11-10.html",
+    "https://www.trade.gov/data-visualization/japan-steel-exports-report",
+    "https://www.kanematsu.co.jp/en/business/steel_materials_plant/specialty_steel_foreign_trade",
+    "https://www.imarcgroup.com/japan-steel-market",
+    "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2888638-japan-s-scrap-export-tender-rises-in-october",
+    "https://tradingeconomics.com/japan/exports/united-states/iron-steel",
+    "https://www.steelonthenet.com/resources/countries/japan.html",
+    "https://www.6wresearch.com/industry-report/japan-special-steel-market"
+   ]
+  },
+  {
+   "query": "日本製の金属材料・特殊鋼の輸出 越境EC 手数料",
+   "results": [
+    "https://www.meti.go.jp/policy/trade_policy/wto/ADletter.html",
+    "https://www.kanzei.or.jp/wp-content/uploads/2025/06/777_tsukyoshiryo_2024.7.9.pdf",
+    "https://j-net21.smrj.go.jp/special/good_company/2018121001.html",
+    "https://www.rakuraku-boeki.jp/category/column"
+   ]
+  },
+  {
+   "query": "日本製の金属材料・特殊鋼の輸出 輸出管理 該非判定",
+   "results": [
+    "https://www.meti.go.jp/policy/anpo/matrix_intro.html",
+    "https://www.cistec.or.jp/service/gaihi_benricho.html",
+    "https://www.tokyo-cci.or.jp/international/outreach/column03/",
+    "https://www.jetro.go.jp/world/qa/04A-001028.html",
+    "https://marineinsurance.jp/maritime_wiki/terms/list-control/",
+    "https://fefta-fa.com/column/2164/",
+    "https://laws.e-gov.go.jp/law/403M50000400049",
+    "https://www.meti.go.jp/policy/anpo/qanda02.html",
+    "https://www.toyotanso.co.jp/Products/Attention.html"
+   ]
+  }
+ ],
+ "missing": {
+  "取り分・商流": "記載なし（読んだ34頁・検索6回）",
+  "規制": "記載なし（読んだ34頁・検索6回）"
+ }
+}

@@ -1,0 +1,936 @@
+{
+ "name": "コーンズ・アンド・カンパニー",
+ "aliases": [
+  "コーンズ",
+  "Cornes & Company",
+  "Cornes"
+ ],
+ "context": "横浜発の商社の手本",
+ "researched_at": "2026-11-03T16:43:31.034067+00:00",
+ "official_url": "https://www.cornes.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "1861年（文久元年）4月1日",
+    "url": "https://www.cornes.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1947年5月27日",
+    "url": "https://www.cornes.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "会社設立の準拠法",
+    "value": "香港会社法",
+    "url": "https://www.cornes.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "Established",
+    "value": "1st April 1861",
+    "url": "https://www.cornes.co.jp/en/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "会社設立日",
+    "value": "2011年11月1日",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1947年 5月27日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "香港本社",
+    "value": "10/F, Fairmont House, 8 Cotton Tree Drive, Central, Hong Kong",
+    "url": "https://www.cornes.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "日本に於ける本社",
+    "value": "東京都港区芝3丁目3番10号 TEL 03-5730-1660 （代表）  FAX  03-5730-1628",
+    "url": "https://www.cornes.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒105-0014 東京都港区芝3丁目5番1号 コーンズハウスⅡ",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   },
+   {
+    "label": "本社 所在地",
+    "value": "香港 【香港本社】 10/F, Fairmont House, 8 Cotton Tree Drive, Central 日本 【東京本社】 〒105-0014 東京都 港区 芝 3-3-10",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "約210名（ 国内外グループ全体 約1840名 ）",
+    "url": "https://www.cornes.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "Employees",
+    "value": "210 (approx)　Group Total 1840 (approx)",
+    "url": "https://www.cornes.co.jp/en/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約160名（国内外グループ全体 約1700名）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　林 誠吾",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 渡 謙作",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "最初の商材・始まり方": [
+   {
+    "quote": "それは、私どもコーンズが一世紀半にわたり創業時より追い求めてきた企業理念です",
+    "url": "https://www.cornes.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コーンズが創業したのは、江戸時代末期、文久元年（1861年）のことでした",
+    "url": "https://www.cornes.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当初は絹と茶を中心とした貿易でしたが、7年後の1868年には日本初のロイズ・エージェントに選任され、検査海損業務を開始しました",
+    "url": "https://www.cornes.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では、欧州よりいち早く自動車、キッチン用品をはじめとした一般消費財を輸入し、また海外の最先端技術を駆使したエレクトロニクス製品を日本市場に紹介してきました",
+    "url": "https://www.cornes.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "History",
+    "url": "https://www.cornes.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、グループとしては自動車、エレクトロニクス、産業機材、キッチン用品、アパレルなどの輸入・販売に加え、損害保険、損害調査・査定など、広範な分野で事業を展開しております",
+    "url": "https://www.cornes.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、創業160周年が経過した今日、私たちは次の時代を見据えています",
+    "url": "https://www.cornes.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The Cornes business was founded in Yokohama more than one-and-a-half centuries ago on 1st April 1861 in the closing years of Japan’s Edo period by Frederick Cornes and his partner, William Aspinall.",
+    "url": "https://www.cornes.co.jp/en/company/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | コーンズ・アンド・カンパニー・リミテッド",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "History",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "*図 創業当時の横浜旧居留地",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当初は絹と緑茶の輸出を行っていたが、その後ランカシャーの綿製品、金属、消費財、石炭、ケロシンの輸入業にも拡大する",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "慶応4/明治元年、ロイズ（Lloyd’s）の日本における最初の代理店となる",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "60年代の日本の造船活況期、コーンズは船舶用無線機やレーダーの輸入販売も開始し、船舶機器の市場をリードした",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "英国ロールス・ロイス & ベントレー・カーズ社の輸入権を獲得",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車事業が開始され、英国ローバー社、英国アストン・マーティン・ラゴンダ社、英国ジェンセン社の輸入権も獲得する",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "酪農機械施設の輸入・販売を行う（株）コーンズAGを設立",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1976年にイタリアフェラーリ社の日本総代理店となり、世界最高峰のスポーツカーの輸入を開始する",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本最初のF1開催以降、日本で開かれるフェラーリF1チームをサポートする",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "この年に、日本で最初のF1グランプリが開催され、以降日本で開催される全てのF1グランプリにおいて、フェラーリF1チームのサポートを行う",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本最初の消防救助用非冷却式赤外線カメラ（英国EEV社製）を大阪市消防学校に納入",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年に日本最初の個人酪農家向け「バイオガス・プラント」を北海道江別市に建設し、家畜の糞尿から1日1,365kWhの電力を発生させることに成功する",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本最初の個人酪農家向け「バイオガス・プラント」が北海道江別市に完成",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業より160周年を迎える",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "バイオエタノール暖炉及び燃料の輸入販売",
+    "url": "https://www.cornes.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "「コーンズ」の創業は江戸時代",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "わたしたち「コーンズ」の創業は、1861年まで遡ります",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "創業者「フレデリック・コーンズ」の死去や第2次世界大戦など幾多の苦難を乗り越え、国際商社として足場を固め成長を続けました",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "「ベントレー」の正規輸入を開始",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "英国車の輸入を開始いたしました",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "1964年には英国ロールス・ロイス & ベントレー・カーズ社の輸入権を獲得",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "「フェラーリ」の正規輸入を開始",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "最初の輸入は、308GT4,308GTBでした",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "1976年は、日本で最初のF1グランプリが開催された年でもあります",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "取り扱いを開始",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "「ポルシェ」の取り扱いを開始",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "江戸時代末期の文久元年(1861年)の創業から約一世紀、1964年にコーンズ・アンド・カンパニー・リミテッドは自動車事業をスタートしました",
+    "url": "https://recruit.cornesmotors.com/company/journey_future.html",
+    "pass": 3
+   },
+   {
+    "quote": "コーンズ・アンド・カンパニー・リミテッドは海外メーカーから、いち早く高級車の正規輸入権を獲得しインポーターとなります",
+    "url": "https://recruit.cornesmotors.com/company/journey_future.html",
+    "pass": 3
+   },
+   {
+    "quote": "イギリス「ロールス・ロイス＆ベントレー・カーズ社」の輸入権を獲得し、「ロールス・ロイス」と「ベントレー」の正規輸入を開始します",
+    "url": "https://recruit.cornesmotors.com/company/journey_future.html",
+    "pass": 3
+   },
+   {
+    "quote": "イタリア「フェラーリ社」の日本総代理店として「フェラーリ」の正規輸入を開始しました",
+    "url": "https://recruit.cornesmotors.com/company/journey_future.html",
+    "pass": 3
+   },
+   {
+    "quote": "高級輸入車市場における事業強化を目指し、イタリア「ランボルギーニ」の正規ディーラー権を獲得し、取り扱いを開始しました",
+    "url": "https://recruit.cornesmotors.com/company/journey_future.html",
+    "pass": 3
+   },
+   {
+    "quote": "正規販売店として「ポルシェ」の取り扱いを開始",
+    "url": "https://recruit.cornesmotors.com/company/journey_future.html",
+    "pass": 3
+   },
+   {
+    "quote": "1960年代から高級輸入車のインポーターとして歩みを進めてきました",
+    "url": "https://recruit.cornesmotors.com/company/journey_future.html",
+    "pass": 3
+   },
+   {
+    "quote": "History",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "創業者フレデリック・コーンズにより、コーンズ・アンド・カンパニー・リミテッドとして、",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "英国ロールス・ロイス＆ベントレー・カーズ社の輸入権を獲得",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "正規販売店として「ポルシェ」の取り扱いを開始",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | コーンズテクノロジー",
+    "url": "https://cornestech.co.jp/company/company-history",
+    "pass": 3
+   },
+   {
+    "quote": "グループ企業創業",
+    "url": "https://cornestech.co.jp/company/company-history",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | 株式会社コーンズ・エージー",
+    "url": "https://www.cornesag.com/outline/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "高級輸入車の輸入事業を年内で終了し、販売店としての事業の成長を目指すコーンズ・アンド・カンパニー・リミテッド（渡伸一郎社長）",
+    "url": "https://www.netdenjd.com/archives/104279",
+    "pass": 3
+   },
+   {
+    "quote": "１９６４年にロールス・ロイス、ベントレー、ローバー、アストンマーチンの輸入権を獲得して始まった同社の自動車部門は...",
+    "url": "https://www.netdenjd.com/archives/104279",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤ成膜装置事業では、輸入装置販売の枠を越えて自社装置の開発にも傾注してきました",
+    "url": "https://newgrads-recruit.cornes.co.jp/cornes-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "コーンズテクノロジーは、単に製品を輸入・販売するだけの商社ではありません",
+    "url": "https://newgrads-recruit.cornes.co.jp/cornes-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "きっかけは、偶然居合わせた高級輸入車メーカーの受注会",
+    "url": "https://recruit.cornesmotors.com/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入自動車販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "、電子デバイスの輸入、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "まではロールス・ロイス、ベントレーとフェラーリの輸入元にもなっていた",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "1964年から2001年までは、日本への輸入権を所有していた",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "が日本への輸入者となっている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "The Cornes business was founded in Yokohama more than one-and-a-half centuries ago on 1st April 1861 in the closing years of Japan’s Edo period by Frederick Cornes and his partner, William Aspinall.",
+    "url": "https://www.cornes.co.jp/en/company/",
+    "pass": 1
+   }
+  ],
+  "仕入れ先との契約": [
+   {
+    "quote": "9月4日、ほぼ独占的に東アジアへの蒸気船を運行していたP&O社（The Peninsular and Oriental Steam Navigation Company）の代理店になる",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1976年にイタリアフェラーリ社の日本総代理店となり、世界最高峰のスポーツカーの輸入を開始する",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "*図 フェラーリ社の総代理店になる",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "イタリアフェラーリ社の日本総代理店となる",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "イタリアマセラティ社の日本総代理店となる",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "それまでの日本総代理店であった（株）ガレーヂ伊太利屋を吸収し、コーンズ・イタリア（株）を設立",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "EXCLUSIVE SERVICE",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "そんなおり、1976年、コーンズはフェラーリの日本総代理店として契約",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "イタリア「フェラーリ社」の日本総代理店として「フェラーリ」の正規輸入を開始しました",
+    "url": "https://recruit.cornesmotors.com/company/journey_future.html",
+    "pass": 3
+   },
+   {
+    "quote": "EXCLUSIVE SERVICE",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "ロールス・ロイス＆ベントレーの日本総代理店として",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "フェラーリ社の日本総代理店となる",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "コーンズ ・モータースについて | CORNES 高級外車・中古車 ... — コーンズ ・モータースについて | CORNES 高級外車・中古車 ... CORNES MOTORS https://www.cornesmotors.com > 企業情報 > 会社概要",
+    "url": "https://www.cornesmotors.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | 企業情報 - コーンズ・アンド・カンパニー・リミテッド — 沿革 | 企業情報 - コーンズ・アンド・カンパニー・リミテッド コーンズ・アンド・カンパニー・リミテッド https://www.cornes.co.jp > 企業情報",
+    "url": "https://www.cornes.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "歩みとこれから - コーンズ・モータース 採用サイト — 歩みとこれから - コーンズ・モータース 採用サイト CORNES MOTORS https://recruit.cornesmotors.com > journey_future",
+    "url": "https://recruit.cornesmotors.com/company/journey_future.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | CORNES 高級外車・中古車の購入なら コーンズ ... — 企業情報 | CORNES 高級外車・中古車の購入なら コーンズ ... CORNES MOTORS https://www.cornesmotors.com > 企業情報",
+    "url": "https://www.cornesmotors.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 - コーンズテクノロジー — 沿革 - コーンズテクノロジー コーンズテクノロジー https://cornestech.co.jp > 企業情報",
+    "url": "https://cornestech.co.jp/company/company-history",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | 株式会社 コーンズ ・エージー — 沿革 | 株式会社 コーンズ ・エージー コーンズ・エージー https://www.cornesag.com > outline > history",
+    "url": "https://www.cornesag.com/outline/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "コーンズ テクノロジー株式会社の企業情報 - 転職は アンド プロ — コーンズ テクノロジー株式会社の企業情報 - 転職は アンド プロ アンドプロ https://and-pro.jp > company-info-28243",
+    "url": "https://and-pro.jp/company-info-28243/",
+    "pass": 3
+   },
+   {
+    "quote": "〈 インタビュー 〉 コーンズ ・ アンド ・ カンパニー ・リミテッド — 〈 インタビュー 〉 コーンズ ・ アンド ・ カンパニー ・リミテッド 日刊自動車新聞 https://www.netdenjd.com > archives",
+    "url": "https://www.netdenjd.com/archives/104279",
+    "pass": 3
+   },
+   {
+    "quote": "コーンズ テクノロジー — コーンズ テクノロジー コーンズ・アンド・カンパニー・リミテッド https://newgrads-recruit.cornes.co.jp > cornes-technologies",
+    "url": "https://newgrads-recruit.cornes.co.jp/cornes-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "先輩社員 インタビュー - コーンズ・モータース 採用サイト — 先輩社員 インタビュー - コーンズ・モータース 採用サイト CORNES MOTORS https://recruit.cornesmotors.com > interview",
+    "url": "https://recruit.cornesmotors.com/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "コーンズ - Wikipedia — コーンズ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > コーンズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "コーンズ ・ アンド ・ カンパニー ・リミテッドの事業とカルチャー — コーンズ ・ アンド ・ カンパニー ・リミテッドの事業とカルチャー Wantedly https://www.wantedly.com > companies > cornes > about",
+    "url": "https://www.wantedly.com/companies/cornes/about",
+    "pass": 3
+   },
+   {
+    "quote": "Company History - コーンズテクノロジー — Company History - コーンズテクノロジー コーンズテクノロジー https://cornestech.co.jp > TOP_en",
+    "url": "https://cornestech.co.jp/en/company-history-en",
+    "pass": 3
+   },
+   {
+    "quote": "コーンズ ・ アンド ・ カンパニー ・リミテッド ( CORNES ... — コーンズ ・ アンド ・ カンパニー ・リミテッド ( CORNES ... READY TO FASHION https://www.readytofashion.jp > companies",
+    "url": "https://www.readytofashion.jp/companies/708484491",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "これからも「技術商社」として、先進的な製品・技術をいち早く察知し、国内外の産業発展の一翼を担っていく気概を持ち、我々の付加価値向上を目指します",
+    "url": "https://cornestech.co.jp/company/company-history",
+    "pass": 3
+   },
+   {
+    "quote": "コーンズ テク�ノロジーは、「先進性と高品質」という言葉を軸にテクノロジーで世界を繋ぐ技術商社です",
+    "url": "https://newgrads-recruit.cornes.co.jp/cornes-technologies",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cornes.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/en/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/en/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/company/offices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/company/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/en/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/en/company/offices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornes.co.jp/en/company/group/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.cornes.co.jp/assets/images/company/history/img01_pc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cornes.co.jp/assets/images/company/history/img02_pc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cornes.co.jp/assets/images/company/history/img03_pc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cornes.co.jp/assets/images/company/history/img04_pc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.cornesmotors.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.cornesmotors.com/company/journey_future.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornesmotors.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cornestech.co.jp/company/company-history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornesag.com/outline/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornesmotors.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdenjd.com/archives/104279",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newgrads-recruit.cornes.co.jp/cornes-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.cornesmotors.com/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ac.jobcan.ne.jp/knowledge/20269/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://biz.moneyforward.com/accounting/basic/38796/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pca.jp/p-tips/articles/fl231001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tikr.com/ja/blog/what-is-a-good-gross-margin-definition-formula",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stripe.com/jp/resources/more/what-is-working-capital-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://betrading.jp/contents/financing-info/period-of-rotation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zeiken.co.jp/keieizaimu/article/no3588/ZA00035881501.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blackline.jp/resources/glossaries/working-capital.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cornestech.co.jp/en/company-history-en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nucor.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cornesmotors.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.coca-colacompany.com/news-events/press-releases/detail/1151/coca-cola-reports-fourth-quarter-and-full-year-2025-results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carnivalcorp.com/wp-content/uploads/2025/03/Carnival-Corporation-plc-2025-Annual-Report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kone.com/en/Images/KONE_Annual%20Review_2025_tcm17-141619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ir.packagingcorp.com/financial-information/annual-reports",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.finance.yahoo.com/quote/MKC/holders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.voya.com/pwebui/public/fundinfo?cl=CALPERS&pl=452001PU&page=investment_informationinvestmentperformance&domain=my.voya.com&testrule=01&s=dummy&d=6b35410ba9c1d18e38afa59fbf13cd13456816489158b738c78dc903a2cb0774&PWEBSESSIONID=1234&UserSession=1234",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kabutan.jp/holder/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/9251/mainshareholder",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "コーンズ・アンド・カンパニー 創業 歴史 最初の取扱",
+   "results": [
+    "https://www.cornesmotors.com/company/about",
+    "https://www.cornes.co.jp/company/history/",
+    "https://recruit.cornesmotors.com/company/journey_future.html",
+    "https://www.cornesmotors.com/company",
+    "https://cornestech.co.jp/company/company-history",
+    "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "https://www.readytofashion.jp/companies/708484491",
+    "https://compalyze.co.jp/company/2700150004793",
+    "https://ja.wikipedia.org/wiki/コーンズ",
+    "https://www.cornes.co.jp/company/"
+   ]
+  },
+  {
+   "query": "コーンズ・アンド・カンパニー 沿革",
+   "results": [
+    "https://www.cornes.co.jp/company/history/",
+    "https://cornestech.co.jp/company/company-history",
+    "https://www.cornesag.com/outline/history.html",
+    "https://www.cornesmotors.com/company/about",
+    "https://and-pro.jp/company-info-28243/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "https://www.cornes.co.jp/company/",
+    "https://www.cornesmotors.com/company",
+    "https://www.readytofashion.jp/companies/708484491",
+    "https://ja.wikipedia.org/wiki/コーンズ・アンド・カンパニー・リミテッド"
+   ]
+  },
+  {
+   "query": "コーンズ・アンド・カンパニー 創業者 インタビュー",
+   "results": [
+    "https://www.netdenjd.com/archives/104279",
+    "https://newgrads-recruit.cornes.co.jp/cornes-technologies",
+    "https://recruit.cornesmotors.com/interview/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA",
+    "https://www.wantedly.com/companies/cornes/about",
+    "https://www.nikkei.com/article/DGXNZO40023920Q2A330C1TJ3000/",
+    "https://www.nikkan.co.jp/articles/view/257137",
+    "https://www.cornes.co.jp/company/profile/",
+    "https://ja.wikipedia.org/wiki/コーンズ",
+    "https://www.cornes.co.jp/company/history/"
+   ]
+  },
+  {
+   "query": "コーンズ・アンド・カンパニー 粗利率 売上総利益",
+   "results": [
+    "https://ac.jobcan.ne.jp/knowledge/20269/",
+    "https://biz.moneyforward.com/accounting/basic/38796/",
+    "https://pca.jp/p-tips/articles/fl231001.html",
+    "https://www.tikr.com/ja/blog/what-is-a-good-gross-margin-definition-formula",
+    "https://www.freee.co.jp/kb/kb-hanbai-kanri/gross_profit/",
+    "https://zaimani.com/financial-indicators/gross-profit-margin/",
+    "https://www.canon-its.co.jp/solution/industry/cross-industry/superstream/column/article/trend-profit-rate",
+    "https://www.youtube.com/watch?v=i6jrZ8Ozpck",
+    "https://zac-reforma.zendesk.com/hc/ja/articles/19533407398553--%E7%B2%97%E5%88%A9-%E7%B2%97%E5%88%A9%E7%8E%87-%E5%A3%B2%E4%B8%8A%E7%B7%8F%E5%88%A9%E7%9B%8A-%E5%A3%B2%E7%B7%8F%E7%8E%87-%E3%81%AF-%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E7%AE%97%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B%E3%81%8B",
+    "https://kaijiwire.jp/companies/2700150004793"
+   ]
+  },
+  {
+   "query": "コーンズ・アンド・カンパニー 棚卸資産 運転資金",
+   "results": [
+    "https://stripe.com/jp/resources/more/what-is-working-capital-management",
+    "https://betrading.jp/contents/financing-info/period-of-rotation/",
+    "https://www.zeiken.co.jp/keieizaimu/article/no3588/ZA00035881501.php",
+    "https://www.blackline.jp/resources/glossaries/working-capital.html",
+    "https://freeway-keiri.com/blog/view/496",
+    "https://bixid.net/Blog/Article/20221222",
+    "https://www.shinsei-if.com/loan/articles/08_untenshikin.html",
+    "https://wheat-biz.com/fp/unten-shikin-tekisei-suijun-gyoshubetsu-finance/",
+    "https://relyne-kaikei.com/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%83%BB%E8%B3%87%E9%87%91%E7%B9%B0%E3%82%8A/working-capital/",
+    "https://ja.wikipedia.org/wiki/コーンズ"
+   ]
+  },
+  {
+   "query": "コーンズ・アンド・カンパニー history founded first product",
+   "results": [
+    "https://cornestech.co.jp/en/company-history-en",
+    "https://www.cornes.co.jp/company/history/",
+    "https://nucor.com/company/history/",
+    "https://www.cornesmotors.com/company/about",
+    "https://www.readytofashion.jp/companies/708484491",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/History/capsule/25/",
+    "https://www.linkedin.com/company/cornes-&-co.-ltd.",
+    "https://www.krones.com/en/company/about-us/company-history/history-1951-1965/",
+    "https://www.pioneer.com/us/agronomy/domestication-of-corn.html",
+    "https://ja.wikipedia.org/wiki/コーンズ"
+   ]
+  },
+  {
+   "query": "コーンズ・アンド・カンパニー annual report gross margin",
+   "results": [
+    "https://investors.coca-colacompany.com/news-events/press-releases/detail/1151/coca-cola-reports-fourth-quarter-and-full-year-2025-results",
+    "https://www.carnivalcorp.com/wp-content/uploads/2025/03/Carnival-Corporation-plc-2025-Annual-Report.pdf",
+    "https://www.kone.com/en/Images/KONE_Annual%20Review_2025_tcm17-141619.pdf",
+    "https://ir.packagingcorp.com/financial-information/annual-reports",
+    "https://www.sec.gov/Archives/edgar/data/55785/000120677426000152/kmb4554211-ars.pdf",
+    "https://www.kimberly-clark.com/-/media/kimberly/pdf/annual-report/kmb-kimberlyclark-corporation--10k-20250213pdf.pdf",
+    "https://ir.kornferry.com/sec-filings/all-sec-filings/content/0001308179-25-000580/0001308179-25-000580.pdf",
+    "https://www.crowncork.com/sites/default/files/2026-03/2025%20Annual%20Report.pdf",
+    "https://reports.kiongroup.com/2025/ar",
+    "https://catr.jp/companies/6b044/125297"
+   ]
+  },
+  {
+   "query": "コーンズ・アンド・カンパニー 大株主 OR substantial holders",
+   "results": [
+    "https://ca.finance.yahoo.com/quote/MKC/holders/",
+    "https://my.voya.com/pwebui/public/fundinfo?cl=CALPERS&pl=452001PU&page=investment_informationinvestmentperformance&domain=my.voya.com&testrule=01&s=dummy&d=6b35410ba9c1d18e38afa59fbf13cd13456816489158b738c78dc903a2cb0774&PWEBSESSIONID=1234&UserSession=1234",
+    "https://kabutan.jp/holder/",
+    "https://www.buffett-code.com/company/9251/mainshareholder",
+    "https://www.universal-777.co.jp/corporate/ir/library/pdf/report/report_2011_2.pdf",
+    "https://www.moomoo.com/ja/news/notice/1002961861/becoming-a-substantial-holder",
+    "https://www.capcom.co.jp/ir/english/stock/stockdata.html",
+    "https://www.finance-watch.org/understand-finance/dashboard/concentrated-corporate-ownership-and-control/",
+    "https://www.stockwatch.com/News/Sedardoc/6328843.pdf",
+    "https://listingcenter.nasdaq.com/rulebook/nasdaq/rules/nasdaq-5000-series"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部29頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部29頁・検索8回）",
+  "株主構成": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部29頁・検索8回）",
+  "売上・粗利率": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部29頁・検索8回）",
+  "在庫・運転資金": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部29頁・検索8回）"
+ }
+}
