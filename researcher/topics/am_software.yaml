@@ -1,0 +1,29 @@
+# 3Dプリンター（金属中心）と周辺装置の「間」にあるソフト：造形の準備・シミュレーション・形状設計・造形中の監視・
+# 生産管理・部品の選定・後工程・スキャン・加工データ。製品ごとに、日本の代理店の有無・再販/パートナー制度・
+# 料金・無料体験・日本語対応・会社の規模を、その製品名が出てくるページから文のまま引用する。
+# 本人の物差し：ソフトから入ってハードの代理店に広げる。日本に独占代理店がいる製品は除外候補（非独占で複数なら残す）。
+kind: market
+title: 3Dプリンターまわりのソフト（日本の代理店・再販制度・料金）
+input: researcher/inputs/am_software.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  日本の代理店: [総代理店, 日本代理店, 正規代理店, 販売代理店, 国内代理店, 代理店契約, 販売店, 取扱開始, 販売開始, 国内販売, Japan distributor, distributor in Japan, Japanese distributor, Japan partner, reseller in Japan, partner in Japan, Japan office, Tokyo, 株式会社]
+  再販・パートナー制度: [reseller, resell, partner program, channel partner, value added reseller, VAR, become a partner, partner network, distributor, distribution partner, referral, commission, margin, discount, OEM, white label, 代理店募集, パートナー制度, 販売パートナー, 再販]
+  料金: [pricing, price, per year, per month, /year, /month, annual license, subscription, perpetual, license fee, seat, starting at, $, €, ¥, 円, 年額, 月額, 価格, ライセンス費]
+  無料体験: [free trial, trial license, evaluation license, free version, free plan, demo, 30-day, 14-day, academic, 無料体験, 評価版, 体験版, デモ]
+  日本語対応: [Japanese, 日本語, language support, localized, localization, ローカライズ]
+  会社の規模: [founded, employees, raised, funding, Series, acquired, acquisition, revenue, customers, 設立, 従業員, 資金調達, 買収, 導入企業, 導入社数]
+  顧客・用途: [customer, case study, used by, aerospace, automotive, defense, medical, energy, 導入事例, 事例, 航空, 自動車, 防衛]
+numeric: [料金, 会社の規模]
+
+external_queries:
+  - "{en} reseller partner program"
+  - "{en} pricing license"
+  - "{en} Japan distributor"
+  - "{name} 代理店"
+  - "{name} 価格"
+  - "{en} free trial"
+  - "{en} company founded employees funding"
+
+limits: {pages: 40, external_per_query: 5, per_cat: 15}

@@ -1,0 +1,41 @@
+品目,英語名,別名,文脈
+Materialise Magics,Materialise Magics,Magics;マテリアライズ マジックス,造形の準備（データ修正・配置・サポート）
+Oqton 3DXpert,3DXpert,Oqton;3D Systems 3DXpert,造形の準備（金属）
+Autodesk Netfabb,Netfabb,ネットファブ,造形の準備・シミュレーション
+Dyndrite,Dyndrite,Dyndrite LPBF Pro,造形の準備（金属・GPU）
+Materialise Build Processor,Materialise Build Processor,ビルドプロセッサ,造形の準備（装置メーカー向け）
+Ai Build AiSync,Ai Build,AiSync;AI Build,造形の準備（大型・ロボットアーム）
+ADAXIS AdaOne,ADAXIS,AdaOne;アダクシス,造形の準備（WAAM・ロボットアーム）
+Simufact Additive,Simufact Additive,Hexagon Simufact;シミュファクト,造形シミュレーション
+Ansys Additive Suite,Ansys Additive,Ansys Additive Suite;アンシス アディティブ,造形シミュレーション
+Amphyon,Amphyon,Additive Works;アンフィオン,造形シミュレーション
+Altair Inspire Print3D,Inspire Print3D,Altair Inspire;アルテア,造形シミュレーション
+nTop,nTop,nTopology;エヌトップ,形状設計（ラティス・軽量化）
+Hyperganic,Hyperganic,Hyperganic Core,形状設計（アルゴリズム設計）
+ToffeeX,ToffeeX,トフィーX,形状設計（流体・熱の最適化）
+Cognitive Design Systems,Cognitive Design Systems,Cogly;CDS,形状設計（自動最適化）
+Additive Assurance AMiRIS,Additive Assurance,AMiRIS;アディティブ・アシュアランス,造形中の監視・品質保証
+Phase3D Fringe,Phase3D,Fringe Inspection;Phase 3D,造形中の監視・品質保証
+Sigma Additive PrintRite3D,PrintRite3D,Sigma Additive;Sigma Labs,造形中の監視・品質保証
+Plasmo,Plasmo,Plasmo Industrietechnik,造形中の監視（WAAM・溶接）
+Volume Graphics,Volume Graphics,VGSTUDIO MAX;ボリュームグラフィックス,CT検査・品質保証
+AMFG,AMFG,AMFG MES;エーエムエフジー,生産管理（AM向けMES）
+Authentise,Authentise,Authentise Flows,生産管理（AM向けワークフロー）
+3YOURMIND,3YOURMIND,3YOURMIND Agile MES,生産管理・部品の選定
+Materialise CO-AM,Materialise CO-AM,CO-AM;Link3D,生産管理（AM向けプラットフォーム）
+CASTOR,CASTOR,CASTOR 3D printing software;キャスター,AM化できる部品の自動選定
+Spare Parts 3D DigiPart,Spare Parts 3D,DigiPart;SP3D,AM化できる部品の自動選定・スペアパーツ
+Replique,Replique,Replique 3D,デジタル在庫・部品の分散製造
+PostProcess Technologies,PostProcess Technologies,PostProcess;ポストプロセス,後工程（サポート除去・表面処理）
+DLyte,DLyte,GPAINNOVA;ディーライト,後工程（乾式電解研磨）
+Artec Studio,Artec 3D,Artec Studio;Artec Leo;アーテック,3Dスキャン
+Creaform VXelements,Creaform,VXelements;クレアフォーム,3Dスキャン・検査
+Geomagic Design X,Geomagic Design X,Geomagic;ジオマジック,スキャンデータから設計データ化
+ZEISS INSPECT,ZEISS INSPECT,GOM Inspect;ツァイス インスペクト,3D計測データの検査
+Mastercam,Mastercam,マスターキャム,加工データ（CAM）
+ModuleWorks,ModuleWorks,モジュールワークス,加工データの部品ソフト（CAMエンジン）
+Markforged Eiger,Markforged Eiger,Eiger;Markforged Simulation,造形の準備（装置一体）
+Meltio Space,Meltio Space,Meltio;メルティオ,造形の準備（DED・ロボットアーム）
+Atlas3D Sunata,Atlas3D,Sunata;アトラス3D,造形の向き・支えの自動決定
+EOS EOSTATE,EOSTATE,EOS EOSTATE Exposure OT,造形中の監視（装置メーカー純正）
+Siemens NX Additive Manufacturing,Siemens NX Additive Manufacturing,NX AM;シーメンス NX,造形の準備から生産までの一貫ソフト

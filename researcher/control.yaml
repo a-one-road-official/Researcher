@@ -15,3 +15,4 @@ topics:
   mfg_platforms: {run: true, shards: 8, per_run: 5}
   mfg_recruit_pr: {run: true, shards: 7, per_run: 2}
   material_traders: {run: true, shards: 8, per_run: 5}
+  am_software: {run: true, shards: 8, per_run: 5}
