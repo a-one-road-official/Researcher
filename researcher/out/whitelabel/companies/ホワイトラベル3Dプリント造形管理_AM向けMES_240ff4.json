@@ -1,0 +1,637 @@
+{
+ "name": "ホワイトラベル3Dプリント造形管理（AM向けMES）",
+ "en": "white label additive manufacturing MES",
+ "aliases": [
+  "additive manufacturing software",
+  "AM workflow software",
+  "3D printing MES",
+  "build preparation",
+  "3D printing software"
+ ],
+ "context": "製造業・AM",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:02:26.435971+00:00",
+ "evidence": {
+  "無料体験・貸出": [
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Trial the platform with real job data to test user experience and integrations.",
+    "url": "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Products",
+    "url": "https://nomuda.com/industries/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://www.materialise.com/en/industrial/software/manufacturing-execution-system",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing (AM) has evolved from a prototyping tool to a cornerstone of industrial production. As additive manufacturing moves beyond prototyping and into full-scale production, managing complexity becomes the real challenge.",
+    "url": "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "An intuitive interface fuels rapid onboarding and high user adoption, an essential ingredient for success.",
+    "url": "https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/",
+    "pass": 3
+   },
+   {
+    "quote": "Implementation and Onboarding",
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Minutes",
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "When you partner with Paperless Parts, we take care of you; when you succeed, we succeed. Our dedicated support team responds to requests within 30 minutes. You can email, call, or ask for help right from the platform.",
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "提供企業": [
+   {
+    "quote": "See Gartner Reviews",
+    "url": "https://nomuda.com/industries/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive MES vs Traditional MES (And Why It Matters)",
+    "url": "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "MES vs “Execution Systems” in Additive Manufacturing",
+    "url": "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Additive MES for Service Bureaus vs Internal Manufacturing",
+    "url": "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews",
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Service Providers",
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews",
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "3D printer OEM",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Find a 3D printer OEM partner",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Part Buyers and OEMs",
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Are you looking to build, grow and scale your additive manufacturing operations? We’re here to help you accelerate sustainable growth with our partner programs.",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Become a reseller",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "We rely on our network of trusted resellers to aid AM users in getting the most out of their 3D printer purchases worldwide. Learn how you can bundle Magics 3D Print Suite and Build Processors with machine sales.",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Our partner programs",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Need localized sales and training support? Reach out to our resellers to get curated experiences near you when scaling up your 3D printing operations.",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Inquire about a local reseller",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Alliance Partner Program",
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecosystem Partner Program",
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Materialise Partnerships | 3D Printing Software Solutions — Materialise Partnerships | 3D Printing Software Solutions Materialise https://www.materialise.com > software",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://eyelit.com/resource/10-best-manufacturing-execution-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturo.com/industries/additive-industry-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/the-best-manufacturing-execution-systems-mes-for-2026-a-strategic-comparison-for-operations-leaders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.criticalmanufacturing.com/blog/mes-and-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomuda.com/industries/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/whitepapers/additive-manufacturing-mes-software-the-essential-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eazyworks.com/ez-mes-free-30-day-trial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picomes.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/manufacturing-execution-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustradius.com/products/critical-manufacturing-mes/pricing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siltium.com/en/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/the-best-white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diyweb.ai/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/manufacturing-execution-systems-mes-market/Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.com/news/stories/articles/changing-the-face-of-japanese-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/industrial/software/co-am-software-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/ja/enterprise/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2205/30/news015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/am.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plex.rockwellautomation.com/en-us/blog/what-additive-manufacturing-execution-system.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asc.com/oem/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://precisoems.com/white-label",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.liqcreate.com/supportarticles/Dental-oem-white-label-hub/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.criticalmanufacturing.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinkyatechnologies.com/manufacturing-software-usa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.symestic.com/en-us/blog/mes/mes-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/post/how-to-compare-the-cost-of-an-additive-mes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/industrial/software/partnerships/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/ja/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/ja/products/delmia/industrial-engineering/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/am",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsam.or.jp/member/regular/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hp.wd5.myworkdayjobs.com/ja-JP/ExternalCareerSite/job/Strategic-Procurement-Manager_3163865-2/apply",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.yam-kyoto.com/partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talents.hermes.com/ja/sites/CX/job/24087/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000004539167",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://talentacquisition.3ds.com/careersection/qa/jobapply.ftl?job=549988&lang=ja&src=CWS-10080",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leansupplai.com/ja/suppliers/additive-manufacturing/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivejapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leansupplai.com/en/suppliers/additive-manufacturing/japan",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label additive manufacturing MES 2026",
+   "results": [
+    "https://www.linkedin.com/pulse/choosing-best-mes-your-additive-manufacturing-needs-comprehensive-muu2e",
+    "https://eyelit.com/resource/10-best-manufacturing-execution-system/",
+    "https://manufacturo.com/industries/additive-industry-software/",
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide",
+    "https://f7i.ai/blog/the-best-manufacturing-execution-systems-mes-for-2026-a-strategic-comparison-for-operations-leaders",
+    "https://www.fabrico.io/blog/best-cmms-additive-manufacturing-3d-printing/",
+    "https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/",
+    "https://www.demystifyingplm.com/best-mes-software-2026",
+    "https://wonnda.com/white-label-manufacturers/"
+   ]
+  },
+  {
+   "query": "white label additive manufacturing MES reseller program agencies",
+   "results": [
+    "https://manufacturo.com/industries/additive-industry-software/",
+    "https://www.criticalmanufacturing.com/blog/mes-and-additive-manufacturing/",
+    "https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/",
+    "https://nomuda.com/industries/additive-manufacturing/",
+    "https://www.amfg.ai/whitepapers/additive-manufacturing-mes-software-the-essential-guide",
+    "https://www.materialise.com/en/industrial/software/partnerships",
+    "https://all3dp.com/1/on-demand-additive-manufacturing-services/",
+    "https://www.linkedin.com/pulse/choosing-best-mes-your-additive-manufacturing-needs-comprehensive-muu2e",
+    "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide"
+   ]
+  },
+  {
+   "query": "white label additive manufacturing MES free trial pricing",
+   "results": [
+    "https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/",
+    "https://www.linkedin.com/pulse/choosing-best-mes-your-additive-manufacturing-needs-comprehensive-muu2e",
+    "https://eazyworks.com/ez-mes-free-30-day-trial",
+    "https://nomuda.com/industries/additive-manufacturing/",
+    "https://manufacturo.com/industries/additive-industry-software/",
+    "https://www.picomes.com/pricing",
+    "https://www.materialise.com/en/industrial/software/manufacturing-execution-system",
+    "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide",
+    "https://www.trustradius.com/products/critical-manufacturing-mes/pricing",
+    "https://www.authentise.com/post/how-to-compare-the-cost-of-an-additive-mes"
+   ]
+  },
+  {
+   "query": "white label additive manufacturing MES rebrand your logo custom domain",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.youtube.com/watch?v=_j4Rr-Tl6xw",
+    "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "https://siltium.com/white-label",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://diyweb.ai/white-label",
+    "https://twominutereports.com/blog/white-label-marketing-tools",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.softvil.com/blog/customizing-white-label-solutions-how-to-make-it-truly-yours",
+    "https://www.agilesoftlabs.com/products/manufacturing"
+   ]
+  },
+  {
+   "query": "white label additive manufacturing MES Japan Japanese",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/manufacturing-execution-systems-mes-market/Japan",
+    "https://www.materialise.com/en/industrial/software/manufacturing-execution-system",
+    "https://nomuda.com/industries/additive-manufacturing/",
+    "https://www.ricoh.com/news/stories/articles/changing-the-face-of-japanese-manufacturing",
+    "https://manufacturo.com/industries/additive-industry-software/",
+    "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide",
+    "https://first-agri.jp/matcha/columns/031"
+   ]
+  },
+  {
+   "query": "ホワイトラベル3Dプリント造形管理（AM向けMES） 日本",
+   "results": [
+    "https://www.materialise.com/ja/industrial/software/co-am-software-platform",
+    "https://simplyprint.io/ja/enterprise/manufacturing",
+    "https://3dprinter.co.jp/",
+    "https://monoist.itmedia.co.jp/mn/articles/2205/30/news015.html",
+    "https://www.manufacturing-world.jp/hub/ja-jp/about/am.html",
+    "https://www.mes-magazine.com/mes-system/materialise.html",
+    "https://jampt.jp/",
+    "https://formlabs.com/jp/blog/low-volume-additive-manufacturing-with-fuse-series/",
+    "https://www.madehere.co.jp/am",
+    "https://simplyprint.io/ja/oem"
+   ]
+  },
+  {
+   "query": "white label additive manufacturing MES OEM partnership",
+   "results": [
+    "https://plex.rockwellautomation.com/en-us/blog/what-additive-manufacturing-execution-system.html",
+    "https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/",
+    "https://www.amfg.ai/whitepapers/additive-manufacturing-mes-software-the-essential-guide",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://manufacturo.com/industries/additive-industry-software/",
+    "https://nomuda.com/industries/additive-manufacturing/",
+    "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide",
+    "https://www.criticalmanufacturing.com/blog/mes-and-additive-manufacturing/",
+    "https://www.linkedin.com/pulse/choosing-best-mes-your-additive-manufacturing-needs-comprehensive-muu2e",
+    "https://asc.com/oem/white-label"
+   ]
+  },
+  {
+   "query": "white label additive manufacturing MES partner program pricing",
+   "results": [
+    "https://www.paperlessparts.com/processes/additive-manufacturing/",
+    "https://www.criticalmanufacturing.com/",
+    "https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/",
+    "https://nomuda.com/industries/additive-manufacturing/",
+    "https://manufacturo.com/industries/additive-industry-software/",
+    "https://www.picomes.com/pricing",
+    "https://www.amfg.ai/whitepapers/additive-manufacturing-mes-software-the-essential-guide",
+    "https://ajinkyatechnologies.com/manufacturing-software-usa",
+    "https://www.symestic.com/en-us/blog/mes/mes-software",
+    "https://www.authentise.com/post/how-to-compare-the-cost-of-an-additive-mes"
+   ]
+  },
+  {
+   "query": "ホワイトラベル3Dプリント造形管理（AM向けMES） OEM提供",
+   "results": [
+    "https://www.materialise.com/ja/industrial/software/partnerships/oem",
+    "https://simplyprint.io/ja/oem",
+    "https://monoist.itmedia.co.jp/mn/articles/2205/30/news015.html",
+    "https://www.3ds.com/ja/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://www.madehere.co.jp/am",
+    "https://www.eos.info/ja/about-us/what-we-do",
+    "https://formlabs.com/jp/blog/low-volume-additive-manufacturing-with-fuse-series/",
+    "https://www.nttdata-xam.com/ambition/",
+    "https://ja.3dsystems.com/applications/casting",
+    "https://www.liqcreate.com/ja/サポート記事/歯科用OEMホワイトラベルハブ-a/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル3Dプリント造形管理（AM向けMES） 代理店募集",
+   "results": [
+    "https://jsam.or.jp/member/regular/",
+    "https://hp.wd5.myworkdayjobs.com/ja-JP/ExternalCareerSite/job/Strategic-Procurement-Manager_3163865-2/apply",
+    "https://www.yam-kyoto.com/partnership/",
+    "https://talents.hermes.com/ja/sites/CX/job/24087/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000004539167",
+    "https://talentacquisition.3ds.com/careersection/qa/jobapply.ftl?job=549988&lang=ja&src=CWS-10080",
+    "https://careers.genmab.com/global/ja/apply?jobSeqNo=GEZGENUSR17951EXTERNALJAGLOBAL",
+    "https://www.kistler.com/JP/ja/sales-and-application-engineer/job/3828",
+    "https://jp.indeed.com/q-additive-manufacturing-%E6%B1%82%E4%BA%BA.html",
+    "https://www.lvmh.com/jp/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/%E6%B1%82%E4%BA%BA/CELI05753"
+   ]
+  },
+  {
+   "query": "white label additive manufacturing MES distributor Japan",
+   "results": [
+    "https://nomuda.com/industries/additive-manufacturing/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.materialise.com/en/industrial/software/manufacturing-execution-system",
+    "https://manufacturo.com/industries/additive-industry-software/",
+    "https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/",
+    "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "https://www.linkedin.com/pulse/choosing-best-mes-your-additive-manufacturing-needs-comprehensive-muu2e",
+    "https://leansupplai.com/ja/suppliers/additive-manufacturing/japan"
+   ]
+  }
+ ],
+ "missing": {
+  "価格": "記載なし（読んだ55頁・検索11回）",
+  "日本対応": "記載なし（読んだ55頁・検索11回）"
+ }
+}

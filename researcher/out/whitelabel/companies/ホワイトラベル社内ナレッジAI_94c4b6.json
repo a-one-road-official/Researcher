@@ -1,0 +1,754 @@
+{
+ "name": "ホワイトラベル社内ナレッジAI",
+ "en": "white label AI knowledge base",
+ "aliases": [
+  "white-label AI assistant for documents",
+  "white label chat with documents",
+  "white label RAG",
+  "knowledge base AI",
+  "AI knowledge assistant",
+  "chat with your documents",
+  "enterprise search"
+ ],
+ "context": "社内文書",
+ "kind": "market",
+ "researched_at": "2026-11-03T04:59:58.793416+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": ", are trained on large language models to interpret what someone is asking in plain language. The technology enables the bots to factor in semantic alternatives, context, and more. In seconds, AI surfaces relevant content, analyzes it, and generates a direct answer to what’s requested. AI search tools will also often ask for follow-up information to refine the results or suggest next steps.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "This list is curated from third-party review site G2, with each tool having a minimum rating of 4 out of 5 stars.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Built-in analytics surface content usage and knowledge gaps, though customizing AI tone or response patterns is limited compared with more configurable platforms.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Tettra is built around Slack, so search and Q & A live where many teams already communicate, though collaborative editing is more basic than some alternatives.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Service leaders need reviews they can trust. Review Service Cloud on G2 today.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Review on G2",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "AI Knowledge Base Cost in 2026: 12 Tools Compared",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Reviewed by",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Support or sales teams need verified answers, with owners and review dates",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Curated cards or posts with owners and review dates",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Voiceflow KB preview answer: no return and no shipping cost, with the damaged-items policy as its source",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "We replaced the hard-coded rule with \"Answer shipping, returns and damaged-item questions from the knowledge base, and follow the policy you find there.\" On the same question, the log shows \"knowledge base search completed\", the reply followed the damaged-items policy (no return, no shipping cost, a photo and a teammate review), and the order total came back correct at $35,410.79.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs answer: no return shipping, send a photo, a teammate reviews within one business day",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "SSO, audit logs and zero data retention are usually top-tier features; Notion lists zero data retention with LLM providers on Enterprise, and Guru lists SOC 2 Type II and HIPAA.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Zendesk for Customer Service rates 4.3 from 7,075 reviews on G2 and 4.3 from 47 in Gartner's AI agents market. A mid-market consulting reviewer described the knowledge-adjacent gap well: \"Unanswered posts just sit there with no real way to auto-escalate them into an actual ticket\" (G2, August 31, 2026), about Zendesk's community forum.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "G2 gives 4.7 from 542 reviews and Gartner 4.2 from 44. The complaints are small and practical, with \"Missing Features\" (9) and \"Expensive\" (8) among the tags; a reviewer in computer software wrote that its advanced search \"is great but not, currently, configurable\" (G2, December 12, 2022).",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "has one plan, $49 a month billed yearly or $59 monthly, with unlimited articles and seats, an AI content editor and a QuickAnswer feature, plus extra knowledge bases from $21.99. Capterra lists it with no reviews yet. It's a help center rather than an AI agent, and the cheapest way to publish one; if you need AI answers in chat, you'll add a separate tool.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Confluence is the most-reviewed tool in Gartner's knowledge management market, 4.4 from 450, and Atlassian's AI, Rovo, comes with its plans. The",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Notion has the largest review base here, 4.6 from 13,845 on G2, and 4.5 from 115 on Gartner. \"Learning Curve\" (1,895) is the most common con tag, and a guest reviewer at a small software company (a review G2 excludes from its score) noted that \"large databases (10k+ rows) get noticeably slow to filter\" (G2, September 15, 2026).",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "G2 shows 4.7 from 161 and Gartner 4.3 from 23. Reviewers are candid about search: a mid-market marketing manager wrote \"Search ability could be improved\" (G2, December 8, 2025), and another reviewer called Tettra \"an input-based platform, meaning you get out of it what you put into it\".",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "G2 shows 4.6 from 515 and Gartner 4.6 from 42. The recurring issue is finding things: a mid-market investment management reviewer wrote that \"Some of our back office associates and CSRs have a hard time finding the data or answers needed\", and that its AI \"does better when asked a question vs. a CSR typing in a phrase\" (G2, May 29, 2024).",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Use this table to quickly compare AI knowledge base software options on who they’re best for, agent AI agent capabilities, and free trial availability.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "In a live test, a Voiceflow agent with a hard-coded 30-day return rule ignored its own knowledge base document until one sentence in its instructions pointed it there.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "50 × $20 billed yearly; Notion Agent and Enterprise Search (beta) included; agent work past the trial at $10 per 1,000 credits",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "quotes around team accounts, workspaces, languages, SSO, privacy model and \"AI Premium Suite usage\", with a 14-day trial. Its",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "sells AI Answers at $0.75 per resolution with a three-month free trial, the cheapest per-resolution rate on this page. Help Scout rates 4.6 from 226 on Capterra (G2 was rate-limiting our browser when we got to it). Watch the per-resolution meter if your help center is thin, since every AI answer bills. It suits small teams on Help Scout; our",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "lists Free, Plus at $10 and Business at $20 per member a month billed yearly. Free and Plus get a trial of Notion AI; Business adds the Notion Agent, AI Meeting Notes and Enterprise Search, marked beta. Agents past the trial run on Notion credits at $10 per 1,000. Notion's own",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Free plans from builders such as Voiceflow and ElevenLabs are enough to load a document, ask questions and read the retrieval logs, which is how we ran the tests on this page.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "start a Macha trial with $50 of free usage",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Book a 20-minute call with our team. We'll show you where we would start on your help desk and how the setup works. Setup and a dedicated success manager come with the trial and every plan.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "from $25 to $550 per user per month, accommodating everything from growing startups through high-volume enterprises.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Plans with AI knowledge bases start around $55 per user per month, but note that it’s not a standalone knowledge base and the full value is only unlocked when you use Zendesk’s support suite.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Self-serve pricing starts around $25 per user per month, with an enterprise option starting around $250/month.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Plans that include an AI knowledge base start around $449 and $799 per month based on the number of users.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "The basic plan with AI search starts at around $10 per user per month. Pro and enterprise plans have an AI-agent-powered knowledge base, with pro starting around $20 per user per month and custom pricing for enterprise.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "A plan for growing organizations starts around $8 per user per month with a 10-user minimum, with custom pricing for enterprise plans.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing varies widely by platform and scale. Standalone tools often start around $10 to $50 per user per month, while CRM-integrated platforms scale into higher tiers as you add AI, automation, and advanced security features.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "An AI knowledge base is a store of company knowledge that software searches by meaning and answers from, for employees or for customers and the agents serving them. We priced the main tools for a 50-person team and a 10-agent support desk, and tested the same policy document in two AI agents.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "For 50 employees, published internal knowledge base prices run from about $279 a month on Confluence Standard to $1,225 a month on eGain's AWS Marketplace listing.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "For a 10-agent support desk with 1,500 AI-answered questions a month, costs run from $1,199 on Macha, where the Macha team builds the knowledge base and the agent for you, to $3,530 on Zendesk Suite Team at the reported pay-as-you-go rate.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Intercom Essential with Fin comes to $1,775 a month for 10 seats at $29 billed annually plus 1,500 outcomes at $0.99 each.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Prices come from each vendor's own page and, where the vendor doesn't publish one, from AWS Marketplace and Vendr, checked September 18 and 19, 2026. Gartner ratings are from its Knowledge Management Software market unless noted. \"Whole company\" means the only listing we found covers the vendor rather than this product.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Suite from $55 per agent a month (annual); AI billed per automated resolution at $1.50 committed or $2.00 pay-as-you-go, beyond a $2 to $10 monthly allowance per seat",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Essential seat $29 a month billed annually; Advanced $85, Expert $132; Fin $0.99 per outcome",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "$3,350 (Standard) or $6,600 (Premium) a year for 50 users, Rovo included",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Business $20 per member a month, billed yearly",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "$10 and $20 per user a month, billed yearly",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "$8 per user a month, 10-user minimum",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Quote only; Vendr median $39,521 a year",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Quote only, annual fixed cost; Vendr median $128,333, with no purchase count shown",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "It can be, if your support volume justifies it. Lightweight tools can deflect repetitive tickets and speed up onboarding, and many small teams start with simple self-service tools before adding a full AI layer.",
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Each chunk becomes a vector, a list of numbers that places similar meanings close together. ElevenLabs lets you pick an English-optimized or a multilingual embedding model.",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Intercom's help center and Knowledge Hub come with every plan: a public help center on Essential, private and multilingual on Advanced and Expert. Its",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-generation-platform-tools-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://lety.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/white-label-voice-ai-with-free-trial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/top-10-ai-platforms-to-white-label-build-your-ai-empire-without-writing-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promptowl.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://productizeyourmind.com/white-label-ai-tools-for-experts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helpcenter.smartlead.ai/en/articles/221-white-labeling-steps-and-considerations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.go.jp/topics/AI.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2024/1112/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/news/press/2026/06/260604/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide43-9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://promo.digital.ricoh.com/ai/column/detail111/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sotatek.com/jp/blogs/ai-utilization-for-internal-knowledge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vida.io/blog/white-label-ai-agent-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monobot.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aissist.io/insights/white-label-ai-customer-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botscrew.com/blog/white-label-ai-software-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e2msolutions.com/ai-service-reseller-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.byvoice.io/blog/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funlead.co.jp/images/2025/04/NewsRelease_20250416.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.knowleful.ai/case/case-tag/%E7%A4%BE%E5%86%85%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8%E5%85%B1%E6%9C%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/column/generative-ai_column-13.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kibit.fronteo.com/solution/manufacture-gai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000382.000042366.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dreamteller.biz/business-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/search/categorysub_ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aidia.works/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://log-port.com/aidx-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowledgework.cloud/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flowbots.ai/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/glossary/what-is-a-white-labeled-bi-tool",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onebot.cloud/blog/chatbot-oem-white-label-partner-japan-2026",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label AI knowledge base 2026",
+   "results": [
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.youtube.com/watch?v=igtEeGQxDLg",
+    "https://www.salesforce.com/service/knowledge-base/ai/software/",
+    "https://www.wireflow.ai/blog/best-white-label-ai-generation-platform-tools-in-2026",
+    "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "https://www.voiceflow.com/blog/white-label-chatbot",
+    "https://www.reddit.com/r/PromptEngineering/comments/1sgtm6l/top_ai_knowledge_management_tools_2026/",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://worldmetrics.org/best/white-label-ai-software/"
+   ]
+  },
+  {
+   "query": "white label AI knowledge base reseller program agencies",
+   "results": [
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://lety.ai/",
+    "https://botpenguin.com/partners/white-label-ai-agents",
+    "https://parallellabs.app/white-label-ai-platform-how-agencies-can-resell-ai-sales-marketing-tools/",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://leanware.co/insights/white-label-ai-software-complete-guide"
+   ]
+  },
+  {
+   "query": "white label AI knowledge base free trial pricing",
+   "results": [
+    "https://trillet.ai/blogs/white-label-voice-ai-with-free-trial",
+    "https://lety.ai/",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://www.getmacha.com/blog/ai-knowledge-base",
+    "https://convocore.ai/white-label",
+    "https://customgpt.ai/white-label-ai-platform/",
+    "https://www.layer3labs.io/guides/white-label-ai-platform"
+   ]
+  },
+  {
+   "query": "white label AI knowledge base rebrand your logo custom domain",
+   "results": [
+    "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "https://parallellabs.app/top-10-ai-platforms-to-white-label-build-your-ai-empire-without-writing-code/",
+    "https://promptowl.ai/whitelabel/",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://productizeyourmind.com/white-label-ai-tools-for-experts/",
+    "https://helpcenter.smartlead.ai/en/articles/221-white-labeling-steps-and-considerations",
+    "https://customgpt.ai/white-label-ai-platform/",
+    "https://www.1clickwebsite.ai/blog/best-white-label-ai-website-builders-for-agencies",
+    "https://llmpulse.ai/blog/white-label-ai-visibility-tools-rebrand/",
+    "https://parallellabs.app/white-label-ai-platform-rebrand-resell-ai-agents-under-your-agency/"
+   ]
+  },
+  {
+   "query": "white label AI knowledge base Japan Japanese",
+   "results": [
+    "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-japan",
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://www.japan.go.jp/topics/AI.html",
+    "https://www.nippon.com/en/articles/-/18502",
+    "https://www.youtube.com/watch?v=WE3omwq0ra4",
+    "https://www.knowledgebase.com/",
+    "https://onebot.cloud/blog/chatbot-oem-white-label-partner-japan-2026"
+   ]
+  },
+  {
+   "query": "ホワイトラベル社内ナレッジAI 日本",
+   "results": [
+    "https://www.nttdata.com/jp/ja/trends/data-insight/2024/1112/",
+    "https://japan-ai.co.jp/news/press/2026/06/260604/",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide43-9.pdf",
+    "https://promo.digital.ricoh.com/ai/column/detail111/",
+    "https://www.sotatek.com/jp/blogs/ai-utilization-for-internal-knowledge/",
+    "https://www.lumapps.jp/blog/generative-ai-in-house-knowledge/",
+    "https://www.aidma-hd.jp/ai/ai_knowledge_tool/",
+    "https://aismiley.co.jp/product/japan-ai_knowledge/",
+    "https://info.solutiondesk.jp/blogs/generative-ai-knowledge-practices",
+    "https://www.unite.ai/ja/best-white-label-ai-tools/"
+   ]
+  },
+  {
+   "query": "white label AI knowledge base OEM partnership",
+   "results": [
+    "https://scrydon.com/partners/whitelabel/",
+    "https://www.vida.io/blog/white-label-ai-agent-platform",
+    "https://trillet.ai/blogs/whitelabel-guide",
+    "https://promptowl.ai/whitelabel/",
+    "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://monobot.ai/whitelabel/",
+    "https://www.voiceflow.com/blog/white-label-chatbot",
+    "https://www.naentry.com/blog/ai-partnership-strategies-white-label-vs-embedded-vs-oem-"
+   ]
+  },
+  {
+   "query": "white label AI knowledge base partner program pricing",
+   "results": [
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://aissist.io/insights/white-label-ai-customer-support",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://botscrew.com/blog/white-label-ai-software-for-agencies/",
+    "https://www.e2msolutions.com/ai-service-reseller-partner/",
+    "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "https://www.byvoice.io/blog/white-label-ai-software",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://botpenguin.com/blogs/best-white-label-partner-program"
+   ]
+  },
+  {
+   "query": "ホワイトラベル社内ナレッジAI OEM提供",
+   "results": [
+    "https://www.funlead.co.jp/images/2025/04/NewsRelease_20250416.pdf",
+    "https://www.knowleful.ai/case/case-tag/%E7%A4%BE%E5%86%85%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8%E5%85%B1%E6%9C%89/",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide43-9.pdf",
+    "https://www.exa-corp.co.jp/column/generative-ai_column-13.html",
+    "https://kibit.fronteo.com/solution/manufacture-gai",
+    "https://prtimes.jp/main/html/rd/p/000000382.000042366.html",
+    "https://www.lumapps.jp/blog/generative-ai-in-house-knowledge/",
+    "https://www.canon-its.co.jp/solution/industry/cross-industry/ai/discoverybrain",
+    "https://www.stiv.jp/download/005/",
+    "https://aipicks.jp/glossary/white-label-ai"
+   ]
+  },
+  {
+   "query": "ホワイトラベル社内ナレッジAI 代理店募集",
+   "results": [
+    "https://dreamteller.biz/business-partner/",
+    "https://dairitenboshu.com/search/categorysub_ai",
+    "https://aidia.works/reseller",
+    "https://log-port.com/aidx-partner-program/",
+    "https://knowledgework.cloud/",
+    "https://www.miraiai.jp/agent/",
+    "https://resource-ai.cloudheart.jp/partner.html",
+    "https://knowledgework.com/news/article/CkFMaaXN",
+    "https://prtimes.jp/main/html/rd/p/000000003.000140670.html",
+    "https://onebot.cloud/ja/partner"
+   ]
+  },
+  {
+   "query": "white label AI knowledge base distributor Japan",
+   "results": [
+    "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://www.flowbots.ai/white-label/",
+    "https://www.domo.com/glossary/what-is-a-white-labeled-bi-tool",
+    "https://onebot.cloud/blog/chatbot-oem-white-label-partner-japan-2026"
+   ]
+  }
+ ],
+ "missing": {
+  "自社名で出せる条件": "記載なし（読んだ55頁・検索11回）",
+  "再販制度": "記載なし（読んだ55頁・検索11回）"
+ }
+}

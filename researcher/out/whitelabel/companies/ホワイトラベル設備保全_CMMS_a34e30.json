@@ -1,0 +1,1812 @@
+{
+ "name": "ホワイトラベル設備保全（CMMS）",
+ "en": "white label CMMS",
+ "aliases": [
+  "white-label maintenance management software",
+  "CMMS",
+  "maintenance management",
+  "preventive maintenance software",
+  "設備保全"
+ ],
+ "context": "製造業・保全",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:05:19.056454+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Rapid deployment compared to custom-built solutions",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Free CMMS vs Paid — When $0 Beats Per-User | FreeMaint CMMS",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "FreeMaint vs the alternatives",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Free CMMS vs Paid",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Free CMMS vs Paid CMMS",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "3. Side-by-Side Comparison: FreeMaint vs Freemium Giants",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Switching providers charges thousands for data migration",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "7. Frequently Asked Questions: Free vs Paid CMMS",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Core free forever, unlimited users. Paid tiers $29 / $99 / $299/mo flat per company — never per user. See the real cost vs competitors.",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "FreeMaint vs UpKeep",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "FreeMaint vs Fiix",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Ten CMMS platforms ranked by what \"free\" actually means — permanent free tiers vs expiring trials, feature limits, asset caps, mobile access, and the upgrade cost when your team outgrows free. With documented capabilities from teams running free CMMS in production environments.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "At this scale, no free tier is truly adequate. But OxMaint's $8/user paid tier delivers what competitors charge $45-$55/user for — including AI, multi-site, and full offline mobile. The total cost for 15 technicians: $120/month vs $825/month on UpKeep Premium.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "OxMaint vs MaintainX vs UpKeep: CMMS Comparison 2026",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Oxmaint vs MaintainX",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Oxmaint vs Upkeep",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Oxmaint vs Limble",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Oxmaint vs Maximo",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Oxmaint vs Fiix",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Oxmaint vs eMaint",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "This guide will break down the different factors that influence CMMS pricing, explore common pricing models, and even compare costs across popular providers. We'll equip you with the knowledge you need to make an informed decision and find a CMMS solution that fits both your budget and your maintenance needs.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-based vs. On-premise CMMS",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "When evaluating CMMS pricing, consider how vendors structure their costs based on the types and number of assets you manage. Some CMMS providers charge based on the total number of assets stored in the system, while others may factor in equipment complexity, criticality, or industry-specific requirements.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Not all implementation and training are created equal—each CMMS provider offers different levels of support. Carefully review what’s included from each to ensure you’re getting the right level of assistance for your team’s needs.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Established vendors often charge more due to their reputation, experience, and the quality of their support. On the flip side, newer vendors may offer more competitive pricing to gain market share. Consider the vendor's track record, customer reviews, and the level of support they provide when evaluating costs.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Usually offer discounted rates compared to monthly plans, making them more cost-effective for organizations planning long-term CMMS use.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Cost comparison of popular CMMS providers",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Look at how Fiix compares to other CMMS alternatives on the market.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Look at how Hippo compares to other CMMS alternatives on the market.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Look at how UpKeep compares to other CMMS alternatives on the market.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": ". We’ve researched all of the top maintenance software providers, highlighted their key features and real customer insights—no marketing fluff, just the facts.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "What makes Limble unique compared to other CMMS providers",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Limble stands out with transparent pricing and no hidden fees. Unlike many CMMS providers, our license includes implementation, online training, and support—all at no extra cost. No surprises, just hassle-free maintenance management.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Read reviews:",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Regularly review your CMMS usage and KPIs:",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "FreeMaint vs the alternatives",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews",
+    "url": "https://www.mastercontrol.com/glossary-page/computerized-maintenance-management-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Plan periodic reviews ensuring continued system validation status.",
+    "url": "https://www.mastercontrol.com/glossary-page/computerized-maintenance-management-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial calibration service providers",
+    "url": "https://www.mastercontrol.com/glossary-page/computerized-maintenance-management-system/",
+    "pass": 3
+   },
+   {
+    "quote": "2 reviews",
+    "url": "https://www.acumatica.com/acumatica-marketplace/bimser-beam-asset-maintenance-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Leave a review",
+    "url": "https://www.acumatica.com/acumatica-marketplace/bimser-beam-asset-maintenance-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews",
+    "url": "https://www.acumatica.com/acumatica-marketplace/bimser-beam-asset-maintenance-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Leave a Review",
+    "url": "https://www.acumatica.com/acumatica-marketplace/bimser-beam-asset-maintenance-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "2 Reviews",
+    "url": "https://www.acumatica.com/acumatica-marketplace/bimser-beam-asset-maintenance-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "0 Reviews",
+    "url": "https://www.acumatica.com/acumatica-marketplace/bimser-beam-asset-maintenance-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Awards and User Reviews",
+    "url": "https://www.acumatica.com/acumatica-marketplace/bimser-beam-asset-maintenance-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "To be thorough in evaluating ease of use, all users should be a part of the process. If technicians find a system difficult to use, they will not readily adopt it, which diminishes the value of the CMMS. Involve technicians and other key stakeholders in reviewing the user interface, workflow and other key features to ensure they are bought into the system.",
+    "url": "https://www.accruent.com/resources/blog-posts/5-key-cmms-selection-criteria",
+    "pass": 3
+   },
+   {
+    "quote": "With a narrowed potential CMMS list, companies can ask for a list of clients actively using the vendor’s CMMS to get an idea of the adoption within their industry and with similar sized companies. Companies may also want to look at online reviews and ask for references to get a better idea of the positives and negatives associated with each CMMS they are considering.",
+    "url": "https://www.accruent.com/resources/blog-posts/5-key-cmms-selection-criteria",
+    "pass": 3
+   },
+   {
+    "quote": "Fiix reviews",
+    "url": "https://fiixsoftware.com/about-us/partnerships/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label CMMS Software for Service & Maintenance",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Options",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White label software for maintenance and service",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White label software: Launch your own maintenance or service app in your corporate design",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Maintastic’s white label offering allows you to develop a fully operational, custom-branded app effortlessly – without writing a single line of code.",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Leverage a white label app to evolve your service operations into a digital business model",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Boost user adoption in maintenance with a white label app",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": ". A white label version is also available, customized with your corporate branding to increase user acceptance.",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Why choose a white label app from Maintastic?",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Building your own service or maintenance app from scratch can be time-consuming and costly. Maintastic provides a fully branded white label app in a fraction of the time – offering the following advantages:",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Request white label app",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White label options",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Maintastic’s white label offering extends well beyond basic color and logo customization.",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "FAQs about Maintastic's white label app",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What does “white label app” mean?",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Options",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Custom development and white-label options",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Telematics",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Options",
+    "url": "https://maintastic.com/en/maintastic-cmms-free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "White Labeling | Limble CMMS Help Center",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "White Labeling",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "Use Your Own Company Branding in Your Limble Account with White Labeling",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "White labeling allows you to customize the Limble app with your company's name and logo.",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "This article walks you through the white labeling options available through Limble, and where you can make customizations without white labeling.",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "(Note: white labeling is only available to",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "Customization Options with White Labeling",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "Customization Options without White Labeling",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "White labeling allows you to use your company name and logo in Limble as detailed in the table below.",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "When white labeling is used, Limble's logo is still shown in the areas listed below.",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "white labeling, as described in the table below.",
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "pass": 3
+   },
+   {
+    "quote": "Active resellers delivering white-label CMMS to their clients — with full Reseller Console, wholesale billing, and brand cascade out of the box.",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Every client you provision inherits your logo, brand color and company name by default. Enterprise tier unlocks complete white-label including custom domain (gmao.yourbrand.com) and removable 'Powered by FreeMaint'.",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Free trial",
+    "url": "https://maintastic.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Start Free Trial",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "No credit card and no setup fees.",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "7-Day Trial - All features included",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "30-day money-back guarantee",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Plus a 7-day trial of every feature",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "30-day money back",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "7-Day Trial",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "How does the Basic free plan work?",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "What happens after the 7-day trial period?",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Start on the free plan, try every feature for 7 days and bring your technicians on board with the mobile app. No credit card needed.",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Free Basic plan · 7-day trial of every feature · Cancel anytime",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "30-Day Money Back Guarantee",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Most \"free\" CMMS tools have hidden limits that force expensive upgrades. We analyzed the real costs and reveal which free plans have no cap on users, assets or work orders.",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "A Core tier free forever with no cap on users, assets or work orders, and no trial expiration. Advanced modules sit on optional paid tiers priced flat per company, not per user.",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Type 2: Freemium (Limited Free Tier)",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Type 4: Free Trial (Temporary Only)",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Full access for a limited trial period, then you must pay or lose everything. Not actually \"free\"—it's a trial period.",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial, then a paid plan is required.",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Data deleted after trial",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "3. Side-by-Side Comparison: FreeMaint vs Freemium Giants",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Here's the honest comparison. We measured 10 critical capabilities across 5 solutions. UpKeep has no free plan (trial only), so its column shows what you get once you pay. For current per-user prices, see our breakdowns of",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep (trial only)",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan (limited users)",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan (usage caps)",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan; paid plans per user",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Yes (5 recurring on free plan)",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "5 recurring WOs on free plan",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "CMMS Software Pricing | Free Plan Available | Maintainly",
+    "url": "https://maintainly.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": ". Any usage, including during the trial period, falls under our current",
+    "url": "https://maintainly.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "How does the free trial work?",
+    "url": "https://maintainly.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "14 days. No credit card required.",
+    "url": "https://maintainly.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Fleet & Industrial Vehicle",
+    "url": "https://maintainly.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "and MaintainX. For industrial and manufacturing teams that need runtime-hour triggers, asset lifecycle tracking, and offline mobile, OxMaint's free tier is the clear choice. This guide ranks the 10 best free CMMS platforms — separating permanent free tiers from expiring trials, and documenting exactly what you get before paying a dollar. Want to skip the comparison and start free right now?",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "— no credit card, no time limit, full work order capability from day one — or",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "No Trials · No Cards · No Limits",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Ten CMMS platforms ranked by what \"free\" actually means — permanent free tiers vs expiring trials, feature limits, asset caps, mobile access, and the upgrade cost when your team outgrows free. With documented capabilities from teams running free CMMS in production environments.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Platforms with genuinely permanent free plans",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Teams on crippled free plans switch within 12 months",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Before comparing platforms, understand the four categories of \"free CMMS.\" The differences have real consequences for your ability to scale without a painful platform migration. Teams that start on the wrong type of free plan waste 3-6 months of data entry and configuration when they're forced to switch.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Forever-Free Plans (Best Option)",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Permanently free tiers of commercial CMMS platforms — no expiry date, no credit card. Feature-limited but functional for real maintenance operations. OxMaint and MaintainX offer this. Best for: teams evaluating CMMS or running small operations long-term.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Time-Limited Free Trials (Common Trap)",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Full-featured access for 7-14 days, then everything locks behind a paywall. UpKeep (7 days), Limble (14 days). Useful for evaluation but not for building real maintenance programs. 86% of teams on trial-based plans switch platforms within 12 months.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Freemium with Severe Caps (Frustrating)",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Scoring methodology: each platform evaluated on free tier generosity (asset/user limits), mobile capability on free plan, PM scheduling at free tier, upgrade pricing trajectory, and deployment speed. Only platforms with documented free access (permanent or trial) are included.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Forever Free · AI Industrial CMMS · Mobile-First",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan works well for small teams digitizing paper work orders. Chat-style interface drives frontline adoption. Free tier limited to 2 active recurring work orders — functional for evaluation but restrictive for real PM programs. Inventory and advanced PM require Premium at $49/user. 2-layer asset hierarchy limits industrial complexity.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "CMMS Software Free Trial - Test Maintastic CMMS for 14 Days | Maintastic",
+    "url": "https://maintastic.com/en/maintastic-cmms-free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://maintastic.com/en/maintastic-cmms-free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Maintastic CMMS free trial",
+    "url": "https://maintastic.com/en/maintastic-cmms-free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Start your 14-day free trial of Maintastic CMMS – no commitment needed",
+    "url": "https://maintastic.com/en/maintastic-cmms-free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the power of digital maintenance. Get started with your 14-day free Maintastic cloud trial today.",
+    "url": "https://maintastic.com/en/maintastic-cmms-free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI 次世代自律操業の実現に向けて",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "30設備まで利用可能な点検特化型無料プラン（※フル機能版とは異なります）を提供しながら、多言語対応（12言語）や予備品在庫管理などのエンタープライズ機能も備え、小規模導入からグローバル展開まで同一システムで対応可能です",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアルを実施しているシステムもあるので、ぜひ参考にしてください",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "※2ヶ月間の無料トライアルあり",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "※1ヶ月間の無料トライアルあり",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "※無料トライアルあり",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアルも実施しているので、「これからシステム導入を検討している方」、「どのシステムにすればいいかわからない方」に最適な選択です",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$15/month",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Free CMMS vs Paid — When $0 Beats Per-User | FreeMaint CMMS",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "$1.3 billion in 2025",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Unlimited users, assets and work orders on Core; paid tiers from $29/month flat per company (GraphQL API on Business).",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Here's the honest comparison. We measured 10 critical capabilities across 5 solutions. UpKeep has no free plan (trial only), so its column shows what you get once you pay. For current per-user prices, see our breakdowns of",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "$0/month",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "A 10-technician team pays for 10 seats every month; FreeMaint Business stays $99/month flat for the whole company",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Zero licensing cost but requires your own server, IT setup, and ongoing maintenance. True $0 software cost but significant hidden infrastructure costs. Only viable if you have dedicated IT resources. Not recommended for teams without server administration capability.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "$0 forever",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "· No card · Paid: $8/user/mo · No implementation fee",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan works well for small teams digitizing paper work orders. Chat-style interface drives frontline adoption. Free tier limited to 2 active recurring work orders — functional for evaluation but restrictive for real PM programs. Inventory and advanced PM require Premium at $49/user. 2-layer asset hierarchy limits industrial complexity.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "(2 recurring WOs) · Premium: $49/user/mo",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan includes work order management and basic PM with no trial expiry. Rockwell industrial pedigree adds credibility for manufacturing environments. Free tier caps limit practical use beyond small operations. Paid plans jump to $45/user with implementation fees typical ($10K-$50K). Best for Rockwell-aligned plants willing to invest in implementation.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "(limited) · Basic: $45/user/mo · Setup fees apply",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "· Starter: $20/user/mo",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Highest G2/Capterra satisfaction scores in the category. Polished onboarding and dashboards. No permanent free tier — 14-day trial only. After trial, plans start at $28/user. Strong choice for teams ready to pay but not a long-term free option. Best for: evaluation purposes, then budget commitment.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "· Plans from $28/user/mo",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "Pioneered mobile-first CMMS. 7-day trial is too short to evaluate any real maintenance workflow. No permanent free tier. Entry tier at $20/user lacks PM scheduling. Premium at $55/user for full features creates steep cost curve. Not recommended as a \"free\" option — this is a paid platform with a very short evaluation window.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "· Lite $20/user · Premium $55/user",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "CMMSの費用は製品・規模によって大きく異なりますが、中小製造業向けのクラウド型CMMSの費用相場は①初期費用：0〜30万円（データ移行・初期設定費用を含む）②月額費用：2万〜10万円（ユーザー数・設備数・機能による）③教育・研修費：別途数万円〜が一般的です",
+    "url": "https://yachiyo-sol.com/library/cmms-erabi-kata-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "年間総費用として30万〜100万円の範囲が中小製造業でよく採用される水準です",
+    "url": "https://yachiyo-sol.com/library/cmms-erabi-kata-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用0円で利用開始できる手軽さが特長です",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "1工場あたり月額9.8万円からという、EAMとしては非常に安価なコストで導入可能です",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用の目安は0円から数百万円以上必要となるものまで非常に幅広い",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "月額4,000円程度から利用できるシステムもありますが、10万円を超すものもあります",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "基本料金として月額4,000円〜10万円程度となることが一般的",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "例として年間10万円程度という事例もありますが、",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用0円でコスト削減",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用：0円",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "月額：0円~",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用：9,800円",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用無料で20アカウント300GBまで月額料金9,800円で利用できる業界最安水準",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用： ライト：55,000円",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "スタンダード：80,000円",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "プロフェッショナル：130,000円",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "導入から運用までサポート体制が整っていることに加え、初期費用が0円かつ月額費用も定額制なので、予算の確保もしやすいでしょう",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用： チーム：$69",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "プロフェッショナル：$85",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用：10,000円/ID",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "最大20設備登録まで月額0円",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用：0円〜",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格：500,000円",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート料：98,000円/年",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "CMMS Software Cost: Updated Pricing Guide for 2026 Evaluation",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "A CMMS might cost $50 per user per month. For a team of 10 users, the monthly cost would be $500.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Pay FreeMaint $0/$17.50/$50/$145 per Core/Starter/Business/Enterprise client per month. Volume discounts: Bronze → Silver (-10%) → Gold (-15%) → Platinum (-20%). One invoice per month, automatic.",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Apply to the Gold Partner program. Wholesale pricing, full Reseller Console, no setup fees for the first cohort. Get started in 24 hours after we receive your application.",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Certificate errors dropped from 12 per month to less than one.",
+    "url": "https://www.mastercontrol.com/glossary-page/computerized-maintenance-management-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Unplanned downtime costs decreased $2.4 million annually through predictive maintenance.",
+    "url": "https://www.mastercontrol.com/glossary-page/computerized-maintenance-management-system/",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Training & Onboarding",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Do you offer training and onboarding?",
+    "url": "https://www.maintainnow.app/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Most teams are live within minutes, not the days or weeks a traditional CMMS rollout takes. Only about 2% of Maintainly customers ever need formal training. Most people start logging work orders the same day they sign up. This is an area that really sets Maintainly apart from older, legacy CMMS.",
+    "url": "https://maintainly.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Highest G2/Capterra satisfaction scores in the category. Polished onboarding and dashboards. No permanent free tier — 14-day trial only. After trial, plans start at $28/user. Strong choice for teams ready to pay but not a long-term free option. Best for: evaluation purposes, then budget commitment.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "— no signup friction, live in 30 minutes.",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォン対応で現場入力が簡単です",
+    "url": "https://yachiyo-sol.com/library/cmms-erabi-kata-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "過去に発生した故障やトラブルの事例や対処方法を簡単に参照できるようになり、経験の浅い保全員でも迅速に正確に復旧できるようになります",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Web上で点検項目を簡単に設定でき、スマホアプリでの点検入力から承認フローまで一貫して管理できます",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "低コストで導入でき、スマートフォンをかざすだけで「いつ・誰が・何をしたか」を簡単に記録できます",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事を読むことで、設備保全の効率化を図るための自社に合ったシステムを簡単に見つけられるでしょう",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ITに馴染みのない点検作業員でもタブレットを使って簡単に点検結果などを入力できるかが重要です",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "スマホで簡単に報告書作成ができる",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "わかりやすい画面設計で、IT関連に苦手意識を持つ方でも簡単に操作ができます",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業や教育・発電所など幅広い現場で活躍しており、作業指示やスケジュールが簡単に管理でき、複数サイトや言語に対応しています",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "スマホやタブレットを使って簡単に点検できるほか、在庫管理やドキュメント閲覧・過去の点検履歴の確認もできます",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の点検作業をはじめ、点検時の報告書作成もスマホアプリで誰でも簡単に作成できます",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "他システムとも簡単に連携可能",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "保全履歴の蓄積ができるため、過去の故障原因や対応コスト・時間など、保全検索によって簡単に確認できます",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "簡単操作で誰でも扱える",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンスが簡単にできる",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "操作は簡単で、工場や機械ごとの保全項目が分かりやすくツリー表示によって一目で確認できます",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "設備仕様や点検記録を簡単検索できる",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "日常点検や定期点検の計画作成やサポート・トラブル管理も簡単におこなえます",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "We are onboarding the first cohort of resellers — including EVADYS (Algeria) and EGT Group (Bahrain/KSA). When 3+ partners are publicly live with active client portfolios, this section will showcase their work. Join the program now to be featured here.",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "工場で簡単にできる小さな現場改善案15選と成功事例4選",
+    "url": "https://mentena.biz/insight/cmms-case-study-kowa-seiko/",
+    "pass": 3
+   },
+   {
+    "quote": "複数のアセットを 1 つの定期的なルーチンに簡単にまとめることができるため、スケジュールと実行が簡素化されます",
+    "url": "https://www.inspekly.com/jp/cmms/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の直感的なプラットフォームは、あらゆるバックグラウンドを持つチームが簡単に導入して使用できます",
+    "url": "https://www.inspekly.com/jp/cmms/",
+    "pass": 3
+   },
+   {
+    "quote": "誰もが簡単にアクセスできるステップバイステップのワークフローを提供します",
+    "url": "https://www.inspekly.com/jp/cmms/",
+    "pass": 3
+   },
+   {
+    "quote": "簡単なルーチン計画",
+    "url": "https://www.inspekly.com/jp/cmms/",
+    "pass": 3
+   },
+   {
+    "quote": "複数のアセットを簡単にバンドルし、任意の時間間隔で繰り返すことができます",
+    "url": "https://www.inspekly.com/jp/cmms/",
+    "pass": 3
+   },
+   {
+    "quote": "BMS、CMMS、EAM、APM を 1 つのプラットフォームに一元管理し、簡単にアクセスできるようにします",
+    "url": "https://www.inspekly.com/jp/cmms/",
+    "pass": 3
+   },
+   {
+    "quote": "簡単なステップ",
+    "url": "https://www.inspekly.com/jp/cmms/",
+    "pass": 3
+   },
+   {
+    "quote": "「当社のビジュアル デザイナーを使用すると、デスクトップ、モバイル、タブのいずれでも、ドラッグ アンド ドロップで簡単にカスタム アプリを作成できます",
+    "url": "https://www.inspekly.com/jp/cmms/",
+    "pass": 3
+   },
+   {
+    "quote": "「当社のビジュアル デザイナーを使用すると、デスクトップ、モバイル、タブの両方で、ドラッグ アンド ドロップで簡単にカスタム アプリを作成できます",
+    "url": "https://www.inspekly.com/jp/cmms/",
+    "pass": 3
+   },
+   {
+    "quote": "Generate inspection-ready reports in minutes",
+    "url": "https://www.mastercontrol.com/glossary-page/computerized-maintenance-management-system/",
+    "pass": 3
+   },
+   {
+    "quote": "When FDA inspectors arrived for a routine inspection, the quality team produced complete maintenance records for every piece of equipment in validated areas within 15 minutes. Previously, gathering those same records required two weeks of manual file searching.",
+    "url": "https://www.mastercontrol.com/glossary-page/computerized-maintenance-management-system/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Affiliates",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Earn recurring commission",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tenant architecture for resellers",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners — Resellers & Partnership Program | FreeMaint CMMS",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliates",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Earn recurring commission",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Active resellers delivering white-label CMMS to their clients — with full Reseller Console, wholesale billing, and brand cascade out of the box.",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Console",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Provision unlimited client tenants, switch into any of them for support, see chronological activity log. Built into the same app, gated by the reseller:* permission set.",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Live wholesale billing",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Gold Partner Program",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "We are onboarding the first cohort of resellers — including EVADYS (Algeria) and EGT Group (Bahrain/KSA). When 3+ partners are publicly live with active client portfolios, this section will showcase their work. Join the program now to be featured here.",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Apply to the Gold Partner program. Wholesale pricing, full Reseller Console, no setup fees for the first cohort. Get started in 24 hours after we receive your application.",
+    "url": "https://freemaint.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー制度",
+    "url": "https://mentena.biz/insight/cmms-case-study-kowa-seiko/",
+    "pass": 3
+   },
+   {
+    "quote": "The lab transformed from reactive chaos to proactive precision, building stronger customer relationships while improving operational margins.",
+    "url": "https://www.mastercontrol.com/glossary-page/computerized-maintenance-management-system/",
+    "pass": 3
+   },
+   {
+    "quote": "CMMS Software Affiliate Reseller Program | Fiix",
+    "url": "https://fiixsoftware.com/about-us/partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "community, the Fiix channel partner program is for you. We offer a unique revenue stream for your",
+    "url": "https://fiixsoftware.com/about-us/partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral partners",
+    "url": "https://fiixsoftware.com/about-us/partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "As a Fiix referral partner, your job is simple: Let other companies that are searching for",
+    "url": "https://fiixsoftware.com/about-us/partnerships/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Free CMMS vs Paid — When $0 Beats Per-User - FreeMaint — Free CMMS vs Paid — When $0 Beats Per-User - FreeMaint FreeMaint https://freemaint.com > free-cmms-vs-paid-comparison",
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Best Free CMMS Software with No Time Limit 2026 - Oxmaint — Best Free CMMS Software with No Time Limit 2026 - Oxmaint Oxmaint https://oxmaint.com > article > best-fr...",
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "pass": 3
+   },
+   {
+    "quote": "CMMS Software Free Trial - Test Maintastic CMMS for 14 Days — CMMS Software Free Trial - Test Maintastic CMMS for 14 Days Maintastic https://maintastic.com > maintastic-cm...",
+    "url": "https://maintastic.com/en/maintastic-cmms-free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年保存版】 設備保全 管理システム( CMMS /EAM) 18製品 ... — 【2026年保存版】 設備保全 管理システム( CMMS /EAM) 18製品 ... eamic-ibsolutions.jp https://eamic-ibsolutions.jp > 設備管理システム",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全 管理システムおすすめ【17選】機能・料金面で徹底 ... — 設備保全 管理システムおすすめ【17選】機能・料金面で徹底 ... 現場TECH https://kensetsu.gemba-tech.jp > list > equipment-mainten...",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Key CMMS Selection Criteria - Accruent — 5 Key CMMS Selection Criteria - Accruent Accruent https://www.accruent.com > blog-posts",
+    "url": "https://www.accruent.com/resources/blog-posts/5-key-cmms-selection-criteria",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "日本語サポートの有無・対応時間・導入支援（データ移行・初期設定サポート）・トレーニングの提供",
+    "url": "https://yachiyo-sol.com/library/cmms-erabi-kata-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "循環型社会を通じ中東と日本をつなぐ（１）",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "循環型社会を通じ中東と日本をつなぐ（２）",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、日本では 化学・機械・自動車・食品・航空・電子・ビル設備管理 など、さまざまな業界において、設備保全のデジタルトランスフォーメーション（DX）が重要な経営課題となっています",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、現在日本市場で流通している主要な18の設備保全管理システムを、最新の市場データに基づき徹底的に比較・分析します",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、日本市場における主要18製品について、提供形態を整理したうえで、各製品の特徴と強みを解説します",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "35年以上の歴史と国内12,000ライセンス超の導入実績を持つ、日本型保全システムを代表する製品です",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業特有の細かな管理要件（予備品管理、予算管理、工事管理、図面管理など）に幅広く対応しています",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、日本企業が設備保全DXを成功させるために押さえるべき本質的な選定基準を、実務視点から整理します",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "導入形態の柔軟性 ― 日本企業特有の要件への適合",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業では、工場閉域ネットワークや厳格なセキュリティ要件により、クラウドのみでは対応できないケースも少なくありません",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業・インフラ業界において、設備管理は安全・品質・安定稼働を支える中核業務です",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "段階的な導入によるリスク抑制、小規模運用から全社基盤への拡張、そして設備データを経営資源へ転換する仕組みは、日本企業が求める現実的かつ長期安定運用可能な設備管理の方向性といえます",
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "日本に限らず、韓国やアメリカ・中国などの海外でも販売実績を誇るシステムで、設備保全の業務を網羅しています",
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内に加えて、アジア・中東・欧米のプラントにも導入実績があり、海外拠点の設備管理を統合する場合にも対応できます",
+    "url": "https://www.ripla.co.jp/blog/system/cmms-system-companies/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://maintastic.com/en/white-label-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/WhitelabelSoftware/comments/1rvwyxj/6_top_white_label_software_companies_in_2026/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://taskip.net/white-label-tools-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maintainnow.app/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maintainly.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maintastic.com/en/maintastic-cmms-free-trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.didit.me/console/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appinstitute.com/best-practices-for-custom-branding-in-white-label-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novisign.com/blog/signage/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.staffconnect-app.com/features/whitelabel-custom-branding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monoya.com/pages/monoya-connect?srsltid=AYCX9vKMrRtNOb3BSvcP7P0TmuoHKPkC7bE5Gy9j8gXhqY3yjSmdmabB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-crm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/cmms-erabi-kata-hikaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netrio.com/white-labeling-managed-it-services-pros-and-cons/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.bicomsystems.com/oem-and-white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/msp/comments/rstkf9/looking_for_white_label_msp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.placa.ai/white-label-lpr-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limble.com/learn/cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tapfiliate.com/blog/best-white-label-affiliate-software_ag/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemaint.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.em-labo.co.jp/solutions/equipment-maintenance-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eqptmainte-base.com/system/cmms.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mentena.biz/insight/cmms-case-study-kowa-seiko/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/cmms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ripla.co.jp/blog/system/cmms-system-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ripla_business/n/n36d9a1d7775b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/search/category_2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inspekly.com/jp/cmms/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ramico.co.jp/partner/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datacake.co/platform/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercontrol.com/glossary-page/computerized-maintenance-management-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acumatica.com/acumatica-marketplace/bimser-beam-asset-maintenance-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accruent.com/resources/blog-posts/5-key-cmms-selection-criteria",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fiixsoftware.com/about-us/partnerships/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label CMMS 2026",
+   "results": [
+    "https://maintastic.com/en/white-label-software/",
+    "https://www.reddit.com/r/WhitelabelSoftware/comments/1rvwyxj/6_top_white_label_software_companies_in_2026/",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://www.youtube.com/watch?v=YOCCmndzWW8",
+    "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "https://appscrip.com/blog/best-white-label-app-development-companies/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.mrisoftware.com/blog/best-cmms-software-comparison-for-facilities-and-maintenance/",
+    "https://fitsmallbusiness.com/best-white-label-crm/"
+   ]
+  },
+  {
+   "query": "white label CMMS reseller program agencies",
+   "results": [
+    "https://maintastic.com/en/white-label-software/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.conexisvmssoftware.com/white-label-vms",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://elioplus.com/white-label/vendors/cmms"
+   ]
+  },
+  {
+   "query": "white label CMMS free trial pricing",
+   "results": [
+    "https://maintastic.com/en/white-label-software/",
+    "https://www.maintainnow.app/pricing",
+    "https://freemaint.com/blog/free-cmms-vs-paid-comparison",
+    "https://maintainly.com/pricing",
+    "https://oxmaint.com/article/best-free-cmms-software-no-time-limit",
+    "https://maintastic.com/en/maintastic-cmms-free-trial/",
+    "https://limble.com/learn/cost",
+    "https://www.clickmaint.com/blog/evaluating-cmms-providers-during-free-trials",
+    "https://fiixsoftware.com/free-cmms/",
+    "https://freemaint.com/pricing"
+   ]
+  },
+  {
+   "query": "white label CMMS rebrand your logo custom domain",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://docs.didit.me/console/white-label",
+    "https://maintastic.com/en/white-label-software/",
+    "https://appinstitute.com/best-practices-for-custom-branding-in-white-label-platforms/",
+    "https://www.novisign.com/blog/signage/white-label/",
+    "https://help.limblecmms.com/en/articles/6399666-white-labeling",
+    "https://www.staffconnect-app.com/features/whitelabel-custom-branding",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://innomaint.com/features/custom-branding/",
+    "https://freemaint.com/become-a-reseller"
+   ]
+  },
+  {
+   "query": "white label CMMS Japan Japanese",
+   "results": [
+    "https://maintastic.com/en/white-label-software/",
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "https://www.monoya.com/pages/monoya-connect?srsltid=AYCX9vKMrRtNOb3BSvcP7P0TmuoHKPkC7bE5Gy9j8gXhqY3yjSmdmabB",
+    "https://suitedash.com/white-label-crm/",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル設備保全（CMMS） 日本",
+   "results": [
+    "https://yachiyo-sol.com/library/cmms-erabi-kata-hikaku/",
+    "https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/",
+    "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "https://www.kikan-modern.com/kind/cmms.html",
+    "https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/",
+    "https://www.em-labo.co.jp/solutions/equipment-maintenance-system",
+    "https://fa-craft.co.jp/article/cmms-basics-features-selection",
+    "https://www.ripla.co.jp/blog/system/cmms-system-complete-guide/",
+    "https://setsubi-takumi.com/blog/how-to-choose-cmms/",
+    "https://www.cct-inc.co.jp/koto-online/archives/659"
+   ]
+  },
+  {
+   "query": "white label CMMS OEM partnership",
+   "results": [
+    "https://maintastic.com/en/white-label-software/",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://www.netrio.com/white-labeling-managed-it-services-pros-and-cons/",
+    "https://blog.bicomsystems.com/oem-and-white-label/",
+    "https://www.reddit.com/r/msp/comments/rstkf9/looking_for_white_label_msp/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.2am.tech/blog/white-label-software-fundamentals",
+    "https://www.assetinfinity.com/blog/unlocking-business-potential-the-power-of-white-labeled-asset-management-solutions",
+    "https://www.siptrunk.com/blog/exploring-white-label-managed-it-services-a-comprehensive-overview/"
+   ]
+  },
+  {
+   "query": "white label CMMS partner program pricing",
+   "results": [
+    "https://maintastic.com/en/white-label-software/",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.placa.ai/white-label-lpr-partner-program/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://limble.com/learn/cost",
+    "https://tapfiliate.com/blog/best-white-label-affiliate-software_ag/",
+    "https://freemaint.com/partners"
+   ]
+  },
+  {
+   "query": "ホワイトラベル設備保全（CMMS） OEM提供",
+   "results": [
+    "https://www.kikan-modern.com/kind/cmms.html",
+    "https://www.em-labo.co.jp/solutions/equipment-maintenance-system",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/",
+    "https://yachiyo-sol.com/library/cmms-erabi-kata-hikaku/",
+    "https://www.eqptmainte-base.com/system/cmms.html",
+    "https://mentena.biz/insight/cmms-case-study-kowa-seiko/",
+    "https://it-trend.jp/cmms",
+    "https://www.ripla.co.jp/blog/system/cmms-system-companies/",
+    "https://www.whitelabel-inc.com/oem"
+   ]
+  },
+  {
+   "query": "ホワイトラベル設備保全（CMMS） 代理店募集",
+   "results": [
+    "https://www.ripla.co.jp/blog/system/cmms-system-companies/",
+    "https://note.com/ripla_business/n/n36d9a1d7775b",
+    "https://dairitenboshu.com/search/category_2",
+    "https://www.inspekly.com/jp/cmms/",
+    "https://www.ramico.co.jp/partner/company/",
+    "https://talents.hermes.com/ja/sites/CX/job/24087/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000004539167",
+    "https://advance.st-grp.co.jp/products/maintenance/partner/index.html",
+    "https://www.sofpla.jp/partner.html",
+    "https://www.lvmh.com/rac/csod/prod/apply.html?jobId=PYZFK026203F3VBQB798N7VG6-1064327&langCode=ja_JP"
+   ]
+  },
+  {
+   "query": "white label CMMS distributor Japan",
+   "results": [
+    "https://maintastic.com/en/white-label-software/",
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://datacake.co/platform/white-label",
+    "https://www.mastercontrol.com/glossary-page/computerized-maintenance-management-system/",
+    "https://www.acumatica.com/acumatica-marketplace/bimser-beam-asset-maintenance-management-software/",
+    "https://www.accruent.com/resources/blog-posts/5-key-cmms-selection-criteria",
+    "https://fiixsoftware.com/about-us/partnerships/",
+    "https://www.rockwellautomation.com/en-us/products/software/factorytalk/maintenancesuite/fiix.html",
+    "https://www.eamic.net/eam-cmms-software/",
+    "https://elioplus.com/white-label/vendors/cmms"
+   ]
+  }
+ ],
+ "missing": {}
+}

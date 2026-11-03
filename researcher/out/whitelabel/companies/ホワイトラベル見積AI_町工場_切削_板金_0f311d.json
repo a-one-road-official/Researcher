@@ -1,0 +1,1386 @@
+{
+ "name": "ホワイトラベル見積AI（町工場・切削・板金）",
+ "en": "white label CNC quoting software",
+ "aliases": [
+  "white-label manufacturing quoting",
+  "instant quote manufacturing",
+  "CNC quoting",
+  "sheet metal quoting",
+  "quoting software",
+  "見積システム",
+  "自動見積"
+ ],
+ "context": "製造業・見積",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:03:05.423615+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Customer Reviews",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Service Providers",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "reads RFQ emails and prints and extracts critical details, such as GD&T, specs, processes, materials, and finishes, which estimators review to make strategic decisions about how to cost and price a part.",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC quoting software turns an RFQ into a priced quote for machined parts. It analyzes the part file for setups, features, and manufacturability issues, then calculates cost and price with the shop’s own rates and rules. Paperless Parts does this for work ranging from simple 3-axis parts to multi-axis jobs with custom fixturing, and estimators review every quote before it goes out.",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "reads RFQ emails and prints and extracts critical details, such as GD&T, specs, processes, materials, and finishes, which estimators review to make strategic decisions about how to cost and price a part. See how",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Upload CAD files, PDFs, or drawings. Quote Agent reviews manufacturability, highlights machining risks, and helps you build accurate quotes faster.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "A clear workflow for quoting teams: upload, review manufacturability, edit the quote, and send it to your customer.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Review manufacturability",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Quote Agent reviews each part, flags machining risks, and highlights issues that may impact cost or lead time.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Customers often send RFQs to multiple machine shops. The faster you can review parts and return a quote, the more opportunities you can compete for.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Manually review every part",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Review manufacturability, machining risks, and smart suggestions.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Ask questions, get advice, and explore options as you review parts and prepare quotes. Quote Agent helps you make confident quoting decisions, faster.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Review CAD models and drawings in your browser",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Quote reviewed and edited",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Quote Agent helps you review parts, identify potential issues, and generate a draft quote. You remain in control of the final quote and can review, edit, and adjust pricing before anything is sent to your customer.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Quote Agent was developed and tested in CloudNC's own production machine shop, which manufactures high-mix, low-volume precision parts across a variety of industries. It helps estimators build accurate quotes faster, while still letting your team review, edit, and approve every quote before it is sent.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Quote Agent is designed for precision machined components. Whether you're quoting milled parts, turned parts, mill-turn components, or other precision machined parts, Quote Agent can help you review parts and build quotes faster.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "No. Quote Agent is built to help skilled estimators work faster. It reduces manual review, highlights potential issues earlier, and gives your team a stronger starting point. Your estimators still review, edit, and approve quotes before they go to customers.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "In this use case, we have calculated how high the efficiency gain is when using a software for automated quoting compared to conventional methods.",
+    "url": "https://spanflug.de/make/",
+    "pass": 3
+   },
+   {
+    "quote": ", you will learn how high the efficiency gain of using a software for automated quoting is compared to conventional methods. It shows that Spanflug MAKE not only reduces process costs per quote, but also that the time and efficiency gains increase with the complexity of the calculated part.",
+    "url": "https://spanflug.de/make/",
+    "pass": 3
+   },
+   {
+    "quote": "Tempus Tools vs. Paperless Parts",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Tempus Tools vs. DigiFabster",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Tempus Tools vs. SecturaFAB",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Tempus Tools vs. CutQuote",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Best compared by requesting a quote for the exact workflows your shop needs",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Cutting Service Alternatives",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "vs ERP/MRP Systems",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "vs Excel Spreadsheet",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "vs Paperless Parts",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "vs SecturaFAB",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "vs DigiFabster",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "vs CutQuote",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Digifabster vs AMFG",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "Manual review thresholds",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "Set customizable manual review thresholds based on order total, line item price, or part quantity per machine. When exceeded, orders are held for review, displaying a TBD label instead of pricing until manually approved. Ensure control over complex or high-value quotes.",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "For ITAR licensed service providers, we offer a dedicated (local) installation and ensure design files, specifications and other data are encrypted both in transmission and at rest.",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "After a longstanding evaluation of potential providers, only AMFG provided a solution for the full additive workflow to give us the agility we needed. When you have to manage 1m+ parts per annum, ensuring you have the right MES is a critical requirement.",
+    "url": "https://www.amfg.ai/job-shop",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG vs Paperless Parts",
+    "url": "https://www.amfg.ai/job-shop",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG vs Manual Quoting",
+    "url": "https://www.amfg.ai/job-shop",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews",
+    "url": "https://www.paperlessparts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Service Providers",
+    "url": "https://www.paperlessparts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews",
+    "url": "https://www.paperlessparts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Build vs. Buy: Which Quoting Software Path Fits",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "No published pricing. Quotes are scoped around headcount, RFQ volume, and modules. Capterra reviewers flag assembly building and linking as an area still catching up. No rules engine for catalog products, so it cannot price a configurable product line.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Plans meter quotes at 100, 300, or 1,000 per month depending on tier, with per-quote overage above that. ERP and CRM integrations (SAP, Salesforce, HubSpot, Pipedrive) require a longer-term commitment rather than a monthly plan. Reviews are polarized, so benchmark the pricing engine against known jobs during the trial.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "The cost database is yours to maintain. Accuracy degrades if nobody updates rates. It is a costing engine first; customer-facing quote delivery and follow-up are thin compared with Paperless Parts.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Locked to its vertical. A Software Advice reviewer notes the system cannot be fully customized to an individual business. You adapt to Steelhead’s workflow more than the reverse.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Capterra lists the Standard plan at $150 per user per month billed annually, but that excludes implementation. Third-party estimates put SMB implementations somewhere between $5,000 and $20,000. Getting 3D models web-ready is real work. Reviewers report small and medium bugs sitting unfixed for months.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Configuration Rules vs. a Price List",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "After a new quote is submitted, you’ll have the ability to review files and provide clear feedback to your customers as necessary. This allows you to reduce bottlenecks in the communication process and provide your customers with a better finished product.",
+    "url": "https://dxfquote.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3 awaiting your review",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Awaiting review",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Accuracy vs corrections",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Price-list import and export (CSV / JSON) with a preview of the changes before saving",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Price-list sync with your ERP - catalogue export and import with a preview of the changes",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "MetronQ vs Spanflug MAKE",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "MetronQ vs Paperless Parts",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Part Buyers and OEMs",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "costing24 white label for contract manufacturer",
+    "url": "https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Manufacturers",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Fully Customizable Widget",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise OEM",
+    "url": "https://www.amfg.ai/job-shop",
+    "pass": 3
+   },
+   {
+    "quote": "Part Buyers and OEMs",
+    "url": "https://www.paperlessparts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Shops that want defensible should-cost numbers, and OEMs benchmarking supplier quotes.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Widget on your site and a hosted quoting page with your logo - in 4 languages (PL, EN, DE, ZH) and in your currency",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Orders with notifications, a PDF quote in your brand and an online quote link with an access code",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "The widget inherits your logo and colours, speaks four languages, and also works as a standalone quoting page if you would rather change nothing on your own site.",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Alliance Partner Program",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecosystem Partner Program",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "Get a quick overview of how Machine Research combines advanced technology with a simpler, more organized approach to estimating and quoting—helping shops work faster, protect margins and win more profitable work.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Estimates that vary by estimator, creating inconsistent margins and pricing surprises",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Stop losing time, margin, and jobs to outdated software. Machine Research is fast to deploy, easy to use, and built around how shops actually quote.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Machine Research replicates your existing pricing logic — labor rates, machine rates, markups, and custom rules — inside configurable templates. Your pricing logic no longer lives in fragile spreadsheets tied to one person. It lives in a secure, structured system that improves speed, consistency, and margin control across your entire team.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Every quote is fully editable. Quote Agent creates the first draft, but you remain in complete control. You can adjust machining steps, materials, labour, markups, lead times, pricing and any other part of the quote before sending it to your customer.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers and Distributors",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "Referrals",
+    "url": "https://www.amfg.ai/job-shop",
+    "pass": 3
+   },
+   {
+    "quote": "Alliance Partner Program",
+    "url": "https://www.paperlessparts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecosystem Partner Program",
+    "url": "https://www.paperlessparts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In today’s competitive landscape, the margin for error in CNC costing is razor-thin. A minor miscalculation can eat into your margins, delay timelines, and even cause you to lose valuable contracts. If you’re still relying on outdated methods like spreadsheets, manual calculations, and tribal knowledge, you’re not just wasting time - you’re losing money.",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "Margin Erosion",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": ": Incorrect quotes can lead to undervalued jobs, squeezing your margins. You might win the bid, but lose profitability.",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "Margin Protection",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "uses historical data and built-in cost analysis to ensure your quotes are competitive without sacrificing your margins. If you’ve been missing out on profitable jobs due to low-ball quotes,",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "For CNC job shops, this means faster RFQ responses, more consistent pricing, and better margin protection.",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "6. Can Dashnode help improve my profit margins?",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "helps you protect your margins while still being competitive.",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "You find out when the customer forwards both emails. What that costs is not the margin on one order, it is the discovery that your price is negotiable, and buyers remember that longer than you do.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Half get updated that afternoon. The rest get updated when a quote comes back for revision, or never. Every file that slips through prices work at last quarter’s cost, and the shortfall does not appear in a report, it appears in the margin you thought you had.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "This is where profit margins quietly erode. A system that cannot apply a surcharge across a product family in one action will cost more in lost profitability than the licence saves.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Referral program",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Referrals",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Find a parameter, e.g. margin, setup",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Rates and margins",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "A machine-hour rate per machine, setup and programming costs, margin.",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Quoting machining comes down to five things: time on the machine multiplied by the machine-hour rate, material priced as a blank, set-up charged once per order, attendance and tooling, and margin. What differs between shops is not the formula - it is which of those lines somebody worked out and which they remembered.",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "The formula for machining cost is short, and the formula is not the hard part. Unit price is (material + machining) × (1 + margin), plus the set-up costs divided by the batch size. Material is blank volume × density × price per kilogram. Machining is minutes ÷ 60 × the machine-hour rate. Set-up is the number of fixturings × their time × that same rate.",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "The technical cost of manufacture is the sum of those components: what the part costs the shop. The offered price is that plus margin. Unit costing only means anything while those two figures are kept apart; otherwise a negotiation slides below cost and nobody notices, because the spreadsheet shows one number.",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Automated part file analysis provides information like setup count, process-specific feature detection (holes/pockets/3D machining), manufacturability warnings, and volume removal that drive costs and pricing for faster quoting. Rapidly quote a wide variety of complexities, from the simplest 3-axis parts, to the most complex multi-axis geometries requiring multiple setups and custom fixturing.",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC quoting software turns an RFQ into a priced quote for machined parts. It analyzes the part file for setups, features, and manufacturability issues, then calculates cost and price with the shop’s own rates and rules. Paperless Parts does this for work ranging from simple 3-axis parts to multi-axis jobs with custom fixturing, and estimators review every quote before it goes out.",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "Generate 3 AI-powered quotes per month",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "3 parts/mo",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "8 parts/mo",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "20 parts/mo",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "40 parts/mo",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "$2.50 per part",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Overage $3.75 per part",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "83 parts/mo",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "208 parts/mo",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Get started now with Spanflug MAKE and benefit from day one. You can quote up to 5 parts per month free of charge. You can see the efficiency benefits of Spanflug MAKE for yourself before you decide for a monthly or annual subscription for unlimited quotes.",
+    "url": "https://spanflug.de/make/",
+    "pass": 3
+   },
+   {
+    "quote": "With a simple integration of the powerful online calculation costing24 into your own website, your customers will immediately receive a technically sound price information for their inquiry. Your own technical requirements, parameters and surcharges can be taken into account. The result of the calculation can be transferred directly into a shopping cart.",
+    "url": "https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve managed over $500M (USD) combined order value with world-class manufacturers",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "料金：要問い合わせ、初期費用10万円",
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "pass": 3
+   },
+   {
+    "quote": "料金：ソフトウェア販売150万円/ライセンス、年間保守費10万円/ライセンス（板金用・ProCプラン・クラウド版）",
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "pass": 3
+   },
+   {
+    "quote": "料金：月額30,000円〜、初期費用100万円〜（ソフト・セットアップ・AI構築）",
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "pass": 3
+   },
+   {
+    "quote": "料金：月額48,000円、初期費用要問い合わせ",
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "pass": 3
+   },
+   {
+    "quote": "3. Real-Time Pricing & Costing",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": ". Before implementing the software, their estimators were spending up to 6 hours a day preparing quotes. They faced frequent errors in their manual calculations, which resulted in rework and inconsistent pricing.",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": ", the shop reduced quote turnaround time by 75%, from 6 hours to just 90 minutes. The integration with CAD files and live material pricing cut down errors, and the consistency in pricing improved their relationship with clients. Within 3 months, their quoting accuracy improved by",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "4. Does Dashnode support INR-based pricing?",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "MetronQ is CNC machining quoting software (milling and turning) for machine shops. The engine reads a part's geometry from a 3D model or a technical drawing and prices it on your machines, rates and material costs; the technologist sees the cost breakdown and approves the quote before it reaches the customer. No generative models, no retyping dimensions.",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Implementation and Onboarding",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "Minutes",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "When you partner with Paperless Parts, we take care of you; when you succeed, we succeed. Our dedicated support team responds to requests within 30 minutes. You can email, call, or ask for help right from the platform.",
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "Send polished, branded quotes in minutes. First quote on their desk. Best-looking quote in their inbox. Speed plus professionalism equals competitive edge.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Professional quotes delivered in minutes — first on their desk, best-looking in their inbox",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Most shops are quoting in minutes, not hours. No long contracts, no enterprise complexity, no steep learning curve. Primarily built for CNC and precision machine shops, with capabilities extending to other high-mix, low-volume manufacturing environments.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Easy to learn. Easy to use. Built to evolve as your shop grows.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "We've significantly decreased our turn times on estimating jobs and generating quotes, increased our accuracy rates, we’re far more organized and confident in our pricing, and we send quotes that look professional within minutes.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "We needed a way to generate accurate quotes and stay organized without the complexity or high cost of traditional systems. Machine Research is easy to use, the team listens, and filled a critical gap as we built our shop from the ground up.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What used to take 30 minutes now takes about 10. Building the quote is straightforward and easy.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Stop losing time, margin, and jobs to outdated software. Machine Research is fast to deploy, easy to use, and built around how shops actually quote.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Most tools fall into two categories: manual tools with a modern interface, or complex enterprise systems that take months to implement and require long contracts. Machine Research is purpose-built for machine shops, powered by real machine learning, fast to deploy, easy to use, and affordable without multi-year commitments.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "in minutes",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Minutes per RFQ",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "minutes, not hours.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "2-5 minutes",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Build and edit quotes in minutes",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Minutes",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "I quoted 27 different parts in just 20 minutes",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "book an onboarding appointment with our experts,",
+    "url": "https://spanflug.de/make/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing varies across fabrication quoting software. Some platforms publish plans, while others require a custom quote based on shop size, modules, onboarding, integrations, or usage.",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Cost may depend on shop size, complexity, modules, integrations, onboarding, and training",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "When comparing tools, look beyond the subscription price. Setup time, onboarding, feature tiers, payment fees, support, pricing-rule maintenance, and how quickly estimators can start quoting all affect the real cost of the system.",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Providing instant online quotes helps shops accommodate their customers’ changing needs. Reduce your request for quote (RFQ) response time to minutes or offer online quotes and orders 24/7 on your site with costing24 machine shop quoting software.",
+    "url": "https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、2D図面や3D CADデータから必要な材料や部品、製造工程を自動で推測し、見積を簡単に作成してくれる自動見積サービスが増加しています",
+    "url": "https://go.orixrentec.jp/rentecinsight/it/article-619",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け自動見積ソフトとは、図面データから必要な部品・材料を自動で読み取り、見積もりを簡単に作成できるサービスのことです",
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "pass": 3
+   },
+   {
+    "quote": "経験に関係なく、新人の現場担当者や営業担当者でも簡単に見積もりが作れるようになっているので、見積もり作成における属人化の解消も期待できます",
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "pass": 3
+   },
+   {
+    "quote": "簡単な操作で、過去の図面から類似した形状のものをAIが検索してくれるシステム",
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "pass": 3
+   },
+   {
+    "quote": "1分で簡単登録",
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "pass": 3
+   },
+   {
+    "quote": "Implementation and Onboarding",
+    "url": "https://www.paperlessparts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "15 minutes",
+    "url": "https://www.paperlessparts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "reduces costing time from hours to minutes, enabling teams to generate an",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": ", the shop reduced quote turnaround time by 75%, from 6 hours to just 90 minutes. The integration with CAD files and live material pricing cut down errors, and the consistency in pricing improved their relationship with clients. Within 3 months, their quoting accuracy improved by",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "helps you respond to RFQs in minutes, not days. Speed matters in today’s fast-paced market.",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding is quick and easy.",
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "Six months later, one of them is quoting in minutes and the other is fighting the tool. Which one depends entirely on whether the software they bought understood their kind of quote.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Minutes, if the rules are modelled correctly",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Minutes, not a flat rate",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Full 1:1 onboarding - we set up and calibrate your pricing together",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "So the engineer does not start from an empty spreadsheet but from a finished breakdown: minutes of roughing, pockets and drilling, the cost of the material and of the set-up. Every one of those lines can be corrected before the offer goes out.",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "The formula for machining cost is short, and the formula is not the hard part. Unit price is (material + machining) × (1 + margin), plus the set-up costs divided by the batch size. Material is blank volume × density × price per kilogram. Machining is minutes ÷ 60 × the machine-hour rate. Set-up is the number of fixturings × their time × that same rate.",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "START A FREE TRIAL",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Is there a free trial?",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Machine Research offers a free trial so you can test the platform with your own parts before committing to anything. No credit card required to get started.",
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "No credit card required",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Start for free",
+    "url": "https://spanflug.de/make/",
+    "pass": 3
+   },
+   {
+    "quote": "Start Free Trial",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial",
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Goods",
+    "url": "https://www.amfg.ai/job-shop",
+    "pass": 3
+   },
+   {
+    "quote": "Global Head of Software, Data and Automation, HP Personalization and Industrial BusinessHP",
+    "url": "https://www.amfg.ai/job-shop",
+    "pass": 3
+   },
+   {
+    "quote": "Plans meter quotes at 100, 300, or 1,000 per month depending on tier, with per-quote overage above that. ERP and CRM integrations (SAP, Salesforce, HubSpot, Pipedrive) require a longer-term commitment rather than a monthly plan. Reviews are polarized, so benchmark the pricing engine against known jobs during the trial.",
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Start Free Trial",
+    "url": "https://dxfquote.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://dxfquote.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fourteen-day trial",
+    "url": "https://metronq.com/en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "7 Best Sheet Metal Quoting Software Solutions ( 2026 ) — 7 Best Sheet Metal Quoting Software Solutions ( 2026 ) Luke van Enkhuizen https://vanenkhuizen.com > the-ultim...",
+    "url": "https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing the Best Quoting Software For Your Business in 2026 — Choosing the Best Quoting Software For Your Business in 2026 Cincom Systems https://www.cincom.com > blog > cpq",
+    "url": "https://www.cincom.com/blog/cpq/best-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業での実装が進む AI 自動 見積 - Rentec Insight — 製造業での実装が進む AI 自動 見積 - Rentec Insight Rentec Insight https://go.orixrentec.jp > rentecinsight > article-619",
+    "url": "https://go.orixrentec.jp/rentecinsight/it/article-619",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け自動 見積 ソフト11選。おすすめをタイプ別に紹介 — 製造業向け自動 見積 ソフト11選。おすすめをタイプ別に紹介 aspicjapan.org https://www.aspicjapan.org > asu > article",
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Quote Agent supports US dollars (USD), euros (EUR), British pounds (GBP), Canadian dollars (CAD), Mexican pesos (MXN), Japanese yen (JPY), Chinese yuan (CNY), Indian rupees (INR), Australian dollars (AUD) and New Zealand dollars (NZD).",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、日本国内で提供されている代表的なAI自動見積サービスをいくつかご紹介します",
+    "url": "https://go.orixrentec.jp/rentecinsight/it/article-619",
+    "pass": 3
+   },
+   {
+    "quote": "― 日本トップクラスの短納期体制",
+    "url": "https://www.plaport.co.jp/value/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.paperlessparts.com/processes/cnc-machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/CNC/comments/1l37m1m/what_can_i_use_for_generating_quotes_job_shop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://machineresearch.com/estimating-and-quoting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.practicalmachinist.com/forum/threads/ai-quoting-software.441791/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/CNC/comments/w7xn22/do_any_instantquote_cnc_websites_offer_white/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cloudnc.com/quote-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/make/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/capabilities/cnc-machining-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Machinists/comments/1loyicv/any_estimator_here_what_software_do_you_use_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.practicalmachinist.com/forum/threads/using-xometry-as-a-free-quoting-software.410582/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/software/cnc-milling/how-to-quote",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cncquote.io/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/software/cnc-machining/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.247pro.com/white-label-branding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digifabster.com/products/self-checkout/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/job-shop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlccnc.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceforge.net/software/quoting/japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://bestplanner.co.jp/metal-machinery-ai-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.orixrentec.jp/rentecinsight/it/article-619",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/manufacturing/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://arumcode.com/arumcode",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperlessparts.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcl.software/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.signmaster.software/oem-white-label-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/software/cnc-milling/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newji.ai/procurement-purchasing/providing-high-precision-machined-parts-in-oem-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caddi.com/ja-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-force.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thalesgroup.com/ja/node/3461",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000024.000096214.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/ja-JP/BWCareers/job/Curing-Fabricator-and-Assembler_R023058/apply",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.plaport.co.jp/value/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talentacquisition.3ds.com/careersection/ca/jobapply.ftl?job=550096&lang=ja&src=CWS-10080",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/ja/sites/CX_1/job/9757/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000004132405",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://egghead.co.jp/blog/m46iiiuw3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emachineshop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceforge.net/software/cnc/japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/white-label-cnc-quoting-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dxfquote.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metronq.com/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label CNC quoting software 2026",
+   "results": [
+    "https://www.paperlessparts.com/processes/cnc-machining/",
+    "https://www.reddit.com/r/CNC/comments/1l37m1m/what_can_i_use_for_generating_quotes_job_shop/",
+    "https://machineresearch.com/estimating-and-quoting-software/",
+    "https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/",
+    "https://www.practicalmachinist.com/forum/threads/ai-quoting-software.441791/",
+    "https://www.cincom.com/blog/cpq/best-quoting-software/",
+    "https://www.threekit.com/blog/7-ai-quoting-tools-for-manufacturers-in-2026-ranked-by-field-quote-speed",
+    "https://www.getflexpoint.com/post/best-msp-quoting-software-2026",
+    "https://worldmetrics.org/best/cnc-quoting-software/",
+    "https://gitnux.org/best/cnc-quoting-software/"
+   ]
+  },
+  {
+   "query": "white label CNC quoting software reseller program agencies",
+   "results": [
+    "https://www.reddit.com/r/CNC/comments/w7xn22/do_any_instantquote_cnc_websites_offer_white/",
+    "https://www.paperlessparts.com/processes/cnc-machining/",
+    "https://www.cloudnc.com/quote-agent",
+    "https://spanflug.de/make/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.fictiv.com/capabilities/cnc-machining-services",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/",
+    "https://www.epowercorp.com/single-post/the-top-5-instant-cnc-quote-platforms-compared",
+    "https://buildfire.com/white-label-software-services-resell-make-money/"
+   ]
+  },
+  {
+   "query": "white label CNC quoting software free trial pricing",
+   "results": [
+    "https://machineresearch.com/estimating-and-quoting-software/",
+    "https://www.paperlessparts.com/processes/cnc-machining/",
+    "https://www.reddit.com/r/Machinists/comments/1loyicv/any_estimator_here_what_software_do_you_use_for/",
+    "https://www.cloudnc.com/quote-agent",
+    "https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops",
+    "https://www.practicalmachinist.com/forum/threads/using-xometry-as-a-free-quoting-software.410582/",
+    "https://seekmake.com/software/cnc-milling/how-to-quote",
+    "https://www.youtube.com/watch?v=oZrYTFMr7yU",
+    "https://spanflug.de/make/",
+    "https://cncquote.io/"
+   ]
+  },
+  {
+   "query": "white label CNC quoting software rebrand your logo custom domain",
+   "results": [
+    "https://seekmake.com/software/cnc-machining/white-label",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.247pro.com/white-label-branding",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "https://digifabster.com/products/self-checkout/",
+    "https://seekmake.com/white-label-cnc-quoting-software"
+   ]
+  },
+  {
+   "query": "white label CNC quoting software Japan Japanese",
+   "results": [
+    "https://www.paperlessparts.com/processes/cnc-machining/",
+    "https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/",
+    "https://seekmake.com/software/cnc-machining/white-label",
+    "https://www.reddit.com/r/CNC/comments/w7xn22/do_any_instantquote_cnc_websites_offer_white/",
+    "https://spanflug.de/make/",
+    "https://digifabster.com/products/self-checkout/",
+    "https://www.amfg.ai/job-shop",
+    "https://www.youtube.com/watch?v=8cHVyk7K3YA",
+    "https://machineresearch.com/estimating-and-quoting-software/",
+    "https://jlccnc.com/jp/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル見積AI（町工場・切削・板金） 日本",
+   "results": [
+    "https://bestplanner.co.jp/metal-machinery-ai-guide/",
+    "https://go.orixrentec.jp/rentecinsight/it/article-619",
+    "https://www.youtube.com/watch?v=cKWoAwJavzA",
+    "https://japan-ai.co.jp/manufacturing/",
+    "https://arumcode.com/arumcode",
+    "https://www.aspicjapan.org/asu/article/19330",
+    "https://caddi.com/ja-jp/",
+    "https://note.com/kagawatomo/n/ndb06a6b0c405",
+    "https://prtimes.jp/main/html/rd/p/000000024.000096214.html",
+    "https://furusato.co-nect.co.jp/2026/07/03/metal-processing-ai/"
+   ]
+  },
+  {
+   "query": "white label CNC quoting software OEM partnership",
+   "results": [
+    "https://www.reddit.com/r/CNC/comments/w7xn22/do_any_instantquote_cnc_websites_offer_white/",
+    "https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/",
+    "https://spanflug.de/make/",
+    "https://seekmake.com/software/cnc-machining/white-label",
+    "https://www.youtube.com/watch?v=8cHVyk7K3YA",
+    "https://www.paperlessparts.com/",
+    "https://www.practicalmachinist.com/forum/threads/ai-quoting-software.441791/",
+    "https://machineresearch.com/estimating-and-quoting-software/",
+    "https://www.dashnode.ai/blog/cnc-quoting-software",
+    "https://www.fcl.software/oem"
+   ]
+  },
+  {
+   "query": "white label CNC quoting software partner program pricing",
+   "results": [
+    "https://www.paperlessparts.com/processes/cnc-machining/",
+    "https://www.reddit.com/r/CNC/comments/w7xn22/do_any_instantquote_cnc_websites_offer_white/",
+    "https://spanflug.de/make/",
+    "https://www.amfg.ai/job-shop",
+    "https://seekmake.com/software/cnc-milling/how-to-quote",
+    "https://machineresearch.com/estimating-and-quoting-software/",
+    "https://www.facebook.com/groups/769782850345135/posts/1949844869005588/",
+    "https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing",
+    "https://www.youtube.com/watch?v=zkWRajqa530"
+   ]
+  },
+  {
+   "query": "ホワイトラベル見積AI（町工場・切削・板金） OEM提供",
+   "results": [
+    "https://go.orixrentec.jp/rentecinsight/it/article-619",
+    "https://newji.ai/procurement-purchasing/providing-high-precision-machined-parts-in-oem-manufacturing/",
+    "https://caddi.com/ja-jp/",
+    "https://takumi-force.jp/",
+    "https://www.thalesgroup.com/ja/node/3461",
+    "https://prtimes.jp/main/html/rd/p/000000024.000096214.html",
+    "https://www.aspicjapan.org/asu/article/19330",
+    "https://arumcode.com/arumcode",
+    "https://www.risecircle.jp/manufacture",
+    "https://furusato.co-nect.co.jp/2026/07/03/metal-processing-ai/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル見積AI（町工場・切削・板金） 代理店募集",
+   "results": [
+    "https://barrywehmiller.wd1.myworkdayjobs.com/ja-JP/BWCareers/job/Curing-Fabricator-and-Assembler_R023058/apply",
+    "https://www.plaport.co.jp/value/",
+    "https://talentacquisition.3ds.com/careersection/ca/jobapply.ftl?job=550096&lang=ja&src=CWS-10080",
+    "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/ja/sites/CX_1/job/9757/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000004132405",
+    "https://egghead.co.jp/blog/m46iiiuw3",
+    "https://horiemon.ai/school/column/seizogyo-ai-katsuyo-jirei/",
+    "https://www.kistler.com/JP/ja/sales-and-application-engineer/job/3828",
+    "https://ai-kyujin.jp/",
+    "https://careerforum.net/ja/event/bos/companylist_792/406/44453/?",
+    "https://furusato.co-nect.co.jp/2026/07/03/metal-processing-ai/"
+   ]
+  },
+  {
+   "query": "white label CNC quoting software distributor Japan",
+   "results": [
+    "https://seekmake.com/software/cnc-machining/white-label",
+    "https://www.reddit.com/r/CNC/comments/w7xn22/do_any_instantquote_cnc_websites_offer_white/",
+    "https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/",
+    "https://www.paperlessparts.com/processes/cnc-machining/",
+    "https://digifabster.com/products/self-checkout/",
+    "https://spanflug.de/make/",
+    "https://www.amfg.ai/job-shop",
+    "https://machineresearch.com/estimating-and-quoting-software/",
+    "https://www.emachineshop.com/",
+    "https://sourceforge.net/software/cnc/japan/"
+   ]
+  }
+ ],
+ "missing": {}
+}

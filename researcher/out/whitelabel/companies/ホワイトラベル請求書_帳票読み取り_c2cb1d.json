@@ -1,0 +1,1942 @@
+{
+ "name": "ホワイトラベル請求書・帳票読み取り",
+ "en": "white label OCR invoice",
+ "aliases": [
+  "white-label document processing",
+  "white label invoice OCR",
+  "white label IDP",
+  "invoice OCR",
+  "document processing",
+  "intelligent document processing",
+  "OCR API"
+ ],
+ "context": "帳票",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:00:08.206542+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Clean, modern reviewer interface",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "Docsumo focuses on financial document automation, invoices plus bank statements, remittances, and other finance paperwork, with AI extraction and a review workflow aimed at finance operations teams. For AP specifically, it captures invoice data and validates it against rules before export.",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "Review workflow suited to finance ops teams",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "What you do not get is a finished workflow: no reviewer interface for AP clerks, no approval routing, no ERP connectors out of the box. That is by design. Veryfi is a component, and the value depends on what you build around it.",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "API only; no AP workflow or reviewer UI",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "Because a data-capture system has so many moving parts, most invoice OCR pricing is volume-tiered and often quote-based rather than published, especially for AP suites and enterprise capture platforms. Developer APIs tend to be usage-based and can be more transparent. Compared with",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated: June 2026. Next review: September 2026.",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "This guide focuses on extraction. For exception review, purchase-order matching, approvals, and accounting handoff, use our",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Review and validation",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Per-field citations plus parse and extraction confidence; connect to an application-owned review workflow",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Confidence and page anchors; the customer owns the review workflow",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Confidence output and Document Intelligence Studio; the customer owns the business review workflow",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Confidence and geometry; the customer builds the review workflow",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "for page and bounding-box evidence. It is a good fit when the same platform must also process statements, contracts, claims or supporting packets. It is not a complete AP approval suite; plan the review, matching and ERP layer.",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum treats capture as part of an operational queue. Users can review uncertain fields, apply business rules and route data downstream. This matters because AP teams need exception handling, not a JSON demo. Pricing is typically tailored to volume and use case, so procurement should compare total workflow cost, not only per-page OCR.",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Google, Microsoft and AWS provide prebuilt invoice or expense models and the surrounding cloud primitives for storage, functions and queues. They are sensible when an engineering team will build validation and review. Compare supported fields, regional availability, custom-model options and the exact version used in your pilot.",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "compare Rossum and AP suites against an API-led build. Measure exception rate and reviewer minutes per invoice.",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Compare receipt OCR software and APIs for merchant details, line items, tax, totals, custom JSON schemas, and source-grounded review.",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Best Accounts Payable OCR Software: Review and ERP Fit",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Compare accounts payable OCR software for invoice intake, exception review, purchase-order matching, and ERP handoff.",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Speed up compliance reviews",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "Automate manual review",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "Best OCR for Invoices in 2026: Top AI Parsing Tools Compared",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "Validation Station for human review and retraining.",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "Field-level human review instead of full-document review.",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "Validation Station for human review and model retraining.",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperscience is built for the ugly end of the document spectrum: distorted scans, annotations, handwriting, and regulated enterprise environments where accuracy thresholds matter. Its field-level human review model is especially strong for operations that cannot afford to send entire documents into manual review.",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "Field-level human-in-the-loop review.",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "For handwritten or heavily annotated invoices, accuracy will usually drop compared with digital files, so confidence scoring and human review workflows become important. A strong production setup does not assume perfect extraction. It routes uncertain fields into validation rather than forcing a bad parse into your ERP or AP system.",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "A low extraction rate means little if your office team must build the review screen, repair line items or maintain the accounting connection.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": ": define your fields, extract supplier invoices and line items, review the results, then export or configure a handoff. This is our recommendation as the publisher, not an independent performance ranking.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Need reviewed invoice data for Excel or an existing system?",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Choose fields and a destination. Your team owns review and the handoff rules.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Choose an API contract. Your developer owns intake, review, retries and downstream behaviour.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "At the cited Oregon rate, extraction is $6 before free-tier eligibility. Review, storage and the application are separate work and cost.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Two CSVs: a reproducible 200-invoice example across all six tools, and a blank plan worksheet for your actual volume, settings, users and destination. Fill in the vendor’s current quote before purchase.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "DigiParser extracts document fields, tables and line items. Review the results, export CSV, Excel or JSON, or configure an API or automation destination. Its value is the usable extraction workflow around the invoice, rather than an isolated OCR endpoint. The",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "extraction does not establish that goods arrived, decide the GL account or authorize payment. Those controls belong to your configured AP process. Test whether the extracted line items and headers arrive in the format your reviewer and destination need. Start with",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "mailbox extraction and team review are different requirements. Confirm who can access the results, how exceptions reach that person and whether the selected plan covers the required users. Test a continued table across multiple PDF pages before sizing the page allowance.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "who maintains the rules when a supplier changes its invoice? For varied layouts, inspect the actual setup and maintenance work. For stable layouts, test whether the configured output keeps quantities, units, tax and freight in the right columns. Compare that maintenance effort with the review effort in an AI extraction workflow.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "and a review/publish path. Its separate",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "250 captured documents does not mean 250 documents with detailed line items. Budget that work separately. Test the line-level result in your accounting destination, especially if AP needs stock codes or separate freight. Ask whether the required result is a bookkeeping transaction, an invoice review dataset, or both.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "identify who will maintain the application around the API, including review, retries and the destination mapping. A structured response is an input to that work. Check how your application treats missing fields and failed requests before enabling unattended downstream actions.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "this rate pays for extraction, not a finished office review application. Your implementation must cover intake, permissions, review, retries, storage and accounting handoff. Choose it when you can name the person who will own those functions after the pilot, not merely the person who can make the first API call.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Customer reviews",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Independent reviews and customer cases",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label platform",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP providers · Invoicing and accounting software · Accounting agencies · VAN operators",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label application vs complete Peppol identity",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Qvalia holds the Peppol Service Provider role for the white-label platform. The partner owns the customer relationship, commercial offering and first- and second-line support.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label platform is a tailored service according to scope and volume capacity. Contact us for more details.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Easily review, search, and manage orders, invoices, and other business messages.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label solutions, API, advanced admin tools, and extensive support offer seamless transaction management for your end-users.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Invoice OCR Tools in 2026 - Tested and Compared | Parseur®",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Best Invoice OCR Tools in 2026 - Tested and Compared",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Invoice OCR Tools Compared",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Parseur vs Nanonets comparison",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Parseur vs Docsumo comparison",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Docsumo is geared toward developer-led teams and requires technical setup. Non-technical users may find the configuration process significantly more involved compared to no-code tools like Parseur. It is also priced at a higher tier, which can be overkill for straightforward invoice workflows.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "We were unable to complete testing. Taggun's free plan requires a credit card upfront, which is unusual compared to most competitors including Parseur.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Rossum is an AI-first invoice capture platform built around the idea that the tool should get smarter every time a human corrects it. Instead of building a template for each vendor, you let the engine read the invoice, fix what it gets wrong, and it carries those corrections forward. For AP teams onboarding hundreds of new vendors a year, that is the right architecture.",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "No-code model training on your own documents",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "Tipalti is a full accounts-payable platform, not a standalone OCR tool. Invoice capture is one step inside an end-to-end flow that also covers supplier onboarding, tax compliance, approval, and global payment execution. For finance teams whose pain is paying suppliers in many countries, that breadth is the draw.",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier onboarding and tax compliance built in",
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "pass": 3
+   },
+   {
+    "quote": "compare Rossum and AP suites against an API-led build. Measure exception rate and reviewer minutes per invoice.",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Make your first API call in minutes.",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "No-code setup.",
+    "url": "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Custom extraction schemas with no code",
+    "url": "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Slightly easier onboarding for teams customizing models on proprietary invoice sets.",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "Configuration, branding and onboarding. No development project.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "End-customer onboarding decisions",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us which services you want to offer, how the platform should be branded and which markets you serve. We will define the configuration, onboarding requirements and launch plan.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Manual invoice processing is slow, expensive, and prone to mistakes. Finance teams often spend 10 to 15 minutes entering data from a single invoice, and with hundreds of invoices arriving each month, that adds up fast.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Docsumo is geared toward developer-led teams and requires technical setup. Non-technical users may find the configuration process significantly more involved compared to no-code tools like Parseur. It is also priced at a higher tier, which can be overkill for straightforward invoice workflows.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Start free in minutes and see how Parseur fits into your workflow.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Most tools can be configured in 15 to 30 minutes. Parseur is among the fastest to deploy. Enterprise platforms like ABBYY FlexiCapture may require days or weeks of implementation due to custom workflow setup.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "This broader focus makes it useful for automating multiple document workflows, such as supplier onboarding, identity verification, and claims processing, within a single system.",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "No-Code Complete Solutions",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded - No-Code AI Experience Builder",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "Self-guided onboarding",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-channel support for onboarding, troubleshooting, and optimisation.",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Your API key is generated automatically after registration and emailed to you, typically instantly and occasionally within a few minutes. You can also find it in your",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Integration support varies by plan. Business plans and above include support through email, Slack, and Zoom. Enterprise plans add dedicated support and customisable SLAs. Developer documentation and self-guided onboarding are available on every plan.",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Real-Time Speed, Unrivaled Data. Unlock the most comprehensive receipt and invoice intelligence with an API you can deploy in minutes.",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "➔ Average processing time per document reduced from 30 minutes to just 5",
+    "url": "https://start.docuware.com/blog/document-management/invoice-ocr",
+    "pass": 3
+   },
+   {
+    "quote": "Please allow a few minutes for this process to complete.",
+    "url": "https://grooper.com/blog_posts/invoice-ocr-software/",
+    "pass": 3
+   },
+   {
+    "quote": "about 12 minutes and $9 each to resolve, on 14 to 22 percent of invoices. That queue, not the reading, is where AP time goes.",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   },
+   {
+    "quote": "But averages hide the exceptions. A failed match takes about 12 minutes and $9 of AP time to resolve, and 14 to 22 percent of invoices become exceptions. Cutting your exception rate from 35 to 20 percent on 12,000 invoices a year saves about $16,000 in labour alone.",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   },
+   {
+    "quote": "A quick way to size your own number: annual invoices times your exception rate times 12 minutes times your loaded AP hourly rate. That figure, not the per-invoice price, is usually the real prize, and the one OCR quotes never mention.",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   },
+   {
+    "quote": "No OCR tool fixes that. Raising PO coverage and tightening supplier onboarding moves your touchless rate as much as better extraction does. If non-PO spend is above 30 percent, treat it as a governance gap to close first, and aim for under 15 percent of volume before you blame the technology.",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   },
+   {
+    "quote": "About 12 minutes and roughly $9 of AP time to resolve one failed match, and 14 to 22 percent of invoices become exceptions. That queue, not the extraction, is where most of the cost and delay in AP sits.",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   },
+   {
+    "quote": "Organize resumes, onboarding forms, and personnel files for easy access and compliance.",
+    "url": "https://start.docuware.com/docuware-idp-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Without AP automation software, AP team members scan or upload invoices into traditional OCR software for digitization. AP automation with self-service supplier onboarding enables your suppliers to email invoices in PDF or other accepted formats or upload invoices through their supplier portal.",
+    "url": "https://tipalti.com/resources/learn/ocr-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "DreamHost appreciates Tipalti’s end-to-end self-service supplier onboarding, OCR/AI invoice capture for streamlined invoice processing, guided invoice approvals, and simplified",
+    "url": "https://tipalti.com/resources/learn/ocr-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "User and self-service supplier onboarding",
+    "url": "https://tipalti.com/resources/learn/ocr-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding guides that guide users on features, workflows, and setting up validation rules.",
+    "url": "https://tipalti.com/resources/learn/ocr-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Onboarding",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Patient Onboarding",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Trust Doxis with a full employee onboarding process & technical support.",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Speed your customer onboarding experience",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Technical support for flawless onboarding",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding, technical workshops, dedicated integration support, and ongoing optimisation. We stay with you as your needs grow. We don’t automate a piece of the process, we automate all of it.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Direct access to product specialists, onboarding support, and technical guidance whenever you need it.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Full-service onboarding & support",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Most ISV partners are live within days. No complex server installs, no lengthy onboarding timelines. Our team provides dedicated one-on-one integration support.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "A full-service partnership. Onboarding, technical workshops, dedicated integration support, custom features for unusual document types, and ongoing optimisation. We stay with you as your needs grow.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Setup in days, not months. 90 days, fully supported.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "A working connection in your environment, on your documents, with your approvals. No ERP schema changes. Outbound-only. Rollback in minutes.",
+    "url": "https://acom.com/invoice-ocr/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendor Onboarding",
+    "url": "https://www.archerinsights.com/products/ocr-vendor-bill-capture",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Try for free",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "pages. No credit card required.",
+    "url": "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "also offers annual billing and a seven-day trial. Standard extraction uses one credit per page; optional AI features and repeat processing add usage. The worked batch above shows why invoice count alone is not enough.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "on monthly billing. The free plan includes 20 pages a month. PDF usage counts each page. Small plans have one user; the Scale tier supports multiple users; check the current slider and team allowance for your volume. See",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Start Free Trial",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Several tools including ABBYY, Doxis (formerly Klippa), and Ocrolus have no self-serve trial and require a demo or sales call to access.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Yes (1,000-page trial)",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "AI-based extraction with no templates needed, email automation for hands-off AP workflows, built-in OCR for scanned documents, API access for connecting extracted data to your own systems, and a generous free tier with no credit card required.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Parseur uses volume-based pricing. The free plan includes 20 pages/month with all features included and no credit card required. Paid plans scale with your document volume. See",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Docsumo offers a 1,000-page free trial. Paid plans use custom pricing. Contact their sales team for a quote.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "We were unable to test ABBYY FlexiCapture directly. There is no free plan or self-serve trial. Access requires scheduling a demo.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "No free plan. Pricing is custom and requires a demo request. No public pricing is listed.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "There is no self-serve free trial. Getting access requires scheduling a product demo with their sales team, and no pricing is listed publicly.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": ", offers a transparent free tier with no credit card required, and includes more automation capabilities out of the box.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "European businesses with strict data residency requirements that need OCR-based document extraction with EU hosting. Keep in mind that the lack of a self-serve trial and opaque pricing make it difficult to evaluate before committing.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "No free plan. Pricing is custom and requires contacting their sales team.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "We were unable to complete testing. Taggun's free plan requires a credit card upfront, which is unusual compared to most competitors including Parseur.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "A free plan is available but requires a credit card. Paid plans start at $4/month. Enterprise pricing is custom.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "No free plan. Custom pricing only. Contact their sales team for access.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "(all features available, no credit card required).",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Start Your Free 30-Day Trial Now",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "Does BillBjorn offer a free trial?",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, BillBjorn offers a free trial so you can test its invoice scanning and OCR capabilities before committing. It’s a great way to see the value first-hand with no upfront cost.",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "Start your free 30-day BillBjorn trial today",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "A two-month free trial allows the scanning of 200 pages per month before investing.",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Free 14-day trial, no credit card required.",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "— 14-day free trial, or speak to a",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "Free 14-day trial,",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "no credit card required.",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "A 30-day free trial with up to 1,000 scans to test the API before committing to a paid subscription.",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Taggun processes receipts and invoices from every country and reads 205 languages. Core extraction works worldwide, while country-specific fields and regional optimisations vary. We recommend testing your own documents during the free trial. For questions about a particular country or format,",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "How does the 30-day free trial work?",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Developer, Startup, Business, and Advanced plans include a 30-day free trial with up to 1,000 scans and access to the features included in the selected plan. Controls that are present for the account can be enabled in Feature Settings. Some account capabilities may require account configuration or support.",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "to test your own receipts and review the endpoint-specific verbose extraction response for the features available on that account. Unless you cancel during the trial, your account continues on the selected plan and billing begins at its standard monthly rate.",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up now for a 30 day free trial.",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://acom.com/invoice-ocr/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White-label upload portals",
+    "url": "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Peppol and e-invoicing platform for partners | Qvalia",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label e-invoicing",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Our platform under your brand and domain",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label platform",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label e-invoicing platform for partners",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Launch a complete Peppol platform under your brand, domain and pricing. The application is modular and covers accounts payable, accounts receivable, orders and analytics, without a product development project.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, our platform",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Your customers use the platform under your brand. Qvalia operates the application, the Access Point and the SMP, and ships platform releases and new functionality.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label is a configured version of Qvalia’s application. It does not require a separate development project.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label application vs complete Peppol identity",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "On this model, white-label refers to the application and customer-facing brand. Qvalia remains the Peppol Service Provider, and messages use Qvalia’s Access Point certificate. Hosted Access Point is the model for partners that need their own Service Provider identity and PKI certificate.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, domain and visual identity in the application",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Qvalia holds the Peppol Service Provider role for the white-label platform. The partner owns the customer relationship, commercial offering and first- and second-line support.",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "What is white-label in this model?",
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Day-one-ready white-label AI tools that make you the hero your customers have been waiting for.",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I white-label Taggun and use one licence for multiple clients?",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Taggun can run behind your own brand, and our standard licence supports use across multiple clients under one account. Use",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "to attribute usage to clients or other subdivisions for reporting; all usage remains under the main Taggun account, and it does not create a separate subscription or billing account. For enterprise white-labelling or more complex sub-account structures,",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "IDP White Label",
+    "url": "https://start.docuware.com/blog/document-management/invoice-ocr",
+    "pass": 3
+   },
+   {
+    "quote": "DocuWare IDP White Label",
+    "url": "https://start.docuware.com/docuware-idp-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "IDP White Label",
+    "url": "https://start.docuware.com/docuware-idp-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Empower your brand with DocuWare IDP White Label",
+    "url": "https://start.docuware.com/docuware-idp-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Offer state-of-the-art document automation with DocuWare IDP's White Label AI Document Automation Suite.",
+    "url": "https://start.docuware.com/docuware-idp-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Leverage our White Label AI Document Automation Suite to provide your clients with unparalleled data extraction and document automation, branded as your own.",
+    "url": "https://start.docuware.com/docuware-idp-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "DocuWare IDP White Label integrates seamlessly with your solutions, enhancing your product portfolio and business growth.",
+    "url": "https://start.docuware.com/docuware-idp-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Document AI",
+    "url": "https://start.docuware.com/docuware-idp-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "What you get with DocuWare IDP White Label",
+    "url": "https://start.docuware.com/docuware-idp-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "OCRの受託開発・OEM・API提供｜ドキュメントフォース",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OCRのOEM・API提供",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "完全カスタマイズOEM・API連携・OEMから選べます",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "ドキュメントフォースOEMで解決します",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "完全カスタマイズOEM",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベルで、貴社のサービスとして提供",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM・完全カスタマイズOEMでのAPIの範囲は、案件ごとにご案内します",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "完全カスタマイズOEMやOEMとAPI連携を組み合わせたい",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "ドキュメントフォースの既存基盤を、ホワイトラベルで提供します",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベルで提供します",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMするメリット",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "実績のある仕組みを、OEMで貴社のサービスに活用できます",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "対象の書類と、読み取ったあとに実現したいことを分かる範囲で共有いただければ、API連携・OEM・完全カスタマイズOEMのどれを主軸にするか、組み合わせが必要かを一緒に整理します",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "自社ブランドの",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベルで提供しており、サービス名などのラベルを貴社のものに変えてご提供できます",
+    "url": "https://documentforce.ai/lp-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Expense Management Software & App - Doxis",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Brand, Our Spend Management Software.",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Launch your White Label solution for a unique",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Doxis can build any custom features for your White Label on request. This does influence the time to market and pricing of our solutions.",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The time to market depends on the amount of custom work that needs to be done. Without major fine-tuning, a White Label solution can be delivered within 2 months after signing the contract. The period can move upwards to 6 months if many custom adjustments are required.",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Our infrastructure is build on Kubernetes and docker to ensure scalability and easy deployment. You can run your White Label on our Microsoft Azure servers, in a private cloud or even on premise. Server locations can also be customized on demand. By default our White Labels run on our Microsoft Azure cloud in Amsterdam.",
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Document Intelligence, Built to Scale",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "WHITE LABEL READY",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Xtracta gives software platforms enterprise-grade document intelligence automation without the complexity of building and maintaining it themselves. Xtracta’s AI Data Engine doesn’t bolt onto your software. It disappears and scales inside it. Your customers see your product. Your brand. Your experience.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label. Your brand, your UX",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Your logos, your URLs, your branding. Xtracta sits as a background service. Your customers never know it’s there",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "For dealerships, manual “eyes-on” invoice processing was a costly drain and a fraud risk. Auto IT embedded Xtracta into its EnableAP platform as a white-label engine that self-learns each invoice format. Major groups now process 9,000+ invoices a month, and Auto IT onboards two to three new customers monthly.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label / embeddable",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Through an API-first, low-code toolkit that includes an image capture SDK, mobile app support, and full documentation. The platform is fully white-label. Your customers interact with your interface. Xtracta powers the intelligence in the background.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Free (25 credits/month), Starter ($99/month for 500 credits), Growth ($499/month for 3,000 credits); one credit covers up to five pages",
+    "url": "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Focuses on receipts and invoices with strong QuickBooks and Xero integrations. Plans start around $24/month.",
+    "url": "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon document extraction service. Powerful but requires developer setup. $0.0015/page basic, $0.05-$0.10/page specialized.",
+    "url": "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-based document processing with pre-trained invoice parsers. $0.001/page for general processing.",
+    "url": "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Standalone tools become valuable when you process 50+ invoices per month, have many different supplier formats, need custom field extraction, or process other document types too.",
+    "url": "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing and capability checks: 23 October 2026.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "$69/month",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "$49/month",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "$39/month",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "$302.50/year",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "250 documents/month",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "$500/month minimum",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "$0.16/invoice",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "$0.01/page",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starter’s 500 is short by 100. Pro includes 2,000 at $199/month; price the required settings too.",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Processing invoices manually costs businesses an average of $15 to $40 per invoice",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": ", accounting for labor, validation time, and the cost of fixing errors. At 500 invoices per month, that is $7,500 or more spent on repetitive data entry alone. According to",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": ", manual approval cycles typically take 8 to 14 days per invoice, and human error rates sit between 1.6% and 4%, with each correction costing up to $53.",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Yes (20 pages/month)",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "$200 in free credits",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "From $4/month",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "From $500/month",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Yes (300 docs/month)",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Parseur uses volume-based pricing. The free plan includes 20 pages/month with all features included and no credit card required. Paid plans scale with your document volume. See",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "BillBjorn offers fast, accurate invoice OCR at just $65/month for 2,500 documents — less than ⅓ the price of Dext or AutoEntry. Perfect for small businesses that just want clean, simple results.",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "$65/month",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "$0.026",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "$332.50/month",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "~$0.133",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "$450/month",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": ": Prices are approximate in USD as of mid-2025 and vary by region or bundle. Some platforms like Xero include basic OCR tools, but they’re limited in functionality.",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "$5/month for 50 documents",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "$50/month (annually) for 2,500 documents",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "BillBjorn is one of the most affordable options, offering powerful invoice OCR at just US$65/month for 2,500 documents when billed annually — much cheaper than Dext or AutoEntry.",
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "pass": 3
+   },
+   {
+    "quote": "$99/month",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "$18k/year",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "$32.50/month",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "$99–$199/month, or custom pricing for a higher-tier Elevate plan. All plans include unlimited users.",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Tiered pricing starts at $18,000 per year.",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "A two-month free trial allows the scanning of 200 pages per month before investing.",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": ". Baggage and total inflated by $100.00.",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "Extra bag $89 → $189",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "\"attribution\": \"Pixel manipulation and stripped EXIF/XMP. Extra bag inflated $89 to $189.\"",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "\"2YD FL/MONTH-MSW\"",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "STOP the $12.5 billion fraud epidemic from devastating your AP operations",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "Price is the unit price for the line. On the first Whole Foods row the extended total is also 1.89 because quantity is 1.",
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "pass": 3
+   },
+   {
+    "quote": "Includes 500 scans/month",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Includes 1,800 scans/month",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Includes 8,000 scans/month",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Includes 20,000 scans/month",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$0.056",
+    "url": "https://www.taggun.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "save up to $160M",
+    "url": "https://start.docuware.com/blog/document-management/invoice-ocr",
+    "pass": 3
+   },
+   {
+    "quote": "caught a math error in the invoice. The invoice said that 6.3 hours worked times $40 per hour equaled $260.00. So the OCR and math validation by the software is correct.",
+    "url": "https://grooper.com/blog_posts/invoice-ocr-software/",
+    "pass": 3
+   },
+   {
+    "quote": "allow users to query invoice data in plain English (e.g., “Find all invoices where the total exceeds $1,000”) using",
+    "url": "https://grooper.com/blog_posts/invoice-ocr-software/",
+    "pass": 3
+   },
+   {
+    "quote": "about 12 minutes and $9 each to resolve, on 14 to 22 percent of invoices. That queue, not the reading, is where AP time goes.",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   },
+   {
+    "quote": "Processing an invoice by hand costs about $9 to $11 all in. Best-in-class automated teams do it for around $2.78, and the top quartile for under $2.10 (",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   },
+   {
+    "quote": ", APQC). At 100,000 invoices a year, that gap is roughly $800,000.",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   },
+   {
+    "quote": "But averages hide the exceptions. A failed match takes about 12 minutes and $9 of AP time to resolve, and 14 to 22 percent of invoices become exceptions. Cutting your exception rate from 35 to 20 percent on 12,000 invoices a year saves about $16,000 in labour alone.",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   },
+   {
+    "quote": "A quick way to size your own number: annual invoices times your exception rate times 12 minutes times your loaded AP hourly rate. That figure, not the per-invoice price, is usually the real prize, and the one OCR quotes never mention.",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   },
+   {
+    "quote": "About 12 minutes and roughly $9 of AP time to resolve one failed match, and 14 to 22 percent of invoices become exceptions. That queue, not the extraction, is where most of the cost and delay in AP sits.",
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Can invoice OCR handle scanned, handwritten, multilingual, or low-quality invoices?",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "For multilingual invoices, look for support beyond basic character recognition. You may need:",
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "pass": 3
+   },
+   {
+    "quote": "Document Understanding - InvoicesJapan (請求書 - 日本) - ML パッケージ",
+    "url": "https://docs.uipath.com/ja/document-understanding/automation-cloud/latest/classic-user-guide/invoices-japan-ml-package",
+    "pass": 3
+   },
+   {
+    "quote": "InvoicesJapan (請求書 - 日本) - ML パッケージ",
+    "url": "https://docs.uipath.com/ja/document-understanding/automation-cloud/latest/classic-user-guide/invoices-japan-ml-package",
+    "pass": 3
+   },
+   {
+    "quote": "Invoices Japan (請求書 - 日本) ML パッケージは、日本の請求書から主要なデータ ポイントを抽出し、商業販売ドキュメントの製品、数量、価格情報を網羅します",
+    "url": "https://docs.uipath.com/ja/document-understanding/automation-cloud/latest/classic-user-guide/invoices-japan-ml-package",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Affiliate Program",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliates & Influencers",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Ad Tech/Affiliate/Influencer Network",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": ". We will store your data for as long as you want to receive promotional information from us. We may share your data with third-party service providers that help us with our sales and marketing efforts, and with providing of our own services. We may also share your data with Tipalti subsidiaries and affiliated companies. Tipalti’s Data Protection Officer can be contacted at privacy@tipalti.com.",
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Valued Added Resellers",
+    "url": "https://www.avidxchange.com/glossary/ocr-invoice-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliates & Influencers",
+    "url": "https://tipalti.com/resources/learn/ocr-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing platforms for efficient communication across teams, affiliates, and external partners (e.g., Slack or HitPath).",
+    "url": "https://tipalti.com/resources/learn/ocr-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Ad Tech/Affiliate/Influencer Network",
+    "url": "https://tipalti.com/resources/learn/ocr-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": ". We will store your data for as long as you want to receive promotional information from us. We may share your data with third-party service providers that help us with our sales and marketing efforts, and with providing of our own services. We may also share your data with Tipalti subsidiaries and affiliated companies. Tipalti’s Data Protection Officer can be contacted at privacy@tipalti.com.",
+    "url": "https://tipalti.com/resources/learn/ocr-invoice-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners / Resellers",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale per-document pricing. Every invoice, form, or application your customers process generates recurring platform revenue. You control the margin.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale pricing gives you complete control over packaging, margins, and monetisation.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Access co-marketing, referrals, marketplace opportunities, and a team invested in your success.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale per-document pricing. You control how you monetise document capture within your product: charge per document, bundle it as a premium feature, or include it as standard.",
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Best Invoice OCR Software for Accounts Payable in 2026 — Best Invoice OCR Software for Accounts Payable in 2026 Reducto https://reducto.ai > guides > best-invo...",
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best Invoice OCR Tools for Manufacturers ( 2026 ) - DigiParser — 6 Best Invoice OCR Tools for Manufacturers ( 2026 ) - DigiParser DigiParser https://www.digiparser.com > blog",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Best Invoice OCR Software for Workday Users in 2026 — Best Invoice OCR Software for Workday Users in 2026 Factura.ai https://factura.ai > invoice-ocr-softwa...",
+    "url": "https://factura.ai/invoice-ocr-software-workday-users/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Invoice OCR Tools in 2026 - Tested and Compared — Best Invoice OCR Tools in 2026 - Tested and Compared Parseur https://parseur.com > Compare to",
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best Invoice OCR Tools for Manufacturers (2026) - DigiParser — 6 Best Invoice OCR Tools for Manufacturers (2026) - DigiParser DigiParser https://www.digiparser.com > blog",
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "pass": 3
+   },
+   {
+    "quote": "Invoice OCR Software: How It Works & What to Look For in 2026 — Invoice OCR Software: How It Works & What to Look For in 2026 Grooper https://grooper.com > blog_posts > in...",
+    "url": "https://grooper.com/blog_posts/invoice-ocr-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Invoice OCR Software : How It Works & What to Look For in 2026 — Invoice OCR Software : How It Works & What to Look For in 2026 Grooper https://grooper.com > blog_posts > in...",
+    "url": "https://grooper.com/blog_posts/invoice-ocr-software/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/guides/best-invoice-ocr-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qvalia.com/partner/white-label-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/invoice-ocr-api/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taggun.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.didit.me/console/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://twominutereports.com/blog/white-label-marketing-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spaceinvoices.com/blog/understanding-white-labeled-invoicing-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resource.payrix.com/docs/white-label-and-customized-branding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usecollect.com/blog/white-label-branding-for-client-portals-best-practices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bcaqi.com/solutions/japanese-invoice-ocr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.coupa.com/en-US/apps/446528/remota-invoice-automation-for-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.uipath.com/ja/document-understanding/automation-cloud/latest/classic-user-guide/invoices-japan-ml-package",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/n8n/comments/1lm0y5y/i_built_a_2kmonth_automation_system_for_japanese/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.abbyy.com/marketplace/assets/host/abbyy/document-skill/invoice-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nskint.co.jp/business/package/ocr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/case/1909_ricoh-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wingarc.com/chohyo-navi/ocr-invoice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.panasonic.com/jp/business/its/wisocr/download-top-bdr.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jinbay.co.jp/download/genocr-usecase-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://start.docuware.com/blog/document-management/invoice-ocr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grooper.com/blog_posts/invoice-ocr-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medius.com/blog/how-ai-is-enhancing-ocr-to-enable-touchless-invoice-processing-at-scale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.avidxchange.com/glossary/ocr-invoice-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invoicemyclients.com/business-types/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.backbase.com/blog/white-label-invoicing-software-for-banks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://start.docuware.com/docuware-idp-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudmore.com/content-hub/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bill.com/learning/ocr-invoice-processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://documentforce.ai/lp-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmocheki.com/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digipath.jp/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synck.com/service/webapp-oem/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sofpla.jp/partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bakuraku.jp/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jinbay.co.jp/download",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizresearch.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tipalti.com/resources/learn/ocr-invoice-processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.klippa.com/en/white-label-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acom.com/invoice-ocr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.archerinsights.com/products/ocr-vendor-bill-capture",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label OCR invoice 2026",
+   "results": [
+    "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn",
+    "https://reducto.ai/guides/best-invoice-ocr-software",
+    "https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026",
+    "https://www.llamaindex.ai/insights/best-ocr-for-invoices",
+    "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "https://factura.ai/invoice-ocr-software-workday-users/",
+    "https://news.marketersmedia.com/new-2026-study-on-the-best-invoice-ocr-software-published-by-whitmore-research/89180559",
+    "https://www.youtube.com/watch?v=JzJSm3E7kI4&vl=ja",
+    "https://precoro.com/blog/best-invoice-ocr-software-for-invoice-processing",
+    "https://www.inboxledger.app/blog/best-invoice-ocr-software"
+   ]
+  },
+  {
+   "query": "white label OCR invoice reseller program agencies",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://qvalia.com/partner/white-label-platform/",
+    "https://sellful.com/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://insighto.ai/blog/white-label-reseller-programs/"
+   ]
+  },
+  {
+   "query": "white label OCR invoice free trial pricing",
+   "results": [
+    "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "https://www.digiparser.com/blog/best-invoice-ocr-software",
+    "https://www.billbjorn.com/blog/best-value-invoice-scanning/",
+    "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "https://www.veryfi.com/invoice-ocr-api/",
+    "https://www.taggun.io/pricing",
+    "https://www.youtube.com/watch?v=JzJSm3E7kI4&vl=ja",
+    "https://parsli.co/blog/best-invoice-ocr-software",
+    "https://tailride.so/blog/best-invoice-ocr-software-solutions",
+    "https://www.thegeeksclub.com/platforms/nanonets-invoice-ocr/"
+   ]
+  },
+  {
+   "query": "white label OCR invoice rebrand your logo custom domain",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://docs.didit.me/console/white-label",
+    "https://twominutereports.com/blog/white-label-marketing-tools",
+    "https://spaceinvoices.com/blog/understanding-white-labeled-invoicing-services/",
+    "https://resource.payrix.com/docs/white-label-and-customized-branding",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.usecollect.com/blog/white-label-branding-for-client-portals-best-practices/",
+    "https://appinstitute.com/best-practices-for-custom-branding-in-white-label-platforms/",
+    "https://colorinvoice.com/",
+    "https://www.mooninvoice.com/white-label-invoice-software"
+   ]
+  },
+  {
+   "query": "white label OCR invoice Japan Japanese",
+   "results": [
+    "https://bcaqi.com/solutions/japanese-invoice-ocr/",
+    "https://marketplace.coupa.com/en-US/apps/446528/remota-invoice-automation-for-japan",
+    "https://docs.uipath.com/document-understanding/automation-cloud/latest/classic-user-guide/invoices-japan-ml-package",
+    "https://www.reddit.com/r/n8n/comments/1lm0y5y/i_built_a_2kmonth_automation_system_for_japanese/",
+    "https://www.abbyy.com/marketplace/assets/host/abbyy/document-skill/invoice-jp/",
+    "https://invoicedataextraction.com/blog/how-to-read-japanese-invoices",
+    "https://www.linkedin.com/posts/sabari-nathan-653a8735_ai-machinelearning-ocr-activity-7357223334939381760-hamp",
+    "https://www.techrxiv.org/doi/10.36227/techrxiv.175616889.90325672",
+    "https://www.klippa.com/en/ocr/financial-documents/invoices/",
+    "https://x402lens.com/services/japan-invoice-ocr-api-jpverify-com"
+   ]
+  },
+  {
+   "query": "ホワイトラベル請求書・帳票読み取り 日本",
+   "results": [
+    "https://www.nskint.co.jp/business/package/ocr/",
+    "https://www.ricoh.co.jp/case/1909_ricoh-japan",
+    "https://www.wingarc.com/chohyo-navi/ocr-invoice.html",
+    "https://www.panasonic.com/jp/business/its/wisocr/download-top-bdr.html",
+    "https://jinbay.co.jp/download/genocr-usecase-guide",
+    "https://parseur.com/ja/hikaku/besuto-seikyusho-ocr-tsuuru",
+    "https://chiba-ai.m-ri.co.jp/blog/ai-ocr-invoice-automation.html",
+    "https://www.smartocr.jp/usecase/invoice.html",
+    "https://journal.bizocean.jp/corp02/b04/7448/",
+    "https://www.tisi.jp/service_solution/paperoid/paper_reader/"
+   ]
+  },
+  {
+   "query": "white label OCR invoice OEM partnership",
+   "results": [
+    "https://qvalia.com/partner/white-label-platform/",
+    "https://start.docuware.com/blog/document-management/invoice-ocr",
+    "https://grooper.com/blog_posts/invoice-ocr-software/",
+    "https://www.mindsprint.com/resources/blogs/ocr-invoice-processing",
+    "https://www.medius.com/blog/how-ai-is-enhancing-ocr-to-enable-touchless-invoice-processing-at-scale/",
+    "https://www.avidxchange.com/glossary/ocr-invoice-software/",
+    "https://blog.box.com/what-ocr-invoice-processing",
+    "https://precoro.com/blog/best-invoice-ocr-software-for-invoice-processing",
+    "https://www.klippa.com/en/ocr/financial-documents/invoices/",
+    "https://start.docuware.com/docuware-idp-white-label"
+   ]
+  },
+  {
+   "query": "white label OCR invoice partner program pricing",
+   "results": [
+    "https://www.invoicemyclients.com/business-types/white-label",
+    "https://www.backbase.com/blog/white-label-invoicing-software-for-banks",
+    "https://start.docuware.com/docuware-idp-white-label",
+    "https://cloudmore.com/content-hub/white-label-software",
+    "https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/",
+    "https://grooper.com/blog_posts/invoice-ocr-software/",
+    "https://reducto.ai/guides/best-invoice-ocr-software",
+    "https://www.bill.com/learning/ocr-invoice-processing",
+    "https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vJBAhAl1ODH7I7ksI6CxO-tuAk9ns4qjVbZiCchPnBUyFauaeGV",
+    "https://www.invoiceocr.co/pricing-guide"
+   ]
+  },
+  {
+   "query": "ホワイトラベル請求書・帳票読み取り OEM提供",
+   "results": [
+    "https://documentforce.ai/lp-oem/",
+    "https://llmocheki.com/whitelabel",
+    "https://www.digipath.jp/oem/",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://www.synck.com/service/webapp-oem/index.html",
+    "https://otsumu.co.jp/knowledge/glossary/terms/white-label.html",
+    "https://www.yamada-seiyaku.com/blog/030",
+    "https://jinbay.co.jp/download/genocr-usecase-guide",
+    "https://www.soap-oem.com/how-to-choose/whitelabel.html",
+    "https://aipicks.jp/glossary/white-label-ai"
+   ]
+  },
+  {
+   "query": "ホワイトラベル請求書・帳票読み取り 代理店募集",
+   "results": [
+    "https://www.sofpla.jp/partner.html",
+    "https://bakuraku.jp/partner/",
+    "https://b-seeds.com/",
+    "https://jinbay.co.jp/download",
+    "https://bizresearch.net/",
+    "https://paid.jp/v/contents/pre/partner/",
+    "https://dairitenboshu.com/",
+    "https://invox.jp/partner",
+    "https://dairiten-cloud.jp/for-business",
+    "https://dairiten-navi.jp/?p=623"
+   ]
+  },
+  {
+   "query": "white label OCR invoice distributor Japan",
+   "results": [
+    "https://marketplace.coupa.com/en-US/apps/446528/remota-invoice-automation-for-japan",
+    "https://bcaqi.com/solutions/japanese-invoice-ocr/",
+    "https://tipalti.com/resources/learn/ocr-invoice-processing/",
+    "https://www.klippa.com/en/white-label-software/",
+    "https://xtracta.com/embed-xtracta-isv-partnering/",
+    "https://acom.com/invoice-ocr/",
+    "https://parseur.com/compare-to/best-invoice-ocr-tools",
+    "https://www.archerinsights.com/products/ocr-vendor-bill-capture",
+    "https://payhawk.com/blog/optimising-invoice-processing-with-ocr-technology",
+    "https://www.ricoh.co.jp/special/ricoh-invoice-received-service"
+   ]
+  }
+ ],
+ "missing": {}
+}

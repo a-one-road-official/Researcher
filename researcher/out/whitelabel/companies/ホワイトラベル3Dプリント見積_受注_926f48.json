@@ -1,0 +1,835 @@
+{
+ "name": "ホワイトラベル3Dプリント見積・受注",
+ "en": "white label 3D printing quoting",
+ "aliases": [
+  "white-label 3D print instant quote",
+  "3D printing order management",
+  "3D print quoting",
+  "instant quote",
+  "3Dプリント 見積"
+ ],
+ "context": "製造業・AM受注",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:07:16.407190+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Simply put, this means that if you require high precision and in-depth DFM support, LS Manufacturing is the preferred choice; however, for simple rapid prototypes, platforms like Protolabs offer a distinct speed advantage.",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "How Does Jabil Manage High Volume Scalability Compared To Alternative 3D Printing Companies?",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "3. What critical design flaws are evaluated during LS Manufacturing's complimentary DFM review for 3D printing services?",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "of inquiry to audit high-risk design factors. This review critically assesses un-removable internal supports, insufficient wall thicknesses under",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Click “Get Free DFM Review & Real-time Quote” to upload your CAD/STEP files.",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "CNC Machining VS. 3D Printing Service For Plastic Parts: Why Traditional Prototypes Fail In Stress Tests",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing VS. Injection Molding Service For Enclosure Prototyping: How To Choose?",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-Color FDM VS. PolyJet 3D Printing Service: How To Cut Prototyping Costs By 30%",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "FDM VS. FFF 3D Printing Service Cost & Quality: How To Choose For Industrial Prototyping?",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング vs CNCサービス：適切な製造方法を選ぶ方法",
+    "url": "https://jlc3dp.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how industrial FDM delivers better performance, consistency, and real-world production results compared to desktop FFF printers.",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   },
+   {
+    "quote": "Next review: within 41 days",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Agents extract product evidence with provenance, then collect written reviews and transcribe video reviews and podcasts.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Read full review",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Jump to Review",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Deep nesting and batch optimization controls are limited compared to dedicated tooling",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Batch nesting options are limited compared with quoting tools built for planners",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Use the comparison table and detailed reviews above to validate the fit against your own requirements before committing to a tool.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster generates instant quotes from STL or CAD uploads and ties estimates to build parameters for material usage and time drivers. The tradeoff is limited visibility into optimization steps behind the estimate compared with CASTOR and GrabCAD Shop.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Different teams need different quote behaviors: repeatability, validation, or handoff structure. These tools map to distinct operational patterns across quoting teams, distributed manufacturing operations, and print service providers that must reduce translation work between sales and shop floor.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs Network standardizes quote routing, but its batch nesting options are limited compared with planner-oriented quoting suites. Xometry also has limited batch nesting and shop-floor planning controls versus tools built for quoting workflows.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Paperless Parts stores quote records driven by configurable pricing rules and print-parameter fields. It turns STL-centric inputs plus captured manufacturing decisions into customer-facing quote outputs with admin review and revision controls for accuracy.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Tools reviewed",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Referenced in the comparison table and product reviews above.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Software Alternatives",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "software alternatives",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "PLA is a cost-effective, biodegradable thermoplastic that offers high stiffness, good surface detail, and fast production times. It is ideal for low-cost, non-functional prototyping and design validation. Compared to ABS, PLA produces finer details but is more brittle and not suitable for high-temperature applications.",
+    "url": "https://www.protolabs.com/services/3d-printing/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Why Do Medical Device OEMs Prefer Fictiv For High-Consequence Precision 3D Printing Services?",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "These companies make parts that require no margin for error at all,",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Reseller",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   },
+   {
+    "quote": "I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates",
+    "url": "https://www.protolabs.com/services/3d-printing/",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Industrial Automation",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Equipment",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "industrial 3D printing",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Can Hubs Deliver Tight Tolerances For Industrial Applications As A 3D Printing Service Partner?",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "precise industrial components",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "thousands of industrial HP MJF and metal printers",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026’s high-end industrial manufacturing, choosing a 3D printing supplier goes beyond comparing online quotes.",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "FDM VS. FFF 3D Printing Service Cost & Quality: How To Choose For Industrial Prototyping?",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial 3D Printing Service for Prototype and Production Parts.",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   },
+   {
+    "quote": "Secure, certified U.S.-based facilities producing end-use parts for industrial applications.",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial-Grade Equipment",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   },
+   {
+    "quote": "We manufacture production-grade plastic components and anatomical models using industrial additive manufacturing and validated processes.",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   },
+   {
+    "quote": "With an in-house fleet of 200+ industrial-grade printers and access to 50+ engineering-grade materials, we excel at high-requirement projects for clients in aerospace, automotive, and healthcare, ensuring precision and reliability in meeting high-requirement project demands.",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how industrial FDM delivers better performance, consistency, and real-world production results compared to desktop FFF printers.",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG automates quoting, order processing, and production management for industrial additive manufacturing.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Equipment",
+    "url": "https://www.protolabs.com/services/3d-printing/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "for price and choose RapidDirect and 3ERP, while for enterprise integration, select Jabil.",
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "pass": 3
+   },
+   {
+    "quote": "製造価格 $0.30",
+    "url": "https://jlc3dp.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "製造価格 $1.00",
+    "url": "https://jlc3dp.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "製造価格 $8.00",
+    "url": "https://jlc3dp.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "製造価格 $5.00",
+    "url": "https://jlc3dp.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "製造価格 $0.10",
+    "url": "https://jlc3dp.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "製造価格 $2.00",
+    "url": "https://jlc3dp.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "価格は$0.30から",
+    "url": "https://jlc3dp.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Upload your design, customize your options, and get instant pricing for fast, precise manufacturing. Enjoy FREE shipping on all orders plus 30% off your first RapidQuotes® order with code NEW30.",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 ranking of 3d printing quoting software with workflow, pricing, and quote comparisons, including CASTOR, GrabCAD Shop, and Treatstock.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing marketplace with instant pricing and quote generation for custom parts.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Paperless Parts is a 3D printing quoting and order-document workflow tool that focuses on turning CAD and production context into customer-facing quote outputs. It supports automated quote generation driven by configurable pricing rules and print-parameter fields, with quoting tied to the company’s build process and typical shop practices.",
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Any recommendations for instant quote software for 3D ... — Any recommendations for instant quote software for 3D ... Reddit https://www.reddit.com > qfwr15 > a...",
+    "url": "https://www.reddit.com/r/3Dprinting/comments/qfwr15/any_recommendations_for_instant_quote_software/",
+    "pass": 3
+   },
+   {
+    "quote": "Would you use an instant quote tool for 3D print business? — Would you use an instant quote tool for 3D print business? Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/3DPrintFarms/comments/1ma0hru/would_you_use_an_instant_quote_tool_for_3d_print/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Demand 3D Printing | Instant Quote - Stratasys Direct — On-Demand 3D Printing | Instant Quote - Stratasys Direct Stratasys https://www.stratasys.com > stratasysd...",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "さらに、PCBとステンシル製品の注文を簡単にまとめてお支払いいただくこともでき、設計から製造までのプロセスをより円滑に進められます",
+    "url": "https://jlc3dp.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "また、数あるサービスの中でも、3Dプリント注文をできるだけ簡単に完結させたい方には『",
+    "url": "https://3day-printer.com/media/column/3d-printing-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズされた部品、カスタマイズされたコンポーネント、および一点限りの製品を簡単に製造できます",
+    "url": "https://www.unionfab.com/ja/services/3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "以下に、部品の機能、材料、生産ニーズに基づいて最適な3Dプリンティングプロセスを選択するための簡単な概要を示します",
+    "url": "https://www.rapiddirect.com/ja/services/3d-printing/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "7.日本積層造形株式会社/JAMPT（ジャンプ）",
+    "url": "https://3day-printer.com/media/column/3d-printing-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社",
+    "url": "https://3day-printer.com/media/column/3d-printing-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社（JAMPT）が提供する",
+    "url": "https://3day-printer.com/media/column/3d-printing-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "ソニーやNTT西日本、早稲田大学などへの導入実績もあり、法人・研究機関から個人まで幅広く利用されています",
+    "url": "https://3day-printer.com/media/column/3d-printing-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (日本)",
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://simplyprint.io/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/software/3d-printing/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3dprinter/comments/1uug0rm/best_3d_printer_to_get_in_2026_price_reliability/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://layers.app/blog/3d-printing-quoting-software-2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/software/metal-3d-printing/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultimate3dprintingstore.com/pages/reseller-program?srsltid=AYCX9vLaM32gDuq6S4JigPawC2C1zOklo6iGs9QztHrOZbiSsEiVc5sh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/qfwr15/any_recommendations_for_instant_quote_software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.foamcoreprint.com/page/reseller-program?srsltid=AYCX9vIS0Env8Ovb9L4AtQ-U8XBbrHSacgBRW5ycIXxNG2ChHyXjvHie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/software/fdm-3d-printing/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1jirp1k/i_made_an_app_for_automated_price_quoting/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://whitelabel3dprinting.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://all3dp.com/2/best-cheap-3d-printing-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d4makers.com/pages/private-label-3d-printing-filament?srsltid=AYCX9vLI2-hNhywgqsUC-Od3Lhzwee5EsopKjH0lX_EKSre57W3HzmW8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://printago.io/solutions/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalpolo.com/white-label-graphic-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://captur3d.io/features/sales-marketing-tools/white-label-domains-subdomains",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.prusa3d.com/a-journey-through-craftsmanship-and-design-led-by-open-source-3d-printers_104681/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/japanlife/comments/vuws1a/3d_printing_in_japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make.dmm.com/print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/service7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3day-printer.com/media/column/3d-printing-quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ifun3d.com/focus/oem-private-label-dental-3d-printer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3DPrintFarms/comments/1ma0hru/would_you_use_an_instant_quote_tool_for_3d_print/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rapidmade.com/choosing-a-3d-printing-partner-for-production-parts/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ultimaker.com/ja/learn/applications-of-3d-printing-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinting.com/news/autoquote3d-launches-full-platform-to-streamline-3d-printing-quoting-and-order-management/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conquestgraphics.com/about-us/resellers-brokers?srsltid=AYCX9vIqmWvJWIsb-zgkkbH-imDgda6wLsPUmMeZLmpZRSQQA_Pl5N1P",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gitnux.org/best/3d-printing-quoting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g2.com/products/whitelabel-partner/pricing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.materialise.com/ja/industrial/software/partnerships/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3day-printer.com/media/product-service/3d-printer-order/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.co.jp/quote-and-purchase/get-a-quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unionfab.com/ja/services/3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/services/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3day-printer.com/guide/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancers.jp/work/search/design/3d_printing?srsltid=AYCX9vIJ2TZZnbDEdFVlnmHMxI4uMIjSAhKi7ZOcWgMAYaokQ7PjL4mj",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://formlabs.com/jp/company/partners/become-a-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.be-full.jp/column/3d-printer-vendor-10/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printout.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1tvnw5j/is_anyone_trackinggathering_data_on_filament/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seekmake.com/3d-printing-quoting-software-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/mfg/3d-printing/japan/tokyo",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label 3D printing quoting 2026",
+   "results": [
+    "https://simplyprint.io/oem",
+    "https://www.youtube.com/watch?v=LwP_1jZ9xu0",
+    "https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner",
+    "https://seekmake.com/software/3d-printing/white-label",
+    "https://www.reddit.com/r/3dprinter/comments/1uug0rm/best_3d_printer_to_get_in_2026_price_reliability/",
+    "https://layers.app/blog/3d-printing-quoting-software-2021/",
+    "https://www.meshmayhem.com/post/top-10-best-3d-printers-of-2026-for-every-budget-and-skill-level?srsltid=AYCX9vIl5SwvFhCT1aw0CRJ-TzenQJis_x98POgTXjdYnYOyo1rAJa3W",
+    "https://www.youtube.com/watch?v=bs9wqQ-sLbw",
+    "https://worldmetrics.org/best/3d-printing-quoting-software/",
+    "https://seekmake.com/white-label-3d-printing-platform"
+   ]
+  },
+  {
+   "query": "white label 3D printing quoting reseller program agencies",
+   "results": [
+    "https://simplyprint.io/oem",
+    "https://seekmake.com/software/metal-3d-printing/white-label",
+    "https://ultimate3dprintingstore.com/pages/reseller-program?srsltid=AYCX9vLaM32gDuq6S4JigPawC2C1zOklo6iGs9QztHrOZbiSsEiVc5sh",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.reddit.com/r/3Dprinting/comments/qfwr15/any_recommendations_for_instant_quote_software/",
+    "https://www.foamcoreprint.com/page/reseller-program?srsltid=AYCX9vIS0Env8Ovb9L4AtQ-U8XBbrHSacgBRW5ycIXxNG2ChHyXjvHie",
+    "https://www.conquestgraphics.com/about-us/resellers-brokers?srsltid=AYCX9vLY_qn6-ttXXuxO2Ud6hRGRxTu4-Mv7a5nmXhiyiE6mlFw4n6lU",
+    "https://forum.makerforums.info/t/are-there-any-private-label-3d-printers/43426",
+    "https://www.factorem.co/knowledge-hub/sourcing-3d-printing-services-finding-reliable-partners",
+    "https://insighto.ai/blog/white-label-reseller-programs/"
+   ]
+  },
+  {
+   "query": "white label 3D printing quoting free trial pricing",
+   "results": [
+    "https://seekmake.com/software/fdm-3d-printing/white-label",
+    "https://simplyprint.io/pricing",
+    "https://www.reddit.com/r/3Dprinting/comments/1jirp1k/i_made_an_app_for_automated_price_quoting/",
+    "https://whitelabel3dprinting.com/",
+    "https://all3dp.com/2/best-cheap-3d-printing-services/",
+    "https://www.youtube.com/watch?v=i2ZHIY4HmNw",
+    "https://apps.shopify.com/print-price",
+    "https://layers.app/blog/3d-printing-quoting-software-2021/",
+    "https://www.autoquote3d.com/guides/how-to-price-3d-prints",
+    "https://seekmake.com/software/3d-printing/white-label"
+   ]
+  },
+  {
+   "query": "white label 3D printing quoting rebrand your logo custom domain",
+   "results": [
+    "https://seekmake.com/software/3d-printing/white-label",
+    "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "https://www.3d4makers.com/pages/private-label-3d-printing-filament?srsltid=AYCX9vLI2-hNhywgqsUC-Od3Lhzwee5EsopKjH0lX_EKSre57W3HzmW8",
+    "https://printago.io/solutions/oem",
+    "https://seekmake.com/software/metal-3d-printing/white-label",
+    "https://www.digitalpolo.com/white-label-graphic-design/",
+    "https://captur3d.io/features/sales-marketing-tools/white-label-domains-subdomains",
+    "https://whitelabel3dprinting.com/",
+    "https://seekmake.com/white-label-3d-printing-platform",
+    "https://get-quot3d.com/"
+   ]
+  },
+  {
+   "query": "white label 3D printing quoting Japan Japanese",
+   "results": [
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://simplyprint.io/oem",
+    "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "https://blog.prusa3d.com/a-journey-through-craftsmanship-and-design-led-by-open-source-3d-printers_104681/",
+    "https://www.reddit.com/r/japanlife/comments/vuws1a/3d_printing_in_japan/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://3dprint.com/8835/japan-huge-delta-3d-printer/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.seekmake.com/3d-printing-quoting-software-japan"
+   ]
+  },
+  {
+   "query": "ホワイトラベル3Dプリント見積・受注 日本",
+   "results": [
+    "https://jlc3dp.com/jp",
+    "https://make.dmm.com/print/",
+    "https://skhonpo.com/blogs/3dprinter-practice/service7",
+    "https://3day-printer.com/media/column/3d-printing-quote/",
+    "https://3dprinter.co.jp/",
+    "https://3dprinter.be-full.jp/service/3dprint-max/",
+    "https://www.3d-printout.com/",
+    "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "https://jampt.jp/simulation/",
+    "https://v3dprint.jp/"
+   ]
+  },
+  {
+   "query": "white label 3D printing quoting OEM partnership",
+   "results": [
+    "https://simplyprint.io/oem",
+    "https://ifun3d.com/focus/oem-private-label-dental-3d-printer",
+    "https://printago.io/solutions/oem",
+    "https://seekmake.com/software/3d-printing/white-label",
+    "https://www.reddit.com/r/3DPrintFarms/comments/1ma0hru/would_you_use_an_instant_quote_tool_for_3d_print/",
+    "https://www.materialise.com/en/industrial/software/partnerships/oem",
+    "https://rapidmade.com/choosing-a-3d-printing-partner-for-production-parts/",
+    "https://ultimaker.com/ja/learn/applications-of-3d-printing-in-manufacturing/",
+    "https://www.facebook.com/groups/481633594085465/posts/1461253829456765/",
+    "https://seekmake.com/software/sls-3d-printing/white-label"
+   ]
+  },
+  {
+   "query": "white label 3D printing quoting partner program pricing",
+   "results": [
+    "https://simplyprint.io/oem",
+    "https://seekmake.com/software/3d-printing/white-label",
+    "https://www.reddit.com/r/3Dprinting/comments/1jirp1k/i_made_an_app_for_automated_price_quoting/",
+    "https://www.stratasys.com/en/stratasysdirect/",
+    "https://3dprinting.com/news/autoquote3d-launches-full-platform-to-streamline-3d-printing-quoting-and-order-management/",
+    "https://www.conquestgraphics.com/about-us/resellers-brokers?srsltid=AYCX9vIqmWvJWIsb-zgkkbH-imDgda6wLsPUmMeZLmpZRSQQA_Pl5N1P",
+    "https://layers.app/blog/3d-printing-quoting-software-2021/",
+    "https://gitnux.org/best/3d-printing-quoting-software/",
+    "https://all3dp.com/2/best-cheap-3d-printing-services/",
+    "https://www.g2.com/products/whitelabel-partner/pricing"
+   ]
+  },
+  {
+   "query": "ホワイトラベル3Dプリント見積・受注 OEM提供",
+   "results": [
+    "https://www.materialise.com/ja/industrial/software/partnerships/oem",
+    "https://jlc3dp.com/jp",
+    "https://make.dmm.com/print/",
+    "https://3day-printer.com/media/product-service/3d-printer-order/",
+    "https://www.stratasys.co.jp/quote-and-purchase/get-a-quote/",
+    "https://www.unionfab.com/ja/services/3d-printing",
+    "https://www.rapiddirect.com/ja/services/3d-printing/",
+    "https://formlabs.com/jp/blog/3d-printing-helps-dorman-keep-pace-with-automotive-oems/",
+    "https://skhonpo.com/blogs/3dprinter-practice/service7",
+    "https://simplyprint.io/ja/oem"
+   ]
+  },
+  {
+   "query": "ホワイトラベル3Dプリント見積・受注 代理店募集",
+   "results": [
+    "https://skhonpo.com/blogs/3dprinter-practice/service7",
+    "https://jlc3dp.com/jp",
+    "https://www.stratasys.co.jp/quote-and-purchase/get-a-quote/",
+    "https://make.dmm.com/print/",
+    "https://3day-printer.com/guide/partner",
+    "https://www.lancers.jp/work/search/design/3d_printing?srsltid=AYCX9vIJ2TZZnbDEdFVlnmHMxI4uMIjSAhKi7ZOcWgMAYaokQ7PjL4mj",
+    "https://formlabs.com/jp/company/partners/become-a-reseller/",
+    "https://3dprinter.be-full.jp/column/3d-printer-vendor-10/",
+    "https://www.3d-printout.com/",
+    "https://b-seeds.com/column/white-label-business"
+   ]
+  },
+  {
+   "query": "white label 3D printing quoting distributor Japan",
+   "results": [
+    "https://simplyprint.io/oem",
+    "https://www.stratasys.com/en/stratasysdirect/",
+    "https://www.reddit.com/r/3Dprinting/comments/1tvnw5j/is_anyone_trackinggathering_data_on_filament/",
+    "https://seekmake.com/software/3d-printing/white-label",
+    "https://www.protolabs.com/services/3d-printing/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://whitelabel3dprinting.com/",
+    "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "https://www.seekmake.com/3d-printing-quoting-software-japan"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1715 @@
+{
+ "name": "ホワイトラベル作業マニュアル・技能伝承AI",
+ "en": "white label work instructions software",
+ "aliases": [
+  "white-label digital work instructions",
+  "work instructions",
+  "connected worker",
+  "SOP software",
+  "作業手順書",
+  "技能伝承"
+ ],
+ "context": "製造業・現場",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:06:19.311018+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "| 3k+ app store reviews",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "that users can review before performing specific tasks in the workplace. Aside from the sequential outline of the process, these templates also include work related-hazards, safety protocols, and emergency plans. This is also one of the few platforms that offer work instruction software free of charge, with a particular version for small teams.",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Mission Control vs.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "work instructions vs SOPs",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital work instructions software compared at a glance",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "CreatorPro AI shortens authoring, but its drafts still go through review and approval before they reach the floor.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Mission Control vs Dozuki",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Dozuki alternatives",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip alternatives",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Augmentir alternatives",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "AR work instructions vs wearable capture",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Vuforia Expert Capture alternatives",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "experts record in a mobile app as they work; AI segments recordings into steps, adds captions, and dubs into 60+ languages; review, approval, and version control.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "video is the product, so someone still records on a device, and each video passes review before release.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Every video goes through a structured review with human validation and version control before it is released. Among the software-only entries, DeepHow comes closest to starting from real work rather than a document, and its language depth matters on a multilingual line. For comparisons, see",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "DeepHow alternatives",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Mission Control vs DeepHow",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "This page does the research for you. We compiled pricing information for 10 work instruction platforms from published pricing pages, review platforms (G2, Capterra), press releases, and verified user reports. Where vendors don’t publish pricing, we note what is publicly known and what requires a sales conversation.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "this page is published by Manual.to. We are one of the platforms reviewed. We publish our pricing openly, and we believe buyers benefit when every vendor does the same.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Below is what we know about each platform’s pricing, based on publicly available data. We distinguish between confirmed published pricing and figures reported by users or review platforms.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "The broadest connected worker suite on the market – work instructions, factory communication, skills matrix, daily management boards, video knowledge capture, training tracking, and AI toolkit. 37 languages. G2 Market Leader (Fall 2024). 221 G2 reviews.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "VKS does not publish official pricing, but multiple user reports on review platforms suggest pricing around",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Augmentir does not publish pricing. As a VC-backed platform focused on enterprise manufacturing with AI personalization and the Industrial AI Agent Studio, pricing is negotiated through enterprise sales. No public data points are widely available on review platforms.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "User reports suggest per-user monthly pricing, but exact figures are not consistently documented on review platforms. Azumuta offers a demo rather than a self-service trial.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Someone needs to manage the platform day-to-day – user accounts, permissions, content reviews, version control, analytics. Enterprise platforms often require a dedicated administrator. Simpler platforms can be managed as part of an existing role.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "do not publish pricing directly but pricing information is available through review platforms and user reports.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "VKS does not publish official pricing. User reports on review platforms suggest approximately $350 per user per month. For a 50-user deployment, that is roughly $210,000 per year – one of the highest per-user costs in the market. VKS’s deep traceability and IoT integration justify premium pricing for specific manufacturing use cases.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Connected Worker Alternatives Beyond Manufacturing",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manual.to vs Dozuki",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manual.to vs Poka",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manual.to vs Azumuta",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Azumuta vs Dozuki vs Manual.to",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "(use preview mode to access link)",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": ", reduced errors by 46–60%, and lowered help requests by 69–83% compared to paper, with directionally similar gains reported across other manufacturing studies.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "10 best work instruction software for manufacturing compared",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "The same configurability applies to mandatory data constraints. Acceptable-value ranges can block a temperature or pH entry that falls outside the safe range. The reading gets flagged for review instead of passing through unnoticed.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Review data at the line, shift, site, or corporate level, giving each team the level of visibility it needs.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Well-established, widely reviewed platform",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Redzone combines digital work instructions with production management, shift communication, and workforce collaboration tools. Its built-in lean tools give teams structured ways to review recurring production problems, while shift-based scoring keeps performance discussions tied to each crew.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "5 Mitti (formerly SafetyCulture) alternatives for CPG inspections and manufacturing workflows",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "5 Poka connected worker platform alternatives for CPG process manufacturers in 2026",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Most customers have their first work instructions live within days, and a meaningful pilot running in 4–8 weeks. Full multi-site rollout depends on scope, but Poka's AI-powered authoring cuts the content-creation phase by more than half compared to traditional manual approaches. It enables measurable impact in weeks, not quarters.",
+    "url": "https://www.poka.io/en/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Easily track every change made to work instructions with our detailed revision history, ensuring that all modifications are documented and accessible for review.",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Transform operator feedback into actionable changes. Our system allows you to review, prioritize, and implement suggested improvements quickly, ensuring that work instructions are always evolving to better meet the needs of your workforce.",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "flexibility and control. While other providers overlook defense-grade security,",
+    "url": "https://vksapp.com/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Team Oversight: Include teams in the document review process to assure alignment on updates",
+    "url": "https://www.dozuki.com/solutions/need/work-instructions",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Partner program",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Editor with photos, video, and markup; CreatorPro AI drafts from narrated video and documents",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "guides built with photos, video, and markup; approval workflows; revision history with authorship and change reason; translation into 100+ languages; offline access.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Update templates with visual markups, and push mass updates across instructions at once.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Protect workers with step-by-step energy isolation procedures that include PPE callouts, visual markup, and supervisor sign-off.",
+    "url": "https://www.poka.io/en/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "You don't need a separate application to edit and annotate images, with Dozuki it's built in. Use color-coded image markup and special bullets to annotate complex procedures in an easy to understand format.",
+    "url": "https://www.dozuki.com/solutions/need/work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "In-line Markup: Add callouts to any image during authoring",
+    "url": "https://www.dozuki.com/solutions/need/work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "Visual Callouts: Markup visuals in-app to highlight specific areas to focus on",
+    "url": "https://www.dozuki.com/solutions/need/work-instructions",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Premium plan $24/seat/month (with free trial period)",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Available upon request (with a 30-day free trial online and a 60-day on-site pilot)",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Available upon request (with 30-day free trial)",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $349 per month for unlimited users and up to five editors (with free trial)",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Available upon request (with free trial)",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "). Its no-code workflow builder digitises the steps, and the platform delivers instructions matched to the needs of each worker, with AI-based insights into where work processes lose time. Instructions carry images, video, AR experiences, and live expert support, and run on AR-enabled industrial smart glasses, iOS and Android phones and tablets, or desktop computers.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "capture during normal work; AI video SOP generation and editing; AI troubleshooting; a unified knowledge base; a free trial and a published per-seat price.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "). The site is copyrighted to CAI Software. It suits industrial operations that want every procedure step to leave a data trail.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "No. Most tools in this guide run on tablets, phones, and workstation screens. AR is an option in some: Augmentir supports AR-enabled industrial smart glasses alongside phones, tablets, and desktops, and PTC Vuforia Expert Capture is built around AR instructions and inspection from 3D CAD. Myto uses AI glasses to capture work, not to display instructions.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Free manual (no account), 7-day trial, then paid plans",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes – free manual + trial",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans not published",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes – free plan",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "– no account, no credit card, no sales call. This produces a complete visual manual from video in about 60 seconds with 200+ languages and text-to-speech.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "After the free manual, a 7-day trial opens the full platform. Paid plans scale from individual users to enterprise deployments with no minimum user count. Enterprise plans include SSO/SAML, Microsoft EntraID, dedicated EU hosting, and native Microsoft Teams and SharePoint integration.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Dozuki does not offer a free trial or free tier. Evaluation requires a demo request and a sales conversation. Implementation costs are additional and vary based on complexity, integrations (SAP, ERP), and compliance requirements (FDA CFR 21 Part 11, ITAR).",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "No published pricing. No free trial. Requires enterprise sales process. Post-acquisition, the pricing relationship with IFS Cloud is unclear. Small and mid-size teams may find the entry point out of reach.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "VKS does not offer a free trial. Evaluation requires a demo and sales process. Per-user pricing means costs scale linearly with team size, which can become significant for large deployments.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "At reported pricing, VKS is among the most expensive options per user. Linear per-user scaling means costs grow quickly with team size. ~14 languages. No free trial. Manufacturing-only.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Augmentir does not publish pricing. As a VC-backed platform focused on enterprise manufacturing with AI personalization and the Industrial AI Agent Studio, pricing is negotiated through enterprise sales. No public data points are widely available on review platforms.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "AI personalization that adapts work instructions to individual workers. Industrial AI Agent Studio. Skills management with AI insights. AR support (September 2025). No-code workflow builder. Can generate instructions from Excel, Word, PDFs, images, or videos.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "No published pricing. No free trial. Requires enterprise sales. AI personalization requires sufficient usage data to be effective – value increases over time but is limited at launch.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "FREE PLAN",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "free plan",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "30-day trial on paid plans",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "No free trial; free templates only",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "30-day trial + 60-day on-site pilot",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "30-day free trial on paid plans.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "It also includes an Industrial AI Agent Studio for building and deploying custom no-code AI agents across frontline manufacturing workflows.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Includes tools for building custom industrial AI agents",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "No free trial for the platform itself; free templates are available separately in PDF, PowerPoint, and Excel formats.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Parsable's Connected Worker platform digitizes paper-based forms, checklists, and SOPs through a no-code web admin portal, producing digital work instructions and one-point lessons. It's built for large industrial organizations, supporting real-time collaboration between frontline workers and remote experts inside the mobile app itself.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Parsable is a common name in enterprise industrial settings specifically for its emphasis on remote expert collaboration built into the instruction itself.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Parsable has no free trial or free plan, but offers a 30-minute Jump Start Session and a custom demo.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Long free trial window: 30 days online plus a 60-day on-site pilot",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Its extended trial window, 30 days online plus a 60-day on-site pilot, gives manufacturers an unusually long runway to test fit before buying.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "30-day free online trial plus a 60-day on-site pilot",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "8. Trials and pilots",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI",
+    "url": "https://www.poka.io/en/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Poka Plants the Flag on Industrial AI for Connected Work",
+    "url": "https://www.poka.io/en/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://www.poka.io/en/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI for Connected Work. Built for every floor, every environment.",
+    "url": "https://www.poka.io/en/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアル",
+    "url": "https://cocomite.konicaminolta.jp/20250123_webinar/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアル",
+    "url": "https://itutor.jp/blog/ginoudensyo-vol55/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアルを試す",
+    "url": "https://itutor.jp/blog/ginoudensyo-vol55/",
+    "pass": 3
+   },
+   {
+    "quote": "Notion（無料プランあり・有料プランあり）",
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "pass": 3
+   },
+   {
+    "quote": "無料プランあり・有料プランあり",
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Connectivity",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery & Industrial Equipment",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Machinery",
+    "url": "https://vksapp.com/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Work Instructions for Industrial Companies",
+    "url": "https://www.dozuki.com/solutions/need/work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "The Dozuki Connected Worker Platform bridges the critical frontline divide facing industrial companies.",
+    "url": "https://www.dozuki.com/solutions/need/work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "for a two-week free trial.",
+    "url": "https://www.vayoinfo.com/blogs/visual-work-instruction-software-automate-document-preparation/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Premium plan $24/seat/month (with free trial period)",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $16 per month",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $349 per month for unlimited users and up to five editors (with free trial)",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "$24/user/month",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "$16/month",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "$349/month",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Two products here publish prices. We list those with a link, as of September 2026, and say \"not published\" for the rest.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Prices are as of September 2026 and link to the vendor's own pricing page. Vendors that do not publish prices are marked as such.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "From $100 per interface per month, billed annually, 10-interface minimum (",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Core $100 per seat per month, billed annually; glasses quoted separately (",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Essentials $100 and Professional $250 per interface per month, billed annually; Enterprise and Regulated Industries quoted (",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Work Instruction Software Pricing: What Every Platform Costs in 2026",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing analysis · Updated April 2026",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "The hardest part of buying work instruction software is figuring out what it actually costs. Most vendors hide their pricing behind “contact sales” buttons. You fill out a form, get a demo, talk to an account executive, maybe get a quote two weeks later – and then discover the platform requires a 50-user minimum or a multi-year contract.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "This page does the research for you. We compiled pricing information for 10 work instruction platforms from published pricing pages, review platforms (G2, Capterra), press releases, and verified user reports. Where vendors don’t publish pricing, we note what is publicly known and what requires a sales conversation.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Work instruction software pricing in 2026 ranges from",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "From ~$850/month (~$17/user at 50 users)",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Reports suggest ~$350/user/month",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$150/user/month",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Free (up to 10 users); $24/user/month paid",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "$26,000/year (Core plan)",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Not published (est. $80–$300+/user/month)",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Free for teams of up to 10 users. The Premium plan starts from $24/user/month billed annually ($29/month billed monthly).",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Starting at $26,000/year",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Starting at $32,000/year",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Starting at $47,000/year",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "The company brings dispatch, maintenance, production, and no-code app building (L2L Studio) under one roof. Instructions sit as one piece of that larger system, with pricing quoted case by case.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_2.pdf",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "所要時間の目安：1工程あたり1〜3日 / 費用：0円（スマホ撮影）",
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "pass": 3
+   },
+   {
+    "quote": "所要時間の目安：1工程あたり2〜5日 / 費用：0円（Googleスプレッドシートで作成）",
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "pass": 3
+   },
+   {
+    "quote": "所要時間の目安：1工程あたり3〜5日（ベテランへのヒアリング含む） / 費用：0円",
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "pass": 3
+   },
+   {
+    "quote": "所要時間の目安：1工程あたり2〜3日 / 費用：0円〜（無料ツールなら0円",
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "pass": 3
+   },
+   {
+    "quote": "所要時間の目安：継続的（週1回の振り返りで15分） / 費用：0円",
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "pass": 3
+   },
+   {
+    "quote": "0円（三脚は100均で110円）",
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "pass": 3
+   },
+   {
+    "quote": "最小構成なら「スマホ + Googleドライブ + Googleスプレッドシート」で月額0円から始められる",
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けに、AI内製化（初期構築15万円＋月額10万円・90日）と、 そのあとのAI顧問（月額5万円・6ヶ月契約から）を提供しています",
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Dozuki’s manufacturing work instruction software is highly-favored in numerous industries, including heavy equipment, food and beverage, and pharmaceuticals with biotechnology. This app can reduce changeover times, employee onboarding times, and overall labor costs.",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Template-based applications with drag-and-drop editing",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "No-code app editor; AI composer converts PDFs into apps",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "No-code editor with 3D models, parameters, and IF/THEN logic; AI document conversion",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "No-code builder; Augie generates instructions from Office files, images, and video",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "): pictures, video, drag-and-drop annotations, and safety pictograms; a change history for audits and accountability; templates that update hundreds of instructions at once; and launching the right instruction by scanning a QR code or part number. Translation runs through Google and DeepL into more than 30 languages.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "no-code app building; an AI composer that converts PDFs into interactive apps; connections to machines, sensors, smart tools, and back-end systems; error-proofed operator steps.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "no-code editor with images, video, 3D models, parameters, and IF/THEN logic; approval workflows; connections to ERP, scanners, printers, and torque wrench tools; issue tickets and audits; a skills matrix.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "). Its work instruction editor is no-code and takes images, video, 3D models, parameters, and IF/THEN logic (",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "no-code workflow builder; instructions matched to the needs of each worker; Augie generative AI that builds instructions and checklists from existing files; AR smart glasses support; skills and training management.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "). Its no-code workflow builder digitises the steps, and the platform delivers instructions matched to the needs of each worker, with AI-based insights into where work processes lose time. Instructions carry images, video, AR experiences, and live expert support, and run on AR-enabled industrial smart glasses, iOS and Android phones and tablets, or desktop computers.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "). Subtitles and dubbing cover more than 60 languages, and DeepHow says an update can go from shoot to share in as little as 30 minutes.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip: No-code apps that carry work instructions, connect to machines and back-end systems, and error-proof steps, with published pricing.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Azumuta: No-code work instruction editor with IF/THEN logic, approvals, tool connections, in-line quality checks, and a skills matrix.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Augmentir: Work instructions personalised to each worker, with a no-code builder, the Augie generative AI suite, AR smart glasses support, and skills management.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Training & Onboarding",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "AI personalization that adapts work instructions to individual workers. Industrial AI Agent Studio. Skills management with AI insights. AR support (September 2025). No-code workflow builder. Can generate instructions from Excel, Word, PDFs, images, or videos.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "for small teams, making it one of the few platforms with genuine self-service entry alongside Manual.to. The free plan provides access to the no-code app builder, which lets you create custom frontline applications including work instructions.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Access to the no-code app builder. Ability to create custom frontline apps. IoT connector library. AI Composer for PDF-to-app conversion.",
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding & Implementation",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Faster Onboarding:",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Every completed instruction is logged automatically, so proving what was done, when, and by whom takes minutes instead of digging through binders.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Reduces onboarding and changeover time",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "A.D.A.P.T. Onboarding:",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "It also includes an Industrial AI Agent Studio for building and deploying custom no-code AI agents across frontline manufacturing workflows.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Dozuki is a manufacturing-specific work instruction platform popular in heavy equipment and pharma/biotech. It's built around reducing changeover times, onboarding time, and labor costs through standardized, well-authored instructions.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Dozuki's strongest track record is in heavy equipment and pharma/biotech industries where changeover and onboarding time are measured closely.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Parsable's Connected Worker platform digitizes paper-based forms, checklists, and SOPs through a no-code web admin portal, producing digital work instructions and one-point lessons. It's built for large industrial organizations, supporting real-time collaboration between frontline workers and remote experts inside the mobile app itself.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "L2L's Connected Workforce Platform folds digital work instructions in as one module alongside production, maintenance, and quality tools. Its authoring tool is the same drag-and-drop system formerly known as SwipeGuide.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "The company brings dispatch, maintenance, production, and no-code app building (L2L Studio) under one roof. Instructions sit as one piece of that larger system, with pricing quoted case by case.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "L2L is a strong fit if you want work instructions that also support employee training, skills tracking, and faster onboarding.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Faster onboarding for new employees",
+    "url": "https://www.poka.io/en/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "蓄積されたノウハウは、AIチャットボットに質問することで簡単に検索することも可能です",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "かんたんサポートナビでは製品カテゴリからサポート情報を素早く、簡単にお探しいただけます",
+    "url": "https://www.konicaminolta.jp/business/information/release/241106_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品カテゴリからダウンロード情報を素早く、簡単にお探しいただけます",
+    "url": "https://www.konicaminolta.jp/business/information/release/241106_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "本機能は、言語化することの難しい高度技能についてのマニュアル・手順書を、短時間で簡単に作成することを可能にし、多くの生産拠点において多様な製造工程を抱える大規模な製造業から、 マニュアルづくりや技術の継承に時間や費用を割く余裕がない中小企業、事業承継や技能伝承を支援する地方自治体まで課題解決を支援します",
+    "url": "https://www.konicaminolta.jp/business/information/release/241106_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "使いやすさにこだわり、テキストや画像/動画/PDFなどを固定のレイアウトに入力するだけで、誰でも簡単に分かりやすいマニュアルを作成可能です",
+    "url": "https://www.konicaminolta.jp/business/information/release/241106_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Azumuta lets you create visual, step-by-step digital work instructions in a no-code editor and manage them all in one place. Add images, video, 3D models, parameters, and IF/THEN logic; control revisions and approvals; translate into any language; and connect to ERP systems and devices. Operators always get the right, up-to-date guidance, which reduces errors and onboarding time.",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding Time",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Create and manage your work instructions in Azumuta! By digitizing your work instructions you will reduce onboarding and training time, improve the quality of your products, and have always-up-to-date work instructions on the shop floor. Get all these benefits after a simple set up!",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Create Work Instructions within an Intuitive, No-Code Software",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "User-Friendly, No-Code Platform",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Azumuta is a no-code platform that enables anyone, regardless of their technical level, to create and manage work instructions effortlessly.",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-Drop Multimedia Integration",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Enhance your digital work instructions with ease using our drag-and-drop functionality. Simply add images, videos, and even 3D models directly into your instructions.",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "No. Azumuta is a no-code platform with a drag-and-drop editor, reusable templates, and parameter handling, so anyone can build and update instructions without IT support.",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding & Training",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "VKS is a no-code digital work instruction software that enables you to centralize your operational knowledge. By using step-by-step digital instructions, you can capture the invaluable knowledge of your senior employees and effortlessly share it with the entire team, including new hires.",
+    "url": "https://vksapp.com/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Easy to Use Search Access",
+    "url": "https://www.dozuki.com/solutions/need/work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "Help articles, onboarding resources and instructions for Partful users",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "By transforming CAD data into true-to-model 3D visuals, Workful helps you refine process quality, improve team communication, and speed up training and onboarding.",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "The Workful platform imports CAD data, allowing you to create high-quality 3D Work Instructions in minutes. Our integrations with CAD, APIs, and LPS systems make updating your 3D instructions fast and effortless.",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "Control how users see your instructions. Support onboarding, training, and best practices by creating a decision tree to guide users through specific segments based on previous steps or outputs. Alternatively, only let users see specific steps rather than the entire instruction.",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "From onboarding and assembly to service and maintenance, Partful’s 3D work instructions meet workers exactly where the job happens.",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "Train new hires in the training centre with interactive, step-by-step 3D instructions that reduce ramp-up time and reliance on tribal knowledge. Edit in minutes with version control, API, and CAD reuploads, and one-click publishing.",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Multilingual, multi-site rollouts",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Expert video turned into multilingual training",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "7. Poka (IFS): best for multilingual, multi-site rollouts",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "10. DeepHow: best for turning expert video into multilingual training",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Every video goes through a structured review with human validation and version control before it is released. Among the software-only entries, DeepHow comes closest to starting from real work rather than a document, and its language depth matters on a multilingual line. For comparisons, see",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "DeepHow for multilingual training, or Myto for SOPs generated from AI glasses at a published per-seat price.",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Multilingual support and offline-friendly design make the platform practical for distributed frontline teams",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Lessons adapt across languages automatically, reducing the manual work of maintaining separate versions for multilingual crews.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Strong multimedia and auto-translation for multilingual crews",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Poka is a strong choice for manufacturers whose main need is building and translating training-style lessons across a multilingual floor.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Operators need QR-code access through shared tablets or workstation devices rather than individual accounts. Also consider browser-based access, offline functionality, simple navigation, and multilingual support. These capabilities become especially important when operators share devices, work in areas with limited connectivity, or speak different languages.",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Multilingual Support",
+    "url": "https://www.poka.io/en/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語のマニュアルが伝わらない現場では、技能伝承の壁は言葉の壁でもあります",
+    "url": "https://career-survival.com/columns/skill-transfer-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "・三菱電機株式会社様、横河電機株式会社様、日本マイクロソフト株式会社様、株式会社IHI様、三井住友海上火災保険株式会社様などを担当",
+    "url": "https://cocomite.konicaminolta.jp/20250123_webinar/",
+    "pass": 3
+   },
+   {
+    "quote": "1、日刊工業新聞社、日本テクノセンターでは、2013年から現在まで毎年講師やパネルディスカッションのコーディネーターを務める",
+    "url": "https://cocomite.konicaminolta.jp/20250123_webinar/",
+    "pass": 3
+   },
+   {
+    "quote": "・2018年日本テクノセンター「わかりやすく伝える技術ドキュメントの作成と文章テクニック 」",
+    "url": "https://cocomite.konicaminolta.jp/20250123_webinar/",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承が進まない製造業 AIは日本の技術を次世代へ伝える架け橋となるのか | 日進工具株式会社",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり日本大賞（1）",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本酒（1）",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承が進まない製造業 AIは日本の技術を次世代へ伝える架け橋となるのか",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業では、以前から人材の確保が深刻な課題として認識されています",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに日本では少子高齢化の影響により、34歳以下の若年労働者の割合が低下しています",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本が誇るものづくり技術を次世代に継承していくために、後継者の確保が重要な課題となっています",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "pass": 3
+   },
+   {
+    "quote": "・三菱電機株式会社様、横河電機株式会社様、日本マイクロソフト株式会社様、",
+    "url": "https://www.science.co.jp/news/40525/",
+    "pass": 3
+   },
+   {
+    "quote": "・TCシンポジウム*1、日刊工業新聞社、日本テクノセンターでは、2013年から現在まで毎年講師やパネルディスカッションのコーディネーターを務める",
+    "url": "https://www.science.co.jp/news/40525/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業必見！技能伝承の課題を生成AI×マニュアルで解決 | 株式会社ヒューマンサイエンス | PTJ WEB展示場 | PHARM TECH JAPAN ONLINE-製剤技術とGMPの最先端技術情報サイト",
+    "url": "https://ptj.jiho.jp/product/162596/seminar/160317",
+    "pass": 3
+   },
+   {
+    "quote": "KONICA MINOLTA JAPAN, INC.",
+    "url": "https://www.konicaminolta.jp/business/information/release/241106_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Multilingual Interface for Easy Access",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Give your global workforce easy access to work instructions in their preferred language with our multilingual interface, designed for seamless user experience across regions.",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Translate and manage instructions in multiple languages from one central place, and give your global workforce a multilingual interface.",
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "pass": 3
+   },
+   {
+    "quote": "Multilingual Translation Support",
+    "url": "https://www.dozuki.com/solutions/need/work-instructions",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Top 10 Work Instruction Software of 2026 - Mitti — Top 10 Work Instruction Software of 2026 - Mitti mitti.com https://mitti.com > Apps",
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "pass": 3
+   },
+   {
+    "quote": "Best Digital Work Instructions Software ( 2026 ): 11 Ranked — Best Digital Work Instructions Software ( 2026 ): 11 Ranked Mission Control AI https://usemissioncontrol.com > blog",
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best Work Instruction Software for Manufacturing ( 2026 ) — 10 Best Work Instruction Software for Manufacturing ( 2026 ) Weever Software https://weeversoftware.com > blog",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best Work Instruction Software for Manufacturing (2026) — 10 Best Work Instruction Software for Manufacturing (2026) Weever Software https://weeversoftware.com > blog",
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "1/23 ウェビナー「製造業必見！ 技能伝承 の課題を生成 AI ... — 1/23 ウェビナー「製造業必見！ 技能伝承 の課題を生成 AI ... Konica Minolta https://cocomite.konicaminolta.jp > 20250123_webinar",
+    "url": "https://cocomite.konicaminolta.jp/20250123_webinar/",
+    "pass": 3
+   },
+   {
+    "quote": "技能伝承 の課題を解決！製造業の暗黙知を動画 マニュアル 化 ... — 技能伝承 の課題を解決！製造業の暗黙知を動画 マニュアル 化 ... itutor.jp https://itutor.jp > blog > ginoudensyo-vol55",
+    "url": "https://itutor.jp/blog/ginoudensyo-vol55/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の マニュアル への生成 AI 活用ガイド｜2026年の最新事例 — 製造業の マニュアル への生成 AI 活用ガイド｜2026年の最新事例 株式会社エムニ https://media.emuniinc.jp > 技能伝承",
+    "url": "https://media.emuniinc.jp/2026/03/11/manufacturing-manual-ai-dx/",
+    "pass": 3
+   },
+   {
+    "quote": "Interactive Work Instructions Software - Partful — Interactive Work Instructions Software - Partful partful.io https://partful.io > 3d-digital-work-ins...",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Latest opinion articles, industry news and predictions as well as useful resources for OEM aftersales transformation",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "Any OEM with access to their CAD that produces assets requiring parts to be fitted in assembly, repair, or service is relevant to us. Check out our Case Studies to find out more.",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "Can I white-label the Partful system?",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, you can - all of our products are whitelabelled so your customers can experience our solution under your logo, colours, branding, etc. to maintain brand consistency.",
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "pass": 3
+   },
+   {
+    "quote": "Vayo Technology has been dedicated to delivering high-quality and comprehensive NPI solutions to our OEM / EMS clients. With 17+ years’ effort and devotion to NPI/DFT/DFA/CAM software solutions for electronics industry, Vayo Technology’s NPI solution like",
+    "url": "https://www.vayoinfo.com/blogs/visual-work-instruction-software-automate-document-preparation/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://mitti.com/apps/work-instruction-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://assembly.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://benchling.com/gohighlevel/f/lib_PXRgrNkov5-gohighlevel/etr_b4B4rEHIXH-gohighlevel-white-label-crm-complete-guide-features-free-trial/edit?m=slm-gfm3HCgjJBRfgu6mkXZq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.yeastar.com/en/pp-ptr/topics/obtain-free-trial-for-white-label-service-for-p-series-software-edition.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://awario.com/blog/white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manual.to/compare/work-instruction-software-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readdy.ai/blog/what-is-white-label-website",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcampaign.com/smm-tips/how-to-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ituonline.com/blogs/best-white-label-services-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://querio.ai/blogs/what-is-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poka.io/en/digital-work-instructions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-survival.com/columns/skill-transfer-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocomite.konicaminolta.jp/20250123_webinar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://itutor.jp/blog/ginoudensyo-vol55/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.science.co.jp/news/40525/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flowwright.com/blog/oem-white-label-workflow-software-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendingtracker.com/for/oem-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/the-connector/white-label-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorixtech.com/blogs/hiring/white-label-software-development-how-it-works",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://heldsway.com/blog/best-white-label-affiliate-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tapfiliate.com/blog/best-white-label-affiliate-software_ag/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startinfinity.com/blog/white-label-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushpos.com/blog/how-to-start-white-label-pos-business/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ptj.jiho.jp/product/162596/seminar/160317",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.emuniinc.jp/2026/03/11/manufacturing-manual-ai-dx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-telework.or.jp/library/6a02e870206f0279a0dd8dd1/6a72e7df4b343f4f3c9eed56.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aipicks.jp/glossary/white-label-ai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/business/product/aiit/ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.konicaminolta.jp/business/information/release/241106_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aidia.works/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-gage.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://log-port.com/aidx-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vksapp.com/work-instruction-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dozuki.com/solutions/need/work-instructions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partful.io/3d-digital-work-instructions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vayoinfo.com/blogs/visual-work-instruction-software-automate-document-preparation/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label work instructions software 2026",
+   "results": [
+    "https://mitti.com/apps/work-instruction-software",
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://assembly.com/blog/white-label-software",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://usemissioncontrol.com/blog/best-digital-work-instructions-software/",
+    "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://worldmetrics.org/best/white-label-software/"
+   ]
+  },
+  {
+   "query": "white label work instructions software reseller program agencies",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.fatbit.com/fab/beginners-guide-to-white-label-reseller-program/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://evincedev.com/blog/a-detailed-guide-to-white-label-reseller-program-to-grow-your-existing-business/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://insighto.ai/blog/white-label-reseller-programs/"
+   ]
+  },
+  {
+   "query": "white label work instructions software free trial pricing",
+   "results": [
+    "https://benchling.com/gohighlevel/f/lib_PXRgrNkov5-gohighlevel/etr_b4B4rEHIXH-gohighlevel-white-label-crm-complete-guide-features-free-trial/edit?m=slm-gfm3HCgjJBRfgu6mkXZq",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://help.yeastar.com/en/pp-ptr/topics/obtain-free-trial-for-white-label-service-for-p-series-software-edition.html",
+    "https://awario.com/blog/white-label-marketing-tools/",
+    "https://manual.to/compare/work-instruction-software-pricing/",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://assembly.com/blog/white-label-software",
+    "https://www.reddit.com/r/SaaS/comments/1b6p19b/white_label_saas_that_is_free_to_start/",
+    "https://sourceforge.net/software/work-instructions/free-trial/"
+   ]
+  },
+  {
+   "query": "white label work instructions software rebrand your logo custom domain",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "https://readdy.ai/blog/what-is-white-label-website",
+    "https://www.cloudcampaign.com/smm-tips/how-to-white-label-software",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.ituonline.com/blogs/best-white-label-services-2/",
+    "https://querio.ai/blogs/what-is-white-label-software",
+    "https://www.youtube.com/watch?v=urvO0l8VO18",
+    "https://simvoly.com/the-best-white-label-website-builder"
+   ]
+  },
+  {
+   "query": "white label work instructions software Japan Japanese",
+   "results": [
+    "https://weeversoftware.com/blog/best-work-instruction-software-manufacturing",
+    "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "https://www.poka.io/en/digital-work-instructions/",
+    "https://www.linkedin.com/pulse/japan-work-instructions-software-market-global-insights-trends-nxhcf",
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "https://frontierline.co.jp/en/partners/",
+    "https://www.post.japanpost.jp/service/send/oversea/use/label/index_en.html",
+    "https://sourceforge.net/software/work-instructions/japan/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル作業マニュアル・技能伝承AI 日本",
+   "results": [
+    "https://career-survival.com/columns/skill-transfer-ai/",
+    "https://cocomite.konicaminolta.jp/20250123_webinar/",
+    "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "https://itutor.jp/blog/ginoudensyo-vol55/",
+    "https://www.science.co.jp/news/40525/",
+    "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "https://www.japan-telework.or.jp/library/6a02e870206f0279a0dd8dd1/6a72e7df4b343f4f3c9eed56.pdf",
+    "https://media.emuniinc.jp/2026/03/11/manufacturing-manual-ai-dx/",
+    "https://www.youtube.com/watch?v=0cWOq6p1wo0",
+    "https://claudecode-cases.com/cases/claude-code-manufacturing-sop-work-instruction-standardization-2026/"
+   ]
+  },
+  {
+   "query": "white label work instructions software OEM partnership",
+   "results": [
+    "https://flowwright.com/blog/oem-white-label-workflow-software-guide",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://vendingtracker.com/for/oem-partners",
+    "https://www.workato.com/the-connector/white-label-integration/",
+    "https://www.rorixtech.com/blogs/hiring/white-label-software-development-how-it-works",
+    "https://blog.bicomsystems.com/oem-and-white-label/",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://querio.ai/blogs/what-is-white-label-software",
+    "https://www.netrio.com/white-labeling-managed-it-services-pros-and-cons/",
+    "https://www.introw.com/blog/oem-partnerships"
+   ]
+  },
+  {
+   "query": "white label work instructions software partner program pricing",
+   "results": [
+    "https://heldsway.com/blog/best-white-label-affiliate-marketing-software",
+    "https://tapfiliate.com/blog/best-white-label-affiliate-software_ag/",
+    "https://suitedash.com/white-label-business-software/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://startinfinity.com/blog/white-label-reseller-programs",
+    "https://pushpos.com/blog/how-to-start-white-label-pos-business/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.linkjolt.io/blog/white-label-affiliate-marketing-software",
+    "https://www.introw.io/blog/white-label-software-partner-program"
+   ]
+  },
+  {
+   "query": "ホワイトラベル作業マニュアル・技能伝承AI OEM提供",
+   "results": [
+    "https://career-survival.com/columns/skill-transfer-ai/",
+    "https://cocomite.konicaminolta.jp/20250123_webinar/",
+    "https://www.science.co.jp/news/40525/",
+    "https://ptj.jiho.jp/product/162596/seminar/160317",
+    "https://media.emuniinc.jp/2026/03/11/manufacturing-manual-ai-dx/",
+    "https://itutor.jp/blog/ginoudensyo-vol55/",
+    "https://www.salesdock.jp/blog/manufacturing-skill-transfer-digital",
+    "https://www.japan-telework.or.jp/library/6a02e870206f0279a0dd8dd1/6a72e7df4b343f4f3c9eed56.pdf",
+    "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/853.html",
+    "https://aipicks.jp/glossary/white-label-ai"
+   ]
+  },
+  {
+   "query": "ホワイトラベル作業マニュアル・技能伝承AI 代理店募集",
+   "results": [
+    "https://b-seeds.com/business/product/aiit/ai",
+    "https://www.science.co.jp/news/40525/",
+    "https://www.konicaminolta.jp/business/information/release/241106_02.html",
+    "https://aidia.works/reseller",
+    "https://ai-gage.com/partner/",
+    "https://log-port.com/aidx-partner-program/",
+    "https://www.japan-telework.or.jp/library/6a02e870206f0279a0dd8dd1/6a72e7df4b343f4f3c9eed56.pdf",
+    "https://datasite.wd1.myworkdayjobs.com/ja-JP/datasite/job/Sales-Enablement-Specialist_R35987",
+    "https://issenglobal.com/agency",
+    "https://www.unite.ai/ja/best-white-label-ai-tools/"
+   ]
+  },
+  {
+   "query": "white label work instructions software distributor Japan",
+   "results": [
+    "https://www.azumuta.com/solutions/digital-work-instructions/",
+    "https://vksapp.com/work-instruction-software",
+    "https://www.dozuki.com/solutions/need/work-instructions",
+    "https://partful.io/3d-digital-work-instructions",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://www.vayoinfo.com/blogs/visual-work-instruction-software-automate-document-preparation/",
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://japanesedistributors.com/"
+   ]
+  }
+ ],
+ "missing": {}
+}

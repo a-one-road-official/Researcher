@@ -1,0 +1,2030 @@
+{
+ "name": "ホワイトラベル予知保全・工場IoT",
+ "en": "white label industrial IoT platform",
+ "aliases": [
+  "white-label IIoT platform",
+  "IoT platform",
+  "predictive maintenance",
+  "industrial IoT",
+  "machine monitoring",
+  "稼働監視"
+ ],
+ "context": "製造業・IoT",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:03:28.412923+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Litmus Edge is a vendor-neutral edge platform with an impressive library of over 250 industrial protocol drivers. It excels at connecting legacy equipment and streaming data to cloud platforms like AWS, Azure, or Snowflake.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best IoT Platforms 2026: Top 8 Ranked & Scored (Honest Review)",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Public pricing page with clear tier breakdown vs. opaque enterprise quotes that lock SMBs out.",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Side-by-side comparison of the 8 platforms we evaluated. Click a platform name to jump to its detailed review below.",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed reviews — top 8 IoT platforms in 2026",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Each platform reviewed below was tested against real deployment scenarios. Pros and cons are based on documented behavior, not marketing copy. Pricing reflects publicly available 2026 information.",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller community vs. ThingsBoard",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Is ThingsBoard really better than commercial alternatives?",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ThingsBoard Alternatives",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. Custom IoT: Choosing the Right Approach",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "The decision between white label vs. custom IoT development comes down to your business goals:",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "PCAN-Explorer 7 vs. Vector CANalyzer: which CAN bus tool fits your bench?",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Compare alternatives",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "When an alert or prediction triggers, the IIoT platform creates or updates a work order in the CMMS with the equipment ID, diagnosis, recommended action, and supporting data. The maintenance planner reviews and schedules the work.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "This guide is updated quarterly. Last review: October 2026.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program for industrial IoT solution providers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The SensFlo Reseller program is a resale arrangement for systems integrators, automation companies and solution providers that want SensFlo inside their own client offering. Resellers sell SensFlo solutions from",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Compare this program vs others",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. Custom IoT: Choosing the Right Approach",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "The decision between white label vs. custom IoT development comes down to your business goals:",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "PCAN-Explorer 7 vs. Vector CANalyzer: which CAN bus tool fits your bench?",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "A Billing Engine Built for Service Providers",
+    "url": "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Telematics & Video Telematics Providers",
+    "url": "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Systems Integrators and Solution Providers",
+    "url": "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. IoT Suite includes a billing engine that allows service providers to define products and prices, organize customer or reseller accounts, view granular monthly billing data and calculate charges from the services and usage assigned to each customer.",
+    "url": "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Mesh Networking vs. Traditional Networking: A Comprehensive Comparison",
+    "url": "https://www.meshtek.com/blog/unlocking-the-power-of-whitelabel-iot-platforms-for-original-equipment-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "MQTT vs CoAP: Choosing the Right IoT Protocol",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Managed service providers",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Setting up as a Hydra reseller starts with an application, not an instant self-service signup. An org owner submits their details for review, and NetNeural's team evaluates fit, branding, and deployment model before granting reseller status - there's no automated path that skips that review. The right next step for anyone interested is",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "MQTT vs CoAP",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight cameras compared over three days, with the last image and reading of each.",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Compared with ThingsBoard",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "ThingsBoard Alternatives",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. Custom IoT: Choosing the Right Approach",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vJHrZZUNzTy9G-1ewppXy78_LwtbQUPULxTpNrFP-QRrD6g9lpM",
+    "pass": 3
+   },
+   {
+    "quote": "The decision between white label vs. custom IoT development comes down to your business goals:",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vJHrZZUNzTy9G-1ewppXy78_LwtbQUPULxTpNrFP-QRrD6g9lpM",
+    "pass": 3
+   },
+   {
+    "quote": "PCAN-Explorer 7 vs. Vector CANalyzer: which CAN bus tool fits your bench?",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vJHrZZUNzTy9G-1ewppXy78_LwtbQUPULxTpNrFP-QRrD6g9lpM",
+    "pass": 3
+   },
+   {
+    "quote": "IoT Platform vs LoRaWAN Network Server",
+    "url": "https://www.iox-connect.com/iot-platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Transform IXON’s powerful IoT platform into your own white label solution. With extensive customization options for the cloud portal, hardware and mobile app, you can deliver a unique experience that strengthens customer relationships.",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. Custom IoT: Choosing the Right Approach",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIeISwGP5x_-FY_z71XCWXYEmqQSlc296GxTUgp1yz_wraFfJQO",
+    "pass": 3
+   },
+   {
+    "quote": "The decision between white label vs. custom IoT development comes down to your business goals:",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIeISwGP5x_-FY_z71XCWXYEmqQSlc296GxTUgp1yz_wraFfJQO",
+    "pass": 3
+   },
+   {
+    "quote": "PCAN-Explorer 7 vs. Vector CANalyzer: which CAN bus tool fits your bench?",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIeISwGP5x_-FY_z71XCWXYEmqQSlc296GxTUgp1yz_wraFfJQO",
+    "pass": 3
+   },
+   {
+    "quote": "Managed service providers",
+    "url": "https://blog.arduino.cc/2024/05/10/explore-two-ways-to-white-label-with-arduino-cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "Review case studies",
+    "url": "https://www.rapidcircuitry.com/solutions/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Drones & UAVs",
+    "url": "https://www.rapidcircuitry.com/solutions/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Before any pricing, our engineers review your concept for technical viability, component availability, and certification pathways — giving you a realistic, risk-aware project outlook.",
+    "url": "https://robustel.com/custom-product/",
+    "pass": 3
+   },
+   {
+    "quote": "Based on the validated brief and feasibility review, we provide detailed NRE costs, unit pricing tiers, timelines, and any recommended design optimisations.",
+    "url": "https://robustel.com/custom-product/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. Custom IoT: Choosing the Right Approach",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vL9IvA8pc0JXeoJON1PQkuqNWN-yVFa3wpqCPjRBKAiRdfEfEj3",
+    "pass": 3
+   },
+   {
+    "quote": "The decision between white label vs. custom IoT development comes down to your business goals:",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vL9IvA8pc0JXeoJON1PQkuqNWN-yVFa3wpqCPjRBKAiRdfEfEj3",
+    "pass": 3
+   },
+   {
+    "quote": "PCAN-Explorer 7 vs. Vector CANalyzer: which CAN bus tool fits your bench?",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vL9IvA8pc0JXeoJON1PQkuqNWN-yVFa3wpqCPjRBKAiRdfEfEj3",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile network operators, telcos, resellers and system integrators use white-label IoT platforms to offer IoT to their customers without building the technology themselves. A white-label platform lets them add a managed IoT product to their range and take it to market under their own brand.",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "SCADA vs PLC vs HMI: Key Differences and How They Work Together",
+    "url": "https://iotellect.com/solutions/iot-platform-for-oems-and-odms",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive vs Preventive Maintenance: Differences, Costs, and Examples",
+    "url": "https://iotellect.com/solutions/iot-platform-for-oems-and-odms",
+    "pass": 3
+   },
+   {
+    "quote": "Design a streamlined integration pathway with third-party cloud platforms like AWS using MQTT protocol drivers applied directly on Iotellect's unified data model",
+    "url": "https://iotellect.com/solutions/iot-platform-for-oems-and-odms",
+    "pass": 3
+   },
+   {
+    "quote": "Not every capability needs to be monetized separately. Some may strengthen customer retention, improve warranty management, or help differentiate new equipment sales. The advantage of a white-label platform is that these offerings can be developed around the OEM's commercial model rather than limited to a generic technology reseller's packaging.",
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. Custom IoT: Choosing the Right Approach",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vKL8kZSvWFkgLOAsGmNbScm9z-UWRFs9Wftu696EhnmIzgu7QmT",
+    "pass": 3
+   },
+   {
+    "quote": "The decision between white label vs. custom IoT development comes down to your business goals:",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vKL8kZSvWFkgLOAsGmNbScm9z-UWRFs9Wftu696EhnmIzgu7QmT",
+    "pass": 3
+   },
+   {
+    "quote": "PCAN-Explorer 7 vs. Vector CANalyzer: which CAN bus tool fits your bench?",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vKL8kZSvWFkgLOAsGmNbScm9z-UWRFs9Wftu696EhnmIzgu7QmT",
+    "pass": 3
+   },
+   {
+    "quote": "Best White-Label IoT Platform 2026 - Reviews, Case Studies & Videos",
+    "url": "https://www.featuredcustomers.com/software/white-label-iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "including reviews, case studies, success stories, customer stories,",
+    "url": "https://www.featuredcustomers.com/software/white-label-iot-platform",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Ubidots is a well-established IoT platform popular with system integrators and SMEs. It offers a clean dashboard builder with 20 or more widget types, supports MQTT and HTTP for device connectivity, and provides white-label options for OEMs. However, native support for heavy industrial protocols like OPC-UA and Modbus is limited.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "mature platform, strong community, good documentation, white-label support, freemium pricing.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tenant & white-label",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "From €100/mo (up to 50 devices) / White-label from €550/mo",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tenant, white-label IoT platform for integrators, strong on LoRaWAN fleets and industrial SCADA integration, with predictable EUR pricing.",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tenant + white-label out of the box",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "See Cloud Studio in action — multi-tenant white-label IoT platform",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "White Label IoT: Launch Smart Products Fast | Grid Connect",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "White Label IoT: How to Launch IoT Products Without Starting from Scratch",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "The pressure to move fast in the IoT space is real. Development cycles can drag, budgets can balloon, and competitors aren't slowing down. For teams that need to bring connected products to market without sinking years into hardware and software engineering, white label IoT offers a clear path forward.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "By customizing and rebranding pre-built IoT devices, companies can launch faster, avoid the costs of ground-up development, and still deliver a product that feels tailored to their audience.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label IoT?",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "White label IoT refers to pre-built connected devices or platforms developed by one company and rebranded by another. These solutions come ready for market, allowing companies to deploy IoT capabilities without having to design and manufacture the hardware or software from the ground up.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you're entering smart home tech, industrial automation, or asset tracking, a white label IoT platform provides a foundation that balances speed, quality, and scalability.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of Accelerating IoT Product Launches with White-Label Solutions",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Time-to-market is critical. With white label IoT, companies can avoid the months or years of product design, testing, and manufacturing that typically accompany custom IoT development.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "How White-Label IoT Reduces Development Costs and Time",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Developing custom IoT devices can be prohibitively expensive. From engineering to firmware, cloud services to connectivity, the scope of work adds up quickly. White label IoT devices slash those costs by offering a complete, working solution out of the box.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "By tapping into a white label IoT platform, businesses receive:",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Pre-Built IoT Devices for Market Success",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding a white label IoT product requires more than cosmetic changes. Packaging, enclosure design, interface customization, and API flexibility all play a role in delivering a finished product that fits your brand and meets your customers’ expectations.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "White Label | Your IoT Platform, Your Brand | Datacake",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "your own brand",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Built for OEMs, device makers, sensor manufacturers and system integrators who want to deliver a polished IoT product to their customers, without building a platform from scratch. Ship in weeks, not years, and keep every pixel of the experience on brand.",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Your logo, colors, favicon and app name across the entire UI",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Building a monitoring platform from scratch takes years and a dedicated engineering team. White Label lets you take the full Datacake feature set and deliver it under your own identity (sensors, dashboards, rules, reports, API) in weeks. Your customers see your product; you stay focused on the hardware, the domain expertise or the service that is actually your edge.",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Replace the Datacake branding end-to-end. Upload your logo, set your brand colors, use your favicon and name the app what you want customers to call it. The platform looks and feels like your own product, from the login screen to the export footer.",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domain with automated SSL",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "CNAME-based custom domain setup",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Emails, reports and exports carry your brand",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Every touchpoint your customers see stays on brand. Alert emails come from your sender address, weekly PDF reports carry your logo and color scheme, and CSV exports use the field names you define. Nothing about the customer experience reveals what is under the hood.",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "PDF reports with your logo, colors and footer",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Built for OEMs, resellers and integrators",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "OEMs & Device Makers",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Run temperature, humidity or cold-chain monitoring as a managed service. White Label makes it look, and bill, like your own product.",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "The SensFlo Reseller program lets certified partners sell and deploy SensFlo inside their own client solutions. You earn a margin on every sale and can co-brand or white-label the platform.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "OEM program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Co-brand or white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Present SensFlo alongside your brand or under it, depending on how you sell to your clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Machine OEMs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Co-brand / white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Can resellers co-brand or white-label SensFlo?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Resellers can co-brand SensFlo alongside their own brand or white-label it under their brand, depending on how they sell to their clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": ". Resellers sell these solutions to their clients, and OEM partners can embed any of them in their own equipment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "License SensFlo and embed it in the equipment you build and sell under your brand.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White Label IoT: Launch Smart Products Fast | Grid Connect",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "White Label IoT: How to Launch IoT Products Without Starting from Scratch",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "The pressure to move fast in the IoT space is real. Development cycles can drag, budgets can balloon, and competitors aren't slowing down. For teams that need to bring connected products to market without sinking years into hardware and software engineering, white label IoT offers a clear path forward.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "By customizing and rebranding pre-built IoT devices, companies can launch faster, avoid the costs of ground-up development, and still deliver a product that feels tailored to their audience.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label IoT?",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "White label IoT refers to pre-built connected devices or platforms developed by one company and rebranded by another. These solutions come ready for market, allowing companies to deploy IoT capabilities without having to design and manufacture the hardware or software from the ground up.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you're entering smart home tech, industrial automation, or asset tracking, a white label IoT platform provides a foundation that balances speed, quality, and scalability.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of Accelerating IoT Product Launches with White-Label Solutions",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "Time-to-market is critical. With white label IoT, companies can avoid the months or years of product design, testing, and manufacturing that typically accompany custom IoT development.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "How White-Label IoT Reduces Development Costs and Time",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "Developing custom IoT devices can be prohibitively expensive. From engineering to firmware, cloud services to connectivity, the scope of work adds up quickly. White label IoT devices slash those costs by offering a complete, working solution out of the box.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "By tapping into a white label IoT platform, businesses receive:",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Ubidots is a well-established IoT platform popular with system integrators and SMEs. It offers a clean dashboard builder with 20 or more widget types, supports MQTT and HTTP for device connectivity, and provides white-label options for OEMs. However, native support for heavy industrial protocols like OPC-UA and Modbus is limited.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "mature platform, strong community, good documentation, white-label support, freemium pricing.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "weaker on native industrial protocol support, limited AI capabilities.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus Edge is a vendor-neutral edge platform with an impressive library of over 250 industrial protocol drivers. It excels at connecting legacy equipment and streaming data to cloud platforms like AWS, Azure, or Snowflake.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "For most SMEs, we recommend starting with a free tier or trial of two or three platforms, running a pilot on your five most critical machines, and making your decision based on real-world experience rather than feature checklists.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial connectors: OPC-UA, S7, Modbus, MQTT",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "What Is an Industrial IoT Platform? The Complete Guide for Manufacturers",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial IoT for Small Manufacturers: Start Smart, Scale Fast",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The industrial monitoring software that connects machines and systems. Talk to your plants.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Integrators running LoRaWAN and industrial fleets for several customers (EU + LATAM)",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tenant, white-label IoT platform for integrators, strong on LoRaWAN fleets and industrial SCADA integration, with predictable EUR pricing.",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "EU low-code IoT platform with the cleanest UX in the SMB tier — strong LoRaWAN integration, weak on industrial protocols.",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial protocol coverage thinner",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "See Industrial IoT overview",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Magic Quadrant for Industrial IoT Platforms",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial IoT",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Routers & Gateways",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Protocols",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you're entering smart home tech, industrial automation, or asset tracking, a white label IoT platform provides a foundation that balances speed, quality, and scalability.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Ethernet Switches",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Protocol Devices",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "pass": 3
+   },
+   {
+    "quote": "Best Industrial IoT Platforms for Manufacturing in 2026: An Independent Comparison",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "For Siemens-equipped plants, Insights Hub (formerly MindSphere) offers the most turnkey path to industrial IoT with native digital twin integration and OEE analytics. AWS IoT SiteWise provides the most flexible pay-as-you-go model for plants already on AWS. Microsoft Azure IoT integrates best with Dynamics 365 and Power BI for unified manufacturing analytics.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "7 Best Industrial IoT Platforms for 2026, Ranked by Use Case",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Custom, based on capability package (Basic/Standard/Premium), asset attribute size, and cloud resources. Free \"Start for Free\" tier available for evaluation. Enterprise deployments typically start at $50,000+/year.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Industrial Edge platform with local compute and analytics",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ThingWorx is the most mature purpose-built IIoT development platform. With Kepware connectivity (supporting 150+ industrial protocols), rapid application development tools, and built-in analytics, ThingWorx provides the most comprehensive toolkit for enterprises building custom IIoT solutions.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Process and heavy industries with existing SCADA/historian infrastructure needing enterprise-grade industrial data management.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "250+ industrial protocols (the broadest native support among edge platforms)",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Edge",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose an Industrial IoT Platform",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "How Industrial IoT Connects to Maintenance and Reliability",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "What is the best Industrial IoT platform for manufacturing?",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "How much does an Industrial IoT platform cost?",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "How does Industrial IoT connect to CMMS and maintenance systems?",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Do I need Industrial IoT if I already have a CMMS?",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program for Industrial IoT Software | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Industrials",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program for industrial IoT solution providers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial software vendors",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Routers & Gateways",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Protocols",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you're entering smart home tech, industrial automation, or asset tracking, a white label IoT platform provides a foundation that balances speed, quality, and scalability.",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Ethernet Switches",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Protocol Devices",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing & Industrial",
+    "url": "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare, Security and Industrial IoT.",
+    "url": "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Start 14-Day Free Trial",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "doing facility, building automation, or industrial deployment work already have the on-site relationships and installation capability that IoT sensor deployment requires. Adding a monitoring platform to an existing integration practice is a natural extension rather than a new business line.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "with existing relationships into food service, cold storage, or industrial accounts can add recurring monitoring revenue on top of hardware sales that would otherwise be one-time transactions, turning a single sale into an ongoing customer relationship.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "a standard 14-day trial",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Start a 14-day free trial — no credit card required.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Start Free Trial",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial IoT Monitoring",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Start your free trial today and experience the power of Cloud Studio IoT",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial IoT platform",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "SMEs need platforms that are affordable from day one, fast to deploy without specialized consultants, intuitive enough for operations teams with no coding background, capable of growing from a 5-machine pilot to a full-factory rollout, and transparent in pricing without hidden enterprise fees.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Free up to 100 devices on one server (commercial use) / Cloud from $10/mo / Commercial license",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "From €100/mo (up to 50 devices) / White-label from €550/mo",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Free up to 5 devices / From €49/mo",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Elemental $0 / Advanced $199/mo / Expert $599/mo — all + $1.50 per device",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "STEM free tier / From $19/mo",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier / From $99/mo / Per-device fees",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "OSS free / Cloud from €15/mo",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Each platform reviewed below was tested against real deployment scenarios. Pros and cons are based on documented behavior, not marketing copy. Pricing reflects publicly available 2026 information.",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Affordable starter tier under €50/mo",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "From €300 per month plus a one-time setup fee of €2,000, including every update we ship. Extended tiers add custom widgets and tailored views.",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Updated October 2026: ThingWorx, Kepware, and Proficy moved to Velotic; AWS SiteWise repriced; Litmus moved to site-based pricing; Gartner renamed its Magic Quadrant.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Custom, based on capability package (Basic/Standard/Premium), asset attribute size, and cloud resources. Free \"Start for Free\" tier available for evaluation. Enterprise deployments typically start at $50,000+/year.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Pay-as-you-go. Data ingestion: $1.00 per million messages. Computations: $0.50 per million. Hot-tier storage: $0.30 per GB-month; warm tier $0.03 per GB-month. Edge data collection pack: free; edge data processing pack: $200 per active gateway per month. Typical small-to-mid plant deployment: $500-$5,000/month depending on asset count and data frequency.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Pay-as-you-go. IoT Hub: free tier available (8,000 messages/day), Standard tier starts at $25/month per unit (400,000 messages/day). Azure Digital Twins, Stream Analytics, and storage billed separately. Enterprise deployments scale from $1,000-$20,000+/month depending on message volume and services used.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Custom, not published publicly. Named-user and device-based licensing. Industry benchmarks suggest mid-size deployments start at $100,000+/year. Enterprise deployments with Kepware and analytics can reach $500,000+/year.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Custom, based on modules and scale. Sold through Rockwell distributors and partners. Typical deployments start at $25,000-$100,000+ depending on modules selected.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "GE Vernova completed the sale of Proficy to TPG on March 2, 2026, for $600 million. Proficy is now sold by Velotic alongside ThingWorx and Kepware (see ThingWorx above). The product names are unchanged;",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Site-based licensing in three tiers: Foundation starts at $1,500 per month; Growth and Scale are quoted.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Site-based, from $1,500/mo",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio IoT is a low-code IoT platform for companies that need to connect devices, watch their data and act on it without building the software themselves. It runs in the cloud or on your own servers, speaks LoRaWAN, MQTT and NB-IoT, connects Modbus equipment through an edge gateway, and is multi-tenant and white-label from day one. Plans start at 100 € per month.",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "From 100 € per month",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "€7 200",
+    "url": "https://2smart.com/white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "€5 900",
+    "url": "https://2smart.com/white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "€7 450",
+    "url": "https://2smart.com/white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "from €850",
+    "url": "https://2smart.com/white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "from €1 000",
+    "url": "https://2smart.com/white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "A €50 billion worldwide revenue opportunity in data monetisation by the end of 2020",
+    "url": "https://iotbusinessnews.com/2016/09/02/80966-podsystemm2m-opens-iot-connectivity-oem-software-partners-launch-white-label-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Resale. You buy licenses or seats at a discount and resell them to the client, who knows they are buying the vendor’s product. Typical wholesale discounts run 20 to 35 percent off list. Your margin is that spread, plus whatever you charge for integration and support on top. Better, but the client sees the vendor’s brand and price, which caps what you can charge and makes you replaceable.",
+    "url": "https://tago.io/blog/how-iot-reseller-programs-and-margins-work",
+    "pass": 3
+   },
+   {
+    "quote": "Telemetry2U offers a simple pricing structure for organisations launching a white labelled IoT platform. A one time setup fee establishes your branded environment, followed by a predictable annual platform licence while you manage your own customer deployments.",
+    "url": "https://telemetry2u.com/pricing/platform-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$3,000",
+    "url": "https://telemetry2u.com/pricing/platform-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$2,000",
+    "url": "https://telemetry2u.com/pricing/platform-white-label",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Book 20 minutes",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Meddle writes to your machines: book 20 minutes and we’ll show you.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "fastest time to value, AI-powered analytics included, no hardware required, intuitive drag-and-drop interface, cloud and on-premise options.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Rayven is an Australian platform that combines IoT connectivity, AI analytics, workflow automation, and a drag-and-drop UI builder in a single product. It supports MQTT, OPC-UA, Modbus, LoRaWAN, and API integrations.",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "No-code setup",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "How fast can a non-developer go from device to dashboard? UI workflows, drag-and-drop builders, template marketplace.",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Fast onboarding — minutes from API key to chart",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Heavy onboarding investment required",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Create your free account and start monitoring temperature, humidity and air quality in minutes, or book a demo to see how Datacake fits your use case.",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us about the equipment you build and where it is sold. The application call can take less than 15 minutes, and the partner team will follow up with an answer.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "What onboarding actually looks like",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "From zero to IoT in minutes, not months.",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "No-code rules plus a JavaScript scripting engine",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "5–30 MINUTES",
+    "url": "https://www.iox-connect.com/iot-platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Branding is minutes. The domain is about half an hour, most of it waiting for a certificate to issue. There is no professional services engagement in either.",
+    "url": "https://www.iox-connect.com/iot-platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, with IXON Studio, you have full control over the user interface. You can create custom login pages, drag-and-drop dashboards and branded machine cards to make the portal uniquely yours.",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "Streamline onboarding and compliance processes with custom legal URLs",
+    "url": "https://blog.arduino.cc/2024/05/10/explore-two-ways-to-white-label-with-arduino-cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "No-code app builder",
+    "url": "https://2smart.com/white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Low code No code IoT Platform",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by workM8 support and onboarding",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-drop logic. No code required.",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "No-Code Workflow Builder",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Configure complex IoT workflows with a drag-and-drop builder. No dev team required for standard deployments.",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding & Provisioning Tools",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Activate new customers in minutes with automated onboarding and bulk provisioning, whether one business or a thousand.",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Talk to our partnerships team about commercial models, technical onboarding and what a white-label deployment looks like for your business.",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Sync inventory management solutions with sensor-based RFID inputs using drag-and-drop templates within Iotellect's integration suite, enhancing stock accuracy across distributed locations",
+    "url": "https://iotellect.com/solutions/iot-platform-for-oems-and-odms",
+    "pass": 3
+   },
+   {
+    "quote": "A CPS Protection Platform that enables premium service, and control over industrial assets. Drive new capabilities with no-code applications that deliver immediate value.",
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "pass": 3
+   },
+   {
+    "quote": "Device Onboarding",
+    "url": "https://telemetry2u.com/pricing/platform-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding and managing customers or dealers becomes complex at scale.",
+    "url": "https://polargridtech.in/products/white-label-platform.html",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Built for OEMs, resellers and integrators",
+    "url": "https://datacake.co/platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "ThingWorx Flow connects to SAP, Salesforce, and other enterprise systems; REST API for CMMS platforms. Rockwell Automation resells it as FactoryTalk InnovationSuite.",
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program for Industrial IoT Software | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Resale margin",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program for industrial IoT solution providers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The SensFlo Reseller program lets certified partners sell and deploy SensFlo inside their own client solutions. You earn a margin on every sale and can co-brand or white-label the platform.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller partner program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The SensFlo Reseller program is a resale arrangement for systems integrators, automation companies and solution providers that want SensFlo inside their own client offering. Resellers sell SensFlo solutions from",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": ", and keep a margin on each sale.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Because resellers deploy SensFlo for their clients, their architects and engineers complete SensFlo certification before the first engagement. Tier 1 client support is optional, and resellers who take it on certify their engineers to handle first-line questions. Companies that want to build SensFlo into their own hardware should look at the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller partners earn?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers earn a margin on every SensFlo solution they sell, and deal registration protects the opportunities you bring in.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Margin on every sale",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "and earn a resale margin on each deployment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program require?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Products and prices for reseller sub-accounts",
+    "url": "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. IoT Suite includes a billing engine that allows service providers to define products and prices, organize customer or reseller accounts, view granular monthly billing data and calculate charges from the services and usage assigned to each customer.",
+    "url": "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label IoT Platform for MSPs and Resellers | NetNeural",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label IoT Monitoring for MSPs and Resellers",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Reselling under your own brand gets a new revenue line live in weeks. Building your own platform takes years.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Why build your own IoT platform when you can resell one",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Inside the Hydra reseller program: branding, provisioning, revenue share",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "NetNeural's Hydra reseller program is built around three things a reseller actually needs to sell IoT monitoring under their own name: a branded customer experience, a provisioning workflow that doesn't require reseller engineering time, and a revenue share structure that makes the economics work.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "On branding, the dashboard, alerts, and reports a reseller's customers see carry the reseller's own name and identity, not NetNeural's. A customer signing up through a reseller shouldn't need to know NetNeural exists at all unless the reseller chooses to disclose it.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "On provisioning, new customer accounts and sensor deployments go through a workflow built for a reseller managing many end customers, not a single-tenant setup process repeated manually for each one. Hardware ships, gets placed, and reports into the right customer's branded environment without the reseller needing to build any of that infrastructure themselves.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "On revenue share, the rate is set by deployed sensor volume rather than negotiated case by case. Every reseller starts at 10% off list and moves up a published ladder as their deployed base grows:",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "(250-1,499) earns 15%, plus a 1% performance bonus and a 2% override on sub-resellers.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial model underneath a reseller agreement is per-sensor, per-month. There is no base platform fee on a paid plan and no seat licence to buy before the first sensor reports - a reseller's cost scales with what they actually have deployed and billing, which means a pilot of five sensors costs roughly a fiftieth of a rollout of two hundred and fifty rather than carrying a minimum.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "The reseller discount applies to that per-sensor rate, so margin is the gap between the discounted rate a reseller pays and whatever they choose to charge their own customer. NetNeural does not set or see the reseller's end-customer price - the reseller owns the commercial relationship, including what the monitoring is worth to that account.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "For deployments with no existing connectivity, a cellular gateway is available as hardware, and the LoRaWAN path covers sites where running a sensor network over kilometres is cheaper than putting a SIM in every device. Those are options, not requirements - a reseller bringing their own connectivity is the expected case, not an exception the platform tolerates.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "There's no fixed countdown - ramp time depends on how quickly a reseller has pilot customers ready to deploy to, not a calendar. What is fixed is the process: once an application is approved, a new reseller's dashboard opens with a guided walkthrough covering payouts, downline (recruiting sub-resellers), invites, and support, so the mechanics of the program are covered from day one.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "From there, the shape of a reseller's early rollout is: get the branded portal configured and tested, run an initial deployment with one or two pilot customers to validate the provisioning workflow end to end, then scale to a broader customer base once that pilot deployment is working smoothly.",
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I resell it under my own brand?",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.iox-connect.com/iot-platform/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Provide your end-users, employees, partners, and resellers with cutting-edge device, product, and user management capabilities under your brand.",
+    "url": "https://2smart.com/white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you’re an OEM launching branded routers, an Enterprise needing secure, compliant deployments, or an MNO scaling IoT services, our in-house design, manufacturing, and compliance framework accelerates your go-to-market while maximising margin.",
+    "url": "https://robustel.com/custom-product/",
+    "pass": 3
+   },
+   {
+    "quote": "Get a connectivity solution that works seamlessly within your existing infrastructure and meets your operational goals. For enterprises, hardware is not a product to resell, it’s a mission-critical enabler. We design and build tailored devices that improve uptime, enhance security, integrate with your IT/OT systems, and keep your operations running smoothly across sites, regions, and continents.",
+    "url": "https://robustel.com/custom-product/",
+    "pass": 3
+   },
+   {
+    "quote": "For Resellers & System Integrators",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue share and reseller models available",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Track customer usage with reseller-level dashboards, per-account data, exportable reports, and consumption trends to drive upsell and support.",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile network operators, telcos, resellers and system integrators use white-label IoT platforms to offer IoT to their customers without building the technology themselves. A white-label platform lets them add a managed IoT product to their range and take it to market under their own brand.",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Resellers",
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "pass": 3
+   },
+   {
+    "quote": "For original equipment manufacturers (OEMs), launching a connected service platform generally means choosing between three approaches: building software internally, reselling another company's solution, or white labeling an established platform.",
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "pass": 3
+   },
+   {
+    "quote": "Build, resell, or white label: three ways to launch connected services",
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "pass": 3
+   },
+   {
+    "quote": "Resell a partner's platform.",
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "pass": 3
+   },
+   {
+    "quote": "Reselling allows OEMs to offer connected services with relatively little development effort. The technology is already available, and deployment can be comparatively fast. However, the third-party brand remains visible, and the OEM may have less control over the experience, differentiation, and long-term direction of the offering.",
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "pass": 3
+   },
+   {
+    "quote": "The distinction between these models is important. White labeling is not simply reselling software with a different logo. Done well, it allows the OEM to develop a recognizable service offering while relying on a proven technological foundation.",
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "pass": 3
+   },
+   {
+    "quote": "Not every capability needs to be monetized separately. Some may strengthen customer retention, improve warranty management, or help differentiate new equipment sales. The advantage of a white-label platform is that these offerings can be developed around the OEM's commercial model rather than limited to a generic technology reseller's packaging.",
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "pass": 3
+   },
+   {
+    "quote": "IoT Partner Program: Sell IoT Monitoring Under Your Brand",
+    "url": "https://www.iox-connect.com/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.iox-connect.com/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "IoT Partner Program",
+    "url": "https://www.iox-connect.com/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Our IoT partner program is one thing, done properly: you sell monitoring to your customers as a service, on a platform that carries your name and sits on your domain. ioX-Pulse is the software your customers sign in to. As far as they are concerned, you built it.",
+    "url": "https://www.iox-connect.com/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Partners are usually service providers, system integrators or specialists who already sell to a market and want monitoring to be part of what they offer. As a white label reseller you own the customer and the commercial relationship. We own the platform and everything under it. Here is where the line falls.",
+    "url": "https://www.iox-connect.com/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "How does the ioX-Connect IoT partner program work?",
+    "url": "https://www.iox-connect.com/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "How IoT Reseller Programs Work and What Margins Are Typical | TagoIO",
+    "url": "https://tago.io/blog/how-iot-reseller-programs-and-margins-work",
+    "pass": 3
+   },
+   {
+    "quote": "How IoT Reseller Programs Work and What Margins Are Typical",
+    "url": "https://tago.io/blog/how-iot-reseller-programs-and-margins-work",
+    "pass": 3
+   },
+   {
+    "quote": "How IoT reseller and partner programs actually work, what margins are realistic, and how to turn a platform fee into a recurring revenue line. A practical guide for system integrators and MSPs.",
+    "url": "https://tago.io/blog/how-iot-reseller-programs-and-margins-work",
+    "pass": 3
+   },
+   {
+    "quote": "Every IoT platform vendor says they have a partner program. Very few explain what you actually earn from it, or how the money moves once a client is live. So integrators sign up, get a discount code, and discover months later that the “margin” was a one-time markup on a license, not the recurring business they thought they were building.",
+    "url": "https://tago.io/blog/how-iot-reseller-programs-and-margins-work",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Best IIoT Platforms for SMEs in 2026 : Honest Comparison — Best IIoT Platforms for SMEs in 2026 : Honest Comparison meddleconnect.com https://www.meddleconnect.com > blog",
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best IoT Platforms 2026 : Top 8 Ranked & Scored (Honest ... — Best IoT Platforms 2026 : Top 8 Ranked & Scored (Honest ... Cloud Studio IoT https://cloudstudioiot.com > best-iot-p...",
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best Industrial IoT Platforms for Manufacturing in 2026 - Reliable — Best Industrial IoT Platforms for Manufacturing in 2026 - Reliable reliamag.com https://reliamag.com > guides > best-i...",
+    "url": "https://reliamag.com/guides/best-industrial-iot-platforms-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "9 Best Open-Source IoT Platforms Compared in 2026 — 9 Best Open-Source IoT Platforms Compared in 2026 Promeraki https://promeraki.com > blog > open-...",
+    "url": "https://promeraki.com/blog/open-source-iot-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "White Label IoT Platform - workM8 — White Label IoT Platform - workM8 workM8 https://workm8.io > Partners",
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "White - Label IIoT Platforms for OEMs - ei3 — White - Label IIoT Platforms for OEMs - ei3 ei3 https://ei3.com > Iiot Insights",
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "pass": 3
+   },
+   {
+    "quote": "White - Label IoT Platform | Custom Domain Deployment — White - Label IoT Platform | Custom Domain Deployment Telemetry2U https://telemetry2u.com > pricing > pl...",
+    "url": "https://telemetry2u.com/pricing/platform-white-label",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Can you work with clients in the US, Europe and Japan?",
+    "url": "https://www.rapidcircuitry.com/solutions/white-label",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datacake.co/platform/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tnfsolutions.com/solutions/iot-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meshtek.com/blog/unlocking-the-power-of-whitelabel-iot-platforms-for-original-equipment-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vJHrZZUNzTy9G-1ewppXy78_LwtbQUPULxTpNrFP-QRrD6g9lpM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newboundary.com/internet-of-things/private-label/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iox-connect.com/iot-platform/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.stridelinx.com/hc/en-us/articles/360019144978-Configure-your-company-identity",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIeISwGP5x_-FY_z71XCWXYEmqQSlc296GxTUgp1yz_wraFfJQO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.arduino.cc/2024/05/10/explore-two-ways-to-white-label-with-arduino-cloud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapidcircuitry.com/solutions/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://2smart.com/white-label-solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robustel.com/custom-product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vL9IvA8pc0JXeoJON1PQkuqNWN-yVFa3wpqCPjRBKAiRdfEfEj3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://workm8.io/partners/white-label-iot-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/7181/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://news.sap.com/japan/2020/06/iot-preventive-maintenance/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article17.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://article.murata.com/ja-jp/article/dx-smart-factory-3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iotellect.com/solutions/iot-platform-for-oems-and-odms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vKL8kZSvWFkgLOAsGmNbScm9z-UWRFs9Wftu696EhnmIzgu7QmT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/software/white-label-iot-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iotbusinessnews.com/2016/09/02/80966-podsystemm2m-opens-iot-connectivity-oem-software-partners-launch-white-label-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iox-connect.com/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hyperionpartners.net/service/white-label-iot-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vKOlWGcolXIUW6vnTqoCAz5zTJILamHeU_ZOmwDZzbAkVe6AccO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tago.io/blog/how-iot-reseller-programs-and-margins-work",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/partner-program/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industry.csunnet.co.jp/column/column/iot-equipment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.rs-online.com/web/content/discovery/ideas-and-advice/predictive-maintenance-in-oem?srsltid=AYCX9vKYlASZs0JBGlrRqqd_2-UWZVjRF-5tcMCAwg21FTmQRS-yl8xN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-denshi.co.jp/sc/product_service/solution/case/06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://serverless.co.jp/blog/olv4sck7l3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntt-tx.co.jp/column/tec/bi_sol/20190620/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pasonacareer.jp/job/83133213/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eqptmainte-base.com/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/IOT%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E5%B7%A5%E5%A0%B4-iot-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E6%B1%82%E4%BA%BA-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cbrands.wd5.myworkdayjobs.com/ja-JP/CBI_External_Careers/job/Intern--AI-Enablement_R-41526/apply",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://telemetry2u.com/pricing/platform-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polargridtech.in/products/white-label-platform.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minew.com/our-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodfirms.co/internet-of-things/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceforge.net/software/industrial-iot/japan/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label industrial IoT platform 2026",
+   "results": [
+    "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "https://cloudstudioiot.com/best-iot-platforms-2026",
+    "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ",
+    "https://datacake.co/platform/white-label",
+    "https://reliamag.com/guides/best-industrial-iot-platforms-2026/",
+    "https://promeraki.com/blog/open-source-iot-platforms",
+    "https://blog.iotellect.com/best-industrial-iot-platforms-in-2026/",
+    "https://kiloiot.io/blog/best-iot-platform/",
+    "https://www.gartner.com/reviews/market/global-industrial-iot-platforms",
+    "https://www.guideflow.com/blog/industrial-iot-platform"
+   ]
+  },
+  {
+   "query": "white label industrial IoT platform reseller program agencies",
+   "results": [
+    "https://tnfsolutions.com/solutions/iot-reseller/",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIdOMB3_LQMwcspApAQicAXZduLpzMLC38U5VKIqRTuDE2oV-XO",
+    "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "https://www.meshtek.com/blog/unlocking-the-power-of-whitelabel-iot-platforms-for-original-equipment-manufacturers/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.iox-connect.com/partner-program",
+    "https://omniwot.com/technology-partners/",
+    "https://zendit.io/white-label-esim-reseller/"
+   ]
+  },
+  {
+   "query": "white label industrial IoT platform free trial pricing",
+   "results": [
+    "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "https://cloudstudioiot.com/iot-platform",
+    "https://datacake.co/platform/white-label",
+    "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vJHrZZUNzTy9G-1ewppXy78_LwtbQUPULxTpNrFP-QRrD6g9lpM",
+    "https://newboundary.com/internet-of-things/private-label/",
+    "https://www.iox-connect.com/iot-platform/white-label",
+    "https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026",
+    "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "https://ubidots.com/",
+    "https://www.blynk.io/pricing"
+   ]
+  },
+  {
+   "query": "white label industrial IoT platform rebrand your logo custom domain",
+   "results": [
+    "https://www.iox-connect.com/iot-platform/white-label",
+    "https://datacake.co/platform/white-label",
+    "https://support.stridelinx.com/hc/en-us/articles/360019144978-Configure-your-company-identity",
+    "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIeISwGP5x_-FY_z71XCWXYEmqQSlc296GxTUgp1yz_wraFfJQO",
+    "https://blog.arduino.cc/2024/05/10/explore-two-ways-to-white-label-with-arduino-cloud/",
+    "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "https://webflow.com/blog/white-label-landing-page-builders",
+    "https://datakubo.com/white-label",
+    "https://thinger.io/platform/white-label/"
+   ]
+  },
+  {
+   "query": "white label industrial IoT platform Japan Japanese",
+   "results": [
+    "https://www.rapidcircuitry.com/solutions/white-label",
+    "https://datacake.co/platform/white-label",
+    "https://2smart.com/white-label-solution",
+    "https://robustel.com/custom-product/",
+    "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vL9IvA8pc0JXeoJON1PQkuqNWN-yVFa3wpqCPjRBKAiRdfEfEj3",
+    "https://workm8.io/partners/white-label-iot-solution/",
+    "https://toolsense.io/product/iot-platform",
+    "https://www.ipa.go.jp/en/security/jc-star/index.html",
+    "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "https://setuiot.com/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル予知保全・工場IoT 日本",
+   "results": [
+    "https://www.fujielectric.co.jp/about/column/detail/fa_08.html",
+    "https://metoree.com/categories/7181/",
+    "https://news.sap.com/japan/2020/06/iot-preventive-maintenance/",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article17.html",
+    "https://article.murata.com/ja-jp/article/dx-smart-factory-3",
+    "https://industry.csunnet.co.jp/column/column/iot-equipment",
+    "https://mono.ipros.com/cg2/%E4%BA%88%E7%9F%A5%E4%BF%9D%E5%85%A8/",
+    "https://www.ntt-tx.co.jp/column/tec/bi_sol/20190620/",
+    "https://www.optimax.co.jp/ai-information/machine-learning-predictive-maintenance/",
+    "https://www.ai-souken.com/article/predictive-maintenance-ai"
+   ]
+  },
+  {
+   "query": "white label industrial IoT platform OEM partnership",
+   "results": [
+    "https://iotellect.com/solutions/iot-platform-for-oems-and-odms",
+    "https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems",
+    "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vKL8kZSvWFkgLOAsGmNbScm9z-UWRFs9Wftu696EhnmIzgu7QmT",
+    "https://www.featuredcustomers.com/software/white-label-iot-platform",
+    "https://www.rapidcircuitry.com/solutions/white-label",
+    "https://iotbusinessnews.com/2016/09/02/80966-podsystemm2m-opens-iot-connectivity-oem-software-partners-launch-white-label-solution/",
+    "https://www.meshtek.com/blog/unlocking-the-power-of-whitelabel-iot-platforms-for-original-equipment-manufacturers/",
+    "https://m2miotconnect.com/white-label-iot-platform-for-iot-partners/",
+    "https://robustel.com/custom-product/",
+    "https://www.viaanix.com/oem"
+   ]
+  },
+  {
+   "query": "white label industrial IoT platform partner program pricing",
+   "results": [
+    "https://www.iox-connect.com/partner-program",
+    "https://hyperionpartners.net/service/white-label-iot-program/",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vKOlWGcolXIUW6vnTqoCAz5zTJILamHeU_ZOmwDZzbAkVe6AccO",
+    "https://trafalgarwireless.com/white-label-iot-connectivity-platform/",
+    "https://www.rapidcircuitry.com/solutions/white-label",
+    "https://tago.io/blog/how-iot-reseller-programs-and-margins-work",
+    "https://viirtue.com/partner-program/white-label/",
+    "https://m2miotconnect.com/new-iot-saas-platform-var-partner-program/",
+    "https://elioplus.com/white-label/vendors/iot"
+   ]
+  },
+  {
+   "query": "ホワイトラベル予知保全・工場IoT OEM提供",
+   "results": [
+    "https://www.fujielectric.co.jp/about/column/detail/fa_08.html",
+    "https://industry.csunnet.co.jp/column/column/iot-equipment",
+    "https://jp.rs-online.com/web/content/discovery/ideas-and-advice/predictive-maintenance-in-oem?srsltid=AYCX9vKYlASZs0JBGlrRqqd_2-UWZVjRF-5tcMCAwg21FTmQRS-yl8xN",
+    "https://www.sun-denshi.co.jp/sc/product_service/solution/case/06.html",
+    "https://serverless.co.jp/blog/olv4sck7l3/",
+    "https://www.ntt-tx.co.jp/column/tec/bi_sol/20190620/",
+    "https://www.sanshin.co.jp/solution/iot/white-label/",
+    "https://news.sap.com/japan/2020/06/iot-preventive-maintenance/",
+    "https://atfields.com/blog/yochihozen/13",
+    "https://aipicks.jp/glossary/white-label-ai"
+   ]
+  },
+  {
+   "query": "ホワイトラベル予知保全・工場IoT 代理店募集",
+   "results": [
+    "https://www.pasonacareer.jp/job/83133213/",
+    "https://www.eqptmainte-base.com/case/",
+    "https://mono.ipros.com/cg1/IOT%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/",
+    "https://jp.indeed.com/q-%E5%B7%A5%E5%A0%B4-iot-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E6%B1%82%E4%BA%BA-%E6%B1%82%E4%BA%BA.html",
+    "https://cbrands.wd5.myworkdayjobs.com/ja-JP/CBI_External_Careers/job/Intern--AI-Enablement_R-41526/apply",
+    "http://hozen-lab.co.jp/recruit/",
+    "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/ja/sites/CX_1/job/9757/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000004132405",
+    "https://www.kistler.com/JP/ja/sales-and-application-engineer/job/3828",
+    "https://www.r-agent.com/job_search/kw/%E5%A1%97%E8%A3%85%20%E5%B7%A5%E5%A0%B4%20%E4%BF%9D%E5%85%A8/",
+    "https://onebot.cloud/ja/partner"
+   ]
+  },
+  {
+   "query": "white label industrial IoT platform distributor Japan",
+   "results": [
+    "https://www.rapidcircuitry.com/solutions/white-label",
+    "https://datacake.co/platform/white-label",
+    "https://robustel.com/custom-product/",
+    "https://2smart.com/white-label-solution",
+    "https://telemetry2u.com/pricing/platform-white-label",
+    "https://polargridtech.in/products/white-label-platform.html",
+    "https://www.netneural.ai/resources/white-label-iot-monitoring/",
+    "https://workm8.io/partners/white-label-iot-solution/",
+    "https://www.minew.com/our-services/",
+    "https://www.goodfirms.co/internet-of-things/japan"
+   ]
+  }
+ ],
+ "missing": {}
+}

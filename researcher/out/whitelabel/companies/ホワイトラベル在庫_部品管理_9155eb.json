@@ -1,0 +1,2405 @@
+{
+ "name": "ホワイトラベル在庫・部品管理",
+ "en": "white label inventory management software",
+ "aliases": [
+  "white-label inventory software",
+  "inventory management",
+  "parts inventory",
+  "warehouse management",
+  "在庫管理"
+ ],
+ "context": "製造業・在庫",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:09:34.573035+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Knack vs Airtable vs Zoho Creator: Comparing No-Code Database Builders [2026]",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Use Knack’s Patient Portal Template to give patients, providers, and…",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Knack’s Telemedicine App Template gives healthcare providers, clinics, and independent…",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Knack vs VertiComply: Which AI Healthcare App Builder Fits?",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": ": White-label inventory systems provide significant cost savings compared to developing a custom solution from scratch. Businesses don’t have to invest in expensive development, testing, and maintenance phases, making it an affordable option for companies of all sizes.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": ": With multiple agencies potentially using the same white-label platform, there’s a risk that products and services may look similar to competitors.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "This is particularly attractive for IT consultants, supply chain management firms, or industry-specific software providers who want to provide comprehensive solutions to their clients. White-label software allows them to brand the system as their own, offering a seamless experience that enhances their portfolio and increases customer loyalty.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "This strategy helps agencies position themselves as full-service providers, strengthening client relationships and differentiating themselves from competitors who might not offer this advanced, customizable technology.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Softr vs other software",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. You can manage multiple vendors, diverse warehouse teams, or even different client accounts within a single white label portal. Each user only accesses the specific SKU data, purchase orders, or shipment tracking assigned to them based on their unique login and role. This is perfect for 3PL providers or wholesalers who need to provide distinct views for different stakeholders.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "billing software for service providers",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Glide",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Airtable Interfaces",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Stacker",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Retool",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Noloco",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Bubble",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Airtable",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Zapier Tables",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Lovable",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Bolt",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Replit",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Online retailers use white label inventory systems to manage stock, track orders, and fulfill across platforms like",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "to skincare, need accurate stock levels to meet demand without piling up extra inventory. A white label solution keeps inventory data live across warehouses or storefronts.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Compared to building a system from the ground up, using a white-label platform cuts down significantly on costs. Companies can avoid high expenses related to software development, ongoing maintenance, and lengthy testing cycles, making it a viable solution for both startups and growing enterprises.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What are The 5 Best White Label Software to Resell?",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS providers, eCommerce businesses, IT consultants, agencies, wholesalers, and supply chain firms often adopt white label inventory systems to expand their services without building from scratch. And even retailers looking for a customizable inventory platform without developing one themselves.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Look for core features like real-time stock tracking, order management, barcode/RFID support, multi-channel syncing, and pre-built integrations with platforms like Shopify or accounting tools.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing varies. Some providers charge monthly subscriptions, others apply one-time setup or licensing fees. It depends on features, users, data volume, and integrations.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Most white label solutions offer API access and built-in integrations with eCommerce platforms, CRMs, shipping tools, and ERP systems for a smoother workflow.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "POS Review",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventory Management Software in 2026: Ratings & Reviews",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "With Zoho Inventory, sync multiple channels, automate stock reorders, and integrate various platforms like Amazon, eBay, Shopify, and more.",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Small shops, service providers, basic stock tracking",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, most inventory management tools listed above, like GOIS, can easily integrate multiple ecommerce platforms like Shopify, WooCommerce, Amazon, and POS systems for central visibility.",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "have emerged as a particularly appealing option among the numerous white label solutions available, owing to the explosive demand for solutions that provide",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White label solutions help you develop your brand for selling software.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical expertise is supplied by providers, allowing you to focus on building relationships and growing your client base in the United States.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "This calls for POS platforms that are adaptable and scalable, an area in which white label solutions excel.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "This gives resellers a great opportunity to offer reasonably priced, modern alternatives.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Small business owners in the United States frequently prefer localized, individualized support over big, one-size-fits-all providers.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Not necessarily. Most providers, including Quantic POS, offer comprehensive training, onboarding, and support so you can succeed without being a developer.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Compared to custom development, white label inventory software cuts your upfront investment dramatically while delivering enterprise-grade results.",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Stockouts, late shipments, and incorrect orders destroy customer relationships. With accurate, real-time inventory data flowing through your operation, your team fulfills orders faster and more reliably. Higher fulfillment accuracy translates directly into better reviews, repeat purchases, and lower return rates.",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "The platform supports integrations with popular ERP systems, accounting software, eCommerce platforms, shipping providers, payment gateways, and business intelligence tools.",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Best Sortly Alternatives for the Trades",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Weighing the cost vs. the benefits",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs Cin7",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs Sortly",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs inFlow Inventory",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs Zoho Inventory",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs Fishbowl",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs Odoo",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs Katana MRP",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs MRPeasy",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs Brightpearl",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed vs MYOB",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashed Reviews",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "reviews",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label Inventory Software: Complete Guide - Knack",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Inventory Software: Complete Guide",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label inventory software is a customizable inventory management solution licensed by agencies that businesses can purchase, rebrand, and use as their own without in-house development.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label inventory software can be resold by agencies that rebrand the solution and offer it to their clients as part of their own service offerings.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label inventory software provides quick implementation, cost savings, and customization options, allowing agencies to rebrand and tailor the solution to their clients’ needs. It’s scalable as operations grow and includes advanced features like real-time tracking and supply chain integration.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Watch white-label inventory management in Knack",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What is White-Label Inventory Software?",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label inventory software is a customizable solution that allows agencies and businesses to rebrand and use",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using white-label solutions can maintain their branding and identity while leveraging the advanced functionality of a third-party provider’s software. The versatility of white-label solutions makes them valuable across numerous sectors where efficient inventory management is key to success.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re an agency or business looking to sell white-label inventory software, it’s important to know what industries you can target. Below, we’ve outlined some common industries that use this software and how they use them.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "How Does White-Label Inventory Software Work?",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label inventory software allows agencies and businesses to license a fully developed",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Core Features of White-Label Inventory Software",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label inventory management systems come equipped with a range of powerful features designed to streamline your client’s business operations and improve efficiency, including:",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of Using a White-Label Solution for Inventory Management",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Build a custom white label inventory management software | Softr",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Build white label inventory management software",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Track stock levels and manage orders in a white label inventory management software built with AI to fit your business's workflow.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Provide customers with a white-labeled interface to view available products and check order statuses under your own brand.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Use Google, email, or SSO logins to give your team fast, secure access to the white label software—no IT tickets needed.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Build your white label inventory management software in minutes with AI—no manual setup or coding required.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "What is a white label inventory management software?",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "What are the benefits of building white label inventory management software with Softr?",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "What types of features can I build into my white label inventory management software?",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "How can I \"vibe code\" a white label inventory management software with Softr?",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Can I manage multiple vendors or warehouse teams in the same white label inventory management software?",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. You can manage multiple vendors, diverse warehouse teams, or even different client accounts within a single white label portal. Each user only accesses the specific SKU data, purchase orders, or shipment tracking assigned to them based on their unique login and role. This is perfect for 3PL providers or wholesalers who need to provide distinct views for different stakeholders.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Can I white-label my inventory management software in Softr, including using my own branding?",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, you can fully white-label your inventory software. You can apply your own logo, brand colors, custom fonts, and a custom domain to make the platform appear as your own proprietary internal tool or a premium service for your clients. All Softr branding can be removed, ensuring your company’s identity is front and center during every inventory check.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Can I customize the design and layout of my white label inventory management software?",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Considering A White Label Inventory Management Software? Here's What to Know in Advance | ConnectPOS",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White label POS",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Considering A White Label Inventory Management Software? Here’s What to Know in Advance",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "white label inventory management software",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label Inventory Management Software?",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Industries That Use White Label Inventory Software",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Core Features of White Label Inventory Management Software",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of Using a White Label Inventory Management Software",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Drawbacks of White Label Inventory Management Software",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "ConnectPOS – Your Trusted White Label Management Inventory Partner for Growth",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "FAQs: White Label Inventory Management Software",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White label inventory management software allows you to manage stock using a fully built system under your own brand, with no need for in-house development.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "A white label inventory management software includes essential tools like real-time tracking, automated order processing, and multi-channel syncing to simplify daily operations.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White label inventory management software",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "is a ready-made system that agencies or businesses can rebrand and use as their own. Instead of building inventory tools from scratch, they license the software and customize it to match their brand.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a White Label POS Reseller | Expert Guide 2026",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label POS",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "12 Reasons to Become a White Label Software Reseller in 2026",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "The white label software reseller model is one of the most profitable opportunities.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White label POS systems",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "have emerged as a particularly appealing option among the numerous white label solutions available, owing to the explosive demand for solutions that provide",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Becoming a white label software reseller in 2026",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Becoming a White-Label Software Reseller in 2026",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "As a white-label point-of-sale (POS) reseller, you can meet this demand by",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "become a white label software reseller, you can bypass the overhead expenses associated with research, development, and testing",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "When you provide white label point-of-sale (POS) solutions, your customers typically pay either on a monthly or annual basis.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "However, since you are a reseller of white label products, you can enter the market almost immediately.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "apply your branding, set up your pricing structure, and start onboarding customers",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "5. Build Your Brand Authority",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White label solutions help you develop your brand for selling software.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Affiliates",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Become An Affiliate",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Resell Knack to your clients",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Reselling White-Label Inventory Management Software",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies and businesses might choose to resell white-label inventory management systems to expand their service offerings and create new revenue streams. By licensing an established software platform, resellers can offer a high-quality, customizable product without investing in costly software development themselves.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. You can manage multiple vendors, diverse warehouse teams, or even different client accounts within a single white label portal. Each user only accesses the specific SKU data, purchase orders, or shipment tracking assigned to them based on their unique login and role. This is perfect for 3PL providers or wholesalers who need to provide distinct views for different stakeholders.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Affiliate",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller POS",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The National Federation of Independent Business noted in June 2025 that the share of small firms worried about excess stock nearly doubled versus the previous month, reflecting how inventory missteps quickly erode margins.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What are The 5 Best White Label Software to Resell?",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS providers, eCommerce businesses, IT consultants, agencies, wholesalers, and supply chain firms often adopt white label inventory systems to expand their services without building from scratch. And even retailers looking for a customizable inventory platform without developing one themselves.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "From startups, wholesalers, accounting-led workflows can be streamlined with this inventory management software in 2026.",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Fast-scaling retail, wholesale, and warehouse-driven enterprises",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Hassle Free Upgrades with Dynamics GP Resellers!",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a White Label POS Reseller | Expert Guide 2026",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "12 Reasons to Become a White Label Software Reseller in 2026",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "The white label software reseller model is one of the most profitable opportunities.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Becoming a white label software reseller in 2026",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Becoming a White-Label Software Reseller in 2026",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "As a white-label point-of-sale (POS) reseller, you can meet this demand by",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "2. High-Profit Margins Without Development Costs",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "become a white label software reseller, you can bypass the overhead expenses associated with research, development, and testing",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "While maintaining high profit margins,",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "The burden of in-house development is not something that many United States-based resellers have to worry about, as they have consistent recurring revenues.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "However, since you are a reseller of white label products, you can enter the market almost immediately.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "provide their resellers with comprehensive training and customer support.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "As a white label POS reseller, you have a fantastic opportunity to provide scalable, reasonably priced technology",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Software reselling can grow quickly, offering exponential growth opportunities",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. remains one of the most dynamic markets for POS innovation, presenting a prime opportunity for white-label resellers in 2026.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you're a startup entering the SaaS market, an enterprise needing a private-branded tool, or a VAR looking to resell software, our white label inventory management solution gives you the competitive edge without the engineering burden.",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale Distribution",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Handle high-volume orders across multiple clients and fulfillment centers. Our warehouse management software supports complex pricing tiers, bulk order processing, and multi-client stock segregation for wholesale operations.",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your inventory analytics dashboard turns raw data into clear business intelligence. See which SKUs move fast, which sit idle, which suppliers perform best, and where your highest margins live — all in real time. Managers get the visibility they need to act confidently rather than react blindly to stock crises.",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you're managing 500 SKUs today or 500,000 tomorrow, our scalable architecture grows with you. Add new warehouses, users, integrations, and product lines without migrating to a new platform. White labeling also means you can resell the platform to your own clients, creating an entirely new revenue stream on top of your core business.",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Opportunity",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Margins",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Zoho Inventory offers one of the most feature-rich free plans on the market, especially for product-based businesses. It supports purchase orders, sales orders, and even multiple warehouses, which makes it appealing for ecommerce and light wholesale operations.",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Charge your customers freight and handling fees, without it distorting your margins.",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Capture all costs of production for more accurate margin reporting",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Join our partner programme and let us drive business growth for customers together",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Already an Unleashed partner? Submit a client referral to our sales team.",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Master manufacturing with the kanban planner + digital bills of materials that automatically cost your products – so your margins are always accurate.",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you’re B2B, D2C (or a bit of both) Unleashed has the flexibility & features to suit the way you work; from make-to-order manufacturers to wholesale distributors, & everyone in between.",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Wholesale Distribution Industry Trends for 2026",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "is not a big jump. Set up in days, not weeks. One system for ecommerce, wholesale, B2B, and manufacturing workflows — minimal by design, no bloat, no ERP complexity. $79/month flat, no per-user fees, no item limits, 14-day free trial, no credit card required.",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliates",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Become An Affiliate",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Resell Knack to your clients",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Project Margin",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "allows agencies, consultancies, and resellers to offer polished, functional digital products under their own brand — without the time and cost of custom development. It's one of the most efficient ways to deliver technology-driven value to clients.",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "is a product or platform developed by one company (the vendor) and licensed to other businesses (the resellers or deployers) who can rebrand it, customise it, and offer it to their own customers as if it were their own. The end user — the agency's client, in this context — typically has no visibility into who built the underlying platform.",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Join agencies across North America and Europe who are winning more clients and improving margins by delivering like premium firms while eliminating manual work.",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Affiliate",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "*Source: Ministry of Foreign Affairs of Japan, Annual Survey of Overseas Japanese-Affiliated Enterprises",
+    "url": "https://www.kanematsu.co.jp/en/press/release/20260714_release",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale Distribution",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Free Trial",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Free 14-Day Trial. No Credit Card Required",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Started in 30 seconds. No credit card required.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Start Free Trial",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Start for free",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Free inventory management software can be a useful starting point for small businesses that need a better way to track stock, reduce manual errors, and move beyond spreadsheets. The right tool depends on what you sell, where inventory is stored, how many people need access, and when your business may outgrow a free plan.",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Most free plans come with limits on users, orders, locations, SKUs, integrations, automation, or support.",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "However, it’s important to know that “free” usually comes with a few strings attached. Most free plans have caps on how many items you can track, how many users can access the system, or which other tools they can connect with. More advanced",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Designed specifically for the trades, Ply understands that your inventory isn’t just sitting on a shelf—it’s constantly moving between warehouses, trucks, and job sites. Its free plan is ideal for small HVAC, plumbing, and electrical contractors who need to manage truck stock without creating extra admin work for technicians or the office.",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoho Inventory offers one of the most feature-rich free plans on the market, especially for product-based businesses. It supports purchase orders, sales orders, and even multiple warehouses, which makes it appealing for ecommerce and light wholesale operations.",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "inFlow’s free plan offers a good starting point for growing businesses that want basic inventory and purchasing features in one place. It’s often used as a bridge between spreadsheets and more advanced systems.",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "As much as we all love a good deal, “free” software often comes with a catch. While these tools can be a great starting point, they’re usually designed to get you in the door with the hope that you’ll quickly outgrow the basic plan and upgrade. It’s a classic freemium model. This isn’t necessarily a bad thing, but it’s crucial to go in with your eyes open.",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "How the top free plans stack up",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Not all free plans are created equal when it comes to features. Some offer a surprisingly robust set of tools, while others stick to the absolute basics. For example, a tool like SalesBinder includes multi-location tracking in its free plan, which is a huge win if you manage inventory across several trucks or a small warehouse. Others might focus on providing a simple, clean interface for",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "and leave advanced features like kitting or barcode scanning for their paid tiers. The key is to identify your non-negotiable features and find a free plan that includes them without forcing you into an immediate upgrade.",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "For a trades business, how well your inventory software talks to your other tools is critical. Free plans typically offer very limited",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "When to upgrade: signs you’ve outgrown a free plan",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 2: Test and trial your top choices",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Stock & Inventory Management Software - Try for FREE | Unleashed",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": ". No credit card needed.",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Start 14-day free trial",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Start your 14-day free trial.",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "No credit card required.",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "You can sign up for a free trial account on Unleashed and use the inventory software free of charge for 14 days. No credit card information is required.",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "You can use Unleashed for 14 days for free without needing your credit card details. Once your trial period is over, you can opt for one of the subscription packages. Find out more on the",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, Unleashed has open API access plus an API sandbox that allows you to connect Unleashed to your other tools in almost any way you like. Find out more in our",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "A category roundup of free inventory management software options. Which tools have real free plans, what the limits are, and when free stops working.",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "A handful of tools offer permanent free plans, but every free tier caps you somewhere: orders per month, SKU count, or users. Upzone starts at $79/month (Starter, up to 500 orders/mo) after a 14-day free trial, with no caps on users or SKUs on any tier. For teams doing more than 50 orders/month or managing a real warehouse, most free tiers force an upgrade within weeks.",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "survey found that 48% of small businesses that adopted free software tools upgraded to a paid plan within 6 months. Some tools have genuine free plans. Others have free trials that expire. A few are free to install but cost real money to actually run. Here is what is available for $0, what you give up, and where free breaks down.",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent free plan",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Full price after trial",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "None during trial",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Tools With a Permanent Free Plan",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The most well-known free plan in the category. Zoho Inventory’s free tier includes up to",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What Free Plans Do Not Cover",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": ": free plans almost universally limit to 1 user, which makes warehouse operations impossible for any team larger than a solo operator",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": ": Zoho’s free plan has integrations, but the 50-order cap makes it impractical for live operations",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "How many orders per month can you manage on a free plan?",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plans are genuinely useful in two situations:",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Start Your Free Trial",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Start for Free with AI",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Electronics Dept",
+    "url": "https://www.kanematsu.co.jp/en/press/release/20260714_release",
+    "pass": 3
+   },
+   {
+    "quote": "Machine Tools & Industrial Machinery",
+    "url": "https://www.kanematsu.co.jp/en/press/release/20260714_release",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Facilities",
+    "url": "https://www.taiyokogyo.co.jp/en/makmax_plus/49600/",
+    "pass": 3
+   },
+   {
+    "quote": "30日間の無料体験版あり",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアルあり",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "KOKONDASはデモ環境での無料体験もご利用いただけます",
+    "url": "https://das-solution.akagane.co.jp/media/useful-info/inventory-management-points/",
+    "pass": 3
+   },
+   {
+    "quote": "Trial month, then flat run",
+    "url": "https://www.toucantoco.com/en/glossary/oem-partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Start For Free",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available. Guided onboarding on every plan.",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   },
+   {
+    "quote": "Start for free",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "No-Code Database",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Build apps in minutes with AI",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Knack vs Airtable vs Zoho Creator: Comparing No-Code Database Builders [2026]",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "No-code database platforms are transforming the way web apps are…",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Look up common no-code terms",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re curious about Knack and no-code and want to get started without us, take a look at using Knack’s",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": ". This will give you a starting point for building a custom solution and show you all the great features a no-code solution can provide for future white-labeling needs.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The best no-code platform for building custom online databases and applications.",
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "pass": 3
+   },
+   {
+    "quote": "No more one-size-fits-all tools or costly custom builds. Softr is easy to use and fully customizable, so you can launch faster, adapt as you grow, and skip the complexity of traditional software.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Build your white label inventory management software in minutes with AI—no manual setup or coding required.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Generate a custom inventory system with AI in minutes",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Use drag-and-drop blocks to build a portal that looks sleek and modern out of the box. Add only the features you need, and iterate as your workflows evolve.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Everything is drag-and-drop, and if you need a truly unique logistics component, use the Vibe Coding block to generate it with AI.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "How is Softr different from other no-code tools for inventory management?",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "The advantage is hybrid: use AI to architect your stock database and pages in minutes, then use the visual editor for pixel-perfect adjustments. You receive the speed of AI generation combined with the dependability of professional software features like SSO, role-based access, and scalable hosting—perfect for moving from a concept to a live warehouse tool on day one.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Describe what you need. Softr's AI builds your custom inventory management system in minutes.",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Learn No-Code",
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "You don’t need a long setup process or a development team. With ConnectPOS, you can launch your white label system in as little as two weeks. We offer onboarding, training, and support to help you start strong. And when your business grows, the system is ready to grow with you, no need to rebuild or switch platforms.",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Cost-effective and easy onboarding",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Know whether it requires any user training, support quality, and onboarding time",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "apply your branding, set up your pricing structure, and start onboarding customers",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "offer training sessions, onboarding materials, troubleshooting support, and frequent updates",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Not necessarily. Most providers, including Quantic POS, offer comprehensive training, onboarding, and support so you can succeed without being a developer.",
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Ballpark your budget in 2 minutes",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Small businesses should look for inventory management software that is easy to use, accurate, and flexible enough to support how inventory actually moves. At a minimum, useful features include item tracking, low-stock alerts, purchase orders, barcode scanning, reporting, and integrations with accounting, ecommerce, POS, or field service systems.",
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Implementation & Onboarding",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Onboarding Plans",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Get the best start to Unleashed with the right onboarding services and support",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Thorough onboarding. Easy to use. Awesome support when and where needed. Pricey however worth it if your carrying a lot of stock and lots of smaller …",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Does Unleashed offer customer support and onboarding?",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We offer the best-rated onboarding and customer support service for inventory management in the business, ensuring you get the best out of Unleashed through",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "onboarding, support, and training",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "under 30 minutes",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "No-Code Database",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Build apps in minutes with AI",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Knack vs Airtable vs Zoho Creator: Comparing No-Code Database Builders [2026]",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "No-code database platforms are transforming the way web apps are…",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Look up common no-code terms",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "No-Code",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Knack is a no-code platform that lets you launch fully branded apps without writing a single line of code. Present your business as a sophisticated, tech-enabled service provider. With custom domains, branded email templates, and personalized app styling, your clients will feel confident in your solutions.",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive support and documentation make onboarding seamless.",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "The best no-code platform for building custom online databases and applications.",
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "simplify client onboarding, and scale effortlessly.",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "No-Code Glossary",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "the most popular no-code app builders.",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Client Onboarding Portal",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "No Code / No Code Technology",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "No Code Platform",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding systems:",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Client intake and onboarding flows built on a vendor's infrastructure but fully branded.",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ", project management tools, reporting dashboards, and onboarding systems across their entire client base — all managed from one platform, no developers required.",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "A no-code platform is a development tool that allows users to build software applications without writing a single line of code.",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding",
+    "url": "https://noloco.io/glossary/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Hire No Code Developers",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated Training and Onboarding",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Reporting not only ensures that everything is in order but is also highly advantageous when it comes to making efficient business decisions. Our no-code inventory management software generates and presents inventory analytics, lets the user choose a time period and equipment types, and consolidates essential information on equipment status and usage.",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Get a quick response from our best experts in under 10 minutes.",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Expert consultation within 10 minutes.",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "シンプルな操作で簡単に請求書を発行することができます",
+    "url": "https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "■シンプルな操作で簡単に請求書を発行",
+    "url": "https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$740 billion",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$275.8 billion",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$30 billion by 2026",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Lightspeed POS Pricing 2026: Features, Pros & Cons",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Lightspeed POS pricing in 2026 varies by plan,...",
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$1.8 trillion in global losses",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "As we move into 2026, the future of inventory management is automation-first and accessing AI-powered workflow capabilities. The right choice of solution can help you shrink the operation price, prevent inaccuracies, and improve order fulfillment. In fact, it enables you to scale confidently without any friction.",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventory data is sensitive business data. Demand SOC 2 compliance, AES-256 encryption at rest and in transit, role-based access controls, and a clear data residency policy. If the vendor cannot clearly answer your security questions, that is your answer. Do not compromise on this point regardless of pricing.",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$2,500",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing depends on features, integrations, and customization requirements. Entry-level solutions start around $4,000, mid-market solutions range from $8,000–$18,000, and enterprise deployments start at $40,000+.",
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "We’re saving $30,000 to $40,000 a year using Unleashed's B2B eCommerce stores.",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "It provides growing businesses with enterprise-level features like batch tracking and multi-warehouse management without the enterprise price tag. Typical users are companies with between 5 and 500 employees.",
+    "url": "https://www.unleashedsoftware.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A handful of tools offer permanent free plans, but every free tier caps you somewhere: orders per month, SKU count, or users. Upzone starts at $79/month (Starter, up to 500 orders/mo) after a 14-day free trial, with no caps on users or SKUs on any tier. For teams doing more than 50 orders/month or managing a real warehouse, most free tiers force an upgrade within weeks.",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "survey found that 48% of small businesses that adopted free software tools upgraded to a paid plan within 6 months. Some tools have genuine free plans. Others have free trials that expire. A few are free to install but cost real money to actually run. Here is what is available for $0, what you give up, and where free breaks down.",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": ": open-source tools that need a server, a developer, and ongoing maintenance costing $20—$80/month minimum",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$20—$80+ hosting",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "50 orders per month, 1 user, 2 warehouses",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The catch: 50 orders/month is roughly 1—2 orders per day. Most ecommerce stores exceed that within their first few months of real traction. When you hit the cap, orders stop syncing until you upgrade. Paid plans start at $59/month (Standard), which adds 1,500 orders/month and multi-currency support.",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "For a solo operation with a small, slow-moving catalog, it works. For anyone shipping more than a handful of orders a week, the item cap and missing integrations will stop you. Paid plans run from $49/month (2,000 items) to $299/month (unlimited). The",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": ": under 50 orders/month, a small SKU catalog, and you mainly need something more organized than a spreadsheet. Zoho Inventory’s free tier is the strongest option here for basic channel sync.",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "is not a big jump. Set up in days, not weeks. One system for ecommerce, wholesale, B2B, and manufacturing workflows — minimal by design, no bloat, no ERP complexity. $79/month flat, no per-user fees, no item limits, 14-day free trial, no credit card required.",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "50/month",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "50 orders/month",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$20—$80/month",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Upzone: plans from $79/month, no limits on items or users; order volume determines the tier (Starter up to 500/mo, Growth up to 5,000/mo, Custom above); 14-day trial, no credit card",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "It costs between $5000 - $30,000 for readymade inventory management software. To get more detailed information, let's understand the cost breakdown with the following table-",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$5,000 - $12,000",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$12,000 - $20,000",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$20,000 - $25,000",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "It costs between $5000 and $30,000 for white label inventory management software. This cost includes development, design, integrations, testing, training, and deployment.",
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "月額課金制（55,000円〜）で利用でき、必要な機能はオプションで選択できるため、無駄なコストを支払わずに済みます",
+    "url": "https://blog.convibase.jp/buhinkanri/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：100万円 ~ 500万円",
+    "url": "https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "最も重視されていた「運用コスト（月額費用など）」（51.5%）と、4位の導入コスト（42.4％）ともに、高い回答率でした",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用 50万円～、月額5万円～",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "月額5.4万円 初期費用90万円～",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "本利用料(1～5アカウントまで) 月額9万円～(税抜)",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "追加アカウント料(1アカウント) 月額5千円",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "追加ショップ・荷主料 月額2.5万円",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "月額5～10万円",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "月額7.5万円〜",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド版初期費用：200万円〜",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用：20万円〜",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用無料 月額4378円〜",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "$4.11 billion in 2025",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   },
+   {
+    "quote": "A cloud based inventory management system wins on cost, scalability, integration speed, remote access, and continuous updates. On-premise wins on data sovereignty for regulated industries only. Legacy ERPs win on breadth of modules but lose on ecommerce channel depth, implementation speed, and total cost for brands under $50M revenue.",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   },
+   {
+    "quote": "Large enterprises ($50M+)",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   },
+   {
+    "quote": "No servers, no IT contractors, no version upgrade projects. For most brands under $50M revenue, a SaaS inventory platform costs a fraction of an equivalent on-premise setup over a three-year horizon.",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud inventory pricing in 2026 follows four main patterns. Three of them are traps.",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   },
+   {
+    "quote": "Multiple warehouse locations per plan (allowances scale from Starter through Business, with unlimited locations on Premium - see the pricing page for the current per-plan numbers). Each treated as a separate inventory node with its own stock counts and routing rules. 3PL integration that keeps your system and the 3PL's WMS in agreement.",
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "pass": 3
+   },
+   {
+    "quote": "How Much Does Inventory Management Software Cost in 2026? A Complete Buyer’s Pricing Guide",
+    "url": "https://www.inflowinventory.com/blog/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventory management software subscriptions cost $50 to $300 per month for most small and mid-sized businesses in 2026, with full-featured plans running roughly $150 to $1,000 per month flat-rate. Enterprise systems exceed $5,000 monthly.",
+    "url": "https://www.inflowinventory.com/blog/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventory software is priced three ways in 2026: per-user (around $30 per seat), flat-rate tiers (roughly $100 to $1,000 per month), and enterprise quotes ($5,000+ per month). Flat-rate plans are the most predictable as you grow.",
+    "url": "https://www.inflowinventory.com/blog/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "$2.75 billion category in 2026",
+    "url": "https://www.inflowinventory.com/blog/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventory management software pricing comparison (2026)",
+    "url": "https://www.inflowinventory.com/blog/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "$129/mo ($99/mo billed annually)",
+    "url": "https://www.inflowinventory.com/blog/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "$49/mo",
+    "url": "https://www.inflowinventory.com/blog/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "$50–$500 per month",
+    "url": "https://erpsoftwareblog.com/2026/07/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "(with an average around $175–$200), while on-premise systems can cost",
+    "url": "https://erpsoftwareblog.com/2026/07/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "$30,000–$100,000 upfront",
+    "url": "https://erpsoftwareblog.com/2026/07/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "$175/month",
+    "url": "https://erpsoftwareblog.com/2026/07/inventory-management-software-cost/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "10 Best Inventory Management Software : Ratings (Updated) — 10 Best Inventory Management Software : Ratings (Updated) ERP Software Blog https://erpsoftwareblog.com > 2025/12",
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Inventory Management Software 2026 - WhiteBox — Best Inventory Management Software 2026 - WhiteBox whitebox.sg https://whitebox.sg > Blog",
+    "url": "https://whitebox.sg/best-inventory-management-software-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2026: Free Inventory Management Software That's Actually Free — 2026: Free Inventory Management Software That's Actually Free upzonehq.com https://upzonehq.com > Blog",
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け 在庫管理 システム22選 選び方・よくある課題 ... — 製造業向け 在庫管理 システム22選 選び方・よくある課題 ... SmartF https://smartf-nexta.com > 在庫管理",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "在庫管理 システム メーカー125社 - メトリー — 在庫管理 システム メーカー125社 - メトリー Metoree https://metoree.com > categories",
+    "url": "https://metoree.com/categories/5188/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け 在庫管理 システム13選。違いや選び方は？ - ASPIC — 製造業向け 在庫管理 システム13選。違いや選び方は？ - ASPIC aspicjapan.org https://www.aspicjapan.org > asu > article",
+    "url": "https://www.aspicjapan.org/asu/article/59789",
+    "pass": 3
+   },
+   {
+    "quote": "How Much Does Inventory Management Software Cost in 2026? — How Much Does Inventory Management Software Cost in 2026? inFlow Inventory https://www.inflowinventory.com > i...",
+    "url": "https://www.inflowinventory.com/blog/inventory-management-software-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "How Much Does Inventory Management Software Cost in 2026? — How Much Does Inventory Management Software Cost in 2026? ERP Software Blog https://erpsoftwareblog.com > 2026/07",
+    "url": "https://erpsoftwareblog.com/2026/07/inventory-management-software-cost/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Kanematsu Expands Cloud-Based Inventory Management Software Solution “KG ZAICO” to Mexico —Supporting Greater Operational Efficiency and Productivity Through Digital Transformation in the Management of Equipment and Supplies for Japanese Manufacturers—",
+    "url": "https://www.kanematsu.co.jp/en/press/release/20260714_release",
+    "pass": 3
+   },
+   {
+    "quote": "*Source: Ministry of Foreign Affairs of Japan, Annual Survey of Overseas Japanese-Affiliated Enterprises",
+    "url": "https://www.kanematsu.co.jp/en/press/release/20260714_release",
+    "pass": 3
+   },
+   {
+    "quote": "Kanematsu is currently proposing KG ZAICO and conducting pilot use at multiple factories operated by Japanese manufacturers in Mexico. One company is also preparing to move toward full-scale implementation.",
+    "url": "https://www.kanematsu.co.jp/en/press/release/20260714_release",
+    "pass": 3
+   },
+   {
+    "quote": "Under its medium-term management plan, “integration 1.1,” Kanematsu has set out to expand the value it provides. Leveraging the knowledge and experience it has developed in supporting digital transformation for manufacturers in Japan, Kanematsu will continue expanding KG ZAICO into Mexico and other overseas markets, helping companies improve operational efficiency and productivity.",
+    "url": "https://www.kanematsu.co.jp/en/press/release/20260714_release",
+    "pass": 3
+   },
+   {
+    "quote": "WMS (Warehouse Management System) is a type of system software called “Warehouse Management System” in Japanese.",
+    "url": "https://www.taiyokogyo.co.jp/en/makmax_plus/49600/",
+    "pass": 3
+   },
+   {
+    "quote": "アイテム数1万超… 消耗品＆部品管理が劇的改善（日本パリソン株式会社）",
+    "url": "https://blog.convibase.jp/buhinkanri/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本アドシス 福島ソフトウェアセンター",
+    "url": "https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本システムテクノロジー",
+    "url": "https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本アドシス",
+    "url": "https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "日本アイワシステム",
+    "url": "https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "西日本オフィスメーション株式会社",
+    "url": "https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "日本オラクル株式会社",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle NetSuiteは、米国企業オラクルコーポレーションの日本法人である、日本オラクル株式会社が提供しているサービスです",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語、ベトナム語、英語に対応",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "日本語・ベトナム語・英語に対応しているため、国外拠点がある場合にも利用できます",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本システムテクノロジー",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語、英語、中国語、ベトナム語に対応",
+    "url": "https://smartf-nexta.com/archives/10401",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.knack.com/blog/white-label-inventory-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softr.io/create/white-label-inventory-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.connectpos.com/white-label-inventory-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitebox.sg/best-inventory-management-software-2026/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/WhitelabelSoftware/comments/1mak4oc/best_white_label_inventory_management_software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloneappz.com/white-label-inventory-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unleashedsoftware.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upzonehq.com/blog/free-inventory-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getapp.com/operations-management-software/inventory-management/p/free-trial/?page=2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taskip.net/white-label-tools-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noloco.io/glossary/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcampaign.com/tools/white-label-social-media-management-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanematsu.co.jp/en/press/release/20260714_release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.supremetech.vn/pos-software-integration-in-japanese-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://slashdot.org/software/inventory-management/in-japan/?page=6",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiyokogyo.co.jp/en/makmax_plus/49600/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.convibase.jp/buhinkanri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/10401",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5188/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://das-solution.akagane.co.jp/media/useful-info/inventory-management-points/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendingtracker.com/for/oem-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conexisvmssoftware.com/white-label-vms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.bicomsystems.com/oem-and-white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toucantoco.com/en/glossary/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nventory.io/blog/cloud-based-inventory-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inflowinventory.com/blog/inventory-management-software-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://erpsoftwareblog.com/2026/07/inventory-management-software-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitebox.sg/how-much-does-inventory-management-software-cost/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getquantic.com/choose-white-label-pos-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullstackfreedom.com/blog/white-label/white-label-saas-partner-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartmat.io/column/production_management/8209",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unifyr.com/ja/atlas/original-equipment-manufacturer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamada-seiyaku.com/blog/030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/glossary/terms/white-label.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zaico.co.jp/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bahn-rep.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syncron.com/ja/solutions/retail-inventory-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hyperlocalcloud.com/product/white-label-warehouse-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xbsoftware.com/products/stockelix/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inflowinventory.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodsorderinventory.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://satoasiapacific.com/solution/simple-inventory-management/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label inventory management software 2026",
+   "results": [
+    "https://www.knack.com/blog/white-label-inventory-software/",
+    "https://www.softr.io/create/white-label-inventory-management-software",
+    "https://www.connectpos.com/white-label-inventory-management-software/",
+    "https://erpsoftwareblog.com/2025/12/top-inventory-management-software/",
+    "https://www.youtube.com/watch?v=8lka3ANHLW0",
+    "https://whitebox.sg/best-inventory-management-software-2026/",
+    "https://www.doss.com/resources/trends/top-8-inventory-management-platforms-in-2026",
+    "https://www.reddit.com/r/WhitelabelSoftware/comments/1mak4oc/best_white_label_inventory_management_software/",
+    "https://mitti.com/apps/inventory-control-software",
+    "https://www.connectpos.com/best-white-label-inventory-management-software/"
+   ]
+  },
+  {
+   "query": "white label inventory management software reseller program agencies",
+   "results": [
+    "https://www.knack.com/blog/white-label-inventory-software/",
+    "https://www.softr.io/create/white-label-inventory-management-software",
+    "https://www.connectpos.com/white-label-inventory-management-software/",
+    "https://www.reddit.com/r/WhitelabelSoftware/comments/1mak4oc/best_white_label_inventory_management_software/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://insighto.ai/blog/white-label-reseller-programs/"
+   ]
+  },
+  {
+   "query": "white label inventory management software free trial pricing",
+   "results": [
+    "https://www.knack.com/blog/white-label-inventory-software/",
+    "https://www.softr.io/create/white-label-inventory-management-software",
+    "https://cloneappz.com/white-label-inventory-management-software",
+    "https://www.getply.com/blog/free-inventory-management-small-business/",
+    "https://www.unleashedsoftware.com/",
+    "https://upzonehq.com/blog/free-inventory-management-software/",
+    "https://www.getapp.com/operations-management-software/inventory-management/p/free-trial/?page=2",
+    "https://assetcenter.app/blog/free-it-inventory-management-software",
+    "https://www.stockflowsystems.com/pricing",
+    "https://www.whitelabeltracking.com/free-trial/"
+   ]
+  },
+  {
+   "query": "white label inventory management software rebrand your logo custom domain",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.knack.com/solutions-white-label-apps/",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://www.softr.io/create/white-label-inventory-management-software",
+    "https://noloco.io/glossary/white-label-software",
+    "https://www.cloudcampaign.com/tools/white-label-social-media-management-platform",
+    "https://www.youtube.com/watch?v=_j4Rr-Tl6xw",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://fiddle.io/white-label"
+   ]
+  },
+  {
+   "query": "white label inventory management software Japan Japanese",
+   "results": [
+    "https://www.knack.com/blog/white-label-inventory-software/",
+    "https://www.softr.io/create/white-label-inventory-management-software",
+    "https://www.kanematsu.co.jp/en/press/release/20260714_release",
+    "https://www.linkedin.com/pulse/japan-distribution-inventory-management-fay3f",
+    "https://www.supremetech.vn/pos-software-integration-in-japanese-market/",
+    "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "https://slashdot.org/software/inventory-management/in-japan/?page=6",
+    "https://cloneappz.com/white-label-inventory-management-software",
+    "https://www.taiyokogyo.co.jp/en/makmax_plus/49600/",
+    "https://sourceforge.net/software/inventory-management/japan/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル在庫・部品管理 日本",
+   "results": [
+    "https://blog.convibase.jp/buhinkanri/",
+    "https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://smartf-nexta.com/archives/10401",
+    "https://metoree.com/categories/5188/",
+    "https://das-solution.akagane.co.jp/media/useful-info/inventory-management-points/",
+    "https://www.aspicjapan.org/asu/article/59789",
+    "https://manufacturo.com/jp/manufacturo-production-management-system/inventory-management/",
+    "https://navinect.jp/app/zaiko-kanri/",
+    "https://www.zaico.co.jp/zaico_blog/parts-management-with-inventory-management-system/",
+    "https://www.shopify.com/jp/blog/white-label"
+   ]
+  },
+  {
+   "query": "white label inventory management software OEM partnership",
+   "results": [
+    "https://www.softr.io/create/white-label-inventory-management-software",
+    "https://www.knack.com/blog/white-label-inventory-software/",
+    "https://vendingtracker.com/for/oem-partners",
+    "https://cloneappz.com/white-label-inventory-management-software",
+    "https://www.conexisvmssoftware.com/white-label-vms",
+    "https://blog.bicomsystems.com/oem-and-white-label/",
+    "https://www.toucantoco.com/en/glossary/oem-partnership",
+    "https://nventory.io/blog/cloud-based-inventory-software",
+    "https://www.investopedia.com/terms/w/white-label-product.asp",
+    "https://elioplus.com/white-label/vendors/inventory_management"
+   ]
+  },
+  {
+   "query": "white label inventory management software partner program pricing",
+   "results": [
+    "https://www.softr.io/create/white-label-inventory-management-software",
+    "https://www.knack.com/blog/white-label-inventory-software/",
+    "https://www.inflowinventory.com/blog/inventory-management-software-cost/",
+    "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "https://erpsoftwareblog.com/2026/07/inventory-management-software-cost/",
+    "https://whitebox.sg/how-much-does-inventory-management-software-cost/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.reddit.com/r/WhitelabelSoftware/comments/1mak4oc/best_white_label_inventory_management_software/",
+    "https://getquantic.com/choose-white-label-pos-software/",
+    "https://fullstackfreedom.com/blog/white-label/white-label-saas-partner-programs"
+   ]
+  },
+  {
+   "query": "ホワイトラベル在庫・部品管理 OEM提供",
+   "results": [
+    "https://www.smartmat.io/column/production_management/8209",
+    "https://www.unifyr.com/ja/atlas/original-equipment-manufacturer",
+    "https://www.yamada-seiyaku.com/blog/030",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://otsumu.co.jp/knowledge/glossary/terms/white-label.html",
+    "https://www.synck.com/service/webapp-oem/index.html",
+    "https://vendingtracker.com/ja/oem-white-label-vending-software",
+    "https://www.soap-oem.com/how-to-choose/whitelabel.html",
+    "https://b-seeds.com/column/white-label-business",
+    "https://kuchitoru.com/blog/oem-whitelabel/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル在庫・部品管理 代理店募集",
+   "results": [
+    "https://www.zaico.co.jp/partner/",
+    "https://b-seeds.com/",
+    "https://bahn-rep.com/",
+    "https://www.bgent.net/",
+    "https://www.syncron.com/ja/solutions/retail-inventory-management",
+    "https://bizresearch.net/",
+    "https://navinect.jp/partners/sales-alliance.html",
+    "https://cbrands.wd5.myworkdayjobs.com/ja-JP/CBI_External_Careers/job/On-Premise-Representative_R-39407-1",
+    "https://bizpla.com/partner.html",
+    "https://b-seeds.com/column/white-label-business"
+   ]
+  },
+  {
+   "query": "white label inventory management software distributor Japan",
+   "results": [
+    "https://www.knack.com/blog/white-label-inventory-software/",
+    "https://www.softr.io/create/white-label-inventory-management-software",
+    "https://www.suffescom.com/development/whitelabel-inventory-management-software",
+    "https://hyperlocalcloud.com/product/white-label-warehouse-management-software",
+    "https://xbsoftware.com/products/stockelix/",
+    "https://www.inflowinventory.com/",
+    "https://www.goodsorderinventory.com/",
+    "https://satoasiapacific.com/solution/simple-inventory-management/",
+    "https://slashdot.org/software/inventory-management/in-japan/?page=8",
+    "https://sourceforge.net/software/inventory-management/japan/"
+   ]
+  }
+ ],
+ "missing": {}
+}

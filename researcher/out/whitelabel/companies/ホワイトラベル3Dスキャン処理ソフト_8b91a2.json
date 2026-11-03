@@ -1,0 +1,1595 @@
+{
+ "name": "ホワイトラベル3Dスキャン処理ソフト",
+ "en": "white label 3D scanning software",
+ "aliases": [
+  "white-label photogrammetry",
+  "3D scanning software",
+  "photogrammetry",
+  "scan to CAD",
+  "reverse engineering software",
+  "3Dスキャン"
+ ],
+ "context": "製造業・スキャン",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:07:28.212313+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Reviews",
+    "url": "https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "These are workflow notes, not full reviews. The goal is to show where each app fits, what it really outputs, and what its documentation makes clear or unclear.",
+    "url": "https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality K2 vs Bambu: K2, P1S, K2 Plus and H2D",
+    "url": "https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Direct Drive vs Bowden: How 3D Printer Extruders Differ",
+    "url": "https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Best 3D scanner apps in 2026, compared for brands",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "How we compared the apps",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "Write the real output list: product page viewer, PDP image, AR preview, retailer asset, video, editorial visual, marketplace listing. The app that serves the most real destinations from one source asset is usually the better investment.",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews",
+    "url": "https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/3d-scanner-app/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare truly free 3D Scanner apps: KIRI Engine, Scaniverse, RealityScan & Luma AI. No export paywalls, real limits, mesh vs 3DGS.",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "This guide filters for free tiers you can actually use end-to-end: you can keep scanning and export free-tier outputs without export credits or subscription-gated exports. For each app, we label the output type (mesh vs",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "A workflow-first snapshot: this guide compares free tiers by what you can actually export—editable meshes for production pipelines vs 3DGS/splats for visualization—plus the real limits like input caps and processing style.",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "Output quality can vary vs heavier pipelines",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "3DGS is great for visualization and interactive viewing, but most production pipelines still rely on meshes (UVs, topology, LODs). Unless your pipeline explicitly supports splats, you’ll usually want a mesh for Blender/Unity/Unreal. In Blender specifically, splats are often handled via dedicated viewers or add-ons (for example, KIRI Engine offers a",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "Polycam vs. KIRI Engine",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "Luma AI vs. KIRI Engine",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "Scaniverse vs. KIRI Engine",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Scan vs. KIRI Engine",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Capture vs. KIRI Engine",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "Agisoft Metashape vs. KIRI Engine",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "Trimble vs FARO",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Trimble vs Leica",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "LiDAR vs Photogrammetry",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "No markers required — captures in a single pass vs. hundreds of precisely-placed markers",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "- 3D Printing Service Providers",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Scaniverse now spans more than the older “free splat app” reputation many readers still remember. Niantic Spatial’s Scaniverse Quickstart for Sites says each scan supports up to five minutes of recording time and up to 500 square meters of coverage, then can be uploaded for processing into mesh or Gaussian splat outputs with exports including",
+    "url": "https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether a content coordinator, studio assistant or merchandising team can create a reliable result after a short onboarding. Ease of use is what makes a workflow scalable.",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "free and easy to use",
+    "url": "https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/3d-scanner-app/",
+    "pass": 3
+   },
+   {
+    "quote": "easy to use and affordable",
+    "url": "https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/3d-scanner-app/",
+    "pass": 3
+   },
+   {
+    "quote": "Scan sets, props, and locations in minutes, no special gear required.",
+    "url": "https://poly.cam/",
+    "pass": 3
+   },
+   {
+    "quote": ", including on smoother or low-texture subjects where traditional PhotoScan workflows often produce holes or warped geometry. Turnaround time has also improved; in typical cases, a PhotoScan can finish in around ~2 minutes, though both quality and speed still depend on capture quality, scene complexity, and network conditions.",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "1–3 minutes",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studioには、測定を高速かつ正確に行うためのツールが搭載されており、メッシュからCADへの変換や、メッシュ間の偏差分析も簡単に行えます",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "スマホを向けて撮影するのみの簡単操作！高精度な3DスキャンとARで業務をデジタル化",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "するだけの簡単操作です",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "■簡単な使用方法：スマホを向けて撮影するのみ",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "レーザースキャンデータを簡単にそして効率的に求められる情報を抽出することができ、CADへのインターフェイスも備えています",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "また、直接データを送る事が可能な為、展開機能を使用し、トンネルの平面展開も簡単に行えます",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "円錐、円柱、楕円柱の表面を平面上に作成！制御点と検証点の迅速かつ簡単な決定が可能",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "『LupoScan』は、レーザースキャンデータを簡単に、そして効率的に",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "制御点と検証点の迅速かつ簡単な決定が可能",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "■レーザースキャンデータを簡単に、効率的に求められる情報を抽出可能",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "■制御点と検証点の迅速かつ簡単な決定が可能",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "●動画撮影するように、簡単に3Dモデル作成が可能",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "点群データをオンラインで簡単に自動処理、関係者と共有できます",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "Skechupは通常のCADと違い、「プッシュ/プル」ツールで押したり引いたり、ある程度複雑な形状をも簡単かつ効率よく3次元データを作成できます",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "また、クラウド上 (PIX4Dcloud) で、ドローンやスマホの画像から点群データ、メッシュ、DSM、オルソモザイクを簡単に作成",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "・現場を歩くだけで必要なデータを簡単に収集できる",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "こういった、合成・位置合わせなども、点群処理ソフトがあれば簡単に行うことができます",
+    "url": "https://shining3d-inds.jp/article/3dscanner/3d-inspection/10191/",
+    "pass": 3
+   },
+   {
+    "quote": "：モデルの厚みチェックや、プリンター向け形式（STLなど）でのエクスポートが簡単です",
+    "url": "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "：スキャンデータと設計CADデータを重ね合わせ、差異を色で示す「カラーマップ」を簡単に作成できます",
+    "url": "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "スキャンしたSTL/OBJデータをインポートし、既存の図形と組み合わせて穴をあけたり、文字を刻印したりといった簡単な編集ができます",
+    "url": "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "3D初心者、教育関係者、スキャンデータの簡単な修正だけしたい人",
+    "url": "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、3Dプリント、リバースエンジニアリング、CGなど、多様な用途に合わせた「使える」3Dモデルを簡単に作成できます",
+    "url": "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "簡単な穴あけや文字入れ程度なら",
+    "url": "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "Pick a time directly in Henrik's calendar. 45 minutes, no commitment required.",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Initial call: 45 minutes",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": ", full API documentation, and dedicated engineering support throughout onboarding. Amrax will scope a realistic timeline with you during the initial discovery call.",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": ", in 1–2 minutes per room. Good lighting improves reconstruction quality. Photogrammetry requires multiple overlapping photos and post-processing, and degrades in challenging light. Amrax's SLAM pipeline combines LiDAR with motion tracking for real-time, drift-corrected scanning.",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "We love combining the two things we love—3D scanning and making things easy to use—into our work. With more than 10 years of experience building 3D scanners and 3D scanning software, we set out to change the way these tools are built. We believe products with fewer features, executed exceptionally well, create the best experience.",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Professional and white-label options",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "A recognised option for mobile LiDAR scanning on iPhone and iPad, with professional, white-label and enterprise options available through direct contact.",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "Technical LiDAR capture, white-label or enterprise scanning deployments.",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "OEM 3D Scanning Technology Partner | Amrax",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Technology Partner Program",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label LiDAR & SLAM scanning technology for iOS",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Start OEM Discussion",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Technology",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Fully brandable scanning experience. Your UX, your branding, our technology running invisibly underneath.",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Metaroom is our own 3D scanning product — built on the same LiDAR + SLAM technology available through the OEM program. Professionals in architecture, energy consulting, facility management, and trades rely on it daily worldwide.",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Our engineers tailor the scanning pipeline to your product. Custom UI skins, specialized output formats, domain-specific processing — all white-labeled under your brand.",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Case Study",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Technology",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I fully white-label the scanning experience?",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "What does the OEM partner program include?",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車OEM向けインテリジェント品質検査ソリューション",
+    "url": "https://www.shining3d.com/ja/intelligent-quality-inspection-solution-for-automotive-oems",
+    "pass": 3
+   },
+   {
+    "quote": "自動車OEM向けインテリジェント品質検査ソリューション：自動化3Dスキャンと検査",
+    "url": "https://www.shining3d.com/ja/intelligent-quality-inspection-solution-for-automotive-oems",
+    "pass": 3
+   },
+   {
+    "quote": "自動車OEM向けの自動化3Dスキャン・検査ソリューション",
+    "url": "https://www.shining3d.com/ja/intelligent-quality-inspection-solution-for-automotive-oems",
+    "pass": 3
+   },
+   {
+    "quote": "は、50年以上にわたりグローバルOEMブランドへ自動車部品を供給してきた実績を持つ自動車部品メーカーです",
+    "url": "https://www.shining3d.com/ja/intelligent-quality-inspection-solution-for-automotive-oems",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label is a specialized consultancy and product...",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Built around physical products rather than industrial metrology",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "For most consumer-product teams, the useful comparison is not iPhone versus industrial scanner. It is smartphone capture plus the right reconstruction workflow versus a fragmented production pipeline.",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": ", especially for academic and industrial applications. It can be used for small and large scale scans.",
+    "url": "https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/3d-scanner-app/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial photogrammetry solution with exceptional volumetric accuracy.",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "ISO-certified laser scanner that boasts 0.02 mm accuracy. Perfect for metrology and other industrial use cases.",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Download free trial",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Before you download Artec Studio Trial",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Trial version limitations:",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Trial period is limited to 30 days.",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Download trial",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "No credit card required",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "This includes the entire Artec 3D scanning range: the wireless Artec Leo, metrology-grade Spider II, versatile structured-light Eva, as well as the industrial Point, desktop Micro II, LiDAR Ray II, Metrology Kit, and a selection of previous models. More information can be found in the software’s technical specifications.",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial 3D scanners",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Start free 7-day Business Trial",
+    "url": "https://poly.cam/",
+    "pass": 3
+   },
+   {
+    "quote": "The ZEISS INSPECT 3D scanning software is specifically designed for analyzing and evaluating industrial CT data. It allows users to visualize and examine the complex internal structures of components in exceptional detail. This 3D scanning solution is ideal for quality control and troubleshooting across various industries, offering non-destructive insights into the internal features of objects.",
+    "url": "https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/",
+    "pass": 3
+   },
+   {
+    "quote": "Download the free trial of ZEISS REVERSE ENGINEERING now and explore these features:",
+    "url": "https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/",
+    "pass": 3
+   },
+   {
+    "quote": ", do offer a free tier. However, it often works more like a trial than a reliable end-to-end workflow. In practice, free plans may limit scan volume (projects, scans, or photo counts), restrict exports or key formats, or place higher-quality processing behind paid tiers.",
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial photogrammetry solution with exceptional volumetric accuracy.",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "ISO-certified laser scanner that boasts 0.02 mm accuracy. Perfect for metrology and other industrial use cases.",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial 3D scanners",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "High-speed terrestrial",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "We provide comprehensive 3D scanning and drone services throughout Japan, covering all major metropolitan areas. Our primary service areas include Tokyo and the Greater Kanto region, Osaka-Kyoto-Kobe in Kansai, Nagoya and Chubu, Fukuoka in Kyushu, and Sapporo in Hokkaido. We also support projects in regional cities and industrial areas across the country.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアルをダウンロード",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studioの無料体験版をダウンロードする前に",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験版の制限事項：",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験期間は30日間に限定されています",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験実施中",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": ", full API documentation, sandbox environment, integration engineering support, a dedicated partner manager, co-marketing opportunities, and an SLA covering updates and bug fixes. Pricing is based on deployment model and usage volume.",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "SCANOLOGY is an industrial 3D scanning brand of Scantech (Hangzhou) Co., Ltd.",
+    "url": "https://www.3d-scantech.com/jp/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "submenu_id： HNavMBProd__scanner__industrial_grade",
+    "url": "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://www.3d-scantech.com/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors of industrial devices who want to possess powerful intelligent visual inspect equipment and 3D scanner.",
+    "url": "https://www.3d-scantech.com/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "SCANOLOGY is an industrial 3D scanning brand of Scantech (Hangzhou) Co., Ltd.",
+    "url": "https://www.3d-scantech.com/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "- Industrial Products",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- - Tech - Industrial Material Extrusion",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- - Tech - Industrial Powder Bed Fusion",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "YXLON International designs and produces radioscopic and CT inspection systems for a broad variety of industrial applications and fields.",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "Among our customers you can find names like Volvo Buses, Whirpool & Bosh, Lubiana Tableware , GE Electric, National Institute of Advanced Industrial Science and Technology in Japan, Regional Center of Engineering in Perm/ Russia, BMP Chaudronnerie Plastique in Caen/France, as well as many well known Universities in Poland, Belgium, Netherlands, Russia, Colombia, China and Kazakhstan.",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "Caracol is a leading industrial 3D printer manufactu...",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "Zhuhai Sunlu Industrial Co., Ltd, established in 201...",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2004, Global Agents Ltd. is a trusted importer and distributor of advanced communications solutions, drone technologies, surveying and mapping equipment, and related products for the UAV industry. Leveraging more than two decades of experience, we provide high-quality solutions and professional support to customers across commercial, industrial, security, and governmental sectors.",
+    "url": "https://www.share3dcam.com/en/partners.html",
+    "pass": 3
+   },
+   {
+    "quote": "In response to growing market demands, SMARTTECH3D is committed to continuous product development, providing not only industrial solutions but also specialized technologies for national heritage preservation and medical treatment. By becoming part of SMARTTECH3D, you will enter one of the fastest-growing markets.",
+    "url": "https://www.smarttech3d.com/company-become-a-distributor",
+    "pass": 3
+   },
+   {
+    "quote": "- Industrial Device Distributors: We invite distributors of industrial devices looking to include one of the most powerful optical scanners in their portfolio.",
+    "url": "https://www.smarttech3d.com/company-become-a-distributor",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "custom orders per month for Oakywood after adding 3D scans",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "Data sources: Shopify 3D eCommerce guide, Polycam pricing, Scaniverse support.",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "$400 / yr per user",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "For a brand, the question is whether broad capture capability is also the same thing as a product-content workflow. Polycam's Business plan publicly starts at $400 per user per year. Pricing alone should not decide the workflow — look at capture consistency, product-material quality, downstream rendering and the clean-up your team will actually need.",
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing varies based on project scope, location, and deliverables. Standard 3D scanning projects in metro areas start around JPY 300,000-600,000, while drone photogrammetry and LiDAR surveying range from JPY 500,000-2,000,000+ for larger sites. Request a free consultation and detailed quote for your Japanese project. Contact us for a customized quote in yen or dollars.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：1万円 ~ 10万円",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "価格：10万円 ~ 50万円",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "より、トンネル、タンク、円筒形の塔を2Dマップで正確に表示できます",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "初めての方でも直感的に操作できる画面デザイン（UI/UX）に一新、月額29,800円[税込]より機能や用途に応じてプランが選べるようになります",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "価格：100万円 ~ 500万円",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "Trust us. A demo is worth a thousand words. Check out our latest Peel 3D demo so that you can see firsthand why our 3D scanners blend great performance and affordable price points.",
+    "url": "https://store.peel-3d.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "直径152mまでの円筒形対象物の検査が可能です",
+    "url": "https://systemcreate-inc.co.jp/products/creaform",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Artec 3D reseller",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliates",
+    "url": "https://poly.cam/",
+    "pass": 3
+   },
+   {
+    "quote": "I would like to receive information about products, services and offers of Carl Zeiss GOM Metrology GmbH and its affiliated companies by email. This consent can be withdrawn at any time at the end of any email.",
+    "url": "https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "resellers",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "About reseller statuses",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Other resellers in the vicinity",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "5 resellers in 5 locations",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "2 resellers in 2 locations",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "1 reseller in 1 location",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Artec 3D reseller",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店のご検索",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3Dの販売代理店になるには",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "【本音レビュー】3DMakerpro Raven MAX RTKを実際に評価｜メリット・デメリットを正直に正規販売代理店が解説",
+    "url": "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Technology Partner Program",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "— covering architecture, BIM, lighting planning, energy consulting, and facility management workflows. Custom export formats are available as part of the partner program.",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "What does the OEM partner program include?",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program",
+    "url": "https://amrax.ai/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店になる",
+    "url": "https://www.shining3d.com/ja/intelligent-quality-inspection-solution-for-automotive-oems",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Center",
+    "url": "https://www.3d-scantech.com/jp/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "高性能でインテリジェントな外観検査装置と3Dスキャナーを導入したい産業機器の販売代理店",
+    "url": "https://www.3d-scantech.com/jp/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor / Reseller",
+    "url": "https://www.3d-scantech.com/jp/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店への加盟",
+    "url": "https://www.3d-scantech.com/jp/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner / Reseller / Distributor",
+    "url": "https://www.3d-scantech.com/jp/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店プログラムに参加して、ビジネスを成長させましょう丨SHINING 3D",
+    "url": "https://www.shining3d.com/ja/become-a-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "代理店になる",
+    "url": "https://www.shining3d.com/ja/become-a-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャナ リバースエンジニアリングCREAFORM - 国内正規代理店",
+    "url": "https://systemcreate-inc.co.jp/products/creaform",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店になる",
+    "url": "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "pass": 3
+   },
+   {
+    "quote": "1. 研修およびテクニカルサポート販売代理店の担当者が製品の特徴、機能、操作方法を十分に理解できるよう、研修プログラムを提供します",
+    "url": "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、販売代理店の技術的な問題解決をサポートするため、リモートサポートやトラブルシューティングなどのテクニカルサポートも提供します",
+    "url": "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、販売代理店は顧客に満足度の高いアフターサービスを提供できるようサポートいたします",
+    "url": "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "pass": 3
+   },
+   {
+    "quote": "2.マーケティングおよび販売支援販売代理店による製品の販促活動やセールス活動を支援するために、各種マーケティング資料を提供いたします",
+    "url": "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "pass": 3
+   },
+   {
+    "quote": "3.チャネル管理と協業販売代理店との長期的な協力関係を構築することを歓迎しており、市場開拓に向けて共に取り組んでいきます",
+    "url": "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "pass": 3
+   },
+   {
+    "quote": "定期的に販売代理店との事業評価や計画立案を行い、市場情報の共有や販売戦略、協業の機会について議論していきます",
+    "url": "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Center",
+    "url": "https://www.3d-scantech.com/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor / Reseller",
+    "url": "https://www.3d-scantech.com/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner / Reseller / Distributor",
+    "url": "https://www.3d-scantech.com/corporation/become-our-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "All Resellers",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- - Ceramics 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- - Construction 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- - Electronics 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- - Metal 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- - Used 3D printer reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- 3D Scanner Reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- 3D Software Reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- Accessories/Spare Parts Reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- Bioprinter/Bioink Reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "- Consumables Reseller",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "To ensure accessibility to individuals and teams all over the world, Artec Studio is available and fully functional in 16 languages: Chinese Simplified, Chinese Traditional, Croatian, Czech, English, French, German, Italian, Japanese, Korean, Polish, Portuguese, Russian, Spanish, Turkish, and Ukrainian.",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Japan office",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan — buy 3D scanner from Artec 3D | Professional 3D scanning solutions",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan: Artec 3D licensed distributors",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan office",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "3D Scanning & Drone Services in Japan | THE FUTURE 3D",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Your trusted partner for professional 3D laser scanning, drone surveying, LiDAR mapping, and reality capture services across Japan. We typically respond within 24 hours. Survey-grade accuracy.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "24 Japan Locations",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The world's largest metropolitan area featuring cutting-edge architecture, dense urban infrastructure, and Japan's primary business center.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's second economic center featuring Osaka's commercial hub, Kyoto's 2,000+ temples, and Kobe's port and technology sector.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's automotive corridor featuring Toyota's headquarters, Nagoya's manufacturing base, and the Shinkansen corridor.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Services Across Japan",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Immersive Matterport virtual tours for Japanese real estate, hospitality, and commercial properties. From Tokyo high-rises to Kyoto machiya townhouses to Osaka shopping complexes.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Survey-grade 3D laser scanning for Japanese architecture, construction, and manufacturing. Heritage documentation for temples and shrines, precision scanning for automotive and electronics industries.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "BIM-conversion-ready point cloud data for Japanese renovation and seismic retrofit projects. Compliant with Japanese BIM standards and Building Standards Law requirements.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Create accurate 3D models, orthomosaic maps, and digital terrain models from aerial imagery for Japanese construction, infrastructure inspection, and disaster assessment projects.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "High-precision aerial LiDAR scanning for Japanese topographic mapping, corridor surveys, and infrastructure inspection. MLIT-compliant operations for public works and transportation projects.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Safe, efficient aerial inspections for Japanese buildings, bridges, and infrastructure. Certified operations for seismic assessment, post-earthquake surveys, and aging infrastructure monitoring.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Living 3D models with real-time IoT integration for Japanese facility management, smart city initiatives, and manufacturing applications across the nation's leading industries.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Existing-conditions 3D scan data and PDF reports from 3D scanning for Japanese architects, facility managers, and heritage conservation specialists.",
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "使用可能言語：簡体字中国語、繁体字中国語、クロアチア語、チェコ語、英語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ポーランド語、ポルトガル語、ロシア語、スペイン語、トルコ語、ウクライナ語",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Pix4D株式会社 日本",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア選びも日本3Dプリンター株式会社にお任せください！",
+    "url": "https://shining3d-inds.jp/article/3dscanner/3d-inspection/10191/",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時は、日本3Dプリンター株式会社にお問い合わせください",
+    "url": "https://shining3d-inds.jp/article/3dscanner/3d-inspection/10191/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都公安委員会 古物商許可 第301072518676号 日本3Dプリンター株式会社",
+    "url": "https://shining3d-inds.jp/article/3dscanner/3d-inspection/10191/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 日本3Dプリンター株式会社",
+    "url": "https://shining3d-inds.jp/article/3dscanner/3d-inspection/10191/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の情報も限られます",
+    "url": "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "📦30日返品·日本国内送料無料",
+    "url": "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "pass": 3
+   },
+   {
+    "quote": "Among our customers you can find names like Volvo Buses, Whirpool & Bosh, Lubiana Tableware , GE Electric, National Institute of Advanced Industrial Science and Technology in Japan, Regional Center of Engineering in Perm/ Russia, BMP Chaudronnerie Plastique in Caen/France, as well as many well known Universities in Poland, Belgium, Netherlands, Russia, Colombia, China and Kazakhstan.",
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia/ Japan/ Tokyo",
+    "url": "https://www.share3dcam.com/en/partners.html",
+    "pass": 3
+   },
+   {
+    "quote": "OPT Technologies sells SHARE's slam scanners and 5-lens (Oblique) cameras, as well as point cloud processing software for slam scanners developed by OPT, which has features specifically tailored for slam scanners. We are the No. 1 market share holder in Japan.",
+    "url": "https://www.share3dcam.com/en/partners.html",
+    "pass": 3
+   },
+   {
+    "quote": "Asia/ Japan/ Sapporo",
+    "url": "https://www.share3dcam.com/en/partners.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3D scanning software : 3 programs for every application — 3D scanning software : 3 programs for every application HandsOnMetrology https://www.handsonmetrology.com > ...",
+    "url": "https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフト ( 3dスキャン ) - メーカー・企業と製品の一覧 | イプロス — ソフト ( 3dスキャン ) - メーカー・企業と製品の一覧 | イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > ソフト > 3dスキャン",
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "pass": 3
+   },
+   {
+    "quote": "保存版】本当は教えたくない！無料で使える 3Dスキャン 後 ... — 保存版】本当は教えたくない！無料で使える 3Dスキャン 後 ... 株式会社Seed3D https://www.seed3d.net > post > 【2025年度-保存版】本...",
+    "url": "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3DScanning/comments/1qj5esx/3d_scanner_and_software_recommendations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3dprinting.com/scanners/3d-scanner-software/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/3d-scanner-app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pointorama.com/integrations-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.cam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dot3d.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novisign.com/blog/signage/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knack.com/solutions-white-label-apps/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yodeck.com/news/white-label-digital-signage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shining3d.com/shining-3d-establishes-japan-subsidiary-to-strengthen-local-presence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefuture3d.com/locations/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.einscan.com/applications/from-appreciation-to-hands-on-experience-3d-scanning-enables-exploration-of-ancient-artefacts-in-multiple-dimensions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shining3d-inds.jp/article/3dscanner/3d-inspection/10191/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/3344/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amrax.ai/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zebra.com/ap/en/products/scanners/oem.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matterport.com/ja?srsltid=AYCX9vK1nG7BzC5BAINsVBqSL-tgB_L1nwDMqYBhqHepqb1JCwoeo4Xf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.peel-3d.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qubesense.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arrival3d.com/3d-laser-scanning-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/ja/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shining3d.com/ja/intelligent-quality-inspection-solution-for-automotive-oems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zebra.com/jp/ja/products/oem.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendingtracker.com/ja/oem-white-label-vending-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-scantech.com/jp/corporation/become-our-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shining3d.com/ja/become-a-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/products/creaform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talentacquisition.3ds.com/careersection/qa/jobapply.ftl?job=549554&lang=ja&src=CWS-10080",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3d-scantech.com/corporation/become-our-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.creaform3d.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.share3dcam.com/en/partners.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smarttech3d.com/company-become-a-distributor",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label 3D scanning software 2026",
+   "results": [
+    "https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/",
+    "https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands",
+    "https://www.reddit.com/r/3DScanning/comments/1qj5esx/3d_scanner_and_software_recommendations/",
+    "https://3dprinting.com/scanners/3d-scanner-software/",
+    "https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/3d-scanner-app/",
+    "https://www.youtube.com/watch?v=qIjaO2zCJ8k",
+    "https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/",
+    "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "https://worldmetrics.org/best/3d-scan-software/",
+    "https://worldmetrics.org/best/scan-3d-software/"
+   ]
+  },
+  {
+   "query": "white label 3D scanning software reseller program agencies",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://suitedash.com/white-label-business-software/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.pointorama.com/integrations-partnerships",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://buildfire.com/white-label-software-services-resell-make-money/"
+   ]
+  },
+  {
+   "query": "white label 3D scanning software free trial pricing",
+   "results": [
+    "https://www.artec3d.com/3d-software/artec-studio",
+    "https://poly.cam/",
+    "https://www.dot3d.app/",
+    "https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/",
+    "https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026",
+    "https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376",
+    "https://gomeasure3d.com/blog/3-affordable-scan-to-cad-tools-not-just-for-cad-specialist/",
+    "https://www.reddit.com/r/3DScanning/comments/1kckqyo/free_scanning_software/",
+    "https://store.3dmakerpro.com/blogs/3d-scanner/a-beginners-guide-to-choose-3d-scanning-software?srsltid=AYCX9vKKC6CXuD67qCaqmgy-KOapXRTDefplDVHiDnDPyWVsBgvH_FHP",
+    "https://sourceforge.net/software/3d-scanning/free-trial/"
+   ]
+  },
+  {
+   "query": "white label 3D scanning software rebrand your logo custom domain",
+   "results": [
+    "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.youtube.com/watch?v=_j4Rr-Tl6xw",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.novisign.com/blog/signage/white-label/",
+    "https://www.knack.com/solutions-white-label-apps/",
+    "https://www.yodeck.com/news/white-label-digital-signage/",
+    "https://appinstitute.com/best-practices-for-custom-branding-in-white-label-platforms/",
+    "https://pharosproduction.com/insights/engineering/white-label-software-development-2026/"
+   ]
+  },
+  {
+   "query": "white label 3D scanning software Japan Japanese",
+   "results": [
+    "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "https://www.artec3d.com/where-to-buy/japan",
+    "https://www.shining3d.com/shining-3d-establishes-japan-subsidiary-to-strengthen-local-presence",
+    "https://www.thefuture3d.com/locations/japan/",
+    "https://www.einscan.com/applications/from-appreciation-to-hands-on-experience-3d-scanning-enables-exploration-of-ancient-artefacts-in-multiple-dimensions/",
+    "https://www.manufacturing-world.jp/tokyo/en-gb/visit/feature/am-scanner.html",
+    "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "https://en.tokyo-machinery.com/technology/3d-scanning/",
+    "https://arcana-mfg.com/en/full-body-3d-scanner/",
+    "https://www.gim-international.com/news/pythagoras-bv-and-terra-drone-launch-localized-white-label-cad-solution-for-japan"
+   ]
+  },
+  {
+   "query": "ホワイトラベル3Dスキャン処理ソフト 日本",
+   "results": [
+    "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "https://shining3d-inds.jp/article/3dscanner/3d-inspection/10191/",
+    "https://metoree.com/categories/3344/",
+    "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "https://www.3d-scantech.com/jp/product_category/3d-software/",
+    "https://www.yamaichi-techno.jp/3d/software/",
+    "https://scanx.jp/column/point-cloud-free-software",
+    "https://nohara-vdc.jp/matterport/blog/point-cloud-processing-software-comparison/",
+    "https://white-rabbit.jp/software/product/"
+   ]
+  },
+  {
+   "query": "white label 3D scanning software OEM partnership",
+   "results": [
+    "https://simplyprint.io/oem",
+    "https://meshinspector.com/white-label/",
+    "https://amrax.ai/oem/",
+    "https://www.zebra.com/ap/en/products/scanners/oem.html",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://printago.io/solutions/oem",
+    "https://www.einscan.com/news/shining-3d-announces-strategic-partnership-with-artsystems/",
+    "https://www.acteongroup.com/en/products/oem/oem-solutions/oem-private-label/",
+    "https://conversight.ai/oem-partners/",
+    "https://mediacy.com/partners/oem-partners/"
+   ]
+  },
+  {
+   "query": "white label 3D scanning software partner program pricing",
+   "results": [
+    "https://www.pointorama.com/integrations-partnerships",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://matterport.com/?srsltid=AYCX9vK1nG7BzC5BAINsVBqSL-tgB_L1nwDMqYBhqHepqb1JCwoeo4Xf",
+    "https://store.peel-3d.com/partners",
+    "https://www.qubesense.com/partner/",
+    "https://meshinspector.com/white-label/",
+    "https://arrival3d.com/3d-laser-scanning-costs/",
+    "https://amrax.ai/oem/",
+    "https://www.placa.ai/white-label-lpr-partner-program/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル3Dスキャン処理ソフト OEM提供",
+   "results": [
+    "https://simplyprint.io/ja/oem",
+    "https://www.shining3d.com/ja/intelligent-quality-inspection-solution-for-automotive-oems",
+    "https://www.zebra.com/jp/ja/products/oem.html",
+    "https://vendingtracker.com/ja/oem-white-label-vending-software",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89",
+    "https://www.3d-scantech.com/jp/product_category/3d-software/",
+    "https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1",
+    "https://www.materialise.com/ja/industrial/software"
+   ]
+  },
+  {
+   "query": "ホワイトラベル3Dスキャン処理ソフト 代理店募集",
+   "results": [
+    "https://www.3d-scantech.com/jp/corporation/become-our-partner/",
+    "https://www.shining3d.com/ja/become-a-reseller",
+    "https://systemcreate-inc.co.jp/products/creaform",
+    "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "https://talentacquisition.3ds.com/careersection/qa/jobapply.ftl?job=549554&lang=ja&src=CWS-10080",
+    "https://www.zwsoft.co.jp/become-a-reseller/",
+    "https://www.nishikawa.jp/business/3dcg/3dgs/",
+    "https://dairitenboshu.com/search/categorysub_103",
+    "https://cbrands.wd5.myworkdayjobs.com/ja-JP/CBI_External_Careers/job/XMLNAME-3PM-Commercialization---Supply-Analyst_R-41486-1/apply/applyManually",
+    "https://www.dageno.ai/ja/partners"
+   ]
+  },
+  {
+   "query": "white label 3D scanning software distributor Japan",
+   "results": [
+    "https://www.artec3d.com/where-to-buy/japan",
+    "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "https://www.shining3d.com/shining-3d-establishes-japan-subsidiary-to-strengthen-local-presence",
+    "https://www.3d-scantech.com/corporation/become-our-partner/",
+    "https://www.voxelmatters.directory/company-category/3d-scanner-manufacturer/",
+    "https://www.creaform3d.com/en",
+    "https://www.share3dcam.com/en/partners.html",
+    "https://www.smarttech3d.com/company-become-a-distributor",
+    "https://lmi3d.com/",
+    "https://tracxn.com/d/explore/3d-scanning-startups-in-japan/__lgTWQCKoAsGskoBbGTauMMrGf8lz-KXSQ6t46SHfiHM/companies"
+   ]
+  }
+ ],
+ "missing": {}
+}

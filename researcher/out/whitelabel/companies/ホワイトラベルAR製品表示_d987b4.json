@@ -1,0 +1,1521 @@
+{
+ "name": "ホワイトラベルAR製品表示",
+ "en": "white label AR product visualization",
+ "aliases": [
+  "white-label augmented reality",
+  "white label AR viewer",
+  "AR viewer",
+  "augmented reality",
+  "WebAR",
+  "AR platform"
+ ],
+ "context": "製品紹介",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:04:12.590189+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "According to Shopify, products that include AR or 3D content can achieve up to a 94% increase in conversion rates compared to those relying on static product imagery, reporting that AR directly drives new e-commerce.",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "This guide breaks down how augmented reality product visualization works, explores real-world industry applications, and discovers how no-code platforms like Kivicube enable brands to create AR product experiences without technical complexity.",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "No coding knowledge or 3D modeling skills are required for AR scene creation. In the visual editor, users can simply drag and drop assets onto the canvas, set animations and interactions, and instantly preview the AR product visualization experience in real time.",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "With 98% accuracy of real-life representations of texture, fabric, lighting, and shadows, digital IKEA furniture app was favorably reviewed. It generated massive industry buzz and spiked Google searches for IKEA AR, largely improving conversion and reducing return rates.",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Q: SaaS vs. Custom Dev: Which is Best for an AR Product Visualization?",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Review",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Partners",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "WebAR vs App AR",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "WebAR vs. Native App for AR Product Visualization",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Return reduction is where AR product visualization often pays for itself. Accurate scale, color, and finish previews stop the “it didn’t fit / didn’t look like the photo” return before it happens. Reported reductions reach up to 40%, per Shopify and Deloitte data cited in XICTRON’s 2026 guide, and AR users generate 21% higher revenue per visit and 13% higher average order value, according to",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Hosted SaaS platforms are the fastest way to put a working AR viewer on a product page. They provide a pre-built viewer and configurator on a subscription, usually $140 to $500 per month depending on tier and catalog size. Platforms like",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "On the delivery side, Frame Sixty is an official 8th Wall partner and Unity Certified, and we build WebAR for the browser and native AR on ARKit and ARCore. Across shipped work the team counts 10M+ downloads, 100+ apps and AR experiences, and 7 published AR and machine-learning patents, recognized as a Clutch Top AR/VR company in the US. You can review our",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "AR product visualization reduces returns by up to 40%, per Shopify and Deloitte data, by letting shoppers preview accurate scale, color, and finish before buying. Because the model renders at 1:1 scale in the buyer's own space, it prevents the \"it didn't fit or didn't look like the photo\" returns that drive reverse-logistics cost.",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Quality review",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "One mistake we frequently see is companies treating white label partners like freelancers. Professional production partners work best when integrated into your workflow, documentation, and quality standards.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "For furniture retailers, agencies, and 3D SaaS platforms, this distinction is important. White label partnerships let you expand production capacity without changing the client experience. Your customers continue communicating with your team while the production partner focuses solely on creating high-quality 3D assets.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "In our experience, businesses that choose a true white label partnership benefit from more than extra production capacity. They gain a scalable extension of their internal team, enabling them to take on larger projects without increasing operational overhead.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "The best production partner isn’t always the cheapest. Evaluate providers based on experience, communication, quality assurance, scalability, and transparency rather than price alone.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "No review process",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "In-House Team vs. White Label 3D Furniture Production: Which Is More Cost-Effective?",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "is more cost-effective than building an in-house team. While an internal team provides more control, it also requires ongoing investment in hiring, software, hardware, training, and management. A white label partner offers experienced specialists without the long-term overhead.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "As product catalogs grow, production capacity often becomes a bigger challenge than creativity. Hiring more artists increases fixed costs, while a white label partner lets you scale production only when needed. In our experience, many businesses achieve the best results by combining a small in-house team with a trusted white label partner.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "Cost Comparison: In-House Team vs. White Label Partner",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Partner",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "When Is a White Label Partner the Better Choice?",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "A white label partner is ideal if you:",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve found that the most successful furniture brands don’t choose one model over the other. They keep a lean in-house team for creative direction and client communication while relying on a trusted white label partner to scale production efficiently. This hybrid approach balances quality, flexibility, and cost.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Furniture Rendering vs Traditional Product Photography",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "Cost Comparison: Traditional 3D Agencies vs AI-Based Platforms",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Let’s be real: traditional 3D agencies can burn a hole in your marketing budget. Between long revision cycles, rigid communication, and hefty hourly rates, it’s no wonder many brands hesitate to go all-in. But with AI-driven platforms like Mazing, the game has completely changed.",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "On first glance, a 3D product visualization quotation might seem reasonable—but look deeper and you’ll realize there’s an entanglement of surprise fees. These secret fees are what distinguish dependable platforms from cost-cutting service providers.",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s not just about saving money—it’s about what that investment brings back. With platforms like Mazing, the ROI of 3D/AR visualization isn’t hypothetical. It’s proven.",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Once you purchase the White Label solution (available exclusively on the",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "Harvard Business Review",
+    "url": "https://londondynamics.com/solution/augmented-reality/",
+    "pass": 3
+   },
+   {
+    "quote": "We review your requirements, products and existing assets before coming back to you with a costed proposal and realistic timeframe. Our software offers flexibility within a time-tested framework.",
+    "url": "https://londondynamics.com/solution/augmented-reality/",
+    "pass": 3
+   },
+   {
+    "quote": "Build & review",
+    "url": "https://londondynamics.com/solution/augmented-reality/",
+    "pass": 3
+   },
+   {
+    "quote": "Stringent internal quality assurance and client reviews ensure perfect assets are signed off and ready for use in our CMS. Our team is on hand for technical support and to answer any general queries you may have.",
+    "url": "https://londondynamics.com/solution/augmented-reality/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Product Animation vs. Traditional Product Videos – what works best for eCommerce?",
+    "url": "https://londondynamics.com/solution/augmented-reality/",
+    "pass": 3
+   },
+   {
+    "quote": "Preview & compare colors and product options",
+    "url": "https://www.emersya.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Preview artwork, wall decor, and collectibles in your space before purchase",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "Renovation Preview",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "TVs, speakers, appliances, and gadgets",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "WebAR experiences for product preview",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "• Text personalization and engraving preview",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "Compare AR vs. non-AR product performance",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "Help customers understand products more clearly with immersive 3D previews and contextual visualization.",
+    "url": "https://studio.arloopa.com/product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "Reduce uncertainty with richer previews before purchase.",
+    "url": "https://studio.arloopa.com/product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "This Academy tutorial shows how to use Genie AI inside ARLOOPA Studio to generate a 3D model from a text prompt, review the result, and place it into an AR workflow. It is useful when a team needs a fast concept model, a classroom object, an event prop, or a product-style prototype without modeling from scratch.",
+    "url": "https://studio.arloopa.com/product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "AR Apps vs. Web-based AR",
+    "url": "https://realitymax.com/guides/augmented-reality-for-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "Returns decrease with AR technology. Customers can preview furniture in their room or try on glasses virtually, setting accurate expectations from the start. That means fewer surprises and fewer disappointments after delivery.",
+    "url": "https://realitymax.com/guides/augmented-reality-for-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "Think: a customer placing a virtual sofa in their living room or previewing how sneakers look on their feet, instantly, through a phone screen.",
+    "url": "https://realitymax.com/guides/augmented-reality-for-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "by offering more interactive, accurate product previews than any",
+    "url": "https://realitymax.com/guides/augmented-reality-for-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": ", whether for product previews,",
+    "url": "https://realitymax.com/guides/augmented-reality-for-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "to deliver hyper-personalized product previews based on real-time",
+    "url": "https://realitymax.com/guides/augmented-reality-for-product-visualization",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Spatial, Automotive & Industrial Applications",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "is widely used across brand marketing and e-commerce, transforming how products are presented and experienced online. From real estate to industrial design, modern platforms now make it possible to turn static product concepts into interactive AR experiences within minutes.",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, there are quite a few platforms out there that offer a free trial of the product AR scene. Kivicube, for example, offers 2 free scenes with different AR templates and advanced AR editing capabilities.",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial & Manufacturing",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Start Free Trial",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Register for a Free 30-Day Trial to see how simple it is to create Interactive Print campaigns using UnifiedAR’s PrinTechIQ platform.",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Your Free Trial",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "free trial project",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "Start your free trial today",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "7. What should be included in a trial project before signing a long-term agreement?",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "of your machines when you simply can’t truck in every piece of industrial equipment you have available.",
+    "url": "https://configureid.com/2021/06/24/what-is-ar-product-visualization-and-3-top-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Equipment Visualization",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "B2B AR solutions for machinery, equipment, and industrial product demonstrations",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Equipment:",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "Try For Free",
+    "url": "https://yakkyofy.com/3d-ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "No credit card required · No obligation to continue",
+    "url": "https://yakkyofy.com/3d-ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Field sales reps simulate products in real size in their customer's environment and close deals more efficiently. A great fit for CPG / FMCG POS materials, industrial machines or any other type of B2B product.",
+    "url": "https://www.augment.com/",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "This guide breaks down how augmented reality product visualization works, explores real-world industry applications, and discovers how no-code platforms like Kivicube enable brands to create AR product experiences without technical complexity.",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Looking to enhance your business with AR 3D product visualization? Many brands believe that building AR experiences requires complex development, long production cycles, and dedicated app downloads. In fact, modern WebAR platforms now make it possible to create immersive product experiences without coding or technical expertise.",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Simple Drag and Drop Editor with No Code",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "is widely used across brand marketing and e-commerce, transforming how products are presented and experienced online. From real estate to industrial design, modern platforms now make it possible to turn static product concepts into interactive AR experiences within minutes.",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Build immersive AR experiences in minutes with Kivicube.",
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Your team builds in a drag-and-drop editor. No code.",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "The setup in detail:",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-drop editor, no developers needed",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "Priority support, onboarding and a dedicated contact",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "No. Your team builds in a drag-and-drop editor with image, video and 3D layers, and we handle the platform, hosting and updates.",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "AI generation is compressing the timeline. Neural4D reports a base mesh in roughly 90 seconds and a fully textured GLB in about two minutes, though production-grade hero assets still need human retopology and material work. Our",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Faster onboarding",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "Recruitment & Onboarding",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "into the format required for AR visualization. If you already have a 3D product experience on Emersya, you can have AR running on your product page in a matter of minutes.",
+    "url": "https://www.emersya.com/ar-product-visualization/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "WHITE-LABEL TECHNOLOGY PARTNERSHIPS",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Deliver advanced digital, immersive and AI solutions to your clients without building every capability in-house. Obrive becomes the technology execution layer behind your brand.",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "WHITE-LABEL DEVELOPMENT",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Development",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Our white-label model is designed to help partners increase capability without increasing organizational complexity at the same pace.",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Position the delivery under your own brand and maintain the client relationship.",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Partners",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Technology Partnerships & Development | Obrive",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "White label AR",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, in",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "Your domain, your logo, your colours. Viewers never see Artivive.",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "What white label means",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "One AR platform behind the scenes. Your brand is all your audience sees.",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "Your logo and colours",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "Gota Coffee Experts, Vienna, on white label WebAR.",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "Your logo, colours and domain on everything your audience touches.",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "We apply your logo, colours and domain, and host it for you.",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AR comes with Enterprise. Most clients launch in about three business days.",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AR under your own brand",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "The three days count from when your logo, colours and domain arrive. Unlimited views are fair use.",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "and we set up your brand.",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "What is white label AR?",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "Augmented reality that runs entirely under your own brand. Everything your audience sees, the links and the player, carries your domain, logo and colours, with every trace of Artivive removed. Your team builds in the Artivive editor (Bridge).",
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "Purchase a bundle of AR scan/views for your customer that can be used over time and then topped up with another bundle when needed. White label optional addons are billed monthly if required.",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Interactive Print technology for Printers, Mailers & Agencies. Join our Partner Program and start offering Interactive Print solutions to your customers under your own brand.",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose a White Label 3D Furniture Visualization Service",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose a White Label 3D Furniture Production Partner",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "white-label 3D furniture service",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "The key questions to ask before signing a white label agreement.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label 3D Furniture Production?",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label 3D Furniture Production",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "is an outsourced production model where a specialized studio creates furniture 3D assets under your brand name. Your clients see your company-not the production partner. This allows agencies, retailers, SaaS platforms, and furniture manufacturers to scale production without hiring a large in-house 3D team.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "Building an internal production team for all of these assets is expensive and difficult to scale. That is why many organizations rely on a white-label 3D furniture service to expand production capacity while maintaining complete control over branding, quality, and customer relationships.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": ", companies that treat white label production as a long-term operational partnership-not simply an outsourcing vendor-usually achieve faster product launches, more consistent visual quality, and lower production costs over time.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "How Does White Label 3D Furniture Production Work?",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "Your team communicates directly with your client or internal stakeholders. The white label production partner works behind the scenes, producing all requested assets while remaining invisible throughout the project.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Production Partner",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "Deliver final files under your branding",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "One mistake we frequently see is companies treating white label partners like freelancers. Professional production partners work best when integrated into your workflow, documentation, and quality standards.",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "What’s the Difference Between Outsourcing and White Label?",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label: Subdomain and Domain Customization",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "Once you purchase the White Label solution (available exclusively on the",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "), you can fully rebrand your virtual tours and remove all standard Treedis branding.",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "With White Label, you can replace the Treedis domain with your own custom domain, add your company logo to the tours, and customize interface colors so that your account and tours look entirely like your own product.",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Setup: Providing Your Domain and Subdomain",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "To get started with the White Label setup, we need you to provide us with a domain and subdomain.",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "that suits your brand, here are just some examples:",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "Once your White Label setup is complete (usually within 24 hours), you will gain access to the following:",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "White-labeled login page",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "Whitelabel Email: What Is It?",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "Whitelabel email address is used to receive leads generated from your tours. Leads allow you to collect the information that tour visitors provide, such as their name, phone number, and email address, so you can contact them afterward.",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, this email address is used to send your branded invitations when inviting other users to join your workspace.",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "When choosing a Whitelabel email address, please note that public email domains such as",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "associated with your brand (e.g.,",
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "pass": 3
+   },
+   {
+    "quote": "How to Create AR White Label Web Experiences | Onirix",
+    "url": "https://www.onirix.com/learn-about-ar/how-to-create-ar-white-label-web-experiences/",
+    "pass": 3
+   },
+   {
+    "quote": "How to create AR White Label web experiences",
+    "url": "https://www.onirix.com/learn-about-ar/how-to-create-ar-white-label-web-experiences/",
+    "pass": 3
+   },
+   {
+    "quote": "creating totally personalised experiences based on white label",
+    "url": "https://www.onirix.com/learn-about-ar/how-to-create-ar-white-label-web-experiences/",
+    "pass": 3
+   },
+   {
+    "quote": "Here we explain how to develop white label experiences from our creation tool.",
+    "url": "https://www.onirix.com/learn-about-ar/how-to-create-ar-white-label-web-experiences/",
+    "pass": 3
+   },
+   {
+    "quote": "Embed html and custom Domains",
+    "url": "https://www.onirix.com/learn-about-ar/how-to-create-ar-white-label-web-experiences/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Designed to leave room for your margin.",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale Delivery",
+    "url": "https://obrive.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "UnifiedAR Partner Wholesale Pricing - Affordable Augmented Reality & Interactive Print Solutions - Starting From $4.50/mth",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Interactive Print technology for Printers, Mailers & Agencies. Join our Partner Program and start offering Interactive Print solutions to your customers under your own brand.",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Protect profit margins",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliates",
+    "url": "https://studio.arloopa.com/product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "Buy direct on 1688, China’s largest wholesale marketplace. Skip the markup. Try it free →",
+    "url": "https://yakkyofy.com/3d-ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale",
+    "url": "https://yakkyofy.com/3d-ar-product-visualization/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Cost ranges span $140–$500/month (SaaS), $25,000–$75,000 (custom WebAR), and $50,000–$300,000+ (native app).",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "3D asset production is usually the largest budget line, at $100 to $1,000+ per SKU.",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "AR product visualization is technology that overlays a true-to-scale 3D model of a product onto a shopper’s real environment through a phone or tablet camera, so a buyer can see a sofa on their own floor or a speaker on their own desk before ordering. A custom WebAR build typically costs $25,000 to $75,000 and ships in 6 to 16 weeks; hosted SaaS viewers start around $140 to $500 per month.",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS WebAR: The $140–$500/Month Starting Point",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Hosted SaaS platforms are the fastest way to put a working AR viewer on a product page. They provide a pre-built viewer and configurator on a subscription, usually $140 to $500 per month depending on tier and catalog size. Platforms like",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "$140–$500/month",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "$25,000–$75,000",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "$50,000–$300,000+",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Lighter custom WebAR builds can start nearer $8,000 to $40,000, per",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D models, not the AR software, usually dominate an ecommerce AR budget. Mohamed Essam, Co-Founder and CTO of Virtual Verse Studio, states that 3D content “can consume more than two-thirds of an AR budget” for visually rich applications. A single photorealistic, optimized model runs $100 to $1,000+ per SKU depending on complexity, per",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Run that math across a catalog and the risk becomes obvious. A 500-SKU rollout at $200 per model is $100,000 in assets alone, before a line of AR code. This is why sequencing matters: model your highest-traffic hero products first, prove the conversion lift, then expand. Feature-level cost guidance from",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "puts 3D modeling and rendering at $5,000 to $30,000 as a project line, which tracks with per-SKU pricing once volume climbs.",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "$8k–$75k, or $140–$500/mo SaaS",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "$50k–$300k+",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. WebAR delivers AR product visualization straight to the mobile browser through a link or QR code, with no app download, using frameworks like 8th Wall, A-Frame, and AR.js. On iOS it runs through AR Quick Look and on Android through Scene Viewer. Hosted SaaS viewers start near $140 to $500 per month.",
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "pass": 3
+   },
+   {
+    "quote": "UnifiedAR Partner Wholesale Pricing - Affordable Augmented Reality & Interactive Print Solutions - Starting From $4.50/mth",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$0.045",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$0.035",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$0.023",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$0.018",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$75/mth",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$44.50",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$164.50",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$249.50",
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$180,000–$270,000/year",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "$6,000–$12,000/year",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "$9,000–$15,000",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "$5,000–$15,000",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "$200,000–$300,000+",
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Product Visualization – Pricing Guide & Costs",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Product Visualization Pricing Guide",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Product Visualization Pricing Guide: What You Should Really Be Paying For",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Within this guide, we’ll take an in-depth look at the various 3D renderings, pricing models, and hidden costs and why AI-driven platforms such as Mazing are changing the rules. If you’re about to level up your product images, that is where it all begins.",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing for 3D product visualization isn’t a one-size-fits-all proposition–it’s a blending of inputs and output formats. Whether you’re budgeting for a straightforward product line or an entire digital catalog, and knowing what drives expenses enables you to make wiser choices.",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s where Mazing excels. Due to its AI-driven pipeline, Mazing bypasses most of the manual bottlenecks and delivers consistently good quality without premium pricing. That’s how they produce 3D models from a mere handful of photos—without losing definition or realism. new era of",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "That is why Mazing has such a compelling value proposition: no fine print, no hidden fees. pricing that spans from 3D rendering to integration of an AR viewer, making more predictable and simpler budgeting.",
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Over the next seven years, analysts expect the augmented reality industry to grow exponentially. Rising from a mere $6.12 billion in 2021, the AR market will",
+    "url": "https://configureid.com/2021/06/24/what-is-ar-product-visualization-and-3-top-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "reach almost $100",
+    "url": "https://configureid.com/2021/06/24/what-is-ar-product-visualization-and-3-top-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "Combine your advertising with AR to give your potential customers an experience of a lifetime. With $50B estimated AR Market value by 2024, we can confidently say It’s only just beginning",
+    "url": "https://mediahorizonsl.com/white-label-ar-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "$1,200",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "$2,000",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "$5,000",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "$4,000",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "$6,000",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "$1,500",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "$2,250",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "$3,150",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "$1,260",
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "pass": 3
+   },
+   {
+    "quote": "Starting at 9€ per month",
+    "url": "https://www.augment.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting at 5€ per month",
+    "url": "https://www.augment.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Augmented reality systems appearing in Japanese shopping ... — Augmented reality systems appearing in Japanese shopping ... Phys.org https://phys.org > news > 2009-12-au...",
+    "url": "https://phys.org/news/2009-12-augmented-reality-japanese-malls.html",
+    "pass": 3
+   },
+   {
+    "quote": "AR Product Visualization Software | 3D & WebAR Demos — AR Product Visualization Software | 3D & WebAR Demos ARLOOPA Studio https://studio.arloopa.com > product-...",
+    "url": "https://studio.arloopa.com/product-visualization",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kivicube.com/post/ar-product-visualization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/data-visualization-tools-for-marketers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maverickframe.com/solutions/marketing-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://obrive.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artivive.com/branded-ar-experiences",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://framesixty.com/ar-product-visualization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unifiedar.com/wholesale-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brandyhq.com/feature/white-label-unlimited/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appinstitute.com/best-practices-for-custom-branding-in-white-label-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onirix.com/learn-about-ar/how-to-create-ar-white-label-web-experiences/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://londondynamics.com/solution/augmented-reality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://phys.org/news/2009-12-augmented-reality-japanese-malls.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emersya.com/ar-product-visualization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/PressReleases/japan-augmented-reality-virtual-reality.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://configureid.com/2021/06/24/what-is-ar-product-visualization-and-3-top-examples/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosme-park.com/column/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brandname.tokyo/care-label-country-of-origin-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unifyr.com/ja/atlas/white-labeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamada-seiyaku.com/blog/030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caa.go.jp/policies/policy/representation/household_goods/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelar.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mediahorizonsl.com/white-label-ar-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vizbl.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.virtualdisplay.io/en/solutions/for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/jp/blog/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loyverse.town/topic/1830-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arielcosmetic.com/ja/difference-between-private-label-and-white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craevidence.com/cra-compliance/supply-chain/white-label-oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuwalyst.ai/ja/agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sofpla.jp/partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aqara.com/jp/partner/resellers-retailers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizresearch.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studio.arloopa.com/product-visualization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yakkyofy.com/3d-ar-product-visualization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augment.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://realitymax.com/guides/augmented-reality-for-product-visualization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f6s.com/companies/augmented-reality/japan/co",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label AR product visualization 2026",
+   "results": [
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "https://www.youtube.com/watch?v=YOCCmndzWW8",
+    "https://www.kivicube.com/post/ar-product-visualization/",
+    "https://www.domo.com/learn/article/data-visualization-tools-for-marketers",
+    "https://www.wireflow.ai/blog/best-white-label-ai-image-software-tools-in-2026",
+    "https://maverickframe.com/blog/best-3d-product-rendering-companies/",
+    "https://rendimension.com/blog/top-product-visualization-solutions-6/",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://www.f6s.com/software/category/white-label-ar"
+   ]
+  },
+  {
+   "query": "white label AR product visualization reseller program agencies",
+   "results": [
+    "https://maverickframe.com/solutions/marketing-agencies/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://obrive.com/partners",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://propellant.media/white-label-advertising-agencies/",
+    "https://treeview.studio/blog/top-augmented-reality-ar-development-companies",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://insighto.ai/blog/white-label-reseller-programs/"
+   ]
+  },
+  {
+   "query": "white label AR product visualization free trial pricing",
+   "results": [
+    "https://www.artivive.com/branded-ar-experiences",
+    "https://framesixty.com/ar-product-visualization/",
+    "https://www.kivicube.com/post/ar-product-visualization/",
+    "https://www.unifiedar.com/wholesale-pricing/",
+    "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://mazingxr.com/en/3d-product-visualization-pricing-guide/",
+    "https://zolak.tech/blog/best-3d-product-visualization-platforms-for-ecommerce",
+    "https://londondynamics.com/solution/augmented-reality/",
+    "https://dashboardfox.com/"
+   ]
+  },
+  {
+   "query": "white label AR product visualization rebrand your logo custom domain",
+   "results": [
+    "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "https://www.artivive.com/branded-ar-experiences",
+    "https://suitedash.com/white-label-business-software/",
+    "https://brandyhq.com/feature/white-label-unlimited/",
+    "https://appinstitute.com/best-practices-for-custom-branding-in-white-label-platforms/",
+    "https://www.onirix.com/learn-about-ar/how-to-create-ar-white-label-web-experiences/",
+    "https://digify.com/advanced-branding-custom-url.html",
+    "https://get.bigmarker.com/solutions/white-label",
+    "https://www.boldbi.com/white-label-analytics/",
+    "https://arview.space/whitelabel-apply.php"
+   ]
+  },
+  {
+   "query": "white label AR product visualization Japan Japanese",
+   "results": [
+    "https://londondynamics.com/solution/augmented-reality/",
+    "https://phys.org/news/2009-12-augmented-reality-japanese-malls.html",
+    "https://www.artivive.com/branded-ar-experiences",
+    "https://framesixty.com/ar-product-visualization/",
+    "https://www.emersya.com/ar-product-visualization/",
+    "https://www.marketsandmarkets.com/PressReleases/japan-augmented-reality-virtual-reality.asp",
+    "https://configureid.com/2021/06/24/what-is-ar-product-visualization-and-3-top-examples/",
+    "https://yakkyofy.com/3d-ar-product-visualization/",
+    "https://studio.arloopa.com/product-visualization",
+    "https://whitelabelar.com/"
+   ]
+  },
+  {
+   "query": "ホワイトラベルAR製品表示 日本",
+   "results": [
+    "https://www.cosme-park.com/column/white-label/",
+    "https://brandname.tokyo/care-label-country-of-origin-guide",
+    "https://www.unifyr.com/ja/atlas/white-labeling",
+    "https://www.yamada-seiyaku.com/blog/030",
+    "https://www.caa.go.jp/policies/policy/representation/household_goods/",
+    "https://www.shopify.com/jp/blog/white-label",
+    "https://www.mipro.or.jp/Document/hti0re0000000vi2-att/pdf_publications_0100nimqa.pdf",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://www.maff.go.jp/j/shokusan/export/e_enkatu/attach/pdf/index-6.pdf",
+    "https://sunnysealing.jp/tech/label-display-rules/"
+   ]
+  },
+  {
+   "query": "white label AR product visualization OEM partnership",
+   "results": [
+    "https://whitelabelar.com/",
+    "https://londondynamics.com/solution/augmented-reality/",
+    "https://framesixty.com/ar-product-visualization/",
+    "https://obrive.com/partners",
+    "https://mediahorizonsl.com/white-label-ar-solutions/",
+    "https://configureid.com/2021/06/24/what-is-ar-product-visualization-and-3-top-examples/",
+    "https://www.artivive.com/branded-ar-experiences",
+    "https://www.emersya.com/ar-product-visualization/",
+    "https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization",
+    "https://vizbl.com/"
+   ]
+  },
+  {
+   "query": "white label AR product visualization partner program pricing",
+   "results": [
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://www.revealbi.io/blog/white-label-analytics-platform",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.g2.com/products/whitelabel-partner/pricing"
+   ]
+  },
+  {
+   "query": "ホワイトラベルAR製品表示 OEM提供",
+   "results": [
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://www.yamada-seiyaku.com/blog/030",
+    "https://www.shopify.com/jp/blog/white-label",
+    "https://loyverse.town/topic/1830-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F/",
+    "https://www.arielcosmetic.com/ja/difference-between-private-label-and-white-label/",
+    "https://craevidence.com/cra-compliance/supply-chain/white-label-oem",
+    "https://www.viasion.com/ja/blog/what-are-the-differences-between-oem-and-odm/",
+    "https://www.tokiwa-corp.com/column/1383/",
+    "https://www.kkami.nl/white-label-private-label-odm-oem-what-is-the-difference-and-which-is-best-for-you/",
+    "https://chigai2.fromation.co.jp/archives/23134"
+   ]
+  },
+  {
+   "query": "ホワイトラベルAR製品表示 代理店募集",
+   "results": [
+    "https://kuwalyst.ai/ja/agencies/",
+    "https://b-seeds.com/",
+    "https://www.sofpla.jp/partner.html",
+    "https://www.aqara.com/jp/partner/resellers-retailers/",
+    "https://bizresearch.net/",
+    "https://widefone.jp/partner/",
+    "https://dairitenboshu.com/search/categorysub_103",
+    "https://galderma.wd3.myworkdayjobs.com/ja-JP/External/job/Shopper-Marketing_JR020652-1/apply",
+    "https://digital-hustlers.com/ja/white-label-partnership-for-agencies/",
+    "https://b-seeds.com/column/white-label-business"
+   ]
+  },
+  {
+   "query": "white label AR product visualization distributor Japan",
+   "results": [
+    "https://londondynamics.com/solution/augmented-reality/",
+    "https://mediahorizonsl.com/white-label-ar-solutions/",
+    "https://whitelabelar.com/",
+    "https://configureid.com/2021/06/24/what-is-ar-product-visualization-and-3-top-examples/",
+    "https://framesixty.com/ar-product-visualization/",
+    "https://studio.arloopa.com/product-visualization",
+    "https://yakkyofy.com/3d-ar-product-visualization/",
+    "https://www.augment.com/",
+    "https://realitymax.com/guides/augmented-reality-for-product-visualization",
+    "https://www.f6s.com/companies/augmented-reality/japan/co"
+   ]
+  }
+ ],
+ "missing": {
+  "日本対応": "記載なし（読んだ55頁・検索11回）"
+ }
+}

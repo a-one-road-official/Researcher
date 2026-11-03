@@ -1,0 +1,2165 @@
+{
+ "name": "ホワイトラベル生成設計・設計AI（OEM）",
+ "en": "OEM generative design software",
+ "aliases": [
+  "white label generative design",
+  "generative design",
+  "AI design software",
+  "design automation",
+  "設計自動化"
+ ],
+ "context": "製造業・設計",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:07:38.294277+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "An honest review of the best generative design software for mechanical engineering teams in 2026. What each tool actually delivers, where they fall short, and what matters most.",
+    "url": "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "pass": 3
+   },
+   {
+    "quote": "The Gap Nobody Talks About: Generative Design vs. Design Reuse",
+    "url": "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Best Generative Design Software for Mechanical Engineers (2026 Review)",
+    "url": "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "pass": 3
+   },
+   {
+    "quote": "This is where a fundamentally different approach starts to make more sense. Instead of generating new optimized geometry, what if you could find the closest existing part in your vault and modify it? That part already went through DFM review. It already has validated toolpaths. It already has an approved supplier.",
+    "url": "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Best CAD Software 2026: CATIA vs NX vs Creo vs SolidWorks",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "), the 2D and DWG-centric alternatives (",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Inventor is Autodesk's parametric mechanical CAD tool, primarily used in the Autodesk Product Design & Manufacturing Collection — which bundles Inventor with Revit (architectural), AutoCAD (2D), Navisworks (review), and Factory Design Utilities (plant layout).",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 4: Solid Edge vs. SolidWorks — Two Different Paths to Parasolid",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 3: Proprietary vs. Licensed Kernels",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Not a PLM-connected parametric modeler; no vendor-independent evidence of Teamcenter, Windchill, or 3DEXPERIENCE integration was reviewed for this guide. A Mac build is sold separately under a different product name (iCADMac), per the vendor.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "progeCAD USA: progeCAD vs. AutoCAD",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Performance comparisons on ZWSOFT's product page (for example, \"1.98x as fast as AutoCAD\" for 2D drafting) come from the vendor's own tests on a single Windows 10 machine. Treat them as claims and run your own drawings. The pages reviewed do not state Mac or Linux support, and they do not list PLM integrations.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Modeling Paradigms: NURBS vs Parametric vs Implicit",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Thread vs Twin",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "PLM vs PDM",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best Generative Design AI Tools & Software (2026 Review) - CoLab",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Internal Reviews",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Drawing & Document Review",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Review",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "External Reviews",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-CAD / Multi-PLM Review",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "AI Drawing Review",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "AI CAD Review",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Design Review Capabilities",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Review & Feedback Tracking",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Review Management & Execution",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "See how CoLab captures expert knowledge via virtual design reviews, then activates that expertise with AI agents.",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "CoLab and Vestas partner to extend AI-powered design review",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation and design review",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "A cloud-based solver that uses AI and computing power to generate many design alternatives based on user-defined constraints (materials, safety factors) and manufacturing methods.",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Compare CAD platforms for 2026. Parametric vs. direct modeling, cloud vs. desktop, AI-augmented design, and how CAD integrates with simulation and PLM systems.",
+    "url": "https://threadmoat.com/guides/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Parametric CAD (Creo, SolidWorks) builds model history — changing a dimension updates all downstream geometry. Direct modeling (SpaceClaim) edits geometry without history for faster one-off changes and reverse engineering. Modern platforms like Fusion 360 and Creo offer both modes; choose based on whether your design process involves systematic variation (parametric) or rapid iteration (direct).",
+    "url": "https://threadmoat.com/guides/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "For mid-sized teams, Fusion 360 or Onshape are strong choices: cloud-native collaboration, lower per-seat cost ($500–700/year vs. $3,000–7,000/year for enterprise platforms), and integrated simulation. If your customers or supply chain require CATIA or Creo STEP files, confirm compatibility before switching.",
+    "url": "https://threadmoat.com/guides/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Compare this program vs others",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Health Care Providers & Services",
+    "url": "https://www.skyquestt.com/report/generative-design-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design providers should focus on expanding their business scope in different verticals to boost revenue. Investing in integration of other advanced technologies with generative design is also a key opportunity for market players as per this global generative design market forecast.",
+    "url": "https://www.skyquestt.com/report/generative-design-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "various design alternatives that meet specified requirements and leverage parameter-driven optimization",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Explore and validate multiple design options with generative design software that uses AI to deliver alternatives. See which software fits your needs.",
+    "url": "https://all3dp.com/1/the-best-generative-design-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design allows users to explore many design alternatives in a short period of time, which can help them create more efficient and innovative designs more quickly.",
+    "url": "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vL2ml4YvxmiE9DS7IunMnbMO2EBehR0Fn-9u5OFqvUZ4PexfVL5",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design can greatly reduce the time it takes to design a product or component by automating the design process and exploring many design alternatives quickly.",
+    "url": "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vL2ml4YvxmiE9DS7IunMnbMO2EBehR0Fn-9u5OFqvUZ4PexfVL5",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design and topology optimization are two related but distinct approaches to design. Generative design is a method of using AI algorithms to generate and evaluate multiple design alternatives based on input from the user. This design process can take many factors into account, including performance requirements, manufacturing processes, and materials to generate optimized designs.",
+    "url": "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vL2ml4YvxmiE9DS7IunMnbMO2EBehR0Fn-9u5OFqvUZ4PexfVL5",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design is a method of using artificial intelligence (AI) algorithms to generate and evaluate multiple design alternatives based on input from the user. The user can then review and select the most promising designs for further development. Generative design is a powerful tool in the hands of a design engineer, replacing mundane, time-consuming work with high-value design objectives.",
+    "url": "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vL2ml4YvxmiE9DS7IunMnbMO2EBehR0Fn-9u5OFqvUZ4PexfVL5",
+    "pass": 3
+   },
+   {
+    "quote": "Step 3. Run studies and review results",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Review the",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "compared to your original design to quantify the value for future projects.",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews",
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Service Providers",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design allows users to explore many design alternatives in a short period of time, which can help them create more efficient and innovative designs more quickly.",
+    "url": "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vLnXkwx5q2oAgar5QvjKdUGVDML78ZbrVMucbXb14dILzfaG91V",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design can greatly reduce the time it takes to design a product or component by automating the design process and exploring many design alternatives quickly.",
+    "url": "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vLnXkwx5q2oAgar5QvjKdUGVDML78ZbrVMucbXb14dILzfaG91V",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design and topology optimization are two related but distinct approaches to design. Generative design is a method of using AI algorithms to generate and evaluate multiple design alternatives based on input from the user. This design process can take many factors into account, including performance requirements, manufacturing processes, and materials to generate optimized designs.",
+    "url": "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vLnXkwx5q2oAgar5QvjKdUGVDML78ZbrVMucbXb14dILzfaG91V",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design is a method of using artificial intelligence (AI) algorithms to generate and evaluate multiple design alternatives based on input from the user. The user can then review and select the most promising designs for further development. Generative design is a powerful tool in the hands of a design engineer, replacing mundane, time-consuming work with high-value design objectives.",
+    "url": "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vLnXkwx5q2oAgar5QvjKdUGVDML78ZbrVMucbXb14dILzfaG91V",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partnerships also offer specific software components that complete proprietary offerings. One industry that’s typically associated with OEM Partnerships is smartphones. Technology companies that produce smartphones often approach third-party software providers to design their phone’s pre-installed software.",
+    "url": "https://www.sisense.com/glossary/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "That changes three things compared with a normal seat licence. The commercial terms have to work at the volume you ship rather than per engineer. The branding has to be yours, because the customer is buying your machine and not somebody else's software. And the support relationship stays with you, because the customer will call you when the machine stops.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Through the application form. It asks for a work email, your name, phone number, country and company, and takes about a minute. A work email is required and free mail providers are not accepted, because the first thing we look at is which company is asking.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Last reviewed September 2026.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "FrameworX Reviews",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters Reviews",
+    "url": "https://www.voxelmatters.com/altair-acquires-generative-design-software-startup-gen3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Elegoo Centauri Carbon review: fast, capable, slightly unfinished",
+    "url": "https://www.voxelmatters.com/altair-acquires-generative-design-software-startup-gen3d/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Service Providers",
+    "url": "https://www.voxelmatters.com/altair-acquires-generative-design-software-startup-gen3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Service Providers",
+    "url": "https://www.techsoft3d.com/developers/industries/generative-design/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Supply chain and industry ecosystem constrain CAD choice more than any feature comparison — your OEM's preferred format is your format",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Class-A surface modeling, European automotive OEM workflows (upstream of engineering CAD)",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive OEM exterior design studios, Tier 1 body-in-white suppliers, and industrial design studios producing consumer electronics or transportation products where surface quality is a customer-facing differentiator. Not appropriate for general mechanical engineering.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "If your PLM selection drives your CAD selection (which happens in supply chains where OEMs dictate CAD format to suppliers), the table above shows which CAD tool is native to each PLM.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Brings the KBE (Knowledge-Based Engineering) workflow that aerospace OEMs have used internally for decades to the mid-market, encoded as configurable rules rather than custom scripts",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace, Automotive OEM",
+    "url": "https://threadmoat.com/guides/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partner Program for Equipment Makers | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program for industrial equipment makers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "The SensFlo OEM program lets machine builders embed real-time monitoring and AI production analytics directly into the equipment they sell. You set the price, keep the brand and own the customer relationship, while SensFlo runs the intelligence underneath.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Because the product carries your brand, you also take on the parts of the lifecycle a SensFlo customer would normally get from us: installation, first-line support, marketing and sales. SensFlo provides the licensing rights, engineer certification, implementation documentation and escalation support your team needs to do that well. Companies that want a lighter commitment usually start with the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partners earn?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partners pay SensFlo a licensing fee and sell the finished product at whatever price their market supports, which keeps the margin decision entirely on your side.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand on every screen",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM program require?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM is the most involved of the five programs because your company owns the product end to end. Before your first customer deployment, three things need to be in place.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partners get?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware OEMs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Every OEM partner gets a customer-facing landing page on sensflo.ai. These are the partners currently in the program and the pages built with them.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial 3D printer OEM Desktop Metal has launched its subsidiary Forust, a brand focused on 3D printing functional end-use wood parts via binder jetting.",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding and Customization, OEM Partner Support",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM / ODM",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Project Management",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding and Customization",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "AggreGate IoT Platform and all derived vertical market solutions are white-labeled. These products are designed to be rebranded and redistributed by the hardware manufacturers under an OEM agreement. To achieve your desired commercial results, the branded package will inherit your custom name, copyright, logos, icons, website links, documentation, and other elements of your corporate identity.",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Purposes",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Before you dive into the rebranding process, you first need to recognize good reasons for that. See what you get if you choose to rebrand:",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Options",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Applying the OEM partner’s corporate identity to a new product",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fully rebranded documentation",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Partners",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Equipment manufacturers (OEM/ODM partners)",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding Lifecycle",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Before a rebranded product appears in the marketplace, it takes several steps to prepare:",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Parallel work on the OEM agreement",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "For a major Japanese OEM, our AI research team showcased",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "AI Development | 業務をAI前提で再設計するAIシステム開発 | 株式会社ホワイトラベル",
+    "url": "https://www.whitelabel-inc.com/ai-development",
+    "pass": 3
+   },
+   {
+    "quote": "WHITE LABEL",
+    "url": "https://www.whitelabel-inc.com/ai-development",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ホワイトラベル",
+    "url": "https://www.whitelabel-inc.com/ai-development",
+    "pass": 3
+   },
+   {
+    "quote": "AI SaaS / OEM",
+    "url": "https://www.whitelabel-inc.com/ai-development",
+    "pass": 3
+   },
+   {
+    "quote": "OEMについて相談",
+    "url": "https://www.whitelabel-inc.com/ai-development",
+    "pass": 3
+   },
+   {
+    "quote": "OEMについて相談する",
+    "url": "https://www.whitelabel-inc.com/ai-development",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 WHITE LABEL Inc. All rights reserved.",
+    "url": "https://www.whitelabel-inc.com/ai-development",
+    "pass": 3
+   },
+   {
+    "quote": "LLMOツールのOEM・ホワイトラベル提供【国産・クライアント数無制限】｜LLMOチェキ",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル・OEM",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "LLMO・AIO計測ツール「LLMOチェキ」を、貴社の製品として提供できるOEMプログラムです",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "OEMについて相談する（60分）",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "OEM資料をダウンロード",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "OEMの構成 — 表はすべて貴社、裏は当社",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "OEM提供とは",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "LLMOチェキのホワイトラベル／OEM提供とは？",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "LLMOホワイトラベルとは",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "、AI検索対策（LLMO・AIO）の計測・改善ツールを、開発元の名前を出さずに自社ブランドの製品として提供する形態です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "LLMOチェキのホワイトラベル／OEM提供とは、AI検索対策（LLMO・AIO）の計測・改善SaaSを、貴社ブランドの製品として提供できるプログラムです",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル・OEM・販売代理店・紹介は何が違うのか？",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "自社の製品として持つならホワイトラベル／OEM、売ることから始めるなら代理店です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル／OEM",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "PTC Creo is the parametric standard for industrial equipment, consumer products, and mechanism-heavy design",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial equipment, mechanism design, heavy machinery",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive OEM exterior design studios, Tier 1 body-in-white suppliers, and industrial design studios producing consumer electronics or transportation products where surface quality is a customer-facing differentiator. Not appropriate for general mechanical engineering.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "General mechanical engineering, consumer products, industrial equipment in the SMB segment, any program where engineering talent is the constraint and the tool must be learnable in weeks.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Programs where factory/plant layout, piping and instrumentation (P&ID), and mechanical design are integrated workflows — chemical plants, factory design, HVAC systems. Also used in general industrial equipment by organizations already in the Autodesk ecosystem.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Rhino's open plugin architecture has attracted hundreds of third-party developers. Simulation (Karamba3D, Ladybug), industrial design (KeyShot for rendering), structural analysis (Millipede), and manufacturing (SpaceClaim-like direct modeling via T-Splines and SubD) are all accessible within Rhino through plugins. This extensibility is Rhino's core strength.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Product designers producing custom surface geometry (consumer electronics, furniture, footwear, jewelry, sports equipment), architects (Rhino is standard in architecture), marine and yacht design, industrial designers prototyping sculptural forms, research and art installations.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial designers and product designers who need a tablet-native NURBS modeling workflow; solo designers and small teams requiring fast concept-to-engineering handoff; teams needing direct STEP/IGES export to SolidWorks, CATIA, or NX with geometry preserved; product design studios where gesture-driven 3D sketching accelerates ideation.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Concept visualization and upstream industrial design exploration before geometry moves into an engineering CAD tool; game artists, VFX designers, and animation professionals working on product visualization; designers transitioning into engineering workflows already fluent in Blender's sculpting and SubD tools; low-budget teams requiring high-quality 3D renders alongside concept geometry.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Direct modeling CAD for industrial design and complex surface work",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Fills the gap between NURBs-heavy industrial design tools and parametric engineering CAD; faster for concept exploration than feature-based modelers, with clean STEP export",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "— PULSE framework · industrial connectivity, unified namespace, edge, historian",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Physics-driven tools often create organic \"alien\" shapes. Without advanced 5-axis CNC or industrial 3D printing, these designs may be very difficult to manufacturable or cost-prohibitive.",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Best Industrial AI Platforms",
+    "url": "https://threadmoat.com/guides/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering Software & Industrial AI Market Intelligence",
+    "url": "https://threadmoat.com/guides/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Industrials",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program for industrial equipment makers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Gases",
+    "url": "https://www.skyquestt.com/report/generative-design-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial REITs",
+    "url": "https://www.skyquestt.com/report/generative-design-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Industrials",
+    "url": "https://www.skyquestt.com/report/generative-design-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Conglomerates",
+    "url": "https://www.skyquestt.com/report/generative-design-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Machinery",
+    "url": "https://www.skyquestt.com/report/generative-design-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal and Henkel have announced the first initial workflow validations on the Xtreme 8K, the largest DLP build volume machine for the 3D Printing market. Over the past two years, the companies have collaborated on various unique applications on ETEC’s printer platforms for industrial and medical use. …",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal Launches ETEC 3D Printer Brand Focused on Industrial Manufacturers",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal, a global leader in additive manufacturing technologies for mass production, today announced the launch of ETEC, a new 3D printing brand that will enable EnvisionTEC, the original inventor of digital light processing (DLP) technology, to better connect with industrial customers.",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial 3D printer OEM Desktop Metal has launched its subsidiary Forust, a brand focused on 3D printing functional end-use wood parts via binder jetting.",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal is introducing Live Sinter, a software solution designed to eliminate the trial and error required to achieve high-accuracy parts via powder metallurgy-based additive manufacturing processes like binder jetting.",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Free product trials",
+    "url": "https://adsknews.autodesk.com/en/news/generative-design-access-expands/",
+    "pass": 3
+   },
+   {
+    "quote": "generative design 30-day free trial",
+    "url": "https://adsknews.autodesk.com/en/news/generative-design-access-expands/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk and the University of Florida open the most advanced robotics industrialized construction lab in the US to tackle housing and labor shortages",
+    "url": "https://adsknews.autodesk.com/en/news/generative-design-access-expands/",
+    "pass": 3
+   },
+   {
+    "quote": "before you can purchase or trial the extension.",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "30-day free trial",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Building your own system based on a constantly developing industrial platform",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "14-day enterprise readiness audit",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "The global automotive industry faces several big challenges: transition to electric, connected and software-defined vehicles while also meeting strict regulatory requirements, navigating policy changes, and addressing market needs. This isn’t just a change of powertrain; it’s an industrial revolution that could ultimately reshape how products are developed from the ground up.",
+    "url": "https://www.automotiveworld.com/topics/manufacturing/ai-based-generative-design-guides-oem-transformations/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://www.sisense.com/glossary/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "The team that builds FrameworX has been shipping industrial software since the DOS era. In 1996 it co-founded InduSoft (now AVEVA Edge) and built the HMI engine behind it, and it has shipped every generation of this platform since. FrameworX is the current one, built from scratch on managed .NET rather than carried forward from the last.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "An OEM licence lets a machine builder embed industrial software inside a product and sell that product to an end customer, rather than asking the customer to buy the software separately and install it themselves. The end customer buys a machine. The software is part of it.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Action.NET is built on FrameworX and sold under SPIN's own brand, with more than 400 SCADA systems deployed across power generation, transmission and distribution, including industrial substations and wind power. SPIN brings more than twenty years in the energy market, and worked with the Tatsoft team to build the DNP 3.0 and IEC 60870-5 drivers the product needed.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Protocol converter with real time calculations, on a small form factor industrial PC.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial computer manufacturer",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "The equipment categories where FrameworX is most often embedded are packaging, bottling and labelling, industrial robotics and motion control, printing and converting, semiconductor and electronics assembly, food and beverage production equipment, and mobile machinery in agriculture, construction and logistics.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Tatsoft is a global industrial software company with head offices in the United States and Brazil. Its founders created InduSoft (now AVEVA Edge); its engineers build FrameworX, a unified SCADA, HMI and historian platform.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Internet of Things (IIoT) Software",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://www.voxelmatters.com/altair-acquires-generative-design-software-startup-gen3d/",
+    "pass": 3
+   },
+   {
+    "quote": "NO CREDIT CARD REQUIRED",
+    "url": "https://www.recraft.ai/blog/generative-design-ai-guide",
+    "pass": 3
+   },
+   {
+    "quote": "You need someone who knows your customers’ workflows to choose and tailor the blueprints, and a team that sells to and supports your customers. ConverSight runs the platform, AI models, hosting and security. We also give your team training, sandbox environments and ongoing support.",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$680/yr individual",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$995 perpetual + maintenance",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$149–$299 perpetual",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$299/yr Pro",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "CATIA's complexity is proportional to its capability — it is not the right tool for general mechanical engineering where a parametric solid modeler and decent FEA are sufficient. Learning curve is steep. Licensing is expensive (CATIA licenses can run $15,000–$30,000 per seat per year for full capabilities).",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$4,000–$8,000 per seat per year for SolidWorks Premium (with simulation). Lower tiers available.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360 is Autodesk's cloud-connected design-to-manufacturing platform that integrates CAD, CAM, simulation, and generative design in a single environment. It is not the most capable CAD tool in any single domain, but the integration of all four capabilities at $680/year per user makes it the most accessible professional design-through-manufacturing environment.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$995 perpetual license with annual maintenance (~$200). This makes it one of the lowest-cost professional NURBS tools — a fraction of CATIA's cost.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Comparable to SolidWorks, approximately $4,000–$7,000 per seat per year.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "is a DWG-compatible 2D drafting and 3D navigation tool positioned as an AutoCAD alternative. ZWSOFT lists DWG, DXF and DWT support, LISP, VBA, ZRX and .NET APIs, and perpetual and network licences, with entry pricing from $899 (the vendor notes that price varies by country or region).",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "for Parasolid's dominance across MCAD) — at a $149–$299 perpetual price with no subscription. Designed for game artists and product designers transitioning from polygonal modeling tools like Blender, it dramatically lowers the learning curve for anyone who needs NURBS-quality geometry without the overhead of a full parametric MCAD system.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-grade Parasolid kernel geometry at a fraction of SolidWorks cost. The Studio tier includes xNURBS (normally a $400 Rhino add-on), adding variational surfacing capability that rivals Class-A surface tools.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "For mid-sized teams, Fusion 360 or Onshape are strong choices: cloud-native collaboration, lower per-seat cost ($500–700/year vs. $3,000–7,000/year for enterprise platforms), and integrated simulation. If your customers or supply chain require CATIA or Creo STEP files, confirm compatibility before switching.",
+    "url": "https://threadmoat.com/guides/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "and provide you with customized data in a short amount of time. We offer $1000 worth of FREE",
+    "url": "https://www.skyquestt.com/report/generative-design-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal Receives $7.9 Million System Order from Major German Car Maker for Mass Production of Automotive Components",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal, a leader in mass production additive manufacturing (AM) solutions, announced that, the company has received a $7.9 million order for binder jet additive manufacturing systems from a major German car maker for the mass production of metal automotive powertrain components at scale.",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "PTC today announced that it has acquired Frustum Inc., an advanced generative design software company, for approximately $70 million. Frustum’s technology for generative design—an approach that leverages artificial intelligence (AI) to generate design options—is a transformative addition to the PTC Creo portfolio.",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Starting today, customers can subscribe to Fusion 360’s Generative Design Extension for $200 per month or $1600 per year. This subscription permits customers to run unlimited generative studies and access every design outcome for the duration of their subscription. For customers who prefer per-project pricing, we offer a similarly affordable option.",
+    "url": "https://adsknews.autodesk.com/en/news/generative-design-access-expands/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360 Generative Design: Setup, Pricing, And Workflow | Arched",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360 Generative Design: Setup, Pricing, And Workflow",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Master Fusion 360 generative design. Learn the setup, pricing, and workflow to create optimized CAD models that balance weight, strength, and cost.",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "$1,600 per year",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "when billed annually, or approximately $200 per month on a month-to-month plan. Autodesk offers a",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "that gives you full access to cloud solve credits and all manufacturing method options. Your base Fusion 360 subscription runs around $545 per year for commercial use, so the total annual cost lands near $2,145 for complete generative design capability.",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "200 cloud credits per month",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "in increments of 100 for $100 if you exceed your monthly allocation.",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion 360 Generative Design price plan launched",
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "pass": 3
+   },
+   {
+    "quote": "Click here for an update on Autodesk Fusion 360 Generative Design Pricing for 2021",
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk has announced that it’ll soon be introducing an all you can eat Fusion 360 Generative Design price plan.",
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk not only charge per computational solve (around the $25 mark) but also take a slice when it comes to taking the optima from your experimentation and pushing it into further validation and engineering work (generating am analytic solid/surface-based model of your results costs $100).",
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "pass": 3
+   },
+   {
+    "quote": ") – essentially, this a Fusion 360 Generative Design price add-on for unlimited use of the service for that user, so there are no additional charges for compute or for download of results.",
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "pass": 3
+   },
+   {
+    "quote": "How much is it? Brace yourself, kids. The Generative Design Extension is either $1,000 per month (for monthly billing) or $666 per month (if you shell out your $8,000 annual fee upfront).",
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "pass": 3
+   },
+   {
+    "quote": "Yup. It’s an $1,000 add-on for a design system that costs $60 per month.",
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "pass": 3
+   },
+   {
+    "quote": "This is an interesting announcement but it’s not without its challenges – dropping $1,000 a month on a service that provides results that you then need to validate further isn’t going to appeal to most.",
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360 is priced very aggressively, and I understand that if you use a tool like this you could potentially be gaining huge benefit, but this just seems a little ridiculous, you know?",
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "pass": 3
+   },
+   {
+    "quote": "月額150,000円（税別）で、サイト数・ユーザー数は無制限です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "当社の卸価格は月額150,000円〜（税別・計測枠の超過分は従量課金）",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "当社が運用（月額¥150,000に込み）",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "卸価格は月額¥150,000〜（税別）で、計測枠の超過分は従量課金（ポイント購入）です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "当社は卸価格（月額150,000円〜・税別",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "お支払いは月額（150,000円・税別）です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用0円・最短1週間で、AI対策を自社ブランドの商材として販売できます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用0円・全機能開放をそのまま仕入れ条件とし、再販売価格はパートナー様が自由に決められるため値付け次第では粗利率80%超も狙える設計です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIO代理店・LLMO代理店募集｜初期費用0円・ノルマなし｜ドリームテラー",
+    "url": "https://dreamteller.biz/business-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用・固定費 0円",
+    "url": "https://dreamteller.biz/business-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナープランは月額150,000円（税別）で、サイト数・ユーザー数は無制限です",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "月額¥150,000（税別）／初期費用¥100,000",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "卸原価は月額¥150,000の基本料に、計測量に応じた従量課金が加わります",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "月額10万円で10社に提供した場合、粗利は月約85万円（粗利率85%）になります",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "10社に提供した場合（月額¥100,000で販売）",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "30社に提供した場合（月額¥100,000で販売）",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "50社に提供した場合（月額¥100,000で販売）",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "前提: クライアント販売単価は月額¥100,000（貴社が自由に設定できます",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "当社調べのLLMO月額コンサルティング相場は20万〜50万円）",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーは月額150,000円（税別）と初期費用100,000円です",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "450万円～699万円",
+    "url": "https://en-ambi.com/job/j-17291102/",
+    "pass": 3
+   },
+   {
+    "quote": "450～650万円",
+    "url": "https://en-ambi.com/job/j-17291102/",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円以上の案件が多数",
+    "url": "https://en-ambi.com/job/j-17291102/",
+    "pass": 3
+   },
+   {
+    "quote": "10万円以上～30万円未満",
+    "url": "https://dairitenboshu.com/search/categorysub_ai",
+    "pass": 3
+   },
+   {
+    "quote": "30万円以上～50万円未満",
+    "url": "https://dairitenboshu.com/search/categorysub_ai",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "It has a smaller training ecosystem than SolidWorks, which means staffing is harder. The Synchronous Technology paradigm, while powerful, has a learning curve distinct from pure parametric workflows, which can slow onboarding for engineers coming from SolidWorks or Creo.",
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us about the equipment you build and where it is sold. The application call can take less than 15 minutes, and the partner team will follow up with an answer.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "30 minutes to several hours",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "OEMおよびODM製造とは簡単に言うと何ですか？",
+    "url": "https://www.noa-labs.com/ja/service/oem-odm-original-equipment-manufacturer-original-design-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "60秒で簡単に登録できます",
+    "url": "https://dairitenboshu.com/search/categorysub_ai",
+    "pass": 3
+   },
+   {
+    "quote": "簡単ではありません",
+    "url": "https://crosai.net/partner/?utm_source=prtimes&utm_campaign=partner_program_launch_202608&utm_medium=press_release",
+    "pass": 3
+   },
+   {
+    "quote": "簡単AIチャット",
+    "url": "https://crosai.net/partner/?utm_source=prtimes&utm_campaign=partner_program_launch_202608&utm_medium=press_release",
+    "pass": 3
+   },
+   {
+    "quote": "簡単WEB公開",
+    "url": "https://crosai.net/partner/?utm_source=prtimes&utm_campaign=partner_program_launch_202608&utm_medium=press_release",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Feedback & Markups",
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partner Program for Equipment Makers | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program for industrial equipment makers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partners pay SensFlo a licensing fee and sell the finished product at whatever price their market supports, which keeps the margin decision entirely on your side.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Full pricing and margin control",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "other partner programs?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Referral",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Referral fee",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Resale margin",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "The OEM partner does. OEM partners pay SensFlo a licensing fee and keep full control over the price and margin of the product they sell.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": ". Resellers sell these solutions to their clients, and OEM partners can embed any of them in their own equipment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Yes — many partners evolve over time, for example, starting as Referral partners and moving to Reseller as their SensFlo practice deepens. Hybrid models are also possible; for example, a hardware OEM may also pursue a",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://adsknews.autodesk.com/en/news/generative-design-access-expands/",
+    "pass": 3
+   },
+   {
+    "quote": "that govern structural performance. Fusion 360 generative design uses these inputs to calculate stress distribution and eliminate unnecessary material while maintaining your required safety margins. You apply loads to specific faces, choose from a library of engineering materials, and set",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Retail / Wholesale",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Value-added resellers",
+    "url": "https://aggregate.digital/services/customization.html",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・制作会社・SEO会社が、自社開発なしでAI検索対策のSaaSを商品化するときに使われます",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル・OEM・販売代理店・紹介は何が違うのか？",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "自社の製品として持つならホワイトラベル／OEM、売ることから始めるなら代理店です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "代理店プログラム",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理店の自社メニュー化",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店とは何が違いますか？",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店はLLMOチェキという製品名のまま貴社が販売しますが、ホワイトラベルでは製品そのものが貴社ブランドになり、エンドユーザーとの契約・請求・価格決定も貴社が握ります",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・制作会社・SEO会社が、自社開発なしでAI検索対策のSaaSを商品化する手段として使われる",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店とは、開発元の製品を開発元のブランドのまま販売する事業者である",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・パートナー募集",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "As automakers’ margins",
+    "url": "https://www.automotiveworld.com/topics/manufacturing/ai-based-generative-design-guides-oem-transformations/",
+    "pass": 3
+   },
+   {
+    "quote": "Systems Integrator Partner Program",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Partner Program",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": ", the Tatsoft partner programme.",
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": ", the top modeling kernel. As the exclusive reseller of Parasolid, Tech Soft 3D provides seamless integration with many of our toolkits, facilitating rapid application development.",
+    "url": "https://www.techsoft3d.com/developers/industries/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "For polygon-based data models or 3D printing workflows, we resell",
+    "url": "https://www.techsoft3d.com/developers/industries/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Viewing and Markup",
+    "url": "https://www.techsoft3d.com/developers/industries/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/developers/industries/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM and White-Label AI Partner Program | ConverSight",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Value-added reseller",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "ReSell ConverSight",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Bring ConverSight to your clients alongside your ERP practice, and earn revenue share.",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": ": ERP resellers and System Integrators",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Your name, your industries, your pricing and margins. The blueprints and agents you build are your IP.",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Push to customers and resellers, and upgrade them all at once.",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "What's the difference between OEM, embedded, and reseller partners?",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers sell ConverSight under the ConverSight brand. Embedded partners run ConverSight inside their own software, usually co-branded. OEM partners launch ConverSight as their own product, under their brand and pricing.",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "You set the pricing and packaging your customers see, and you keep the margin. ConverSight charges you for the platform under a partner agreement. On your first call, we’ll walk through the model and what it looks like for your customer base.",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. You can package different blueprints and solutions for each industry or customer segment, and control which customers and resellers see each one.",
+    "url": "https://conversight.ai/oem-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店モデルでは通常 利用許諾はベンダーと利用者の間で締結されます",
+    "url": "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店経由で契約したSaaSサービスでも、利用規約はベンダーの規約に同意しますよね",
+    "url": "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "pass": 3
+   },
+   {
+    "quote": "OEM／代理店パートナー募集中",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI検索最適化（AIO）領域におけるOEM／代理店パートナー制度を本格展開",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEMパートナー制度とは、TROBZが開発・運用するAIO関連プロダクトをパートナー企業が自社ブランドとして再販売できる仕組みです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用0円・全機能開放をそのまま仕入れ条件とし、再販売価格はパートナー様が自由に決められるため値付け次第では粗利率80%超も狙える設計です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "pass": 3
+   },
+   {
+    "quote": "・広告代理店・コンサル会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "pass": 3
+   },
+   {
+    "quote": "TROBZがパートナー企業へ卸販売し、パートナー企業が自社ブランドで再販売・サポートを行います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "pass": 3
+   },
+   {
+    "quote": "この再販売価格と卸価格の差額がそのままパートナーの粗利となります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "pass": 3
+   },
+   {
+    "quote": "TROBZが卸販売しパートナー企業が自社ブランドで再販売・サポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "What generative design software to use? : r/3Dprinting - Reddit — What generative design software to use? : r/3Dprinting - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1c0k6ey/what_generative_design_software_to_use/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360 Generative Design : Setup, Pricing , And Workflow — Fusion 360 Generative Design : Setup, Pricing , And Workflow arched.ai https://arched.ai > Resources",
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Generative Design in Fusion 360 is free until 2020. Now's your ... — Generative Design in Fusion 360 is free until 2020. Now's your ... LinkedIn https://www.linkedin.com > pulse > g...",
+    "url": "https://www.linkedin.com/pulse/generative-design-fusion-360-free-until-2020-nows-your-matt-lemay",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion360 Generative Design Software Add-on Price Drop — Fusion360 Generative Design Software Add-on Price Drop Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/3Dprinting/comments/nwc2e8/fusion360_generative_design_software_addon_price/",
+    "pass": 3
+   },
+   {
+    "quote": "SDKs for 3D Generative Design | Tech Soft 3D — SDKs for 3D Generative Design | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > industries",
+    "url": "https://www.techsoft3d.com/developers/industries/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSサービスのマルチテナントと OEM （ ホワイトラベル ）を ... — SaaSサービスのマルチテナントと OEM （ ホワイトラベル ）を ... OPTiM TECH BLOG https://tech-blog.optim.co.jp > entry > 2022/06/23",
+    "url": "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "AMC Bridge Japan",
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "pass": 3
+   },
+   {
+    "quote": "Why Japanese Companies Choose Quantana: Design. Intelligence. Execution. | Quantana",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "Why Japanese Companies Choose Quantana: Design. Intelligence. Execution.",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": ", Japanese craftsmanship and Indian innovation are natural allies.",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": ", we bring these worlds together-helping Japanese companies",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan–India Advantage",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is renowned for its",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "We understand what it takes for a Japanese business to translate its excellence into digital form for India and beyond:",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "1. UI/UX Design for Japanese Hardware and Global Software",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "Many Japanese companies have world-class hardware. But to succeed in India-or any fast-changing global market-hardware needs",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese sensibility with Indian empathy",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese automobile manufacturer",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "Our design principles respected the Japanese minimalism while embracing India’s diversity of users and languages.",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "Quantana helps Japanese enterprises",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "For a major Japanese OEM, our AI research team showcased",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "• Multi-language interfaces (Japanese–English–Indian languages).",
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "pass": 3
+   },
+   {
+    "quote": "MADE IN JAPAN",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "企画・開発・運営・サポートまですべて日本国内",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で説明責任を果たせます",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "※ 企画・開発・運営はすべて日本国内です",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "SEOの次の対策領域として、日本で使われる呼称である",
+    "url": "https://llmocheki.com/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.bestsmiletech.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビューの概要 サヨリ商店街株式会社（以下、サヨリ商店街）は、日本製高品質のレオタードを始め、オリジナルのダンスウエ",
+    "url": "https://www.commercepick.com/archives/54659",
+    "pass": 3
+   },
+   {
+    "quote": "インタビューの概要 ファッション業界の課題から日本国内のアパレル縫製工場の現状を伺った取材から、LEFRIの高木さんにご紹介いた",
+    "url": "https://www.commercepick.com/archives/54659",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サポート",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "MADE IN JAPAN",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "操作・活用に関する質問対応（回数無制限・追加費用なし・日本語サポート）",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではLLMO、英語圏ではGEOが主流です",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではAI検索対策の総称として使われることが多い",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも提供が始まり、計測対象として重要度が上がっている",
+    "url": "https://llmocheki.com/agency",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国の制作会社・代理店・IT企業とのアライアンス推進でスケール感ある営業経験が積める",
+    "url": "https://en-ambi.com/job/j-17291102/",
+    "pass": 3
+   },
+   {
+    "quote": "GENERATIVE DESIGN - Aluminum processing manufacturer in Japan",
+    "url": "https://www.narahara-at.jp/en/aluminium-processing/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.narahara-at.jp/en/aluminium-processing/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "594banchi, Naraharamachi, Hachioji Shi, Tokyo To, 193-0803, Japan",
+    "url": "https://www.narahara-at.jp/en/aluminium-processing/generative-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © Aluminum processing manufacturer in Japan All rights reserved.",
+    "url": "https://www.narahara-at.jp/en/aluminium-processing/generative-design/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.demystifyingplm.com/best-cad-software-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/solutions/generative-design-ai-software",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://threadmoat.com/guides/best-cad-software-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/blog/top-generative-ai-product-design-engineering-companies-11320",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/generative-design-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amcbridge.com/expertise/generative-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/the-best-generative-design-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adsknews.autodesk.com/en/news/generative-design-access-expands/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vL2ml4YvxmiE9DS7IunMnbMO2EBehR0Fn-9u5OFqvUZ4PexfVL5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/GenerativeDesign/comments/m12pma/freeopen_source_generative_design/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://arched.ai/resources/fusion-360-generative-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brandmark.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brandkit.com/custom-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aggregate.digital/services/customization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://logomakerr.ai/logo/logo-rebrand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.patrik-huebner.com/how-to-use-generative-design-in-branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.go.jp/kizuna/2025/01/ai_in_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helloworldjapan.com/en/articles/japan-geniac-ai-project-explained",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/solutions/generative-design",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabel-inc.com/ai-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmocheki.com/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bestsmiletech.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://documentforce.ai/lp-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/ja/technologies/cad/generative-design?srsltid=AYCX9vJ4w9wYgIpLoiVKpf74ncttgZEm2m8c1Yz9NA-rXXbo8s-ovPTq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automotiveworld.com/topics/manufacturing/ai-based-generative-design-guides-oem-transformations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vLnXkwx5q2oAgar5QvjKdUGVDML78ZbrVMucbXb14dILzfaG91V",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sisense.com/glossary/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/altair-acquires-generative-design-software-startup-gen3d/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/nwc2e8/fusion360_generative_design_software_addon_price/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.techsoft3d.com/developers/industries/generative-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recraft.ai/blog/generative-design-ai-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koji.so/docs/design-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.noa-labs.com/ja/service/oem-odm-original-equipment-manufacturer-original-design-manufacturer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commercepick.com/archives/54659",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.viasion.com/ja/blog/what-are-the-differences-between-oem-and-odm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dreamteller.biz/business-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmocheki.com/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-ambi.com/job/j-17291102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/search/categorysub_ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crosai.net/partner/?utm_source=prtimes&utm_campaign=partner_program_launch_202608&utm_medium=press_release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getleo.ai/blog/best-generative-design-software-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2025/0204-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narahara-at.jp/en/aluminium-processing/generative-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-ele.com/english/maker/partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best OEM generative design software 2026",
+   "results": [
+    "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "https://www.demystifyingplm.com/best-cad-software-2026",
+    "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "https://www.autodesk.com/solutions/generative-design-ai-software",
+    "https://threadmoat.com/guides/best-cad-software-2026",
+    "https://www.reddit.com/r/3Dprinting/comments/1c0k6ey/what_generative_design_software_to_use/",
+    "https://pathnovo.com/blog/best-plant-design-software-2026",
+    "https://www.in3dtec.com/blog/top-10-modeling-software-for-product-designers",
+    "https://www.fortunebusinessinsights.com/blog/top-generative-ai-product-design-engineering-companies-11320",
+    "https://zipdo.co/best/generative-design-software/"
+   ]
+  },
+  {
+   "query": "OEM generative design software reseller program agencies",
+   "results": [
+    "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.fortunebusinessinsights.com/blog/top-generative-ai-product-design-engineering-companies-11320",
+    "https://www.skyquestt.com/report/generative-design-market/companies",
+    "https://www.amcbridge.com/expertise/generative-design",
+    "https://all3dp.com/1/the-best-generative-design-software/",
+    "https://www.softwaredesignpartners.com/",
+    "https://c3.ai/news/c3-ai-launches-oem-program",
+    "https://infomsp.com/ai-machine-learning-companies/service/generative-design",
+    "https://www.gartner.com/reviews/market/software-resellers"
+   ]
+  },
+  {
+   "query": "OEM generative design software free trial pricing",
+   "results": [
+    "https://adsknews.autodesk.com/en/news/generative-design-access-expands/",
+    "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vL2ml4YvxmiE9DS7IunMnbMO2EBehR0Fn-9u5OFqvUZ4PexfVL5",
+    "https://www.reddit.com/r/GenerativeDesign/comments/m12pma/freeopen_source_generative_design/",
+    "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "https://arched.ai/resources/fusion-360-generative-design",
+    "https://www.linkedin.com/pulse/generative-design-fusion-360-free-until-2020-nows-your-matt-lemay",
+    "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "https://www.3ds.com/store/cad/generative-design",
+    "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "https://www.autodesk.com/solutions/generative-design-ai-software"
+   ]
+  },
+  {
+   "query": "OEM generative design software rebrand your logo custom domain",
+   "results": [
+    "https://brandmark.io/",
+    "https://www.youtube.com/watch?v=NBZAHaE5jQk",
+    "https://brandkit.com/custom-design",
+    "https://aggregate.digital/services/customization.html",
+    "https://logomakerr.ai/logo/logo-rebrand",
+    "https://www.patrik-huebner.com/how-to-use-generative-design-in-branding/",
+    "https://ronasit.com/services/branding-design-services/",
+    "https://www.tailorbrands.com/products/logo-maker",
+    "https://www.godaddy.com/websites/logo-design",
+    "https://www.goodfirms.co/ai-logo-generator-software/"
+   ]
+  },
+  {
+   "query": "OEM generative design software Japan Japanese",
+   "results": [
+    "https://quantana.com.au/insights/japanese-companies-choose-quantana",
+    "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "https://www.japan.go.jp/kizuna/2025/01/ai_in_manufacturing.html",
+    "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "https://helloworldjapan.com/en/articles/japan-geniac-ai-project-explained",
+    "https://www.autodesk.com/solutions/generative-design",
+    "https://www.automotiveworld.com/topics/manufacturing/ai-based-generative-design-guides-oem-transformations/",
+    "https://www.3ds.com/store/cad/generative-design",
+    "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "https://www.linkedin.com/pulse/japan-generative-design-software-professional-market-u0lef"
+   ]
+  },
+  {
+   "query": "ホワイトラベル生成設計・設計AI（OEM） 日本",
+   "results": [
+    "https://www.whitelabel-inc.com/ai-development",
+    "https://llmocheki.com/whitelabel",
+    "https://www.bestsmiletech.com/ja/",
+    "https://documentforce.ai/lp-oem/",
+    "https://www.ptc.com/ja/technologies/cad/generative-design?srsltid=AYCX9vJ4w9wYgIpLoiVKpf74ncttgZEm2m8c1Yz9NA-rXXbo8s-ovPTq",
+    "https://isz.ai/ja/services/ai-hardware-oem-odm/",
+    "https://simplyprint.io/ja/oem",
+    "https://www.soap-oem.com/how-to-choose/whitelabel.html",
+    "https://www.osp.co.jp/media/pl_journal/vol15/",
+    "https://www.whitelabel-inc.com/oem"
+   ]
+  },
+  {
+   "query": "OEM generative design software OEM partnership",
+   "results": [
+    "https://www.automotiveworld.com/topics/manufacturing/ai-based-generative-design-guides-oem-transformations/",
+    "https://www.ptc.com/en/technologies/cad/generative-design?srsltid=AYCX9vLnXkwx5q2oAgar5QvjKdUGVDML78ZbrVMucbXb14dILzfaG91V",
+    "https://www.sisense.com/glossary/oem-partners/",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.voxelmatters.com/altair-acquires-generative-design-software-startup-gen3d/",
+    "https://www.techsoft3d.com/resources/blog/generative-design-insights-myths-and-more/",
+    "https://formlabs.com/blog/generative-design/",
+    "https://www.ibm.com/new/announcements/ibm-and-knowis-ag-expand-strategic-oem-partnership"
+   ]
+  },
+  {
+   "query": "OEM generative design software partner program pricing",
+   "results": [
+    "https://adsknews.autodesk.com/en/news/generative-design-access-expands/",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers",
+    "https://www.getleo.ai/blog/best-generative-design-software-2026-guide",
+    "https://www.reddit.com/r/3Dprinting/comments/nwc2e8/fusion360_generative_design_software_addon_price/",
+    "https://www.techsoft3d.com/developers/industries/generative-design/",
+    "https://www.recraft.ai/blog/generative-design-ai-guide",
+    "https://develop3d.com/cad/fusion-350-generative-design-price/",
+    "https://www.koji.so/docs/design-partner-program",
+    "https://conversight.ai/oem-partners/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル生成設計・設計AI（OEM） OEM提供",
+   "results": [
+    "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "https://www.noa-labs.com/ja/service/oem-odm-original-equipment-manufacturer-original-design-manufacturer",
+    "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "https://www.commercepick.com/archives/54659",
+    "https://www.viasion.com/ja/blog/what-are-the-differences-between-oem-and-odm/",
+    "https://newji.ai/procurement-purchasing/how-to-provide-custom-labels-in-private-label-manufacturing/",
+    "https://www.original-ai.com/contents/oem.html",
+    "https://www.revealbi.io/ja/blog/oem-analytics",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://aipicks.jp/glossary/white-label-ai"
+   ]
+  },
+  {
+   "query": "ホワイトラベル生成設計・設計AI（OEM） 代理店募集",
+   "results": [
+    "https://dreamteller.biz/business-partner/",
+    "https://llmocheki.com/agency",
+    "https://prtimes.jp/main/html/rd/p/000000013.000163723.html",
+    "https://en-ambi.com/job/j-17291102/",
+    "https://dairitenboshu.com/search/categorysub_ai",
+    "https://crosai.net/partner/?utm_source=prtimes&utm_campaign=partner_program_launch_202608&utm_medium=press_release",
+    "https://b-seeds.com/business/product/aiit/ai",
+    "https://trobz.co.jp/oem_aio/",
+    "https://mainichi.jp/articles/20260817/pr2/00m/020/117000c",
+    "https://b-seeds.com/column/white-label-business"
+   ]
+  },
+  {
+   "query": "OEM generative design software distributor Japan",
+   "results": [
+    "https://www.techsoft3d.com/developers/industries/generative-design/",
+    "https://www.autodesk.com/solutions/generative-design",
+    "https://www.getleo.ai/blog/best-generative-design-software-small-business",
+    "https://www.automotiveworld.com/topics/manufacturing/ai-based-generative-design-guides-oem-transformations/",
+    "https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0204-01.html",
+    "https://www.amcbridge.com/expertise/generative-design",
+    "https://www.narahara-at.jp/en/aluminium-processing/generative-design/",
+    "https://www.fortunebusinessinsights.com/blog/top-generative-ai-product-design-engineering-companies-11320",
+    "https://www.tokai-ele.com/english/maker/partner.html",
+    "https://japanesedistributors.com/"
+   ]
+  }
+ ],
+ "missing": {}
+}

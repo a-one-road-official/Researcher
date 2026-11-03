@@ -1,0 +1,922 @@
+{
+ "name": "ホワイトラベル図面管理",
+ "en": "white label drawing management software",
+ "aliases": [
+  "white-label engineering document management",
+  "drawing management",
+  "CAD file management",
+  "PDM",
+  "図面管理"
+ ],
+ "context": "製造業・図面",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:03:15.941403+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Users track expenses, review project budgets, share construction drawings, and manage project documents in one place.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Managers review project performance, identify delays, monitor costs, and generate reports to support better decisions.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Generate reports on project progress, costs, resource usage, and task performance. Use dashboard insights to review project status and support data-based decisions.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Give field teams mobile access to tasks, drawings, reports, and project updates. Support photo uploads and site reporting so office teams can review field information.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Bring project tasks, costs, schedules, and progress reports into one dashboard. Help clients and project managers review updates and identify issues faster.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. Custom-Built Construction Software: Which Is Right for Your Business?",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Construction consultants can use a branded platform to monitor project performance, review reports, and coordinate with clients. It also helps them offer digital project management services without building software from scratch.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Record important user actions, document changes, approvals, and project updates. Audit logs help administrators review activity and track changes when needed.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Configure data access, retention, and privacy controls based on business and legal requirements. Review applicable standards and compliance needs before deploying the software.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Review competing construction platforms, common industry workflows, and customer needs. Use these findings to prioritize features and identify ways to differentiate your software.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Create wireframes and interactive prototypes for dashboards, project views, and task workflows. Review the design before development to improve usability for office and field teams.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Design Review",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure everyone is working from the latest sheet with tools that make it easy to publish, review and control construction documents throughout the project lifecycle.",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare sheets and overlay changes to review design impacts faster",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare two PDFs and highlight the differences with markups that can be easily reviewed.",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "See how keeping every team on the current set cuts rework, speeds up reviews and keeps projects on track.",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label Construction Project Management Software at $8000",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label Construction Project Management Software?",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label construction project management software is a ready-made platform that you can launch under your own brand. Instead of building every feature from scratch, you use an existing software foundation and configure it to match your business requirements.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "We customize the platform with your logo, colors, domain, user roles, and project workflows. Our team can also configure features such as task management, project scheduling, budget tracking, document sharing, and progress reports. This approach helps growing companies offer construction management tools without managing the full development lifecycle.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Get a Tailored White Label Software Solution for Your Construction Business",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "How White Label Construction Management Software Works",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label construction project management software allows businesses to launch a fully branded solution without building it from scratch. Customize the platform with your logo, colors, and features to deliver a seamless experience under your own brand.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Construction businesses need a central platform to manage projects, teams, budgets, and site activities. Our white label construction project management software can be configured with the features your clients need to manage construction workflows efficiently.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Business Advantages of Investing in White Label Construction Software",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label construction software helps businesses launch a branded software solution without building every feature from scratch. It offers a practical way to expand services, manage client needs, and support business growth.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. Custom-Built Construction Software: Which Is Right for Your Business?",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label software uses an existing platform that can be branded and configured for your business, while custom development builds software around your specific requirements. The right choice depends on your budget, timeline, technical needs, and level of control.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Software",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Who Can Benefit from White Label Construction Software?",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Reseller and Partner",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Offer special pricing to software resellers and business partners who sell the platform under their own brand. This model helps partners build their software business with an agreed licensing structure.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Markups",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Centralize construction drawings, documents and markups in one connected workspace purpose-built for architects, engineers, contractors and owners.",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Apply automatic slip sheeting to replace outdated pages while preserving markups",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Capture markups, photos and as-built changes directly on the latest sheets",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Keep calculations, details and markups attached to the right revision",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Reduce errors by tying field markups and as-built notes to current drawings",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Lower administrative costs and enhance efficiency with real-time markups, automated workflows, and version control.",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "View, access and navigate an unlimited number of various source files as a single document in a single tab. Files within a Set can now be automatically organized by categories based on preconfigured or custom templates, with options to carry over markups, hyperlinks, and more.",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare two PDFs and highlight the differences with markups that can be easily reviewed.",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Combine your drawings into a single set, then slip sheet each new revision into it so the old sheet is replaced and your markups carry forward. Use Compare Documents to highlight what changed between versions before you share the updated set with your team.",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Reseller",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "White Label Construction Project Management Software at $8000",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$8,000 to $9,000",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$20,000 to $50,000+",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$8,000 - $9,000",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$20,000 - $50,000+",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "価格：100万円 ~ 500万円",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "$70,000",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Get help with platform setup, configuration, integration issues, and user onboarding under your support plan. Access technical guidance as your software requirements change.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、共通ルールの策定は簡単なものではなく、部署ごとの図面担当者が個別にルールを策定してしまい、部署間での共有に支障が出るといったケースも珍しくありません",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、検索機能やバージョン（履歴）管理機能も充実しており、類似の図面を簡単に探し出せる機能を備えた製品もあります",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "直感的な操作性と、ドキュメント種別を問わない統一オペレーションで、誰でも簡単に使いこなせます",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "・簡単で直感的な操作",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "紙とCADファイルの二重管理、保管スペースの圧迫が課題になることはもちろん、紙は簡単にコピーできるので、最新版が分からなくなってしまうなど、管理効率が低下し続けてしまう原因になります",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "図面からファイルの属性情報まで、ボタンひとつで簡単に複製できます",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーション社の統合情報管理システム(ArcSuite)と連携し、簡単な操作で",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "【ChatGPT搭載】図面を軸にした情報・書類の一元管理が簡単に",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "検索機能により必要なデータを簡単かつ迅速に見つけることが可能です",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "直感的な操作性と、ドキュメント種別を問わない統一オペレーションで、導入後、誰でも簡単に使いこなせます",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "IG Work Managerでは、検索機能で図面やFAXを簡単に見つけられるのはもちろん、管理用のフォルダが自動で生成されるので、「人によって管理のルールが違う」という状況を避けられます",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "■図枠も簡単に更新",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "ズメーン上でCADを簡単プレビュー",
+    "url": "https://lp.zume-n.com/",
+    "pass": 3
+   },
+   {
+    "quote": "図面の改訂があった際にも、簡単な操作でバージョン管理ができます｡",
+    "url": "https://lp.zume-n.com/",
+    "pass": 3
+   },
+   {
+    "quote": "誰でも簡単にデータ管理",
+    "url": "https://lp.zume-n.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイルをドラッグ&ドロップするだけで、誰でも簡単に紐付け管理ができます",
+    "url": "https://lp.zume-n.com/",
+    "pass": 3
+   },
+   {
+    "quote": "一度設定したタグは自動で記憶されるので、ワンボタンで簡単にタグ付けできます",
+    "url": "https://lp.zume-n.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "【事例付き】図面管理を効率化する具体的な方法とポイント｜図面管理コラム｜Hi-PerBT Advanced 図面管理｜日立ソリューションズ西日本",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 日立ソリューションズ西日本",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ西日本 製品担当者からコメント",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ西日本",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ西日本が提供する「Hi-PerBT Advanced 図面管理」は、製品の設計図面管理業務を効率化する機能を網羅した図面管理システムです",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ西日本 製品担当者からのオススメ！",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は30年にわたり、日本の製造業のお客さまの、設計業務を改善する図面管理システム構築をお手伝いしてきました",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "© Hitachi Solutions West Japan, Ltd.",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "Box Japan ユーザーコミュニティ",
+    "url": "https://japan.box.com/case/customer-success/fujitec-box-customer-award-japan-2021",
+    "pass": 3
+   },
+   {
+    "quote": "Box Customer Award Japan 2021にて、フジテック株式会社様に発表いただいた活用事例をお届けします",
+    "url": "https://japan.box.com/case/customer-success/fujitec-box-customer-award-japan-2021",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Box Japan",
+    "url": "https://japan.box.com/case/customer-success/fujitec-box-customer-award-japan-2021",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日立ソリューションズ西日本",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "■日本語の他、英語、タイ語、ベトナム語に対応",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ツクリダス株式会社",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (JP)",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "図面管理 とは？ 必要性やシステム活用メリットまで解説 — 図面管理 とは？ 必要性やシステム活用メリットまで解説 株式会社 日立ソリューションズ西日本 https://www.hitachi-solutions-west.co.jp > industry > vol01",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "pass": 3
+   },
+   {
+    "quote": "図面管理 システム メーカー49社 - Metoree — 図面管理 システム メーカー49社 - Metoree Metoree https://metoree.com > 開発・設計ツール",
+    "url": "https://metoree.com/categories/3202/",
+    "pass": 3
+   },
+   {
+    "quote": "図面管理 システム - メーカー・企業22社の業務用製品ランキング — 図面管理 システム - メーカー・企業22社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 図面管理システム",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Free Trial",
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://assembly.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thedigitalprojectmanager.com/tools/best-white-label-document-management-system/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.luzmo.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.connectpos.com/best-white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taskip.net/white-label-tools-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://awario.com/blog/white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manyrequests.com/blog/white-label-project-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/the-best-white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novisign.com/blog/signage/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://twominutereports.com/blog/white-label-marketing-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alexberman.com/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://artclickdev.com/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seosamba.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codementor.io/@rashidkhanrk1717/white-label-construction-project-management-software-2p3hjhii5q",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/3202/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://japan.box.com/case/customer-success/fujitec-box-customer-award-japan-2021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.zume-n.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://flowwright.com/blog/oem-white-label-workflow-software-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appinventiv.com/blog/white-label-investor-relationship-management-software-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.bicomsystems.com/oem-and-white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morganlewis.com/blogs/sourcingatmorganlewis/2023/06/wheres-the-money-options-for-commercializing-technology-part-2-white-label-arrangements",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.introw.com/blog/white-label-software-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g2.com/products/whitelabel-partner/pricing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pricingnow.com/question/white-label-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hustlemarketers.com/white-label-ppc-pricing-what-agencies-charge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamada-seiyaku.com/blog/030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmocheki.com/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/glossary/terms/white-label.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unifyr.com/ja/atlas/white-labeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.risivo.ai/ja/feature/%E4%BB%A3%E7%90%86%E5%BA%97%E5%90%91%E3%81%91%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E7%AE%A1%E7%90%86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizresearch.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sofpla.jp/partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizpla.com/partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://start.docuware.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axiswebart.com/white-label-software-development/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label drawing management software 2026",
+   "results": [
+    "https://assembly.com/blog/white-label-software",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://thedigitalprojectmanager.com/tools/best-white-label-document-management-system/",
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://www.luzmo.com/blog/white-label-software",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://www.youtube.com/watch?v=DM02QtqUOso",
+    "https://croclub.com/tools/best-white-label-lead-management-software/",
+    "https://manyrequests.com/blog/white-label-project-management-software",
+    "https://worldmetrics.org/best/label-and-artwork-management-software/"
+   ]
+  },
+  {
+   "query": "white label drawing management software reseller program agencies",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.connectpos.com/best-white-label-software-to-resell/",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://sellful.com/"
+   ]
+  },
+  {
+   "query": "white label drawing management software free trial pricing",
+   "results": [
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://sellful.com/",
+    "https://assembly.com/blog/white-label-software",
+    "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "https://awario.com/blog/white-label-marketing-tools/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://manyrequests.com/blog/white-label-project-management-software"
+   ]
+  },
+  {
+   "query": "white label drawing management software rebrand your logo custom domain",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://www.youtube.com/watch?v=_j4Rr-Tl6xw",
+    "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://www.novisign.com/blog/signage/white-label/",
+    "https://twominutereports.com/blog/white-label-marketing-tools",
+    "https://alexberman.com/white-label-marketing-software",
+    "https://blog.duda.co/top-white-label-tools-for-agencies",
+    "https://www.insiyon.com/services/white-label-products"
+   ]
+  },
+  {
+   "query": "white label drawing management software Japan Japanese",
+   "results": [
+    "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software",
+    "https://artclickdev.com/whitelabel",
+    "https://www.seosamba.com/white-label/",
+    "https://www.codementor.io/@rashidkhanrk1717/white-label-construction-project-management-software-2p3hjhii5q",
+    "https://manyrequests.com/blog/white-label-project-management-software",
+    "https://www.247pro.com/white-label-branding",
+    "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://sourceforge.net/software/construction-drawing-management/japan/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル図面管理 日本",
+   "results": [
+    "https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/",
+    "https://metoree.com/categories/3202/",
+    "https://japan.box.com/case/customer-success/fujitec-box-customer-award-japan-2021",
+    "https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://lp.zume-n.com/",
+    "https://hibiki.dreamarts.co.jp/smartdb/learning/le-sp220805/",
+    "https://it-trend.jp/design_drawings_management/article/142-0011",
+    "https://partnersuccess.jp/passport/products/239",
+    "https://ones.com/ja/blog/best-white-label-project-management-tools-2026/",
+    "https://ones.com/ja/blog/white-label-project-management-software-comparison/"
+   ]
+  },
+  {
+   "query": "white label drawing management software OEM partnership",
+   "results": [
+    "https://flowwright.com/blog/oem-white-label-workflow-software-guide",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://appinventiv.com/blog/white-label-investor-relationship-management-software-development/",
+    "https://blog.bicomsystems.com/oem-and-white-label/",
+    "https://www.morganlewis.com/blogs/sourcingatmorganlewis/2023/06/wheres-the-money-options-for-commercializing-technology-part-2-white-label-arrangements",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.conexisvmssoftware.com/white-label-vms",
+    "https://www.fcl.software/oem"
+   ]
+  },
+  {
+   "query": "white label drawing management software partner program pricing",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://manyrequests.com/blog/white-label-project-management-software",
+    "https://www.codementor.io/@rashidkhanrk1717/white-label-construction-project-management-software-2p3hjhii5q",
+    "https://assembly.com/blog/white-label-software",
+    "https://www.introw.io/blog/white-label-software-partner-program"
+   ]
+  },
+  {
+   "query": "ホワイトラベル図面管理 OEM提供",
+   "results": [
+    "https://www.yamada-seiyaku.com/blog/030",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://llmocheki.com/whitelabel",
+    "https://otsumu.co.jp/knowledge/glossary/terms/white-label.html",
+    "https://www.unifyr.com/ja/atlas/white-labeling",
+    "https://www.soap-oem.com/how-to-choose/whitelabel.html",
+    "https://www.yinshanfashion.com/ja/blog/private-label-white-label-oem-odm-clothing",
+    "https://b-seeds.com/column/white-label-business",
+    "https://pigeon-fw.com/oem",
+    "https://www.whitelabel-inc.com/oem"
+   ]
+  },
+  {
+   "query": "ホワイトラベル図面管理 代理店募集",
+   "results": [
+    "https://www.risivo.ai/ja/feature/%E4%BB%A3%E7%90%86%E5%BA%97%E5%90%91%E3%81%91%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E7%AE%A1%E7%90%86/",
+    "https://b-seeds.com/",
+    "https://bizresearch.net/",
+    "https://www.sofpla.jp/partner.html",
+    "https://bizpla.com/partner.html",
+    "https://viatris.wd5.myworkdayjobs.com/ja-JP/External/job/Hub-Label-Manager_R5665273",
+    "https://bixid.net/partner/index.html",
+    "https://www.bgent.net/",
+    "https://xn--pckua2a7gp15o89zb.com/%E5%9C%A8%E5%AE%85-%E5%9B%B3%E9%9D%A2-%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97%E3%81%AE%E4%BB%95%E4%BA%8B-%E6%9D%B1%E4%BA%AC%E9%83%BD",
+    "https://onebot.cloud/ja/partner"
+   ]
+  },
+  {
+   "query": "white label drawing management software distributor Japan",
+   "results": [
+    "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://start.docuware.com/",
+    "https://www.bluebeam.com/workflows/drawing-and-document-management/",
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://www.axiswebart.com/white-label-software-development/",
+    "https://www.souya.biz/en/drawing-soln/drawing-mgnt/",
+    "https://getzendo.io/blog/white-label-tools-for-agencies/",
+    "https://aras.com/en",
+    "https://sourceforge.net/software/construction-drawing-management/japan/"
+   ]
+  }
+ ],
+ "missing": {}
+}

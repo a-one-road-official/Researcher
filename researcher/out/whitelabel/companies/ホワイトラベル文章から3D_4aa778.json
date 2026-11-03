@@ -1,0 +1,581 @@
+{
+ "name": "ホワイトラベル文章から3D",
+ "en": "white label text to 3D",
+ "aliases": [
+  "white-label text-to-CAD",
+  "white label AI 3D model generator",
+  "white label AI design tool",
+  "text to 3D",
+  "text-to-CAD",
+  "AI 3D model"
+ ],
+ "context": "設計（専門知識不要のものだけ）",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:00:06.379146+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "The text-to-3D feature is honestly the best part for me. I can type in a simple description and get a solid model in seconds, which saves a ton of time compared to starting from scratch in traditional 3D software. It's especially helpful when I'm just trying to prototype an idea.",
+    "url": "https://www.meshy.ai/ja/features/text-to-3d",
+    "pass": 3
+   },
+   {
+    "quote": "Meshy vs. Hunyuan3D",
+    "url": "https://www.meshy.ai/ja/features/text-to-3d",
+    "pass": 3
+   },
+   {
+    "quote": "Visual Studio Code（VS Code）の拡張機能...",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "無料プランで生成されたモデルは CC BY 4.0 ライセンスで公開されます — 帰属表示（クレジット）を行えば商用利用できます",
+    "url": "https://www.meshy.ai/ja/features/text-to-3d",
+    "pass": 3
+   },
+   {
+    "quote": "にアクセスして、画面右上の「Start for Free」をクリックすると、メールアドレスを入力する画面が出てきます",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Meshyは英語、スペイン語、フランス語、中国語、日本語など多くの言語に対応しているため、クリエイターは言語の壁や翻訳手順なしで3Dアセットを生成できます",
+    "url": "https://www.meshy.ai/ja/features/text-to-3d",
+    "pass": 3
+   },
+   {
+    "quote": "ほかのキーワードでの生成も試してみましたが、海外のツールのため日本らしいゆるいキャラクターの生成はできなさそうでした",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "アニメーション簡単にリグ付けされたアニメーション付きの3Dキャラクターを作成します",
+    "url": "https://www.meshy.ai/ja/features/text-to-3d",
+    "pass": 3
+   },
+   {
+    "quote": "テキストを高精細な3Dモデルに簡単に変換するシンプルな3ステッププロセスをご紹介します",
+    "url": "https://www.meshy.ai/ja/features/text-to-3d",
+    "pass": 3
+   },
+   {
+    "quote": "簡単にリグ付けされたアニメーション付きの3Dキャラクターを作成します",
+    "url": "https://www.meshy.ai/ja/features/text-to-3d",
+    "pass": 3
+   },
+   {
+    "quote": "モデルを簡単に動かしてみる",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   },
+   {
+    "quote": "では3Dモデルファイルをアップロードし、関節を指定することで簡単に動かすために必要なボーンの生成をしてくれます",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   },
+   {
+    "quote": "Blenderなどで個別に編集するより簡単で使いやすいツールです",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコード・ローコードの技術ブログを始めとして、最新のIT技術、業務で役立つノウハウなど様々なトピックをまとめています",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコード・ローコード開発ではデータベースのスキル・知識はどれくらい必要？",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "ホワイトラベル",
+    "url": "https://www.unite.ai/ja/how-text-to-3d-ai-generation-works-meta-3d-gen-openai-shap-e-and-more/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Text to 3D ：プロンプト から 1分で 3D モデルを生成 - Meshy AI — Text to 3D ：プロンプト から 1分で 3D モデルを生成 - Meshy AI Meshy https://www.meshy.ai > ホーム > 機能",
+    "url": "https://www.meshy.ai/ja/features/text-to-3d",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$20 /月",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   },
+   {
+    "quote": "$60 /月",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   },
+   {
+    "quote": "$120 /月",
+    "url": "https://funrepeat.com/fr-note/4918",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/the-best-white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ivisionmobile.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.textmunication.com/reseller-whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://textus.com/blog/white-label-sms-marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/whitelabel-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lety.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appypie.com/white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humansignal.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readdy.ai/ai-website-builder/white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appinstitute.com/best-practices-for-custom-branding-in-white-label-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://launchpadlab.com/blog/top-design-considerations-for-white-label-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.magnific.com/psd/japan-text",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pinterest.com/ideas/how-to-create-3d-text-in-japanese/938434288068/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://artclickdev.com/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stock.adobe.com/search?k=japanese+text",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meshy.ai/ja/features/text-to-3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unolaboratory.com/3dgenaitools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/ja/how-text-to-3d-ai-generation-works-meta-3d-gen-openai-shap-e-and-more/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3daitext",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netrio.com/white-labeling-managed-it-services-pros-and-cons/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainora.lt/blog/white-label-voice-ai-platform-cost-agencies-2026",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trumpia.com/partner-programs/whitelabel-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meshy.ai/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1tvnw5j/is_anyone_trackinggathering_data_on_filament/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newji.ai/procurement-purchasing/success-stories-in-manufacturing-using-3d-printing-and-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labs.1-10.com/2025/04/08/4818",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancers.jp/work/search/design/3d?srsltid=AYCX9vIKV6QDh1qFL87XBkdJiKHMKVskHAUTj6RfEpjortp6qH75DTRz",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://talentacquisition.3ds.com/careersection/qa/jobapply.ftl?job=549988&lang=ja&src=CWS-10080",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wogo.ai/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funrepeat.com/fr-note/4918",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://makr3d.app/packaging-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agentz.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaocollins.com/services/private-label-custom-inks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://printago.io/solutions/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grup3d.com/blog/white-label-3d-configurator-for-distributors/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label text to 3D 2026",
+   "results": [
+    "https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026",
+    "https://www.youtube.com/watch?v=DM02QtqUOso",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://www.reddit.com/r/generativeAI/comments/1svi088/text_to_3d_has_gotten_weirdly_good_and_nobody_is/",
+    "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "https://www.kimi.ai/resources/free-3d-text-generators",
+    "https://www.rapiddirect.com/blog/ai-text-to-3d-model-generators-comparison/"
+   ]
+  },
+  {
+   "query": "white label text to 3D reseller program agencies",
+   "results": [
+    "https://ivisionmobile.com/white-label/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.textmunication.com/reseller-whitelabel",
+    "https://textus.com/blog/white-label-sms-marketing",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.trumpia.com/partner-programs/whitelabel-reseller",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/"
+   ]
+  },
+  {
+   "query": "white label text to 3D free trial pricing",
+   "results": [
+    "https://simvoly.com/whitelabel-website-builder",
+    "https://lety.ai/pricing/",
+    "https://trillet.ai/whitelabel/pricing",
+    "https://www.appypie.com/white-label-website-builder",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://humansignal.com/pricing/",
+    "https://product3d.io/en/features/white-label/",
+    "https://printpal.io/3dgenerator",
+    "https://www.whitelabeliq.com/design/3d-rendering/",
+    "https://www.text3d.ai/pricing"
+   ]
+  },
+  {
+   "query": "white label text to 3D rebrand your logo custom domain",
+   "results": [
+    "https://info.treedis.com/help.center/white-label-subdomain-and-domain-customization",
+    "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "https://simvoly.com/whitelabel-website-builder",
+    "https://readdy.ai/ai-website-builder/white-label-website-builder",
+    "https://appinstitute.com/best-practices-for-custom-branding-in-white-label-platforms/",
+    "https://www.youtube.com/watch?v=DM02QtqUOso",
+    "https://launchpadlab.com/blog/top-design-considerations-for-white-label-applications/",
+    "https://logo.com/logos/white-label-logo",
+    "https://www.duda.co/website-builder/white-label",
+    "https://suitedash.com/white-label-business-software/"
+   ]
+  },
+  {
+   "query": "white label text to 3D Japan Japanese",
+   "results": [
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://www.magnific.com/psd/japan-text",
+    "https://www.amazon.com/clp/B0CQZ44SQR",
+    "https://www.pinterest.com/ideas/how-to-create-3d-text-in-japanese/938434288068/",
+    "https://artclickdev.com/whitelabel",
+    "https://stock.adobe.com/search?k=japanese+text",
+    "https://jingsourcing.com/b-white-label-product/",
+    "https://simplyprint.io/oem",
+    "https://www.facebook.com/EdoJapanTravel/videos/shinjukus-futuristic-3d-billboardtokyo-never-stops-surprising-and-shinjukus-3d-b/2810683339328836/",
+    "https://imagesplitter.tools/text-to-3d"
+   ]
+  },
+  {
+   "query": "ホワイトラベル文章から3D 日本",
+   "results": [
+    "https://www.meshy.ai/ja/features/text-to-3d",
+    "https://www.youtube.com/watch?v=cuCgVtt2RL0",
+    "https://unolaboratory.com/3dgenaitools/",
+    "https://www.unite.ai/ja/how-text-to-3d-ai-generation-works-meta-3d-gen-openai-shap-e-and-more/",
+    "https://skhonpo.com/blogs/3dprinter-practice/3daitext",
+    "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
+    "https://tenagle.com/meshy_textto3d/",
+    "https://www.viverse.com/ai/ja-JP/object",
+    "https://blog.alche.studio/posts/1gh5GCXpio1DQCkMrmOVlX/",
+    "https://studio.tripo3d.ai/ja"
+   ]
+  },
+  {
+   "query": "white label text to 3D OEM partnership",
+   "results": [
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://simplyprint.io/oem",
+    "https://www.linkedin.com/pulse/unlocking-power-white-label-partnerships-deep-dive-digital-qelkf",
+    "https://www.netrio.com/white-labeling-managed-it-services-pros-and-cons/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://conversight.ai/oem-partners/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.instagram.com/p/DdjbtLeFVs9/",
+    "https://meshinspector.com/white-label/",
+    "https://resources.rework.com/libraries/partnership-management/white-label-partnership"
+   ]
+  },
+  {
+   "query": "white label text to 3D partner program pricing",
+   "results": [
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://ivisionmobile.com/white-label/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://ainora.lt/blog/white-label-voice-ai-platform-cost-agencies-2026",
+    "https://www.trumpia.com/partner-programs/whitelabel-reseller",
+    "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.weweb.io/blog/app-builder-white-label-guide-use-cases-costs-steps",
+    "https://www.g2.com/products/whitelabel-partner/pricing"
+   ]
+  },
+  {
+   "query": "ホワイトラベル文章から3D OEM提供",
+   "results": [
+    "https://tech-blog.optim.co.jp/entry/2022/06/23/100000",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://www.meshy.ai/ja",
+    "https://www.reddit.com/r/3Dprinting/comments/1tvnw5j/is_anyone_trackinggathering_data_on_filament/?tl=ja",
+    "https://newji.ai/procurement-purchasing/success-stories-in-manufacturing-using-3d-printing-and-oem/",
+    "https://formlabs.com/jp/blog/3d-printing-helps-dorman-keep-pace-with-automotive-oems/",
+    "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
+    "https://ledge.ai/articles/dreamfusion-3d-model-ai",
+    "https://markforged.com/jp/digital-source",
+    "https://aipicks.jp/glossary/white-label-ai"
+   ]
+  },
+  {
+   "query": "ホワイトラベル文章から3D 代理店募集",
+   "results": [
+    "https://www.meshy.ai/ja/features/text-to-3d",
+    "https://labs.1-10.com/2025/04/08/4818",
+    "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
+    "https://www.lancers.jp/work/search/design/3d?srsltid=AYCX9vIKV6QDh1qFL87XBkdJiKHMKVskHAUTj6RfEpjortp6qH75DTRz",
+    "https://talentacquisition.3ds.com/careersection/qa/jobapply.ftl?job=549988&lang=ja&src=CWS-10080",
+    "https://www.wogo.ai/recruit/",
+    "https://funrepeat.com/fr-note/4918",
+    "https://www.gravotech.jp/about-us/become-gravotech-channel-partner",
+    "https://www.shopify.com/jp/blog/ai-3d-model-generation",
+    "https://bizresearch.net/"
+   ]
+  },
+  {
+   "query": "white label text to 3D distributor Japan",
+   "results": [
+    "https://www.textmunication.com/reseller-whitelabel",
+    "https://ivisionmobile.com/white-label/",
+    "https://simplyprint.io/oem",
+    "https://makr3d.app/packaging-white-label",
+    "https://textus.com/blog/white-label-sms-marketing",
+    "https://www.agentz.ai/partners",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://www.kaocollins.com/services/private-label-custom-inks/",
+    "https://printago.io/solutions/oem",
+    "https://grup3d.com/blog/white-label-3d-configurator-for-distributors/"
+   ]
+  }
+ ],
+ "missing": {
+  "再販制度": "記載なし（読んだ55頁・検索11回）"
+ }
+}

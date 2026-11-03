@@ -1,0 +1,1796 @@
+{
+ "name": "ホワイトラベルCADビューア・CAD組込み（OEM）",
+ "en": "OEM CAD viewer SDK",
+ "aliases": [
+  "white label CAD viewer",
+  "CAD SDK",
+  "CAD kernel OEM",
+  "embedded CAD",
+  "CAD viewer",
+  "3D CAD viewer"
+ ],
+ "context": "製造業・設計",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:04:32.135945+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "The decision isn't always obvious, though. Browser tools are fast for one-off reviews but fall short when teams need offline access, repeated measurement, markup workflows, or file conversion. Desktop software fills those gaps, but adds cost and platform constraints.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "DWG TrueView is the go-to for teams that plot, convert, and review drawings on Windows",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Best when reviewers also need to edit drawings:",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "A viewer renders the geometry in a design file so reviewers can navigate it without the authoring tool. Core capabilities include:",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "An Autodesk-oriented design review format",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Viewers are for access, review, and lightweight inspection. Editors add drawing or modeling changes. Some tools sit between the two by supporting markup, conversion, or limited edits without full authoring capability.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Review DWG or DXF on Windows",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "A viewer is the right call when someone needs access, not authoring capability. A contractor reviewing a structural drawing, a sales engineer checking dimensions before a customer call, or an operations lead confirming a specification: None of these workflows require a full seat. Matching the tool to the job keeps license costs proportional to actual usage.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Browser-based viewers remove the install barrier for external reviewers. A shared link lets a client inspect a layout, a supplier check a tolerance, or a board advisor review a product rendering without installing anything. The constraint worth checking is file size: Some online viewers cap uploads, which matters if you're working with complex assemblies.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "All seven tools below handle the core job of opening and displaying CAD files, but they solve different problems. Use the table to narrow the list before reading the full reviews.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Teams and external stakeholders that need browser-based access to review and collaborate on CAD files from many different sources.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Shareable views for external reviewers",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "4.3/5 based on 60 reviews, per Autodesk Viewer's G2 listing (October 2026).",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Windows-based design or operations teams that review, plot, and convert DWG and DXF files regularly and don't need a full AutoCAD subscription.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Measurement and markup tools for drawing review",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Document SDK Alternatives",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Nutrient vs Apryse",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Syncfusion vs Apryse",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Aspose vs Apryse",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "ComPDF vs Apryse",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Preview CAD Files",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Quickly generate compact page-one previews and thumbnails of CAD drawings, designs, or blueprints, and display them in any client.",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Service Providers",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "CMS IntelliCAD vs AutoCAD",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "An alternative to standard server licensing, designed for application providers integrating CADViewer directly into their closed or controlled environments. This model is suited for installations with a smaller number of users (up to a few hundred users per customer installation).",
+    "url": "https://cadviewer.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Please review the base configurations above and",
+    "url": "https://cadviewer.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "We use tracking to make the success and effectiveness of our advertising campaigns measurable and to optimize the display of our ads. That's good for both: for you and for us, the advertiser. Here i.e. technologies from providers such as Google are used. Of course, we only do this with your consent.",
+    "url": "https://www.3dviewstation.com/products/licensing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Service Providers",
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "pass": 3
+   },
+   {
+    "quote": "ARES Kudo vs. AutoCAD LT",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Expert product review in video",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Other platform-specific programming languages for desktop and/or mobile and cloud may include .NET, VSTA, Qt, Wt, Visual Studio, Active X, Java…",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Niknaz Aftahi’s independent review in AEC Magazine",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "– Leading voices from across the AEC and tech ecosystem explore how ARES Kudo, BIM platforms like Snaptrude, and facility management solutions like Arlanis Reply are changing how architecture, engineering, and construction teams work.",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Expert Review",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": ") independent review in AEC Magazine, featuring collaborations with DraftSight, Onshape, and Snaptrude — or watch our",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Flexible API: The API of ARES supports Lisp, C++ Tx, VSTA, DCL, Visual Studio, COM and Active X. With our advice you can migrate code developed for other CAD platforms and/or build code compatible with Desktop, Mobile and Cloud.",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Developing an AutoCAD Plug-in vs. Developing with AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "For many, the AutoCAD OEM will save overall costs by reducing developer hours and resources, when compared to creating your product from scratch. With that said, this is a paid service.",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Safely review and add feedback directly to a DWG file without altering the existing drawing. ​",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Service Providers",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "3DVS Japan合同会社 セールス&マーケティング部",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "3DVS Japan合同会社",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "大型アセンブリーの場合は、車両や航空機を数秒で完全に読み込めるよう、データを3DVS形式に変換することが可能",
+    "url": "https://www.3dviewstation.com/jp/%E7%94%A3%E6%A5%AD/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E6%A5%AD%E7%95%8C.html",
+    "pass": 3
+   },
+   {
+    "quote": "We use tracking to make the success and effectiveness of our advertising campaigns measurable and to optimize the display of our ads. That's good for both: for you and for us, the advertiser. Here i.e. technologies from providers such as Google are used. Of course, we only do this with your consent.",
+    "url": "https://www.3dviewstation.com/jp/%E7%94%A3%E6%A5%AD/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E6%A5%AD%E7%95%8C.html",
+    "pass": 3
+   },
+   {
+    "quote": "CMS IntelliCAD vs AutoCAD",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "offering the performance enhancements, development flexibility, and integration capabilities that add-on CAD solution providers and development teams depend on.",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "Export drawings to PDF with live coordinate and measurement metadata, allowing reviewers to see real-time location data.",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "Now supports images, leaders, and external references with high-visibility previews.",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "CMS IntelliCAD 15 Released: AI photo-realistic rendering, Drawing Compare Preview, Ergonomic Navigation Enhancements and Fully Modernized LISP Engine",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "Drawing Compare (Preview):",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "Everyday commands are smarter, featuring live previews for FILLET and CHAMFER, better entity snap tracking, new Revision Cloud options, and Table AutoFill functionality.",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "Additional improvements include slide library support for the VSLIDE command, an upgraded ACIS modeling kernel, and updated core libraries.",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "partners – we work with the world's most advanced technology services providers who share our commitment to customer success.",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "指摘の書き込み（マークアップ）を足したい場合は Design Review を追加します",
+    "url": "https://bestat-data.com/column/detail/cad-viewer",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Partner program",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "The decision isn't always obvious, though. Browser tools are fast for one-off reviews but fall short when teams need offline access, repeated measurement, markup workflows, or file conversion. Desktop software fills those gaps, but adds cost and platform constraints.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Viewing only, or markup, measurement, printing, and conversion?",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD Web adds browser-based editing on top of viewing, useful when minor markup turns into real changes",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Viewers are for access, review, and lightweight inspection. Editors add drawing or modeling changes. Some tools sit between the two by supporting markup, conversion, or limited edits without full authoring capability.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Measurement, markup, comments, and sectioning tools",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Measurement and markup tools for drawing review",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Distributed teams that need browser-based DWG access and occasional drawing edits or markup, without managing a desktop CAD installation.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Cost-conscious Windows teams that need measurement, markup, PDF export, and drawing comparison for DWG and DXF files, without paying an ongoing subscription.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Measurement and markup tools",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Markup, measurement, and dynamic cross-sectioning",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Viewing, measurement, markup, plotting, conversion, and editing are different capabilities, and not every viewer offers all of them. Avoid paying for an editor if the team only needs review access. Equally, don't standardize on a basic browser viewer if the team repeatedly needs measurements or export workflows that it can't support.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Markup",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Markup & Annotate",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Drop in or remove all types of existing PDF markups, including stamp, watermark, call-out comments, free text, signature and shape tools, and more. Create your own custom annotation appearances.",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Display markups from many users on the same document in real time while preserving an original version of the drawing. Manage annotations in a separate XFDF layer. Add roles, permissions or an audit trail.",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Viewing and Markup",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Find Partners & Resellers",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a CADViewer Partner/Reseller",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a CADViewer Reseller",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "is integrated into an application for resale over multiple server(s), either branded or as white-label, we support OEM or reseller agreements for this busines-case.",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "The OEM flat-fee licensing, alternative reseller agreement, is offered on a per software solution basis, when integrated into Manufacturers solution.",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Request Info OEM/Reseller",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Compatible CAD Software for .DWG files - CMS IntelliCAD - Reselling CAD Software Advanced Dealer Program",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate Partner",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "Reselling CAD Software - Advanced Dealer Program",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "reseller",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "reseller program",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "cad reseller",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller level",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "Find Partners & Resellers",
+    "url": "https://cadviewer.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a CADViewer Partner/Reseller",
+    "url": "https://cadviewer.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a CADViewer Reseller",
+    "url": "https://cadviewer.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Viewing and Markup",
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM has an Annual Partnership Fee of $15,000 USD/€12,000 year, along with a revenue share. The revenue share is a percentage of the revenue from the developed product. The minimum annual revenue share is $24,000 USD/€18,000 year.",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller Margins and Creative Freedom",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Your product's pricing, costs, and eventually margins depend on a huge array of factors unique to you, so an exact estimate here is impossible. What is certain is the sizable chunk of revenue Autodesk will get from your customers when you stick with the plug-in approach.",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "In many instances, developing an AutoCAD plug-in as your product will have smaller margins.",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Viewing and Markup",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "provides professional measurement tools and 3D markups. Annotations and dimensions are inserted as dynamic 3D elements and move with the model.",
+    "url": "https://www.3d-tool.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate Partner",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "再販業者向け",
+    "url": "https://simplyprint.io/ja/oem",
+    "pass": 3
+   },
+   {
+    "quote": "再販・レンタルパートナープログラム",
+    "url": "https://simplyprint.io/ja/oem",
+    "pass": 3
+   },
+   {
+    "quote": "他社のハードウェアを顧客に提供する場合は、再販・レンタルパートナープログラムが適しています",
+    "url": "https://simplyprint.io/ja/oem",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店・レンタル",
+    "url": "https://simplyprint.io/ja/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.elysium-global.com/en/",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Sandbox",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Start for free",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk offers monthly, 1-year, and 3-year billing options and a 30-day free trial. Contact Autodesk directly for current plan pricing, as numeric figures were not displayed on the pricing page at time of research.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "12 best industrial AR platforms for 2026",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Start your free trial",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Trial License Keys",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Trial License Keys",
+    "url": "https://cadviewer.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Download free 30 days trial version or try online now",
+    "url": "https://www.3dviewstation.com/products/licensing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Is there a trial version of RealDWG that I can access?",
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "pass": 3
+   },
+   {
+    "quote": "There isn’t a trial version of RealDWG.",
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "pass": 3
+   },
+   {
+    "quote": "If you don’t have AutoCAD, you can download a 30-day trial version",
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Viewer Download and Free Trial - 3D-Tool",
+    "url": "https://www.3d-tool.com/download/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Viewer and converter free for 14 days. Use the trial version to open, measure, analyze and convert supported CAD files.",
+    "url": "https://www.3d-tool.com/download/",
+    "pass": 3
+   },
+   {
+    "quote": "and click \"Get Trial Key\" in the Licensing dialog.",
+    "url": "https://www.3d-tool.com/download/",
+    "pass": 3
+   },
+   {
+    "quote": "Enter the key received by email to unlock the trial.",
+    "url": "https://www.3d-tool.com/download/",
+    "pass": 3
+   },
+   {
+    "quote": "Basic, Advanced and Premium and to use a trial key. Only the free",
+    "url": "https://www.3d-tool.com/download/",
+    "pass": 3
+   },
+   {
+    "quote": "How long does the trial version last?",
+    "url": "https://www.3d-tool.com/download/",
+    "pass": 3
+   },
+   {
+    "quote": "The free trial lasts 14 days, starting on the day you receive your trial key. After installation, start",
+    "url": "https://www.3d-tool.com/download/",
+    "pass": 3
+   },
+   {
+    "quote": ", select “Get Trial Key” in the licensing dialog and enter the key sent by email. During the trial, you can select the Basic, Advanced or Premium license type each time you start the",
+    "url": "https://www.3d-tool.com/download/",
+    "pass": 3
+   },
+   {
+    "quote": "Converter is always unlocked during the trial. However, commercial use requires",
+    "url": "https://www.3d-tool.com/download/",
+    "pass": 3
+   },
+   {
+    "quote": "Free 30-Day Trial",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Free 30-Day Trial of ARES Trinity",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "for a 30-Day Trial",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "after Signing Up for a Trinity Trial",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "ARES Commander, ARES Kudo and ARES Touch are all part of the same free 30-day trial of ARES Trinity.",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Free 30-day trial for ARES Trinity",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "ARES Kudo – Free Trial",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "ARES Touch – Free Trial",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアル",
+    "url": "https://www.opendesign.com/products/mcad-sdk",
+    "pass": 3
+   },
+   {
+    "quote": "ODA MCAD SDKの無料トライアルは現在サポートしています",
+    "url": "https://www.opendesign.com/products/mcad-sdk",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアルではどのフォーマットが利用できますか？",
+    "url": "https://www.opendesign.com/products/mcad-sdk",
+    "pass": 3
+   },
+   {
+    "quote": "★無料体験版希望の方は下記お問合せボタンより",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "１ヵ月間無料体験版受付中！",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "1ヵ月間無料体験版受付中！",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "Start for free with Designcenter Solid Edge OEM",
+    "url": "https://solidedge.siemens.com/en/solutions/products/3d-design/solid-edge-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a 60-day trial",
+    "url": "https://solidedge.siemens.com/en/solutions/products/3d-design/solid-edge-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Get in touch with our sales team to request more information and to discuss your free trial options.",
+    "url": "https://solidedge.siemens.com/en/solutions/products/3d-design/solid-edge-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "This offer is available for developers of commercial software applications only (free trial licenses for personal and/or academic use are not included). To inquire about academic licenses, visit our",
+    "url": "https://solidedge.siemens.com/en/solutions/products/3d-design/solid-edge-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Start your free trial today!",
+    "url": "https://solidedge.siemens.com/en/solutions/products/3d-design/solid-edge-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Machinery",
+    "url": "https://solidedge.siemens.com/en/solutions/products/3d-design/solid-edge-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Food Processing Equipment",
+    "url": "https://solidedge.siemens.com/en/solutions/products/3d-design/solid-edge-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Solid Edge Free Trial",
+    "url": "https://solidedge.siemens.com/en/solutions/products/3d-design/solid-edge-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial or demo available at the download section of this website.",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial available at",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "「無料体験版ソフト」も配布中です",
+    "url": "https://mono.ipros.com/company/detail/38621/category/3992/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "DWGSee pairs a free online viewer with low-cost permanent licenses starting at $69",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Free online viewer plus permanent license from $69",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "From $69 (one-time)",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing and ratings verified October 2026 from each vendor's official pricing page and G2 listing.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk offers monthly, 1-year, and 3-year billing options and a 30-day free trial. Contact Autodesk directly for current plan pricing, as numeric figures were not displayed on the pricing page at time of research.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "DWGSee Standard is $69 (lifetime license), DWGSee Pro is $98 (lifetime license), and DWGSee CAD is $198 (lifetime license). A free online viewer is also available.",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing of the 3D CAD Viewer | 3DViewStation",
+    "url": "https://www.3dviewstation.com/products/licensing.html",
+    "pass": 3
+   },
+   {
+    "quote": "The most commonly sold license is a fixed license of the 3DViewStation Desktop version with all 3D importers. As a purchase license, the price is around 1600 USD and is kept up to date through annual maintenance. The most popular options are \"3D Advanced Analysis\" and \"3D Export\", which each cost around 500 USD.",
+    "url": "https://www.3dviewstation.com/products/licensing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$8,000 USD/€7,500 year",
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM has an Annual Partnership Fee of $15,000 USD/€12,000 year, along with a revenue share. The revenue share is a percentage of the revenue from the developed product. The minimum annual revenue share is $24,000 USD/€18,000 year.",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：1万円 ~ 10万円",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "Web ３D CAD Viewer Systemの活用で、製造業における部門間の業務連携を円滑にし、各工程の業務システムとの連携が可能となります",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：10万円 ~ 50万円",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription Only at $249.95/Year or Perpetual License at $599.95",
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "pass": 3
+   },
+   {
+    "quote": "『SOLIDWORKS』3Dアセンブリデータから組立図／部品図へ一括処理！円弧や線分要素を正しく表現するため、寸法記入も容易に！",
+    "url": "https://mono.ipros.com/company/detail/38621/category/3992/",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Powerful no-code editor",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "ユニークなCADアプリケーションを簡単に作成するために使用されるツールキットコンポーネントとワークフローを確認します",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": ", training or lengthy onboarding. Many features come directly from user suggestions - from the everyday practice of people who work with",
+    "url": "https://www.3d-tool.com/",
+    "pass": 3
+   },
+   {
+    "quote": "『3DFovi』は、“シンプル”にこだわり、圧倒的な低価格と簡単操作を実現した3Dビューアです",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "■シンプルでだれでも簡単に使える機能",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "簡単にデータ交換が可能！25種類以上の2次元及び、3次元CADデータフォーマットをサポートしています",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "高価なCADシステムを使用しなくても3次元モデルを簡単に確認、分析ができ",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "Pi用のWiFiファイルを簡単に生成",
+    "url": "https://simplyprint.io/ja/oem",
+    "pass": 3
+   },
+   {
+    "quote": "国産開発の強みをいかし、簡単・便利に設計できるように設計者の要望を優先し開発したハイブリッドCADシステムや作図機能に特化したDXF/DWGデータ対応2次元CADシステムなどご紹介！",
+    "url": "https://mono.ipros.com/company/detail/38621/category/3992/",
+    "pass": 3
+   },
+   {
+    "quote": "設計現場以外にも、外出先や客先での簡単な設計変更作業、他部署との連携、協力会社との作業など、幅広いシチュエーションで活用頂けます",
+    "url": "https://mono.ipros.com/company/detail/38621/category/3992/",
+    "pass": 3
+   },
+   {
+    "quote": "EASYDRAWとは、初心者でも簡単に使えることを目指した、国産の本格的でコストパフォーマンスに優れた2D CADソフトウェアです",
+    "url": "https://mono.ipros.com/company/detail/38621/category/3992/",
+    "pass": 3
+   },
+   {
+    "quote": "■既存の図面から簡単操作で3次元モデリング",
+    "url": "https://mono.ipros.com/company/detail/38621/category/3992/",
+    "pass": 3
+   },
+   {
+    "quote": "非常に簡単な操作で、検査工程の効率を大幅にアップできます",
+    "url": "https://mono.ipros.com/company/detail/38621/category/3992/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "7 best CAD viewers for 2026 - Guideflow Blog — 7 best CAD viewers for 2026 - Guideflow Blog Guideflow https://www.guideflow.com > Blog",
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "pass": 3
+   },
+   {
+    "quote": "Best 14 Free CAD Viewers Picks in 2026 - G2 — Best 14 Free CAD Viewers Picks in 2026 - G2 G2 https://www.g2.com > categories > free",
+    "url": "https://www.g2.com/categories/cad-viewers/free",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk OEM Solutions | Tech Soft 3D — Autodesk OEM Solutions | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > Oem",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing of the 3D CAD Viewer - 3DViewStation — Pricing of the 3D CAD Viewer - 3DViewStation 3dviewstation.com https://www.3dviewstation.com > lice...",
+    "url": "https://www.3dviewstation.com/products/licensing.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Viewer Download and Free Trial - 3D-Tool — CAD Viewer Download and Free Trial - 3D-Tool 3D-Tool https://www.3d-tool.com > download",
+    "url": "https://www.3d-tool.com/download/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM | Tech Soft 3D — Autodesk AutoCAD OEM | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > Home > Oem > Autocad Oem",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーおよび OEM 向け3D CADビューア - 3DViewStation — サプライヤーおよび OEM 向け3D CADビューア - 3DViewStation 3dviewstation.com https://www.3dviewstation.com > 自動車業界航空宇宙業界",
+    "url": "https://www.3dviewstation.com/jp/%E7%94%A3%E6%A5%AD/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E6%A5%AD%E7%95%8C.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM 向け ホワイトラベル 3Dプリンターソフトウェア — OEM 向け ホワイトラベル 3Dプリンターソフトウェア SimplyPrint https://simplyprint.io > oem",
+    "url": "https://simplyprint.io/ja/oem",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Autodesk OEM Solutions | Tech Soft 3D",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk OEM Solutions",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D is Autodesk's exclusive global provider for AutoCAD OEM, Inventor OEM, and the RealDWG SDK. Developers worldwide license these technologies through Tech Soft 3D to build specialised CAD applications, extend existing tools into standalone products, or add native DWG file support to their software.",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEM",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM lets you build a custom, branded CAD application on the same platform that powers AutoCAD. You choose which commands and features to include, configure your own UI, and ship under your own brand. It supports Object ARX, .NET, ActiveX, and JavaScript APIs, with options for multiple deployment targets and multiple languages.",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor OEM gives you Autodesk Inventor's parametric 3D modelling engine to embed in your own application. A built-in configurator lets you select which modules, translators, and features your product includes. iLogic support, comprehensive CAD translators, and a sample branded application are included to help you get started quickly.",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Case Studies",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventor Oem",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "TENADO Builds Its Metal 3D with Inventor OEM from Tech Soft 3D to Provide Industry-Leading Tools to Metalworkers",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Autocad Oem",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Scaffolding Software Licenses AutoCAD OEM as a Foundation for Their Comprehensive Scaffolding Tools",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Striker Systems Uses AutoCAD OEM To Give Sheet Metal Manufacturers A Nesting Software That’s A Cut Above",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "CADViewer is integrated into an application for resale over multiple server(s), either branded or as white-label.",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "is integrated into an application for resale over multiple server(s), either branded or as white-label, we support OEM or reseller agreements for this busines-case.",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "The OEM flat-fee licensing, alternative reseller agreement, is offered on a per software solution basis, when integrated into Manufacturers solution.",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Please contact us for detailed OEM pricing regarding the Tailor Made Software products you want to integrate within your application.",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Request Info OEM/Reseller",
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM CAD Software Licensing",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "Looking for customization and OEM options:",
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM | Autodesk Platform Services",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Products built with AutoCAD OEM software development platform use AutoCAD to read DWG and DXF™ file formats for every version of AutoCAD design software and can write DWG files for AutoCAD software Release 14 or its later versions. DXF files can be written back to AutoCAD software Release 12 version.",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Use the AutoCAD OEM MakeWizard to speed and simplify your product creation cycle. The wizard’s simple graphical interface makes it easy for you to customize your CAD software product. When you use the MakeWizard, only the files required for your application are included in your product, shortening its build time and optimizing its size.",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Create host programs that run your AutoCAD OEM software development platform in a child window, Microsoft® Windows® .NET Form, or through a web page. The in-place activation control enables your customers to interact with your AutoCAD OEM design software while remaining in the host program or browser.",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "With the AutoCAD OEM software development platform, you have full control of the level of AutoCAD functionality your users see. This enables you to manage the design activities of your users based on their specific process or purpose. AutoCAD OEM also provides encryption and binding security mechanisms that help prevent copying or reverse-engineering of your LISP software programs.",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM development platform supports ObjectARX® programming environment, Visual LISP®, ActiveX®, and .NET Core. It also supports the tools in standard AutoCAD software for customizing menus, toolbars, and quick keys.",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Some new features of AutoCAD are cloud-connected and require users to log in to their autodesk.com account. These features will not be available within AutoCAD OEM.",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "You can customize AutoCAD with the OEM CAD development platform, which supports these programming environments:",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "ObjectARX for AutoCAD OEM",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "The ObjectARX® programming environment provides an object-oriented, C++ API for developers to use, customize, and extend the AutoCAD OEM development platform. ObjectARX provides the greatest level of performance, functionality, and integration through direct access to AutoCAD OEM software's internal objects, database structures, graphics system, command registration, and processing.",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "AutoLISP in AutoCAD OEM",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Visual Basic in AutoCAD OEM",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM now supports VBA 7.1 for 64-bit versions. However, the Visual Basic for Applications (VBA) engine is no longer provided with your AutoCAD OEM installation media. Please contact your Autodesk ISV partner representative for more information.",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM 2027",
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM CAD Platforms - Graebert",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM CAD Platforms",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Use the ARES CAD Software as an engine to build your own CAD solution sold under your own brand",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Build your own CAD solutions combining your specific features with the ready-to-use DWG-editing features of the ARES CAD Software. The final result will be a solution you can sell under your brand and created after your own specifications.",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "to sell an all-in-one solution under your brand",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "is a new cloud-based automation service designed for Graebert partners and OEMs. Built on top of ARES Kudo’s automation capabilities, this service allows you to batch-process DWG files, run custom scripts, and streamline large-scale drawing operations without manual intervention.",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, your identity, your features: Utilize our powerful OEM CAD kernel to create your own solution, with your own branding, that you can promote and sell independently",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Developing an AutoCAD Plug-in vs. Developing with AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Benefits",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Limitations",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Autocad Oem",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "This piece will directly compare and contrast developing a standalone product using AutoCAD OEM to developing an AutoCAD plug-in designed to be hosted on the",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the most important things to discuss right away is the development overlap of taking advantage of the AutoCAD OEM platform versus solely developing a plug-in for AutoCAD. When building your OEM application, you will",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM + Plug-in",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Developing With AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "In the graphic below, we show the four steps of OEM development:",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "As mentioned, AutoCAD OEM is",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "a replacement for creating a plug-in. The first step of development with AutoCAD OEM is to create your own plug-in with unique, specialized functionality. There are plenty of APIs available to you with the ObjectARX SDK including C++, .NET, COM/ActiveX, VBA, plus AutoLISP",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM Make Wizard",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD OEM Installer Wizard",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Graebert Japan",
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "ネイティブフォントを使用して9言語（英語、フランス語、ドイツ語、イタリア語、日本語、簡体字中国語、韓国語、ポルトガル語、スペイン語）で開発するオプション",
+    "url": "https://www.techsoft3d.com/ja-jp/oem/autocad-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "PTC Product View Express の日本語版はありますか？",
+    "url": "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKnrhZ2pg4iJ9MLgqAxAD2Ivj8nLO1D6kfSK0O-S_EDEw5hZT9F",
+    "pass": 3
+   },
+   {
+    "quote": "PTC Product View Express は英語メニューのみ対応となっていますが、有償版エディションPTC Product View MCADでは日本語版プラットフォームがあります",
+    "url": "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKnrhZ2pg4iJ9MLgqAxAD2Ivj8nLO1D6kfSK0O-S_EDEw5hZT9F",
+    "pass": 3
+   },
+   {
+    "quote": "公式ヘルプ（日本語）",
+    "url": "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKnrhZ2pg4iJ9MLgqAxAD2Ivj8nLO1D6kfSK0O-S_EDEw5hZT9F",
+    "pass": 3
+   },
+   {
+    "quote": "連携の詳細については、公式日本語ヘルプの以下の解説ページをご覧ください：",
+    "url": "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKnrhZ2pg4iJ9MLgqAxAD2Ivj8nLO1D6kfSK0O-S_EDEw5hZT9F",
+    "pass": 3
+   },
+   {
+    "quote": "3DVS Japan合同会社 セールス&マーケティング部",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "3DVS Japan合同会社",
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "製品一覧ページ | 日本製図器工業株式会社",
+    "url": "https://nsksystem.co.jp/products/index?product_genre=CA",
+    "pass": 3
+   },
+   {
+    "quote": "PTC Product View Express の日本語版はありますか？",
+    "url": "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKWr4CtNmIIzAWa-M2U0dJ9b356QMpFgE89aIU8Vj7dmNs1xgwX",
+    "pass": 3
+   },
+   {
+    "quote": "PTC Product View Express は英語メニューのみ対応となっていますが、有償版エディションPTC Product View MCADでは日本語版プラットフォームがあります",
+    "url": "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKWr4CtNmIIzAWa-M2U0dJ9b356QMpFgE89aIU8Vj7dmNs1xgwX",
+    "pass": 3
+   },
+   {
+    "quote": "公式ヘルプ（日本語）",
+    "url": "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKWr4CtNmIIzAWa-M2U0dJ9b356QMpFgE89aIU8Vj7dmNs1xgwX",
+    "pass": 3
+   },
+   {
+    "quote": "連携の詳細については、公式日本語ヘルプの以下の解説ページをご覧ください：",
+    "url": "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKWr4CtNmIIzAWa-M2U0dJ9b356QMpFgE89aIU8Vj7dmNs1xgwX",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (Japanese)",
+    "url": "https://simplyprint.io/ja/oem",
+    "pass": 3
+   },
+   {
+    "quote": "JA - 日本語",
+    "url": "https://mono.ipros.com/company/detail/38621/category/3992/",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2013, The Tohoku University Museum has been running an archival project to digitize the disaster remains of the Great East Japan Earthquake in 3D. The Museum 3D laser scanned (3D omitted from this point on) the disaster area to capture the earthquake remains before they were removed for reconstruction. The generated point cloud data…",
+    "url": "https://www.elysium-global.com/en/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://aps.autodesk.com/viewer-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guideflow.com/blog/cad-viewers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadviewer.com/our_pricing/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apis.io/apis/autodesk/viewer-sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opendesign.com/pricing/individual",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadviewer.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dviewstation.com/products/licensing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-tool.com/download/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.graebert.com/oem-cad-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.cloudfiles.io/hubspot/custom-branding-and-domain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opendesign.com/products/mcad-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aps.autodesk.com/developer/overview/viewer-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/ja-jp/oem/autocad-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opendesign.com/products/drawings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/jfk-solutions/native-cad-viewer/blob/main/FORMAT_SUPPORT.md",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.spatial.com/cad-conversion-sdk-translate-3d-cad-files-reliably-across-formats-spatial-corp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-tool.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKnrhZ2pg4iJ9MLgqAxAD2Ivj8nLO1D6kfSK0O-S_EDEw5hZT9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dviewstation.com/jp/%E7%94%A3%E6%A5%AD/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E6%A5%AD%E7%95%8C.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/jp/developer-network/platform-technologies/autocad-oem",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nsksystem.co.jp/products/index?product_genre=CA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partner-program/oem-software",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rasterex.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solidedge.siemens.com/en/solutions/products/3d-design/solid-edge-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aps.autodesk.com/developer/overview/autodesk-oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.techsoft3d.com/platform-products/autocad_oem",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partner-program/bundle",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://aps.autodesk.com/developer/documentation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softwaresuggest.com/autodesk-viewer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aps.autodesk.com/developer/overview/realdwg-api",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKWr4CtNmIIzAWa-M2U0dJ9b356QMpFgE89aIU8Vj7dmNs1xgwX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/ja/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/38621/category/3992/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestat-data.com/column/detail/cad-viewer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/special/autodesk-concierge/useful/article/240826-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zwsoft.co.jp/become-a-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cad-kyujin.com/useful/cad-operator-white.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kodamacorp.co.jp/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bdx.wd1.myworkdayjobs.com/ja-JP/EXTERNAL_CAREER_SITE_JAPAN/job/Sales-Development-Representative_R-534472-1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.indeed.com/q-cad-%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%8B%9F%E9%9B%86-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elysium-global.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://boards.autodesk.com/japandmsummary/items/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%87%E3%82%B9%E3%82%AF%E8%AA%8D%E5%AE%9A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9C%E6%A4%9C%E7%B4%A2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locater-20250110.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.autodesk.com/support/partners",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best OEM CAD viewer SDK 2026",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://www.guideflow.com/blog/cad-viewers",
+    "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://www.g2.com/categories/cad-viewers/free",
+    "https://github.com/mlightcad/cad-viewer",
+    "https://actcad.com/blog/best-cad-viewer",
+    "https://rasterex.com/sdk/cad",
+    "https://sourceforge.net/software/cad-viewers/"
+   ]
+  },
+  {
+   "query": "OEM CAD viewer SDK reseller program agencies",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://www.techsoft3d.com/oem/",
+    "https://cadviewer.com/our_pricing/oem/",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://www.intellicadms.com/reselling-cad-software-advanced-dealer-program?srsltid=AYCX9vLO3YNDJAcsOhGl4NfrZOX8ff5-3D6eXLOzcG6aIyMe1eSjNIAn",
+    "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "https://apis.io/apis/autodesk/viewer-sdk/",
+    "https://prototechsolutions.com/portfolio/3d-viewer-for-revit-files-using-autodesk-forge/",
+    "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "https://www.autodesk.com/partner-program/oem-software"
+   ]
+  },
+  {
+   "query": "OEM CAD viewer SDK free trial pricing",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://www.opendesign.com/pricing/individual",
+    "https://cadviewer.com/pricing/",
+    "https://www.3dviewstation.com/products/licensing.html",
+    "https://www.techsoft3d.com/oem/realdwg/",
+    "https://www.3d-tool.com/download/",
+    "https://www.saasworthy.com/product/autodesk-viewer",
+    "https://www.glovius.com/downloads/",
+    "https://keytodata.com/en/3dviewstation-free-trial/",
+    "https://www.autodesk.com/partner-program/oem-software"
+   ]
+  },
+  {
+   "query": "OEM CAD viewer SDK rebrand your logo custom domain",
+   "results": [
+    "https://www.techsoft3d.com/oem/",
+    "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "https://www.youtube.com/watch?v=yGz-zlYx2y4",
+    "https://www.youtube.com/watch?v=2wpMgJhhrgY",
+    "https://www.graebert.com/oem-cad-platform/",
+    "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://help.cloudfiles.io/hubspot/custom-branding-and-domain",
+    "https://www.opendesign.com/products/mcad-sdk",
+    "https://aps.autodesk.com/developer/overview/viewer-sdk"
+   ]
+  },
+  {
+   "query": "OEM CAD viewer SDK Japan Japanese",
+   "results": [
+    "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "https://www.techsoft3d.com/ja-jp/oem/autocad-oem/",
+    "https://www.opendesign.com/products/drawings",
+    "https://github.com/jfk-solutions/native-cad-viewer/blob/main/FORMAT_SUPPORT.md",
+    "https://blog.spatial.com/cad-conversion-sdk-translate-3d-cad-files-reliably-across-formats-spatial-corp",
+    "https://www.3d-tool.com/",
+    "https://cadsofttools.com/products/web-cad-sdk/",
+    "https://xyn.sony.net/ja/developer/downloads/spatial-reality-display/cad-bim-viewer"
+   ]
+  },
+  {
+   "query": "ホワイトラベルCADビューア・CAD組込み（OEM） 日本",
+   "results": [
+    "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKnrhZ2pg4iJ9MLgqAxAD2Ivj8nLO1D6kfSK0O-S_EDEw5hZT9F",
+    "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "https://www.3dviewstation.com/jp/%E7%94%A3%E6%A5%AD/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E6%A5%AD%E7%95%8C.html",
+    "https://www.autodesk.com/jp/developer-network/platform-technologies/autocad-oem",
+    "https://nsksystem.co.jp/products/index?product_genre=CA",
+    "https://www.cadjapan.com/special/autodesk-concierge/useful/article/240826-01/",
+    "https://www.techsoft3d.com/ja-jp/oem/",
+    "https://simplyprint.io/ja/oem",
+    "https://www.draftsight.com/ja",
+    "https://www.fcl.software/ja/oem"
+   ]
+  },
+  {
+   "query": "OEM CAD viewer SDK OEM partnership",
+   "results": [
+    "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "https://www.techsoft3d.com/oem/",
+    "https://www.youtube.com/watch?v=yGz-zlYx2y4",
+    "https://www.graebert.com/oem-cad-platform/",
+    "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "https://www.autodesk.com/partner-program/oem-software",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://rasterex.com/pricing",
+    "https://solidedge.siemens.com/en/solutions/products/3d-design/solid-edge-oem/index.html",
+    "https://aps.autodesk.com/developer/overview/autodesk-oem"
+   ]
+  },
+  {
+   "query": "OEM CAD viewer SDK partner program pricing",
+   "results": [
+    "https://aps.autodesk.com/developer/overview/autocad-oem",
+    "https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/",
+    "https://rasterex.com/pricing",
+    "https://cadviewer.com/pricing/",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf",
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "https://www.graebert.com/oem-cad-platform/",
+    "https://www.autodesk.com/partner-program/oem-software"
+   ]
+  },
+  {
+   "query": "ホワイトラベルCADビューア・CAD組込み（OEM） OEM提供",
+   "results": [
+    "https://www.techsoft3d.com/ja-jp/oem/autocad-oem/",
+    "https://www.autodesk.com/jp/developer-network/platform-technologies/autocad-oem",
+    "https://www.3dviewstation.com/jp/%E7%94%A3%E6%A5%AD/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E6%A5%AD%E7%95%8C.html",
+    "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKWr4CtNmIIzAWa-M2U0dJ9b356QMpFgE89aIU8Vj7dmNs1xgwX",
+    "https://simplyprint.io/ja/oem",
+    "https://mono.ipros.com/company/detail/38621/category/3992/",
+    "https://bestat-data.com/column/detail/cad-viewer",
+    "https://www.cadjapan.com/special/autodesk-concierge/useful/article/240826-01/",
+    "https://www.cadenas.co.jp/jp/products/ecatalogsolutions/innovative-marketing-strategies/your-products-available-directly-inside-the-cad-system-kopie",
+    "https://www.whitelabel-inc.com/oem"
+   ]
+  },
+  {
+   "query": "ホワイトラベルCADビューア・CAD組込み（OEM） 代理店募集",
+   "results": [
+    "https://www.3dviewstation.com/jp/%E7%94%A3%E6%A5%AD/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E6%A5%AD%E7%95%8C.html",
+    "https://www.zwsoft.co.jp/become-a-reseller/",
+    "https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/",
+    "https://www.cad-kyujin.com/useful/cad-operator-white.html",
+    "https://www.kodamacorp.co.jp/agency/",
+    "https://bdx.wd1.myworkdayjobs.com/ja-JP/EXTERNAL_CAREER_SITE_JAPAN/job/Sales-Development-Representative_R-534472-1",
+    "https://jp.indeed.com/q-cad-%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%8B%9F%E9%9B%86-%E6%B1%82%E4%BA%BA.html",
+    "https://talentacquisition.3ds.com/careersection/qa/jobapply.ftl?job=549988&lang=ja&src=CWS-10080",
+    "https://en-gage.net/user/search/desc/16745812/",
+    "https://b-seeds.com/column/white-label-business"
+   ]
+  },
+  {
+   "query": "OEM CAD viewer SDK distributor Japan",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://www.techsoft3d.com/oem/",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://xyn.sony.net/en/developer/downloads/spatial-reality-display/cad-bim-viewer",
+    "https://www.opendesign.com/products/drawings",
+    "https://www.graebert.com/oem-cad-platform/",
+    "https://www.elysium-global.com/en/",
+    "https://cadviewer.com/our_pricing/oem/",
+    "https://blog.spatial.com/cad-conversion-sdk-translate-3d-cad-files-reliably-across-formats-spatial-corp",
+    "https://aps.autodesk.com/developer/overview/viewer-sdk"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,4 +1,4 @@
-# ホワイトラベルで担げるソフト・AIソフト（無料体験・30分で分かるもの優先）（事実のみ・24品目）
+# ホワイトラベルで担げるソフト・AIソフト（無料体験・30分で分かるもの優先）（事実のみ・39品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -232,13 +232,125 @@
 
 ## ホワイトラベルAI議事録（white label AI meeting notes）
 - 文脈：会議・商談
-- 提供企業：記載なし（読んだ30頁・検索6回）
-- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
-- 再販制度：記載なし（読んだ30頁・検索6回）
-- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
-- 価格：記載なし（読んだ30頁・検索6回）
-- 日本対応：記載なし（読んだ30頁・検索6回）
-- 使いやすさ：記載なし（読んだ30頁・検索6回）
+- 提供企業：
+  - 「We independently review every app we recommend in our best apps lists. When you click some of the links on this page, we may earn a commission.」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Fathom vs. Fireflies」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「The best Zoom alternatives」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Compare AI meeting assistants that connect information across channels vs. tools that just capture meetings. Find the right fit for your team in 2026.」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「Fireflies vs Read AI」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「Read AI vs Otter AI」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「Read AI vs Fathom」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「Read empowers individuals and teams to seamlessly integrate AI assistance across platforms like Gmail, Zoom, Slack, and thousands of other applications you use every day.」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「Choose Granola when you want to stay in the conversation and review an editable document afterward. It is an AI notepad: your rough notes guide what the final enhanced notes emphasize.」（https://zackproser.com/blog/best-ai-meeting-notes-tools-2026）
+  - 「Granola AI Review (2026): My Daily-Use Verdict」（https://zackproser.com/blog/best-ai-meeting-notes-tools-2026）
+  - 「Best AI Notetakers in 2025: Equal Time vs Otter, Fathom, Gong, Read AI, and Fireflies」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Bias-aware interview review」（https://meetgeek.ai/）
+  - 「Review Agent recalls technical context」（https://meetgeek.ai/）
+  - 「Reviewed by the market.」（https://meetgeek.ai/）
+  - 「Yes. You can create custom summary templates for different meeting types, such as sales calls, standups, interviews, client reviews, hiring conversations, or leadership meetings.」（https://meetgeek.ai/）
+- 自社名で出せる条件：
+  - 「Customize the name (all platforms) and logo (Zoom only) with your brand when Read joins your video conference call.」（https://www.read.ai/plans-pricing）
+  - 「AI Meeting Notetakers with White Labeling: How Equal Time Extends Your Brand – Equal Time」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「AI Meeting Notetakers with White Labeling: How Equal Time Extends Your Brand」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Equal Time closes that gap with a white labeling option. You get the accuracy and power of Equal Time’s transcription and coaching tools, but under your brand identity.」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Why White Labeling Matters」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Leadership coaches and consultants rely on strong client relationships. A white-labeled AI notetaker allows them to provide value under their own name. The benefits are clear:」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Client trust grows because they engage directly with your brand.」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Internal branding is not just cosmetic. It reinforces company culture and creates a sense of continuity. With Equal Time white labeling:」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「What Equal Time White Labeling Includes」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Equal Time’s white-label program equips you with:」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「White labeling does not reduce functionality. Your users still access everything Equal Time offers:」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「By white labeling Equal Time, Elevate rebranded the notetaker as」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「When people search for “AI meeting notetakers that enable white labeling,” they are usually looking for:」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Who Benefits Most from White Labeling」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「If your business relies on trust, brand consistency, and strong client retention, white labeling Equal Time helps you look bigger, more professional, and more supportive.」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+- 再販制度：
+  - 「Integration Partner Program」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Affiliate disclosure: I may earn a commission if you buy through a link here, at no added cost to you. The recommendation and caveats are mine.」（https://zackproser.com/blog/best-ai-meeting-notes-tools-2026）
+  - 「Affiliate disclosure: I earn money if you use my Granola link. I do not have affiliate relationships with the other tools listed here.」（https://zackproser.com/blog/best-ai-meeting-notes-tools-2026）
+  - 「Practices can generate new revenue by reselling Premium or Vantage subscriptions at their own price point.」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「The reseller program is built to scale profitably:」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Resellers may set their own retail price, determine margins, and own the customer relationship.」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Partner Programs」（https://meetgeek.ai/）
+  - 「Choose the partner program that best suits you.」（https://meetgeek.ai/）
+  - 「Affiliate」（https://meetgeek.ai/）
+  - 「Reseller Program」（https://meetgeek.ai/）
+  - 「Become a MeetGeek reseller and revenue share.」（https://meetgeek.ai/）
+  - 「Affiliate Program」（https://meetgeek.ai/）
+  - 「A white-label, resell-ready alternative to Fireflies.ai.」（https://notetaker.tech/）
+  - 「Affiliate program」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「Affiliates」（https://doraverse.com/usecase/japan-vietnam）
+- 無料体験・貸出：
+  - 「Free plan available; paid plans from $10/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans start at $14/month」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans start at $10/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans from $18/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans from $8.33/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans from $7/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans start at $9.99/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans from $15/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available with unlimited transcription, with a total of 400 minutes of meeting storage; paid plans start at $10/user/month billed annually.」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「: Free plan limits access to meeting history: you can't read meeting notes if they're older than 30 days; paid plans start at $14/month and include unlimited meeting transcripts.」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan supports only one meeting type」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「: Free plan includes unlimited one-on-one meetings. Paid plans start at $10/user/month (billed annually). Notetaker and Callie are currently available on Standard Plus and Teams Plus plans—$8/user/month (billed annually) on top of your base plan.」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Generous free plan」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available for unlimited transcription; paid plans from $18/user/month (billed annually).」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available for 40 minutes of transcription per meeting; paid plans from $15/month (billed annually).」（https://zapier.com/blog/best-ai-meeting-assistant/）
+- 価格：
+  - 「Free plan available; paid plans from $10/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans start at $14/month」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「From $19/recorder/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans start at $10/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans from $18/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Paid plans from $8/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「From $15/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans from $8.33/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans from $7/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans start at $9.99/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available; paid plans from $15/user/month (billed annually)」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available with unlimited transcription, with a total of 400 minutes of meeting storage; paid plans start at $10/user/month billed annually.」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「with 33% fewer attendees per meeting. Enterprise search saves 20 hours per month, and it takes less than 5 minutes to set up. The platform works with」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「Free tier available with up to 5 meetings per month. Pro plans start at $19.75/user/month. Enterprise plans from $29.75/user/month with advanced admin controls.」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「Free tier includes 800 minutes of storage. Paid plans from $10-19/user/month.」（https://www.read.ai/articles/best-ai-meeting-assistants）
+- 日本対応：
+  - 「20+ languages supported」（https://www.read.ai/plans-pricing）
+  - 「Read meeting reports are available in 16+ languages including Arabic, Chinese (Cantonese and Mandarin), Danish, Dutch, English, Finnish, French, German, Hindi, Italian, Japanese, Norwegian, Portuguese, Russian, Spanish, and Swedish」（https://www.read.ai/plans-pricing）
+  - 「Full Equal Time infrastructure, including GDPR and CCPA compliance, enterprise security, and multilingual support」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「How does multilingual detection and summarization work?」（https://meetgeek.ai/）
+  - 「議事録AI｜日本語の会議を自動で文字起こし・要約」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「Japanese AI Notetaker」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「AI Notetaker for Smarter Meetings in Japanese」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「Turn Japanese conversations into clear, structured notes instantly. Record, transcribe, and summarize every meeting with AI built for accuracy and speed.」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「AI Notetaker in Japanese & +119 other languages」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「and delivers instant, accurate notes. It’s the only AI note taker supporting as many languages including Japanese and +120 others.」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「HappyScribe’s Japanese AI Notetaker isn’t just smart;」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「The Most Advanced AI Notetaker for Japanese Teams」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「Your Notetaker instantly detects when a meeting is in Japanese or any other supported language.」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「Each participant is labeled automatically for clear, structured notes and summaries in Japanese.」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+  - 「Get concise meeting recaps with decisions, next steps, and key takeaways — written in natural, fluent Japanese.」（https://www.happyscribe.com/ai-meeting-notetaker/japanese）
+- 使いやすさ：
+  - 「No-code automation across 9,000+ apps」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Build an AI chatbot in minutes」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available with unlimited transcription, with a total of 400 minutes of meeting storage; paid plans start at $10/user/month billed annually.」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Very easy to use」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available for 40 minutes of transcription per meeting; paid plans from $15/month (billed annually).」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free plan available for up to 300 minutes/month; paid plans from $8.33/user/month (billed annually).」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「Free meeting minutes templates and examples」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「with 33% fewer attendees per meeting. Enterprise search saves 20 hours per month, and it takes less than 5 minutes to set up. The platform works with」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「Free tier includes 800 minutes of storage. Paid plans from $10-19/user/month.」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「Free tier offers 300 minutes monthly. Paid plans from $8.33/user/month.」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「Workspace onboarding」（https://www.read.ai/plans-pricing）
+  - 「Workspace Onboarding」（https://www.read.ai/plans-pricing）
+  - 「4–5 minutes」（https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/）
+  - 「Dedicated onboarding & account manager」（https://meetgeek.ai/）
+  - 「The numerous integration tools supported by this platform like notion, zapier, Trello etc makes this platform much more robust. The onboarding of this platform was simple and fast. I am happy with the performance of this platform.”」（https://meetgeek.ai/）
+- 検索結果の抜粋：
+  - 「5 Best AI Note Taker Apps for Meetings in 2026 - YouTube — 5 Best AI Note Taker Apps for Meetings in 2026 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Hg5jMlhfxlY）
+  - 「The 11 best AI meeting assistants in 2026 - Zapier — The 11 best AI meeting assistants in 2026 - Zapier Zapier https://zapier.com > ... > Best apps」（https://zapier.com/blog/best-ai-meeting-assistant/）
+  - 「9 Best AI Meeting Assistants in 2026 - Read AI — 9 Best AI Meeting Assistants in 2026 - Read AI Read AI https://www.read.ai > Resources」（https://www.read.ai/articles/best-ai-meeting-assistants）
+  - 「AI Meeting Notes Comparison 2026 : Privacy, CRM & Captions — AI Meeting Notes Comparison 2026 : Privacy, CRM & Captions Zachary Proser https://zackproser.com > blog > best-a...」（https://zackproser.com/blog/best-ai-meeting-notes-tools-2026）
+  - 「AI Notetaker — white - label meeting notes for B2B | notetaker ... — AI Notetaker — white - label meeting notes for B2B | notetaker ... notetaker.tech https://notetaker.tech」（https://notetaker.tech/）
+  - 「8 Budget-Friendly AI Meeting Assistant Tools for Startups — 8 Budget-Friendly AI Meeting Assistant Tools for Startups Read AI https://www.read.ai > Resources」（https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups）
 
 ## ホワイトラベルAIエージェント作成ツール（white label AI agent builder）
 - 文脈：AIエージェント
@@ -346,27 +458,100 @@
 
 ## ホワイトラベル社内ナレッジAI（white label AI knowledge base）
 - 文脈：社内文書
-- 提供企業：記載なし（読んだ30頁・検索6回）
-- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
-- 再販制度：記載なし（読んだ30頁・検索6回）
-- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
-- 価格：記載なし（読んだ30頁・検索6回）
-- 日本対応：記載なし（読んだ30頁・検索6回）
-- 使いやすさ：記載なし（読んだ30頁・検索6回）
+- 提供企業：
+  - 「, are trained on large language models to interpret what someone is asking in plain language. The technology enables the bots to factor in semantic alternatives, context, and more. In seconds, AI surfaces relevant content, analyzes it, and generates a direct answer to what’s requested. AI search tools will also often ask for follow-up information to refine the results or suggest next steps.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「This list is curated from third-party review site G2, with each tool having a minimum rating of 4 out of 5 stars.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「Built-in analytics surface content usage and knowledge gaps, though customizing AI tone or response patterns is limited compared with more configurable platforms.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「Tettra is built around Slack, so search and Q & A live where many teams already communicate, though collaborative editing is more basic than some alternatives.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「Service leaders need reviews they can trust. Review Service Cloud on G2 today.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「Review on G2」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「AI Knowledge Base Cost in 2026: 12 Tools Compared」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Reviewed by」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Support or sales teams need verified answers, with owners and review dates」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Curated cards or posts with owners and review dates」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Voiceflow KB preview answer: no return and no shipping cost, with the damaged-items policy as its source」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「We replaced the hard-coded rule with "Answer shipping, returns and damaged-item questions from the knowledge base, and follow the policy you find there." On the same question, the log shows "knowledge base search completed", the reply followed the damaged-items policy (no return, no shipping cost, a photo and a teammate review), and the order total came back correct at $35,410.79.」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「ElevenLabs answer: no return shipping, send a photo, a teammate reviews within one business day」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「SSO, audit logs and zero data retention are usually top-tier features; Notion lists zero data retention with LLM providers on Enterprise, and Guru lists SOC 2 Type II and HIPAA.」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Zendesk for Customer Service rates 4.3 from 7,075 reviews on G2 and 4.3 from 47 in Gartner's AI agents market. A mid-market consulting reviewer described the knowledge-adjacent gap well: "Unanswered posts just sit there with no real way to auto-escalate them into an actual ticket" (G2, August 31, 2026), about Zendesk's community forum.」（https://www.getmacha.com/blog/ai-knowledge-base）
+- 無料体験・貸出：
+  - 「Use this table to quickly compare AI knowledge base software options on who they’re best for, agent AI agent capabilities, and free trial availability.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「Free trial」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「In a live test, a Voiceflow agent with a hard-coded 30-day return rule ignored its own knowledge base document until one sentence in its instructions pointed it there.」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「50 × $20 billed yearly; Notion Agent and Enterprise Search (beta) included; agent work past the trial at $10 per 1,000 credits」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「quotes around team accounts, workspaces, languages, SSO, privacy model and "AI Premium Suite usage", with a 14-day trial. Its」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「sells AI Answers at $0.75 per resolution with a three-month free trial, the cheapest per-resolution rate on this page. Help Scout rates 4.6 from 226 on Capterra (G2 was rate-limiting our browser when we got to it). Watch the per-resolution meter if your help center is thin, since every AI answer bills. It suits small teams on Help Scout; our」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「lists Free, Plus at $10 and Business at $20 per member a month billed yearly. Free and Plus get a trial of Notion AI; Business adds the Notion Agent, AI Meeting Notes and Enterprise Search, marked beta. Agents past the trial run on Notion credits at $10 per 1,000. Notion's own」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Yes. Free plans from builders such as Voiceflow and ElevenLabs are enough to load a document, ask questions and read the retrieval logs, which is how we ran the tests on this page.」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「start a Macha trial with $50 of free usage」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Book a 20-minute call with our team. We'll show you where we would start on your help desk and how the setup works. Setup and a dedicated success manager come with the trial and every plan.」（https://www.getmacha.com/blog/ai-knowledge-base）
+- 価格：
+  - 「from $25 to $550 per user per month, accommodating everything from growing startups through high-volume enterprises.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「Plans with AI knowledge bases start around $55 per user per month, but note that it’s not a standalone knowledge base and the full value is only unlocked when you use Zendesk’s support suite.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「Self-serve pricing starts around $25 per user per month, with an enterprise option starting around $250/month.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「Plans that include an AI knowledge base start around $449 and $799 per month based on the number of users.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「The basic plan with AI search starts at around $10 per user per month. Pro and enterprise plans have an AI-agent-powered knowledge base, with pro starting around $20 per user per month and custom pricing for enterprise.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「A plan for growing organizations starts around $8 per user per month with a 10-user minimum, with custom pricing for enterprise plans.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「Pricing varies widely by platform and scale. Standalone tools often start around $10 to $50 per user per month, while CRM-integrated platforms scale into higher tiers as you add AI, automation, and advanced security features.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+  - 「An AI knowledge base is a store of company knowledge that software searches by meaning and answers from, for employees or for customers and the agents serving them. We priced the main tools for a 50-person team and a 10-agent support desk, and tested the same policy document in two AI agents.」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「For 50 employees, published internal knowledge base prices run from about $279 a month on Confluence Standard to $1,225 a month on eGain's AWS Marketplace listing.」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「For a 10-agent support desk with 1,500 AI-answered questions a month, costs run from $1,199 on Macha, where the Macha team builds the knowledge base and the agent for you, to $3,530 on Zendesk Suite Team at the reported pay-as-you-go rate.」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Intercom Essential with Fin comes to $1,775 a month for 10 seats at $29 billed annually plus 1,500 outcomes at $0.99 each.」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Prices come from each vendor's own page and, where the vendor doesn't publish one, from AWS Marketplace and Vendr, checked September 18 and 19, 2026. Gartner ratings are from its Knowledge Management Software market unless noted. "Whole company" means the only listing we found covers the vendor rather than this product.」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Suite from $55 per agent a month (annual); AI billed per automated resolution at $1.50 committed or $2.00 pay-as-you-go, beyond a $2 to $10 monthly allowance per seat」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Essential seat $29 a month billed annually; Advanced $85, Expert $132; Fin $0.99 per outcome」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「$3,350 (Standard) or $6,600 (Premium) a year for 50 users, Rovo included」（https://www.getmacha.com/blog/ai-knowledge-base）
+- 日本対応：
+  - 「Each chunk becomes a vector, a list of numbers that places similar meanings close together. ElevenLabs lets you pick an English-optimized or a multilingual embedding model.」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Intercom's help center and Knowledge Hub come with every plan: a public help center on Essential, private and multilingual on Advanced and Expert. Its」（https://www.getmacha.com/blog/ai-knowledge-base）
+  - 「Japanese」（https://www.getmacha.com/blog/ai-knowledge-base）
+- 使いやすさ：
+  - 「It can be, if your support volume justifies it. Lightweight tools can deflect repetitive tickets and speed up onboarding, and many small teams start with simple self-service tools before adding a full AI layer.」（https://www.salesforce.com/service/knowledge-base/ai/software/?bc=OTH）
+- 自社名で出せる条件：記載なし（読んだ55頁・検索11回）
+- 再販制度：記載なし（読んだ55頁・検索11回）
 
 ## ホワイトラベル見積・提案書作成（white label proposal software）
 - 文脈：見積・提案
+- 提供企業：
+  - 「Prepare to gather and manage reviews in your brand.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Preview →」（https://suitedash.com/proposal-estimate-software/）
+  - 「Proposal Software vs. Standalone Tools」（https://suitedash.com/proposal-estimate-software/）
+  - 「Internal approval chains before proposals reach clients. Manager review, legal sign-off, pricing approval — all tracked in one system. Ensure every proposal meets your standards before it represents your business.」（https://suitedash.com/proposal-estimate-software/）
+  - 「present complex technical proposals with detailed scope, milestones, and pricing tiers. Managed service providers, software development firms, and IT consultancies need proposals that communicate technical solutions in business-friendly language with clear pricing structures.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Managed Service Providers」（https://suitedash.com/proposal-estimate-software/）
+  - 「Track when proposals are opened, how long prospects spend reviewing, which sections they revisit, and when they share with colleagues. Use engagement data to time your follow-ups and address specific concerns.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Route proposals through internal review before they reach clients. Set up manager approval, legal review, or pricing sign-off stages. Track where each proposal is in the approval chain and who needs to act next.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Proposals render professionally on any device — desktop, tablet, or phone. Prospects review and accept proposals from wherever they are, without formatting issues or broken layouts that undermine your professionalism.」（https://suitedash.com/proposal-estimate-software/）
+  - 「A marketing agency receives a request for proposal. In traditional systems, the team manually: looks up the client in CRM, opens the proposal tool, copies client details, builds pricing from scratch, sends for review, waits for acceptance, then manually creates a project in a separate tool, sets up invoicing in another tool, and sends a welcome email from yet another tool.」（https://suitedash.com/proposal-estimate-software/）
+  - 「In SuiteDash, the proposal pulls client data from CRM automatically. Templates populate with the right branding and standard terms. Dynamic pricing calculates totals. The client reviews and signs electronically. Acceptance triggers a workflow that creates the project, generates the first invoice, and sends the onboarding email — all automatically.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Unlike document-sending tools, Proposify focuses on visibility into proposal activity rather than just delivery. You can see how your proposals perform, including who viewed them, which sections received the most attention, and where engagement dropped off. You can then review this interaction data and decide your next steps based on your own sales process.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「is known for its human support with no chatbots or AI responses. Compared to Proposify, however, it is less comprehensive. Proposify offers best-in-class human support, backed by a stronger knowledge base, onboarding resources, and a customer success team, making it ideal for complex workflows.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Limited design options when compared to dedicated builders like Proposify」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Basic analytics compared to Proposify or PandaDoc」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
 - 自社名で出せる条件：
-  - 「White Label Proposal Software | Proposable」（https://proposable.com/white-label-proposal-software）
-  - 「White Label Proposal Software」（https://proposable.com/white-label-proposal-software）
-  - 「With a whitelabel proposal software for members and resellers, you can offer a instant solution for your member or reseller proposal process. Proposable provides a platform to deploy templates and other templated sales content directly to all your member or reseller sub-accounts while maintaining your member or reseller brands.」（https://proposable.com/white-label-proposal-software）
-  - 「Private Label Proposal Software」（https://proposable.com/white-label-proposal-software）
-  - 「When it comes to improving your reseller proposals or member proposals, private label proposal software should be the first thing you consider. Here are the main benefits to empowering your network with proposal software:」（https://proposable.com/white-label-proposal-software）
-  - 「White Label Estimate Software」（https://proposable.com/white-label-proposal-software）
-  - 「With the Proposable private label proposal system, you can enable your members and resellers to deliver custom proposals in minutes, not hours and drastically improve the proposal consistency across your entire organization while at the same time reducing errors.」（https://proposable.com/white-label-proposal-software）
-  - 「Another benefit of the Proposable White label proposal software account is that your members and resellers can maintain their own branding while at the same time, use the templates and sales content you provide. This gives them a supercharged sales process where they have ready-made templates that can be delivered to new prospects with little effort on their end.」（https://proposable.com/white-label-proposal-software）
-  - 「Our private label proposal software solution gives your members or resellers all the benefits of modern proposal software, and couples that with your industry expertise in the form of a pre-populated library of sales templates they can start using in minutes with little to no training.」（https://proposable.com/white-label-proposal-software）
+  - 「Proposal & Estimate Generation Software :: SuiteDash :: White Label Client Portal Software, CRM, File Sharing, Project Management, & Invoicing」（https://suitedash.com/proposal-estimate-software/）
+  - 「White Label」（https://suitedash.com/proposal-estimate-software/）
+  - 「Put your brand across the entire experience.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Assess learning and gather feedback in your brand.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Prepare to gather and manage reviews in your brand.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Build reusable templates with your branding, standard sections, and dynamic pricing fields. Templates ensure consistency across your team. Instead of starting from scratch each time, select a template, customize for the prospect, and send. New team members produce professional proposals on day one.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Proposals render as professional, branded documents. Clients view on any device. Interactive elements let clients select options and approve. The presentation reflects your brand quality and professionalism.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Create reusable proposal templates with drag-and-drop editors. Define standard sections, placeholder content, and dynamic fields that auto-populate with client data. Templates ensure every proposal maintains your brand standards regardless of who creates it.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Customize proposals with your logo, brand colors, fonts, and imagery. White-label the entire experience so proposals look like a natural extension of your brand, not a third-party tool output.」（https://suitedash.com/proposal-estimate-software/）
+  - 「EXTREME White Label」（https://suitedash.com/proposal-estimate-software/）
+  - 「50 sends/month, CRM integrations, custom domain, and Zapier.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Unlimited sends, content locking, manager approvals, and white-label.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Up to 15 users, white-labeling, Zapier, and multi-signature support.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Custom domain」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「White Label」（https://www.swydo.com/blog/best-proposal-software/）
 - 再販制度：
+  - 「Promoter Affiliate Program」（https://suitedash.com/proposal-estimate-software/）
+  - 「Hire an Agency Partner」（https://suitedash.com/proposal-estimate-software/）
+  - 「Become an Agency Partner」（https://suitedash.com/proposal-estimate-software/）
+  - 「Reseller Program」（https://suitedash.com/proposal-estimate-software/）
+  - 「(contractors, HVAC, electricians, plumbers) create estimates and proposals for every job. Accurate pricing with materials, labor, and markup calculations is essential. Proposal software automates these calculations and presents them professionally to homeowners and general contractors.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Agency Partners」（https://suitedash.com/proposal-estimate-software/）
+  - 「SuiteDash is not affiliated with or endorsed by any of the organizations or software products that may be represented by a logo on this page any other page of the SuiteDash website, or associated advertising. Usage of these logos is only for the purposes of comparison.」（https://suitedash.com/proposal-estimate-software/）
   - 「Empower your members or resellers to」（https://proposable.com/white-label-proposal-software）
   - 「tailor-made proposal templates to your members or resellers for consistent and trackable sales proposals.」（https://proposable.com/white-label-proposal-software）
   - 「Enable your members or resellers to quickly build quotes, bids, and estimates with our flexible estimate block within your provided templates. With optional line-items, optional quantities, taxes, discounts and more, you can quickly represent your products and services in a polished and readable format. Organize all your products and services in the Pricing Catalog for instant recall.」（https://proposable.com/white-label-proposal-software）
@@ -375,34 +560,168 @@
   - 「Help members and resellers to save time and headaches by skipping the painful copy/paste and find & replace on all new proposals for their prospects and customers. Simplify their new proposal workflow to just a few clicks and go from spending hours on customizing new proposals to just minutes.」（https://proposable.com/white-label-proposal-software）
   - 「With a whitelabel proposal software for members and resellers, you can offer a instant solution for your member or reseller proposal process. Proposable provides a platform to deploy templates and other templated sales content directly to all your member or reseller sub-accounts while maintaining your member or reseller brands.」（https://proposable.com/white-label-proposal-software）
   - 「There are many frustrations with trying to enable a smoother proposal process for your members or resellers to sell more efficiently. Proposable removes the pain by empowering you to give your members and resellers a custom Proposable account where you get to control all their sales content and offer a simplified and trackable proposal, estimate, or quoting process.」（https://proposable.com/white-label-proposal-software）
-  - 「Proposable provides deep visibility into all your member or resellers’ proposal deliveries and provides real-time tracking and reporting of all delivered sales material across your entire organization. This gives you an unparalleled view into what material is working for your members or resellers and what material is not, helping you to further hone your distributed member member content.」（https://proposable.com/white-label-proposal-software）
-  - 「When it comes to improving your reseller proposals or member proposals, private label proposal software should be the first thing you consider. Here are the main benefits to empowering your network with proposal software:」（https://proposable.com/white-label-proposal-software）
-  - 「With Proposable, you can provide your members and resellers with beautiful and consistent templates tailored to your industry and their customers, giving them a powerful tool to win more business.」（https://proposable.com/white-label-proposal-software）
-  - 「You simplify member or reseller proposal process:」（https://proposable.com/white-label-proposal-software）
-  - 「most resellers are left on their own to create their own sales proposal process and often times it’s a messy affair. Give your members a simplified proposal process」（https://proposable.com/white-label-proposal-software）
-  - 「You gain visibility into member or reseller proposals:」（https://proposable.com/white-label-proposal-software）
-  - 「When you deploy Proposable to your members or resellers, you gain visibility into your entire membership sales proposals. With our proposals dashboard, you will see all member proposals and proposal activity in real time.」（https://proposable.com/white-label-proposal-software）
 - 無料体験・貸出：
-  - 「Free Trial」（https://proposable.com/white-label-proposal-software）
+  - 「Free Trial」（https://suitedash.com/proposal-estimate-software/）
+  - 「Free trial」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Trial Details」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「All plans include a 14-day free trial. No credit card required.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Free Plan:」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「14-day free trial available.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Qwilr offers a free 14-day trial for users to test the platform.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「A free 14-day trial is available.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Nusii offers a 14-day free trial for agencies looking to test the platform.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「HoneyBook offers a 30-day free trial for interested users.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「A 14-day free trial is available.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「GetAccept offers a 14-day free trial to test out the platform’s features.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「A free trial is available for 14 days.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Start your 14-day free trial」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Start free trial」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+- 価格：
+  - 「2. Dynamic Pricing & Estimates」（https://suitedash.com/proposal-estimate-software/）
+  - 「Proposify is the best proposal software pick for marketing agencies in 2026, leading in brand control, engagement analytics, and CRM integrations from $19/user/month. PandaDoc and Qwilr round out the top three, with seven more tools covering niches like retainer billing, all-in-one client management, and budget-friendly entry options.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「$35/user/mo (annual)」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「$19/seat/mo」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「$35/user/mo」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「$13/user/mo」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「$29/mo」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「$39/mo」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「PandaDoc Pricing (as of December 2025):」（https://www.swydo.com/blog/best-proposal-software/）
+  - 「$0/month (5 documents per month)」（https://www.swydo.com/blog/best-proposal-software/）
+  - 「$19/user/month (billed annually)」（https://www.swydo.com/blog/best-proposal-software/）
+  - 「$49/user/month (billed annually)」（https://www.swydo.com/blog/best-proposal-software/）
+  - 「Note: Monthly billing is also available at higher rates. A “Launch” plan at $9/month with pay-as-you-go pricing (60 docs/year, then $3 per additional doc) is available for flexible usage.」（https://www.swydo.com/blog/best-proposal-software/）
+  - 「What makes PandaDoc different for agencies is their 1,000+ templates with marketing-specific options. Interactive pricing tables let prospects see exactly what they’re getting. Advanced analytics show where prospects spend time in your proposals. The platform tracks when documents are read, forwarded, or signed.」（https://www.swydo.com/blog/best-proposal-software/）
+  - 「PandaDoc now offers Deal Rooms for collaborative selling, CPQ (Configure, Price, Quote) capabilities in Enterprise plans, and enhanced workflow automation. The platform maintains SOC 2 Type II, GDPR, and HIPAA compliance for agencies serving regulated industries.」（https://www.swydo.com/blog/best-proposal-software/）
 - 使いやすさ：
-  - 「create, deliver, and track their sales proposals in minutes. Create and distribute」（https://proposable.com/white-label-proposal-software）
-  - 「Help members and resellers to save time and headaches by skipping the painful copy/paste and find & replace on all new proposals for their prospects and customers. Simplify their new proposal workflow to just a few clicks and go from spending hours on customizing new proposals to just minutes.」（https://proposable.com/white-label-proposal-software）
-  - 「I’ve tried soooo many proposal softwares and I’ll never try another one after Proposable. It’s so easy to use and it looks good, which all the others don’t.」（https://proposable.com/white-label-proposal-software）
-  - 「With the Proposable private label proposal system, you can enable your members and resellers to deliver custom proposals in minutes, not hours and drastically improve the proposal consistency across your entire organization while at the same time reducing errors.」（https://proposable.com/white-label-proposal-software）
-  - 「Our private label proposal software solution gives your members or resellers all the benefits of modern proposal software, and couples that with your industry expertise in the form of a pre-populated library of sales templates they can start using in minutes with little to no training.」（https://proposable.com/white-label-proposal-software）
-- 提供企業：記載なし（読んだ30頁・検索6回）
-- 価格：記載なし（読んだ30頁・検索6回）
-- 日本対応：記載なし（読んだ30頁・検索6回）
+  - 「Client Onboarding」（https://suitedash.com/proposal-estimate-software/）
+  - 「One-on-One Onboarding」（https://suitedash.com/proposal-estimate-software/）
+  - 「E-signatures reduce acceptance time from days to minutes and remove friction from the closing process.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Switch to email tool to send onboarding communications」（https://suitedash.com/proposal-estimate-software/）
+  - 「Result: Manual data transfer between tools. Client information re-entered multiple times. Proposal pricing doesn’t automatically flow to invoices. Project scope doesn’t match what was proposed. Team spends 20 minutes per accepted proposal on administrative handoffs.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Create reusable proposal templates with drag-and-drop editors. Define standard sections, placeholder content, and dynamic fields that auto-populate with client data. Templates ensure every proposal maintains your brand standards regardless of who creates it.」（https://suitedash.com/proposal-estimate-software/）
+  - 「2-4 weeks for full setup including template creation, workflow configuration, and team training.」（https://suitedash.com/proposal-estimate-software/）
+  - 「When a proposal is accepted, trigger actions across your entire business simultaneously. Create a project. Generate an invoice. Send a welcome email. Enroll the client in an onboarding sequence. Update the CRM record. All from one」（https://suitedash.com/proposal-estimate-software/）
+  - 「In SuiteDash, the proposal pulls client data from CRM automatically. Templates populate with the right branding and standard terms. Dynamic pricing calculates totals. The client reviews and signs electronically. Acceptance triggers a workflow that creates the project, generates the first invoice, and sends the onboarding email — all automatically.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Connect client work across CRM, onboarding, portal access, proposals and billing. Choose the workflows you configure and the plan or optional Power-Ups you need. Every plan includes unlimited Clients and Staff.」（https://suitedash.com/proposal-estimate-software/）
+  - 「Onboarding」（https://suitedash.com/proposal-estimate-software/）
+  - 「Build beautiful, branded proposals and quotes with our intuitive drag-and-drop editor.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Proposal software often features reusable templates and content libraries that let you assemble pitches in minutes instead of hours.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「Drag-and-Drop template editor, centralized content library, smart approval workflows, AI proposal generator」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「in minutes, keep everything organized, and give prospects a smoother experience.」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+- 検索結果の抜粋：
+  - 「10 Best Proposal Software for Marketing Agencies (2026) — 10 Best Proposal Software for Marketing Agencies (2026) Proposify https://www.proposify.com > blog」（https://www.proposify.com/blog/proposal-software-marketing-agencies）
+  - 「7 Best Proposal Software for Marketing Agencies to Help You ... — 7 Best Proposal Software for Marketing Agencies to Help You ... Swydo https://www.swydo.com > blog > best...」（https://www.swydo.com/blog/best-proposal-software/）
+  - 「Top 9 Free Proposal Software Tools — Top 9 Free Proposal Software Tools Proposal.biz https://www.proposal.biz > blog > fre...」（https://www.proposal.biz/blog/free-proposal-software-tools/）
+  - 「8 best proposal software for sales (100% tested) - GetAccept — 8 best proposal software for sales (100% tested) - GetAccept GetAccept https://www.getaccept.com > blog > p...」（https://www.getaccept.com/blog/proposal-software）
+- 日本対応：記載なし（読んだ55頁・検索11回）
 
 ## ホワイトラベルAIメール対応（white label AI email assistant）
 - 文脈：メール対応
-- 提供企業：記載なし（読んだ30頁・検索6回）
-- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
-- 再販制度：記載なし（読んだ30頁・検索6回）
-- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
-- 価格：記載なし（読んだ30頁・検索6回）
-- 日本対応：記載なし（読んだ30頁・検索6回）
-- 使いやすさ：記載なし（読んだ30頁・検索6回）
+- 提供企業：
+  - 「Team inbox vs shared inbox: what's the difference?」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Two years ago, "AI email assistant" meant a Chrome extension that turned bullet points into a paragraph. In 2026, it usually means something closer to a colleague: a system that reads incoming mail, classifies it, drafts replies grounded in your actual context, and stages everything for human review before send. The category split is now between」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「An AI email assistant is a tool that uses large language models to read, draft, classify, or otherwise act on email content. The category ranges from simple in-composer drafters (you type a prompt, it writes a paragraph) to autonomous agents that watch your inbox, take actions, and surface results for your review.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「remains an aspiration most people give up on by week two). What's changed is that AI can now do meaningful chunks of the work autonomously: classify inbound, draft replies grounded in past conversations and connected tools, route to the right teammate, surface what actually needs attention. Done well, this collapses the email workday from "process every message" to "review what the agent staged."」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「The shift toward team usage matters too. AI assistance for one person is a productivity tool. AI assistance in a shared inbox, working alongside teammates, with audit trail and human review, is a system. The teams who've adopted this pattern (covered in our」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「The teams running AI email at scale (we covered one example in the team-email piece: Charles Hudson at Precursor VC) keep humans in the loop on send. The AI stages drafts; the human reviews and presses send. That's the practical shape of "AI does the work, you supervise."」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「via semantic search (matches concepts, not keywords; works across languages), and draft replies. It can also start new messages over email, SMS, or WhatsApp and set who they go to. Nothing goes out until you approve it, and once you've reviewed a draft you can send it straight from the assistant. You reference your template library directly in a prompt with」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「lets Claude, ChatGPT, Cursor, and other MCP-enabled apps search your conversations, read threads, check your calendar, and stage drafts for review, with the permissions you choose.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「The most interesting shift this year isn't a single product feature. It's the operating pattern that pulls together canned responses, AI drafting, rule-based routing, and human review into something that looks more like a workflow than a tool.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「(they read your inbox, classify, draft, and route in the background with human review). Pick based on which shape matches your workflow.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「The 2026 pattern that compounds: AI drafts from your real canned responses, references your actual conversation history, and stages everything for human review before send. Autonomous send is rare even where it's available.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「7 Fyxer AI alternatives: from email clients to add-on tools」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Compare 7 Fyxer AI alternatives for 2026, from Gmail-native add-ons like Gmelius and Hiver to team inboxes like Missive. Pricing verified April 2026.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「5 best alternatives to the Outlook for Teams integration」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「4.8 → Over 1000 reviews」（https://missiveapp.com/blog/ai-email-assistant）
+- 自社名で出せる条件：
+  - 「Another highlight of Compose AI is its cloning function. With this, you can duplicate content into professional email templates for repetitive use. Alternatively, you can use this tool to create a voice consistent with your brand messaging across all the written and replied emails.」（https://sintra.ai/blog/ai-email-assistant）
+  - 「Context-driven personalization that understands your brand voice and offers auto-complete suggestions.」（https://sintra.ai/blog/ai-email-assistant）
+  - 「While helpful, context is not its powerful suite. And, as most emails don’t want simplistic replies, it doesn’t really do much for your brand messaging.」（https://sintra.ai/blog/ai-email-assistant）
+  - 「rebranded entirely as “Superhuman”」（https://get-alfred.ai/blog/best-ai-email-assistants）
+  - 「White-Label AI Assistants for Agencies」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「Offer AI assistants and chatbots under your own brand: custom domains, branded portals, and client deployment built for agencies and resellers.」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「white label solution lets agencies fully brand AI assistants with custom domains and remove all Invent branding.」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「Custom domains, whitelabel login, and dedicated workspaces for each client—manage it all from one powerful Invent dashboard.」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「White Label AI for Agencies by Invent」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「Invent’s white label functionality allows agencies」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「Custom domains for each client」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「Core requirement: Custom domain setup」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「To activate white labeling features (branding removal + branded links), each organization or sub-organization must:」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「Add and verify a custom domain」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「Clean white label experience」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+- 再販制度：
+  - 「Referral program」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Integration Partner Program」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Affiliate program」（https://sintra.ai/blog/ai-email-assistant）
+  - 「Offer AI assistants and chatbots under your own brand: custom domains, branded portals, and client deployment built for agencies and resellers.」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「SaaS resellers and automation consultants」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「Is this suitable for SaaS resellers or AI agencies?」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「11 Best White Label Software to Resell in 2026」（https://www.salesforge.ai/blog/white-label-software）
+  - 「For resellers」（https://www.salesforge.ai/blog/white-label-software）
+  - 「Resell your own cold email tool」（https://www.salesforge.ai/blog/white-label-software）
+  - 「Resell private cold email infrastructure」（https://www.salesforge.ai/blog/white-label-software）
+  - 「But every week, I also get DMs from people asking whether reselling software actually pays back.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「White-label AI platform with chatbots, AI agents, automations, and voice agents, plus branded WhatsApp and Instagram bots, allowing agencies to resell a complete AI automation stack under their own brand.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「White-label website, funnel, and community builder for agencies to resell under their own brand, with their own affiliate program and pricing plans.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「Marketing automation resold through the Agency Partner Program, where you buy client accounts at a volume discount and bill your clients directly under your brand.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「Revenue Share」（https://www.salesforge.ai/blog/white-label-software）
+- 無料体験・貸出：
+  - 「Try for free」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「(annual, the tier you want for AI features), Business $36/user/month (annual). AI features (the assistant, prompts, AI rules) are included on Productive and Business. You power them with prepaid Missive AI credits or your own OpenAI, Anthropic, or Google API key. 30-day free trial with Productive features, no credit card required. Full breakdown at」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Snack $7/month or $59/year (1 account, any 2 features), Lunch $12/month or $99/year (2 accounts, 6 features), Dinner $36/month or $299/year (4 accounts, all features). Billed per inbox, not per user. 14-day free trial.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Microsoft 365 Copilot is $30/user/month, billed annually, as an add-on to a Microsoft 365 subscription. Trial available through Microsoft.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Yes. Free options for 2026 include Shortwave's free tier (Gmail only, with capped AI features), Missive’s 30-day trial (AI included, then on paid plans), MailMaestro's free tier (limited generations), and the DIY approach using ChatGPT or Claude in a separate tab (no inbox integration, copy-paste required). Google Gemini is also included in most Google Workspace plans at no additional cost.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Free plan available; paid plans from $18/user/month」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Free plan available; paid plans from $3/month (billed yearly); lifetime options available」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Free plan includes unified inbox for unlimited email accounts; Growth at $3/month (billed yearly) adds AI features and inbox cleaner; lifetime options available, starting at $100 one-time.」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「A 7-day free trial is available.」（https://sintra.ai/blog/ai-email-assistant）
+  - 「A 14-day free trial.」（https://sintra.ai/blog/ai-email-assistant）
+  - 「7-day free trial available.」（https://sintra.ai/blog/ai-email-assistant）
+  - 「Free trial available.」（https://sintra.ai/blog/ai-email-assistant）
+  - 「Superhuman (Mail $25 to $40/mo) and Shortwave (free plan; Business $30/seat) are email apps you switch to; Fyxer ($37/mo billed yearly) drafts replies in your inbox; Copilot and Gemini are built into Outlook and Gmail; SaneBox ($9.49 to $42.99/mo, less billed yearly) filters」（https://get-alfred.ai/blog/best-ai-email-assistants）
+  - 「alfred_ starts at $29.99 a month with a 7-day free trial; teams are $49.99 a seat on one bill」（https://get-alfred.ai/blog/best-ai-email-assistants）
+  - 「AI email assistants range from free (Gemini in Gmail, and the free plans of Spark Mail and Shortwave) to $40 per month (Superhuman Business, billed monthly). SaneBox filtering runs $9.49 to $42.99 per month ($5.42 to $26.58 billed annually). Shortwave Business is $30 per seat per month. alfred_ plans start at $29.99 per month. Prices checked on each vendor's pricing page on October 25, 2026.」（https://get-alfred.ai/blog/best-ai-email-assistants）
+- 価格：
+  - 「The shift matters because the right tool for you depends on which side of that split you live on. Most lists rank tools by features without naming the architectural difference. This guide does, with verified 2026 pricing for every option below.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Prices below reflect annual billing unless noted. Verified May 2026; spot-check current tiers before buying.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Starter $14/user/month (annual),」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Productive $24/user/month」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「(annual, the tier you want for AI features), Business $36/user/month (annual). AI features (the assistant, prompts, AI rules) are included on Productive and Business. You power them with prepaid Missive AI credits or your own OpenAI, Anthropic, or Google API key. 30-day free trial with Productive features, no credit card required. Full breakdown at」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Free tier for personal Gmail accounts (90 days of AI search history). Pro $14/user/month (annual). Business $24/user/month (annual, the team tier). Pricing has restructured multiple times in the past year; verify on the Shortwave pricing page before committing.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「The trade-off is the price. Superhuman is the most expensive option on this list by some distance, and the value proposition rests on "your time is worth the premium." For sales teams and executives processing 200+ emails a day, the math often works. For everyone else, the price is a real consideration.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「$25/user/month」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「(annual, $30 monthly), Business」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「$33/user/month」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「(annual, $40 monthly, adds Auto Drafts, Ask AI, CRM integrations with HubSpot, Salesforce, Pipedrive). Enterprise pricing on request.」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Free plan available; paid plans from $18/user/month」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Microsoft 365 subscription required, starting at $9.99/month for individuals and $25.20/user/month for businesses」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「From $4.99/month for personal users (Google AI Plus) and $8.40/user/month for business users (Google Workspace)」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「From $25/user/month」（https://zapier.com/blog/best-ai-email-assistant/）
+- 日本対応：
+  - 「Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.」（https://www.salesforge.ai/blog/white-label-software）
+- 使いやすさ：
+  - 「No-code automation across 9,000+ apps」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Build an AI chatbot in minutes」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「—and that's not the point here, anyway—but it's a great tool to shave minutes off of every message through organization, insights, writing assistance, and automation.」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Microsoft's AI expansion continues with the release of Copilot Pro. Outlook is one of the apps that gets a boost, with three shiny AI features that, while not groundbreaking, are really well-implemented and easy to use. And, since we're talking about a tech giant, this list could expand quickly.」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「No-code automation」（https://sintra.ai/blog/ai-email-assistant）
+  - 「It’s a no-code platform. So, even non-technical users can get started with zero effort.」（https://sintra.ai/blog/ai-email-assistant）
+  - 「Email Deep Clean to delete all unnecessary emails in five minutes.」（https://sintra.ai/blog/ai-email-assistant）
+  - 「Lindy for No-Code Email Workflow Automation」（https://sintra.ai/blog/ai-email-assistant）
+  - 「Similar to Sintra, Lindy is a no-code automation platform. Businesses across industries are using it for email and meeting management. Why is it so popular? Simple: Lindy is incredibly easy to use. Just log in, integrate into the workflow, and get started.」（https://sintra.ai/blog/ai-email-assistant）
+  - 「23 minutes」（https://get-alfred.ai/blog/best-ai-email-assistants）
+  - 「Compose/reply drafting, thread summaries, installs from the Microsoft Marketplace in minutes, a free plan.」（https://get-alfred.ai/blog/best-ai-email-assistants）
+  - 「Wait for DNS propagation (minutes to 24 hours, will depend on your provider)」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「Scalable onboarding workflows」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「Typically a few minutes, but it can take up to 24 hours depending on DNS propagation.」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+  - 「How to get a TikTok Business Account in 2026: the old Switch to Business button is going away. Free setup in 2 minutes, what you get and when to verify.」（https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment）
+- 検索結果の抜粋：
+  - 「The 9 best AI email assistants in 2026 : from inbox helpers to ... — The 9 best AI email assistants in 2026 : from inbox helpers to ... Missive https://missiveapp.com > blog > ai-em...」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「Which AI Email Assistants Are People Actually Using in 2026 ? — Which AI Email Assistants Are People Actually Using in 2026 ? Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/aiToolForBusiness/comments/1uxx564/which_ai_email_assistants_are_people_actually/）
+  - 「The 10 Best AI Email Assistants - Zapier — The 10 Best AI Email Assistants - Zapier Zapier https://zapier.com > ... > Best apps」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「15+ Best AI Email Assistants for 2026 (Tested & Compared) — 15+ Best AI Email Assistants for 2026 (Tested & Compared) Sintra AI https://sintra.ai > Blog」（https://sintra.ai/blog/ai-email-assistant）
+  - 「13 Best AI Email Assistants in 2026 , Tested on Gmail and ... — 13 Best AI Email Assistants in 2026 , Tested on Gmail and ... alfred_ AI https://get-alfred.ai > Blog」（https://get-alfred.ai/blog/best-ai-email-assistants）
 
 ## ホワイトラベル予約・日程調整（white label scheduling software）
 - 文脈：予約
@@ -1366,33 +1685,330 @@
 
 ## ホワイトラベル3Dビューア（white label 3D product configurator）
 - 文脈：製品紹介
-- 提供企業：記載なし（読んだ30頁・検索6回）
-- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
-- 再販制度：記載なし（読んだ30頁・検索6回）
-- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
-- 価格：記載なし（読んだ30頁・検索6回）
-- 日本対応：記載なし（読んだ30頁・検索6回）
-- 使いやすさ：記載なし（読んだ30頁・検索6回）
+- 提供企業：
+  - 「means the vendor hides pricing behind a demo call. Estimates are based on public information, G2/Capterra reviews, and Reddit threads as of 2026-10.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「vs Enterprise:」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Self-serve, no demo required. A quick review first (usually within one working day), then the embed itself takes about 2 minutes.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「The 12 Vendors, Compared」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「The right question isn't "what does this cost?" It's "what does my cost per won deal look like with vs. without?"」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Speed-to-quote is the #1 predictor of B2B close rate (Harvard Business Review).」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Instant (or 1 hour for review)」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Preview」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Threekit no longer publishes pricing publicly. Historical and review-site data (G2, Capterra) suggests entry plans started at $999/month and enterprise contracts typically land in the $30k–$100k/year range, plus per-render compute credits and per-SKU asset fees. You'll need a sales call to get a current quote.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「VividWorks does not publish pricing. Capterra reviews from 2023–2024 reference annual contracts in the €20,000–€60,000 range, with significant variance based on catalog size and rendering volume.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「The e-commerce customization landscape in 2026 looks completely different compared to what merchants were working with five years ago. What used to be a dropdown menu and a text field has evolved into something closer to a design studio embedded directly in the storefront:」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「multi-angle previews」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「What makes 2026 different is the operational layer. The best tools don't just render a pretty preview. They generate」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「because the visual preview closes the gap between what a customer imagined and what arrives at their door. For merchants in markets like Australia and New Zealand, where high shipping costs make returns genuinely punishing, that reduction alone justifies the investment.」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「SwiftOtter Review」（https://gokickflip.com/blog/product-configurator-tools）
+- 自社名で出せる条件：
+  - 「and whether you need white-label or manufacturer-channel features.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Custom CSS, CRM sync, multi-language, white-label.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「White-label / multi-tenant」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Enterprise OEM with dealer network (B2B2B)」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「White-label + multi-tenant is non-negotiable. Enterprise SaaS or PLG with channel features. Beware enterprise contracts with €50k+ per-dealer multi-tenant fees.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Multi-dealer / white-label」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「A 47-row scoring sheet covering pricing transparency, embed time, modeling burden, integrations, white-label,」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Yes, frequently. The most common hidden costs: per-SKU modeling fees (€500–€5,000 each), per-environment licensing (staging is sometimes billed), render compute credits, white-label/multi-tenant uplifts, and auto-renewal clauses with 90-day notice windows. Always ask for the all-in Year 1 number in writing before signing.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Salsita’s Three.js-based configurator delivers 3D experiences with strong API documentation and integrations with platforms such as Shopify and WooCommerce. Recently rebranded as」（https://www.vividworks.com/blog/best-3d-configurators）
+  - 「Best for white-label visual merchandising:」（https://www.guideflow.com/blog/visual-product-customization-software）
+  - 「White-label visual merchandising」（https://www.guideflow.com/blog/visual-product-customization-software）
+  - 「Kickflip publishes its pricing openly. The core plan starts at $59/month plus a per-custom-product transaction fee of 1.95% scaling down to 0%. Optional add-ons include white-label at +$49/month and configure-price-quote at +$99/month. There is no free tier. Kickflip holds a 4.6/5 rating on G2.」（https://www.guideflow.com/blog/visual-product-customization-software）
+  - 「VividWorks fits when you need a white-label visual configurator plus Visual CPQ for modular, made-to-order products. The combination of real-time 3D and instant quoting suits B2B sellers whose configurations carry directly into pricing and proposals. For brands that want the experience to feel native to their own site, the white-label option is the deciding factor.」（https://www.guideflow.com/blog/visual-product-customization-software）
+  - 「For print and packaging, DesignNBuy specializes in web-to-print. Coohom wins room-based and spatial visualization, VividWorks brings white-label Visual CPQ for modular B2B products, and Combeenation carries the heaviest rules-driven configuration and automated quoting.」（https://www.guideflow.com/blog/visual-product-customization-software）
+  - 「“Personalized products help you build lasting customer loyalty, they receive something unique, directly from your brand. Every item is made to order, so there’s no need for inventory.”」（https://www.expivi.com/3d-configurator/）
+- 再販制度：
+  - 「Agency or consultancy reselling configurators」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Margin-driven: pass through + 20–40% markup」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「You need per-tenant pricing transparency to quote your clients. PLG/pay-per-request is the only model that lets you margin cleanly without prepaying subscriptions for clients who haven't paid you yet.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Alphabetical after CPQ3D. No affiliate links. Estimates based on public sources at time of writing. Confirm with each vendor.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「If your AOV is €5,000 and your gross margin is 25%, a single won deal contributes €1,250. CPQ3D at €8/quote-request breaks even on」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Custom products carry higher margins. That's understood. But here's the deal: the real argument for investing in a serious product configuration tool is operational. Without automation connecting the customer's design choices to your production workflow, every custom order is a manual task. At low volume, that's manageable. At scale, it strangles your growth.」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「The data is consistent across implementations: a 46% conversion lift, a 31% increase in average order value, a 50% reduction in returns. Those aren't marginal improvements. They're the kind of metrics that change the unit economics of a product line.」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「Become an affiliate」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「Real-time pricing calculated against price books and margin rules」（https://www.vividworks.com/blog/best-3d-configurators）
+  - 「Tacton’s visual configuration capabilities let buyers, sales representatives, and resellers see product changes in 3D as they configure. This vendor positions this as a way to reduce misunderstandings and improve the buying experience for highly configurable products.」（https://www.vividworks.com/blog/best-3d-configurators）
+  - 「Partner program」（https://www.guideflow.com/blog/visual-product-customization-software）
+  - 「Join our partner program and power your clients’ stores with cutting-edge technologies like product customization and 3D.」（https://www.zakeke.com/）
+  - 「With automated drawings, error-free quotes, and a buying experience that sets you apart, Tacton helps you accelerate sales while removing friction across engineering and operations. If you’re ready to reduce rework, protect margins, and bring your complex products to life for your buyers, learn more about our buyer engagement capabilities.」（https://www.tacton.com/cpq-blog/tacton-3d-product-configurator/）
+  - 「Build a configurator once and scale it across your brands and resellers. Manage all your 3D configurators from a single backend while tailoring the experience for each website. Read more」（https://www.vividworks.com/solutions/3d-configurator）
+  - 「Affiliate Marketing」（https://renaissancetech.com/blog/marketing/the-power-of-3d-product-configurators/）
+- 無料体験・貸出：
+  - 「Manufacturing / industrial」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Industrial CPQ」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Industrial, building products, ERP-integrated CPQ」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Industrial manufacturing, complex products」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Trial only」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Industrial CPQ, US-centric」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Free tier / trial」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Yes. CPQ3D includes 10 free quote requests with no credit card required, enough to test a live embed end-to-end. Zakeke offers a low-tier paid plan starting around €19/mo. Roomle has a developer free tier. For open-source, Three.js and Babylon.js are free libraries (but expect 40+ developer days to build a usable configurator on top).」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「No credit card · No subscription · Self-serve」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Start free trial」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「. Broader market definitions, which include enterprise CPQ and industrial parametric tools, push that figure to」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「4. ShapeDiver: Best for complex industrial CAD and Grasshopper」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「ShapeDiver operates in an entirely different category than the other tools on this list. It is built on top of Rhino and Grasshopper, which means it is designed for parametric, mathematically precise product configuration: the kind required for modular architecture, industrial equipment, and complex engineered components.」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「Industrial CAD」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「14-day free trial」（https://gokickflip.com/blog/product-configurator-tools）
+- 価格：
+  - 「3D Product Configurator Pricing in 2026: Real Costs From 12 Vendors | CPQ3D」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Configure-Price-Quote in 3D」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Pricing Guide · Updated 2026-07」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Real pricing from 12 vendors. No "contact sales" required.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「3D product configurator pricing in 2026 ranges from」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「€0–€200 per month」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「at €3–€12/quote request after 10 free) to」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「€15,000–€50,000+ per year」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「€500–€5,000 per 3D model」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「€1,000 (PLG/self-serve)」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「€80,000+ (enterprise)」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「means the vendor hides pricing behind a demo call. Estimates are based on public information, G2/Capterra reviews, and Reddit threads as of 2026-10.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「$59/month」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「$84 to $110」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「$59/month + sliding fee」（https://gokickflip.com/blog/product-configurator-tools）
+- 日本対応：
+  - 「Japanese」（https://www.tacton.com/cpq-blog/tacton-3d-product-configurator/）
+  - 「USA, Poland, Ukraine, Slovakia, Hungary, Japan」（https://program-ace.com/blog/product-configurator-cost/）
+- 使いやすさ：
+  - 「Onboarding / training」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Published pricing. Self-serve onboarding. No contract. You pay only when a real buyer submits a configured quote. The cost scales with the outcome, not with your budget.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Annual contracts €25k–€80k + heavy per-SKU + integration + onboarding.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「€35k license + 25 SKUs × €2,500 + €18k integration + €6k onboarding」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Self-serve, no demo required. A quick review first (usually within one working day), then the embed itself takes about 2 minutes.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「~2 minutes (self-serve)」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「For modern SaaS platforms: no. CPQ3D installs via a single <script> tag in under 2 minutes. Shopify-native tools like Zakeke install as an app. Enterprise platforms (Hive CPQ, Threekit) usually involve a custom integration phase that does require dev time.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「itself takes about 2 minutes.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「A 3D configurator on your site, live in minutes. No demo, no contract, pay per quote request.」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Ease of Setup (No-Code)」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「Fully no-code」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「Build premium product customization experiences your customers actually enjoy, no code required.」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「Kickflip is a fantastic tool. It’s super intuitive, easy to use, and packed with capabilities. You don’t have to be an expert or have experience with other products to get started. The support team is also great and very responsive.」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「No-Code Product Builder」（https://gokickflip.com/blog/product-configurator-tools）
+  - 「Convert traffic into sales in minutes」（https://www.vividworks.com/blog/best-3d-configurators）
+- 検索結果の抜粋：
+  - 「3D Product Configurator Pricing in 2026 : Real Costs ... - CPQ3D — 3D Product Configurator Pricing in 2026 : Real Costs ... - CPQ3D CPQ3D https://cpq3d.com > 3d-product-confi...」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「11 Best 3D Configurators for 2026 - VividWorks — 11 Best 3D Configurators for 2026 - VividWorks VividWorks https://www.vividworks.com > blog」（https://www.vividworks.com/blog/best-3d-configurators）
+  - 「Best 3D Product Configurators 2026 : Free and Paid Compared — Best 3D Product Configurators 2026 : Free and Paid Compared eyedex.co https://eyedex.co > Alternatives」（https://eyedex.co/alternatives/best-3d-product-configurator/）
+  - 「3D Product Configurator Software with Live Pricing - Expivi — 3D Product Configurator Software with Live Pricing - Expivi Expivi https://www.expivi.com > 3d-configu...」（https://www.expivi.com/3d-configurator/）
+  - 「Zakeke: 3D Product Configurator & Customizer for eCommerce — Zakeke: 3D Product Configurator & Customizer for eCommerce Zakeke https://www.zakeke.com」（https://www.zakeke.com/）
+  - 「Top 5 Best 3D Configurators for Enterprise-Scale Product ... — Top 5 Best 3D Configurators for Enterprise-Scale Product ... Salsita 3D Configurator https://salsita.ai > Blog」（https://salsita.ai/blog/best-3d-configurators-for-enterprise-scale-product-customization）
+  - 「White - Label 3D Configurator - Product3D — White - Label 3D Configurator - Product3D product3d.io https://product3d.io > Home > Features」（https://product3d.io/en/features/white-label/）
+  - 「3D Product Configurator Pricing in 2026: Real Costs ... - CPQ3D — 3D Product Configurator Pricing in 2026: Real Costs ... - CPQ3D CPQ3D https://cpq3d.com > 3d-product-confi...」（https://cpq3d.com/3d-product-configurator-cost/）
+  - 「Best 3D Product Configurators 2026: Free and Paid Compared — Best 3D Product Configurators 2026: Free and Paid Compared eyedex.co https://eyedex.co > Alternatives」（https://eyedex.co/alternatives/best-3d-product-configurator/）
+  - 「Finally a 3D configurator that does not cost you a fortune and ... — Finally a 3D configurator that does not cost you a fortune and ... Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/3dconfigurators/comments/1nl5jmp/finally_a_3d_configurator_that_does_not_cost_you/）
+  - 「How Much Does a 3D Product Configurator Cost ? - Polymuse — How Much Does a 3D Product Configurator Cost ? - Polymuse Polymuse https://polymuse.tech > blog > 3d-pro...」（https://polymuse.tech/blog/3d-product-configurator-cost）
+  - 「3D Product Configurator Software - TimberCloud — 3D Product Configurator Software - TimberCloud TimberCloud https://timbercloud.com > Product」（https://timbercloud.com/product/3d-configurator）
+  - 「Simplio3D: Boost Your Sales with a 3D Product Configurator — Simplio3D: Boost Your Sales with a 3D Product Configurator Simplio3D https://www.simplio3d.com」（https://www.simplio3d.com/）
+  - 「3D Product Configurator for OEMs | Bonsai Media Group — 3D Product Configurator for OEMs | Bonsai Media Group Bonsai Media Group https://bonsaimediagroup.com > 3d-p...」（https://bonsaimediagroup.com/3darvr/3d-product-configurator/）
+  - 「How Tacton's 3D Product Configurator Solves These ... — How Tacton's 3D Product Configurator Solves These ... Tacton https://www.tacton.com > cpq-blog」（https://www.tacton.com/cpq-blog/tacton-3d-product-configurator/）
 
 ## ホワイトラベルAR製品表示（white label AR product visualization）
 - 文脈：製品紹介
-- 提供企業：記載なし（読んだ30頁・検索6回）
-- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
-- 再販制度：記載なし（読んだ30頁・検索6回）
-- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
-- 価格：記載なし（読んだ30頁・検索6回）
-- 日本対応：記載なし（読んだ30頁・検索6回）
-- 使いやすさ：記載なし（読んだ30頁・検索6回）
+- 提供企業：
+  - 「According to Shopify, products that include AR or 3D content can achieve up to a 94% increase in conversion rates compared to those relying on static product imagery, reporting that AR directly drives new e-commerce.」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「This guide breaks down how augmented reality product visualization works, explores real-world industry applications, and discovers how no-code platforms like Kivicube enable brands to create AR product experiences without technical complexity.」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「No coding knowledge or 3D modeling skills are required for AR scene creation. In the visual editor, users can simply drag and drop assets onto the canvas, set animations and interactions, and instantly preview the AR product visualization experience in real time.」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「With 98% accuracy of real-life representations of texture, fabric, lighting, and shadows, digital IKEA furniture app was favorably reviewed. It generated massive industry buzz and spiked Google searches for IKEA AR, largely improving conversion and reducing return rates.」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「Q: SaaS vs. Custom Dev: Which is Best for an AR Product Visualization?」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「Review」（https://obrive.com/partners）
+  - 「White Label Partners」（https://obrive.com/partners）
+  - 「WebAR vs App AR」（https://www.artivive.com/branded-ar-experiences）
+  - 「WebAR vs. Native App for AR Product Visualization」（https://framesixty.com/ar-product-visualization/）
+  - 「Return reduction is where AR product visualization often pays for itself. Accurate scale, color, and finish previews stop the “it didn’t fit / didn’t look like the photo” return before it happens. Reported reductions reach up to 40%, per Shopify and Deloitte data cited in XICTRON’s 2026 guide, and AR users generate 21% higher revenue per visit and 13% higher average order value, according to」（https://framesixty.com/ar-product-visualization/）
+  - 「Hosted SaaS platforms are the fastest way to put a working AR viewer on a product page. They provide a pre-built viewer and configurator on a subscription, usually $140 to $500 per month depending on tier and catalog size. Platforms like」（https://framesixty.com/ar-product-visualization/）
+  - 「On the delivery side, Frame Sixty is an official 8th Wall partner and Unity Certified, and we build WebAR for the browser and native AR on ARKit and ARCore. Across shipped work the team counts 10M+ downloads, 100+ apps and AR experiences, and 7 published AR and machine-learning patents, recognized as a Clutch Top AR/VR company in the US. You can review our」（https://framesixty.com/ar-product-visualization/）
+  - 「AR product visualization reduces returns by up to 40%, per Shopify and Deloitte data, by letting shoppers preview accurate scale, color, and finish before buying. Because the model renders at 1:1 scale in the buyer's own space, it prevents the "it didn't fit or didn't look like the photo" returns that drive reverse-logistics cost.」（https://framesixty.com/ar-product-visualization/）
+  - 「Quality review」（https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/）
+  - 「One mistake we frequently see is companies treating white label partners like freelancers. Professional production partners work best when integrated into your workflow, documentation, and quality standards.」（https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/）
+- 自社名で出せる条件：
+  - 「WHITE-LABEL TECHNOLOGY PARTNERSHIPS」（https://obrive.com/partners）
+  - 「Deliver advanced digital, immersive and AI solutions to your clients without building every capability in-house. Obrive becomes the technology execution layer behind your brand.」（https://obrive.com/partners）
+  - 「WHITE-LABEL DEVELOPMENT」（https://obrive.com/partners）
+  - 「White-Label Development」（https://obrive.com/partners）
+  - 「Our white-label model is designed to help partners increase capability without increasing organizational complexity at the same pace.」（https://obrive.com/partners）
+  - 「Position the delivery under your own brand and maintain the client relationship.」（https://obrive.com/partners）
+  - 「White Label Partners」（https://obrive.com/partners）
+  - 「White Label Technology Partnerships & Development | Obrive」（https://obrive.com/partners）
+  - 「White label AR」（https://www.artivive.com/branded-ar-experiences）
+  - 「Your brand, in」（https://www.artivive.com/branded-ar-experiences）
+  - 「Your domain, your logo, your colours. Viewers never see Artivive.」（https://www.artivive.com/branded-ar-experiences）
+  - 「What white label means」（https://www.artivive.com/branded-ar-experiences）
+  - 「One AR platform behind the scenes. Your brand is all your audience sees.」（https://www.artivive.com/branded-ar-experiences）
+  - 「Your logo and colours」（https://www.artivive.com/branded-ar-experiences）
+  - 「Gota Coffee Experts, Vienna, on white label WebAR.」（https://www.artivive.com/branded-ar-experiences）
+- 再販制度：
+  - 「Designed to leave room for your margin.」（https://obrive.com/partners）
+  - 「Wholesale Delivery」（https://obrive.com/partners）
+  - 「UnifiedAR Partner Wholesale Pricing - Affordable Augmented Reality & Interactive Print Solutions - Starting From $4.50/mth」（https://www.unifiedar.com/wholesale-pricing/）
+  - 「Partner Program」（https://www.unifiedar.com/wholesale-pricing/）
+  - 「Interactive Print technology for Printers, Mailers & Agencies. Join our Partner Program and start offering Interactive Print solutions to your customers under your own brand.」（https://www.unifiedar.com/wholesale-pricing/）
+  - 「Protect profit margins」（https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/）
+  - 「Affiliates」（https://studio.arloopa.com/product-visualization）
+  - 「Buy direct on 1688, China’s largest wholesale marketplace. Skip the markup. Try it free →」（https://yakkyofy.com/3d-ar-product-visualization/）
+  - 「Wholesale」（https://yakkyofy.com/3d-ar-product-visualization/）
+- 無料体験・貸出：
+  - 「Spatial, Automotive & Industrial Applications」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「is widely used across brand marketing and e-commerce, transforming how products are presented and experienced online. From real estate to industrial design, modern platforms now make it possible to turn static product concepts into interactive AR experiences within minutes.」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「Yes, there are quite a few platforms out there that offer a free trial of the product AR scene. Kivicube, for example, offers 2 free scenes with different AR templates and advanced AR editing capabilities.」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「Industrial & Manufacturing」（https://framesixty.com/ar-product-visualization/）
+  - 「Start Free Trial」（https://www.unifiedar.com/wholesale-pricing/）
+  - 「Register for a Free 30-Day Trial to see how simple it is to create Interactive Print campaigns using UnifiedAR’s PrinTechIQ platform.」（https://www.unifiedar.com/wholesale-pricing/）
+  - 「Get Your Free Trial」（https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/）
+  - 「free trial project」（https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/）
+  - 「Start your free trial today」（https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/）
+  - 「7. What should be included in a trial project before signing a long-term agreement?」（https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/）
+  - 「Start free trial」（https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/）
+  - 「of your machines when you simply can’t truck in every piece of industrial equipment you have available.」（https://configureid.com/2021/06/24/what-is-ar-product-visualization-and-3-top-examples/）
+  - 「Industrial Equipment Visualization」（https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization）
+  - 「B2B AR solutions for machinery, equipment, and industrial product demonstrations」（https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization）
+  - 「Industrial Equipment:」（https://www.nextzelatech.com/services/ar-vr-development/ar-product-visualization）
+- 価格：
+  - 「Cost ranges span $140–$500/month (SaaS), $25,000–$75,000 (custom WebAR), and $50,000–$300,000+ (native app).」（https://framesixty.com/ar-product-visualization/）
+  - 「3D asset production is usually the largest budget line, at $100 to $1,000+ per SKU.」（https://framesixty.com/ar-product-visualization/）
+  - 「AR product visualization is technology that overlays a true-to-scale 3D model of a product onto a shopper’s real environment through a phone or tablet camera, so a buyer can see a sofa on their own floor or a speaker on their own desk before ordering. A custom WebAR build typically costs $25,000 to $75,000 and ships in 6 to 16 weeks; hosted SaaS viewers start around $140 to $500 per month.」（https://framesixty.com/ar-product-visualization/）
+  - 「SaaS WebAR: The $140–$500/Month Starting Point」（https://framesixty.com/ar-product-visualization/）
+  - 「Hosted SaaS platforms are the fastest way to put a working AR viewer on a product page. They provide a pre-built viewer and configurator on a subscription, usually $140 to $500 per month depending on tier and catalog size. Platforms like」（https://framesixty.com/ar-product-visualization/）
+  - 「$140–$500/month」（https://framesixty.com/ar-product-visualization/）
+  - 「$25,000–$75,000」（https://framesixty.com/ar-product-visualization/）
+  - 「$50,000–$300,000+」（https://framesixty.com/ar-product-visualization/）
+  - 「Lighter custom WebAR builds can start nearer $8,000 to $40,000, per」（https://framesixty.com/ar-product-visualization/）
+  - 「The 3D models, not the AR software, usually dominate an ecommerce AR budget. Mohamed Essam, Co-Founder and CTO of Virtual Verse Studio, states that 3D content “can consume more than two-thirds of an AR budget” for visually rich applications. A single photorealistic, optimized model runs $100 to $1,000+ per SKU depending on complexity, per」（https://framesixty.com/ar-product-visualization/）
+  - 「Run that math across a catalog and the risk becomes obvious. A 500-SKU rollout at $200 per model is $100,000 in assets alone, before a line of AR code. This is why sequencing matters: model your highest-traffic hero products first, prove the conversion lift, then expand. Feature-level cost guidance from」（https://framesixty.com/ar-product-visualization/）
+  - 「puts 3D modeling and rendering at $5,000 to $30,000 as a project line, which tracks with per-SKU pricing once volume climbs.」（https://framesixty.com/ar-product-visualization/）
+  - 「$8k–$75k, or $140–$500/mo SaaS」（https://framesixty.com/ar-product-visualization/）
+  - 「$50k–$300k+」（https://framesixty.com/ar-product-visualization/）
+  - 「Yes. WebAR delivers AR product visualization straight to the mobile browser through a link or QR code, with no app download, using frameworks like 8th Wall, A-Frame, and AR.js. On iOS it runs through AR Quick Look and on Android through Scene Viewer. Hosted SaaS viewers start near $140 to $500 per month.」（https://framesixty.com/ar-product-visualization/）
+- 使いやすさ：
+  - 「This guide breaks down how augmented reality product visualization works, explores real-world industry applications, and discovers how no-code platforms like Kivicube enable brands to create AR product experiences without technical complexity.」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「Looking to enhance your business with AR 3D product visualization? Many brands believe that building AR experiences requires complex development, long production cycles, and dedicated app downloads. In fact, modern WebAR platforms now make it possible to create immersive product experiences without coding or technical expertise.」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「Simple Drag and Drop Editor with No Code」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「is widely used across brand marketing and e-commerce, transforming how products are presented and experienced online. From real estate to industrial design, modern platforms now make it possible to turn static product concepts into interactive AR experiences within minutes.」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「Build immersive AR experiences in minutes with Kivicube.」（https://www.kivicube.com/post/ar-product-visualization/）
+  - 「Your team builds in a drag-and-drop editor. No code.」（https://www.artivive.com/branded-ar-experiences）
+  - 「The setup in detail:」（https://www.artivive.com/branded-ar-experiences）
+  - 「Drag-and-drop editor, no developers needed」（https://www.artivive.com/branded-ar-experiences）
+  - 「Priority support, onboarding and a dedicated contact」（https://www.artivive.com/branded-ar-experiences）
+  - 「No. Your team builds in a drag-and-drop editor with image, video and 3D layers, and we handle the platform, hosting and updates.」（https://www.artivive.com/branded-ar-experiences）
+  - 「AI generation is compressing the timeline. Neural4D reports a base mesh in roughly 90 seconds and a fully textured GLB in about two minutes, though production-grade hero assets still need human retopology and material work. Our」（https://framesixty.com/ar-product-visualization/）
+  - 「Faster onboarding」（https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/）
+  - 「Recruitment & Onboarding」（https://orbe3d.com/how-to-choose-a-white-label-3d-furniture/）
+  - 「into the format required for AR visualization. If you already have a 3D product experience on Emersya, you can have AR running on your product page in a matter of minutes.」（https://www.emersya.com/ar-product-visualization/）
+- 検索結果の抜粋：
+  - 「Augmented reality systems appearing in Japanese shopping ... — Augmented reality systems appearing in Japanese shopping ... Phys.org https://phys.org > news > 2009-12-au...」（https://phys.org/news/2009-12-augmented-reality-japanese-malls.html）
+  - 「AR Product Visualization Software | 3D & WebAR Demos — AR Product Visualization Software | 3D & WebAR Demos ARLOOPA Studio https://studio.arloopa.com > product-...」（https://studio.arloopa.com/product-visualization）
+- 日本対応：記載なし（読んだ55頁・検索11回）
 
 ## ホワイトラベル請求書・帳票読み取り（white label OCR invoice）
 - 文脈：帳票
-- 提供企業：記載なし（読んだ30頁・検索6回）
-- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
-- 再販制度：記載なし（読んだ30頁・検索6回）
-- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
-- 価格：記載なし（読んだ30頁・検索6回）
-- 日本対応：記載なし（読んだ30頁・検索6回）
-- 使いやすさ：記載なし（読んだ30頁・検索6回）
+- 提供企業：
+  - 「Clean, modern reviewer interface」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「Docsumo focuses on financial document automation, invoices plus bank statements, remittances, and other finance paperwork, with AI extraction and a review workflow aimed at finance operations teams. For AP specifically, it captures invoice data and validates it against rules before export.」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「Review workflow suited to finance ops teams」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「What you do not get is a finished workflow: no reviewer interface for AP clerks, no approval routing, no ERP connectors out of the box. That is by design. Veryfi is a component, and the value depends on what you build around it.」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「API only; no AP workflow or reviewer UI」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「Because a data-capture system has so many moving parts, most invoice OCR pricing is volume-tiered and often quote-based rather than published, especially for AP suites and enterprise capture platforms. Developer APIs tend to be usage-based and can be more transparent. Compared with」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「Last updated: June 2026. Next review: September 2026.」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「This guide focuses on extraction. For exception review, purchase-order matching, approvals, and accounting handoff, use our」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「Review and validation」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「Per-field citations plus parse and extraction confidence; connect to an application-owned review workflow」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「Confidence and page anchors; the customer owns the review workflow」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「Confidence output and Document Intelligence Studio; the customer owns the business review workflow」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「Confidence and geometry; the customer builds the review workflow」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「for page and bounding-box evidence. It is a good fit when the same platform must also process statements, contracts, claims or supporting packets. It is not a complete AP approval suite; plan the review, matching and ERP layer.」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「Rossum treats capture as part of an operational queue. Users can review uncertain fields, apply business rules and route data downstream. This matters because AP teams need exception handling, not a JSON demo. Pricing is typically tailored to volume and use case, so procurement should compare total workflow cost, not only per-page OCR.」（https://reducto.ai/guides/best-invoice-ocr-software）
+- 自社名で出せる条件：
+  - 「White-label upload portals」（https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026）
+  - 「White-label Peppol and e-invoicing platform for partners | Qvalia」（https://qvalia.com/partner/white-label-platform/）
+  - 「White-label e-invoicing」（https://qvalia.com/partner/white-label-platform/）
+  - 「Our platform under your brand and domain」（https://qvalia.com/partner/white-label-platform/）
+  - 「White-label platform」（https://qvalia.com/partner/white-label-platform/）
+  - 「White-label e-invoicing platform for partners」（https://qvalia.com/partner/white-label-platform/）
+  - 「Launch a complete Peppol platform under your brand, domain and pricing. The application is modular and covers accounts payable, accounts receivable, orders and analytics, without a product development project.」（https://qvalia.com/partner/white-label-platform/）
+  - 「Your brand」（https://qvalia.com/partner/white-label-platform/）
+  - 「Your brand, our platform」（https://qvalia.com/partner/white-label-platform/）
+  - 「Your customers use the platform under your brand. Qvalia operates the application, the Access Point and the SMP, and ships platform releases and new functionality.」（https://qvalia.com/partner/white-label-platform/）
+  - 「White-label is a configured version of Qvalia’s application. It does not require a separate development project.」（https://qvalia.com/partner/white-label-platform/）
+  - 「White-label application vs complete Peppol identity」（https://qvalia.com/partner/white-label-platform/）
+  - 「On this model, white-label refers to the application and customer-facing brand. Qvalia remains the Peppol Service Provider, and messages use Qvalia’s Access Point certificate. Hosted Access Point is the model for partners that need their own Service Provider identity and PKI certificate.」（https://qvalia.com/partner/white-label-platform/）
+  - 「Your brand, domain and visual identity in the application」（https://qvalia.com/partner/white-label-platform/）
+  - 「Qvalia holds the Peppol Service Provider role for the white-label platform. The partner owns the customer relationship, commercial offering and first- and second-line support.」（https://qvalia.com/partner/white-label-platform/）
+- 再販制度：
+  - 「Affiliate Program」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「Affiliates & Influencers」（https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/）
+  - 「Ad Tech/Affiliate/Influencer Network」（https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/）
+  - 「. We will store your data for as long as you want to receive promotional information from us. We may share your data with third-party service providers that help us with our sales and marketing efforts, and with providing of our own services. We may also share your data with Tipalti subsidiaries and affiliated companies. Tipalti’s Data Protection Officer can be contacted at privacy@tipalti.com.」（https://tipalti.com/resources/learn/best-ocr-software-for-invoice-processing/）
+  - 「Valued Added Resellers」（https://www.avidxchange.com/glossary/ocr-invoice-software/）
+  - 「Affiliates & Influencers」（https://tipalti.com/resources/learn/ocr-invoice-processing/）
+  - 「Marketing platforms for efficient communication across teams, affiliates, and external partners (e.g., Slack or HitPath).」（https://tipalti.com/resources/learn/ocr-invoice-processing/）
+  - 「Ad Tech/Affiliate/Influencer Network」（https://tipalti.com/resources/learn/ocr-invoice-processing/）
+  - 「. We will store your data for as long as you want to receive promotional information from us. We may share your data with third-party service providers that help us with our sales and marketing efforts, and with providing of our own services. We may also share your data with Tipalti subsidiaries and affiliated companies. Tipalti’s Data Protection Officer can be contacted at privacy@tipalti.com.」（https://tipalti.com/resources/learn/ocr-invoice-processing/）
+  - 「Partners / Resellers」（https://xtracta.com/embed-xtracta-isv-partnering/）
+  - 「Wholesale per-document pricing. Every invoice, form, or application your customers process generates recurring platform revenue. You control the margin.」（https://xtracta.com/embed-xtracta-isv-partnering/）
+  - 「Wholesale pricing gives you complete control over packaging, margins, and monetisation.」（https://xtracta.com/embed-xtracta-isv-partnering/）
+  - 「Access co-marketing, referrals, marketplace opportunities, and a team invested in your success.」（https://xtracta.com/embed-xtracta-isv-partnering/）
+  - 「Reseller」（https://xtracta.com/embed-xtracta-isv-partnering/）
+  - 「Wholesale per-document pricing. You control how you monetise document capture within your product: charge per document, bundle it as a premium feature, or include it as standard.」（https://xtracta.com/embed-xtracta-isv-partnering/）
+- 無料体験・貸出：
+  - 「Try for free」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「pages. No credit card required.」（https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026）
+  - 「also offers annual billing and a seven-day trial. Standard extraction uses one credit per page; optional AI features and repeat processing add usage. The worked batch above shows why invoice count alone is not enough.」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「on monthly billing. The free plan includes 20 pages a month. PDF usage counts each page. Small plans have one user; the Scale tier supports multiple users; check the current slider and team allowance for your volume. See」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「Start Free Trial」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「Several tools including ABBYY, Doxis (formerly Klippa), and Ocrolus have no self-serve trial and require a demo or sales call to access.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「Yes (1,000-page trial)」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「AI-based extraction with no templates needed, email automation for hands-off AP workflows, built-in OCR for scanned documents, API access for connecting extracted data to your own systems, and a generous free tier with no credit card required.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「Parseur uses volume-based pricing. The free plan includes 20 pages/month with all features included and no credit card required. Paid plans scale with your document volume. See」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「Docsumo offers a 1,000-page free trial. Paid plans use custom pricing. Contact their sales team for a quote.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「We were unable to test ABBYY FlexiCapture directly. There is no free plan or self-serve trial. Access requires scheduling a demo.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「No free plan. Pricing is custom and requires a demo request. No public pricing is listed.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「There is no self-serve free trial. Getting access requires scheduling a product demo with their sales team, and no pricing is listed publicly.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「, offers a transparent free tier with no credit card required, and includes more automation capabilities out of the box.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「European businesses with strict data residency requirements that need OCR-based document extraction with EU hosting. Keep in mind that the lack of a self-serve trial and opaque pricing make it difficult to evaluate before committing.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+- 価格：
+  - 「Free (25 credits/month), Starter ($99/month for 500 credits), Growth ($499/month for 3,000 credits); one credit covers up to five pages」（https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026）
+  - 「Focuses on receipts and invoices with strong QuickBooks and Xero integrations. Plans start around $24/month.」（https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026）
+  - 「Amazon document extraction service. Powerful but requires developer setup. $0.0015/page basic, $0.05-$0.10/page specialized.」（https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026）
+  - 「Cloud-based document processing with pre-trained invoice parsers. $0.001/page for general processing.」（https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026）
+  - 「Standalone tools become valuable when you process 50+ invoices per month, have many different supplier formats, need custom field extraction, or process other document types too.」（https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026）
+  - 「Pricing and capability checks: 23 October 2026.」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「$69/month」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「$49/month」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「$39/month」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「$302.50/year」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「250 documents/month」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「$500/month minimum」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「$0.16/invoice」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「$0.01/page」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「Starter’s 500 is short by 100. Pro includes 2,000 at $199/month; price the required settings too.」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+- 日本対応：
+  - 「Can invoice OCR handle scanned, handwritten, multilingual, or low-quality invoices?」（https://www.llamaindex.ai/insights/best-ocr-for-invoices）
+  - 「For multilingual invoices, look for support beyond basic character recognition. You may need:」（https://www.llamaindex.ai/insights/best-ocr-for-invoices）
+  - 「Document Understanding - InvoicesJapan (請求書 - 日本) - ML パッケージ」（https://docs.uipath.com/ja/document-understanding/automation-cloud/latest/classic-user-guide/invoices-japan-ml-package）
+  - 「InvoicesJapan (請求書 - 日本) - ML パッケージ」（https://docs.uipath.com/ja/document-understanding/automation-cloud/latest/classic-user-guide/invoices-japan-ml-package）
+  - 「Invoices Japan (請求書 - 日本) ML パッケージは、日本の請求書から主要なデータ ポイントを抽出し、商業販売ドキュメントの製品、数量、価格情報を網羅します」（https://docs.uipath.com/ja/document-understanding/automation-cloud/latest/classic-user-guide/invoices-japan-ml-package）
+- 使いやすさ：
+  - 「Rossum is an AI-first invoice capture platform built around the idea that the tool should get smarter every time a human corrects it. Instead of building a template for each vendor, you let the engine read the invoice, fix what it gets wrong, and it carries those corrections forward. For AP teams onboarding hundreds of new vendors a year, that is the right architecture.」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「No-code model training on your own documents」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「Tipalti is a full accounts-payable platform, not a standalone OCR tool. Invoice capture is one step inside an end-to-end flow that also covers supplier onboarding, tax compliance, approval, and global payment execution. For finance teams whose pain is paying suppliers in many countries, that breadth is the draw.」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「Supplier onboarding and tax compliance built in」（https://ocrsolutions.com/blog/best-ocr-software-for-invoice-processing-2026?srsltid=AYCX9vLXTKYwch_CJDTdMGayP0OeQEmYy3D9jRabI_fAfY9plkcZ4zSn）
+  - 「compare Rossum and AP suites against an API-led build. Measure exception rate and reviewer minutes per invoice.」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「Make your first API call in minutes.」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「No-code setup.」（https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026）
+  - 「Custom extraction schemas with no code」（https://dokyumi.com/blog/best-ocr-invoice-scanning-software-small-business-2026）
+  - 「Slightly easier onboarding for teams customizing models on proprietary invoice sets.」（https://www.llamaindex.ai/insights/best-ocr-for-invoices）
+  - 「Configuration, branding and onboarding. No development project.」（https://qvalia.com/partner/white-label-platform/）
+  - 「End-customer onboarding decisions」（https://qvalia.com/partner/white-label-platform/）
+  - 「Tell us which services you want to offer, how the platform should be branded and which markets you serve. We will define the configuration, onboarding requirements and launch plan.」（https://qvalia.com/partner/white-label-platform/）
+  - 「Manual invoice processing is slow, expensive, and prone to mistakes. Finance teams often spend 10 to 15 minutes entering data from a single invoice, and with hundreds of invoices arriving each month, that adds up fast.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「Docsumo is geared toward developer-led teams and requires technical setup. Non-technical users may find the configuration process significantly more involved compared to no-code tools like Parseur. It is also priced at a higher tier, which can be overkill for straightforward invoice workflows.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「Start free in minutes and see how Parseur fits into your workflow.」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+- 検索結果の抜粋：
+  - 「Best Invoice OCR Software for Accounts Payable in 2026 — Best Invoice OCR Software for Accounts Payable in 2026 Reducto https://reducto.ai > guides > best-invo...」（https://reducto.ai/guides/best-invoice-ocr-software）
+  - 「6 Best Invoice OCR Tools for Manufacturers ( 2026 ) - DigiParser — 6 Best Invoice OCR Tools for Manufacturers ( 2026 ) - DigiParser DigiParser https://www.digiparser.com > blog」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「Best Invoice OCR Software for Workday Users in 2026 — Best Invoice OCR Software for Workday Users in 2026 Factura.ai https://factura.ai > invoice-ocr-softwa...」（https://factura.ai/invoice-ocr-software-workday-users/）
+  - 「Best Invoice OCR Tools in 2026 - Tested and Compared — Best Invoice OCR Tools in 2026 - Tested and Compared Parseur https://parseur.com > Compare to」（https://parseur.com/compare-to/best-invoice-ocr-tools）
+  - 「6 Best Invoice OCR Tools for Manufacturers (2026) - DigiParser — 6 Best Invoice OCR Tools for Manufacturers (2026) - DigiParser DigiParser https://www.digiparser.com > blog」（https://www.digiparser.com/blog/best-invoice-ocr-software）
+  - 「Invoice OCR Software: How It Works & What to Look For in 2026 — Invoice OCR Software: How It Works & What to Look For in 2026 Grooper https://grooper.com > blog_posts > in...」（https://grooper.com/blog_posts/invoice-ocr-software/）
+  - 「Invoice OCR Software : How It Works & What to Look For in 2026 — Invoice OCR Software : How It Works & What to Look For in 2026 Grooper https://grooper.com > blog_posts > in...」（https://grooper.com/blog_posts/invoice-ocr-software/）
 
 ## ホワイトラベル問い合わせ窓口（white label help desk software）
 - 文脈：サポート
@@ -1548,20 +2164,1702 @@
 
 ## ホワイトラベル商談AI（white label sales call AI）
 - 文脈：商談
-- 提供企業：記載なし（読んだ30頁・検索6回）
-- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
-- 再販制度：記載なし（読んだ30頁・検索6回）
-- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
-- 価格：記載なし（読んだ30頁・検索6回）
-- 日本対応：記載なし（読んだ30頁・検索6回）
-- 使いやすさ：記載なし（読んだ30頁・検索6回）
+- 提供企業：
+  - 「White-label platform」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Some white-label voice AI platforms offer a trial, but the type, duration, and limitations differ significantly across providers.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Not established in reviewed public pricing」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「: Echowin publishes a first-party white-label offer with custom domain, branded client portal, unlimited subaccounts, and usage listed separately at $0.20/minute. Its reviewed pricing does not establish the current evaluation window, so confirm whether live calls, portal branding, and deployment are available before payment.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Compliance review」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「voice AI wrapper vs native platform」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「See the white-label platform」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「It depends on the platform. Trillet requires a card but does not charge until day eight if the agency cancels before the trial ends. The reviewed authority material does not establish the current card requirement for every rival, so check each live signup flow rather than relying on an old comparison.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「with Studio at $99/month or Agency at $299/month, select the plan whose features you need to test, and review the full」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Voice AI Wrapper vs Native Platform」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「NiCE Cognigy Alternatives in 2026: What to Weigh After the NICE Deal」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Cognigy alternatives after the NICE acquisition: what to ask NICE at renewal, and how Kore.ai, PolyAI, Parloa, Trillet and Amazon Connect compare in 2026.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Kore.ai Alternatives in 2026: Voice-First and Managed Options」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Kore.ai alternatives in 2026: when PolyAI, NiCE Cognigy, Parloa, Trillet, Amazon Connect or Google fit a voice project better than a broad agent platform.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「PolyAI Alternatives in 2026: 6 Options for Contact Centers」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+- 自社名で出せる条件：
+  - 「White Label Voice AI with Free Trial: 2026 Platform Comparison | Trillet Blog」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「White-label platform」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Isolated multi-tenant workspaces under your own brand」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Technology & OEM」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Agency & white-label」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Run the platform under your own brand」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「White-Label」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「White Label Voice AI with Free Trial: 2026 Platform Comparison」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Compare white-label voice AI free trials in 2026: Trillet's 7-day card-required trial, rival trial terms, and what agencies should test.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「white-label voice AI platform guide for agencies」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Which White Label Voice AI Platforms Offer Free Trials?」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Some white-label voice AI platforms offer a trial, but the type, duration, and limitations differ significantly across providers.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Confirm whether live calling and white-label deployment are included」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Pro White Label ($99) has no included minutes; confirm voice usage and agent limits」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「White-label is Enterprise; in-product Stripe reselling was removed September 15, 2026」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+- 再販制度：
+  - 「A self-serve AI receptionist. No partner program required.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Partner program」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Resellers」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Sell Trillet to your clients and earn margin」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Referral」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「White-label is Enterprise; in-product Stripe reselling was removed September 15, 2026」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Can you set custom per-minute markups for clients?」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「: White-label is now part of a quote-dependent Enterprise route whose public contracts start at $30,000/year. Synthflow removed its in-product Stripe client-reselling workflow on September 15, 2026, so include the external client-billing process in any evaluation. Ask sales to confirm which white-label, workflow, usage, telephony, and support terms the evaluation actually represents.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Create a workspace, configure the client dashboard, and walk through onboarding as if you were setting up a real client. On an Agency trial, test custom minute markup and the available billing controls; on Studio, document how you will handle client billing outside those Agency-only features. Test the support channel by submitting a question.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Resell voice AI under your own brand」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「A self-serve AI receptionist. No partner program required.」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「Partner program」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「Resellers」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「Sell Trillet to your clients and earn margin」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「Referral」（https://trillet.ai/blogs/whitelabel-guide）
+- 無料体験・貸出：
+  - 「White Label Voice AI with Free Trial: 2026 Platform Comparison | Trillet Blog」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「White Label Voice AI with Free Trial: 2026 Platform Comparison」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Compare white-label voice AI free trials in 2026: Trillet's 7-day card-required trial, rival trial terms, and what agencies should test.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Which White Label Voice AI Platforms Offer Free Trials?」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Some white-label voice AI platforms offer a trial, but the type, duration, and limitations differ significantly across providers.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Not every trial lets you test what matters most: branding, client workspaces, billing, usage, integrations, and call quality. The table below separates verified terms from offers that need a live check; competitor terms were rechecked in October 2026. Trial windows and pricing change often.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Trial Type」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Free trial」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「$12 (Studio) / $24 (Agency) credit, 3 workspaces, phone numbers after first payment; Agency features only on Agency trial」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「14-day trial not found on current pricing pages (October 2026)」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「No stated trial window」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「What Should You Test During a White Label Voice AI Trial?」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Most agencies waste their trial period clicking around the dashboard. Instead, use a structured evaluation to test the features that directly impact your ability to serve clients and generate revenue. The checklist below covers every critical area.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「White Label Voice AI Trial Evaluation Checklist」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Support and Resources (Throughout Trial)」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+- 価格：
+  - 「Not every trial lets you test what matters most: branding, client workspaces, billing, usage, integrations, and call quality. The table below separates verified terms from offers that need a live check; competitor terms were rechecked in October 2026. Trial windows and pricing change often.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「$12 (Studio) / $24 (Agency) credit, 3 workspaces, phone numbers after first payment; Agency features only on Agency trial」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「14-day trial not found on current pricing pages (October 2026)」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「GHL-oriented workflow; $0.07/min headline excludes the language model」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「$0 Pay as You Go plan with 1,000 one-time welcome credits」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「1 client account; $10 top-up to publish to a paying client; built-in engine needs no provider account, but the bring-your-own-key path does」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Pro White Label ($99) has no included minutes; confirm voice usage and agent limits」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Live page shows $28; higher $199-$299 pricing remains third-party-reported」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「: Echowin publishes a first-party white-label offer with custom domain, branded client portal, unlimited subaccounts, and usage listed separately at $0.20/minute. Its reviewed pricing does not establish the current evaluation window, so confirm whether live calls, portal branding, and deployment are available before payment.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「: White-label is now part of a quote-dependent Enterprise route whose public contracts start at $30,000/year. Synthflow removed its in-product Stripe client-reselling workflow on September 15, 2026, so include the external client-billing process in any evaluation. Ask sales to confirm which white-label, workflow, usage, telephony, and support terms the evaluation actually represents.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「: The trial carries $12 of usage credit on Studio or $24 on Agency, plus 200 workflow runs, so plan test calls and automations inside those limits」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Compare the same workflow on other vendors rather than assuming a longer trial is more complete. As of September 2026, Trillet White-Label is $99/month for Studio with 1,000 included AI minutes and three workspaces, or $299/month for Agency with 3,000 included AI minutes and unlimited workspaces. Additional AI usage is $0.12/minute before telephony. See the full」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「- 24/7 call answering starting at $49/month」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「- Studio $99/month or Agency $299/month (unlimited sub-accounts)」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「$99-299/mo」（https://trillet.ai/blogs/whitelabel-guide）
+- 使いやすさ：
+  - 「The AI receptionist for small business — live in minutes」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Pro White Label ($99) has no included minutes; confirm voice usage and agent limits」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Can you create a useful first draft from a client's website in minutes, then configure and test it safely?」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Test the onboarding flow your clients would actually experience」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Trial limitations on minutes, features, and sub-accounts can prevent you from testing the exact workflows your agency needs.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Compare the same workflow on other vendors rather than assuming a longer trial is more complete. As of September 2026, Trillet White-Label is $99/month for Studio with 1,000 included AI minutes and three workspaces, or $299/month for Agency with 3,000 included AI minutes and unlimited workspaces. Additional AI usage is $0.12/minute before telephony. See the full」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Create a workspace, configure the client dashboard, and walk through onboarding as if you were setting up a real client. On an Agency trial, test custom minute markup and the available billing controls; on Studio, document how you will handle client billing outside those Agency-only features. Test the support channel by submitting a question.」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「The AI receptionist for small business — live in minutes」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「Unlike referring clients to third-party tools, white-labeling means your agency owns the client relationship. The platform provider handles the technology (voice synthesis, speech recognition, AI processing, telephony) while you focus on sales, onboarding, and client success. Your clients see your logo, your domain, your branding. They pay you directly.」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「: Set up AI agents using the platform's no-code tools」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「No-code conversation flow builders」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「Trillet's website builder can draft a functional agent in about five minutes, which is useful for sales demos. Production launch still requires testing, integration, number, consent, and client-approval checks.」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「$0.12 after included AI minutes; telephony separate」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「($297/mo): 500 minutes, basic features」（https://trillet.ai/blogs/whitelabel-guide）
+  - 「($497/mo): 1,500 minutes, calendar integration, SMS」（https://trillet.ai/blogs/whitelabel-guide）
+- 日本対応：記載なし（読んだ55頁・検索11回）
 
 ## ホワイトラベル文章から3D（white label text to 3D）
 - 文脈：設計（専門知識不要のものだけ）
-- 提供企業：記載なし（読んだ30頁・検索6回）
-- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
-- 再販制度：記載なし（読んだ30頁・検索6回）
-- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
-- 価格：記載なし（読んだ30頁・検索6回）
-- 日本対応：記載なし（読んだ30頁・検索6回）
-- 使いやすさ：記載なし（読んだ30頁・検索6回）
+- 提供企業：
+  - 「The text-to-3D feature is honestly the best part for me. I can type in a simple description and get a solid model in seconds, which saves a ton of time compared to starting from scratch in traditional 3D software. It's especially helpful when I'm just trying to prototype an idea.」（https://www.meshy.ai/ja/features/text-to-3d）
+  - 「Meshy vs. Hunyuan3D」（https://www.meshy.ai/ja/features/text-to-3d）
+  - 「Visual Studio Code（VS Code）の拡張機能...」（https://funrepeat.com/fr-note/4918）
+- 自社名で出せる条件：
+  - 「ホワイトラベル」（https://www.unite.ai/ja/how-text-to-3d-ai-generation-works-meta-3d-gen-openai-shap-e-and-more/）
+- 無料体験・貸出：
+  - 「無料プランで生成されたモデルは CC BY 4.0 ライセンスで公開されます — 帰属表示（クレジット）を行えば商用利用できます」（https://www.meshy.ai/ja/features/text-to-3d）
+  - 「にアクセスして、画面右上の「Start for Free」をクリックすると、メールアドレスを入力する画面が出てきます」（https://funrepeat.com/fr-note/4918）
+- 価格：
+  - 「$20 /月」（https://funrepeat.com/fr-note/4918）
+  - 「$60 /月」（https://funrepeat.com/fr-note/4918）
+  - 「$120 /月」（https://funrepeat.com/fr-note/4918）
+- 日本対応：
+  - 「Meshyは英語、スペイン語、フランス語、中国語、日本語など多くの言語に対応しているため、クリエイターは言語の壁や翻訳手順なしで3Dアセットを生成できます」（https://www.meshy.ai/ja/features/text-to-3d）
+  - 「ほかのキーワードでの生成も試してみましたが、海外のツールのため日本らしいゆるいキャラクターの生成はできなさそうでした」（https://funrepeat.com/fr-note/4918）
+- 使いやすさ：
+  - 「アニメーション簡単にリグ付けされたアニメーション付きの3Dキャラクターを作成します」（https://www.meshy.ai/ja/features/text-to-3d）
+  - 「テキストを高精細な3Dモデルに簡単に変換するシンプルな3ステッププロセスをご紹介します」（https://www.meshy.ai/ja/features/text-to-3d）
+  - 「簡単にリグ付けされたアニメーション付きの3Dキャラクターを作成します」（https://www.meshy.ai/ja/features/text-to-3d）
+  - 「モデルを簡単に動かしてみる」（https://funrepeat.com/fr-note/4918）
+  - 「では3Dモデルファイルをアップロードし、関節を指定することで簡単に動かすために必要なボーンの生成をしてくれます」（https://funrepeat.com/fr-note/4918）
+  - 「Blenderなどで個別に編集するより簡単で使いやすいツールです」（https://funrepeat.com/fr-note/4918）
+  - 「ノーコード・ローコードの技術ブログを始めとして、最新のIT技術、業務で役立つノウハウなど様々なトピックをまとめています」（https://funrepeat.com/fr-note/4918）
+  - 「ノーコード・ローコード開発ではデータベースのスキル・知識はどれくらい必要？」（https://funrepeat.com/fr-note/4918）
+- 検索結果の抜粋：
+  - 「Text to 3D ：プロンプト から 1分で 3D モデルを生成 - Meshy AI — Text to 3D ：プロンプト から 1分で 3D モデルを生成 - Meshy AI Meshy https://www.meshy.ai > ホーム > 機能」（https://www.meshy.ai/ja/features/text-to-3d）
+- 再販制度：記載なし（読んだ55頁・検索11回）
+
+## ホワイトラベル生産管理（中小製造業向け）（white label manufacturing ERP）
+- 文脈：製造業・生産管理
+- 提供企業：
+  - 「See the pros and cons of each system, plus who it’s recommended for, so you can narrow your shortlist before reading the full reviews.」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「and reviewed where each vendor stands in the market,」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「DELMIAWorks (Previously IQMS) Manufacturing ERP stands out as a holistic ERP and MES solution tailored specifically for the manufacturing industry, addressing the unique needs and challenges faced by manufacturers globally. Notably, its single-source development ensures that the system is less complex and more cost-effective than multi-solution alternatives.」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「software tailored to your manufacturing needs. We’ll discuss cloud vs. on-premises models, researching vendors, and finding the ideal platform for your operations. Let’s examine how to select the best」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「Cloud-Based vs. On-Premises」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「providers include:」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「Tell us about your business and what you need. We’ll personally review your requirements, handpick the systems that fit, and connect you with those vendors for pricing and demos, all at no cost.」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「Acumatica vs Business Central for SMBs」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Higher cost compared to other ERP options」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Lower cost compared to most ERP systems」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Odoo vs Dynamics 365 Business Central」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Lower cost compared to ERP systems」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「QuickBooks vs Business Central (A Guide for Growing Manufacturing Companies)」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「It focuses on core manufacturing functionality, making it easier to implement and manage compared to more robust ERP platforms. This makes it a strong entry point for companies moving away from spreadsheets or basic accounting systems.」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Lower cost compared to full ERP systems」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+- 自社名で出せる条件：
+  - 「Infor's vertical CloudSuites ship manufacturing processes preconfigured by industry — CloudSuite Industrial for discrete and industrial machinery, Automotive for OEM/tier scheduling and EDI, Food & Beverage and Process for formula, recipe and lot-trace work. Strongest when one of those editions matches your manufacturing mode out of the box.」（https://www.erpresearch.com/industries/manufacturing）
+  - 「ERP for automotive OEMs, tier suppliers, and aftermarket parts manufacturers」（https://www.erpresearch.com/industries/manufacturing）
+  - 「How ERP Drives Growth and Trust in Private Label Manufacturing」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Unlocking Growth: How ERP Software Empowers Private Label Manufacturers」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Enterprise Resource Planning (ERP) software is a game-changer for private label manufacturers and their customers, strengthening collaboration and streamlining operations. These manufacturers handle production, packaging, and fulfillment, allowing their customers to focus on core strengths like marketing, product development, or retail.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「To win new business, private label manufacturers must make this transition as seamless and risk-free as possible. The right ERP system can help them build trust quickly, optimize processes, and differentiate themselves in a competitive market.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Datacor’s market-leading ERP software empowers white label manufacturers to streamline operations, boost productivity, and improve performance. By seamlessly integrating with both the manufacturer’s and customer’s back-end systems, the ERP ensures a smoother, more collaborative relationship.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Datacor’s ERP ensures every product is manufactured to the exact specifications and conditions agreed upon between the white label manufacturer and their customer.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「An ERP system can significantly improve operational effectiveness for both white label manufacturers and their clients by optimizing:」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「Beyond these operational benefits, an integrated ERP and customer portal create a competitive edge in the private label industry.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「“Providing clients with a portal into the white label manufacturing process strengthens collaboration,” Haley explains. “Customers gain instant access to the data they need, helping them make informed decisions and work more effectively with manufacturers.”」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「ERP software has become a critical tool for modern manufacturers, bridging the gap between suppliers and customers. By enabling real-time data sharing, improving transparency, and reducing friction in manufacturing partnerships, Datacor’s ERP helps businesses build trust and gain a competitive edge in the evolving white label industry.」（https://www.datacor.com/resources/erp-private-label-manufacturing）
+  - 「41 White Label Reseller Programs Worth It | WotNot」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「White Label」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「41 White Label Reseller Programs Worth It」（https://wotnot.io/blog/white-label-reseller-programs）
+- 再販制度：
+  - 「Wholesale Distribution」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「• Experience varies by reseller partner」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「so costing, margins, and reporting reflect real operations」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Software, wholesale, services, nonprofit」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Orders to revenue and margins」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Group consolidation of production entities, subsidiaries and holding companies on one ledger · Real-time postings streamed through an open API into MRP, MES and shop-floor systems · Cost and margin per plant without waiting on a batch close · Multi-book accounting (local GAAP, IFRS, management books) across countries · Agent-run AP, AR and reconciliation for group finance teams」（https://www.erpresearch.com/industries/manufacturing）
+  - 「Wholesale & Distribution」（https://www.erpresearch.com/industries/manufacturing）
+  - 「Wholesale distributors needing best-in-class distribution ERP」（https://www.erpresearch.com/industries/manufacturing）
+  - 「Purpose-built for wholesale distribution — 5,000+ distributor customers」（https://www.erpresearch.com/industries/manufacturing）
+  - 「Vendor names and logos are trademarks of their respective owners. ERP Research is not affiliated with or endorsed by any ERP vendor. Sponsored content is clearly labelled.」（https://www.erpresearch.com/industries/manufacturing）
+  - 「41 White Label Reseller Programs Worth It | WotNot」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「41 White Label Reseller Programs Worth It」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「White label reseller services are popular for reasons like providing:」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「Higher profit margins」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「And since you have begun to read this blog, it means that you are interested in knowing more about white label reseller companies. You might have heard about the benefits of white label SaaS services, but are you aware about how challenging it is to choose a right white label reseller service for your company?」（https://wotnot.io/blog/white-label-reseller-programs）
+- 無料体験・貸出：
+  - 「Industrial Machinery and Equipment」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「Industrial Distribution」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「. Infor CloudSuite Industrial」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「Infor CloudSuite Industrial」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「CloudSuite Industrial」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「Infor CloudSuite Industrial Dashboard」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「connect with industrial IoT devices, robotics, and edge computing platforms.」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「Industrial Equipment」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「8. Infor CloudSuite Industrial (SyteLine)」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Infor CloudSuite Industrial, often known as SyteLine, is a manufacturing ERP designed for companies that need more advanced production control and industry-specific capabilities.」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「CloudSuite Industrial supports detailed production workflows, including advanced planning, scheduling, and Material Requirements Planning, along with tools for managing shop floor activity and supply chain processes.」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Infor CloudSuite Industrial」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Manufacturing, industrial equipment」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Infor's vertical CloudSuites ship manufacturing processes preconfigured by industry — CloudSuite Industrial for discrete and industrial machinery, Automotive for OEM/tier scheduling and EDI, Food & Beverage and Process for formula, recipe and lot-trace work. Strongest when one of those editions matches your manufacturing mode out of the box.」（https://www.erpresearch.com/industries/manufacturing）
+  - 「Deep industry-specific editions (Industrial, Distribution, Healthcare, etc.)」（https://www.erpresearch.com/industries/manufacturing）
+- 価格：
+  - 「Under $1 Million」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「$1 to 10 Million」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「$11 to 50 Million」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「$51 to 100 Million」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「$101 to 500 Million」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「$500 Million to $1 Billion」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「Over $1 Billion」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「Starting at $70/month/user」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Starting at $2,210/year」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Starting around $49/user/month」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Cloud ERP systems typically range from $70 to $150 per user per month. Implementation costs can start around $25,000 to $50,000 for smaller projects and increase based on complexity, integrations, and customization.」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「$99/user/mo」（https://www.erpresearch.com/industries/manufacturing）
+  - 「$100K–$500K」（https://www.erpresearch.com/industries/manufacturing）
+  - 「$180/user/mo」（https://www.erpresearch.com/industries/manufacturing）
+  - 「$150K–$600K」（https://www.erpresearch.com/industries/manufacturing）
+- 日本対応：
+  - 「Provide multilingual solution to queries」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.」（https://www.salesforge.ai/blog/white-label-software）
+  - 「日本語 (Japanese）」（https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software）
+  - 「Top 10 Private Label Manufacturers Japan 2026」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+  - 「Top 10 Key Private Label Manufacturers in Japan Supporting Retail Supply Chains」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+  - 「Japan’s private label manufacturing system is built on a decentralised network of specialised OEM producers. They supply supermarkets, convenience retailers and export partners across food and health categories.」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+  - 「This analysis of 10 private label manufacturers Japan uses a hybrid structural model. It is based on manufacturing capability, category depth and retail supply relevance rather than disclosed revenue.」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+  - 「FGROW Japan」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+  - 「Panel Japan」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+  - 「Together, they show how Japan’s supermarket supply chains rely on contract manufacturing expertise rather than vertically integrated retail production.」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+  - 「Key Private Label Manufacturers in Japan」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+  - 「Headquarters: Tokyo, Japan」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+  - 「United Foods International is one of Japan’s most established food OEM producers. It supplies sauces, ready meals and processed food products to domestic retailers and international partners.」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+  - 「Its multi-factory structure and technical capability enable consistent high-volume output. This makes it a core supplier within the Japan supermarket ecosystem.」（https://www.grocerytradenews.com/10-private-label-manufacturers-japan/）
+- 使いやすさ：
+  - 「Familiar and easy to use」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「Free tool · ~5 minutes」（https://www.erpresearch.com/industries/manufacturing）
+  - 「Launch a no-code WotNot agent and reclaim your hours.」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「Build no-code inbound and」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「is a white label SaaS software. It is helpful in getting your customer’s websites live in minutes. It helps in growing the website's bottom line faster.」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「Easy to use」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「The best part is that it is just a matter of minutes! This will also save your customer’s time without compromising on the quality of the email. Plus, it will also reduce the charges your customers had to pay to hire designers and developers.」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「Unlayer takes less than 5 minutes to become compatible with your application.」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「offers a powerful Website Reseller Program designed for agencies, freelancers, and entrepreneurs who want to sell websites under their own brand without building everything from scratch. The program enables you to resell websites using Appy Pie’s no-code technology while maintaining full control over branding, pricing, and client relationships.」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「No-Code Website Creation – Build and manage websites easily without technical expertise.」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「Provides a central location for tracking different digital marketing leaps like SEO, Google ads, Facebook promotions, onboarding website design etc.」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「Create custom-branded agency websites, generate various reports in real time, and much more in just a few minutes with its in-built tools」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「Easy to use features」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「Drag-and-drop functionality to build landing page easily」（https://wotnot.io/blog/white-label-reseller-programs）
+  - 「is a popular email marketing tool which is easy to use. It is an ESP offering white label email marketing tools.」（https://wotnot.io/blog/white-label-reseller-programs）
+- 検索結果の抜粋：
+  - 「Why These are the Top 10 Manufacturing ERP Systems for 2026 — Why These are the Top 10 Manufacturing ERP Systems for 2026 top10erp.org https://www.top10erp.org > blog > m...」（https://www.top10erp.org/blog/manufacturing-erp）
+  - 「Best Manufacturing ERP Systems in 2026 - IFS — Best Manufacturing ERP Systems in 2026 - IFS IFS https://www.ifs.com > ... > Compare」（https://www.ifs.com/en/glossary/compare/manufacturing-erp-systems-2026）
+  - 「Best Manufacturing ERP for Small Businesses ( 2026 Guide) — Best Manufacturing ERP for Small Businesses ( 2026 Guide) Sabre Limited https://sabrelimited.com > blogs > ma...」（https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/）
+  - 「生産管理 システム メーカー172社 - メトリー — 生産管理 システム メーカー172社 - メトリー Metoree https://metoree.com > categories」（https://metoree.com/categories/4954/）
+
+## ホワイトラベル見積AI（町工場・切削・板金）（white label CNC quoting software）
+- 文脈：製造業・見積
+- 提供企業：
+  - 「Customer Reviews」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「Metal Service Providers」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「Reviews」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「reads RFQ emails and prints and extracts critical details, such as GD&T, specs, processes, materials, and finishes, which estimators review to make strategic decisions about how to cost and price a part.」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「CNC quoting software turns an RFQ into a priced quote for machined parts. It analyzes the part file for setups, features, and manufacturability issues, then calculates cost and price with the shop’s own rates and rules. Paperless Parts does this for work ranging from simple 3-axis parts to multi-axis jobs with custom fixturing, and estimators review every quote before it goes out.」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「reads RFQ emails and prints and extracts critical details, such as GD&T, specs, processes, materials, and finishes, which estimators review to make strategic decisions about how to cost and price a part. See how」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「Customer Reviews」（https://www.cloudnc.com/quote-agent）
+  - 「Upload CAD files, PDFs, or drawings. Quote Agent reviews manufacturability, highlights machining risks, and helps you build accurate quotes faster.」（https://www.cloudnc.com/quote-agent）
+  - 「A clear workflow for quoting teams: upload, review manufacturability, edit the quote, and send it to your customer.」（https://www.cloudnc.com/quote-agent）
+  - 「Review manufacturability」（https://www.cloudnc.com/quote-agent）
+  - 「Quote Agent reviews each part, flags machining risks, and highlights issues that may impact cost or lead time.」（https://www.cloudnc.com/quote-agent）
+  - 「Customers often send RFQs to multiple machine shops. The faster you can review parts and return a quote, the more opportunities you can compete for.」（https://www.cloudnc.com/quote-agent）
+  - 「Manually review every part」（https://www.cloudnc.com/quote-agent）
+  - 「Review manufacturability, machining risks, and smart suggestions.」（https://www.cloudnc.com/quote-agent）
+  - 「Ask questions, get advice, and explore options as you review parts and prepare quotes. Quote Agent helps you make confident quoting decisions, faster.」（https://www.cloudnc.com/quote-agent）
+- 自社名で出せる条件：
+  - 「Part Buyers and OEMs」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「costing24 white label for contract manufacturer」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/）
+  - 「OEM Manufacturers」（https://digifabster.com/products/self-checkout/）
+  - 「White Label Fully Customizable Widget」（https://digifabster.com/products/self-checkout/）
+  - 「Enterprise OEM」（https://www.amfg.ai/job-shop）
+  - 「Part Buyers and OEMs」（https://www.paperlessparts.com/）
+  - 「Shops that want defensible should-cost numbers, and OEMs benchmarking supplier quotes.」（https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing）
+  - 「Widget on your site and a hosted quoting page with your logo - in 4 languages (PL, EN, DE, ZH) and in your currency」（https://metronq.com/en）
+  - 「Orders with notifications, a PDF quote in your brand and an online quote link with an access code」（https://metronq.com/en）
+  - 「The widget inherits your logo and colours, speaks four languages, and also works as a standalone quoting page if you would rather change nothing on your own site.」（https://metronq.com/en）
+- 再販制度：
+  - 「Alliance Partner Program」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「Ecosystem Partner Program」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「Get a quick overview of how Machine Research combines advanced technology with a simpler, more organized approach to estimating and quoting—helping shops work faster, protect margins and win more profitable work.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Estimates that vary by estimator, creating inconsistent margins and pricing surprises」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Stop losing time, margin, and jobs to outdated software. Machine Research is fast to deploy, easy to use, and built around how shops actually quote.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Yes. Machine Research replicates your existing pricing logic — labor rates, machine rates, markups, and custom rules — inside configurable templates. Your pricing logic no longer lives in fragile spreadsheets tied to one person. It lives in a secure, structured system that improves speed, consistency, and margin control across your entire team.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Yes. Every quote is fully editable. Quote Agent creates the first draft, but you remain in complete control. You can adjust machining steps, materials, labour, markups, lead times, pricing and any other part of the quote before sending it to your customer.」（https://www.cloudnc.com/quote-agent）
+  - 「Resellers and Distributors」（https://digifabster.com/products/self-checkout/）
+  - 「Referrals」（https://www.amfg.ai/job-shop）
+  - 「Alliance Partner Program」（https://www.paperlessparts.com/）
+  - 「Ecosystem Partner Program」（https://www.paperlessparts.com/）
+  - 「In today’s competitive landscape, the margin for error in CNC costing is razor-thin. A minor miscalculation can eat into your margins, delay timelines, and even cause you to lose valuable contracts. If you’re still relying on outdated methods like spreadsheets, manual calculations, and tribal knowledge, you’re not just wasting time - you’re losing money.」（https://www.dashnode.ai/blog/cnc-quoting-software）
+  - 「Margin Erosion」（https://www.dashnode.ai/blog/cnc-quoting-software）
+  - 「: Incorrect quotes can lead to undervalued jobs, squeezing your margins. You might win the bid, but lose profitability.」（https://www.dashnode.ai/blog/cnc-quoting-software）
+  - 「Margin Protection」（https://www.dashnode.ai/blog/cnc-quoting-software）
+- 無料体験・貸出：
+  - 「START A FREE TRIAL」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Is there a free trial?」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Yes. Machine Research offers a free trial so you can test the platform with your own parts before committing to anything. No credit card required to get started.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「No credit card required」（https://www.cloudnc.com/quote-agent）
+  - 「Free plan available」（https://www.cloudnc.com/quote-agent）
+  - 「Start for free」（https://spanflug.de/make/）
+  - 「Start Free Trial」（https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops）
+  - 「14-day free trial」（https://tempustools.com/compare/best-fabrication-quoting-software-for-job-shops）
+  - 「Industrial Goods」（https://www.amfg.ai/job-shop）
+  - 「Global Head of Software, Data and Automation, HP Personalization and Industrial BusinessHP」（https://www.amfg.ai/job-shop）
+  - 「Plans meter quotes at 100, 300, or 1,000 per month depending on tier, with per-quote overage above that. ERP and CRM integrations (SAP, Salesforce, HubSpot, Pipedrive) require a longer-term commitment rather than a monthly plan. Reviews are polarized, so benchmark the pricing engine against known jobs during the trial.」（https://mindpal.co/manufacturing-blog/quoting-software-for-manufacturing）
+  - 「Start Free Trial」（https://dxfquote.com/）
+  - 「Start free trial」（https://dxfquote.com/）
+  - 「Fourteen-day trial」（https://metronq.com/en）
+- 価格：
+  - 「Automated part file analysis provides information like setup count, process-specific feature detection (holes/pockets/3D machining), manufacturability warnings, and volume removal that drive costs and pricing for faster quoting. Rapidly quote a wide variety of complexities, from the simplest 3-axis parts, to the most complex multi-axis geometries requiring multiple setups and custom fixturing.」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「CNC quoting software turns an RFQ into a priced quote for machined parts. It analyzes the part file for setups, features, and manufacturability issues, then calculates cost and price with the shop’s own rates and rules. Paperless Parts does this for work ranging from simple 3-axis parts to multi-axis jobs with custom fixturing, and estimators review every quote before it goes out.」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「Generate 3 AI-powered quotes per month」（https://www.cloudnc.com/quote-agent）
+  - 「3 parts/mo」（https://www.cloudnc.com/quote-agent）
+  - 「8 parts/mo」（https://www.cloudnc.com/quote-agent）
+  - 「20 parts/mo」（https://www.cloudnc.com/quote-agent）
+  - 「40 parts/mo」（https://www.cloudnc.com/quote-agent）
+  - 「$2.50 per part」（https://www.cloudnc.com/quote-agent）
+  - 「Overage $3.75 per part」（https://www.cloudnc.com/quote-agent）
+  - 「83 parts/mo」（https://www.cloudnc.com/quote-agent）
+  - 「208 parts/mo」（https://www.cloudnc.com/quote-agent）
+  - 「Get started now with Spanflug MAKE and benefit from day one. You can quote up to 5 parts per month free of charge. You can see the efficiency benefits of Spanflug MAKE for yourself before you decide for a monthly or annual subscription for unlimited quotes.」（https://spanflug.de/make/）
+  - 「With a simple integration of the powerful online calculation costing24 into your own website, your customers will immediately receive a technically sound price information for their inquiry. Your own technical requirements, parameters and surcharges can be taken into account. The result of the calculation can be transferred directly into a shopping cart.」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/）
+  - 「We’ve managed over $500M (USD) combined order value with world-class manufacturers」（https://digifabster.com/products/self-checkout/）
+  - 「料金：要問い合わせ、初期費用10万円」（https://www.aspicjapan.org/asu/article/19330）
+- 日本対応：
+  - 「Quote Agent supports US dollars (USD), euros (EUR), British pounds (GBP), Canadian dollars (CAD), Mexican pesos (MXN), Japanese yen (JPY), Chinese yuan (CNY), Indian rupees (INR), Australian dollars (AUD) and New Zealand dollars (NZD).」（https://www.cloudnc.com/quote-agent）
+  - 「ここでは、日本国内で提供されている代表的なAI自動見積サービスをいくつかご紹介します」（https://go.orixrentec.jp/rentecinsight/it/article-619）
+  - 「― 日本トップクラスの短納期体制」（https://www.plaport.co.jp/value/）
+- 使いやすさ：
+  - 「Implementation and Onboarding」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「Minutes」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「When you partner with Paperless Parts, we take care of you; when you succeed, we succeed. Our dedicated support team responds to requests within 30 minutes. You can email, call, or ask for help right from the platform.」（https://www.paperlessparts.com/processes/cnc-machining/）
+  - 「Send polished, branded quotes in minutes. First quote on their desk. Best-looking quote in their inbox. Speed plus professionalism equals competitive edge.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Professional quotes delivered in minutes — first on their desk, best-looking in their inbox」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Most shops are quoting in minutes, not hours. No long contracts, no enterprise complexity, no steep learning curve. Primarily built for CNC and precision machine shops, with capabilities extending to other high-mix, low-volume manufacturing environments.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Easy to learn. Easy to use. Built to evolve as your shop grows.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「We've significantly decreased our turn times on estimating jobs and generating quotes, increased our accuracy rates, we’re far more organized and confident in our pricing, and we send quotes that look professional within minutes.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「We needed a way to generate accurate quotes and stay organized without the complexity or high cost of traditional systems. Machine Research is easy to use, the team listens, and filled a critical gap as we built our shop from the ground up.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「What used to take 30 minutes now takes about 10. Building the quote is straightforward and easy.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Stop losing time, margin, and jobs to outdated software. Machine Research is fast to deploy, easy to use, and built around how shops actually quote.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「Most tools fall into two categories: manual tools with a modern interface, or complex enterprise systems that take months to implement and require long contracts. Machine Research is purpose-built for machine shops, powered by real machine learning, fast to deploy, easy to use, and affordable without multi-year commitments.」（https://machineresearch.com/estimating-and-quoting-software/）
+  - 「in minutes」（https://www.cloudnc.com/quote-agent）
+  - 「Minutes per RFQ」（https://www.cloudnc.com/quote-agent）
+  - 「minutes, not hours.」（https://www.cloudnc.com/quote-agent）
+- 検索結果の抜粋：
+  - 「7 Best Sheet Metal Quoting Software Solutions ( 2026 ) — 7 Best Sheet Metal Quoting Software Solutions ( 2026 ) Luke van Enkhuizen https://vanenkhuizen.com > the-ultim...」（https://vanenkhuizen.com/the-ultimate-guide-to-sheet-metal-quoting-software/）
+  - 「Choosing the Best Quoting Software For Your Business in 2026 — Choosing the Best Quoting Software For Your Business in 2026 Cincom Systems https://www.cincom.com > blog > cpq」（https://www.cincom.com/blog/cpq/best-quoting-software/）
+  - 「製造業での実装が進む AI 自動 見積 - Rentec Insight — 製造業での実装が進む AI 自動 見積 - Rentec Insight Rentec Insight https://go.orixrentec.jp > rentecinsight > article-619」（https://go.orixrentec.jp/rentecinsight/it/article-619）
+  - 「製造業向け自動 見積 ソフト11選。おすすめをタイプ別に紹介 — 製造業向け自動 見積 ソフト11選。おすすめをタイプ別に紹介 aspicjapan.org https://www.aspicjapan.org > asu > article」（https://www.aspicjapan.org/asu/article/19330）
+
+## ホワイトラベル3Dプリント見積・受注（white label 3D printing quoting）
+- 文脈：製造業・AM受注
+- 提供企業：
+  - 「Simply put, this means that if you require high precision and in-depth DFM support, LS Manufacturing is the preferred choice; however, for simple rapid prototypes, platforms like Protolabs offer a distinct speed advantage.」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「How Does Jabil Manage High Volume Scalability Compared To Alternative 3D Printing Companies?」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「3. What critical design flaws are evaluated during LS Manufacturing's complimentary DFM review for 3D printing services?」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「of inquiry to audit high-risk design factors. This review critically assesses un-removable internal supports, insufficient wall thicknesses under」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「Click “Get Free DFM Review & Real-time Quote” to upload your CAD/STEP files.」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「CNC Machining VS. 3D Printing Service For Plastic Parts: Why Traditional Prototypes Fail In Stress Tests」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「3D Printing VS. Injection Molding Service For Enclosure Prototyping: How To Choose?」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「Multi-Color FDM VS. PolyJet 3D Printing Service: How To Cut Prototyping Costs By 30%」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「FDM VS. FFF 3D Printing Service Cost & Quality: How To Choose For Industrial Prototyping?」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「3Dプリンティング vs CNCサービス：適切な製造方法を選ぶ方法」（https://jlc3dp.com/jp）
+  - 「Learn how industrial FDM delivers better performance, consistency, and real-world production results compared to desktop FFF printers.」（https://www.stratasys.com/en/stratasysdirect/）
+  - 「Next review: within 41 days」（https://gitnux.org/best/3d-printing-quoting-software/）
+  - 「Agents extract product evidence with provenance, then collect written reviews and transcribe video reviews and podcasts.」（https://gitnux.org/best/3d-printing-quoting-software/）
+  - 「Read full review」（https://gitnux.org/best/3d-printing-quoting-software/）
+  - 「Jump to Review」（https://gitnux.org/best/3d-printing-quoting-software/）
+- 自社名で出せる条件：
+  - 「Why Do Medical Device OEMs Prefer Fictiv For High-Consequence Precision 3D Printing Services?」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+- 再販制度：
+  - 「These companies make parts that require no margin for error at all,」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「Find a Reseller」（https://www.stratasys.com/en/stratasysdirect/）
+  - 「I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates」（https://www.protolabs.com/services/3d-printing/）
+- 無料体験・貸出：
+  - 「Industrial Automation」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「Industrial Equipment」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「industrial 3D printing」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「Can Hubs Deliver Tight Tolerances For Industrial Applications As A 3D Printing Service Partner?」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「precise industrial components」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「thousands of industrial HP MJF and metal printers」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「In 2026’s high-end industrial manufacturing, choosing a 3D printing supplier goes beyond comparing online quotes.」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「FDM VS. FFF 3D Printing Service Cost & Quality: How To Choose For Industrial Prototyping?」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「Industrial 3D Printing Service for Prototype and Production Parts.」（https://www.stratasys.com/en/stratasysdirect/）
+  - 「Secure, certified U.S.-based facilities producing end-use parts for industrial applications.」（https://www.stratasys.com/en/stratasysdirect/）
+  - 「Industrial-Grade Equipment」（https://www.stratasys.com/en/stratasysdirect/）
+  - 「We manufacture production-grade plastic components and anatomical models using industrial additive manufacturing and validated processes.」（https://www.stratasys.com/en/stratasysdirect/）
+  - 「With an in-house fleet of 200+ industrial-grade printers and access to 50+ engineering-grade materials, we excel at high-requirement projects for clients in aerospace, automotive, and healthcare, ensuring precision and reliability in meeting high-requirement project demands.」（https://www.stratasys.com/en/stratasysdirect/）
+  - 「Learn how industrial FDM delivers better performance, consistency, and real-world production results compared to desktop FFF printers.」（https://www.stratasys.com/en/stratasysdirect/）
+  - 「AMFG automates quoting, order processing, and production management for industrial additive manufacturing.」（https://gitnux.org/best/3d-printing-quoting-software/）
+- 価格：
+  - 「for price and choose RapidDirect and 3ERP, while for enterprise integration, select Jabil.」（https://www.lsrpf.com/blog/top-10-best-3d-printing-services-in-2026-choosing-the-best-custom-precision-partner）
+  - 「製造価格 $0.30」（https://jlc3dp.com/jp）
+  - 「製造価格 $1.00」（https://jlc3dp.com/jp）
+  - 「製造価格 $8.00」（https://jlc3dp.com/jp）
+  - 「製造価格 $5.00」（https://jlc3dp.com/jp）
+  - 「製造価格 $0.10」（https://jlc3dp.com/jp）
+  - 「製造価格 $2.00」（https://jlc3dp.com/jp）
+  - 「価格は$0.30から」（https://jlc3dp.com/jp）
+  - 「Upload your design, customize your options, and get instant pricing for fast, precise manufacturing. Enjoy FREE shipping on all orders plus 30% off your first RapidQuotes® order with code NEW30.」（https://www.stratasys.com/en/stratasysdirect/）
+  - 「Top 10 ranking of 3d printing quoting software with workflow, pricing, and quote comparisons, including CASTOR, GrabCAD Shop, and Treatstock.」（https://gitnux.org/best/3d-printing-quoting-software/）
+  - 「3D printing marketplace with instant pricing and quote generation for custom parts.」（https://gitnux.org/best/3d-printing-quoting-software/）
+  - 「Paperless Parts is a 3D printing quoting and order-document workflow tool that focuses on turning CAD and production context into customer-facing quote outputs. It supports automated quote generation driven by configurable pricing rules and print-parameter fields, with quoting tied to the company’s build process and typical shop practices.」（https://gitnux.org/best/3d-printing-quoting-software/）
+- 日本対応：
+  - 「7.日本積層造形株式会社/JAMPT（ジャンプ）」（https://3day-printer.com/media/column/3d-printing-quote/）
+  - 「日本積層造形株式会社」（https://3day-printer.com/media/column/3d-printing-quote/）
+  - 「日本積層造形株式会社（JAMPT）が提供する」（https://3day-printer.com/media/column/3d-printing-quote/）
+  - 「ソニーやNTT西日本、早稲田大学などへの導入実績もあり、法人・研究機関から個人まで幅広く利用されています」（https://3day-printer.com/media/column/3d-printing-quote/）
+  - 「日本語 (日本)」（https://www.stratasys.com/en/stratasysdirect/）
+- 使いやすさ：
+  - 「さらに、PCBとステンシル製品の注文を簡単にまとめてお支払いいただくこともでき、設計から製造までのプロセスをより円滑に進められます」（https://jlc3dp.com/jp）
+  - 「また、数あるサービスの中でも、3Dプリント注文をできるだけ簡単に完結させたい方には『」（https://3day-printer.com/media/column/3d-printing-quote/）
+  - 「カスタマイズされた部品、カスタマイズされたコンポーネント、および一点限りの製品を簡単に製造できます」（https://www.unionfab.com/ja/services/3d-printing）
+  - 「以下に、部品の機能、材料、生産ニーズに基づいて最適な3Dプリンティングプロセスを選択するための簡単な概要を示します」（https://www.rapiddirect.com/ja/services/3d-printing/）
+- 検索結果の抜粋：
+  - 「Any recommendations for instant quote software for 3D ... — Any recommendations for instant quote software for 3D ... Reddit https://www.reddit.com > qfwr15 > a...」（https://www.reddit.com/r/3Dprinting/comments/qfwr15/any_recommendations_for_instant_quote_software/）
+  - 「Would you use an instant quote tool for 3D print business? — Would you use an instant quote tool for 3D print business? Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/3DPrintFarms/comments/1ma0hru/would_you_use_an_instant_quote_tool_for_3d_print/）
+  - 「On-Demand 3D Printing | Instant Quote - Stratasys Direct — On-Demand 3D Printing | Instant Quote - Stratasys Direct Stratasys https://www.stratasys.com > stratasysd...」（https://www.stratasys.com/en/stratasysdirect/）
+
+## ホワイトラベル3Dプリント造形管理（AM向けMES）（white label additive manufacturing MES）
+- 文脈：製造業・AM
+- 提供企業：
+  - 「See Gartner Reviews」（https://nomuda.com/industries/additive-manufacturing/）
+  - 「Additive MES vs Traditional MES (And Why It Matters)」（https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide）
+  - 「MES vs “Execution Systems” in Additive Manufacturing」（https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide）
+  - 「Additive MES for Service Bureaus vs Internal Manufacturing」（https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide）
+  - 「Customer Reviews」（https://www.paperlessparts.com/processes/additive-manufacturing/）
+  - 「Metal Service Providers」（https://www.paperlessparts.com/processes/additive-manufacturing/）
+  - 「Reviews」（https://www.paperlessparts.com/processes/additive-manufacturing/）
+- 自社名で出せる条件：
+  - 「3D printer OEM」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Find a 3D printer OEM partner」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Part Buyers and OEMs」（https://www.paperlessparts.com/processes/additive-manufacturing/）
+- 再販制度：
+  - 「Are you looking to build, grow and scale your additive manufacturing operations? We’re here to help you accelerate sustainable growth with our partner programs.」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Become a reseller」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「We rely on our network of trusted resellers to aid AM users in getting the most out of their 3D printer purchases worldwide. Learn how you can bundle Magics 3D Print Suite and Build Processors with machine sales.」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Our partner programs」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Reseller」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Need localized sales and training support? Reach out to our resellers to get curated experiences near you when scaling up your 3D printing operations.」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Inquire about a local reseller」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Alliance Partner Program」（https://www.paperlessparts.com/processes/additive-manufacturing/）
+  - 「Ecosystem Partner Program」（https://www.paperlessparts.com/processes/additive-manufacturing/）
+- 無料体験・貸出：
+  - 「Industrial Manufacturing」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
+  - 「Trial the platform with real job data to test user experience and integrations.」（https://www.authentise.com/post/what-is-the-best-additive-manufacturing-workflow-software-in-2026-a-comprehensive-guide）
+  - 「Industrial」（https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/）
+  - 「Industrial Products」（https://nomuda.com/industries/additive-manufacturing/）
+  - 「Industrial」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Industrial」（https://www.materialise.com/en/industrial/software/manufacturing-execution-system）
+  - 「Industrial Manufacturing」（https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide）
+  - 「Additive manufacturing (AM) has evolved from a prototyping tool to a cornerstone of industrial production. As additive manufacturing moves beyond prototyping and into full-scale production, managing complexity becomes the real challenge.」（https://www.authentise.com/post/understanding-additive-mes-a-beginner-s-guide）
+- 使いやすさ：
+  - 「An intuitive interface fuels rapid onboarding and high user adoption, an essential ingredient for success.」（https://oqton.com/how-would-additive-mes-solutions-improve-your-additive-manufacturing-execution/）
+  - 「Implementation and Onboarding」（https://www.paperlessparts.com/processes/additive-manufacturing/）
+  - 「Minutes」（https://www.paperlessparts.com/processes/additive-manufacturing/）
+  - 「When you partner with Paperless Parts, we take care of you; when you succeed, we succeed. Our dedicated support team responds to requests within 30 minutes. You can email, call, or ask for help right from the platform.」（https://www.paperlessparts.com/processes/additive-manufacturing/）
+- 検索結果の抜粋：
+  - 「Materialise Partnerships | 3D Printing Software Solutions — Materialise Partnerships | 3D Printing Software Solutions Materialise https://www.materialise.com > software」（https://www.materialise.com/en/industrial/software/partnerships）
+- 価格：記載なし（読んだ55頁・検索11回）
+- 日本対応：記載なし（読んだ55頁・検索11回）
+
+## ホワイトラベル図面管理（white label drawing management software）
+- 文脈：製造業・図面
+- 提供企業：
+  - 「Users track expenses, review project budgets, share construction drawings, and manage project documents in one place.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Managers review project performance, identify delays, monitor costs, and generate reports to support better decisions.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Generate reports on project progress, costs, resource usage, and task performance. Use dashboard insights to review project status and support data-based decisions.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Give field teams mobile access to tasks, drawings, reports, and project updates. Support photo uploads and site reporting so office teams can review field information.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Bring project tasks, costs, schedules, and progress reports into one dashboard. Help clients and project managers review updates and identify issues faster.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White Label vs. Custom-Built Construction Software: Which Is Right for Your Business?」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Construction consultants can use a branded platform to monitor project performance, review reports, and coordinate with clients. It also helps them offer digital project management services without building software from scratch.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Record important user actions, document changes, approvals, and project updates. Audit logs help administrators review activity and track changes when needed.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Configure data access, retention, and privacy controls based on business and legal requirements. Review applicable standards and compliance needs before deploying the software.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Review competing construction platforms, common industry workflows, and customer needs. Use these findings to prioritize features and identify ways to differentiate your software.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Create wireframes and interactive prototypes for dashboards, project views, and task workflows. Review the design before development to improve usability for office and field teams.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Design Review」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Ensure everyone is working from the latest sheet with tools that make it easy to publish, review and control construction documents throughout the project lifecycle.」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Compare sheets and overlay changes to review design impacts faster」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Compare two PDFs and highlight the differences with markups that can be easily reviewed.」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+- 自社名で出せる条件：
+  - 「White Label Construction Project Management Software at $8000」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White Label」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「What Is White Label Construction Project Management Software?」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White label construction project management software is a ready-made platform that you can launch under your own brand. Instead of building every feature from scratch, you use an existing software foundation and configure it to match your business requirements.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「We customize the platform with your logo, colors, domain, user roles, and project workflows. Our team can also configure features such as task management, project scheduling, budget tracking, document sharing, and progress reports. This approach helps growing companies offer construction management tools without managing the full development lifecycle.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Get a Tailored White Label Software Solution for Your Construction Business」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「How White Label Construction Management Software Works」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White label construction project management software allows businesses to launch a fully branded solution without building it from scratch. Customize the platform with your logo, colors, and features to deliver a seamless experience under your own brand.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Construction businesses need a central platform to manage projects, teams, budgets, and site activities. Our white label construction project management software can be configured with the features your clients need to manage construction workflows efficiently.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Business Advantages of Investing in White Label Construction Software」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White label construction software helps businesses launch a branded software solution without building every feature from scratch. It offers a practical way to expand services, manage client needs, and support business growth.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White Label vs. Custom-Built Construction Software: Which Is Right for Your Business?」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White label software uses an existing platform that can be branded and configured for your business, while custom development builds software around your specific requirements. The right choice depends on your budget, timeline, technical needs, and level of control.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White Label Software」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Who Can Benefit from White Label Construction Software?」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+- 再販制度：
+  - 「Reseller and Partner」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Offer special pricing to software resellers and business partners who sell the platform under their own brand. This model helps partners build their software business with an agreed licensing structure.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Markups」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Centralize construction drawings, documents and markups in one connected workspace purpose-built for architects, engineers, contractors and owners.」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Apply automatic slip sheeting to replace outdated pages while preserving markups」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Capture markups, photos and as-built changes directly on the latest sheets」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Keep calculations, details and markups attached to the right revision」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Reduce errors by tying field markups and as-built notes to current drawings」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Lower administrative costs and enhance efficiency with real-time markups, automated workflows, and version control.」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「View, access and navigate an unlimited number of various source files as a single document in a single tab. Files within a Set can now be automatically organized by categories based on preconfigured or custom templates, with options to carry over markups, hyperlinks, and more.」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Compare two PDFs and highlight the differences with markups that can be easily reviewed.」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Combine your drawings into a single set, then slip sheet each new revision into it so the old sheet is replaced and your markups carry forward. Use Compare Documents to highlight what changed between versions before you share the updated set with your team.」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+  - 「Find a Reseller」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+- 無料体験・貸出：
+  - 「Free Trial」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+- 価格：
+  - 「White Label Construction Project Management Software at $8000」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「$8,000 to $9,000」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「$20,000 to $50,000+」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「$8,000 - $9,000」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「$20,000 - $50,000+」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「価格：100万円 ~ 500万円」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「$70,000」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+- 日本対応：
+  - 「【事例付き】図面管理を効率化する具体的な方法とポイント｜図面管理コラム｜Hi-PerBT Advanced 図面管理｜日立ソリューションズ西日本」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「株式会社 日立ソリューションズ西日本」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「日立ソリューションズ西日本 製品担当者からコメント」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「日立ソリューションズ西日本」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「日立ソリューションズ西日本が提供する「Hi-PerBT Advanced 図面管理」は、製品の設計図面管理業務を効率化する機能を網羅した図面管理システムです」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「日立ソリューションズ西日本 製品担当者からのオススメ！」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「弊社は30年にわたり、日本の製造業のお客さまの、設計業務を改善する図面管理システム構築をお手伝いしてきました」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「© Hitachi Solutions West Japan, Ltd.」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「Box Japan ユーザーコミュニティ」（https://japan.box.com/case/customer-success/fujitec-box-customer-award-japan-2021）
+  - 「Box Customer Award Japan 2021にて、フジテック株式会社様に発表いただいた活用事例をお届けします」（https://japan.box.com/case/customer-success/fujitec-box-customer-award-japan-2021）
+  - 「株式会社Box Japan」（https://japan.box.com/case/customer-success/fujitec-box-customer-award-japan-2021）
+  - 「株式会社日立ソリューションズ西日本」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「■日本語の他、英語、タイ語、ベトナム語に対応」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「日本ツクリダス株式会社」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「日本語 (JP)」（https://www.bluebeam.com/workflows/drawing-and-document-management/）
+- 使いやすさ：
+  - 「Get help with platform setup, configuration, integration issues, and user onboarding under your support plan. Access technical guidance as your software requirements change.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「とはいえ、共通ルールの策定は簡単なものではなく、部署ごとの図面担当者が個別にルールを策定してしまい、部署間での共有に支障が出るといったケースも珍しくありません」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「もちろん、検索機能やバージョン（履歴）管理機能も充実しており、類似の図面を簡単に探し出せる機能を備えた製品もあります」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「直感的な操作性と、ドキュメント種別を問わない統一オペレーションで、誰でも簡単に使いこなせます」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「・簡単で直感的な操作」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「紙とCADファイルの二重管理、保管スペースの圧迫が課題になることはもちろん、紙は簡単にコピーできるので、最新版が分からなくなってしまうなど、管理効率が低下し続けてしまう原因になります」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「図面からファイルの属性情報まで、ボタンひとつで簡単に複製できます」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「イノベーション社の統合情報管理システム(ArcSuite)と連携し、簡単な操作で」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「【ChatGPT搭載】図面を軸にした情報・書類の一元管理が簡単に」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「検索機能により必要なデータを簡単かつ迅速に見つけることが可能です」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「直感的な操作性と、ドキュメント種別を問わない統一オペレーションで、導入後、誰でも簡単に使いこなせます」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「IG Work Managerでは、検索機能で図面やFAXを簡単に見つけられるのはもちろん、管理用のフォルダが自動で生成されるので、「人によって管理のルールが違う」という状況を避けられます」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「■図枠も簡単に更新」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「ズメーン上でCADを簡単プレビュー」（https://lp.zume-n.com/）
+  - 「図面の改訂があった際にも、簡単な操作でバージョン管理ができます｡」（https://lp.zume-n.com/）
+- 検索結果の抜粋：
+  - 「図面管理 とは？ 必要性やシステム活用メリットまで解説 — 図面管理 とは？ 必要性やシステム活用メリットまで解説 株式会社 日立ソリューションズ西日本 https://www.hitachi-solutions-west.co.jp > industry > vol01」（https://www.hitachi-solutions-west.co.jp/products/industry/ad/column01/vol01/）
+  - 「図面管理 システム メーカー49社 - Metoree — 図面管理 システム メーカー49社 - Metoree Metoree https://metoree.com > 開発・設計ツール」（https://metoree.com/categories/3202/）
+  - 「図面管理 システム - メーカー・企業22社の業務用製品ランキング — 図面管理 システム - メーカー・企業22社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 図面管理システム」（https://mono.ipros.com/cg2/%E5%9B%B3%E9%9D%A2%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+
+## ホワイトラベルCADビューア・CAD組込み（OEM）（OEM CAD viewer SDK）
+- 文脈：製造業・設計
+- 提供企業：
+  - 「The decision isn't always obvious, though. Browser tools are fast for one-off reviews but fall short when teams need offline access, repeated measurement, markup workflows, or file conversion. Desktop software fills those gaps, but adds cost and platform constraints.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「DWG TrueView is the go-to for teams that plot, convert, and review drawings on Windows」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Best when reviewers also need to edit drawings:」（https://www.guideflow.com/blog/cad-viewers）
+  - 「A viewer renders the geometry in a design file so reviewers can navigate it without the authoring tool. Core capabilities include:」（https://www.guideflow.com/blog/cad-viewers）
+  - 「An Autodesk-oriented design review format」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Viewers are for access, review, and lightweight inspection. Editors add drawing or modeling changes. Some tools sit between the two by supporting markup, conversion, or limited edits without full authoring capability.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Review DWG or DXF on Windows」（https://www.guideflow.com/blog/cad-viewers）
+  - 「A viewer is the right call when someone needs access, not authoring capability. A contractor reviewing a structural drawing, a sales engineer checking dimensions before a customer call, or an operations lead confirming a specification: None of these workflows require a full seat. Matching the tool to the job keeps license costs proportional to actual usage.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Browser-based viewers remove the install barrier for external reviewers. A shared link lets a client inspect a layout, a supplier check a tolerance, or a board advisor review a product rendering without installing anything. The constraint worth checking is file size: Some online viewers cap uploads, which matters if you're working with complex assemblies.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「All seven tools below handle the core job of opening and displaying CAD files, but they solve different problems. Use the table to narrow the list before reading the full reviews.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Teams and external stakeholders that need browser-based access to review and collaborate on CAD files from many different sources.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Shareable views for external reviewers」（https://www.guideflow.com/blog/cad-viewers）
+  - 「4.3/5 based on 60 reviews, per Autodesk Viewer's G2 listing (October 2026).」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Windows-based design or operations teams that review, plot, and convert DWG and DXF files regularly and don't need a full AutoCAD subscription.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Measurement and markup tools for drawing review」（https://www.guideflow.com/blog/cad-viewers）
+- 自社名で出せる条件：
+  - 「Autodesk OEM Solutions | Tech Soft 3D」（https://www.techsoft3d.com/oem/）
+  - 「Autodesk OEM Solutions」（https://www.techsoft3d.com/oem/）
+  - 「Tech Soft 3D is Autodesk's exclusive global provider for AutoCAD OEM, Inventor OEM, and the RealDWG SDK. Developers worldwide license these technologies through Tech Soft 3D to build specialised CAD applications, extend existing tools into standalone products, or add native DWG file support to their software.」（https://www.techsoft3d.com/oem/）
+  - 「AutoCAD OEM」（https://www.techsoft3d.com/oem/）
+  - 「Inventor OEM」（https://www.techsoft3d.com/oem/）
+  - 「Autodesk AutoCAD OEM」（https://www.techsoft3d.com/oem/）
+  - 「AutoCAD OEM lets you build a custom, branded CAD application on the same platform that powers AutoCAD. You choose which commands and features to include, configure your own UI, and ship under your own brand. It supports Object ARX, .NET, ActiveX, and JavaScript APIs, with options for multiple deployment targets and multiple languages.」（https://www.techsoft3d.com/oem/）
+  - 「Autodesk Inventor OEM」（https://www.techsoft3d.com/oem/）
+  - 「Inventor OEM gives you Autodesk Inventor's parametric 3D modelling engine to embed in your own application. A built-in configurator lets you select which modules, translators, and features your product includes. iLogic support, comprehensive CAD translators, and a sample branded application are included to help you get started quickly.」（https://www.techsoft3d.com/oem/）
+  - 「OEM Case Studies」（https://www.techsoft3d.com/oem/）
+  - 「Inventor Oem」（https://www.techsoft3d.com/oem/）
+  - 「TENADO Builds Its Metal 3D with Inventor OEM from Tech Soft 3D to Provide Industry-Leading Tools to Metalworkers」（https://www.techsoft3d.com/oem/）
+  - 「Autocad Oem」（https://www.techsoft3d.com/oem/）
+  - 「Scaffolding Software Licenses AutoCAD OEM as a Foundation for Their Comprehensive Scaffolding Tools」（https://www.techsoft3d.com/oem/）
+  - 「Striker Systems Uses AutoCAD OEM To Give Sheet Metal Manufacturers A Nesting Software That’s A Cut Above」（https://www.techsoft3d.com/oem/）
+- 再販制度：
+  - 「Partner program」（https://www.guideflow.com/blog/cad-viewers）
+  - 「The decision isn't always obvious, though. Browser tools are fast for one-off reviews but fall short when teams need offline access, repeated measurement, markup workflows, or file conversion. Desktop software fills those gaps, but adds cost and platform constraints.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Viewing only, or markup, measurement, printing, and conversion?」（https://www.guideflow.com/blog/cad-viewers）
+  - 「AutoCAD Web adds browser-based editing on top of viewing, useful when minor markup turns into real changes」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Viewers are for access, review, and lightweight inspection. Editors add drawing or modeling changes. Some tools sit between the two by supporting markup, conversion, or limited edits without full authoring capability.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Measurement, markup, comments, and sectioning tools」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Measurement and markup tools for drawing review」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Distributed teams that need browser-based DWG access and occasional drawing edits or markup, without managing a desktop CAD installation.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Cost-conscious Windows teams that need measurement, markup, PDF export, and drawing comparison for DWG and DXF files, without paying an ongoing subscription.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Measurement and markup tools」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Markup, measurement, and dynamic cross-sectioning」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Viewing, measurement, markup, plotting, conversion, and editing are different capabilities, and not every viewer offers all of them. Avoid paying for an editor if the team only needs review access. Equally, don't standardize on a basic browser viewer if the team repeatedly needs measurements or export workflows that it can't support.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Markup」（https://apryse.com/products/core-sdk/cad）
+  - 「Markup & Annotate」（https://apryse.com/products/core-sdk/cad）
+  - 「Drop in or remove all types of existing PDF markups, including stamp, watermark, call-out comments, free text, signature and shape tools, and more. Create your own custom annotation appearances.」（https://apryse.com/products/core-sdk/cad）
+- 無料体験・貸出：
+  - 「Sandbox」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Start for free」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Autodesk offers monthly, 1-year, and 3-year billing options and a 30-day free trial. Contact Autodesk directly for current plan pricing, as numeric figures were not displayed on the pricing page at time of research.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「12 best industrial AR platforms for 2026」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Free Trial」（https://apryse.com/products/core-sdk/cad）
+  - 「Start your free trial」（https://apryse.com/products/core-sdk/cad）
+  - 「Trial License Keys」（https://cadviewer.com/our_pricing/oem/）
+  - 「Trial License Keys」（https://cadviewer.com/pricing/）
+  - 「Download free 30 days trial version or try online now」（https://www.3dviewstation.com/products/licensing.html）
+  - 「Is there a trial version of RealDWG that I can access?」（https://www.techsoft3d.com/oem/realdwg/）
+  - 「There isn’t a trial version of RealDWG.」（https://www.techsoft3d.com/oem/realdwg/）
+  - 「If you don’t have AutoCAD, you can download a 30-day trial version」（https://www.techsoft3d.com/oem/realdwg/）
+  - 「CAD Viewer Download and Free Trial - 3D-Tool」（https://www.3d-tool.com/download/）
+  - 「CAD Viewer and converter free for 14 days. Use the trial version to open, measure, analyze and convert supported CAD files.」（https://www.3d-tool.com/download/）
+  - 「and click "Get Trial Key" in the Licensing dialog.」（https://www.3d-tool.com/download/）
+- 価格：
+  - 「DWGSee pairs a free online viewer with low-cost permanent licenses starting at $69」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Free online viewer plus permanent license from $69」（https://www.guideflow.com/blog/cad-viewers）
+  - 「From $69 (one-time)」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Pricing and ratings verified October 2026 from each vendor's official pricing page and G2 listing.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Autodesk offers monthly, 1-year, and 3-year billing options and a 30-day free trial. Contact Autodesk directly for current plan pricing, as numeric figures were not displayed on the pricing page at time of research.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「DWGSee Standard is $69 (lifetime license), DWGSee Pro is $98 (lifetime license), and DWGSee CAD is $198 (lifetime license). A free online viewer is also available.」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Pricing of the 3D CAD Viewer | 3DViewStation」（https://www.3dviewstation.com/products/licensing.html）
+  - 「The most commonly sold license is a fixed license of the 3DViewStation Desktop version with all 3D importers. As a purchase license, the price is around 1600 USD and is kept up to date through annual maintenance. The most popular options are "3D Advanced Analysis" and "3D Export", which each cost around 500 USD.」（https://www.3dviewstation.com/products/licensing.html）
+  - 「$8,000 USD/€7,500 year」（https://www.techsoft3d.com/oem/realdwg/）
+  - 「AutoCAD OEM has an Annual Partnership Fee of $15,000 USD/€12,000 year, along with a revenue share. The revenue share is a percentage of the revenue from the developed product. The minimum annual revenue share is $24,000 USD/€18,000 year.」（https://www.techsoft3d.com/resources/blog/developing-an-autocad-plug-in-vs-developing-with-autocad-oem/）
+  - 「価格：1万円 ~ 10万円」（https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/）
+  - 「Web ３D CAD Viewer Systemの活用で、製造業における部門間の業務連携を円滑にし、各工程の業務システムとの連携が可能となります」（https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/）
+  - 「価格：10万円 ~ 50万円」（https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/）
+  - 「Subscription Only at $249.95/Year or Perpetual License at $599.95」（https://www.intellicadms.com/41-intellicad-in-detail/intellicad-what-is-new?srsltid=AYCX9vK2cQAIGZLh4BOchB_yBCWZwxy5YcX9_9XUJx5SrMKJnrmbkizf）
+  - 「『SOLIDWORKS』3Dアセンブリデータから組立図／部品図へ一括処理！円弧や線分要素を正しく表現するため、寸法記入も容易に！」（https://mono.ipros.com/company/detail/38621/category/3992/）
+- 日本対応：
+  - 「Graebert Japan」（https://www.graebert.com/oem-cad-platform/）
+  - 「ネイティブフォントを使用して9言語（英語、フランス語、ドイツ語、イタリア語、日本語、簡体字中国語、韓国語、ポルトガル語、スペイン語）で開発するオプション」（https://www.techsoft3d.com/ja-jp/oem/autocad-oem/）
+  - 「PTC Product View Express の日本語版はありますか？」（https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKnrhZ2pg4iJ9MLgqAxAD2Ivj8nLO1D6kfSK0O-S_EDEw5hZT9F）
+  - 「PTC Product View Express は英語メニューのみ対応となっていますが、有償版エディションPTC Product View MCADでは日本語版プラットフォームがあります」（https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKnrhZ2pg4iJ9MLgqAxAD2Ivj8nLO1D6kfSK0O-S_EDEw5hZT9F）
+  - 「公式ヘルプ（日本語）」（https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKnrhZ2pg4iJ9MLgqAxAD2Ivj8nLO1D6kfSK0O-S_EDEw5hZT9F）
+  - 「連携の詳細については、公式日本語ヘルプの以下の解説ページをご覧ください：」（https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKnrhZ2pg4iJ9MLgqAxAD2Ivj8nLO1D6kfSK0O-S_EDEw5hZT9F）
+  - 「3DVS Japan合同会社 セールス&マーケティング部」（https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/）
+  - 「3DVS Japan合同会社」（https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/）
+  - 「製品一覧ページ | 日本製図器工業株式会社」（https://nsksystem.co.jp/products/index?product_genre=CA）
+  - 「PTC Product View Express の日本語版はありますか？」（https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKWr4CtNmIIzAWa-M2U0dJ9b356QMpFgE89aIU8Vj7dmNs1xgwX）
+  - 「PTC Product View Express は英語メニューのみ対応となっていますが、有償版エディションPTC Product View MCADでは日本語版プラットフォームがあります」（https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKWr4CtNmIIzAWa-M2U0dJ9b356QMpFgE89aIU8Vj7dmNs1xgwX）
+  - 「公式ヘルプ（日本語）」（https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKWr4CtNmIIzAWa-M2U0dJ9b356QMpFgE89aIU8Vj7dmNs1xgwX）
+  - 「連携の詳細については、公式日本語ヘルプの以下の解説ページをご覧ください：」（https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vKWr4CtNmIIzAWa-M2U0dJ9b356QMpFgE89aIU8Vj7dmNs1xgwX）
+  - 「日本語 (Japanese)」（https://simplyprint.io/ja/oem）
+  - 「JA - 日本語」（https://mono.ipros.com/company/detail/38621/category/3992/）
+- 使いやすさ：
+  - 「Powerful no-code editor」（https://www.guideflow.com/blog/cad-viewers）
+  - 「ユニークなCADアプリケーションを簡単に作成するために使用されるツールキットコンポーネントとワークフローを確認します」（https://www.techsoft3d.com/ja-jp/oem/autocad-oem/）
+  - 「, training or lengthy onboarding. Many features come directly from user suggestions - from the everyday practice of people who work with」（https://www.3d-tool.com/）
+  - 「『3DFovi』は、“シンプル”にこだわり、圧倒的な低価格と簡単操作を実現した3Dビューアです」（https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/）
+  - 「■シンプルでだれでも簡単に使える機能」（https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/）
+  - 「簡単にデータ交換が可能！25種類以上の2次元及び、3次元CADデータフォーマットをサポートしています」（https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/）
+  - 「高価なCADシステムを使用しなくても3次元モデルを簡単に確認、分析ができ」（https://mono.ipros.com/cg2/CAD%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/）
+  - 「Pi用のWiFiファイルを簡単に生成」（https://simplyprint.io/ja/oem）
+  - 「国産開発の強みをいかし、簡単・便利に設計できるように設計者の要望を優先し開発したハイブリッドCADシステムや作図機能に特化したDXF/DWGデータ対応2次元CADシステムなどご紹介！」（https://mono.ipros.com/company/detail/38621/category/3992/）
+  - 「設計現場以外にも、外出先や客先での簡単な設計変更作業、他部署との連携、協力会社との作業など、幅広いシチュエーションで活用頂けます」（https://mono.ipros.com/company/detail/38621/category/3992/）
+  - 「EASYDRAWとは、初心者でも簡単に使えることを目指した、国産の本格的でコストパフォーマンスに優れた2D CADソフトウェアです」（https://mono.ipros.com/company/detail/38621/category/3992/）
+  - 「■既存の図面から簡単操作で3次元モデリング」（https://mono.ipros.com/company/detail/38621/category/3992/）
+  - 「非常に簡単な操作で、検査工程の効率を大幅にアップできます」（https://mono.ipros.com/company/detail/38621/category/3992/）
+- 検索結果の抜粋：
+  - 「7 best CAD viewers for 2026 - Guideflow Blog — 7 best CAD viewers for 2026 - Guideflow Blog Guideflow https://www.guideflow.com > Blog」（https://www.guideflow.com/blog/cad-viewers）
+  - 「Best 14 Free CAD Viewers Picks in 2026 - G2 — Best 14 Free CAD Viewers Picks in 2026 - G2 G2 https://www.g2.com > categories > free」（https://www.g2.com/categories/cad-viewers/free）
+  - 「Autodesk OEM Solutions | Tech Soft 3D — Autodesk OEM Solutions | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > Oem」（https://www.techsoft3d.com/oem/）
+  - 「Pricing of the 3D CAD Viewer - 3DViewStation — Pricing of the 3D CAD Viewer - 3DViewStation 3dviewstation.com https://www.3dviewstation.com > lice...」（https://www.3dviewstation.com/products/licensing.html）
+  - 「CAD Viewer Download and Free Trial - 3D-Tool — CAD Viewer Download and Free Trial - 3D-Tool 3D-Tool https://www.3d-tool.com > download」（https://www.3d-tool.com/download/）
+  - 「Autodesk AutoCAD OEM | Tech Soft 3D — Autodesk AutoCAD OEM | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > Home > Oem > Autocad Oem」（https://www.techsoft3d.com/ja-jp/oem/autocad-oem/）
+  - 「サプライヤーおよび OEM 向け3D CADビューア - 3DViewStation — サプライヤーおよび OEM 向け3D CADビューア - 3DViewStation 3dviewstation.com https://www.3dviewstation.com > 自動車業界航空宇宙業界」（https://www.3dviewstation.com/jp/%E7%94%A3%E6%A5%AD/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E6%A5%AD%E7%95%8C.html）
+  - 「OEM 向け ホワイトラベル 3Dプリンターソフトウェア — OEM 向け ホワイトラベル 3Dプリンターソフトウェア SimplyPrint https://simplyprint.io > oem」（https://simplyprint.io/ja/oem）
+
+## ホワイトラベル設備保全（CMMS）（white label CMMS）
+- 文脈：製造業・保全
+- 提供企業：
+  - 「Rapid deployment compared to custom-built solutions」（https://maintastic.com/en/white-label-software/）
+  - 「Free CMMS vs Paid — When $0 Beats Per-User | FreeMaint CMMS」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「FreeMaint vs the alternatives」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Free CMMS vs Paid」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Free CMMS vs Paid CMMS」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「3. Side-by-Side Comparison: FreeMaint vs Freemium Giants」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Switching providers charges thousands for data migration」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「7. Frequently Asked Questions: Free vs Paid CMMS」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Core free forever, unlimited users. Paid tiers $29 / $99 / $299/mo flat per company — never per user. See the real cost vs competitors.」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「FreeMaint vs UpKeep」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「FreeMaint vs Fiix」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Ten CMMS platforms ranked by what "free" actually means — permanent free tiers vs expiring trials, feature limits, asset caps, mobile access, and the upgrade cost when your team outgrows free. With documented capabilities from teams running free CMMS in production environments.」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「At this scale, no free tier is truly adequate. But OxMaint's $8/user paid tier delivers what competitors charge $45-$55/user for — including AI, multi-site, and full offline mobile. The total cost for 15 technicians: $120/month vs $825/month on UpKeep Premium.」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「OxMaint vs MaintainX vs UpKeep: CMMS Comparison 2026」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「Oxmaint vs MaintainX」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+- 自社名で出せる条件：
+  - 「White Label CMMS Software for Service & Maintenance」（https://maintastic.com/en/white-label-software/）
+  - 「White-Label Options」（https://maintastic.com/en/white-label-software/）
+  - 「White label software for maintenance and service」（https://maintastic.com/en/white-label-software/）
+  - 「White label software: Launch your own maintenance or service app in your corporate design」（https://maintastic.com/en/white-label-software/）
+  - 「Maintastic’s white label offering allows you to develop a fully operational, custom-branded app effortlessly – without writing a single line of code.」（https://maintastic.com/en/white-label-software/）
+  - 「Leverage a white label app to evolve your service operations into a digital business model」（https://maintastic.com/en/white-label-software/）
+  - 「Boost user adoption in maintenance with a white label app」（https://maintastic.com/en/white-label-software/）
+  - 「. A white label version is also available, customized with your corporate branding to increase user acceptance.」（https://maintastic.com/en/white-label-software/）
+  - 「Why choose a white label app from Maintastic?」（https://maintastic.com/en/white-label-software/）
+  - 「Building your own service or maintenance app from scratch can be time-consuming and costly. Maintastic provides a fully branded white label app in a fraction of the time – offering the following advantages:」（https://maintastic.com/en/white-label-software/）
+  - 「Request white label app」（https://maintastic.com/en/white-label-software/）
+  - 「White label options」（https://maintastic.com/en/white-label-software/）
+  - 「Maintastic’s white label offering extends well beyond basic color and logo customization.」（https://maintastic.com/en/white-label-software/）
+  - 「FAQs about Maintastic's white label app」（https://maintastic.com/en/white-label-software/）
+  - 「What does “white label app” mean?」（https://maintastic.com/en/white-label-software/）
+- 再販制度：
+  - 「Affiliates」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Earn recurring commission」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Multi-tenant architecture for resellers」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「代理店ウェブ一覧」（https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/）
+  - 「Partners — Resellers & Partnership Program | FreeMaint CMMS」（https://freemaint.com/partners）
+  - 「Affiliates」（https://freemaint.com/partners）
+  - 「Earn recurring commission」（https://freemaint.com/partners）
+  - 「Active resellers delivering white-label CMMS to their clients — with full Reseller Console, wholesale billing, and brand cascade out of the box.」（https://freemaint.com/partners）
+  - 「Reseller Console」（https://freemaint.com/partners）
+  - 「Provision unlimited client tenants, switch into any of them for support, see chronological activity log. Built into the same app, gated by the reseller:* permission set.」（https://freemaint.com/partners）
+  - 「Live wholesale billing」（https://freemaint.com/partners）
+  - 「Gold Partner Program」（https://freemaint.com/partners）
+  - 「We are onboarding the first cohort of resellers — including EVADYS (Algeria) and EGT Group (Bahrain/KSA). When 3+ partners are publicly live with active client portfolios, this section will showcase their work. Join the program now to be featured here.」（https://freemaint.com/partners）
+  - 「Apply to the Gold Partner program. Wholesale pricing, full Reseller Console, no setup fees for the first cohort. Get started in 24 hours after we receive your application.」（https://freemaint.com/partners）
+  - 「パートナー制度」（https://mentena.biz/insight/cmms-case-study-kowa-seiko/）
+- 無料体験・貸出：
+  - 「Free trial」（https://maintastic.com/en/white-label-software/）
+  - 「Start Free Trial」（https://www.maintainnow.app/pricing）
+  - 「No credit card and no setup fees.」（https://www.maintainnow.app/pricing）
+  - 「7-Day Trial - All features included」（https://www.maintainnow.app/pricing）
+  - 「30-day money-back guarantee」（https://www.maintainnow.app/pricing）
+  - 「Plus a 7-day trial of every feature」（https://www.maintainnow.app/pricing）
+  - 「30-day money back」（https://www.maintainnow.app/pricing）
+  - 「7-Day Trial」（https://www.maintainnow.app/pricing）
+  - 「How does the Basic free plan work?」（https://www.maintainnow.app/pricing）
+  - 「What happens after the 7-day trial period?」（https://www.maintainnow.app/pricing）
+  - 「Start on the free plan, try every feature for 7 days and bring your technicians on board with the mobile app. No credit card needed.」（https://www.maintainnow.app/pricing）
+  - 「Free Basic plan · 7-day trial of every feature · Cancel anytime」（https://www.maintainnow.app/pricing）
+  - 「30-Day Money Back Guarantee」（https://www.maintainnow.app/pricing）
+  - 「Most "free" CMMS tools have hidden limits that force expensive upgrades. We analyzed the real costs and reveal which free plans have no cap on users, assets or work orders.」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「A Core tier free forever with no cap on users, assets or work orders, and no trial expiration. Advanced modules sit on optional paid tiers priced flat per company, not per user.」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+- 価格：
+  - 「$15/month」（https://www.maintainnow.app/pricing）
+  - 「Free CMMS vs Paid — When $0 Beats Per-User | FreeMaint CMMS」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「$1.3 billion in 2025」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Unlimited users, assets and work orders on Core; paid tiers from $29/month flat per company (GraphQL API on Business).」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Here's the honest comparison. We measured 10 critical capabilities across 5 solutions. UpKeep has no free plan (trial only), so its column shows what you get once you pay. For current per-user prices, see our breakdowns of」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「$0/month」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「A 10-technician team pays for 10 seats every month; FreeMaint Business stays $99/month flat for the whole company」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Zero licensing cost but requires your own server, IT setup, and ongoing maintenance. True $0 software cost but significant hidden infrastructure costs. Only viable if you have dedicated IT resources. Not recommended for teams without server administration capability.」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「$0 forever」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「· No card · Paid: $8/user/mo · No implementation fee」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「Free plan works well for small teams digitizing paper work orders. Chat-style interface drives frontline adoption. Free tier limited to 2 active recurring work orders — functional for evaluation but restrictive for real PM programs. Inventory and advanced PM require Premium at $49/user. 2-layer asset hierarchy limits industrial complexity.」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「(2 recurring WOs) · Premium: $49/user/mo」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「Free plan includes work order management and basic PM with no trial expiry. Rockwell industrial pedigree adds credibility for manufacturing environments. Free tier caps limit practical use beyond small operations. Paid plans jump to $45/user with implementation fees typical ($10K-$50K). Best for Rockwell-aligned plants willing to invest in implementation.」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「(limited) · Basic: $45/user/mo · Setup fees apply」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「· Starter: $20/user/mo」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+- 日本対応：
+  - 「日本語サポートの有無・対応時間・導入支援（データ移行・初期設定サポート）・トレーニングの提供」（https://yachiyo-sol.com/library/cmms-erabi-kata-hikaku/）
+  - 「循環型社会を通じ中東と日本をつなぐ（１）」（https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/）
+  - 「循環型社会を通じ中東と日本をつなぐ（２）」（https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/）
+  - 「現在、日本では 化学・機械・自動車・食品・航空・電子・ビル設備管理 など、さまざまな業界において、設備保全のデジタルトランスフォーメーション（DX）が重要な経営課題となっています」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「本記事では、現在日本市場で流通している主要な18の設備保全管理システムを、最新の市場データに基づき徹底的に比較・分析します」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「本章では、日本市場における主要18製品について、提供形態を整理したうえで、各製品の特徴と強みを解説します」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「35年以上の歴史と国内12,000ライセンス超の導入実績を持つ、日本型保全システムを代表する製品です」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「日本の製造業特有の細かな管理要件（予備品管理、予算管理、工事管理、図面管理など）に幅広く対応しています」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「本章では、日本企業が設備保全DXを成功させるために押さえるべき本質的な選定基準を、実務視点から整理します」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「導入形態の柔軟性 ― 日本企業特有の要件への適合」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「日本企業では、工場閉域ネットワークや厳格なセキュリティ要件により、クラウドのみでは対応できないケースも少なくありません」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「日本の製造業・インフラ業界において、設備管理は安全・品質・安定稼働を支える中核業務です」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「段階的な導入によるリスク抑制、小規模運用から全社基盤への拡張、そして設備データを経営資源へ転換する仕組みは、日本企業が求める現実的かつ長期安定運用可能な設備管理の方向性といえます」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「日本に限らず、韓国やアメリカ・中国などの海外でも販売実績を誇るシステムで、設備保全の業務を網羅しています」（https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/）
+  - 「日本国内に加えて、アジア・中東・欧米のプラントにも導入実績があり、海外拠点の設備管理を統合する場合にも対応できます」（https://www.ripla.co.jp/blog/system/cmms-system-companies/）
+- 使いやすさ：
+  - 「Training & Onboarding」（https://www.maintainnow.app/pricing）
+  - 「Do you offer training and onboarding?」（https://www.maintainnow.app/pricing）
+  - 「Most teams are live within minutes, not the days or weeks a traditional CMMS rollout takes. Only about 2% of Maintainly customers ever need formal training. Most people start logging work orders the same day they sign up. This is an area that really sets Maintainly apart from older, legacy CMMS.」（https://maintainly.com/pricing）
+  - 「Highest G2/Capterra satisfaction scores in the category. Polished onboarding and dashboards. No permanent free tier — 14-day trial only. After trial, plans start at $28/user. Strong choice for teams ready to pay but not a long-term free option. Best for: evaluation purposes, then budget commitment.」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「— no signup friction, live in 30 minutes.」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「スマートフォン対応で現場入力が簡単です」（https://yachiyo-sol.com/library/cmms-erabi-kata-hikaku/）
+  - 「過去に発生した故障やトラブルの事例や対処方法を簡単に参照できるようになり、経験の浅い保全員でも迅速に正確に復旧できるようになります」（https://www.yokogawa.co.jp/solutions/solutions/information-solutions/cmms-solution/）
+  - 「Web上で点検項目を簡単に設定でき、スマホアプリでの点検入力から承認フローまで一貫して管理できます」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「低コストで導入でき、スマートフォンをかざすだけで「いつ・誰が・何をしたか」を簡単に記録できます」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「本記事を読むことで、設備保全の効率化を図るための自社に合ったシステムを簡単に見つけられるでしょう」（https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/）
+  - 「例えば、ITに馴染みのない点検作業員でもタブレットを使って簡単に点検結果などを入力できるかが重要です」（https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/）
+  - 「スマホで簡単に報告書作成ができる」（https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/）
+  - 「わかりやすい画面設計で、IT関連に苦手意識を持つ方でも簡単に操作ができます」（https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/）
+  - 「製造業や教育・発電所など幅広い現場で活躍しており、作業指示やスケジュールが簡単に管理でき、複数サイトや言語に対応しています」（https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/）
+  - 「スマホやタブレットを使って簡単に点検できるほか、在庫管理やドキュメント閲覧・過去の点検履歴の確認もできます」（https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/）
+- 検索結果の抜粋：
+  - 「Free CMMS vs Paid — When $0 Beats Per-User - FreeMaint — Free CMMS vs Paid — When $0 Beats Per-User - FreeMaint FreeMaint https://freemaint.com > free-cmms-vs-paid-comparison」（https://freemaint.com/blog/free-cmms-vs-paid-comparison）
+  - 「Best Free CMMS Software with No Time Limit 2026 - Oxmaint — Best Free CMMS Software with No Time Limit 2026 - Oxmaint Oxmaint https://oxmaint.com > article > best-fr...」（https://oxmaint.com/article/best-free-cmms-software-no-time-limit）
+  - 「CMMS Software Free Trial - Test Maintastic CMMS for 14 Days — CMMS Software Free Trial - Test Maintastic CMMS for 14 Days Maintastic https://maintastic.com > maintastic-cm...」（https://maintastic.com/en/maintastic-cmms-free-trial/）
+  - 「【2026年保存版】 設備保全 管理システム( CMMS /EAM) 18製品 ... — 【2026年保存版】 設備保全 管理システム( CMMS /EAM) 18製品 ... eamic-ibsolutions.jp https://eamic-ibsolutions.jp > 設備管理システム」（https://eamic-ibsolutions.jp/%E3%80%902026%E5%B9%B4%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cmms-eam-18%E8%A3%BD%E5%93%81%E5%BE%B9%E5%BA%95/）
+  - 「設備保全 管理システムおすすめ【17選】機能・料金面で徹底 ... — 設備保全 管理システムおすすめ【17選】機能・料金面で徹底 ... 現場TECH https://kensetsu.gemba-tech.jp > list > equipment-mainten...」（https://kensetsu.gemba-tech.jp/list/equipment-maintenance-management-systems/）
+  - 「5 Key CMMS Selection Criteria - Accruent — 5 Key CMMS Selection Criteria - Accruent Accruent https://www.accruent.com > blog-posts」（https://www.accruent.com/resources/blog-posts/5-key-cmms-selection-criteria）
+
+## ホワイトラベル予知保全・工場IoT（white label industrial IoT platform）
+- 文脈：製造業・IoT
+- 提供企業：
+  - 「Litmus Edge is a vendor-neutral edge platform with an impressive library of over 250 industrial protocol drivers. It excels at connecting legacy equipment and streaming data to cloud platforms like AWS, Azure, or Snowflake.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「Best IoT Platforms 2026: Top 8 Ranked & Scored (Honest Review)」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Public pricing page with clear tier breakdown vs. opaque enterprise quotes that lock SMBs out.」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Side-by-side comparison of the 8 platforms we evaluated. Click a platform name to jump to its detailed review below.」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Detailed reviews — top 8 IoT platforms in 2026」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Each platform reviewed below was tested against real deployment scenarios. Pros and cons are based on documented behavior, not marketing copy. Pricing reflects publicly available 2026 information.」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Smaller community vs. ThingsBoard」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Is ThingsBoard really better than commercial alternatives?」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「ThingsBoard Alternatives」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「White Label vs. Custom IoT: Choosing the Right Approach」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+  - 「The decision between white label vs. custom IoT development comes down to your business goals:」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+  - 「PCAN-Explorer 7 vs. Vector CANalyzer: which CAN bus tool fits your bench?」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+  - 「Compare alternatives」（https://datacake.co/platform/white-label）
+  - 「When an alert or prediction triggers, the IIoT platform creates or updates a work order in the CMMS with the equipment ID, diagnosis, recommended action, and supporting data. The maintenance planner reviews and schedules the work.」（https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026）
+  - 「This guide is updated quarterly. Last review: October 2026.」（https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026）
+- 自社名で出せる条件：
+  - 「Ubidots is a well-established IoT platform popular with system integrators and SMEs. It offers a clean dashboard builder with 20 or more widget types, supports MQTT and HTTP for device connectivity, and provides white-label options for OEMs. However, native support for heavy industrial protocols like OPC-UA and Modbus is limited.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「mature platform, strong community, good documentation, white-label support, freemium pricing.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「Multi-tenant & white-label」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「From €100/mo (up to 50 devices) / White-label from €550/mo」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Multi-tenant, white-label IoT platform for integrators, strong on LoRaWAN fleets and industrial SCADA integration, with predictable EUR pricing.」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Multi-tenant + white-label out of the box」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「See Cloud Studio in action — multi-tenant white-label IoT platform」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「White Label IoT: Launch Smart Products Fast | Grid Connect」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+  - 「Custom/OEM Product Engineering」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+  - 「White Label IoT: How to Launch IoT Products Without Starting from Scratch」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+  - 「The pressure to move fast in the IoT space is real. Development cycles can drag, budgets can balloon, and competitors aren't slowing down. For teams that need to bring connected products to market without sinking years into hardware and software engineering, white label IoT offers a clear path forward.」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+  - 「By customizing and rebranding pre-built IoT devices, companies can launch faster, avoid the costs of ground-up development, and still deliver a product that feels tailored to their audience.」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+  - 「What Is White Label IoT?」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+  - 「White label IoT refers to pre-built connected devices or platforms developed by one company and rebranded by another. These solutions come ready for market, allowing companies to deploy IoT capabilities without having to design and manufacture the hardware or software from the ground up.」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+  - 「Whether you're entering smart home tech, industrial automation, or asset tracking, a white label IoT platform provides a foundation that balances speed, quality, and scalability.」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vIwSmumQLHu9EdVZ9ei_iSprsOu_Vu_oSoSWJT4or7rT-BCVORQ）
+- 再販制度：
+  - 「Built for OEMs, resellers and integrators」（https://datacake.co/platform/white-label）
+  - 「ThingWorx Flow connects to SAP, Salesforce, and other enterprise systems; REST API for CMMS platforms. Rockwell Automation resells it as FactoryTalk InnovationSuite.」（https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026）
+  - 「Reseller Program for Industrial IoT Software | SensFlo」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Partner Programs」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Reseller」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Resale margin」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Reseller program for industrial IoT solution providers」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「The SensFlo Reseller program lets certified partners sell and deploy SensFlo inside their own client solutions. You earn a margin on every sale and can co-brand or white-label the platform.」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Reseller partner program?」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「The SensFlo Reseller program is a resale arrangement for systems integrators, automation companies and solution providers that want SensFlo inside their own client offering. Resellers sell SensFlo solutions from」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「, and keep a margin on each sale.」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Because resellers deploy SensFlo for their clients, their architects and engineers complete SensFlo certification before the first engagement. Tier 1 client support is optional, and resellers who take it on certify their engineers to handle first-line questions. Companies that want to build SensFlo into their own hardware should look at the」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Reseller partners earn?」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Resellers earn a margin on every SensFlo solution they sell, and deal registration protects the opportunities you bring in.」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「Margin on every sale」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+- 無料体験・貸出：
+  - 「Ubidots is a well-established IoT platform popular with system integrators and SMEs. It offers a clean dashboard builder with 20 or more widget types, supports MQTT and HTTP for device connectivity, and provides white-label options for OEMs. However, native support for heavy industrial protocols like OPC-UA and Modbus is limited.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「mature platform, strong community, good documentation, white-label support, freemium pricing.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「weaker on native industrial protocol support, limited AI capabilities.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「Litmus Edge is a vendor-neutral edge platform with an impressive library of over 250 industrial protocol drivers. It excels at connecting legacy equipment and streaming data to cloud platforms like AWS, Azure, or Snowflake.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「For most SMEs, we recommend starting with a free tier or trial of two or three platforms, running a pilot on your five most critical machines, and making your decision based on real-world experience rather than feature checklists.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「Industrial connectors: OPC-UA, S7, Modbus, MQTT」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「What Is an Industrial IoT Platform? The Complete Guide for Manufacturers」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「Industrial IoT for Small Manufacturers: Start Smart, Scale Fast」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「The industrial monitoring software that connects machines and systems. Talk to your plants.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「Integrators running LoRaWAN and industrial fleets for several customers (EU + LATAM)」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Multi-tenant, white-label IoT platform for integrators, strong on LoRaWAN fleets and industrial SCADA integration, with predictable EUR pricing.」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「EU low-code IoT platform with the cleanest UX in the SMB tier — strong LoRaWAN integration, weak on industrial protocols.」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Industrial protocol coverage thinner」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「See Industrial IoT overview」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Magic Quadrant for Industrial IoT Platforms」（https://cloudstudioiot.com/best-iot-platforms-2026）
+- 価格：
+  - 「SMEs need platforms that are affordable from day one, fast to deploy without specialized consultants, intuitive enough for operations teams with no coding background, capable of growing from a 5-machine pilot to a full-factory rollout, and transparent in pricing without hidden enterprise fees.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「Free up to 100 devices on one server (commercial use) / Cloud from $10/mo / Commercial license」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「From €100/mo (up to 50 devices) / White-label from €550/mo」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Free up to 5 devices / From €49/mo」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Elemental $0 / Advanced $199/mo / Expert $599/mo — all + $1.50 per device」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「STEM free tier / From $19/mo」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Free tier / From $99/mo / Per-device fees」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「OSS free / Cloud from €15/mo」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Each platform reviewed below was tested against real deployment scenarios. Pros and cons are based on documented behavior, not marketing copy. Pricing reflects publicly available 2026 information.」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Affordable starter tier under €50/mo」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「From €300 per month plus a one-time setup fee of €2,000, including every update we ship. Extended tiers add custom widgets and tailored views.」（https://datacake.co/platform/white-label）
+  - 「Updated October 2026: ThingWorx, Kepware, and Proficy moved to Velotic; AWS SiteWise repriced; Litmus moved to site-based pricing; Gartner renamed its Magic Quadrant.」（https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026）
+  - 「Custom, based on capability package (Basic/Standard/Premium), asset attribute size, and cloud resources. Free "Start for Free" tier available for evaluation. Enterprise deployments typically start at $50,000+/year.」（https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026）
+  - 「Pay-as-you-go. Data ingestion: $1.00 per million messages. Computations: $0.50 per million. Hot-tier storage: $0.30 per GB-month; warm tier $0.03 per GB-month. Edge data collection pack: free; edge data processing pack: $200 per active gateway per month. Typical small-to-mid plant deployment: $500-$5,000/month depending on asset count and data frequency.」（https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026）
+  - 「Pay-as-you-go. IoT Hub: free tier available (8,000 messages/day), Standard tier starts at $25/month per unit (400,000 messages/day). Azure Digital Twins, Stream Analytics, and storage billed separately. Enterprise deployments scale from $1,000-$20,000+/month depending on message volume and services used.」（https://reliamag.com/topics/guides/best-industrial-iot-platforms-2026）
+- 日本対応：
+  - 「Can you work with clients in the US, Europe and Japan?」（https://www.rapidcircuitry.com/solutions/white-label）
+- 使いやすさ：
+  - 「Book 20 minutes」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「Meddle writes to your machines: book 20 minutes and we’ll show you.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「fastest time to value, AI-powered analytics included, no hardware required, intuitive drag-and-drop interface, cloud and on-premise options.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「Rayven is an Australian platform that combines IoT connectivity, AI analytics, workflow automation, and a drag-and-drop UI builder in a single product. It supports MQTT, OPC-UA, Modbus, LoRaWAN, and API integrations.」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「No-code setup」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「How fast can a non-developer go from device to dashboard? UI workflows, drag-and-drop builders, template marketplace.」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Fast onboarding — minutes from API key to chart」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Heavy onboarding investment required」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Create your free account and start monitoring temperature, humidity and air quality in minutes, or book a demo to see how Datacake fits your use case.」（https://datacake.co/platform/white-label）
+  - 「Tell us about the equipment you build and where it is sold. The application call can take less than 15 minutes, and the partner team will follow up with an answer.」（https://www.sensflo.ai/partnerships/partner-programs/reseller）
+  - 「What onboarding actually looks like」（https://www.netneural.ai/resources/white-label-iot-monitoring/）
+  - 「From zero to IoT in minutes, not months.」（https://cloudstudioiot.com/iot-platform）
+  - 「No-code rules plus a JavaScript scripting engine」（https://cloudstudioiot.com/iot-platform）
+  - 「5–30 MINUTES」（https://www.iox-connect.com/iot-platform/white-label）
+  - 「Branding is minutes. The domain is about half an hour, most of it waiting for a certificate to issue. There is no professional services engagement in either.」（https://www.iox-connect.com/iot-platform/white-label）
+- 検索結果の抜粋：
+  - 「Best IIoT Platforms for SMEs in 2026 : Honest Comparison — Best IIoT Platforms for SMEs in 2026 : Honest Comparison meddleconnect.com https://www.meddleconnect.com > blog」（https://www.meddleconnect.com/en/blog/best-iiot-platforms-sme-2026）
+  - 「Best IoT Platforms 2026 : Top 8 Ranked & Scored (Honest ... — Best IoT Platforms 2026 : Top 8 Ranked & Scored (Honest ... Cloud Studio IoT https://cloudstudioiot.com > best-iot-p...」（https://cloudstudioiot.com/best-iot-platforms-2026）
+  - 「Best Industrial IoT Platforms for Manufacturing in 2026 - Reliable — Best Industrial IoT Platforms for Manufacturing in 2026 - Reliable reliamag.com https://reliamag.com > guides > best-i...」（https://reliamag.com/guides/best-industrial-iot-platforms-2026/）
+  - 「9 Best Open-Source IoT Platforms Compared in 2026 — 9 Best Open-Source IoT Platforms Compared in 2026 Promeraki https://promeraki.com > blog > open-...」（https://promeraki.com/blog/open-source-iot-platforms）
+  - 「White Label IoT Platform - workM8 — White Label IoT Platform - workM8 workM8 https://workm8.io > Partners」（https://workm8.io/partners/white-label-iot-solution/）
+  - 「White - Label IIoT Platforms for OEMs - ei3 — White - Label IIoT Platforms for OEMs - ei3 ei3 https://ei3.com > Iiot Insights」（https://ei3.com/iiot-insights/white-label-iiot-platforms-for-oems）
+  - 「White - Label IoT Platform | Custom Domain Deployment — White - Label IoT Platform | Custom Domain Deployment Telemetry2U https://telemetry2u.com > pricing > pl...」（https://telemetry2u.com/pricing/platform-white-label）
+
+## ホワイトラベル品質管理（QMS）（white label quality management software）
+- 文脈：製造業・品質
+- 提供企業：
+  - 「Connections between modules are not smooth, reviewers frequently mention poor customer service and delays with issue resolutions」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「From G2 reviews:」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Reviewers describe the change control process as complicated to manage.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Getting started takes real effort. Reviewers consistently mention the time needed to learn the full module set, and some found self-directed work in the sandbox more useful than the vendor's training sessions.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Greenlight Guru is built to help you stay compliant and maintain closed-loop traceability between design controls, risk management, design reviews, and」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「QMSR vs. QSR: what FDA's ISO 13485 harmonization changed for medical device companies」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Greenlight Guru vs. Arena Solutions」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Greenlight Guru vs. Ketryx」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Participate in development reviews.」（https://brs-p.jp/jobs/?specialization=12&functions=25）
+  - 「Review Verification & Validation activities.」（https://brs-p.jp/jobs/?specialization=12&functions=25）
+  - 「・Review Global Quality Management System (QMS) procedures and assess their impact on local Japanese regulatory requirements.」（https://yakuji-navi.com/recruit/51240）
+  - 「・Review quality documentation related to product recalls, Field Corrective Actions (FCA), and Field Safety Notices (FSN).」（https://yakuji-navi.com/recruit/51240）
+  - 「・Support quality management activities related to local third-party logistics providers (3PLs).」（https://yakuji-navi.com/recruit/51240）
+  - 「・Participate in qualification, monitoring, performance evaluation, and continuous improvement activities related to logistics service providers and other external service partners.」（https://yakuji-navi.com/recruit/51240）
+  - 「・Perform quality management activities related to suppliers, contractors, and service providers.」（https://yakuji-navi.com/recruit/51240）
+- 自社名で出せる条件：
+  - 「White-Label Program | Momentum Systems」（https://www.momentumsystems.com.au/partner-program/）
+  - 「HOW MOMENTUM IS DIFFERENT TO TRADITIONAL WHITE-LABEL SOLUTIONS」（https://www.momentumsystems.com.au/partner-program/）
+  - 「Let’s Build Your Own Branded eQMS」（https://www.momentumsystems.com.au/partner-program/）
+  - 「Ready to offer your own branded QMS?」（https://www.momentumsystems.com.au/partner-program/）
+  - 「医療機器のOEM・ODMについて」（https://connect.nissha.com/medical/column/qms/）
+  - 「医療機器製造受託（OEM）の」（https://connect.nissha.com/medical/column/qms/）
+  - 「ホワイトラベルとは？ OEM・ODMとの違いやメリットを解説：お役立ち情報：知恵袋｜化粧品OEM/ODMメーカー 山田製薬株式会社」（https://www.yamada-seiyaku.com/blog/030）
+  - 「化粧品OEM/ODMのご案内」（https://www.yamada-seiyaku.com/blog/030）
+  - 「ホワイトラベルとは？ OEM・ODMとの違いやメリットを解説」（https://www.yamada-seiyaku.com/blog/030）
+  - 「ホワイトラベルとOEM・ODMの違いがわかる」（https://www.yamada-seiyaku.com/blog/030）
+  - 「自社ブランドを低コスト・短期間で立ち上げる方法」（https://www.yamada-seiyaku.com/blog/030）
+  - 「ホワイトラベルとは、既製品を自社ブランドとして展開できる手法であり、スピーディーかつ低コストでの市場参入が可能です」（https://www.yamada-seiyaku.com/blog/030）
+  - 「この記事ではホワイトラベルの定義からOEM・ODMとの違い、導入時の注意点までを整理し、ブランド展開のヒントをお届けします」（https://www.yamada-seiyaku.com/blog/030）
+  - 「ホワイトラベルの概要」（https://www.yamada-seiyaku.com/blog/030）
+  - 「ホワイトラベルとは何か？基本的な定義」（https://www.yamada-seiyaku.com/blog/030）
+- 再販制度：
+  - 「Partner Program」（https://www.momentumsystems.com.au/partner-program/）
+  - 「PARTNER PROGRAM」（https://www.momentumsystems.com.au/partner-program/）
+  - 「例えば、「使えるファイル箱」のOEM（販売代理店）化をお申込みいただきますと、約1ヵ月から1ヵ月半くらいで御社にお引渡しが可能です」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「販売代理店パートナーもエンドユーザもはじめてでも安心」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「クラウドサービスを自社開発するには高コストで利益が見込めなかった場合などのリスクが高いですし、取次代理店だと手数料率が高く利益が少なくなる可能性もあります」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「それに対して、OEM販売代理店は、開発コストは不要ですし、自由な価格設定で利益を出しやすいのです」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「クラウドサービスの販売代理店パートナー募集中！」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「販売代理店パートナー」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「代理店営業・パートナーセールス」（https://jp.lhh.com/job/PO_JobListP?occupation=%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%E7%B3%BB-%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86%E3%83%BB%E5%93%81%E8%B3%AA%E4%BF%9D%E8%A8%BC%28GQP%E3%83%BBQMS%29）
+  - 「・サプライヤー、販売代理店、倉庫、およびサードパーティ物流プロバイダーの支援経験があることが望ましい」（https://yakuji-navi.com/recruit/51240）
+  - 「Advantage in margin: Take control of your margins with connected, intelligent workflows.」（https://www.tradebeyond.com/industry-hub/quality-management-software）
+  - 「© 2026 Octave Intelligence plc and/or its subsidiaries and affiliates. All rights reserved.」（https://www.octave.com/products/asset-performance-management/reliance）
+- 無料体験・貸出：
+  - 「Sandbox environment, document control and training at the entry tier」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Getting started takes real effort. Reviewers consistently mention the time needed to learn the full module set, and some found self-directed work in the sandbox more useful than the vendor's training sessions.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Separate production and sandbox environments let teams test process changes before they go live.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「"Having two different working environments, for example, a production environment and a sandbox for trial and learning, is really helpful."」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Clinical Trials」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「There isn’t one. We want you to do a fair and honest, no pressure evaluation of our software. There is no credit card required to sign up. Sales people will not call you. You can even use a fake name if you want (although we can’t recommend this long term for record integrity).」（https://www.freeqms.com/pricing）
+  - 「Is this a Demo or Trial?」（https://www.freeqms.com/pricing）
+  - 「Lots of systems include “free” trials or demos. Our system works on a freemium model - half of the modules are completely free, and half are a low monthly subscription. The full deal. We did this for two reasons:」（https://www.freeqms.com/pricing）
+  - 「People don’t really evaluate Free Trials. The pressure of the trial period ending, and the risk of losing work and time invested, deters users from freely using the system.」（https://www.freeqms.com/pricing）
+  - 「Request Trial」（https://www.momentumsystems.com.au/partner-program/）
+  - 「We’ll send your trial info here!」（https://www.momentumsystems.com.au/partner-program/）
+  - 「JIS（Japanese Industrial Standards：日本産業規格）を制定している日本産業標準調査会（JISC）では、QMSを以下のように定義しています」（https://kaminashi.jp/media/quality-management-system）
+  - 「無料トライアル」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「Shopifyの無料体験を今すぐ始めましょう」（https://www.shopify.com/jp/blog/white-label）
+  - 「Industrial / plant security」（https://www.octave.com/products/asset-performance-management/reliance）
+- 価格：
+  - 「Audits Module is $10/user/month.」（https://www.freeqms.com/pricing）
+  - 「CAPA Module is $10/user/month.」（https://www.freeqms.com/pricing）
+  - 「Complaints Module is $10/user/month.」（https://www.freeqms.com/pricing）
+  - 「$10? Per user? Per month for one paid Module?」（https://www.freeqms.com/pricing）
+  - 「We encourage users to evaluate pricing of similar QMS products. We believe you will find you could use our system for 20 years and not approach even the upfront licensing costs of other systems.」（https://www.freeqms.com/pricing）
+  - 「国際基準の品質管理システムを日本のビジネス環境に合わせた形で導入できるため、国内企業でも円滑にISO9001と同等の水準の規格の取得・運用を目指せる点がメリットです」（https://kaminashi.jp/media/quality-management-system）
+  - 「月額固定金額のS3互換ストレージ」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「国内クラウド市場は2028年に16兆円超への成長が予測され、ビジネスチャンスは拡大中」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「IDC Japanが2024年6月に発表した報告によると、2023年の国内クラウド市場は売上額ベースで前年比29.6％増の7兆8,250億円でした」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「また、2023～2028年のCAGR（年間平均成長率）は16.3％で推移し、2028年の市場規模は2023年の約2.1倍の16兆6,285億円になると予測しています」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「例えば、ホワイトラベルの代表例である「セブンプレミアム」でいえば、その商品数はすでに多岐にわたり（2024年2月末時点で約3,400アイテム、累計売上は15兆円超）、ユーザの生活の隅々に浸透しています」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「2018年に発表した「DXレポート」では、「2025年の崖」という言葉を使い、このまま課題が解決されなければ2025年以降、毎年最大12兆円の経済損失が生じる可能性があると指摘しました」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「まずは無料でお試しいただき、その後も3か月間、月額150円でご利用いただけます」（https://www.shopify.com/jp/blog/white-label）
+  - 「470万円～530万円」（https://jp.lhh.com/job/PO_JobListP?occupation=%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%E7%B3%BB-%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86%E3%83%BB%E5%93%81%E8%B3%AA%E4%BF%9D%E8%A8%BC%28GQP%E3%83%BBQMS%29）
+  - 「589万円～1214万円」（https://jp.lhh.com/job/PO_JobListP?occupation=%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%E7%B3%BB-%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86%E3%83%BB%E5%93%81%E8%B3%AA%E4%BF%9D%E8%A8%BC%28GQP%E3%83%BBQMS%29）
+- 日本対応：
+  - 「つまり、ISO13485は国際的な基準であるのに対し、QMS省令は日本国内での基準となります」（https://connect.nissha.com/medical/column/qms/）
+  - 「一般財団法人 日本品質保証機構（JQA）「ISO 13485（医療機器・体外診断用医薬品）」」（https://connect.nissha.com/medical/column/qms/）
+  - 「一般社団法人 日本能率協会審査登録センター（JMAQA）「ISO13485（医療機器－品質マネジメントシステム：MD-QMS）とは？取得のメリットも紹介」」（https://connect.nissha.com/medical/column/qms/）
+  - 「これにより、製品の日本国内での販売・流通が可能となります」（https://connect.nissha.com/medical/column/qms/）
+  - 「MEDTEC Japan 2024 に」（https://connect.nissha.com/medical/column/qms/）
+  - 「MEDTEC Japan 2024、」（https://connect.nissha.com/medical/column/qms/）
+  - 「Medtec Japan 2025 に出展します」（https://connect.nissha.com/medical/column/qms/）
+  - 「Medtec Japan 2025に」（https://connect.nissha.com/medical/column/qms/）
+  - 「Medtec Japan 2026 に出展します」（https://connect.nissha.com/medical/column/qms/）
+  - 「Medtec Japan 2026」（https://connect.nissha.com/medical/column/qms/）
+  - 「JIS（Japanese Industrial Standards：日本産業規格）を制定している日本産業標準調査会（JISC）では、QMSを以下のように定義しています」（https://kaminashi.jp/media/quality-management-system）
+  - 「品質マネジメントシステム（QMS）丨日本産業標準調査会」（https://kaminashi.jp/media/quality-management-system）
+  - 「ISO9001を参考に日本国内の企業向けに作られたQMSに関する規格」（https://kaminashi.jp/media/quality-management-system）
+  - 「英文で策定されたISO9001を日本産業標準調査会（JIS）が翻訳し、日本国内の企業向けに作成し直したQMSに関する規格」（https://kaminashi.jp/media/quality-management-system）
+  - 「日本の法令や規制に関連する内容が含まれている場合があります」（https://kaminashi.jp/media/quality-management-system）
+- 使いやすさ：
+  - 「AI aimed at the work that creates audit risk rather than at demos. Trace links surface as your team works on the design board. A verifiability check reads design inputs as they are written and flags the ones nobody will be able to test later. Change order summaries that took 20 minutes get drafted in seconds. Every output is a suggestion your team accepts, edits, or throws out.」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「The system is intuitive and easy to use, which has helped improve training efficiency and overall employee engagement."」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「"The main drawbacks are a steep learning curve, a less polished interface, and complex template editing. New users require proper onboarding, customizing reports often requires technical knowledge, test execution can feel dated and involve too many steps, and large projects may experience slower traceability views and document generation."」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「"The range of modules available is extensive. The existing modules and out-of-the-box functionality are easy to use and well designed. New modules can be created where required and existing modules adapted and customised to user needs."」（https://www.momentumsystems.com.au/partner-program/）
+  - 「以下の簡単なフォームにご記入ください」（https://sgsystemsglobal.com/ja/glossary/quality-management-system-qms/）
+  - 「Tailor workflows, forms and rules without coding, so teams can adapt processes quickly.」（https://www.octave.com/products/asset-performance-management/reliance）
+  - 「Very easy. Drag-and-drop workflow design and point-and-click form builders let quality teams adjust processes on their own. Dashboards and analytics update automatically, so users see the impact of changes in real time.」（https://www.octave.com/products/asset-performance-management/reliance）
+  - 「Implementations typically range from a few weeks for a basic system to a few months for multi-site rollouts. Pricing is subscription-based (by users, modules or sites) with transparent annual fees. Dedicated onboarding, training and 24/7 support, plus optional managed services ensure a smooth go live.」（https://www.octave.com/products/asset-performance-management/reliance）
+- 検索結果の抜粋：
+  - 「10 best QMS software solutions for 2026 - Greenlight Guru — 10 best QMS software solutions for 2026 - Greenlight Guru Greenlight Guru https://www.greenlight.guru > blog」（https://www.greenlight.guru/blog/best-qms-software-solutions）
+  - 「Best Customizable QMS Software in 2026 — Best Customizable QMS Software in 2026 Propel Software https://converged.propelsoftware.com > ...」（https://converged.propelsoftware.com/blogs/best-customizable-qms-software-in-2026-how-propel-earned-the-top-spot）
+  - 「QMS ( 品質 マネジメントシステム)とは？ISO9001との違いや ... — QMS ( 品質 マネジメントシステム)とは？ISO9001との違いや ... カミナシ https://kaminashi.jp > media > quality-management-system」（https://kaminashi.jp/media/quality-management-system）
+  - 「医療機器 品質管理 ・品質保証（GQP・ QMS ） - doda — 医療機器 品質管理 ・品質保証（GQP・ QMS ） - doda doda https://doda.jp > View > JobSearchList > -preBtn__3」（https://doda.jp/DodaFront/View/JobSearchList/j_oc__120706S/-op__47/-preBtn__3/）
+  - 「Quality Management Software : 10 QMS Platforms to Know — Quality Management Software : 10 QMS Platforms to Know TradeBeyond https://www.tradebeyond.com > quali...」（https://www.tradebeyond.com/industry-hub/quality-management-software）
+
+## ホワイトラベル在庫・部品管理（white label inventory management software）
+- 文脈：製造業・在庫
+- 提供企業：
+  - 「Knack vs Airtable vs Zoho Creator: Comparing No-Code Database Builders [2026]」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Use Knack’s Patient Portal Template to give patients, providers, and…」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Knack’s Telemedicine App Template gives healthcare providers, clinics, and independent…」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Knack vs VertiComply: Which AI Healthcare App Builder Fits?」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「: White-label inventory systems provide significant cost savings compared to developing a custom solution from scratch. Businesses don’t have to invest in expensive development, testing, and maintenance phases, making it an affordable option for companies of all sizes.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「: With multiple agencies potentially using the same white-label platform, there’s a risk that products and services may look similar to competitors.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「This is particularly attractive for IT consultants, supply chain management firms, or industry-specific software providers who want to provide comprehensive solutions to their clients. White-label software allows them to brand the system as their own, offering a seamless experience that enhances their portfolio and increases customer loyalty.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「This strategy helps agencies position themselves as full-service providers, strengthening client relationships and differentiating themselves from competitors who might not offer this advanced, customizable technology.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Why Softr vs other software」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「Yes. You can manage multiple vendors, diverse warehouse teams, or even different client accounts within a single white label portal. Each user only accesses the specific SKU data, purchase orders, or shipment tracking assigned to them based on their unique login and role. This is perfect for 3PL providers or wholesalers who need to provide distinct views for different stakeholders.」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「billing software for service providers」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「vs. Glide」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「vs. Airtable Interfaces」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「vs. Stacker」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「vs. Retool」（https://www.softr.io/create/white-label-inventory-management-software）
+- 自社名で出せる条件：
+  - 「White Label Inventory Software: Complete Guide - Knack」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「White-Label Inventory Software: Complete Guide」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「White-label inventory software is a customizable inventory management solution licensed by agencies that businesses can purchase, rebrand, and use as their own without in-house development.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「White-label inventory software can be resold by agencies that rebrand the solution and offer it to their clients as part of their own service offerings.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「White-label inventory software provides quick implementation, cost savings, and customization options, allowing agencies to rebrand and tailor the solution to their clients’ needs. It’s scalable as operations grow and includes advanced features like real-time tracking and supply chain integration.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Watch white-label inventory management in Knack」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「What is White-Label Inventory Software?」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「White-label inventory software is a customizable solution that allows agencies and businesses to rebrand and use」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Companies using white-label solutions can maintain their branding and identity while leveraging the advanced functionality of a third-party provider’s software. The versatility of white-label solutions makes them valuable across numerous sectors where efficient inventory management is key to success.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「If you’re an agency or business looking to sell white-label inventory software, it’s important to know what industries you can target. Below, we’ve outlined some common industries that use this software and how they use them.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「How Does White-Label Inventory Software Work?」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「White-label inventory software allows agencies and businesses to license a fully developed」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Core Features of White-Label Inventory Software」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「White-label inventory management systems come equipped with a range of powerful features designed to streamline your client’s business operations and improve efficiency, including:」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Benefits of Using a White-Label Solution for Inventory Management」（https://www.knack.com/blog/white-label-inventory-software/）
+- 再販制度：
+  - 「Affiliates」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Partner Programs」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Become An Affiliate」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Resell Knack to your clients」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Reselling White-Label Inventory Management Software」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Agencies and businesses might choose to resell white-label inventory management systems to expand their service offerings and create new revenue streams. By licensing an established software platform, resellers can offer a high-quality, customizable product without investing in costly software development themselves.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Yes. You can manage multiple vendors, diverse warehouse teams, or even different client accounts within a single white label portal. Each user only accesses the specific SKU data, purchase orders, or shipment tracking assigned to them based on their unique login and role. This is perfect for 3PL providers or wholesalers who need to provide distinct views for different stakeholders.」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「Become an Affiliate」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「Reseller POS」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Referral」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「The National Federation of Independent Business noted in June 2025 that the share of small firms worried about excess stock nearly doubled versus the previous month, reflecting how inventory missteps quickly erode margins.」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「What are The 5 Best White Label Software to Resell?」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「SaaS providers, eCommerce businesses, IT consultants, agencies, wholesalers, and supply chain firms often adopt white label inventory systems to expand their services without building from scratch. And even retailers looking for a customizable inventory platform without developing one themselves.」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「From startups, wholesalers, accounting-led workflows can be streamlined with this inventory management software in 2026.」（https://erpsoftwareblog.com/2025/12/top-inventory-management-software/）
+  - 「Fast-scaling retail, wholesale, and warehouse-driven enterprises」（https://erpsoftwareblog.com/2025/12/top-inventory-management-software/）
+- 無料体験・貸出：
+  - 「Free Trial」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Free 14-Day Trial. No Credit Card Required」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Get Started in 30 seconds. No credit card required.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Start Free Trial」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Start for free」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「Free Trial」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Free Trial」（https://www.getply.com/blog/free-inventory-management-small-business/）
+  - 「Free inventory management software can be a useful starting point for small businesses that need a better way to track stock, reduce manual errors, and move beyond spreadsheets. The right tool depends on what you sell, where inventory is stored, how many people need access, and when your business may outgrow a free plan.」（https://www.getply.com/blog/free-inventory-management-small-business/）
+  - 「Most free plans come with limits on users, orders, locations, SKUs, integrations, automation, or support.」（https://www.getply.com/blog/free-inventory-management-small-business/）
+  - 「However, it’s important to know that “free” usually comes with a few strings attached. Most free plans have caps on how many items you can track, how many users can access the system, or which other tools they can connect with. More advanced」（https://www.getply.com/blog/free-inventory-management-small-business/）
+  - 「Designed specifically for the trades, Ply understands that your inventory isn’t just sitting on a shelf—it’s constantly moving between warehouses, trucks, and job sites. Its free plan is ideal for small HVAC, plumbing, and electrical contractors who need to manage truck stock without creating extra admin work for technicians or the office.」（https://www.getply.com/blog/free-inventory-management-small-business/）
+  - 「Zoho Inventory offers one of the most feature-rich free plans on the market, especially for product-based businesses. It supports purchase orders, sales orders, and even multiple warehouses, which makes it appealing for ecommerce and light wholesale operations.」（https://www.getply.com/blog/free-inventory-management-small-business/）
+  - 「inFlow’s free plan offers a good starting point for growing businesses that want basic inventory and purchasing features in one place. It’s often used as a bridge between spreadsheets and more advanced systems.」（https://www.getply.com/blog/free-inventory-management-small-business/）
+  - 「As much as we all love a good deal, “free” software often comes with a catch. While these tools can be a great starting point, they’re usually designed to get you in the door with the hope that you’ll quickly outgrow the basic plan and upgrade. It’s a classic freemium model. This isn’t necessarily a bad thing, but it’s crucial to go in with your eyes open.」（https://www.getply.com/blog/free-inventory-management-small-business/）
+  - 「How the top free plans stack up」（https://www.getply.com/blog/free-inventory-management-small-business/）
+- 価格：
+  - 「$740 billion」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「$275.8 billion」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「$30 billion by 2026」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Lightspeed POS Pricing 2026: Features, Pros & Cons」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「Lightspeed POS pricing in 2026 varies by plan,...」（https://www.connectpos.com/white-label-inventory-management-software/）
+  - 「$1.8 trillion in global losses」（https://erpsoftwareblog.com/2025/12/top-inventory-management-software/）
+  - 「As we move into 2026, the future of inventory management is automation-first and accessing AI-powered workflow capabilities. The right choice of solution can help you shrink the operation price, prevent inaccuracies, and improve order fulfillment. In fact, it enables you to scale confidently without any friction.」（https://erpsoftwareblog.com/2025/12/top-inventory-management-software/）
+  - 「Inventory data is sensitive business data. Demand SOC 2 compliance, AES-256 encryption at rest and in transit, role-based access controls, and a clear data residency policy. If the vendor cannot clearly answer your security questions, that is your answer. Do not compromise on this point regardless of pricing.」（https://cloneappz.com/white-label-inventory-management-software）
+  - 「$2,500」（https://cloneappz.com/white-label-inventory-management-software）
+  - 「Pricing depends on features, integrations, and customization requirements. Entry-level solutions start around $4,000, mid-market solutions range from $8,000–$18,000, and enterprise deployments start at $40,000+.」（https://cloneappz.com/white-label-inventory-management-software）
+  - 「We’re saving $30,000 to $40,000 a year using Unleashed's B2B eCommerce stores.」（https://www.unleashedsoftware.com/）
+  - 「It provides growing businesses with enterprise-level features like batch tracking and multi-warehouse management without the enterprise price tag. Typical users are companies with between 5 and 500 employees.」（https://www.unleashedsoftware.com/）
+  - 「A handful of tools offer permanent free plans, but every free tier caps you somewhere: orders per month, SKU count, or users. Upzone starts at $79/month (Starter, up to 500 orders/mo) after a 14-day free trial, with no caps on users or SKUs on any tier. For teams doing more than 50 orders/month or managing a real warehouse, most free tiers force an upgrade within weeks.」（https://upzonehq.com/blog/free-inventory-management-software/）
+  - 「survey found that 48% of small businesses that adopted free software tools upgraded to a paid plan within 6 months. Some tools have genuine free plans. Others have free trials that expire. A few are free to install but cost real money to actually run. Here is what is available for $0, what you give up, and where free breaks down.」（https://upzonehq.com/blog/free-inventory-management-software/）
+  - 「: open-source tools that need a server, a developer, and ongoing maintenance costing $20—$80/month minimum」（https://upzonehq.com/blog/free-inventory-management-software/）
+- 日本対応：
+  - 「Kanematsu Expands Cloud-Based Inventory Management Software Solution “KG ZAICO” to Mexico —Supporting Greater Operational Efficiency and Productivity Through Digital Transformation in the Management of Equipment and Supplies for Japanese Manufacturers—」（https://www.kanematsu.co.jp/en/press/release/20260714_release）
+  - 「*Source: Ministry of Foreign Affairs of Japan, Annual Survey of Overseas Japanese-Affiliated Enterprises」（https://www.kanematsu.co.jp/en/press/release/20260714_release）
+  - 「Kanematsu is currently proposing KG ZAICO and conducting pilot use at multiple factories operated by Japanese manufacturers in Mexico. One company is also preparing to move toward full-scale implementation.」（https://www.kanematsu.co.jp/en/press/release/20260714_release）
+  - 「Under its medium-term management plan, “integration 1.1,” Kanematsu has set out to expand the value it provides. Leveraging the knowledge and experience it has developed in supporting digital transformation for manufacturers in Japan, Kanematsu will continue expanding KG ZAICO into Mexico and other overseas markets, helping companies improve operational efficiency and productivity.」（https://www.kanematsu.co.jp/en/press/release/20260714_release）
+  - 「WMS (Warehouse Management System) is a type of system software called “Warehouse Management System” in Japanese.」（https://www.taiyokogyo.co.jp/en/makmax_plus/49600/）
+  - 「アイテム数1万超… 消耗品＆部品管理が劇的改善（日本パリソン株式会社）」（https://blog.convibase.jp/buhinkanri/）
+  - 「株式会社日本アドシス 福島ソフトウェアセンター」（https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「株式会社日本システムテクノロジー」（https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「株式会社日本アドシス」（https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「日本アイワシステム」（https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「西日本オフィスメーション株式会社」（https://mono.ipros.com/cg2/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「日本オラクル株式会社」（https://smartf-nexta.com/archives/10401）
+  - 「Oracle NetSuiteは、米国企業オラクルコーポレーションの日本法人である、日本オラクル株式会社が提供しているサービスです」（https://smartf-nexta.com/archives/10401）
+  - 「・日本語、ベトナム語、英語に対応」（https://smartf-nexta.com/archives/10401）
+  - 「日本語・ベトナム語・英語に対応しているため、国外拠点がある場合にも利用できます」（https://smartf-nexta.com/archives/10401）
+- 使いやすさ：
+  - 「No-Code Database」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Build apps in minutes with AI」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Knack vs Airtable vs Zoho Creator: Comparing No-Code Database Builders [2026]」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「No-code database platforms are transforming the way web apps are…」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「Look up common no-code terms」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「If you’re curious about Knack and no-code and want to get started without us, take a look at using Knack’s」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「. This will give you a starting point for building a custom solution and show you all the great features a no-code solution can provide for future white-labeling needs.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「The best no-code platform for building custom online databases and applications.」（https://www.knack.com/blog/white-label-inventory-software/）
+  - 「No more one-size-fits-all tools or costly custom builds. Softr is easy to use and fully customizable, so you can launch faster, adapt as you grow, and skip the complexity of traditional software.」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「Build your white label inventory management software in minutes with AI—no manual setup or coding required.」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「Generate a custom inventory system with AI in minutes」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「Use drag-and-drop blocks to build a portal that looks sleek and modern out of the box. Add only the features you need, and iterate as your workflows evolve.」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「Everything is drag-and-drop, and if you need a truly unique logistics component, use the Vibe Coding block to generate it with AI.」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「How is Softr different from other no-code tools for inventory management?」（https://www.softr.io/create/white-label-inventory-management-software）
+  - 「The advantage is hybrid: use AI to architect your stock database and pages in minutes, then use the visual editor for pixel-perfect adjustments. You receive the speed of AI generation combined with the dependability of professional software features like SSO, role-based access, and scalable hosting—perfect for moving from a concept to a live warehouse tool on day one.」（https://www.softr.io/create/white-label-inventory-management-software）
+- 検索結果の抜粋：
+  - 「10 Best Inventory Management Software : Ratings (Updated) — 10 Best Inventory Management Software : Ratings (Updated) ERP Software Blog https://erpsoftwareblog.com > 2025/12」（https://erpsoftwareblog.com/2025/12/top-inventory-management-software/）
+  - 「Best Inventory Management Software 2026 - WhiteBox — Best Inventory Management Software 2026 - WhiteBox whitebox.sg https://whitebox.sg > Blog」（https://whitebox.sg/best-inventory-management-software-2026/）
+  - 「2026: Free Inventory Management Software That's Actually Free — 2026: Free Inventory Management Software That's Actually Free upzonehq.com https://upzonehq.com > Blog」（https://upzonehq.com/blog/free-inventory-management-software/）
+  - 「製造業向け 在庫管理 システム22選 選び方・よくある課題 ... — 製造業向け 在庫管理 システム22選 選び方・よくある課題 ... SmartF https://smartf-nexta.com > 在庫管理」（https://smartf-nexta.com/archives/10401）
+  - 「在庫管理 システム メーカー125社 - メトリー — 在庫管理 システム メーカー125社 - メトリー Metoree https://metoree.com > categories」（https://metoree.com/categories/5188/）
+  - 「製造業向け 在庫管理 システム13選。違いや選び方は？ - ASPIC — 製造業向け 在庫管理 システム13選。違いや選び方は？ - ASPIC aspicjapan.org https://www.aspicjapan.org > asu > article」（https://www.aspicjapan.org/asu/article/59789）
+  - 「How Much Does Inventory Management Software Cost in 2026? — How Much Does Inventory Management Software Cost in 2026? inFlow Inventory https://www.inflowinventory.com > i...」（https://www.inflowinventory.com/blog/inventory-management-software-cost/）
+  - 「How Much Does Inventory Management Software Cost in 2026? — How Much Does Inventory Management Software Cost in 2026? ERP Software Blog https://erpsoftwareblog.com > 2026/07」（https://erpsoftwareblog.com/2026/07/inventory-management-software-cost/）
+
+## ホワイトラベル製品コンフィギュレーター（CPQ）（white label CPQ manufacturing）
+- 文脈：製造業・営業
+- 提供企業：
+  - 「sales@aktivsoftware.com」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「career@aktivsoftware.com」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「vs Threekit」（https://salsita.ai/blog/best-cpq-software）
+  - 「vs Expivi」（https://salsita.ai/blog/best-cpq-software）
+  - 「vs Tacton」（https://salsita.ai/blog/best-cpq-software）
+  - 「vs Zakeke」（https://salsita.ai/blog/best-cpq-software）
+  - 「vs Cylindo」（https://salsita.ai/blog/best-cpq-software）
+  - 「vs Vibe-Coding」（https://salsita.ai/blog/best-cpq-software）
+  - 「Looking for the best CPQ software for manufacturing? This guide compares the best CPQ software providers in 2026, including traditional CPQ platforms and Visual CPQ solutions.」（https://salsita.ai/blog/best-cpq-software）
+  - 「Do all CPQ providers generate CAD files and BOMs?」（https://salsita.ai/blog/best-cpq-software）
+  - 「providers focus primarily on pricing governance and approval workflows. Others add real-time visual configuration to help users see exactly what they are building. And the most advanced solutions go further by connecting」（https://salsita.ai/blog/best-cpq-software）
+  - 「In this guide, we review the best」（https://salsita.ai/blog/best-cpq-software）
+  - 「Do finishes, materials, or components need to be visually previewed?」（https://salsita.ai/blog/best-cpq-software）
+  - 「Enterprise pricing structure may result in higher total cost compared to mid-market solutions」（https://salsita.ai/blog/best-cpq-software）
+  - 「platform designed for ecommerce environments. It enables customers to personalize products directly online with visual previews and automated file outputs.」（https://salsita.ai/blog/best-cpq-software）
+- 自社名で出せる条件：
+  - 「Generate professional quotation documents with your branding, pricing detail level, and product specifications. From high-level budget estimates to detailed BOMs, configure templates once, use them across all channels.」（https://www.elfsquad.io/cpq-software/）
+  - 「Quote documents, technical specs, internal project sheets, all generated from configuration data, in templates that match your brand and process.」（https://www.elfsquad.io/cpq-software/）
+  - 「Create streamlined and professional-looking documents that align with your brand」（https://conga.com/resources/blog/cpq-software-for-manufacturing）
+  - 「Without a shared CPQ, every dealer brands, prices and pitches differently. A white-label portal standardises the sales motion across the whole channel.」（https://configurix.com/custom-cpq-system）
+  - 「Optional white-label 3D front-end so customers, dealers and inside sales see what they're buying. Built specifically for the catalog, not generic CAD.」（https://configurix.com/custom-cpq-system）
+  - 「One-click quotes with renders, dimensioned drawings, itemised pricing, payment terms and offer validity — your logo, your colours, your legal.」（https://configurix.com/custom-cpq-system）
+  - 「Distributors and reps log into a portal under your brand with their tier pricing, their pipeline and their commissions — not a generic CPQ login.」（https://configurix.com/custom-cpq-system）
+  - 「One agreed product range, your branding, validated choices and prices, and the lead or quote path included in scope. Publish after the agreed acceptance checks pass.」（https://configurix.com/custom-cpq-system）
+  - 「OEMs supplying private-label dealer networks」（https://configurix.com/custom-cpq-system）
+  - 「Can it be white-labelled for our dealers and customers?」（https://configurix.com/custom-cpq-system）
+  - 「Yes — and this is one of the main reasons manufacturers choose custom over off-the-shelf. The platform runs on your domain, with your brand, your PDF templates, your dealer portal copy and no Configurix logo visible to your channel or end customers. Dealers see your brand; their customers see your brand.」（https://configurix.com/custom-cpq-system）
+  - 「White-label product configurator」（https://configurix.com/custom-cpq-system）
+- 再販制度：
+  - 「Wholesale & Distribution」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Odoo for Wholesale Distribution Business」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Small teams and resellers centralizing quotes」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「QuoteWerks: Best for small teams and resellers」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「QuoteWerks is a long-running, low-cost quoting tool, strong for IT resellers and small teams, with deep integrations to CRMs, accounting, and distributor pricing. It starts around $15 per user.」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Small businesses and resellers who want to centralize quotes, not run a factory.」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Consistent pricing and margin control」（https://salsita.ai/blog/best-cpq-software）
+  - 「Advanced pricing and margin optimization capabilities」（https://salsita.ai/blog/best-cpq-software）
+  - 「Strong pricing intelligence and margin control capabilities」（https://salsita.ai/blog/best-cpq-software）
+  - 「Mid-sized to large B2B manufacturers where pricing optimization and margin governance are strategic priorities.」（https://salsita.ai/blog/best-cpq-software）
+  - 「Pricing & Margin Control」（https://salsita.ai/blog/best-cpq-software）
+  - 「Advanced pricing optimization & margin focus」（https://salsita.ai/blog/best-cpq-software）
+  - 「B2B manufacturers where pricing precision and margin protection are strategic」（https://salsita.ai/blog/best-cpq-software）
+  - 「Configuration logic drives pricing automatically. Rules, discounts, and margins built into the system」（https://www.elfsquad.io/cpq-software/）
+  - 「Different prices for different channels, regions, or customer types. Dealers see dealer pricing. End customers see MSRP. Sales teams see cost and margin」（https://www.elfsquad.io/cpq-software/）
+- 無料体験・貸出：
+  - 「CPQ for Industrial Manufacturing」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Large industrial makers with very complex configuration」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Tacton is the most cited configurator among heavy industrial manufacturers, with customers like ABB, Bosch, Caterpillar, and Siemens. Its needs-based engine lets a buyer describe what they need and derives a valid configuration from thousands of possible combinations.」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Epicor CPQ (formerly KBMax) connects configuration to engineering output, auto-generating CAD drawings, BOMs, and production documents. It serves serious verticals like industrial machinery and medical devices.」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Moving beyond surface-level insights, she collaborates directly with implementers, partners, and domain experts to unpack complex operational workflows, spanning CPQ, automotive supply chains, industrial equipment, and custom furniture manufacturing.」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「CPQ for Industrial Instrumentation」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Established presence in industrial manufacturing environments」（https://salsita.ai/blog/best-cpq-software）
+  - 「2. Tacton CPQ — Industrial-grade configuration for complex product portfolios」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「Industrial manufacturers with highly complex, engineer-validated product configurations and large, distributed sales teams.」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「Solid track record in industrial and manufacturing verticals」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「6. Cincom CPQ — Specialized for complex industrial and defense manufacturing」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「Large manufacturers in aerospace, defense, and heavy industrial equipment where product complexity and compliance requirements are extreme.」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「Industrial complexity」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「Clinical Trials Management Software」（https://vastedge.com/cpq）
+  - 「, manufacturing accounts for over 31% of the CPQ software market, mainly because industries such as industrial equipment and automotive require efficient configuration and accurate pricing. CPQ systems help to reduce errors and speed up quote generation, while enabling sales and engineering to work together to handle more custom orders.」（https://conga.com/resources/blog/cpq-software-for-manufacturing）
+- 価格：
+  - 「It is built for larger organizations, with multi-month implementation and pricing around $100 to $150 per user per month before services. It works best connected to Epicor Kinetic ERP, so a leaner operation may pay for infrastructure it does not use.」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Elfsquad is a mid-market manufacturing configurator designed so sales and product teams can manage rules and pricing without waiting on IT, with pricing that starts around $400 per month.」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「QuoteWerks is a long-running, low-cost quoting tool, strong for IT resellers and small teams, with deep integrations to CRMs, accounting, and distributor pricing. It starts around $15 per user.」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「PandaDoc is a proposal and e-signature tool that makes branded quotes quickly, with payment collection, starting at $19 per user. Full CPQ features sit in its top tier.」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Salesforce CPQ (now moving into Agentforce Revenue Management) is a strong CRM-native quoting and automation tool, starting around $75 per user, best where the company already lives in Salesforce.」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Conga CPQ incorporates capabilities from the former PROS Smart CPQ following Conga’s acquisition of PROS’ B2B business. The platform combines rules-based configuration with pricing and」（https://salsita.ai/blog/best-cpq-software）
+  - 「Link multiple product configurations into one project or system quote. HVAC systems with 20+ components? Multi-machine production lines? Configure once, quote the entire solution, with accurate pricing and BOMs for every part.」（https://www.elfsquad.io/cpq-software/）
+  - 「This guide covers 10 CPQ platforms that show up consistently in manufacturing contexts, what they’re actually good at, where they struggle, and who they’re best suited for. Pricing is included where vendors publish it publicly; where they don’t, that’s noted too.」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「3. Pricing model flexibility.」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「Starts around $100/user/month; custom quotes required for full platform access.」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「Pricing is enterprise-level; not accessible for SMBs or mid-market companies under ~$20M revenue」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「$100–$500/user/month range; contact Tacton for specific quotes.」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「2. Accurate Pricing with Real-Time Data」（https://www.xait.com/blog/cpq/cpq-software-for-manufacturing）
+  - 「今すぐ購入 @ $299」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「, manufacturing accounts for over 31% of the CPQ software market, mainly because industries such as industrial equipment and automotive require efficient configuration and accurate pricing. CPQ systems help to reduce errors and speed up quote generation, while enabling sales and engineering to work together to handle more custom orders.」（https://conga.com/resources/blog/cpq-software-for-manufacturing）
+- 日本対応：
+  - 「JA - 日本語」（https://mono.ipros.com/product/detail/2001063270/）
+  - 「シンコム・システムズ・ジャパンは米国オハイオ州、シンシナティに本社を構えるCincom Systems, Inc.の日本法人として1976年に設立されました」（https://mono.ipros.com/product/detail/2001063270/）
+  - 「メインフレーム向けソフトウェアから、オブジェクト指向系開発ツールのCincom Smalltalk（MCFrameの開発環境など）、特定保健指導支援システムなどのヘルスケア・ソリューションからDX（デジタル・トランスフォーメーション）まで幅広い製品・サービスを日本国内で提供しています」（https://mono.ipros.com/product/detail/2001063270/）
+- 使いやすさ：
+  - 「Visual rule setup interface」（https://salsita.ai/blog/best-cpq-software）
+  - 「Contracts in minutes」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「Reps can generate proposals in minutes, not hours. This speed often makes the difference between winning and losing a deal.」（https://www.xait.com/blog/cpq/cpq-software-for-manufacturing）
+  - 「製品と見積プロセスについて簡単にお聞かせください」（https://mercura.io/ja/glossary/what-is-product-configurator/）
+  - 「Shopifyストアに強力な商品カスタマイズを簡単に追加できます」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「Shopifyで商品のビジュアルカスタマイズを有効にし、パーソナライズされた商品を簡単に販売できます」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「WP Configuratorに関するよくある質問への簡単な回答」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「当社の製品コンフィギュレーターソフトウェアを探索し、カスタマイズを簡単かつ直感的にします」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「当社のプラグインは直感的でカスタマイズ可能な製品コンフィギュレーターツールを提供し、顧客が簡単に商品をパーソナライズできるようにし、ユーザー体験を向上させ、エンゲージメントを高めます」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「すべてはあなたにとってより簡単に、そして彼らにとってより魅力的にすることです!」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「チーム効率:簡単なセットアップと管理で時間を節約しつつ、プロフェッショナルな成果を提供できます」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「ショッピング体験はよりスムーズになり、商品カスタマイズの簡単さを喜んでくれます」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「設定は簡単で、クライアント側のインターフェースもシンプルで直感的です」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「顧客はカスタムデザインを簡単に作成できます」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+  - 「「WPConfiguratorのおかげでパーソナライズ商品の販売がずっと簡単になりました」（https://wpconfigurator.com/ja/%E8%A7%A3%E6%B1%BA%E7%AD%96/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/）
+- 検索結果の抜粋：
+  - 「Best CPQ Software for Manufacturers in 2026 — Best CPQ Software for Manufacturers in 2026 Aktiv Software https://www.aktivsoftware.com > best...」（https://www.aktivsoftware.com/best-cpq-software-for-manufacturers-in-2026/）
+  - 「Best CPQ Software for Manufacturing in 2026 - Salsita — Best CPQ Software for Manufacturing in 2026 - Salsita Salsita 3D Configurator https://salsita.ai > Blog」（https://salsita.ai/blog/best-cpq-software）
+  - 「CPQ Software: 10 Top Platforms to Close Deals Faster — CPQ Software: 10 Top Platforms to Close Deals Faster Monday.com https://monday.com > blog > cpq」（https://monday.com/blog/crm-and-sales/cpq/）
+  - 「Best CPQ for Manufacturing 2026 | Top Tools - Qwoty — Best CPQ for Manufacturing 2026 | Top Tools - Qwoty Qwoty https://qwoty.io > best-cpq-manufactu...」（https://qwoty.io/best-cpq-manufacturing/）
+  - 「CPQ Software That Cuts Quote Time by 50% | Free Demo — CPQ Software That Cuts Quote Time by 50% | Free Demo Vast Edge https://vastedge.com > cpq」（https://vastedge.com/cpq）
+  - 「製品コンフィギュレーター とは（完全ガイド 2026） - Mercura — 製品コンフィギュレーター とは（完全ガイド 2026） - Mercura Mercura CPQ https://mercura.io > glossary > what-is-product-configurator」（https://mercura.io/ja/glossary/what-is-product-configurator/）
+  - 「Best CPQ Software for Manufacturers in 2026 | MRPeasy Blog — Best CPQ Software for Manufacturers in 2026 | MRPeasy Blog MRPeasy https://www.mrpeasy.com > blog > be...」（https://www.mrpeasy.com/blog/best-cpq-software/）
+
+## ホワイトラベル作業マニュアル・技能伝承AI（white label work instructions software）
+- 文脈：製造業・現場
+- 提供企業：
+  - 「| 3k+ app store reviews」（https://mitti.com/apps/work-instruction-software）
+  - 「that users can review before performing specific tasks in the workplace. Aside from the sequential outline of the process, these templates also include work related-hazards, safety protocols, and emergency plans. This is also one of the few platforms that offer work instruction software free of charge, with a particular version for small teams.」（https://mitti.com/apps/work-instruction-software）
+  - 「Mission Control vs.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「work instructions vs SOPs」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Digital work instructions software compared at a glance」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「CreatorPro AI shortens authoring, but its drafts still go through review and approval before they reach the floor.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Mission Control vs Dozuki」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Dozuki alternatives」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Tulip alternatives」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Augmentir alternatives」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「AR work instructions vs wearable capture」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Vuforia Expert Capture alternatives」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「experts record in a mobile app as they work; AI segments recordings into steps, adds captions, and dubs into 60+ languages; review, approval, and version control.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「video is the product, so someone still records on a device, and each video passes review before release.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Every video goes through a structured review with human validation and version control before it is released. Among the software-only entries, DeepHow comes closest to starting from real work rather than a document, and its language depth matters on a multilingual line. For comparisons, see」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+- 自社名で出せる条件：
+  - 「Latest opinion articles, industry news and predictions as well as useful resources for OEM aftersales transformation」（https://partful.io/3d-digital-work-instructions）
+  - 「Any OEM with access to their CAD that produces assets requiring parts to be fitted in assembly, repair, or service is relevant to us. Check out our Case Studies to find out more.」（https://partful.io/3d-digital-work-instructions）
+  - 「Can I white-label the Partful system?」（https://partful.io/3d-digital-work-instructions）
+  - 「Yes, you can - all of our products are whitelabelled so your customers can experience our solution under your logo, colours, branding, etc. to maintain brand consistency.」（https://partful.io/3d-digital-work-instructions）
+  - 「Vayo Technology has been dedicated to delivering high-quality and comprehensive NPI solutions to our OEM / EMS clients. With 17+ years’ effort and devotion to NPI/DFT/DFA/CAM software solutions for electronics industry, Vayo Technology’s NPI solution like」（https://www.vayoinfo.com/blogs/visual-work-instruction-software-automate-document-preparation/）
+- 再販制度：
+  - 「Partner program」（https://mitti.com/apps/work-instruction-software）
+  - 「Editor with photos, video, and markup; CreatorPro AI drafts from narrated video and documents」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「guides built with photos, video, and markup; approval workflows; revision history with authorship and change reason; translation into 100+ languages; offline access.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Update templates with visual markups, and push mass updates across instructions at once.」（https://weeversoftware.com/blog/best-work-instruction-software-manufacturing）
+  - 「Protect workers with step-by-step energy isolation procedures that include PPE callouts, visual markup, and supervisor sign-off.」（https://www.poka.io/en/digital-work-instructions/）
+  - 「You don't need a separate application to edit and annotate images, with Dozuki it's built in. Use color-coded image markup and special bullets to annotate complex procedures in an easy to understand format.」（https://www.dozuki.com/solutions/need/work-instructions）
+  - 「In-line Markup: Add callouts to any image during authoring」（https://www.dozuki.com/solutions/need/work-instructions）
+  - 「Visual Callouts: Markup visuals in-app to highlight specific areas to focus on」（https://www.dozuki.com/solutions/need/work-instructions）
+- 無料体験・貸出：
+  - 「Premium plan $24/seat/month (with free trial period)」（https://mitti.com/apps/work-instruction-software）
+  - 「Available upon request (with a 30-day free trial online and a 60-day on-site pilot)」（https://mitti.com/apps/work-instruction-software）
+  - 「Available upon request (with 30-day free trial)」（https://mitti.com/apps/work-instruction-software）
+  - 「Starts at $349 per month for unlimited users and up to five editors (with free trial)」（https://mitti.com/apps/work-instruction-software）
+  - 「Available upon request (with free trial)」（https://mitti.com/apps/work-instruction-software）
+  - 「). Its no-code workflow builder digitises the steps, and the platform delivers instructions matched to the needs of each worker, with AI-based insights into where work processes lose time. Instructions carry images, video, AR experiences, and live expert support, and run on AR-enabled industrial smart glasses, iOS and Android phones and tablets, or desktop computers.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「capture during normal work; AI video SOP generation and editing; AI troubleshooting; a unified knowledge base; a free trial and a published per-seat price.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「). The site is copyrighted to CAI Software. It suits industrial operations that want every procedure step to leave a data trail.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「No. Most tools in this guide run on tablets, phones, and workstation screens. AR is an option in some: Augmentir supports AR-enabled industrial smart glasses alongside phones, tablets, and desktops, and PTC Vuforia Expert Capture is built around AR instructions and inspection from 3D CAD. Myto uses AI glasses to capture work, not to display instructions.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Free manual (no account), 7-day trial, then paid plans」（https://manual.to/compare/work-instruction-software-pricing/）
+  - 「Yes – free manual + trial」（https://manual.to/compare/work-instruction-software-pricing/）
+  - 「Free plan available; paid plans not published」（https://manual.to/compare/work-instruction-software-pricing/）
+  - 「Yes – free plan」（https://manual.to/compare/work-instruction-software-pricing/）
+  - 「– no account, no credit card, no sales call. This produces a complete visual manual from video in about 60 seconds with 200+ languages and text-to-speech.」（https://manual.to/compare/work-instruction-software-pricing/）
+  - 「After the free manual, a 7-day trial opens the full platform. Paid plans scale from individual users to enterprise deployments with no minimum user count. Enterprise plans include SSO/SAML, Microsoft EntraID, dedicated EU hosting, and native Microsoft Teams and SharePoint integration.」（https://manual.to/compare/work-instruction-software-pricing/）
+- 価格：
+  - 「Premium plan $24/seat/month (with free trial period)」（https://mitti.com/apps/work-instruction-software）
+  - 「Starts at $16 per month」（https://mitti.com/apps/work-instruction-software）
+  - 「Starts at $349 per month for unlimited users and up to five editors (with free trial)」（https://mitti.com/apps/work-instruction-software）
+  - 「$24/user/month」（https://mitti.com/apps/work-instruction-software）
+  - 「$16/month」（https://mitti.com/apps/work-instruction-software）
+  - 「$349/month」（https://mitti.com/apps/work-instruction-software）
+  - 「Two products here publish prices. We list those with a link, as of September 2026, and say "not published" for the rest.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Prices are as of September 2026 and link to the vendor's own pricing page. Vendors that do not publish prices are marked as such.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「From $100 per interface per month, billed annually, 10-interface minimum (」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Core $100 per seat per month, billed annually; glasses quoted separately (」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Essentials $100 and Professional $250 per interface per month, billed annually; Enterprise and Regulated Industries quoted (」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Work Instruction Software Pricing: What Every Platform Costs in 2026」（https://manual.to/compare/work-instruction-software-pricing/）
+  - 「Pricing analysis · Updated April 2026」（https://manual.to/compare/work-instruction-software-pricing/）
+  - 「The hardest part of buying work instruction software is figuring out what it actually costs. Most vendors hide their pricing behind “contact sales” buttons. You fill out a form, get a demo, talk to an account executive, maybe get a quote two weeks later – and then discover the platform requires a 50-user minimum or a multi-year contract.」（https://manual.to/compare/work-instruction-software-pricing/）
+  - 「This page does the research for you. We compiled pricing information for 10 work instruction platforms from published pricing pages, review platforms (G2, Capterra), press releases, and verified user reports. Where vendors don’t publish pricing, we note what is publicly known and what requires a sales conversation.」（https://manual.to/compare/work-instruction-software-pricing/）
+- 日本対応：
+  - 「Multilingual, multi-site rollouts」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Expert video turned into multilingual training」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「7. Poka (IFS): best for multilingual, multi-site rollouts」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「10. DeepHow: best for turning expert video into multilingual training」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Every video goes through a structured review with human validation and version control before it is released. Among the software-only entries, DeepHow comes closest to starting from real work rather than a document, and its language depth matters on a multilingual line. For comparisons, see」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「DeepHow for multilingual training, or Myto for SOPs generated from AI glasses at a published per-seat price.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Multilingual support and offline-friendly design make the platform practical for distributed frontline teams」（https://weeversoftware.com/blog/best-work-instruction-software-manufacturing）
+  - 「Lessons adapt across languages automatically, reducing the manual work of maintaining separate versions for multilingual crews.」（https://weeversoftware.com/blog/best-work-instruction-software-manufacturing）
+  - 「Strong multimedia and auto-translation for multilingual crews」（https://weeversoftware.com/blog/best-work-instruction-software-manufacturing）
+  - 「Poka is a strong choice for manufacturers whose main need is building and translating training-style lessons across a multilingual floor.」（https://weeversoftware.com/blog/best-work-instruction-software-manufacturing）
+  - 「Operators need QR-code access through shared tablets or workstation devices rather than individual accounts. Also consider browser-based access, offline functionality, simple navigation, and multilingual support. These capabilities become especially important when operators share devices, work in areas with limited connectivity, or speak different languages.」（https://weeversoftware.com/blog/best-work-instruction-software-manufacturing）
+  - 「Multilingual Support」（https://www.poka.io/en/digital-work-instructions/）
+  - 「日本語のマニュアルが伝わらない現場では、技能伝承の壁は言葉の壁でもあります」（https://career-survival.com/columns/skill-transfer-ai/）
+  - 「・三菱電機株式会社様、横河電機株式会社様、日本マイクロソフト株式会社様、株式会社IHI様、三井住友海上火災保険株式会社様などを担当」（https://cocomite.konicaminolta.jp/20250123_webinar/）
+  - 「1、日刊工業新聞社、日本テクノセンターでは、2013年から現在まで毎年講師やパネルディスカッションのコーディネーターを務める」（https://cocomite.konicaminolta.jp/20250123_webinar/）
+- 使いやすさ：
+  - 「Dozuki’s manufacturing work instruction software is highly-favored in numerous industries, including heavy equipment, food and beverage, and pharmaceuticals with biotechnology. This app can reduce changeover times, employee onboarding times, and overall labor costs.」（https://mitti.com/apps/work-instruction-software）
+  - 「Template-based applications with drag-and-drop editing」（https://mitti.com/apps/work-instruction-software）
+  - 「No-code app editor; AI composer converts PDFs into apps」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「No-code editor with 3D models, parameters, and IF/THEN logic; AI document conversion」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「No-code builder; Augie generates instructions from Office files, images, and video」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「): pictures, video, drag-and-drop annotations, and safety pictograms; a change history for audits and accountability; templates that update hundreds of instructions at once; and launching the right instruction by scanning a QR code or part number. Translation runs through Google and DeepL into more than 30 languages.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「no-code app building; an AI composer that converts PDFs into interactive apps; connections to machines, sensors, smart tools, and back-end systems; error-proofed operator steps.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「no-code editor with images, video, 3D models, parameters, and IF/THEN logic; approval workflows; connections to ERP, scanners, printers, and torque wrench tools; issue tickets and audits; a skills matrix.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「). Its work instruction editor is no-code and takes images, video, 3D models, parameters, and IF/THEN logic (」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「no-code workflow builder; instructions matched to the needs of each worker; Augie generative AI that builds instructions and checklists from existing files; AR smart glasses support; skills and training management.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「). Its no-code workflow builder digitises the steps, and the platform delivers instructions matched to the needs of each worker, with AI-based insights into where work processes lose time. Instructions carry images, video, AR experiences, and live expert support, and run on AR-enabled industrial smart glasses, iOS and Android phones and tablets, or desktop computers.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「). Subtitles and dubbing cover more than 60 languages, and DeepHow says an update can go from shoot to share in as little as 30 minutes.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Tulip: No-code apps that carry work instructions, connect to machines and back-end systems, and error-proof steps, with published pricing.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Azumuta: No-code work instruction editor with IF/THEN logic, approvals, tool connections, in-line quality checks, and a skills matrix.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「Augmentir: Work instructions personalised to each worker, with a no-code builder, the Augie generative AI suite, AR smart glasses support, and skills management.」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+- 検索結果の抜粋：
+  - 「Top 10 Work Instruction Software of 2026 - Mitti — Top 10 Work Instruction Software of 2026 - Mitti mitti.com https://mitti.com > Apps」（https://mitti.com/apps/work-instruction-software）
+  - 「Best Digital Work Instructions Software ( 2026 ): 11 Ranked — Best Digital Work Instructions Software ( 2026 ): 11 Ranked Mission Control AI https://usemissioncontrol.com > blog」（https://usemissioncontrol.com/blog/best-digital-work-instructions-software/）
+  - 「10 Best Work Instruction Software for Manufacturing ( 2026 ) — 10 Best Work Instruction Software for Manufacturing ( 2026 ) Weever Software https://weeversoftware.com > blog」（https://weeversoftware.com/blog/best-work-instruction-software-manufacturing）
+  - 「10 Best Work Instruction Software for Manufacturing (2026) — 10 Best Work Instruction Software for Manufacturing (2026) Weever Software https://weeversoftware.com > blog」（https://weeversoftware.com/blog/best-work-instruction-software-manufacturing）
+  - 「1/23 ウェビナー「製造業必見！ 技能伝承 の課題を生成 AI ... — 1/23 ウェビナー「製造業必見！ 技能伝承 の課題を生成 AI ... Konica Minolta https://cocomite.konicaminolta.jp > 20250123_webinar」（https://cocomite.konicaminolta.jp/20250123_webinar/）
+  - 「技能伝承 の課題を解決！製造業の暗黙知を動画 マニュアル 化 ... — 技能伝承 の課題を解決！製造業の暗黙知を動画 マニュアル 化 ... itutor.jp https://itutor.jp > blog > ginoudensyo-vol55」（https://itutor.jp/blog/ginoudensyo-vol55/）
+  - 「製造業の マニュアル への生成 AI 活用ガイド｜2026年の最新事例 — 製造業の マニュアル への生成 AI 活用ガイド｜2026年の最新事例 株式会社エムニ https://media.emuniinc.jp > 技能伝承」（https://media.emuniinc.jp/2026/03/11/manufacturing-manual-ai-dx/）
+  - 「Interactive Work Instructions Software - Partful — Interactive Work Instructions Software - Partful partful.io https://partful.io > 3d-digital-work-ins...」（https://partful.io/3d-digital-work-instructions）
+
+## ホワイトラベル3Dスキャン処理ソフト（white label 3D scanning software）
+- 文脈：製造業・スキャン
+- 提供企業：
+  - 「Reviews」（https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/）
+  - 「These are workflow notes, not full reviews. The goal is to show where each app fits, what it really outputs, and what its documentation makes clear or unclear.」（https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/）
+  - 「Creality K2 vs Bambu: K2, P1S, K2 Plus and H2D」（https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/）
+  - 「Direct Drive vs Bowden: How 3D Printer Extruders Differ」（https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/）
+  - 「Best 3D scanner apps in 2026, compared for brands」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「How we compared the apps」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「Write the real output list: product page viewer, PDP image, AR preview, retailer asset, video, editorial visual, marketplace listing. The app that serves the most real destinations from one source asset is usually the better investment.」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「Reviews」（https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/3d-scanner-app/）
+  - 「Compare truly free 3D Scanner apps: KIRI Engine, Scaniverse, RealityScan & Luma AI. No export paywalls, real limits, mesh vs 3DGS.」（https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026）
+  - 「This guide filters for free tiers you can actually use end-to-end: you can keep scanning and export free-tier outputs without export credits or subscription-gated exports. For each app, we label the output type (mesh vs」（https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026）
+  - 「A workflow-first snapshot: this guide compares free tiers by what you can actually export—editable meshes for production pipelines vs 3DGS/splats for visualization—plus the real limits like input caps and processing style.」（https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026）
+  - 「Output quality can vary vs heavier pipelines」（https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026）
+  - 「3DGS is great for visualization and interactive viewing, but most production pipelines still rely on meshes (UVs, topology, LODs). Unless your pipeline explicitly supports splats, you’ll usually want a mesh for Blender/Unity/Unreal. In Blender specifically, splats are often handled via dedicated viewers or add-ons (for example, KIRI Engine offers a」（https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026）
+  - 「Polycam vs. KIRI Engine」（https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026）
+  - 「Luma AI vs. KIRI Engine」（https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026）
+- 自社名で出せる条件：
+  - 「Professional and white-label options」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「A recognised option for mobile LiDAR scanning on iPhone and iPad, with professional, white-label and enterprise options available through direct contact.」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「Technical LiDAR capture, white-label or enterprise scanning deployments.」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「OEM 3D Scanning Technology Partner | Amrax」（https://amrax.ai/oem/）
+  - 「OEM Technology Partner Program」（https://amrax.ai/oem/）
+  - 「White-label LiDAR & SLAM scanning technology for iOS」（https://amrax.ai/oem/）
+  - 「Start OEM Discussion」（https://amrax.ai/oem/）
+  - 「White-Label Technology」（https://amrax.ai/oem/）
+  - 「Fully brandable scanning experience. Your UX, your branding, our technology running invisibly underneath.」（https://amrax.ai/oem/）
+  - 「Metaroom is our own 3D scanning product — built on the same LiDAR + SLAM technology available through the OEM program. Professionals in architecture, energy consulting, facility management, and trades rely on it daily worldwide.」（https://amrax.ai/oem/）
+  - 「Our engineers tailor the scanning pipeline to your product. Custom UI skins, specialized output formats, domain-specific processing — all white-labeled under your brand.」（https://amrax.ai/oem/）
+  - 「OEM Case Study」（https://amrax.ai/oem/）
+  - 「OEM Technology」（https://amrax.ai/oem/）
+  - 「Can I fully white-label the scanning experience?」（https://amrax.ai/oem/）
+  - 「What does the OEM partner program include?」（https://amrax.ai/oem/）
+- 再販制度：
+  - 「Find a reseller」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Become an Artec 3D reseller」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Affiliates」（https://poly.cam/）
+  - 「I would like to receive information about products, services and offers of Carl Zeiss GOM Metrology GmbH and its affiliated companies by email. This consent can be withdrawn at any time at the end of any email.」（https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/）
+  - 「Find a reseller」（https://www.artec3d.com/where-to-buy/japan）
+  - 「resellers」（https://www.artec3d.com/where-to-buy/japan）
+  - 「About reseller statuses」（https://www.artec3d.com/where-to-buy/japan）
+  - 「Other resellers in the vicinity」（https://www.artec3d.com/where-to-buy/japan）
+  - 「5 resellers in 5 locations」（https://www.artec3d.com/where-to-buy/japan）
+  - 「2 resellers in 2 locations」（https://www.artec3d.com/where-to-buy/japan）
+  - 「1 reseller in 1 location」（https://www.artec3d.com/where-to-buy/japan）
+  - 「Become an Artec 3D reseller」（https://www.artec3d.com/where-to-buy/japan）
+  - 「販売代理店のご検索」（https://www.artec3d.com/ja/3d-software/artec-studio）
+  - 「Artec 3Dの販売代理店になるには」（https://www.artec3d.com/ja/3d-software/artec-studio）
+  - 「【本音レビュー】3DMakerpro Raven MAX RTKを実際に評価｜メリット・デメリットを正直に正規販売代理店が解説」（https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89）
+- 無料体験・貸出：
+  - 「Built around physical products rather than industrial metrology」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「For most consumer-product teams, the useful comparison is not iPhone versus industrial scanner. It is smartphone capture plus the right reconstruction workflow versus a fragmented production pipeline.」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「, especially for academic and industrial applications. It can be used for small and large scale scans.」（https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/3d-scanner-app/）
+  - 「Industrial photogrammetry solution with exceptional volumetric accuracy.」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「ISO-certified laser scanner that boasts 0.02 mm accuracy. Perfect for metrology and other industrial use cases.」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Industrial」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Download free trial」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Before you download Artec Studio Trial」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Trial version limitations:」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Trial period is limited to 30 days.」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Download trial」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「No credit card required」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「This includes the entire Artec 3D scanning range: the wireless Artec Leo, metrology-grade Spider II, versatile structured-light Eva, as well as the industrial Point, desktop Micro II, LiDAR Ray II, Metrology Kit, and a selection of previous models. More information can be found in the software’s technical specifications.」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Industrial 3D scanners」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Start free 7-day Business Trial」（https://poly.cam/）
+- 価格：
+  - 「custom orders per month for Oakywood after adding 3D scans」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「Data sources: Shopify 3D eCommerce guide, Polycam pricing, Scaniverse support.」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「$400 / yr per user」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「For a brand, the question is whether broad capture capability is also the same thing as a product-content workflow. Polycam's Business plan publicly starts at $400 per user per year. Pricing alone should not decide the workflow — look at capture consistency, product-material quality, downstream rendering and the clean-up your team will actually need.」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「Pricing varies based on project scope, location, and deliverables. Standard 3D scanning projects in metro areas start around JPY 300,000-600,000, while drone photogrammetry and LiDAR surveying range from JPY 500,000-2,000,000+ for larger sites. Request a free consultation and detailed quote for your Japanese project. Contact us for a customized quote in yen or dollars.」（https://www.thefuture3d.com/locations/japan/）
+  - 「価格：1万円 ~ 10万円」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「価格：10万円 ~ 50万円」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「より、トンネル、タンク、円筒形の塔を2Dマップで正確に表示できます」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「初めての方でも直感的に操作できる画面デザイン（UI/UX）に一新、月額29,800円[税込]より機能や用途に応じてプランが選べるようになります」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「価格：100万円 ~ 500万円」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「Trust us. A demo is worth a thousand words. Check out our latest Peel 3D demo so that you can see firsthand why our 3D scanners blend great performance and affordable price points.」（https://store.peel-3d.com/partners）
+  - 「直径152mまでの円筒形対象物の検査が可能です」（https://systemcreate-inc.co.jp/products/creaform）
+- 日本対応：
+  - 「To ensure accessibility to individuals and teams all over the world, Artec Studio is available and fully functional in 16 languages: Chinese Simplified, Chinese Traditional, Croatian, Czech, English, French, German, Italian, Japanese, Korean, Polish, Portuguese, Russian, Spanish, Turkish, and Ukrainian.」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Japan office」（https://www.artec3d.com/3d-software/artec-studio）
+  - 「Japanese」（https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/）
+  - 「Japan — buy 3D scanner from Artec 3D | Professional 3D scanning solutions」（https://www.artec3d.com/where-to-buy/japan）
+  - 「Japan: Artec 3D licensed distributors」（https://www.artec3d.com/where-to-buy/japan）
+  - 「Japan office」（https://www.artec3d.com/where-to-buy/japan）
+  - 「3D Scanning & Drone Services in Japan | THE FUTURE 3D」（https://www.thefuture3d.com/locations/japan/）
+  - 「Your trusted partner for professional 3D laser scanning, drone surveying, LiDAR mapping, and reality capture services across Japan. We typically respond within 24 hours. Survey-grade accuracy.」（https://www.thefuture3d.com/locations/japan/）
+  - 「24 Japan Locations」（https://www.thefuture3d.com/locations/japan/）
+  - 「The world's largest metropolitan area featuring cutting-edge architecture, dense urban infrastructure, and Japan's primary business center.」（https://www.thefuture3d.com/locations/japan/）
+  - 「Japan's second economic center featuring Osaka's commercial hub, Kyoto's 2,000+ temples, and Kobe's port and technology sector.」（https://www.thefuture3d.com/locations/japan/）
+  - 「Japan's automotive corridor featuring Toyota's headquarters, Nagoya's manufacturing base, and the Shinkansen corridor.」（https://www.thefuture3d.com/locations/japan/）
+  - 「Our Services Across Japan」（https://www.thefuture3d.com/locations/japan/）
+  - 「Immersive Matterport virtual tours for Japanese real estate, hospitality, and commercial properties. From Tokyo high-rises to Kyoto machiya townhouses to Osaka shopping complexes.」（https://www.thefuture3d.com/locations/japan/）
+  - 「Survey-grade 3D laser scanning for Japanese architecture, construction, and manufacturing. Heritage documentation for temples and shrines, precision scanning for automotive and electronics industries.」（https://www.thefuture3d.com/locations/japan/）
+- 使いやすさ：
+  - 「Scaniverse now spans more than the older “free splat app” reputation many readers still remember. Niantic Spatial’s Scaniverse Quickstart for Sites says each scan supports up to five minutes of recording time and up to 500 square meters of coverage, then can be uploaded for processing into mesh or Gaussian splat outputs with exports including」（https://www.3dmag.com/3d-scanners/best-3d-scanning-apps/）
+  - 「Whether a content coordinator, studio assistant or merchandising team can create a reliable result after a short onboarding. Ease of use is what makes a workflow scalable.」（https://www.solaya.ai/blog/best-3d-scanner-apps-in-2026-compared-for-brands）
+  - 「free and easy to use」（https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/3d-scanner-app/）
+  - 「easy to use and affordable」（https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/3d-scanner-app/）
+  - 「Scan sets, props, and locations in minutes, no special gear required.」（https://poly.cam/）
+  - 「, including on smoother or low-texture subjects where traditional PhotoScan workflows often produce holes or warped geometry. Turnaround time has also improved; in typical cases, a PhotoScan can finish in around ~2 minutes, though both quality and speed still depend on capture quality, scene complexity, and network conditions.」（https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026）
+  - 「1–3 minutes」（https://www.kiriengine.app/blog/Best_Free_3D_Scanner_Apps_2026）
+  - 「Artec Studioには、測定を高速かつ正確に行うためのツールが搭載されており、メッシュからCADへの変換や、メッシュ間の偏差分析も簡単に行えます」（https://www.artec3d.com/ja/3d-software/artec-studio）
+  - 「スマホを向けて撮影するのみの簡単操作！高精度な3DスキャンとARで業務をデジタル化」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「するだけの簡単操作です」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「■簡単な使用方法：スマホを向けて撮影するのみ」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「レーザースキャンデータを簡単にそして効率的に求められる情報を抽出することができ、CADへのインターフェイスも備えています」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「また、直接データを送る事が可能な為、展開機能を使用し、トンネルの平面展開も簡単に行えます」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「円錐、円柱、楕円柱の表面を平面上に作成！制御点と検証点の迅速かつ簡単な決定が可能」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「『LupoScan』は、レーザースキャンデータを簡単に、そして効率的に」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+- 検索結果の抜粋：
+  - 「3D scanning software : 3 programs for every application — 3D scanning software : 3 programs for every application HandsOnMetrology https://www.handsonmetrology.com > ...」（https://www.handsonmetrology.com/blog/3d-scanning-software-3-programs-for-every-application/）
+  - 「ソフト ( 3dスキャン ) - メーカー・企業と製品の一覧 | イプロス — ソフト ( 3dスキャン ) - メーカー・企業と製品の一覧 | イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > ソフト > 3dスキャン」（https://www.ipros.com/cg1/%E3%82%BD%E3%83%95%E3%83%88/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/?p=1）
+  - 「保存版】本当は教えたくない！無料で使える 3Dスキャン 後 ... — 保存版】本当は教えたくない！無料で使える 3Dスキャン 後 ... 株式会社Seed3D https://www.seed3d.net > post > 【2025年度-保存版】本...」（https://www.seed3d.net/post/%E3%80%902025%E5%B9%B4%E5%BA%A6-%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E6%9C%AC%E5%BD%93%E3%81%AF%E6%95%99%E3%81%88%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%EF%BC%81%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E5%BE%8C%E5%87%A6%E7%90%86%E3%82%BD%E3%83%95%E3%83%885%E9%81%B8%EF%BC%88blender-zeiss-inspect-fusion-360-cloudcompare-tinkercad%EF%BC%89）
+
+## ホワイトラベル生成設計・設計AI（OEM）（OEM generative design software）
+- 文脈：製造業・設計
+- 提供企業：
+  - 「An honest review of the best generative design software for mechanical engineering teams in 2026. What each tool actually delivers, where they fall short, and what matters most.」（https://www.getleo.ai/blog/best-generative-design-software-2026-guide）
+  - 「The Gap Nobody Talks About: Generative Design vs. Design Reuse」（https://www.getleo.ai/blog/best-generative-design-software-2026-guide）
+  - 「Best Generative Design Software for Mechanical Engineers (2026 Review)」（https://www.getleo.ai/blog/best-generative-design-software-2026-guide）
+  - 「This is where a fundamentally different approach starts to make more sense. Instead of generating new optimized geometry, what if you could find the closest existing part in your vault and modify it? That part already went through DFM review. It already has validated toolpaths. It already has an approved supplier.」（https://www.getleo.ai/blog/best-generative-design-software-2026-guide）
+  - 「Best CAD Software 2026: CATIA vs NX vs Creo vs SolidWorks」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「), the 2D and DWG-centric alternatives (」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Autodesk Inventor is Autodesk's parametric mechanical CAD tool, primarily used in the Autodesk Product Design & Manufacturing Collection — which bundles Inventor with Revit (architectural), AutoCAD (2D), Navisworks (review), and Factory Design Utilities (plant layout).」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Chapter 4: Solid Edge vs. SolidWorks — Two Different Paths to Parasolid」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Chapter 3: Proprietary vs. Licensed Kernels」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Not a PLM-connected parametric modeler; no vendor-independent evidence of Teamcenter, Windchill, or 3DEXPERIENCE integration was reviewed for this guide. A Mac build is sold separately under a different product name (iCADMac), per the vendor.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「progeCAD USA: progeCAD vs. AutoCAD」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Performance comparisons on ZWSOFT's product page (for example, "1.98x as fast as AutoCAD" for 2D drafting) come from the vendor's own tests on a single Windows 10 machine. Treat them as claims and run your own drawings. The pages reviewed do not state Mac or Linux support, and they do not list PLM integrations.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「CAD Modeling Paradigms: NURBS vs Parametric vs Implicit」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Digital Thread vs Twin」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「PLM vs PDM」（https://www.demystifyingplm.com/best-cad-software-2026）
+- 自社名で出せる条件：
+  - 「Supply chain and industry ecosystem constrain CAD choice more than any feature comparison — your OEM's preferred format is your format」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Class-A surface modeling, European automotive OEM workflows (upstream of engineering CAD)」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Automotive OEM exterior design studios, Tier 1 body-in-white suppliers, and industrial design studios producing consumer electronics or transportation products where surface quality is a customer-facing differentiator. Not appropriate for general mechanical engineering.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「If your PLM selection drives your CAD selection (which happens in supply chains where OEMs dictate CAD format to suppliers), the table above shows which CAD tool is native to each PLM.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Brings the KBE (Knowledge-Based Engineering) workflow that aerospace OEMs have used internally for decades to the mid-market, encoded as configurable rules rather than custom scripts」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Aerospace, Automotive OEM」（https://threadmoat.com/guides/best-cad-software-2026）
+  - 「OEM Partner Program for Equipment Makers | SensFlo」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「OEM partner program for industrial equipment makers」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「The SensFlo OEM program lets machine builders embed real-time monitoring and AI production analytics directly into the equipment they sell. You set the price, keep the brand and own the customer relationship, while SensFlo runs the intelligence underneath.」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「OEM partner program?」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「Because the product carries your brand, you also take on the parts of the lifecycle a SensFlo customer would normally get from us: installation, first-line support, marketing and sales. SensFlo provides the licensing rights, engineer certification, implementation documentation and escalation support your team needs to do that well. Companies that want a lighter commitment usually start with the」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「OEM partners earn?」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「OEM partners pay SensFlo a licensing fee and sell the finished product at whatever price their market supports, which keeps the margin decision entirely on your side.」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「Your brand on every screen」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「OEM program require?」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+- 再販制度：
+  - 「Feedback & Markups」（https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers）
+  - 「OEM Partner Program for Equipment Makers | SensFlo」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「Partner Programs」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「Reseller」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「OEM partner program for industrial equipment makers」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「OEM partner program?」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「Reseller program」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「OEM partners pay SensFlo a licensing fee and sell the finished product at whatever price their market supports, which keeps the margin decision entirely on your side.」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「Full pricing and margin control」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「other partner programs?」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「Referral」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「Referral fee」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「Resale margin」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「The OEM partner does. OEM partners pay SensFlo a licensing fee and keep full control over the price and margin of the product they sell.」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「. Resellers sell these solutions to their clients, and OEM partners can embed any of them in their own equipment.」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+- 無料体験・貸出：
+  - 「PTC Creo is the parametric standard for industrial equipment, consumer products, and mechanism-heavy design」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Industrial equipment, mechanism design, heavy machinery」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Automotive OEM exterior design studios, Tier 1 body-in-white suppliers, and industrial design studios producing consumer electronics or transportation products where surface quality is a customer-facing differentiator. Not appropriate for general mechanical engineering.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「General mechanical engineering, consumer products, industrial equipment in the SMB segment, any program where engineering talent is the constraint and the tool must be learnable in weeks.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Programs where factory/plant layout, piping and instrumentation (P&ID), and mechanical design are integrated workflows — chemical plants, factory design, HVAC systems. Also used in general industrial equipment by organizations already in the Autodesk ecosystem.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Rhino's open plugin architecture has attracted hundreds of third-party developers. Simulation (Karamba3D, Ladybug), industrial design (KeyShot for rendering), structural analysis (Millipede), and manufacturing (SpaceClaim-like direct modeling via T-Splines and SubD) are all accessible within Rhino through plugins. This extensibility is Rhino's core strength.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Product designers producing custom surface geometry (consumer electronics, furniture, footwear, jewelry, sports equipment), architects (Rhino is standard in architecture), marine and yacht design, industrial designers prototyping sculptural forms, research and art installations.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Industrial designers and product designers who need a tablet-native NURBS modeling workflow; solo designers and small teams requiring fast concept-to-engineering handoff; teams needing direct STEP/IGES export to SolidWorks, CATIA, or NX with geometry preserved; product design studios where gesture-driven 3D sketching accelerates ideation.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Concept visualization and upstream industrial design exploration before geometry moves into an engineering CAD tool; game artists, VFX designers, and animation professionals working on product visualization; designers transitioning into engineering workflows already fluent in Blender's sculpting and SubD tools; low-budget teams requiring high-quality 3D renders alongside concept geometry.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Direct modeling CAD for industrial design and complex surface work」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Fills the gap between NURBs-heavy industrial design tools and parametric engineering CAD; faster for concept exploration than feature-based modelers, with clean STEP export」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「— PULSE framework · industrial connectivity, unified namespace, edge, historian」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Physics-driven tools often create organic "alien" shapes. Without advanced 5-axis CNC or industrial 3D printing, these designs may be very difficult to manufacturable or cost-prohibitive.」（https://www.colabsoftware.com/guides/how-generative-design-works-a-guide-for-engineering-managers）
+  - 「Best Industrial AI Platforms」（https://threadmoat.com/guides/best-cad-software-2026）
+  - 「Engineering Software & Industrial AI Market Intelligence」（https://threadmoat.com/guides/best-cad-software-2026）
+- 価格：
+  - 「$680/yr individual」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「$995 perpetual + maintenance」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「$149–$299 perpetual」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「$299/yr Pro」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「CATIA's complexity is proportional to its capability — it is not the right tool for general mechanical engineering where a parametric solid modeler and decent FEA are sufficient. Learning curve is steep. Licensing is expensive (CATIA licenses can run $15,000–$30,000 per seat per year for full capabilities).」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「$4,000–$8,000 per seat per year for SolidWorks Premium (with simulation). Lower tiers available.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Fusion 360 is Autodesk's cloud-connected design-to-manufacturing platform that integrates CAD, CAM, simulation, and generative design in a single environment. It is not the most capable CAD tool in any single domain, but the integration of all four capabilities at $680/year per user makes it the most accessible professional design-through-manufacturing environment.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「$995 perpetual license with annual maintenance (~$200). This makes it one of the lowest-cost professional NURBS tools — a fraction of CATIA's cost.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Comparable to SolidWorks, approximately $4,000–$7,000 per seat per year.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「is a DWG-compatible 2D drafting and 3D navigation tool positioned as an AutoCAD alternative. ZWSOFT lists DWG, DXF and DWT support, LISP, VBA, ZRX and .NET APIs, and perpetual and network licences, with entry pricing from $899 (the vendor notes that price varies by country or region).」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「for Parasolid's dominance across MCAD) — at a $149–$299 perpetual price with no subscription. Designed for game artists and product designers transitioning from polygonal modeling tools like Blender, it dramatically lowers the learning curve for anyone who needs NURBS-quality geometry without the overhead of a full parametric MCAD system.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Enterprise-grade Parasolid kernel geometry at a fraction of SolidWorks cost. The Studio tier includes xNURBS (normally a $400 Rhino add-on), adding variational surfacing capability that rivals Class-A surface tools.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「For mid-sized teams, Fusion 360 or Onshape are strong choices: cloud-native collaboration, lower per-seat cost ($500–700/year vs. $3,000–7,000/year for enterprise platforms), and integrated simulation. If your customers or supply chain require CATIA or Creo STEP files, confirm compatibility before switching.」（https://threadmoat.com/guides/best-cad-software-2026）
+  - 「and provide you with customized data in a short amount of time. We offer $1000 worth of FREE」（https://www.skyquestt.com/report/generative-design-market/companies）
+  - 「Desktop Metal Receives $7.9 Million System Order from Major German Car Maker for Mass Production of Automotive Components」（https://www.amcbridge.com/expertise/generative-design）
+- 日本対応：
+  - 「AMC Bridge Japan」（https://www.amcbridge.com/expertise/generative-design）
+  - 「Why Japanese Companies Choose Quantana: Design. Intelligence. Execution. | Quantana」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「Why Japanese Companies Choose Quantana: Design. Intelligence. Execution.」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「, Japanese craftsmanship and Indian innovation are natural allies.」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「, we bring these worlds together-helping Japanese companies」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「The Japan–India Advantage」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「Japan is renowned for its」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「We understand what it takes for a Japanese business to translate its excellence into digital form for India and beyond:」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「1. UI/UX Design for Japanese Hardware and Global Software」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「Many Japanese companies have world-class hardware. But to succeed in India-or any fast-changing global market-hardware needs」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「Japanese sensibility with Indian empathy」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「Japanese automobile manufacturer」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「Our design principles respected the Japanese minimalism while embracing India’s diversity of users and languages.」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「Quantana helps Japanese enterprises」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+  - 「For a major Japanese OEM, our AI research team showcased」（https://quantana.com.au/insights/japanese-companies-choose-quantana）
+- 使いやすさ：
+  - 「It has a smaller training ecosystem than SolidWorks, which means staffing is harder. The Synchronous Technology paradigm, while powerful, has a learning curve distinct from pure parametric workflows, which can slow onboarding for engineers coming from SolidWorks or Creo.」（https://www.demystifyingplm.com/best-cad-software-2026）
+  - 「Tell us about the equipment you build and where it is sold. The application call can take less than 15 minutes, and the partner team will follow up with an answer.」（https://www.sensflo.ai/partnerships/partner-programs/oem）
+  - 「30 minutes to several hours」（https://arched.ai/resources/fusion-360-generative-design）
+  - 「OEMおよびODM製造とは簡単に言うと何ですか？」（https://www.noa-labs.com/ja/service/oem-odm-original-equipment-manufacturer-original-design-manufacturer）
+  - 「60秒で簡単に登録できます」（https://dairitenboshu.com/search/categorysub_ai）
+  - 「簡単ではありません」（https://crosai.net/partner/?utm_source=prtimes&utm_campaign=partner_program_launch_202608&utm_medium=press_release）
+  - 「簡単AIチャット」（https://crosai.net/partner/?utm_source=prtimes&utm_campaign=partner_program_launch_202608&utm_medium=press_release）
+  - 「簡単WEB公開」（https://crosai.net/partner/?utm_source=prtimes&utm_campaign=partner_program_launch_202608&utm_medium=press_release）
+- 検索結果の抜粋：
+  - 「What generative design software to use? : r/3Dprinting - Reddit — What generative design software to use? : r/3Dprinting - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/3Dprinting/comments/1c0k6ey/what_generative_design_software_to_use/）
+  - 「Fusion 360 Generative Design : Setup, Pricing , And Workflow — Fusion 360 Generative Design : Setup, Pricing , And Workflow arched.ai https://arched.ai > Resources」（https://arched.ai/resources/fusion-360-generative-design）
+  - 「Generative Design in Fusion 360 is free until 2020. Now's your ... — Generative Design in Fusion 360 is free until 2020. Now's your ... LinkedIn https://www.linkedin.com > pulse > g...」（https://www.linkedin.com/pulse/generative-design-fusion-360-free-until-2020-nows-your-matt-lemay）
+  - 「Fusion360 Generative Design Software Add-on Price Drop — Fusion360 Generative Design Software Add-on Price Drop Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/3Dprinting/comments/nwc2e8/fusion360_generative_design_software_addon_price/）
+  - 「SDKs for 3D Generative Design | Tech Soft 3D — SDKs for 3D Generative Design | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > industries」（https://www.techsoft3d.com/developers/industries/generative-design/）
+  - 「SaaSサービスのマルチテナントと OEM （ ホワイトラベル ）を ... — SaaSサービスのマルチテナントと OEM （ ホワイトラベル ）を ... OPTiM TECH BLOG https://tech-blog.optim.co.jp > entry > 2022/06/23」（https://tech-blog.optim.co.jp/entry/2022/06/23/100000）
+
+## ホワイトラベル調達・サプライヤー管理（white label supplier portal）
+- 文脈：製造業・調達
+- 提供企業：
+  - 「Reviews from real customers」（https://www.leaddistro.ai/features/client-portal）
+  - 「White Label Client Portal vs. Generic Client Portal Software」（https://www.leaddistro.ai/features/client-portal）
+  - 「Customer Reviews」（https://www.leaddistro.ai/features/client-portal）
+  - 「vs Lead Prosper」（https://www.leaddistro.ai/features/client-portal）
+  - 「Read full review →」（https://www.leaddistro.ai/features/client-portal）
+  - 「I tested other platforms like UseJuiced and LeadProsper before choosing Lead Distro AI」（https://www.leaddistro.ai/features/client-portal）
+  - 「Video review ·」（https://www.leaddistro.ai/features/client-portal）
+  - 「vs Boberdoo」（https://www.leaddistro.ai/features/client-portal）
+  - 「vs LeadProsper」（https://www.leaddistro.ai/features/client-portal）
+  - 「vs LeadByte」（https://www.leaddistro.ai/features/client-portal）
+  - 「vs Ringba」（https://www.leaddistro.ai/features/client-portal）
+  - 「vs Retreaver」（https://www.leaddistro.ai/features/client-portal）
+  - 「vs CallRail」（https://www.leaddistro.ai/features/client-portal）
+  - 「vs LeadsPedia」（https://www.leaddistro.ai/features/client-portal）
+  - 「vs Trackdrive」（https://www.leaddistro.ai/features/client-portal）
+- 自社名で出せる条件：
+  - 「White Label Client Portal for Lead Distribution | Lead Distro AI | Lead Distro AI」（https://www.leaddistro.ai/features/client-portal）
+  - 「White label portal for PPL agencies」（https://www.leaddistro.ai/features/client-portal）
+  - 「White Label Client Portal for Lead Distribution」（https://www.leaddistro.ai/features/client-portal）
+  - 「Logo, color palette, favicon, custom subdomain, login screen, and transactional emails all carry your brand. Buyers never see Lead Distro AI.」（https://www.leaddistro.ai/features/client-portal）
+  - 「Everything in Your White Label Portal Toolkit」（https://www.leaddistro.ai/features/client-portal）
+  - 「White Label Client Portal vs. Generic Client Portal Software」（https://www.leaddistro.ai/features/client-portal）
+  - 「A category-specific, white label client portal closes the loop. One branded interface where buyers see leads land in real time, mark outcomes, and request returns; suppliers see what they delivered, what got rejected, and what they earned. Both sides logged in to the same source of truth, branded to the agency.」（https://www.leaddistro.ai/features/client-portal）
+  - 「White label custom subdomain」（https://www.leaddistro.ai/features/client-portal）
+  - 「Custom domain: $3,500 one-time (as of September 2026)」（https://www.leaddistro.ai/features/client-portal）
+  - 「Generic client portal software is not built for lead distribution. Lead Distro AI's white label client portal is built for pay-per-lead agencies and is included on its Growth plan ($497/mo) and above.」（https://www.leaddistro.ai/features/client-portal）
+  - 「how easy it is to use, the good UI, and the white-label reports」（https://www.leaddistro.ai/features/client-portal）
+  - 「White-label portal」（https://www.leaddistro.ai/features/client-portal）
+  - 「Put your own name, logo and domain on the Partner Portal, so your buyers see your brand instead of ours.」（https://www.leaddistro.ai/features/client-portal）
+  - 「Everything unlocks here: ping post, RTB, and white-label.」（https://www.leaddistro.ai/features/client-portal）
+  - 「White Label Client Portal FAQs」（https://www.leaddistro.ai/features/client-portal）
+- 再販制度：
+  - 「Buyers see exactly what each lead costs and can accept or return it with a reason code in a click. On your side, the same ledger rolls up spend, revenue, and the margin you keep, so both sides trust the numbers.」（https://www.leaddistro.ai/features/client-portal）
+  - 「Margin」（https://www.leaddistro.ai/features/client-portal）
+  - 「Affiliate Program」（https://www.leaddistro.ai/features/client-portal）
+  - 「Affiliates」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Partner Programs」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Become An Affiliate」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Resell Knack to your clients」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「OEMのカスタム生産について「最低発注数量（MOQ）は問わない」と主張するサプライヤーは、ほぼ例外なく再販業者であり、製造業者ではありません」（https://chtmatcha.com/ja/private-label-matcha-the-complete-b2b-guide-to-oem-manufacturers-and-odm-suppliers/）
+  - 「【詳細】 ■海外販売子会社・代理店からの受発注業務、輸出入手配、倉庫への入出庫指示■海外販売子会社物流担当者及び物流業者とのコミュニケーション■社内部署(海外セールス、需要計画、調達、製造、品証等)とのコミュニケーション■基幹システムへの各登録及び計上■物流費用管理 物流及び在庫管理に関わる改善活動■その他関連業務 募集職種 【東京/貿易実務担当者】フルフレックス/年休129日/10月1日入社」（https://www.r-agent.com/job_search/oc-scm/）
+- 無料体験・貸出：
+  - 「Start Free Trial」（https://www.leaddistro.ai/features/client-portal）
+  - 「7-day free trial」（https://www.leaddistro.ai/features/client-portal）
+  - 「Book a 20-minute demo or start your 7-day free trial. Full access to every feature, cancel anytime.」（https://www.leaddistro.ai/features/client-portal）
+  - 「. The 7-day free trial makes it easy to get started and」（https://www.leaddistro.ai/features/client-portal）
+  - 「Book a 20-minute demo and we'll walk through your exact use case, or start your 7-day free trial and explore on your own.」（https://www.leaddistro.ai/features/client-portal）
+  - 「Start your 7-day free trial, point your subdomain, and put both sides of your lead-distribution business inside one branded interface.」（https://www.leaddistro.ai/features/client-portal）
+  - 「Free Trial」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Free 14-Day Trial. No Credit Card Required」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「: You’ll be prompted to select a plan that best suits your needs. Knack offers various plans, including a free trial option if you want to explore the platform before committing. Review the features and pricing for each plan and choose the one that fits your requirements.」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Get Started in 30 seconds. No credit card required.」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Start Free Trial」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Industrial」（https://brs-p.jp/jobs/?specialization=15&functions=182）
+- 価格：
+  - 「$1,840.00」（https://www.leaddistro.ai/features/client-portal）
+  - 「$42.00」（https://www.leaddistro.ai/features/client-portal）
+  - 「$38.50」（https://www.leaddistro.ai/features/client-portal）
+  - 「$35.00」（https://www.leaddistro.ai/features/client-portal）
+  - 「$31.25」（https://www.leaddistro.ai/features/client-portal）
+  - 「$1,240」（https://www.leaddistro.ai/features/client-portal）
+  - 「$3,180」（https://www.leaddistro.ai/features/client-portal）
+  - 「+$1,940」（https://www.leaddistro.ai/features/client-portal）
+  - 「$2,150」（https://www.leaddistro.ai/features/client-portal）
+  - 「+$1,170」（https://www.leaddistro.ai/features/client-portal）
+  - 「$1,090」（https://www.leaddistro.ai/features/client-portal）
+  - 「Every lead carries a 0 to 100 quality score visible to the buyer before they accept. Routing and pricing rules can branch on the same score.」（https://www.leaddistro.ai/features/client-portal）
+  - 「サプライヤー管理を円滑に進めるための2つの注意点」（https://www.hitachi-solutions-west.co.jp/products/industry/hiper/column01/vol03/）
+  - 「30gあたり$30～$80をターゲットとするプレミアムDTCブランド：信頼性を確保するには、日本産であることがほぼ必須となる」（https://chtmatcha.com/ja/private-label-matcha-the-complete-b2b-guide-to-oem-manufacturers-and-odm-suppliers/）
+  - 「変動が大きい；$1.20～$7/kgの範囲」（https://chtmatcha.com/ja/private-label-matcha-the-complete-b2b-guide-to-oem-manufacturers-and-odm-suppliers/）
+- 日本対応：
+  - 「一般社団法人日本能率協会様が運営するバイヤー向け民間資格である購買プロフェッショナル認定CPP（Certified Procurement Professional）に賛同し、積極的に資格を取得」（https://www.biprogy.com/solution/service/srm.html）
+  - 「世界的な気候変動に対応する動きがあるように、日本でも 2050 年に向け温暖化の原因となる温室効果ガスの排出と吸収を均衡させる取り組み（カーボンニュートラル）がなされております」（https://www.biprogy.com/solution/service/srm.html）
+  - 「日本経済新聞社主催「不確実な時代を勝ち抜く購買・調達DX戦略」セミナーに登壇しました」（https://www.biprogy.com/solution/service/srm.html）
+  - 「日本ユニシス 国内初！製造業の部品単価決定やサプライヤー選定をAIが支援」（https://www.biprogy.com/solution/service/srm.html）
+  - 「2022年4月1日に日本ユニシスはBIPROGYへ商号変更しました」（https://www.biprogy.com/solution/service/srm.html）
+  - 「サプライヤー管理とは？基礎から手順、システム導入のコツまで解説｜EDIシステムコラム｜Hi-PerBT ウェブ購買｜日立ソリューションズ西日本」（https://www.hitachi-solutions-west.co.jp/products/industry/hiper/column01/vol03/）
+  - 「株式会社 日立ソリューションズ西日本」（https://www.hitachi-solutions-west.co.jp/products/industry/hiper/column01/vol03/）
+  - 「円安の進行や人件費・原材料費の高騰、部素材不足など、厳しい環境に直面している日本の製造業」（https://www.hitachi-solutions-west.co.jp/products/industry/hiper/column01/vol03/）
+  - 「サプライヤー管理を効率化 日立ソリューションズ西日本「Hi-PerBT ウェブ購買」の機能紹介」（https://www.hitachi-solutions-west.co.jp/products/industry/hiper/column01/vol03/）
+  - 「日立ソリューションズ西日本が提供する「Hi-PerBT ウェブ購買」は、調達部門とサプライヤーをオンラインでつなぐWeb-EDIです」（https://www.hitachi-solutions-west.co.jp/products/industry/hiper/column01/vol03/）
+  - 「日立ソリューションズ西日本 製品担当者からのおすすめコメント」（https://www.hitachi-solutions-west.co.jp/products/industry/hiper/column01/vol03/）
+  - 「日立ソリューションズ西日本の「Hi-PerBT ウェブ購買」のようなソリューションも選択肢に入れつつ、サプライヤー管理のDXを推進し、変化に強い調達基盤の構築を検討してはいかがでしょうか」（https://www.hitachi-solutions-west.co.jp/products/industry/hiper/column01/vol03/）
+  - 「© Hitachi Solutions West Japan, Ltd.」（https://www.hitachi-solutions-west.co.jp/products/industry/hiper/column01/vol03/）
+  - 「第25回 調達戦略に生かされないサプライヤー評価｜コラム｜日本能率協会コンサルティング（JMAC）」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_25.html）
+  - 「日本のみならずグローバルでもTPMコンサルティング・サービス」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_25.html）
+- 使いやすさ：
+  - 「super easy with a free customized onboarding」（https://www.leaddistro.ai/features/client-portal）
+  - 「Get a tracking number, ring your Targets, and keep the recording. Call minutes and numbers are billed by usage on top of your plan.」（https://www.leaddistro.ai/features/client-portal）
+  - 「Inbound call minutes (local)」（https://www.leaddistro.ai/features/client-portal）
+  - 「Inbound call minutes (toll-free)」（https://www.leaddistro.ai/features/client-portal）
+  - 「Yes. Point a custom subdomain like leads.yourbrand.com at Lead Distro AI and every portal route runs on your domain. Login screens, dashboards, and outbound emails all carry your brand. Most agencies launch their branded subdomain within 30 minutes of provisioning DNS.」（https://www.leaddistro.ai/features/client-portal）
+  - 「Most agencies launch in under 30 minutes once their logo, brand colors, and DNS records are ready. The longest step is usually waiting for DNS propagation on the custom subdomain. Buyer and supplier imports run on CSV upload in seconds.」（https://www.leaddistro.ai/features/client-portal）
+  - 「Build an OEM Partner Portal with No-Code (Tutorial)」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「No-Code Database」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Build apps in minutes with AI」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Knack vs Airtable vs Zoho Creator: Comparing No-Code Database Builders [2026]」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「No-code database platforms are transforming the way web apps are…」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Look up common no-code terms」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「In today’s fast-paced business world, a well-designed OEM partner portal is essential for effective collaboration. With no-code platforms, you can bypass complex programming and build a customized, user-friendly portal with ease. In this guide, we’ll give you step-by-step instructions on how to build an effective OEM portal.」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「Why Build an OEM Partner Portal with No-Code?」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+  - 「No-code」（https://www.knack.com/blog/oem-partner-portals-no-code/）
+- 検索結果の抜粋：
+  - 「第25回 調達 戦略に生かされない サプライヤー 評価 — 第25回 調達 戦略に生かされない サプライヤー 評価 jmac.co.jp https://www.jmac.co.jp > コラム」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_25.html）

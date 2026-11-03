@@ -1,0 +1,2282 @@
+{
+ "name": "ホワイトラベルAI議事録",
+ "en": "white label AI meeting notes",
+ "aliases": [
+  "white-label meeting transcription",
+  "white label AI notetaker",
+  "white label transcription",
+  "AI notetaker",
+  "meeting assistant",
+  "transcription API",
+  "meeting notes"
+ ],
+ "context": "会議・商談",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:00:13.036706+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "We independently review every app we recommend in our best apps lists. When you click some of the links on this page, we may earn a commission.",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Fathom vs. Fireflies",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "The best Zoom alternatives",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare AI meeting assistants that connect information across channels vs. tools that just capture meetings. Find the right fit for your team in 2026.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Fireflies vs Read AI",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Read AI vs Otter AI",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Read AI vs Fathom",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Read empowers individuals and teams to seamlessly integrate AI assistance across platforms like Gmail, Zoom, Slack, and thousands of other applications you use every day.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Choose Granola when you want to stay in the conversation and review an editable document afterward. It is an AI notepad: your rough notes guide what the final enhanced notes emphasize.",
+    "url": "https://zackproser.com/blog/best-ai-meeting-notes-tools-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Granola AI Review (2026): My Daily-Use Verdict",
+    "url": "https://zackproser.com/blog/best-ai-meeting-notes-tools-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best AI Notetakers in 2025: Equal Time vs Otter, Fathom, Gong, Read AI, and Fireflies",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Bias-aware interview review",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Review Agent recalls technical context",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Reviewed by the market.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. You can create custom summary templates for different meeting types, such as sales calls, standups, interviews, client reviews, hiring conversations, or leadership meetings.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "This makes transcripts easier to review and helps teams understand who said what, who committed to what, and where follow-up is needed.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. You can configure sharing rules so MeetGeek automatically sends meeting summaries to participants, selected teammates, Slack channels, or connected tools after the meeting ends. This lets each team define its own follow-up flow, so sales calls, standups, customer interviews, leadership meetings, and internal reviews can each be routed differently.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The mobile app is useful for in-person meetings, field conversations, client visits, interviews, walk-and-talk discussions, and on-the-go review.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "You can record conversations directly from your phone, access transcripts and summaries, review past meetings, and keep meeting intelligence available even when you are away from your desk.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Action items can be reviewed inside MeetGeek, attributed to the right person when possible, and pushed into connected tools so meeting decisions can become actual work instead of staying buried in a transcript.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "MeetGeek identifies moments where key decisions were made, commitments were given, important topics were raised, objections appeared, sentiment shifted, or follow-up was needed. These highlights help users review the most important parts of a meeting quickly, without having to replay the full recording or scan the entire transcript.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "For deeper analysis, teams can also create dedicated prompts, templates, or skills to evaluate sentiment across one meeting or multiple meetings together. This makes it possible to build more customized sentiment analysis workflows around sales calls, customer feedback, internal discussions, or leadership reviews.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual billing can save around 40% compared to monthly billing.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The web app is the main hub for reviewing meetings, managing settings, searching your meeting history, configuring templates, and connecting integrations.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The mobile app supports in-person recording, field conversations, and on-the-go review.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "vs Fathom",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Q3 Review",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Get concise, well-structured summaries of your meetings. Save time reviewing long transcripts and focus on what matters.",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Meetily is an open source AI meeting assistant that processes everything locally on your device. Unlike Otter.ai which stores data in the cloud, Meetily ensures 100% privacy with no external data transmission. Key differences: 100% Local Processing (vs cloud-based), Self Hosted (vs $8-30/month), Open Source (vs proprietary), GDPR/HIPAA Compliant by Design (vs limited compliance).",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Free for individuals (Community Edition), custom pricing for organizations vs. $8-30/month subscription competitors",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Open source code for complete transparency and customization vs. proprietary black boxes",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Being open source provides several key advantages: complete transparency into how your data is processed, the ability to customize and extend functionality to meet your specific needs, security through community code review, and freedom from vendor lock-in. You can verify exactly what the software is doing with your sensitive meeting data and modify it as needed.",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Exports and AI providers:",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "• LLM providers: Anthropic Claude, Groq, Ollama and more",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "What features are currently available vs. planned?",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "vs Otter.ai",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "vs Fireflies",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "vs Granola",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "vs Read AI",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "vs Zoom AI",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "vs ChatGPT Record Mode",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Three reasons. It's cheaper — $10 vs $18 per seat. Meeting data never leaves your own infrastructure, which makes security and compliance sign-off far easier. And you keep full control: your own LLM, custom retention, audit logs, even an air-gapped setup. Cloud is the quicker start, but in-house is where most teams land.",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud vs in-house, and what it costs",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "across platforms like Google Meet, Microsoft Teams, and Zoom.",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "HappyScribe vs Otter AI: Which AI Note Taker is the Ultimate Best?",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Join online meetings, translate live and review notes in a full workspace. Nothing to install, just open your browser.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. You can choose the language used for the summary and select from several meeting-note templates. Bilingual minutes help each side review the meeting in a familiar language while staying aligned on the same information.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Once your calendar is connected, the bot can automatically join and record scheduled meetings. Afterwards, you can review the content, ask AI about decisions or tasks, and use timestamps to jump directly to the relevant part of the recording.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Review contracts faster with an expert AI agent for legal work.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "It also gives you control over data, prompts, routing, approval logic, and business-specific enrichment. You decide what counts as a risk, what triggers a sales task, what updates the CRM, and what gets held for human review.",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "The business payoff comes from follow-through, not from the note itself. Companies using AI agents with structured, automated post-meeting processes have seen up to 25% higher customer renewal rates compared with manual methods, according to",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "Klu’s review of Harvard Business Review data",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "Use a fast capture layer if you need to get moving this quarter. Then build your own extraction, enrichment, and execution logic on top. That gives you speed now and a moat later. If you’re sorting through orchestration options, I’d start with a practical review of",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "Check every extracted item against transcript evidence and flag weak confidence cases for review.",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to go deeper on chain design, I’d review",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "context engineering vs prompt engineering",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "Board meetings, legal reviews, performance discussions, and high-stakes negotiation calls usually need a human approval layer before anything gets pushed into a CRM or sent externally. The cost of a wrong follow-up there is too high.",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "The agent receives the transcript and structured extraction. It identifies a pricing concern, a request for a custom integration, and a commitment from you to provide a technical answer. It also sees that the buyer asked for a proposal revision and that the next meeting should happen after procurement review.",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "A draft follow-up is prepared for review or send",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "My audit rule: review transcript, extraction, and resulting action in the same sample set. If you only inspect summaries, you’ll miss the real failure point.",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Integration Partner Program",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate disclosure: I may earn a commission if you buy through a link here, at no added cost to you. The recommendation and caveats are mine.",
+    "url": "https://zackproser.com/blog/best-ai-meeting-notes-tools-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate disclosure: I earn money if you use my Granola link. I do not have affiliate relationships with the other tools listed here.",
+    "url": "https://zackproser.com/blog/best-ai-meeting-notes-tools-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Practices can generate new revenue by reselling Premium or Vantage subscriptions at their own price point.",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "The reseller program is built to scale profitably:",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers may set their own retail price, determine margins, and own the customer relationship.",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Choose the partner program that best suits you.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a MeetGeek reseller and revenue share.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate Program",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "A white-label, resell-ready alternative to Fireflies.ai.",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate program",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliates",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "No white-label tier exists at any price — this is a dead-end for agency resellers",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Otter.ai has no white-label offering. Including it here only as a category benchmark — it is not a viable option for an agency reseller.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "This is an API, not a white-label SaaS — you are building the full product, not reselling one",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Audio transcription has two cost layers: STT (the ingestion cost, dominated by per-minute pricing) and LLM (the summarization cost, dominated by per-token pricing for long transcripts). At 1 hour of audio, Deepgram Nova-3 batch costs $0.26 and Claude Sonnet 4.6 summary costs $0.08 — total $0.34 per meeting, against $25 ARPU for a 86% gross margin.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Recall.ai for all production meeting-bot deployments. Self-hosted Zoom RTMP + WebRTC is technically possible but adds 2–4 weeks of engineering for marginal cost savings. At $0.13/hr, Recall.ai costs $1.56 per 12-hour workday of bot runtime — well within the margin of a $25/mo ARPU product.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "At 100 users × 20 hrs/mo = 2,000 hrs/mo total COGS: $0.47 × 2,000 = $940 + $110 fixed = $1,050/mo; against $25 ARPU × 100 = $2,500 revenue = 58% gross margin",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Remove Recall.ai cost for upload-only MVP: drops per-hour cost from $0.47 to $0.34, improving gross margin to 73%",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliates",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate Program",
+    "url": "https://albato.com/blog/publications/best-ai-meeting-assistants-note-takers",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Free plan available; paid plans from $10/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans start at $14/month",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans start at $10/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $18/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $8.33/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $7/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans start at $9.99/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $15/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available with unlimited transcription, with a total of 400 minutes of meeting storage; paid plans start at $10/user/month billed annually.",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": ": Free plan limits access to meeting history: you can't read meeting notes if they're older than 30 days; paid plans start at $14/month and include unlimited meeting transcripts.",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan supports only one meeting type",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": ": Free plan includes unlimited one-on-one meetings. Paid plans start at $10/user/month (billed annually). Notetaker and Callie are currently available on Standard Plus and Teams Plus plans—$8/user/month (billed annually) on top of your base plan.",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Generous free plan",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available for unlimited transcription; paid plans from $18/user/month (billed annually).",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available for 40 minutes of transcription per meeting; paid plans from $15/month (billed annually).",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Try for free!",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Free plans offer 5 AI recordings per user. Paid team plans from $7/user/month.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Fathom is a sales-focused meeting assistant positioned as a budget-friendly alternative to Gong, with one of the most generous free plans in the market.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "AI features are capped at five meetings/month on the free plan. No mobile app. Visible bot joining meetings may feel intrusive in some contexts.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Requires Google Workspace. No audio/video playback, only enhanced notes. Free plan limits history to 14 days. Also, recording without notifying the others or getting their consent is illegal in several states. Also, if the others on the call don’t know you are recording, you can’t leverage insights from the call or share such insights with them.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Deep but narrow, it’s built for revenue teams, not general-purpose notes. No free tier, only a 14-day trial.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Trial/viewer access",
+    "url": "https://zackproser.com/blog/best-ai-meeting-notes-tools-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Try for free!",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "The Free plan includes:",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Always free, no credit card required.",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Start for free",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "No credit card required",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Start 14-days trial",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "What’s included in the Free plan, and what changes when I upgrade?",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "How long can I trial paid features before being charged?",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "MeetGeek offers a 14-day trial for paid features.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "View Pricing & Start Free Trial",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "No credit card required",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Start for free",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Try for free",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "No special equipment or complex setup is required. Simply create an account, select your languages, and start recording or interpreting. Doraverse includes a 14-day free trial with no card required.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Start Free Trial",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "14-day trial, no credit card required.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Basic free plan (limited summaries)",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$25 Lovable Pro + $20 Deepgram credits + $20 Anthropic credits + Recall.ai trial",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Recall.ai meeting bot names are configurable but require approval for branded names — test in the Recall.ai sandbox before configuring the production bot identity as your company name.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Free 7-day trial.",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Create a free account, connect your calendar, and let the AI notetaker join your next meeting. Get transcripts, summaries, and AI Chat during your 7-day trial.",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Try for free!",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Free plans vary widely. Some are usable working tiers (Read AI's 5 meetings/month, Fireflies' unlimited storage); others are effectively trials (Granola's 25-meeting lifetime cap).",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "The real question you want to know is: what does the free plan limit, and when does paying actually make sense?",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Basic AI notetakers record meetings, produce a transcript, and hand you a summary. If that's all you need, plenty of free plans cover it. But the second your team starts scaling, meaning more meetings, more connected platforms, and more follow-ups falling through the cracks, you'll want more.",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan limits — Is it actually usable, or is it a limited demo?",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "The free plan gives you 5 meetings per month with full AI summaries,",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": ", meeting notes, and unlimited enterprise search, and the best part? No credit card required. You also get the personalized meeting coach, topic readouts, and support across 20+ languages.",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "’s free plan is a real working plan. For a solo founder or two-person team in early stages, it's enough to evaluate whether Read AI fits how you actually work before you spend anything.",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Try Read AI free — no credit card required, 5 meetings a month on us.",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: The free plan includes 300 minutes/month of transcription. Paid plans start at $8.33/user/month (billed annually).",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "markets itself on conversation intelligence, and for meeting-heavy teams, its free plan is fairly priced.",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "What it does well: Unlimited meetings on the free plan with AI meeting summaries and a searchable archive. Fireflies supports 28+ languages for transcription and integrates with Slack, HubSpot, and Salesforce for basic follow-up automation. The meeting notes capture key moments and action items fairly well.",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: Free plan available (limited storage). Pro plan starts at $10/user/month.",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "is built primarily for sales professionals. If your startup lives in customer-facing calls and only wants fast, accurate meeting recaps and partial pipeline tools, Fathom’s free plan is worth a look.",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: Free plan available. Paid team plans start at $19/user/month.",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Free plan available; paid plans from $10/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans start at $14/month",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "From $19/recorder/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans start at $10/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $18/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Paid plans from $8/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "From $15/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $8.33/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $7/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans start at $9.99/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $15/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available with unlimited transcription, with a total of 400 minutes of meeting storage; paid plans start at $10/user/month billed annually.",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "with 33% fewer attendees per meeting. Enterprise search saves 20 hours per month, and it takes less than 5 minutes to set up. The platform works with",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier available with up to 5 meetings per month. Pro plans start at $19.75/user/month. Enterprise plans from $29.75/user/month with advanced admin controls.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier includes 800 minutes of storage. Paid plans from $10-19/user/month.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier offers 300 minutes monthly. Paid plans from $8.33/user/month.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Free plans offer 5 AI recordings per user. Paid team plans from $7/user/month.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Starts from $18+/user/month. Enterprise pricing can reach $1,600+/user/year.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Free with unlimited recordings. Premium $16/month. Team $14/user/month. Business $20/user/month.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Free with limited meeting history. Pro $14/user/month with unlimited notes and history. Business/Enterprise at $35 per user per month.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Business plan ($59/user/month) is a steep jump from Pro ($18), primarily for coaching features. Teams support requires a paid plan.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Free with unlimited meetings, but 10 meeting notes. Pro at $26/user/month with unlimited meeting notes and more. Business at $52/user/month and custom enterprise plans.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "For individuals starting out, with 5 meetings per month complete with summaries, transcription, and search.",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "5 meeting transcripts per month",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "30 meetings measured per month",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "100 file upload credits /mo",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$19.75",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "200 file upload credits /mo",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$22.50",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$29.75",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "300 file upload credits /mo",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$39.75",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Setup fee: $5,000 for configuration",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "30 Premium seats annually: $4,320 instead of $5,400",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "30 Vantage seats annually: $23,904 instead of $29,880",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Total upfront with setup: $33,224, with recurring annual cost of $28,224",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Elevate added $200,000 in new annual revenue by packaging Elevate Insight as a premium add-on.",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "$15.99",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Free with Community. Pro from $10/user/month.",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Meetily is an open source AI meeting assistant that processes everything locally on your device. Unlike Otter.ai which stores data in the cloud, Meetily ensures 100% privacy with no external data transmission. Key differences: 100% Local Processing (vs cloud-based), Self Hosted (vs $8-30/month), Open Source (vs proprietary), GDPR/HIPAA Compliant by Design (vs limited compliance).",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Free for individuals (Community Edition), custom pricing for organizations vs. $8-30/month subscription competitors",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Community Edition is free & open source. Pro is $10/user/month billed annually for enhanced features.",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "$10/user/month billed annually ($120/year) - speaker identification, exports, auto-detect. Available for individuals and teams.",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "- $10/user/month billed annually ($120/year) with speaker identification, advanced exports (PDF, DOCX), and auto-detect meetings. Available for individuals and teams.",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "From $10 per seat / mo, billed annually · your brand, your data",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Billed annually — $120 / seat / year · your infrastructure, your data",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Billed annually — $216 / seat / year · nothing for you to maintain",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "In-house (your VPC or on-prem) is $10 per seat per month, billed annually ($120 per seat per year), and it's the plan most teams pick. The fully managed Cloud plan is $18 per seat per month, billed annually ($216 per seat per year).",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Three reasons. It's cheaper — $10 vs $18 per seat. Meeting data never leaves your own infrastructure, which makes security and compliance sign-off far easier. And you keep full control: your own LLM, custom retention, audit logs, even an air-gapped setup. Cloud is the quicker start, but in-house is where most teams land.",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "This stage matters because the rest of the workflow inherits its quality from the transcript. AI meeting transcription now reaches up to 95% accuracy, and a typical CMO handling 15 to 20 hours of weekly meetings can reclaim 7 to 10 hours per month through automated summarization and action item extraction, according to",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "A 2026 Forrester study found that 42% of teams abandon AI notetakers within six months because of inaccuracies such as multi-speaker detection errors, costing businesses over $5,000 in lost productivity from debugging and correction, as summarized by",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "Three paths: buy MeetGeek Business at $17/user/mo (brands summary only — bot joins as 'MeetGeek Notetaker'), hire RapidDev for $15K–$22K custom build (5–7 weeks), or DIY Lovable MVP for $25 + $80 in API. Research recommends hire-agency — no white-label SaaS in this category rebrand the bot identity or the dashboard; every option shows the vendor's name to your clients.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$15K–$22K",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$300–$600 infra (Supabase + Vercel + Deepgram + Recall.ai)",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$0 setup",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$17–$25/user/mo depending on tier",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "MeetGeek Business at $17/user/mo only brands the summary output, not the bot joining the meeting — your clients see 'MeetGeek Notetaker' in their calendar and in the meeting participant list",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Per-user pricing scales linearly with your client base; at 200 users × $17/mo = $3,400/mo, a custom build breaks even in under 8 months",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$25 Lovable Pro",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$40–$150 (Supabase + Deepgram + Anthropic)",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "No-code automation across 9,000+ apps",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Build an AI chatbot in minutes",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available with unlimited transcription, with a total of 400 minutes of meeting storage; paid plans start at $10/user/month billed annually.",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Very easy to use",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available for 40 minutes of transcription per meeting; paid plans from $15/month (billed annually).",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available for up to 300 minutes/month; paid plans from $8.33/user/month (billed annually).",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free meeting minutes templates and examples",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "with 33% fewer attendees per meeting. Enterprise search saves 20 hours per month, and it takes less than 5 minutes to set up. The platform works with",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier includes 800 minutes of storage. Paid plans from $10-19/user/month.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier offers 300 minutes monthly. Paid plans from $8.33/user/month.",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "Workspace onboarding",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Workspace Onboarding",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "4–5 minutes",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated onboarding & account manager",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The numerous integration tools supported by this platform like notion, zapier, Trello etc makes this platform much more robust. The onboarding of this platform was simple and fast. I am happy with the performance of this platform.”",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "\"I love the integrations, the overall design experience and the topics summaries. It is very easy to use and the implementation was as easy as should be.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise plans include advanced admin controls, custom data retention, SSO, dedicated account management, SLA options, assisted onboarding, stronger governance features, and support for larger organizational rollouts.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Zapier connections let you connect MeetGeek with 10,000+ apps through no-code trigger-action workflows. They are useful when you want to build workflows beyond MeetGeek’s native integration library.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "What happens step by step during the two-minute onboarding?",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "During or after onboarding, you can configure summary templates, sharing rules, integrations, notification preferences, recording rules, and automation triggers from your workspace settings. This means MeetGeek can be ready to produce structured outputs and trigger workflows from your first recorded meeting.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "What onboarding resources and support are available for new enterprise teams?",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise teams can access dedicated onboarding support, structured rollout planning, live training, priority support, documentation, and implementation guidance. This helps larger organizations deploy MeetGeek across teams while aligning security, adoption, integrations, and workflow automation from the beginning.",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "See it on your own meetings in 20 minutes",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Meeting note taker and meeting minutes generator : Building a Fully Open-Source Local LLM-Based AI for Recording and transcribing meetings.",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI assistant for generating meeting minutes, transcribing and generating meeting summaries in real-time",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Meeting note taker and meeting minutes generator : Building a Fully Open-Source Local LLM-Based AI for Recording and transcribing meetings",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Meetily is an AI-based open-source meeting minutes generator that can run entirely on a personal computer. Address:",
+    "url": "https://meetily.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "In minutes",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "AI meeting minutes",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Board meeting minutes",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Receive an AI-generated Japanese summary of your meeting directly in your inbox within minutes.",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Minutes and to-dos ready the moment the meeting ends.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "The moment the meeting ends, minutes and to-dos are ready to share with both teams.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Send minutes and to-dos to the right people, in whichever way works best for each team.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Doraverse generates a transcript, meeting minutes, and a list of action items. Tasks can include an owner and deadline, helping both sides agree on what happens next.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Can Vietnamese and Japanese teams receive minutes in their own language?",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. You can choose the language used for the summary and select from several meeting-note templates. Bilingual minutes help each side review the meeting in a familiar language while staying aligned on the same information.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Can I share the minutes with partners who do not use Doraverse?",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. You can send a public link that opens without an account, deliver the minutes by email, or share them within your Doraverse workspace.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "That means designing a workflow where meeting intelligence feeds your real revenue engine: pipeline management, account expansion, onboarding, campaign execution, and client retention. If you also want tighter outbound follow-up, tools like",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "For recurring sales calls, onboarding calls, and internal project meetings, you can automate far more aggressively. The pattern is predictable, and the business value of speed is immediate.",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales calls, account check-ins, and onboarding calls are usually better pilot candidates than legal or leadership meetings.",
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "pass": 3
+   },
+   {
+    "quote": "Lovable Edge Function 30-second timeout is a hard blocker for audio files over ~5 minutes — must use background jobs for any production use",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Free (800 minutes storage)",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "300 monthly transcription minutes",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier with limited minutes",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Premium tier — executive meeting recaps, board minutes, legal depositions",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "The pipeline splits into two paths: file-upload transcription (fully async background job) and live meeting-bot ingestion (real-time Recall.ai webhook stream). The shared bottleneck is the LLM summarization step, which must handle transcripts of variable length (15 minutes to 3+ hours) with consistent output quality.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "For files >30 minutes, chunked submission to Deepgram batch API. For live streams, Deepgram streaming WebSocket. Returns word-level timestamps, confidence scores, and optional speaker labels. Raw JSON stored on R2.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram API key (free tier includes 45K minutes/year)",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "- Tenants table (id, name, brand_color, logo_url, plan, credit_minutes_remaining)",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "- Step 5: Deduct the meeting duration in minutes from the tenant's credit_minutes_remaining",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "IMPORTANT: For large files (>30 min), the Edge Function will time out. For the MVP, add a clear error message: 'Files over 30 minutes are not yet supported — this feature is coming soon.' We will add background jobs in a follow-up prompt.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Add a per-tenant credit system with Stripe billing. Credits are measured in minutes. Add a Buy Credits page with three packages: Starter ($9.99 for 500 minutes), Pro ($24.99 for 2,000 minutes), Business ($49.99 for 6,000 minutes). Wire Stripe Checkout + webhook. Show remaining credits in the dashboard header with a warning at 10% remaining.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "After starter prompt: an upload-and-transcribe MVP supporting files up to 30 minutes with AI summary. After follow-up prompt 1: unlimited file length via background jobs. After prompts 2–5: full meeting-bot ingestion, consent flows, CRM sync, and credit billing.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Lovable Edge Function 30-second timeout is a hard blocker for audio over 5 minutes — the starter prompt explicitly caps at 30 minutes and uses a background job for production. Do not skip this migration.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "as an automated participant. It captures the full conversation, identifies each speaker, and delivers a transcript with AI summary within minutes of the call ending. Works with Zoom Workplace, Zoom Webinars, and Zoom Phone. No desktop app changes needed.",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Track objections, capture competitor mentions, and identify what top performers do differently. Share winning call recordings with the team and build a searchable library of prospect conversations for coaching and onboarding.",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Within minutes of the meeting ending, you receive a full transcript with speaker labels, an AI-generated summary, extracted action items, and key highlights. Everything is stored in your searchable meeting library.",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": ". Easy to use, easy to implement, and the support has been incredible.”",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "5 Best AI Note Taker Apps for Meetings in 2026 - YouTube — 5 Best AI Note Taker Apps for Meetings in 2026 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Hg5jMlhfxlY",
+    "pass": 3
+   },
+   {
+    "quote": "The 11 best AI meeting assistants in 2026 - Zapier — The 11 best AI meeting assistants in 2026 - Zapier Zapier https://zapier.com > ... > Best apps",
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "9 Best AI Meeting Assistants in 2026 - Read AI — 9 Best AI Meeting Assistants in 2026 - Read AI Read AI https://www.read.ai > Resources",
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "pass": 3
+   },
+   {
+    "quote": "AI Meeting Notes Comparison 2026 : Privacy, CRM & Captions — AI Meeting Notes Comparison 2026 : Privacy, CRM & Captions Zachary Proser https://zackproser.com > blog > best-a...",
+    "url": "https://zackproser.com/blog/best-ai-meeting-notes-tools-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI Notetaker — white - label meeting notes for B2B | notetaker ... — AI Notetaker — white - label meeting notes for B2B | notetaker ... notetaker.tech https://notetaker.tech",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "8 Budget-Friendly AI Meeting Assistant Tools for Startups — 8 Budget-Friendly AI Meeting Assistant Tools for Startups Read AI https://www.read.ai > Resources",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Customize the name (all platforms) and logo (Zoom only) with your brand when Read joins your video conference call.",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "AI Meeting Notetakers with White Labeling: How Equal Time Extends Your Brand – Equal Time",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Meeting Notetakers with White Labeling: How Equal Time Extends Your Brand",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Equal Time closes that gap with a white labeling option. You get the accuracy and power of Equal Time’s transcription and coaching tools, but under your brand identity.",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Why White Labeling Matters",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Leadership coaches and consultants rely on strong client relationships. A white-labeled AI notetaker allows them to provide value under their own name. The benefits are clear:",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Client trust grows because they engage directly with your brand.",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Internal branding is not just cosmetic. It reinforces company culture and creates a sense of continuity. With Equal Time white labeling:",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "What Equal Time White Labeling Includes",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Equal Time’s white-label program equips you with:",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "White labeling does not reduce functionality. Your users still access everything Equal Time offers:",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "By white labeling Equal Time, Elevate rebranded the notetaker as",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "When people search for “AI meeting notetakers that enable white labeling,” they are usually looking for:",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Who Benefits Most from White Labeling",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "If your business relies on trust, brand consistency, and strong client retention, white labeling Equal Time helps you look bigger, more professional, and more supportive.",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Provide your branding assets",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Notetaker — white-label meeting notes for B2B | notetaker.tech",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Sell AI meeting notes under your own brand",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "From $10 per seat / mo, billed annually · your brand, your data",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Your logo on the bot, files and emails.",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Same notetaker, your brand. A few of the teams using it:",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "with your logo on it",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, your servers",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label, on our cloud or your own VPC / on-prem.",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, domain and emails",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "“Deployed under 2 weeks. Real white-label.”",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "What is a white-label AI notetaker?",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "It's an AI meeting assistant you sell under your own brand. notetaker joins your Zoom and Google Meet calls, records and transcribes them, then writes up branded summaries and action items — your domain, your logo, your emails. Your customers never see our name.",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Your workflow with your branding on it",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "A white-label, resell-ready alternative to Fireflies.ai.",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI meeting notes you can sell as your own — on our cloud or your own servers. Built by a small team that answers its own emails.",
+    "url": "https://notetaker.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label AI Transcription Service | Build vs Buy | RapidD",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Build a White-Label AI Audio Transcription Service for Agencies",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Build a White-Label AI Audio Transcription Service",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Three paths: buy MeetGeek Business at $17/user/mo (brands summary only — bot joins as 'MeetGeek Notetaker'), hire RapidDev for $15K–$22K custom build (5–7 weeks), or DIY Lovable MVP for $25 + $80 in API. Research recommends hire-agency — no white-label SaaS in this category rebrand the bot identity or the dashboard; every option shows the vendor's name to your clients.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Buy white-label SaaS",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Fireflies.ai provides a GraphQL API on Business/Enterprise but no rebrandable SaaS dashboard — you are building a custom frontend on top of their API anyway",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Otter.ai has no white-label tier at any price — not a viable option",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Agency founders who have sold the concept and need a fully rebrandable platform where their bot joins meetings under their own brand name",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Transcribes audio or video uploads with speaker diarization, generates structured summaries and action items, and delivers the output through a fully white-labeled dashboard where the bot and brand are yours.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Summary branding is available — you can white-label the email report that gets sent after meetings",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "The bot joins your client's Zoom call labeled 'MeetGeek Notetaker.' Every participant sees this in the calendar invite and in the meeting. If your business proposition is 'your brand's AI meeting assistant,' this immediately breaks the illusion.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "The GraphQL API gives you data access, not a rebrandable platform — you're building your own UI on top of their processing anyway",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No white-label dashboard exists at any published price — Business/Enterprise API is the only path",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Fireflies' API path means you're building your own white-label frontend anyway — at that point you're most of the way to a full custom build, but still paying Fireflies per-seat. Evaluate whether the API saves enough time to justify the permanent per-seat overhead.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Individual users and teams who want personal AI meeting notes — not relevant for white-label resale",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Custom AI applications: bespoke multimodal pipelines, white-label platforms, your methodology at contract scale.",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "The largest deployments span every use case: built with us, under your brand.",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom builds, white-label, SSO, dedicated support, and tailored pricing.",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label and embed options",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Most AI notetakers are consumer tools with no customization. Speak offers white-label embedding, custom branding, and API access for organizations that need meeting intelligence integrated into their own products and workflows.",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Try Speak free and upload your first file in under 30 seconds. Or book a consult to deploy AI agent workflows, white-label embeds, and custom integrations.",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise & White-Label",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Integrations",
+    "url": "https://albato.com/blog/publications/best-ai-meeting-assistants-note-takers",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Pricing",
+    "url": "https://albato.com/blog/publications/best-ai-meeting-assistants-note-takers",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "20+ languages supported",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Read meeting reports are available in 16+ languages including Arabic, Chinese (Cantonese and Mandarin), Danish, Dutch, English, Finnish, French, German, Hindi, Italian, Japanese, Norwegian, Portuguese, Russian, Spanish, and Swedish",
+    "url": "https://www.read.ai/plans-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Full Equal Time infrastructure, including GDPR and CCPA compliance, enterprise security, and multilingual support",
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "How does multilingual detection and summarization work?",
+    "url": "https://meetgeek.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "議事録AI｜日本語の会議を自動で文字起こし・要約",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese AI Notetaker",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "AI Notetaker for Smarter Meetings in Japanese",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Turn Japanese conversations into clear, structured notes instantly. Record, transcribe, and summarize every meeting with AI built for accuracy and speed.",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "AI Notetaker in Japanese & +119 other languages",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "and delivers instant, accurate notes. It’s the only AI note taker supporting as many languages including Japanese and +120 others.",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "HappyScribe’s Japanese AI Notetaker isn’t just smart;",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "The Most Advanced AI Notetaker for Japanese Teams",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Your Notetaker instantly detects when a meeting is in Japanese or any other supported language.",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Each participant is labeled automatically for clear, structured notes and summaries in Japanese.",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Get concise meeting recaps with decisions, next steps, and key takeaways — written in natural, fluent Japanese.",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Receive an AI-generated Japanese summary of your meeting directly in your inbox within minutes.",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Does the AI Notetaker understand Japanese perfectly?",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. HappyScribe’s AI Notetaker is trained on thousands of hours of native Japanese audio — covering regional accents, idioms, and variations. It understands real conversations and produces natural, accurate notes every time",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Can it handle mixed-language meetings (Japanese and English)?",
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "AI Meetings for Vietnam–Japan Teams | Doraverse",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "between Vietnam and Japan",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by Vietnamese and Japanese businesses",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Vietnamese and Japanese teams work as one",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time Vietnamese ⇄ Japanese translation, live.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Doraverse translates meetings between Vietnamese and Japanese in real time, so both teams can talk as naturally as if they shared one language.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "A complete AI workspace for Vietnam–Japan teams.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Run multilingual events with live translation across 60 languages.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Meetings carry sensitive information. Doraverse delivers enterprise-grade security measures and regional data storage, so you can operate confidently across both Vietnam and Japan offices.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Vietnamese participants can speak Vietnamese, while Japanese participants speak Japanese. Doraverse transcribes and interprets the conversation in real time, so both sides can follow along without switching to a shared language.",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Can Vietnamese and Japanese teams receive minutes in their own language?",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "Japan–Vietnam",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "DORAVERSE JAPAN Co., Ltd. | Doraverse JSC",
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "pass": 3
+   },
+   {
+    "quote": "“High accuracy, multilingual support, and insightful analysis. Integrations with",
+    "url": "https://speakai.co/ai-notetaker/",
+    "pass": 3
+   },
+   {
+    "quote": "is a straightforward AI note-taker that earns its place on this list primarily through its affordable pricing and solid multilingual support.",
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Interviews, lectures, multilingual recordings",
+    "url": "https://albato.com/blog/publications/best-ai-meeting-assistants-note-takers",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://justtalkingtech.medium.com/best-ai-meeting-note-takers-in-2026-i-tested-14-over-90-days-heres-the-honest-ranking-a7ea13fb8b47",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AiNoteTaker/comments/1rls9rp/5_best_ai_meeting_note_takers_in_2026_after/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zackproser.com/blog/best-ai-meeting-notes-tools-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autocalls.ai/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.read.ai/plans-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meetgeek.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Notion/comments/1klox34/ai_meeting_notes_for_individual_users/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://meetily.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://notetaker.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usecarly.com/blog/white-label-ai-assistant-for-agencies/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promptowl.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmpulse.ai/blog/white-label-ai-visibility-tools-rebrand/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://soniox.com/soniox-app/for/consultants-workshop-notes-in-japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doraverse.com/usecase/japan-vietnam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20260115575470/en/Dialpad-Launches-Real-Time-AI-in-Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.read.ai/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://line-works.com/ainote/column/ai-minutes-recommendation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/media/2380/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ai.yomel.co/gijiroku/lp/2609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sotatek.com/jp/blogs/ai-note-taker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoom.com/ja/blog/ai-auto-transcribe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-ai-receptionist-for-agencies-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.petal.org/partnership/white-label-and-enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://10clouds.com/white-label-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-ai-voice-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainora.lt/blog/white-label-voice-ai-platform-cost-agencies-2026",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/blogs/best-white-label-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wlcompare.vercel.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabel-inc.com/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wiserep.com/ja/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijirokukun.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.stella-ai.net/minutes/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/products/ri-rimovoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/search/categorysub_ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizresearch.net/prod/514",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sofpla.jp/partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizsele.com/blog/blog-3974/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://speakai.co/ai-notetaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lety.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://albato.com/blog/publications/best-ai-meeting-assistants-note-takers",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label AI meeting notes 2026",
+   "results": [
+    "https://www.youtube.com/watch?v=Hg5jMlhfxlY",
+    "https://justtalkingtech.medium.com/best-ai-meeting-note-takers-in-2026-i-tested-14-over-90-days-heres-the-honest-ranking-a7ea13fb8b47",
+    "https://www.reddit.com/r/AiNoteTaker/comments/1rls9rp/5_best_ai_meeting_note_takers_in_2026_after/",
+    "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "https://www.read.ai/articles/best-ai-meeting-assistants",
+    "https://zackproser.com/blog/best-ai-meeting-notes-tools-2026",
+    "https://www.laxis.com/blog/best-ai-note-taker-2026/",
+    "https://mind-core.com/blogs/best-ai-tools-for-meeting-note-automation-in-2026/",
+    "https://www.producthunt.com/categories/ai-meeting-notetakers",
+    "https://meetingnotesai.org/2026/07/09/best-ai-meeting-notes-tools-in-2026/"
+   ]
+  },
+  {
+   "query": "white label AI meeting notes reseller program agencies",
+   "results": [
+    "https://autocalls.ai/white-label",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies",
+    "https://www.whitelabeliq.com/white-label-ai-services/",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.e2msolutions.com/ai-service-reseller-partner/"
+   ]
+  },
+  {
+   "query": "white label AI meeting notes free trial pricing",
+   "results": [
+    "https://www.read.ai/plans-pricing",
+    "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "https://meetgeek.ai/",
+    "https://www.reddit.com/r/Notion/comments/1klox34/ai_meeting_notes_for_individual_users/",
+    "https://meetily.ai/",
+    "https://meeting.ai/en/p",
+    "https://owll.ai/",
+    "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "https://www.youtube.com/watch?v=SvyTkCegjVs",
+    "https://www.getvoibe.com/resources/ai-meeting-note-taker-pricing/"
+   ]
+  },
+  {
+   "query": "white label AI meeting notes rebrand your logo custom domain",
+   "results": [
+    "https://notetaker.tech/",
+    "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.usecarly.com/blog/white-label-ai-assistant-for-agencies/",
+    "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "https://promptowl.ai/whitelabel/",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://llmpulse.ai/blog/white-label-ai-visibility-tools-rebrand/",
+    "https://www.myvoiceaiconnect.com/blog/set-up-white-label-ai-receptionist-business-24-hours",
+    "https://parallellabs.app/white-label-ai-platform-rebrand-resell-ai-agents-under-your-agency/"
+   ]
+  },
+  {
+   "query": "white label AI meeting notes Japan Japanese",
+   "results": [
+    "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "https://www.happyscribe.com/ai-meeting-notetaker/japanese",
+    "https://soniox.com/soniox-app/for/consultants-workshop-notes-in-japanese",
+    "https://notetaker.tech/",
+    "https://doraverse.com/usecase/japan-vietnam",
+    "https://www.businesswire.com/news/home/20260115575470/en/Dialpad-Launches-Real-Time-AI-in-Japan",
+    "https://www.read.ai/",
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://www.usatoday.com/press-release/story/37101/japanese-startup-lamponi-launches-ai-meeting-assistant-for-recording-transcription-and-cross-meeting-recall/",
+    "https://www.ainomam.com/post/ai-meeting-notetaker-tokyo-20260815"
+   ]
+  },
+  {
+   "query": "ホワイトラベルAI議事録 日本",
+   "results": [
+    "https://line-works.com/ainote/column/ai-minutes-recommendation/",
+    "https://japan-ai.co.jp/media/2380/",
+    "https://ai.yomel.co/gijiroku/lp/2609",
+    "https://www.sotatek.com/jp/blogs/ai-note-taker/",
+    "https://www.zoom.com/ja/blog/ai-auto-transcribe/",
+    "https://si.mitani-corp.co.jp/cloudbox/ai-minutes",
+    "https://zidaiinc.com/method/ai-transcription-tool/",
+    "https://sales-marker.jp/report/minutes-tool/",
+    "https://rimo.app/",
+    "https://www.aidata.co.jp/news/250917/"
+   ]
+  },
+  {
+   "query": "white label AI meeting notes OEM partnership",
+   "results": [
+    "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "https://notetaker.tech/",
+    "https://trillet.ai/blogs/best-white-label-ai-receptionist-for-agencies-2026",
+    "https://autocalls.ai/white-label",
+    "https://www.petal.org/partnership/white-label-and-enterprise",
+    "https://promptowl.ai/whitelabel/",
+    "https://10clouds.com/white-label-ai/",
+    "https://samueljwoods.com/ai-agent-for-meeting-notes-and-follow-up/",
+    "https://wotnot.io/blog/white-label-ai-voice-agent",
+    "https://www.naentry.com/blog/ai-partnership-strategies-white-label-vs-embedded-vs-oem-"
+   ]
+  },
+  {
+   "query": "white label AI meeting notes partner program pricing",
+   "results": [
+    "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "https://autocalls.ai/white-label",
+    "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "https://ainora.lt/blog/white-label-voice-ai-platform-cost-agencies-2026",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://trillet.ai/whitelabel/pricing",
+    "https://www.rapidevelopers.com/ai-implementation/ai-powered-audio-transcription-service-ai-white-label",
+    "https://zapier.com/blog/best-ai-meeting-assistant/",
+    "https://botpenguin.com/blogs/best-white-label-partner-program"
+   ]
+  },
+  {
+   "query": "ホワイトラベルAI議事録 OEM提供",
+   "results": [
+    "https://www.whitelabel-inc.com/oem",
+    "https://wiserep.com/ja/white-label/",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://gijirokukun.com/",
+    "https://line-works.com/ainote/column/ai-minutes-recommendation/",
+    "https://lp.stella-ai.net/minutes/",
+    "https://www.ricoh.co.jp/products/list/toruno",
+    "https://www.salesforce.com/jp/blog/jp-ai-minutes-creation-tool/",
+    "https://liftbaseinc.com/column/ai-meeting-minutes-comparison",
+    "https://llmocheki.com/blog/llmo/llmowhitelabel"
+   ]
+  },
+  {
+   "query": "ホワイトラベルAI議事録 代理店募集",
+   "results": [
+    "https://b-seeds.com/products/ri-rimovoice",
+    "https://dairitenboshu.com/search/categorysub_ai",
+    "https://bizresearch.net/prod/514",
+    "https://www.sofpla.jp/partner.html",
+    "https://gijirokukun.com/",
+    "https://bizsele.com/blog/blog-3974/",
+    "https://aidia.works/reseller",
+    "https://rimo.app/about/voice_partners",
+    "https://ai-gage.com/partner/",
+    "https://bizresearch.net/blog/article/82"
+   ]
+  },
+  {
+   "query": "white label AI meeting notes distributor Japan",
+   "results": [
+    "https://equaltime.io/2025/10/01/ai-meeting-notetakers-with-white-labeling-how-equal-time-extends-your-brand/",
+    "https://notetaker.tech/",
+    "https://speakai.co/ai-notetaker/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.read.ai/articles/8-budget-friendly-ai-meeting-assistant-tools-for-startups",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://autocalls.ai/white-label",
+    "https://lety.ai/",
+    "https://albato.com/blog/publications/best-ai-meeting-assistants-note-takers",
+    "https://japanesedistributors.com/"
+   ]
+  }
+ ],
+ "missing": {}
+}

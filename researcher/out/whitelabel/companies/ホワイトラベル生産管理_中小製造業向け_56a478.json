@@ -1,0 +1,2601 @@
+{
+ "name": "ホワイトラベル生産管理（中小製造業向け）",
+ "en": "white label manufacturing ERP",
+ "aliases": [
+  "white-label production management",
+  "white label MES",
+  "manufacturing ERP",
+  "production planning software",
+  "MES",
+  "生産管理システム",
+  "生産管理"
+ ],
+ "context": "製造業・生産管理",
+ "kind": "market",
+ "researched_at": "2026-11-03T05:00:35.063861+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "See the pros and cons of each system, plus who it’s recommended for, so you can narrow your shortlist before reading the full reviews.",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "and reviewed where each vendor stands in the market,",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "DELMIAWorks (Previously IQMS) Manufacturing ERP stands out as a holistic ERP and MES solution tailored specifically for the manufacturing industry, addressing the unique needs and challenges faced by manufacturers globally. Notably, its single-source development ensures that the system is less complex and more cost-effective than multi-solution alternatives.",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "software tailored to your manufacturing needs. We’ll discuss cloud vs. on-premises models, researching vendors, and finding the ideal platform for your operations. Let’s examine how to select the best",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-Based vs. On-Premises",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "providers include:",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us about your business and what you need. We’ll personally review your requirements, handpick the systems that fit, and connect you with those vendors for pricing and demos, all at no cost.",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Acumatica vs Business Central for SMBs",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Higher cost compared to other ERP options",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Lower cost compared to most ERP systems",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Odoo vs Dynamics 365 Business Central",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Lower cost compared to ERP systems",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "QuickBooks vs Business Central (A Guide for Growing Manufacturing Companies)",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "It focuses on core manufacturing functionality, making it easier to implement and manage compared to more robust ERP platforms. This makes it a strong entry point for companies moving away from spreadsheets or basic accounting systems.",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Lower cost compared to full ERP systems",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Fewer advanced features compared to larger ERPs",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Higher cost compared to simpler ERP systems",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP Systems Compared (2026)",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Deep discrete manufacturing with MES-ready shop-floor execution · Advanced BOM, routing and configurator for make-to-order · Scheduling, finite capacity and nested manufacturing orders · Quality, NCR and CAPA tightly linked to production · Job costing, WIP and estimated-vs-actual for custom manufacturers",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Independent review",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Last reviewed:",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "— vendors do not pay for ranking or preview it",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Reviewed annually with quarterly touch-ups",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Rankings on this page are editorial, not paid. Vendors do not pay for position, nor do they preview rankings before publication. Every shortlisted system is evaluated on a published 7-pillar framework:",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Rankings are reviewed annually with quarterly touch-ups for material changes (new releases, acquisitions, reference drift).",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ERP for A&D manufacturers, MRO providers, and defense contractors with strict compliance requirements",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise vs Cloud",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "This blog will help you to choose the best white label reseller company as per your niche and necessities.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Review chats in real-time",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "With platforms like",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "white label partnership",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "also partner with white label SaaS providers to expand their digital service offerings and help clients strengthen their online presence more effectively.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Tackles Google My Business Signals, on-page SEO, backlinks, citations, and even reviews",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "12 Best White Label AI Voice Agent Platforms",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Prepare to gather and manage reviews in your brand.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Preview →",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. SaaS Reseller Programs",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Building software from scratch requires design, development, hosting, security, and ongoing support. A white-label platform can reduce that work when its existing capabilities fit your service. Budget time for domain, login, email, permissions, content, and client-workflow setup. The vendor handles security patches, feature development, and infrastructure. You focus on serving clients.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "use white-label platforms to deliver CRM, email marketing, and reporting dashboards to their clients under the agency’s brand. Instead of telling clients “log into HubSpot,” the agency says “log into Your Agency’s Platform.” This strengthens client retention : when clients feel locked into the agency’s proprietary tools, they’re less likely to leave.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "to offer a professional, branded experience. A consultant’s clients log into a portal bearing the consultant’s logo, review documents, pay invoices, and communicate : all through the consultant’s white-labeled system.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "license white-label platforms and resell them as their own SaaS products to specific niches. A reseller might take a white-label CRM, brand it for the dental industry, and sell it as “DentalFlow CRM” : a niche-focused product powered by the same white-label backend.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "use white-label platforms to deliver a unified branded experience across all locations. Instead of each franchisee running their own tools, the parent company licenses a white-label platform branded with the franchise identity and distributes it to every location.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "use white-label platforms to host courses, manage memberships, and deliver coaching through branded portals. The creator’s students experience “Coach Smith’s Academy” : not a generic vendor site.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Review the sender, templates, and branding of the messages your workflow actually uses, including invitations, onboarding, and billing notices. Configuration and available controls depend on the message and plan.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced white-label platforms let you route all outgoing email through your own SMTP server with SPF, DKIM, and DMARC configured to your domain. This ensures deliverability and email headers that reveal no trace of a third-party vendor.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Most white-label platforms specialize in one capability : white-label CRM, white-label billing, or white-label email marketing. SuiteDash takes a different approach. A single branded platform delivers CRM, client portals, invoicing, project management, email marketing, proposals, file sharing, and team communication : all under your brand, all integrated.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Example: A reseller licenses a white-label platform, brands it as “IndustryApp,” and sells monthly subscriptions to 200 end customers at $99/month each. The reseller collects $19,800/month from customers, pays the vendor a fraction of that, and keeps the margin.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Launching a white-label platform involves more than swapping a logo. Plan for the following considerations to avoid surprises.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label platforms handle vendor-side maintenance : security patches, feature updates, uptime monitoring, infrastructure scaling. Your maintenance is limited to your branding, client configurations, and custom workflows. This eliminates most of the maintenance overhead that makes custom software expensive.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "11 Best White Label Software to Resell in 2026",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Digital marketing agencies wanting a white-label platform plus outsourced service fulfillment (SEO, content, ads, social).",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Every domain you register gets SPF, DKIM, and DMARC configured automatically. These are the email authentication records inbox providers like Gmail and Outlook check to confirm a sender is not spoofing someone else's domain. You skip the manual DNS work, and there is no waiting on propagation troubleshooting when you onboard a new client.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "They pack a lot into one product, and that is exactly why it works as a white label SaaS platform: a CRM, a funnel and landing page builder, email and SMS campaigns, a calendar tool, forms, membership sites, and review management.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "But GoHighLevel has two things most reviews skip past that will affect your budget if you miss them.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Some run it as a technology platform where they resell software (CRM, listings management, review management) to local business clients.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients log in and see search rankings, review counts, listings health, ad spend, social engagement, and other numbers, all under your brand. This is what makes local businesses feel like they are working with a real agency instead of paying for a bunch of one-off services.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Some Trustpilot and Capterra reviews mention inconsistent quality across fulfillment services",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-office agencies and managed service providers operating at scale",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Lets agencies sell four products (chatbot, agent, automation, voice) under one white label partnership instead of stitching together multiple vendors",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label included on every plan starting at $19/month, making it the lowest-cost true white-label platform in this comparison",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Wholesale Distribution",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "• Experience varies by reseller partner",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "so costing, margins, and reporting reflect real operations",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Software, wholesale, services, nonprofit",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Orders to revenue and margins",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Group consolidation of production entities, subsidiaries and holding companies on one ledger · Real-time postings streamed through an open API into MRP, MES and shop-floor systems · Cost and margin per plant without waiting on a batch close · Multi-book accounting (local GAAP, IFRS, management books) across countries · Agent-run AP, AR and reconciliation for group finance teams",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale & Distribution",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale distributors needing best-in-class distribution ERP",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built for wholesale distribution — 5,000+ distributor customers",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Vendor names and logos are trademarks of their respective owners. ERP Research is not affiliated with or endorsed by any ERP vendor. Sponsored content is clearly labelled.",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "41 White Label Reseller Programs Worth It | WotNot",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "41 White Label Reseller Programs Worth It",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "White label reseller services are popular for reasons like providing:",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Higher profit margins",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "And since you have begun to read this blog, it means that you are interested in knowing more about white label reseller companies. You might have heard about the benefits of white label SaaS services, but are you aware about how challenging it is to choose a right white label reseller service for your company?",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Investing without knowing all the details about the white label SaaS reseller companies",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "The only practice that can save you from all these hazards is – searching and knowing every detail about a white label reseller company before investing.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "In this blog, we are going to provide you a list of 40 white label SaaS reseller platforms. For each reseller program, we have mentioned all the necessary details like:",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "What product/service do they provide in their white label reseller program?",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "This blog will help you to choose the best white label reseller company as per your niche and necessities.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "41 White Label Reseller Companies",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": ", you can build chatbots quickly and easily. WotNot is a popular white label reseller chatbot company offering unmatched",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "capabilities. You can resell the different types of chatbot for different client requirements at your own price under your company's label.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "reseller service",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is a well-known name and leading platform for SaaS marketing services. It has more than 55 marketing tools and products. It provides white label reseller program too.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Business Software: Rebrand & Resell | SuiteDash",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Promoter Affiliate Program",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire an Agency Partner",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Agency Partner",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebrand, Resell, and Scale Under Your Own Identity",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The White Label Spectrum: From Logo-Swap to Full SaaS Reselling",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. SaaS Reseller Programs",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "For agencies, consultants, and resellers, white labeling is one way to offer software-backed services using an existing platform. Instead of pitching clients on tools you don’t own, you deliver a branded platform that looks and feels like your own product.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White label business software is a pre-built technology platform licensed to resellers, agencies, or consultants who rebrand the software and deliver it under their own name. The term “white label” comes from consumer goods : generic products packaged in plain white labels that retailers could brand and sell as their own.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "In software, the same principle applies. A vendor builds a functional product (CRM, portal, billing engine, etc.) and licenses it to businesses that want to offer that functionality without building it from scratch. The reseller applies their own branding : logo, colors, domain, email templates : and clients experience the product as if the reseller built it.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription management, recurring billing, and invoicing tools rebranded for agencies that bill clients on behalf of their own customers or resellers offering SaaS-like subscription services.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Lead nurturing, funnel automation, and customer journey platforms branded as your own. Agencies often resell white-label marketing automation as part of a managed service.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Software Resellers",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "license white-label platforms and resell them as their own SaaS products to specific niches. A reseller might take a white-label CRM, brand it for the dental industry, and sell it as “DentalFlow CRM” : a niche-focused product powered by the same white-label backend.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "11 Best White Label Software to Resell in 2026",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "For resellers",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Resell your own cold email tool",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Resell private cold email infrastructure",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "But every week, I also get DMs from people asking whether reselling software actually pays back.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI platform with chatbots, AI agents, automations, and voice agents, plus branded WhatsApp and Instagram bots, allowing agencies to resell a complete AI automation stack under their own brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label website, funnel, and community builder for agencies to resell under their own brand, with their own affiliate program and pricing plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing automation resold through the Agency Partner Program, where you buy client accounts at a volume discount and bill your clients directly under your brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Share",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Sales consultants and lead gen agencies reselling cold email + LinkedIn outreach under their own brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "20% flat share on every client subscription. You can mark up client pricing above wholesale.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies reselling private email infrastructure with dedicated IPs and pre-warmed mailboxes.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "None. Flat SaaS pricing. You set your own retail price and keep 100% of the markup.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies reselling 250+ digital products with in-house fulfillment (SEO, content, ads, listings).",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "None. Wholesale-to-retail markup model with a minimum-spend offset. You keep 100% of your markup.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best White-Label Reseller Programs That Deliver Big Profits",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best White-Label Reseller Programs That Deliver Big Profi…",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "reseller programs",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "just means you’re reselling software products and services, but under your own brand name.",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "agency partner",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Industrial Machinery and Equipment",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Distribution",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": ". Infor CloudSuite Industrial",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Infor CloudSuite Industrial",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "CloudSuite Industrial",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Infor CloudSuite Industrial Dashboard",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "connect with industrial IoT devices, robotics, and edge computing platforms.",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Equipment",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "8. Infor CloudSuite Industrial (SyteLine)",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Infor CloudSuite Industrial, often known as SyteLine, is a manufacturing ERP designed for companies that need more advanced production control and industry-specific capabilities.",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "CloudSuite Industrial supports detailed production workflows, including advanced planning, scheduling, and Material Requirements Planning, along with tools for managing shop floor activity and supply chain processes.",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Infor CloudSuite Industrial",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing, industrial equipment",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Infor's vertical CloudSuites ship manufacturing processes preconfigured by industry — CloudSuite Industrial for discrete and industrial machinery, Automotive for OEM/tier scheduling and EDI, Food & Beverage and Process for formula, recipe and lot-trace work. Strongest when one of those editions matches your manufacturing mode out of the box.",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Deep industry-specific editions (Industrial, Distribution, Healthcare, etc.)",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Industry CloudSuite manufacturing for automotive, industrial and aerospace · Configure-to-order and engineer-to-order production models · Advanced planning and scheduling options by vertical suite · Shop-floor integration and quality for regulated industries · Costing and WIP suited to complex discrete manufacturers",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive and industrial manufacturing with QAD Adaptive ERP · Lean, kanban and repetitive manufacturing practices · EDI-heavy customer schedules driving production · Shop-floor control and genealogy for regulated parts · Costing and WIP for global manufacturing networks",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Food, beverage, and industrial manufacturers needing industry-specific ERP",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "4,000+ manufacturers — strong in food, beverage, and industrial verticals",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Epicor Kinetic, Infor CloudSuite Industrial (SyteLine), SYSPRO, and Acumatica are consistently ranked among the strongest options for mid-size discrete manufacturers. For process manufacturing, Infor CloudSuite Process, BatchMaster, and Sage X3 are leading contenders. QAD and Plex (now part of Rockwell Automation) excel in automotive and high-volume repetitive environments.",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Try for Free",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Try for free",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "offers custom URL, login, portal, email, and other branding controls; verify each required touchpoint in a trial and in the plan you intend to use.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Extreme White Labeling, including a branded mobile PWA, is included on every SuiteDash plan: Start $19/month, Thrive $49/month, Pinnacle $99/month (yearly $180, $480, $960), all with unlimited Staff and Clients. Every plan starts with a 14-day free trial of Pinnacle, no credit card required.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial for Your Clients",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "14 days with no credit card required",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "The standard 14-day trial is short for fully testing white-label setup and onboarding workflows",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial with full platform access (30-day trials are sometimes available through partner offers)",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial available before committing",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial with access to all features",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial with full feature access",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "The 14-day trial can be too short to fully build and evaluate reporting workflows across multiple clients",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial available with no credit card required for evaluating the standard platform",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial with full platform access",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free to join, 14-day trial for your clients, no credit card required.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Provide demonstrations or trial periods to showcase the value of the new services. This hands-on approach can help clients understand the benefits and make them more receptive to the new offerings in the future.",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://sellful.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "14 Day Free Trial",
+    "url": "https://sellful.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Try for free",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "14-day free trial",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "free plan",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Ready to see how AI-powered branded funnels change your delivery model? Spin up a 14-day free trial and ship a branded funnel for one of your clients today.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot's white-label features sit on the Ultimate plan at $200/month with annual billing discounts. A 14-day free trial is available with no credit card. Lower-tier plans do not include white-label customization.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "All SE Ranking plans include white-label features and start at $65/month, with a 20% discount for annual billing. Free migration from competing tools is offered. A free trial is available before commitment.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "ActiveCampaign uses tiered subscription pricing based on contact count, with the Agency Partner Program offering reseller rates. A 14-day free trial is offered. Branded reseller features require Partner Program enrollment.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "AgencyAnalytics offers tiered plans starting around $99/month per agency, with white-label features available on most plans. Pricing scales with the number of campaigns or client accounts. A free trial is offered.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SimpleTexting starts at $39/month for 500 credits with credit-based pricing scaling by volume. White-label features sit inside the reseller partner program with custom pricing. A free trial is available before signup.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Mention plans start at $41/month, with higher tiers offering more sources and team seats. A 14-day free trial and live demos are available. White-label features are gated behind paid tiers.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Sendible plans start around $29/month, with white-label features on higher agency tiers and annual billing discounts. A free trial is offered. White-label customization includes custom domain, logo, and login page setup.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Whatagraph uses custom quotes based on use case, integrations, and number of client workspaces. Annual contracts are typical. A demo and trial are available before commitment.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "ManyRequests plans start around $99/month with annual billing discounts. White-label features are included on most agency tiers. A free trial is available before signup.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Brevo offers a free tier with usage caps and paid plans starting around $25/month based on send volume. White-label and partner features unlock through the agency partner program. A free trial is available for paid plans.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Xtensio's white-label features start on the Plus plan at $12 per user/month with a 20% annual discount. A free plan with limited templates is available. A live demo helps teams test before paying.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "feature restrictions during the trial",
+    "url": "https://www.dreamsoft4u.com/white-label-erp-crm-software",
+    "pass": 3
+   },
+   {
+    "quote": "Start Your Free Trial",
+    "url": "https://www.dreamsoft4u.com/white-label-erp-crm-software",
+    "pass": 3
+   },
+   {
+    "quote": "* Available for new clients only. One trial per organisation.",
+    "url": "https://www.dreamsoft4u.com/white-label-erp-crm-software",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile App (Trial)",
+    "url": "https://www.dreamsoft4u.com/white-label-erp-crm-software",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Under $1 Million",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$1 to 10 Million",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$11 to 50 Million",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$51 to 100 Million",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$101 to 500 Million",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$500 Million to $1 Billion",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Over $1 Billion",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Starting at $70/month/user",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting at $2,210/year",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting around $49/user/month",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud ERP systems typically range from $70 to $150 per user per month. Implementation costs can start around $25,000 to $50,000 for smaller projects and increase based on complexity, integrations, and customization.",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "$99/user/mo",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "$100K–$500K",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "$180/user/mo",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "$150K–$600K",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "$100/user/mo",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "$75K–$350K",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "$300K–$2M+",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "$50/user/mo",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Tamkeen employed WhatsApp to streamline support, saving $113K in the process",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Setup your own pricing and sell the 3d Cart tool under your brand name",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Everything in Level 3 plus a resale agreement, customer-account provisioning, pricing, support, and billing processes that let you offer the software to end customers. Mobile delivery varies by vendor: SuiteDash uses an installable branded progressive web app, not an app-store listing. You’re not just using software for your business : you’re selling the software as your own product to others.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "SuiteDash lists Extreme White Labeling on every membership plan. Its branded mobile experience is an installable progressive web app (PWA) after you configure the custom URL, custom login page, and app icon. The platform supports branded client-facing experiences, and plans start at $19/month.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "SuiteDash lists core branding controls on every membership plan. A branded URL, login, and email require configuration, and advanced controls can vary by plan. Compare vendors on the exact domain, email, portal, and mobile branding controls your clients will see. SuiteDash includes Extreme White Labeling on every plan, starting at $19/month.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "5. Pricing That Reflects Value, Not Modules",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Extreme White Labeling, including a branded mobile PWA, is included on every SuiteDash plan: Start $19/month, Thrive $49/month, Pinnacle $99/month (yearly $180, $480, $960), all with unlimited Staff and Clients. Every plan starts with a 14-day free trial of Pinnacle, no credit card required.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Example: A reseller licenses a white-label platform, brands it as “IndustryApp,” and sells monthly subscriptions to 200 end customers at $99/month each. The reseller collects $19,800/month from customers, pays the vendor a fraction of that, and keeps the margin.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "SuiteDash includes Extreme White Labeling on every plan, from Start at $19/month to Pinnacle at $99/month, with unlimited Staff and Clients.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "It can be less expensive when an existing platform meets the required workflow. Compare the current membership price and optional services with configuration, migration, support, and any missing capability you would still need to build or buy. SuiteDash’s current membership plans start at $19/month, but a subscription alone does not measure the total cost of your client offer.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Every plan. Extreme White Labeling, including a branded mobile PWA, is included from Start at $19/month. Thrive ($49/month) adds growth tools such as Dynamic Proposals and Deal Stage Pipelines, and Pinnacle ($99/month) adds the Complete Automation Toolkit, FLOWs, LMS and Support Tickets. All plans include unlimited Staff and Clients.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "I personally know many lead gen agencies layer $10K to $30K a month in branded software revenue on top of retainers, while solo sales consultants adding $800 to $2,000 in recurring revenue from 8 to 15 clients on a branded subscription.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "That's because plenty of platforms gate white-label behind their most expensive plan or charge per client so scaling to 30 clients turns a $200 subscription into $600.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Full multichannel outreach (cold email + 6 native LinkedIn actions) resold under your own brand, with your custom domain, your logo, and your pricing plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "20% flat share on every client subscription. You can mark up client pricing above wholesale.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free to join. Underlying mailbox cost from $4/month, dropping to $2.50/month at bulk (billed annually).",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Agency Unlimited $297/month (~$247/month billed annually). Agency Pro $497/month (~$414/month billed annually).",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "None. Flat SaaS pricing. You set your own retail price and keep 100% of the markup.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starter $99/month (~$79/month billed annually). White-label starts on Professional at $499/month (~$399/month billed annually).",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label plans start at $1,500/year. AI voice agents are available on King and Emperor plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "No revenue share. You keep 100% of every client sale, set your own pricing, and can onboard unlimited clients.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Core plan: $20 per client per month (billed annually). Enterprise custom.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "2. Pricing Structure",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "6. How do I price services in a white-label reseller model.",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "$ 0.00, billed every 3 months",
+    "url": "https://sellful.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$ 1,188.00, billed yearly",
+    "url": "https://sellful.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$ 3,588.00, billed yearly",
+    "url": "https://sellful.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$ 5,988.00, billed yearly",
+    "url": "https://sellful.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "* Email sending can be purchased in packs of 10,000 for $10/Month. You can also add your own external sending service to send without limits.",
+    "url": "https://sellful.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "of the paid plans, card required. Annual plans start at $47/month (Base), $147/month (Grow), and $297/month (Expand). A/B testing on the first page unlocks on the Grow plan, and white-label branding controls sit on higher tiers. A custom Scale plan handles larger agencies with more workspaces and live funnels. There is also a",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot's white-label features sit on the Ultimate plan at $200/month with annual billing discounts. A 14-day free trial is available with no credit card. Lower-tier plans do not include white-label customization.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "All SE Ranking plans include white-label features and start at $65/month, with a 20% discount for annual billing. Free migration from competing tools is offered. A free trial is available before commitment.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "ActiveCampaign uses tiered subscription pricing based on contact count, with the Agency Partner Program offering reseller rates. A 14-day free trial is offered. Branded reseller features require Partner Program enrollment.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "AgencyAnalytics offers tiered plans starting around $99/month per agency, with white-label features available on most plans. Pricing scales with the number of campaigns or client accounts. A free trial is offered.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta plans start at $99/month with annual billing discounts and free platform access for evaluation. Marketplace product margins vary by SKU. White-label features are available on every plan tier.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SimpleTexting starts at $39/month for 500 credits with credit-based pricing scaling by volume. White-label features sit inside the reseller partner program with custom pricing. A free trial is available before signup.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Mention plans start at $41/month, with higher tiers offering more sources and team seats. A 14-day free trial and live demos are available. White-label features are gated behind paid tiers.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Sendible plans start around $29/month, with white-label features on higher agency tiers and annual billing discounts. A free trial is offered. White-label customization includes custom domain, logo, and login page setup.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "DreamSoft4u delivered exceptional quality at a cost-effective price.",
+    "url": "https://www.dreamsoft4u.com/white-label-erp-crm-software",
+    "pass": 3
+   },
+   {
+    "quote": "Best website builder: Lifetime access to Sellful ERP Agency Plan for $349.97 | Mashable",
+    "url": "https://mashable.com/article/sept-18-sellful-white-label-website-builder",
+    "pass": 3
+   },
+   {
+    "quote": ": $349.97 (reg. $1,497) through Oct. 5 — one platform for websites, CRM, invoicing, marketing, and more.",
+    "url": "https://mashable.com/article/sept-18-sellful-white-label-website-builder",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Familiar and easy to use",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Free tool · ~5 minutes",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Launch a no-code WotNot agent and reclaim your hours.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Build no-code inbound and",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is a white label SaaS software. It is helpful in getting your customer’s websites live in minutes. It helps in growing the website's bottom line faster.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Easy to use",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "The best part is that it is just a matter of minutes! This will also save your customer’s time without compromising on the quality of the email. Plus, it will also reduce the charges your customers had to pay to hire designers and developers.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Unlayer takes less than 5 minutes to become compatible with your application.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "offers a powerful Website Reseller Program designed for agencies, freelancers, and entrepreneurs who want to sell websites under their own brand without building everything from scratch. The program enables you to resell websites using Appy Pie’s no-code technology while maintaining full control over branding, pricing, and client relationships.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "No-Code Website Creation – Build and manage websites easily without technical expertise.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Provides a central location for tracking different digital marketing leaps like SEO, Google ads, Facebook promotions, onboarding website design etc.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Create custom-branded agency websites, generate various reports in real time, and much more in just a few minutes with its in-built tools",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Easy to use features",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-drop functionality to build landing page easily",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is a popular email marketing tool which is easy to use. It is an ESP offering white label email marketing tools.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Client Onboarding",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "One-on-One Onboarding",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Review the sender, templates, and branding of the messages your workflow actually uses, including invitations, onboarding, and billing notices. Configuration and available controls depend on the message and plan.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect client work across CRM, onboarding, portal access, proposals and billing. Choose the workflows you configure and the plan or optional Power-Ups you need. Every plan includes unlimited Clients and Staff.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "You see every client workspace from a single login: usage, campaign activity, and issues, without logging into each one separately. Onboarding a new client takes minutes.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "When a client signs on for 20 mailboxes across 5 domains, you set them all up in one click. Creating mailboxes one at a time falls apart past 3 or 4 clients. Bulk creation keeps your onboarding under 20 minutes even on the big accounts.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "For agencies onboarding lots of clients, we ship an API that lets you create mailboxes, domains, and IPs programmatically. If your ops team writes scripts to automate onboarding, this saves you hours per client.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Automated DNS setup removes most of the manual onboarding work",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Bulk mailbox creation significantly reduces onboarding time for large client accounts",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Confuse them and you either pay for a feature you did not need, or sign up on the wrong plan and realize halfway through onboarding that you cannot bill your clients the way you wanted to.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Every sub-account includes a full CRM for customer relationship management with contacts, pipelines, opportunities, and tasks, plus a drag-and-drop funnel and landing page builder. Your client can build a lead capture form on Monday, run leads into a nurture sequence on Tuesday, and track their pipeline on Wednesday, without leaving the platform or asking you for help.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients can send email campaigns, blast SMS, and even make phone calls from one account. This is why the platform reads as a real marketing tool to a client, not just another CRM. Heads up: email, SMS, and phone minutes are all billed as usage on top of your base plan.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients set up flows like \"new lead comes in, wait 5 minutes, send an email, if they do not reply in 24 hours send an SMS, if they book a meeting notify the sales rep.\" These automation tools support broader marketing strategies, not just one-off workflows. This is the feature I hear most agencies use to prove ROI to their clients at renewal time.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "The standard 14-day trial is short for fully testing white-label setup and onboarding workflows",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "The platform covers many different functions, resulting in a steeper learning curve before onboarding clients",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "One-time onboarding fees are commonly reported between $500 and $2,500 depending on the plan",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "The platform covers many products and workflows, resulting in a steeper onboarding curve for agency teams",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "You get project templates, task assignments, time tracking, and drag-and-drop task boards. If you manage multiple client projects, you can also show project tracking inside the same portal they use for everything else, so clients can follow progress and you cut down on the \"what's the status?\" emails.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Steep learning curve. Many consultants report spending 20+ hours configuring the platform before onboarding clients",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Choose a program that offers great quality onboarding, ongoing training, and 24/7",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "You choose products, set pricing, and brand client-facing portals and reports. The provider powers delivery and updates behind the scenes. Good programs include onboarding, support, and automation so you can focus on sales, strategy, and retention while offering a broad, integrated solution stack.",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Curate a vertical-specific stack, templates, and reporting that mirror niche KPIs, or use roll-up reporting and location controls for franchises. Standardized onboarding, shared assets, and centralized insights let you deliver consistency at scale while keeping room for local customization where needed.",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "9. What onboarding and support should a white-label partner provide.",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Look for guided implementation, playbooks, and partner training, plus responsive technical and fulfillment support. You want clear escalation paths, product release notes, and enablement assets. Strong onboarding shortens ramp time, increases adoption, and reduces early churn across your first client cohorts.",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile-first funnel editor with drag-and-drop",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Perspective is best for agencies and teams running paid traffic for multiple clients who need every funnel branded and on-voice without manual rewriting. If your campaigns run on Meta or TikTok, AI Brand Profiles cut build time per client to minutes.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Email campaigns with drag-and-drop builder",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program adds onboarding complexity",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-drop report builder with templates",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Setup and onboarding require dedicated support",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-drop and HTML template builders",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-drop email and form builders",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "No drag-and-drop campaign builder for marketers",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Xtensio is a collaborative workspace for creating branded folios, pitch decks, and reports. It supports drag-and-drop document building with white-label branding and templates across asset types.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-drop folio builder with interactive modules",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-drop builder for client deliverables",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding curve is long across all the modules",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Launch funnels in ~30 minutes with an intuitive, design-first builder",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "The fastest growth software you’ll ever use. Build your first high-converting funnel in just 30 minutes, send messages, track key metrics, manage leads in a full CRM, and create sub-accounts for your clients & team - all in one beautifully designed platform.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding support included",
+    "url": "https://www.dreamsoft4u.com/white-label-erp-crm-software",
+    "pass": 3
+   },
+   {
+    "quote": "2 guided onboarding",
+    "url": "https://www.dreamsoft4u.com/white-label-erp-crm-software",
+    "pass": 3
+   },
+   {
+    "quote": "NABIDH / Malaffi Onboarding",
+    "url": "https://www.dreamsoft4u.com/white-label-erp-crm-software",
+    "pass": 3
+   },
+   {
+    "quote": "Based on typical onboarding sessions, most teams complete the core branding setup (logo, colors, domain) in under an hour; full brand removal and custom email templates typically add one to two additional days of admin configuration.",
+    "url": "https://www.boldreports.com/white-label-reporting/",
+    "pass": 3
+   },
+   {
+    "quote": "Set your logo, favicon, colors, and login screen text from the admin console's Site settings, no code required.",
+    "url": "https://www.boldreports.com/white-label-reporting/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Infor's vertical CloudSuites ship manufacturing processes preconfigured by industry — CloudSuite Industrial for discrete and industrial machinery, Automotive for OEM/tier scheduling and EDI, Food & Beverage and Process for formula, recipe and lot-trace work. Strongest when one of those editions matches your manufacturing mode out of the box.",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ERP for automotive OEMs, tier suppliers, and aftermarket parts manufacturers",
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "How ERP Drives Growth and Trust in Private Label Manufacturing",
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Unlocking Growth: How ERP Software Empowers Private Label Manufacturers",
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Resource Planning (ERP) software is a game-changer for private label manufacturers and their customers, strengthening collaboration and streamlining operations. These manufacturers handle production, packaging, and fulfillment, allowing their customers to focus on core strengths like marketing, product development, or retail.",
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "To win new business, private label manufacturers must make this transition as seamless and risk-free as possible. The right ERP system can help them build trust quickly, optimize processes, and differentiate themselves in a competitive market.",
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Datacor’s market-leading ERP software empowers white label manufacturers to streamline operations, boost productivity, and improve performance. By seamlessly integrating with both the manufacturer’s and customer’s back-end systems, the ERP ensures a smoother, more collaborative relationship.",
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Datacor’s ERP ensures every product is manufactured to the exact specifications and conditions agreed upon between the white label manufacturer and their customer.",
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "An ERP system can significantly improve operational effectiveness for both white label manufacturers and their clients by optimizing:",
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond these operational benefits, an integrated ERP and customer portal create a competitive edge in the private label industry.",
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "“Providing clients with a portal into the white label manufacturing process strengthens collaboration,” Haley explains. “Customers gain instant access to the data they need, helping them make informed decisions and work more effectively with manufacturers.”",
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ERP software has become a critical tool for modern manufacturers, bridging the gap between suppliers and customers. By enabling real-time data sharing, improving transparency, and reducing friction in manufacturing partnerships, Datacor’s ERP helps businesses build trust and gain a competitive edge in the evolving white label industry.",
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "41 White Label Reseller Programs Worth It | WotNot",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "41 White Label Reseller Programs Worth It",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "White label reseller services are popular for reasons like providing:",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "And since you have begun to read this blog, it means that you are interested in knowing more about white label reseller companies. You might have heard about the benefits of white label SaaS services, but are you aware about how challenging it is to choose a right white label reseller service for your company?",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Investing without knowing all the details about the white label SaaS reseller companies",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "The only practice that can save you from all these hazards is – searching and knowing every detail about a white label reseller company before investing.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "In this blog, we are going to provide you a list of 40 white label SaaS reseller platforms. For each reseller program, we have mentioned all the necessary details like:",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "What product/service do they provide in their white label reseller program?",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "This blog will help you to choose the best white label reseller company as per your niche and necessities.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "41 White Label Reseller Companies",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": ", you can build chatbots quickly and easily. WotNot is a popular white label reseller chatbot company offering unmatched",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "provides white label marketing automation and CRM suite for businesses. It is a popular name for providing complete automation in marketing.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "white label SaaS",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is a well-known name and leading platform for SaaS marketing services. It has more than 55 marketing tools and products. It provides white label reseller program too.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Business Software: Rebrand & Resell | SuiteDash",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Put your brand across the entire experience.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Assess learning and gather feedback in your brand.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Prepare to gather and manage reviews in your brand.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Business Software",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebrand, Resell, and Scale Under Your Own Identity",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Build a branded client experience with your own URL, login page, portal content, and email settings. Check each client touchpoint before presenting it under your brand.",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label Business Software?",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Who Uses White Label Business Software?",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The White Label Spectrum: From Logo-Swap to Full SaaS Reselling",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What Can Be White-Labeled?",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Why SuiteDash Is a Leading White Label Business Platform",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. SaaS Reseller Programs",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Business Software: Frequently Asked Questions",
+    "url": "https://suitedash.com/white-label-business-software/",
+    "pass": 3
+   },
+   {
+    "quote": "11 Best White Label Software to Resell in 2026",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforge Whitelabel",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Infraforge Whitelabel",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label software is a legitimate way to earn SaaS-style income without writing a single line of code.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "That's because plenty of platforms gate white-label behind their most expensive plan or charge per client so scaling to 30 clients turns a $200 subscription into $600.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "So I tested 10 white label software that I would actually recommend, checked what each one charges and how they share revenue, and pulled the ones that make you money instead of taking it.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Full multichannel outreach (cold email + 6 native LinkedIn actions) resold under your own brand, with your custom domain, your logo, and your pricing plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Private email infrastructure resold under your own brand: dedicated IPs, pre-warmed mailboxes, and automated DNS setup for every client domain.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "GoHighLevel White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "All-in-one agency CRM with unlimited client sub-accounts, plus SaaS Mode where you set your own pricing plans and Stripe bills your clients directly under your brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label marketplace with 250+ digital products and in-house fulfillment teams that deliver services (SEO, listings, reputation, websites) under your brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "BotPenguin White Label:",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI platform with chatbots, AI agents, automations, and voice agents, plus branded WhatsApp and Instagram bots, allowing agencies to resell a complete AI automation stack under their own brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "SuiteDash White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best White-Label Reseller Programs That Deliver Big Profits",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best White-Label Reseller Programs That Deliver Big Profi…",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label",
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Why These are the Top 10 Manufacturing ERP Systems for 2026 — Why These are the Top 10 Manufacturing ERP Systems for 2026 top10erp.org https://www.top10erp.org > blog > m...",
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Best Manufacturing ERP Systems in 2026 - IFS — Best Manufacturing ERP Systems in 2026 - IFS IFS https://www.ifs.com > ... > Compare",
+    "url": "https://www.ifs.com/en/glossary/compare/manufacturing-erp-systems-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best Manufacturing ERP for Small Businesses ( 2026 Guide) — Best Manufacturing ERP for Small Businesses ( 2026 Guide) Sabre Limited https://sabrelimited.com > blogs > ma...",
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理 システム メーカー172社 - メトリー — 生産管理 システム メーカー172社 - メトリー Metoree https://metoree.com > categories",
+    "url": "https://metoree.com/categories/4954/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Provide multilingual solution to queries",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (Japanese）",
+    "url": "https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Private Label Manufacturers Japan 2026",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Key Private Label Manufacturers in Japan Supporting Retail Supply Chains",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s private label manufacturing system is built on a decentralised network of specialised OEM producers. They supply supermarkets, convenience retailers and export partners across food and health categories.",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "This analysis of 10 private label manufacturers Japan uses a hybrid structural model. It is based on manufacturing capability, category depth and retail supply relevance rather than disclosed revenue.",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "FGROW Japan",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Panel Japan",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Together, they show how Japan’s supermarket supply chains rely on contract manufacturing expertise rather than vertically integrated retail production.",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Private Label Manufacturers in Japan",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Headquarters: Tokyo, Japan",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "United Foods International is one of Japan’s most established food OEM producers. It supplies sauces, ready meals and processed food products to domestic retailers and international partners.",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Its multi-factory structure and technical capability enable consistent high-volume output. This makes it a core supplier within the Japan supermarket ecosystem.",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s role reflects the broader Japanese model. Here, specialist manufacturers anchor private label supply rather than retailers themselves.",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Headquarters: Shizuoka, Japan",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Its integration within industrial food production systems lets it keep reliable supply for retailers across Japan.",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Within the Japan FMCG structure, SSK Foods plays a key role in everyday grocery categories where private label penetration keeps growing.",
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 7 Trusted Private Label Skincare Manufacturers in Japan - DESIFINE",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 7 Trusted Private Label Skincare Manufacturers in Japan",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "112 – year – old Japan’s No.1 ODM, 200 researchers, 8 factories",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Cosmetec Japan",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Production lines in Japan, Vietnam and China. Quasi – drug production available. Proposal – based sales.",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Natural Laboratories",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese cosmetics manufacturing license",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Established in 1912, with a history of 112 years, the largest cosmetics ODM in Japan. A new factory was put into operation in 2025.",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "8 domestic factories in Japan (decentralized layout), about 200 researchers, 90% of formulas developed in – house.",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s No.1 cosmetics ODM, covering all categories from basic skincare to quasi – drugs.",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2.Cosmetec Japan",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 22716 GMP certified, production lines in Japan (Saitama), Vietnam, and China.",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Full coverage of skincare, hair care, and quasi – drugs, with the highest – level Cleanroom standard in Japan.",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Production flexibility across Japan, Vietnam, and China, supporting nearby manufacturing in multiple markets to reduce logistics costs.",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "6.Japan Natural Laboratories",
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Creating Your J-Beauty Product: Private Label Skin Care Manufacturers in Japan - OEM CO.,LTD.",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "What Are the Main Steps in Japanese Cosmetic OEM?",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "How Japanese Cosmetic OEMs Support Product Development for International Markets",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Capsule Cleanser: A Guide to Capsule Cleanser Development in Japan",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Cosmetics vs. Quasi-Drugs in Japan: Key Differences Foreign Brands Must Know",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Creating Your J-Beauty Product: Private Label Skin Care Manufacturers in Japan",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese cosmetics have rising popularity around the world.",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "It is not too rare that we run into Japanese concept brands and products created by local businesses.",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will be trying to break down how the 2 different types of private label skin care manufacturers in Japan and share some key points that come handy when choosing partners.",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has a very active private label industry housing hundreds of factories of different sizes across the world.",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The graphic below shows how many companies in Japan have a ‘sales license for cosmetics’ and how many have a ‘manufacturing license for cosmetics’. The numbers were 3744 and 3668 respectively, as of the end of the 2018 fiscal year.",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "A fabless company is a company that does not have its own production facilities as they outsource its productions to factories. This is fairly common in the Japanese private label skin care industry.",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "It is expected that people assume all private label skin care manufacturers have factories. However, this is hardly the case in Japan.",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "This could be a rare business model in the world but it is fairly common in Japan since it has many advantages.",
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Cosmetic OEM Japan - Private Label Manufacturing｜Solid,Inc.",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   },
+   {
+    "quote": "Cosmetic OEM Japan | Private Label Skincare, Supplements & Quasi-drug Manufacturer",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   },
+   {
+    "quote": "Your Made-in-Japan OEM Partner",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   },
+   {
+    "quote": "”Made In Japan”",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   },
+   {
+    "quote": "Contracted development of OEM (Original Equipment Manufacturer) Japan-made cosmetics, etc.",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   },
+   {
+    "quote": "Fields we provide Made in Japan OEM manufacturing for:",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   },
+   {
+    "quote": "There's a product that is no longer sold in Japan, but still sells well in my country. Could you continue manufacturing it?",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale business / retail business / OEM business / warehousing business / overseas exports（authentic product certification / logistics management / warehouse systems / multilingual websites) We work to provide business development that meets the needs of our clients and the times.",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   },
+   {
+    "quote": "Website construction and management in Japan",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   },
+   {
+    "quote": "We do our utmost to meet our customers' requests, from certification of authentic products to warehouse inspection and storage, website construction and management in Japan, payment methods, multilingual support, package design and JAN code acquisition. We can also make any other requests a reality, so first of all, please feel free to contact us.",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   },
+   {
+    "quote": "▶ Cosmetics OEM in Japan: Cost & Minimum Order Quantity (MOQ)",
+    "url": "https://3branch.jp/en/home",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.top10erp.org/blog/manufacturing-erp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ifs.com/en/glossary/compare/manufacturing-erp-systems-2026",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.erpresearch.com/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellful.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamsoft4u.com/white-label-erp-crm-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.erpag.com/prices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mashable.com/article/sept-18-sellful-white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aureuserp.com/white-label-erp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boldreports.com/white-label-reporting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/the-best-white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webrand.com/platform/white-labeled-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3branch.jp/en/home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xiranskincare.com/top-10-private-label-cosmetic-manufacturers-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/4954/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://it-trend.jp/production_management/article/10-4915",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/%E4%B8%AD%E5%B0%8F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uchida.co.jp/system/report/manufacturing_dx_production_management.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evort.jp/categories/sme-production-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapidevelopers.com/white-label/enterprise-resource-planning-erp-system-no-code-bubble",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://relevant.software/blog/white-label-erp-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.micra.digital/blog/odoo-erp-white-label-the-secret-to-scaling-your-agency-profitably",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e21erp.com/web-erp-system/manufacturing-management-software/private-label-manufacturing-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elioplus.com/white-label/vendors/erp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalitvision.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudbizerp.com/white-label-partner/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.paxerp.com/blog/manufacturing-erp-implementation-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamada-seiyaku.com/blog/030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/glossary/terms/white-label.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unifyr.com/ja/atlas/white-labeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/search/merit_primary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizresearch.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.hiway.app/blog/manufacturing-dealer-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/job_search/kw/%E5%84%AA%E8%89%AF%20%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%20%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softtrix.com/white-label-enterprise-resource-planning-development/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://elitemindz.co/blog/best-erp-software-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infor.com/products/visual",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asc.co.jp/en/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tektosworld.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label manufacturing ERP 2026",
+   "results": [
+    "https://www.top10erp.org/blog/manufacturing-erp",
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://www.ifs.com/en/glossary/compare/manufacturing-erp-systems-2026",
+    "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/",
+    "https://www.erpresearch.com/industries/manufacturing",
+    "https://relevant.software/blog/white-label-erp-solution/",
+    "https://www.youtube.com/watch?v=VxqrQxyg9bc",
+    "https://usadrop.com/best-private-label-manufacturers/",
+    "https://www.brahmin-solutions.com/blog/best-mrp-software-for-cosmetics-manufacturers",
+    "https://www.erpresearch.com/erp-modules/manufacturing-management"
+   ]
+  },
+  {
+   "query": "white label manufacturing ERP reseller program agencies",
+   "results": [
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.ecisolutions.com/industries/manufacturing/erp-software-for-private-label-manufacturers/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://elioplus.com/white-label/vendors/erp",
+    "https://insighto.ai/blog/white-label-reseller-programs/"
+   ]
+  },
+  {
+   "query": "white label manufacturing ERP free trial pricing",
+   "results": [
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://sellful.com/pricing/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.dreamsoft4u.com/white-label-erp-crm-software",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.erpag.com/prices",
+    "https://mashable.com/article/sept-18-sellful-white-label-website-builder",
+    "https://www.rapidevelopers.com/white-label/enterprise-resource-planning-erp-system-no-code-bubble",
+    "https://sabrelimited.com/blogs/manufacturing-erp-for-small-business/"
+   ]
+  },
+  {
+   "query": "white label manufacturing ERP rebrand your logo custom domain",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://aureuserp.com/white-label-erp/",
+    "https://www.boldreports.com/white-label-reporting/",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://webrand.com/platform/white-labeled-portal",
+    "https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://www.rapidevelopers.com/white-label/enterprise-resource-planning-erp-system-no-code-bubble",
+    "https://techdino.in/blog/white-label-erp-software-rebrand-resell-guide"
+   ]
+  },
+  {
+   "query": "white label manufacturing ERP Japan Japanese",
+   "results": [
+    "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://desifine.com/top-7-trusted-private-label-skincare-manufacturers-in-japan/",
+    "https://oem-cosmetic.com/en/blog/creating-your-j-beauty-product-private-label-skin-care-manufacturers-in-japan/",
+    "https://3branch.jp/en/home",
+    "https://xiranskincare.com/top-10-private-label-cosmetic-manufacturers-in-japan/",
+    "https://www.monoya.com/pages/monoya-connect?srsltid=AYCX9vLQ163SdSdlwByvUbyrMHOmJNvI5nrY4jxas0stIC716KTfw5IK",
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://www.japaniq.com/japan-market-insights/private-label-categories-japan",
+    "https://sourceforge.net/software/erp/japan/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル生産管理（中小製造業向け） 日本",
+   "results": [
+    "https://metoree.com/categories/4954/",
+    "https://it-trend.jp/production_management/article/10-4915",
+    "https://mono.ipros.com/cg2/%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/%E4%B8%AD%E5%B0%8F/",
+    "https://www.uchida.co.jp/system/report/manufacturing_dx_production_management.html",
+    "https://evort.jp/categories/sme-production-management",
+    "https://www.kk-osk.co.jp/products/smile_v_industry/seisan.html",
+    "https://www.techs-s.com/media/show/6",
+    "https://kaopiz.com/ja-news-production-management-medium-companies-manufacturing-industry/",
+    "https://smartf-nexta.com/archives/1550",
+    "https://proaxis.jp/small-medium-manufacturing-industry/"
+   ]
+  },
+  {
+   "query": "white label manufacturing ERP OEM partnership",
+   "results": [
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://www.rapidevelopers.com/white-label/enterprise-resource-planning-erp-system-no-code-bubble",
+    "https://relevant.software/blog/white-label-erp-solution/",
+    "https://aureuserp.com/white-label-erp/",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://www.micra.digital/blog/odoo-erp-white-label-the-secret-to-scaling-your-agency-profitably",
+    "https://www.e21erp.com/web-erp-system/manufacturing-management-software/private-label-manufacturing-software/",
+    "https://elioplus.com/white-label/vendors/erp",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.erpresearch.com/acumatica-partners/oem-partners"
+   ]
+  },
+  {
+   "query": "white label manufacturing ERP partner program pricing",
+   "results": [
+    "https://www.rapidevelopers.com/white-label/enterprise-resource-planning-erp-system-no-code-bubble",
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://elioplus.com/white-label/vendors/erp",
+    "https://relevant.software/blog/white-label-erp-solution/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.globalitvision.com/partner-program/",
+    "https://cloudbizerp.com/white-label-partner/",
+    "https://www.paxerp.com/blog/manufacturing-erp-implementation-cost",
+    "https://sysgenpro.com/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル生産管理（中小製造業向け） OEM提供",
+   "results": [
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://www.yamada-seiyaku.com/blog/030",
+    "https://mono.ipros.com/cg3/%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://otsumu.co.jp/knowledge/glossary/terms/white-label.html",
+    "https://www.unifyr.com/ja/atlas/white-labeling",
+    "https://it-trend.jp/production_management/article/10-4915",
+    "https://www.fsi-embedded.jp/column/fsi-dmsems/what-is-oem/",
+    "https://www.improbe.jp/column/chusho-ranking.html",
+    "https://smartf-nexta.com/archives/1550",
+    "https://www.shopify.com/jp/blog/white-label"
+   ]
+  },
+  {
+   "query": "ホワイトラベル生産管理（中小製造業向け） 代理店募集",
+   "results": [
+    "https://dairitenboshu.com/search/merit_primary",
+    "https://bizresearch.net/",
+    "https://www.bgent.net/",
+    "https://product.hiway.app/blog/manufacturing-dealer-management/",
+    "https://www.r-agent.com/job_search/kw/%E5%84%AA%E8%89%AF%20%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%20%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC/",
+    "https://jp.indeed.com/q-%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97-%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86-%E6%B1%82%E4%BA%BA.html",
+    "https://msa-factory.co.jp/%E4%BB%A3%E7%90%86%E5%BA%97%E5%8B%9F%E9%9B%86/",
+    "https://cbrands.wd5.myworkdayjobs.com/ja-JP/CBI_External_Careers/job/Marketing-Procurement-Manager_R-39806-1/apply",
+    "https://bahn-rep.com/",
+    "https://bizresearch.net/blog/article/82"
+   ]
+  },
+  {
+   "query": "white label manufacturing ERP distributor Japan",
+   "results": [
+    "https://www.datacor.com/resources/erp-private-label-manufacturing",
+    "https://www.grocerytradenews.com/10-private-label-manufacturers-japan/",
+    "https://www.rapidevelopers.com/white-label/enterprise-resource-planning-erp-system-no-code-bubble",
+    "https://aureuserp.com/white-label-erp/",
+    "https://www.softtrix.com/white-label-enterprise-resource-planning-development/",
+    "https://cloudbizerp.com/white-label-partner/",
+    "https://elitemindz.co/blog/best-erp-software-in-japan",
+    "https://www.infor.com/products/visual",
+    "https://www.asc.co.jp/en/oem/",
+    "https://www.tektosworld.com/"
+   ]
+  }
+ ],
+ "missing": {}
+}
