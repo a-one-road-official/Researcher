@@ -1,0 +1,315 @@
+{
+ "name": "従業員1〜29人の製造業",
+ "en": "manufacturers with 1-29 employees hiring cost Japan",
+ "aliases": [
+  "小規模製造業 採用",
+  "従業員30人未満 製造業 採用",
+  "町工場 採用費"
+ ],
+ "context": "規模",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:35:28.084101+00:00",
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "従業員1〜29人の製造業 コスト 調査 万円 の求人情報をすべて見る （2,418,674件） — 従業員1〜29人の製造業 コスト 調査 万円 の求人情報をすべて見る （2,418,674件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1〜29人の製造業 中途 従業員規模別 の求人情報をすべて見る （546,643件） — 従業員1〜29人の製造業 中途 従業員規模別 の求人情報をすべて見る （546,643件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1〜29人の製造業 白書 の求人情報をすべて見る （1,334件） — 従業員1〜29人の製造業 白書 の求人情報をすべて見る （1,334件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.relax-job.com/recruitment-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000059.000187561.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/and/pressrelease/17008756",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11650000/000956216.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089556_00024.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/houdou/newpage_00229.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2026/265.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/infomation/32451/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "従業員1〜29人の製造業 採用単価 規模別",
+   "results": [
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://biz.relax-job.com/recruitment-cost",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://tomiyo-job.com/media/?p=647",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://www.dodadsj.com/content/20240628_recruiting-costs/",
+    "https://recruit.connect-mktg.com/製造業の採用単価相場は？コストを抑えて人を集/"
+   ]
+  },
+  {
+   "query": "従業員1〜29人の製造業 採用コスト 調査 万円",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "https://prtimes.jp/main/html/rd/p/000000059.000187561.html",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.asahi.com/and/pressrelease/17008756",
+    "https://www.mhlw.go.jp/content/11650000/000956216.pdf",
+    "https://hrnote.jp/contents/a-contents-rpo-saiyoukosuto-190111/"
+   ]
+  },
+  {
+   "query": "従業員1〜29人の製造業 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E9%80%94+%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB+%E5%BE%93%E6%A5%AD%E5%93%A1%E8%A6%8F%E6%A8%A1%E5%88%A5&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://and-pro.jp/content/article-u2b4c48fz1w/",
+    "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "https://www.tdb.co.jp/report/economic/20250325-employment2025/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html"
+   ]
+  },
+  {
+   "query": "従業員1〜29人の製造業 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://www.jil.go.jp/institute/research/index.html",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089556_00024.html"
+   ]
+  },
+  {
+   "query": "従業員1〜29人の製造業 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.jmac.co.jp/books/fact-finding_report/20251107.html",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html"
+   ]
+  },
+  {
+   "query": "従業員1〜29人の製造業 白書 採用",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%BE%93%E6%A5%AD%E5%93%A11~29%E4%BA%BA%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "https://www.mhlw.go.jp/stf/houdou/newpage_00229.html",
+    "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.jil.go.jp/institute/research/2026/265.html",
+    "https://mirasapo-plus.go.jp/infomation/32451/",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.bsearch.co.jp/media/manufacturing/"
+   ]
+  }
+ ],
+ "missing": {
+  "セグメント定義": "記載なし（読んだ36頁・検索6回）",
+  "採用単価": "記載なし（読んだ36頁・検索6回）",
+  "年間採用費": "記載なし（読んだ36頁・検索6回）",
+  "採用経路": "記載なし（読んだ36頁・検索6回）",
+  "充足・欠員": "記載なし（読んだ36頁・検索6回）",
+  "調査主体・時期": "記載なし（読んだ36頁・検索6回）"
+ }
+}

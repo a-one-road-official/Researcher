@@ -1,0 +1,17 @@
+﻿品目,英語名,文脈,万円（値・出典数）,セグメント定義_引用数,採用単価_引用数,年間採用費_引用数,採用経路_引用数,充足・欠員_引用数,調査主体・時期_引用数,読んだ頁数,記載なし項目,エラー
+従業員1〜29人の製造業,manufacturers with 1-29 employees hiring cost Japan,規模,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
+従業員30〜99人の製造業,manufacturers with 30-99 employees hiring cost Japan,規模,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
+従業員100〜299人の製造業,manufacturers with 100-299 employees hiring cost Japan,規模,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
+従業員300〜999人の製造業,manufacturers with 300-999 employees hiring cost Japan,規模,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
+従業員1000人以上の製造業,manufacturers with 1000+ employees hiring cost Japan,規模,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
+製造オペレーター・技能工の中途採用,factory operator skilled worker mid-career hiring cost Japan,職種,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
+設計・生産技術エンジニアの中途採用,,,,0,0,0,0,0,0,0,,AttributeError: 'int' object has no attribute 'lower'
+高卒採用（製造業）,,,,0,0,0,0,0,0,0,,AttributeError: 'int' object has no attribute 'lower'
+新卒採用（製造業・メーカー）,,,,0,0,0,0,0,0,0,,AttributeError: 'int' object has no attribute 'lower'
+外国人材（特定技能・製造業）,,,,0,0,0,0,0,0,0,,AttributeError: 'int' object has no attribute 'lower'
+金属加工（切削・板金・溶接）の採用,,,,0,0,0,0,0,0,0,,AttributeError: 'int' object has no attribute 'lower'
+電子部品・半導体製造の採用,electronics semiconductor manufacturing hiring Japan,業種,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
+食品製造の採用,food manufacturing hiring cost Japan,業種,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
+輸送用機械・自動車部品の採用,automotive parts manufacturing hiring Japan,業種,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
+地方（東北・北陸・中国・九州）の製造業の採用,regional manufacturers hiring Tohoku Hokuriku Kyushu Japan,地域,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
+首都圏・東海・関西の製造業の採用,manufacturers hiring Tokyo Tokai Kansai Japan,地域,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,

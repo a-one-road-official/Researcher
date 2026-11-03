@@ -1,0 +1,294 @@
+{
+ "name": "首都圏・東海・関西の製造業の採用",
+ "en": "manufacturers hiring Tokyo Tokai Kansai Japan",
+ "aliases": [
+  "首都圏 製造業 採用",
+  "愛知 製造業 採用難",
+  "大阪 製造業 採用"
+ ],
+ "context": "地域",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:35:45.860695+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovel.jp/cost-per-hire-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nanto-consulting.co.jp/nantoeri/pdf/kekka02/200402.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO88014250T10C25A4TB1000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/shushoku_katsudou/kanji_dai6/siryou4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2026/01/pdf/064-073.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250325-employment2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jinjibu.jp/news/detl/25760/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260119_105919/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E9%A6%96%E9%83%BD%E5%9C%8F%E6%9D%B1%E6%B5%B7%E9%96%A2%E8%A5%BF%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jbrc.recruit.co.jp/data/data20250217_3667.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japancreate.net/column/column-1963/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1673/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/kansai/list/i0202/min1000/h13/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "首都圏・東海・関西の製造業の採用 採用単価 規模別",
+   "results": [
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://saiyo.employment.en-japan.com/blog/unit-cost-of-mid-career-recruitment",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/"
+   ]
+  },
+  {
+   "query": "首都圏・東海・関西の製造業の採用 採用コスト 調査 万円",
+   "results": [
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://prtimes.jp/main/html/rd/p/000000034.000187561.html",
+    "https://www.tracom.co.jp/tralog/recruitment-cost-2/",
+    "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/"
+   ]
+  },
+  {
+   "query": "首都圏・東海・関西の製造業の採用 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://nanto-consulting.co.jp/nantoeri/pdf/kekka02/200402.pdf",
+    "https://and-pro.jp/content/article-u2b4c48fz1w/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/"
+   ]
+  },
+  {
+   "query": "首都圏・東海・関西の製造業の採用 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.nikkei.com/article/DGKKZO88014250T10C25A4TB1000/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.cas.go.jp/jp/seisaku/shushoku_katsudou/kanji_dai6/siryou4.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2026/01/pdf/064-073.pdf",
+    "https://www.tdb.co.jp/report/economic/20250325-employment2025/"
+   ]
+  },
+  {
+   "query": "首都圏・東海・関西の製造業の採用 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://jinjibu.jp/news/detl/25760/",
+    "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "https://career-research.mynavi.jp/reserch/20260119_105919/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/"
+   ]
+  },
+  {
+   "query": "首都圏・東海・関西の製造業の採用 白書 採用",
+   "results": [
+    "https://jp.stanby.com/search?q=%E9%A6%96%E9%83%BD%E5%9C%8F%E6%9D%B1%E6%B5%B7%E9%96%A2%E8%A5%BF%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://jbrc.recruit.co.jp/data/data20250217_3667.html",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/index.html",
+    "https://www.japancreate.net/column/column-1963/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1673/",
+    "https://tenshoku.mynavi.jp/kansai/list/i0202/min1000/h13/",
+    "https://www.mhlw.go.jp/content/001705160.pdf",
+    "https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/",
+    "https://www.fullcastholdings.co.jp/magazine/seizougyou_mikeiken/"
+   ]
+  }
+ ],
+ "missing": {
+  "セグメント定義": "記載なし（読んだ36頁・検索6回）",
+  "採用単価": "記載なし（読んだ36頁・検索6回）",
+  "年間採用費": "記載なし（読んだ36頁・検索6回）",
+  "採用経路": "記載なし（読んだ36頁・検索6回）",
+  "充足・欠員": "記載なし（読んだ36頁・検索6回）",
+  "調査主体・時期": "記載なし（読んだ36頁・検索6回）"
+ }
+}
