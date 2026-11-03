@@ -2,19 +2,19 @@
 BtoB受注サイト・受発注ポータル,B2B ordering portal software,B2B order portal;wholesale ordering platform;B2B eCommerce platform for manufacturers;受発注システム,受発注
 受注管理（OMS）,order management system for SMB,order management software;sales order management SaaS;受注管理システム,受発注
 発注・購買管理,purchasing and procurement software for SMB,purchase order software;procure to pay SaaS;発注管理システム,受発注
-外注先への発注・進捗管理,subcontractor order and job tracking software,supplier order tracking;outsourcing job management;外注管理,受発注
+外注先への発注・進捗管理,subcontractor order and job tracking software,supplier order tracking;outsourcing job management;外注管理;subcontractor management;vendor management,受発注
 見積書作成ツール,quote and proposal software,quote builder;proposal software;estimate software;見積書作成,見積もり
 CPQ（構成・価格・見積）,CPQ software for SMB,configure price quote;product configurator quoting,見積もり
-オンライン即時見積（業種を問わず）,online instant quote calculator software,price calculator widget;instant estimate form builder;見積シミュレーター,見積もり
+オンライン即時見積（業種を問わず）,online instant quote calculator software,price calculator widget;instant estimate form builder;見積シミュレーター;quote calculator;price calculator;instant quote,見積もり
 見積→受注→請求の一気通貫,quote to cash software for small business,quote to invoice;estimates and invoicing software;見積 請求 一元管理,見積もり
-過去メールから問い合わせBot作成,AI chatbot trained on email history,email inbox knowledge base chatbot;train chatbot on past emails;email archive AI assistant,お問い合わせ対応
+過去メールから問い合わせBot作成,AI chatbot trained on email history,email inbox knowledge base chatbot;train chatbot on past emails;email archive AI assistant;email chatbot;AI email assistant;chatbot,お問い合わせ対応
 Webサイト用AIチャット（問い合わせ受付）,AI website chatbot for customer inquiries,website AI chat widget;AI customer service chatbot,お問い合わせ対応
-問い合わせフォームの自動応答・振り分け,AI form response automation,inquiry routing AI;AI inbound inquiry triage,お問い合わせ対応
-メール自動返信AI,AI email reply assistant,AI email responder;automated email response AI,お問い合わせ対応
-問い合わせ共有受信箱・管理,shared inbox and helpdesk software,customer inquiry management;helpdesk ticketing for SMB;問い合わせ管理,お問い合わせ対応
+問い合わせフォームの自動応答・振り分け,AI form response automation,inquiry routing AI;AI inbound inquiry triage;form automation;lead routing;inbound,お問い合わせ対応
+メール自動返信AI,AI email reply assistant,AI email responder;automated email response AI;email assistant;AI email;email automation,お問い合わせ対応
+問い合わせ共有受信箱・管理,shared inbox and helpdesk software,customer inquiry management;helpdesk ticketing for SMB;問い合わせ管理;shared inbox;helpdesk;help desk,お問い合わせ対応
 AI電話受付,AI phone receptionist,AI voice agent for inbound calls;AI answering service,お問い合わせ対応
 採用サイト作成,career site builder,careers page builder;recruitment website platform,採用
-求人の一括掲載・配信,job multiposting software,job distribution platform;job board posting automation,採用
+求人の一括掲載・配信,job multiposting software,job distribution platform;job board posting automation;job posting;multiposting;job distribution,採用
 応募者管理（ATS）,applicant tracking system for SMB,ATS software;recruiting software;採用管理システム,採用
 AI採用アシスタント（応募対応・面接日程）,AI recruiting assistant,AI recruiter chatbot;candidate screening AI;interview scheduling AI,採用
 プレスリリース配信,press release distribution platform,press release distribution service;newswire;プレスリリース配信,PR
@@ -24,5 +24,5 @@ AI記事作成・オウンドメディア,AI content writing platform,AI blog wr
 SNS投稿・運用管理,social media management software,social media scheduler;social media publishing tool,PR
 口コミ・評判の獲得,review management software,reputation management platform;Google review automation,PR
 オンプレAIサーバー（社内向け生成AI基盤）,on-premise AI server appliance,on-prem LLM server;private AI appliance;local LLM hardware for business;オンプレ 生成AI サーバー,オンプレAI
-オンプレLLMソフト（自社サーバーで動く業務AI）,on-premise LLM platform for enterprise,self-hosted LLM platform;private GPT on-prem;air-gapped AI platform,オンプレAI
-オンプレAIの問い合わせ・受発注・採用向け業務アプリ,on-premise AI assistant for customer inquiries and orders,on-prem AI chatbot;self-hosted AI customer service;local AI agent for business,オンプレAI
+オンプレLLMソフト（自社サーバーで動く業務AI）,on-premise LLM platform for enterprise,self-hosted LLM platform;private GPT on-prem;air-gapped AI platform;on-premise LLM;private LLM;self-hosted LLM;local LLM,オンプレAI
+オンプレAIの問い合わせ・受発注・採用向け業務アプリ,on-premise AI assistant for customer inquiries and orders,on-prem AI chatbot;self-hosted AI customer service;local AI agent for business;on-premise AI;private AI;self-hosted AI,オンプレAI
