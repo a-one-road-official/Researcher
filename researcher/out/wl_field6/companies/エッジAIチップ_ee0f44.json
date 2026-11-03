@@ -1,0 +1,1334 @@
+{
+ "name": "エッジAIチップ",
+ "en": "edge AI chip",
+ "aliases": [
+  "AI半導体",
+  "エッジAI半導体"
+ ],
+ "context": "1 AI・半導体 ②中核半導体",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:12:36.070726+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "That momentum shows up in silicon roadmaps. Top-tier mobile and semiconductor vendors have embedded dedicated AI engines and Neural Processing Units (NPUs) into their SoCs, allowing low-power AI inference for increasingly sophisticated workloads.",
+    "url": "https://www.ltts.com/blog/edge-ai-chip-design",
+    "pass": 3
+   },
+   {
+    "quote": "Top 15 Edge AI Chip Makers with Use Cases",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Residential Proxy Providers",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Proxy Providers",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud GPU Providers",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Tanium Alternatives",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Appen Alternatives",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Mechanical Turk Alternatives",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Control-M Alternatives",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "GoAnywhere Alternatives",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "MOVEit Alternatives",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Globalscape Alternatives",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": ", we identified the leading solutions for robotics, industrial IoT, and embedded systems.",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Performance (TOPS)*",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "~10W (10 TOPS/W)",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "*TOPS = Tera Operations Per Second. These are maximum quoted values by vendors.",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Reading Guide",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hospitals, Health Systems & Providers​",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Topics for you",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Looking to stay on top of the latest news and trends? With MyDeloitte you'll never miss out on the information you need to lead. Simply link your email or social profile and select the newsletters and alerts that matter most to you.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, only the most expensive smartphones—those in the top third of the price distribution—are likely to use edge AI chips. That said, some phones under the US$1,000 price point do contain AI as well. Several AI-equipped phones from Chinese manufacturers, such as Xiaomi’s Mi 9,",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm, the leading maker of merchant market SoCs with embedded edge AI processing cores for smartphones and other consumer devices, has released two standalone edge AI chips that are less powerful than its SoCs, but that are cheaper, smaller, and use less electricity.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top 15 Companies in Global Edge Artificial Intelligence Chips Market",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-edge-artificial-intelligence-chips-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Top 15 Companies in Global Edge Artificial Intelligence Chips Market: Industry Intelligence Report by Spherical Insights (2026–2035)",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-edge-artificial-intelligence-chips-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Trends in the Edge Artificial Intelligence Chips Market",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-edge-artificial-intelligence-chips-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Top 15 Companies Leading the Edge Artificial Intelligence Chips Market",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-edge-artificial-intelligence-chips-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides an in-depth analysis of the leading companies operating in the global edge artificial intelligence chips market. It includes a comparative assessment based on their product portfolios, business overviews, geographical footprint, strategic initiatives, market segment share, and SWOT analysis. Each company is profiled using a standardized format that includes:",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-edge-artificial-intelligence-chips-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "The best economics do not necessarily sit closest to the AI model. IP licensors and vertical software vendors can capture recurring royalties or subscriptions, while chip companies still carry manufacturing costs and heavy R&D even when demand is strong.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "For chip vendors, growth is increasingly about putting more computing value into each machine, not simply shipping more units. Qualcomm’s recent automotive growth shows that higher revenue per vehicle can matter as much as volume.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical applications can capture far more value than infrastructure because customers pay for an operational result rather than for TOPS, tokens or device connectivity. Samsara is the clearest example in the article: the hardware gets installed once, while software keeps expanding across the same customer base.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Chip and platform vendors",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "For chip vendors, edge AI is becoming a silicon-content story as much as a unit-volume story. The best products make each physical machine worth more revenue.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "The pattern is fairly consistent across younger edge chip vendors. They can spread across many markets because the same low-power inference processor can go into a camera, robot, industrial PC or drone. That diversification helps them find demand, but every new hardware format also adds integration work, software support and another long path from evaluation to production.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "AWS IoT Greengrass shows how cloud providers adapted their pricing to this architecture. Applications can continue running locally even when the device loses internet connectivity, yet AWS charges when Greengrass core devices connect to its cloud service. Customers may then pay additional AWS IoT Core, storage or data-transfer charges.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Do vertical edge AI companies make better money than infrastructure vendors?",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing power gets stronger as the offer moves away from raw compute. Selling a processor based mainly on TOPS per watt invites direct comparison with competing processors. Selling a factory-inspection system can be priced against the cost of defects, downtime and manual inspection.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Across the market, chip vendors are adding software, software companies are adding fleet management, and vertical companies are bundling everything into an operational product.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI customers become sticky when changing vendors would force them to redo hardware, software and operating workflows at the same time.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Project fees leading into larger deployments",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "What are the top startups in the edge AI market?",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "What are the top edge AI startups by total funding raised?",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": ", creates a need for custom hardware to provide real-time insights at the edge. ASICs, designed for AI tasks, provide better computing power, lower latency, and reduced energy usage compared to CPUs designed for general use. ASICs are the favored option for edge AI deployments due to their various benefits, leading to their rapid expansion in the edge AI chips market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2024, Advanced Micro Devices, Inc. announced the launch of the latest AMD Ryzen AI 300 Series processors, presenting a Neural Processing Unit (NPU) for upcoming AI PCs and next-generation AMD Ryzen 9000 Series processors for desktop computers. These processors will enhance performance for content creators, gamers, and prosumers.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Identify enterprises, consumers, industrial operators, automotive manufacturers, healthcare providers, and technology companies deploying AI-enabled devices. This layer establishes the demand base by assessing the adoption of smart devices, connected systems, intelligent sensors, and edge computing applications across key industries.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the edge AI chips market with a share of 37.7% in 2025. The region boasts a strong presence of leading technology companies and research institutions, driving innovation and development in AI technologies.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the edge AI chips market include Advanced Micro Devices, Inc.; Alphabet Inc.; Intel Corporation; Qualcomm Technologies, Inc.; Apple Inc.; Mythic; Arm Limited; Samsung; NVIDIA Corporation; Huawei Technologies Co., Ltd.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "35 TOPS neural engine",
+    "url": "https://woodsidecap.com/ai-at-the-edge-low-power-high-stakes/",
+    "pass": 3
+   },
+   {
+    "quote": ": A leading-edge AI accelerator vendor whose specialized processors combine",
+    "url": "https://woodsidecap.com/ai-at-the-edge-low-power-high-stakes/",
+    "pass": 3
+   },
+   {
+    "quote": "Infineon and peers are leading a broader industry shift:",
+    "url": "https://woodsidecap.com/ai-at-the-edge-low-power-high-stakes/",
+    "pass": 3
+   },
+   {
+    "quote": "firms, cloud providers, and telecom companies are creating new business models for edge computing solutions. Collaborations allow companies to integrate hardware with",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "stacks and optimize performance across platforms. Strategic acquisitions n chip IP, low-powered design, and packaging technology also present growth opportunities. Vendors that leverage partnerships for ecosystem integration will gain a competitive edge in both enterprise and consumer segments.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The automotive sector remains a key non-cloud-driven growth area for edge AI chips. Chips embedded in ADAS (Advanced Driver Assistance Systems) and infotainment platforms enable real-time decision-making without depending on cloud connectivity. Collaborations between chip vendors and automakers create opportunities to standardize platforms for autonomous and semi-autonomous vehicles.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": ", Hailo launched the Hailo 10H edge AI accelerator, the first discrete chip optimized for generative AI workloads at the edge, delivering 40 TOPS INT4 and 20 TOPS INT8 performance at just ~2.5 W. It supports LLMs and VLMs on-device and is being adopted by HP for its AI Accelerator M.2 Card",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Residential Proxy Providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Proxy Providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud GPU Providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Tanium Alternatives",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Appen Alternatives",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Embedded Engineering",
+    "url": "https://www.ltts.com/blog/edge-ai-chip-design",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Systems",
+    "url": "https://www.ltts.com/blog/edge-ai-chip-design",
+    "pass": 3
+   },
+   {
+    "quote": "That momentum shows up in silicon roadmaps. Top-tier mobile and semiconductor vendors have embedded dedicated AI engines and Neural Processing Units (NPUs) into their SoCs, allowing low-power AI inference for increasingly sophisticated workloads.",
+    "url": "https://www.ltts.com/blog/edge-ai-chip-design",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Edge AI chips go beyond incremental optimizations and represent a scenario where hardware and software merge with a purpose. A mentality of hardware-software co-design, therefore, is becoming increasingly necessary to meet the growing need for specialization in embedded AI systems at the edge.",
+    "url": "https://www.ltts.com/blog/edge-ai-chip-design",
+    "pass": 3
+   },
+   {
+    "quote": ", we identified the leading solutions for robotics, industrial IoT, and embedded systems.",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Vision, Edge Inference",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "SiMa.ai’s MLSoC (Machine Learning System-on-Chip) delivers over 50 TOPS while maintaining power consumption below 5W. The chip targets embedded vision applications requiring high performance in power-constrained environments.",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Low-power solutions prioritize energy efficiency over raw performance. IoT devices, battery-powered cameras, and embedded systems with limited thermal budgets typically use these chips.",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm, the leading maker of merchant market SoCs with embedded edge AI processing cores for smartphones and other consumer devices, has released two standalone edge AI chips that are less powerful than its SoCs, but that are cheaper, smaller, and use less electricity.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware creates the first layer. Once an OEM has designed a processor into a camera, car or robot, moving to another chip may require a new board design, different drivers, fresh thermal testing and another validation cycle.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluated growth opportunities associated with AI accelerators, embedded AI, computer vision, neuromorphic computing, low-power processors, and advanced edge intelligence technologies across global markets.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "(prototyping ecosystem). A massive, diverse, and bottom-up customer base leads to a crucial shift away from serving a small number of large cellular customers (OEMs and carriers). This diversification mitigates risk and establishes a global innovation pipeline.",
+    "url": "https://woodsidecap.com/ai-at-the-edge-low-power-high-stakes/",
+    "pass": 3
+   },
+   {
+    "quote": "By form factor, the embedded edge AI chips segment accounted for the biggest market share of 60% in 2024.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The automotive sector remains a key non-cloud-driven growth area for edge AI chips. Chips embedded in ADAS (Advanced Driver Assistance Systems) and infotainment platforms enable real-time decision-making without depending on cloud connectivity. Collaborations between chip vendors and automakers create opportunities to standardize platforms for autonomous and semi-autonomous vehicles.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why the embedded edge AI chips Segment Dominates the Edge Artificial Intelligence Chips Market?",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The embedded edge AI chips segment dominated the edge artificial intelligence chips market in 2025. Because refers to the market of AI chips that have been embedded in devices such as mobile phones, smart cameras, wearable devices, industrial devices, and internet of things technology, this is because these chips facilitate real-time data analysis and better energy efficiency in AI processes.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Standalone edge AI chips segment expects the fastest growth in the market during the forecast period. Because of rising demand for higher efficiency and performance of AI operations in autonomous driving cars, automation technologies, robotics, and high-end surveillance systems, dedicated edge ai chips provide more power, scale, and versatility as compared to embedded edge AI chips.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Edge AI Chips",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "AI PCs and embedded systems",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that design/manufacture AI chips and/or AI-capable embedded systems.",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that supply components used in AI-capable embedded systems.",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "Leading OEM Smartphones using Flagship AI SoCs",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Edge/Hybrid AI Application Differentiation",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "また、他社の中にはクローズドなOEM供給しかやっていないところもあります",
+    "url": "https://techblitz.com/startup-interview/blaize/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Systems",
+    "url": "https://www.edgecortix.com/ja/blog/efficient-edge-ai-chips-with-reconfigurable-accelerators",
+    "pass": 3
+   },
+   {
+    "quote": "⁃ Embedded Systems",
+    "url": "https://www.edgecortix.com/ja/blog/efficient-edge-ai-chips-with-reconfigurable-accelerators",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Equally important is resilience to real-world variability. Edge devices face fluctuating workloads, environmental conditions, and power availability. Smarter chips are engineered to handle this unpredictability through adaptive software and robust hardware design, ensuring consistent performance outside controlled data center environments.",
+    "url": "https://www.ltts.com/blog/edge-ai-chip-design",
+    "pass": 3
+   },
+   {
+    "quote": "**Kria K26 performance varies depending on the FPGA configuration.",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Retail, Wholesale & Distribution",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 1 shows the various locations where AI computing can occur, all of which are likely to coexist for the foreseeable future.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "In all, as many as 50 different companies are said to be working on AI accelerators of various kinds.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "IP licensing has the cleanest structural margin profile because the customer manufactures the silicon. The trade-off is that royalties can be tiny per unit, so the model becomes exceptional only when the licensed technology reaches very large shipment volumes.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI IP licensing currently produces much better gross margins than selling physical chips, provided the technology reaches enough devices to make small royalties add up.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Arm shows how powerful that model can become. In its latest quarter, Arm generated $574 million from licenses and other revenue, up 23%, plus $715 million of royalty revenue, up 22%. Its GAAP gross margin was 97.2%.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Ceva gives us a smaller and more directly edge-focused example. Its latest quarterly revenue reached $29 million, with $18.2 million from licensing and related revenue and $10.8 million from royalties. GAAP gross margin was 87%. The company has now had its technology incorporated into more than 20 billion devices.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Compare those margins with the 58.4% GAAP gross margin Ambarella reported in its latest quarter. Ambarella still has an attractive semiconductor gross margin, but physical products carry manufacturing costs that an IP licensor largely avoids.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Their gross margins show the difference too. Samsara reported a 75% GAAP gross margin in its latest quarter. Ambarella reported 58.4%. Samsara still has hardware and connectivity costs, yet the customer ultimately pays for an ongoing operational application.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "IP licensing has the cleanest economics. Arm and Ceva can sell a design once and then collect royalties across large production volumes. Gross margins around 90% or higher are possible because customers manufacture the chips themselves.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Best structural margins at scale",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "We prioritized recent company filings, earnings releases, disclosed pricing, production programs, customer agreements and product announcements. Revenue and growth matter, but we also looked behind them at shipment volumes, revenue per unit, gross margins, royalties, recurring revenue, design wins, production deployments, customer expansion and pricing units.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "We did not treat every adoption metric as equivalent. Customer counts can show that a product is getting tested without proving production scale; a design-win pipeline can show future commercial potential without being current revenue; and a high gross margin is attractive only if the model can reach enough volume.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Broad corporate figures were kept separate from revenue explicitly identified as edge AI. Qualcomm and Arm both operate well beyond this market, so their numbers are used here when they reveal a specific economic mechanism, such as higher automotive revenue per unit or the margin structure of licensing and royalties.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "We then compared the models across recurring or repeatable revenue, margin structure, demonstrated commercial scale, pricing power, depth of technical integration and the durability of the customer relationship. The final ranking is a synthesis of those factors rather than a mechanical score.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "By chipset: ASIC segment dominated the market with a revenue share of 33.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By device: Consumer devices segment has a significant revenue share of 65.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Largest regional market: North America (37.7% revenue share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": ", creates a need for custom hardware to provide real-time insights at the edge. ASICs, designed for AI tasks, provide better computing power, lower latency, and reduced energy usage compared to CPUs designed for general use. ASICs are the favored option for edge AI deployments due to their various benefits, leading to their rapid expansion in the edge AI chips market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on device, the consumer devices segment has a significant revenue share of 65.3% in 2025, which is primarily attributed to the widespread adoption of AI-powered devices in everyday life. Consumer electronics such as smartphones,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Intel Corporation is a global leader in semiconductors and is renowned for its x86 processors. While mainly known for traditional computing, Intel has also played an active role in the AI chip market. The company created various AI-optimized processors and accelerators to meet AI applications' complex computational needs.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2024, Intel revealed innovative technologies and structures expected to greatly speed up the AI environment in various areas such as the data center, cloud, network, edge, and PC. With increased processing capabilities, cutting-edge energy efficiency, and a reduced total cost of ownership (TCO), customers can now take full advantage of the AI system opportunity.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer devices segment has a significant revenue share of 65.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "ASIC segment dominated the market with a revenue share of 33.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "shine, by laser-focusing on edge use cases and squeezing out efficiencies that general-purpose silicon can’t match. A slew of innovators worldwide are delivering novel architectures for edge AI – many of them fundamentally rethinking how computations are done under the hood. The approaches vary (digital ASICs, analog in-memory computing, neuromorphic designs, and more), but the goal is the same:",
+    "url": "https://woodsidecap.com/ai-at-the-edge-low-power-high-stakes/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor and Partner Research",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aditi Shivarkar",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Broadcom’s disclosure varies by customer:",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "states that the revenue rise is driven by increased demand for hardware as various industries and devices adopt AI.",
+    "url": "https://aibusiness.com/verticals/edge-ai-chip-market-to-hit-60b-by-2028-as-small-models-pcs-boost-demand",
+    "pass": 3
+   },
+   {
+    "quote": "If you are a reseller/distributor please",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "Blaizeは現在、豊田通商グループの半導体商社ネクスティエレクトロニクスなど、日本国内の複数のエレクトロニクス商社と販売代理店契約を結んでいる",
+    "url": "https://techblitz.com/startup-interview/blaize/",
+    "pass": 3
+   },
+   {
+    "quote": "伯東、EdgeCortix 株式会社と販売代理店契約を締結",
+    "url": "https://www.hakuto.co.jp/news/260820.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「EdgeCortix 社」）と販売代理店契約を締結しました",
+    "url": "https://www.hakuto.co.jp/news/260820.pdf",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "He led technology strategy and procurement of a telco while reporting to the CEO. He has also led commercial growth of deep tech company Hypatos that reached a 7 digit annual recurring revenue and a 9 digit valuation from 0 within 2 years. Cem's work in Hypatos was covered by leading technology publications like TechCrunch and Business Insider.",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "We predict that in 2020, more than 750 million edge AI chips—chips or parts of chips that perform or accelerate machine learning tasks on-device, rather than in a remote data center—will be sold. This number, representing a cool US$2.6 billion in revenue, is more than twice the 300 million edge AI chips Deloitte predicted would sell in 2017",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "—a three-year compound annual growth rate (CAGR) of 36 percent. Further, we predict that the edge AI chip market will continue to grow much more quickly than the overall chip market. By 2024, we expect sales of edge AI chips to exceed 1.5 billion, possibly by a great deal.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "A precise breakdown of this market by category is not publicly available, but analysts believe that the AI portion will likely be still relatively nascent in 2020, with revenues of no more than US$1 billion, or 5 percent of total telecom edge compute spending.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Some might also think that moving AI processing from the core to the edge will hurt cloud AI companies. This is unlikely: Recent forecasts for the cloud AI or AI-as-a-Service market predict that its revenues will grow from US$2 billion in 2018 to nearly US$12 billion by 2024, a 34 percent CAGR.",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global artificial intelligence (AI) chip market set to record a CAGR of 45.2% between 2019 & 2025 - ASIC segment anticipated to overtake the GPU type in the near future, in terms of revenue",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "pass": 3
+   },
+   {
+    "quote": "The IP layer is moving too. Ceva’s latest results showed licensing and related revenue rising 21% to $18.2 million, its highest level in three years. It signed ten licensing agreements during the quarter, including a deal for its NeuPro-M NPU with a large global AI and computing platform company. Ceva-powered device shipments reached 567 million units during the quarter.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "The nine-month numbers tell almost the same story. Qualcomm attributed $560 million of automotive growth to higher revenue per unit and $551 million to additional shipments. Over a longer period, the split is practically 50/50.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Ambarella gave us an unusually concrete example this year. Hanwha entered a decade-long agreement with the company covering edge AI across security, robotics, industrial automation and other businesses. Ambarella said the partnership represents more than $800 million in potential revenue.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "For perspective, that potential contract value is more than twice Ambarella’s entire fiscal-2026 revenue. The money will obviously arrive over many years and depends on deployments actually materializing, but it shows why semiconductor companies obsess over design wins long before the revenue appears.",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "By chipset: ASIC segment dominated the market with a revenue share of 33.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By device: Consumer devices segment has a significant revenue share of 65.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Largest regional market: North America (37.7% revenue share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on device, the consumer devices segment has a significant revenue share of 65.3% in 2025, which is primarily attributed to the widespread adoption of AI-powered devices in everyday life. Consumer electronics such as smartphones,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "This report forecasts revenue growth at global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2021 to 2033. For this study, Grand View Research has segmented the global edge artificial intelligence chips market report based on chipset, function, device, and region.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chipset Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Function Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Device Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of revenue, the global artificial intelligence chips market was valued at USD 9.77 billion in 2026.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 7 nm and below segment dominated the edge artificial intelligence chips market in 2025. Because it provides greater computational power and energy efficiency as well as smaller form factor, with the help of such nodes, one can carry out faster computations with lower energy costs, which makes these chips suitable for use in smartphones, self-driving cars IoT etc.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Blackwell and the GB300 NVL72 remained the revenue volume product through Q1 FY2027.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Morgan Stanley put NVIDIA at roughly 85% of AI processor revenue in March 2026, with custom ASICs above 10% and AMD below 5%.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "The MI355X is built on CDNA4 at TSMC 3nm with 288 GB of HBM3E and 10.1 PFLOPS of MXFP4, and AMD positions it against NVIDIA’s Blackwell B200. AMD followed on May 7, 2026 with the Instinct MI350P, a passive PCIe 5.0 card carrying 144 GB of HBM3E and a 600 W maximum TBP.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "It has also tied equity to its largest commitments, issuing OpenAI and Meta each a performance-based warrant for up to 160 million shares at $0.01, vesting against Instinct shipment milestones.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Intel targeted $500 million in Gaudi revenue for 2024 and abandoned the target on its third-quarter earnings call on October 31, 2024. At CES 2026 it conceded that Gaudi “did not meet the needs of the frontier AI training market.”",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "In its August 12 Q2 results, Cerebras raised its FY2026 core revenue forecast to $880-890 million.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Vaire’s first test chip, codenamed Ice River, is a 22nm CMOS demonstrator. Measurements reported in September 2025 gave an energy-recovery factor of 1.77 for a capacitor array driven by Vaire’s resonator and 1.41 for a shift register on the same chip, against roughly 2x predicted in simulation.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "It offers 2x the power efficiency of Trillium. Each chip carries 192 GB of High Bandwidth Memory at 7.37 TB/s, with 1.2 TB/s bidirectional (9.6 Tb/s) Inter-Chip Interconnect and an enhanced SparseCore for large embeddings.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Spyre carries 32 accelerator cores and 25.6 billion transistors on a 5nm process, packaged as a 75W PCIe card with 128 GB of LPDDR5. Up to 48 cards cluster in a Z or LinuxONE system, against 16 in Power.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Broadcom reported $16.7 billion in AI semiconductor revenue for Q3 FY2026 on September 2, 2026, up 221% year over year. It forecast $21.7 billion for Q4.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "For OpenAI, silicon has been delivered, production is expected in late 2026, and OpenAI is contracted for 1.3 GW in 2027 within the larger 10 GW-by-2029 arrangement. The chip itself is covered in the OpenAI section above.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "For Q2 FY2027, reported on August 27, 2026, Marvell posted $2.739 billion in total revenue and $2.172 billion in data center revenue. Data center revenue rose 46% year over year. Its Q3 total revenue forecast was $3.15 billion, plus or minus 5%.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Omdia report states edge AI processor revenue will rise from $31 billion in 2022 to $60 billion in 2028.",
+    "url": "https://aibusiness.com/verticals/edge-ai-chip-market-to-hit-60b-by-2028-as-small-models-pcs-boost-demand",
+    "pass": 3
+   },
+   {
+    "quote": "predicts the edge AI processor market will generate $60.2 billion in revenue by 2028, a compound annual growth rate of 11%.",
+    "url": "https://aibusiness.com/verticals/edge-ai-chip-market-to-hit-60b-by-2028-as-small-models-pcs-boost-demand",
+    "pass": 3
+   },
+   {
+    "quote": "“AI ASSPs will push from 19% to 28% of the market, largely at the expense of GPUs,” said Alexander Harrowell, Omdia’s principal analyst for advanced computing.",
+    "url": "https://aibusiness.com/verticals/edge-ai-chip-market-to-hit-60b-by-2028-as-small-models-pcs-boost-demand",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Top 15 Edge AI Chip Makers with Use Cases - AIMultiple — Top 15 Edge AI Chip Makers with Use Cases - AIMultiple AIMultiple https://aimultiple.com > edge-ai-chips",
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Chip Market to Hit $60B by 2028 as Small Models ... — Edge AI Chip Market to Hit $60B by 2028 as Small Models ... AI Business https://aibusiness.com > Verticals",
+    "url": "https://aibusiness.com/verticals/edge-ai-chip-market-to-hit-60b-by-2028-as-small-models-pcs-boost-demand",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; UK; France; China; Japan; India; South Korea; Australia; Brazil; Saudi Arabia; South Africa; UAE",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank Corp. will be the first customer to deploy SN50 within its AI data centers in Japan.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Rebellions confirmed on September 15, 2026 that RebelRack and RebelPOD systems were shipping. Its partnership with ai& included an initial purchase for a planned Tokyo deployment. Operation at the Japanese site was scheduled to begin after delivery.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Rebellions and ai& Partner to Bring Energy-Efficient AI Inference Infrastructure to Japan - Rebellions",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "ASIA (Japan and Korea):",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx was established in 1999, and is headquartered in Cambridge, UK. Since then, the company has significantly expanded and operates globally, having served customers in over 80 countries. Subsidiary companies are based in the USA, Germany and Japan.",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車などが参加する未来創生ファンドやデンソーから出資を受けるなど、日本の自動車業界ともつながりが深い",
+    "url": "https://techblitz.com/startup-interview/blaize/",
+    "pass": 3
+   },
+   {
+    "quote": "Blaizeは現在、豊田通商グループの半導体商社ネクスティエレクトロニクスなど、日本国内の複数のエレクトロニクス商社と販売代理店契約を結んでいる",
+    "url": "https://techblitz.com/startup-interview/blaize/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業と既に良好な関係を築けており、出資などを通じたパートナーシップは今後も歓迎するとMunagala氏は付け加えた",
+    "url": "https://techblitz.com/startup-interview/blaize/",
+    "pass": 3
+   },
+   {
+    "quote": "エッジ AI 向けハードウェア・ソフトウェアを対象に、日本国内で販売・技術支援が可能に",
+    "url": "https://www.hakuto.co.jp/news/260820.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県川崎市に本社を置く日本発のファブレス AI 半導体企業である EdgeCortix 株式会社（以下",
+    "url": "https://www.hakuto.co.jp/news/260820.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ークを日本国内で販売するとともに、関連する技術支援を提供することが可能になりました",
+    "url": "https://www.hakuto.co.jp/news/260820.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "るとともに、日本国内におけるエッジ AI の社会実装を促進し、産業競争力の向上と新たな価値創出に貢献し",
+    "url": "https://www.hakuto.co.jp/news/260820.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "『伯東との協業は、日本およびその他のアジア太平洋地域の主要市場における事業拡大を加速する上で、",
+    "url": "https://www.hakuto.co.jp/news/260820.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "『EdgeCortix 社は、日本発の AI 半導体企業として、ハードウェア、ソフトウェアおよび半導体 IP を統合した",
+    "url": "https://www.hakuto.co.jp/news/260820.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本を本社とし、米国およびインドにも拠点を展開しています",
+    "url": "https://www.hakuto.co.jp/news/260820.pdf",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "(SHA: 688256) reported FY2025 revenue of RMB 6.4972 billion, up 453.21% year over year, and its first full-year profit at RMB 2.0592 billion. Its market capitalization passed RMB 1 trillion on June 30, 2026, a first for the STAR Market.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "(SHA: 688795) listed on the STAR Market on December 5, 2025. FY2025 revenue was RMB 1.505 billion, up 243.37% year over year. The company remains unprofitable and has been on the US Entity List since 2023.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Its listing notice states that the company was still unprofitable at listing.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "(available now): A technology demonstrator hard-wired with Llama 3.1 8B, built on TSMC 6nm with 53 billion transistors. Taalas claims 17,000 tokens per second per user in a 2.5 kW air-cooled server. However, the model uses aggressive custom 3-bit and 6-bit quantization, which introduces quality degradations compared to GPU baselines.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": ", the foundry most of these designers depend on, had N+3 (5nm-class) in volume production as of June 2026, 7nm capacity of roughly 45,000 to 60,000 wafers per month, and $9.3 billion of 2025 revenue.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "1",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "quote": "A precise breakdown of this market by category is not publicly available, but analysts believe that the AI portion will likely be still relatively nascent in 2020, with revenues of no more than US$1 billion, or 5 percent of total telecom edge compute spending."
+   },
+   {
+    "value": "2",
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "quote": "Some might also think that moving AI processing from the core to the edge will hurt cloud AI companies. This is unlikely: Recent forecasts for the cloud AI or AI-as-a-Service market predict that its revenues will grow from US$2 billion in 2018 to nearly US$12 billion by 2024, a 34 percent CAGR."
+   },
+   {
+    "value": "551",
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "quote": "The nine-month numbers tell almost the same story. Qualcomm attributed $560 million of automotive growth to higher revenue per unit and $551 million to additional shipments. Over a longer period, the split is practically 50/50."
+   },
+   {
+    "value": "2.172",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "quote": "For Q2 FY2027, reported on August 27, 2026, Marvell posted $2.739 billion in total revenue and $2.172 billion in data center revenue. Data center revenue rose 46% year over year. Its Q3 total revenue forecast was $3.15 billion, plus or minus 5%."
+   },
+   {
+    "value": "3.15",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "quote": "For Q2 FY2027, reported on August 27, 2026, Marvell posted $2.739 billion in total revenue and $2.172 billion in data center revenue. Data center revenue rose 46% year over year. Its Q3 total revenue forecast was $3.15 billion, plus or minus 5%."
+   },
+   {
+    "value": "31",
+    "url": "https://aibusiness.com/verticals/edge-ai-chip-market-to-hit-60b-by-2028-as-small-models-pcs-boost-demand",
+    "quote": "Omdia report states edge AI processor revenue will rise from $31 billion in 2022 to $60 billion in 2028."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://aibox-factory.com/blog/product-news/white-label-ai-hardware-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arm.com/markets/edge-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ltts.com/blog/edge-ai-chip-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/embedded/comments/1q29tqw/whats_the_current_state_of_edge_ai_any_recent/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aimultiple.com/edge-ai-chips",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.willfine.com/deep-oem-odm-tender-bid-support/?srsltid=AYCX9vJQPN4boOm9Vtn3F3-hAsGO1tcg1LX8rTzjaHWkB4EzEKPcc_d0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geniatech.com/best-edge-ai-hardware-manufacturers-china/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adreamertech.com/NewsDetail/7627845.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edgeaifoundation.org/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/embedded/comments/1slqrfb/which_edge_ai_chip_have_you_guys_worked_with/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://axelera.ai/news/axelera-ai-launches-global-partner-program-to-accelerate-development-of-customer-ready-edge-ai-inference-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeedstudio.com/blog/edge-ai-partner-program/?srsltid=AYCX9vKw9eNGetXRKGxZ0v9U3OtXM6ESoA6qkmm8q-Q3dkCOsCbCAYDO",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intel.com/content/www/us/en/content-details/845320/edge-ai-partner-enablement-package.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nvidia.com/en-us/about-nvidia/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/en/key-technologies/edge-ai?srsltid=AYCX9vJGFgZyOQSVkvkqoXeEEmft-hOpAu5BTX8cn2RSkd1ZFX7idn6I",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getchipbot.com/white-label/saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leanware.co/insights/white-label-saas-ai-resell-ready-made-ai-products-with-your-branding-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gigacatalyst.com/blog/white-label-ai-app-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.micron.com/markets-industries/ai/edge-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-edge-artificial-intelligence-chips-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/largest-ai-chips-hardware-public-comps-in-the-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://woodsidecap.com/ai-at-the-edge-low-power-high-stakes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aibusiness.com/verticals/edge-ai-chip-market-to-hit-60b-by-2028-as-small-models-pcs-boost-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imec-int.com/en/press/eu-consortium-developing-next-gen-edge-ai-technologies-accepting-design-proposals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edgecortix.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intechhouse.com/blog/top-edge-ai-companies-edge-ai-development-providers-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cordis.europa.eu/project/id/101097300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hailo.ai/company-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/blaize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edgecortix.com/ja/blog/efficient-edge-ai-chips-with-reconfigurable-accelerators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isz.ai/ja/services/ai-hardware-oem-odm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonatus.com/ja/resources/deliver-in-vehicle-edge-ai-at-scale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ltts.com/jp/blog/edge-ai-chip-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakuto.co.jp/news/260820.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.edgecortix.com/ja/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9017/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pando.life/article/4759679",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ryoyo-embedded-solutions.jp/ryoyo-edge-ai-platform/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "edge AI chip software white label",
+   "results": [
+    "https://aibox-factory.com/blog/product-news/white-label-ai-hardware-manufacturer/",
+    "https://www.arm.com/markets/edge-ai",
+    "https://www.ltts.com/blog/edge-ai-chip-design",
+    "https://www.reddit.com/r/embedded/comments/1q29tqw/whats_the_current_state_of_edge_ai_any_recent/",
+    "https://aimultiple.com/edge-ai-chips",
+    "https://newo.ai/insights/white-label-ai-software-and-platforms-tools-solutions-and-how-to-choose-the-right-one",
+    "https://www.intel.com/content/www/us/en/edge-computing/overview.html",
+    "https://www.cadence.com/en_US/home/explore/edge-ai.html",
+    "https://www.edgeaifoundation.org/partners",
+    "https://leanware.co/insights/white-label-ai-software-complete-guide"
+   ]
+  },
+  {
+   "query": "edge AI chip software OEM white-label partner",
+   "results": [
+    "https://www.willfine.com/deep-oem-odm-tender-bid-support/?srsltid=AYCX9vJQPN4boOm9Vtn3F3-hAsGO1tcg1LX8rTzjaHWkB4EzEKPcc_d0",
+    "https://www.geniatech.com/best-edge-ai-hardware-manufacturers-china/",
+    "https://www.adreamertech.com/NewsDetail/7627845.html",
+    "https://www.edgeaifoundation.org/partners",
+    "https://www.reddit.com/r/embedded/comments/1slqrfb/which_edge_ai_chip_have_you_guys_worked_with/",
+    "https://www.arm.com/markets/edge-ai",
+    "https://builders.intel.com/intel-technologies/ai-technology/edge-ai",
+    "https://www.nxp.com/applications/technologies/ai-and-machine-learning/automotive-edge-ai:AUTOMOTIVE-EDGE-AI",
+    "https://www.edgecortix.com/en/",
+    "https://aibox-factory.com/services/oem/"
+   ]
+  },
+  {
+   "query": "edge AI chip software reseller partner program",
+   "results": [
+    "https://www.edgeaifoundation.org/partners",
+    "https://axelera.ai/news/axelera-ai-launches-global-partner-program-to-accelerate-development-of-customer-ready-edge-ai-inference-solutions",
+    "https://www.seeedstudio.com/blog/edge-ai-partner-program/?srsltid=AYCX9vKw9eNGetXRKGxZ0v9U3OtXM6ESoA6qkmm8q-Q3dkCOsCbCAYDO",
+    "https://www.intel.com/content/www/us/en/content-details/845320/edge-ai-partner-enablement-package.html",
+    "https://www.nvidia.com/en-us/about-nvidia/partners/",
+    "https://www.renesas.com/en/key-technologies/edge-ai?srsltid=AYCX9vJGFgZyOQSVkvkqoXeEEmft-hOpAu5BTX8cn2RSkd1ZFX7idn6I",
+    "https://www.microchip.com/en-us/solutions/technologies/machine-learning",
+    "https://www.infineon.com/partners/partner-ecosystems/edge-ai-partners",
+    "https://www.crn.com/news/components-peripherals/2026/exclusive-this-nvidia-rival-has-quadrupled-its-partner-roster-as-it-looks-beyond-edge-ai"
+   ]
+  },
+  {
+   "query": "edge AI chip SaaS rebrand private label",
+   "results": [
+    "https://getchipbot.com/white-label/saas",
+    "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html",
+    "https://leanware.co/insights/white-label-saas-ai-resell-ready-made-ai-products-with-your-branding-1",
+    "https://gigacatalyst.com/blog/white-label-ai-app-builder",
+    "https://www.micron.com/markets-industries/ai/edge-ai",
+    "https://www.youtube.com/watch?v=DAPgDuw1uZM",
+    "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "https://www.prime-expo.com/ai-private-labels-biggest-opportunity",
+    "https://saaslawyer.org/saas-and-ai-lawyer/f/white-label-ai-agreement-how-to-resell-or-rebrand-an-ai-product",
+    "https://suitedash.com/white-label-business-software/"
+   ]
+  },
+  {
+   "query": "edge AI chip software company profitable EBITDA",
+   "results": [
+    "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-edge-artificial-intelligence-chips-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://aimultiple.com/edge-ai-chips",
+    "https://multiples.vc/largest-ai-chips-hardware-public-comps-in-the-us",
+    "https://www.fortunebusinessinsights.com/edge-ai-market-107023",
+    "https://www.linkedin.com/posts/karo-startup_several-structural-reasons-make-nvidias-activity-7437089882520383489-AKT-",
+    "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "https://axis-intelligence.com/edge-ai-statistics/"
+   ]
+  },
+  {
+   "query": "edge AI chip software bootstrapped profitable revenue",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/edge-ai-business-model",
+    "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://woodsidecap.com/ai-at-the-edge-low-power-high-stakes/",
+    "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "https://aimultiple.com/ai-chip-makers",
+    "https://aibusiness.com/verticals/edge-ai-chip-market-to-hit-60b-by-2028-as-small-models-pcs-boost-demand",
+    "https://www.youtube.com/watch?v=9nDrvdhet1U",
+    "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "https://www.techpowerup.com/345900/arm-flexible-access-helps-startups-build-chips-faster",
+    "https://briefglance.com/articles/ambarella-hits-record-revenue-on-strong-edge-ai-chip-demand"
+   ]
+  },
+  {
+   "query": "edge AI chip software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.imec-int.com/en/press/eu-consortium-developing-next-gen-edge-ai-technologies-accepting-design-proposals",
+    "https://www.edgecortix.com/en/",
+    "https://intechhouse.com/blog/top-edge-ai-companies-edge-ai-development-providers-2026",
+    "https://www.edgeaifoundation.org/partners",
+    "https://cordis.europa.eu/project/id/101097300",
+    "https://hailo.ai/company-overview/",
+    "https://aimultiple.com/edge-ai-chips",
+    "https://www.zabala.eu/opinions/edge-ai-europe-chips-ju/",
+    "https://www.ceva-ip.com/wp-content/uploads/Edge-AI-2025-Report-070125-V.28-1.pdf",
+    "https://en.wikipedia.org/wiki/Hailo_Technologies"
+   ]
+  },
+  {
+   "query": "エッジAIチップ ソフトウェア OEM 提供",
+   "results": [
+    "https://techblitz.com/startup-interview/blaize/",
+    "https://www.edgecortix.com/ja/blog/efficient-edge-ai-chips-with-reconfigurable-accelerators",
+    "https://isz.ai/ja/services/ai-hardware-oem-odm/",
+    "https://www.sonatus.com/ja/resources/deliver-in-vehicle-edge-ai-at-scale/",
+    "https://www.ltts.com/jp/blog/edge-ai-chip-design",
+    "https://www.advantech.com/ja-jp/products/edge-ai-software/sub_5091927a-4c5c-4891-8627-cf2825cbc01d",
+    "https://www.aist.go.jp/aist_j/magazine/20250122.html",
+    "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%B8%82%E5%A0%B4-117383",
+    "https://www.dell.com/ja-jp/lp/oem-solutions-edge"
+   ]
+  },
+  {
+   "query": "エッジAIチップ ソフト 代理店 海外製",
+   "results": [
+    "https://www.hakuto.co.jp/news/260820.pdf",
+    "https://www.edgecortix.com/ja/partners",
+    "https://techblitz.com/startup-interview/blaize/",
+    "https://metoree.com/categories/9017/",
+    "https://pando.life/article/4759679",
+    "https://ryoyo-embedded-solutions.jp/ryoyo-edge-ai-platform/",
+    "https://www.provej.jp/sectors-new/ai-semiconductor/",
+    "https://www.nordicsemi.jp/protocols/edge-ai/",
+    "https://note.com/semiconnavi/n/nff37fc098286",
+    "https://www.dmprof.com/ja/products-and-services/edge-ai-computing-products/aetina/"
+   ]
+  }
+ ],
+ "missing": {}
+}

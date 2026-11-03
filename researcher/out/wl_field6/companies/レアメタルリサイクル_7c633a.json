@@ -1,0 +1,652 @@
+{
+ "name": "レアメタルリサイクル",
+ "en": "e-waste precious metal recovery",
+ "aliases": [
+  "都市鉱山",
+  "製錬",
+  "分離精製"
+ ],
+ "context": "9 マテリアル ⑤製錬・分離精製・リサイクル",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:19:29.971806+00:00",
+ "evidence": {
+  "日本対応": [
+   {
+    "quote": "日本では、経済産業省鉱業審議会レアメタル総合対策特別小委員会が、「地球上の存在量が稀であるか、技術的・経済的な理由で抽出が困難な鉱種のうち、現に工業需要が存在する（また今後見込まれる）ため、安定供給の確保が政策的に重要なタングステン､コバルト､ニッケルやレアアース（希土類の17元素を総括して1鉱種としてカウント）などの31鉱種をレアメタルと定義する」としています",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3
+   },
+   {
+    "quote": "レアメタルを利用した高性能の電子部品は幅広い産業分野で使われ、高機能・高品質の製品を産み出して日本経済を支え、省エネルギーや環境保全にも大きく貢献しています",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3
+   },
+   {
+    "quote": "亜鉛や銀を産出していた日本の豊羽鉱山（北海道）は、世界最大規模のインジウム鉱山でもありましたが、2006年に鉱山全体が採掘を停止したことでインジウムの供給も止まってしまいました",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3
+   },
+   {
+    "quote": "加えて民間備蓄も行われ、同機構は「日本の基準消費量の42日分を国家備蓄、18日分を民間備蓄が担い、合計60日分を目標とし、我が国資源セキュリティの最後の砦として、短期的な供給障害に備える」としています",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、自国では産出されないニッケル鉱石の輸入を世界最大の産出国であるインドネシアに長く依存してきました",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3
+   },
+   {
+    "quote": "また、一般社団法人JBRC（Japan Portable Rechargeable Battery Recycling Center）は、小型充電式電池のメーカーとそれを利用する企業などが共同で設立した団体で、使用済みとなったニカド電池、ニッケル水素電池、リチウムイオン電池などの回収を行っています",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本自動車工業会. \"リチウムイオン電池・ニッケル水素電池の回収状況\".",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3
+   },
+   {
+    "quote": "産業に不可欠な素材として、資源セキュリティの意味合いからスタートした日本のレアメタル関連技術は、リサイクルや備蓄も含め、取り組みが強化されてきました",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3
+   },
+   {
+    "quote": "[5] 一般社団法人日本自動車工業会. \"リチウムイオン電池・ニッケル水素電池の回収状況\". 2013-08-07. 経済産業省 産業構造審議会 産業技術環境分科会 廃棄物・リサイクル小委員会 自動車リサイクルワーキンググループ、中央環境審議会 循環型社会部会 自動車リサイクル専門委員会.",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3
+   },
+   {
+    "quote": "日本 - ソリューション・商品サイト",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "こうした背景から、日本政府は資源政策の再編を進め、令和6年7月には資源エネルギー庁の鉱物資源課を製造産業局へ再編し、上流から下流まで一貫した資源政策の推進と、探鉱・開発・製錬・リサイクルの連携強化を目指しています（参照*1）",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、レアメタルの海外依存度が高く、2050年のカーボンニュートラルを見据えた場合、輸入依存だけでは供給不足や価格高騰に直面する懸念があります（参照*2）",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は特定国への依存度低減を目指し、2023年度から2027年度の5年間で国内の重希土類分離・精製技術の開発と社会実装を推進しています（参照*3）",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の開発事業では、高温で磁石原料を抽出し、不純物混入を抑えるプロセス設計が進められています（参照*3）",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "日本の鉱業小委員会や関連省庁の取り組みでは、上流から下流までの審議体制を一本化し、リサイクル推進を強化しています（参照*1）",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "© Ricoh Co., Ltd. / RICOH JAPAN Corp.",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "都市鉱山は国内資源としての価値が高く、日本国内に蓄積された金属量は一部で世界埋蔵量の1割以上に相当すると評価されています",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "日本の都市鉱山蓄積量と2017の世界の埋蔵量の量的関係",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "日本における貴金属リサイクル技術の優位性",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "日本は電子機器や自動車などの製造で貴金属使用量が多く、回収対象となる資源が国内に蓄積されています",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は資源政策の再編を進め、資源エネルギー庁の組織見直しを通じて、探鉱・開発・製錬・リサイクルを一体で捉える体制を強化しています",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "日本は輸入依存度が高く、安定供給の確保が大きな課題です",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "からのリサイクル原料の輸入を通じて日本が世界のリサイクル拠点となることも",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ある日本の先端産業ビジネスの事業の円滑化に貢献するものである",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "奥平 総一郎 一般社団法人日本自動車工業会環境 委員",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "辰巳 菊子 公益社団法人日本消費生活アドバイ ザ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "星 幸弘 日本鉱業協会理事、技術部長兼環境保安",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "椋田 哲史 一般 社団法人日本経済団体連合会常務理",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インジウム 中国 52％ 韓国 14％ 日本 12％ 78％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "め実質的な削減 日本のレアアース需要量 （出典：新金属協会）（単位：トン）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○基本リスク ①可採年数 ②世界生産に占める日本の輸入割合",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・（社）日本電機工業会：民生用電気機器国内出荷統計データ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○回収スキーム：（電池単体での排出の場合）資源有効利用促進法（３Ｒ法）に基づきＪＢＲＣ（Japan",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "レアメタルは電気自動車（EV）向けのリチウムイオン電池（LIB）などに使われる日本の製造業に欠かせない素材だが、埋蔵や生産の多くが中国など特定の国に集中し、地政学リスクを抱える",
+    "url": "https://www.sankei.com/article/20260723-RAEEWNJSW5ICNL36HZLRMVD6LA/",
+    "pass": 3
+   },
+   {
+    "quote": "非資源国の日本にとって、資源循環によるサプライチェーン（供給網）強靱化は、経済安全保障上の重要課題となる",
+    "url": "https://www.sankei.com/article/20260723-RAEEWNJSW5ICNL36HZLRMVD6LA/",
+    "pass": 3
+   },
+   {
+    "quote": "中国はやはり埋蔵や生産で圧倒的なシェアを持つレアアース（希土類）と同様に、レアメタルについても輸出に制限をかけることで日本などを威圧している",
+    "url": "https://www.sankei.com/article/20260723-RAEEWNJSW5ICNL36HZLRMVD6LA/",
+    "pass": 3
+   },
+   {
+    "quote": "日本総合研究所創発戦略センターの籾山嵩氏は「国内産業への影響は計り知れない」と指摘する",
+    "url": "https://www.sankei.com/article/20260723-RAEEWNJSW5ICNL36HZLRMVD6LA/",
+    "pass": 3
+   },
+   {
+    "quote": "国内金融機関、防衛投融資へ動くか 海外では軍民両用強化 日本政府も姿勢転換迫る",
+    "url": "https://www.sankei.com/article/20260723-RAEEWNJSW5ICNL36HZLRMVD6LA/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 ④日本ピージーエム ⑤Johnson",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑫日本ピージーエム ⑬DOWA エコシステム",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②日本 カニ ゼン ③シ ーエ ムシー 技 術開発",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑩室町ケミカル ⑪日本原子力研究開",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "協立山 、JR 東 海、 日本 車両製 造、 日 立製作 所",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商会 ⑲日本Al 協会 ⑳ 東北 大学",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術開 発 ⑰シー エム シー 技術開 発 、 日本原 子",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "㉟日本メディカルテクノロジー ㊱マテリア",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Recycling ㉙三菱マテリアル、日本磁力",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "㊵東京 製鉄 ㊶テ ィー エム シー ㊷ 日本",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "カルエ ンジ ニアリ ング ㊺ 日本リ サ イク",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "pass": 3
+   }
+  ],
+  "提供企業": [
+   {
+    "quote": "Page Top",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "PAGE TOP",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3
+   },
+   {
+    "quote": "Page Top",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3
+   },
+   {
+    "quote": "（http://www.meti.go.jp/policy/recycle/main/admin_info/law/10/pdf/pamph_autoparts.pdf）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://emew.com/blog/precious-metals-recovery-from-e-waste",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.umicore.com/en/markets-products/recycling-solutions/precious-metals/e-scrap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retsch.com/files/454280/precious-metal-recovery-from-e-waste.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0921344922006425",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reworxrecycling.org/precious-metals-recovery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recyclingproductnews.com/article/39069/remade-technology-license-makes-recovery-of-precious-metal-from-electronics-easier",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3rtechglobal.com/services/precious-metal-recovery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gwsrecycling.com/case-studies/corporate-it-asset-refresh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyclelution.com/services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://environmentalbusinessoutlook.com/e-waste-management-solution-providers-list-2024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://electramet.com/blog/unlocking-potential-precious-metals-recovery-from-e-waste/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/%C3%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simple.wikipedia.org/wiki/E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eonline.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/precious-metals-e-waste-recovery-102100639.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/How-do-top-electronic-waste-recycling-companies-safely-extract-and-execute-precious-metal-recovery-like-gold-copper-and-silver-from-obsolete-corporate-servers-and-circuit-boards",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bcorporation.net/en-us/find-a-b-corp/company/all-green-recycling-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2071-1050/16/6/2509",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eonline.com/shows",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amlongroup.com/news/precious-metal-recovery-turning-industrial-waste-into-strategic-value/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/precious-metals-e-waste-recovery-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchdive.com/8365/precious-metal-e-waste-recovery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://wiki.ban.org/images/9/94/Economic_Assessmsnet_of_Recycling_Critical_Metals_from_Hard_Disk.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://market.us/report/e-waste-management-systems-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/How-can-large-scale-electronic-waste-recycling-actually-be-profitable-for-businesses-through-precious-metal-recovery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mcrecyclers.com/article/unlocking-revenue-streams-how-recycled-electronics-are-becoming-a-profitable-resource",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.allpcb.com/blog/pcb-manufacturing/from-e-waste-to-resource-maximizing-value-recovery-from-recycled-pcbs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.starfall.com/h/abcs/letter-e/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.factmr.com/report/metal-recovery-from-e-waste-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerinsustainability.com/e-waste-metal-recovery-companies-in-europe-top-industry-leaders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heraeus-precious-metals.com/en/precious-metal-recycling/recycling-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ilifehacks.com/how-to-type-e-with-accent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cjc.or.jp/raremetal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/council/former2013/03haiki/y0326-04/mat05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sankei.com/article/20260723-RAEEWNJSW5ICNL36HZLRMVD6LA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "e-waste precious metal recovery software white label",
+   "results": [
+    "https://emew.com/blog/precious-metals-recovery-from-e-waste",
+    "https://www.umicore.com/en/markets-products/recycling-solutions/precious-metals/e-scrap/",
+    "https://www.retsch.com/files/454280/precious-metal-recovery-from-e-waste.pdf",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0921344922006425",
+    "https://www.reworxrecycling.org/precious-metals-recovery/",
+    "https://www.reddit.com/r/PreciousMetalRefining/comments/1jlipat/trying_to_recover_gold_and_silver_from_scrap/",
+    "https://www.sphericalinsights.com/reports/precious-metals-e-waste-recovery-market",
+    "https://www.facebook.com/HowToMakeGold/videos/precious-metal-recovery-from-e-waste/832875338788050/",
+    "https://en.m.wikipedia.org/wiki/E",
+    "https://en.m.wikipedia.org/wiki/É"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery software OEM white-label partner",
+   "results": [
+    "https://www.recyclingproductnews.com/article/39069/remade-technology-license-makes-recovery-of-precious-metal-from-electronics-easier",
+    "https://www.3rtechglobal.com/services/precious-metal-recovery",
+    "https://www.umicore.com/en/markets-products/recycling-solutions/precious-metals/e-scrap/",
+    "https://gwsrecycling.com/case-studies/corporate-it-asset-refresh/",
+    "https://www.cyclelution.com/services",
+    "https://www.reworxrecycling.org/precious-metals-recovery/",
+    "https://emew.com/blog/precious-metals-recovery-from-e-waste",
+    "https://www.youtube.com/watch?v=GW_7L15PQFQ",
+    "https://environmentalbusinessoutlook.com/e-waste-management-solution-providers-list-2024",
+    "https://en.m.wikipedia.org/wiki/E"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery software reseller partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=xKraIshkrBQ",
+    "https://www.recyclingproductnews.com/article/39069/remade-technology-license-makes-recovery-of-precious-metal-from-electronics-easier",
+    "https://www.reworxrecycling.org/precious-metals-recovery/",
+    "https://electramet.com/blog/unlocking-potential-precious-metals-recovery-from-e-waste/",
+    "https://emew.com/blog/precious-metals-recovery-from-e-waste",
+    "https://www.umicore.com/en/markets-products/recycling-solutions/precious-metals/e-scrap/",
+    "https://www.youtube.com/watch?v=GW_7L15PQFQ",
+    "https://www.retsch.com/files/454280/precious-metal-recovery-from-e-waste.pdf",
+    "https://environmentalbusinessoutlook.com/e-waste-management-solution-providers-list-2024",
+    "https://en.m.wikipedia.org/wiki/E"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery SaaS rebrand private label",
+   "results": [
+    "https://finance.yahoo.com/news/precious-metals-e-waste-recovery-102100639.html",
+    "https://emew.com/blog/precious-metals-recovery-from-e-waste",
+    "https://www.retsch.com/files/454280/precious-metal-recovery-from-e-waste.pdf",
+    "https://www.youtube.com/watch?v=GW_7L15PQFQ",
+    "https://www.quora.com/How-do-top-electronic-waste-recycling-companies-safely-extract-and-execute-precious-metal-recovery-like-gold-copper-and-silver-from-obsolete-corporate-servers-and-circuit-boards",
+    "https://www.bcorporation.net/en-us/find-a-b-corp/company/all-green-recycling-inc/",
+    "https://electramet.com/blog/unlocking-potential-precious-metals-recovery-from-e-waste/",
+    "https://www.reworxrecycling.org/precious-metals-recovery/",
+    "https://www.mdpi.com/2071-1050/16/6/2509",
+    "https://en.m.wikipedia.org/wiki/E"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery software company profitable EBITDA",
+   "results": [
+    "https://amlongroup.com/news/precious-metal-recovery-turning-industrial-waste-into-strategic-value/",
+    "https://emew.com/blog/precious-metals-recovery-from-e-waste",
+    "https://www.grandviewresearch.com/industry-analysis/precious-metals-e-waste-recovery-market-report",
+    "https://www.mdpi.com/2071-1050/16/6/2509",
+    "https://www.youtube.com/watch?v=GW_7L15PQFQ",
+    "https://www.researchdive.com/8365/precious-metal-e-waste-recovery-market",
+    "http://wiki.ban.org/images/9/94/Economic_Assessmsnet_of_Recycling_Critical_Metals_from_Hard_Disk.pdf",
+    "https://market.us/report/e-waste-management-systems-market/",
+    "https://www.osti.gov/servlets/purl/2418585",
+    "https://en.m.wikipedia.org/wiki/E"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery software bootstrapped profitable revenue",
+   "results": [
+    "https://amlongroup.com/news/precious-metal-recovery-turning-industrial-waste-into-strategic-value/",
+    "https://www.mdpi.com/2071-1050/16/6/2509",
+    "https://emew.com/blog/precious-metals-recovery-from-e-waste",
+    "https://www.quora.com/How-can-large-scale-electronic-waste-recycling-actually-be-profitable-for-businesses-through-precious-metal-recovery",
+    "https://www.mcrecyclers.com/article/unlocking-revenue-streams-how-recycled-electronics-are-becoming-a-profitable-resource",
+    "https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market",
+    "https://www.allpcb.com/blog/pcb-manufacturing/from-e-waste-to-resource-maximizing-value-recovery-from-recycled-pcbs.html",
+    "https://www.researchdive.com/8365/precious-metal-e-waste-recovery-market",
+    "https://en.m.wikipedia.org/wiki/E",
+    "https://en.m.wikipedia.org/wiki/É"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.factmr.com/report/metal-recovery-from-e-waste-market",
+    "https://www.youtube.com/watch?v=xKraIshkrBQ",
+    "https://www.umicore.com/en/markets-products/recycling-solutions/precious-metals/e-scrap/",
+    "https://partnerinsustainability.com/e-waste-metal-recovery-companies-in-europe-top-industry-leaders/",
+    "https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market",
+    "https://www.grandviewresearch.com/industry-analysis/precious-metals-e-waste-recovery-market-report",
+    "https://www.retsch.com/files/454280/precious-metal-recovery-from-e-waste.pdf",
+    "https://www.3rtechglobal.com/services/precious-metal-recovery",
+    "https://www.heraeus-precious-metals.com/en/precious-metal-recycling/recycling-overview/",
+    "https://en.m.wikipedia.org/wiki/E"
+   ]
+  },
+  {
+   "query": "レアメタルリサイクル ソフトウェア OEM 提供",
+   "results": [
+    "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "https://www.cjc.or.jp/raremetal/",
+    "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "https://www.env.go.jp/council/former2013/03haiki/y0326-04/mat05.pdf",
+    "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "https://login.regions.com/"
+   ]
+  },
+  {
+   "query": "レアメタルリサイクル ソフト 代理店 海外製",
+   "results": [
+    "https://www.env.go.jp/council/former2013/03haiki/y0326-04/mat05.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "https://www.sankei.com/article/20260723-RAEEWNJSW5ICNL36HZLRMVD6LA/",
+    "https://www.cjc.or.jp/raremetal/",
+    "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
+    "https://note.com/mitsuwapump/n/nf03222bc1eaa",
+    "https://metoree.com/categories/5256/",
+    "https://en.wikipedia.org/wiki/2026_Wimbledon_Championships_–_Day-by-day_summaries"
+   ]
+  }
+ ],
+ "missing": {
+  "自社名で出せる条件": "記載なし（読んだ44頁・検索9回）",
+  "再販制度": "記載なし（読んだ44頁・検索9回）",
+  "黒字・収益性": "記載なし（読んだ44頁・検索9回）",
+  "売上": "記載なし（読んだ44頁・検索9回）",
+  "価格": "記載なし（読んだ44頁・検索9回）"
+ }
+}

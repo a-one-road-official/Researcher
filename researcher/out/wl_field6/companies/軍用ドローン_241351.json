@@ -1,0 +1,1606 @@
+{
+ "name": "軍用ドローン",
+ "en": "military drone",
+ "aliases": [
+  "防衛用ドローン",
+  "小型無人機",
+  "UAS"
+ ],
+ "context": "5 防衛 ①小型無人航空機",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:12:57.365247+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "autopilots,",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "flight controllers, and in the Pentagon's Drone Dominance program ModalAI ranked fourth of the 11 top performers selected for orders in Gauntlet I and placed in the top five for close-quarters battle in Gauntlet II.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Aeronautics builds affordable fixed-wing drones for commercial enterprises, UAS service providers and military customers. Its flagship Albatross UAV operates in over 55 countries, in applications ranging from remote sensing to asset management and surveillance.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "Autonodyne builds aviation software for autonomy, smart automation, mission planning and execution, autonomous vehicle control, on-demand mobility and augmented reality, and designs aviation hardware including mission computers, control stations and flight control computers (autopilots).",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "AVID LLC (Air Vehicle Integrated Design), an industry-leading aerospace engineering and software development firm, excels at engineering multidisciplinary aircraft design and analyses.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "Camflite is a leading U.S. sUAS company headquartered in New Jersey since 2010, focused on designing and manufacturing unmanned aircraft systems (sUAS) built with NDAA‑approved parts for industrial, commercial, and tactical uses.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "GreenSight’s industry-leading technology is developed and supported by a team with extensive backgrounds in robotics, autonomous vehicles, spacecraft, unmanned aerial vehicles (UAVs/drones), advanced communications and other forms of aerospace development as well as agriculture and land management.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "Selected to the US Government’s Blue sUAS program, Inspired Flight’s solutions have been thoroughly vetted for use in a variety of National Defense ecosystems. As a critical component of these high-impact applications, Inspired Flight’s top priority will always be the safety and reliability of its aircraft.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "Matternet is the developer of the world’s leading technology platform for on demand aerial delivery in urban environments. The company provides its technology platform as a service to healthcare, e- commerce and logistics organizations.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "VOXL autopilots",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "Skydio is the leading U.S. drone manufacturer and world leader in autonomous flight technology. Skydio leverages breakthrough AI technology to create the world’s most intelligent flying machines for consumers, enterprises, defense and civilian agencies.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "autopilots are",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "autopilots,",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "flight controllers, and in the Pentagon's Drone Dominance program ModalAI ranked fourth of the 11 top performers selected for orders in Gauntlet I and placed in the top five for close-quarters battle in Gauntlet II.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Aeronautics builds affordable fixed-wing drones for commercial enterprises, UAS service providers and military customers. Its flagship Albatross UAV operates in over 55 countries, in applications ranging from remote sensing to asset management and surveillance.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Autonodyne builds aviation software for autonomy, smart automation, mission planning and execution, autonomous vehicle control, on-demand mobility and augmented reality, and designs aviation hardware including mission computers, control stations and flight control computers (autopilots).",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "AVID LLC (Air Vehicle Integrated Design), an industry-leading aerospace engineering and software development firm, excels at engineering multidisciplinary aircraft design and analyses.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Camflite is a leading U.S. sUAS company headquartered in New Jersey since 2010, focused on designing and manufacturing unmanned aircraft systems (sUAS) built with NDAA‑approved parts for industrial, commercial, and tactical uses.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "GreenSight’s industry-leading technology is developed and supported by a team with extensive backgrounds in robotics, autonomous vehicles, spacecraft, unmanned aerial vehicles (UAVs/drones), advanced communications and other forms of aerospace development as well as agriculture and land management.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Selected to the US Government’s Blue sUAS program, Inspired Flight’s solutions have been thoroughly vetted for use in a variety of National Defense ecosystems. As a critical component of these high-impact applications, Inspired Flight’s top priority will always be the safety and reliability of its aircraft.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Matternet is the developer of the world’s leading technology platform for on demand aerial delivery in urban environments. The company provides its technology platform as a service to healthcare, e- commerce and logistics organizations.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "VOXL autopilots",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Skydio is the leading U.S. drone manufacturer and world leader in autonomous flight technology. Skydio leverages breakthrough AI technology to create the world’s most intelligent flying machines for consumers, enterprises, defense and civilian agencies.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "autopilots are",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "CARE PROVIDERS",
+    "url": "https://draganfly.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn to fly drones from Canada’s leading drone training and certification programs and take your flying to the next level.",
+    "url": "https://draganfly.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones built to spec (e.g., custom firmware, housing color, logo placement), often based on proven platforms like DJI Matrice or Autel EVO series—but sold under your company name with your warranty terms.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Civil engineering firms offering topographic surveys to municipal clients;",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose a Drone White Label Partner: A Step-by-Step Guide",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Not all white-label programs deliver equal operational depth. Key differentiators among active providers:",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Software-First Providers (e.g., Anzu Robotics)",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Top praise:",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Existing alternatives couldn’t address all field conditions",
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "bac2top",
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Back to top",
+    "url": "https://www.skydio.com/blog/how-to-launch-your-government-drone-program",
+    "pass": 3
+   },
+   {
+    "quote": "autopilots,",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "flight controllers, and in the Pentagon's Drone Dominance program ModalAI ranked fourth of the 11 top performers selected for orders in Gauntlet I and placed in the top five for close-quarters battle in Gauntlet II.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Aeronautics builds affordable fixed-wing drones for commercial enterprises, UAS service providers and military customers. Its flagship Albatross UAV operates in over 55 countries, in applications ranging from remote sensing to asset management and surveillance.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Autonodyne builds aviation software for autonomy, smart automation, mission planning and execution, autonomous vehicle control, on-demand mobility and augmented reality, and designs aviation hardware including mission computers, control stations and flight control computers (autopilots).",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "AVID LLC (Air Vehicle Integrated Design), an industry-leading aerospace engineering and software development firm, excels at engineering multidisciplinary aircraft design and analyses.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Camflite is a leading U.S. sUAS company headquartered in New Jersey since 2010, focused on designing and manufacturing unmanned aircraft systems (sUAS) built with NDAA‑approved parts for industrial, commercial, and tactical uses.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "GreenSight’s industry-leading technology is developed and supported by a team with extensive backgrounds in robotics, autonomous vehicles, spacecraft, unmanned aerial vehicles (UAVs/drones), advanced communications and other forms of aerospace development as well as agriculture and land management.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Selected to the US Government’s Blue sUAS program, Inspired Flight’s solutions have been thoroughly vetted for use in a variety of National Defense ecosystems. As a critical component of these high-impact applications, Inspired Flight’s top priority will always be the safety and reliability of its aircraft.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Matternet is the developer of the world’s leading technology platform for on demand aerial delivery in urban environments. The company provides its technology platform as a service to healthcare, e- commerce and logistics organizations.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "VOXL autopilots",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Skydio is the leading U.S. drone manufacturer and world leader in autonomous flight technology. Skydio leverages breakthrough AI technology to create the world’s most intelligent flying machines for consumers, enterprises, defense and civilian agencies.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "autopilots are",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Top 12 Military Drone Manufacturers and Companies in 2026",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "Top 12 Military Drone Manufacturers in 2026: Leading UAV Companies",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "Top Military Drone Manufacturers",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "As per Expert Market Research, leading military drone companies such as Saab AB, General Atomics, Lockheed Martin, Thales Group, and Boeing are driving innovation and growth in the global military drone market.",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "With increasing geopolitical tensions and rising defense budgets, the demand for advanced military drones is growing rapidly. In this article, we explore the top military drone manufacturers in 2026, along with their key technologies, flagship drones, and strategic importance.",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "Many international military organisations are increasingly implementing drones for border protection, law enforcement, and combat operations. The demand from top drone manufacturers is expanding due to the cost-effectiveness of these devices compared to manned aircraft and their growing integration into warfare systems to address combat threats.",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "Top 12 Military Drone Manufacturers & Companies in 2026",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Companies in the Global 8K Market in 2026",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "According to Expert Market Research, the top 8K companies are Samsung Electronics Co. Ltd, LG Electr...",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Companies Leading the Global Taxi Market 2026 | Best Rides & Se...",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "According to Expert Market Research, the top 10 taxi companies are Uber Technologies Inc, ANI Techno...",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "Top 4 Oats Companies and Brands in the World: Global Leaders 2026",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "According to Expert Market Research, The top 4 oats companies and brands are Grain Millers, Inc., Th...",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "EagleNXT (NYSE: UAVS), rebranded from AgEagle in 2025, provides full-stack drone solutions including senseFly and eBee aircraft, MicaSense multispectral sensors, and Ground Control fleet software. The company relocated its global headquarters from Wichita, KS to Allen, TX in January 2026 and is building a new U.S. manufacturing line for its eBee VISION drone.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "Forterra delivers autonomous mission systems for defense, from self-driving ground vehicles to coordinated robotic swarms. The company rebranded from Robotic Research and has raised over $600M to date, with headquarters still in Clarksburg, MD and additional offices in Arlington, VA, Winter Park, FL, and Palo Alto, CA.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "Meadowlark Aircraft Company, headquartered in Grand Forks, North Dakota, manufactures bespoke, U.S.-made, NDAA-compliant unmanned aerial systems, particularly light Group 3 fixed-wing VTOL drones for defense and civilian applications. Founded in 2023, it also offers white-label manufacturing so clients can bring their own branded UAS to market.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "EagleNXT (NYSE: UAVS), rebranded from AgEagle in 2025, provides full-stack drone solutions including senseFly and eBee aircraft, MicaSense multispectral sensors, and Ground Control fleet software. The company relocated its global headquarters from Wichita, KS to Allen, TX in January 2026 and is building a new U.S. manufacturing line for its eBee VISION drone.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Forterra delivers autonomous mission systems for defense, from self-driving ground vehicles to coordinated robotic swarms. The company rebranded from Robotic Research and has raised over $600M to date, with headquarters still in Clarksburg, MD and additional offices in Arlington, VA, Winter Park, FL, and Palo Alto, CA.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Meadowlark Aircraft Company, headquartered in Grand Forks, North Dakota, manufactures bespoke, U.S.-made, NDAA-compliant unmanned aerial systems, particularly light Group 3 fixed-wing VTOL drones for defense and civilian applications. Founded in 2023, it also offers white-label manufacturing so clients can bring their own branded UAS to market.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Drone White Label Guide: How to Choose the Right Partner",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "White-label drone solutions are not plug-and-play consumer gadgets—they’re B2B service enablers.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "About Drone White Label: Definition and Typical Use Cases",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "drone white label",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "refers to hardware or service packages developed by one manufacturer or operator—and rebranded, resold, and supported by another business as its own. It is",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "generic OEM hardware with a sticker swap. Legitimate white-label drone offerings include:",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware-only white labeling:",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Service-based white labeling:",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "A licensed drone operator provides flights, data processing, and reporting—but all deliverables carry your branding, contact info, and service agreement. Clients interact solely with you.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Software-integrated white labeling:",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Ground control stations (GCS), flight planning tools, or analytics dashboards licensed for rebranding—used alongside your own or partner hardware.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "White-label drone units often feature custom livery, branded controllers, and serialized firmware—distinct from off-the-shelf retail models.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Why Drone White Label Is Gaining Popularity",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Lately, two parallel shifts have made white-label drone services more viable than ever:",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "In the EU, UK, and parts of North America, national aviation authorities now recognize operational authorizations for third-party managed fleets—so long as accountability, training records, and maintenance logs remain traceable to the legal operator. This enables white-label partners to assume operational responsibility while letting resellers focus on sales and integration.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "EagleNXT (NYSE: UAVS), rebranded from AgEagle in 2025, provides full-stack drone solutions including senseFly and eBee aircraft, MicaSense multispectral sensors, and Ground Control fleet software. The company relocated its global headquarters from Wichita, KS to Allen, TX in January 2026 and is building a new U.S. manufacturing line for its eBee VISION drone.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Forterra delivers autonomous mission systems for defense, from self-driving ground vehicles to coordinated robotic swarms. The company rebranded from Robotic Research and has raised over $600M to date, with headquarters still in Clarksburg, MD and additional offices in Arlington, VA, Winter Park, FL, and Palo Alto, CA.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Meadowlark Aircraft Company, headquartered in Grand Forks, North Dakota, manufactures bespoke, U.S.-made, NDAA-compliant unmanned aerial systems, particularly light Group 3 fixed-wing VTOL drones for defense and civilian applications. Founded in 2023, it also offers white-label manufacturing so clients can bring their own branded UAS to market.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "License, White-Label or Buy a Drone Dock: Three Routes Compared",
+    "url": "https://dronehub.ai/blog/top-european-drone-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Teledyne FLIR OEM、地上偵察向けAI駆動型ソフトウェア「Prism Ground ISR」を発表 - ドローンジャーナル",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1188705.html",
+    "pass": 3
+   },
+   {
+    "quote": "Teledyne FLIR OEM、地上偵察向けAI駆動型ソフトウェア「Prism Ground ISR」を発表",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1188705.html",
+    "pass": 3
+   },
+   {
+    "quote": "Teledyne FLIR OEMは、地上ベースのインテリジェンス、監視、偵察（ISR）向けの実戦配備対応ソフトウェアスタック「Prism Ground ISR」を発表した",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1188705.html",
+    "pass": 3
+   },
+   {
+    "quote": "Teledyne FLIR OEMが保有する実データと合成データの電気光学・赤外線データセットを用いて学習することで、軍用車両分類と、雑然とした環境における目標認識性能の向上を実現",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1188705.html",
+    "pass": 3
+   },
+   {
+    "quote": "Teledyne FLIR OEMの赤外線カメラモジュール「Boson+」および「Neutrinoシリーズ」（連続ズームモデルを含む）に対応するほか、一部のサードパーティ製赤外線・電気光学センサーとも互換性があり、マルチセンサーソリューションの構築が可能だ",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1188705.html",
+    "pass": 3
+   },
+   {
+    "quote": "Teledyne FLIR OEM",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1188705.html",
+    "pass": 3
+   },
+   {
+    "quote": "収益の拡大は予算の確保だけでなく、OEMの生産能力、輸出機会、航法の耐障害性、認証済みシステムを予定どおりに運用開始できる能力にも左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事用ドローンOEMにとっての機会は、機体にとどまらない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のOEMの市場アクセスを制約するITARおよび輸出管理制度",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "非同盟国の調達機関は規制の緩い代替品を選ぶ傾向にあり、高成長の新興市場における米国OEMの収益基盤が縮小する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "複数国で同時に型式受入れ要件を満たす必要があるため、プログラムの運用開始までの期間が延び、OEMの収益認識が先送りされる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "滞空時間や任務稼働率を損なうことなく電子戦能力を統合できるOEMは、複数任務向けの調達プログラムで存在感を高めるだろう",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業機会は、国家主権に関する目標を満たしつつ、共同プログラムに参加し、国ごとに異なる認証要件に対応できるOEMに有利である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "インド市場では、国内開発と選択的な海外調達が組み合わさり、国内企業と国際的なOEMの双方に二つの市場機会が生まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内調達はプラットフォームの継続的な改良を支える一方、OEMの輸出活動は競争動向に別途反映される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Selected to the US Government’s Blue sUAS program, Inspired Flight’s solutions have been thoroughly vetted for use in a variety of National Defense ecosystems. As a critical component of these high-impact applications, Inspired Flight’s top priority will always be the safety and reliability of its aircraft.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "ModalAI® accelerates autonomy by providing innovators with robot and drone perception and communications systems that are manufactured in the U.S.A. Our highly-integrated AI-powered modules empower a variety of industries to utilize aerial and ground autonomous navigations systems that communicate on 4G and 5G cellular networks. Learn more",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "Selected to the US Government’s Blue sUAS program, Inspired Flight’s solutions have been thoroughly vetted for use in a variety of National Defense ecosystems. As a critical component of these high-impact applications, Inspired Flight’s top priority will always be the safety and reliability of its aircraft.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "ModalAI® accelerates autonomy by providing innovators with robot and drone perception and communications systems that are manufactured in the U.S.A. Our highly-integrated AI-powered modules empower a variety of industries to utilize aerial and ground autonomous navigations systems that communicate on 4G and 5G cellular networks. Learn more",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Card is a graduate of the University of South Carolina with a B.S. in Engineering. He also attended the U.S. Merchant Marine Academy and the John F. Kennedy School of Government at Harvard University. Mr. Card served in the U.S. Navy from 1965 to 1967.",
+    "url": "https://draganfly.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In the EU, UK, and parts of North America, national aviation authorities now recognize operational authorizations for third-party managed fleets—so long as accountability, training records, and maintenance logs remain traceable to the legal operator. This enables white-label partners to assume operational responsibility while letting resellers focus on sales and integration.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Less hardware-level control, potential vendor lock-in (especially on software APIs), slower response to firmware bugs if upstream vendor delays patches, margin compression if reselling at commodity rates.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "Real-world costs vary significantly by scope—not headline specs. Based on publicly disclosed engagements cited by CloudVisual and Drone.Solutions",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "When it’s worth caring about: if your gross margin on drone services currently sits below 35%—white labeling can lift it to 50–65% by eliminating pilot payroll overhead and certification renewal costs. When you don’t need to overthink it: if your drone revenue is <10% of total income and serves only internal needs.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "transfer legal responsibility for safe operation. As the reselling entity, you remain accountable for:",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "D-Fend Solutions Partner Program: Become a Partner Today",
+    "url": "https://d-fendsolutions.com/about-us/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://d-fendsolutions.com/about-us/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partners",
+    "url": "https://d-fendsolutions.com/about-us/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "We partner with organizations that help market and resell D-Fend Solutions’ innovative offerings in their respective regions and/or verticals.",
+    "url": "https://d-fendsolutions.com/about-us/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partnership Materials:",
+    "url": "https://d-fendsolutions.com/about-us/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program | Become a Partner",
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Reseller",
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Join SPH Engineering's Partner Program",
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Showcase and resell our one-of-a-kind airborne integrated UAV solutions to gather and deliver geophysical, hydrographic, industrial, archaeological surveying, environmental monitoring data to customers like no one else.",
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.skydio.com/blog/how-to-launch-your-government-drone-program",
+    "pass": 3
+   },
+   {
+    "quote": "Technology is shaping the way we defend and protect our communities. Integrating uncrewed aerial systems (UAS) into government and military operations is becoming essential. As a leader in autonomous drones, Skydio offers a range of public sector and defense drone programs tailored to meet the needs of various agencies worldwide.",
+    "url": "https://www.skydio.com/blog/how-to-launch-your-government-drone-program",
+    "pass": 3
+   },
+   {
+    "quote": "Skydio Authorized Resellers. Skydio works with several companies that deliver solutions centered on advancing the autonomous drone technology from Skydio.",
+    "url": "https://www.skydio.com/blog/how-to-launch-your-government-drone-program",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s a list of our resellers",
+    "url": "https://www.skydio.com/blog/how-to-launch-your-government-drone-program",
+    "pass": 3
+   },
+   {
+    "quote": "Launching a government drone program involves careful planning, strategic procurement, and continuous evaluation. Innovative, reliable, and scalable solutions are paramount in today's dynamic defense landscape. Defense and government operations require real-time intelligence, persistent surveillance, and the ability to adapt to various operational environments.",
+    "url": "https://www.skydio.com/blog/how-to-launch-your-government-drone-program",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.skydio.com/blog/how-to-launch-your-government-drone-program",
+    "pass": 3
+   },
+   {
+    "quote": "Selected to the US Government’s Blue sUAS program, Inspired Flight’s solutions have been thoroughly vetted for use in a variety of National Defense ecosystems. As a critical component of these high-impact applications, Inspired Flight’s top priority will always be the safety and reliability of its aircraft.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "ModalAI® accelerates autonomy by providing innovators with robot and drone perception and communications systems that are manufactured in the U.S.A. Our highly-integrated AI-powered modules empower a variety of industries to utilize aerial and ground autonomous navigations systems that communicate on 4G and 5G cellular networks. Learn more",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Their approaches vary. Fortem uses radar-guided autonomous interception, while other startups concentrate on affordable interceptor aircraft, onboard guidance, or airborne detection.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "A startup can double its production, win more contracts, and still see its valuation fall if margins deteriorate or investors decide they paid too much for future growth. That's a real possibility in a market where technology changes so quickly.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor and Partner Research",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aditi Shivarkar",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is driven by various factors, such as military drones providing real-time situational awareness to military commanders, enabling them to make informed decisions quickly and effectively.",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": ", Defence Research and Development Organisation (DRDO) of India successfully conducted flight trials of Unmanned Aerial Vehicle launched Precision Guided Missile (ULPGM) – V3 in Andhra Pradesh, India. This missile was released from a UAV. The ULPGM – V3 is equipped with a dual-channel seeker that can strike a wide variety of targets and can be fired in plain and high-altitude areas.",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Drones built to fly once. The Pentagon wants them cheap and in huge numbers, which means volume matters more than margin.",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "makes the Switchblade loitering munition you've seen in Ukraine footage, and it's proving it can grow without breaking. First-quarter revenue was $480.5 million, funded backlog hit a record $1.5 billion, and gross margin recovered to 26% after last year's slide. It reaffirmed fiscal 2027 revenue guidance of $2.125–2.225 billion.",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "It's burning cash fast to pay for the growth, though it has about $326 million in the bank. Q2 net loss was $35 million, first-half operating cash burn was $79 million and gross margin was 16%. At that pace, the cash buys roughly two years for the volume to show up.",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "The variety of companies attracting investors is worth watching. Money is going to established aircraft manufacturers, autonomous software developers, counter-drone specialists and relatively young engineering teams. Fundraising activity extends well beyond the handful of billion-dollar companies.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "This is a paid press release. Contact the press release distributor directly with any inquiries.",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Closing the Company's signed acquisition offers and continuing to integrate acquired survey, inspection and power washing businesses into drone-based delivery to support reduced cost per survey and per job, while increasing capacity, geographic reach, and margin expansion, as well as additional services such as data analytics and centralized fast analytics processing.",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "or co-develop a variant; the routes are compared in",
+    "url": "https://dronehub.ai/blog/top-european-drone-companies",
+    "pass": 3
+   },
+   {
+    "quote": "その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ACSLの米国子会社、産業用ドローン販売代理店Drone Nerdsと販売店契約を締結 - ドローンジャーナル",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "pass": 3
+   },
+   {
+    "quote": "ACSLの米国子会社、産業用ドローン販売代理店Drone Nerdsと販売店契約を締結",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月には販売代理店であるExertis AlmoからSOTEN500機の注文を受けている",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ドローン専門の販売代理店であるDrone Nerdsは、政府機関や建設、エネルギー分野などさまざまな業界の企業を顧客に持つ",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "With one computer click, Paladin’s autonomous drone deploys to a 911 call from its remote home base and arrives onsite before first responders. Paladin designed an LTE drone and autonomous software controls and data management to make DFR both effective and straightforward to implement.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "Uniform Sierra Aerospace builds NDAA-compliant tactical drones — the indoor Arrowhead and outdoor Panther systems — for public safety. The company was acquired by Flock Safety in January 2025 and continues operating from its original Purdue Research Park facility in West Lafayette, IN.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "pass": 3
+   },
+   {
+    "quote": "With one computer click, Paladin’s autonomous drone deploys to a 911 call from its remote home base and arrives onsite before first responders. Paladin designed an LTE drone and autonomous software controls and data management to make DFR both effective and straightforward to implement.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "Uniform Sierra Aerospace builds NDAA-compliant tactical drones — the indoor Arrowhead and outdoor Panther systems — for public safety. The company was acquired by Flock Safety in January 2025 and continues operating from its original Purdue Research Park facility in West Lafayette, IN.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "pass": 3
+   },
+   {
+    "quote": "A full hardware white-label program (minimum 5 units, custom branding, firmware access, 2-year warranty) starts around €89,000 in EU markets.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "When it’s worth caring about: if your gross margin on drone services currently sits below 35%—white labeling can lift it to 50–65% by eliminating pilot payroll overhead and certification renewal costs. When you don’t need to overthink it: if your drone revenue is <10% of total income and serves only internal needs.",
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "pass": 3
+   },
+   {
+    "quote": "40% revenue increase YOY",
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "With one computer click, Paladin’s autonomous drone deploys to a 911 call from its remote home base and arrives onsite before first responders. Paladin designed an LTE drone and autonomous software controls and data management to make DFR both effective and straightforward to implement.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Uniform Sierra Aerospace builds NDAA-compliant tactical drones — the indoor Arrowhead and outdoor Panther systems — for public safety. The company was acquired by Flock Safety in January 2025 and continues operating from its original Purdue Research Park facility in West Lafayette, IN.",
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "pass": 3
+   },
+   {
+    "quote": "Government contracts are becoming the strongest test of these valuations. TEKEVER's British Army CORVUS agreement, worth up to £400 million over ten years, and Shield AI's US Air Force autonomy production award demonstrate real procurement opportunities. Actual deliveries, repeat orders, and revenue matter much more than the headline ceiling of a contract.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Systems follows a different path. Its July 2026 financing, co-led by investors including Blackstone, Airbus, Advent, and Noteus, supported expansion across air, land, and sea. The company also reported fast-growing revenue and demonstrated profitability.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The £400 million CORVUS agreement is particularly important because it connects the company's technology to an actual military procurement program. Of course, that's a maximum contract value spread over several years, not £400 million arriving in the company's bank account immediately.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of revenue, the market is valued at USD 18.23 billion in 2026.",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "L3Harris Technologies",
+    "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "The urgency is real, but the money is arriving slower and messier. Most of the $54.6 billion the Pentagon asked for its new autonomous-warfare office rides on a separate $350 billion package rather than the regular budget. And the fiscal year started on October 1 under a stopgap bill that freezes spending and blocks new programs until at least December 11.",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "makes the Switchblade loitering munition you've seen in Ukraine footage, and it's proving it can grow without breaking. First-quarter revenue was $480.5 million, funded backlog hit a record $1.5 billion, and gross margin recovered to 26% after last year's slide. It reaffirmed fiscal 2027 revenue guidance of $2.125–2.225 billion.",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "makes Black Widow, the small scout drone the Army picked for its Short Range Reconnaissance program. That one win turned a tiny company into one guiding to $150–180 million of revenue this year, and Q2 revenue rose 527%.",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "builds compliant motors, flight controllers and cameras in the US, and its Orlando factory is ramping toward 1,500 motors a day. Q2 revenue was up 687%, and it has about $230 million in cash with no debt. If the Army's million-drone ambition turns into orders, somebody has to make the motors.",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Drones were only $79 million of its $459 million in Q2 revenue. The rest is rockets, hypersonics, engines and electronics. Buy Kratos for drones and you're mostly buying a defense-tech conglomerate that also makes them, one that raised about $1.4 billion in stock in early March to build capacity.",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Shield AI makes Hivemind, the AI pilot that flies drones without GPS or a link back to a human. It flies Anduril's Fury, and it projects more than $540 million of revenue this year. In September it signed a letter of intent to build its X-BAT drone fighter in Poland, and it was reported in talks to raise at $20 billion or more, up from $12.7 billion in March.",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Systems' $1.2 billion Series D, TEKEVER's $580 million Series D and STARK's $572 million Series C demonstrate how much capital investors are prepared to commit to the sector. However, large funding rounds and high valuations do not guarantee that production targets or revenue expectations will be achieved.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "- The drone industry is moving from a niche technology market into a major revenue-generating technology platform, with commercial, industrial, public-safety and defense applications expanding at the same time. A 2026 market",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "to reach $12.51 billion. That combination of hardware sales, recurring software revenue, autonomous systems, data services and Drone-as-a-Service models creates multiple avenues for companies to turn rapidly expanding drone adoption into substantial revenue growth. Leading Tech Companies on the move today include:",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Reports 425% First Half and 316% Second-Quarter Year-Over-Year Revenue Growth as Drone as a Service Segment Continues to Scale",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Company delivers its seventh consecutive quarter of revenue growth, advances defense product portfolio, and joins the Russell 3000® Index",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Signed offers to acquire multiple additional land survey and geospatial services companies across the U.S., Canada and Australia, expected to collectively contribute approximately C$40 million in revenue to our DaaS business during the first 12 months following a completed closing",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Total revenue for the second quarter of 2026 was $9.3 million, an increase of 316% compared to $2.2 million for the second quarter of 2025, and $17.7 million for the six months ended June 30, 2026, an increase of 425% compared to $3.4 million for the same period of 2025",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Company reported a net loss of $22.5 million during the quarter reflecting its strategy to invest in laying a strong global foundation for its AI Autonomy drone platforms enabling capability to scale DaaS services and revenue, and future government and defense customer pilots and contracts.",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Total revenues were RMB77.9 million (US$11.5 million), representing a significant increase of 203.5% from RMB25.7 million in the first quarter of 2026, and a decrease of 31.3% from RMB113.3 million in the second quarter of 2025.",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Record revenue for the first quarter of $480.5 million, up 6% year-over-year",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Private, Warsaw IPO discussed; FlyEye, Warmate, Gladius; unmanned systems 20% of revenue",
+    "url": "https://dronehub.ai/blog/top-european-drone-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Listed: Euronext Paris, PARRO; ANAFI UKR on DCMA's Blue UAS Cleared List since April 2025",
+    "url": "https://dronehub.ai/blog/top-european-drone-companies",
+    "pass": 3
+   },
+   {
+    "quote": "(Poland) — which calls itself Poland's largest private defence-industry entity: FlyEye reconnaissance mini-UAVs, Warmate loitering munitions and the Gladius strike system. Unmanned systems made up 20% of group revenue in figures it presented at MSPO in September 2026, and its three shareholders are",
+    "url": "https://dronehub.ai/blog/top-european-drone-companies",
+    "pass": 3
+   },
+   {
+    "quote": "(France) — professional micro-drones, listed on Euronext Paris since June 2006 (PARRO). Its ANAFI UKR has been on the Blue UAS Cleared List since April 2025, according to",
+    "url": "https://dronehub.ai/blog/top-european-drone-companies",
+    "pass": 3
+   },
+   {
+    "quote": ", and on 27 August 2026 Parrot said the drone is also",
+    "url": "https://dronehub.ai/blog/top-european-drone-companies",
+    "pass": 3
+   },
+   {
+    "quote": "The leading US drone companies in 2026, by category: Dronehub in drone-in-a-box infrastructure, Anduril, Shield AI and AeroVironment in defense, Skydio and BRINC in public safety, Zipline and Wing in delivery, Dedrone and Epirus in counter-UAS. Each entry lists HQ, status, latest funding or revenue, and Blue UAS or NDAA position.",
+    "url": "https://dronehub.ai/blog/top-european-drone-companies",
+    "pass": 3
+   },
+   {
+    "quote": "This list covers company matches for military and defense drone manufacturers associated with Israel, found by RevenueBase SmartSearch using the meaning of business descriptions in its company graph at Exact. Ranked by professionals tracked, largest first. Rows show recorded descriptions where available, Exact search membership and the snapshot date. Data refreshed October 18, 2026.",
+    "url": "https://revenuebase.ai/companies/military-and-defense-drone-manufacturers/israel",
+    "pass": 3
+   },
+   {
+    "quote": "Recorded in the RevenueBase company graph · Oct 18, 2026 ·",
+    "url": "https://revenuebase.ai/companies/military-and-defense-drone-manufacturers/israel",
+    "pass": 3
+   },
+   {
+    "quote": "The RevenueBase company graph: 60 million companies and 398.9 million professional contacts resolved from primary sources, queried with RevenueBase SmartSearch, the natural-language company search available to every RevenueBase user.",
+    "url": "https://revenuebase.ai/companies/military-and-defense-drone-manufacturers/israel",
+    "pass": 3
+   },
+   {
+    "quote": "RevenueBase's August 25, 2026 study assessed 4,198 description/company pairs across matching settings. The publisher reports 86% good or better at Exact. This evaluates the method across queries; it does not audit this individual list. Recorded company descriptions, where available, help you judge each match yourself.",
+    "url": "https://revenuebase.ai/companies/military-and-defense-drone-manufacturers/israel",
+    "pass": 3
+   },
+   {
+    "quote": "2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "物流・輸送は、2025年に市場売上高の5.0%を占め、2035年には37.4億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "通信中継は2025年に7億2,900万米ドルの売上高を生み、2035年には市場売上高の4.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に軍事用ドローン市場の売上高の38.2%を占め、2035年には233.8億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は2025年に北米の軍事用ドローン売上高の95.0%を占め、2035年には222.2億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダは2025年に軍事用ドローンの売上高3億4,800万米ドルを生み、2035年には11.7億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の軍用ドローン売上高は2025年に44億7,000万米ドルとなり、2035年までに世界市場の26.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの軍用ドローン売上高は2025年に13億4,000万米ドルとなり、2035年までに48億6,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "フランスは2025年の欧州の軍用ドローン売上高の20.0%を占め、2035年までに32億4,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の軍用ドローン売上高は2025年に8億9,300万米ドルとなり、2035年までに欧州市場の売上高の20.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年の軍用ドローン市場売上高の29.5%を占め、2035年までに199億5,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の軍用ドローン売上高は2025年に18億8,000万米ドルとなり、2035年までに69億8,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI in Military Drones and UAVs: A 2019 Overview — AI in Military Drones and UAVs: A 2019 Overview Emerj Artificial Intelligence Research https://emerj.com > ai-drones-and-ua...",
+    "url": "https://emerj.com/ai-drones-and-uavs-in-the-military-current-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 12 Military Drone Manufacturers and Companies in 2026 — Top 12 Military Drone Manufacturers and Companies in 2026 Expert Market Research https://www.expertmarketresearch.com > ...",
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "Top Military Drones Startups by Valuation (2026) — Top Military Drones Startups by Valuation (2026) New Market Pitch https://newmarketpitch.com > news",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drones Market Companies, Size & Trends 2026-2035 — Military Drones Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "San Diego Startup Nets $165M for Military Drone Software — San Diego Startup Nets $165M for Military Drone Software GovTech https://www.govtech.com > products",
+    "url": "https://www.govtech.com/products/san-diego-startup-nets-165m-for-military-drone-software",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン 市場規模・予測レポート 2026〜2035年 — 軍用ドローン 市場規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "careers in STEM and aviation, with an emphasis on UAS and AAM. Together, we look forward to bolstering diversity, equity and inclusion in the drone industry, which will improve business outputs and profitability,” said Sharon Rossmark, CEO of Women And Drones.",
+    "url": "https://draganfly.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Systems follows a different path. Its July 2026 financing, co-led by investors including Blackstone, Airbus, Advent, and Noteus, supported expansion across air, land, and sea. The company also reported fast-growing revenue and demonstrated profitability.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Shield AI's premium makes sense when we consider its software opportunity and US military relationships. But a higher valuation doesn't automatically mean higher revenue or better profitability. Quantum Systems has a substantial commercial business of its own, and both companies are pursuing very different growth strategies.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "There are two particularly interesting parts of that announcement. First, Quantum Systems said it was already profitable, which is unusual among young companies raising financing on this scale. Second, its new investors included major financial institutions and Airbus, bringing both capital and aerospace industry expertise.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "There is a meaningful gap between Ukraine's manufacturing importance and the private valuations of its startups. That could create investment opportunities, but cheap valuations aren't automatically bargains. Revenue, profitability, contracts, ownership, and wartime operational risks still matter enormously.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Shield AI has the opportunity to make Hivemind a common autonomy platform across military aircraft. Quantum Systems is building an increasingly broad autonomous systems business and has reported profitability. TEKEVER already has operational experience and a substantial British military surveillance program.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Our ranking prioritizes recent completed financing rounds with disclosed valuations, company and investor announcements, reputable financial reporting, and relevant regulatory disclosures. We also considered revenue, profitability, government contracts, manufacturing capacity, operational deployments, and comparable transactions where these helped establish a company's market position.",
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Net Income of $6.7 million compared to a net loss of $11.8 million in Q2 2025",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA* of $28.1 million compared to Adjusted EBITDA* of $3.6 million in Q2 2025",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "D-Fend Japan",
+    "url": "https://d-fendsolutions.com/about-us/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Systems Opens in Japan, Plans Closer Ties With Local Manufacturers",
+    "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の軍用ドローン市場は、中国の国内調達、インドの国産化と輸入、そして日本とオーストラリアにおける同盟国の戦力近代化という、複数の独立した需要要因に支えられている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2025年の軍用ドローン売上高は8億700万米ドルで、2035年にはアジア太平洋市場の売上高の15.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は防衛態勢の変化に伴い、海・空・陸の任務における無人能力を拡充している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "対UASおよび自律システムの正式な調達活動は、日本の無人システムのポートフォリオが多様化していることを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "SkyLink Japan",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛省・自衛隊と接点があるUAVメーカー12社を調べてみた",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SkyLink Japan編集部",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SkyLink Japan編集長",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "第2回（このブログ）：日本の防衛省・自衛隊と接点があるUAVメーカー12社を調べてみた",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "海外では軍事、日本では産業へ｜Penguin C VTOLが広がるためのデュアルテック条件",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "まず区分を見て、次に「日本で何が確認できたか」を読む",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本｜確認 2024–2026",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本｜確認 2026",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "公開情報をもとにSkyLink Japan編集部が整理",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製か国産かの二択ではありませんが、A・B区分に日本企業がもっと増えてほしい",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "迎撃ドローンと自爆型ドローンの違い｜仕組み・世界メーカー・日本の現在地",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では令和8年度予算で、無人アセット防衛能力の構築に",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "今回12社を調べて見えた、日本と海外の違い",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、防衛任務の実績、セキュリティ、量産、保守体制を後から整える必要があります",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "The open question is price. AeroVironment didn't qualify for the Pentagon's Gauntlet II competition, where the winners sell drones for $3,500 to $4,500. It's a premium weapons maker in a market that increasingly wants bulk pricing.",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "18.23",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "quote": "In terms of revenue, the market is valued at USD 18.23 billion in 2026."
+   },
+   {
+    "value": "480.5",
+    "url": "https://exoswan.com/military-drone-stocks",
+    "quote": "makes the Switchblade loitering munition you've seen in Ukraine footage, and it's proving it can grow without breaking. First-quarter revenue was $480.5 million, funded backlog hit a record $1.5 billion, and gross margin recovered to 26% after last year's slide. It reaffirmed fiscal 2027 revenue gui"
+   },
+   {
+    "value": "480.5",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "quote": "Record revenue for the first quarter of $480.5 million, up 6% year-over-year"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defenseadvancement.com/suppliers/military-drone-software/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/world/asia-pacific/india-bars-makers-military-drones-using-chinese-parts-2023-08-08/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hornbill.technology/drone-service-providers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://patternica.com/blog/military-drone-software-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://draganfly.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hindustandrones.io/whats-in-it-for/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unmannedsystemstechnology.com/expo/military-drones/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dedrone.com/partners/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://d-fendsolutions.com/about-us/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.army.mil/article/294637/drone_marketplace_goes_live_expands_functionality",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skydio.com/blog/how-to-launch-your-government-drone-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aerosightx.com/custom/private-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudvisual.co.uk/drone-white-label-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.usnews.com/investing/articles/best-drone-stocks-to-buy",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/military-drone-market.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exoswan.com/military-drone-stocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/military-drones-top-startups-fundraising",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.govtech.com/products/san-diego-startup-nets-165m-for-military-drone-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/drone-software-market-103527",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/What-are-some-examples-of-successful-Silicon-Valley-startups-selling-commercially-developed-drones-directly-to-the-military-bypassing-traditional-contracting-cycles",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dronehub.ai/blog/top-european-drone-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adriadefense.com/7-israeli-defense-tech-companies-expanding-into-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/military-and-defense-drone-manufacturers/israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helsing.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://droneintelligence.ai/defence-drone-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appliedintuition.com/ja/blog/drone-stack-software-defined-warfare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-journal.impress.co.jp/docs/news/1188705.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/dronedeploy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arrow.com/ja/industries/application-page/military-drone-system-solutions.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acsl.co.jp/news-release/press-release/3278/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akihabara-ds.com/column/detail/89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kmt-drone.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "military drone software white label",
+   "results": [
+    "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7",
+    "https://www.defenseadvancement.com/suppliers/military-drone-software/",
+    "https://www.reuters.com/world/asia-pacific/india-bars-makers-military-drones-using-chinese-parts-2023-08-08/",
+    "https://hornbill.technology/drone-service-providers/",
+    "https://patternica.com/blog/military-drone-software-development",
+    "https://emerj.com/ai-drones-and-uavs-in-the-military-current-applications/",
+    "https://www.facebook.com/StockSharks/posts/the-us-military-is-deploying-ai-from-palantir-technologies-across-the-entire-dep/1344046807753678/",
+    "https://www.csis.org/analysis/unleashing-us-military-drone-dominance-what-united-states-can-learn-ukraine",
+    "https://www.skyquestt.com/report/military-drone-market/companies",
+    "https://dronebundle.com/white-label"
+   ]
+  },
+  {
+   "query": "military drone software OEM white-label partner",
+   "results": [
+    "https://www.defenseadvancement.com/suppliers/military-drone-software/",
+    "https://hornbill.technology/drone-service-providers/",
+    "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d",
+    "https://draganfly.com/",
+    "https://hindustandrones.io/whats-in-it-for/partner",
+    "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "https://www.unmannedsystemstechnology.com/expo/military-drones/",
+    "https://dronedesk.io/white-label",
+    "https://dronehub.ai/blog/top-european-drone-companies",
+    "https://en.m.wikipedia.org/wiki/Military"
+   ]
+  },
+  {
+   "query": "military drone software reseller partner program",
+   "results": [
+    "https://www.dedrone.com/partners/partner-program",
+    "https://d-fendsolutions.com/about-us/partner-program/",
+    "https://www.facebook.com/AUSA.org/posts/army-expands-drone-marketplace-access-to-allies-partnerssystem-has-been-streamli/1559203032900939/",
+    "https://www.army.mil/article/294637/drone_marketplace_goes_live_expands_functionality",
+    "https://www.sphengineering.com/partners/partner-program",
+    "https://www.skydio.com/blog/how-to-launch-your-government-drone-program",
+    "https://dronelife.com/2020/09/04/counter-drone-company-dedrone-scores-investment-partnership-with-general-dynamics-mission-systems/",
+    "https://associationfordrones.com/programs/manufacturer-partnership",
+    "https://www.dslrpros.com/pages/reseller-application?srsltid=AYCX9vKKWD9dIA8UD50NkJHM11KihbqEvUaKoPj3hw8AM4oJCcxmIpX8",
+    "https://en.m.wikipedia.org/wiki/Military"
+   ]
+  },
+  {
+   "query": "military drone SaaS rebrand private label",
+   "results": [
+    "https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0",
+    "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "https://www.army.mil/article/294637/drone_marketplace_goes_live_expands_functionality",
+    "https://aerosightx.com/custom/private-label",
+    "https://www.youtube.com/watch?v=u6nyre130uk",
+    "https://cloudvisual.co.uk/drone-white-label-company",
+    "https://www.unmannedsystemstechnology.com/expo/military-drones/",
+    "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "https://www.forbes.com/sites/zitaballingerfletcher/2026/10/14/8-new-nations-will-do-business-on-the-us-armys-drone-marketplace/",
+    "https://www.reuters.com/commentary/breakingviews/defence-as-a-service-is-more-than-saas-with-guns-2026-06-16/"
+   ]
+  },
+  {
+   "query": "military drone software company profitable EBITDA",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation",
+    "https://www.youtube.com/watch?v=DhdWda6G8l0",
+    "https://money.usnews.com/investing/articles/best-drone-stocks-to-buy",
+    "https://www.precedenceresearch.com/military-drones-market",
+    "https://www.marketsandmarkets.com/ResearchInsight/military-drone-market.asp",
+    "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+    "https://www.instagram.com/p/DZcMUOilqkx/",
+    "https://exoswan.com/military-drone-stocks",
+    "https://www.youtube.com/watch?v=S1hxHvTZYko",
+    "https://en.m.wikipedia.org/wiki/Military"
+   ]
+  },
+  {
+   "query": "military drone software bootstrapped profitable revenue",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/military-drones-top-startups-fundraising",
+    "https://www.govtech.com/products/san-diego-startup-nets-165m-for-military-drone-software",
+    "https://www.youtube.com/watch?v=DhdWda6G8l0",
+    "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "https://www.precedenceresearch.com/military-drones-market",
+    "https://www.fortunebusinessinsights.com/drone-software-market-103527",
+    "https://www.defenseadvancement.com/suppliers/military-drone-software/",
+    "https://www.quora.com/What-are-some-examples-of-successful-Silicon-Valley-startups-selling-commercially-developed-drones-directly-to-the-military-bypassing-traditional-contracting-cycles",
+    "https://www.youtube.com/watch?v=nLwQYjPzHvQ",
+    "https://en.m.wikipedia.org/wiki/Military"
+   ]
+  },
+  {
+   "query": "military drone software vendors Europe Israel Germany white label",
+   "results": [
+    "https://dronehub.ai/blog/top-european-drone-companies",
+    "https://www.adriadefense.com/7-israeli-defense-tech-companies-expanding-into-europe/",
+    "https://revenuebase.ai/companies/military-and-defense-drone-manufacturers/israel",
+    "https://helsing.ai/",
+    "https://droneintelligence.ai/defence-drone-companies",
+    "https://www.aero-sentinel.com/company/",
+    "https://www.elbitsystems.com/autonomous/aerial/elbit-systems-uavs",
+    "https://www.heidelberg.com/global/en/about_heidelberg/press_relations/press_release/press_release_details/press_release_262786.jsp",
+    "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+    "https://en.m.wikipedia.org/wiki/Military"
+   ]
+  },
+  {
+   "query": "軍用ドローン ソフトウェア OEM 提供",
+   "results": [
+    "https://www.appliedintuition.com/ja/blog/drone-stack-software-defined-warfare",
+    "https://drone-journal.impress.co.jp/docs/news/1188705.html",
+    "https://techblitz.com/startup-interview/dronedeploy/",
+    "https://www.arrow.com/ja/industries/application-page/military-drone-system-solutions.html",
+    "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "https://sentry-magazine.com/ja/%E7%B1%B3%E5%9B%BD%E5%9B%BD%E9%98%B2%E7%B7%8F%E7%9C%81%E3%80%81%E3%83%AC%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC%E6%A7%8B%E6%83%B3%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7/",
+    "https://globalxetfs.co.jp/research/drones-in-defense-reshaping-modern-warfare-and-its-economics/index.html",
+    "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "https://oem.flir.com/ja-jp/solutions/defense/",
+    "https://www.usps.com/ship/priority-mail.htm?dclid=CPKV1Yag79wCFYGoyAodkAQLbA"
+   ]
+  },
+  {
+   "query": "軍用ドローン ソフト 代理店 海外製",
+   "results": [
+    "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "https://www.acsl.co.jp/news-release/press-release/3278/",
+    "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "https://akihabara-ds.com/column/detail/89/",
+    "https://kmt-drone.com/",
+    "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "https://drone-school-navi.com/column/model-rent-share/",
+    "https://www.bloomberg.co.jp/news/articles/2025-03-19/STBAFLT0G1KW00",
+    "https://www.microsoft.com/en-us/"
+   ]
+  }
+ ],
+ "missing": {}
+}

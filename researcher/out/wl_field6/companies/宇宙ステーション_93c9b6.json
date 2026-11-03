@@ -1,0 +1,1281 @@
+{
+ "name": "宇宙ステーション",
+ "en": "commercial space station",
+ "aliases": [
+  "低軌道",
+  "月面",
+  "LEO"
+ ],
+ "context": "6 航空・宇宙 ⑥月面・低軌道",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:15:58.211658+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "View All Topics A-Z",
+    "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover More Topics",
+    "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/",
+    "pass": 3
+   },
+   {
+    "quote": "Every topic, explained",
+    "url": "https://orbitalradar.com/space-stations/commercial",
+    "pass": 3
+   },
+   {
+    "quote": "framework, which may have private developers supply modules to a government-anchored hub rather than each flying a fully independent station from day one. Phase 2 awards to at least two providers are expected in 2026.",
+    "url": "https://orbitalradar.com/space-stations/commercial",
+    "pass": 3
+   },
+   {
+    "quote": "after its planned deorbit around 2030. The leading contenders are Vast's Haven-1/Haven-2, Axiom Station, Blue Origin and Sierra Space's Orbital Reef, and the Voyager–Airbus Starlab. Russia plans its own ROSS, and China's Tiangong is already operational.",
+    "url": "https://orbitalradar.com/space-stations/commercial",
+    "pass": 3
+   },
+   {
+    "quote": "Announced in March 2026, Ignition reshaped the Commercial LEO Destinations strategy: rather than backing fully independent free-flying stations from the outset, NASA may have private developers supply modules to a government-anchored hub, with Phase 2 awards to at least two providers expected in 2026.",
+    "url": "https://orbitalradar.com/space-stations/commercial",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Axiom Space has already flown four private astronaut missions to the ISS, and Vast, Orbital Reef and others include tourism alongside research and manufacturing in their business models. See our space tourism guide for providers, costs and the full flight log.",
+    "url": "https://orbitalradar.com/space-stations/commercial",
+    "pass": 3
+   },
+   {
+    "quote": "Add topic",
+    "url": "https://en.wikipedia.org/wiki/List_of_commercial_space_stations",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Service Providers",
+    "url": "https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Boeing is the leading global supplier of human space systems and services. As NASA’s prime contractor for the International Space Station, Boeing designed and built…",
+    "url": "https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Nanoracks is a leading provider of access to space for customers around the world and the first to operate a commercial laboratory in low-earth orbit.…",
+    "url": "https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "As one of the leading developers and flight system integrators for Biotechnology hardware for use in microgravity and space exploration, The UAB team is an…",
+    "url": "https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Women",
+    "url": "https://spacenews.com/commercial-space-stations-go-international/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPICS:",
+    "url": "https://spacenews.com/commercial-space-stations-go-international/",
+    "pass": 3
+   },
+   {
+    "quote": "With funding from its billionaire founder Jed McCaleb and a focus on vertical integration, Vast has not brought in other companies as major partners or vendors for its planned stations beyond SpaceX, which will launch Haven-1 and provide Crew Dragon spacecraft for missions to it. However, the company is now starting to engage with space agencies and companies in other countries for partnerships.",
+    "url": "https://spacenews.com/commercial-space-stations-go-international/",
+    "pass": 3
+   },
+   {
+    "quote": "Jeff Foust writes about space policy, commercial space, and related topics for SpaceNews.",
+    "url": "https://spacenews.com/commercial-space-stations-go-international/",
+    "pass": 3
+   },
+   {
+    "quote": "Back to top",
+    "url": "https://spacenews.com/commercial-space-stations-go-international/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage {vendor_count} vendors",
+    "url": "https://spacenews.com/commercial-space-stations-go-international/",
+    "pass": 3
+   },
+   {
+    "quote": "“Crucially, Vast just set the bar for how to be taken seriously as a space station company, with transparency around when it aims to complete milestones leading up to the first crewed mission reaching Haven-1. Every other company working on a space station take note.”",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“An advantage Vast has over some of its competitors, I believe, is bringing manufacturing of its stations in house.”",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“Vast’s simple, single-structure Haven-1 space station will be able to launch atop a SpaceX Falcon 9 rocket, the workhorse vehicle that SpaceX has been launching for more than a decade.”",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trending Topics",
+    "url": "https://www.prnewswire.com/news-releases/mda-space-joins-starlab-space-as-strategic-partner-equity-owner-in-commercial-space-station-joint-venture-302157306.html",
+    "pass": 3
+   },
+   {
+    "quote": "All Trending Topics",
+    "url": "https://www.prnewswire.com/news-releases/mda-space-joins-starlab-space-as-strategic-partner-equity-owner-in-commercial-space-station-joint-venture-302157306.html",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors",
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Vendors",
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Click the link below to explore exclusive TD SYNNEX courses developed in partnership with Nova Space Inc. to accelerate your journey through the space economy. For the best learning experience, complete the courses in landscape mode on your phone, or ideally on a tablet or laptop.",
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with emerging vendors",
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Topics referred to by the same term",
+    "url": "https://en.wikipedia.org/wiki/Commercial",
+    "pass": 3
+   },
+   {
+    "quote": "Add topic",
+    "url": "https://en.wikipedia.org/wiki/Commercial",
+    "pass": 3
+   },
+   {
+    "quote": "distant space. In this article, we’ll answer some of the leading questions on this groundbreaking innovation.",
+    "url": "https://www.sierraspace.com/blog/building-the-worlds-first-commercial-space-station/",
+    "pass": 3
+   },
+   {
+    "quote": "An inflatable commercial space station can also make longer missions to the moon possible and more accessible. These efforts can increase our capacity to survive on other planets, leading to an array of new and exciting possibilities.",
+    "url": "https://www.sierraspace.com/blog/building-the-worlds-first-commercial-space-station/",
+    "pass": 3
+   },
+   {
+    "quote": "Most popular topics",
+    "url": "https://www.airbus.com/en/products-services/space/space-exploration/starlab",
+    "pass": 3
+   },
+   {
+    "quote": "Several docking ports ensure that visiting vehicles can dock comfortably. The compatibility of these ports reflects all current standards, allowing crew and cargo transport to be carried out by a variety of providers.",
+    "url": "https://www.airbus.com/en/products-services/space/space-exploration/starlab",
+    "pass": 3
+   },
+   {
+    "quote": "Starlab Interior Top View",
+    "url": "https://www.airbus.com/en/products-services/space/space-exploration/starlab",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.csis.org/analysis/nasa-changes-course-commercial-space-stations",
+    "pass": 3
+   },
+   {
+    "quote": "All Topics",
+    "url": "https://www.csis.org/analysis/nasa-changes-course-commercial-space-stations",
+    "pass": 3
+   },
+   {
+    "quote": "stop revising",
+    "url": "https://www.csis.org/analysis/nasa-changes-course-commercial-space-stations",
+    "pass": 3
+   },
+   {
+    "quote": "Current Topics",
+    "url": "https://insights.som.yale.edu/insights/is-there-profit-in-outer-space",
+    "pass": 3
+   },
+   {
+    "quote": "All Topics",
+    "url": "https://insights.som.yale.edu/insights/is-there-profit-in-outer-space",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to get our top stories by email.",
+    "url": "https://insights.som.yale.edu/insights/is-there-profit-in-outer-space",
+    "pass": 3
+   },
+   {
+    "quote": "Topics:",
+    "url": "https://insights.som.yale.edu/insights/is-there-profit-in-outer-space",
+    "pass": 3
+   },
+   {
+    "quote": "Get our top stories by email.",
+    "url": "https://insights.som.yale.edu/insights/is-there-profit-in-outer-space",
+    "pass": 3
+   },
+   {
+    "quote": "Related Topics",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "1.4. Top Three Trends Shaping the Market",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "36.1.1. Top 10 Companies (Ranked by revenue/share)",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "Outperform competitors using forecast data and the drivers and trends shaping the market.",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmark performance against key competitors based on market share, innovation, and brand strength.",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape chapter gives a description of the competitive nature of the market, market shares, and a description of the leading companies. Key financial deals which have shaped the market in recent years are identified.",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "The company scoring matrix section evaluates and ranks leading companies based on a multi-parameter framework that includes market share or revenues, product innovation, and brand recognition.",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "Country and regional historic and forecast data, market share of competitors, market segments.",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "Saint Christopher Nevis",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "Rocket launch is growing quickly today, yet it remains a much smaller business than the attention around companies such as SpaceX suggests.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Space Force also admitted Impulse into the National Security Space Launch Phase 3 Lane 1 program as the first upper-stage prime to receive that type of contract. That gives Helios a route into national-security missions that traditionally went through launch providers.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "NASA's Commercial Lunar Payload Services program now covers 17 contracted lunar deliveries across five vendors carrying more than 60 payloads. The overall CLPS contracting vehicle has a maximum value of $2.6 billion through 2028.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "The newer business models are now becoming easier to distinguish from pure speculation. Impulse Space has hundreds of millions of dollars in contracts for orbital mobility. Commercial space-sustainability revenue has reached roughly half a billion dollars. NASA is ordering lunar deliveries from several competing providers. Varda has repeatedly returned capsules from orbit.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "That is also why SpaceX's evolution is so useful to study. The company started by selling transportation and eventually built a much larger recurring business on top of the transportation system it controlled.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Space Economy: what are the top startups?",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "What are the top space startups by revenue today?",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Gain a clear picture of your competitors' strengths, weaknesses, and strategies. This knowledge helps you refine your unique selling points, craft stronger positioning, and outmaneuver rivals effectively.",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Benchmarking: Assessing leading players to determine market positioning.",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/List_of_commercial_space_stations",
+    "pass": 3
+   },
+   {
+    "quote": "Not For Profit",
+    "url": "https://www.prnewswire.com/news-releases/mda-space-joins-starlab-space-as-strategic-partner-equity-owner-in-commercial-space-station-joint-venture-302157306.html",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Commercial",
+    "pass": 3
+   },
+   {
+    "quote": "Is there profit in outer space? | Yale Insights",
+    "url": "https://insights.som.yale.edu/insights/is-there-profit-in-outer-space",
+    "pass": 3
+   },
+   {
+    "quote": "Is there profit in outer space?",
+    "url": "https://insights.som.yale.edu/insights/is-there-profit-in-outer-space",
+    "pass": 3
+   },
+   {
+    "quote": "“If CLDs have a low-cost commercial approach, we believe that not only can we be ready by 2030,” he said, “we also believe that we can be profitable on the current market.”",
+    "url": "https://www.thespacereview.com/article/5204/1",
+    "pass": 3
+   },
+   {
+    "quote": "“If CLDs have a low-cost commercial approach, we believe that not only can we be ready by 2030,” Haot said, “we also believe that we can be profitable on the current market.”",
+    "url": "https://www.thespacereview.com/article/5204/1",
+    "pass": 3
+   },
+   {
+    "quote": "Iridium shows what a more mature satellite-subscription model looks like. The company ended the second quarter of 2026 with 2.63 million billable subscribers. About 72% of its $225 million quarterly revenue came from services, while Operational EBITDA reached roughly $119 million.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "BlackSky gives us a useful second example. Its second-quarter 2026 revenue jumped 50% year over year to $33.3 million. About $24.5 million came from space-based intelligence and AI services, and the company produced $4.7 million of adjusted EBITDA.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "We still have very little evidence of large-scale products being manufactured in space and sold profitably on Earth. The near-term business is research, orbital processing, reentry and government testing. Mass production remains the bigger prize.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "“Once these other platforms are up there, we can move facilities and customers into them to take advantage of that volume,” Read adds. “If we are going to develop the demand, we need a place to put it. We can provide scalability to some degree on the space station, but likely not enough for a company to turn a profit.”",
+    "url": "https://www.nasa.gov/missions/station/space-station-enables-launch-growth-of-space-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": "Both Axiom and Vast are competing for NASA funds to help support at least one station as part of the agency’s CLD program. These funds are crucial for keeping the lights on, but not enough to turn a profit. And while both companies could look to the private markets for continued financing—as Axiom did this week, landing an additional",
+    "url": "https://payloadspace.com/us-commercial-space-stations-expand-to-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "https://edition.cnn.com/2020/09/08/tech/spacex-mars-profit-scn/index.html",
+    "url": "https://ampmedia.jp/2021/03/12/space-station/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "proposed an expandable space station for commercial use. Air would have been pumped into the station to inflate each piece once they arrived on orbit. Bigelow ceased operations in 2020.",
+    "url": "https://en.wikipedia.org/wiki/List_of_commercial_space_stations",
+    "pass": 3
+   },
+   {
+    "quote": "We build our own laser retroreflector arrays, which reflect light back to spacecraft visiting Haven-1, providing range and orientation during rendezvous and docking.",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Shelving for the interior of Haven-1 undergoes quality inspection and verification with a Coordinate Measuring Machine. The shelves will carry food, water, and other life support cargo.",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Haven-1 deployable solar array wings",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The twelve deployable solar array wings for Haven-1 (flight units) are undergoing acceptance inspection at Vast HQ.",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Haven Demo achieved mission success after deploying from the Bandwagon-4 rideshare mission. The spacecraft captured 4K video of its solar array deployment and is now power positive.",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The first aluminum barrel of Haven-1 has been rolled and welded, bringing the station another step closer to flight.",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Haven-1 solar arrays use triple-junction solar cells to capture a broad range of light wavelengths from the sun to help power our systems while in space. We perform electroluminescence (EL) tests to test their viability, applying currents to the cells to emit light at known wavelengths.",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Deployable Solar Arrays for Haven-1",
+    "url": "https://www.vastspace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "36.1.1. Top 10 Companies (Ranked by revenue/share)",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "36.2.1. Market Revenues",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "1) By Structure: Primary Load-Bearing Trusses; Pressurized Habitat Modules; Unpressurized Logistics Carriers; Docking Ports and Adapters; External Experiment Platforms; Robotic Arm Attachment Points; Meteoroid and Debris Shielding",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "3) By Power Systems: Solar Photovoltaic Arrays; Battery Energy Storage; Power Management and Distribution Units; Electrical Conversion and Regulation; Thermal Power Rejection Systems",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "The revenue hierarchy looks very different from the industry's public image. Ground equipment generated about $165 billion in 2025 and satellite services another $105 billion, while commercial launch produced only about $12.4 billion. A gap this wide between segments is why we size the market ourselves in",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "The gap is huge. Ground equipment generated more than 13 times as much revenue as commercial launch. Even after launch revenue jumped 33% in one year, rockets still represented less than 3% of the wider space economy measured by SIA.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "2025 revenue",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "The latest SIA numbers capture the change unusually well. A record 4,434 commercially manufactured satellites were launched in 2025, up 65% in a single year. Satellite-manufacturing revenue, meanwhile, barely moved from about $20 billion to $20.4 billion.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Demand is changing at the same time. Satellite-broadband subscribers increased 62% during 2025. Launch revenue increased 33%. Ground-network equipment revenue grew 8%. Remote-sensing revenue rose 4%.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Worldwide commercial launch revenue reached about $12.4 billion in 2025, according to SIA. That was a strong 33% increase in one year. The industry clearly has real demand.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "The company's launch cadence tells the same story from another angle. SpaceX completed 165 Falcon launches in 2025, and 122 of them carried Starlink missions. Roughly three quarters of Falcon launches were helping SpaceX build its own satellite network.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceX had approximately 10.3 million Starlink broadband subscribers by the end of the first quarter of 2026, up 105% from five million a year earlier. Its Connectivity segment then generated $4.29 billion of revenue in the following quarter.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Iridium shows what a more mature satellite-subscription model looks like. The company ended the second quarter of 2026 with 2.63 million billable subscribers. About 72% of its $225 million quarterly revenue came from services, while Operational EBITDA reached roughly $119 million.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Planet Labs ($PL) reported $94.2M in revenue during the first quarter of FY27—a 42% increase compared with the same period last year.",
+    "url": "https://payloadspace.com/us-commercial-space-stations-expand-to-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "The EO company plans to surpass those numbers next quarter, predicting $102M to $107M in revenue during Q2. For the full year, Planet is projecting $425M to $441M in revenue.",
+    "url": "https://payloadspace.com/us-commercial-space-stations-expand-to-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "), Thales Alenia Space made about 40% of the current ISS, including the Cupola observation module. The French-Italian space company posted revenues of about $2.5 billion in 2019 and has around 7,700 employees in nine countries, so it’s hardly a startup in the classic sense. For the Axiom space station, Thales Alenia Space will provide two key pressurized elements, Node 1 and Habitat:",
+    "url": "https://www.nanalyze.com/2020/09/commercial-space-stations/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Japanese Space Station Module (Mitsui)",
+    "url": "https://en.wikipedia.org/wiki/List_of_commercial_space_stations",
+    "pass": 3
+   },
+   {
+    "quote": "One of the most enduring achievements of spaceflight has been the partnership for the International Space Station. For more than three decades, the United States has worked with Canada, Europe, Japan and Russia to build and operate the station, overcoming technical and policy challenges to create a space station that has been permanently occupied for over 20 years.",
+    "url": "https://spacenews.com/commercial-space-stations-go-international/",
+    "pass": 3
+   },
+   {
+    "quote": "“It’s very difficult for Europe or Japan to send hundreds of millions of euros or tens of billions of yen to an American company every year for 30 years and employ a bunch of Americans in Houston,” Kuta said.",
+    "url": "https://spacenews.com/commercial-space-stations-go-international/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific & Japan",
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Chair",
+    "url": "https://www.csis.org/analysis/nasa-changes-course-commercial-space-stations",
+    "pass": 3
+   },
+   {
+    "quote": "14. Japan Commercial Space Station Market",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "14.1. Japan Commercial Space Station Market Overview",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "14.2. Japan Commercial Space Station Market, Segmentation by Component, Segmentation by Orbit, Segmentation by Application, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "Australia; Brazil; China; France; Germany; India; Indonesia; Japan; Taiwan; Russia; South Korea; UK; USA; Canada; Italy; Spain",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific (China, Japan, Australia, South Korea, India, Rest of Asia-Pacific)",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0",
+    "pass": 3
+   },
+   {
+    "quote": "Japan promotes public-private R&D initiatives.",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0",
+    "pass": 3
+   },
+   {
+    "quote": "A Japan Aerospace Exploration Agency (JAXA) experimental facility on the space station ­­– the Japanese Experiment Module (JEM), or Kibo — expands use of the space station for commercial technical demonstrations.",
+    "url": "https://www.nasa.gov/missions/station/space-station-enables-launch-growth-of-space-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": "Starlab incorporated a European subsidiary in Germany in January 2025, and has leaned on many international partners to fuel its technological development, including Belgium-based Space Applications Services, Canada’s MDA Space, and Japan’s Mitsubishi Corporation.",
+    "url": "https://payloadspace.com/us-commercial-space-stations-expand-to-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "GITAI、「Japan-US Innovation Awards」受賞",
+    "url": "https://space-connect.jp/spacedata-ss/",
+    "pass": 3
+   },
+   {
+    "quote": "世界で通用するクリエイティブを、日本から",
+    "url": "https://cgworld.jp/flashnews/2411-space-data-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAXA「きぼう」日本実験棟の開発責任者 長谷川義幸氏のコメント",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000080352.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業「きぼう」日本実験棟の管制システム開発責任者 竹内芳樹氏のコメント",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000080352.html",
+    "pass": 3
+   },
+   {
+    "quote": "JA - 日本語",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   },
+   {
+    "quote": "※日本アトピー協会推薦品",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   },
+   {
+    "quote": "生産国日本（国内自社工場による高品質生産）",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   },
+   {
+    "quote": "数々の業績が認められ、2004年に日本国際賞を受賞",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、2030年以降は現状日本や欧米各国が唯一利用可能な宇宙環境利用設備が使えなくなり、「ポストISS」となる新たな設備が必要になります",
+    "url": "https://spacemedia.jp/spacebis/1327",
+    "pass": 3
+   },
+   {
+    "quote": "社はISSの日本実験棟「きぼう」で使用可能な超小型衛星放出機構を開発するなど、宇宙環境利用での事業を手掛けている新興宇宙開発企業です",
+    "url": "https://spacemedia.jp/spacebis/1327",
+    "pass": 3
+   },
+   {
+    "quote": "RX Japan合同会社",
+    "url": "https://spacemedia.jp/spacebis/1327",
+    "pass": 3
+   },
+   {
+    "quote": "今回観測を開始する \"iSIM\" は、スペインの宇宙ベンチャー Satlantis社が、日本のSpace BD株式会社との契約を通じ、JAXAが「きぼう」船外利用として有償受託したものであり、船外利用における初の海外ユーザとなります",
+    "url": "https://humans-in-space.jaxa.jp/kibouser/pickout/71509.html",
+    "pass": 3
+   },
+   {
+    "quote": "スペインの宇宙ベンチャーが「きぼう」を利用へ ～\"日本の宇宙商社\" Space BDの協力で、海外初の民間企業が「きぼう」船外実験プラットフォームで技術実証～",
+    "url": "https://humans-in-space.jaxa.jp/kibouser/pickout/71509.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright ©2007-2026 Japan Aerospace Exploration Agency",
+    "url": "https://humans-in-space.jaxa.jp/kibouser/pickout/71509.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAXAからISS「きぼう」日本実験棟で取得した船内環境データ（温度、湿度、風量、照度等）の提供を受け、宇宙で取得した実データをデジタル上に再現する取り組みを進めています",
+    "url": "https://spacedata.jp/news/202411_steam_iss",
+    "pass": 3
+   },
+   {
+    "quote": "夢を乗せて発射されるロケットの姿に、当時は日本でも大人から子どもまでが釘付けになったことだろう",
+    "url": "https://ampmedia.jp/2021/03/12/space-station/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの宇宙開発といえば、NASA（アメリカ航空宇宙局）や日本のJAXA（宇宙航空研究開発機構）のように、国家規模での事業であったが、スペースシャトルの退役にともない、民間企業の進出、商業化が一気に進んだ",
+    "url": "https://ampmedia.jp/2021/03/12/space-station/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、クラブツーリズムを通じて、ヴァージン・ギャラクティカ社が運航する6人乗り大型宇宙船「スペースシップ2」による往復2時間の宇宙旅行（高度100km）を、1人25万ドル（約2700万円）で予約手続きを受けつけていた（現在はクラブツーリズム、ヴァージン・ギャラクティカ両社ともに受付中断中）",
+    "url": "https://ampmedia.jp/2021/03/12/space-station/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ステーションの商業利用、と聞くとピンと来ないかもしれないが、例えば、「宇宙を旅した米や酵母から造った日本酒」もその一つ",
+    "url": "https://ampmedia.jp/2021/03/12/space-station/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Commercial Space Stations 2026: Vast, Axiom, Starlab — Commercial Space Stations 2026: Vast, Axiom, Starlab Orbital Radar https://orbitalradar.com > commercial",
+    "url": "https://orbitalradar.com/space-stations/commercial",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Report 2026 — Commercial Space Station Market Report 2026 Research and Markets https://www.researchandmarkets.com > ...",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Size & Industry Growth 2030 — Commercial Space Station Market Size & Industry Growth 2030 Future Data Stats https://www.futuredatastats.com > co...",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0",
+    "pass": 3
+   },
+   {
+    "quote": "7 Private Companies Building Commercial Space Stations — 7 Private Companies Building Commercial Space Stations Nanalyze https://www.nanalyze.com > 2020/09",
+    "url": "https://www.nanalyze.com/2020/09/commercial-space-stations/",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の誰もが 宇宙ステーション を開発できる未来へ — 世界中の誰もが 宇宙ステーション を開発できる未来へ CGWORLD.jp https://cgworld.jp > flashnews > 2411-space-data-2",
+    "url": "https://cgworld.jp/flashnews/2411-space-data-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "ポストISSを担う4社の 宇宙ステーション ～未来の宇宙環境利用 ... — ポストISSを担う4社の 宇宙ステーション ～未来の宇宙環境利用 ... spacemedia.jp https://spacemedia.jp > spacebis",
+    "url": "https://spacemedia.jp/spacebis/1327",
+    "pass": 3
+   },
+   {
+    "quote": "世界初の商業用 宇宙ステーション 企業が1億3000万ドル調達 ... — 世界初の商業用 宇宙ステーション 企業が1億3000万ドル調達 ... AMP[アンプ] https://ampmedia.jp > 2021/03/12 > space-station",
+    "url": "https://ampmedia.jp/2021/03/12/space-station/",
+    "pass": 3
+   },
+   {
+    "quote": "商業 宇宙ステーション ：世界を変える10大技術 — 商業 宇宙ステーション ：世界を変える10大技術 MITテクノロジーレビュー https://www.technologyreview.jp > Articles",
+    "url": "https://www.technologyreview.jp/s/377635/commercial-space-stations-10-breakthrough-technologies-2026/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Redwire Space - Formerly Made in Space (MIS) - is the industry leader for manufacturing technologies designed for the outer space environment. Using various manufacturing…",
+    "url": "https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "*Final deliverables may vary based on trade partner offerings.",
+    "url": "https://commercialspaceweek.com/spacecom/media-trade-partnership-program",
+    "pass": 3
+   },
+   {
+    "quote": "Space Technology Distribution & Partner Program | Space Tech",
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller market is approx. $1.2B",
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "300 TD SYNNEX reseller customers already support space-related organizations",
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Several docking ports ensure that visiting vehicles can dock comfortably. The compatibility of these ports reflects all current standards, allowing crew and cargo transport to be carried out by a variety of providers.",
+    "url": "https://www.airbus.com/en/products-services/space/space-exploration/starlab",
+    "pass": 3
+   },
+   {
+    "quote": "“I think the RFI is a request for information. I don’t think it’s a definitive statement of a process, a plan, whatever,” Cirtain said. “I think the agency was saying, ‘Hey, what do you think about these various options?’ We’re giving them the feedback.”",
+    "url": "https://www.thespacereview.com/article/5204/1",
+    "pass": 3
+   },
+   {
+    "quote": "3.3. List of Major Distributors and Channel Partners",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-phone connectivity may have one of the largest addressable markets, but the key question is still economics rather than technical reach. The model becomes much more interesting if satellite coverage can be sold wholesale through mobile operators to hundreds of millions of existing subscribers.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "AST had 13 satellites in orbit after launching six spacecraft within 50 days, while another 30 satellites were in various stages of production and assembly. The company is preparing beta services with operators as its coverage increases.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "That can still become a very large market. A few dollars of wholesale revenue spread across hundreds of millions of subscriptions would create a much bigger business than traditional satellite-phone services ever did.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Varda Space Industries has built one of the clearest commercial attempts around that idea. Its W-Series capsules process payloads in orbit and return them to Earth, closing a logistics loop that earlier microgravity experiments often lacked.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Varda's sixth mission flew in 2026, and the company has now completed multiple successful reentries. It also announced a collaboration with United Therapeutics to explore microgravity-enabled formulations for treatments for rare pulmonary disease.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "There is an extra revenue engine here that makes Varda particularly interesting. Government agencies are paying to use its capsules as hypersonic reentry testbeds. Its sixth mission carried payloads associated with NASA, Sandia National Laboratories and Air Force research work.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "So Varda can develop the same spacecraft architecture using both pharmaceutical research and government reentry demand.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Varda integrates spacecraft production, orbital processing and reentry because its business depends on controlling the whole trip back from orbit.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "The newer business models are now becoming easier to distinguish from pure speculation. Impulse Space has hundreds of millions of dollars in contracts for orbital mobility. Commercial space-sustainability revenue has reached roughly half a billion dollars. NASA is ordering lunar deliveries from several competing providers. Varda has repeatedly returned capsules from orbit.",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer, enterprise, government and wholesale subscriptions",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale mobile coverage and operator partnerships",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "Varda Space Industries' W-6 mission record",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "In-depth stakeholder interviews (industry leaders, suppliers, distributors, and end-users)",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0",
+    "pass": 3
+   },
+   {
+    "quote": "NASA astronaut Mark Vande Hei works on the Multi-use Variable-g Platform (MVP), a space biology research platform that can produce up to 2g of artificial gravity and houses samples such as fruit flies, flatworms, plants, fish, cells, and protein crystals.",
+    "url": "https://www.nasa.gov/missions/station/space-station-enables-launch-growth-of-space-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": "), which support in-house efforts to create a complete set of cardiac tissues, and the Multi-use Variable-g Platform (",
+    "url": "https://www.nasa.gov/missions/station/space-station-enables-launch-growth-of-space-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": "), which produces varying levels of artificial gravity for research on different diseases. In addition, the company has its own plant growth facility and manages research in the space station’s Advanced Plant Habitat.",
+    "url": "https://www.nasa.gov/missions/station/space-station-enables-launch-growth-of-space-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": "Part of the HLS platform requires short-term accommodations on the lunar surface, and ILC Dover has designed a variety of inflatable habitats, air-locks, and shelters for lunar and planetary exploration. The company has even",
+    "url": "https://www.nanalyze.com/2020/09/commercial-space-stations/",
+    "pass": 3
+   },
+   {
+    "quote": "このような商業活動は現在、NASAの新たな規定「宇宙活動のうち5％までを商業やマーケティング目的に使用してよい」としたことによるもので、これを斡旋する代理店も登場している",
+    "url": "https://ampmedia.jp/2021/03/12/space-station/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Promote Your Brand",
+    "url": "https://spaceanddefense.io/european-commercial-space-gateway-opens-in-dubendorf-offering-access-to-iss-and-starlab/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM：国際宇宙ステーション採用光触媒技術を用いた空気清浄機開発 フジコー | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM：国際宇宙ステーション採用光触媒技術を用いた空気清浄機開発",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒OEM・開発（FUJICO）",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   },
+   {
+    "quote": "【宇宙技術を貴社の新製品に】 国際宇宙ステーション内でも採用された、フジコー独自のハイブリッド光触媒技術を用いた空気清浄機のOEM開発を承ります",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   },
+   {
+    "quote": "■ OEM対応：貴社ブランドロゴを配したオリジナルモデルの制作 ・特定業界（医療・介護、車載、ペット等）に特化した専用設計",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   },
+   {
+    "quote": "対応可能範囲製品企画、筐体設計、光触媒ユニット供給、完成品OEM",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   },
+   {
+    "quote": "EMS/OEM/ODM 製造受託サービス",
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "12.4",
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "quote": "Worldwide commercial launch revenue reached about $12.4 billion in 2025, according to SIA. That was a strong 33% increase in one year. The industry clearly has real demand."
+   },
+   {
+    "value": "2.5",
+    "url": "https://www.nanalyze.com/2020/09/commercial-space-stations/",
+    "quote": "), Thales Alenia Space made about 40% of the current ISS, including the Cupola observation module. The French-Italian space company posted revenues of about $2.5 billion in 2019 and has around 7,700 employees in nine countries, so it’s hardly a startup in the classic sense. For the Axiom space stati"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.axiomspace.com/axiom-station",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orbitalradar.com/space-stations/commercial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_commercial_space_stations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/space/comments/1s7y2wc/no_one_is_happy_with_nasas_new_idea_for_private/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spacenews.com/commercial-space-stations-go-international/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vastspace.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlab-space.com/press-releases/starlab-partners-with-redwire-to-expand-commercial-access-to-low-earth-orbit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/mda-space-joins-starlab-space-as-strategic-partner-equity-owner-in-commercial-space-station-joint-venture-302157306.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://commercialspaceweek.com/spacecom/media-trade-partnership-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Commercial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/commercial",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SpaceXLounge/comments/1fijn4j/will_anybody_build_a_commercial_space_station_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sierraspace.com/blog/building-the-worlds-first-commercial-space-station/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airbus.com/en/products-services/space/space-exploration/starlab",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.csis.org/analysis/nasa-changes-course-commercial-space-stations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopnet.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.som.yale.edu/insights/is-there-profit-in-outer-space",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AcAau.229..523B/abstract",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thespacereview.com/article/5204/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://europeanspaceflight.substack.com/p/are-commercial-space-stations-a-fantasy",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nasa.gov/missions/station/space-station-enables-launch-growth-of-space-businesses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/space/comments/1thnkr9/in_addition_to_space_stations_vast_says_it_will/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.weforum.org/stories/technological-innovation/3-commercial-trends-driving-space-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://payloadspace.com/us-commercial-space-stations-expand-to-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nanalyze.com/2020/09/commercial-space-stations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlab-space.com/press-releases/starlab-space-launches-european-subsidiary-to-boost-international-collaboration-on-its-commercial-space-station/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aerodefenseoutlook.com/isar-aerospace-puts-europes-commercial-space-industry-on-a-new-trajectory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spaceanddefense.io/european-commercial-space-gateway-opens-in-dubendorf-offering-access-to-iss-and-starlab/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spacedata.jp/back/business/spacestationos",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://space-connect.jp/spacedata-ss/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cgworld.jp/flashnews/2411-space-data-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000080352.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2001585633/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spacemedia.jp/spacebis/1327",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humans-in-space.jaxa.jp/kibouser/pickout/71509.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spacedata.jp/news/202411_steam_iss",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ampmedia.jp/2021/03/12/space-station/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technologyreview.jp/s/377635/commercial-space-stations-10-breakthrough-technologies-2026/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "commercial space station software white label",
+   "results": [
+    "https://www.axiomspace.com/axiom-station",
+    "https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/",
+    "https://orbitalradar.com/space-stations/commercial",
+    "https://en.wikipedia.org/wiki/List_of_commercial_space_stations",
+    "https://www.reddit.com/r/space/comments/1s7y2wc/no_one_is_happy_with_nasas_new_idea_for_private/",
+    "https://www.sierraspace.com/blog/building-the-worlds-first-commercial-space-station/",
+    "https://www.airbus.com/en/products-services/space/space-exploration/starlab",
+    "https://www.instagram.com/reel/DR3Kv_XgMLD/",
+    "https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/",
+    "https://en.m.wikipedia.org/wiki/Commercial"
+   ]
+  },
+  {
+   "query": "commercial space station software OEM white-label partner",
+   "results": [
+    "https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/",
+    "https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/",
+    "https://www.axiomspace.com/axiom-station",
+    "https://spacenews.com/commercial-space-stations-go-international/",
+    "https://www.vastspace.com/",
+    "https://starlab-space.com/press-releases/starlab-partners-with-redwire-to-expand-commercial-access-to-low-earth-orbit/",
+    "https://www.prnewswire.com/news-releases/mda-space-joins-starlab-space-as-strategic-partner-equity-owner-in-commercial-space-station-joint-venture-302157306.html",
+    "https://payloadspace.com/us-commercial-space-stations-expand-to-europe/",
+    "https://orbitalradar.com/blog/commercial-space-stations-guide",
+    "https://en.m.wikipedia.org/wiki/Commercial"
+   ]
+  },
+  {
+   "query": "commercial space station software reseller partner program",
+   "results": [
+    "https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/",
+    "https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/",
+    "https://www.youtube.com/watch?v=Cmts5S2dq-Y",
+    "https://starlab-space.com/press-releases/starlab-partners-with-redwire-to-expand-commercial-access-to-low-earth-orbit/",
+    "https://commercialspaceweek.com/spacecom/media-trade-partnership-program",
+    "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "https://www.facebook.com/FriendsOfNASA/videos/planned-us-commercial-space-station-haven-1-the-mission-ahead-vast/1132322852264874/",
+    "https://en.wikipedia.org/wiki/List_of_commercial_space_stations",
+    "https://en.m.wikipedia.org/wiki/Commercial"
+   ]
+  },
+  {
+   "query": "commercial space station SaaS rebrand private label",
+   "results": [
+    "https://www.facebook.com/Themech.mind/posts/private-companies-push-to-build-1-massive-commercial-space-station-soonthe-era-o/1681540356873167/",
+    "https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/",
+    "https://www.reddit.com/r/SpaceXLounge/comments/1fijn4j/will_anybody_build_a_commercial_space_station_for/",
+    "https://orbitalradar.com/space-stations/commercial",
+    "https://www.reddit.com/r/space/comments/1s7y2wc/no_one_is_happy_with_nasas_new_idea_for_private/",
+    "https://en.wikipedia.org/wiki/List_of_commercial_space_stations",
+    "https://www.sierraspace.com/blog/building-the-worlds-first-commercial-space-station/",
+    "https://www.airbus.com/en/products-services/space/space-exploration/starlab",
+    "https://www.csis.org/analysis/nasa-changes-course-commercial-space-stations",
+    "https://en.m.wikipedia.org/wiki/Commercial"
+   ]
+  },
+  {
+   "query": "commercial space station software company profitable EBITDA",
+   "results": [
+    "https://insights.som.yale.edu/insights/is-there-profit-in-outer-space",
+    "https://ui.adsabs.harvard.edu/abs/2025AcAau.229..523B/abstract",
+    "https://www.reddit.com/r/SpaceXLounge/comments/1fijn4j/will_anybody_build_a_commercial_space_station_for/",
+    "https://www.youtube.com/watch?v=_klMT7a5rkE",
+    "https://www.thespacereview.com/article/5204/1",
+    "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA",
+    "https://europeanspaceflight.substack.com/p/are-commercial-space-stations-a-fantasy",
+    "https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/",
+    "https://revenuebase.ai/companies/commercial-space-station-operators/united-states",
+    "https://en.m.wikipedia.org/wiki/Commercial"
+   ]
+  },
+  {
+   "query": "commercial space station software bootstrapped profitable revenue",
+   "results": [
+    "https://ui.adsabs.harvard.edu/abs/2025AcAau.229..523B/abstract",
+    "https://newmarketpitch.com/blogs/news/space-economy-business-model",
+    "https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0",
+    "https://www.nasa.gov/missions/station/space-station-enables-launch-growth-of-space-businesses/",
+    "https://www.youtube.com/watch?v=_klMT7a5rkE",
+    "https://europeanspaceflight.substack.com/p/are-commercial-space-stations-a-fantasy",
+    "https://www.reddit.com/r/space/comments/1thnkr9/in_addition_to_space_stations_vast_says_it_will/",
+    "https://www.weforum.org/stories/technological-innovation/3-commercial-trends-driving-space-market",
+    "https://insights.som.yale.edu/insights/exploring-the-business-of-space",
+    "https://en.m.wikipedia.org/wiki/Commercial"
+   ]
+  },
+  {
+   "query": "commercial space station software vendors Europe Israel Germany white label",
+   "results": [
+    "https://payloadspace.com/us-commercial-space-stations-expand-to-europe/",
+    "https://spacenews.com/commercial-space-stations-go-international/",
+    "https://orbitalradar.com/space-stations/commercial",
+    "https://www.nanalyze.com/2020/09/commercial-space-stations/",
+    "https://en.wikipedia.org/wiki/List_of_commercial_space_stations",
+    "https://starlab-space.com/press-releases/starlab-space-launches-european-subsidiary-to-boost-international-collaboration-on-its-commercial-space-station/",
+    "https://aerodefenseoutlook.com/isar-aerospace-puts-europes-commercial-space-industry-on-a-new-trajectory/",
+    "https://spaceanddefense.io/european-commercial-space-gateway-opens-in-dubendorf-offering-access-to-iss-and-starlab/",
+    "https://www.airbus.com/en/products-services/space/space-technology-made-in-germany",
+    "https://en.m.wikipedia.org/wiki/Commercial"
+   ]
+  },
+  {
+   "query": "宇宙ステーション ソフトウェア OEM 提供",
+   "results": [
+    "https://spacedata.jp/back/business/spacestationos",
+    "https://space-connect.jp/spacedata-ss/",
+    "https://cgworld.jp/flashnews/2411-space-data-2.html",
+    "https://prtimes.jp/main/html/rd/p/000000032.000080352.html",
+    "https://www.instagram.com/p/DCQae8syldm/?hl=en",
+    "https://mono.ipros.com/product/detail/2001585633/",
+    "https://manufacturo.com/jp/industries/space-industry-software/",
+    "https://japan-leo-shachu.com/business/",
+    "https://www.vvdntech.com/ja-jp/internet-of-things",
+    "https://zh.wikipedia.org/wiki/宇宙"
+   ]
+  },
+  {
+   "query": "宇宙ステーション ソフト 代理店 海外製",
+   "results": [
+    "https://spacemedia.jp/spacebis/1327",
+    "https://humans-in-space.jaxa.jp/kibouser/pickout/71509.html",
+    "https://spacedata.jp/news/202411_steam_iss",
+    "https://ampmedia.jp/2021/03/12/space-station/",
+    "https://www.technologyreview.jp/s/377635/commercial-space-stations-10-breakthrough-technologies-2026/",
+    "https://japan-leo-shachu.com/business/",
+    "https://www.jamss.co.jp/",
+    "https://www.prnewswire.com/jp/news-releases/-302574650.html",
+    "https://space-connect.jp/digitalblast-css/",
+    "https://zh.wikipedia.org/wiki/宇宙"
+   ]
+  }
+ ],
+ "missing": {
+  "価格": "記載なし（読んだ45頁・検索9回）"
+ }
+}

@@ -1,0 +1,611 @@
+{
+ "name": "次世代船舶",
+ "en": "alternative fuel vessels",
+ "aliases": [
+  "アンモニア船",
+  "水素船",
+  "ゼロエミッション船"
+ ],
+ "context": "8 造船 ①次世代船舶",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:18:41.618416+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Chinese and South Korean Shipyards Dominate Banchero Costa’s Top 15 Newbuild Rankings",
+    "url": "https://www.imarinenews.com/36007.html",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Break Bulk Orders Four 12,600-DWT Octopus-Type Heavy-Lift Vessels",
+    "url": "https://www.imarinenews.com/36007.html",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "The number of orders for alternative-fuel vessels varies across different ship types. In the first five months of this year, a total of 60 LNG-powered vessels were ordered, with container ships and car carriers ranking first and second, with 42 and 12 vessels, respectively.",
+    "url": "https://www.imarinenews.com/36007.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶書類管理システム（DMS）を導入した船社では、書類準備時間が60％短縮し、出港が早まり、乗組員、港湾当局、船舶代理店の連携が改善したと報告されています",
+    "url": "https://www.massa-one.com/news/?p=416",
+    "pass": 3
+   },
+   {
+    "quote": "また、海事産業では、造船所、海運会社、舶用機器メーカー、代理店など、多くのプレイヤーがそれぞれ異なった情報を持っています",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   },
+   {
+    "quote": "海事産業には代理店業や外注業が多く存在し、小規模な事業者では高齢化によって事業継続が難しくなっているケースもあります",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "WinGD Secures Three Long-Term Service Agreements Covering 14 Dual-Fuel LNG Carriers",
+    "url": "https://www.imarinenews.com/36007.html",
+    "pass": 3
+   },
+   {
+    "quote": "The number of orders for alternative-fuel vessels varies across different ship types. In the first five months of this year, a total of 60 LNG-powered vessels were ordered, with container ships and car carriers ranking first and second, with 42 and 12 vessels, respectively.",
+    "url": "https://www.imarinenews.com/36007.html",
+    "pass": 3
+   },
+   {
+    "quote": "This trend continued into May 2026. According to a DNV report, total orders for alternative-fuel vessels in May stood at 36, including 26 LPG/ethane carriers, 8 LNG-powered vessels, and 2 ethanol-powered bulk carriers. Notably, there were no orders for methanol-powered vessels, while ammonia- and hydrogen-powered vessels are still awaiting further technological and infrastructure developments.",
+    "url": "https://www.imarinenews.com/36007.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ある中堅造船所では、年商100億円規模の会社にもかかわらず、引き合い設計から基本設計までをほぼ1人で担っている68歳ほどのエンジニアがいます",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "​日本郵船株式会社",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本シップヤード株式会社",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船株式会社",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3
+   },
+   {
+    "quote": "ル形成等を日本が主導しながら本プロジェクトを推進することが重要である",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/010_s02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 水素燃料船、アンモニア燃料船、LNG 燃料船で、それぞれ日本の競争上のポジション",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/010_s02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 日本郵船株式会社コンソーシアム（アンモニア燃料船）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/010_s02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "場動向等を踏まえつつ、燃料アンモニア関連技術全体での日本の優位性獲得にも貢",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/010_s02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 日本の国際競争力強化に向けて、造船業、舶用工業、海運業、商社の各企業がコンソーシアムを組んで",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3社で2024年５月に新設JV会社設立（社名：日本クリーンアンモニアシッピング株式会社(NCAS)）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 日本郵船株式会社（幹事）（※）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 日本シップヤード株式会社",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 日本クリーンアンモニアシッピング株式会社（幹事）注）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 日本郵船株式会社 （※）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 【アンモニア燃料船】 日本郵船は船舶ゼロエミ化への",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 日本郵船株式会社（幹事）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "際競合が提示する数値への対抗には、日本側が測定・検証・標準化の主導権を取る必要がある",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• SIMS（Ship Information Management System）とSHIPDCの連携によるデータ戦略は、日本らしい信頼価値創",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 中国WinGDの低価格・高性能アプローチが市場で注目されており、日本側の差別化戦略が明確でない",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・日本クリーンアンモニアシッピング株",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 日本シップヤード株式会社【NSY】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本でのバンカリング需要が限定的である中、グローバル展開の実現可能性が不透明であるため、早期開発完了・グローバ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 日本郵船株式会社 【NYK】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内20以上、生産量ベースで75%以上の造船所と連携し、日本発の造船特化AI基盤の構築を進めている",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   },
+   {
+    "quote": "私自身も、国の派遣で日米造船連携に関する専門家委員会に参加しましたが、米国から見ても、日本の造船力は重要な意味を持っています",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、日本の造船業は、国際競争の中で厳しい状況に置かれてきました",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   },
+   {
+    "quote": "※2 国連貿易開発会議（UNCTAD）が2026年6月に更新したデータによると、2025年の船舶の建造量（総トン数ベース）では中国が1位（53.8%）、韓国が2位（27.3%）、日本が3位（13.1%）だった",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、日本では造船会社が百数十社に分散しており、業界全体で競争力を高めていくうえで難しさがあります",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   },
+   {
+    "quote": "AI駆動型SCMで日本の中小企業が世界へ羽ばたく──VALANCEが描くビジョン",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   },
+   {
+    "quote": "【開催レポート】Japan Summit 2026｜未来を描く人と、現場を変える技術をつなぐ",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   },
+   {
+    "quote": "海外からの代金受け取りをビットコインで──日本ビットコイン産業、約8億円調達へ",
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "海事：グリーンイノベーション基金事業「 次世代船舶 の開発 ... — 海事：グリーンイノベーション基金事業「 次世代船舶 の開発 ... 国土交通省 https://www.mlit.go.jp > maritime > maritime_tk7_000041",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル技術を用いた高性能 次世代船舶 開発技術及び 船舶の ... — デジタル技術を用いた高性能 次世代船舶 開発技術及び 船舶の ... 科学技術振興機構（JST） PDF https://www.jst.go.jp > leaflet > 04_leaflet_q",
+    "url": "https://www.jst.go.jp/k-program/pr_materials/leaflet/04_leaflet_q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンイノベーション基金事業／ 次世代船舶 の開発 2025 ... — グリーンイノベーション基金事業／ 次世代船舶 の開発 2025 ... 経済産業省 PDF https://www.meti.go.jp > industrial_restructuring > pdf",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.dnv.com/services/alternative-fuels-insight-afi/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lr.org/en/knowledge/research/fuel-for-thought/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.veracity.com/alternative-fuels-insight",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ww2.eagle.org/en/Products-and-Services/sustainability/alternative-fuel-options.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.napa.fi/how-to-model-alternative-fuels/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alfalaval.us/industries/marine-and-transportation/sustainable-shipping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brekeke.com/partner/oem-partner.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nyserda.ny.gov/All-Programs/Innovation-at-NYSERDA/Advanced-Fuels-and-Thermal-Energy-Research/Alternative-Fuels/Alternative-Fuels-Partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://verra.org/verra-publishes-new-methodology-for-alternative-low-carbon-fuels-in-shipping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.windriver.com/ja/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stem.com/wp-content/uploads/2021/08/Stem-Channel-Partner-Program_Aug2021_Final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zerocarbonshipping.com/projects",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gcaptain.com/alternative-fueled-vessel-orders-fall-as-maritime-industry-adopts-wait-and-see-approach/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marinelink.com/news/alternativefuel-vessel-orders-slow-down-540882",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.angienergy.com/angi-energy-unveils-updated-visual-identity-alternative-fuels-accelerate-fleet-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mebiuse.com/private-label-portable-fuel-tanks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carboncontainmentlab.org/updates/posts/alternative-marine-fuel-landscape",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnv.com/news/2026/LNG-fuelled-container-ships-sustain-alternative-fuel-share-of-global-orderbook-amid-industry-slowdown/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarinenews.com/36007.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkerindex.com/articles/article.php?a=17642",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ethanolproducer.com/articles/us-biofuels-and-alternative-fuels-charting-the-course-for-global-marine-decarbonization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gcaptain.com/alternative-fuel-ship-orders-surge-to-two-year-high/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnv.com/news/2025/alternative-fuels-orderbook-shows-resilience-amid-overall-decline-in-newbuild-market/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lr.org/en/knowledge/insights-articles/alternative-fuelled-ship-orders-remain-significant-in-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zerocarbonshipping.com/publications/preparing-container-vessels-for-conversion-to-green-fuels",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clarksons.com/home/news-and-insights/2025/green-technology-tracker-record-investments-in-alternative-fuel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ineratec.de/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheinmetall.com/en/media/news-watch/news/2025/11/2025-11-03-rheinmetall-builds-synthetic-fuel-plants-with-technology-champions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wartsila.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vpsveritas.com/knowledgecentre/articles/vps-experience-alternative-fuels",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.altoconnect.co.il/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/010_s02_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.massa-one.com/news/?p=416",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synergymarinegroup.com/ja/services/information-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kepple.co.jp/articles/tixnwq1c3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nna.jp/news/2868788",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pdcgs.or.jp/about",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geneq.co.jp/logistics/agent/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "alternative fuel vessels software white label",
+   "results": [
+    "https://www.dnv.com/services/alternative-fuels-insight-afi/",
+    "https://www.lr.org/en/knowledge/research/fuel-for-thought/",
+    "https://www.youtube.com/watch?v=fHJF5wlgahY",
+    "https://store.veracity.com/alternative-fuels-insight",
+    "https://ww2.eagle.org/en/Products-and-Services/sustainability/alternative-fuel-options.html",
+    "https://www.napa.fi/how-to-model-alternative-fuels/",
+    "https://gcaptain.com/alternative-fueled-vessel-orders-fall-as-maritime-industry-adopts-wait-and-see-approach/",
+    "https://www.bimco.org/regulatory-affairs/policy-positions/alternative-fuels/",
+    "https://download.classnk.or.jp/documents/ClassNKAlternativeFuelsInsight_e.pdf",
+    "https://on-demand-app.com/blog/white-label-fuel-delivery-platform-guide/"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels software OEM white-label partner",
+   "results": [
+    "https://www.dnv.com/services/alternative-fuels-insight-afi/",
+    "https://store.veracity.com/alternative-fuels-insight",
+    "https://www.youtube.com/watch?v=fHJF5wlgahY",
+    "https://www.wexinc.com/resources/blog/white-labeling-the-smarter-alternative-to-building-or-buying/",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://www.alfalaval.us/industries/marine-and-transportation/sustainable-shipping/",
+    "https://conversight.ai/oem-partners/",
+    "https://brekeke.com/partner/oem-partner.php",
+    "https://oxoia.com/en/white-labeling-partner/",
+    "https://anovia.com/oem-partner-services/"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels software reseller partner program",
+   "results": [
+    "https://www.dnv.com/services/alternative-fuels-insight-afi/",
+    "https://www.nyserda.ny.gov/All-Programs/Innovation-at-NYSERDA/Advanced-Fuels-and-Thermal-Energy-Research/Alternative-Fuels/Alternative-Fuels-Partners",
+    "https://www.youtube.com/watch?v=fHJF5wlgahY",
+    "https://store.veracity.com/alternative-fuels-insight",
+    "https://verra.org/verra-publishes-new-methodology-for-alternative-low-carbon-fuels-in-shipping/",
+    "https://ww2.eagle.org/en/Products-and-Services/sustainability/alternative-fuel-options.html",
+    "https://www.windriver.com/ja/partners",
+    "https://www.stem.com/wp-content/uploads/2021/08/Stem-Channel-Partner-Program_Aug2021_Final.pdf",
+    "https://www.zerocarbonshipping.com/projects",
+    "https://www.coencorp.com/become-a-coencorp-partner-today"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels SaaS rebrand private label",
+   "results": [
+    "https://www.dnv.com/services/alternative-fuels-insight-afi/",
+    "https://gcaptain.com/alternative-fueled-vessel-orders-fall-as-maritime-industry-adopts-wait-and-see-approach/",
+    "https://www.marinelink.com/news/alternativefuel-vessel-orders-slow-down-540882",
+    "https://ww2.eagle.org/en/Products-and-Services/sustainability/alternative-fuel-options.html",
+    "https://store.veracity.com/alternative-fuels-insight",
+    "https://www.scfuels.com/branded-vs-unbranded-fuels/",
+    "https://www.lr.org/en/knowledge/research/fuel-for-thought/",
+    "https://www.youtube.com/watch?v=-ZzcstC-ER4",
+    "https://www.angienergy.com/angi-energy-unveils-updated-visual-identity-alternative-fuels-accelerate-fleet-industry",
+    "https://www.mebiuse.com/private-label-portable-fuel-tanks/"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels software company profitable EBITDA",
+   "results": [
+    "https://carboncontainmentlab.org/updates/posts/alternative-marine-fuel-landscape",
+    "https://www.dnv.com/news/2026/LNG-fuelled-container-ships-sustain-alternative-fuel-share-of-global-orderbook-amid-industry-slowdown/",
+    "https://www.imarinenews.com/36007.html",
+    "https://bunkerindex.com/articles/article.php?a=17642",
+    "https://www.youtube.com/watch?v=WBi-UpapoFo",
+    "https://ethanolproducer.com/articles/us-biofuels-and-alternative-fuels-charting-the-course-for-global-marine-decarbonization",
+    "https://www.lr.org/en/knowledge/insights-articles/alternative-fuelled-ship-orders-remain-significant-in-2025/",
+    "https://www.marinelink.com/news/alternativefuel-vessel-orders-slow-down-540882",
+    "https://store.veracity.com/alternative-fuels-insight",
+    "https://www.basisreport.com/resources/ev-ebitda-by-industry-sector-benchmarks"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels software bootstrapped profitable revenue",
+   "results": [
+    "https://gcaptain.com/alternative-fuel-ship-orders-surge-to-two-year-high/",
+    "https://www.imarinenews.com/36007.html",
+    "https://www.dnv.com/news/2025/alternative-fuels-orderbook-shows-resilience-amid-overall-decline-in-newbuild-market/",
+    "https://www.lr.org/en/knowledge/insights-articles/alternative-fuelled-ship-orders-remain-significant-in-2025/",
+    "https://www.youtube.com/watch?v=-ZzcstC-ER4",
+    "https://www.zerocarbonshipping.com/publications/preparing-container-vessels-for-conversion-to-green-fuels",
+    "https://www.clarksons.com/home/news-and-insights/2025/green-technology-tracker-record-investments-in-alternative-fuel/",
+    "https://ww2.eagle.org/en/Products-and-Services/sustainability/alternative-fuel-options.html",
+    "https://wingd.com/media/k12pz1dw/wingd-alternative-fuel-retrofits-whitepaper_online.pdf",
+    "https://profitable.app/bootstrapped"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.ineratec.de/en",
+    "https://www.rheinmetall.com/en/media/news-watch/news/2025/11/2025-11-03-rheinmetall-builds-synthetic-fuel-plants-with-technology-champions",
+    "https://www.wartsila.com/",
+    "https://www.vpsveritas.com/knowledgecentre/articles/vps-experience-alternative-fuels",
+    "https://www.altoconnect.co.il/partners",
+    "https://store.veracity.com/alternative-fuels-insight",
+    "https://maritimecleantech.no/news/maritime-cleantech-and-european-partners-launches-seathrive-to-accelerate-alternative-fuel-projects",
+    "https://gcaptain.com/dnv-launches-first-e-methanol-procurement-platform-for-eu-and-uk/",
+    "https://www.eib.org/en/press/all/2025-029-ineratec-s-e-fuel-demo-plant-in-frankfurt-gets-eur70-million-from-eib-eu-commission-and-breakthrough-energy",
+    "https://www.guideflow.com/blog/maritime-software"
+   ]
+  },
+  {
+   "query": "次世代船舶 ソフトウェア OEM 提供",
+   "results": [
+    "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/010_s02_00.pdf",
+    "https://www.massa-one.com/news/?p=416",
+    "https://www.synergymarinegroup.com/ja/services/information-technology/",
+    "https://www.jst.go.jp/k-program/pr_materials/leaflet/04_leaflet_q.pdf",
+    "https://newswitch.jp/p/48454",
+    "https://www.nna.jp/news/2868788",
+    "https://kepple.co.jp/articles/tixnwq1c3",
+    "https://www.siemens.com/ja-jp/solutions/engineering-simulation/marine-engineering/"
+   ]
+  },
+  {
+   "query": "次世代船舶 ソフト 代理店 海外製",
+   "results": [
+    "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "https://kepple.co.jp/articles/tixnwq1c3",
+    "https://www.nna.jp/news/2868788",
+    "https://pdcgs.or.jp/about",
+    "https://www.geneq.co.jp/logistics/agent/",
+    "https://www.informa-japan.com/bariship/complist/index.php/1000",
+    "http://kaigaisoft.com/",
+    "http://kaigaisoft.com/company.htm"
+   ]
+  }
+ ],
+ "missing": {
+  "自社名で出せる条件": "記載なし（読んだ45頁・検索9回）",
+  "黒字・収益性": "記載なし（読んだ45頁・検索9回）",
+  "価格": "記載なし（読んだ45頁・検索9回）"
+ }
+}

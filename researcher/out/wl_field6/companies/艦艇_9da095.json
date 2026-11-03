@@ -1,0 +1,429 @@
+{
+ "name": "艦艇",
+ "en": "naval vessels",
+ "aliases": [
+  "軍艦",
+  "護衛艦",
+  "造艦"
+ ],
+ "context": "5 防衛 ②艦艇",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:12:50.158853+00:00",
+ "evidence": {
+  "再販制度": [
+   {
+    "quote": "Although the Navy has renamed ships for various reasons, name changes are still an exceptionally rare occurrence, especially after the ships have entered service.",
+    "url": "https://www.cbsnews.com/news/navy-new-name-usns-harvey-milk-ships-named-for-civil-rights-leaders/",
+    "pass": 3
+   },
+   {
+    "quote": "Saronic builds “autonomous surface vessels,” or put more simply, drone boats, along with the software to pilot them. It has six models that range from 6-foot skiffs to 150-foot small ships, which can be used for a variety of surveillance, intelligence-collection, and combat purposes. The smaller boats can be outfitted with missile launchers, and the larger boats can be configured for torpedoes.",
+    "url": "https://www.newcomer.co/p/see-how-defense-tech-unicorn-saronic",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Nikole Killion is a CBS News congressional correspondent based in Washington D.C., who has covered some of the biggest stories on Capitol Hill since 2021. Killion has also served a key role in CBS News' election coverage during the 2024 and 2020 presidential races covering the Trump, Biden, and Harris campaigns.",
+    "url": "https://www.cbsnews.com/news/navy-new-name-usns-harvey-milk-ships-named-for-civil-rights-leaders/",
+    "pass": 3
+   },
+   {
+    "quote": "But his sexual orientation carried profound consequences as Milk came under scrutiny. In December 1954, Milk, who was then a lieutenant junior grade, was facing a court martial for participating in a \"homosexual act\" a year earlier.",
+    "url": "https://www.cbsnews.com/news/navy-new-name-usns-harvey-milk-ships-named-for-civil-rights-leaders/",
+    "pass": 3
+   },
+   {
+    "quote": "Saronic estimated to investors that a program of record could bring in around $2.4 billion in revenue from its first three vessels in operation.",
+    "url": "https://www.newcomer.co/p/see-how-defense-tech-unicorn-saronic",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "2024 file photo: USNS Harvey Milk (T-AO 206) completed a replenishment-at-sea with two Japan Maritime Self-Defense Force vessels.",
+    "url": "https://www.cbsnews.com/news/navy-new-name-usns-harvey-milk-ships-named-for-civil-rights-leaders/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "海軍 艦艇 電子対抗措置 (ECM) 市場 [2034 年] — 海軍 艦艇 電子対抗措置 (ECM) 市場 [2034 年] Fortune Business Insights https://www.fortunebusinessinsights.com > 海軍艦艇電子...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E9%9B%BB%E5%AD%90%E5%AF%BE%E7%AD%96%EF%BC%88ecm%EF%BC%89%E5%B8%82%E5%A0%B4-116140",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://3dtracking.com/white-label-partner-offering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://warontherocks.com/software-defined-warships-the-navys-digital-future-of-necessity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blackpearl.navy.mil/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.leidos.com/markets/maritime",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://breakingdefense.com/2026/08/updating-navy-warships-at-the-speed-of-software/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.krishangtechnolab.com/blog/top-white-label-agency-partners-usa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topicon.hk/partner-program.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.naval-technology.com/company-a-z/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://seapowermagazine.org/napa-ship-design-software-company-looking-to-expand-in-north-america/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carahsoft.com/partners/resellers-service-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aecsoftware.com/company/partner-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.magentrix.com/blog/cybersecurity-partner-programs-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vates.tech/en/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aquatormarine.com/news/partner-program-launch",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wlwfuture.com/project/innovative-commercial-maritime-brand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navy.mil/Portals/1/Trademark/FINALLicensingGuidelines_Digital224.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nbcbayarea.com/video/news/local/a-closer-look-trump-adminstration-weighs-on-renaming-navy-ships-video/3883853/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbsnews.com/news/navy-new-name-usns-harvey-milk-ships-named-for-civil-rights-leaders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnv.com/news/2025/a-new-name-at-sea-cfarer-launches-as-an-independent-maritime-software-brand/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.effectivesoft.com/maritime-software-development.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4355823/navy-invests-448-million-in-ai-and-autonomy-to-accelerate-shipbuilding/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newcomer.co/p/see-how-defense-tech-unicorn-saronic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.naval-group.com/sites/default/files/2026-04/Rapport%20annuel%20Naval%20Group%202025%20EN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://amaaonline.com/deal-corner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://govciomedia.com/navy-seeks-speed-of-software-in-new-acquisition-push/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://middlemarketgrowth.org/naval-ship-investment-aerospace-defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.usni.org/2025/12/09/navy-palantir-announce-448m-ship-os-ai-tool-for-shipbuilding-and-repair",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://profitable.app/bootstrapped",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rosprom.org/bootstrapped-is-the-new-vc-backed-why-2025-2026-founder-data-suggests-profitability-first-startups-are-winning-the-long-game/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabelusv.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifs.com/en/industries/aerospace-and-defense/defense-forces",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ship-technology.com/contractors/computers/navis/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.adriadefense.com/7-israeli-defense-tech-companies-expanding-into-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hensoldt.net/company/country-hubs/germany/strategic-supplier-of-the-german-navy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rtx.com/raytheon/news/lang/ja/news/feature/updating-the-fleet-faster",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.alltekmarine.com/ja/solutions/article/10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000282432",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codezine.jp/article/detail/8660",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.classnk.or.jp/hp/ja/download/dl_soft.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kaigaisoft.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xlsoft.com/jp/products/import/?s=xl_top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kgkjp.com/makers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcmachinery.co.jp/introduction/space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.welfeed.co.jp/agencyservice",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "naval vessels software white label",
+   "results": [
+    "https://3dtracking.com/white-label-partner-offering",
+    "https://warontherocks.com/software-defined-warships-the-navys-digital-future-of-necessity/",
+    "https://blackpearl.navy.mil/",
+    "https://www.leidos.com/markets/maritime",
+    "https://breakingdefense.com/2026/08/updating-navy-warships-at-the-speed-of-software/",
+    "https://flotillaiot.com/how-flotilla-iot-white-label-gps-vehicle-tracking-software-can-boost-your-fleet-business/",
+    "https://centers.hpc.mil/CREATE/CREATE-SH.html",
+    "https://magazines.marinelink.com/Magazines/MaritimeReporter/200010/content/keeps-shipshape-software-207476",
+    "https://openvts.io/resources/blog/white-label-gps-tracking-software",
+    "https://navexim.com/platform/white-label"
+   ]
+  },
+  {
+   "query": "naval vessels software OEM white-label partner",
+   "results": [
+    "https://www.krishangtechnolab.com/blog/top-white-label-agency-partners-usa/",
+    "https://www.topicon.hk/partner-program.html",
+    "https://simplyprint.io/oem",
+    "https://www.naval-technology.com/company-a-z/",
+    "https://seapowermagazine.org/napa-ship-design-software-company-looking-to-expand-in-north-america/",
+    "https://www.youtube.com/watch?v=ZsW_4Ugj6t0",
+    "https://blackpearl.navy.mil/",
+    "https://teksynap.com/about/strategic-partners/oem-partners/",
+    "https://www.napa.fi/navy/",
+    "https://seacuregroup.com/maritime-oem-installation-partner/"
+   ]
+  },
+  {
+   "query": "naval vessels software reseller partner program",
+   "results": [
+    "https://www.carahsoft.com/partners/resellers-service-providers",
+    "https://blackpearl.navy.mil/",
+    "https://www.aecsoftware.com/company/partner-programs/",
+    "https://www.youtube.com/watch?v=ZsW_4Ugj6t0",
+    "https://warontherocks.com/software-defined-warships-the-navys-digital-future-of-necessity/",
+    "https://www.magentrix.com/blog/cybersecurity-partner-programs-complete-guide",
+    "https://vates.tech/en/partners",
+    "https://aquatormarine.com/news/partner-program-launch",
+    "https://www.facebook.com/NAVSEA/posts/navsea-hq-small-business-industry-day-expands-the-advantage-through-small-busine/10154842103567465/",
+    "https://www.cloudis.com/company/partner-network/"
+   ]
+  },
+  {
+   "query": "naval vessels SaaS rebrand private label",
+   "results": [
+    "https://wlwfuture.com/project/innovative-commercial-maritime-brand/",
+    "https://www.navy.mil/Portals/1/Trademark/FINALLicensingGuidelines_Digital224.pdf",
+    "https://www.facebook.com/NavalInstitute/posts/navy-creates-new-marketplace-for-medium-unmanned-surface-vessels-after-cancellin/1478171807304738/",
+    "https://www.nbcbayarea.com/video/news/local/a-closer-look-trump-adminstration-weighs-on-renaming-navy-ships-video/3883853/",
+    "https://www.cbsnews.com/news/navy-new-name-usns-harvey-milk-ships-named-for-civil-rights-leaders/",
+    "https://www.youtube.com/watch?v=RFR-L88a2nk",
+    "https://www.dnv.com/news/2025/a-new-name-at-sea-cfarer-launches-as-an-independent-maritime-software-brand/",
+    "https://www.beautyindependent.com/three-ships-refresh-founders/",
+    "https://defensescoop.com/2026/09/24/navy-sea-drones-online-marketplace/"
+   ]
+  },
+  {
+   "query": "naval vessels software company profitable EBITDA",
+   "results": [
+    "https://www.youtube.com/watch?v=KeRbrCokMZE",
+    "https://www.effectivesoft.com/maritime-software-development.html",
+    "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4355823/navy-invests-448-million-in-ai-and-autonomy-to-accelerate-shipbuilding/",
+    "https://www.newcomer.co/p/see-how-defense-tech-unicorn-saronic",
+    "https://www.naval-group.com/sites/default/files/2026-04/Rapport%20annuel%20Naval%20Group%202025%20EN.pdf",
+    "https://amaaonline.com/deal-corner/",
+    "https://fullratio.com/ebitda-margin-by-industry",
+    "https://warontherocks.com/software-defined-warships-the-navys-digital-future-of-necessity/",
+    "https://www.readycontacts.com/blog/maritime-software-companies/",
+    "https://www.mordorintelligence.com/industry-reports/naval-vessels-market"
+   ]
+  },
+  {
+   "query": "naval vessels software bootstrapped profitable revenue",
+   "results": [
+    "https://www.youtube.com/watch?v=KeRbrCokMZE",
+    "https://www.newcomer.co/p/see-how-defense-tech-unicorn-saronic",
+    "https://warontherocks.com/software-defined-warships-the-navys-digital-future-of-necessity/",
+    "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4355823/navy-invests-448-million-in-ai-and-autonomy-to-accelerate-shipbuilding/",
+    "https://breakingdefense.com/2026/08/updating-navy-warships-at-the-speed-of-software/",
+    "https://govciomedia.com/navy-seeks-speed-of-software-in-new-acquisition-push/",
+    "https://seapowermagazine.org/napa-ship-design-software-company-looking-to-expand-in-north-america/",
+    "https://middlemarketgrowth.org/naval-ship-investment-aerospace-defense/",
+    "https://news.usni.org/2025/12/09/navy-palantir-announce-448m-ship-os-ai-tool-for-shipbuilding-and-repair",
+    "https://profitable.app/bootstrapped"
+   ]
+  },
+  {
+   "query": "naval vessels software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.whitelabelusv.com/company/",
+    "https://www.ifs.com/en/industries/aerospace-and-defense/defense-forces",
+    "https://www.ship-technology.com/contractors/computers/navis/",
+    "https://www.adriadefense.com/7-israeli-defense-tech-companies-expanding-into-europe/",
+    "https://www.naval-technology.com/company-a-z/",
+    "https://www.hensoldt.net/company/country-hubs/germany/strategic-supplier-of-the-german-navy",
+    "https://www.jpost.com/israel-news/defense-news/article-897035",
+    "https://3dtracking.com/white-label-partner-offering",
+    "https://www.calcalistech.com/ctechnews/article/s1scn00mc5",
+    "https://ndar.com/"
+   ]
+  },
+  {
+   "query": "艦艇 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.rtx.com/raytheon/news/lang/ja/news/feature/updating-the-fleet-faster",
+    "https://www.alltekmarine.com/ja/solutions/article/10",
+    "https://www.dreamnews.jp/press/0000282432",
+    "https://codezine.jp/article/detail/8660",
+    "https://www.classnk.or.jp/hp/ja/download/dl_soft.aspx",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E9%9B%BB%E5%AD%90%E5%AF%BE%E7%AD%96%EF%BC%88ecm%EF%BC%89%E5%B8%82%E5%A0%B4-116140",
+    "https://j-defense.ikaros.jp/docs/mod/005368.html",
+    "https://www.sst-sk.co.jp/electronic/trivia/923/",
+    "https://straitsresearch.com/jp/report/naval-vessel-maintenance-repair-and-overhaul-market",
+    "https://www.siemens.com/ja-jp/solutions/engineering-simulation/marine-engineering/"
+   ]
+  },
+  {
+   "query": "艦艇 ソフト 代理店 海外製",
+   "results": [
+    "http://www.kaigaisoft.com/",
+    "https://www.xlsoft.com/jp/products/import/?s=xl_top",
+    "https://www.kgkjp.com/makers/",
+    "https://www.mcmachinery.co.jp/introduction/space/",
+    "https://www.welfeed.co.jp/agencyservice",
+    "https://www.gojukarado.com/business/works.html",
+    "https://www.ibsjapan.co.jp/specials/3",
+    "https://www.rmsmarineservice.com/static/jp/general-agency",
+    "https://flashbackj.com/vendor",
+    "http://kaigaisoft.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業": "記載なし（読んだ45頁・検索9回）",
+  "自社名で出せる条件": "記載なし（読んだ45頁・検索9回）",
+  "黒字・収益性": "記載なし（読んだ45頁・検索9回）",
+  "価格": "記載なし（読んだ45頁・検索9回）"
+ }
+}

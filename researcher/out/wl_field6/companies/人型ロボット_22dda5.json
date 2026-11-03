@@ -1,0 +1,2115 @@
+{
+ "name": "人型ロボット",
+ "en": "humanoid robot",
+ "aliases": [
+  "ヒューマノイド",
+  "フィジカルAI"
+ ],
+ "context": "1 AI・半導体 ①フィジカルAI",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:12:26.401767+00:00",
+ "evidence": {
+  "自社名で出せる条件": [
+   {
+    "quote": "Autonomous Mobile Robots, AI & White Label Robotics 2025",
+    "url": "https://smprobotics.com/products_autonomous_ugv/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM and Licensed Robot Manufacturing Partnership",
+    "url": "https://smprobotics.com/products_autonomous_ugv/",
+    "pass": 3
+   },
+   {
+    "quote": "SMP Robotics works with qualified OEM/ODM manufacturers and regional industrial partners to expand production of Argus Physical AI autonomous mobile robots.",
+    "url": "https://smprobotics.com/products_autonomous_ugv/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners may participate through contract manufacturing for international markets, territory-specific licensed production or white-label product programs. Cooperation can include design-for-manufacturing review, BOM optimization, technical documentation, software integration, personnel training and ongoing engineering support.",
+    "url": "https://smprobotics.com/products_autonomous_ugv/",
+    "pass": 3
+   },
+   {
+    "quote": "UGV for security application with embedded AI",
+    "url": "https://smprobotics.com/products_autonomous_ugv/",
+    "pass": 3
+   },
+   {
+    "quote": "ODM & OEM Robots | SuperDroid Robots",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "Custom & OEM Robots",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "ODM & OEM Robots",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "OEM, ODM, Private Labeling, & White Labeling Services for Robotics Integrators",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "We can work as an OEM (Original Equipment Manufacturer) that produces your design or as an ODM (Original Design Manufacturer) where we can make slight modifications to our designs for you to sell the robots under your brand including specific colors, logos, and even specific features.",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "Firmware development - Embedded",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "We offer custom software engineering services including .NET, Windows Embedded, MikroC, and Linux. Our software developers have the experience and skills to provide the brainpower to your robot or other mechanical devices.",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Embedded",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "Linux Embedded",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today about an OEM or ODM partnership.",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "embedded operations",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics OEMs",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Operations",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Operations — teams inside your plant",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid developer Agility Robotics rebrands",
+    "url": "https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/",
+    "pass": 3
+   },
+   {
+    "quote": "Agility Robotics is dropping “Robotics” from its name as part of its rebrand. | Credit: Agility",
+    "url": "https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/",
+    "pass": 3
+   },
+   {
+    "quote": "Agility Robotics has rebranded to Agility, dropping the “Robotics” suffix. In a",
+    "url": "https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/",
+    "pass": 3
+   },
+   {
+    "quote": "One Robot, Many Markets: How Humanoid Makers Rebrand, Bundle and Price Bipeds for Logistics Chiefs, Hospital CEOs and Homebuyers | The Humanoid Race",
+    "url": "https://thehumanoidrace.com/news/one-robot-many-markets-how-humanoid-makers-rebrand-bundle-and-price-bipeds-for-l-mr08p9vg",
+    "pass": 3
+   },
+   {
+    "quote": "One Robot, Many Markets: How Humanoid Makers Rebrand, Bundle and Price Bipeds for Logistics Chiefs, Hospital CEOs and Homebuyers",
+    "url": "https://thehumanoidrace.com/news/one-robot-many-markets-how-humanoid-makers-rebrand-bundle-and-price-bipeds-for-l-mr08p9vg",
+    "pass": 3
+   },
+   {
+    "quote": "A paid commercial contract with a major OEM (BMW, Mercedes, GXO) is a stronger signal than a letter of intent or a co-development agreement where payment is not yet confirmed.",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranded parent company of the Moxi hospital robot line, expanding into broader healthcare autonomy and multi-site flee",
+    "url": "https://humanoidindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Advantech provides edge-computing and embedded-computing platforms, industrial automation and I/O, connectivity products, servers, and specialized systems for healthcare, logistics, transportation, manufacturing, and retail. It also provides related design, integration, and support services.",
+    "url": "https://www.humanoidmegahub.com/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Global designer and manufacturer of precision motion, controls, and power products for industrial, medical, aerospace, and defense markets. Founded in 1939 and rebranded as Allient Inc. in August 2023, trading on Nasdaq under ticker ALNT.",
+    "url": "https://www.humanoidmegahub.com/companies",
+    "pass": 3
+   },
+   {
+    "quote": "個人向けプロバイダーサービス「GMOとくとくBB」のOEM提供や、",
+    "url": "https://ai-robotics.gmo/",
+    "pass": 3
+   },
+   {
+    "quote": "主にデータ収集・研究、倉庫・物流、製造、自動車などの分野で採用が拡大したことが牽引要因となり、2025年の導入台数ベースにおいて上位5社のOEMが市場シェアの73%を獲得しました",
+    "url": "https://counterpointresearch.com/jp/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace",
+    "pass": 3
+   },
+   {
+    "quote": "図1: OEM別 年間ヒューマノイド導入シェア・2025年",
+    "url": "https://counterpointresearch.com/jp/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace",
+    "pass": 3
+   },
+   {
+    "quote": "世界の主要なイノベーションハブ、製造クラスター、商業センターに拠点を構え、スマートフォンOEM、チップメーカー、チャネル企業、大手テクノロジー企業など、幅広いクライアント様にサービスを提供しています",
+    "url": "https://counterpointresearch.com/jp/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace",
+    "pass": 3
+   },
+   {
+    "quote": "コンポーネント別（アクチュエータ（回転式、直線式、ギアボックス／減速機）、センサー（ビジョン／LiDAR、力／トルク、触覚、IMU）、コンピューティング＆制御、バッテリー＆電源、構造＆材料、エンドエフェクタ／ハンド）、アクチュエーションタイプ別（電気式、油圧式、空気圧式、圧電式）、用途別（製造・物流、自動車、ヘルスケア＆サービス、家庭／消費者向け、研究）、エンドユーザー別（ヒューマノイドOEM、システムインテグレーター、研究機関）、地域別―市場規模、業界動向、機会分析、2026年～2035年の予測",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "、ヒューマノイドロボットのOEMメーカーが最大のシェアを占め、市場をリードした",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドOEMが最大のシェアで市場をリード",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "現在、ヒューマノイドロボット部品市場において、最大の売上高シェアを誇るのは、ヒューマノイドロボットのオリジナル機器メーカー（OEM）である",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアOEMは、自社のロボットプラットフォームを競合他社製品と効果的に差別化するために、常に特注部品を求めている",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "部品サプライヤーは現在、小規模な大学の研究室よりも、こうした大手OEMとの契約を優先している",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "大手OEMと部品メーカー間の戦略的なビジネスパートナーシップは、非常に強靭なサプライチェーンを確保する上で不可欠である",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "大量購入による莫大な購買力により、OEM企業は重要な機械部品について非常に有利な価格交渉を行うことができる",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "急速な商業化への取り組みは、OEM企業に対し、ハードウェアサプライヤーとの独占的な長期契約を確保するよう強く促している",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "商用OEMによる広範な社内プラットフォームテストは、コンポーネントエコシステム全体にわたる継続的かつ反復的な改善を促進する",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボットOEM",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国OEMに依存しない国産サプライチェーンの構築を掲げている点が特徴です",
+    "url": "https://humanoidpress.jp/humanoid-robot-japan-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "「体は中国、脳は米国」というアプローチで、海外OEM機体に独自AI（VLA搭載予定）を組み合わせ、サイレントジェスチャーコントロール（声なし手振り指示、特許技術）で差別化を図っています（",
+    "url": "https://humanoidpress.jp/humanoid-robot-japan-companies/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Become security robot distributor",
+    "url": "https://smprobotics.com/products_autonomous_ugv/",
+    "pass": 3
+   },
+   {
+    "quote": "UGVs of different series vary in their mechanical powertrains, which are perfectly suited for different types of roads that our mobile robots may operate on.",
+    "url": "https://smprobotics.com/products_autonomous_ugv/",
+    "pass": 3
+   },
+   {
+    "quote": "Resell SuperDroid Robots",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "VARIABLE MIX",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Closing it requires real robots doing real tasks in live operations — not labs. Real products, real deadlines, real variety. That's what generates useful training data.",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Task variety matters more than task volume",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Optimized for throughput, not variety",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Engineered for complexity and variety",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Product mix changes hourly. Variable BOM, multi-SKU configurations, custom packaging per retailer.",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Single-item to multi-item orders. Poly bag, box, branded insert variations. Each-level accuracy required.",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "We're not a reseller — we're your robotics integrator. We walk your floor, map the workflow, deploy and program every robot, train your team, and keep the fleet running with nationwide service. One partner, any brand, from the first demo to the last spare part.",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Not a reseller. Your robotics integrator.",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A Branch-By-Branch Robot Rollout For Electrical Distributors",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How distributors pilot cleaning robots at one branch, measure hours returned, and roll out by region with RaaS.",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How electrical distributors use autonomous scrubbers to keep DC aisles, docks, and cut rooms clean every shift.",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Workflow mapping and integration · commercial robot sales, deployment, training & service (integrator, not a reseller)",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognitive robots that think and learn, collaborative platforms that work alongside humans, and AI-powered assistants that understand your world. Our span of products is tailored to suit a variety of applications and support you, all built on advanced robotics technology and artificial intelligence that enables machines to sense, respond, and adapt like never before.",
+    "url": "https://neura-robotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "environment in Bühl, Germany. The company said that the POC involved handling 5 different box sizes across multiple footprints, heights and varying weights.",
+    "url": "https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain",
+    "pass": 3
+   },
+   {
+    "quote": "As its name suggests, Agility Robotics focuses on designing and building fully articulated robots for various real-world applications. Founded in 2015, the company launched its first bipedal robot,",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program | Robotics & Drone Partners | Futurology",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "Variable Rate Maps",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program Application",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "As a Futurology reseller, you're not just distributing products — you're delivering transformation to the agriculture, logistics, energy, and manufacturing sectors in your region. We provide the technology, training, and ongoing support; you bring the local expertise and customer relationships. Complete the application below and let's explore how we can grow together.",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "Join the Futurology reseller program and expand your business with access to advanced robotics, drones, energy solutions, 3D technologies, and professional equipment.",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "Our reseller program is designed for technology retailers, integrators, distributors, educational institutions, service providers, and companies looking to add innovative products to their portfolio. Approved partners can receive access to competitive pricing, product information, sales support, marketing materials, and expert consultation from the Futurology team.",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "To apply, complete the reseller program application form and provide information about your company, target market, sales channels, and areas of interest. Our team will review your application and contact you to discuss partnership opportunities, commercial terms, product availability, and onboarding requirements.",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Futurology reseller and offer your customers innovative solutions from trusted global technology brands.",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program | HumanoidX",
+    "url": "https://humanoidx.ca/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Retail robots are past the pilot stage: Pepper drove a documented 15% sales lift across 1,000+ Nestlé Japan stores, Simbe's Tally scans shelves in every BJ's Wholesale Club, and Agility's Digit moves goods in a Spanx warehouse. With hardware costs down about 40% since 2023, Goldman Sachs sees a $38 billion humanoid market by 2035.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Non-humanoid shelf-scanners are today's workhorses: Simbe's Tally runs in every BJ's Wholesale Club, catching out-of-stocks and pricing errors.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 3: Simbe Tally at BJ's Wholesale — Chain-Wide Inventory Intelligence",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Deployed across all BJ's Wholesale Club locations nationwide. Tally autonomously navigates aisles, scanning shelves to detect out-of-stock items, misplaced products, and pricing errors. Tally operates during store hours with minimal disruption",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "BJ's Wholesale, Schnucks",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "BJ's Wholesale rolled out Simbe Robotics' Tally robot across its entire network of 240+ warehouse club locations. Tally autonomously scans shelves three times daily, generating real-time inventory data that feeds into BJ's replenishment and merchandising systems.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Robot pricing in 2026 varies enormously based on capabilities, form factor, and deployment model. Here's the realistic breakdown:",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Use pilot program data to build the business case for chain-wide deployment. Successful pilots at companies like BJ's Wholesale and Amazon led to rapid, chain-wide scaling.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "As of January 2026, notable deployments include: BJ's Wholesale (Simbe Tally for inventory), Amazon (Agility Digit for fulfillment), Nestlé Japan (SoftBank Pepper for sales), Denny's and Chili's (Bear Robotics Servi for food delivery), and numerous Chinese retailers piloting UBTECH and Unitree humanoids. Walmart, Kroger, and Target have all conducted robotics pilots of various scales.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree stands out because several pieces of evidence line up at once: RMB1.70 billion of 2025 revenue, positive statutory earnings, positive adjusted earnings, high gross margins and more than 5,500 humanoids shipped during the year. Most competitors can prove only two or three of those things.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree's margins probably will not stay as extraordinary as they looked in 2025. Its 2026 updates already show revenue continuing to rise while profit comes under pressure from heavier R&D, sales spending, international expansion and competition.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "That adjusted figure looks unusually high beside statutory net income because the accounting adjustments work differently from the “adjusted EBITDA” figures US startups commonly promote. The useful point is simpler: Unitree reported positive earnings under multiple profit measures, alongside a core-business gross margin of roughly 60%.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "The margins make the change even more interesting. Unitree's listing materials put the gross margin of its humanoid business above 60% in 2025. That is an unusually high figure for sophisticated physical hardware, particularly in a market where many competitors are still spending heavily to reduce manufacturing cost.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "We still cannot calculate a standalone net margin for Unitree humanoids because the company reports corporate expenses across the broader business. Quadrupeds and other products continue to contribute revenue and profit.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Can Unitree keep its unusually high humanoid robot margins?",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree should remain profitable for now, although its latest numbers show that the easy part of the margin story may already be ending.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "The first warning appeared in the company's 2026 financial updates. First-quarter revenue reached roughly RMB423 million, up about 68% year over year. Adjusted profit attributable to the parent fell more than 50% to around RMB40 million. Sales up 68% with profit down by half shows why we study where the margins really are in",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Price competition adds another risk. Chinese humanoid manufacturers are entering the market quickly, and several are explicitly pushing lower-cost models. Unitree itself warns in its listing documents that more competition could pressure selling prices and margins.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree's profitability looks real. A 60% gross margin and 30%-plus adjusted net margin simply look much harder to sustain once the humanoid market starts industrializing in earnest.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Gross margin also improved substantially, reaching about 38% across the company. Yet UBTECH still recorded a net loss close to RMB790 million. R&D cost more than RMB500 million, selling expenses approached RMB470 million and administrative costs exceeded RMB330 million.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "The latest half-year results show further improvement without a profit breakthrough. Revenue roughly doubled to RMB1.27 billion, humanoid revenue reached around RMB590 million and company gross margin climbed above 44%. UBTECH still lost roughly RMB339 million.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "AGIBOT is private, so its reporting is much thinner than Unitree's listing prospectus or UBTECH's public-company accounts. We do not have a clean annual gross margin, operating profit or audited net profit figure that allows the same judgment.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "The problem appears lower down the income statement. Leju lost roughly RMB70 million during the year, after losses in each of the previous two years. Its gross margin has also moved down from above 50% in 2023 toward roughly 41%. Selling more while losing money is among the field's biggest unsolved problems; we dig into those in",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Financially, however, we know remarkably little. Figure does not disclose BMW contract value, robot pricing, manufacturing cost, field-support cost, gross margin or annual company profit. Private-market reporting around Figure's revenue has also produced conflicting estimates over time.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "The metrics that matter most at this stage are paid commercial deployments (not funded pilots), bill-of-materials cost trajectory, uptime and MTBF in real factory conditions, and partner contract quality, rather than traditional backlog, ASP, or margin.",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional industrial robot investment analysis centers on backlog, ASP (average selling price), and gross margin. Humanoid robots are not at that stage. The metrics that actually matter in 2026 are:",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "A humanoid running proprietary software with in-house trained models has higher switching costs and potential for software margin. A hardware-only play has no OS leverage. Figure, 1X, and Sanctuary are investing here; Agility is more hardware-focused. See also the EVST piece on",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Closing the gap between funding and revenue depends on four measurable variables:",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "estimated humanoid manufacturing costs at $30,000 to $150,000 per unit. Whether humanoid companies achieve revenue growth to sustainable gross margins will depend on scale and the efficiency of components and manufacturing.",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": ": Are manufacturing, servicing and deployment costs falling fast enough to support sustainable margins?",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "A robot operating in a customer environment with defined tasks, metrics, support, and operational expectations. Deployment quality varies widely in early humanoid robotics.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Chinese makers hold the price edge (Unitree G1 $13,500, R1 $5,900); Figure AI's $39 billion valuation shows where investors think the margins land.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   }
+  ],
+  "提供企業": [
+   {
+    "quote": "Humanoid is creating the world’s leading, commercially scalable, and safe humanoid robots",
+    "url": "https://thehumanoid.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn Top Startups 2026: The 20 UK companies on the rise",
+    "url": "https://thehumanoid.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 humanoid robot startups to watch in 2026, ranked by total funding",
+    "url": "https://thehumanoid.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The 4 layers of brain behind one of europes leading humanoid robots",
+    "url": "https://thehumanoid.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Creating the world’s leading, commercially",
+    "url": "https://thehumanoid.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "BACK TO TOP",
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "pass": 3
+   },
+   {
+    "quote": "Figure has attracted the world’s leading robotics team with over 100 years of combined AI & humanoid experience.",
+    "url": "https://www.figure.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "We're looking for partners, not vendors",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Counterpoint research is a young and fast growing research firm covering analysis of the tech industry. Coverage areas are connected devices, digital consumer goods, software & applications and other adjacent topics. We provide syndicated research report as well as tailored. Our seminars and workshops for companies and institutions are popular and available on demand.",
+    "url": "https://counterpointresearch.com/en/insights/humanoid-robotics-leans-on-automotive-industry-for-future-growth",
+    "pass": 3
+   },
+   {
+    "quote": "20+ local service centers, 24/7 support, loaner units if downtime tops 48 hours, and 97% average fleet uptime. Service is the product.",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Authorized partner for the world's leading service-robot makers — delivery, cleaning, humanoid, industrial, and drone platforms under one roof.",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Use the finder at the top of robotlab.com — tell us your industry, region, and goal, and we'll shortlist robots that fit. Or request a free on-site demo — same-day response, walkthrough within 5 business days. Or call",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Scroll to Top",
+    "url": "https://neura-robotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Story",
+    "url": "https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain",
+    "pass": 3
+   },
+   {
+    "quote": "Article Topics",
+    "url": "https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain",
+    "pass": 3
+   },
+   {
+    "quote": "All topics",
+    "url": "https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain",
+    "pass": 3
+   },
+   {
+    "quote": "21 top companies in the vanguard of the rise of humanoid robots - Ross Dawson",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Speaking topics",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Top female futurists",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "> 21 top companies in the vanguard of the rise of humanoid robots",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "21 top companies in the vanguard of the rise of humanoid robots",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Most Innovative Companies",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the planet’s most recognisable and admired brands, Toyota maintains many cross-industry subsidiaries, research programmes and investments on top of its automotive business. Toyota Research Institute (TRI) is the group’s R&D enterprise focusing on AI and robotics. TRI was founded in 2016 by prominent American roboticist James Kuffner Jr. Even before TRI, Toyota had showcased musical",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Shenzhen-based Qihan Technology designs and develops a wide range of digital products, but is mostly known as a leading manufacturer of CCTV surveillance systems. It launched its first commercial robot,",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "See keynote speaker topics",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover strategy facilitation formats and topics",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Scroll to top",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoPilot Console",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "Topography",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "Our reseller program is designed for technology retailers, integrators, distributors, educational institutions, service providers, and companies looking to add innovative products to their portfolio. Approved partners can receive access to competitive pricing, product information, sales support, marketing materials, and expert consultation from the Futurology team.",
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 robotics developments of October 2026",
+    "url": "https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/",
+    "pass": 3
+   },
+   {
+    "quote": "With the arrival of humanoid robots developed by companies such as",
+    "url": "https://www.robot-magazine.fr/en/humanoid-as-a-service-the-next-step-in-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Christophe Carle Louis",
+    "url": "https://www.robot-magazine.fr/en/humanoid-as-a-service-the-next-step-in-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Back to top button",
+    "url": "https://www.robot-magazine.fr/en/humanoid-as-a-service-the-next-step-in-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "See more RoboZaps reporting in Google's Top Stories.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Comparison: Top Humanoid Robots Used in Retail (2026)",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "In this comprehensive guide, we break down every major humanoid robot deployment in retail, compare the leading platforms, analyze real costs and ROI data, and forecast where the industry is headed through 2030.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "While not always humanoid in form, inventory robots often operate alongside humanoid customer-facing units. The key players include:",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Operational in over 500 Giant Eagle and Stop & Shop locations. Marty identifies spills, debris, and inventory gaps, alerting store associates in real time",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "A leading humanoid robot deployed commercially, working at a Spanx warehouse in Georgia for material movement. Digit stands 5'9\", weighs 141 lbs, can carry up to 35 lbs, and operates alongside human workers. Amazon has also been testing Digit in its fulfillment centers since late 2023",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Radica is the Editor-in-Chief of Robozaps. She has worked for more than a decade as an editor at leading publications across industries including crypto and finance.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "The humanoid robotics market is maturing from lab demos to commercial pilots, and vendors are increasingly tailoring product SKUs, messaging and commercial terms to specific buyer pe...",
+    "url": "https://thehumanoidrace.com/news/one-robot-many-markets-how-humanoid-makers-rebrand-bundle-and-price-bipeds-for-l-mr08p9vg",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree stands out because several pieces of evidence line up at once: RMB1.70 billion of 2025 revenue, positive statutory earnings, positive adjusted earnings, high gross margins and more than 5,500 humanoids shipped during the year. Most competitors can prove only two or three of those things.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "AGIBOT may eventually challenge Unitree financially, but the public evidence still stops short. Roughly RMB1.05 billion of reported 2025 revenue and very large production volumes prove commercial scale; without comparable net-income disclosure, profitability remains unproven rather than assumed.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "The margins make the change even more interesting. Unitree's listing materials put the gross margin of its humanoid business above 60% in 2025. That is an unusually high figure for sophisticated physical hardware, particularly in a market where many competitors are still spending heavily to reduce manufacturing cost.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Booster is the next interesting case. Positive monthly operating cash flow suggests its research-and-education strategy can support healthier economics much earlier than factory-focused competitors. We need a longer financial track record before upgrading that to sustained profitability.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "AGIBOT could already be profitable, but its public disclosures still stop short of proving it. RMB1.05 billion of reported annual revenue and very fast shipment growth put it near the top of our watch list.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "When a private company reports revenue, orders or production volume without disclosing earnings, we stop where the evidence stops. “Profitability unproven” does not mean we assume the company is losing money; it means the available disclosure does not support a stronger conclusion.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "What are the top humanoid robotics startups by revenue?",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2026, only a small number of humanoid robot companies are directly accessible to public-market investors, while most leading names remain privately held.",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure AI, Agility Robotics, Apptronik, 1X Technologies, Unitree Robotics, and Sanctuary AI are the leading pre-IPO names to watch, but no major humanoid company has confirmed an IPO date as of mid-2026.",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "top robotics foundation model companies",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "the leading humanoid robot companies in 2026",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": ". Our self-hosted Umami measures visits and selected interactions without cookies before you make a choice. Rejecting Analytics stops this detailed Umami measurement; basic totals and limited measurement without analytics cookies may continue.",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "These numbers show why investors should look beyond the backlog. The company is also moving further into commercial deployment than many early-stage competitors. However, its recognized revenue remains tiny relative to its operating costs.",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, global sales revenue from humanoid robots exceeded $500 million for the first time, and the top three humanoid enterprises accounted for nearly 56% of global sales revenue, according to",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Top three companies from China accounted for nearly 56% of 2025 global sales revenue",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "China is leading early commercialization through production, price, and use-case focus.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The public data points to China as the earliest scale leader in humanoid commercialization. Counterpoint says global humanoid robot sales revenue passed $500 million in 2025, with AGIBOT, Unitree, and UBTECH leading global commercialization. TrendForce projects China’s humanoid robot output growth could reach 94% in 2026, with Unitree and AgiBot expected to capture nearly 80% of shipments.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Humanoid Robotics & Automation | Future of 3PL - Productiv — Humanoid Robotics & Automation | Future of 3PL - Productiv Productiv https://getproductiv.com > humanoid-...",
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robots in Packaging Part 1: Continuous Upgrades ... — Humanoid Robots in Packaging Part 1: Continuous Upgrades ... Packaging World https://www.packworld.com > article",
+    "url": "https://www.packworld.com/trends/digital-transformation/article/22950203/humanoid-robots-in-packaging-part-1-continuous-upgrades-some-industry-adoption",
+    "pass": 3
+   },
+   {
+    "quote": "Publicly Traded Humanoid Robot Companies 2026 Guide — Publicly Traded Humanoid Robot Companies 2026 Guide EVST https://www.evsint.com > Blog",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "All Humanoid Robot Companies 2026 — All Humanoid Robot Companies 2026 Humanoid Index https://humanoidindex.org > companies",
+    "url": "https://humanoidindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "産業製造におけるヒューマノイド ロボット ：2026年に ... - EVST — 産業製造におけるヒューマノイド ロボット ：2026年に ... - EVST EVST https://www.evsint.com > humanoid-robots-industrial-ma...",
+    "url": "https://www.evsint.com/ja/humanoid-robots-industrial-manufacturing-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年ヒューマノイド ロボット グローバル市場における導入 ... — 2025年ヒューマノイド ロボット グローバル市場における導入 ... Counterpoint Research https://counterpointresearch.com > insights > Global-Hum...",
+    "url": "https://counterpointresearch.com/jp/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボット 部品市場規模レポート[2035年] - Astute Analytica — 人型ロボット 部品市場規模レポート[2035年] - Astute Analytica Astute Analytica https://www.astuteanalytica.com > industry-report > huma...",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド ロボット - メーカー・企業17社の業務用製品 ... — ヒューマノイド ロボット - メーカー・企業17社の業務用製品 ... 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ヒューマノイドロボット",
+    "url": "https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "GMO AI＆ロボティクス商事、世界No.1の 人型ロボット ... — GMO AI＆ロボティクス商事、世界No.1の 人型ロボット ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000005404.000000136.html",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Buy your robot outright, lease it with a $1 buyout, or subscribe with Robots-as-a-Service — pricing that fits the way your business budgets.",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Full catalog pricing with Net-30 terms for commercial accounts. Section 179 eligible — most buyers expense the entire robot in year one.",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Entry-level robots like Whiz vacuum start at $9,800. Mid-tier delivery robots like BellaBot Pro start at $16,000. Commercial scrubbers like Gausium Scrubber 50 start at $18,900. RaaS subscriptions start at $499/month all-inclusive.",
+    "url": "https://www.robotlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Table turnover time reduced by approximately 10 minutes per seating",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Robot pricing in 2026 varies enormously based on capabilities, form factor, and deployment model. Here's the realistic breakdown:",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": ") to $150,000+ (UBTECH Walker S). Mid-range options like SoftBank Pepper cost approximately $25,000–$30,000 with ongoing software fees of ~$360/month.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Many retailers prefer RaaS models that bundle hardware, software, maintenance, and support into a monthly fee. Simbe Robotics offers Tally at approximately $2,000/month. Bear Robotics leases Servi at $999/month. This model eliminates upfront capital expenditure and reduces deployment risk.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "$50,000 (purchased) or $2,000/month (RaaS)",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Robot-as-a-Service pricing will drop below $1,000/month for basic service robots",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Prices range widely in 2026. Entry-level humanoid robots like the Unitree R1 start at $5,900. Mid-range customer service robots like SoftBank Pepper cost $25,000–$30,000 plus monthly software fees. Advanced humanoids with dexterous manipulation (UBTECH Walker S, Agility Digit) range from $50,000 to $150,000. Robot-as-a-Service (RaaS) models start at $999–$2,000/month, eliminating upfront costs.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": ", $20,000 or $499 per month for",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "DIGITIMES Research predicts that after 2029, advances in actuator technology and economies of scale will reduce module costs for bipedal locomotion and dexterous manipulation by 50–70%, finally enabling true mass-market pricing.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "$20,000–$30,000 per unit at scale, with Elon Musk suggesting eventual consumer pricing as low as $20,000",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "This pricing pressure is forcing margin compression across the industry. When a full-size, highly mobile humanoid (Unitree's H2) lists at",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": ", it becomes difficult for Western competitors to justify $250,000+ pricing for comparable physical capability — even where the software stack is more mature. Unitree's own flagship H2 Plus, at $100,000, is still the highest published list price from a major manufacturer.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "At $50,000 per robot (current mid-range pricing), a humanoid robot's hourly cost works out to approximately",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Mass-produced industrial humanoids drop below $50,000. Consumer models emerge at $15,000–$25,000. First subscription models gain traction ($300–$500/month).",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Commodity-scale production. Basic humanoid robots comparable to high-end appliance pricing ($5,000–$10,000). Premium models with advanced AI at $15,000–$30,000.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "The economics of humanoid robot production in 2026 are at a pivotal moment. Manufacturing costs are falling rapidly, production volumes are scaling from hundreds to tens of thousands, and the first mass-market pricing (sub-$30,000) is becoming reality.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer-grade humanoid robots are becoming affordable in 2026. The Unitree G1 is available for approximately $13,500, 1X Neo is priced at $20,000 (or $499/month subscription), and Tesla targets $20,000–$30,000 for Optimus. By 2030, analysts expect full-featured consumer humanoids to reach $10,000–$20,000 — comparable to a used car or high-end appliance.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "At current pricing ($50,000–$80,000), a humanoid robot deployed in a U.S. warehouse or manufacturing setting can pay for itself in 12–18 months by replacing two shift workers. At Tesla's target $20,000 price point, payback could drop to under 6 months. Operating costs (electricity, maintenance, software) run approximately $15,000 per year.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 02のサブスクはある？月額料金・導入方法を解説",
+    "url": "https://robotcloud.jp/media/archives/8984",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "New Sortation System Increases Throughput and Profits for Sportswear Retailer",
+    "url": "https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain",
+    "pass": 3
+   },
+   {
+    "quote": "The company has been profitable on dog-robot sales and therefore remains largely self-funded, but it received an undisclosed strategic investment from Sequoia China in 2024 to accelerate H1 production tooling and global safety certification.",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree is the only major general-purpose humanoid robotics company we can confidently say is making substantial money today. ExRobots has produced a small profit in a specialized niche, while Booster Robotics has reached positive monthly operating cash flow but has not yet proved sustained full-year profitability.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "The striking part is how short the profitable list remains. Humanoid shipments are already counted in the thousands, commercial contracts are getting much larger and real factories are using robots for meaningful work, yet revenue has spread through the industry much faster than company-level profit. Revenue is outrunning profit across the industry; we compare which business models are winning in",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoids are no longer a small side business inside Unitree. They grew from roughly 2% of revenue in 2023 to more than half in 2025, making it much harder to argue that the company's profitability simply comes from its older quadruped business.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree's margins probably will not stay as extraordinary as they looked in 2025. Its 2026 updates already show revenue continuing to rise while profit comes under pressure from heavier R&D, sales spending, international expansion and competition.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "UBTECH is the clearest counterexample to the idea that large humanoid revenue automatically creates profit. It generated roughly RMB2.00 billion of total revenue in 2025, including about RMB821 million from full-size embodied humanoids and related services, but still lost close to RMB790 million.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "AGIBOT may eventually challenge Unitree financially, but the public evidence still stops short. Roughly RMB1.05 billion of reported 2025 revenue and very large production volumes prove commercial scale; without comparable net-income disclosure, profitability remains unproven rather than assumed.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "The broader takeaway is that humanoid robotics has already crossed the commercialization threshold but barely crossed the profitability threshold. Unitree has shown that thousands of humanoids can be manufactured and sold while leaving meaningful earnings behind; nearly every other major player is still trying to prove that last part.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Which humanoid robotics companies are actually profitable today?",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree is currently the clearest major humanoid robotics company making real profits, while ExRobots is a much smaller profitable edge case and Booster Robotics has only reached the weaker milestone of positive monthly operating cash flow.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree stands apart because its financial disclosure goes much further. Its Shanghai listing documents show RMB1.70 billion of 2025 revenue and RMB590.75 million of profit attributable to the parent after excluding non-recurring items. More than 5,500 humanoids shipped during that year.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "UBTECH, by comparison, produced RMB2.00 billion of revenue in 2025 and had already built a serious humanoid business, yet it still recorded a very large loss. AGIBOT said revenue reached RMB1.05 billion, although there is still no comparable public bottom-line figure. Figure, Apptronik and Agility have genuine industrial deployments but have yet to show evidence of company-level profitability.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "So the profitable end of humanoid robotics remains extremely concentrated. Revenue is spreading much faster than profits.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Profit status today",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Clearly profitable",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Small profit in 2025, weaker since",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Funding measures investor commitment to future humanoid robot commercialization. It does not measure current demand or profitability. Valuation is a third number again. Figure’s $39 billion valuation rests on a round of just over $1 billion.",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "UBTECH shows that humanoid robotics can be a meaningful revenue stream. But investors will need to decide whether that business can become profitable and reduce its cash burn.",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Profitability",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": ": The economics of a robot that has a value for several hours a day are different from those that operate across multiple shifts. For companies to achieve profitable returns on customer usage of their hardware purchases, they must have an adequate number of units deployed and high utilization.",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid robotics startup statistics for 2026: funding, pilots, production capacity, robot prices, China, Europe, the US, and bootstrapped founder opportunities.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "MeanCEO Index: Humanoid Robotics Opportunities For Bootstrapped Founders",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "What The Numbers Mean For Bootstrapped Founders",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the best humanoid robotics opportunity for bootstrapped founders?",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The founder conclusion is simple: money is clustering around companies that can combine hardware, AI, manufacturing, fleet learning, and credible buyers. A bootstrapped founder should avoid competing with their balance sheets.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The MeanCEO Index scores practical bootstrapped founder opportunity from 1 to 10. The criteria are customer access, paid proof speed, capital intensity, technical risk, deployment friction, regulatory load, revenue clarity, and whether a small team can create value without manufacturing a complete humanoid robot.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Bootstrapped Humanoid Robotics Opportunity",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "That is where bootstrapped founders can create value before raising a monster round.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "For bootstrapped European founders, the smartest wedge is probably near industrial customers and practical adoption software. Use grants if they help pay for testing. Do not let grant work replace sales. A robot pilot without buyer commitment is a very expensive science project.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Mean CEO’s proprietary operator score for practical founder opportunity. It scores from 1 to 10 based on customer access, paid proof speed, capital intensity, technical risk, deployment friction, regulatory load, revenue clarity, and bootstrapped viability.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The best bootstrapped opportunities sit around adoption: pilot analytics, robot deployment services, training, safety documentation, teleoperation, simulation, maintenance workflows, integration, and ROI reporting. These can reach customer budgets faster than full-stack humanoid hardware.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Self-funded (Tesla)",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "— building factories and supply chains requires billions before profitability (Tesla, Figure AI, well-funded Chinese players)",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, Unitree generated 1.708 billion yuan in revenue, with humanoid robots contributing about 868 million yuan, or 51.8% of the total. Net profit attributable to shareholders was roughly 278 million yuan, while net profit after exclExcelland Roboticsng non-recurring gains and losses was about 590 million yuan.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "At a time when humanoid robots are still largely in the high-investment phase, such revenue and profitability are rare.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "When new technology enters the market, the earliest customers often come from the research sector. Universities need algorithm platforms, laboratories need hardware carriers, and developers need a robot capable of continuous secondary development. Unitree has at least proven that this segment can not only achieve scale but also turn a profit.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "While this segment currently accounts for a modest share and its profitability is far from mature, it makes the status of the robots after delivery much easier to observe.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "The capital market still needs embodied intelligence and will not require all frontier technology companies to be profitable before listing.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "What remains on the financial statements is revenue, gross profit, cash flow, customers, and orders.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "Self-funded",
+    "url": "https://humanoidindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Optimus Gen 3. Bipedal humanoid for factory automation. Self-funded. Target: 5K units 2025.",
+    "url": "https://humanoidindex.org/companies",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "in 2020. Digit can walk, run, climb stairs, sense the environment and manually carry loads. Perfect as a warehouse assistant, Digit’s all-weather capabilities also enable it to serve outdoors.",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "(a 1.75 m biped that can walk, run, carry and manipulate tools of up to 6 kg in weight);",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "extends that expertise to elder-care, logistics and hospital transport. The robot can carry 50 kg, walk at 5 km/h and features an open ROS-based control architecture.",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 2026 Arrowfly LLC. All Rights Reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Arrowfly",
+    "url": "https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/",
+    "pass": 3
+   },
+   {
+    "quote": "Agility's Digit works a Spanx warehouse in Georgia — 5'9\", 141 lb, carrying up to 35 lb alongside human staff.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 2: Agility Robotics Digit at Spanx — First Revenue-Earning Humanoid",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "A leading humanoid robot deployed commercially, working at a Spanx warehouse in Georgia for material movement. Digit stands 5'9\", weighs 141 lbs, can carry up to 35 lbs, and operates alongside human workers. Amazon has also been testing Digit in its fulfillment centers since late 2023",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Carries up to 35 lbs per trip with consistent speed",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Table turnover time reduced by approximately 10 minutes per seating",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Modern retail robots use a combination of LiDAR, depth cameras, and AI-powered computer vision to navigate crowded store aisles, identify products on shelves, read price tags, and detect spills or hazards. Simbe's Tally uses a 30+ camera array to capture 3D shelf imagery with millimeter-level precision.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Payback periods range from 12 to 24 months for purchased robots, based on documented deployments. RaaS models can deliver positive ROI from month one if they displace labor costs exceeding the monthly lease fee. Key factors include operating hours (robots can work 16+ hours/day), the local labor market, and whether the robot generates additional revenue through enhanced customer engagement.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree stands out because several pieces of evidence line up at once: RMB1.70 billion of 2025 revenue, positive statutory earnings, positive adjusted earnings, high gross margins and more than 5,500 humanoids shipped during the year. Most competitors can prove only two or three of those things.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoids are no longer a small side business inside Unitree. They grew from roughly 2% of revenue in 2023 to more than half in 2025, making it much harder to argue that the company's profitability simply comes from its older quadruped business.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree's margins probably will not stay as extraordinary as they looked in 2025. Its 2026 updates already show revenue continuing to rise while profit comes under pressure from heavier R&D, sales spending, international expansion and competition.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "UBTECH is the clearest counterexample to the idea that large humanoid revenue automatically creates profit. It generated roughly RMB2.00 billion of total revenue in 2025, including about RMB821 million from full-size embodied humanoids and related services, but still lost close to RMB790 million.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "AGIBOT may eventually challenge Unitree financially, but the public evidence still stops short. Roughly RMB1.05 billion of reported 2025 revenue and very large production volumes prove commercial scale; without comparable net-income disclosure, profitability remains unproven rather than assumed.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree stands apart because its financial disclosure goes much further. Its Shanghai listing documents show RMB1.70 billion of 2025 revenue and RMB590.75 million of profit attributable to the parent after excluding non-recurring items. More than 5,500 humanoids shipped during that year.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "UBTECH, by comparison, produced RMB2.00 billion of revenue in 2025 and had already built a serious humanoid business, yet it still recorded a very large loss. AGIBOT said revenue reached RMB1.05 billion, although there is still no comparable public bottom-line figure. Figure, Apptronik and Agility have genuine industrial deployments but have yet to show evidence of company-level profitability.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Large revenue, 5,500+ humanoids shipped, audited financial disclosure",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "RMB1.05B reported 2025 revenue",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "RMB2.00B total revenue, large humanoid business",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "Agility Robotics gives us a good current example. Its SEC materials disclose more than $300 million of multi-year Digit v5 orders involving roughly 1,000 robots. Agility itself warns investors that this number is not current-period revenue. The robots still need to be deployed and contractual milestones still need to be met.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "pass": 3
+   },
+   {
+    "quote": "According to industry analysis, the humanoid robot market could reach $38 billion annually by 2035 under optimistic adoption scenarios, but the path from here to there requires crossing cost and reliability thresholds that no company has yet demonstrated at volume. Investors should apply the same scrutiny to humanoid deployment claims that they would apply to any pre-revenue hardware platform.",
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robotics Revenue vs. Funding: 4 Companies Compared",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "1. Figure AI: Heavy Funding, Commercial Deployments, Revenue Not Disclosed",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "3. Agility Robotics: Backlog Is Not Revenue",
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "As of May 2026, humanoid robotics startup statistics show a market moving from demos into narrow commercial pilots. Humanoid robotics companies raised $3.2 billion globally in 2025, more than the previous six years combined, according to",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, global sales revenue from humanoid robots exceeded $500 million for the first time, and the top three humanoid enterprises accounted for nearly 56% of global sales revenue, according to",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, global humanoid robot sales revenue exceeded $500 million, global revenue is expected to reach $4.4 billion in 2027, and more than 300 humanoid robot enterprises were active worldwide, according to",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "$500M+ global sales revenue",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Top three companies from China accounted for nearly 56% of 2025 global sales revenue",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The public data points to China as the earliest scale leader in humanoid commercialization. Counterpoint says global humanoid robot sales revenue passed $500 million in 2025, with AGIBOT, Unitree, and UBTECH leading global commercialization. TrendForce projects China’s humanoid robot output growth could reach 94% in 2026, with Unitree and AgiBot expected to capture nearly 80% of shipments.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The MeanCEO Index scores practical bootstrapped founder opportunity from 1 to 10. The criteria are customer access, paid proof speed, capital intensity, technical risk, deployment friction, regulatory load, revenue clarity, and whether a small team can create value without manufacturing a complete humanoid robot.",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "in early 2024, down from $50,000 to $250,000 a year earlier — a 40% fall against the 15% to 20% annual decline its analysts had forecast. The floor has kept dropping since: BofA Global Research estimates a humanoid built on Chinese supply chains carried a bill of materials of about $35,000 in 2025, while pilot-stage Western development still runs $90,000 to $100,000 a unit.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "After 1.7 Billion in Revenue, the Market Starts Picking It Apart",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, Unitree generated 1.708 billion yuan in revenue, with humanoid robots contributing about 868 million yuan, or 51.8% of the total. Net profit attributable to shareholders was roughly 278 million yuan, while net profit after exclExcelland Roboticsng non-recurring gains and losses was about 590 million yuan.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "According to IPO prospectus data for the first three quarters of 2025, research and education accounted for 73.6% of Unitree's humanoid robot revenue, while commercial and consumer uses made up 17.4%, and industrial applications accounted for about 9%.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "A distinction on timing is necessary here: the 73.6% figure covers January to September 2025 and cannot be directly applied to the full-year humanoid robot revenue of 868 million yuan. Public materials have not yet fully disclosed whether the application structure shifted significantly during the rest of the year.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "A university buying a handful of robots for algorithm research carries a completely different commercial implication than an automaker calculating the return on investment and scaling an order from 20 units to 200.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "Its prospectus shows that the contribution of active customers to annual revenue rose from 61% in 2023 to 78% in 2025, and reached 86% in the first quarter of 2026. The average deployment per customer also increased from 7.2 units in 2023 to 13.2 units in 2025.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, the company generated approximately 318 million yuan in revenue. Of that, RaaS—or \"Robot as a Service\"—revenue was about 49.88 million yuan, accounting for 15.7%. Between 2023 and 2025, this revenue stream grew from 9.38 million yuan to 49.88 million yuan.",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "従業員約7,000名、売上$23億",
+    "url": "https://humanoidpress.jp/humanoid-robot-japan-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla Optimus量産開始・NVIDIA Robotics売上YoY+73%・Apptronik $5.2億Series A+・Galbot $30億評価・SoftBank ABB買収クロージングなど主要イベントを時系列で整理した投資家向けレポート",
+    "url": "https://humanoidpress.jp/humanoid-robot-japan-companies/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Unsurprisingly, humanoid robots—both as a physical construct and as a concept—have been around for quite a while. The Japanese have had their vibrant",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": ". South-Korean conglomerate Hyundai Motor Group holds an 80 % stake while Japan’s SoftBank retains the remaining 20 %.",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": ", a joint venture with Japanese appliance maker Iris Ohyama, and formed a strategic partnership with AMR specialist Syrius Technology to address warehouse automation across Asia.",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "that played trumpet and drums at the 2005 World EXPO in Aichi, Japan.",
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Retail robots are past the pilot stage: Pepper drove a documented 15% sales lift across 1,000+ Nestlé Japan stores, Simbe's Tally scans shelves in every BJ's Wholesale Club, and Agility's Digit moves goods in a Spanx warehouse. With hardware costs down about 40% since 2023, Goldman Sachs sees a $38 billion humanoid market by 2035.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Proof it sells: Pepper deployed across 1,000+ Nestlé Japan stores drove a documented 15% increase in Nescafé machine sales.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 1: Pepper at Nestlé Japan — 15% Sales Lift",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "are no longer a futuristic concept — they're actively reshaping how stores operate, how customers shop, and how retailers compete. From SoftBank's Pepper greeting customers at Nestlé stores in Japan to Agility Robotics' Digit handling logistics at Spanx warehouses, the retail robotics landscape in 2026 looks radically different from just two years ago.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Nestlé Japan:",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank's Pepper was deployed across more than 1,000 Nestlé Japan stores starting in 2014, making it one of the largest humanoid retail deployments in history. Pepper's role: recommend Nescafé Dolce Gusto machines to browsing customers using natural-language dialogue and emotion recognition.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "As of January 2026, notable deployments include: BJ's Wholesale (Simbe Tally for inventory), Amazon (Agility Digit for fulfillment), Nestlé Japan (SoftBank Pepper for sales), Denny's and Chili's (Bear Robotics Servi for food delivery), and numerous Chinese retailers piloting UBTECH and Unitree humanoids. Walmart, Kroger, and Target have all conducted robotics pilots of various scales.",
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese eldercare worker: $12–$18/hour",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "As robot costs continue falling, the economic pressure for adoption intensifies — particularly in regions with aging populations (Japan, South Korea, Germany) and tight labor markets.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Automakers' China Output Falls 32%, Lowest for April–September Since 2008",
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "pass": 3
+   },
+   {
+    "quote": "Tsukuba, Japan",
+    "url": "https://humanoidindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://humanoidindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese manufacturer of the Nextage dual-arm humanoid robot designed for flexible manufacturing assembly tasks alongsid",
+    "url": "https://humanoidindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Kobe, Japan",
+    "url": "https://humanoidindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese company building hyper-realistic humanoid androids for entertainment, retail, and reception applications across",
+    "url": "https://humanoidindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese industrial robotics company. NEXTAGE dual-arm humanoid has 100+ units deployed on real factory production lines",
+    "url": "https://humanoidindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://humanoid.guide/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://www.humanoidmegahub.com/companies",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (JA)",
+    "url": "https://ai-robotics.gmo/",
+    "pass": 3
+   },
+   {
+    "quote": "【日本最大級】GMOインターネットグループ、人型ロボット（ヒューマノイド）専用の大規模研究開発拠点「GMOヒューマノイド・ラボ 渋谷ショールーム」を10月6日（火）全面オープン 〜延床面積382坪の全フロアが稼働し、「フィジカルAIを、すべての人へ」を体現する日本最大級（※1）のフィジカルAI拠点が完成〜",
+    "url": "https://ai-robotics.gmo/",
+    "pass": 3
+   },
+   {
+    "quote": "日本一ヒューマノイドの",
+    "url": "https://ai-robotics.gmo/",
+    "pass": 3
+   },
+   {
+    "quote": "日本トップクラスの技術力",
+    "url": "https://ai-robotics.gmo/",
+    "pass": 3
+   },
+   {
+    "quote": "日本科学未来館にて、ヒューマノイドG1・案内ロボットの実証実験を行いました「未来をつくるラボ Open Day」",
+    "url": "https://ai-robotics.gmo/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー様・日本代理店お探しの企業様へ",
+    "url": "https://ai-robotics.gmo/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最強のホワイトハッカー集団",
+    "url": "https://ai-robotics.gmo/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人PQAがリードする品質管理室も設置しております",
+    "url": "https://ai-robotics.gmo/",
+    "pass": 3
+   },
+   {
+    "quote": "*本プレスリリースは2026年1月14日に発表されたプレスリリースの日本語版です",
+    "url": "https://counterpointresearch.com/jp/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace",
+    "pass": 3
+   },
+   {
+    "quote": "https://japan.counterpointresearch.com/",
+    "url": "https://counterpointresearch.com/jp/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド（人型ロボット）の台頭 | Global X Japan",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2638 – グローバルＸ ロボティクス＆AI-日本株式 ETF",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトは、Global X Japan株式会社により情報提供を目的として作成されたものです",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global X Japan株式会社は、Global X Management Company, Inc.、株式会社大和証券グループ本社、および大和アセットマネジメント株式会社の合弁会社です",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global X Japan株式会社の商品やサービスに関するお問い合わせは、次のアドレス宛のメールにてお願い申し上げます",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "以下の「確認」をクリックすると、日本国外の管轄区域を対象とした別のウェブサイトが表示されます",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global X Japan Co. Ltd.は、リンク先のウェブサイトに掲載されている情報、サービス、商品について責任を負いません",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトに掲載されている事項は、日本国内の居住者への証券投資一般等に関する情報提供を目的としたものであり、勧誘を目的としたものではありません",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの内容についての著作権は、Global X Japanその他当該情報の提供元に帰属しています",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "GLOBAL X FUNDS及びGLOBAL Xは、GLOBAL X社が世界各国（日本を除く）で設定・運用する上場投資信託を示す登録商標であり、個別商品を指すものではありません",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global X Japan株式会社",
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、高齢化社会への前例のない人口動態の変化により、サービスロボットを積極的に支援しており、ヒューマノイドロボット部品市場が拡大している",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本オフィス",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (JA)",
+    "url": "https://ai-robotics.gmo/blog/article/?id=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%EF%BC%88%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%81%AE%E8%B3%BC%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3",
+    "pass": 3
+   },
+   {
+    "quote": "国内代理店・販売店から買う",
+    "url": "https://ai-robotics.gmo/blog/article/?id=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%EF%BC%88%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%81%AE%E8%B3%BC%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3",
+    "pass": 3
+   },
+   {
+    "quote": "海外メーカーの人型ロボットの多くは 国内代理店経由で購入でき、Unitree G1などの研究・教育向け機種は 個人でも購入可能です",
+    "url": "https://ai-robotics.gmo/blog/article/?id=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%EF%BC%88%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%81%AE%E8%B3%BC%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3",
+    "pass": 3
+   },
+   {
+    "quote": "契約・支払い・問い合わせが日本語で完結し、 国内での修理・保守や輸入手続きの代行を受けられる一方、代理店 マージンが上乗せされる場合があります",
+    "url": "https://ai-robotics.gmo/blog/article/?id=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%EF%BC%88%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%81%AE%E8%B3%BC%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3",
+    "pass": 3
+   },
+   {
+    "quote": "「海外メーカーとの直接交渉は不安」「日本語で信頼できるところから 買いたい」という方に向けて、GMO AIRは「",
+    "url": "https://ai-robotics.gmo/blog/article/?id=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%EF%BC%88%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%81%AE%E8%B3%BC%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank RoboticsのPepperは、日本国内で広く知られている人型ロボットの一つです",
+    "url": "https://robotcloud.jp/media/archives/8984",
+    "pass": 3
+   },
+   {
+    "quote": "日本円での導入費用は為替レートによって変動するため注意が必要です",
+    "url": "https://robotcloud.jp/media/archives/8984",
+    "pass": 3
+   },
+   {
+    "quote": "公表価格を日本円に換算するだけでなく、国内で使い始めるまでの総額を確認することが重要です",
+    "url": "https://robotcloud.jp/media/archives/8984",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットクラウドを運営するメトロノーム株式会社は、フィットネス機器のレンタル・リース・サブスク「GYMCLOUD」で第三者調査（日本マーケティングリサーチ機構調べ）による複数項目1位の実績があります",
+    "url": "https://robotcloud.jp/media/archives/8984",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】ヒューマノイドロボット法人導入｜日本企業の価格・事例比較",
+    "url": "https://robotcloud.jp/media/archives/8984",
+    "pass": 3
+   },
+   {
+    "quote": "Figure AIの日本代理店はある？メーカー情報・Figure 02・03の国内取扱状況・導入方法を解説",
+    "url": "https://robotcloud.jp/media/archives/8984",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 02は日本導入できる？提供状況・Figure 03との違いを解説",
+    "url": "https://robotcloud.jp/media/archives/8984",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 02をリースで導入するには？提供状況・料金目安・日本での導入方法を解説",
+    "url": "https://robotcloud.jp/media/archives/8984",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (JA)",
+    "url": "https://gmo-humanoid.shop/cn/",
+    "pass": 3
+   },
+   {
+    "quote": "日本科学未来館にて、ヒューマノイドG1・案内ロボットの実証実験を行いました「未来をつくるラボ Open Day」",
+    "url": "https://gmo-humanoid.shop/cn/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "500",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "quote": "In 2025, global humanoid robot sales revenue exceeded $500 million, global revenue is expected to reach $4.4 billion in 2027, and more than 300 humanoid robot enterprises were active worldwide, according to"
+   },
+   {
+    "value": "4.4",
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "quote": "In 2025, global humanoid robot sales revenue exceeded $500 million, global revenue is expected to reach $4.4 billion in 2027, and more than 300 humanoid robot enterprises were active worldwide, according to"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://smprobotics.com/products_autonomous_ugv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thehumanoid.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.superdroidrobots.com/odm-oem-robots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.figure.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getproductiv.com/humanoid-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://counterpointresearch.com/en/insights/humanoid-robotics-leans-on-automotive-industry-for-future-growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotlab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neura-robotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://futurology.tech/pages/reseller-program-application",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotsinternational.com/Robot-Resellers.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bluestarinc.com/en-us/manufacturers/bear-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoidx.ca/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotseuropa.com/Robot-Resellers.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.packworld.com/trends/digital-transformation/article/22950203/humanoid-robots-in-packaging-part-1-continuous-upgrades-some-industry-adoption",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robot-magazine.fr/en/humanoid-as-a-service-the-next-step-in-industrial-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thehumanoidrace.com/news/one-robot-many-markets-how-humanoid-makers-rebrand-bundle-and-price-bipeds-for-l-mr08p9vg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/robotics/comments/1bnsujf/which_humanoid_robot_companies_are_poised_to_lead/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/startups/comments/1azjqwv/can_someone_explain_how_a_robotics_startup_that/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoidindex.org/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoid.guide/manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.humanoidmegahub.com/companies",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://updates.prototypecap.com/p/europes-top-humanoid-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evsint.com/ja/humanoid-robots-industrial-manufacturing-2026/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.gmo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://counterpointresearch.com/jp/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.gmo/blog/article/?id=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%EF%BC%88%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%81%AE%E8%B3%BC%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotcloud.jp/media/archives/8984",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-humanoid.shop/cn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoidpress.jp/humanoid-robot-japan-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "humanoid robot software white label",
+   "results": [
+    "https://smprobotics.com/products_autonomous_ugv/",
+    "https://thehumanoid.ai/",
+    "https://www.superdroidrobots.com/odm-oem-robots",
+    "https://www.figure.ai/",
+    "https://getproductiv.com/humanoid-robotics",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://www.robotlab.com/industries/higher-ed/",
+    "https://www.humanoidmegahub.com/companies",
+    "https://www.youtube.com/watch?v=qGBGUOz4Xlk",
+    "https://ui44.com/blog/white-label-humanoid-robots-body-brain-service-network"
+   ]
+  },
+  {
+   "query": "humanoid robot software OEM white-label partner",
+   "results": [
+    "https://www.superdroidrobots.com/odm-oem-robots",
+    "https://smprobotics.com/products_autonomous_ugv/",
+    "https://counterpointresearch.com/en/insights/humanoid-robotics-leans-on-automotive-industry-for-future-growth",
+    "https://www.robotlab.com/",
+    "https://neura-robotics.com/",
+    "https://getproductiv.com/humanoid-robotics",
+    "https://thehumanoid.ai/",
+    "https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain",
+    "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "https://www.bxirobotics.com/custom-robot-oem"
+   ]
+  },
+  {
+   "query": "humanoid robot software reseller partner program",
+   "results": [
+    "https://futurology.tech/pages/reseller-program-application",
+    "https://www.robotsinternational.com/Robot-Resellers.htm",
+    "https://www.bluestarinc.com/en-us/manufacturers/bear-robotics",
+    "https://humanoidx.ca/partners",
+    "https://www.robotseuropa.com/Robot-Resellers.htm",
+    "https://m.bluefrogrobotics.com/partners/",
+    "https://group.gmo/en/news/article/851/",
+    "https://humanoidroboticstechnology.com/news/humanoid-and-schaeffler-enter-a-strategic-technology-partnership/",
+    "https://www.youtube.com/watch?v=k2Y_lc_7DKk",
+    "https://www.booster.tech/partnership/"
+   ]
+  },
+  {
+   "query": "humanoid robot SaaS rebrand private label",
+   "results": [
+    "https://thehumanoid.ai/",
+    "https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/",
+    "https://www.figure.ai/",
+    "https://www.packworld.com/trends/digital-transformation/article/22950203/humanoid-robots-in-packaging-part-1-continuous-upgrades-some-industry-adoption",
+    "https://www.facebook.com/cheddar/videos/humanoid-robots-are-no-longer-being-built-just-for-businessestheyre-making-their/3042877952575590/",
+    "https://www.facebook.com/AshleyDudarenok/posts/-humanoid-robots-are-quietly-moving-from-assembly-lines-to-hotel-lobbies-retail-/1456704322928882/",
+    "https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/",
+    "https://www.robot-magazine.fr/en/humanoid-as-a-service-the-next-step-in-industrial-robotics/",
+    "https://blog.robozaps.com/b/humanoid-robots-in-retail",
+    "https://thehumanoidrace.com/news/one-robot-many-markets-how-humanoid-makers-rebrand-bundle-and-price-bipeds-for-l-mr08p9vg"
+   ]
+  },
+  {
+   "query": "humanoid robot software company profitable EBITDA",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "https://www.youtube.com/watch?v=9UcOyXcbtsQ",
+    "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+    "https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/",
+    "https://www.reddit.com/r/robotics/comments/1bnsujf/which_humanoid_robot_companies_are_poised_to_lead/",
+    "https://theroboticlife.com/humanoid-funding-vs-revenue/",
+    "https://dealroom.co/resources/humanoid-robotics/",
+    "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "https://manbotai.com/ai-robot/robotics-earnings-2026-financial-analysis",
+    "https://www.humanoidsdaily.com/features/the-great-valuation-chasm-a-2025-guide-to-the-humanoid-robotics-capital-race"
+   ]
+  },
+  {
+   "query": "humanoid robot software bootstrapped profitable revenue",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money",
+    "https://www.instagram.com/reel/DewHKScjWmC/",
+    "https://www.reddit.com/r/startups/comments/1azjqwv/can_someone_explain_how_a_robotics_startup_that/",
+    "https://blog.mean.ceo/humanoid-robotics-startup-statistics/",
+    "https://www.youtube.com/watch?v=9UcOyXcbtsQ",
+    "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721",
+    "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "https://www.facebook.com/newsplusth/posts/humanoid-robots-sell-big-but-only-advanced-ai-ones-profit/1560797729423834/",
+    "https://www.mexc.com/learn/article/unitree-ipo-fundamentals-is-unitree-profitable-revenue-robot-sales-margins-and-r-d-explained/1"
+   ]
+  },
+  {
+   "query": "humanoid robot software vendors Europe Israel Germany white label",
+   "results": [
+    "https://neura-robotics.com/",
+    "https://humanoidindex.org/companies",
+    "https://humanoid.guide/manufacturers/",
+    "https://www.humanoidmegahub.com/companies",
+    "https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/",
+    "https://updates.prototypecap.com/p/europes-top-humanoid-companies",
+    "https://smprobotics.com/products_autonomous_ugv/",
+    "https://www.eu-startups.com/2026/08/10-startups-shaping-our-robotic-future/",
+    "https://robomap.co/blog/humanoid-robot-makers-in-europe",
+    "https://www.originofbots.com/articles/top-9-european-humanoid-companies-to-watch-in-2026-2027"
+   ]
+  },
+  {
+   "query": "人型ロボット ソフトウェア OEM 提供",
+   "results": [
+    "https://www.evsint.com/ja/humanoid-robots-industrial-manufacturing-2026/",
+    "https://ai-robotics.gmo/",
+    "https://counterpointresearch.com/jp/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace",
+    "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market",
+    "https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/001_03_00.pdf",
+    "https://note.com/veltrea/n/n4a03dfce290a",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2025/02/07/2501btf_tsuji_matsuura.pdf",
+    "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "https://robodk.com/ja/OEM"
+   ]
+  },
+  {
+   "query": "人型ロボット ソフト 代理店 海外製",
+   "results": [
+    "https://ai-robotics.gmo/blog/article/?id=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%EF%BC%88%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%81%AE%E8%B3%BC%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3",
+    "https://robotcloud.jp/media/archives/8984",
+    "https://gmo-humanoid.shop/cn/",
+    "https://humanoidpress.jp/humanoid-robot-japan-companies/",
+    "https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "https://prtimes.jp/main/html/rd/p/000005404.000000136.html",
+    "https://www.youtube.com/watch?v=Hpwzhfja7SQ",
+    "https://www.itmedia.co.jp/news/article/2606/19/1260619118/",
+    "https://36kr.jp/502670/",
+    "https://humanoidrobot-world.com/humanoid/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1820 @@
+{
+ "name": "産業用ドローン",
+ "en": "commercial drone",
+ "aliases": [
+  "ドローン",
+  "無人航空機"
+ ],
+ "context": "6 航空・宇宙 ②無人航空機",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:15:33.304081+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Agricultural service providers",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Established service providers scaling nationally; need firmware control & regulatory traceability",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "While DJI dominates consumer markets, its official white label programs remain limited and tightly controlled. For B2B users, alternatives offer better balance of openness and compliance:",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Top praise",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "No. DJI “clone” drones (e.g., Specta or Anzu units marketed as DJI-compatible) are unauthorized replicas—not certified white label products. They lack regulatory traceability, firmware support, and liability coverage. True white label partnerships involve formal OEM agreements and documentation.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "It depends on the OEM’s openness. Platforms like ModalAI and Skydio provide well-documented APIs and SDKs. Others restrict access to proprietary cloud portals. Always verify API availability and documentation depth *before* signing.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Topic guides",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "top of page",
+    "url": "https://www.droneharmony.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "We partner with leading technology companies, drone manufacturers, and resellers worldwide to provide better solutions to more users.",
+    "url": "https://www.droneharmony.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Bentley Systems is a leading software provider for the infrastructure industry and the owner of ContextCapture, a state of the art Reality Modelling and Photogrammetry solution.",
+    "url": "https://www.droneharmony.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Airdata is one of the leading flight data platforms for drones, providing detailed information about executed flights, drone health and much more.",
+    "url": "https://www.droneharmony.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "...By Topic",
+    "url": "https://www.commercialuavnews.com/webinars/5-steps-to-building-a-powerful-brand-for-your-drone-business",
+    "pass": 3
+   },
+   {
+    "quote": "Are you struggling to make your drone business stand out in the crowded UAV market? Do you find it challenging to attract and retain clients despite having top-notch services? Join us for an exclusive webinar, \"5 Steps to Building a Powerful Brand for Your Drone Business,\" and discover the secrets to transforming your brand into a magnet for success.",
+    "url": "https://www.commercialuavnews.com/webinars/5-steps-to-building-a-powerful-brand-for-your-drone-business",
+    "pass": 3
+   },
+   {
+    "quote": "to reach $12.51 billion. That combination of hardware sales, recurring software revenue, autonomous systems, data services and Drone-as-a-Service models creates multiple avenues for companies to turn rapidly expanding drone adoption into substantial revenue growth. Leading Tech Companies on the move today include:",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Platinum Trade Alerts - Providing Top Tier Stock News",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Advancing ZenaDrone 1000 and IQ Series products through development stages, Blue UAS process advancement leading to Blue UAS certification and procurement list ready, and engagement with U.S. defense agencies leading to additional demonstration requests leading to customer pilots and contracts.",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "the world's leading advanced air mobility (\"AAM\") technology platform company, late last month",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Trending Topics",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "The one-stop drone solution，vertical take off and landing, full-automatic operation, easy to use.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "This top tier is reserved for capital-intensive, industrial-grade applications. This is the domain of precision agriculture spraying, large-scale infrastructure inspection using LiDAR, and sophisticated aerial cinematography for major productions.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Research Local Rates: Check competitors’ websites or ask clients what they pay—but don’t match the cheapest option. Highlight your value (e.g., “FAA-certified + 5 years of real estate experience”) to justify higher prices.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "10 Top Profitable Drone Business Ideas in 2026",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tip: Get a Certified Drone Inspector (CDI) credential—clients trust certified providers more.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Drone mapping services can produce far more than aerial photos—orthomosaics, 3D models, point clouds, and elevation data that feed directly into GIS, CAD, and BIM workflows. But ask three providers to",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2010, JOUAV focused on the R&D, production, sales, and service of industrial drones, leading and promoting the application of the VTOL fixed-wing UAVs.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "What competitors miss about this niche:",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Drone photogrammetry produces survey-grade orthomosaics, digital elevation models, and 3D point clouds that serve civil engineers, land developers, mining companies, and government agencies. This is one of the most technically demanding niches but also one of the most defensible because the learning curve keeps casual competitors out.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "$10,000 to $25,000. High-resolution zoom cameras (at least 45MP) are essential for detecting hairline cracks from a safe distance. Automated blade inspection software from providers like Aerones or SkySpecs adds processing capability.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Solar farms and commercial rooftop installations require regular thermal inspections to detect hotspots, micro-cracks, soiling patterns, and underperforming cells. As installed solar capacity grows, so does the demand for efficient inspection services.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "$0.02 to $0.05 per watt of installed capacity for utility-scale farms. A 100MW solar farm inspection pays $2,000 to $5,000. Commercial rooftop systems run $300 to $800 per inspection.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "$5,000 to $15,000. You need training drones (ideally multiple models), a curriculum, liability insurance covering student operations, and a marketing presence. Online course platforms like Teachable or Thinkific cost $50 to $100 per month.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "This is the work that separates a freelancer with a drone from a scalable business. Platforms like",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "provides access to top-grade agricultural drones without the stress of owning one outright. Just focus on your bookings.",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller customer and installed bases compared with leading established players.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "QinetiQ Target Systems is a world-leading provider of uncrewed air and surface autonomous platforms. The company supports national security objectives by delivering advanced target systems and training solutions. Designed and developed for threat representation, its products help ensure operational readiness for militaries around the world.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Commtact’s end-to-end solutions support line-of-sight (LOS), beyond-line-of-sight (BLOS), relay, point-to-point (PtP), and SMART MESH topologies.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Mobilicom is a leading provider of cybersecure robust solutions for the rapidly growing defense and commercial drones and robotics market. The company’s large portfolio of field-proven technologies includes cybersecurity, software, hardware, and professional services that power, connect, guide, and secure drones and robotics.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "We work closely with leading defense integrators and industry partners to deliver mission-ready capabilities that help customers address evolving threats.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "By connecting market-leading design, emulation, and test solutions across the full life cycle, Keysight helps engineering teams accelerate innovation, reduce risk, and bring new technologies to market faster.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "ASIO is a leading provider of combat solutions for tactical forces, delivering advanced systems that ensure operational independence and self-sufficiency for frontline units.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "RapidWings currently serves leading defense manufacturers in Israel and operates tooling service centers in Portland, Oregon, and Barcelona, Spain, with plans for further international expansion.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Materion Precision Optics is a leading provider of high-performance optical components and coatings, specializing in advanced solutions for defense and aerospace applications. We deliver high-performance optical components that are engineered to withstand harsh environments and deliver exceptional clarity and reliability for detection, tracking, and targeting systems.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "We are an air operator company certified by the Israeli Civil Aviation Authority. We are a leading air operator delivering cutting-edge airborne solutions.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Simlat is a leading provider of innovative, next-generation training solutions for unmanned aerial systems (UAS). These training systems enable training for any platform, payload, and mission. Simlat’s systems provide an astounding UAS training experience that boosts performance and safety while dramatically decreasing risk and expenses.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Eastronics is a leading Israeli company in the sales, marketing, service and support of high-tech products, with an efficient Design-In/Demand Creation operation and embedded systems integration services.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Stop by our booth to see platform demos, explore our custom sensor integration capabilities, and discover how our AS9100-certified tactical fleet, ranging from perimeter micro-drones to heavy-lift utility systems, can transform your ISR, logistics and overwatch operations.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "The world’s leading developer of tactical MANET communication systems, Silvus is reshaping wireless connectivity for mission-critical applications on the ground, in the air, and at sea. Silvus StreamCaster MANET radios deliver high-fidelity video, voice, and IP data communications with class-leading power, range, and mobility.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2012, CTI has since established itself as a leading designer and manufacturer of combat-proven computing solutions for manned and unmanned platforms.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1998 by battery expert David Danino, Tamuz is based in Israel, with branches in China and Germany, and serves leading companies in defense, security, industrial, medical, and telecom sectors, as well as government agencies across Israel, Europe, Asia, India, Canada, and the USA.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "サステナビリティTOP",
+    "url": "https://www.access-company.com/products/dx-iot/drone/",
+    "pass": 3
+   },
+   {
+    "quote": "KLAU PPK-J Desktop（精度ばちばち君）",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "PAGE TOP",
+    "url": "https://sekidocorp.com/industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Try Virtual Flight online for free, and enjoy convenient one-stop device services.",
+    "url": "https://www.dji.com/products/enterprise",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label Drones Guide: How to Choose Wisely",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "start with pre-integrated, certified white label platforms built for your industry use case, not generic hardware",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "About White Label Drones",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "—include full OEM documentation, type-specific certifications, and configurable branding interfaces.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Why White Label Drones Are Gaining Popularity",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": ". As one Brazilian agritech distributor noted: “Our farmers don’t care about IMU calibration—we sell outcomes: 12% less pesticide use, verified by our branded app.” That outcome-driven model is why white label drone platforms now dominate B2B supply chains in precision agriculture, where 60% of Gohobby’s revenue comes from white label-manufactured units",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "OEM White Label Programs",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": ": Full-stack partnerships (e.g., ModalAI, Skydio offering white-label options for defense and civilian applications",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": ": Turnkey bundles (e.g., CloudVisual, Launch Imagery). Hardware + software + support packaged under your brand. Faster time-to-market; streamlined integration options.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Standardized Rebranding Options",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": ": Pre-certified hardware platforms available for rebranding with configurable interfaces and documented compliance pathways. Designed for marketing-aligned deployments with operational flexibility.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": ": Regulatory compliance, data sovereignty, and long-term firmware support. These benefit from direct OEM engagement.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": ": Is the airframe certified under local UAS class identification (e.g., C1/C3 in EU, ANAC Class 2 in Brazil)? Does the OEM provide Declaration of Conformity documents?",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Shared certification burden: OEM handles airworthiness validation, reducing your legal exposure.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": ": Your go-to-market timeline and compliance accountability. White label makes sense if you need to launch before Q3 and operate under strict liability frameworks.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Are you struggling to make your drone business stand out in the crowded UAV market? Do you find it challenging to attract and retain clients despite having top-notch services? Join us for an exclusive webinar, \"5 Steps to Building a Powerful Brand for Your Drone Business,\" and discover the secrets to transforming your brand into a magnet for success.",
+    "url": "https://www.commercialuavnews.com/webinars/5-steps-to-building-a-powerful-brand-for-your-drone-business",
+    "pass": 3
+   },
+   {
+    "quote": "Don’t miss this opportunity to gain the knowledge and tools you need to build a powerful brand for your drone business. Register now and take the first step towards transforming your brand and achieving greater success in the UAV industry!",
+    "url": "https://www.commercialuavnews.com/webinars/5-steps-to-building-a-powerful-brand-for-your-drone-business",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2008 and headquartered in Tirat Carmel, Israel, the company specializes in translating raw visual data into real-time situational awareness. The company operates extensively as a developer of advanced imaging and electro-optic payloads for white-label or \"blank branding\" integration by international defense and security partners.ה",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Eastronics is a leading Israeli company in the sales, marketing, service and support of high-tech products, with an efficient Design-In/Demand Creation operation and embedded systems integration services.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & ODM DJI DRONE PAYLOADS FACTORY | foxtech",
+    "url": "https://www.foxtechuav.com/ja/dji-payloads.html",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": ": Offering crop health mapping, variable-rate spraying, or yield estimation under their own brand;",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": ". As one Brazilian agritech distributor noted: “Our farmers don’t care about IMU calibration—we sell outcomes: 12% less pesticide use, verified by our branded app.” That outcome-driven model is why white label drone platforms now dominate B2B supply chains in precision agriculture, where 60% of Gohobby’s revenue comes from white label-manufactured units",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller-Integrated Platforms",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller-Integrated Platform",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "From contract to first flight: 4–8 weeks for reseller-integrated platforms; 12–20 weeks for OEM white label programs. Factor in additional time for pilot certification (ANAC/EASA/FAA) and internal SOP development.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Factory Wholesale Beginner E88 Pro Foldable Mini Plastic",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale Programmable",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Partner program",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Optelos is a visual data management and AI analytics platform that converts visual and sensor inspection data into useful insights. Its patented technology combines and organizes inspection data from various sources into a user-friendly and searchable database for detailed analysis, image modeling, and integration with enterprise systems.",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "We partner with leading technology companies, drone manufacturers, and resellers worldwide to provide better solutions to more users.",
+    "url": "https://www.droneharmony.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "As a wholesaler, Alltron supplies Swiss specialist retailers, integrators, installers, and is the distributor of DJI drones in Switzerland.",
+    "url": "https://www.droneharmony.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "This is a paid press release. Contact the press release distributor directly with any inquiries.",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Closing the Company's signed acquisition offers and continuing to integrate acquired survey, inspection and power washing businesses into drone-based delivery to support reduced cost per survey and per job, while increasing capacity, geographic reach, and margin expansion, as well as additional services such as data analytics and centralized fast analytics processing.",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Typical Profit Margins in Drone Businesses",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Like any business, profitability comes down to revenue versus expenses. For drone entrepreneurs, margins are generally strong when managed wisely:",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gross Margin (before overhead): 50% – 70%",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Net Margin (after all expenses): 20% – 40%",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "generates $20,000 in monthly revenue and you operate at a 60% gross margin, you’re left with $12,000 in gross profit. After factoring in rent, marketing, and insurance, a 30% net margin means about $6,000 net profit per month.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Earnings vary widely depending on your specialization, pricing, and operational efficiency. Let’s look at three scenarios:",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$10,000/month → Net Profit: ~$2,000 (20% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$25,000–$30,000/month → Net Profit: ~$7,500 (30% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$150,000–$200,000/month → Net Profit: ~$40,000–$50,000 (25–50% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Absolutely. With relatively low startup costs compared to industries like aviation or construction, strong service demand across multiple sectors, and the potential for high margins, drone businesses can be lucrative.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Before you fly a single commercial mission, nailing down legal compliance is non-negotiable—rules vary by country, and cutting corners here can lead to fines, seized equipment, or even lost contracts. Below’s a breakdown of core requirements for the U.S., plus a regional guide for South Africa, India, and the UK to cover global launch plans.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, many drone entrepreneurs start part-time to reduce risk. Focus on low-effort, high-margin niches, such as real estate photography (1-2 projects/week) or event videography (weekends only). You can scale to full-time once you hit $3,000-$5,000/month in consistent revenue.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profitability in a drone business comes from three factors working together: high per-job margins, repeatable demand from the same clients, and low operational overhead between jobs. Most guides skip this and jump straight to listing niches. That is a mistake, because the niche matters far less than how you execute within it.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "The cost of software is highly variable.",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Drone Partner Programme",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "As a dealer, selling 2–3 drones per month generates healthy margins. Demo sessions at village or agri-expos can earn",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "By enterprise size: Large enterprises segment held the largest market revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By fleet size: Small fleet segment led the market with the largest revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By functionality: Fleet tracking & monitoring segment held the largest market revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: Agriculture segment led the market with the largest revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Largest regional market: North America (38.5% revenue share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "INET Electronics and Trade combines expert engineering with market-savvy sales to deliver tailored imaging solutions. Specializing in camera modules, lenses, displays, imaging sensors, and hardware, we serve a variety of diverse industries such as medical, security, industrial, AR/VR, and IOT.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Established in 1955, Eastronics is the largest local high-tech distributor in Israel.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "調べてみると、製品ページは残っていても正規代理店か分かりにくい、国内の取扱情報が数年前で止まっている、といった例もありました",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "特定の販売店・代理店を推奨する記事ではないため、",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "購入をご検討の際は、メーカー公式サイトの代理店一覧などでご確認ください",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "国内正規代理店の問い合わせページ",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "DroneTribune 国内代理店に関する報道",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Flyability Distributors",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "XAG日本総代理店サイト",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "正規代理店・修理窓口・代替機",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "正規代理店、修理窓口、部品供給、代替機、ソフトウェアの継続性を確認し、機体・電池・ペイロード・保険・教育まで含めた5年間の総額で比較してください",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "一部は取扱継続を確認できていないため、購入前にメーカー公式の代理店一覧と現行機種をご確認ください",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー公式の代理店一覧に販売店が掲載されているか、紹介されている機種が現行世代かを確認してください",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ドローンを選ぶときはメーカーや代理店に相談する",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "このように、産業用ドローンは一般的なドローンよりも高価になるため、代理店やメーカーによってはレンタルサービスを用意しているケースがあります（民間サービスでもドローンレンタルサービスがあります）",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "購入を検討するときにはメーカーや代理店に相談し二人三脚で導入を進めることが多い",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "①代理店やメーカーに問い合わせする",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ドローンの導入を検討している代理店やメーカーに問い合わせをする",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "代理店やメーカーによっては契約前にデモ飛行や体験を行いドローン操縦を体験できるケースがある",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "代理店やメーカーによっては産業用ドローンの納品前に使い方や操縦方法のトレーニングを取り入れている",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "代理店やメーカーから産業用ドローンを納品してもらう",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ドローンの代理店やメーカーを決めるときに、",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "このように、産業用ドローンの耐用年数は一概には言えないので、代理店やメーカーに相談をしてみてください",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "ACSLの米国子会社、産業用ドローン販売代理店Drone Nerdsと販売店契約を締結 - ドローンジャーナル",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "pass": 3
+   },
+   {
+    "quote": "ACSLの米国子会社、産業用ドローン販売代理店Drone Nerdsと販売店契約を締結",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月には販売代理店であるExertis AlmoからSOTEN500機の注文を受けている",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": ". As one Brazilian agritech distributor noted: “Our farmers don’t care about IMU calibration—we sell outcomes: 12% less pesticide use, verified by our branded app.” That outcome-driven model is why white label drone platforms now dominate B2B supply chains in precision agriculture, where 60% of Gohobby’s revenue comes from white label-manufactured units",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Faster time-to-revenue: Go from contract signing to first client delivery in ≤8 weeks.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": ": “We launched our inspection division in 6 weeks—no pilot hiring delays,” “Firmware updates arrive same-day as OEM release,” “ANAC documentation was plug-and-play.”",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. ANAC requires all commercial VANT operators to register, certify pilots (if aircraft exceeds 250g), and carry liability insurance—regardless of whether the drone is white label, private label, or OEM-branded. White label status simplifies airframe compliance but doesn’t waive operator obligations.",
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "pass": 3
+   },
+   {
+    "quote": "- The drone industry is moving from a niche technology market into a major revenue-generating technology platform, with commercial, industrial, public-safety and defense applications expanding at the same time. A 2026 market",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "to reach $12.51 billion. That combination of hardware sales, recurring software revenue, autonomous systems, data services and Drone-as-a-Service models creates multiple avenues for companies to turn rapidly expanding drone adoption into substantial revenue growth. Leading Tech Companies on the move today include:",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Reports 425% First Half and 316% Second-Quarter Year-Over-Year Revenue Growth as Drone as a Service Segment Continues to Scale",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Company delivers its seventh consecutive quarter of revenue growth, advances defense product portfolio, and joins the Russell 3000® Index",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Signed offers to acquire multiple additional land survey and geospatial services companies across the U.S., Canada and Australia, expected to collectively contribute approximately C$40 million in revenue to our DaaS business during the first 12 months following a completed closing",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Total revenue for the second quarter of 2026 was $9.3 million, an increase of 316% compared to $2.2 million for the second quarter of 2025, and $17.7 million for the six months ended June 30, 2026, an increase of 425% compared to $3.4 million for the same period of 2025",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Company reported a net loss of $22.5 million during the quarter reflecting its strategy to invest in laying a strong global foundation for its AI Autonomy drone platforms enabling capability to scale DaaS services and revenue, and future government and defense customer pilots and contracts.",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Total revenues were RMB77.9 million (US$11.5 million), representing a significant increase of 203.5% from RMB25.7 million in the first quarter of 2026, and a decrease of 31.3% from RMB113.3 million in the second quarter of 2025.",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Record revenue for the first quarter of $480.5 million, up 6% year-over-year",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Generate nearly $500 million in tax revenue for U.S. states",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "generates $20,000 in monthly revenue and you operate at a 60% gross margin, you’re left with $12,000 in gross profit. After factoring in rent, marketing, and insurance, a 30% net margin means about $6,000 net profit per month.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$10,000/month → Net Profit: ~$2,000 (20% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$25,000–$30,000/month → Net Profit: ~$7,500 (30% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$150,000–$200,000/month → Net Profit: ~$40,000–$50,000 (25–50% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "A drone like the DJI Mini 4 Pro or DJI Air 3 serves as the core of this setup, typically costing between $1,000 and $1,700. The remaining budget is allocated to indispensable accessories, including extra batteries, a sturdy carrying case, memory cards, and basic liability insurance.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Agriculture: A drone built for spraying or multispectral imaging—e.g., DJI Agras T40 ($14,500) for spraying crops, or Parrot Bluegrass Fields ($3,299) for crop health surveys.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Financial Projections: Estimate monthly costs (insurance: $100, software: $50, gear maintenance: $200) and set revenue goals. For example: “To break even, I need 5 real estate shoots/month at $200 each.”",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Be On Time and Prepared: Arrive 15 minutes early to shoots, test your drone beforehand, and bring extra batteries. If weather delays a flight, notify the client immediately—communication builds trust.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": ", which carries 10 kg for 55 minutes).",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, many drone entrepreneurs start part-time to reduce risk. Focus on low-effort, high-margin niches, such as real estate photography (1-2 projects/week) or event videography (weekends only). You can scale to full-time once you hit $3,000-$5,000/month in consistent revenue.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Real estate aerial photography remains the most accessible entry point for new drone businesses because the demand is consistent and the barrier to entry is low. Agents in most metro areas now consider aerial photos standard for listings above $400,000.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Construction companies use drone data to track progress, verify earthwork volumes, create 3D site models, and document conditions for dispute resolution. This niche offers some of the highest recurring revenue potential because projects run for months or years.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "$500 to $2,000 per survey day. Multi-year monitoring contracts with government agencies can provide stable baseline revenue of $50,000 to $100,000 annually.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Tracking proposals, contracts, scheduled flights, deliverables, and payments across 20 or 30 active clients requires more than email and memory. CRM tools designed for service businesses keep revenue from falling through the cracks.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "If you have $3,000, start with real estate photography or event videography. If you have $15,000, inspection services and mapping open up. If you have $50,000 or more, agricultural spraying and specialized industrial work become viable. Match your niche to your budget and scale up from revenue rather than debt.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "4. Recurring revenue potential.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "1 MW arrays in 30 minutes",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "By enterprise size: Large enterprises segment held the largest market revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By fleet size: Small fleet segment led the market with the largest revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By functionality: Fleet tracking & monitoring segment held the largest market revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: Agriculture segment led the market with the largest revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Largest regional market: North America (38.5% revenue share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2026, FlytBase partnered with Yarra Drones to support compliant autonomous drone operations and unmanned traffic management services in Australia. The collaboration is intended to support Australian drone operators as BVLOS operations expand, strengthening FlytBase’s capabilities in autonomous fleet management, airspace integration, and scalable remote drone operations.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "This report forecasts revenue growth at global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2021 to 2033. For this study, Grand View Research has segmented the global drone fleet management software market report based on deployment mode, enterprise size, fleet size, functionality, end use, and region.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment Mode Outlook (Revenue, USD Billion, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Size Outlook (Revenue, USD Billion, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fleet Size Outlook (Revenue, USD Billion, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Functionality Outlook (Revenue, USD Billion, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "End Use Outlook (Revenue, USD Billion, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook (Revenue, USD Billion, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CopterPIX Pro is the next evolution in tactical multirotor capabilities. Standard drones force a compromise between endurance and payload weight; we don’t. Built on combat-proven Israeli engineering and our patented Parallel Hybrid Architecture, our unmanned aerial platforms deliver up to 4× the flight endurance of standard quadcopters while carrying heavy, mission-critical payloads.",
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "pass": 3
+   },
+   {
+    "quote": "Platform 1（Sparrow）、P2",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "5. Parrot（フランス）",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Platform 1（Sparrow）",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "The style and specifications of the DJI X-PORT carrying case is the same as that of the H20T carrying case, enabling secure storage and easy transportation of third-party payloads.",
+    "url": "https://www.dji.com/products/enterprise",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Premium plan $24/seat/month (with free trial period)",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $329/month, billed annually (with a free 14-day trial)",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Custom pricing (with a free 30-day trial)",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "€7.95 (~$8.40)/month, billed annually (with a free 30-day trial)",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $25/drone/month (with free trial)",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $2.99/month (with a free trial)",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $10/month (with a free trial)",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $6.95/user/month (with a free 2 months trial)",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $24/month, billed annually",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$24/user/month*",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$329/month*",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "€7.95 (~$8.40)/month*",
+    "url": "https://mitti.com/apps/drone-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "generates $20,000 in monthly revenue and you operate at a 60% gross margin, you’re left with $12,000 in gross profit. After factoring in rent, marketing, and insurance, a 30% net margin means about $6,000 net profit per month.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Struggling Drone Business Owner (~$2,000/month)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$10,000/month → Net Profit: ~$2,000 (20% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Average Drone Business Owner (~$7,500/month)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$25,000–$30,000/month → Net Profit: ~$7,500 (30% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exceptional Drone Business Owner (~$50,000/month)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$150,000–$200,000/month → Net Profit: ~$40,000–$50,000 (25–50% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Editing: Adobe Premiere Pro ($24.99/month) for video, or Lightroom ($9.99/month) for photos—clients expect polished deliverables, not raw footage.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance: DroneLogbook ($19.99/month) to log flights—required by the FAA (U.S.) and CAA (UK) for audits.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "5. Build a Clear Business Plan and Pricing Model",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Financial Projections: Estimate monthly costs (insurance: $100, software: $50, gear maintenance: $200) and set revenue goals. For example: “To break even, I need 5 real estate shoots/month at $200 each.”",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hourly vs. Project-Based: Use hourly rates ($150–$250 for photography, $500–$750 for inspections) for short, simple jobs. For longer projects (e.g., a 2-week construction site monitoring gig), use project-based pricing ($1,500–$3,000) to avoid under-earning if the work takes longer.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "complete 2026 guide to drone services pricing",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "$2,000 to $5,000. A DJI Mini 4 Pro or Air 3 handles most residential work. You will need editing software (Adobe Lightroom and Premiere Pro at $55/month), a portfolio website, and business cards.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "$500 to $1,200 per tower inspection. Multi-tower contracts covering 50 to 200 sites per month can generate $200,000 to $500,000 annually for operators with the right relationships and capacity.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "$5,000 to $15,000. You need training drones (ideally multiple models), a curriculum, liability insurance covering student operations, and a marketing presence. Online course platforms like Teachable or Thinkific cost $50 to $100 per month.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "; a single operator can cover 10 acres per day, 20 days per month, earning ₹80,000–120,000 per month.",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "As a dealer, selling 2–3 drones per month generates healthy margins. Demo sessions at village or agri-expos can earn",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "each; AMC/spares support yields ₹10,000–20,000 per month.",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "₹400–600 per acre yield ₹ 80,000–1.2 lakh per month",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Net Income of $6.7 million compared to a net loss of $11.8 million in Q2 2025",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA* of $28.1 million compared to Adjusted EBITDA* of $3.6 million in Q2 2025",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to Start a Drone Business in 2026: Costs, Profit & Steps - JOUAV",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to Start a Drone Business in 2026: Costs, Profit & Steps",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "A proven plan that shows you what it takes to get certified, how much it costs to start, which niches are the most profitable, and the exact steps to land paying clients.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Is Starting a Drone Business Profitable in 2026?",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "The short answer: yes—starting a drone business in 2026 can be highly profitable. The long answer is that profitability depends on your chosen niche, startup costs, location, and how well you market your services.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Typical Profit Margins in Drone Businesses",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Like any business, profitability comes down to revenue versus expenses. For drone entrepreneurs, margins are generally strong when managed wisely:",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "generates $20,000 in monthly revenue and you operate at a 60% gross margin, you’re left with $12,000 in gross profit. After factoring in rent, marketing, and insurance, a 30% net margin means about $6,000 net profit per month.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$10,000/month → Net Profit: ~$2,000 (20% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$25,000–$30,000/month → Net Profit: ~$7,500 (30% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: ~$150,000–$200,000/month → Net Profit: ~$40,000–$50,000 (25–50% margin)",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "So, is starting a drone business profitable in 2026?",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "10 Top Profitable Drone Business Ideas in 2026",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Once you pass, you’re legally allowed to fly drones for commercial purposes. Without this license, flying drones for profit is illegal, and you risk fines, losing clients, and even legal action.",
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "Drone Business Ideas: 15 Profitable Niches for Commercial Operators in 2026 | DroneBundle Blog",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Drone Business Ideas: 15 Profitable Niches for Commercial Operators in 2026",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "What makes a drone business idea actually profitable",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Profitability in a drone business comes from three factors working together: high per-job margins, repeatable demand from the same clients, and low operational overhead between jobs. Most guides skip this and jump straight to listing niches. That is a mistake, because the niche matters far less than how you execute within it.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "What is the most profitable drone business?",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Launch a profitable drone business with this comprehensive guide covering FAA certification, service niches, equipment, pricing, client acquisition, and operations management.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "How to Build a Drone Inspection Business: Complete Guide to Starting a Profitable Inspection Service in 2025",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Launch a profitable drone inspection business with this comprehensive guide covering market opportunities, equipment requirements, pricing strategies, client acquisition, and operations management for inspection services.",
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Profitable Drone Business Ideas for 2025 - Leher",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Profitable Drone Business Ideas for 2025",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "This blog breaks down profitable drone business ideas that work in 2025, what they cost to start, how much you can make, and where demand is headed. If you’re looking to turn your drone skills (or interest) into a steady income, you’ll find clear insights right here.",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the Most Profitable Drone Business Ideas in 2025?",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Drone repairs and part replacements are increasingly profitable, with low setup costs but high demand. Low startup investment meets rising need, especially from the commercial and training sectors.",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "How Leher Can Turn Your Drone Business Profitable?",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   },
+   {
+    "quote": "Some profitable models focus on maintenance contracts, software updates, and battery replacement services. With drone hardware requiring regular maintenance, offering these services as paid subscriptions builds a steady revenue stream.",
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "U.S.; Canada; Mexico; UK; Germany; France; China; Japan; India; South Korea; Australia; Brazil; UAE; KSA; South Africa",
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "150-8512 日本",
+    "url": "https://manufacturo.com/jp/industries/drone-industry-software/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】産業用ドローンメーカー35社｜用途別の選び方と導入時の注意点 | SkyLink Japan",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SkyLink Japan",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SkyLink Japan編集部",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SkyLink Japan編集長",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛省・自衛隊と接点があるUAVメーカー12社を調べてみた",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "海外では軍事、日本では産業へ｜Penguin C VTOLが広がるためのデュアルテック条件",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載したのは、ホビー用途を除き、日本での販売・導入・実証が公開情報で確認できたメーカーです",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "スペックを比べる前に、「今、日本で正規に買えて、修理やサポートを受けられるか」を確認する",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SkyLink Japanが2026年8月時点（Hoverflyは9月5日追補）の公開情報をもとに調べ、日本国内で販売・導入されていることを確認できたメーカー",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン業界はメーカーの日本市場からの撤退や新規参入が頻繁に起こる分野でもあります",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "飛行時間やカメラ性能だけでなく、現場の条件、国内の販売窓口、修理・部品供給、日本語サポートまで含めて選ぶ必要があります",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載内容は、SkyLink Japanが2026年8月時点（Hoverflyは9月5日追補）の公開情報をもとに独自に調査・整理したものです",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "本ブログでは、2026年8月時点（Hoverflyは9月5日追補）で現行製品があり、日本での販売・導入・実証を公開情報で確認できた産業用メーカー35社を掲載しています",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "情報はSkyLink Japanの調査時点のものです",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの調査で日本国内での販売・導入を確認できたメーカー",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ドローンは日本製メーカーも豊富",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "日本では少子高齢化に伴い、各産業での人手不足が深刻化しています",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "日本では5Ghz帯の無線電波を無許可・無資格で使うことが法律で禁止されています",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "また、海外製ドローンよりも日本製ドローンのほうが価格が高くなる傾向があります",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "もちろんすべての産業用ドローンでここまで差があるわけではないですが、日本製を検討する場合は価格が高くなることを念頭に置いておくといいでしょう",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "（日本法人はDJI JAPAN株式会社）",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "（日本法人本社所在地：東京都港区）",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ドローンは、日本製メーカーも豊富です",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でのドローンビジネス市場は今後拡大すると予測されており、",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "とくに2020年以降はSONYやNTTなどの大手企業も産業用ドローンの製造に参入し、日本製の産業用ドローンが増えてきています",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "日本製の産業用ドローンは価格は高いものの、セキュリティが高く日本の風土で使いやすいなどのメリットがあります",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "【日本製産業用ドローンのメリット】",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "日本の気候や風土、産業の特徴を理解したうえで設計、製造されている",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "という場合には、日本製の産業用ドローンを選択するといいでしょう",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "日本製のドローンの種類や魅力は下記の記事でも解説しているので、参考にしてみてください",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   },
+   {
+    "quote": "日本工業検査株式会社",
+    "url": "https://sekidocorp.com/industry/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社ではこれまでに数千台のドローンを日本全国のお客様にお届けしてきました",
+    "url": "https://www.system5.co.jp/service/import_wholesale/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【2026年最新版】 産業用ドローン メーカー35社 - SkyLink Japan — 【2026年最新版】 産業用ドローン メーカー35社 - SkyLink Japan SkyLink Japan https://skylinkjapan.com > blog > industrial-drone-manuf...",
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ドローン まとめ｜種類・費用相場・資格やメーカー20選 — 産業用ドローン まとめ｜種類・費用相場・資格やメーカー20選 ドローンナビゲーター https://drone-navigator.com > ドローンの基礎知識",
+    "url": "https://drone-navigator.com/industrial-drone",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "480.5",
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "quote": "Record revenue for the first quarter of $480.5 million, up 6% year-over-year"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://hornbill.technology/drone-service-providers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dronebundle.com/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudvisual.co.uk/drone-white-label-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitti.com/apps/drone-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hindustandrones.io/whats-in-it-for/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dronedesk.io/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.droneharmony.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brekeke.com/partner/oem-partner.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphengineering.com/partners/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://associationfordrones.com/programs/manufacturer-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dslrpros.com/pages/reseller-application?srsltid=AYCX9vLE69E88XTjFI6oHHN2V4QpIJxi1KeSJMyN6nNyDhfe5WSuW8PX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arecontvision.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wingtra.com/partner-program/?srsltid=AYCX9vKh0dpnknXBeC-xDKzNURUUjtCsnmlsai-x2gIMS1w-woDEk9L0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.creativeskies.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commercialuavnews.com/webinars/5-steps-to-building-a-powerful-brand-for-your-drone-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pedowitzgroup.com/blog/7-saas-rebrand-agencies-for-mid-market-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aerosightx.com/custom/private-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.droneshowsoftware.com/news/marketing-with-drones",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dronebundle.com/blog/drone-business-ideas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://allfinancialmodels.com/drone-manufacturing-financial-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.usnews.com/investing/articles/best-drone-stocks-to-buy",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/drones/comments/1ll9e6t/are_drone_businesses_still_a_viable_startup_help/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dronepilotgroundschool.com/drone-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/Is-running-a-drone-business-still-profitable",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dronehub.ai/blog/drone-companies-to-follow-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/drone-manufacturing-companies/israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/lists/drones-startups-europe/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adriadefense.com/7-israeli-defense-tech-companies-expanding-into-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uvidtech.com/he/sponsors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.access-company.com/products/dx-iot/drone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturo.com/jp/industries/drone-industry-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foxtechuav.com/ja/dji-payloads.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caniuav.com/ja/software",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-navigator.com/industrial-drone",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekidocorp.com/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.system5.co.jp/service/import_wholesale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dji.com/products/enterprise",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "commercial drone software white label",
+   "results": [
+    "https://hornbill.technology/drone-service-providers/",
+    "https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide",
+    "https://dronebundle.com/white-label",
+    "https://cloudvisual.co.uk/drone-white-label-company",
+    "https://mitti.com/apps/drone-management-software",
+    "https://flytbase.com/blog/drone-on-demand",
+    "https://droneintelligence.ai/drone-software-companies",
+    "https://dronedesk.io/white-label",
+    "https://hindustandrones.io/whats-in-it-for/partner",
+    "https://aerosightx.com/custom/private-label/"
+   ]
+  },
+  {
+   "query": "commercial drone software OEM white-label partner",
+   "results": [
+    "https://hornbill.technology/drone-service-providers/",
+    "https://hindustandrones.io/whats-in-it-for/partner",
+    "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "https://dronedesk.io/white-label",
+    "https://cloudvisual.co.uk/drone-white-label-company",
+    "https://www.droneharmony.com/partners",
+    "https://brekeke.com/partner/oem-partner.php",
+    "https://draganfly.com/",
+    "https://www.unmannedsystemstechnology.com/expo/drone-software/",
+    "https://dronebundle.com/white-label"
+   ]
+  },
+  {
+   "query": "commercial drone software reseller partner program",
+   "results": [
+    "https://www.sphengineering.com/partners/partner-program",
+    "https://associationfordrones.com/programs/manufacturer-partnership",
+    "https://www.dslrpros.com/pages/reseller-application?srsltid=AYCX9vLE69E88XTjFI6oHHN2V4QpIJxi1KeSJMyN6nNyDhfe5WSuW8PX",
+    "https://www.arecontvision.com/partners",
+    "https://wingtra.com/partner-program/?srsltid=AYCX9vKh0dpnknXBeC-xDKzNURUUjtCsnmlsai-x2gIMS1w-woDEk9L0",
+    "https://www.expertdrones.com/drone-franchise-opportunities?srsltid=AYCX9vIFEw-ge1JAsv1VA9x57pOkS1okioMbv1KmenesWgLtEMuQeKOZ",
+    "https://dronebundle.com/blog/commercial-drone-software-business-guide",
+    "https://www.dedrone.com/partners/partner-program",
+    "https://www.unmannedsystemstechnology.com/2017/01/gdu-announces-open-platform-partner-program-drone-development/",
+    "https://www.dslrpros.com/pages/reseller-application"
+   ]
+  },
+  {
+   "query": "commercial drone SaaS rebrand private label",
+   "results": [
+    "https://www.creativeskies.com/white-label/",
+    "https://www.commercialuavnews.com/webinars/5-steps-to-building-a-powerful-brand-for-your-drone-business",
+    "https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know",
+    "https://cloudvisual.co.uk/drone-white-label-company",
+    "https://www.pedowitzgroup.com/blog/7-saas-rebrand-agencies-for-mid-market-teams",
+    "https://aerosightx.com/custom/private-label",
+    "https://www.droneshowsoftware.com/news/marketing-with-drones",
+    "https://boldaerial.com/",
+    "https://enterprise-insights.dji.com/blog/commercial-drones-for-work",
+    "https://resellportal.com/what-is-private-label-saas/"
+   ]
+  },
+  {
+   "query": "commercial drone software company profitable EBITDA",
+   "results": [
+    "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "https://dronebundle.com/blog/drone-business-ideas",
+    "https://allfinancialmodels.com/drone-manufacturing-financial-model/",
+    "https://www.youtube.com/watch?v=DhdWda6G8l0",
+    "https://money.usnews.com/investing/articles/best-drone-stocks-to-buy",
+    "https://www.grandviewresearch.com/industry-analysis/drone-software-market-report",
+    "https://uavcoach.com/drone-companies/",
+    "https://koalagains.com/stocks/NASDAQ/ONDS",
+    "https://dealflow-os.com/valuation-multiples/commercial-drone-services"
+   ]
+  },
+  {
+   "query": "commercial drone software bootstrapped profitable revenue",
+   "results": [
+    "https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html",
+    "https://dronebundle.com/blog/drone-business-ideas",
+    "https://www.jouav.com/blog/how-to-start-a-drone-business.html",
+    "https://www.reddit.com/r/drones/comments/1ll9e6t/are_drone_businesses_still_a_viable_startup_help/",
+    "https://www.leher.ag/blog/profitable-drone-business-ideas",
+    "https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report",
+    "https://www.dronepilotgroundschool.com/drone-business/",
+    "https://www.youtube.com/watch?v=KuQmcSCHj_E",
+    "https://www.quora.com/Is-running-a-drone-business-still-profitable",
+    "https://www.marketbeat.com/instant-alerts/event-zenatech-targets-55m-run-rate-as-drone-network-defense-push-accelerate-2026-10-29/"
+   ]
+  },
+  {
+   "query": "commercial drone software vendors Europe Israel Germany white label",
+   "results": [
+    "https://dronehub.ai/blog/drone-companies-to-follow-2026",
+    "https://revenuebase.ai/companies/drone-manufacturing-companies/israel",
+    "https://dealroom.co/lists/drones-startups-europe/",
+    "https://www.adriadefense.com/7-israeli-defense-tech-companies-expanding-into-europe/",
+    "https://www.uvidtech.com/he/sponsors",
+    "https://helsing.ai/",
+    "https://www.germandrones.com/en/",
+    "https://www.eu-startups.com/36-top-drones-startups-and-companies-in-germany/",
+    "https://droneintelligence.ai/drone-software-companies",
+    "https://dronebundle.com/white-label"
+   ]
+  },
+  {
+   "query": "産業用ドローン ソフトウェア OEM 提供",
+   "results": [
+    "https://www.access-company.com/products/dx-iot/drone/",
+    "https://manufacturo.com/jp/industries/drone-industry-software/",
+    "https://www.foxtechuav.com/ja/dji-payloads.html",
+    "https://caniuav.com/ja/software",
+    "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "https://www.fdatabot.com/ja/how-to-choose-an-autonomous-mobile-robot-oem-odm-manufacturer/",
+    "https://www.ipros.com/cg2/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E9%96%8B%E7%99%BA%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://sekidocorp.com/industry/",
+    "https://av.watch.impress.co.jp/docs/news/720717.html",
+    "https://ja.spacedroneuav.com/industrial-drone/"
+   ]
+  },
+  {
+   "query": "産業用ドローン ソフト 代理店 海外製",
+   "results": [
+    "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/",
+    "https://drone-navigator.com/industrial-drone",
+    "https://drone-journal.impress.co.jp/docs/news/1187223.html",
+    "https://sekidocorp.com/industry/",
+    "https://www.system5.co.jp/service/import_wholesale/",
+    "https://www.dji.com/jp/products/enterprise",
+    "https://drone-procrew.com/",
+    "https://drosatsu.jp/blogs/information/sangyo-ki-maker-syoukai?srsltid=AYCX9vIhjD_JP77r8oMoWapiynv7Jdz1S72tCr666TSfCrHvFHzQGsuM",
+    "https://kmt-drone.com/",
+    "https://www.system5.co.jp/service/industrial_drone/"
+   ]
+  }
+ ],
+ "missing": {}
+}

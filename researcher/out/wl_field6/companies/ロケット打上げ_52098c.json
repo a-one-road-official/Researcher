@@ -1,0 +1,1368 @@
+{
+ "name": "ロケット打上げ",
+ "en": "space launch services",
+ "aliases": [
+  "ロケット",
+  "射場",
+  "打ち上げサービス"
+ ],
+ "context": "6 航空・宇宙 ④ロケット・射場",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:15:49.180582+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Some of the key players operating in the market include ISRO, NASA, SpaceX, Boeing, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following are the leading companies in the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the space launch services market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies partner with us for data-driven Insights",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top Industry Leaders in the Space Launch Services Market",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Venus Emissivity, Radio Science, InSAR, Topography, and Spectroscopy",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "Research and technical analysis topics include:",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "\"NASA Selects Three New Venture-Class Launch Service Providers\"",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "Blair, Christopher",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "Add topic",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "Top Space Launch Services Startups by Valuation (2026)",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The space launch services market has expanded dramatically without becoming much less concentrated. Global orbital launch attempts increased from 114 in 2020 to approximately 325 in 2025, yet the four largest providers still accounted for around 82% of launches, up from 71% five years earlier.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceX's dominance has created an unusual investment opportunity for its competitors. Governments and satellite operators have strong reasons to support alternative launch providers, even when those companies cannot yet match SpaceX's prices, reliability, or launch frequency.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Europe and India are developing credible alternatives with different advantages. ESA committed €197.8 million to Isar Aerospace and €158.9 million to PLD Space, while India's Skyroot Aerospace successfully placed satellites into orbit in July 2026, becoming the country's first private orbital launch provider.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Top startups in the space launch services market ranked by valuation",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Here is an updated table that ranks the top startups in the space launch services market based on their latest reported or estimated valuations.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Space launch startup valuations are increasingly driven by the value of becoming a credible alternative to SpaceX, rather than simply by the number of rockets a company has launched. The global launch industry has expanded dramatically, but operational capacity remains concentrated among a handful of providers.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "China's leading names include LandSpace, Space Pioneer, i-Space, Galactic Energy, and CAS Space. Their technical approaches differ, but they operate within a market increasingly focused on satellite constellations, commercial launch capacity, and domestic alternatives to established state aerospace organizations.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is developing a credible group of commercial rocket companies, although its startups remain behind established American providers in sustained launch activity.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Those commitments are important because Europe's problem goes beyond building rockets. It needs enough independent launch capacity to guarantee reliable access to orbit without depending exclusively on established providers.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The market is becoming more competitive, but the real test is still ahead. Orbital demonstrations, recurring contracts, and flight cadence will determine which companies become enduring launch providers.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Stoke Space is the clearest major financing leader among the private startups with disclosed funding totals, having raised $2.3B. Several other leading companies have accumulated approximately $1 billion or more, although funding figures can include different financing structures.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Blue Origin's total cumulative funding is undisclosed in our ranking. Its unusually large founder-backed capital commitments make comparisons based solely on venture financing misleading.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Companies such as Latitude, Phantom Space, Skyrora, Perigee Aerospace, Reaction Dynamics, and Unastella are working on relatively compact launch vehicles intended to serve customers that need dedicated access to particular orbits or schedules.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is following a related strategy through ESA's European Launcher Challenge, supporting providers such as Isar Aerospace and PLD Space in developing competitive launch services.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Space Launch Services Market Trends, Leading Companies, Company Revenue / Sales Performance, Subscriber Growth, Pricing Strategies, Cloud Adoption, Infrastructure Expansion, Competitive Landscape, and Industry Outlook",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Space Launch Services Market Companies and their Offerings",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America is leading the market, and Asia Pacific and Europe are the growing markets through public-private investments.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "How is North America Leading in the Space Launch Services Market",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Union of Concerned Scientists reported over 7,000 active satellites in orbit by mid-2023, a figure expected to surpass 15,000 by 2030, with companies such as ExoAnalytic Solutions and LeoLabs capitalizing on this trend by offering real-time tracking and space situational awareness services supporting the growing volume of orbital assets.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic partnerships among launch providers, satellite manufacturers, and government space agencies are supporting development of increasingly high-cadence, cost-efficient orbital access solutions.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "The country's leading commercial launch providers continue to expand orbital launch capacity, driven by SpaceX's market leadership in",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. space launch services market size is estimated at USD 5.88 billion in 2025 and predicted to be worth around USD 20.56 billion by 2035, with rising market rivalry among new private launch service providers, including companies such as Rocket Lab and Firefly Aerospace, expected to lower launch costs and expand access to space for a broader variety of customers.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-launch Services was the largest player in the space launch services market and accounted for a revenue share of 58.00% in 2025. Pre-launch Services continues to be the leading category and provides end-to-end mission planning and integration of payloads and compliance with regulations that are necessary for launching payloads into orbit.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "The North America space launch services market held the largest regional market share in 2025 owing to the presence of dominant commercial launch providers such as SpaceX and United Launch Alliance, combined with robust government investment through NASA and the U.S. Space Force supporting sustained national security and civil space priorities.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "The US was the leading country within the North America’s market in 2025, fueled by SpaceX's market leadership in reusable launch vehicles and strong government-backed programs including the National Security Space Launch initiative. Canada is contributing to regional growth through its own expanding satellite manufacturing and space technology investment.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Europe space launch services market constituted an important factor in 2025. The reason behind this is the significant investments made in terms of civil and commercial space programs, along with the availability of top European launch service providers in the region.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Space Launch Services Market Key Players are:",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmark leading commercial and government launch providers, reusable technology strategies, and competitive positioning trends.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "commercial operators became important customers of launch providers. International competition for the",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": ", the launch service providers for these payloads used launch vehicles built to government specifications, and with state-provided development funding exclusively.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "were the principal non-government market after the 1970s. Although launch competition in the early years after 2010 occurred only in and among global commercial launch providers, the US market for military launches began to experience multi-provider competition in 2015, as the",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "But the new landscape did not come without a cost. Many space launch providers are expending capital to",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Little market competition emerged inside any national market before approximately the late 2000s. Some global commercial competition arose between the national providers of various nation states for international commercial satellite launches. Within the US, as late as 2006, the high cost structures built in to government contractors'—",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "launch service providers",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "demonstrating capabilities that would grow in the next five years while supporting published list prices substantially below the rates on offer by the national providers.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "private launch providers",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "announced it would retire the Proton, which was flying as few as one or two missions a year, citing technical problems and cheaper competitors.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Other launch service providers are developing new",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": ", Firefly, Vector, and several Chinese service providers) and the addition of new capacity of rideshare services are putting price pressure on existing providers. \"Cubesats that used to cost",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "in orbit, respectively, with all other launch providers launching approximately",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": ", the major launch providers globally were Arianespace (France), International Launch Services (United States) which markets the Russian Proton launch vehicle, and",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "launches were booked in 2014 for commercial launch service providers. 19 were for flights to",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": ") launch service providers.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Both Rocket Lab and ASI have built leading space businesses with mission proven technology and have a shared vision of making it easier to get to space and do incredible things there, so we’re excited to welcome ASI aboard to further enhance our space systems portfolio and deliver enhanced end-to-end space solutions.",
+    "url": "https://sorabatake.jp/23386/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイクラス転職TOP",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "The North American market accounted for a market revenue share of 50.6% in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By service type, pre-launch services accounted for largest market revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By payload, satellite payload accounted for largest market revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial segment accounted for largest market revenue share in 2023. Communication is one of the most prominent commercial end-users in the market; satellites launched into orbit facilitate global telecommunications, broadband internet access, and television broadcasting. The demand for reliable and high-speed connectivity has fueled the deployment of",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 50.6% revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Space Launch Services companies are at the forefront of the space exploration industry, providing the critical capability to transport payloads into space. These companies specialize in designing, building, and launching vehicles that can carry satellites, scientific instruments, crewed spacecraft, and other payloads into various orbits or trajectories.",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "robotic missions occurred from a number of launch sites on a variety of rockets. After the list of launches are descriptions of select historic LSP missions.",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "The LSP works with U.S. Government spacecraft program offices to define launch requirements for their programs and then engage with launch services contractors to deliver a compatible solution. LSP has relationships with various agencies and organizations:",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "NASA uses a certification system for rockets launched by its contractors, and for validation purposes it requires the certification process to be \"instrumented to provide design verification and flight performance data\", with post-flight operations, anomaly resolution process, and a flight margin verification process, with 80% predicted design reliability at 95% confidence.",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "The LSP Educational Outreach Office created the Rocket Science 101 Game. Students can pick a NASA mission, select the right rocket, and build a rocket to send the spacecraft into orbit. There are three different levels for varying ages and it is available for the computer and Apple/Android devices.",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "Blue Origin leads the space launch services startup valuation ranking by a substantial margin, followed by Stoke Space, LandSpace, Space Pioneer, and i-Space. The largest valuations are concentrated in companies developing reusable or relatively high-capacity orbital launch systems.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The 2026 comparison uses Flight Atlas and Launch Library-based records through October 27. Global historical totals vary slightly between launch catalogs.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The importance of those requirements varies dramatically between customers. A price-sensitive commercial satellite operator may prefer a low-cost rideshare, while a defense customer might prioritize assured access and mission responsiveness.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor and Partner Research",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aditi Shivarkar",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America has generated more than 40% of the revenue share in 2026.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Payload, the satellite segment has captured more than 46% of revenue share in 2026 and is expected to expand at the fastest CAGR between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "One of the main factors driving the market's growth is the growing interest in and efforts to send satellites and missions for various science purposes, including research.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "It is anticipated that rising market rivalry will lower launch costs and expand access to space for a broader variety of customers.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Airbus S.A.S provides launch services with the help of Arianespace to various payloads using dependable European launchers.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. space launch services market size is estimated at USD 5.88 billion in 2025 and predicted to be worth around USD 20.56 billion by 2035, with rising market rivalry among new private launch service providers, including companies such as Rocket Lab and Firefly Aerospace, expected to lower launch costs and expand access to space for a broader variety of customers.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "The satellite segment dominated the space launch services market with a revenue share of 46.80% in 2025. Satellite payloads remain the dominant category owing to increasing investments in communication,",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-launch Services was the largest player in the space launch services market and accounted for a revenue share of 58.00% in 2025. Pre-launch Services continues to be the leading category and provides end-to-end mission planning and integration of payloads and compliance with regulations that are necessary for launching payloads into orbit.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "The government & military segment dominated the space launch services market with a revenue share of 52.00% in 2025. Government and military end users remain the dominant category, driven by sustained national security priorities, defense satellite programs, and civil space exploration initiatives requiring assured access to space across major spacefaring nations.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Reseller",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Non-military commercial satellites began to be launched in volume in the 1970s and 1980s. Launch services were supplied exclusively with launch vehicles developed originally for various",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Little market competition emerged inside any national market before approximately the late 2000s. Some global commercial competition arose between the national providers of various nation states for international commercial satellite launches. Within the US, as late as 2006, the high cost structures built in to government contractors'—",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "was slated to be provided by various European government sources at the time the early finance structure was made public in April 2015.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "2011: Only 17 geostationary commercial satellites went under contract during 2011 as an \"historically large capital spending surge by the biggest satellite fleet operators\" began to tail off, something that had been anticipated to follow the various satellite fleets being substantially upgraded.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "launches historically taking advantage of economies of scales with larger launch vehicles and greater use of the maximum payload capacity of a vehicle vs LEO launches. These varying cost and requirements makes",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "The North American market accounted for a market revenue share of 50.6% in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By service type, pre-launch services accounted for largest market revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By payload, satellite payload accounted for largest market revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial segment accounted for largest market revenue share in 2023. Communication is one of the most prominent commercial end-users in the market; satellites launched into orbit facilitate global telecommunications, broadband internet access, and television broadcasting. The demand for reliable and high-speed connectivity has fueled the deployment of",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "ExPace is a Chinese company that was founded in 2016 with the goal of providing commercial launch services to customers around the world. ExPace has successfully launched several rockets, including the Kuaizhou-1A and Kuaizhou-11, which are designed to carry small satellites into orbit.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million and CAGR from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "This report forecasts revenue growth at global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2018 to 2030. For this study, Grand View Research has segmented the global space launch services market report based on service type, service payload, launch platform, launch type, launch vehicle, end-use, and region:",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Service Type Outlook (Revenue, USD Million, 2018 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Payload Outlook (Revenue, USD Million, 2018 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Launch Platform Outlook (Revenue, USD Million, 2018 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Launch Type Outlook (Revenue, USD Million, 2018 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Launch Vehicle Outlook (Revenue, USD Million, 2018 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "End-use Outlook (Revenue, USD Million, 2018 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook (Revenue, USD Million, 2018 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The Cygnus arrived at the ISS on 2014.01.12 and will spend five weeks unloading the cargo.",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "\"Cygnus Arrives at Station on Orbital-1 Mission\"",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "LeVasseur, Darryl (September 22, 2013).",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "Galactic Energy and Skyroot Aerospace both carry valuations of $2.5B–$3.1B, while Isar Aerospace follows at $2.1B–$2.7B. Substantial valuations are now achievable across different national markets and rocket architectures, although the companies' flight histories and funding requirements are far from equivalent.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "North America has generated more than 40% of the revenue share in 2026.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Payload, the satellite segment has captured more than 46% of revenue share in 2026 and is expected to expand at the fastest CAGR between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Service, in terms of revenue, the pre-launch services segment is predicted to take the lead between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, in terms of revenue, the government segment dominated the global market in 2026.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The satellite segment dominated the space launch services market with a revenue share of 46.80% in 2025. Satellite payloads remain the dominant category owing to increasing investments in communication,",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-launch Services was the largest player in the space launch services market and accounted for a revenue share of 58.00% in 2025. Pre-launch Services continues to be the leading category and provides end-to-end mission planning and integration of payloads and compliance with regulations that are necessary for launching payloads into orbit.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "The government & military segment dominated the space launch services market with a revenue share of 52.00% in 2025. Government and military end users remain the dominant category, driven by sustained national security priorities, defense satellite programs, and civil space exploration initiatives requiring assured access to space across major spacefaring nations.",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "Arrisa Avenue, Kharadi, Pune-411014",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": "That April, seven European satellite operators, including the four largest in the world by revenue, urged ESA to find ways to reduce Ariane 5 costs and to make the planned Ariane 6 more attractive for smaller satellites. SpaceX was by then winning customers who would previously have been almost certain to fly with Arianespace.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "projected in 2017 that \"revenue from the global industry will increase to at least",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "The global launch market revenue from the 33 commercial orbital launches in 2017 was estimated to be just over",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Etherington, Darrell (30 January 2020).",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Ferster, Warren (2014-09-17).",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "\"Arianespace consolidates leadership in commercial launch market with 15 successful Ariane, Soyuz and Vega launches in 2021 and revenue growth of 30%, while gearing up for another busy year\"",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "U.S., Canada; Germany; UK; France; Italy; France; Spain; China; Japan; India; South Korea; Australia; New Zealand; Brazil; Mexico; UAE; South Africa",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Heavy Industries (Japan)",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese orbital rockets and satellites",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Reusable Japanese suborbital spaceplanes",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "0In December 2025, Rocket Lab successfully launched its 21st Electron rocket on December 21, deploying the QPS-SAR-15 satellite for Japan's iQPS. This mission enhances iQPS's radar constellation, providing near-real-time imagery globally. Rocket Lab has launched seven satellites for iQPS, with five more planned from 2026. (",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America (US, Canada), Europe (Germany, UK, France, Italy, Spain, Russia, Poland, Rest of Europe), Asia Pacific (China, India, Japan, South Korea, Australia, ASEAN Countries, Rest of Asia Pacific), Middle East & Africa (UAE, Saudi Arabia, Qatar, South Africa, Rest of Middle East & Africa), Latin America (Brazil, Argentina, Mexico, Colombia, Rest of Latin America).",
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "pass": 3
+   },
+   {
+    "quote": ", the Japanese legislature was considering legislation to provide a legal framework for private company spaceflight initiatives in",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": ". It was unclear whether the legislation would become law and, if so, whether significant private capital would subsequently enter the Japanese space launch industry as a result.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "In the event, the legislation appears not to have become law, and little change in the funding mechanism for Japanese space vehicles are anticipated.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Japan News",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "日本の新型基幹ロケットとして、2023年に運用を開始したH3ロケット",
+    "url": "https://www.mesw.co.jp/technical-report/2025/018.html",
+    "pass": 3
+   },
+   {
+    "quote": "同ソフトウェアは、2024年2月の打ち上げで衛星の軌道投入に初成功して以来、2025年2月の7号機に至るまで安定した軌道投入に貢献しており、日本のロケット産業の発展を支えています",
+    "url": "https://www.mesw.co.jp/technical-report/2025/018.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、アメリカを見れば年に100回近く打ち上げており、コストも日本に比べて安価と言われています",
+    "url": "https://www.mesw.co.jp/technical-report/2025/018.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の宇宙輸送の発展に貢献",
+    "url": "https://www.mesw.co.jp/technical-report/2025/018.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ロケットの分野で日本が世界で競争力を高めていくためには、打ち上げまでの期間が短く、打ち上げコストが安く、精度が高いロケットを開発し続けていく必要があります",
+    "url": "https://www.mesw.co.jp/technical-report/2025/018.html",
+    "pass": 3
+   },
+   {
+    "quote": "に日本オフィス設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "札幌に日本第二の開発拠点を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "Rocket launches from Japan!",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Aerospace Exploration Agency",
+    "url": "https://fund.jaxa.jp/techlist/theme3_15/",
+    "pass": 3
+   },
+   {
+    "quote": "H3ロケットを支える企業3選｜日本の上場メーカーの技術を解説 | SPACE CONNECT",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "H3ロケットを支える企業3選｜日本の上場メーカーの技術を解説",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "を中心に開発された日本の新たな基幹ロケットである",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "、日本航空電子工業株式会社の3社を取り上げ、各社とH3ロケットとの関わりや技術の特徴についてご紹介する",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本航空電子工業｜H3を軌道へ導く慣性センサユニット",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "H3ロケットは、H-IIAロケットの後継として開発された日本の新たな基幹ロケットである",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "安全保障や災害対応、通信、地球観測などに必要な人工衛星を、海外の打上げサービスに依存せず自国で打ち上げられる体制を持つことは、日本の宇宙利用の基盤となる",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "H3ロケットの打上げ実績とスケジュール｜日本の宇宙輸送を担う基幹ロケット",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は1967年に日本の液体燃料ロケット用ポンプシールの開発を始めて以降、Nロケット計画やH-I、H-II、H-IIA、H-IIBなど、国産基幹ロケットの開発・運用を支えてきた",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "1974年には、“世界で最も漏れ量の少ない”液体水素シールを開発しており、半世紀以上にわたって日本の液体ロケット開発を支えている企業といえる",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "メカニカルシールの仕組みやロケットエンジンのターボポンプで果たす役割、日本の宇宙開発を支える技術基盤に迫る",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本航空電子工業は、コネクタ、インターフェース・ソリューション、航空・宇宙用電子機器などを手がけるメーカーである",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本航空電子工業の技術は、1966年には宇宙実験用ロケットに採用されており、以来、日本の基幹ロケットを支えてきた",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本航空電子工業の詳細はこちら",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本航空電子工業株式会社（2026-06-03閲覧）",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "(米RocketLab,日本だとインターステラなど)",
+    "url": "https://sorabatake.jp/1509/",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるロケットは、国立研究開発法人であるJAXAが中心となって進められてきました",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本の基幹ロケットである「H-ⅡAロケット」や「H3ロケット」の製造には、民間企業が深く関わっています",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本のロケット打ち上げ数は停滞しているのが現状です",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、日本でのロケット打ち上げ数を増やすため、宇宙開発基金やSBIR制度などを通じて、民間企業によるロケット開発の支援が進められています",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "このような幅広い取り組みにより、三菱重工業は長年にわたり日本のロケット開発をリードしてきました",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "は、日本を代表する民間宇宙輸送サービスの提供企業です",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "は、専用の射場から人工衛星搭載ロケットの打ち上げを行う日本初の民間企業です",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノン電子、IHIエアロスペース、清水建設、日本政策投資銀行の4社の共同出資で設立されました",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "日本初の民間発射場として、和歌山にスペースポート紀伊を建設し、運用が開始されています",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットだけでなく、国際宇宙ステーション日本実験棟「きぼう」のアキュムレーター、人工衛星のバッテリー部品などの開発にも取り組んでいます",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "日本航空電子工業株式会社",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "H3ロケットを衛星の軌道投入地点まで導く慣性センサユニットの開発・製造を担当しているのも日本航空電子工業です",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府も民間企業のロケット開発を積極的に支援しており、資金調達も積極的に進められています",
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "pass": 3
+   },
+   {
+    "quote": "米ロケットラボ、日本のシンスペクティブの衛星10機打ち上げ契約締結(日本、ニュージーランド、米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   },
+   {
+    "quote": "米ロケットラボ、日本のシンスペクティブの衛星10機打ち上げ契約締結",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   },
+   {
+    "quote": "（米国、日本、ニュージーランド）",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の小型人工衛星の開発・運用・データ販売と解析などを行うシンスペクティブと10機の衛星打ち上げに関する契約を締結したと発表",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の宇宙産業が急速に成長していることに触れ、米国のロケットがニュージーランドの発射場から発射されるというユニークな協働を通じ、この成長を実現できることをうれしく思う、と述べた",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラクソン首相は同契約について、宇宙産業においてニュージーランドの地位が急速に高まっているとし、同氏の首相としての初めての日本訪問中に、本契約の署名に立ち会えたことを歓迎した",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   },
+   {
+    "quote": "（注2）日本のイノベーション政策の一環として、2018年に経済産業省主導で立ち上げたスタートアップ企業の育成支援プログラム",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本食品海外プロモーションセンター（JFOODO）",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright (C) 1995-2026 Japan External Trade Organization(JETRO). All rights reserved.",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人日本貿易振興機構 （法人番号 2010405003693）",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Space Launch Services Market Size Report, 2024-2030 — Space Launch Services Market Size Report, 2024-2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Top Space Launch Services Startups by Valuation (2026) — Top Space Launch Services Startups by Valuation (2026) New Market Pitch https://newmarketpitch.com > news",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "H3 ロケット 誘導 ソフトウェア - 三菱電機ソフトウエア — H3 ロケット 誘導 ソフトウェア - 三菱電機ソフトウエア 三菱電機ソフトウエア https://www.mesw.co.jp > technical-report",
+    "url": "https://www.mesw.co.jp/technical-report/2025/018.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間 ロケット打上げ 実証加速化（STAND） - JAXA宇宙戦略基金 — 民間 ロケット打上げ 実証加速化（STAND） - JAXA宇宙戦略基金 JAXA宇宙戦略基金 https://fund.jaxa.jp > techlist > theme3_15",
+    "url": "https://fund.jaxa.jp/techlist/theme3_15/",
+    "pass": 3
+   },
+   {
+    "quote": "H3 ロケット を支える企業3選｜日本の上場メーカーの技術を解説 — H3 ロケット を支える企業3選｜日本の上場メーカーの技術を解説 space-connect.jp https://space-connect.jp > Business",
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "米 ロケット ラボ、日本のシンスペクティブの衛星10機 打ち上げ ... — 米 ロケット ラボ、日本のシンスペクティブの衛星10機 打ち上げ ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2024/06",
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "pass": 3
+   },
+   {
+    "quote": "The latest industry figures suggest that launch demand is real. What remains uncertain is how much of that demand newer companies can capture profitably.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, even a busy launch schedule does not guarantee profitability. Investors still need to understand revenue per mission, manufacturing expense, fixed infrastructure costs, and whether customers keep coming back.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The aerospace giants [Boeing Co. and Lockheed Martin Corp.] shared almost $500 million in equity profits from the rocket-making venture last year, when it still had a monopoly on the business of blasting the Pentagon's most important satellites into orbit. But since then, 'they've had us on a very short leash,' Tory Bruno, United Launch's chief executive, said.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "\"Space is about to get a whole lot more accessible – and potentially profitable\"",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "At $10 billion, investors are already pricing in a substantial future cost advantage. Stoke now has to show that the advantage actually exists.",
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "2010–2020s: Competition and pricing pressure",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Aras、戦略的 OEM 契約で ANSYS にプラットフォームをライセンス供与 - Aras",
+    "url": "https://aras.com/ja/news/press-releases/2020/01/aras-licenses-platform-to-ansys-in-strategic-oem-deal",
+    "pass": 3
+   },
+   {
+    "quote": "Aras、戦略的 OEM 契約で ANSYS にプラットフォームをライセンス供与",
+    "url": "https://aras.com/ja/news/press-releases/2020/01/aras-licenses-platform-to-ansys-in-strategic-oem-deal",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nasa.gov/kennedy/launch-services-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/space-launch-services-market.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketlaunch.org/launch-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1qwl2zj/advice_on_entering_the_saas_space_via_whitelabel/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.quickwayinfosystems.com/white-label-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hireinsouth.com/post/best-white-label-software-development-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rocketdriver.com/white-label-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_launch_service_providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rocketsoftware.com/en-us/become-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ses.com/solutions/space-services/launch-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sparta.aerospace.org/technique/RD-0005/01/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule/space-launch-integrated-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hiringthing.com/blog/private-label-vs-white-label-ats",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pedowitzgroup.com/blog/7-saas-rebrand-agencies-for-mid-market-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yourgpt.ai/blog/growth/top-white-label-saas-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/space-launch-services-market-101931",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/RocketLab/comments/163317y/will_the_satellite_launch_industry_be_a_lowmargin/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://satnews.com/2026/05/21/inside-spacexs-s-1-three-companies-one-profit-1-75-trillion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/space-economy-startup-landscape",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://umbrex.com/resources/how-industries-work/aerospace-defense/how-the-space-technology-satellite-services-industries-work/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isaraerospace.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://europeanspaceflight.com/top-european-launch-companies-of-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spacebandits.io/industries/launch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://singularityhub.com/2026/09/10/europes-first-private-rocket-reaches-orbit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://payloadspace.com/european-launchers-are-racking-up-bookings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mesw.co.jp/technical-report/2025/018.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/23386/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aras.com/ja/news/press-releases/2020/01/aras-licenses-platform-to-ansys-in-strategic-oem-deal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sma.jaxa.jp/TechDoc/Docs/JAXA-JERG-1-008A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fund.jaxa.jp/techlist/theme3_15/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-connect.jp/h3-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/1509/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "space launch services software white label",
+   "results": [
+    "https://www.nasa.gov/kennedy/launch-services-program/",
+    "https://www.marketsandmarkets.com/ResearchInsight/space-launch-services-market.asp",
+    "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "https://rocketlaunch.org/launch-providers",
+    "https://www.reddit.com/r/SaaS/comments/1qwl2zj/advice_on_entering_the_saas_space_via_whitelabel/",
+    "https://www.conexisvmssoftware.com/white-label-vms",
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://legal-resources.uslegalforms.com/l/launch-services",
+    "https://www.personizely.net/blog/white-label-saas",
+    "https://pharosproduction.com/insights/engineering/white-label-software-development-2026/"
+   ]
+  },
+  {
+   "query": "space launch services software OEM white-label partner",
+   "results": [
+    "https://www.quickwayinfosystems.com/white-label-development/",
+    "https://www.hireinsouth.com/post/best-white-label-software-development-companies",
+    "https://www.nasa.gov/kennedy/launch-services-program/",
+    "https://www.marketresearchfuture.com/reports/space-launch-services-market/companies",
+    "https://rocketlaunch.org/launch-providers",
+    "https://www.marketsandmarkets.com/ResearchInsight/space-launch-services-market.asp",
+    "https://www.rocketdriver.com/white-label-services/",
+    "https://en.wikipedia.org/wiki/List_of_launch_service_providers",
+    "https://almcorp.com/white-label-services/",
+    "https://www.wellintech.com/services"
+   ]
+  },
+  {
+   "query": "space launch services software reseller partner program",
+   "results": [
+    "https://www.nasa.gov/kennedy/launch-services-program/",
+    "https://www.rocketsoftware.com/en-us/become-partner",
+    "https://www.ses.com/solutions/space-services/launch-services",
+    "https://en.wikipedia.org/wiki/NASA_Launch_Services_Program",
+    "https://sparta.aerospace.org/technique/RD-0005/01/",
+    "https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule/space-launch-integrated-services",
+    "https://www.tdsynnex.com/na/us/innovation/space-tech/",
+    "https://www.precedenceresearch.com/space-launch-services-market",
+    "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "https://www.appspace.com/resellers-alliances/"
+   ]
+  },
+  {
+   "query": "space launch services SaaS rebrand private label",
+   "results": [
+    "https://www.youtube.com/watch?v=rDMj6h4Pwlk",
+    "https://blog.hiringthing.com/private-label-vs-white-label-ats",
+    "https://www.pedowitzgroup.com/blog/7-saas-rebrand-agencies-for-mid-market-teams",
+    "https://yourgpt.ai/blog/growth/top-white-label-saas-platforms",
+    "https://www.fortunebusinessinsights.com/industry-reports/space-launch-services-market-101931",
+    "https://www.ghlscaleup.com/blog/ghl-white-label-saas-guide",
+    "https://www.nasa.gov/kennedy/launch-services-program/",
+    "https://epixelsoft.com/white-label-saas",
+    "https://www.sphericalinsights.com/blogs/top-50-companies-in-space-launch-services-market-spherical-insights-analysis",
+    "http://www.privatelabelsaas.com/"
+   ]
+  },
+  {
+   "query": "space launch services software company profitable EBITDA",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation",
+    "https://www.reddit.com/r/RocketLab/comments/163317y/will_the_satellite_launch_industry_be_a_lowmargin/",
+    "https://satnews.com/2026/05/21/inside-spacexs-s-1-three-companies-one-profit-1-75-trillion/",
+    "https://www.facebook.com/spacefans1/posts/spacexs-latest-financial-figures-show-a-massive-surge-in-revenue-and-a-dramatic-/1549114443914226/",
+    "https://www.precedenceresearch.com/space-launch-services-market",
+    "https://www.marketsandmarkets.com/ResearchInsight/space-launch-services-market.asp",
+    "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm",
+    "https://spacenexus.us/blog/how-to-value-space-company-metrics-multiples",
+    "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "https://www.morningstar.com/stocks/6-charts-spacexs-s-1-financials"
+   ]
+  },
+  {
+   "query": "space launch services software bootstrapped profitable revenue",
+   "results": [
+    "https://www.reddit.com/r/RocketLab/comments/163317y/will_the_satellite_launch_industry_be_a_lowmargin/",
+    "https://newmarketpitch.com/blogs/news/space-economy-startup-landscape",
+    "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "https://www.marketsandmarkets.com/ResearchInsight/space-launch-services-market.asp",
+    "https://www.precedenceresearch.com/space-launch-services-market",
+    "https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue",
+    "https://umbrex.com/resources/how-industries-work/aerospace-defense/how-the-space-technology-satellite-services-industries-work/",
+    "https://www.snsinsider.com/reports/space-launch-services-market-2488",
+    "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "https://newspaceeconomy.ca/2026/03/30/global-launch-services-market-analysis-2026/"
+   ]
+  },
+  {
+   "query": "space launch services software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.isaraerospace.com/",
+    "https://rocketlaunch.org/launch-providers",
+    "https://europeanspaceflight.com/top-european-launch-companies-of-2025/",
+    "https://www.spacebandits.io/industries/launch",
+    "https://singularityhub.com/2026/09/10/europes-first-private-rocket-reaches-orbit/",
+    "https://payloadspace.com/european-launchers-are-racking-up-bookings/",
+    "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+    "https://rocketlabcorp.com/updates/rocket-lab-establishes-rocket-lab-germany-to-deliver-sovereign-space-capabilities-to-europe/",
+    "https://www.escudodigital.com/en/space/german-company-isar-aerospace-takes-the-lead-in-europes-micro-launcher-race.html",
+    "https://en.wikipedia.org/wiki/List_of_launch_service_providers"
+   ]
+  },
+  {
+   "query": "ロケット打上げ ソフトウェア OEM 提供",
+   "results": [
+    "https://www.mesw.co.jp/technical-report/2025/018.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2",
+    "https://sorabatake.jp/23386/",
+    "https://aras.com/ja/news/press-releases/2020/01/aras-licenses-platform-to-ansys-in-strategic-oem-deal",
+    "https://sma.jaxa.jp/TechDoc/Docs/JAXA-JERG-1-008A.pdf",
+    "https://www.businesswire.com/news/home/20240430764477/ja",
+    "https://www.sbg-systems.com/ja/case-studies/fueling-duke-aeros-rocketry-success/",
+    "https://roumudaikou.com/2026/05/25/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E8%A3%BD%E9%80%A0%E3%83%BB%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%B8%E3%81%AE%E5%8F%82%E5%85%A5%E3%82%AC%E3%82%A4%E3%83%89/",
+    "https://www.amc.rocketsoftware.co.jp/about/news/",
+    "https://ja.wikipedia.org/wiki/ロケット・ソフトウェア"
+   ]
+  },
+  {
+   "query": "ロケット打上げ ソフト 代理店 海外製",
+   "results": [
+    "https://fund.jaxa.jp/techlist/theme3_15/",
+    "https://space-connect.jp/h3-manufacturer/",
+    "https://sorabatake.jp/1509/",
+    "https://www.jac-recruitment.jp/market/manufacture/rocket-development-company/",
+    "https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html",
+    "https://www.mesw.co.jp/technical-report/2025/018.html",
+    "https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou3-4.pdf",
+    "https://innovative-space-carrier.co.jp/rocket",
+    "https://www.space-one.co.jp/",
+    "http://kaigaisoft.com/"
+   ]
+  }
+ ],
+ "missing": {}
+}

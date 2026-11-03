@@ -1,0 +1,1804 @@
+{
+ "name": "LNG運搬船",
+ "en": "LNG carrier",
+ "aliases": [
+  "LNG船"
+ ],
+ "context": "8 造船 ③LNG運搬船",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:18:20.329420+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "The ESD system stops cargo liquid and vapour flow in an emergency and brings cargo handling to a safe static condition. The Code specifies shipboard requirements but does not address activation at shore installations, which is why linked systems and the ship-shore link matter operationally.",
+    "url": "https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Cargo flow stopped and systems brought to a safe static condition on demand",
+    "url": "https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Tank level gauging with redundancy, temperature, pressure, high-level alarms and cargo pump auto-stop",
+    "url": "https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Industry-leading control of work safety for offshore",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Benchtop CQ1 Confocal System",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Desktop Services Vulnerability",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry Segment Topics",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Sustainability Business Topics",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Business Topics",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Life Business Topics",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "[Graphic News] Korean fried chicken tops global ranking of fried dishes",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "Many small-cap stocks have limited Wall Street coverage, giving savvy investors the chance to act before everyone else catches on. But the flip side is that these businesses have increased downside risk because they lack the scale and staying power of their larger competitors. These trade-offs can …",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue base of $468.6 million puts it at a disadvantage compared to larger competitors exhibiting economies of scale",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Golar LNG's competitors include other FLNG operators such as Shell, which operates the Prelude FLNG offshore Australia, and Eni, along with traditional onshore LNG developers and modular LNG solution providers.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "range, placing it firmly in investment-grade territory. SNH is a Cameroonian state-owned enterprise backed by sovereign support, and Perenco is a large private independent E&P operator. Golar's revenue concentration is high: the top two contracts account for approximately",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": ". The Natural Gas Logistics sub-industry average for top-3 customer concentration typically runs",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "Top Similar Companies",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Region",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the LNG carrier market are listed below:",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock 2026’s Top",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "globally in 2025, with the top three shipbuilders controlling approximately",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "What is driving the rapid growth of small-scale LNG carriers compared to large-scale alternatives?",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "through crew reduction and optimized operational management. Integration of blockchain technology and smart contracts in LNG supply chain documentation is creating opportunities for service providers offering technical solutions supporting transparent, efficient trading and chartering activities.",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The LNG Carriers market exhibits distinct competitive segmentation with clear separation between shipbuilders, fleet operators, and logistics service providers, creating complex multi-party value chains and competitive relationships. Shipbuilding capacity is highly concentrated, with",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "price premiums compared to competing Korean alternatives. Chinese shipbuilders including",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "share through cost advantages and government support, while European yards focus on specialized vessel segments and remain marginal competitors in standard LNG carrier newbuilds.",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Companies in the LNG Carriers Market",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Samsung Heavy Industries maintains dominant market position as the world's leading LNG carrier shipbuilder with",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "size the market using top-down and bottom-up methods",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "top of page",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "The 120,000-160,000 cubic meter segment accounts for the leading market share and is projected to grow rapidly. These carriers are versatile and well-suited to many LNG cargo routes and terminal configurations.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Africa, Latin America, and Southeast Asia represent growth frontiers. Many emerging economies are opting for LNG over more polluting alternatives, thereby creating new trade routes and investment opportunities.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "technology providers",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Region",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shipowners, propulsion suppliers, containment-system providers and lenders benefit from demand for efficient replacement tonnage and retrofits. Flex LNG operates 13 modern two-stroke vessels, illustrating a focused premium-fleet strategy.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 Players",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Company Profiles (Top 10 Players)",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides detailed cross-comparison of key players across 10 performance parameters to identify competitive strengths and weaknesses.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Opportunities, training and innovation: join our global energy tech company and play a leading role in the transformation.",
+    "url": "https://www.eni.com/en-IT/company/subsidiaries-and-affiliates/lng-shipping.html",
+    "pass": 3
+   },
+   {
+    "quote": "At the top is the Chief Executive Officer.",
+    "url": "https://www.eni.com/en-IT/company/subsidiaries-and-affiliates/lng-shipping.html",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to change topic, clear the chat and make a new query to receive more relevant results.",
+    "url": "https://www.eni.com/en-IT/company/subsidiaries-and-affiliates/lng-shipping.html",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to change topic, clear the chat and make a new query to receive more relevant results. This will delete the question history.",
+    "url": "https://www.eni.com/en-IT/company/subsidiaries-and-affiliates/lng-shipping.html",
+    "pass": 3
+   },
+   {
+    "quote": "EnergIA is an innovative tool based on artificial intelligence capabilities, which can help you navigate the contents of eni.com, quickly finding answers to your questions. EnergIA can also perform a search on a specific topic, providing the most up-to-date data available, or it can invite you to delve deeper into a topic of your interest by suggesting links and specific readings. Start now!",
+    "url": "https://www.eni.com/en-IT/company/subsidiaries-and-affiliates/lng-shipping.html",
+    "pass": 3
+   },
+   {
+    "quote": "Through EnergIA, you can delve into topics of interest and have a real-time window into the world of Eni.",
+    "url": "https://www.eni.com/en-IT/company/subsidiaries-and-affiliates/lng-shipping.html",
+    "pass": 3
+   },
+   {
+    "quote": "TOPへ戻る",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "The IGC Code's safety record rests on defence in depth rather than on any single system, and that architecture is the reason the maintenance burden is what it is. No LNG carrier has suffered a major cargo release at sea since the Code entered force in 1986 — a record produced by layers that each require their own inspection regime, their own test records and their own calibration evidence.",
+    "url": "https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Required where cargo is carried at temperatures below minus fifty-five degrees, under IGC 13.5.2 and 13.5.4. The relationship between tank type, cargo temperature and secondary barrier requirement is determinative rather than discretionary, and it is one of the first things a foreign gas carrier examiner establishes.",
+    "url": "https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide",
+    "pass": 3
+   },
+   {
+    "quote": "The company will acquire 16 liquefied natural gas carriers from sister company H-Line Shipping in exchange for 12 oil tankers and approximately $300 million in cash, Hahn & Co. said Thursday.",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "The deal will give SK Shipping a fleet of 32 LNG carriers, placing it among the world’s three largest LNG shipping companies, according to Hahn & Co. Combined with its 14 liquefied petroleum gas carriers, the expanded fleet will sharpen its focus on gas and cleaner-energy transportation.",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "The 12 tankers being transferred to H-Line are tied to long-term transportation contracts with Korean and overseas customers, providing the company with a stable source of revenue. The additions will also strengthen its role in transporting crude oil and other key commodities for Korean companies.",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "The government aims to keep the share of key energy resources carried by Korean-flagged vessels at 70 percent or higher, seeking to reduce reliance on foreign carriers during supply disruptions and geopolitical crises.",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "Hahn & Co. established H-Line in 2014 by acquiring Hanjin Shipping’s dedicated bulk shipping business. It added the bulk carrier operations of Hyundai Merchant Marine, now HMM, in 2016 and acquired management control of SK Shipping in 2018.",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "An owner ordering a vessel 15 years ago would have had very little choice in what they could specify. LNG carriers were almost all large ships of around 140 - 145 m",
+    "url": "https://www.lngindustry.com/liquid-natural-gas/27012021/innovation-in-the-lng-carrier-sector/",
+    "pass": 3
+   },
+   {
+    "quote": "It is not uncommon for new designs to take time to gain commercial acceptance. ABS granted AIP in 2013 to Lattice Technology for its Lattice Pressure Vessel (LPV) tank, which features a flexible, space-saving shape for carrying fuel or cargo.",
+    "url": "https://www.lngindustry.com/liquid-natural-gas/27012021/innovation-in-the-lng-carrier-sector/",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, the LNG carrier market is not immune to industry-wide drivers and the key one will be the efforts to comply with the IMO’s 2030 and 2050 carbon emission reduction objectives. The need for greater energy efficiency and lower fuel consumption has prompted interest from owners in technologies including air lubrication of the hull and auxiliary wind assistance.",
+    "url": "https://www.lngindustry.com/liquid-natural-gas/27012021/innovation-in-the-lng-carrier-sector/",
+    "pass": 3
+   },
+   {
+    "quote": "5. Revenue Scale",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "6. Revenue Growth",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue base of $468.6 million puts it at a disadvantage compared to larger competitors exhibiting economies of scale",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Day-to-day expenses have swelled compared to its revenue over the last five years as its EBITDA margin fell by 10.7 percentage points",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Golar entered a 10% investment in the pipeline carrying Vaca Muerta gas to the Gulf of San Matias. Management said it will serve both Hilli and Mark II for year-round operations, linking the infrastructure to Argentine production continuity.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "In Energy, scale separates fragile single-asset producers from platform-style businesses that generate revenue across entire basins and infrastructure networks. Golar LNG’s $468.6 million of revenue in the last year is pretty small for the industry, suggesting the company hasn’t hit a level of diversification where investors can sleep easy at night.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Energy cycles can be long enough that a single five-year period can still reflect one price environment, which is why an additional, decade-long view can help capture through-cycle performance. Golar LNG’s annualized revenue growth of 17.1% over the last ten years is above its five-year trend.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "This quarter, Golar LNG reported magnificent year-on-year revenue growth of 120%, and its $137.6 million of revenue beat Wall Street’s estimates by 4.3%.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Golar LNG’s demanding reinvestments have drained its resources over the last five years, putting it in a pinch and limiting its ability to return capital to investors. Its free cash flow margin averaged negative 83.8%, meaning it lit $83.83 of cash on fire for every $100 in revenue.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "It was good to see Golar LNG beat analysts’ EPS expectations this quarter. We were also excited its revenue outperformed Wall Street’s estimates by a wide margin. Zooming out, we think this quarter featured some important positives. The stock remained flat at $49.64 immediately following the results.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2026, Excelerate entered into a definitive agreement to acquire an LNG carrier, the",
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Hilli Episeyo FLNG — Cameroon (~62% of revenue):",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "The Hilli Episeyo is a converted Moss-type LNG carrier that has been operating offshore Cameroon since 2018 under a Liquefaction Tolling Agreement (LTA) with Perenco and Société Nationale des Hydrocarbures (SNH). It has a liquefaction capacity of approximately",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue in FY2025. The contract is structured as a take-or-pay tolling agreement, meaning Golar gets paid whether or not the gas is actually processed — this is a crucial protection against commodity price swings. In FY2025, Hilli contributed approximately",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "Gimi FLNG — Greater Tortue Ahmeyim, Mauritania & Senegal (~38% of revenue):",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue in FY2025 (approximately",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "of FLNG segment revenues), though Gimi only commenced first LNG production in early 2024 after significant delays, meaning FY2025 was effectively its first full operating year. The Gimi contract is the cleaner, more bankable contract of the two: it is a pure",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate and Other (~7% of revenue):",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carrier Market Size & Share, Growth Analysis 2035",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carrier Market Size & Share, by Vessel Size (Small scale carriers (≤ 40,000 m³), Mid-scale carriers (~40,000-150,000 m³), and Large-scale / Q Max carriers (> 150,000 m³)}; Containment System; Application; Propulsion Type - SWOT Analysis, Competitive Strategic Insights, Regional Trends 2026-2035",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "size was estimated at USD 16.3 billion in 2025 and is expected to surpass USD 30.2 billion by the end of 2035, rising at a CAGR of 6.4% during the forecast period, i.e., 2026-2035. In 2026, the industry size of LNG carrier is estimated at USD 17.4 billion.",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "By 2035, the Asia Pacific LNG carrier market is projected to hold 34.6% share, impelled by rising LNG imports, supportive policies, and the transition toward decarbonized energy sources.",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "The membrane segment is projected to account for 55.3% share of the LNG carrier market by 2035, propelled by the adoption of membrane containment systems enabling larger vessel capacities, enhanced safety, and greater efficiency.",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "Small scale carriers (≤ 40,000 m³)",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size, Share & Forecast Report 2025 to 2033 | Dataintelo",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Research Report 2033",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Outlook 2025-2033",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook for LNG Carriers 2025-2033",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "of global revenue in 2025 at approximately",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue of 600 million euros for the first nine months of 2025, strong growth of 29%; annual objectives revised upwards | GTT",
+    "url": "https://www.gtt.fr/news/revenue-600-million-euros-first-nine-months-2025-strong-growth-29-annual-objectives-revised",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue of 600 million euros for the first nine months of 2025, strong growth of 29%; annual objectives revised upwards",
+    "url": "https://www.gtt.fr/news/revenue-600-million-euros-first-nine-months-2025-strong-growth-29-annual-objectives-revised",
+    "pass": 3
+   },
+   {
+    "quote": "9M 2025 revenue: 599.6 million euros, up 29.0% vs. 9M 2024; +27.6% at constant scope",
+    "url": "https://www.gtt.fr/news/revenue-600-million-euros-first-nine-months-2025-strong-growth-29-annual-objectives-revised",
+    "pass": 3
+   },
+   {
+    "quote": "Order intake: 19 LNG carriers, 7 ethane carriers, 1 FLNG, 18 LNG-powered container ships and 1 LNG bunker vessel",
+    "url": "https://www.gtt.fr/news/revenue-600-million-euros-first-nine-months-2025-strong-growth-29-annual-objectives-revised",
+    "pass": 3
+   },
+   {
+    "quote": "2025 objectives revised upwards: revenue in the range of 790–820 million euros and EBITDA in the range of 530–550 million euros",
+    "url": "https://www.gtt.fr/news/revenue-600-million-euros-first-nine-months-2025-strong-growth-29-annual-objectives-revised",
+    "pass": 3
+   },
+   {
+    "quote": "GTT, the technological expert in membrane containment systems used to transport and store liquefied gases, today announces its revenue for the first nine months of 2025.",
+    "url": "https://www.gtt.fr/news/revenue-600-million-euros-first-nine-months-2025-strong-growth-29-annual-objectives-revised",
+    "pass": 3
+   },
+   {
+    "quote": "On the financial front, our revenue rose 29% over nine months, driven by the increase in the number of LNG carriers under construction. Given the strong performance of GTT’s core business and the contribution from Danelec, we are raising our 2025 objectives.”",
+    "url": "https://www.gtt.fr/news/revenue-600-million-euros-first-nine-months-2025-strong-growth-29-annual-objectives-revised",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carrier Investment Guide: Market, Returns & Opportunities (2025–2026)",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Imagine a vessel worth over $200 million. It stretches longer than three football fields and carries enough natural gas to power a city for weeks. These are LNG carriers – specialized ships that make global natural gas trade possible by transporting liquefied natural gas at -162°C across the world's oceans.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "The LNG carrier market, valued at $13.95 billion in 2026, is projected to reach $26.49 billion by 2037, growing at a robust 5.4% CAGR. This growth isn't just numbers on a spreadsheet; it represents a fundamental shift in how the world sources and transports energy.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "LNG carriers solve one of the most challenging logistics problems in global trade: moving natural gas across vast distances economically. Natural gas in its gaseous state would require massive volumes to transport, making long-distance shipping impractical. The solution lies in cooling natural gas to -162°C (-260°F), which reduces its volume by approximately 600 times.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Small-Scale LNG Carriers (1,000-25,000 m³):",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Large LNG Carriers (125,000-180,000 m³):",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "The 120,000-160,000 cubic meter segment accounts for the leading market share and is projected to grow rapidly. These carriers are versatile and well-suited to many LNG cargo routes and terminal configurations.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Ultra-Large LNG Carriers (200,000+ m³):",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "The LNG shipping industry has undergone significant evolution since the first commercial carrier, the Methane Pioneer, began operations in 1959. Early vessels utilized spherical tank systems developed by Kvaerner; however, the industry has since largely shifted toward more efficient membrane containment systems.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Global LNG Carriers Market Size, Share & Forecast 2026-2031",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Global LNG Carriers Market worth USD 15,470 million in 2025 is growing at a CAGR of 6.89% to reach USD 23,190 million by 2031. Mitsui O.S.K. Lines, NYK Line, Kawasaki Kisen Kaisha, Nakilat and Seapeak are the major companies operating in this market.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "428 MT, 2025, global. Cargo growth is the principal utilization driver for LNG carriers. Approximately 35% of 2025 trade occurred on a spot or short-term basis, increasing route flexibility and commercial demand for uncommitted modern vessels.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shell expects approximately 170 MT of additional LNG supply by 2030, creating demand for project-dedicated carriers, destination-flexible vessels and portfolio optimization services. Shipowners aligned with financed export projects obtain stronger long-term revenue visibility.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Clarksons reported record-low spot day rates during early 2025, demonstrating that fleet additions arrived before sufficient cargo supply. Owners with open vessels face cash-flow volatility and weaker debt-service coverage.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Channel Partner Program | Yokogawa Iberia S.A.",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partner Program",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "A variant of Shamoon malware",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Yokogawa Channel Partner",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partner List",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "This philosophy continues to live on in Yokogawa’s mission; we pursue a long-term shared vision with the Channel Partners towards our customers to add value to society by co-operation and co-innovation.",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Would you like more information about the Yokogawa Channel Partner Program or to request a partnership directly?",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "H-Line’s operating profit rose from 127.3 billion won in 2015 to 369.4 billion won last year, with its operating margin reaching about 28 percent. Its earnings before interest, taxes, depreciation and amortization nearly quadrupled to 753.8 billion won over the period.",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "The partnership between Eagle LNG and Anthony Veder will allow for flexibility in ownership, chartering, and operation of the various LNG assets as the LNG bunker market develops.",
+    "url": "https://sea-lng.org/2023/10/eagle-lng-announces-delivery-of-first-lng-carrier-for-caribbean-basin-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Generally, the choice of membrane type is dictated by the shipyard, but there are nowadays a variety of membrane solutions available including No.96 GW, No.96 LO3, No. 96 LO3+, Mark III Flex, Mark III Flex+, with different degrees of boil off gas (BOG) performance. New membrane types are emerging including the KC-1 and GTT is developing a new system which is a hybrid between No.96 and Mark III.",
+    "url": "https://www.lngindustry.com/liquid-natural-gas/27012021/innovation-in-the-lng-carrier-sector/",
+    "pass": 3
+   },
+   {
+    "quote": "7. Gross Margin",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "8. Adjusted EBITDA Margin",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Day-to-day expenses have swelled compared to its revenue over the last five years as its EBITDA margin fell by 10.7 percentage points",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "$98.93 million vs analyst estimates of $86.08 million (71.9% margin, 14.9% beat)",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Operating Margin:",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "In a single quarter or year, gross margins in the sector can swing wildly due to commodity prices, hedging, or changes in labor costs. Over a multi-year period across different points in the cycle, gross margin differences can signal whether a company is a structurally-advantaged producer (“rock” quality, takeaway, operating costs) or not.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Golar LNG, which averaged 63.6% gross margin over the last five years, exhibits good unit economics in the sector. It means the company will remain profitable at lower commodity prices than peers with inferior gross margins and serves as an encouraging starting point for ultimate operating profits and free cash flow generation.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "In Q1, Golar LNG produced a 69.9% gross profit margin, up 20.8 percentage points year on year.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Golar LNG has been a well-oiled machine over the last five years. It demonstrated elite profitability for an upstream and integrated energy business, boasting an average EBITDA margin of 77.6%.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Analyzing the trend in its profitability, Golar LNG’s EBITDA margin rose by 6.9 percentage points over the last year, as its sales growth gave it operating leverage.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "In Q1, Golar LNG generated an EBITDA margin profit margin of 71.9%, up 17.7 percentage points year on year. This increase was a welcome development and shows it was more efficient. This adjusted EBITDA beat Wall Street’s estimates by 14.9%.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Golar LNG’s demanding reinvestments have drained its resources over the last five years, putting it in a pinch and limiting its ability to return capital to investors. Its free cash flow margin averaged negative 83.8%, meaning it lit $83.83 of cash on fire for every $100 in revenue.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "While the level of free cash flow margins is important, their consistency matters just as much.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Golar LNG burned through $107.4 million of cash in Q1, equivalent to a negative 78.1% margin. The company’s cash burn increased from $78.13 million of lost cash in the same quarter last year.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "It was good to see Golar LNG beat analysts’ EPS expectations this quarter. We were also excited its revenue outperformed Wall Street’s estimates by a wide margin. Zooming out, we think this quarter featured some important positives. The stock remained flat at $49.64 immediately following the results.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Net Income for the second quarter of 2026 was in line with the prior quarter, while Adjusted EBITDA decreased slightly from the prior quarter primarily due to LNG, gas and power seasonal impacts, partially offset by higher margins for Jamaica.",
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted Gross Margin",
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "through 2030, driven by the need to monetize offshore and stranded gas reserves without the multi-billion dollar cost of onshore LNG infrastructure. Margins for FLNG tolling are high — EBITDA margins in this segment tend to run",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "terms — Golar's Gimi contract is ABOVE the sub-industry average by a wide margin. The key vulnerability is Hilli's shorter remaining contract term, which creates a near-term redeployment or renegotiation event. However, the combined contracted profile — with Gimi's long duration anchoring the portfolio — justifies a Pass rating, as revenue visibility is substantially above peers.",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "and typical FLNG EBITDA margins of",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "Vard Group AS",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "revenue share",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "revenue share in 2025, representing the dominant containment technology with approximately",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "revenue share representing",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Operating costs for LNG carriers vary significantly by vessel type and size, with large-scale Membrane Type vessels costing",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": ", and various state-owned enterprises control remaining",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "share through cost advantages and government support, while European yards focus on specialized vessel segments and remain marginal competitors in standard LNG carrier newbuilds.",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "of newbuild capacity, competing primarily through cost advantages and emerging market customer relationships. European yards maintain marginal roles with",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.2 List of Key Distributors",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers, distributors, resellers, and system integrators",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The LNG carrier market, valued at $12.22 billion in 2024, is projected to reach $17.53 billion by 2030, growing at a 6.1% CAGR. Multiple research sources confirm this growth trajectory, though projections vary based on methodology and scope.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Different contract structures offer varying risk-return profiles.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Historical returns have varied significantly based on timing, vessel specifications, and market conditions. Shipowners should carefully analyze specific opportunities rather than relying on sector averages.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Lower fuel consumption and boil-off losses support higher time-charter-equivalent earnings, improved voyage margins and stronger charter renewal prospects for compliant vessels.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA Margin",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "＜アジア最大の市場調査レポート販売代理店＞",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "船舶代理店サービス｜飾磨海運株式会社のホームページ",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "船舶代理店サービス",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "船舶代理店事務スタッフ（通訳業務あり）",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "「船舶代理店サービス（海運代理店",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "一般貨物船、LNG専用船、タンカー船、鉱石・石炭専用船、木材専用船、コンテナ船、客船等、港湾に入出港するあらゆる外航船舶及び内航船舶の入出港手続き及び運航にかかる代理店業務を行っております",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "外航船舶の代理店 海運部 ",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "内航船舶の代理店 港運部 ",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "Mailform （外航代理店）",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "Mailform （内航代理店）",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "仕向地の自由化ひいてはバイヤーによる再販に関して輸出国側が抵抗するのは主に以下",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・バイヤーによる再販を認めてしまえば、輸出国自らが追加販売する機会を喪失してし",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・1 つの市場で自分の LNG と再販された LNG との競争（価格低下）が生じてしまう",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Sanpo-yoshi is a 250-years old Japanese philosophy that focuses on a win-win-win relationship.",
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "From Samsung to Toss: Why Korean finance is betting on Japan",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "United States, South Korea, China, Japan, Qatar",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "(Japan, China, India, Indonesia, Malaysia, Australia, South Korea, Rest of Asia Pacific)",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Sustainable Marine Fuel",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (+81)",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Office",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "from keel laying to delivery, creating natural barriers to entry and reinforcing the dominance of established Korean, Japanese, and Chinese shipyards. Vessel operating costs including crew, fuel, maintenance, and insurance range from",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": ", reflecting advanced propulsion technology, enhanced insulation systems, and integrated ballast water treatment requirements. Major shipbuilding nations including South Korea, Japan, and China have invested over",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "from regional shipping operators and energy majors. Asian nations are diversifying away from Russian pipeline supplies, with LNG import capacity additions planned across Japan, South Korea, China, India, and Southeast Asia, requiring sustained carrier deployment across multiple trade routes. Energy security mandates have increased vessel utilization rates to historical highs of",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "maintaining dominant market positions. Japanese shipbuilders including",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "of global LNG carrier newbuild orders, with Samsung Heavy Industries, Hyundai Heavy Industries, and Daewoo Shipbuilding maintaining commanding market positions through advanced technology, proven reliability, and integrated supply chains. Japanese yards including Mitsubishi Heavy Industries and Kawasaki Heavy Industries hold",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Heavy Industries represents the largest Japanese competitor with",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.2.2 Japan",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is expected to generate $8.48 billion by 2037, driven by massive LNG import demand from China, Japan, and South Korea. This region's energy security concerns and environmental commitments create sustained demand growth.",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific ranked first with an estimated USD 7,270 Mn market in 2025, supported by major importing economies, Japanese shipowners and shipbuilding capacity in South Korea, China and Japan.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、ドイツの公的金融機関が",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "日本：気候目標にもかかわらずLNG公的資金の中核的プレーヤー",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2030年までに、2013年比で温室効果ガス排出を46％削減することを目標としています",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本が批准しているパリ協定の1.5℃目標と整合するためには、約",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本は海運の脱炭素化やメタン削減に関する主要な国際イニシアティブにも参加していますが、LNGプロジェクトへの継続的な投資は、こうした気候目標を損なう可能性があります",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、2022年のG7サミットにおいて化石燃料への",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "画像提供：内閣官房（Prime Minister’s Office of Japan）",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "日本はG7での化石燃料に関するコミットメントの後、アジアのパートナー国とともに「アジア・ゼロエミッション共同体（AZEC）」を立ち上げ、地域におけるネットゼロ協力の枠組みを構築しました",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、これらの合意の多くはLNG開発に関連しており、日本はこれをAZECパートナー国にとっての「移行燃料」と位置づけています",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、化石燃料への資金供給において国際的に大きな影響力を持ち、探査・開発から輸送、発電、最終消費に至るまで、バリューチェーン全体に関与しています",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー経済・財務分析研究所（IEEFA）は、これを「日本型モデル」と呼び、政策、エネルギー安全保障、金融手法が組み合わさった構造として説明しています",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "これらの仕組みは、海外のLNG輸出プロジェクトへの直接投資を促進し、日本をアジア太平洋地域におけるLNG開発の主要な推進役としています",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "日本国際協力銀行（JBIC）などの公的金融機関（PFI）は、LNGへの資金供給を通じて国内のエネルギー安全保障を確保するという法的使命を担っています",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "過去10年間で、日本の公的金融機関は海外LNG開発プロジェクトに対して",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "公的資金によって裏付けられた保険、融資、保証、さらには出資は、日本の民間企業や民間銀行によるLNGプロジェクトへの参画を促進しています",
+    "url": "https://forourclimate.org/ja/insights/99",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船 ― 「気化する貨物」がエンジンを進化させた 日本郵船これくしょん#12 | BVTL Magazine | 日本郵船株式会社",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船グループ企業理念",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船グループのサステナビリティ経営",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船トップ",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船ってどんな会社？",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船 ― 「気化する貨物」がエンジンを進化させた 日本郵船これくしょん#12",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船とLNG輸送",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船がLNG船事業に参入したのは1983年",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシアから日本へとLNGを運ぶ事業でした",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "それから40年以上にわたりLNG輸送に取り組み、日本向けの輸送だけでなく、欧州やアジアなどさまざまな国へとクリーンエネルギーを届けています",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船がLNG船の運航を通じて培ってきた経験は、LNGそのものを運ぶことだけにとどまりません",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア燃料船編 ー温室効果ガス削減に向けて日本郵船が取り組みを加速 日本郵船これくしょん#11 | BVTL Magazine",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "タグボート —小さな船の大きなちから！ 日本郵船これくしょん…",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船これくしょん",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船「ツウ」の方へ",
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本においては、邦船3社で共同保有し、商船三井が運航した1983年就航の「泉州丸」が最初のLNG船です",
+    "url": "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "pass": 3
+   },
+   {
+    "quote": "邦船社初の本船は、インドネシアのボンタンから日本へのLNG輸送に従事し、実に733回もの航海を実施、生涯を通して安全運航に努めました",
+    "url": "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "pass": 3
+   },
+   {
+    "quote": "また、輸送したLNGの総量は9,000万㎥と、電力換算で、日本の総世帯が使用する電力量の約497日分に相当します",
+    "url": "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月、本船は日本で最後の貨物を揚げ切ったのち、解撤のためインドに向かい、引退を迎えました",
+    "url": "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国は成熟したLNG輸入国であり、インドはガスインフラの拡大に取り組んでいます",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "LNGとは「Liquefied Natural Gas」の略語で、日本語では「液化天然ガス」と呼ばれるメタンを主成分とする天然ガスを冷却した無色透明な液体です",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "海外産地（インドネシア、マレーシア、オーストラリア、ブルネイ、アブダビ、カタール、アラスカ、オマーン）で、天然ガスを低温技術により-160℃に冷却して液体化したものを、LNG専用船で日本の受け入れ基地に海上輸送しています",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "意外にその存在は一般的に知られていないのですが、実際は日本の都市部で利用されているガスは、大部分が海外から輸入された天然ガスになっており、21世紀は天然ガスの時代という見方もあるほどで、昨今注視されている地球環境問題との絡みからも、日本のエネルギー問題を考えるとき、重要な位置を占めており、今後益々注目されるエネルギーであるといえます",
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "pass": 3
+   },
+   {
+    "quote": "【記者の視点/五味宜範】日本でのLNG運搬船建造、海外メーカーも期待寄せる|日本海事新聞 電子版",
+    "url": "https://www.jmd.co.jp/article.php?no=282543",
+    "pass": 3
+   },
+   {
+    "quote": "日本でのLNG運搬船建造、海外メーカーも期待寄せる",
+    "url": "https://www.jmd.co.jp/article.php?no=282543",
+    "pass": 3
+   },
+   {
+    "quote": "韓国造船との競争激化などを踏まえた各社の戦略により、当分の間、日本の造船会社がLNG運搬船を受注しないことは頭で分かっている",
+    "url": "https://www.jmd.co.jp/article.php?no=282543",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な会社名は出ていないものの、この説明の中に日本の造船会社が入っているはずで、日本でLNG運搬船を建造しなくなったことが、合併を阻止した遠因になったとも言える",
+    "url": "https://www.jmd.co.jp/article.php?no=282543",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "SK Shipping will become Asia’s largest LNG carrier operator and rebrand as K-LNG through a trillion-won fleet reshuffle orchestrated by private equity owner Hahn & Co..",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.",
+    "url": "https://sea-lng.org/2023/10/eagle-lng-announces-delivery-of-first-lng-carrier-for-caribbean-basin-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Golar's competitive moat is durable but narrow. The long-term take-or-pay contracts on both Hilli and Gimi provide a cash flow floor that is difficult to erode, and the switching costs embedded in both agreements are effectively infinite during the contract term. However, the moat faces three key tests over time. First, when the Hilli contract expires (around",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "H-Line’s operating profit rose from 127.3 billion won in 2015 to 369.4 billion won last year, with its operating margin reaching about 28 percent. Its earnings before interest, taxes, depreciation and amortization nearly quadrupled to 753.8 billion won over the period.",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "SK Shipping’s operating profit increased from 73.3 billion won in 2018 to 504 billion won last year. Its EBITDA more than tripled from 231.7 billion won to 781.1 billion won.",
+    "url": "https://www.koreaherald.com/article/10839901",
+    "pass": 3
+   },
+   {
+    "quote": "of Golar LNG. Its weak sales growth and low returns on capital show it struggled to generate demand and profits.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "8. Adjusted EBITDA Margin",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Day-to-day expenses have swelled compared to its revenue over the last five years as its EBITDA margin fell by 10.7 percentage points",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "in Q1 CY2026, with sales up 120% year on year to $137.6 million. Its GAAP profit of $0.82 per share was significantly above analysts’ consensus estimates.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA:",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Golar LNG, which averaged 63.6% gross margin over the last five years, exhibits good unit economics in the sector. It means the company will remain profitable at lower commodity prices than peers with inferior gross margins and serves as an encouraging starting point for ultimate operating profits and free cash flow generation.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "In Q1, Golar LNG produced a 69.9% gross profit margin, up 20.8 percentage points year on year.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Golar LNG has been a well-oiled machine over the last five years. It demonstrated elite profitability for an upstream and integrated energy business, boasting an average EBITDA margin of 77.6%.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Analyzing the trend in its profitability, Golar LNG’s EBITDA margin rose by 6.9 percentage points over the last year, as its sales growth gave it operating leverage.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "In Q1, Golar LNG generated an EBITDA margin profit margin of 71.9%, up 17.7 percentage points year on year. This increase was a welcome development and shows it was more efficient. This adjusted EBITDA beat Wall Street’s estimates by 14.9%.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Free cash flow shows how much money a producer generated, while ROIC shows how efficiently that money was earned. ROIC measures the operating profit produced for each dollar of capital invested, whether from debt or equity. Cash generation measures quantity while ROIC measures the quality of value creation.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Unfortunately, Golar LNG’s ROIC has decreased significantly over the last few years. Paired with its already low returns, these declines suggest its profitable growth opportunities are few and far between.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "Reported Net Income of $50.1 million for the second quarter",
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Reported Adjusted EBITDA of $120.1 million for the second quarter",
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Net Income for the second quarter of 2026 was in line with the prior quarter, while Adjusted EBITDA decreased slightly from the prior quarter primarily due to LNG, gas and power seasonal impacts, partially offset by higher margins for Jamaica.",
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted Net Income",
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "The Company uses Adjusted Net Income, a non-GAAP financial measure, which it defines as net income plus tax-effected transition and transaction expenses. Management believes Adjusted Net Income is useful because it provides insight into profitability excluding the impact of non-recurring charges related to the Jamaica acquisition.",
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA",
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "The Company uses Adjusted Earnings Per Share (“EPS”), a non-GAAP financial measure, which it defines as diluted EPS plus the per share impact of its tax-effected transition and transaction expenses. Management believes Adjusted EPS is useful because it provides insight on per share profitability excluding the impact of non-recurring charges related to the Jamaica acquisition.",
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "pass": 3
+   },
+   {
+    "quote": "through 2030, driven by the need to monetize offshore and stranded gas reserves without the multi-billion dollar cost of onshore LNG infrastructure. Margins for FLNG tolling are high — EBITDA margins in this segment tend to run",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "(segment, excluding corporate), indicating a strong annualized run rate. Golar's utilization of both FLNG units has been high — both Hilli and Gimi have operated at or near contracted capacity in recent quarters. The EBITDA-per-day figures are not explicitly disclosed in the available data, but given FY2025 FLNG revenues of",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "and typical FLNG EBITDA margins of",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": ", EBITDA per day across the two units is estimated at approximately",
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "pass": 3
+   },
+   {
+    "quote": "for large-scale carriers during peak demand in 2025, providing profitable returns on vessel investments when utilization exceeds",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 objectives revised upwards: revenue in the range of 790–820 million euros and EBITDA in the range of 530–550 million euros",
+    "url": "https://www.gtt.fr/news/revenue-600-million-euros-first-nine-months-2025-strong-growth-29-annual-objectives-revised",
+    "pass": 3
+   },
+   {
+    "quote": "charter coverage, vessel values, leverage, EBITDA, residual risk",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA Margin",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarks operational scale, utilization, charter earnings and financial profitability metrics",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Entry strategy evaluation, execution roadmap, partner recommendations, and profitability outlook.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Profitability Outlook",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Where will the market's profit pools shift during the forecast period?",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "INEOS businesses have put in place the plans and actions needed to ensure that they lead the transition to a net zero economy by no later than 2050, whilst remaining profitable. As part of its greenhouse gas emission reduction strategy.",
+    "url": "https://www.ineos.com/news/shared-news/ineos-energy-charters-two-highly-efficient-lng-carriers-to-create-virtual-lng-pipeline-from-the-us-to-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "COSCO7―9月期、純利益81%増",
+    "url": "https://www.jmd.co.jp/article.php?no=282543",
+    "pass": 3
+   },
+   {
+    "quote": "アルジェリアLNG アルジェリア 仕向地規制必要、転売する場合にはProfit Sharing",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルジェリアは、Profit Sharing を要件とし転売を認める姿勢をみせているが、EU は",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "場への転売など裁定取引などによる値さ取りを目的とした場合には Profit Sharing が原",
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SK Shipping to become Asia's largest LNG carrier under K ... — SK Shipping to become Asia's largest LNG carrier under K ... gasworld https://www.gasworld.com > story > 2...",
+    "url": "https://www.gasworld.com/story/sk-shipping-to-become-asias-largest-lng-carrier-under-k-lng-rebrand/2257111.article/",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carrier Market Size & Share, Growth Analysis 2035 — LNG Carrier Market Size & Share, Growth Analysis 2035 Research Nester https://www.researchnester.com > lng...",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size, Share & Forecast Report 2025 to ... — LNG Carriers Market Size, Share & Forecast Report 2025 to ... Dataintelo https://dataintelo.com > report > glob...",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global LNG Carriers Market Size, Share & Forecast 2026-2031 — Global LNG Carriers Market Size, Share & Forecast 2026-2031 Ken Research https://www.kenresearch.com > globa...",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "14-year LNG carrier deal lifts CoolCo's total revenue backlog ... — 14-year LNG carrier deal lifts CoolCo's total revenue backlog ... Offshore Energy https://www.offshore-energy.biz > 14...",
+    "url": "https://www.offshore-energy.biz/14-year-lng-carrier-deal-lifts-coolcos-total-revenue-backlog-to-nearly-1-9-billion",
+    "pass": 3
+   },
+   {
+    "quote": "03_ エネルギー 輸送_ LNG船 |いろいろな船 — 03_ エネルギー 輸送_ LNG船 |いろいろな船 商船三井 https://www.mol.co.jp > various-vessels > lng_carrier",
+    "url": "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船 市場―2026年～2032年の世界市場予測 — LNG運搬船 市場―2026年～2032年の世界市場予測 アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "03_エネルギー輸送_ LNG船 |いろいろな船 — 03_エネルギー輸送_ LNG船 |いろいろな船 商船三井 https://www.mol.co.jp > various-vessels > lng_carrier",
+    "url": "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Securing Energy for Europe agreed to buy 2 million tonnes of Argentine LNG production from SESA. The volume is split evenly between Brent-linked and Henry Hub-linked pricing, establishing a defined offtake channel with mixed commodity exposure.",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "pass": 3
+   },
+   {
+    "quote": "An estimated 251 vessels were scheduled for delivery during 2025-2027, compared with lower near-term project requirements. Owners must secure project employment, delay deliveries or accept lower short-term charter pricing.",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "468.6",
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "quote": "Revenue base of $468.6 million puts it at a disadvantage compared to larger competitors exhibiting economies of scale"
+   },
+   {
+    "value": "17.4",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "quote": "size was estimated at USD 16.3 billion in 2025 and is expected to surpass USD 30.2 billion by the end of 2035, rising at a CAGR of 6.4% during the forecast period, i.e., 2026-2035. In 2026, the industry size of LNG carrier is estimated at USD 17.4 billion."
+   },
+   {
+    "value": "13.95",
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "quote": "The LNG carrier market, valued at $13.95 billion in 2026, is projected to reach $26.49 billion by 2037, growing at a robust 5.4% CAGR. This growth isn't just numbers on a spreadsheet; it represents a fundamental shift in how the world sources and transports energy."
+   },
+   {
+    "value": "15,470",
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "quote": "The Global LNG Carriers Market worth USD 15,470 million in 2025 is growing at a CAGR of 6.89% to reach USD 23,190 million by 2031. Mitsui O.S.K. Lines, NYK Line, Kawasaki Kisen Kaisha, Nakilat and Seapeak are the major companies operating in this market."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.truckinghub.com/solutions/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shipstation.com/blog/white-label-shipengine-with-the-partners-api/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icontainers.com/solutions/freight-forwarding-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.2ship.com/advanced-solutions/carriers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eva2z.com/oem-fleet-partnership/?srsltid=AYCX9vKDM7TJUwWGJ5GuRMJZa9nKmVc4SZbinoP7Rxhw39yTgRrpYQXo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brekeke.com/partner/oem-partner.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inworkglobal.com/services/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carahsoft.com/partners/resellers-service-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plansource.com/reseller-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opengear.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.here.com/get-started/partner-with-here",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gasworld.com/story/sk-shipping-to-become-asias-largest-lng-carrier-under-k-lng-rebrand/2257111.article/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koreaherald.com/article/10839901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sea-lng.org/2023/10/eagle-lng-announces-delivery-of-first-lng-carrier-for-caribbean-basin-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gaslogltd.com/lngreen-next-generation-lng-carrier-concept-by-gaslog-dnv-hyundai-heavy-industries-and-gtt/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lngindustry.com/liquid-natural-gas/27012021/innovation-in-the-lng-carrier-sector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stockstory.org/us/stocks/nasdaq/glng",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gaslogltd.com/content/uploads/201812-GLOG-Investor-Presentation.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101648860",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtt.fr/news/revenue-600-million-euros-first-nine-months-2025-strong-growth-29-annual-objectives-revised",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/global-lng-carriers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ineos.com/news/shared-news/ineos-energy-charters-two-highly-efficient-lng-carriers-to-create-virtual-lng-pipeline-from-the-us-to-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ieefa.org/european-lng-tracker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lngindustry.com/regasification/24022026/naftogaz-secures-first-ever-delivery-of-lng-via-germany-terminal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eni.com/en-IT/company/subsidiaries-and-affiliates/lng-shipping.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0954349X25000542",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forourclimate.org/ja/insights/99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deskely.com/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idaj.co.jp/blog/software/gt-suite/marine-system-simulation-for-lng-carriers-261102",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nyk.com/stories/01/04/20261009.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shikamakaiun.co.jp/pages/31/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=282543",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://answers.khi.co.jp/ja/mobility/20170731j-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LNG carrier software white label",
+   "results": [
+    "https://www.truckinghub.com/solutions/white-label/",
+    "https://www.shipstation.com/blog/white-label-shipengine-with-the-partners-api/",
+    "https://www.icontainers.com/solutions/freight-forwarding-software/",
+    "https://www.2ship.com/advanced-solutions/carriers/",
+    "https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide",
+    "https://www.honeywell.com/us/en/industries/lng/shipping",
+    "https://www.freightoptics.com/company/white-label/",
+    "https://agorafreight.net/white-label-en/",
+    "https://marine-offshore.bureauveritas.com/newsroom/modern-lng-carrier-technology",
+    "https://www.banuba.com/blog/best-white-label-software"
+   ]
+  },
+  {
+   "query": "LNG carrier software OEM white-label partner",
+   "results": [
+    "https://www.eva2z.com/oem-fleet-partnership/?srsltid=AYCX9vKDM7TJUwWGJ5GuRMJZa9nKmVc4SZbinoP7Rxhw39yTgRrpYQXo",
+    "https://brekeke.com/partner/oem-partner.php",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://www.inworkglobal.com/services/white-label",
+    "https://conversight.ai/oem-partners/",
+    "https://www.yokogawa.com/us/industries/oem-program/",
+    "https://www.airstride.ai/platform/whitelabelling",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://binarybrill.com/services/white-label-development/",
+    "https://www.truckinghub.com/solutions/white-label/"
+   ]
+  },
+  {
+   "query": "LNG carrier software reseller partner program",
+   "results": [
+    "https://www.carahsoft.com/partners/resellers-service-providers",
+    "https://www.yokogawa.com/es/support/channel-partner-program/",
+    "https://plansource.com/reseller-partners/",
+    "https://opengear.com/partner/",
+    "https://www.here.com/get-started/partner-with-here",
+    "https://orbitmi.com/playing-the-lng-game-with-nautilus-labs-and-orbitmi/",
+    "https://www.youtube.com/watch?v=b7w2yKRfJW4",
+    "https://openit.com/partner/",
+    "https://www.progress.com/partners",
+    "https://marketplace.lngcluster.com/business/reseller-program"
+   ]
+  },
+  {
+   "query": "LNG carrier SaaS rebrand private label",
+   "results": [
+    "https://www.gasworld.com/story/sk-shipping-to-become-asias-largest-lng-carrier-under-k-lng-rebrand/2257111.article/",
+    "https://www.koreaherald.com/article/10839901",
+    "https://sea-lng.org/2023/10/eagle-lng-announces-delivery-of-first-lng-carrier-for-caribbean-basin-service/",
+    "https://www.gaslogltd.com/lngreen-next-generation-lng-carrier-concept-by-gaslog-dnv-hyundai-heavy-industries-and-gtt/",
+    "https://www.lngindustry.com/liquid-natural-gas/27012021/innovation-in-the-lng-carrier-sector/",
+    "https://www.facebook.com/CarrierGlobal/videos/carrier-is-stepping-into-a-bold-new-era-with-a-fresh-brand-identity-and-a-powerf/1355319905767451/",
+    "https://www.facebook.com/MySeaLife1/posts/why-do-lng-carriers-look-so-different-lng-carriers-are-specially-designed-to-tra/1581470733351326/",
+    "https://www.nyk.com/english/news/2021/20211004_02.html",
+    "https://www.tradewindsnews.com/gas/private-equity-firm-to-forge-asias-largest-lng-carrier-fleet-in-700m-overhaul/2-1-2028536",
+    "https://resellportal.com/what-is-private-label-saas/"
+   ]
+  },
+  {
+   "query": "LNG carrier software company profitable EBITDA",
+   "results": [
+    "https://stockstory.org/us/stocks/nasdaq/glng",
+    "https://www.facebook.com/page.SHIPBUILDING/posts/norway-based-alng-formerly-known-as-awilco-lng-reported-a-net-loss-of-64-million/1397699195881618/",
+    "https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/",
+    "https://www.gaslogltd.com/content/uploads/201812-GLOG-Investor-Presentation.pdf",
+    "https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat",
+    "https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101648860",
+    "https://www.youtube.com/watch?v=TNzBIy5sDCc",
+    "https://frenchfocus.substack.com/p/gaztransport-and-technigaz-gtt-from",
+    "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "https://stockanalysis.com/stocks/lng/financials/"
+   ]
+  },
+  {
+   "query": "LNG carrier software bootstrapped profitable revenue",
+   "results": [
+    "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "https://dataintelo.com/report/global-lng-carriers-market",
+    "https://www.gtt.fr/news/revenue-600-million-euros-first-nine-months-2025-strong-growth-29-annual-objectives-revised",
+    "https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025",
+    "https://www.kenresearch.com/global-lng-carriers-market",
+    "https://www.offshore-energy.biz/14-year-lng-carrier-deal-lifts-coolcos-total-revenue-backlog-to-nearly-1-9-billion",
+    "https://www.compressortech2.com/news/hanwha-ocean-sees-growing-lng-carrier-demand-despite-near-term-market-pressures/8135116.article",
+    "https://marine-offshore.bureauveritas.com/modern-lng-carrier-technology-report",
+    "https://frenchfocus.substack.com/p/gaztransport-and-technigaz-gtt-from",
+    "https://rosprom.org/bootstrapped-is-the-new-vc-backed-why-2025-2026-founder-data-suggests-profitability-first-startups-are-winning-the-long-game/"
+   ]
+  },
+  {
+   "query": "LNG carrier software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.ineos.com/news/shared-news/ineos-energy-charters-two-highly-efficient-lng-carriers-to-create-virtual-lng-pipeline-from-the-us-to-europe/",
+    "https://ieefa.org/european-lng-tracker",
+    "https://www.lngindustry.com/regasification/24022026/naftogaz-secures-first-ever-delivery-of-lng-via-germany-terminal/",
+    "https://www.eni.com/en-IT/company/subsidiaries-and-affiliates/lng-shipping.html",
+    "https://www.sciencedirect.com/science/article/pii/S0954349X25000542",
+    "https://themerchantsnews.substack.com/p/the-european-lng-infrastructure-play",
+    "https://knutsenoas.com/knutsen-lng/",
+    "https://www.npr.org/2025/08/08/nx-s1-5496240/germany-israel-gaza-military-exports-weapons",
+    "https://marine-offshore.bureauveritas.com/modern-lng-carrier-technology-report",
+    "https://www.calypso-commodities.com/solutions/lng-shipping-optimisation-software"
+   ]
+  },
+  {
+   "query": "LNG運搬船 ソフトウェア OEM 提供",
+   "results": [
+    "https://forourclimate.org/ja/insights/99",
+    "https://deskely.com/ja/industries/marine-and-shipyards/lng-and-gas-carriers",
+    "https://www.idaj.co.jp/blog/software/gt-suite/marine-system-simulation-for-lng-carriers-261102",
+    "https://www.nyk.com/stories/01/04/20261009.html",
+    "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "https://answers.khi.co.jp/ja/mobility/20170731j-01/",
+    "https://www.youtube.com/watch?v=Ce7UXFxNyGo",
+    "https://orsj.org/wp-content/corsj/or61-1/or61_1_30.pdf",
+    "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "https://www.marketresearch.co.jp/mrclc5de0609/"
+   ]
+  },
+  {
+   "query": "LNG運搬船 ソフト 代理店 海外製",
+   "results": [
+    "https://forourclimate.org/ja/insights/99",
+    "https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "https://www.shikamakaiun.co.jp/pages/31/",
+    "https://www.mol.co.jp/various-vessels/lng_carrier/",
+    "https://www.jmd.co.jp/article.php?no=282543",
+    "https://www.nyk.com/stories/01/04/20261009.html",
+    "https://answers.khi.co.jp/ja/mobility/20170731j-01/",
+    "https://eneken.ieej.or.jp/data/pdf/1359.pdf",
+    "https://baike.baidu.com/ja/item/LNG%E9%81%8B%E6%90%AC%E8%88%B9%E6%96%B0%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4/1671739",
+    "http://kaigaisoft.com/"
+   ]
+  }
+ ],
+ "missing": {}
+}

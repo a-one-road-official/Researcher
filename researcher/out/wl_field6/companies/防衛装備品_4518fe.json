@@ -1,0 +1,528 @@
+{
+ "name": "防衛装備品",
+ "en": "defense equipment",
+ "aliases": [
+  "デュアルユース",
+  "防衛産業"
+ ],
+ "context": "5 防衛 ③デュアルユース",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:12:21.071067+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "キャップジェミニ・ジャパン TOP",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "OEMからライフサイクルパートナーへ",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のもう一つの強みはOEMおよびMRO領域である",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は長年にわたり、OEMとして開発・製造・保守整備を担ってきた",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "日本の航空宇宙・防衛産業は「サプライチェーンプレーヤー」から「システムインテグレーター」へ進化できるか - Capgemini Japan",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "日本 | JP",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan | JP",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の航空宇宙・防衛産業は「サプライチェーンプレーヤー」から「システムインテグレーター」へ進化できるか",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "～Capgemini Aerospace & Defense Engineering and R&D Pulse 2026から読む、日本企業への提言～",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本市場では、防衛力強化と航空宇宙産業再活性化が同時に進んでいる",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の航空宇宙・防衛企業にとって、この変化は単なる技術革新ではない",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "GCAP（Global Combat Air Programme）やEdgewing設立、航空機電動化（ECLAIR）コンソーシアム、JADCを軸とした民間航空機開発支援など、日本企業が国際共同開発の中核へと進化する機会が訪れている",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の60％が「イノベーション速度を高められなければ今後5年以内に市場シェアを失う」",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本企業自身が現状維持では競争力を維持できないことを認識している証左である",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業はすでに世界有数の国際サプライチェーンプレイヤー",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "GCAPは新しい挑戦である一方、日本企業はゼロからスタートするわけではない",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の航空産業は過去30年以上にわたり、グローバルプログラムに参画し、航空宇宙・防衛産業はこれまで高品質な製造力によって成長してきた",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のもう一つの強みはOEMおよびMRO領域である",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は長年にわたり、OEMとして開発・製造・保守整備を担ってきた",
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "本事業は、日豪間で初めての共同開発案件であるのみならず、日本の防衛関連企業の技術が外国政府から着目され、防衛分野での国際共同開発の実施に至った初めての事例であり、官民一体となって防衛装備移転を推進してきたわが国にとって新たな一歩となるものです",
+    "url": "https://www.mod.go.jp/atla/soubiseisakugijutu.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月、日印防衛装備品・技術移転協定に基づき、「もがみ」型護衛艦に搭載されている艦艇搭載用複合通信空中線「ユニコーン」の日本からインドへの装備移転に関する細目取極（MOI, Memorandum of Implementation）に日印間で署名を行いました",
+    "url": "https://www.mod.go.jp/atla/soubiseisakugijutu.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月、AUKUS首脳共同声明および国防大臣共同声明において、AUKUS「第2の柱」における「海洋無人機システム」が日本との初期的な「第2の柱（Pillar Ⅱ）」協力の機会を模索する分野として挙げられました",
+    "url": "https://www.mod.go.jp/atla/soubiseisakugijutu.html",
+    "pass": 3
+   },
+   {
+    "quote": "DSEI Japan 2025における防衛装備庁ブース",
+    "url": "https://www.mod.go.jp/atla/soubiseisakugijutu.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、国内では、2025年5月に開催された「DSEI Japan 2025」において、防衛装備庁ブースに加え、陸・海・空各自衛隊ブースを設け、レールガンをはじめ先進的技術を活用した開発中装備品の模型や、自衛隊車両などの実機や模型を展示しました",
+    "url": "https://www.mod.go.jp/atla/soubiseisakugijutu.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の安全保障、国際貢献、災害派遣などの",
+    "url": "https://aerospace.mitsui.co.jp/products/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、国際平和協力活動・災害派遣・警戒監視・通信等の多様なニーズに応えるべく、主に欧米の友好国企業の国内代理店として、航空機や艦船等に搭載される装備品及びサービスを自衛隊及び関係企業に提供します",
+    "url": "https://aerospace.mitsui.co.jp/products/defense/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "具体的には、国際平和協力活動・災害派遣・警戒監視・通信等の多様なニーズに応えるべく、主に欧米の友好国企業の国内代理店として、航空機や艦船等に搭載される装備品及びサービスを自衛隊及び関係企業に提供します",
+    "url": "https://aerospace.mitsui.co.jp/products/defense/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://maintastic.com/en/white-label-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solutionshub.epam.com/blog/post/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assembly.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/14u3mg1/why_dont_more_people_run_a_white_label_software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.bicomsystems.com/oem-and-white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rizkly.com/white-label-compliance-automation-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opswat.com/blog/oem-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://patentpc.com/blog/how-to-license-ip-for-white-label-and-oem-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.add-on.com/sales-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carahsoft.com/partners/resellers-service-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/en_us/partners/federal-government.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boomerangme.com/blog/white-label-saas-software-for-resellers-and-agencies-the-ultimate-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hiringthing.com/blog/private-label-vs-white-label-ats",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://workdo.io/white-label-saas-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://estorebrands.com/ignite/private-label-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fieldtexcases.com/private-label-and-branding.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.equidam.com/ebitda-multiples-trbc-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systematic.com/int/newsroom/corporate-news/systematic-doubles-last-year-s-record-profit-defence-software-and-ai-driving-growth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullratio.com/ebitda-margin-by-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bcg.com/publications/2025/rule-of-40-lessons-from-top-performers-software",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maalot.co.il/Publications/MT20200611143124.PDF",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/defense-tech-business-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maggiegray.us/p/beyond-saas-new-business-models-in",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://teamworks.com/blog/why-most-defense-software-startups-never-hit-escape-velocity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ysecurity.io/blog/defense-tech-startup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpmorgan.com/insights/business-planning/defense-tech-innovation-and-the-role-of-startups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adriadefense.com/7-israeli-defense-tech-companies-expanding-into-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/defense-technology-suppliers/israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thalesgroup.com/en/search/enterprise/financial-services/emv-white-label-strategic-future-transit-fare-systems",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://helsing.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.heidelberg.com/global/en/about_heidelberg/press_relations/press_release/press_release_details/press_release_262786.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/rapid_acquisition/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://laws.e-gov.go.jp/law/505AC0000000054",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.medstec.co.jp/business/defence.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/ab1/20241028/sankou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.ntkinternational.com/business/fitment/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://kaigaibussan.co.jp/service/aircraft/electronics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/soubiseisakugijutu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcmachinery.co.jp/introduction/space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aerospace.mitsui.co.jp/products/defense/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "defense equipment software white label",
+   "results": [
+    "https://maintastic.com/en/white-label-software/",
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://assembly.com/blog/white-label-software",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.reddit.com/r/Entrepreneur/comments/14u3mg1/why_dont_more_people_run_a_white_label_software/",
+    "https://www.2am.tech/blog/white-label-software-fundamentals",
+    "https://noloco.io/glossary/white-label-software",
+    "https://www.agile451.com/insights/what-white-label-software-development-service",
+    "https://shieldapps.com/white-label-software-program/",
+    "https://en.m.wikipedia.org/wiki/Defense"
+   ]
+  },
+  {
+   "query": "defense equipment software OEM white-label partner",
+   "results": [
+    "https://blog.bicomsystems.com/oem-and-white-label/",
+    "https://www.rizkly.com/white-label-compliance-automation-software/",
+    "https://www.opswat.com/blog/oem-partnerships",
+    "https://patentpc.com/blog/how-to-license-ip-for-white-label-and-oem-partnerships",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://textus.com/blog/white-label-tools-for-agencies",
+    "https://www.wisestamp.com/blog/best-white-label-digital-marketing-tools-for-small-agencies/",
+    "https://www.krishangtechnolab.com/blog/top-white-label-agency-partners-usa/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://en.m.wikipedia.org/wiki/Defense"
+   ]
+  },
+  {
+   "query": "defense equipment software reseller partner program",
+   "results": [
+    "https://www.add-on.com/sales-partners/",
+    "https://www.carahsoft.com/partners/resellers-service-providers",
+    "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "https://www.youtube.com/watch?v=sjdMD79pANU",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.trendmicro.com/en_us/partners/federal-government.html",
+    "https://www.kiflo.com/blog/reseller-partner-programs",
+    "https://www.everfox.com/partners/reseller-partners/",
+    "https://www.cloudeagle.ai/blogs/software-reseller-programs",
+    "https://en.m.wikipedia.org/wiki/Defense"
+   ]
+  },
+  {
+   "query": "defense equipment SaaS rebrand private label",
+   "results": [
+    "https://boomerangme.com/blog/white-label-saas-software-for-resellers-and-agencies-the-ultimate-guide",
+    "https://blog.hiringthing.com/private-label-vs-white-label-ats",
+    "https://workdo.io/white-label-saas-solution/",
+    "https://www.youtube.com/watch?v=AMYjabw_oEA",
+    "https://estorebrands.com/ignite/private-label-products",
+    "https://www.fieldtexcases.com/private-label-and-branding.html",
+    "https://www.bigcommerce.com/articles/ecommerce/private-label-products/",
+    "https://blackhawk.io/products/white-label-saas/",
+    "https://www.secondfront.com/resources/blog/how-to-know-if-your-saas-product-is-ready-for-defense-use/",
+    "https://en.m.wikipedia.org/wiki/Defense"
+   ]
+  },
+  {
+   "query": "defense equipment software company profitable EBITDA",
+   "results": [
+    "https://www.equidam.com/ebitda-multiples-trbc-industries/",
+    "https://systematic.com/int/newsroom/corporate-news/systematic-doubles-last-year-s-record-profit-defence-software-and-ai-driving-growth/",
+    "https://fullratio.com/ebitda-margin-by-industry",
+    "https://www.bcg.com/publications/2025/rule-of-40-lessons-from-top-performers-software",
+    "https://www.maalot.co.il/Publications/MT20200611143124.PDF",
+    "https://imaa-institute.org/blog/median-enterprise-value-to-ebitda-and-revenue-multiples/",
+    "https://people.defensenews.com/top-100/",
+    "https://csimarket.com/Industry/industry_Profitability_Ratios.php?ind=201",
+    "https://newmarketpitch.com/blogs/news/defense-tech-business-model",
+    "https://en.m.wikipedia.org/wiki/Defense"
+   ]
+  },
+  {
+   "query": "defense equipment software bootstrapped profitable revenue",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/defense-tech-business-model",
+    "https://maggiegray.us/p/beyond-saas-new-business-models-in",
+    "https://teamworks.com/blog/why-most-defense-software-startups-never-hit-escape-velocity",
+    "https://ysecurity.io/blog/defense-tech-startup/",
+    "https://www.jpmorgan.com/insights/business-planning/defense-tech-innovation-and-the-role-of-startups",
+    "https://www.bcg.com/publications/2026/future-economics-of-defense-aviation",
+    "https://fortune.com/2026/07/02/defense-tech-boom-bubble-startups-venture-capital/",
+    "https://technical.ly/entrepreneurship/defense-tech-startups-funding-boom/",
+    "https://en.m.wikipedia.org/wiki/Defense",
+    "http://www.defensetravel.osd.mil/"
+   ]
+  },
+  {
+   "query": "defense equipment software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.adriadefense.com/7-israeli-defense-tech-companies-expanding-into-europe/",
+    "https://revenuebase.ai/companies/defense-technology-suppliers/israel",
+    "https://www.thalesgroup.com/en/search/enterprise/financial-services/emv-white-label-strategic-future-transit-fare-systems",
+    "https://helsing.ai/",
+    "https://www.heidelberg.com/global/en/about_heidelberg/press_relations/press_release/press_release_details/press_release_262786.jsp",
+    "https://www.elbitsystems.com/",
+    "https://www.facebook.com/cleanclothescampaign/posts/we-took-a-closer-look-at-delta-galil-the-company-named-in-a-un-list-of-companies/1409367221231076/",
+    "https://systematic.com/int/industries/defence/",
+    "https://italiantimes.substack.com/p/israeli-security-firms-become-go",
+    "https://en.m.wikipedia.org/wiki/Defense"
+   ]
+  },
+  {
+   "query": "防衛装備品 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/",
+    "https://www.mod.go.jp/j/budget/rapid_acquisition/index.html",
+    "https://laws.e-gov.go.jp/law/505AC0000000054",
+    "https://www.medstec.co.jp/business/defence.html",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/ab1/20241028/sankou1.pdf",
+    "https://madehere.co.jp/mro-defense",
+    "https://mono.ipros.com/company/detail/2032443/category/62587/",
+    "https://rssystem.go.jp/project/9d6f4e8c-c94e-4ace-99ec-27b87ab55aa5/report",
+    "https://finance.biggo.jp/news/336e05a0-b874-4332-9c9f-2320128987b9",
+    "http://iteslj.org/questions/restaurants.html"
+   ]
+  },
+  {
+   "query": "防衛装備品 ソフト 代理店 海外製",
+   "results": [
+    "http://www.ntkinternational.com/business/fitment/",
+    "https://kaigaibussan.co.jp/service/aircraft/electronics/",
+    "https://www.mod.go.jp/atla/soubiseisakugijutu.html",
+    "https://www.mcmachinery.co.jp/introduction/space/",
+    "https://aerospace.mitsui.co.jp/products/defense/",
+    "https://www.anatc.com/business/aviation/",
+    "https://jgoodtech.smrj.go.jp/pub/ja/lp/ukte/",
+    "https://www.sc-aero.co.jp/",
+    "https://www.sojitz-aero.com/defense/jp/index.html",
+    "https://mb.nawcc.org/threads/adjust-speed-on-sessions-clock.111690/"
+   ]
+  }
+ ],
+ "missing": {
+  "黒字・収益性": "記載なし（読んだ45頁・検索9回）",
+  "売上": "記載なし（読んだ45頁・検索9回）",
+  "価格": "記載なし（読んだ45頁・検索9回）"
+ }
+}

@@ -1,0 +1,1753 @@
+{
+ "name": "生成AI半導体",
+ "en": "AI accelerator chip",
+ "aliases": [
+  "AIアクセラレータ",
+  "GPU"
+ ],
+ "context": "1 AI・半導体 ②中核半導体",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:12:30.545872+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Benchmark the top AI generation APIs for quality, speed, and pricing",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Top Use Cases",
+    "url": "https://rafay.co/company/rafay-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud providers",
+    "url": "https://rafay.co/company/rafay-partners",
+    "pass": 3
+   },
+   {
+    "quote": "ByteBridge delivers AI-ready data center infrastructure across the globe; Rafay turns it into a governed AI cloud customers can operate and sell—together bridging physical build-out and the platform that runs on top.",
+    "url": "https://rafay.co/company/rafay-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Providers",
+    "url": "https://rafay.co/company/rafay-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Inworld AI is a leading realtime voice AI platform providing low-latency, emotionally expressive text-to-speech, speech-to-speech, and orchestration infrastructure for production-scale AI applications. Partnership spans ecosystem programs, distribution, and developer enablement.",
+    "url": "https://www.gmicloud.ai/en/company/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "$100 in credits to every founder, with top-ups up to $300 for engaged teams. Direct demo sessions with the cohort.",
+    "url": "https://www.gmicloud.ai/en/company/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Unified API Access to Leading AI Models",
+    "url": "https://www.gmicloud.ai/en/company/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "(NASDAQ: MRVL), as well as the world's leading processor manufacturer,",
+    "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html",
+    "pass": 3
+   },
+   {
+    "quote": "Marvell is tapping into the custom chip space, too. The company is a custom chip designer for Amazon's Trainium and Microsoft's Maia AI processors. That's notable because Amazon and Microsoft are the two leading cloud computing platforms, and Microsoft's popular Azure just surpassed $100 billion in annual revenue for the first time, thanks to rising AI compute demand.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html",
+    "pass": 3
+   },
+   {
+    "quote": "total average return is 946% — a market-crushing outperformance compared to 215% for the S&P 500. Don't miss the latest top 10 list, available with",
+    "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html",
+    "pass": 3
+   },
+   {
+    "quote": "Trending Topics",
+    "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html",
+    "pass": 3
+   },
+   {
+    "quote": "Its competitive advantage may be partly geographic. Korea wants domestic alternatives to foreign AI accelerators, and Rebellions has unusually deep links across Samsung, SK Telecom and SK Hynix through investments, manufacturing relationships and its merger with SAPEON. It has simultaneously expanded deployments in Japan, Saudi Arabia and the United States.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-startup-builds",
+    "pass": 3
+   },
+   {
+    "quote": "The wider ASIC market provides additional evidence that specialization itself is no longer marginal. Counterpoint expects shipments of AI-server compute ASIC systems among the major providers to roughly triple between 2024 and 2027. Hyperscalers including Google, Amazon, Microsoft and Meta are simultaneously expanding proprietary processors.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-startup-builds",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the top companies today",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-startup-builds",
+    "pass": 3
+   },
+   {
+    "quote": "The profitable group is much smaller than the ARR leaderboards suggest. Private AI companies report net income, adjusted operating profit, free cash flow, divisional profit and gross revenue almost interchangeably, so the headline number alone can be badly misleading.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Gamma and Midjourney show two different ways to build profitable AI businesses. Gamma stayed small while selling a focused application on top of outside models; Midjourney financed its own specialized model development from customer revenue without conventional venture funding.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Falling inference costs should push more AI startups toward profitability, but those savings will not all stay with the companies. Competitors get cheaper models too, so the durable winners still need distribution, workflow depth, switching costs, proprietary data, brand or specialized technology beyond cheap access to intelligence.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "The numbers explain why ARR rankings can be misleading these days. A software company growing from $100 million to $300 million ARR can simultaneously become less profitable if its workforce, inference bill and sales organization expand even faster.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Gamma sells an expensive-looking outcome, finished presentations, documents and websites, while outsourcing much of the underlying intelligence to model providers. Its own costs are concentrated in product development, distribution, inference and a relatively small workforce.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "As of now, ElevenLabs probably deserves the top spot if “most profitable” means the clearest large absolute profit among prominent independent generative-AI startups.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "OpenArt and Mercor both appear genuinely profitable today, but their headline revenue figures need very different interpretations before we compare them with software companies such as Gamma.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "OpenArt can remain tiny partly because it aggregates AI models rather than trying to train the best model in every creative category itself. Users can access image and video systems from multiple providers through one workflow. OpenArt captures value in the interface, creation tools, distribution and user experience while letting other companies absorb much of the frontier research bill.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Yet Mercor passes roughly 60% to 70% of its topline revenue to the contractors performing work for customers. On a $2 billion gross run rate, we estimate that Mercor itself keeps somewhere around $600 million to $800 million before its own operating costs.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Reuters has reported that Anthropic agreed to pay SpaceX roughly $1.25 billion per month for computing capacity under one arrangement. It also has major infrastructure agreements involving Amazon, Google and other providers. Recent reporting puts Anthropic's broader infrastructure commitments comfortably into the tens of billions of dollars.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Cheaper inference should push many AI application startups toward profitability, but it will not automatically create good businesses because competitors receive nearly the same cost reduction.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Model providers repeatedly reduce API prices or deliver more capability for the same dollar. Open-weight models also give startups alternatives to the leading commercial APIs. Hardware improves. Quantization, caching, routing and smaller specialized models reduce the amount of expensive frontier inference required per customer request.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "But competitors get cheaper models too.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "What are the top AI infrastructure startups by revenue?",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the top companies today",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Ionic Digital Inc intends to be a leading bitcoin mining company, as p…",
+    "url": "https://multiples.vc/largest-ai-chips-hardware-public-comps-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "Ionic Digital Inc intends to be a leading bitcoin mining company, as part of the digital assets ecosystem.",
+    "url": "https://multiples.vc/largest-ai-chips-hardware-public-comps-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "Europe's Top 100 Most Valuable Tech Companies",
+    "url": "https://multiples.vc/largest-ai-chips-hardware-public-comps-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "Fund Service Providers",
+    "url": "https://multiples.vc/largest-ai-chips-hardware-public-comps-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "What are the top AI chip startups by revenue today?",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "our report on top AI chips companies",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Moore Threads is the clearest company that could change the top of the table. Its first-half 2026 revenue already exceeded its full-year 2025 revenue, and second-quarter sales alone were close to RMB1 billion.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The biggest near-term wildcard is Etched. It has working silicon, customer racks in production and more than $1 billion of contracts; if a meaningful share of that backlog becomes recognized revenue, it could move rapidly into the top group.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The ranking of top startups in the AI chip market by revenue",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "That gives Iluvatar one of the cleaner revenue profiles in the Chinese challenger group. Its international profile is smaller than Cerebras, Tenstorrent or SambaNova, but its disclosed sales are already larger than those of many better-known private competitors.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "That does not tell us that these chips are technically better than US alternatives or Nvidia. Revenue answers a narrower question: who is actually getting substantial quantities of accelerator hardware into paying customers today?",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Rebellions remains much smaller than the leading Chinese GPU companies, but it is already one of the more substantial private or recently private AI-chip businesses outside China and the US.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Reaching the top of that range would represent roughly seventeen times last year's sales. FuriosaAI also expects production volume to rise sharply as the accelerator moves into customer deployments.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Etched could join the very top group quickly if its billion-dollar contract book turns into recognized revenue at anything close to its disclosed scale. Positron and Tenstorrent also have substantial commercial evidence, but the public metrics are still different enough that forcing them into the same revenue table would create false precision.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Groq therefore still belongs in the broader AI-inference market, but comparing today's Groq directly with Cerebras, Moore Threads or Etched as if they were still pursuing the same business model would be misleading.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "China currently accounts for much of the visible acceleration because its listed companies disclose detailed financials and domestic demand for local AI hardware is booming. The next question is whether younger US companies such as Etched and Positron can produce a similar jump once current contracts and deployments begin appearing as reported revenue.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Top AI Chip Companies",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the top companies today",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Scroll down and watch it split, stop by stop, until it reaches the power station.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "About $3 is pure profit for Nvidia. Of all the stops, it keeps the most for the least: a chip that costs about $6,400 to make sells for $30,000 to $40,000.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Last stop: about 70 cents for electricity. It sounds small, but it is the part nobody can make more of quickly, which is why power is now the bottleneck for the whole boom.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Every part of the AI industry, from the power stations at the bottom to the firms that put AI to work at the top. Each area shows how big it is, who is making money, where the money flows, and the openings by size: ones a small business could take, ones that need venture money, and ones only giants can play. Click any card for the detail and sources.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Inference providers",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Money comes in at the top, when people and businesses pay for AI.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Makes switches, routers and AI networking systems sold to cloud providers and enterprises.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Residential Proxy Providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Proxy Providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud GPU Providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Tanium Alternatives",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label AI Generation Platform | Wireflow",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Generation Platform",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Launch your own branded AI generation service with Wireflow's white label platform and full API access",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Your Brand, Our AI Infrastructure",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "White labeling AI generation means your clients interact with your brand while Wireflow handles model hosting, scaling, and inference. You control the UI, domain, and pricing. The API runs under your credentials with no Wireflow branding visible to end users.",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike chatbot-only white label tools, Wireflow covers image generation, video creation, upscaling, and multi-model workflows. Agencies can offer a full creative AI suite under their own brand without managing GPU infrastructure.",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Platform Capabilities",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "More Than Just White Label AI Generation Platform",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "white label AI video software",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "What is a white label AI generation platform?",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "A white label AI generation platform is a pre-built AI service you rebrand and resell under your own company name. You control the branding, domain, and client experience while the provider handles model hosting and infrastructure.",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Wireflow supports custom domains, logos, color schemes, and UI customization. Your clients interact with your brand only, with no third-party branding visible anywhere in the experience.",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Which AI models are available for white labeling?",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "How long does it take to launch a white label AI service?",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Volume pricing and dedicated support for agencies running white label AI services",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware and OEM Partners",
+    "url": "https://rafay.co/company/rafay-partners",
+    "pass": 3
+   },
+   {
+    "quote": "AI PCs and embedded systems",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "A server accelerator can use substantial power when the resulting computing output justifies the expense. A processor embedded in a battery-powered device may have only a few watts, or much less, available.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "TeraSpatial is building wireless communications and networking solutions comprising silicon, software and deeply embedded AI/ML",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "embedded memory in standard CMOS",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "on-chip memory technology which offers the highest-density embedded memory in a standard CMOS process, requiring no additional process steps or cost.",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Pinnacle Semiconductor, Inc., is a Silicon Valley Semiconductor Company that invented and patented SCMOSTM, a fundamental circuit technology delivering SoC designers a quantum leap in power, performance, and area (PPA), for both logic and embedded memory. Pinnacle offers its customers all the advantages of the NEXT NODE, NOW.",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Capacitive Imaging from SigmaSense enables OEMs and ODMs to be first to market the most intuitive, robust and innovative products to consumers.",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Dover Microsystems’ CoreGuard® technology is the only solution for embedded systems that prevents the exploitation of software vulnerabilities and immunizes processors against entire classes of network-based attacks.",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Probius Diagnostics is developing an application-agnostic, embedded point-of-care (PoC) diagnostic.",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "One Silicon Chip Photonics’ (OSCP’s) mission is to produce simple, light, low-cost, low-power, high-performance Micro-Opto-Electro-Mechanical Systems (MOEMS) components and integrate them on Silicon-On-Insulator (SOI) substrates to create sensors for different applications, in particular motion sensors to measure acceleration or rotation of an object.",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのソリューションは、大手クラウド サービス プロバイダーである AWS、Google Cloud、Microsoft Azure、Oracle Cloud Infrastructure (OCI)、およびOEMメーカーである Dell、HPE、Supermicro の NVIDIA AI インフラ上で動作し、設計とシミュレーションを高速化しています",
+    "url": "https://blogs.nvidia.co.jp/blog/nvidia-and-global-industrial-software-giants-bring-design-engineering-and-manufacturing-into-the-ai-era/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア大手、クラウド プロバイダー、OEM のグローバル エコシステムを統合し、NVIDIA は、フルスタックのアクセラレーテッド コンピューティング プラットフォームを提供することで、あらゆる業界が、かつてない規模とスピードでこのビジョンを現実に変えることを可能にします",
+    "url": "https://blogs.nvidia.co.jp/blog/nvidia-and-global-industrial-software-giants-bring-design-engineering-and-manufacturing-into-the-ai-era/",
+    "pass": 3
+   },
+   {
+    "quote": "Allegro MicroSystemsは、毎年、これらの用途に10 億個以上出荷し、50 の自動車 OEM を含む世界中の 10,000 を超えるお客様をサポートしています",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "・OEM製品の開発・製造・コンサルティング",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "本システムは、複数の大手OEMの量産車モデルに採用されています",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "for volume discounts and enterprise plans built for resellers and agencies. Agencies that resell video rather than images can start from our",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "A white label AI generation platform is a pre-built AI service you rebrand and resell under your own company name. You control the branding, domain, and client experience while the provider handles model hosting and infrastructure.",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "You set your own pricing. Wireflow charges you based on actual generation volume with tiered discounts. Mark up the price however you want when reselling to your clients.",
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Rafay Accelerate Partner Program | Rafay",
+    "url": "https://rafay.co/company/rafay-partners",
+    "pass": 3
+   },
+   {
+    "quote": "VARs and Distributors",
+    "url": "https://rafay.co/company/rafay-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Global Partner Program for AI Infrastructure - GMI Cloud",
+    "url": "https://www.gmicloud.ai/en/company/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Global Partner Program",
+    "url": "https://www.gmicloud.ai/en/company/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Partners",
+    "url": "https://www.gmicloud.ai/en/company/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Package and resell GMI Cloud GPU infrastructure and platform services to deliver reliable AI solutions without supply constraints.",
+    "url": "https://www.gmicloud.ai/en/company/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "High resale margins",
+    "url": "https://www.gmicloud.ai/en/company/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "The risk is that analog computing has historically struggled with precision, manufacturability and software. Circuit noise and device variation can turn impressive laboratory efficiency into a much harder commercial engineering problem. EnCharge's real test is whether its noise-resilient approach preserves model accuracy and efficiency in mass-produced hardware.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-startup-builds",
+    "pass": 3
+   },
+   {
+    "quote": "The wider ASIC market provides additional evidence that specialization itself is no longer marginal. Counterpoint expects shipments of AI-server compute ASIC systems among the major providers to roughly triple between 2024 and 2027. Hyperscalers including Google, Amazon, Microsoft and Meta are simultaneously expanding proprietary processors.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-startup-builds",
+    "pass": 3
+   },
+   {
+    "quote": "Future expansion could compress margins",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "For us, an AI startup is genuinely profitable when the whole business produces positive earnings or cash from normal operations; gross margins, profitable products and optimistic break-even forecasts do not clear that bar.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Gross margin",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "That is still a very large business. We simply should not compare $2 billion of Mercor gross revenue with $2 billion of high-margin SaaS ARR as though they were equivalent.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "OpenArt gets to profitability through extreme software efficiency. Mercor gets there with a variable-cost marketplace whose contractor expenses move with customer demand.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "We have slightly less confidence in its current margin because the company has grown its team and model ambitions without publishing a fresh annual net-income figure.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Its latest gross-margin estimates also remain far below mature software levels. Reuters Breakingviews cited a PitchBook estimate of roughly 44%, illustrating how much revenue still flows straight back into computing and infrastructure.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "We gave the most weight to company disclosures, regulatory filings and high-quality financial reporting. Net income, operating income and free cash flow rank above gross margin or divisional profitability for this purpose, while adjusted metrics are treated more cautiously when they exclude costs such as stock-based compensation.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Reuters Breakingviews on its later revenue run rate and gross-margin estimate",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Almost level with Biren but marginally smaller. Far stronger ranking evidence than bookings or shipment-only startups.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "MetaX has reached a scale where the main questions are margins, software maturity, production capacity and whether growth can hold up as local competition gets much more crowded.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "That change has become even clearer lately. Groq now describes itself as an inference neocloud, operates data centers across several regions and has joined Nvidia's cloud partner program. Its current infrastructure plans also include Nvidia hardware.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "A rough model of costs, not a traced payment. Built from Epoch AI's data centre cost model, Nvidia's filings and reported lab and cloud margins, October 2026.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "WebProNews on Anthropic margins",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle reportedly made about 16% gross margin on its AI cloud deals, and lost nearly $100M in one quarter renting out Nvidia's newest chips.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "A full rack of Nvidia's next generation (Vera Rubin) is estimated at about $7.8M, and server makers say their own margins on it are tight.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Nvidia made $193.7B from data centre chips in its last financial year, at a 75% gross margin in the final quarter.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI pays Microsoft: Buys Azure cloud services under an agreed commitment, and pays a revenue share ($250B Azure commitment from the October 2025 deal. Payouts capped in April 2026 (reported total of $38B))",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Broadcom’s disclosure varies by customer:",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "The big question now is the scale of those deployments. Major customers are encouraging, but recurring revenue, margins and hardware utilization will ultimately determine whether the company can support an $11 billion valuation.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are clearly moving beyond product demonstrations. The next comparison will be more interesting: which ones can generate substantial recurring revenue, maintain healthy margins and persuade customers to order more hardware?",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "However, a memory-efficient processor must still support practical AI workloads, including long contexts, varying model sizes and the software frameworks customers already use.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The startups admitted since 2015 are developing innovative solutions in a variety of areas including",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AIプロダクトマネージャー募集中！国内最大級の総合広告代理店",
+    "url": "https://www.movin.co.jp/it/ai/semiconductor.html",
+    "pass": 3
+   },
+   {
+    "quote": "通信モジュールは SIMCom Wireless Solution.,Ltdの日本総代理店として、キャリア認証等のサポート並びに販売をおこなっております",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカはインフィニオン社の正規代理店です",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大の広告代理店グループであるWPPとともに、デジタル広告に生成AIを活用したコンテンツエンジンの開発を進めています",
+    "url": "https://digital-shift.jp/ai/230719",
+    "pass": 3
+   },
+   {
+    "quote": "Cerebras Systems（セレブラスシステムズ） の国内代理店| 東京エレクトロン デバイス株式会社",
+    "url": "https://cn.teldevice.co.jp/maker/cerebras/",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロンデバイスはCerebras Systems社の国内販売代理店です",
+    "url": "https://cn.teldevice.co.jp/maker/cerebras/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "includes everything from cloud computing to its Gemini Enterprise subscriptions. Sales from this segment soared 82% in the second quarter to $24.8 billion, making it Alphabet's fastest-growing revenue segment.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html",
+    "pass": 3
+   },
+   {
+    "quote": "The financial details of the agreement weren't released, but it's certainly helping to accelerate Broadcom's sales of custom processors. Management says revenue from AI semiconductors will reach $56 billion this year and soar to more than $100 billion next year.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html",
+    "pass": 3
+   },
+   {
+    "quote": "Marvell is tapping into the custom chip space, too. The company is a custom chip designer for Amazon's Trainium and Microsoft's Maia AI processors. That's notable because Amazon and Microsoft are the two leading cloud computing platforms, and Microsoft's popular Azure just surpassed $100 billion in annual revenue for the first time, thanks to rising AI compute demand.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html",
+    "pass": 3
+   },
+   {
+    "quote": "The scale difference remains enormous. Nvidia's latest quarterly data-center revenue reached roughly $89 billion, an amount far beyond the annual revenue of the entire independent AI-chip startup cohort. Nvidia also sells an integrated platform spanning GPUs, networking, CPUs, software and rack-scale systems, so startups compete against much more than a processor benchmark.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-startup-builds",
+    "pass": 3
+   },
+   {
+    "quote": "OpenArt is the most extreme operating-efficiency case. More than $70 million of ARR with roughly 20 employees suggests that owning the workflow and distribution layer can be extraordinarily valuable even when the company does not train every underlying model itself.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor is profitable in cash terms, but its revenue needs a mental haircut before comparison with SaaS companies. Roughly 60% to 70% of its gross revenue reportedly flows to contractors, so the $2 billion-plus annualized figure overstates the revenue Mercor actually retains.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "OpenArt reached more than $70 million ARR with roughly 20 employees, and its CEO says the company was profitable when it raised its Series A. Mercor is free-cash-flow positive according to The Information, although its famous $2 billion annualized revenue figure is gross revenue before large contractor payouts.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "At the other end, some of the biggest AI companies remain deeply loss-making. xAI's financial disclosures showed roughly $3.2 billion of 2025 revenue against about $6.4 billion of operating losses. Harvey has reached around $350 million ARR, yet cofounder Winston Weinberg confirmed recently that the legal-AI company is still unprofitable.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Net income gives us the cleanest answer because compensation, infrastructure, R&D and the rest of the company's normal expenses ultimately flow through the accounts. ElevenLabs stands out because Forbes reported an actual profit figure of about $116 million for 2025 rather than merely quoting an ARR number.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Financial disclosures covering its AI operations showed approximately $3.2 billion of revenue in 2025. Costs and expenses reached about $9.6 billion, producing an operating loss of roughly $6.4 billion. Research and development alone exceeded $5 billion.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Put differently, xAI lost almost $2 in operations for every $1 of revenue it generated that year.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Cerebras currently has the strongest clean full-year revenue figure among the AI-chip startups and recent startup graduates we can measure, with $510 million of 2025 revenue.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The ranking gets much tighter once we use 2026 interim numbers. Moore Threads generated RMB1.74 billion in only six months, while Biren, Enflame and Iluvatar CoreX all moved above roughly RMB900 million in first-half revenue. Half-year revenue jumping this fast is why we look at who is growing the fastest in",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The metric discipline matters as much as the ranking. Etched has more than $1 billion of signed customer contracts and Tenstorrent has cited roughly $150 million of closed deals, but neither figure should be presented as recognized annual revenue.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Cerebras is unusual because its $510 million figure is both large and directly comparable. Its filings also split the business into roughly $358 million of hardware revenue and $152 million from cloud and other services, so the number reflects an operating business rather than a backlog headline.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Moore Threads is the clearest company that could change the top of the table. Its first-half 2026 revenue already exceeded its full-year 2025 revenue, and second-quarter sales alone were close to RMB1 billion.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Private US challengers are harder to compare because disclosure is thinner. SambaNova appears to be around the $100 million level, Positron has tens of millions of dollars of systems going into Oracle, and Etched has begun customer deliveries, but none gives us a current annual revenue figure as clean as Cerebras.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Korea is commercially real but still smaller. Rebellions reached roughly KRW35 billion of 2025 revenue, while FuriosaAI remained at KRW5.7 billion and is relying on a much larger 2026 production ramp to move into the next tier.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The biggest near-term wildcard is Etched. It has working silicon, customer racks in production and more than $1 billion of contracts; if a meaningful share of that backlog becomes recognized revenue, it could move rapidly into the top group.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "This $8 is before the expensive part. OpenAI reportedly spent about $34B in 2025 against $13B of revenue, because training the next model costs far more than running today's.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft pays CoreWeave: rents GPU capacity from CoreWeave on long contracts (about 67% of CoreWeave's 2025 revenue (one analysis))",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic pays Mercor: Buys expert training data through Mercor, one of its main suppliers (reported) (Mercor's first-half 2026 gross revenue about $614M, with OpenAI and Anthropic named as main buyers)",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI pays Microsoft: Buys Azure cloud services under an agreed commitment, and pays a revenue share ($250B Azure commitment from the October 2025 deal. Payouts capped in April 2026 (reported total of $38B))",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic pays Mercor: Buys expert training and feedback work through Mercor (reported) (Mercor's first-half 2026 gross revenue about $614M, with OpenAI and Anthropic named as main buyers)",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Nvidia reports fiscal 2026 data centre revenue of $193.7 billion, up 68%.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI's annualised revenue passes $25 billion.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic's annualised revenue run rate reaches $30 billion.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "$89.0B data centre revenue in the quarter to July 2026 (fiscal Q2 2027), out of $96.2B total",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "AI chip revenue $16.7B in a quarter, up 221%",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "About $4B of AI infrastructure revenue in fiscal 2026 (year to July 2026)",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Quarterly revenue $2.6B, up 112%. $104B backlog. Still loss-making",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Record revenue of $8.5B in Q2 2026 (quarter to 30 June 2026)",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Researchers check every number against a public source, and every figure carries its date. Estimates are marked. Updated 18 Oct 2026.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "Blackwell and the GB300 NVL72 remained the revenue volume product through Q1 FY2027.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Morgan Stanley put NVIDIA at roughly 85% of AI processor revenue in March 2026, with custom ASICs above 10% and AMD below 5%.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "The MI355X is built on CDNA4 at TSMC 3nm with 288 GB of HBM3E and 10.1 PFLOPS of MXFP4, and AMD positions it against NVIDIA’s Blackwell B200. AMD followed on May 7, 2026 with the Instinct MI350P, a passive PCIe 5.0 card carrying 144 GB of HBM3E and a 600 W maximum TBP.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "It has also tied equity to its largest commitments, issuing OpenAI and Meta each a performance-based warrant for up to 160 million shares at $0.01, vesting against Instinct shipment milestones.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Intel targeted $500 million in Gaudi revenue for 2024 and abandoned the target on its third-quarter earnings call on October 31, 2024. At CES 2026 it conceded that Gaudi “did not meet the needs of the frontier AI training market.”",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "In its August 12 Q2 results, Cerebras raised its FY2026 core revenue forecast to $880-890 million.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Vaire’s first test chip, codenamed Ice River, is a 22nm CMOS demonstrator. Measurements reported in September 2025 gave an energy-recovery factor of 1.77 for a capacitor array driven by Vaire’s resonator and 1.41 for a shift register on the same chip, against roughly 2x predicted in simulation.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "It offers 2x the power efficiency of Trillium. Each chip carries 192 GB of High Bandwidth Memory at 7.37 TB/s, with 1.2 TB/s bidirectional (9.6 Tb/s) Inter-Chip Interconnect and an enhanced SparseCore for large embeddings.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Spyre carries 32 accelerator cores and 25.6 billion transistors on a 5nm process, packaged as a 75W PCIe card with 128 GB of LPDDR5. Up to 48 cards cluster in a Z or LinuxONE system, against 16 in Power.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Broadcom reported $16.7 billion in AI semiconductor revenue for Q3 FY2026 on September 2, 2026, up 221% year over year. It forecast $21.7 billion for Q4.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "For OpenAI, silicon has been delivered, production is expected in late 2026, and OpenAI is contracted for 1.3 GW in 2027 within the larger 10 GW-by-2029 arrangement. The chip itself is covered in the OpenAI section above.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "For Q2 FY2027, reported on August 27, 2026, Marvell posted $2.739 billion in total revenue and $2.172 billion in data center revenue. Data center revenue rose 46% year over year. Its Q3 total revenue forecast was $3.15 billion, plus or minus 5%.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "SambaNova Systems has enough enterprise traction and financing support to make its $11.0B valuation credible, although its revenue still needs to catch up with the expectations attached to that price.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The big question now is the scale of those deployments. Major customers are encouraging, but recurring revenue, margins and hardware utilization will ultimately determine whether the company can support an $11 billion valuation.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "FuriosaAI provides a different kind of evidence. Its first 4,000 manufactured RNGD accelerators arrived in January 2026, and the company later identified enterprise deployments involving LG AI Research and Samsung SDS.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "However, there is little reason to assume that every company valued above $1 billion will eventually generate the revenue required to support that figure.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "[Step 3] Rune CC/CS™ data center generates revenue by performing interruptible computational workloads and power producer monetizes otherwise unmarketable power",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Espre was founded by Dr. John Terry, a recognized industry expert in wireless communication system design in the areas of chaos communications, WLAN & OFDM networks, and carrier aggregation for LTE and WiFi networks. Dr. Terry has generated over 50 issued / pending domestic and foreign patents related to wireless technology. Further company information can be found at",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "（年売上成長率 50～100%）",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "NASDAQにも上場し、2021年には発振器の分野で世界No.1の売上を記録しました",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "接続技術で世界をリードするTE Connectivity社は、150カ国以上のお客さまに、あらゆる産業向けの製品を開発・製造、お届けしている年間売上140億米ドルのグローバルカンパニーです",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Its competitive advantage may be partly geographic. Korea wants domestic alternatives to foreign AI accelerators, and Rebellions has unusually deep links across Samsung, SK Telecom and SK Hynix through investments, manufacturing relationships and its merger with SAPEON. It has simultaneously expanded deployments in Japan, Saudi Arabia and the United States.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-startup-builds",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank Corp. will be the first customer to deploy SN50 within its AI data centers in Japan.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Rebellions confirmed on September 15, 2026 that RebelRack and RebelPOD systems were shipping. Its partnership with ai& included an initial purchase for a planned Tokyo deployment. Operation at the Japanese site was scheduled to begin after delivery.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Rebellions and ai& Partner to Bring Energy-Efficient AI Inference Infrastructure to Japan - Rebellions",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "We have engaged with more than 1,500 semiconductor hardware startups worldwide and have admitted over 150 exciting companies. Silicon Catalyst is the Gold Standard for semiconductor acceleration. Our unique model, refined for over a decade, has been successfully franchised internationally, with global partners in the UK, EU, Israel, Japan, Australia and Malaysia.",
+    "url": "https://siliconcatalyst.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA と世界の産業用ソフトウェア大手企業が、設計、エンジニアリング、製造を AI 時代へと導く - NVIDIA | Japan Blog",
+    "url": "https://blogs.nvidia.co.jp/blog/nvidia-and-global-industrial-software-giants-bring-design-engineering-and-manufacturing-into-the-ai-era/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Japan",
+    "url": "https://blogs.nvidia.co.jp/blog/nvidia-and-global-industrial-software-giants-bring-design-engineering-and-manufacturing-into-the-ai-era/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAI半導体企業10社",
+    "url": "https://www.movin.co.jp/it/ai/semiconductor.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本はチップ設計そのものよりも、製造装置・材料・部品などで世界のAI半導体を支える立ち位置となりつつあり、",
+    "url": "https://www.movin.co.jp/it/ai/semiconductor.html",
+    "pass": 3
+   },
+   {
+    "quote": "【AI×事業開発】若手ポテンシャル採用スタート！日本最大のユニコーンAIメガベンチャー",
+    "url": "https://www.movin.co.jp/it/ai/semiconductor.html",
+    "pass": 3
+   },
+   {
+    "quote": "戦略コンサル出身者募集中！日本で最も有名なAI研究室",
+    "url": "https://www.movin.co.jp/it/ai/semiconductor.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本AI企業ランキング",
+    "url": "https://www.movin.co.jp/it/ai/semiconductor.html",
+    "pass": 3
+   },
+   {
+    "quote": "SB OAI Japan",
+    "url": "https://www.movin.co.jp/it/ai/semiconductor.html",
+    "pass": 3
+   },
+   {
+    "quote": "ASRock Industrial 社は 2002年に設立された（本社：台北）、マザーボード市場において日本シェア No.2※ のボード・メーカーのASRock の子会社で、IPC に Focus した子会社として 2018 年に設立されました",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "通信モジュールは SIMCom Wireless Solution.,Ltdの日本総代理店として、キャリア認証等のサポート並びに販売をおこなっております",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電波工業株式会社",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電波工業株式会社（通称 NDK）は、1948年4月に設立され、東京都渋谷区笹塚に本社を構える水晶デバイス専業メーカーです",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年1月1日、オペアンプの新日本無線株式会社と電源ICのリコー電子デバイス株式会社が統合し、新しく「日清紡マイクロデバイス株式会社」として誕生しました",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "TAITSUは、1957年に日本で初めてポリエチレンテレフタレート・フィルムコンデンサーの量産を開始し、以来フィルムコンデンサー分野において数々の技術革新を実現してきました",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "また、親会社のサンダーソフトは、日本、米国、中国、韓国、フィンランド、ブルガリア、インド、マレーシア等、 21 の R＆D センターを持ち、従業員数は3,000 名以上の規模を誇る中国最大の技術プロバイダーです",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Unimicron Japan Co.,Ltd.",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でもさくらインターネットやソフトバンク、サイバーエージェント、三井物産といった大企業にエヌビディアの最新の「NVIDIA H100 Tensor コア GPU」を大規模なAI開発基盤の構築に向けてご採用いただいています",
+    "url": "https://digital-shift.jp/ai/230719",
+    "pass": 3
+   },
+   {
+    "quote": "──最後に、生成AIの導入を加速させたい日本企業に向けたメッセージをお願いします",
+    "url": "https://digital-shift.jp/ai/230719",
+    "pass": 3
+   },
+   {
+    "quote": "全体で支援したいと考えており、その直近の取り組みとして、日本企業がとるべき第一歩について共に考え、その取組みを支える最先端ソリューションを一挙にご紹介する「NVIDIA 生成 AI Day」を今月開催するので、ご関心のある方はぜひご参加ください",
+    "url": "https://digital-shift.jp/ai/230719",
+    "pass": 3
+   },
+   {
+    "quote": "金利4%超の「アップル銀行」が日本に上陸したら",
+    "url": "https://digital-shift.jp/ai/230719",
+    "pass": 3
+   },
+   {
+    "quote": "注目の日本発ベビーテック企業とは",
+    "url": "https://digital-shift.jp/ai/230719",
+    "pass": 3
+   },
+   {
+    "quote": "Cerebras Systems（セレブラスシステムズ） の国内代理店| 東京エレクトロン デバイス株式会社",
+    "url": "https://cn.teldevice.co.jp/maker/cerebras/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、世界の主要AI半導体メーカーの動向と、日本企業がこの分野でどのような役割を果たし、今後どのような展開が期待されるのかを深掘りしていきます",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAI半導体メーカーと関連企業の動向",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "周辺産業で重要な日本企業",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "AI半導体の今後の展望と日本への示唆",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業への示唆",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAI半導体分野は、最先端のチップ設計・開発を目指す企業と、製造装置・材料分野で世界的に重要な役割を担う企業が両輪となり、その存在感を示しています",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、AI半導体の製造に不可欠な製造装置や材料の分野で世界的に圧倒的な強みを持っています",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府や研究機関も、AI半導体分野の強化に積極的に取り組んでいます",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの動向から、日本はAI半導体の設計・製造だけでなく、製造装置・材料分野でも世界のサプライチェーンにおいて不可欠な存在であることがわかります",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のラピダスもこの流れの中にあります",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がAI半導体市場でさらなる競争力を高めるためには、以下の点が重要になります",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、グローバルなサプライチェーンの中で、日本の強みである製造装置・材料分野の企業が、世界のAI半導体メーカーと緊密に連携を深めることが重要です",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロン、信越化学工業、SUMCOなどの日本企業は、AI半導体製造に不可欠な装置や材料で世界的な競争力を持っています",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "この強みをさらに伸ばし、世界の半導体バリューチェーンの中核を担い続けることで、AI半導体市場における日本の影響力を維持・強化できます",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みを総合的に推進することで、日本企業はAI半導体市場での地位を確固たるものとし、世界の競争に追いつき、さらにはリードしていくことが期待されます",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Which AI startups are actually profitable?",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "The strongest cases of profitable AI startups are ElevenLabs, Gamma, Midjourney, OpenArt and Mercor, with Photoroom also likely profitable; Anthropic has crossed into adjusted quarterly operating profit but has not yet proved that level is durable.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "The profitable group is much smaller than the ARR leaderboards suggest. Private AI companies report net income, adjusted operating profit, free cash flow, divisional profit and gross revenue almost interchangeably, so the headline number alone can be badly misleading.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs has the strongest reported absolute profit figure in the group, with Forbes putting 2025 profit at roughly $116 million. That is a much harder profitability signal than simply saying the company has reached break-even. ElevenLabs has a hard profit figure, which is rare, and we look at who makes money and who burns cash in",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Gamma and Midjourney show two different ways to build profitable AI businesses. Gamma stayed small while selling a focused application on top of outside models; Midjourney financed its own specialized model development from customer revenue without conventional venture funding.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor is profitable in cash terms, but its revenue needs a mental haircut before comparison with SaaS companies. Roughly 60% to 70% of its gross revenue reportedly flows to contractors, so the $2 billion-plus annualized figure overstates the revenue Mercor actually retains.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Freshness matters almost as much as the metric. Photoroom has repeated profitability evidence across several years, while Hebbia was explicitly profitable at a much smaller scale and has not disclosed an equally fresh profit figure after expanding.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic is the most important borderline case because it has shown positive adjusted operating income at frontier-model scale. The caveat is obvious: stock compensation is excluded, compute commitments remain enormous, and one quarter does not prove a stable earnings model.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "xAI and Harvey are useful controls. Both have substantial revenue, yet xAI posted multi-billion-dollar operating losses and Harvey remains unprofitable, which makes it clear that fast ARR growth and actual profitability are still very different things.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "The recurring pattern among profitable AI startups is disciplined scope: narrow products, small teams, clear customer value and less exposure to the full cost of the frontier-model race. Companies trying to own models, infrastructure, distribution and multiple product categories at once face a much harsher cost structure.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Falling inference costs should push more AI startups toward profitability, but those savings will not all stay with the companies. Competitors get cheaper models too, so the durable winners still need distribution, workflow depth, switching costs, proprietary data, brand or specialized technology beyond cheap access to intelligence.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Which AI startups are actually profitable today?",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "A surprisingly small group of major AI startups can make a convincing profitability claim today: ElevenLabs, Gamma, Midjourney, OpenArt and Mercor have the strongest evidence, while Photoroom also belongs in the conversation and Anthropic has just crossed an important quarterly threshold.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "The answer gets messy because private AI companies disclose whatever metric suits them. One company says it is profitable and means net income. Another means adjusted EBITDA. Another means free cash flow. A fourth may simply mean that one product line covers its direct costs. Those claims sound similar in a headline, but financially they can describe very different businesses.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "OpenArt reached more than $70 million ARR with roughly 20 employees, and its CEO says the company was profitable when it raised its Series A. Mercor is free-cash-flow positive according to The Information, although its famous $2 billion annualized revenue figure is gross revenue before large contractor payouts.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmark revenue and EBITDA valuation multiples for public comps like",
+    "url": "https://multiples.vc/largest-ai-chips-hardware-public-comps-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "EV/EBITDA",
+    "url": "https://multiples.vc/largest-ai-chips-hardware-public-comps-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "The company is also much closer to breakeven. Its latest half-year loss narrowed dramatically while sales continued to climb. Moore Threads looks less like an experimental domestic GPU supplier these days and more like a scaled semiconductor business that is still growing unusually fast.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The business had grown from about RMB82 million in 2022 to RMB485 million in 2023, and it became profitable during that expansion.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Are the biggest AI chip startups profitable yet?",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Several AI-chip challengers now have serious revenue, but profitability remains inconsistent.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Cerebras produced $510 million of revenue in 2025 and reported positive GAAP net income, although its filings also show a non-GAAP loss once unusual valuation effects are removed. Moore Threads has pushed close to breakeven as its revenue expanded. Iluvatar CoreX reported a profit in its latest half-year.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The cloud that rents out the computers keeps about $2 as profit. Renting AI chips is a thinner business than most people think.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "About $3 is pure profit for Nvidia. Of all the stops, it keeps the most for the least: a chip that costs about $6,400 to make sells for $30,000 to $40,000.",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "$510M in 2025, with $87.9M net income",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "pass": 3
+   },
+   {
+    "quote": "(SHA: 688256) reported FY2025 revenue of RMB 6.4972 billion, up 453.21% year over year, and its first full-year profit at RMB 2.0592 billion. Its market capitalization passed RMB 1 trillion on June 30, 2026, a first for the STAR Market.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "(SHA: 688795) listed on the STAR Market on December 5, 2025. FY2025 revenue was RMB 1.505 billion, up 243.37% year over year. The company remains unprofitable and has been on the US Entity List since 2023.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Its listing notice states that the company was still unprofitable at listing.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "The long-term risk is that government-backed or strategically motivated spending does not necessarily produce profitable businesses.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Many startups still have limited revenue compared with the scale of their valuations, and commercial deployments do not necessarily mean profitable operations. Some of the most expensive companies are being priced mainly on their potential to capture a market that is still taking shape.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "We also examine commercial progress, including hardware shipments, installed infrastructure, developer adoption, enterprise customers and repeat purchasing potential. These indicators help compare different business models, although developer counts, sales pipelines and hardware deployments are not interchangeable with recognized revenue or profitability.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Reuters has reported that Anthropic agreed to pay SpaceX roughly $1.25 billion per month for computing capacity under one arrangement. It also has major infrastructure agreements involving Amazon, Google and other providers. Recent reporting puts Anthropic's broader infrastructure commitments comfortably into the tens of billions of dollars.",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "pass": 3
+   },
+   {
+    "quote": "(available now): A technology demonstrator hard-wired with Llama 3.1 8B, built on TSMC 6nm with 53 billion transistors. Taalas claims 17,000 tokens per second per user in a 2.5 kW air-cooled server. However, the model uses aggressive custom 3-bit and 6-bit quantization, which introduces quality degradations compared to GPU baselines.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": ", the foundry most of these designers depend on, had N+3 (5nm-class) in volume production as of June 2026, 7nm capacity of roughly 45,000 to 60,000 wafers per month, and $9.3 billion of 2025 revenue.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "89",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-startup-builds",
+    "quote": "The scale difference remains enormous. Nvidia's latest quarterly data-center revenue reached roughly $89 billion, an amount far beyond the annual revenue of the entire independent AI-chip startup cohort. Nvidia also sells an integrated platform spanning GPUs, networking, CPUs, software and rack-scal"
+   },
+   {
+    "value": "6.4",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "quote": "At the other end, some of the biggest AI companies remain deeply loss-making. xAI's financial disclosures showed roughly $3.2 billion of 2025 revenue against about $6.4 billion of operating losses. Harvey has reached around $350 million ARR, yet cofounder Winston Weinberg confirmed recently that the"
+   },
+   {
+    "value": "152",
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "quote": "Cerebras is unusual because its $510 million figure is both large and directly comparable. Its filings also split the business into roughly $358 million of hardware revenue and $152 million from cloud and other services, so the number reflects an operating business rather than a backlog headline."
+   },
+   {
+    "value": "614",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "quote": "Anthropic pays Mercor: Buys expert training data through Mercor, one of its main suppliers (reported) (Mercor's first-half 2026 gross revenue about $614M, with OpenAI and Anthropic named as main buyers)"
+   },
+   {
+    "value": "193.7",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "quote": "Nvidia reports fiscal 2026 data centre revenue of $193.7 billion, up 68%."
+   },
+   {
+    "value": "25",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "quote": "OpenAI's annualised revenue passes $25 billion."
+   },
+   {
+    "value": "30",
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "quote": "Anthropic's annualised revenue run rate reaches $30 billion."
+   },
+   {
+    "value": "2.172",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "quote": "For Q2 FY2027, reported on August 27, 2026, Marvell posted $2.739 billion in total revenue and $2.172 billion in data center revenue. Data center revenue rose 46% year over year. Its Q3 total revenue forecast was $3.15 billion, plus or minus 5%."
+   },
+   {
+    "value": "3.15",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "quote": "For Q2 FY2027, reported on August 27, 2026, Marvell posted $2.739 billion in total revenue and $2.172 billion in data center revenue. Data center revenue rose 46% year over year. Its Q3 total revenue forecast was $3.15 billion, plus or minus 5%."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://10clouds.com/white-label-ai-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aibox-factory.com/blog/product-news/white-label-ai-hardware-manufacturer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://promptowl.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unidatalab.com/white-label-ai-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scrydon.com/partners/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axelera.ai/partner-accelerator-network",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rafay.co/company/rafay-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/ai/articles/axelera-ai-more-quadruples-global-153400283.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edgeaifoundation.org/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gmicloud.ai/en/company/partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fintechmarketinghub.com/post/the-fmh-signal-chip-s-rebrand-and-the-ai-behind-its-creative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leanware.co/insights/white-label-saas-ai-resell-ready-made-ai-products-with-your-branding-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-startup-builds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-revenue-111232594.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/largest-ai-chips-hardware-public-comps-in-the-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qz.com/companies-powering-ai-data-center-boom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enterprisedna.co/resources/ai-map/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bnd.com/news/business/article317683282.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chiefaiofficer.com/the-bootstrapped-ai-company-that-hit-300000-users-in-6-months-and-made-every-funded-startup-look-slow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axelera.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ensun.io/search/ai-chip/germany",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://strategic-technologies.europa.eu/step-results/step-stories/axelera-fast_en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siliconcatalyst.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sipearl.com/european-processor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marklines.com/ja/news/307644",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hcltech.com/ja-jp/semiconductor-services-and-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.nvidia.co.jp/blog/nvidia-and-global-industrial-software-giants-bring-design-engineering-and-manufacturing-into-the-ai-era/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isz.ai/ja/services/ai-hardware-oem-odm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nxp.jp/company/about-nxp/smarter-world-blog/BL-NXP-EDGE-AI-COMPREDICT-INNOVATION",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.movin.co.jp/it/ai/semiconductor.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-shift.jp/ai/230719",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cn.teldevice.co.jp/maker/cerebras/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AI accelerator chip software white label",
+   "results": [
+    "https://10clouds.com/white-label-ai-software/",
+    "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://www.byvoice.io/blog/white-label-ai-software",
+    "https://getaamp.com/use-cases/white-label-ai",
+    "https://customgpt.ai/best-white-label-ai-software/",
+    "https://leanware.co/insights/white-label-ai-software-complete-guide"
+   ]
+  },
+  {
+   "query": "AI accelerator chip software OEM white-label partner",
+   "results": [
+    "https://conversight.ai/oem-partners/",
+    "https://aibox-factory.com/blog/product-news/white-label-ai-hardware-manufacturer/",
+    "https://promptowl.ai/whitelabel/",
+    "https://unidatalab.com/white-label-ai-partnership/",
+    "https://scrydon.com/partners/whitelabel/",
+    "https://axeautomation.co/white-label-ai-agency",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://wolfbot.ai/partners",
+    "https://www.nvidia.com/en-us/industries/industrial-sector/partners/",
+    "https://tblocks.com/articles/white-label-ai-software-oems/"
+   ]
+  },
+  {
+   "query": "AI accelerator chip software reseller partner program",
+   "results": [
+    "https://axelera.ai/partner-accelerator-network",
+    "https://rafay.co/company/rafay-partners",
+    "https://finance.yahoo.com/technology/ai/articles/axelera-ai-more-quadruples-global-153400283.html",
+    "https://www.edgeaifoundation.org/partners",
+    "https://www.gmicloud.ai/en/company/partnership",
+    "https://www.nvidia.com/en-us/about-nvidia/partners/",
+    "https://www.asipartner.com/solutions/ai-software-accelerated-by-intel/",
+    "https://arrayfire.com/partner-program/",
+    "https://www.hpe.com/us/en/partners/unleash-ai-solutions.html",
+    "https://www.intel.com/content/www/us/en/partner-alliance/overview.html"
+   ]
+  },
+  {
+   "query": "AI accelerator chip SaaS rebrand private label",
+   "results": [
+    "https://www.fintechmarketinghub.com/post/the-fmh-signal-chip-s-rebrand-and-the-ai-behind-its-creative",
+    "https://leanware.co/insights/white-label-saas-ai-resell-ready-made-ai-products-with-your-branding-1",
+    "https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html",
+    "https://www.youtube.com/watch?v=rUOABY6qH0g",
+    "https://customgpt.ai/white-label-saas-reseller/",
+    "https://newmarketpitch.com/blogs/news/ai-chip-startup-builds",
+    "https://yourstory.com/ai-story/why-companies-rebranding-as-ai-firms",
+    "https://www.interglobixmagazine.com/ai-chip-manufacturers/",
+    "https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing",
+    "https://www.wireflow.ai/blog/best-white-label-ai-saas-tools-in-2026"
+   ]
+  },
+  {
+   "query": "AI accelerator chip software company profitable EBITDA",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups",
+    "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-revenue-111232594.html",
+    "https://multiples.vc/largest-ai-chips-hardware-public-comps-in-the-us",
+    "https://qz.com/companies-powering-ai-data-center-boom",
+    "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "https://www.investing.com/news/stock-market-news/82b-acquisition-validates-aipicked-chip-stock-20-since-june-4928796",
+    "https://medium.com/@drjohnmillar/is-the-ai-industry-profitable-yes-just-not-where-youre-looking-3df41296fb6c",
+    "https://seekingalpha.com/article/4936948-nebius-the-ai-infrastructure-bottleneck-is-becoming-a-profit-engine",
+    "https://finance.yahoo.com/technology/ai/articles/global-ai-accelerator-chips-market-192100972.html?fr=sycsrp_catchall",
+    "https://www.bloomberg.com/professional/insights/artificial-intelligence/ai-accelerator-chips-2026-outlook/"
+   ]
+  },
+  {
+   "query": "AI accelerator chip software bootstrapped profitable revenue",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/ai-chip-top-revenue",
+    "https://enterprisedna.co/resources/ai-map",
+    "https://www.bnd.com/news/business/article317683282.html",
+    "https://aimultiple.com/ai-chip-makers",
+    "https://newmarketpitch.com/blogs/news/ai-inference-chips-top-startups-valuation",
+    "https://chiefaiofficer.com/the-bootstrapped-ai-company-that-hit-300000-users-in-6-months-and-made-every-funded-startup-look-slow/",
+    "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "https://www.youtube.com/watch?v=J8mzp9ic3H4",
+    "https://finance.yahoo.com/news/ai-accelerator-chip-market-reach-144000317.html",
+    "https://tech-insider.org/broadcom-ai-revenue-custom-chips-2026/"
+   ]
+  },
+  {
+   "query": "AI accelerator chip software vendors Europe Israel Germany white label",
+   "results": [
+    "https://axelera.ai/",
+    "https://ensun.io/search/ai-chip/germany",
+    "https://strategic-technologies.europa.eu/step-results/step-stories/axelera-fast_en",
+    "https://siliconcatalyst.com/",
+    "https://www.linkedin.com/posts/olegmalenkov_many-of-europes-critical-semiconductor-companies-activity-7439306388696248320-5lrL",
+    "https://sipearl.com/european-processor",
+    "https://polarise.eu/ai-factories/",
+    "https://www.sullcrom.com/insights/memo/2026/October/EuroHPC-Joint-Undertaking-Launches-AI-Gigafactories-Call",
+    "https://tracxn.com/d/artificial-intelligence/ai-startups-in-semiconductors-in-europe/__28-Vff_iEV8EVier6C985k8tj1cQAunVo2ZlOOGDuwM/companies",
+    "https://servchip.com/de"
+   ]
+  },
+  {
+   "query": "生成AI半導体 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.marklines.com/ja/news/307644",
+    "https://www.hcltech.com/ja-jp/semiconductor-services-and-solutions",
+    "https://blogs.nvidia.co.jp/blog/nvidia-and-global-industrial-software-giants-bring-design-engineering-and-manufacturing-into-the-ai-era/",
+    "https://isz.ai/ja/services/ai-hardware-oem-odm/",
+    "https://www.nxp.jp/company/about-nxp/smarter-world-blog/BL-NXP-EDGE-AI-COMPREDICT-INNOVATION",
+    "https://www.einnosys.com/ja/",
+    "https://www.macnica.co.jp/business/semiconductor/manufacturers/nvidia/products/149025/",
+    "https://www.ltts.com/jp/whitepaper/software-defined-vehicle-AI-LLM",
+    "https://helm.ai/ja/about",
+    "https://prtimes.jp/main/html/rd/p/000000382.000042366.html"
+   ]
+  },
+  {
+   "query": "生成AI半導体 ソフト 代理店 海外製",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E7%94%9F%E6%88%90ai%E3%81%AE%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%A8%E6%B5%B7%E5%A4%96%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-hop-horizon-x3tke",
+    "https://www.movin.co.jp/it/ai/semiconductor.html",
+    "https://www.macnica.co.jp/business/semiconductor/manufacturers/",
+    "https://digital-shift.jp/ai/230719",
+    "https://cn.teldevice.co.jp/maker/cerebras/",
+    "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "https://ai-revolution.co.jp/media/ai-in-semiconductor/",
+    "https://kabutan.jp/news/marketnews/?b=n202608121302",
+    "https://www.businessinsider.jp/article/276430/",
+    "https://www.fsi.co.jp/company/news/20260708_2.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

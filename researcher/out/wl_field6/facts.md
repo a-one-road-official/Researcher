@@ -1,0 +1,2049 @@
+# 対象6分野の買い手向けホワイトラベルソフト（世界）— 提供企業と黒字の証拠（事実のみ・24品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 人型ロボット（humanoid robot）
+- 文脈：1 AI・半導体 ①フィジカルAI
+- 提供企業：
+  - 「Humanoid is creating the world’s leading, commercially scalable, and safe humanoid robots」（https://thehumanoid.ai/）
+  - 「LinkedIn Top Startups 2026: The 20 UK companies on the rise」（https://thehumanoid.ai/）
+  - 「Top 10 humanoid robot startups to watch in 2026, ranked by total funding」（https://thehumanoid.ai/）
+  - 「The 4 layers of brain behind one of europes leading humanoid robots」（https://thehumanoid.ai/）
+  - 「Creating the world’s leading, commercially」（https://thehumanoid.ai/）
+  - 「BACK TO TOP」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「Figure has attracted the world’s leading robotics team with over 100 years of combined AI & humanoid experience.」（https://www.figure.ai/）
+  - 「We're looking for partners, not vendors」（https://getproductiv.com/humanoid-robotics）
+  - 「Counterpoint research is a young and fast growing research firm covering analysis of the tech industry. Coverage areas are connected devices, digital consumer goods, software & applications and other adjacent topics. We provide syndicated research report as well as tailored. Our seminars and workshops for companies and institutions are popular and available on demand.」（https://counterpointresearch.com/en/insights/humanoid-robotics-leans-on-automotive-industry-for-future-growth）
+  - 「20+ local service centers, 24/7 support, loaner units if downtime tops 48 hours, and 97% average fleet uptime. Service is the product.」（https://www.robotlab.com/）
+  - 「Authorized partner for the world's leading service-robot makers — delivery, cleaning, humanoid, industrial, and drone platforms under one roof.」（https://www.robotlab.com/）
+  - 「Use the finder at the top of robotlab.com — tell us your industry, region, and goal, and we'll shortlist robots that fit. Or request a free on-site demo — same-day response, walkthrough within 5 business days. Or call」（https://www.robotlab.com/）
+  - 「Scroll to Top」（https://neura-robotics.com/）
+  - 「Top Story」（https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain）
+  - 「Topics」（https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain）
+- 自社名で出せる条件：
+  - 「Autonomous Mobile Robots, AI & White Label Robotics 2025」（https://smprobotics.com/products_autonomous_ugv/）
+  - 「OEM/ODM and Licensed Robot Manufacturing Partnership」（https://smprobotics.com/products_autonomous_ugv/）
+  - 「SMP Robotics works with qualified OEM/ODM manufacturers and regional industrial partners to expand production of Argus Physical AI autonomous mobile robots.」（https://smprobotics.com/products_autonomous_ugv/）
+  - 「Partners may participate through contract manufacturing for international markets, territory-specific licensed production or white-label product programs. Cooperation can include design-for-manufacturing review, BOM optimization, technical documentation, software integration, personnel training and ongoing engineering support.」（https://smprobotics.com/products_autonomous_ugv/）
+  - 「UGV for security application with embedded AI」（https://smprobotics.com/products_autonomous_ugv/）
+  - 「ODM & OEM Robots | SuperDroid Robots」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「Custom & OEM Robots」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「ODM & OEM Robots」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「OEM, ODM, Private Labeling, & White Labeling Services for Robotics Integrators」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「We can work as an OEM (Original Equipment Manufacturer) that produces your design or as an ODM (Original Design Manufacturer) where we can make slight modifications to our designs for you to sell the robots under your brand including specific colors, logos, and even specific features.」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「Firmware development - Embedded」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「We offer custom software engineering services including .NET, Windows Embedded, MikroC, and Linux. Our software developers have the experience and skills to provide the brainpower to your robot or other mechanical devices.」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「Microsoft Embedded」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「Linux Embedded」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「Contact us today about an OEM or ODM partnership.」（https://www.superdroidrobots.com/odm-oem-robots）
+- 再販制度：
+  - 「Become security robot distributor」（https://smprobotics.com/products_autonomous_ugv/）
+  - 「UGVs of different series vary in their mechanical powertrains, which are perfectly suited for different types of roads that our mobile robots may operate on.」（https://smprobotics.com/products_autonomous_ugv/）
+  - 「Resell SuperDroid Robots」（https://www.superdroidrobots.com/odm-oem-robots）
+  - 「VARIABLE MIX」（https://getproductiv.com/humanoid-robotics）
+  - 「Closing it requires real robots doing real tasks in live operations — not labs. Real products, real deadlines, real variety. That's what generates useful training data.」（https://getproductiv.com/humanoid-robotics）
+  - 「Task variety matters more than task volume」（https://getproductiv.com/humanoid-robotics）
+  - 「Optimized for throughput, not variety」（https://getproductiv.com/humanoid-robotics）
+  - 「Engineered for complexity and variety」（https://getproductiv.com/humanoid-robotics）
+  - 「Product mix changes hourly. Variable BOM, multi-SKU configurations, custom packaging per retailer.」（https://getproductiv.com/humanoid-robotics）
+  - 「Single-item to multi-item orders. Poly bag, box, branded insert variations. Each-level accuracy required.」（https://getproductiv.com/humanoid-robotics）
+  - 「We're not a reseller — we're your robotics integrator. We walk your floor, map the workflow, deploy and program every robot, train your team, and keep the fleet running with nationwide service. One partner, any brand, from the first demo to the last spare part.」（https://www.robotlab.com/）
+  - 「Not a reseller. Your robotics integrator.」（https://www.robotlab.com/）
+  - 「A Branch-By-Branch Robot Rollout For Electrical Distributors」（https://www.robotlab.com/）
+  - 「How distributors pilot cleaning robots at one branch, measure hours returned, and roll out by region with RaaS.」（https://www.robotlab.com/）
+  - 「How electrical distributors use autonomous scrubbers to keep DC aisles, docks, and cut rooms clean every shift.」（https://www.robotlab.com/）
+- 黒字・収益性：
+  - 「New Sortation System Increases Throughput and Profits for Sportswear Retailer」（https://www.robotics247.com/article/humanoid-bosch-partner-to-scale-humanoid-robot-production/supply_chain）
+  - 「The company has been profitable on dog-robot sales and therefore remains largely self-funded, but it received an undisclosed strategic investment from Sequoia China in 2024 to accelerate H1 production tooling and global safety certification.」（https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/）
+  - 「Unitree is the only major general-purpose humanoid robotics company we can confidently say is making substantial money today. ExRobots has produced a small profit in a specialized niche, while Booster Robotics has reached positive monthly operating cash flow but has not yet proved sustained full-year profitability.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「The striking part is how short the profitable list remains. Humanoid shipments are already counted in the thousands, commercial contracts are getting much larger and real factories are using robots for meaningful work, yet revenue has spread through the industry much faster than company-level profit. Revenue is outrunning profit across the industry; we compare which business models are winning in」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「Humanoids are no longer a small side business inside Unitree. They grew from roughly 2% of revenue in 2023 to more than half in 2025, making it much harder to argue that the company's profitability simply comes from its older quadruped business.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「Unitree's margins probably will not stay as extraordinary as they looked in 2025. Its 2026 updates already show revenue continuing to rise while profit comes under pressure from heavier R&D, sales spending, international expansion and competition.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「UBTECH is the clearest counterexample to the idea that large humanoid revenue automatically creates profit. It generated roughly RMB2.00 billion of total revenue in 2025, including about RMB821 million from full-size embodied humanoids and related services, but still lost close to RMB790 million.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「AGIBOT may eventually challenge Unitree financially, but the public evidence still stops short. Roughly RMB1.05 billion of reported 2025 revenue and very large production volumes prove commercial scale; without comparable net-income disclosure, profitability remains unproven rather than assumed.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「The broader takeaway is that humanoid robotics has already crossed the commercialization threshold but barely crossed the profitability threshold. Unitree has shown that thousands of humanoids can be manufactured and sold while leaving meaningful earnings behind; nearly every other major player is still trying to prove that last part.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「Which humanoid robotics companies are actually profitable today?」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「Unitree is currently the clearest major humanoid robotics company making real profits, while ExRobots is a much smaller profitable edge case and Booster Robotics has only reached the weaker milestone of positive monthly operating cash flow.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「Unitree stands apart because its financial disclosure goes much further. Its Shanghai listing documents show RMB1.70 billion of 2025 revenue and RMB590.75 million of profit attributable to the parent after excluding non-recurring items. More than 5,500 humanoids shipped during that year.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「UBTECH, by comparison, produced RMB2.00 billion of revenue in 2025 and had already built a serious humanoid business, yet it still recorded a very large loss. AGIBOT said revenue reached RMB1.05 billion, although there is still no comparable public bottom-line figure. Figure, Apptronik and Agility have genuine industrial deployments but have yet to show evidence of company-level profitability.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「So the profitable end of humanoid robotics remains extremely concentrated. Revenue is spreading much faster than profits.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「Profit status today」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+- 売上：
+  - 「in 2020. Digit can walk, run, climb stairs, sense the environment and manually carry loads. Perfect as a warehouse assistant, Digit’s all-weather capabilities also enable it to serve outdoors.」（https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/）
+  - 「(a 1.75 m biped that can walk, run, carry and manipulate tools of up to 6 kg in weight);」（https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/）
+  - 「extends that expertise to elder-care, logistics and hospital transport. The robot can carry 50 kg, walk at 5 km/h and features an open ROS-based control architecture.」（https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/）
+  - 「Copyright © 2026 Arrowfly LLC. All Rights Reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Arrowfly」（https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/）
+  - 「Agility's Digit works a Spanx warehouse in Georgia — 5'9", 141 lb, carrying up to 35 lb alongside human staff.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Case Study 2: Agility Robotics Digit at Spanx — First Revenue-Earning Humanoid」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「A leading humanoid robot deployed commercially, working at a Spanx warehouse in Georgia for material movement. Digit stands 5'9", weighs 141 lbs, can carry up to 35 lbs, and operates alongside human workers. Amazon has also been testing Digit in its fulfillment centers since late 2023」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Carries up to 35 lbs per trip with consistent speed」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Table turnover time reduced by approximately 10 minutes per seating」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Modern retail robots use a combination of LiDAR, depth cameras, and AI-powered computer vision to navigate crowded store aisles, identify products on shelves, read price tags, and detect spills or hazards. Simbe's Tally uses a 30+ camera array to capture 3D shelf imagery with millimeter-level precision.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Payback periods range from 12 to 24 months for purchased robots, based on documented deployments. RaaS models can deliver positive ROI from month one if they displace labor costs exceeding the monthly lease fee. Key factors include operating hours (robots can work 16+ hours/day), the local labor market, and whether the robot generates additional revenue through enhanced customer engagement.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Unitree stands out because several pieces of evidence line up at once: RMB1.70 billion of 2025 revenue, positive statutory earnings, positive adjusted earnings, high gross margins and more than 5,500 humanoids shipped during the year. Most competitors can prove only two or three of those things.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「Humanoids are no longer a small side business inside Unitree. They grew from roughly 2% of revenue in 2023 to more than half in 2025, making it much harder to argue that the company's profitability simply comes from its older quadruped business.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「Unitree's margins probably will not stay as extraordinary as they looked in 2025. Its 2026 updates already show revenue continuing to rise while profit comes under pressure from heavier R&D, sales spending, international expansion and competition.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+  - 「UBTECH is the clearest counterexample to the idea that large humanoid revenue automatically creates profit. It generated roughly RMB2.00 billion of total revenue in 2025, including about RMB821 million from full-size embodied humanoids and related services, but still lost close to RMB790 million.」（https://newmarketpitch.com/blogs/news/humanoid-robotics-making-money）
+- 価格：
+  - 「Buy your robot outright, lease it with a $1 buyout, or subscribe with Robots-as-a-Service — pricing that fits the way your business budgets.」（https://www.robotlab.com/）
+  - 「Full catalog pricing with Net-30 terms for commercial accounts. Section 179 eligible — most buyers expense the entire robot in year one.」（https://www.robotlab.com/）
+  - 「Entry-level robots like Whiz vacuum start at $9,800. Mid-tier delivery robots like BellaBot Pro start at $16,000. Commercial scrubbers like Gausium Scrubber 50 start at $18,900. RaaS subscriptions start at $499/month all-inclusive.」（https://www.robotlab.com/）
+  - 「Table turnover time reduced by approximately 10 minutes per seating」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Robot pricing in 2026 varies enormously based on capabilities, form factor, and deployment model. Here's the realistic breakdown:」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「) to $150,000+ (UBTECH Walker S). Mid-range options like SoftBank Pepper cost approximately $25,000–$30,000 with ongoing software fees of ~$360/month.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Many retailers prefer RaaS models that bundle hardware, software, maintenance, and support into a monthly fee. Simbe Robotics offers Tally at approximately $2,000/month. Bear Robotics leases Servi at $999/month. This model eliminates upfront capital expenditure and reduces deployment risk.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「$50,000 (purchased) or $2,000/month (RaaS)」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Robot-as-a-Service pricing will drop below $1,000/month for basic service robots」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Prices range widely in 2026. Entry-level humanoid robots like the Unitree R1 start at $5,900. Mid-range customer service robots like SoftBank Pepper cost $25,000–$30,000 plus monthly software fees. Advanced humanoids with dexterous manipulation (UBTECH Walker S, Agility Digit) range from $50,000 to $150,000. Robot-as-a-Service (RaaS) models start at $999–$2,000/month, eliminating upfront costs.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「, $20,000 or $499 per month for」（https://theroboticlife.com/humanoid-funding-vs-revenue/）
+  - 「DIGITIMES Research predicts that after 2029, advances in actuator technology and economies of scale will reduce module costs for bipedal locomotion and dexterous manipulation by 50–70%, finally enabling true mass-market pricing.」（https://blog.robozaps.com/b/economics-of-humanoid-robot-production）
+  - 「$20,000–$30,000 per unit at scale, with Elon Musk suggesting eventual consumer pricing as low as $20,000」（https://blog.robozaps.com/b/economics-of-humanoid-robot-production）
+  - 「This pricing pressure is forcing margin compression across the industry. When a full-size, highly mobile humanoid (Unitree's H2) lists at」（https://blog.robozaps.com/b/economics-of-humanoid-robot-production）
+  - 「, it becomes difficult for Western competitors to justify $250,000+ pricing for comparable physical capability — even where the software stack is more mature. Unitree's own flagship H2 Plus, at $100,000, is still the highest published list price from a major manufacturer.」（https://blog.robozaps.com/b/economics-of-humanoid-robot-production）
+- 日本対応：
+  - 「Unsurprisingly, humanoid robots—both as a physical construct and as a concept—have been around for quite a while. The Japanese have had their vibrant」（https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/）
+  - 「. South-Korean conglomerate Hyundai Motor Group holds an 80 % stake while Japan’s SoftBank retains the remaining 20 %.」（https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/）
+  - 「, a joint venture with Japanese appliance maker Iris Ohyama, and formed a strategic partnership with AMR specialist Syrius Technology to address warehouse automation across Asia.」（https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/）
+  - 「that played trumpet and drums at the 2005 World EXPO in Aichi, Japan.」（https://rossdawson.com/futurist/companies-creating-future/top-companies-rise-humanoid-robots/）
+  - 「Retail robots are past the pilot stage: Pepper drove a documented 15% sales lift across 1,000+ Nestlé Japan stores, Simbe's Tally scans shelves in every BJ's Wholesale Club, and Agility's Digit moves goods in a Spanx warehouse. With hardware costs down about 40% since 2023, Goldman Sachs sees a $38 billion humanoid market by 2035.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Proof it sells: Pepper deployed across 1,000+ Nestlé Japan stores drove a documented 15% increase in Nescafé machine sales.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Case Study 1: Pepper at Nestlé Japan — 15% Sales Lift」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「are no longer a futuristic concept — they're actively reshaping how stores operate, how customers shop, and how retailers compete. From SoftBank's Pepper greeting customers at Nestlé stores in Japan to Agility Robotics' Digit handling logistics at Spanx warehouses, the retail robotics landscape in 2026 looks radically different from just two years ago.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Nestlé Japan:」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「SoftBank's Pepper was deployed across more than 1,000 Nestlé Japan stores starting in 2014, making it one of the largest humanoid retail deployments in history. Pepper's role: recommend Nescafé Dolce Gusto machines to browsing customers using natural-language dialogue and emotion recognition.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「As of January 2026, notable deployments include: BJ's Wholesale (Simbe Tally for inventory), Amazon (Agility Digit for fulfillment), Nestlé Japan (SoftBank Pepper for sales), Denny's and Chili's (Bear Robotics Servi for food delivery), and numerous Chinese retailers piloting UBTECH and Unitree humanoids. Walmart, Kroger, and Target have all conducted robotics pilots of various scales.」（https://blog.robozaps.com/b/humanoid-robots-in-retail）
+  - 「Japanese eldercare worker: $12–$18/hour」（https://blog.robozaps.com/b/economics-of-humanoid-robot-production）
+  - 「As robot costs continue falling, the economic pressure for adoption intensifies — particularly in regions with aging populations (Japan, South Korea, Germany) and tight labor markets.」（https://blog.robozaps.com/b/economics-of-humanoid-robot-production）
+  - 「Japanese Automakers' China Output Falls 32%, Lowest for April–September Since 2008」（https://autonews.gasgoo.com/articles/news/robot-ipo-wave-hits-the-brakes-whose-revenue-can-stand-up-to-scrutiny-2098249794014494721）
+  - 「Tsukuba, Japan」（https://humanoidindex.org/companies）
+- 検索結果の抜粋：
+  - 「Humanoid Robotics & Automation | Future of 3PL - Productiv — Humanoid Robotics & Automation | Future of 3PL - Productiv Productiv https://getproductiv.com > humanoid-...」（https://getproductiv.com/humanoid-robotics）
+  - 「Humanoid Robots in Packaging Part 1: Continuous Upgrades ... — Humanoid Robots in Packaging Part 1: Continuous Upgrades ... Packaging World https://www.packworld.com > article」（https://www.packworld.com/trends/digital-transformation/article/22950203/humanoid-robots-in-packaging-part-1-continuous-upgrades-some-industry-adoption）
+  - 「Publicly Traded Humanoid Robot Companies 2026 Guide — Publicly Traded Humanoid Robot Companies 2026 Guide EVST https://www.evsint.com > Blog」（https://www.evsint.com/publicly-traded-humanoid-robot-companies-2026-investor-guide/）
+  - 「All Humanoid Robot Companies 2026 — All Humanoid Robot Companies 2026 Humanoid Index https://humanoidindex.org > companies」（https://humanoidindex.org/companies）
+  - 「産業製造におけるヒューマノイド ロボット ：2026年に ... - EVST — 産業製造におけるヒューマノイド ロボット ：2026年に ... - EVST EVST https://www.evsint.com > humanoid-robots-industrial-ma...」（https://www.evsint.com/ja/humanoid-robots-industrial-manufacturing-2026/）
+  - 「2025年ヒューマノイド ロボット グローバル市場における導入 ... — 2025年ヒューマノイド ロボット グローバル市場における導入 ... Counterpoint Research https://counterpointresearch.com > insights > Global-Hum...」（https://counterpointresearch.com/jp/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace）
+  - 「人型ロボット 部品市場規模レポート[2035年] - Astute Analytica — 人型ロボット 部品市場規模レポート[2035年] - Astute Analytica Astute Analytica https://www.astuteanalytica.com > industry-report > huma...」（https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market）
+  - 「ヒューマノイド ロボット - メーカー・企業17社の業務用製品 ... — ヒューマノイド ロボット - メーカー・企業17社の業務用製品 ... 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ヒューマノイドロボット」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「GMO AI＆ロボティクス商事、世界No.1の 人型ロボット ... — GMO AI＆ロボティクス商事、世界No.1の 人型ロボット ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000005404.000000136.html）
+
+## エッジAIチップ（edge AI chip）
+- 文脈：1 AI・半導体 ②中核半導体
+- 提供企業：
+  - 「That momentum shows up in silicon roadmaps. Top-tier mobile and semiconductor vendors have embedded dedicated AI engines and Neural Processing Units (NPUs) into their SoCs, allowing low-power AI inference for increasingly sophisticated workloads.」（https://www.ltts.com/blog/edge-ai-chip-design）
+  - 「Top 15 Edge AI Chip Makers with Use Cases」（https://aimultiple.com/edge-ai-chips）
+  - 「Residential Proxy Providers」（https://aimultiple.com/edge-ai-chips）
+  - 「Proxy Providers」（https://aimultiple.com/edge-ai-chips）
+  - 「Cloud GPU Providers」（https://aimultiple.com/edge-ai-chips）
+  - 「Tanium Alternatives」（https://aimultiple.com/edge-ai-chips）
+  - 「Appen Alternatives」（https://aimultiple.com/edge-ai-chips）
+  - 「Amazon Mechanical Turk Alternatives」（https://aimultiple.com/edge-ai-chips）
+  - 「Control-M Alternatives」（https://aimultiple.com/edge-ai-chips）
+  - 「GoAnywhere Alternatives」（https://aimultiple.com/edge-ai-chips）
+  - 「MOVEit Alternatives」（https://aimultiple.com/edge-ai-chips）
+  - 「Globalscape Alternatives」（https://aimultiple.com/edge-ai-chips）
+  - 「, we identified the leading solutions for robotics, industrial IoT, and embedded systems.」（https://aimultiple.com/edge-ai-chips）
+  - 「Performance (TOPS)*」（https://aimultiple.com/edge-ai-chips）
+  - 「~10W (10 TOPS/W)」（https://aimultiple.com/edge-ai-chips）
+- 自社名で出せる条件：
+  - 「Embedded Engineering」（https://www.ltts.com/blog/edge-ai-chip-design）
+  - 「Embedded Systems」（https://www.ltts.com/blog/edge-ai-chip-design）
+  - 「That momentum shows up in silicon roadmaps. Top-tier mobile and semiconductor vendors have embedded dedicated AI engines and Neural Processing Units (NPUs) into their SoCs, allowing low-power AI inference for increasingly sophisticated workloads.」（https://www.ltts.com/blog/edge-ai-chip-design）
+  - 「Smart Edge AI chips go beyond incremental optimizations and represent a scenario where hardware and software merge with a purpose. A mentality of hardware-software co-design, therefore, is becoming increasingly necessary to meet the growing need for specialization in embedded AI systems at the edge.」（https://www.ltts.com/blog/edge-ai-chip-design）
+  - 「, we identified the leading solutions for robotics, industrial IoT, and embedded systems.」（https://aimultiple.com/edge-ai-chips）
+  - 「Embedded Vision, Edge Inference」（https://aimultiple.com/edge-ai-chips）
+  - 「SiMa.ai’s MLSoC (Machine Learning System-on-Chip) delivers over 50 TOPS while maintaining power consumption below 5W. The chip targets embedded vision applications requiring high performance in power-constrained environments.」（https://aimultiple.com/edge-ai-chips）
+  - 「Low-power solutions prioritize energy efficiency over raw performance. IoT devices, battery-powered cameras, and embedded systems with limited thermal budgets typically use these chips.」（https://aimultiple.com/edge-ai-chips）
+  - 「Qualcomm, the leading maker of merchant market SoCs with embedded edge AI processing cores for smartphones and other consumer devices, has released two standalone edge AI chips that are less powerful than its SoCs, but that are cheaper, smaller, and use less electricity.」（https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html）
+  - 「Hardware creates the first layer. Once an OEM has designed a processor into a camera, car or robot, moving to another chip may require a new board design, different drivers, fresh thermal testing and another validation cycle.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「Evaluated growth opportunities associated with AI accelerators, embedded AI, computer vision, neuromorphic computing, low-power processors, and advanced edge intelligence technologies across global markets.」（https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「(prototyping ecosystem). A massive, diverse, and bottom-up customer base leads to a crucial shift away from serving a small number of large cellular customers (OEMs and carriers). This diversification mitigates risk and establishes a global innovation pipeline.」（https://woodsidecap.com/ai-at-the-edge-low-power-high-stakes/）
+  - 「By form factor, the embedded edge AI chips segment accounted for the biggest market share of 60% in 2024.」（https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market）
+  - 「The automotive sector remains a key non-cloud-driven growth area for edge AI chips. Chips embedded in ADAS (Advanced Driver Assistance Systems) and infotainment platforms enable real-time decision-making without depending on cloud connectivity. Collaborations between chip vendors and automakers create opportunities to standardize platforms for autonomous and semi-autonomous vehicles.」（https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market）
+  - 「Why the embedded edge AI chips Segment Dominates the Edge Artificial Intelligence Chips Market?」（https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market）
+- 再販制度：
+  - 「Equally important is resilience to real-world variability. Edge devices face fluctuating workloads, environmental conditions, and power availability. Smarter chips are engineered to handle this unpredictability through adaptive software and robust hardware design, ensuring consistent performance outside controlled data center environments.」（https://www.ltts.com/blog/edge-ai-chip-design）
+  - 「**Kria K26 performance varies depending on the FPGA configuration.」（https://aimultiple.com/edge-ai-chips）
+  - 「Retail, Wholesale & Distribution」（https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html）
+  - 「Figure 1 shows the various locations where AI computing can occur, all of which are likely to coexist for the foreseeable future.」（https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html）
+  - 「In all, as many as 50 different companies are said to be working on AI accelerators of various kinds.」（https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html）
+  - 「IP licensing has the cleanest structural margin profile because the customer manufactures the silicon. The trade-off is that royalties can be tiny per unit, so the model becomes exceptional only when the licensed technology reaches very large shipment volumes.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「Edge AI IP licensing currently produces much better gross margins than selling physical chips, provided the technology reaches enough devices to make small royalties add up.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「Arm shows how powerful that model can become. In its latest quarter, Arm generated $574 million from licenses and other revenue, up 23%, plus $715 million of royalty revenue, up 22%. Its GAAP gross margin was 97.2%.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「Ceva gives us a smaller and more directly edge-focused example. Its latest quarterly revenue reached $29 million, with $18.2 million from licensing and related revenue and $10.8 million from royalties. GAAP gross margin was 87%. The company has now had its technology incorporated into more than 20 billion devices.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「Compare those margins with the 58.4% GAAP gross margin Ambarella reported in its latest quarter. Ambarella still has an attractive semiconductor gross margin, but physical products carry manufacturing costs that an IP licensor largely avoids.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「Their gross margins show the difference too. Samsara reported a 75% GAAP gross margin in its latest quarter. Ambarella reported 58.4%. Samsara still has hardware and connectivity costs, yet the customer ultimately pays for an ongoing operational application.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「IP licensing has the cleanest economics. Arm and Ceva can sell a design once and then collect royalties across large production volumes. Gross margins around 90% or higher are possible because customers manufacture the chips themselves.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「Best structural margins at scale」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「We prioritized recent company filings, earnings releases, disclosed pricing, production programs, customer agreements and product announcements. Revenue and growth matter, but we also looked behind them at shipment volumes, revenue per unit, gross margins, royalties, recurring revenue, design wins, production deployments, customer expansion and pricing units.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「We did not treat every adoption metric as equivalent. Customer counts can show that a product is getting tested without proving production scale; a design-win pipeline can show future commercial potential without being current revenue; and a high gross margin is attractive only if the model can reach enough volume.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+- 黒字・収益性：
+  - 「(SHA: 688256) reported FY2025 revenue of RMB 6.4972 billion, up 453.21% year over year, and its first full-year profit at RMB 2.0592 billion. Its market capitalization passed RMB 1 trillion on June 30, 2026, a first for the STAR Market.」（https://aimultiple.com/ai-chip-makers）
+  - 「(SHA: 688795) listed on the STAR Market on December 5, 2025. FY2025 revenue was RMB 1.505 billion, up 243.37% year over year. The company remains unprofitable and has been on the US Entity List since 2023.」（https://aimultiple.com/ai-chip-makers）
+  - 「Its listing notice states that the company was still unprofitable at listing.」（https://aimultiple.com/ai-chip-makers）
+- 売上：
+  - 「He led technology strategy and procurement of a telco while reporting to the CEO. He has also led commercial growth of deep tech company Hypatos that reached a 7 digit annual recurring revenue and a 9 digit valuation from 0 within 2 years. Cem's work in Hypatos was covered by leading technology publications like TechCrunch and Business Insider.」（https://aimultiple.com/edge-ai-chips）
+  - 「We predict that in 2020, more than 750 million edge AI chips—chips or parts of chips that perform or accelerate machine learning tasks on-device, rather than in a remote data center—will be sold. This number, representing a cool US$2.6 billion in revenue, is more than twice the 300 million edge AI chips Deloitte predicted would sell in 2017」（https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html）
+  - 「—a three-year compound annual growth rate (CAGR) of 36 percent. Further, we predict that the edge AI chip market will continue to grow much more quickly than the overall chip market. By 2024, we expect sales of edge AI chips to exceed 1.5 billion, possibly by a great deal.」（https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html）
+  - 「A precise breakdown of this market by category is not publicly available, but analysts believe that the AI portion will likely be still relatively nascent in 2020, with revenues of no more than US$1 billion, or 5 percent of total telecom edge compute spending.」（https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html）
+  - 「Some might also think that moving AI processing from the core to the edge will hurt cloud AI companies. This is unlikely: Recent forecasts for the cloud AI or AI-as-a-Service market predict that its revenues will grow from US$2 billion in 2018 to nearly US$12 billion by 2024, a 34 percent CAGR.」（https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html）
+  - 「Global artificial intelligence (AI) chip market set to record a CAGR of 45.2% between 2019 & 2025 - ASIC segment anticipated to overtake the GPU type in the near future, in terms of revenue」（https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2020/ai-chips.html）
+  - 「The IP layer is moving too. Ceva’s latest results showed licensing and related revenue rising 21% to $18.2 million, its highest level in three years. It signed ten licensing agreements during the quarter, including a deal for its NeuPro-M NPU with a large global AI and computing platform company. Ceva-powered device shipments reached 567 million units during the quarter.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「The nine-month numbers tell almost the same story. Qualcomm attributed $560 million of automotive growth to higher revenue per unit and $551 million to additional shipments. Over a longer period, the split is practically 50/50.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「Ambarella gave us an unusually concrete example this year. Hanwha entered a decade-long agreement with the company covering edge AI across security, robotics, industrial automation and other businesses. Ambarella said the partnership represents more than $800 million in potential revenue.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「For perspective, that potential contract value is more than twice Ambarella’s entire fiscal-2026 revenue. The money will obviously arrive over many years and depends on deployments actually materializing, but it shows why semiconductor companies obsess over design wins long before the revenue appears.」（https://newmarketpitch.com/blogs/news/edge-ai-business-model）
+  - 「By chipset: ASIC segment dominated the market with a revenue share of 33.2% in 2025.」（https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「By device: Consumer devices segment has a significant revenue share of 65.3% in 2025.」（https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「Largest regional market: North America (37.7% revenue share, 2025)」（https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「Based on device, the consumer devices segment has a significant revenue share of 65.3% in 2025, which is primarily attributed to the widespread adoption of AI-powered devices in everyday life. Consumer electronics such as smartphones,」（https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「Revenue in USD million/billion and CAGR from 2026 to 2033」（https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market）
+- 価格：
+  - 「(available now): A technology demonstrator hard-wired with Llama 3.1 8B, built on TSMC 6nm with 53 billion transistors. Taalas claims 17,000 tokens per second per user in a 2.5 kW air-cooled server. However, the model uses aggressive custom 3-bit and 6-bit quantization, which introduces quality degradations compared to GPU baselines.」（https://aimultiple.com/ai-chip-makers）
+  - 「, the foundry most of these designers depend on, had N+3 (5nm-class) in volume production as of June 2026, 7nm capacity of roughly 45,000 to 60,000 wafers per month, and $9.3 billion of 2025 revenue.」（https://aimultiple.com/ai-chip-makers）
+- 日本対応：
+  - 「U.S.; Canada; Mexico; Germany; UK; France; China; Japan; India; South Korea; Australia; Brazil; Saudi Arabia; South Africa; UAE」（https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「SoftBank Corp. will be the first customer to deploy SN50 within its AI data centers in Japan.」（https://aimultiple.com/ai-chip-makers）
+  - 「Rebellions confirmed on September 15, 2026 that RebelRack and RebelPOD systems were shipping. Its partnership with ai& included an initial purchase for a planned Tokyo deployment. Operation at the Japanese site was scheduled to begin after delivery.」（https://aimultiple.com/ai-chip-makers）
+  - 「Rebellions and ai& Partner to Bring Energy-Efficient AI Inference Infrastructure to Japan - Rebellions」（https://aimultiple.com/ai-chip-makers）
+  - 「ASIA (Japan and Korea):」（https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148）
+  - 「IDTechEx was established in 1999, and is headquartered in Cambridge, UK. Since then, the company has significantly expanded and operates globally, having served customers in over 80 countries. Subsidiary companies are based in the USA, Germany and Japan.」（https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148）
+  - 「トヨタ自動車などが参加する未来創生ファンドやデンソーから出資を受けるなど、日本の自動車業界ともつながりが深い」（https://techblitz.com/startup-interview/blaize/）
+  - 「Blaizeは現在、豊田通商グループの半導体商社ネクスティエレクトロニクスなど、日本国内の複数のエレクトロニクス商社と販売代理店契約を結んでいる」（https://techblitz.com/startup-interview/blaize/）
+  - 「日本企業と既に良好な関係を築けており、出資などを通じたパートナーシップは今後も歓迎するとMunagala氏は付け加えた」（https://techblitz.com/startup-interview/blaize/）
+  - 「エッジ AI 向けハードウェア・ソフトウェアを対象に、日本国内で販売・技術支援が可能に」（https://www.hakuto.co.jp/news/260820.pdf）
+  - 「神奈川県川崎市に本社を置く日本発のファブレス AI 半導体企業である EdgeCortix 株式会社（以下」（https://www.hakuto.co.jp/news/260820.pdf）
+  - 「ークを日本国内で販売するとともに、関連する技術支援を提供することが可能になりました」（https://www.hakuto.co.jp/news/260820.pdf）
+  - 「るとともに、日本国内におけるエッジ AI の社会実装を促進し、産業競争力の向上と新たな価値創出に貢献し」（https://www.hakuto.co.jp/news/260820.pdf）
+  - 「『伯東との協業は、日本およびその他のアジア太平洋地域の主要市場における事業拡大を加速する上で、」（https://www.hakuto.co.jp/news/260820.pdf）
+  - 「『EdgeCortix 社は、日本発の AI 半導体企業として、ハードウェア、ソフトウェアおよび半導体 IP を統合した」（https://www.hakuto.co.jp/news/260820.pdf）
+- 検索結果の抜粋：
+  - 「Top 15 Edge AI Chip Makers with Use Cases - AIMultiple — Top 15 Edge AI Chip Makers with Use Cases - AIMultiple AIMultiple https://aimultiple.com > edge-ai-chips」（https://aimultiple.com/edge-ai-chips）
+  - 「Edge AI Chip Market to Hit $60B by 2028 as Small Models ... — Edge AI Chip Market to Hit $60B by 2028 as Small Models ... AI Business https://aibusiness.com > Verticals」（https://aibusiness.com/verticals/edge-ai-chip-market-to-hit-60b-by-2028-as-small-models-pcs-boost-demand）
+
+## 生成AI半導体（AI accelerator chip）
+- 文脈：1 AI・半導体 ②中核半導体
+- 提供企業：
+  - 「Benchmark the top AI generation APIs for quality, speed, and pricing」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「Top Use Cases」（https://rafay.co/company/rafay-partners）
+  - 「Cloud providers」（https://rafay.co/company/rafay-partners）
+  - 「ByteBridge delivers AI-ready data center infrastructure across the globe; Rafay turns it into a governed AI cloud customers can operate and sell—together bridging physical build-out and the platform that runs on top.」（https://rafay.co/company/rafay-partners）
+  - 「Cloud Providers」（https://rafay.co/company/rafay-partners）
+  - 「Inworld AI is a leading realtime voice AI platform providing low-latency, emotionally expressive text-to-speech, speech-to-speech, and orchestration infrastructure for production-scale AI applications. Partnership spans ecosystem programs, distribution, and developer enablement.」（https://www.gmicloud.ai/en/company/partnership）
+  - 「$100 in credits to every founder, with top-ups up to $300 for engaged teams. Direct demo sessions with the cohort.」（https://www.gmicloud.ai/en/company/partnership）
+  - 「Unified API Access to Leading AI Models」（https://www.gmicloud.ai/en/company/partnership）
+  - 「(NASDAQ: MRVL), as well as the world's leading processor manufacturer,」（https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html）
+  - 「Marvell is tapping into the custom chip space, too. The company is a custom chip designer for Amazon's Trainium and Microsoft's Maia AI processors. That's notable because Amazon and Microsoft are the two leading cloud computing platforms, and Microsoft's popular Azure just surpassed $100 billion in annual revenue for the first time, thanks to rising AI compute demand.」（https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html）
+  - 「total average return is 946% — a market-crushing outperformance compared to 215% for the S&P 500. Don't miss the latest top 10 list, available with」（https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html）
+  - 「Trending Topics」（https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html）
+  - 「Its competitive advantage may be partly geographic. Korea wants domestic alternatives to foreign AI accelerators, and Rebellions has unusually deep links across Samsung, SK Telecom and SK Hynix through investments, manufacturing relationships and its merger with SAPEON. It has simultaneously expanded deployments in Japan, Saudi Arabia and the United States.」（https://newmarketpitch.com/blogs/news/ai-chip-startup-builds）
+  - 「The wider ASIC market provides additional evidence that specialization itself is no longer marginal. Counterpoint expects shipments of AI-server compute ASIC systems among the major providers to roughly triple between 2024 and 2027. Hyperscalers including Google, Amazon, Microsoft and Meta are simultaneously expanding proprietary processors.」（https://newmarketpitch.com/blogs/news/ai-chip-startup-builds）
+  - 「Who are the top companies today」（https://newmarketpitch.com/blogs/news/ai-chip-startup-builds）
+- 自社名で出せる条件：
+  - 「White Label AI Generation Platform | Wireflow」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「White Label AI Generation Platform」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「Launch your own branded AI generation service with Wireflow's white label platform and full API access」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「Your Brand, Our AI Infrastructure」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「White labeling AI generation means your clients interact with your brand while Wireflow handles model hosting, scaling, and inference. You control the UI, domain, and pricing. The API runs under your credentials with no Wireflow branding visible to end users.」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「Unlike chatbot-only white label tools, Wireflow covers image generation, video creation, upscaling, and multi-model workflows. Agencies can offer a full creative AI suite under their own brand without managing GPU infrastructure.」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「White Label Platform Capabilities」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「More Than Just White Label AI Generation Platform」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「white label AI video software」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「What is a white label AI generation platform?」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「A white label AI generation platform is a pre-built AI service you rebrand and resell under your own company name. You control the branding, domain, and client experience while the provider handles model hosting and infrastructure.」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「Yes. Wireflow supports custom domains, logos, color schemes, and UI customization. Your clients interact with your brand only, with no third-party branding visible anywhere in the experience.」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「Which AI models are available for white labeling?」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「How long does it take to launch a white label AI service?」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「Volume pricing and dedicated support for agencies running white label AI services」（https://www.wireflow.ai/white-label-ai-generation-platform）
+- 再販制度：
+  - 「for volume discounts and enterprise plans built for resellers and agencies. Agencies that resell video rather than images can start from our」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「A white label AI generation platform is a pre-built AI service you rebrand and resell under your own company name. You control the branding, domain, and client experience while the provider handles model hosting and infrastructure.」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「You set your own pricing. Wireflow charges you based on actual generation volume with tiered discounts. Mark up the price however you want when reselling to your clients.」（https://www.wireflow.ai/white-label-ai-generation-platform）
+  - 「Rafay Accelerate Partner Program | Rafay」（https://rafay.co/company/rafay-partners）
+  - 「VARs and Distributors」（https://rafay.co/company/rafay-partners）
+  - 「Global Partner Program for AI Infrastructure - GMI Cloud」（https://www.gmicloud.ai/en/company/partnership）
+  - 「Global Partner Program」（https://www.gmicloud.ai/en/company/partnership）
+  - 「Reseller Partners」（https://www.gmicloud.ai/en/company/partnership）
+  - 「Package and resell GMI Cloud GPU infrastructure and platform services to deliver reliable AI solutions without supply constraints.」（https://www.gmicloud.ai/en/company/partnership）
+  - 「High resale margins」（https://www.gmicloud.ai/en/company/partnership）
+  - 「The risk is that analog computing has historically struggled with precision, manufacturability and software. Circuit noise and device variation can turn impressive laboratory efficiency into a much harder commercial engineering problem. EnCharge's real test is whether its noise-resilient approach preserves model accuracy and efficiency in mass-produced hardware.」（https://newmarketpitch.com/blogs/news/ai-chip-startup-builds）
+  - 「The wider ASIC market provides additional evidence that specialization itself is no longer marginal. Counterpoint expects shipments of AI-server compute ASIC systems among the major providers to roughly triple between 2024 and 2027. Hyperscalers including Google, Amazon, Microsoft and Meta are simultaneously expanding proprietary processors.」（https://newmarketpitch.com/blogs/news/ai-chip-startup-builds）
+  - 「Future expansion could compress margins」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「For us, an AI startup is genuinely profitable when the whole business produces positive earnings or cash from normal operations; gross margins, profitable products and optimistic break-even forecasts do not clear that bar.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Gross margin」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+- 黒字・収益性：
+  - 「Which AI startups are actually profitable?」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「The strongest cases of profitable AI startups are ElevenLabs, Gamma, Midjourney, OpenArt and Mercor, with Photoroom also likely profitable; Anthropic has crossed into adjusted quarterly operating profit but has not yet proved that level is durable.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「The profitable group is much smaller than the ARR leaderboards suggest. Private AI companies report net income, adjusted operating profit, free cash flow, divisional profit and gross revenue almost interchangeably, so the headline number alone can be badly misleading.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「ElevenLabs has the strongest reported absolute profit figure in the group, with Forbes putting 2025 profit at roughly $116 million. That is a much harder profitability signal than simply saying the company has reached break-even. ElevenLabs has a hard profit figure, which is rare, and we look at who makes money and who burns cash in」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Gamma and Midjourney show two different ways to build profitable AI businesses. Gamma stayed small while selling a focused application on top of outside models; Midjourney financed its own specialized model development from customer revenue without conventional venture funding.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Mercor is profitable in cash terms, but its revenue needs a mental haircut before comparison with SaaS companies. Roughly 60% to 70% of its gross revenue reportedly flows to contractors, so the $2 billion-plus annualized figure overstates the revenue Mercor actually retains.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Freshness matters almost as much as the metric. Photoroom has repeated profitability evidence across several years, while Hebbia was explicitly profitable at a much smaller scale and has not disclosed an equally fresh profit figure after expanding.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Anthropic is the most important borderline case because it has shown positive adjusted operating income at frontier-model scale. The caveat is obvious: stock compensation is excluded, compute commitments remain enormous, and one quarter does not prove a stable earnings model.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「xAI and Harvey are useful controls. Both have substantial revenue, yet xAI posted multi-billion-dollar operating losses and Harvey remains unprofitable, which makes it clear that fast ARR growth and actual profitability are still very different things.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「The recurring pattern among profitable AI startups is disciplined scope: narrow products, small teams, clear customer value and less exposure to the full cost of the frontier-model race. Companies trying to own models, infrastructure, distribution and multiple product categories at once face a much harsher cost structure.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Falling inference costs should push more AI startups toward profitability, but those savings will not all stay with the companies. Competitors get cheaper models too, so the durable winners still need distribution, workflow depth, switching costs, proprietary data, brand or specialized technology beyond cheap access to intelligence.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Which AI startups are actually profitable today?」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「A surprisingly small group of major AI startups can make a convincing profitability claim today: ElevenLabs, Gamma, Midjourney, OpenArt and Mercor have the strongest evidence, while Photoroom also belongs in the conversation and Anthropic has just crossed an important quarterly threshold.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「The answer gets messy because private AI companies disclose whatever metric suits them. One company says it is profitable and means net income. Another means adjusted EBITDA. Another means free cash flow. A fourth may simply mean that one product line covers its direct costs. Those claims sound similar in a headline, but financially they can describe very different businesses.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「OpenArt reached more than $70 million ARR with roughly 20 employees, and its CEO says the company was profitable when it raised its Series A. Mercor is free-cash-flow positive according to The Information, although its famous $2 billion annualized revenue figure is gross revenue before large contractor payouts.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+- 売上：
+  - 「includes everything from cloud computing to its Gemini Enterprise subscriptions. Sales from this segment soared 82% in the second quarter to $24.8 billion, making it Alphabet's fastest-growing revenue segment.」（https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html）
+  - 「The financial details of the agreement weren't released, but it's certainly helping to accelerate Broadcom's sales of custom processors. Management says revenue from AI semiconductors will reach $56 billion this year and soar to more than $100 billion next year.」（https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html）
+  - 「Marvell is tapping into the custom chip space, too. The company is a custom chip designer for Amazon's Trainium and Microsoft's Maia AI processors. That's notable because Amazon and Microsoft are the two leading cloud computing platforms, and Microsoft's popular Azure just surpassed $100 billion in annual revenue for the first time, thanks to rising AI compute demand.」（https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html）
+  - 「The scale difference remains enormous. Nvidia's latest quarterly data-center revenue reached roughly $89 billion, an amount far beyond the annual revenue of the entire independent AI-chip startup cohort. Nvidia also sells an integrated platform spanning GPUs, networking, CPUs, software and rack-scale systems, so startups compete against much more than a processor benchmark.」（https://newmarketpitch.com/blogs/news/ai-chip-startup-builds）
+  - 「OpenArt is the most extreme operating-efficiency case. More than $70 million of ARR with roughly 20 employees suggests that owning the workflow and distribution layer can be extraordinarily valuable even when the company does not train every underlying model itself.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Mercor is profitable in cash terms, but its revenue needs a mental haircut before comparison with SaaS companies. Roughly 60% to 70% of its gross revenue reportedly flows to contractors, so the $2 billion-plus annualized figure overstates the revenue Mercor actually retains.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「OpenArt reached more than $70 million ARR with roughly 20 employees, and its CEO says the company was profitable when it raised its Series A. Mercor is free-cash-flow positive according to The Information, although its famous $2 billion annualized revenue figure is gross revenue before large contractor payouts.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「At the other end, some of the biggest AI companies remain deeply loss-making. xAI's financial disclosures showed roughly $3.2 billion of 2025 revenue against about $6.4 billion of operating losses. Harvey has reached around $350 million ARR, yet cofounder Winston Weinberg confirmed recently that the legal-AI company is still unprofitable.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Net income gives us the cleanest answer because compensation, infrastructure, R&D and the rest of the company's normal expenses ultimately flow through the accounts. ElevenLabs stands out because Forbes reported an actual profit figure of about $116 million for 2025 rather than merely quoting an ARR number.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Financial disclosures covering its AI operations showed approximately $3.2 billion of revenue in 2025. Costs and expenses reached about $9.6 billion, producing an operating loss of roughly $6.4 billion. Research and development alone exceeded $5 billion.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Put differently, xAI lost almost $2 in operations for every $1 of revenue it generated that year.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「Cerebras currently has the strongest clean full-year revenue figure among the AI-chip startups and recent startup graduates we can measure, with $510 million of 2025 revenue.」（https://newmarketpitch.com/blogs/news/ai-chip-top-revenue）
+  - 「The ranking gets much tighter once we use 2026 interim numbers. Moore Threads generated RMB1.74 billion in only six months, while Biren, Enflame and Iluvatar CoreX all moved above roughly RMB900 million in first-half revenue. Half-year revenue jumping this fast is why we look at who is growing the fastest in」（https://newmarketpitch.com/blogs/news/ai-chip-top-revenue）
+  - 「The metric discipline matters as much as the ranking. Etched has more than $1 billion of signed customer contracts and Tenstorrent has cited roughly $150 million of closed deals, but neither figure should be presented as recognized annual revenue.」（https://newmarketpitch.com/blogs/news/ai-chip-top-revenue）
+  - 「Cerebras is unusual because its $510 million figure is both large and directly comparable. Its filings also split the business into roughly $358 million of hardware revenue and $152 million from cloud and other services, so the number reflects an operating business rather than a backlog headline.」（https://newmarketpitch.com/blogs/news/ai-chip-top-revenue）
+- 価格：
+  - 「Reuters has reported that Anthropic agreed to pay SpaceX roughly $1.25 billion per month for computing capacity under one arrangement. It also has major infrastructure agreements involving Amazon, Google and other providers. Recent reporting puts Anthropic's broader infrastructure commitments comfortably into the tens of billions of dollars.」（https://newmarketpitch.com/blogs/news/ai-infrastructure-profitable-startups）
+  - 「(available now): A technology demonstrator hard-wired with Llama 3.1 8B, built on TSMC 6nm with 53 billion transistors. Taalas claims 17,000 tokens per second per user in a 2.5 kW air-cooled server. However, the model uses aggressive custom 3-bit and 6-bit quantization, which introduces quality degradations compared to GPU baselines.」（https://aimultiple.com/ai-chip-makers）
+  - 「, the foundry most of these designers depend on, had N+3 (5nm-class) in volume production as of June 2026, 7nm capacity of roughly 45,000 to 60,000 wafers per month, and $9.3 billion of 2025 revenue.」（https://aimultiple.com/ai-chip-makers）
+- 日本対応：
+  - 「Its competitive advantage may be partly geographic. Korea wants domestic alternatives to foreign AI accelerators, and Rebellions has unusually deep links across Samsung, SK Telecom and SK Hynix through investments, manufacturing relationships and its merger with SAPEON. It has simultaneously expanded deployments in Japan, Saudi Arabia and the United States.」（https://newmarketpitch.com/blogs/news/ai-chip-startup-builds）
+  - 「SoftBank Corp. will be the first customer to deploy SN50 within its AI data centers in Japan.」（https://aimultiple.com/ai-chip-makers）
+  - 「Rebellions confirmed on September 15, 2026 that RebelRack and RebelPOD systems were shipping. Its partnership with ai& included an initial purchase for a planned Tokyo deployment. Operation at the Japanese site was scheduled to begin after delivery.」（https://aimultiple.com/ai-chip-makers）
+  - 「Rebellions and ai& Partner to Bring Energy-Efficient AI Inference Infrastructure to Japan - Rebellions」（https://aimultiple.com/ai-chip-makers）
+  - 「We have engaged with more than 1,500 semiconductor hardware startups worldwide and have admitted over 150 exciting companies. Silicon Catalyst is the Gold Standard for semiconductor acceleration. Our unique model, refined for over a decade, has been successfully franchised internationally, with global partners in the UK, EU, Israel, Japan, Australia and Malaysia.」（https://siliconcatalyst.com/）
+  - 「NVIDIA と世界の産業用ソフトウェア大手企業が、設計、エンジニアリング、製造を AI 時代へと導く - NVIDIA | Japan Blog」（https://blogs.nvidia.co.jp/blog/nvidia-and-global-industrial-software-giants-bring-design-engineering-and-manufacturing-into-the-ai-era/）
+  - 「NVIDIA Japan」（https://blogs.nvidia.co.jp/blog/nvidia-and-global-industrial-software-giants-bring-design-engineering-and-manufacturing-into-the-ai-era/）
+  - 「日本のAI半導体企業10社」（https://www.movin.co.jp/it/ai/semiconductor.html）
+  - 「日本はチップ設計そのものよりも、製造装置・材料・部品などで世界のAI半導体を支える立ち位置となりつつあり、」（https://www.movin.co.jp/it/ai/semiconductor.html）
+  - 「【AI×事業開発】若手ポテンシャル採用スタート！日本最大のユニコーンAIメガベンチャー」（https://www.movin.co.jp/it/ai/semiconductor.html）
+  - 「戦略コンサル出身者募集中！日本で最も有名なAI研究室」（https://www.movin.co.jp/it/ai/semiconductor.html）
+  - 「日本AI企業ランキング」（https://www.movin.co.jp/it/ai/semiconductor.html）
+  - 「SB OAI Japan」（https://www.movin.co.jp/it/ai/semiconductor.html）
+  - 「ASRock Industrial 社は 2002年に設立された（本社：台北）、マザーボード市場において日本シェア No.2※ のボード・メーカーのASRock の子会社で、IPC に Focus した子会社として 2018 年に設立されました」（https://www.macnica.co.jp/business/semiconductor/manufacturers/）
+  - 「通信モジュールは SIMCom Wireless Solution.,Ltdの日本総代理店として、キャリア認証等のサポート並びに販売をおこなっております」（https://www.macnica.co.jp/business/semiconductor/manufacturers/）
+
+## 定置用蓄電池（stationary energy storage battery）
+- 文脈：2 デジタル・サイバー ④蓄電池
+- 提供企業：
+  - 「Amplify your brand presence with the leading trade media platform for the solar and storage industry.」（https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/）
+  - 「Back to top」（https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/）
+  - 「You sell, you install - and the revenue from the customer stops. There's no easy way to stay useful (and profitable) after commissioning.」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「Top 10 Battery Energy Storage Manufacturers in 2026」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「The leading battery energy storage manufacturers in 2026 include Avepower, CATL, Tesla, BYD, Fluence, sonnen, SENEC, Enphase Energy, LG Energy Solution, Samsung SDI, and several specialized B2B manufacturers serving residential, commercial, industrial, and utility-scale projects.」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「Top Battery Energy Storage Manufacturers to Watch in 2026」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「As the world’s #2 storage system integrator and Europe’s top supplier, Fluence is setting new standards in scalable, reliable, and intelligent energy storage.」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「Founded in 2010 in Germany, Sonnen is a leading residential energy storage provider, known for its sonnenBatterie 10 series including Hybrid and Performance+ models. The systems offer modular capacities from 2.5 to 45 kWh using LiFePO4 batteries, ensuring high safety, durability, and up to 98% efficiency.」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「Known for reliability and a 20-year warranty, SENEC appeals to households seeking long-term energy savings. Between 2021 and 2022, SENEC ranked among Germany’s top four residential storage providers, accounting for over 75% of installed home systems. Key features include high efficiency, up to 5 kW output, and virtual storage capabilities via SENEC.Cloud.」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「As we’ve explored, the battery energy storage industry is evolving faster than ever—with top manufacturers driving innovation, reliability, and expanded access to clean energy. By understanding market leaders and their solutions, you’re empowered to make informed choices that fit your needs, whether for your home, business, or large-scale projects.」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「Who are the top battery energy storage manufacturers in 2026?」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「Some of the leading battery energy storage manufacturers include Avepower, CATL, Tesla, BYD, Fluence, sonnen, SENEC, Enphase Energy, LG Energy Solution, Samsung SDI, and specialized B2B suppliers such as Avepower.」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「Top 20 Solar Battery Brands & Suppliers in Adelaide for 2026」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「Trusted by Fortune 500 companies, U.S. National Laboratories, and leading developers advancing stationary energy storage.」（https://nexceris.com/industries/stationary-energy-storage/）
+  - 「Top BESS Manufacturers & Battery Storage Companies 2026」（https://www.solaxpower.com/blogs/battery-storage-manufacturers.html）
+- 自社名で出せる条件：
+  - 「Inion Software launches VPP platform and white-label offer for batteries and renewable assets - Energy Storage」（https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/）
+  - 「Inion Software launches VPP platform and white-label offer for batteries and renewable assets」（https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/）
+  - 「Lithuanian developer Inion Software has launched a virtual power plant (VPP) platform for storage and distributed energy assets. The company has dual aims: it is currently operational in Lithuania’s balancing market and expanding, while it also has a goal of rolling its VPP platform out as a white-label offering for energy companies and aggregators under their own brands.」（https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/）
+  - 「White-label」（https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/）
+  - 「“We can offer the VPP as a white-label product,” said Šarūnas Stanaitis, CEO of Inion Software. “One of our strengths is integrating the hardware with the platform, which can be a difficult part of VPP deployment. Expanding this product outside Lithuania is one of our targets.”」（https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/）
+  - 「Cross-border expansion of European VPP software is often slowed by local regulations and fragmented TSO frameworks, limiting expansion prospects for companies that interact with grids. The company notes, as a white-label option, the architecture pairs standard hardware at the energy sites with Inion’s software to handle the equipment connection and control logic.」（https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/）
+  - 「Amplify your brand presence with the leading trade media platform for the solar and storage industry.」（https://www.ess-news.com/2026/09/14/inion-software-launches-vpp-platform-and-white-label-offer-for-batteries-and-renewable-assets/）
+  - 「ENEKTRI Cloud White-Label - your brand, our technology | ENEKTRI」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「ENEKTRI Cloud · White-Label · For installer companies」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「Your brand.」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「Try it with your own brand ↓」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「Send us your logo and colours - we configure the platform with your brand and name. Your customer sees your company's product; ENEKTRI stays behind the scenes.」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「ENEKTRI gives you the ready-made technology to "rent". You dress it in your own brand and resell it - without investing in development.」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「Your customer only sees your brand - not ENEKTRI.」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「A portal for your customers with your logo, colours and name - functionally identical to ENEKTRI Cloud.」（https://enektri.com/en/enektri-cloud-white-label/）
+- 再販制度：
+  - 「Stationary energy storage is critical to supporting a strong energy future – delivering the reliability, resilience, and sustainability our nation depends on. To meet diverse applications and growing demand, a variety of battery chemistries – including lead, flow, lithium, sodium, and zinc – is essential to support the evolving energy landscape.」（https://batterycouncil.org/battery-facts-and-applications/essential-applications/stationary-energy-storage/）
+  - 「provide long-duration storage to balance electrical supply and demand, integrate distributed energy resources, and enhance grid resilience. As electrification accelerates and renewable penetration grows, BESS ensure the grid can manage variability and maintain stability, from manufacturing facilities to military bases.」（https://batterycouncil.org/battery-facts-and-applications/essential-applications/stationary-energy-storage/）
+  - 「ENEKTRI gives you the ready-made technology to "rent". You dress it in your own brand and resell it - without investing in development.」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「Varna, Bulgaria」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「Various models with no single standard」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「I agree that ENEKTRI may contact me regarding the partner program.」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「© 2026 ENEKTRI LTD · VAT BG208770193 · Varna, Bulgaria. All rights reserved.」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「For many brands, distributors, and EPCs, this is not merely convenient. It is the only practical way to enter the market at speed.」（https://boostess.energy/oem-odm/）
+  - 「A business that wants to move quickly may not need to reinvent every subsystem. It may prefer to work with a validated product platform and customize only the areas that directly affect branding, usability, or market fit. This is especially attractive to distributors, regional integrators, solar companies, and new entrants building」（https://boostess.energy/oem-odm/）
+  - 「distributors expanding into storage」（https://boostess.energy/oem-odm/）
+  - 「Many energy storage brands are not selling only in one region. They are preparing for multiple export markets, channel partners, and compliance environments. That makes certification support a practical necessity.」（https://boostess.energy/oem-odm/）
+  - 「For clients entering global markets, this is a major advantage. It lowers launch friction. It also helps private-label products appear more credible to distributors, EPCs, and end users.」（https://boostess.energy/oem-odm/）
+  - 「distributors launching private-label BESS」（https://boostess.energy/oem-odm/）
+  - 「Become an Avepower Distributor — Grow Your Energy Business.」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「Distributors & Wholesalers」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+- 黒字・収益性：
+  - 「You sell, you install - and the revenue from the customer stops. There's no easy way to stay useful (and profitable) after commissioning.」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「Smart control earns real money for the customer - spot-market arbitrage, peak shaving, protection against negative prices. You take a percentage of that profit.」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「a share of the profit the software generates」（https://enektri.com/en/enektri-cloud-white-label/）
+  - 「In 2023, Fluence achieved its first profitable quarter with $4.8M net income and launched Gridstack Pro, a next-gen storage solution with higher energy density, advanced safety, and the FluenceOS7 system. In 2024, it partnered with Excelsior Energy Capital to supply 2.2 GWh of U.S.-made storage systems from 2025. Long-term supply deals with CATL and AESC further secure its supply chain.」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「use AI to track weather forecasts and shifting electricity prices. Instead of just sitting there, the system "decides" to charge when power is cheap and discharge when it’s most profitable.」（https://www.solaxpower.com/blogs/battery-storage-manufacturers.html）
+  - 「Eos remains in a manufacturing scale-up phase and continued to report losses during the quarter, so its inclusion here reflects rapid revenue, backlog, and production growth rather than profitability.」（https://www.landbase.com/blog/fastest-growing-energy-storage-companies-startups）
+  - 「Gross margin equals total revenue minus variable costs and degradation. EBITDA proxy equals gross margin minus fixed operating costs.」（https://montel.energy/resources/blog/battery-storage-revenues-explained）
+  - 「EBITDA proxy」（https://montel.energy/resources/blog/battery-storage-revenues-explained）
+  - 「The company is shifting its revenue mix toward software and services while reducing battery-hardware resale. Some hardware sales remain, and the transition continues to affect revenue, costs and profitability.」（https://greenstocksresearch.com/energy-storage-stocks/）
+  - 「Within this quickly changing U.S. battery market, we believe software is essential to making the development and operations of utility-scale BESS more efficient and profitable for stakeholders.」（https://energizecap.com/insights/battery-software-the-tools-empowering-a-growing-industry）
+  - 「In fact, the difference between appropriately managing battery portfolios versus not has been proven to lead to sizable differences in battery revenues and profitability. Within ERCOT in 2023, the best performing batteries earned on average ~300K $/MW versus <100K $/MW in bottom performance scenarios」（https://energizecap.com/insights/battery-software-the-tools-empowering-a-growing-industry）
+  - 「Benchmarking platforms create a standard for battery market performance, providing critical data for development, financing, and operations. These platforms enable stakeholders to make informed decisions that can enhance the profitability and efficiency of battery assets by promoting transparency in battery performance and supporting decision-making.」（https://energizecap.com/insights/battery-software-the-tools-empowering-a-growing-industry）
+  - 「We maximize the revenues, efficiency, and lifespan of battery energy storage systems with data-based optimization in the power markets. Your asset achieves peak profitability with minimum degradation while supporting the grid and renewable integration.」（https://www.enspired-trading.com/bess）
+  - 「Future-proofing battery revenues and securing long-term profitability for a utility use case.」（https://www.enspired-trading.com/bess）
+  - 「Simultaneous participation in all relevant short-term markets with dynamic adjustments based on grid needs and price signals to ensure a stable electricity supply, minimized energy costs, and profitable asset management for one of Germany’s largest BESS projects.」（https://www.enspired-trading.com/bess）
+- 売上：
+  - 「Known for reliability and a 20-year warranty, SENEC appeals to households seeking long-term energy savings. Between 2021 and 2022, SENEC ranked among Germany’s top four residential storage providers, accounting for over 75% of installed home systems. Key features include high efficiency, up to 5 kW output, and virtual storage capabilities via SENEC.Cloud.」（https://avebattery.com/blog/battery-energy-storage-manufacturers/）
+  - 「An example of the impact of removing barriers is Order 755 by the US Federal Energy Regulatory Commission (FERC), which asks ISOs」（https://www.solarplaza.com/resource/11429/stationary-battery-storage-systems-what-will-drive-their-remarkable-growth/）
+  - 「LG Energy Solution's ESS revenue increased 4.6 times year over year in the first half of 2026」（https://www.landbase.com/blog/fastest-growing-energy-storage-companies-startups）
+  - 「Eos Energy reported 351% year-over-year Q2 2026 revenue growth」（https://www.landbase.com/blog/fastest-growing-energy-storage-companies-startups）
+  - 「Sungrow shipped 43 GWh of energy storage systems globally in 2025. Energy storage revenue reached RMB 37.29 billion, up 49.39% year over year and accounting for roughly 42% of total company revenue.」（https://www.landbase.com/blog/fastest-growing-energy-storage-companies-startups）
+  - 「ESS revenue grew 4.6 times year over year in H1 2026」（https://www.landbase.com/blog/fastest-growing-energy-storage-companies-startups）
+  - 「LG Energy Solution reported that energy storage revenue increased 4.6 times year over year during the first half of 2026. ESS represented the high-20% range of company revenue, and the business secured more than KRW 3 trillion in new orders during the period.」（https://www.landbase.com/blog/fastest-growing-energy-storage-companies-startups）
+  - 「Revenue for the quarter increased to approximately $649.8 million from $602.5 million a year earlier. Fluence also reported production and construction delays that pushed some expected revenue into fiscal 2027 and led the company to lower its FY2026 revenue outlook.」（https://www.landbase.com/blog/fastest-growing-energy-storage-companies-startups）
+  - 「Q2 2026 revenue increased 351% year over year」（https://www.landbase.com/blog/fastest-growing-energy-storage-companies-startups）
+  - 「Eos generated $68.8 million in Q2 2026 revenue, up 351% year over year. Backlog reached a record $807 million, representing 3.4 GWh, and increased 25% sequentially. The company said first-half 2026 revenue exceeded its revenue for all of 2025.」（https://www.landbase.com/blog/fastest-growing-energy-storage-companies-startups）
+  - 「See 10 venture-backed companies hiring sales and revenue enablement roles in the last 90 days, with what they sell, funding, and how they are hiring.」（https://www.landbase.com/blog/fastest-growing-energy-storage-companies-startups）
+  - 「Annualise. Cycles per day multiplied by 365 multiplied by usable energy in MWh multiplied by net spread gives expected annual arbitrage revenue.」（https://montel.energy/resources/blog/battery-storage-revenues-explained）
+  - 「Usable energy equals capacity multiplied by usable window. Net spread equals price spread multiplied by efficiency minus variable costs. Annual arbitrage revenue equals cycles per day multiplied by 365 multiplied by usable energy multiplied by net spread.」（https://montel.energy/resources/blog/battery-storage-revenues-explained）
+  - 「Generac reports Residential and Commercial & Industrial segments. Battery storage sits within a broader product portfolio, so group revenue and market value do not measure storage exposure alone. Generac completed its acquisition of generator-control and packaging supplier Enercon in the second quarter of 2026.」（https://greenstocksresearch.com/energy-storage-stocks/）
+  - 「Its batteries earn revenue from electricity trading, balancing and ancillary services, capacity arrangements and other contracts. The fund is expanding the role of contracted revenues alongside market-based income. At the end of 2025, it reported an operating portfolio of 1,072 MW and 1,701 MWh.」（https://greenstocksresearch.com/energy-storage-stocks/）
+- 価格：
+  - 「Every clean-energy and critical-minerals IPO of 2026, with pricing, proceeds, lockups and performance vs. the S&P 500.」（https://greenstocksresearch.com/energy-storage-stocks/）
+  - 「connections/multi-site-pricing-booklet.pdf、＜閲覧日：2020.12.1＞より三菱総研作成」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+- 日本対応：
+  - 「Japanese」（https://www.solaxpower.com/blogs/battery-storage-manufacturers.html）
+  - 「🇯🇵 Japan」（https://greenstocksresearch.com/energy-storage-stocks/）
+  - 「Sumitomo Electric Industries is a diversified Japanese manufacturer with businesses in automotive wiring, power cables, electronics and industrial materials. Its energy activities include vanadium redox flow batteries for stationary storage. These systems store energy in liquid electrolyte and can be configured for prolonged discharge and repeated cycling.」（https://greenstocksresearch.com/energy-storage-stocks/）
+  - 「The company develops and supplies flow-battery equipment for utility and industrial projects in Japan and other markets. Storage is a comparatively small activity within the wider group; an investment in Sumitomo Electric also carries substantial exposure to its automotive and industrial operations.」（https://greenstocksresearch.com/energy-storage-stocks/）
+  - 「Japan disclaimer」（https://www.ardian.com/expertise/our-portfolio）
+  - 「国内外における家庭用蓄電システムの市場概要 －日本、ドイツ、豪州、CA州－」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+  - 「 家庭用蓄電システムは、日本、ドイツ、豪州、米国CA州において比較的導入が拡大している」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+  - 「日本 ドイツ 豪州 CA州」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+  - 「日本における蓄電システム価格（電池部分、PCS含む）と工事費の相場」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+  - 「（約9.3万円）と、日本やドイツと比してかなり低い水準となっている」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+  - 「日本と海外における家庭用蓄電システムの商流構造の比較例」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+  - 「国内外における業務・産業用蓄電システムの市場概要 －日本、中国、CA州－」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+  - 「 業務・産業用蓄電システムに関しては、日本、中国、米国の市場を分析した」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+  - 「なお、日本及び中国の統計については、通信基」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+  - 「日本 中国 CA州」（https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf）
+- 検索結果の抜粋：
+  - 「Top BESS Manufacturers & Battery Storage Companies 2026 — Top BESS Manufacturers & Battery Storage Companies 2026 SolaX Power https://www.solaxpower.com > blogs」（https://www.solaxpower.com/blogs/battery-storage-manufacturers.html）
+  - 「世界の 定置用 蓄電システム市場2026-2030年予測 高成長 ... — 世界の 定置用 蓄電システム市場2026-2030年予測 高成長 ... エネがえる https://www.enegaeru.com > エネがえるAPI」（https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030）
+
+## 軍用ドローン（military drone）
+- 文脈：5 防衛 ①小型無人航空機
+- 提供企業：
+  - 「autopilots,」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「flight controllers, and in the Pentagon's Drone Dominance program ModalAI ranked fourth of the 11 top performers selected for orders in Gauntlet I and placed in the top five for close-quarters battle in Gauntlet II.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「Applied Aeronautics builds affordable fixed-wing drones for commercial enterprises, UAS service providers and military customers. Its flagship Albatross UAV operates in over 55 countries, in applications ranging from remote sensing to asset management and surveillance.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「Autonodyne builds aviation software for autonomy, smart automation, mission planning and execution, autonomous vehicle control, on-demand mobility and augmented reality, and designs aviation hardware including mission computers, control stations and flight control computers (autopilots).」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「AVID LLC (Air Vehicle Integrated Design), an industry-leading aerospace engineering and software development firm, excels at engineering multidisciplinary aircraft design and analyses.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「Camflite is a leading U.S. sUAS company headquartered in New Jersey since 2010, focused on designing and manufacturing unmanned aircraft systems (sUAS) built with NDAA‑approved parts for industrial, commercial, and tactical uses.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「GreenSight’s industry-leading technology is developed and supported by a team with extensive backgrounds in robotics, autonomous vehicles, spacecraft, unmanned aerial vehicles (UAVs/drones), advanced communications and other forms of aerospace development as well as agriculture and land management.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「Selected to the US Government’s Blue sUAS program, Inspired Flight’s solutions have been thoroughly vetted for use in a variety of National Defense ecosystems. As a critical component of these high-impact applications, Inspired Flight’s top priority will always be the safety and reliability of its aircraft.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「Matternet is the developer of the world’s leading technology platform for on demand aerial delivery in urban environments. The company provides its technology platform as a service to healthcare, e- commerce and logistics organizations.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「VOXL autopilots」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「Skydio is the leading U.S. drone manufacturer and world leader in autonomous flight technology. Skydio leverages breakthrough AI technology to create the world’s most intelligent flying machines for consumers, enterprises, defense and civilian agencies.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「autopilots are」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「autopilots,」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d）
+  - 「flight controllers, and in the Pentagon's Drone Dominance program ModalAI ranked fourth of the 11 top performers selected for orders in Gauntlet I and placed in the top five for close-quarters battle in Gauntlet II.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d）
+  - 「Applied Aeronautics builds affordable fixed-wing drones for commercial enterprises, UAS service providers and military customers. Its flagship Albatross UAV operates in over 55 countries, in applications ranging from remote sensing to asset management and surveillance.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d）
+- 自社名で出せる条件：
+  - 「EagleNXT (NYSE: UAVS), rebranded from AgEagle in 2025, provides full-stack drone solutions including senseFly and eBee aircraft, MicaSense multispectral sensors, and Ground Control fleet software. The company relocated its global headquarters from Wichita, KS to Allen, TX in January 2026 and is building a new U.S. manufacturing line for its eBee VISION drone.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「Forterra delivers autonomous mission systems for defense, from self-driving ground vehicles to coordinated robotic swarms. The company rebranded from Robotic Research and has raised over $600M to date, with headquarters still in Clarksburg, MD and additional offices in Arlington, VA, Winter Park, FL, and Palo Alto, CA.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「Meadowlark Aircraft Company, headquartered in Grand Forks, North Dakota, manufactures bespoke, U.S.-made, NDAA-compliant unmanned aerial systems, particularly light Group 3 fixed-wing VTOL drones for defense and civilian applications. Founded in 2023, it also offers white-label manufacturing so clients can bring their own branded UAS to market.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「EagleNXT (NYSE: UAVS), rebranded from AgEagle in 2025, provides full-stack drone solutions including senseFly and eBee aircraft, MicaSense multispectral sensors, and Ground Control fleet software. The company relocated its global headquarters from Wichita, KS to Allen, TX in January 2026 and is building a new U.S. manufacturing line for its eBee VISION drone.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d）
+  - 「Forterra delivers autonomous mission systems for defense, from self-driving ground vehicles to coordinated robotic swarms. The company rebranded from Robotic Research and has raised over $600M to date, with headquarters still in Clarksburg, MD and additional offices in Arlington, VA, Winter Park, FL, and Palo Alto, CA.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d）
+  - 「Meadowlark Aircraft Company, headquartered in Grand Forks, North Dakota, manufactures bespoke, U.S.-made, NDAA-compliant unmanned aerial systems, particularly light Group 3 fixed-wing VTOL drones for defense and civilian applications. Founded in 2023, it also offers white-label manufacturing so clients can bring their own branded UAS to market.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d）
+  - 「Drone White Label Guide: How to Choose the Right Partner」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「White-label drone solutions are not plug-and-play consumer gadgets—they’re B2B service enablers.」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「About Drone White Label: Definition and Typical Use Cases」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「drone white label」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「refers to hardware or service packages developed by one manufacturer or operator—and rebranded, resold, and supported by another business as its own. It is」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「generic OEM hardware with a sticker swap. Legitimate white-label drone offerings include:」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「Hardware-only white labeling:」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「Service-based white labeling:」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「A licensed drone operator provides flights, data processing, and reporting—but all deliverables carry your branding, contact info, and service agreement. Clients interact solely with you.」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+- 再販制度：
+  - 「Selected to the US Government’s Blue sUAS program, Inspired Flight’s solutions have been thoroughly vetted for use in a variety of National Defense ecosystems. As a critical component of these high-impact applications, Inspired Flight’s top priority will always be the safety and reliability of its aircraft.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「ModalAI® accelerates autonomy by providing innovators with robot and drone perception and communications systems that are manufactured in the U.S.A. Our highly-integrated AI-powered modules empower a variety of industries to utilize aerial and ground autonomous navigations systems that communicate on 4G and 5G cellular networks. Learn more」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「Selected to the US Government’s Blue sUAS program, Inspired Flight’s solutions have been thoroughly vetted for use in a variety of National Defense ecosystems. As a critical component of these high-impact applications, Inspired Flight’s top priority will always be the safety and reliability of its aircraft.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d）
+  - 「ModalAI® accelerates autonomy by providing innovators with robot and drone perception and communications systems that are manufactured in the U.S.A. Our highly-integrated AI-powered modules empower a variety of industries to utilize aerial and ground autonomous navigations systems that communicate on 4G and 5G cellular networks. Learn more」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d）
+  - 「Mr. Card is a graduate of the University of South Carolina with a B.S. in Engineering. He also attended the U.S. Merchant Marine Academy and the John F. Kennedy School of Government at Harvard University. Mr. Card served in the U.S. Navy from 1965 to 1967.」（https://draganfly.com/）
+  - 「In the EU, UK, and parts of North America, national aviation authorities now recognize operational authorizations for third-party managed fleets—so long as accountability, training records, and maintenance logs remain traceable to the legal operator. This enables white-label partners to assume operational responsibility while letting resellers focus on sales and integration.」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「Less hardware-level control, potential vendor lock-in (especially on software APIs), slower response to firmware bugs if upstream vendor delays patches, margin compression if reselling at commodity rates.」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「Real-world costs vary significantly by scope—not headline specs. Based on publicly disclosed engagements cited by CloudVisual and Drone.Solutions」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「When it’s worth caring about: if your gross margin on drone services currently sits below 35%—white labeling can lift it to 50–65% by eliminating pilot payroll overhead and certification renewal costs. When you don’t need to overthink it: if your drone revenue is <10% of total income and serves only internal needs.」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「transfer legal responsibility for safe operation. As the reselling entity, you remain accountable for:」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「D-Fend Solutions Partner Program: Become a Partner Today」（https://d-fendsolutions.com/about-us/partner-program/）
+  - 「Partner Program」（https://d-fendsolutions.com/about-us/partner-program/）
+  - 「Channel Partners」（https://d-fendsolutions.com/about-us/partner-program/）
+  - 「We partner with organizations that help market and resell D-Fend Solutions’ innovative offerings in their respective regions and/or verticals.」（https://d-fendsolutions.com/about-us/partner-program/）
+  - 「Channel Partnership Materials:」（https://d-fendsolutions.com/about-us/partner-program/）
+- 黒字・収益性：
+  - 「careers in STEM and aviation, with an emphasis on UAS and AAM. Together, we look forward to bolstering diversity, equity and inclusion in the drone industry, which will improve business outputs and profitability,” said Sharon Rossmark, CEO of Women And Drones.」（https://draganfly.com/）
+  - 「Quantum Systems follows a different path. Its July 2026 financing, co-led by investors including Blackstone, Airbus, Advent, and Noteus, supported expansion across air, land, and sea. The company also reported fast-growing revenue and demonstrated profitability.」（https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation）
+  - 「Shield AI's premium makes sense when we consider its software opportunity and US military relationships. But a higher valuation doesn't automatically mean higher revenue or better profitability. Quantum Systems has a substantial commercial business of its own, and both companies are pursuing very different growth strategies.」（https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation）
+  - 「There are two particularly interesting parts of that announcement. First, Quantum Systems said it was already profitable, which is unusual among young companies raising financing on this scale. Second, its new investors included major financial institutions and Airbus, bringing both capital and aerospace industry expertise.」（https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation）
+  - 「There is a meaningful gap between Ukraine's manufacturing importance and the private valuations of its startups. That could create investment opportunities, but cheap valuations aren't automatically bargains. Revenue, profitability, contracts, ownership, and wartime operational risks still matter enormously.」（https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation）
+  - 「Shield AI has the opportunity to make Hivemind a common autonomy platform across military aircraft. Quantum Systems is building an increasingly broad autonomous systems business and has reported profitability. TEKEVER already has operational experience and a substantial British military surveillance program.」（https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation）
+  - 「Our ranking prioritizes recent completed financing rounds with disclosed valuations, company and investor announcements, reputable financial reporting, and relevant regulatory disclosures. We also considered revenue, profitability, government contracts, manufacturing capacity, operational deployments, and comparable transactions where these helped establish a company's market position.」（https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation）
+  - 「Net Income of $6.7 million compared to a net loss of $11.8 million in Q2 2025」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Adjusted EBITDA* of $28.1 million compared to Adjusted EBITDA* of $3.6 million in Q2 2025」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+- 売上：
+  - 「With one computer click, Paladin’s autonomous drone deploys to a 911 call from its remote home base and arrives onsite before first responders. Paladin designed an LTE drone and autonomous software controls and data management to make DFR both effective and straightforward to implement.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「Uniform Sierra Aerospace builds NDAA-compliant tactical drones — the indoor Arrowhead and outdoor Panther systems — for public safety. The company was acquired by Flock Safety in January 2025 and continues operating from its original Purdue Research Park facility in West Lafayette, IN.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJTw7XNTSjGvUaUp4UvTsTdbbhEK9-0zoIMpa3X5c-3KINw4xH7）
+  - 「With one computer click, Paladin’s autonomous drone deploys to a 911 call from its remote home base and arrives onsite before first responders. Paladin designed an LTE drone and autonomous software controls and data management to make DFR both effective and straightforward to implement.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d）
+  - 「Uniform Sierra Aerospace builds NDAA-compliant tactical drones — the indoor Arrowhead and outdoor Panther systems — for public safety. The company was acquired by Flock Safety in January 2025 and continues operating from its original Purdue Research Park facility in West Lafayette, IN.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vLnwbH7ZiWZ4Eawxa8syXs22RZpuu5vr9Y1btrx4Ru2x2Ah2j9d）
+  - 「A full hardware white-label program (minimum 5 units, custom branding, firmware access, 2-year warranty) starts around €89,000 in EU markets.」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「When it’s worth caring about: if your gross margin on drone services currently sits below 35%—white labeling can lift it to 50–65% by eliminating pilot payroll overhead and certification renewal costs. When you don’t need to overthink it: if your drone revenue is <10% of total income and serves only internal needs.」（https://electronics.alibaba.com/buyingguides/drone-white-label-guide-what-you-actually-need-to-know）
+  - 「40% revenue increase YOY」（https://www.sphengineering.com/partners/partner-program）
+  - 「With one computer click, Paladin’s autonomous drone deploys to a 911 call from its remote home base and arrives onsite before first responders. Paladin designed an LTE drone and autonomous software controls and data management to make DFR both effective and straightforward to implement.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0）
+  - 「Uniform Sierra Aerospace builds NDAA-compliant tactical drones — the indoor Arrowhead and outdoor Panther systems — for public safety. The company was acquired by Flock Safety in January 2025 and continues operating from its original Purdue Research Park facility in West Lafayette, IN.」（https://www.modalai.com/pages/2026-u-s-drone-manufacturers-comprehensive-list?srsltid=AYCX9vJgWHd_9dpP9cKpK0L1m6fRfdvJEPc6mKbTCO3vxuiBSuPtsZT0）
+  - 「Government contracts are becoming the strongest test of these valuations. TEKEVER's British Army CORVUS agreement, worth up to £400 million over ten years, and Shield AI's US Air Force autonomy production award demonstrate real procurement opportunities. Actual deliveries, repeat orders, and revenue matter much more than the headline ceiling of a contract.」（https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation）
+  - 「Quantum Systems follows a different path. Its July 2026 financing, co-led by investors including Blackstone, Airbus, Advent, and Noteus, supported expansion across air, land, and sea. The company also reported fast-growing revenue and demonstrated profitability.」（https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation）
+  - 「The £400 million CORVUS agreement is particularly important because it connects the company's technology to an actual military procurement program. Of course, that's a maximum contract value spread over several years, not £400 million arriving in the company's bank account immediately.」（https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation）
+  - 「In terms of revenue, the market is valued at USD 18.23 billion in 2026.」（https://www.precedenceresearch.com/military-drones-market）
+  - 「L3Harris Technologies」（https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/）
+  - 「The urgency is real, but the money is arriving slower and messier. Most of the $54.6 billion the Pentagon asked for its new autonomous-warfare office rides on a separate $350 billion package rather than the regular budget. And the fiscal year started on October 1 under a stopgap bill that freezes spending and blocks new programs until at least December 11.」（https://exoswan.com/military-drone-stocks）
+- 価格：
+  - 「The open question is price. AeroVironment didn't qualify for the Pentagon's Gauntlet II competition, where the winners sell drones for $3,500 to $4,500. It's a premium weapons maker in a market that increasingly wants bulk pricing.」（https://exoswan.com/military-drone-stocks）
+- 日本対応：
+  - 「D-Fend Japan」（https://d-fendsolutions.com/about-us/partner-program/）
+  - 「Quantum Systems Opens in Japan, Plans Closer Ties With Local Manufacturers」（https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/）
+  - 「同地域の軍用ドローン市場は、中国の国内調達、インドの国産化と輸入、そして日本とオーストラリアにおける同盟国の戦力近代化という、複数の独立した需要要因に支えられている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「日本の2025年の軍用ドローン売上高は8億700万米ドルで、2035年にはアジア太平洋市場の売上高の15.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「日本は防衛態勢の変化に伴い、海・空・陸の任務における無人能力を拡充している」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「対UASおよび自律システムの正式な調達活動は、日本の無人システムのポートフォリオが多様化していることを示している」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「SkyLink Japan」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+  - 「日本の防衛省・自衛隊と接点があるUAVメーカー12社を調べてみた」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+  - 「SkyLink Japan編集部」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+  - 「SkyLink Japan編集長」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+  - 「第2回（このブログ）：日本の防衛省・自衛隊と接点があるUAVメーカー12社を調べてみた」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+  - 「海外では軍事、日本では産業へ｜Penguin C VTOLが広がるためのデュアルテック条件」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+  - 「まず区分を見て、次に「日本で何が確認できたか」を読む」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+  - 「日本｜確認 2024–2026」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+  - 「日本｜確認 2026」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+- 検索結果の抜粋：
+  - 「AI in Military Drones and UAVs: A 2019 Overview — AI in Military Drones and UAVs: A 2019 Overview Emerj Artificial Intelligence Research https://emerj.com > ai-drones-and-ua...」（https://emerj.com/ai-drones-and-uavs-in-the-military-current-applications/）
+  - 「Top 12 Military Drone Manufacturers and Companies in 2026 — Top 12 Military Drone Manufacturers and Companies in 2026 Expert Market Research https://www.expertmarketresearch.com > ...」（https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers）
+  - 「Top Military Drones Startups by Valuation (2026) — Top Military Drones Startups by Valuation (2026) New Market Pitch https://newmarketpitch.com > news」（https://newmarketpitch.com/blogs/news/military-drones-top-startups-valuation）
+  - 「Military Drones Market Companies, Size & Trends 2026-2035 — Military Drones Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/military-drones-market）
+  - 「San Diego Startup Nets $165M for Military Drone Software — San Diego Startup Nets $165M for Military Drone Software GovTech https://www.govtech.com > products」（https://www.govtech.com/products/san-diego-startup-nets-165m-for-military-drone-software）
+  - 「軍用ドローン 市場規模・予測レポート 2026〜2035年 — 軍用ドローン 市場規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+
+## 艦艇（naval vessels）
+- 文脈：5 防衛 ②艦艇
+- 再販制度：
+  - 「Although the Navy has renamed ships for various reasons, name changes are still an exceptionally rare occurrence, especially after the ships have entered service.」（https://www.cbsnews.com/news/navy-new-name-usns-harvey-milk-ships-named-for-civil-rights-leaders/）
+  - 「Saronic builds “autonomous surface vessels,” or put more simply, drone boats, along with the software to pilot them. It has six models that range from 6-foot skiffs to 150-foot small ships, which can be used for a variety of surveillance, intelligence-collection, and combat purposes. The smaller boats can be outfitted with missile launchers, and the larger boats can be configured for torpedoes.」（https://www.newcomer.co/p/see-how-defense-tech-unicorn-saronic）
+- 売上：
+  - 「Nikole Killion is a CBS News congressional correspondent based in Washington D.C., who has covered some of the biggest stories on Capitol Hill since 2021. Killion has also served a key role in CBS News' election coverage during the 2024 and 2020 presidential races covering the Trump, Biden, and Harris campaigns.」（https://www.cbsnews.com/news/navy-new-name-usns-harvey-milk-ships-named-for-civil-rights-leaders/）
+  - 「But his sexual orientation carried profound consequences as Milk came under scrutiny. In December 1954, Milk, who was then a lieutenant junior grade, was facing a court martial for participating in a "homosexual act" a year earlier.」（https://www.cbsnews.com/news/navy-new-name-usns-harvey-milk-ships-named-for-civil-rights-leaders/）
+  - 「Saronic estimated to investors that a program of record could bring in around $2.4 billion in revenue from its first three vessels in operation.」（https://www.newcomer.co/p/see-how-defense-tech-unicorn-saronic）
+- 日本対応：
+  - 「2024 file photo: USNS Harvey Milk (T-AO 206) completed a replenishment-at-sea with two Japan Maritime Self-Defense Force vessels.」（https://www.cbsnews.com/news/navy-new-name-usns-harvey-milk-ships-named-for-civil-rights-leaders/）
+- 検索結果の抜粋：
+  - 「海軍 艦艇 電子対抗措置 (ECM) 市場 [2034 年] — 海軍 艦艇 電子対抗措置 (ECM) 市場 [2034 年] Fortune Business Insights https://www.fortunebusinessinsights.com > 海軍艦艇電子...」（https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E9%9B%BB%E5%AD%90%E5%AF%BE%E7%AD%96%EF%BC%88ecm%EF%BC%89%E5%B8%82%E5%A0%B4-116140）
+- 提供企業：記載なし（読んだ45頁・検索9回）
+- 自社名で出せる条件：記載なし（読んだ45頁・検索9回）
+- 黒字・収益性：記載なし（読んだ45頁・検索9回）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## 防衛装備品（defense equipment）
+- 文脈：5 防衛 ③デュアルユース
+- 提供企業：
+  - 「キャップジェミニ・ジャパン TOP」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+- 自社名で出せる条件：
+  - 「OEMからライフサイクルパートナーへ」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「日本企業のもう一つの強みはOEMおよびMRO領域である」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「日本企業は長年にわたり、OEMとして開発・製造・保守整備を担ってきた」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+- 再販制度：
+  - 「具体的には、国際平和協力活動・災害派遣・警戒監視・通信等の多様なニーズに応えるべく、主に欧米の友好国企業の国内代理店として、航空機や艦船等に搭載される装備品及びサービスを自衛隊及び関係企業に提供します」（https://aerospace.mitsui.co.jp/products/defense/）
+- 日本対応：
+  - 「日本の航空宇宙・防衛産業は「サプライチェーンプレーヤー」から「システムインテグレーター」へ進化できるか - Capgemini Japan」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「日本 | JP」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「Japan | JP」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「日本の航空宇宙・防衛産業は「サプライチェーンプレーヤー」から「システムインテグレーター」へ進化できるか」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「～Capgemini Aerospace & Defense Engineering and R&D Pulse 2026から読む、日本企業への提言～」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「一方、日本市場では、防衛力強化と航空宇宙産業再活性化が同時に進んでいる」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「日本の航空宇宙・防衛企業にとって、この変化は単なる技術革新ではない」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「GCAP（Global Combat Air Programme）やEdgewing設立、航空機電動化（ECLAIR）コンソーシアム、JADCを軸とした民間航空機開発支援など、日本企業が国際共同開発の中核へと進化する機会が訪れている」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「日本企業の60％が「イノベーション速度を高められなければ今後5年以内に市場シェアを失う」」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「これは、日本企業自身が現状維持では競争力を維持できないことを認識している証左である」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「日本企業はすでに世界有数の国際サプライチェーンプレイヤー」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「GCAPは新しい挑戦である一方、日本企業はゼロからスタートするわけではない」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「日本の航空産業は過去30年以上にわたり、グローバルプログラムに参画し、航空宇宙・防衛産業はこれまで高品質な製造力によって成長してきた」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「日本企業のもう一つの強みはOEMおよびMRO領域である」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+  - 「日本企業は長年にわたり、OEMとして開発・製造・保守整備を担ってきた」（https://www.capgemini.com/jp-jp/insights/expert-perspectives/japans-aerospace-defense-whats-next-for-growth/）
+- 黒字・収益性：記載なし（読んだ45頁・検索9回）
+- 売上：記載なし（読んだ45頁・検索9回）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## 民間航空機（commercial aircraft）
+- 文脈：6 航空・宇宙 ①民間航空機
+- 提供企業：
+  - 「SaaS Providers」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「Is EBITDA, the go-to metric for assessing profitability, misleading investors in the travel industry? Unlike EBITDAR, it ignores the massive impact of lease obligations—something that can significantly distort the operational efficiency of airlines and hotels.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「guesthouse in Bismarck or Topeka. In this case, to compare operating margins on a more similar footing, it makes sense to track property-level EBITDAR as it strips out the rent expense difference.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「by the top operators.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「However, in industries with substantial lease obligations, such as travel, EBITDA can be somewhat misleading. Companies with different property ownership structures will have different profit profiles. EBITDA might mask these differences, making it harder for investors to compare firms effectively.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「Top 10 Airports for Domestic Business Jet Operations」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「MARKET LEADING ADVISOR」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「Engine makers, aircraft lessors, and maintenance shops continue to be the main beneficiaries of rising profits, but providers of specialist materials are becoming increasingly important gatekeepers of production and capacity. The trio generated more than 90% of the industry profit pool in 2025.」（https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/）
+  - 「Drones, autonomy, missiles, militarized space, and AI enablement dominate the consensus view of military modernization. However, land systems will be the leading performer in economic profit and growth, according to the Outlook.」（https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/）
+  - 「Evolution Wellness is a leading Asian fitness club network. The group is dedicated to developing a comprehensive wellness ecosystem and supportive atmosphere.」（https://www.oaktreecapital.com/portfolio-companies/european-principal）
+  - 「Fitness & Lifestyle Group is one of Asia-Pacific’s leading health and wellness groups. Their primary focus is to make a positive impact in people’s lives through innovative and diversified health and wellness offerings, across physical and digital platforms.」（https://www.oaktreecapital.com/portfolio-companies/european-principal）
+  - 「IASO is a Greek healthcare group offering multiple medical specialities including a 24-hour emergency department. The company’s flagship asset is the state-of-the-art IASO Athens, Greece’s leading maternity, gynecological, and children’s hospital.」（https://www.oaktreecapital.com/portfolio-companies/european-principal）
+  - 「Mail Boxes Etc. is a leading third-party provider of shipping, fulfilment, printing, marketing communications and e-commerce solutions to small businesses and individual consumers, and operates via a network of franchised and owned locations.」（https://www.oaktreecapital.com/portfolio-companies/european-principal）
+  - 「ProFund is a leading transfer agent for the global market offering specialized front and back-office solutions for both European and international financial institutions, including mutual funds, pension funds and insurance companies.」（https://www.oaktreecapital.com/portfolio-companies/european-principal）
+  - 「SAF is a leading European helicopter owner and operator. The company is active across multiple business segments, notably helicopter emergency services, passenger transport, and tourism spaces, and operates within Europe and South Africa.」（https://www.oaktreecapital.com/portfolio-companies/european-principal）
+- 自社名で出せる条件：
+  - 「OEM Deliveries Improve as Boeing」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「2026, and OEM deliveries improved after」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「Long OEM backlogs, 100% bonus」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「OEM Output, and Capacity」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「OEM Deliveries Improve and Boeing’s」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「Commercial Airlines Aircraft OEMs Aerospace Supply Chain and Aftermarket」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「Aircraft OEMs: ENXTPA:AIR, ENXTPA:AM, NYSE:BA, NYSE:ERJ, NYSE:GD, NYSE:TXT , TSX:BBD.B」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「Aircraft OEMs」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「• Engine OEMs and aircraft lessors still dominate industry profits」（https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/）
+  - 「当社は、世界有数の民間航空機、輸送機、ビジネスジェット機向けに、OEM飛行制御機器およびシステムを提供しています」（https://www.moog.co.jp/markets/commercial-aircraft.html）
+  - 「OEM（受託メーカー）は、先端素材、ロボティクス、積層造形、人工知能、高度なデータ分析やその他の技術を採用して、」（https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation）
+  - 「OEMは、新しい機能を採用して実効性と多様性をさらに向上させ、バリュー・ネットワークと連携して有人および無人システムの提供、民間航空機の燃費改善、全体的な信頼性とコスト効果の向上を達成する必要があります」（https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation）
+  - 「には、OEMとサプライヤー間、そして水素や持続可能な航空燃料（SAFs）などのエネルギー・コミュニティ内での強力な連携が必要です」（https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation）
+  - 「さらに、エネルギー企業、空港、OEM、航空会社が協力して、確実なインフラ開発を行うことも必要です」（https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation）
+  - 「航空機OEMは、この需要に対応するために、柔軟な生産レートを採用する必要があります」（https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation）
+- 再販制度：
+  - 「to assess operational profitability and compare companies with varying fixed costs.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「Also, both metrics deduct taxes and interest because these costs are related to the company's financing and tax structure, which can vary greatly in companies and industries.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「(GAAP). So public companies are not required to disclose them. And even if they choose to, the calculation method may vary.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDAR margin and EBITDA margin」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「Both EBITDA and EBITDAR are usually used alongside relevant margins to make comparisons easier.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「The margins shift the focus from absolute numbers to relative numbers, helping compare the performance of different-size companies. By using margins, analysts and investors can assess how efficiently a company generates earnings in relation to its revenue, regardless of its scale or total revenue.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「when comparing businesses with high or varying rent costs (airlines, hotels, casinos, retail, transportation businesses, etc.) or when companies have had non-recurring restructuring expenses.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「The approach to fleet management varies among regions and types of carriers. Generally, airlines from Latin America (e.g., Aeroméxico) and Asia Pacific (e.g., Air China) predominantly use lease agreements. Similarly, most」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「that the average EBITDA margin for US airlines in mid-2025 was 12.2 percent. Comparing it with IATA figures won’t be accurate, but it can still give an idea of how different expense categories impact airline income.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「. Let’s take Frontier and United as an example. Because their aircraft ownership structures are very different, for a more accurate comparison, we have to pay attention to EBITDAR margins instead of net or EBITDA margins. Here are the 2024 numbers.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「Net margin = 5.5%」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDA margin = 14.4%」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDAR margin = 14.7%」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「Net margin = 2.3%」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDA margin = 3.4%」（https://www.altexsoft.com/blog/ebitdar-travel/）
+- 黒字・収益性：
+  - 「EBITDAR in Travel: Are Rent Costs That Critical?」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「Is EBITDA, the go-to metric for assessing profitability, misleading investors in the travel industry? Unlike EBITDAR, it ignores the massive impact of lease obligations—something that can significantly distort the operational efficiency of airlines and hotels.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「In this post, we compare EBITDA and」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDAR」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDAR and EBITDA in travel」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「to assess a company's profitability, evaluate its operational efficiency, and compare financial performance across companies or industries.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDAR is a metric similar to EBITDA, so let’s take a look at it as well.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDAR vs EBITDA」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDA」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDAR is frequently used in financial analysis」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「to assess operational profitability and compare companies with varying fixed costs.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「However, EBITDAR goes one step further and also adjusts for rent and restructuring expenses.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「It’s also important to note that both EBITDA and EBITDAR are non-GAAP metrics, meaning that they are not defined by」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「EBITDAR margin and EBITDA margin」（https://www.altexsoft.com/blog/ebitdar-travel/）
+  - 「Both EBITDA and EBITDAR are usually used alongside relevant margins to make comparisons easier.」（https://www.altexsoft.com/blog/ebitdar-travel/）
+- 売上：
+  - 「lifting revenue to $24.6 billion, and closed」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「Company % of 52 - Week High '26P '27P L TM EBITDAMargin L TM Revenue NTM Revenue L TM EBITDA NTM EBITDA」（https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf）
+  - 「Nordenia is a leading multinational manufacturer of technically innovative and value-added plastic film and packaging for customers in the food, hygiene, chemical and automotive industries. A majority of the company’s revenues come from blue-chip, multi-national consumer product companies such as Procter & Gamble, Nestlé and Mars. The company was acquired by Mondi Group in October 2012.」（https://www.oaktreecapital.com/portfolio-companies/european-principal）
+  - 「大正 6 （1917） 年、 鈴木商店は売上高で日本一の総合」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+- 日本対応：
+  - 「果たすために、 多くのデータ( エビデンス) を残す必要があり、 日本ではあまり馴染みの」（https://www.iadf.or.jp/document/pdf/2021-2.pdf）
+  - 「それに 加えて、日本では民間航空機を開発する機会自体が少ないた」（https://www.iadf.or.jp/document/pdf/2021-2.pdf）
+  - 「め、開発保証に関する技術、経験、知見が日本国内に少ないことが課題として挙げら」（https://www.iadf.or.jp/document/pdf/2021-2.pdf）
+  - 「認証当局とは日本の場合は国土交通省の航空局であり、米」（https://www.iadf.or.jp/document/pdf/2021-2.pdf）
+  - 「（日本） や 「JALUX DUTYFREE VIETNAM」 （ベトナム） も展開しています」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+  - 「設備の導入を行っており、 日本の空の安全に貢献し て」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+  - 「双日は、 日本の安全保障上の課題に対応するため」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+  - 「東日本大震災で橋が崩落した際には、 当社が納入した組み立て式の橋が活躍」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+  - 「双日は航空機の納入のみならず 、 日本の空でそれら航空機をより安全かつ効率的に」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+  - 「られる日本国内のルールに従う技能訓練を実施した後、 日本国内の」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+  - 「島国である日本にとって航空機は今も昔も時間と労力を軽減する貴重な移動 ・ 輸送手段」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+  - 「社の民間航空機の総代理店として日本の航空会社に旅客機を納入するお手伝いをし て」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+  - 「日本で最初のボーイング機の受注は昭和39 （1964） 年のボーイング727」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+  - 「当時、 日本国内では“より速く”移動できる航空機を求めていた」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+  - 「旅客機が採用され、 一時期は日本の空のシェア90％以上を占めていました」（https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf）
+- 検索結果の抜粋：
+  - 「2021-2 民間航空機 搭載 ソフトウェア の開発ガイドライン DO ... — 2021-2 民間航空機 搭載 ソフトウェア の開発ガイドライン DO ... 航空機国際共同開発促進基金 PDF https://www.iadf.or.jp > document > pdf」（https://www.iadf.or.jp/document/pdf/2021-2.pdf）
+  - 「民間航空機 | ダッソー・システムズ - Dassault Systèmes — 民間航空機 | ダッソー・システムズ - Dassault Systèmes Dassault Systèmes https://www.3ds.com > 3DS > 業界 > 航空宇宙・防衛」（https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## 航空機エンジン（aircraft engine）
+- 文脈：6 航空・宇宙 ①民間航空機
+- 提供企業：
+  - 「Top Stories」（https://avitrader.com/2025/10/13/sts-engine-services-begins-new-chapter-after-gt-engine-services-rebrand/）
+  - 「Engine lessors sit between capital providers and airlines needing flexible access to engines. They acquire assets, place them with operators, monitor maintenance and utilisation, manage transitions and decide when an engine should be repaired, re-leased, sold or eventually dismantled for parts.」（https://www.acumen.aero/blogs/why-aircraft-engines-are-becoming-standalone-investment-assets）
+  - 「Income stops while costs continue」（https://www.acumen.aero/blogs/why-aircraft-engines-are-becoming-standalone-investment-assets）
+  - 「Leading Edge( 前縁 )」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「１．３ ETOPS の導入と信頼性管理の課題」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「そしてこれらの信頼性のレベルをベースに ETOPS(Extended Range」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「ETOPS は 、こ の60 分の片肺飛行時間を延長することにより、 目的地まで、 より効率的」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「ETOPS は、エン」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「ボーイングは ETOPS を B767 に導入し、北米・ヨーロッパ路線は次々と ETOPS 運航」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「そして、B777 の開発では就航開始の時点から ETOPS 180 分を」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「り、従来 ETOPS 承認の条件としていた 250,000 時間の使用実績の評価を省略することを」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「ETOPS を導入した結果としても、 現在まで問題は発生していない」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「きた場合に果たして ETOPS は維持できるのかと言う問題が残る」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「ETOPS 運航を維持するためには、高い信頼性のレベルを確実に維持し続けることが求」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「企業情報TOP」（https://www.ihi.co.jp/products/aeroengine_space_defense/aircraft_engines/）
+- 自社名で出せる条件：
+  - 「STS Engine Services begins new chapter after GT Engine Services rebrand」（https://avitrader.com/2025/10/13/sts-engine-services-begins-new-chapter-after-gt-engine-services-rebrand/）
+  - 「STS Engine Services, formerly GT Engine Services, has unveiled its new brand identity. The rebrand follows its May 2024 acquisition by STS Aviation Group, a well known aircraft maintenance, repair and overhaul (MRO) services group.」（https://avitrader.com/2025/10/13/sts-engine-services-begins-new-chapter-after-gt-engine-services-rebrand/）
+  - 「Mark Smith, President of STS Aviation Group, underlined the significance of the change. “Rebranding GT Engine Services as STS Engine Services is more than a name change — it’s a bold step toward unifying our capabilities under a single, globally recognised brand,” he said. “We are creating a full-service aviation provider that brings together commercial, military, and material MRO expertise.”」（https://avitrader.com/2025/10/13/sts-engine-services-begins-new-chapter-after-gt-engine-services-rebrand/）
+  - 「Furthermore, the rebrand aligns with STS Aviation Group’s wider strategy to integrate its global MRO divisions. The goal is to offer seamless, end-to-end lifecycle care, from component repair to complete engine overhaul.」（https://avitrader.com/2025/10/13/sts-engine-services-begins-new-chapter-after-gt-engine-services-rebrand/）
+  - 「At this point, airlines would historically send their own engines to an independent or OEM MRO shop, which restores it and returns the same engine to the airline.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「FTAI’s cost advantage comes from two areas: 1) used serviceable materials (USM), whereby FTAI can repair engines from parts within its inventory of engine modules; and 2) Parts Manufacturer Approval (PMA) parts, which are demonstrably cheaper than OEM parts and can lower the material costs for an engine repair.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「Windows Embedded」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「OEM（Original Equipment Manufacturer、実際に航空機を作るメーカー）」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「OEMは、機体のメーカーであるエアバスやボーイングなどの他、エンジンのメーカーであるロールスロイス、GE、装備品のメーカーであるハネウェルやロックウェル・コリンズなどが当てはまる」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「サプライヤーは、これらのOEMに対し、エンジン、装備品、キャビンといった部品や素材などを提供する企業だ」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「まず機体OEMを見てみると、最も大きい動きが三菱航空機のMRJだ」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「1971年に伝説的だった国産旅客機「YS-11」が生産終了を決定して以来、40年以上にわたり機体のOEMを担う企業は現れなかった」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「：エアラインとOEM・サプライヤーのプロフィットプールの違い／」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「：機体OEMとエンジンOEM、サプライヤーのプロフィットプールの違い（クリックで拡大）※出典：アリックスパートナーズ」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「２．２ OEM(Original Equipment Manufacturer) のアフターマーケット･ビジネス戦略」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+- 再販制度：
+  - 「Wholesale investors interested in the Bristlemoon Global Fund can learn more」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「Gross margin deterioration」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「SCI has significantly changed the complexion of the Aviation Leasing financials, with recent segment EBITDA margins exceeding 100%. This is due to aircraft sold into the 2025 SPV no longer being recognized within lease income, and most of what the segment earns from SCI does not flow through revenue, with FTAI’s pro-rata share of the equity-accounted SCI income being added back to adjusted EBITDA.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「In this sense, there’s a mismatch of remaining cycles amongst the various modules. The three modules age at different rates and their remaining cycles are almost never in step. What this means is that an engine is “run-out” – that is, it has exhausted its usable operating life – when one of the three modules depletes its cycles, irrespective of the number of cycles remaining for the other modules.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「Configuration creates another issue. Closely related engine variants are not always interchangeable without modification, software changes or approval work. An investor therefore needs to know not simply how many aircraft use the broader engine family, but how many operators can realistically accept that specific engine.」（https://www.acumen.aero/blogs/why-aircraft-engines-are-becoming-standalone-investment-assets）
+  - 「Temperature：排気ガス温度)Margin を大きく取れるため、推力に余裕のあるエンジンを」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「Revenues[B$] Core operating margin」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 黒字・収益性：
+  - 「This has been a cracking success for FTAI. Consider that the company’s Aerospace Products adjusted EBITDA has grown from around $22 million in FY21 to $671 million in FY25, a 30x increase in just four years.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「(92% of revenue and 74% of segment EBITDA in Q2 2026) – this is the company’s core MRE business which performs the engine exchanges. It supplies refurbished engines and modules to airlines and aircraft owners, taking that customer’s engine in exchange.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「(8% of revenue and 26% of segment EBITDA in Q2 2026) – this segment is transitioning from an on-balance sheet lessor to an asset-light manager of third-party capital:」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「SCI has significantly changed the complexion of the Aviation Leasing financials, with recent segment EBITDA margins exceeding 100%. This is due to aircraft sold into the 2025 SPV no longer being recognized within lease income, and most of what the segment earns from SCI does not flow through revenue, with FTAI’s pro-rata share of the equity-accounted SCI income being added back to adjusted EBITDA.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「(pre-deliveries, so currently not generating any revenue or EBITDA) – this business converts run-out CFM56 cores into mobile gas-turbine generator sets for data centers. The business is slated to start its first deliveries later in 2026.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「Engine investing can be profitable precisely because the assets require active management. Shop visits can exceed budget, parts can become expensive, technical records can delay a transition and operator demand can change as aircraft fleets age.」（https://www.acumen.aero/blogs/why-aircraft-engines-are-becoming-standalone-investment-assets）
+  - 「国航空は、整備部門にとって必要と判断するものを取捨選択し、利益率の高いものにのみ」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「て利益率の高いビジネスにはなっていないのが現状である」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「他社は営業利益ベース」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「最近買収した独立系航空機重整備MRO企業は、資本不足に陥り、収益と利益率の低下に苦しんでいました」（https://altonaviation.com/ja/casestudies/）
+- 売上：
+  - 「Despite revenues that are expected to grow by 50% in FY26E and then by 69% in FY27E, and with earnings per share expected to grow even faster, the stock trades at a P/E ratio of just 15x」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「These engines cover around 60% of commercial narrowbody jets」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「(92% of revenue and 74% of segment EBITDA in Q2 2026) – this is the company’s core MRE business which performs the engine exchanges. It supplies refurbished engines and modules to airlines and aircraft owners, taking that customer’s engine in exchange.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「(8% of revenue and 26% of segment EBITDA in Q2 2026) – this segment is transitioning from an on-balance sheet lessor to an asset-light manager of third-party capital:」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「SCI has significantly changed the complexion of the Aviation Leasing financials, with recent segment EBITDA margins exceeding 100%. This is due to aircraft sold into the 2025 SPV no longer being recognized within lease income, and most of what the segment earns from SCI does not flow through revenue, with FTAI’s pro-rata share of the equity-accounted SCI income being added back to adjusted EBITDA.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「(pre-deliveries, so currently not generating any revenue or EBITDA) – this business converts run-out CFM56 cores into mobile gas-turbine generator sets for data centers. The business is slated to start its first deliveries later in 2026.」（https://www.bristlemoonresearch.com/p/ftai-aviation-ftai-us-the-engine）
+  - 「・・OOEEMM PPaarrttss CCoosstt １１００００％％」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「・・PPMMAA PPaarrttss 6600--7700%%」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「米国の大手の航空会社は、FAR 121 Air Carrier Certificate を取得するために、MRO」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「⚫ 我が国航空機産業は着実に成長を続けており、コロナ前には売上高ベースで2兆円規模にまで発展した」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「注）記載の金額は各社航空部門の売上額（2022年時点、一部2021年時点）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「（※）民間部門から撤退 売上額は2018年のもの防衛機事業に参画民間航空機事業にも参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「全部門の連結売上7607億」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「多角経営.全売上は1.3兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「全部門売上は2.3兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 日本対応：
+  - 「日本ものづくりワールド」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「例えば、米国の航空・宇宙産業は日本の10倍以上の市場規模を持ち、製造関連産業の大きな部分を占めている」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「日本の航空機業界のポジショニングとその変化」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「日本であらためて航空機業界に大きな注目が集まっているのは、これらの業界構造のあらたな変化をとらえて、航空機産業への再参入や再定義の動きが活発化しているからだ」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「第二次世界大戦後、日本の航空機産業は停滞の歴史を刻んだ」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「日本の技術を中心に世界中の技術を結集し国産旅客機「MRJ」を世に送り出すこととなった」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「国産旅客機の実現は、40年以上にわたる日本の航空機業界の夢であり、まさに国益につながる取り組みである」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「エンジン分野については、ボーイング787（B787、ドリームライナー）において、日本企業の技術力が結集したことが話題になった」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「日本の航空機業界における課題とは」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「付加価値の35％が固定資本減耗に、日本の製造業はなぜ利益が残らないのか」（https://monoist.itmedia.co.jp/mn/articles/1502/10/news005_2.html）
+  - 「日本の国内線の様に短い路線を頻繁に運航す」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「即ち、長距離用の航空機に装着するエンジンと日本の国内線に使用する航空機のエンジン」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「日本は、GE と GE90、CF34-8、-10、ロ」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「日本において PMA 部品が正規部品として航空局に認可されたのは 1993 年に入ってか」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+  - 「日本の航空会社も例外ではない」（https://www.iadf.or.jp/document/pdf/15-4-4.pdf）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## 産業用ドローン（commercial drone）
+- 文脈：6 航空・宇宙 ②無人航空機
+- 提供企業：
+  - 「Agricultural service providers」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Established service providers scaling nationally; need firmware control & regulatory traceability」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「While DJI dominates consumer markets, its official white label programs remain limited and tightly controlled. For B2B users, alternatives offer better balance of openness and compliance:」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Top praise」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「No. DJI “clone” drones (e.g., Specta or Anzu units marketed as DJI-compatible) are unauthorized replicas—not certified white label products. They lack regulatory traceability, firmware support, and liability coverage. True white label partnerships involve formal OEM agreements and documentation.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「It depends on the OEM’s openness. Platforms like ModalAI and Skydio provide well-documented APIs and SDKs. Others restrict access to proprietary cloud portals. Always verify API availability and documentation depth *before* signing.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Topic guides」（https://mitti.com/apps/drone-management-software）
+  - 「Topics」（https://mitti.com/apps/drone-management-software）
+  - 「top of page」（https://www.droneharmony.com/partners）
+  - 「We partner with leading technology companies, drone manufacturers, and resellers worldwide to provide better solutions to more users.」（https://www.droneharmony.com/partners）
+  - 「Bentley Systems is a leading software provider for the infrastructure industry and the owner of ContextCapture, a state of the art Reality Modelling and Photogrammetry solution.」（https://www.droneharmony.com/partners）
+  - 「Airdata is one of the leading flight data platforms for drones, providing detailed information about executed flights, drone health and much more.」（https://www.droneharmony.com/partners）
+  - 「...By Topic」（https://www.commercialuavnews.com/webinars/5-steps-to-building-a-powerful-brand-for-your-drone-business）
+  - 「Are you struggling to make your drone business stand out in the crowded UAV market? Do you find it challenging to attract and retain clients despite having top-notch services? Join us for an exclusive webinar, "5 Steps to Building a Powerful Brand for Your Drone Business," and discover the secrets to transforming your brand into a magnet for success.」（https://www.commercialuavnews.com/webinars/5-steps-to-building-a-powerful-brand-for-your-drone-business）
+  - 「to reach $12.51 billion. That combination of hardware sales, recurring software revenue, autonomous systems, data services and Drone-as-a-Service models creates multiple avenues for companies to turn rapidly expanding drone adoption into substantial revenue growth. Leading Tech Companies on the move today include:」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+- 自社名で出せる条件：
+  - 「White Label Drones Guide: How to Choose Wisely」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「start with pre-integrated, certified white label platforms built for your industry use case, not generic hardware」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「About White Label Drones」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「—include full OEM documentation, type-specific certifications, and configurable branding interfaces.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Why White Label Drones Are Gaining Popularity」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「. As one Brazilian agritech distributor noted: “Our farmers don’t care about IMU calibration—we sell outcomes: 12% less pesticide use, verified by our branded app.” That outcome-driven model is why white label drone platforms now dominate B2B supply chains in precision agriculture, where 60% of Gohobby’s revenue comes from white label-manufactured units」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「OEM White Label Programs」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「: Full-stack partnerships (e.g., ModalAI, Skydio offering white-label options for defense and civilian applications」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「: Turnkey bundles (e.g., CloudVisual, Launch Imagery). Hardware + software + support packaged under your brand. Faster time-to-market; streamlined integration options.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Standardized Rebranding Options」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「: Pre-certified hardware platforms available for rebranding with configurable interfaces and documented compliance pathways. Designed for marketing-aligned deployments with operational flexibility.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「: Regulatory compliance, data sovereignty, and long-term firmware support. These benefit from direct OEM engagement.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「: Is the airframe certified under local UAS class identification (e.g., C1/C3 in EU, ANAC Class 2 in Brazil)? Does the OEM provide Declaration of Conformity documents?」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Shared certification burden: OEM handles airworthiness validation, reducing your legal exposure.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「: Your go-to-market timeline and compliance accountability. White label makes sense if you need to launch before Q3 and operate under strict liability frameworks.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+- 再販制度：
+  - 「: Offering crop health mapping, variable-rate spraying, or yield estimation under their own brand;」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「. As one Brazilian agritech distributor noted: “Our farmers don’t care about IMU calibration—we sell outcomes: 12% less pesticide use, verified by our branded app.” That outcome-driven model is why white label drone platforms now dominate B2B supply chains in precision agriculture, where 60% of Gohobby’s revenue comes from white label-manufactured units」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Reseller-Integrated Platforms」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Reseller-Integrated Platform」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「From contract to first flight: 4–8 weeks for reseller-integrated platforms; 12–20 weeks for OEM white label programs. Factor in additional time for pilot certification (ANAC/EASA/FAA) and internal SOP development.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Factory Wholesale Beginner E88 Pro Foldable Mini Plastic」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Wholesale Programmable」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Partner program」（https://mitti.com/apps/drone-management-software）
+  - 「Optelos is a visual data management and AI analytics platform that converts visual and sensor inspection data into useful insights. Its patented technology combines and organizes inspection data from various sources into a user-friendly and searchable database for detailed analysis, image modeling, and integration with enterprise systems.」（https://mitti.com/apps/drone-management-software）
+  - 「We partner with leading technology companies, drone manufacturers, and resellers worldwide to provide better solutions to more users.」（https://www.droneharmony.com/partners）
+  - 「As a wholesaler, Alltron supplies Swiss specialist retailers, integrators, installers, and is the distributor of DJI drones in Switzerland.」（https://www.droneharmony.com/partners）
+  - 「This is a paid press release. Contact the press release distributor directly with any inquiries.」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Closing the Company's signed acquisition offers and continuing to integrate acquired survey, inspection and power washing businesses into drone-based delivery to support reduced cost per survey and per job, while increasing capacity, geographic reach, and margin expansion, as well as additional services such as data analytics and centralized fast analytics processing.」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Typical Profit Margins in Drone Businesses」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「Like any business, profitability comes down to revenue versus expenses. For drone entrepreneurs, margins are generally strong when managed wisely:」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+- 黒字・収益性：
+  - 「Net Income of $6.7 million compared to a net loss of $11.8 million in Q2 2025」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Adjusted EBITDA* of $28.1 million compared to Adjusted EBITDA* of $3.6 million in Q2 2025」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「How to Start a Drone Business in 2026: Costs, Profit & Steps - JOUAV」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「How to Start a Drone Business in 2026: Costs, Profit & Steps」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「A proven plan that shows you what it takes to get certified, how much it costs to start, which niches are the most profitable, and the exact steps to land paying clients.」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「Is Starting a Drone Business Profitable in 2026?」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「The short answer: yes—starting a drone business in 2026 can be highly profitable. The long answer is that profitability depends on your chosen niche, startup costs, location, and how well you market your services.」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「Typical Profit Margins in Drone Businesses」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「Like any business, profitability comes down to revenue versus expenses. For drone entrepreneurs, margins are generally strong when managed wisely:」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「generates $20,000 in monthly revenue and you operate at a 60% gross margin, you’re left with $12,000 in gross profit. After factoring in rent, marketing, and insurance, a 30% net margin means about $6,000 net profit per month.」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「Revenue: ~$10,000/month → Net Profit: ~$2,000 (20% margin)」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「Revenue: ~$25,000–$30,000/month → Net Profit: ~$7,500 (30% margin)」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「Revenue: ~$150,000–$200,000/month → Net Profit: ~$40,000–$50,000 (25–50% margin)」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「So, is starting a drone business profitable in 2026?」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「10 Top Profitable Drone Business Ideas in 2026」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+- 売上：
+  - 「. As one Brazilian agritech distributor noted: “Our farmers don’t care about IMU calibration—we sell outcomes: 12% less pesticide use, verified by our branded app.” That outcome-driven model is why white label drone platforms now dominate B2B supply chains in precision agriculture, where 60% of Gohobby’s revenue comes from white label-manufactured units」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Faster time-to-revenue: Go from contract signing to first client delivery in ≤8 weeks.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「: “We launched our inspection division in 6 weeks—no pilot hiring delays,” “Firmware updates arrive same-day as OEM release,” “ANAC documentation was plug-and-play.”」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「Yes. ANAC requires all commercial VANT operators to register, certify pilots (if aircraft exceeds 250g), and carry liability insurance—regardless of whether the drone is white label, private label, or OEM-branded. White label status simplifies airframe compliance but doesn’t waive operator obligations.」（https://electronics.alibaba.com/buyingguides/white-label-drones-a-practical-buyer%E2%80%99s-guide）
+  - 「- The drone industry is moving from a niche technology market into a major revenue-generating technology platform, with commercial, industrial, public-safety and defense applications expanding at the same time. A 2026 market」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「to reach $12.51 billion. That combination of hardware sales, recurring software revenue, autonomous systems, data services and Drone-as-a-Service models creates multiple avenues for companies to turn rapidly expanding drone adoption into substantial revenue growth. Leading Tech Companies on the move today include:」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Reports 425% First Half and 316% Second-Quarter Year-Over-Year Revenue Growth as Drone as a Service Segment Continues to Scale」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Company delivers its seventh consecutive quarter of revenue growth, advances defense product portfolio, and joins the Russell 3000® Index」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Signed offers to acquire multiple additional land survey and geospatial services companies across the U.S., Canada and Australia, expected to collectively contribute approximately C$40 million in revenue to our DaaS business during the first 12 months following a completed closing」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Total revenue for the second quarter of 2026 was $9.3 million, an increase of 316% compared to $2.2 million for the second quarter of 2025, and $17.7 million for the six months ended June 30, 2026, an increase of 425% compared to $3.4 million for the same period of 2025」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「The Company reported a net loss of $22.5 million during the quarter reflecting its strategy to invest in laying a strong global foundation for its AI Autonomy drone platforms enabling capability to scale DaaS services and revenue, and future government and defense customer pilots and contracts.」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Total revenues were RMB77.9 million (US$11.5 million), representing a significant increase of 203.5% from RMB25.7 million in the first quarter of 2026, and a decrease of 31.3% from RMB113.3 million in the second quarter of 2025.」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Record revenue for the first quarter of $480.5 million, up 6% year-over-year」（https://finance.yahoo.com/technology/articles/drones-morphed-big-business-revenue-130000412.html）
+  - 「Generate nearly $500 million in tax revenue for U.S. states」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「generates $20,000 in monthly revenue and you operate at a 60% gross margin, you’re left with $12,000 in gross profit. After factoring in rent, marketing, and insurance, a 30% net margin means about $6,000 net profit per month.」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+- 価格：
+  - 「Premium plan $24/seat/month (with free trial period)」（https://mitti.com/apps/drone-management-software）
+  - 「Starts at $329/month, billed annually (with a free 14-day trial)」（https://mitti.com/apps/drone-management-software）
+  - 「Custom pricing (with a free 30-day trial)」（https://mitti.com/apps/drone-management-software）
+  - 「€7.95 (~$8.40)/month, billed annually (with a free 30-day trial)」（https://mitti.com/apps/drone-management-software）
+  - 「Starts at $25/drone/month (with free trial)」（https://mitti.com/apps/drone-management-software）
+  - 「Starts at $2.99/month (with a free trial)」（https://mitti.com/apps/drone-management-software）
+  - 「Starts at $10/month (with a free trial)」（https://mitti.com/apps/drone-management-software）
+  - 「Starts at $6.95/user/month (with a free 2 months trial)」（https://mitti.com/apps/drone-management-software）
+  - 「Starts at $24/month, billed annually」（https://mitti.com/apps/drone-management-software）
+  - 「$24/user/month*」（https://mitti.com/apps/drone-management-software）
+  - 「$329/month*」（https://mitti.com/apps/drone-management-software）
+  - 「€7.95 (~$8.40)/month*」（https://mitti.com/apps/drone-management-software）
+  - 「generates $20,000 in monthly revenue and you operate at a 60% gross margin, you’re left with $12,000 in gross profit. After factoring in rent, marketing, and insurance, a 30% net margin means about $6,000 net profit per month.」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「Struggling Drone Business Owner (~$2,000/month)」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+  - 「Revenue: ~$10,000/month → Net Profit: ~$2,000 (20% margin)」（https://www.jouav.com/blog/how-to-start-a-drone-business.html）
+- 日本対応：
+  - 「U.S.; Canada; Mexico; UK; Germany; France; China; Japan; India; South Korea; Australia; Brazil; UAE; KSA; South Africa」（https://www.grandviewresearch.com/industry-analysis/drone-fleet-management-software-market-report）
+  - 「150-8512 日本」（https://manufacturo.com/jp/industries/drone-industry-software/）
+  - 「【2026年最新版】産業用ドローンメーカー35社｜用途別の選び方と導入時の注意点 | SkyLink Japan」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「SkyLink Japan」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「SkyLink Japan編集部」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「SkyLink Japan編集長」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「日本の防衛省・自衛隊と接点があるUAVメーカー12社を調べてみた」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「海外では軍事、日本では産業へ｜Penguin C VTOLが広がるためのデュアルテック条件」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「掲載したのは、ホビー用途を除き、日本での販売・導入・実証が公開情報で確認できたメーカーです」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「スペックを比べる前に、「今、日本で正規に買えて、修理やサポートを受けられるか」を確認する」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「SkyLink Japanが2026年8月時点（Hoverflyは9月5日追補）の公開情報をもとに調べ、日本国内で販売・導入されていることを確認できたメーカー」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「ドローン業界はメーカーの日本市場からの撤退や新規参入が頻繁に起こる分野でもあります」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「飛行時間やカメラ性能だけでなく、現場の条件、国内の販売窓口、修理・部品供給、日本語サポートまで含めて選ぶ必要があります」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「掲載内容は、SkyLink Japanが2026年8月時点（Hoverflyは9月5日追補）の公開情報をもとに独自に調査・整理したものです」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「本ブログでは、2026年8月時点（Hoverflyは9月5日追補）で現行製品があり、日本での販売・導入・実証を公開情報で確認できた産業用メーカー35社を掲載しています」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+- 検索結果の抜粋：
+  - 「【2026年最新版】 産業用ドローン メーカー35社 - SkyLink Japan — 【2026年最新版】 産業用ドローン メーカー35社 - SkyLink Japan SkyLink Japan https://skylinkjapan.com > blog > industrial-drone-manuf...」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「産業用ドローン まとめ｜種類・費用相場・資格やメーカー20選 — 産業用ドローン まとめ｜種類・費用相場・資格やメーカー20選 ドローンナビゲーター https://drone-navigator.com > ドローンの基礎知識」（https://drone-navigator.com/industrial-drone）
+
+## 空飛ぶクルマ（eVTOL）
+- 文脈：6 航空・宇宙 ③空飛ぶクルマ
+- 提供企業：
+  - 「An eVTOL charging on a rooftop vertiport. The charger runs on YoCharge CMS, which keeps charging within the site limit and puts the next departure first.」（https://yocharge.com/solutions/evtol-vertiports/）
+  - 「we build custom features on top of the platform, and integrate with your operations systems through our API.」（https://yocharge.com/solutions/evtol-vertiports/）
+  - 「Yes. We build custom features on top of the YoCharge platform, and connect it to your operations systems through our API.」（https://yocharge.com/solutions/evtol-vertiports/）
+  - 「Back to top ↑」（https://yocharge.com/solutions/evtol-vertiports/）
+  - 「Scroll to Top」（https://yocharge.com/solutions/evtol-vertiports/）
+  - 「On top of PikeOS we can have different partitions which can host entire (guest) operating systems allowing each partition to operate」（https://www.sysgo.com/evtol）
+  - 「. Critical systems like flight control and autopilot fall under DAL A, while non-essential components are less critical.」（https://www.sysgo.com/evtol）
+  - 「Partnerships with hardware providers, battery manufacturers, and navigation system developers enable an integrated approach to certification and development.」（https://www.sysgo.com/evtol）
+  - 「PikeOS is optimized for leading multi-core processors, enabling efficient operation of eVTOL Avionics」（https://www.sysgo.com/evtol）
+  - 「Collaboration with tool providers simplifies certification workflows, reducing time-to-market」（https://www.sysgo.com/evtol）
+  - 「Integration with leading datalink and networking providers ensures reliable vehicle-to-infrastructure (V2I) and vehicle-to-vehicle (V2V) communication for safe and efficient eVTOL operations」（https://www.sysgo.com/evtol）
+  - 「Topology Optimization」（https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering）
+  - 「Discover how leading companies solve complex challenges with Ansys simulation—unlocking innovation across automotive, aerospace, energy, healthcare, and more.」（https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering）
+  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering）
+  - 「Simulation Topics」（https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering）
+- 自社名で出せる条件：
+  - 「For paid commercial use, white-label, or custom data feeds」（https://evtol.travel/press/embed）
+  - 「White Label」（https://yocharge.com/solutions/evtol-vertiports/）
+  - 「Electric Vehicle OEM」（https://yocharge.com/solutions/evtol-vertiports/）
+  - 「White-label | API-Stack」（https://yocharge.com/solutions/evtol-vertiports/）
+  - 「Grid ~ CPO ~ Fleet ~ OEM」（https://yocharge.com/solutions/evtol-vertiports/）
+  - 「White-label」（https://yocharge.com/solutions/evtol-vertiports/）
+  - 「ELinOS Embedded Linux」（https://www.sysgo.com/evtol）
+  - 「Embedded Linux」（https://www.sysgo.com/evtol）
+  - 「Embedded Rust」（https://www.sysgo.com/evtol）
+  - 「SYSGO supports this cutting-edge domain by providing embedded software solutions designed to meet the highest safety and security standards required for this transformative technology.」（https://www.sysgo.com/evtol）
+  - 「SYSGO leverages its expertise in embedded systems to provide eVTOL manufacturers with high-assurance software solutions based on our PikeOS real-time operating system (RTOS) and hypervisor. PikeOS is certified to the most rigorous Safety (DO-178C up to DAL A) and Security (Common Criteria EAL 5+) standards.」（https://www.sysgo.com/evtol）
+  - 「Embedded software is key to addressing these complexities, enabling precise actuator control, sensor fusion, and mission planning. Ansys and SYSGO provide advanced tools to develop efficient, secure, and intelligent software solutions, accelerating eVTOL innovation.」（https://www.sysgo.com/evtol）
+  - 「Embedded Software」（https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering）
+  - 「model-based development environment for critical embedded software is also used at this point to check that the modeled hardware and software are in sync. The SCADE environment is built for embedded software, providing linkage to requirements management, model-based design, verification, certified code generation, and interoperability with other development tools and platforms.」（https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering）
+  - 「Ansys Autonomy: Automating Embedded Planning and Controls via Model-based Software Solutions」（https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering）
+- 再販制度：
+  - 「Partner program」（https://evtol.travel/press/embed）
+  - 「HW & SW Partners / Distributors」（https://www.sysgo.com/evtol）
+  - 「eVTOLs demand sophisticated software architectures to manage decision-making across various time scales and criticality levels:」（https://www.sysgo.com/evtol）
+  - 「Channel Partners」（https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering）
+  - 「(STK) digital mission engineering software to define an eVTOL’s mission with a system-of-systems approach. The STK platform enables you to model complex systems inside a realistic and time-dynamic 3D simulation, including high-resolution terrain, imagery, and radio frequency (RF) environments. This critical insight helps you design a safer mission, considering unforeseen variables.」（https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering）
+  - 「Partner portals for travel agents, concierges and resellers」（https://lineaum.com/en/white-label-private-jet-booking-software）
+  - 「eVTOL Wholesale Distributor Partnerships」（https://eaglox.com/aircraft-oem-manufacturing/）
+  - 「Partner program」（https://evtol.travel/marketplace）
+  - 「A clear, complete partnership path for VTOL and fixed-wing UAV importers, distributors and system integrators—from mission requirements through delivery and support.」（https://tjwvtol.com/oem/）
+  - 「Private-label aircraft, payload integration and distributor support are different requirements. Choose a starting point below, then confirm the configuration and included deliverables during project review.」（https://tjwvtol.com/oem/）
+  - 「For distributors planning a product range for their market. Share destination, customer applications, forecast quantity, training and spare-parts needs so the written quotation can define the support and supply scope.」（https://tjwvtol.com/oem/）
+  - 「Submit Distributor Requirements ↗」（https://tjwvtol.com/oem/）
+  - 「Identify the destination, end user and intended operation. Import, radio, aviation and export requirements vary by country; eligibility and documents are reviewed for each project.」（https://tjwvtol.com/oem/）
+  - 「Co-marketing partner program」（https://evtol.travel/press/partners）
+  - 「Partner program」（https://evtol.travel/press/partners）
+- 黒字・収益性：
+  - 「BETA also expanded its charging network to 138 sites and adjusted its full-year forecast, projecting higher revenue but also a larger adjusted EBITDA loss.」（https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/）
+  - 「BETA increased its full-year revenue forecast to between $42 million and $50 million. The company now expects a full-year adjusted EBITDA loss of between $400 million and $445 million. Adjusted EBITDA, a non-GAAP measure, showed a $109.8 million loss for the second quarter, compared with a $68.4 million loss a year earlier.」（https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/）
+  - 「TAT Technologies Posts Record Q3 2026 Revenue of $55.6 Million and Adjusted EBITDA of $10.9 Million」（https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d）
+  - 「TAT Technologies reported record third-quarter 2026 revenue of $55.6 million, up 20.2%, with gross profit rising 48.2% to $17.2 million and backlog and long-term agreements of about $577 million.」（https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d）
+  - 「TAT Technologies Posts Record Q3 2026 Revenue of $55.6 Million and Adjusted EBITDA of $10.9 Million」（https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b）
+  - 「TAT Technologies reported record third-quarter 2026 revenue of $55.6 million, up 20.2%, with gross profit rising 48.2% to $17.2 million and backlog and long-term agreements of about $577 million.」（https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b）
+  - 「Even better if it lets us profit from the broader aviation market.」（https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity）
+  - 「underscored the immense cost of building next-generation aircraft. Archer Aviation reported an Adjusted EBITDA loss of approximately $177 million and guided for a similar $170 to $200 million loss in the third quarter.」（https://www.theglobeandmail.com/investing/markets/stocks/ACHR/pressreleases/3851182/cleared-for-takeoff-archer-aviation-changes-the-math-on-evtol/）
+  - 「The slump in sales caused by military cutbacks prompts an internal reevaluation, and William S. Powell, a partner at Booz Allen & Hamilton, is elected president. Powell exits unprofitable business lines and from 1962 through 1967 the company achieves some of its best profit-to-sales ratios to date.」（https://www.hexcel.com/about-us/）
+  - 「An active community member, Kody currently serves on two non-profits boards. He is a Board Member for Novation Wealth Management and the Board President for the South East Metro Sharks Swim Club in Minnesota.」（https://www.hexcel.com/about-us/）
+- 売上：
+  - 「Clients book the first credible quote they receive. Lineaum puts 30,000+ aircraft, quotes in seconds, contracts, payments and revenue tracking in one place, so brokers, operators and travel businesses reply first and close more charters, under their own brand.」（https://lineaum.com/en/white-label-private-jet-booking-software）
+  - 「Add live jet search to your own website. Every search arrives as a qualified trip request with route, dates and passengers, 24/7, straight into your pipeline. No engineering work needed.」（https://lineaum.com/en/white-label-private-jet-booking-software）
+  - 「At the heart of EHang’s portfolio is the EH216 series—a fully autonomous, passenger-carrying eVTOL platform designed to operate without onboard pilots, offering point-to-point air mobility that is intelligent, low-noise, and zero-emissions.」（https://www.evtolshoweurope.com/sponsors/）
+  - 「In studies presented at major events like Farnborough, Roland Berger projected that there could be around 7,000 passenger‑carrying eVTOL aircraft globally by 2030, rising to 47,000 by 2040 and 161,000 by 2050. Their Smart Mobility experts work across automotive, infrastructure, and transport sectors to guide stakeholders in aligning industry shifts toward low‑emission aerial mobility.」（https://www.evtolshoweurope.com/sponsors/）
+  - 「The APELEON SCALAR, an all-electric VTOL drone built for time-critical cargo transport. Designed to carry up to 10 kg at speeds up to 100 km/h, SCALAR targets use cases such as medical sample delivery, humanitarian aid, and rural-pair distribution. Its lightweight (~50 kg) architecture yields energy efficiency eleven times greater than road vehicles for 100 km missions.」（https://www.evtolshoweurope.com/sponsors/）
+  - 「Their breakthrough hybrid propulsion system enables all‑electric flight for the first 200 miles, followed by turbine-extended range up to 750 miles, cruising at 345 mph (555 km/h) at altitudes reaching 30,000 ft. It carries nine passengers plus two pilots (certified later for single‑pilot ops), offering significantly greater capacity than many eVTOL entrants.」（https://www.evtolshoweurope.com/sponsors/）
+  - 「: An unmanned VTOL cargo aircraft capable of carrying up to 40 kg payload over a hybrid-electric range of 400 km, or 20 kg on extended-range missions. The system supports autonomy or remote operations, reaching speeds up to 170 km/h and offering three hours of hybrid flight endurance.」（https://www.evtolshoweurope.com/sponsors/）
+  - 「BETA Technologies reported a significant increase in its Q2 2026 net loss to $148.8 million, driven by a doubling of operating expenses and substantial R&D investments, despite a rise in revenue to $14.7 million.」（https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/）
+  - 「BETA also expanded its charging network to 138 sites and adjusted its full-year forecast, projecting higher revenue but also a larger adjusted EBITDA loss.」（https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/）
+  - 「of 2026, compared with an $80.4 million loss during the same period last year. The electric aircraft developer generated $14.7 million in quarterly revenue, up from $6 million a year earlier.」（https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/）
+  - 「BETA increased its full-year revenue forecast to between $42 million and $50 million. The company now expects a full-year adjusted EBITDA loss of between $400 million and $445 million. Adjusted EBITDA, a non-GAAP measure, showed a $109.8 million loss for the second quarter, compared with a $68.4 million loss a year earlier.」（https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/）
+  - 「North America held the largest revenue share, at 42.1% in 2025, supported by investment in advanced air mobility, aircraft development, digital aviation infrastructure and autonomous flight technologies.」（https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d）
+  - 「Artificial intelligence, machine learning, cloud computing, digital twins and real-time data analytics are further reshaping the market. The forecasts cover global, regional and country-level revenue, with analysis by component, deployment, end use and region for 2021–2033.」（https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d）
+  - 「A forecast that takes a market from USD 272.5 million to USD 13.28 billion is a statement about expected adoption, not a record of revenue already earned. The 2026 figure of USD 447.0 million is the nearer test of whether the curve is holding, and the 62.3% growth rate depends entirely on aircraft programs reaching commercial service on schedule.」（https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d）
+  - 「Boeing 777-200, Introduced in 1995, Remains in Service With Major Carriers as Jettly Pitches Private Charter Alternative」（https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d）
+- 価格：
+  - 「starts at From $79 per month,」（https://lineaum.com/en/white-label-private-jet-booking-software）
+  - 「at From $49 per month and」（https://lineaum.com/en/white-label-private-jet-booking-software）
+  - 「Fleet Lite at From $99 per month plus From $79 per listed aircraft per month, each with higher tiers and custom Enterprise plans. Compare every plan on the pricing page.」（https://lineaum.com/en/white-label-private-jet-booking-software）
+  - 「Today, we also learned that the base price of Pivotal’s Helix eVTOL will start at $190,000. Orders are scheduled to open on January 9, 2024 with a $47,500 deposit (25% of purchase price). Pricing for the additional options and accessories mentioned above will be revealed at a later date.」（https://electrek.co/2023/10/05/evtol-developer-opener-rebrands-as-pivotal-unveils-production-ready-helix-aircraft/）
+  - 「個人向け「ヨミダス」月額990円」（https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/）
+- 日本対応：
+  - 「Japan Air Taxi」（https://evtol.travel/press/embed）
+  - 「FBOs in Japan」（https://lineaum.com/en/white-label-private-jet-booking-software）
+  - 「Tokyo, Japan」（https://lineaum.com/en/white-label-private-jet-booking-software）
+  - 「Japanese eVTOL — Tokyo demo flights Feb 2026, Suzuki partnership」（https://evtol.travel/marketplace）
+  - 「Toyota, Aichi, Japan」（https://evtol.travel/marketplace）
+  - 「Japan Air Taxi」（https://evtol.travel/marketplace）
+  - 「Japan Air Taxi」（https://evtol.travel/press/partners）
+  - 「Eve Air Mobility Named a Member of Japan’s Advanced Air Mobility Public-Private Committee」（https://www.eveairmobility.com/eve-air-mobility-and-signature-aviation-partner-to-research-ecosystem-requirements-and-services-for-advanced-air-mobility-ground-operations/）
+  - 「SkyDrive, the Japanese compact eVTOL developer, signed an MOU with six Singapore technology companies for joint R&D and technical validation of key eVTOL component technologies.」（https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d）
+  - 「Asia Pacific: China, Japan, India, South Korea, and Australia」（https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html）
+  - 「7.4.3. Japan」（https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html）
+  - 「7.4.3.1. Japan eVTOL Software Market Estimates and Forecasts, 2021 - 2033 (USD Million)」（https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html）
+  - 「SkyDrive, the Japanese compact eVTOL developer, signed an MOU with six Singapore technology companies for joint R&D and technical validation of key eVTOL component technologies.」（https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b）
+  - 「Government programs are playing an increasing role as a catalyst for commercialisation. Thus, the involvement of the public sector in aircraft testing, regulation, infrastructure planning and operational development has grown, as seen in the U.S. eIPP, Europe's innovative air mobility framework and the AAM roadmap in Japan.」（https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market）
+  - 「North America will remain the largest regional product market while Asia Pacific is expected to grow at a CAGR of 26.80%. This region accounts for 30.95% of the market by 2035, up from 26.15%. EHang is already developing a commercial certification route for its pilotless eVTOLs in China, while Japan is backing AAM development via its government roadmap.」（https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market）
+- 検索結果の抜粋：
+  - 「eVTOL developer Opener rebrands as Pivotal, unveils Helix ... — eVTOL developer Opener rebrands as Pivotal, unveils Helix ... Electrek https://electrek.co > 2023/10/05 > evt...」（https://electrek.co/2023/10/05/evtol-developer-opener-rebrands-as-pivotal-unveils-production-ready-helix-aircraft/）
+  - 「BETA Technologies: The Best EVTOL Buy - Seeking Alpha — BETA Technologies: The Best EVTOL Buy - Seeking Alpha Seeking Alpha https://seekingalpha.com > article > 4...」（https://seekingalpha.com/article/4936681-beta-technologies-the-best-evtol-buy）
+  - 「Global eVTOL Software Market Valued at $272.5 Million in ... — Global eVTOL Software Market Valued at $272.5 Million in ... Avi-Go https://avi-go.com > news > articles」（https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d）
+  - 「$12 Billion Burned: The eVTOL Cash Bonfire | MiGFlug — $12 Billion Burned: The eVTOL Cash Bonfire | MiGFlug MiGFlug https://migflug.com > afterburner > 1...」（https://migflug.com/afterburner/12-billion-burned-zero-passengers-carried-the-evtol-cash-bonfire/）
+  - 「Report Projects Global eVTOL Market at USD 0.3-0.6 Billion ... — Report Projects Global eVTOL Market at USD 0.3-0.6 Billion ... Avi-Go https://avi-go.com > news > articles」（https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b）
+  - 「日本の 空飛ぶクルマ 市場2024～2031年 - アットプレス — 日本の 空飛ぶクルマ 市場2024～2031年 - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/8049768）
+  - 「「 空飛ぶクルマ 」のある社会 機体だけでない広範な事業 ... — 「 空飛ぶクルマ 」のある社会 機体だけでない広範な事業 ... 月刊「事業構想」オンライン https://www.projectdesign.jp > 2023年9月号」（https://www.projectdesign.jp/articles/c4b18315-fba8-4a69-9c5c-8fae53be099c）
+
+## ロケット打上げ（space launch services）
+- 文脈：6 航空・宇宙 ④ロケット・射場
+- 提供企業：
+  - 「Some of the key players operating in the market include ISRO, NASA, SpaceX, Boeing, among others.」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「The following are the leading companies in the」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Who are the key players in the space launch services market?」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Leading companies partner with us for data-driven Insights」（https://www.marketresearchfuture.com/reports/space-launch-services-market/companies）
+  - 「Key Players」（https://www.marketresearchfuture.com/reports/space-launch-services-market/companies）
+  - 「Top Industry Leaders in the Space Launch Services Market」（https://www.marketresearchfuture.com/reports/space-launch-services-market/companies）
+  - 「Venus Emissivity, Radio Science, InSAR, Topography, and Spectroscopy」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+  - 「Research and technical analysis topics include:」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+  - 「"NASA Selects Three New Venture-Class Launch Service Providers"」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+  - 「Blair, Christopher」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+  - 「Add topic」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+  - 「Top Space Launch Services Startups by Valuation (2026)」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「The space launch services market has expanded dramatically without becoming much less concentrated. Global orbital launch attempts increased from 114 in 2020 to approximately 325 in 2025, yet the four largest providers still accounted for around 82% of launches, up from 71% five years earlier.」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「SpaceX's dominance has created an unusual investment opportunity for its competitors. Governments and satellite operators have strong reasons to support alternative launch providers, even when those companies cannot yet match SpaceX's prices, reliability, or launch frequency.」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「Europe and India are developing credible alternatives with different advantages. ESA committed €197.8 million to Isar Aerospace and €158.9 million to PLD Space, while India's Skyroot Aerospace successfully placed satellites into orbit in July 2026, becoming the country's first private orbital launch provider.」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+- 自社名で出せる条件：
+  - 「Aras、戦略的 OEM 契約で ANSYS にプラットフォームをライセンス供与 - Aras」（https://aras.com/ja/news/press-releases/2020/01/aras-licenses-platform-to-ansys-in-strategic-oem-deal）
+  - 「Aras、戦略的 OEM 契約で ANSYS にプラットフォームをライセンス供与」（https://aras.com/ja/news/press-releases/2020/01/aras-licenses-platform-to-ansys-in-strategic-oem-deal）
+- 再販制度：
+  - 「The North American market accounted for a market revenue share of 50.6% in 2023.」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「By service type, pre-launch services accounted for largest market revenue share in 2023.」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「By payload, satellite payload accounted for largest market revenue share in 2023.」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Commercial segment accounted for largest market revenue share in 2023. Communication is one of the most prominent commercial end-users in the market; satellites launched into orbit facilitate global telecommunications, broadband internet access, and television broadcasting. The demand for reliable and high-speed connectivity has fueled the deployment of」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「North America dominated with a 50.6% revenue share in 2023.」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Space Launch Services companies are at the forefront of the space exploration industry, providing the critical capability to transport payloads into space. These companies specialize in designing, building, and launching vehicles that can carry satellites, scientific instruments, crewed spacecraft, and other payloads into various orbits or trajectories.」（https://www.marketresearchfuture.com/reports/space-launch-services-market/companies）
+  - 「robotic missions occurred from a number of launch sites on a variety of rockets. After the list of launches are descriptions of select historic LSP missions.」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+  - 「The LSP works with U.S. Government spacecraft program offices to define launch requirements for their programs and then engage with launch services contractors to deliver a compatible solution. LSP has relationships with various agencies and organizations:」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+  - 「NASA uses a certification system for rockets launched by its contractors, and for validation purposes it requires the certification process to be "instrumented to provide design verification and flight performance data", with post-flight operations, anomaly resolution process, and a flight margin verification process, with 80% predicted design reliability at 95% confidence.」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+  - 「The LSP Educational Outreach Office created the Rocket Science 101 Game. Students can pick a NASA mission, select the right rocket, and build a rocket to send the spacecraft into orbit. There are three different levels for varying ages and it is available for the computer and Apple/Android devices.」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+  - 「Blue Origin leads the space launch services startup valuation ranking by a substantial margin, followed by Stoke Space, LandSpace, Space Pioneer, and i-Space. The largest valuations are concentrated in companies developing reusable or relatively high-capacity orbital launch systems.」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「The 2026 comparison uses Flight Atlas and Launch Library-based records through October 27. Global historical totals vary slightly between launch catalogs.」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「The importance of those requirements varies dramatically between customers. A price-sensitive commercial satellite operator may prefer a low-cost rideshare, while a defense customer might prioritize assured access and mission responsiveness.」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「Distributor and Partner Research」（https://www.precedenceresearch.com/space-launch-services-market）
+  - 「Aditi Shivarkar」（https://www.precedenceresearch.com/space-launch-services-market）
+- 黒字・収益性：
+  - 「, a non-profit organization.」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+  - 「The latest industry figures suggest that launch demand is real. What remains uncertain is how much of that demand newer companies can capture profitably.」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「Of course, even a busy launch schedule does not guarantee profitability. Investors still need to understand revenue per mission, manufacturing expense, fixed infrastructure costs, and whether customers keep coming back.」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「The aerospace giants [Boeing Co. and Lockheed Martin Corp.] shared almost $500 million in equity profits from the rocket-making venture last year, when it still had a monopoly on the business of blasting the Pentagon's most important satellites into orbit. But since then, 'they've had us on a very short leash,' Tory Bruno, United Launch's chief executive, said.」（https://en.wikipedia.org/wiki/Space_launch_market_competition）
+  - 「"Space is about to get a whole lot more accessible – and potentially profitable"」（https://en.wikipedia.org/wiki/Space_launch_market_competition）
+  - 「, a non-profit organization.」（https://en.wikipedia.org/wiki/Space_launch_market_competition）
+- 売上：
+  - 「The North American market accounted for a market revenue share of 50.6% in 2023.」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「By service type, pre-launch services accounted for largest market revenue share in 2023.」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「By payload, satellite payload accounted for largest market revenue share in 2023.」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Commercial segment accounted for largest market revenue share in 2023. Communication is one of the most prominent commercial end-users in the market; satellites launched into orbit facilitate global telecommunications, broadband internet access, and television broadcasting. The demand for reliable and high-speed connectivity has fueled the deployment of」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「ExPace is a Chinese company that was founded in 2016 with the goal of providing commercial launch services to customers around the world. ExPace has successfully launched several rockets, including the Kuaizhou-1A and Kuaizhou-11, which are designed to carry small satellites into orbit.」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Revenue in USD million and CAGR from 2024 to 2030」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「This report forecasts revenue growth at global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2018 to 2030. For this study, Grand View Research has segmented the global space launch services market report based on service type, service payload, launch platform, launch type, launch vehicle, end-use, and region:」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Service Type Outlook (Revenue, USD Million, 2018 - 2030)」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Payload Outlook (Revenue, USD Million, 2018 - 2030)」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Launch Platform Outlook (Revenue, USD Million, 2018 - 2030)」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Launch Type Outlook (Revenue, USD Million, 2018 - 2030)」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Launch Vehicle Outlook (Revenue, USD Million, 2018 - 2030)」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「End-use Outlook (Revenue, USD Million, 2018 - 2030)」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Regional Outlook (Revenue, USD Million, 2018 - 2030)」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「The Cygnus arrived at the ISS on 2014.01.12 and will spend five weeks unloading the cargo.」（https://en.wikipedia.org/wiki/NASA_Launch_Services_Program）
+- 価格：
+  - 「At $10 billion, investors are already pricing in a substantial future cost advantage. Stoke now has to show that the advantage actually exists.」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「2010–2020s: Competition and pricing pressure」（https://en.wikipedia.org/wiki/Space_launch_market_competition）
+- 日本対応：
+  - 「U.S., Canada; Germany; UK; France; Italy; France; Spain; China; Japan; India; South Korea; Australia; New Zealand; Brazil; Mexico; UAE; South Africa」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Mitsubishi Heavy Industries (Japan)」（https://www.marketresearchfuture.com/reports/space-launch-services-market/companies）
+  - 「Japanese orbital rockets and satellites」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「Reusable Japanese suborbital spaceplanes」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「0In December 2025, Rocket Lab successfully launched its 21st Electron rocket on December 21, deploying the QPS-SAR-15 satellite for Japan's iQPS. This mission enhances iQPS's radar constellation, providing near-real-time imagery globally. Rocket Lab has launched seven satellites for iQPS, with five more planned from 2026. (」（https://www.precedenceresearch.com/space-launch-services-market）
+  - 「North America (US, Canada), Europe (Germany, UK, France, Italy, Spain, Russia, Poland, Rest of Europe), Asia Pacific (China, India, Japan, South Korea, Australia, ASEAN Countries, Rest of Asia Pacific), Middle East & Africa (UAE, Saudi Arabia, Qatar, South Africa, Rest of Middle East & Africa), Latin America (Brazil, Argentina, Mexico, Colombia, Rest of Latin America).」（https://www.snsinsider.com/reports/space-launch-services-market-2488）
+  - 「, the Japanese legislature was considering legislation to provide a legal framework for private company spaceflight initiatives in」（https://en.wikipedia.org/wiki/Space_launch_market_competition）
+  - 「. It was unclear whether the legislation would become law and, if so, whether significant private capital would subsequently enter the Japanese space launch industry as a result.」（https://en.wikipedia.org/wiki/Space_launch_market_competition）
+  - 「In the event, the legislation appears not to have become law, and little change in the funding mechanism for Japanese space vehicles are anticipated.」（https://en.wikipedia.org/wiki/Space_launch_market_competition）
+  - 「Japan News」（https://en.wikipedia.org/wiki/Space_launch_market_competition）
+  - 「日本の新型基幹ロケットとして、2023年に運用を開始したH3ロケット」（https://www.mesw.co.jp/technical-report/2025/018.html）
+  - 「同ソフトウェアは、2024年2月の打ち上げで衛星の軌道投入に初成功して以来、2025年2月の7号機に至るまで安定した軌道投入に貢献しており、日本のロケット産業の発展を支えています」（https://www.mesw.co.jp/technical-report/2025/018.html）
+  - 「しかし、アメリカを見れば年に100回近く打ち上げており、コストも日本に比べて安価と言われています」（https://www.mesw.co.jp/technical-report/2025/018.html）
+  - 「日本の宇宙輸送の発展に貢献」（https://www.mesw.co.jp/technical-report/2025/018.html）
+  - 「「ロケットの分野で日本が世界で競争力を高めていくためには、打ち上げまでの期間が短く、打ち上げコストが安く、精度が高いロケットを開発し続けていく必要があります」（https://www.mesw.co.jp/technical-report/2025/018.html）
+- 検索結果の抜粋：
+  - 「Space Launch Services Market Size Report, 2024-2030 — Space Launch Services Market Size Report, 2024-2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report）
+  - 「Top Space Launch Services Startups by Valuation (2026) — Top Space Launch Services Startups by Valuation (2026) New Market Pitch https://newmarketpitch.com > news」（https://newmarketpitch.com/blogs/news/space-launch-services-top-startups-valuation）
+  - 「H3 ロケット 誘導 ソフトウェア - 三菱電機ソフトウエア — H3 ロケット 誘導 ソフトウェア - 三菱電機ソフトウエア 三菱電機ソフトウエア https://www.mesw.co.jp > technical-report」（https://www.mesw.co.jp/technical-report/2025/018.html）
+  - 「民間 ロケット打上げ 実証加速化（STAND） - JAXA宇宙戦略基金 — 民間 ロケット打上げ 実証加速化（STAND） - JAXA宇宙戦略基金 JAXA宇宙戦略基金 https://fund.jaxa.jp > techlist > theme3_15」（https://fund.jaxa.jp/techlist/theme3_15/）
+  - 「H3 ロケット を支える企業3選｜日本の上場メーカーの技術を解説 — H3 ロケット を支える企業3選｜日本の上場メーカーの技術を解説 space-connect.jp https://space-connect.jp > Business」（https://space-connect.jp/h3-manufacturer/）
+  - 「米 ロケット ラボ、日本のシンスペクティブの衛星10機 打ち上げ ... — 米 ロケット ラボ、日本のシンスペクティブの衛星10機 打ち上げ ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2024/06」（https://www.jetro.go.jp/biznews/2024/06/ef9a65494c9b6496.html）
+
+## 人工衛星（satellite manufacturing）
+- 文脈：6 航空・宇宙 ⑤人工衛星・サービス
+- 提供企業：
+  - 「Topics」（https://www.satellitetoday.com/finance/2025/08/07/mda-space-grows-revenue-54-yoy-in-second-quarter/）
+  - 「More on This Topic」（https://www.satellitetoday.com/finance/2025/08/07/mda-space-grows-revenue-54-yoy-in-second-quarter/）
+  - 「Trending Topics」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「All Trending Topics」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「News Releases in Similar Topics」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Top Satellite Manufacturing Startups by Fundraising (2026)」（https://newmarketpitch.com/blogs/news/satellite-manufacturing-top-startups-fundraising）
+  - 「What are the top satellite manufacturing startups by total funding raised?」（https://newmarketpitch.com/blogs/news/satellite-manufacturing-top-startups-fundraising）
+  - 「Can top satellite manufacturing startups build at scale?」（https://newmarketpitch.com/blogs/news/satellite-manufacturing-top-startups-fundraising）
+  - 「Space Score Top 25 each quarter, fastest-hiring companies each month」（https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue）
+  - 「Recompete radar: space contracts ending in 6-24 months, incumbents, teaming, SBIR topics」（https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue）
+  - 「Service Providers」（https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue）
+  - 「Space service providers, listings compiled by SpaceNexus」（https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue）
+  - 「Back to top」（https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue）
+  - 「Rocket Lab's HASTE and other providers offer suborbital trajectories for hypersonic testing, technology demonstrations, and point-to-point cargo」（https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue）
+  - 「Top 10 Satellite Manufacturing And Launch Companies」（https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company）
+- 自社名で出せる条件：
+  - 「Embedded derivative effects」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「また、あるところはOEMで衛星データを使った自社のソリューションを作り、BtoC向けに提案したいみたいなニーズもありますね」（https://sorabatake.jp/30649/）
+- 再販制度：
+  - 「Adjusted EBITDA of CA$76.3 million in the second quarter was up 57% year-over-year driven by higher volumes of work. Adjusted EBITDA margin was 20.4% in Q2 2025, in line with last year’s margin and consistent with margin guidance.」（https://www.satellitetoday.com/finance/2025/08/07/mda-space-grows-revenue-54-yoy-in-second-quarter/）
+  - 「margin」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Adjusted EBITDA of $96.3 million in Q2 2026 increased 26.2% year-over-year driven by higher volumes of work. Adjusted EBITDA margin of 19.3% in Q2 2026 is consistent with the Company's full year margin guidance of 18%-20%.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Adjusted EBITDA margin is reaffirmed at 18% - 20%」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Gross margin」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Adjusted EBITDA Margin」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「margin,」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Gross Profit and Gross Margin」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Gross profit reflects our revenues less cost of revenues. Q2 2026 gross profit of $125.9 million represents a $31.1 million (or 32.8%) increase over Q2 2025 driven by higher volumes of work performed across all business areas. Gross margin in Q2 2026 is 25.3% consistent with gross margin of 25.4% in Q2 2025.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「For the six months ended June 30, 2026, gross profit of $241.1 million represents a $66.6 million (or 38.2%) increase over 2025 levels driven by higher volumes of work across all business areas. Gross margin for the six months ended June 30, 2026 was 25.0% and compares to a gross margin of 24.1% for the six months ended June 30, 2025.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Adjusted EBITDA and Adjusted EBITDA Margin」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Profit Margin Calculator」（https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company）
+  - 「The global business of putting spacecraft into orbit moves fast, capital-intensive and fiercely competitive. We dissect how the leading Satellite Manufacturing and Launch market companies reveal their 2024 numbers and show where the next margins will be earned.」（https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company）
+  - 「2024 revenue US$ 9.20 B; operating margin 23.4 %」（https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company）
+  - 「2024 revenue US$ 4.10 B; EBIT margin 11.9 %」（https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company）
+- 黒字・収益性：
+  - 「Adjusted EBITDA of CA$76.3 million in the second quarter was up 57% year-over-year driven by higher volumes of work. Adjusted EBITDA margin was 20.4% in Q2 2025, in line with last year’s margin and consistent with margin guidance.」（https://www.satellitetoday.com/finance/2025/08/07/mda-space-grows-revenue-54-yoy-in-second-quarter/）
+  - 「“At the half year mark, the MDA Space team continues to execute well, delivering solid second quarter financial results with strong growth in our revenue and profitability as we convert our backlog and meet our customer commitments,” CEO Mike Greenley said. “We also continue to convert pipeline opportunities into contract awards.”」（https://www.satellitetoday.com/finance/2025/08/07/mda-space-grows-revenue-54-yoy-in-second-quarter/）
+  - 「Not For Profit」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「EBITDA」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「"With our continued focus on disciplined execution, the MDA Space team delivered another quarter of strong, profitable year-over-year growth in Q2 as we continue to advance our long-term growth strategy.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「The agreements to acquire Blue Canyon Technologies and CLS further expand our global reach and significantly increase our total addressable market. These two established businesses meet our strategic and financial criteria as profitable, cash-generating businesses that are highly complementary to MDA Space, and further position us to expand our existing $40 billion pipeline.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Adjusted EBITDA of $96.3 million in Q2 2026 increased 26.2% year-over-year driven by higher volumes of work. Adjusted EBITDA margin of 19.3% in Q2 2026 is consistent with the Company's full year margin guidance of 18%-20%.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Net income of $27.9 million in Q2 2026 was up 2.6% year-over-year. Diluted earnings per share was $0.20 in Q2 2026, a decrease of 9.5% year-over-year driven primarily by the increase in the average number of common shares outstanding following the Company's initial public offering on the New York Stock Exchange in March 2026.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Adjusted net income in Q2 2026 was $51.8 million increasing 12.9% year-over-year driven by the higher gross profit, partially offset by investments in SG&A and R&D. Adjusted diluted earnings per share of $0.36 in Q2 2026 decreased 1.5% year-over-year as the higher adjusted net income was offset by higher average shares outstanding largely due to the abovementioned IPO in the US.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Narrowing Adjusted EBITDA to $330 - $370 million, compared to $320 - $370 million previously, representing year-over-year growth of approximately 8% at the mid-point of guidance」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Adjusted EBITDA margin is reaffirmed at 18% - 20%」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Gross profit」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Adjusted EBITDA」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Adjusted EBITDA Margin」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Adjusted Net Income」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+- 売上：
+  - 「MDA Space Grows Revenue 54% YoY in Second Quarter - Via Satellite」（https://www.satellitetoday.com/finance/2025/08/07/mda-space-grows-revenue-54-yoy-in-second-quarter/）
+  - 「MDA Space Grows Revenue 54% YoY in Second Quarter」（https://www.satellitetoday.com/finance/2025/08/07/mda-space-grows-revenue-54-yoy-in-second-quarter/）
+  - 「grew revenue 54% year-over-year in the second quarter of 2025 as the Canadian manufacturer ramps up work for satellite constellation customers. MDA Space reported revenues of $373.3 million Canadian dollars in the second quarter.」（https://www.satellitetoday.com/finance/2025/08/07/mda-space-grows-revenue-54-yoy-in-second-quarter/）
+  - 「The Satellite Systems business grew revenue 114% year-over-year to CA$232.6 million Canadian dollars, with the ramp-up of work for Telesat Lightspeed and Globalstar’s next-generation Low-Earth Orbit (LEO) program.」（https://www.satellitetoday.com/finance/2025/08/07/mda-space-grows-revenue-54-yoy-in-second-quarter/）
+  - 「The Robotics & Space Operations grew revenue 11% year-over-year to CA$165.3 million, with more work on the Canadarm3 program.」（https://www.satellitetoday.com/finance/2025/08/07/mda-space-grows-revenue-54-yoy-in-second-quarter/）
+  - 「Backlog of $4.0 billion at quarter-end provides revenue visibility for 2026 and beyond and compares to $4.6 billion as of Q2 2025. This is an increase of $310 million compared to Q1 2026 driven by strong bookings in the quarter that exceeded conversion of backlog into revenue.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Revenues of $498.6 million in Q2 2026 were up 33.6% year-over-year driven by higher volumes across all business areas in the quarter.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Narrowing Revenue to $1.8 - $1.9 billion, compared to $1.7 - $1.9 billion previously, representing year-over-year growth of approximately 13% at the mid-point of guidance and reflecting a solid H1 for MDA Space」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Narrowing Adjusted EBITDA to $330 - $370 million, compared to $320 - $370 million previously, representing year-over-year growth of approximately 8% at the mid-point of guidance」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Consolidated revenues for the second quarter of 2026 were $498.6 million, representing an increase of $125.3 million (or 33.6%) from the second quarter of 2025. The year-over-year increase in revenues was driven by higher volumes of work performed across all business areas in the quarter.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Consolidated revenues for the six months ended June 30, 2026 were $962.7 million, representing an increase of $238.4 million (or 32.9%) from the same period in 2025. The year-over-year increase in revenues was driven by higher volumes of work performed across all business areas in the quarter.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Gross profit reflects our revenues less cost of revenues. Q2 2026 gross profit of $125.9 million represents a $31.1 million (or 32.8%) increase over Q2 2025 driven by higher volumes of work performed across all business areas. Gross margin in Q2 2026 is 25.3% consistent with gross margin of 25.4% in Q2 2025.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「L3Harris」（https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue）
+  - 「IRIS² Moves From Policy to Supply Chain: MDA's 66-Satellite Antenna Deal, Eutelsat's Revenue Case and a Canadian Opening」（https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue）
+  - 「Within one day, MDA Space signed an initial agreement worth over $100 million to build digital antennas for the first 66 IRIS² satellites, Eutelsat laid out its revenue expectations for the constellation, and Canada...」（https://spacenexus.us/blog/space-economy-value-chain-manufacturing-revenue）
+- 価格：
+  - 「締切迫る！年額プランが普段より2カ月お得に」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/09761/）
+- 日本対応：
+  - 「Robust order momentum drove backlog higher than the preceding quarter. Contract wins supporting programs with the Canadian Space Agency and Japan Ministry of Defense, as well as more recently the Canadian Armed Forces and European Space Agency, demonstrate how MDA Space is positioned to benefit from the growing demand for sovereign and defence space-based capabilities around the world.」（https://www.prnewswire.com/news-releases/mda-space-reports-second-quarter-2026-results-302845656.html）
+  - 「Tokyo, Japan」（https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company）
+  - 「Japanese conglomerate operating H3 launcher and DS2000 satellite line.」（https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company）
+  - 「Sanbancho KS Bldg. 5 Floor 102-0075 Tokyo, Japan」（https://europeanspaceflight.com/european-space-industry-map/）
+  - 「日本航空宇宙学会第57期年会講演会において、航空宇宙ビジネスセッション・交流会に出展・参加します」（https://space-sd.co.jp/）
+  - 「国際宇宙ステーション（ISS） ／日本実験棟きぼう（JEM）で行う各種宇宙実験の実験支援業務です」（https://space-sd.co.jp/）
+  - 「三菱電機ソフトウエアは、日本の宇宙開発の歴史とともにロケットや宇宙機／人工衛星の開発から」（https://www.mesw.co.jp/solution/communication/spacesystem.html）
+  - 「日本の宇宙開発とともに歩んできた」（https://www.mesw.co.jp/solution/communication/spacesystem.html）
+  - 「創業当初より、日本の宇宙開発を支援してきました」（https://www.mesw.co.jp/solution/communication/spacesystem.html）
+  - 「日本の宇宙開発の黎明期であるN-Iロケットに始まり、H-Iロケット、H-IIAロケット、H3ロケットにいたるまで、国の数多くの基幹ロケットの開発に携わっています」（https://www.mesw.co.jp/solution/communication/spacesystem.html）
+  - 「国際宇宙ステーション（ISS）の日本実験棟「きぼう」（JEM：Japanese Experiment Module）や宇宙ステーション補給機「こうのとり」（HTV：H-II Transfer Vehicle）の開発、地上運用設備の開発および運用支援を行なっています」（https://www.mesw.co.jp/solution/communication/spacesystem.html）
+  - 「国際宇宙ステーションの日本実験棟「きぼう」や宇宙ステーション補給機「こうのとり」シリーズ、また各種人工衛星の地上運用設備の開発および運用支援を行なっています」（https://www.mesw.co.jp/solution/communication/spacesystem.html）
+  - 「日本の大型基幹ロケットであるH3ロケットは現在運用中のH-IIAロケットの後継機として開発され、2021年度中の初号機打ち上げを目指している」（https://www.mesw.co.jp/solution/communication/spacesystem.html）
+  - 「HTV搭載小型回収カプセル（HSRC）は国際宇宙ステーション（ISS）からのサンプル回収を目的とした日本初の再突入カプセル実証機であり、2018年11月11日に地球に再突入し、南鳥島付近の海上にて無事に回収された」（https://www.mesw.co.jp/solution/communication/spacesystem.html）
+  - 「GNSS（Global Navigation Satellite System ：全地球測位衛星システム）は、米国のGPS（Global Positioning System） とロシアのGLONASS（Global Navigation Satellite System）、欧州のGalileo、中国のBeiDou、インドのIRNSS（Indian Regional Navigation Satellite System）、日本の準天頂衛星システム（QZSS：Quasi Zenith Satellites System）等の測位衛星システムの総称で、すでにカーナビゲーションや測量等で広く使われている」（https://www.mesw.co.jp/solution/communication/spacesystem.html）
+- 検索結果の抜粋：
+  - 「Top Satellite Manufacturing Startups by Fundraising (2026) — Top Satellite Manufacturing Startups by Fundraising (2026) New Market Pitch https://newmarketpitch.com > news」（https://newmarketpitch.com/blogs/news/satellite-manufacturing-top-startups-fundraising）
+  - 「Top 10 Satellite Manufacturing And Launch Companies — Top 10 Satellite Manufacturing And Launch Companies Report Prime https://www.reportprime.com > comp...」（https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company）
+
+## 衛星データ（satellite data services）
+- 文脈：6 航空・宇宙 ⑤人工衛星・サービス
+- 提供企業：
+  - 「Top Opportunities Awaiting for Players」（https://market.us/report/satellite-data-service-market/）
+  - 「held the leading position in the satellite data service market, with more than」（https://market.us/report/satellite-data-service-market/）
+  - 「. This leading role can be attributed to several key factors that uniquely position North America at the forefront of the satellite services industry.」（https://market.us/report/satellite-data-service-market/）
+  - 「These integrations can lead to innovative solutions and services, expanding the market reach and creating new revenue streams for satellite data providers. As industries increasingly adopt these technologies, the demand for sophisticated satellite data services is expected to rise, offering substantial growth prospects.」（https://market.us/report/satellite-data-service-market/）
+  - 「Artificial intelligence (AI) is also playing a crucial role in satellite operations. AI enables autonomous satellite functions and enhances data processing capabilities, leading to more efficient and responsive satellite systems.」（https://market.us/report/satellite-data-service-market/）
+  - 「Urban planning and infrastructure development also benefit from satellite data. High-resolution images support effective planning, monitoring of construction projects, and management of urban growth, leading to better resource allocation and sustainable development.」（https://market.us/report/satellite-data-service-market/）
+  - 「As the demand for real-time, Satellite Data Services increases, a few key players have emerged as leaders in this market, each offering unique capabilities and services.」（https://market.us/report/satellite-data-service-market/）
+  - 「is one of the leading players in the satellite data service industry. Known for its advanced satellite technology and high-quality imagery, Airbus provides a wide range of data solutions for sectors such as defense, agriculture, and environmental monitoring.」（https://market.us/report/satellite-data-service-market/）
+  - 「is another top player in the satellite data market, offering one of the largest constellations of Earth-observing satellites. Planet Labs focuses on delivering high-frequency, high-resolution imagery, which can be used for applications ranging from agriculture and forestry to infrastructure monitoring and environmental protection.」（https://market.us/report/satellite-data-service-market/）
+  - 「Top Key Players in the Market」（https://market.us/report/satellite-data-service-market/）
+  - 「Other Key Players」（https://market.us/report/satellite-data-service-market/）
+  - 「Airbus, Ursa Space Systems Inc., Planet Labs PBC, L3Harris Technologies, Inc., Telstra International, Satellite Imaging Corporation, ICEYE, EOS Data Analytics, Inc., GEOSAT, Maxar Technologies, Other Key Players」（https://market.us/report/satellite-data-service-market/）
+  - 「The most successful space data startups often combine both models, offering subscription access to data while also layering premium insights and reports on top.」（https://vivatech.com/news/how-startups-monetize-satellite-data）
+  - 「The best way to understand how startups are monetizing satellite data is to see it in action. Three of the top industries for satellite data usage are:」（https://vivatech.com/news/how-startups-monetize-satellite-data）
+  - 「Agriculture, climate, and weather are currently leading users of satellite data, but the next wave of growth requires bringing earth observation analytics into new industries.」（https://vivatech.com/news/how-startups-monetize-satellite-data）
+- 自社名で出せる条件：
+  - 「OEM Ellipse-D：デュアルアンテナGNSSを搭載した最小クラスのINS | SBG Systems」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「新製品 PULSE-40 OEM のご紹介：ミッションクリティカルな組み込みシステム向けタクティカルグレードIMU」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「OEMセンサー」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「シームレスな統合を実現するOEMソリューション」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「OEM Ellipse-D」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「OEM Ellipse-D は、デュアルアンテナ GNSS を搭載した最小の INS です」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「OEM Ellipse-Dは、コンパクトなフォームファクタで高精度な方位、位置、ヒーブ（上下動）測定を実現するために設計された、コンパクトで高性能なGNSS補助SMD慣性航法システムの一部です」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「OEM Ellipse-D は、高性能な GNSS レシーバー（L1/L2 GPS、GLONASS、GALILEO、BEIDOU）を内蔵しており、DGNSS、SBAS、RTK 測位に対応しています」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「OEM Ellipse-D の用途」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「OEM Ellipse-Dは、精度と適応性を再定義し、多様な用途に合わせてカスタマイズされた最先端のGNSS補助慣性航法を提供します」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「OEM Ellipse-D データシート」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「OEM Ellipse-E」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「このページには、OEM Ellipseハードウェアの統合に必要なすべての情報が記載されています」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「このリンクから、すべてのOEM Ellipseセンサーおよびナビゲーションシステムの機械仕様に完全にアクセスできます」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+  - 「OEMセンサーの電気的仕様に関するすべての情報をご確認いただけます」（https://www.sbg-systems.com/ja/ins/oem-ellipse-d/）
+- 再販制度：
+  - 「, encompassing a broad spectrum of information types such as imagery, weather patterns, communication signals, and other sensor data. These services play a critical role in various applications across multiple industries, including agriculture for crop monitoring, defense for surveillance, environmental science for climate observation, and urban planning for infrastructure development.」（https://market.us/report/satellite-data-service-market/）
+  - 「The demand within the satellite data service market is bolstered by the need for high-resolution imagery and timely data across various applications. Key sectors driving this demand include agriculture for crop monitoring, urban planning for infrastructure development, and disaster management for efficient and rapid response to natural calamities.」（https://market.us/report/satellite-data-service-market/）
+  - 「Satellite data services are evolving rapidly, bringing significant changes to various sectors. One notable trend is the deployment of small satellites in low Earth orbit (LEO). These compact satellites offer enhanced internet connectivity and faster data transmission, benefiting both businesses and consumers.」（https://market.us/report/satellite-data-service-market/）
+  - 「The satellite data service market is poised for significant growth, driven by advances in technology and increasing demands across various sectors.」（https://market.us/report/satellite-data-service-market/）
+  - 「The ability to process and analyze the vast amounts of data collected by satellites is becoming a lucrative area. Companies that can offer advanced analytics services will enable end users to extract actionable insights from satellite data, which is increasingly critical in decision-making processes across various industries​.」（https://market.us/report/satellite-data-service-market/）
+  - 「Startups are experimenting with a variety of satellite data business models, but two dominant the current market:」（https://vivatech.com/news/how-startups-monetize-satellite-data）
+  - 「: Different countries restrict the sale of certain imagery, and varied regulations (or a lack of standard rules) can make running a global data business complicated.」（https://vivatech.com/news/how-startups-monetize-satellite-data）
+  - 「Become a Reseller」（https://www.alliedmarketresearch.com/satellite-data-services-market-A06428）
+  - 「Satellite Data Services refer to the collection, processing, and delivery of data obtained from satellites orbiting the Earth. This data is utilized across a range of industries for various applications, including environmental monitoring, defense, agriculture, and disaster management.」（https://straitsresearch.com/report/satellite-data-services-market）
+  - 「社の一次販売代理店」（https://www.satim.co.jp/pr_airbus/）
+  - 「一次販売代理店」（https://www.satim.co.jp/pr_airbus/）
+  - 「弊社は、世界の衛星ビジネスをけん引するフランス Airbus Defence and Space（Airbus DS社）の非安全保障分野における一次販売代理店です」（https://www.satim.co.jp/pr_airbus/）
+  - 「衛星データの代理店販売」（https://www.tellusxdp.com/ja/provider/）
+  - 「貴社が保有する衛星データを、販売代理店として」（https://www.tellusxdp.com/ja/provider/）
+  - 「米国Maxar社の超高分解能光学衛星画像を販売代理店として」（https://www.tellusxdp.com/ja/provider/）
+- 黒字・収益性：
+  - 「From agriculture to climate tech, startups are using satellite data to make profits in new sectors.」（https://vivatech.com/news/how-startups-monetize-satellite-data）
+  - 「orbiting Earth capture huge amounts of imagery and sensor readings. For decades, this information was mostly used by governments, but today startups are turning satellite data into profitable businesses by selling data for use in agriculture, climate resilience, weather forecasting, and even finance.」（https://vivatech.com/news/how-startups-monetize-satellite-data）
+  - 「The growing market for space data startups proves that satellite data is no longer just for scientists and governments. As satellite data is increasingly recognized as a must-have business asset, monetizing satellite data is becoming more possible and profitable.」（https://vivatech.com/news/how-startups-monetize-satellite-data）
+  - 「Porter's five forces analysis highlights the potency of buyers and suppliers to enable stakeholders to make profit-oriented business decisions and strengthen their supplier-buyer network.」（https://www.alliedmarketresearch.com/satellite-data-services-market-A06428）
+  - 「：お客さんが知りたいのは衛星データそのものというよりは、衛星データを使うことで実利があるのか、利益率がどう変わるのかですので、そのために良いアプリケーションを作っていかないといけないですね」（https://sorabatake.jp/31311/）
+- 売上：
+  - 「L3Harris Technologies, Inc.」（https://market.us/report/satellite-data-service-market/）
+  - 「Forecast Revenue (2034)」（https://market.us/report/satellite-data-service-market/）
+  - 「Revenue Forecast, Market Dynamics, COVID-19 Impact, Competitive Landscape, Recent Developments」（https://market.us/report/satellite-data-service-market/）
+  - 「Airbus, Ursa Space Systems Inc., Planet Labs PBC, L3Harris Technologies, Inc., Telstra International, Satellite Imaging Corporation, ICEYE, EOS Data Analytics, Inc., GEOSAT, Maxar Technologies, Other Key Players」（https://market.us/report/satellite-data-service-market/）
+  - 「Region wise, North America generated the highest revenue in 2024.」（https://www.alliedmarketresearch.com/satellite-data-services-market-A06428）
+  - 「North America: Generated the highest revenue in 2024」（https://www.alliedmarketresearch.com/satellite-data-services-market-A06428）
+  - 「Maxar Technologies, Trimble Inc., Satellite Imaging Corporation, AIRBUS, L3Harris Technologies, Inc., ISI (ImageSat International), Ursa Space Systems Inc., East View Geospatial, SpecTIR, Planet Labs Inc.」（https://www.alliedmarketresearch.com/satellite-data-services-market-A06428）
+  - 「Airbus S.A.S., East View Geospatial Inc., ImageSat International, L3Harris Technologies, Inc., Maxar Technologies, Planet Labs Inc., Satellite Imaging Corporation, SpecTIR LLC, Trimble Inc. and Ursa Space Systems Inc.」（https://www.alliedmarketresearch.com/satellite-data-services-market-A06428）
+  - 「L3Harris Technologies, Inc (US)」（https://www.stratviewresearch.com/market-reports/satellite-data-services-market）
+  - 「• L3Harris Technologies, Inc (US)」（https://www.stratviewresearch.com/market-reports/satellite-data-services-market）
+  - 「L3Harris Technologies, Inc.」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
+  - 「Revenue in USD million/billion, and CAGR from 2025 to 2030」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
+  - 「Maxar Technologies Holdings Inc. (Maxar); Planet Labs PBC; Airbus SE; ICEYE; L3Harris Technologies, Inc.; Earth-i Ltd; Geocento Limited; NV5 Global, Inc.; Satellite Imaging Corporation; Satpalda; Telstra; Ursa Space Systems Inc.; Geospatial Intelligence Pty Ltd」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
+  - 「This report forecasts revenue growth at global, regional, and country levels and provides an analysis of the latest technological trends in each of the sub-segments from 2018 to 2030. For this study, Grand View Research has segmented the global satellite data services market report based on application, deployment, service, end-use, and region:」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
+  - 「Application Outlook (Revenue, USD Million, 2018 - 2030)」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
+- 日本対応：
+  - 「North America – US, Canada; Europe – Germany, France, The UK, Spain, Italy, Russia, Netherlands, Rest of Europe; Asia Pacific – China, Japan, South Korea, India, New Zealand, Singapore, Thailand, Vietnam, Rest of APAC; Latin America – Brazil, Mexico, Rest of Latin America; Middle East & Africa – South Africa, Saudi Arabia, UAE, Rest of MEA」（https://market.us/report/satellite-data-service-market/）
+  - 「(China, Japan, India, South Korea, Rest of Asia-Pacific)」（https://www.alliedmarketresearch.com/satellite-data-services-market-A06428）
+  - 「generated the highest demand in 2024, with countries like China, Japan, South Korea, Australia, and India as the key growth driver in the region.」（https://www.stratviewresearch.com/market-reports/satellite-data-services-market）
+  - 「Asia-Pacific is expected to be the dominant and the fastest-growing region over the forecasted period. Rapid urbanization, technological advancement, and economic growth across countries like China, India, Japan, South Korea, and Australia have fueled the demand for satellite-based data services in the region.」（https://www.stratviewresearch.com/market-reports/satellite-data-services-market）
+  - 「(The USA, Canada, Mexico, Germany, France, Italy, The UK, China, Japan, India, Brazil, Saudi Arabia, Rest of Europe, Rest of APAC, and Rest of the World)」（https://www.stratviewresearch.com/market-reports/satellite-data-services-market）
+  - 「Asia-Pacific (Country Analysis: China, Japan, India, and Rest of Asia-Pacific)」（https://www.stratviewresearch.com/market-reports/satellite-data-services-market）
+  - 「Japan satellite data services market」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
+  - 「U.S.; Canada; Mexico; UK; Germany; France; China; Australia; Japan; India; South Korea; Brazil; South Africa; Saudi Arabia; UAE」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
+  - 「Japan Satellite Data Services Market Insights」（https://straitsresearch.com/report/satellite-data-services-market）
+  - 「Japan market is witnessing steady market growth due to increasing adoption of satellite-based Earth observation, expanding applications in disaster monitoring, rising investments in space technologies, and growing demand for high-resolution geospatial data.」（https://straitsresearch.com/report/satellite-data-services-market）
+  - 「昨年は中国アリババが衛星データプラットフォームに進出したり、日本でもTellusがリリースされたりと、利活用促進を仕掛ける動きが活発になる一方で、サービス提供までスピーディに順当に結び付けられないことにより、選択を迫られるケースも出始めています」（https://sorabatake.jp/9395/）
+  - 「※2．SPOT衛星の場合は、日本領域以外のエリアに限ります」（https://www.satim.co.jp/pr_airbus/）
+  - 「地球上のどこでも毎日撮影が可能で、日本国内二ヶ所の受信局により、衛星からダイレクトに画像データを受信しています」（https://www.satim.co.jp/pr_airbus/）
+  - 「また、日本国内は2015年より全域を1.5m解像度のアーカイブとして整備済です」（https://www.satim.co.jp/pr_airbus/）
+  - 「日本スペースイメージング」（https://www.tellusxdp.com/ja/provider/）
+- 検索結果の抜粋：
+  - 「Satellite Data Services Market (2025-2034) — Satellite Data Services Market (2025-2034) Allied Market Research https://www.alliedmarketresearch.com > ...」（https://www.alliedmarketresearch.com/satellite-data-services-market-A06428）
+  - 「Satellite Data Services Market Size, Share & Forecast 2032 — Satellite Data Services Market Size, Share & Forecast 2032 Stratview Research https://www.stratviewresearch.com > s...」（https://www.stratviewresearch.com/market-reports/satellite-data-services-market.html）
+  - 「衛星データ提供 サービス、シリーズAで総額10億円を調達 - 宙畑 — 衛星データ提供 サービス、シリーズAで総額10億円を調達 - 宙畑 宙畑 https://sorabatake.jp > ...」（https://sorabatake.jp/9395/）
+  - 「衛星データ アナリティクス企業Spire Global社への出資と 代理 ... — 衛星データ アナリティクス企業Spire Global社への出資と 代理 ... 伊藤忠商事株式会社 https://www.itochu.co.jp > ... > プレスリリース > 2019年」（https://www.itochu.co.jp/ja/news/press/2019/190925.html）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## 宇宙ステーション（commercial space station）
+- 文脈：6 航空・宇宙 ⑥月面・低軌道
+- 提供企業：
+  - 「View All Topics A-Z」（https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/）
+  - 「Discover More Topics」（https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/）
+  - 「Every topic, explained」（https://orbitalradar.com/space-stations/commercial）
+  - 「framework, which may have private developers supply modules to a government-anchored hub rather than each flying a fully independent station from day one. Phase 2 awards to at least two providers are expected in 2026.」（https://orbitalradar.com/space-stations/commercial）
+  - 「after its planned deorbit around 2030. The leading contenders are Vast's Haven-1/Haven-2, Axiom Station, Blue Origin and Sierra Space's Orbital Reef, and the Voyager–Airbus Starlab. Russia plans its own ROSS, and China's Tiangong is already operational.」（https://orbitalradar.com/space-stations/commercial）
+  - 「Announced in March 2026, Ignition reshaped the Commercial LEO Destinations strategy: rather than backing fully independent free-flying stations from the outset, NASA may have private developers supply modules to a government-anchored hub, with Phase 2 awards to at least two providers expected in 2026.」（https://orbitalradar.com/space-stations/commercial）
+  - 「Yes. Axiom Space has already flown four private astronaut missions to the ISS, and Vast, Orbital Reef and others include tourism alongside research and manufacturing in their business models. See our space tourism guide for providers, costs and the full flight log.」（https://orbitalradar.com/space-stations/commercial）
+  - 「Add topic」（https://en.wikipedia.org/wiki/List_of_commercial_space_stations）
+  - 「Commercial Service Providers」（https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/）
+  - 「Boeing is the leading global supplier of human space systems and services. As NASA’s prime contractor for the International Space Station, Boeing designed and built…」（https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/）
+  - 「Nanoracks is a leading provider of access to space for customers around the world and the first to operate a commercial laboratory in low-earth orbit.…」（https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/）
+  - 「As one of the leading developers and flight system integrators for Biotechnology hardware for use in microgravity and space exploration, The UAB team is an…」（https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/）
+  - 「Leading Women」（https://spacenews.com/commercial-space-stations-go-international/）
+  - 「TOPICS:」（https://spacenews.com/commercial-space-stations-go-international/）
+  - 「With funding from its billionaire founder Jed McCaleb and a focus on vertical integration, Vast has not brought in other companies as major partners or vendors for its planned stations beyond SpaceX, which will launch Haven-1 and provide Crew Dragon spacecraft for missions to it. However, the company is now starting to engage with space agencies and companies in other countries for partnerships.」（https://spacenews.com/commercial-space-stations-go-international/）
+- 自社名で出せる条件：
+  - 「Promote Your Brand」（https://spaceanddefense.io/european-commercial-space-gateway-opens-in-dubendorf-offering-access-to-iss-and-starlab/）
+  - 「OEM：国際宇宙ステーション採用光触媒技術を用いた空気清浄機開発 フジコー | イプロスものづくり」（https://mono.ipros.com/product/detail/2001585633/）
+  - 「OEM：国際宇宙ステーション採用光触媒技術を用いた空気清浄機開発」（https://mono.ipros.com/product/detail/2001585633/）
+  - 「光触媒OEM・開発（FUJICO）」（https://mono.ipros.com/product/detail/2001585633/）
+  - 「【宇宙技術を貴社の新製品に】 国際宇宙ステーション内でも採用された、フジコー独自のハイブリッド光触媒技術を用いた空気清浄機のOEM開発を承ります」（https://mono.ipros.com/product/detail/2001585633/）
+  - 「■ OEM対応：貴社ブランドロゴを配したオリジナルモデルの制作 ・特定業界（医療・介護、車載、ペット等）に特化した専用設計」（https://mono.ipros.com/product/detail/2001585633/）
+  - 「対応可能範囲製品企画、筐体設計、光触媒ユニット供給、完成品OEM」（https://mono.ipros.com/product/detail/2001585633/）
+  - 「EMS/OEM/ODM 製造受託サービス」（https://mono.ipros.com/product/detail/2001585633/）
+- 再販制度：
+  - 「Redwire Space - Formerly Made in Space (MIS) - is the industry leader for manufacturing technologies designed for the outer space environment. Using various manufacturing…」（https://issnationallab.org/research-and-science/partners-and-facilities/implementation-partners/）
+  - 「*Final deliverables may vary based on trade partner offerings.」（https://commercialspaceweek.com/spacecom/media-trade-partnership-program）
+  - 「Space Technology Distribution & Partner Program | Space Tech」（https://www.tdsynnex.com/na/us/innovation/space-tech/）
+  - 「Reseller market is approx. $1.2B」（https://www.tdsynnex.com/na/us/innovation/space-tech/）
+  - 「300 TD SYNNEX reseller customers already support space-related organizations」（https://www.tdsynnex.com/na/us/innovation/space-tech/）
+  - 「Find a reseller」（https://www.tdsynnex.com/na/us/innovation/space-tech/）
+  - 「Several docking ports ensure that visiting vehicles can dock comfortably. The compatibility of these ports reflects all current standards, allowing crew and cargo transport to be carried out by a variety of providers.」（https://www.airbus.com/en/products-services/space/space-exploration/starlab）
+  - 「“I think the RFI is a request for information. I don’t think it’s a definitive statement of a process, a plan, whatever,” Cirtain said. “I think the agency was saying, ‘Hey, what do you think about these various options?’ We’re giving them the feedback.”」（https://www.thespacereview.com/article/5204/1）
+  - 「3.3. List of Major Distributors and Channel Partners」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA）
+  - 「Direct-to-phone connectivity may have one of the largest addressable markets, but the key question is still economics rather than technical reach. The model becomes much more interesting if satellite coverage can be sold wholesale through mobile operators to hundreds of millions of existing subscribers.」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+  - 「AST had 13 satellites in orbit after launching six spacecraft within 50 days, while another 30 satellites were in various stages of production and assembly. The company is preparing beta services with operators as its coverage increases.」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+  - 「That can still become a very large market. A few dollars of wholesale revenue spread across hundreds of millions of subscriptions would create a much bigger business than traditional satellite-phone services ever did.」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+  - 「Varda Space Industries has built one of the clearest commercial attempts around that idea. Its W-Series capsules process payloads in orbit and return them to Earth, closing a logistics loop that earlier microgravity experiments often lacked.」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+  - 「Varda's sixth mission flew in 2026, and the company has now completed multiple successful reentries. It also announced a collaboration with United Therapeutics to explore microgravity-enabled formulations for treatments for rare pulmonary disease.」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+  - 「There is an extra revenue engine here that makes Varda particularly interesting. Government agencies are paying to use its capsules as hypersonic reentry testbeds. Its sixth mission carried payloads associated with NASA, Sandia National Laboratories and Air Force research work.」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+- 黒字・収益性：
+  - 「, a non-profit organization.」（https://en.wikipedia.org/wiki/List_of_commercial_space_stations）
+  - 「Not For Profit」（https://www.prnewswire.com/news-releases/mda-space-joins-starlab-space-as-strategic-partner-equity-owner-in-commercial-space-station-joint-venture-302157306.html）
+  - 「, a non-profit organization.」（https://en.wikipedia.org/wiki/Commercial）
+  - 「Is there profit in outer space? | Yale Insights」（https://insights.som.yale.edu/insights/is-there-profit-in-outer-space）
+  - 「Is there profit in outer space?」（https://insights.som.yale.edu/insights/is-there-profit-in-outer-space）
+  - 「“If CLDs have a low-cost commercial approach, we believe that not only can we be ready by 2030,” he said, “we also believe that we can be profitable on the current market.”」（https://www.thespacereview.com/article/5204/1）
+  - 「“If CLDs have a low-cost commercial approach, we believe that not only can we be ready by 2030,” Haot said, “we also believe that we can be profitable on the current market.”」（https://www.thespacereview.com/article/5204/1）
+  - 「Iridium shows what a more mature satellite-subscription model looks like. The company ended the second quarter of 2026 with 2.63 million billable subscribers. About 72% of its $225 million quarterly revenue came from services, while Operational EBITDA reached roughly $119 million.」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+  - 「BlackSky gives us a useful second example. Its second-quarter 2026 revenue jumped 50% year over year to $33.3 million. About $24.5 million came from space-based intelligence and AI services, and the company produced $4.7 million of adjusted EBITDA.」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+  - 「We still have very little evidence of large-scale products being manufactured in space and sold profitably on Earth. The near-term business is research, orbital processing, reentry and government testing. Mass production remains the bigger prize.」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+  - 「“Once these other platforms are up there, we can move facilities and customers into them to take advantage of that volume,” Read adds. “If we are going to develop the demand, we need a place to put it. We can provide scalability to some degree on the space station, but likely not enough for a company to turn a profit.”」（https://www.nasa.gov/missions/station/space-station-enables-launch-growth-of-space-businesses/）
+  - 「Both Axiom and Vast are competing for NASA funds to help support at least one station as part of the agency’s CLD program. These funds are crucial for keeping the lights on, but not enough to turn a profit. And while both companies could look to the private markets for continued financing—as Axiom did this week, landing an additional」（https://payloadspace.com/us-commercial-space-stations-expand-to-europe/）
+  - 「https://edition.cnn.com/2020/09/08/tech/spacex-mars-profit-scn/index.html」（https://ampmedia.jp/2021/03/12/space-station/）
+- 売上：
+  - 「proposed an expandable space station for commercial use. Air would have been pumped into the station to inflate each piece once they arrived on orbit. Bigelow ceased operations in 2020.」（https://en.wikipedia.org/wiki/List_of_commercial_space_stations）
+  - 「We build our own laser retroreflector arrays, which reflect light back to spacecraft visiting Haven-1, providing range and orientation during rendezvous and docking.」（https://www.vastspace.com/）
+  - 「Shelving for the interior of Haven-1 undergoes quality inspection and verification with a Coordinate Measuring Machine. The shelves will carry food, water, and other life support cargo.」（https://www.vastspace.com/）
+  - 「Haven-1 deployable solar array wings」（https://www.vastspace.com/）
+  - 「The twelve deployable solar array wings for Haven-1 (flight units) are undergoing acceptance inspection at Vast HQ.」（https://www.vastspace.com/）
+  - 「Haven Demo achieved mission success after deploying from the Bandwagon-4 rideshare mission. The spacecraft captured 4K video of its solar array deployment and is now power positive.」（https://www.vastspace.com/）
+  - 「The first aluminum barrel of Haven-1 has been rolled and welded, bringing the station another step closer to flight.」（https://www.vastspace.com/）
+  - 「Haven-1 solar arrays use triple-junction solar cells to capture a broad range of light wavelengths from the sun to help power our systems while in space. We perform electroluminescence (EL) tests to test their viability, applying currents to the cells to emit light at known wavelengths.」（https://www.vastspace.com/）
+  - 「Deployable Solar Arrays for Haven-1」（https://www.vastspace.com/）
+  - 「36.1.1. Top 10 Companies (Ranked by revenue/share)」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA）
+  - 「36.2.1. Market Revenues」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA）
+  - 「1) By Structure: Primary Load-Bearing Trusses; Pressurized Habitat Modules; Unpressurized Logistics Carriers; Docking Ports and Adapters; External Experiment Platforms; Robotic Arm Attachment Points; Meteoroid and Debris Shielding」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA）
+  - 「3) By Power Systems: Solar Photovoltaic Arrays; Battery Energy Storage; Power Management and Distribution Units; Electrical Conversion and Regulation; Thermal Power Rejection Systems」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA）
+  - 「The revenue hierarchy looks very different from the industry's public image. Ground equipment generated about $165 billion in 2025 and satellite services another $105 billion, while commercial launch produced only about $12.4 billion. A gap this wide between segments is why we size the market ourselves in」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+  - 「The gap is huge. Ground equipment generated more than 13 times as much revenue as commercial launch. Even after launch revenue jumped 33% in one year, rockets still represented less than 3% of the wider space economy measured by SIA.」（https://newmarketpitch.com/blogs/news/space-economy-business-model）
+- 日本対応：
+  - 「Japanese Space Station Module (Mitsui)」（https://en.wikipedia.org/wiki/List_of_commercial_space_stations）
+  - 「One of the most enduring achievements of spaceflight has been the partnership for the International Space Station. For more than three decades, the United States has worked with Canada, Europe, Japan and Russia to build and operate the station, overcoming technical and policy challenges to create a space station that has been permanently occupied for over 20 years.」（https://spacenews.com/commercial-space-stations-go-international/）
+  - 「“It’s very difficult for Europe or Japan to send hundreds of millions of euros or tens of billions of yen to an American company every year for 30 years and employ a bunch of Americans in Houston,” Kuta said.」（https://spacenews.com/commercial-space-stations-go-international/）
+  - 「Asia Pacific & Japan」（https://www.tdsynnex.com/na/us/innovation/space-tech/）
+  - 「Japanese」（https://www.tdsynnex.com/na/us/innovation/space-tech/）
+  - 「Japan Chair」（https://www.csis.org/analysis/nasa-changes-course-commercial-space-stations）
+  - 「14. Japan Commercial Space Station Market」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA）
+  - 「14.1. Japan Commercial Space Station Market Overview」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA）
+  - 「14.2. Japan Commercial Space Station Market, Segmentation by Component, Segmentation by Orbit, Segmentation by Application, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA）
+  - 「Australia; Brazil; China; France; Germany; India; Indonesia; Japan; Taiwan; Russia; South Korea; UK; USA; Canada; Italy; Spain」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA）
+  - 「Asia-Pacific (China, Japan, Australia, South Korea, India, Rest of Asia-Pacific)」（https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0）
+  - 「Japan promotes public-private R&D initiatives.」（https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0）
+  - 「A Japan Aerospace Exploration Agency (JAXA) experimental facility on the space station ­­– the Japanese Experiment Module (JEM), or Kibo — expands use of the space station for commercial technical demonstrations.」（https://www.nasa.gov/missions/station/space-station-enables-launch-growth-of-space-businesses/）
+  - 「Starlab incorporated a European subsidiary in Germany in January 2025, and has leaned on many international partners to fuel its technological development, including Belgium-based Space Applications Services, Canada’s MDA Space, and Japan’s Mitsubishi Corporation.」（https://payloadspace.com/us-commercial-space-stations-expand-to-europe/）
+  - 「GITAI、「Japan-US Innovation Awards」受賞」（https://space-connect.jp/spacedata-ss/）
+- 検索結果の抜粋：
+  - 「Commercial Space Stations 2026: Vast, Axiom, Starlab — Commercial Space Stations 2026: Vast, Axiom, Starlab Orbital Radar https://orbitalradar.com > commercial」（https://orbitalradar.com/space-stations/commercial）
+  - 「Commercial Space Station Market Report 2026 — Commercial Space Station Market Report 2026 Research and Markets https://www.researchandmarkets.com > ...」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vL0OY-QS7-wed67eBoF7lE8aYHP8KhOEQiErcLpIXcnaVcAVRvA）
+  - 「Commercial Space Station Market Size & Industry Growth 2030 — Commercial Space Station Market Size & Industry Growth 2030 Future Data Stats https://www.futuredatastats.com > co...」（https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vJ-qj9JRPiKTOMHqfgwCL7LssdbgHYGNQu--5LS3TnZLajbFCy0）
+  - 「7 Private Companies Building Commercial Space Stations — 7 Private Companies Building Commercial Space Stations Nanalyze https://www.nanalyze.com > 2020/09」（https://www.nanalyze.com/2020/09/commercial-space-stations/）
+  - 「世界中の誰もが 宇宙ステーション を開発できる未来へ — 世界中の誰もが 宇宙ステーション を開発できる未来へ CGWORLD.jp https://cgworld.jp > flashnews > 2411-space-data-2」（https://cgworld.jp/flashnews/2411-space-data-2.html）
+  - 「ポストISSを担う4社の 宇宙ステーション ～未来の宇宙環境利用 ... — ポストISSを担う4社の 宇宙ステーション ～未来の宇宙環境利用 ... spacemedia.jp https://spacemedia.jp > spacebis」（https://spacemedia.jp/spacebis/1327）
+  - 「世界初の商業用 宇宙ステーション 企業が1億3000万ドル調達 ... — 世界初の商業用 宇宙ステーション 企業が1億3000万ドル調達 ... AMP[アンプ] https://ampmedia.jp > 2021/03/12 > space-station」（https://ampmedia.jp/2021/03/12/space-station/）
+  - 「商業 宇宙ステーション ：世界を変える10大技術 — 商業 宇宙ステーション ：世界を変える10大技術 MITテクノロジーレビュー https://www.technologyreview.jp > Articles」（https://www.technologyreview.jp/s/377635/commercial-space-stations-10-breakthrough-technologies-2026/）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## 次世代船舶（alternative fuel vessels）
+- 文脈：8 造船 ①次世代船舶
+- 提供企業：
+  - 「Chinese and South Korean Shipyards Dominate Banchero Costa’s Top 15 Newbuild Rankings」（https://www.imarinenews.com/36007.html）
+  - 「Asia Break Bulk Orders Four 12,600-DWT Octopus-Type Heavy-Lift Vessels」（https://www.imarinenews.com/36007.html）
+- 再販制度：
+  - 「The number of orders for alternative-fuel vessels varies across different ship types. In the first five months of this year, a total of 60 LNG-powered vessels were ordered, with container ships and car carriers ranking first and second, with 42 and 12 vessels, respectively.」（https://www.imarinenews.com/36007.html）
+  - 「船舶書類管理システム（DMS）を導入した船社では、書類準備時間が60％短縮し、出港が早まり、乗組員、港湾当局、船舶代理店の連携が改善したと報告されています」（https://www.massa-one.com/news/?p=416）
+  - 「また、海事産業では、造船所、海運会社、舶用機器メーカー、代理店など、多くのプレイヤーがそれぞれ異なった情報を持っています」（https://kepple.co.jp/articles/tixnwq1c3）
+  - 「海事産業には代理店業や外注業が多く存在し、小規模な事業者では高齢化によって事業継続が難しくなっているケースもあります」（https://kepple.co.jp/articles/tixnwq1c3）
+- 売上：
+  - 「WinGD Secures Three Long-Term Service Agreements Covering 14 Dual-Fuel LNG Carriers」（https://www.imarinenews.com/36007.html）
+  - 「The number of orders for alternative-fuel vessels varies across different ship types. In the first five months of this year, a total of 60 LNG-powered vessels were ordered, with container ships and car carriers ranking first and second, with 42 and 12 vessels, respectively.」（https://www.imarinenews.com/36007.html）
+  - 「This trend continued into May 2026. According to a DNV report, total orders for alternative-fuel vessels in May stood at 36, including 26 LPG/ethane carriers, 8 LNG-powered vessels, and 2 ethanol-powered bulk carriers. Notably, there were no orders for methanol-powered vessels, while ammonia- and hydrogen-powered vessels are still awaiting further technological and infrastructure developments.」（https://www.imarinenews.com/36007.html）
+  - 「たとえば、ある中堅造船所では、年商100億円規模の会社にもかかわらず、引き合い設計から基本設計までをほぼ1人で担っている68歳ほどのエンジニアがいます」（https://kepple.co.jp/articles/tixnwq1c3）
+- 日本対応：
+  - 「​日本郵船株式会社」（https://www.mlit.go.jp/maritime/maritime_tk7_000041.html）
+  - 「日本シップヤード株式会社」（https://www.mlit.go.jp/maritime/maritime_tk7_000041.html）
+  - 「日本郵船株式会社」（https://www.mlit.go.jp/maritime/maritime_tk7_000041.html）
+  - 「ル形成等を日本が主導しながら本プロジェクトを推進することが重要である」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/010_s02_00.pdf）
+  - 「○ 水素燃料船、アンモニア燃料船、LNG 燃料船で、それぞれ日本の競争上のポジション」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/010_s02_00.pdf）
+  - 「① 日本郵船株式会社コンソーシアム（アンモニア燃料船）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/010_s02_00.pdf）
+  - 「場動向等を踏まえつつ、燃料アンモニア関連技術全体での日本の優位性獲得にも貢」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/010_s02_00.pdf）
+  - 「⚫ 日本の国際競争力強化に向けて、造船業、舶用工業、海運業、商社の各企業がコンソーシアムを組んで」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+  - 「3社で2024年５月に新設JV会社設立（社名：日本クリーンアンモニアシッピング株式会社(NCAS)）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+  - 「・ 日本郵船株式会社（幹事）（※）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+  - 「・ 日本シップヤード株式会社」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+  - 「・ 日本クリーンアンモニアシッピング株式会社（幹事）注）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+  - 「・ 日本郵船株式会社 （※）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+  - 「⚫ 【アンモニア燃料船】 日本郵船は船舶ゼロエミ化への」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+  - 「・ 日本郵船株式会社（幹事）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+- 検索結果の抜粋：
+  - 「海事：グリーンイノベーション基金事業「 次世代船舶 の開発 ... — 海事：グリーンイノベーション基金事業「 次世代船舶 の開発 ... 国土交通省 https://www.mlit.go.jp > maritime > maritime_tk7_000041」（https://www.mlit.go.jp/maritime/maritime_tk7_000041.html）
+  - 「デジタル技術を用いた高性能 次世代船舶 開発技術及び 船舶の ... — デジタル技術を用いた高性能 次世代船舶 開発技術及び 船舶の ... 科学技術振興機構（JST） PDF https://www.jst.go.jp > leaflet > 04_leaflet_q」（https://www.jst.go.jp/k-program/pr_materials/leaflet/04_leaflet_q.pdf）
+  - 「グリーンイノベーション基金事業／ 次世代船舶 の開発 2025 ... — グリーンイノベーション基金事業／ 次世代船舶 の開発 2025 ... 経済産業省 PDF https://www.meti.go.jp > industrial_restructuring > pdf」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+- 自社名で出せる条件：記載なし（読んだ45頁・検索9回）
+- 黒字・収益性：記載なし（読んだ45頁・検索9回）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## 船舶修繕（ship repair）
+- 文脈：8 造船 ②船舶修繕
+- 提供企業：
+  - 「It assumes you are comparing several vendors and want a structured, defensible way to weigh them, rather than a product pitch.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Sub-assemblies are frequently released and procured before the top-level design is finalized.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「for your business model before scoring vendors — many capabilities shift in importance depending on whether you self-perform or subcontract construction, and whether you offer aftermarket service.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Different marine organizations should prioritize different capabilities. This table maps common profiles to their typical emphasis rather than to specific vendors.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「A candid vendor conversation here is valuable: ask each vendor to state plainly what is native, what is configurable, and what requires a third-party system. Vendors that are transparent about gaps (rather than claiming universal coverage) are generally lower-risk partners.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Organizations often value Dynamics 365 for its familiar user experience, flexibility, low-code extensibility, and integration capabilities. Industry-specific functionality is frequently delivered through independent software vendors (ISVs), industry accelerators, and implementation partners.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「(e.g., AVEVA Marine) is a leading ship design, engineering, and fabrication platform with strong 3D modeling and production planning. It is not an ERP: it lacks integrated financial control, procurement, and contract management, and is typically integrated with an ERP to form a digital thread from design to delivery.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Smaller regional vendors offer shipbuilding or ship repair ERP with strong local knowledge. Buyers weigh their industry specialization against considerations such as technology modernization, global support reach, and long-term vendor viability, particularly if planning international growth.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Which vendors are commonly evaluated for shipbuilding and ship repair ERP?」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Evaluate project manufacturing ERP objectively, compare vendors on the criteria that matter, and choose a platform that protects margin, delivery...」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Find providers」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「For providers」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Specialty service providers (specific engine types, etc.)」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Vessel operators select ship repair providers based on:」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Vessel technical superintendents often select repair providers」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+- 自社名で出せる条件：
+  - 「Embedded AI and automation.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「OEM認定部品と経験豊富な技術者によるメインエンジン、補助エンジン、機械の専門修理」（https://www.seawayshipservices.com/ja/ship-repair.php）
+- 再販制度：
+  - 「Variable — light touch to full engineering on conversions」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Margin erosion over long programs」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Unbilled extras, scope creep, tight per-job margins」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Bids using the same WBS/CBS codes as execution enable variance analysis」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Controls billing structure, retentions, and variations」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Given subcontracted scope often dominates cost, how strong is commercial control over valuations, retentions, and variations?」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Where does the platform reduce administrative burden (invoice matching, PO chasing, forecasting, variance analysis) — and is it genuinely useful or marketing?」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Formal EVM reporting (BCWP, ACWP, CPI, SPI, EAC, ETC) is often mandated on major defense programs. This is an area where ERP capabilities vary widely — some platforms support EVM fundamentals natively, others require specialist EVM tools or reporting layers.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Variance of estimate vs. actual cost at close」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Margin at completion」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Final gross margin vs. baseline」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「EVM support varies significantly between platforms. Some support EVM fundamentals (CPI, SPI, BCWP, ACWP, EAC, ETC) natively, while formal compliance reporting on major defense programs may require specialist EVM tools or reporting layers. If EVM is a hard requirement, make it an explicit, written evaluation criterion.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Track estimate accuracy, forecast accuracy (EAC vs. actual), margin at completion, CPI/SPI, on-time delivery to yard, labor productivity, time-to-invoice, DSO, period close time, and the percentage of data still reconciled manually. Define targets before selection so you can measure value after go-live.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Done well, the result is one version of the truth across engineering, procurement, production, and finance — more predictable delivery, protected margins, and the agility to expand into repair, refit, lifecycle service, or new markets on a single platform.」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+  - 「Evaluate project manufacturing ERP objectively, compare vendors on the criteria that matter, and choose a platform that protects margin, delivery...」（https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/）
+- 黒字・収益性：
+  - 「Income and Profitability」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Profit margin:」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Ship repair business profitability varies significantly by specialization and scale.」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Specialty Workshop Profitability」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Profit margins:」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Multi-Service Workshop Profitability」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Profitability:」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Time to Profitability」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Year 2: Break-even or modest profit」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Year 3-5: Solid profitability」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Most ship repair operations take 24-36 months to reach sustainable profitability — longer than some maritime services due to higher initial capital requirements and customer relationship development time.」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Q: How long does it take to become profitable?」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「A: Most ship repair operations reach sustainable profitability in 24-36 months. Initial period involves workshop setup, customer relationship development, and demonstrating capability. Major capital investment typically extends the payback period.」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Starting a ship repair business offers entrepreneurs an entry into a technically demanding but commercially rewarding segment of maritime services. The combination of consistent demand, multiple specialization opportunities, and substantial profit potential creates real opportunities for new entrants with technical capability, adequate capital, and operational discipline.」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+- 売上：
+  - 「JAPAN MALL活用で欧州の有力バイヤー向け売上5倍を実現した『だし』メーカーの海外戦略」（https://www.jetro.go.jp/case_study/2025/kg3.html）
+- 価格：
+  - 「Cost-plus pricing typically 10-25% markup」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「Operators search PortServiceFinder by port and service and contact providers directly, with no commission. Listing is free during our launch period. After the launch period, listings will cost $49.90/month or $499.90/year.」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+- 日本対応：
+  - 「Japanese」（https://www.seawayshipservices.com/ja/ship-repair.php）
+  - 「JAPAN MALLを活用して北米・欧州・中東市場を開拓」（https://www.jetro.go.jp/case_study/2025/kg3.html）
+  - 「JAPAN MALL活用で欧州の有力バイヤー向け売上5倍を実現した『だし』メーカーの海外戦略」（https://www.jetro.go.jp/case_study/2025/kg3.html）
+  - 「日本企業の海外展開を支援する全国のあらゆる支援機関が結集し、海外展開にご関心をお持ちの中堅・中小企業の皆様へワンストップの支援サービスを提供します」（https://www.jetro.go.jp/case_study/2025/kg3.html）
+  - 「日本食品海外プロモーションセンター（JFOODO）」（https://www.jetro.go.jp/case_study/2025/kg3.html）
+  - 「Copyright (C) 1995-2026 Japan External Trade Organization(JETRO). All rights reserved.」（https://www.jetro.go.jp/case_study/2025/kg3.html）
+  - 「独立行政法人日本貿易振興機構 （法人番号 2010405003693）」（https://www.jetro.go.jp/case_study/2025/kg3.html）
+  - 「日本においても緊急修理の対応が可能です」（https://www.komc.co.jp/solutions/）
+  - 「グループ会社である日本船舶表示株式会社の協力のもと、バラスト水浄化装置（BWMS）およびスクラバー（EGCS）のレトロフィット設計業務を行っています」（https://www.komc.co.jp/solutions/）
+  - 「日本船舶表示はこの分野で日本有数の実績があります」（https://www.komc.co.jp/solutions/）
+  - 「日本国内においても、必要な部品などのサプライが可能です」（https://www.komc.co.jp/solutions/）
+  - 「日本・中国だけでなく、世界各地でのインスペクションが可能です」（https://www.komc.co.jp/solutions/）
+  - 「Japanese」（https://www.seawayshipservices.com/ja/）
+  - 「日本語 (Japanese)」（https://os-ship.com/?page_id=43）
+- 検索結果の抜粋：
+  - 「How to Start a Ship Repair Business in 2026 | PortServiceFinder — How to Start a Ship Repair Business in 2026 | PortServiceFinder Port Service Finder https://www.portservicefinder.com > ...」（https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026）
+  - 「船舶 修理および改造市場調査レポート 2032 - WiseGuyReports — 船舶 修理および改造市場調査レポート 2032 - WiseGuyReports WiseGuyReports https://www.wiseguyreports.com > reports > ship-repairin...」（https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market）
+
+## LNG運搬船（LNG carrier）
+- 文脈：8 造船 ③LNG運搬船
+- 提供企業：
+  - 「The ESD system stops cargo liquid and vapour flow in an emergency and brings cargo handling to a safe static condition. The Code specifies shipboard requirements but does not address activation at shore installations, which is why linked systems and the ship-shore link matter operationally.」（https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide）
+  - 「Cargo flow stopped and systems brought to a safe static condition on demand」（https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide）
+  - 「Tank level gauging with redundancy, temperature, pressure, high-level alarms and cargo pump auto-stop」（https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide）
+  - 「Industry-leading control of work safety for offshore」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「Benchtop CQ1 Confocal System」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「Remote Desktop Services Vulnerability」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「Industry Segment Topics」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「Energy & Sustainability Business Topics」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「Materials Business Topics」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「Life Business Topics」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「[Graphic News] Korean fried chicken tops global ranking of fried dishes」（https://www.koreaherald.com/article/10839901）
+  - 「Many small-cap stocks have limited Wall Street coverage, giving savvy investors the chance to act before everyone else catches on. But the flip side is that these businesses have increased downside risk because they lack the scale and staying power of their larger competitors. These trade-offs can …」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Revenue base of $468.6 million puts it at a disadvantage compared to larger competitors exhibiting economies of scale」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Golar LNG's competitors include other FLNG operators such as Shell, which operates the Prelude FLNG offshore Australia, and Eni, along with traditional onshore LNG developers and modular LNG solution providers.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「range, placing it firmly in investment-grade territory. SNH is a Cameroonian state-owned enterprise backed by sovereign support, and Perenco is a large private independent E&P operator. Golar's revenue concentration is high: the top two contracts account for approximately」（https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat）
+- 自社名で出せる条件：
+  - 「SK Shipping will become Asia’s largest LNG carrier operator and rebrand as K-LNG through a trillion-won fleet reshuffle orchestrated by private equity owner Hahn & Co..」（https://www.koreaherald.com/article/10839901）
+  - 「Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.」（https://sea-lng.org/2023/10/eagle-lng-announces-delivery-of-first-lng-carrier-for-caribbean-basin-service/）
+  - 「Golar's competitive moat is durable but narrow. The long-term take-or-pay contracts on both Hilli and Gimi provide a cash flow floor that is difficult to erode, and the switching costs embedded in both agreements are effectively infinite during the contract term. However, the moat faces three key tests over time. First, when the Hilli contract expires (around」（https://koalagains.com/stocks/NASDAQ/GLNG/business-and-moat）
+- 再販制度：
+  - 「Channel Partner Program | Yokogawa Iberia S.A.」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「Channel Partner Program」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「A variant of Shamoon malware」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「Become a Yokogawa Channel Partner」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「Channel Partner List」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「This philosophy continues to live on in Yokogawa’s mission; we pursue a long-term shared vision with the Channel Partners towards our customers to add value to society by co-operation and co-innovation.」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「Would you like more information about the Yokogawa Channel Partner Program or to request a partnership directly?」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「H-Line’s operating profit rose from 127.3 billion won in 2015 to 369.4 billion won last year, with its operating margin reaching about 28 percent. Its earnings before interest, taxes, depreciation and amortization nearly quadrupled to 753.8 billion won over the period.」（https://www.koreaherald.com/article/10839901）
+  - 「The partnership between Eagle LNG and Anthony Veder will allow for flexibility in ownership, chartering, and operation of the various LNG assets as the LNG bunker market develops.」（https://sea-lng.org/2023/10/eagle-lng-announces-delivery-of-first-lng-carrier-for-caribbean-basin-service/）
+  - 「Generally, the choice of membrane type is dictated by the shipyard, but there are nowadays a variety of membrane solutions available including No.96 GW, No.96 LO3, No. 96 LO3+, Mark III Flex, Mark III Flex+, with different degrees of boil off gas (BOG) performance. New membrane types are emerging including the KC-1 and GTT is developing a new system which is a hybrid between No.96 and Mark III.」（https://www.lngindustry.com/liquid-natural-gas/27012021/innovation-in-the-lng-carrier-sector/）
+  - 「7. Gross Margin」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「8. Adjusted EBITDA Margin」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Day-to-day expenses have swelled compared to its revenue over the last five years as its EBITDA margin fell by 10.7 percentage points」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「$98.93 million vs analyst estimates of $86.08 million (71.9% margin, 14.9% beat)」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Operating Margin:」（https://stockstory.org/us/stocks/nasdaq/glng）
+- 黒字・収益性：
+  - 「H-Line’s operating profit rose from 127.3 billion won in 2015 to 369.4 billion won last year, with its operating margin reaching about 28 percent. Its earnings before interest, taxes, depreciation and amortization nearly quadrupled to 753.8 billion won over the period.」（https://www.koreaherald.com/article/10839901）
+  - 「SK Shipping’s operating profit increased from 73.3 billion won in 2018 to 504 billion won last year. Its EBITDA more than tripled from 231.7 billion won to 781.1 billion won.」（https://www.koreaherald.com/article/10839901）
+  - 「of Golar LNG. Its weak sales growth and low returns on capital show it struggled to generate demand and profits.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「8. Adjusted EBITDA Margin」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Day-to-day expenses have swelled compared to its revenue over the last five years as its EBITDA margin fell by 10.7 percentage points」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「in Q1 CY2026, with sales up 120% year on year to $137.6 million. Its GAAP profit of $0.82 per share was significantly above analysts’ consensus estimates.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Adjusted EBITDA:」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Golar LNG, which averaged 63.6% gross margin over the last five years, exhibits good unit economics in the sector. It means the company will remain profitable at lower commodity prices than peers with inferior gross margins and serves as an encouraging starting point for ultimate operating profits and free cash flow generation.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「In Q1, Golar LNG produced a 69.9% gross profit margin, up 20.8 percentage points year on year.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Golar LNG has been a well-oiled machine over the last five years. It demonstrated elite profitability for an upstream and integrated energy business, boasting an average EBITDA margin of 77.6%.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Analyzing the trend in its profitability, Golar LNG’s EBITDA margin rose by 6.9 percentage points over the last year, as its sales growth gave it operating leverage.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「In Q1, Golar LNG generated an EBITDA margin profit margin of 71.9%, up 17.7 percentage points year on year. This increase was a welcome development and shows it was more efficient. This adjusted EBITDA beat Wall Street’s estimates by 14.9%.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Free cash flow shows how much money a producer generated, while ROIC shows how efficiently that money was earned. ROIC measures the operating profit produced for each dollar of capital invested, whether from debt or equity. Cash generation measures quantity while ROIC measures the quality of value creation.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Unfortunately, Golar LNG’s ROIC has decreased significantly over the last few years. Paired with its already low returns, these declines suggest its profitable growth opportunities are few and far between.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Reported Net Income of $50.1 million for the second quarter」（https://excelerateenergy.com/news/excelerate-energy-reports-strong-second-quarter-2026-results/）
+- 売上：
+  - 「The IGC Code's safety record rests on defence in depth rather than on any single system, and that architecture is the reason the maintenance burden is what it is. No LNG carrier has suffered a major cargo release at sea since the Code entered force in 1986 — a record produced by layers that each require their own inspection regime, their own test records and their own calibration evidence.」（https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide）
+  - 「Required where cargo is carried at temperatures below minus fifty-five degrees, under IGC 13.5.2 and 13.5.4. The relationship between tank type, cargo temperature and secondary barrier requirement is determinative rather than discretionary, and it is one of the first things a foreign gas carrier examiner establishes.」（https://marineinspection.app/article/lng-carrier-maintenance-software-igc-code-compliance-guide）
+  - 「The company will acquire 16 liquefied natural gas carriers from sister company H-Line Shipping in exchange for 12 oil tankers and approximately $300 million in cash, Hahn & Co. said Thursday.」（https://www.koreaherald.com/article/10839901）
+  - 「The deal will give SK Shipping a fleet of 32 LNG carriers, placing it among the world’s three largest LNG shipping companies, according to Hahn & Co. Combined with its 14 liquefied petroleum gas carriers, the expanded fleet will sharpen its focus on gas and cleaner-energy transportation.」（https://www.koreaherald.com/article/10839901）
+  - 「The 12 tankers being transferred to H-Line are tied to long-term transportation contracts with Korean and overseas customers, providing the company with a stable source of revenue. The additions will also strengthen its role in transporting crude oil and other key commodities for Korean companies.」（https://www.koreaherald.com/article/10839901）
+  - 「The government aims to keep the share of key energy resources carried by Korean-flagged vessels at 70 percent or higher, seeking to reduce reliance on foreign carriers during supply disruptions and geopolitical crises.」（https://www.koreaherald.com/article/10839901）
+  - 「Hahn & Co. established H-Line in 2014 by acquiring Hanjin Shipping’s dedicated bulk shipping business. It added the bulk carrier operations of Hyundai Merchant Marine, now HMM, in 2016 and acquired management control of SK Shipping in 2018.」（https://www.koreaherald.com/article/10839901）
+  - 「An owner ordering a vessel 15 years ago would have had very little choice in what they could specify. LNG carriers were almost all large ships of around 140 - 145 m」（https://www.lngindustry.com/liquid-natural-gas/27012021/innovation-in-the-lng-carrier-sector/）
+  - 「It is not uncommon for new designs to take time to gain commercial acceptance. ABS granted AIP in 2013 to Lattice Technology for its Lattice Pressure Vessel (LPV) tank, which features a flexible, space-saving shape for carrying fuel or cargo.」（https://www.lngindustry.com/liquid-natural-gas/27012021/innovation-in-the-lng-carrier-sector/）
+  - 「Of course, the LNG carrier market is not immune to industry-wide drivers and the key one will be the efforts to comply with the IMO’s 2030 and 2050 carbon emission reduction objectives. The need for greater energy efficiency and lower fuel consumption has prompted interest from owners in technologies including air lubrication of the hull and auxiliary wind assistance.」（https://www.lngindustry.com/liquid-natural-gas/27012021/innovation-in-the-lng-carrier-sector/）
+  - 「5. Revenue Scale」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「6. Revenue Growth」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Revenue base of $468.6 million puts it at a disadvantage compared to larger competitors exhibiting economies of scale」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Day-to-day expenses have swelled compared to its revenue over the last five years as its EBITDA margin fell by 10.7 percentage points」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「Golar entered a 10% investment in the pipeline carrying Vaca Muerta gas to the Gulf of San Matias. Management said it will serve both Hilli and Mark II for year-round operations, linking the infrastructure to Argentine production continuity.」（https://stockstory.org/us/stocks/nasdaq/glng）
+- 価格：
+  - 「Securing Energy for Europe agreed to buy 2 million tonnes of Argentine LNG production from SESA. The volume is split evenly between Brent-linked and Henry Hub-linked pricing, establishing a defined offtake channel with mixed commodity exposure.」（https://stockstory.org/us/stocks/nasdaq/glng）
+  - 「An estimated 251 vessels were scheduled for delivery during 2025-2027, compared with lower near-term project requirements. Owners must secure project employment, delay deliveries or accept lower short-term charter pricing.」（https://www.kenresearch.com/global-lng-carriers-market）
+- 日本対応：
+  - 「Sanpo-yoshi is a 250-years old Japanese philosophy that focuses on a win-win-win relationship.」（https://www.yokogawa.com/es/support/channel-partner-program/）
+  - 「From Samsung to Toss: Why Korean finance is betting on Japan」（https://www.koreaherald.com/article/10839901）
+  - 「United States, South Korea, China, Japan, Qatar」（https://www.researchnester.com/reports/lng-carrier-market/3825）
+  - 「(Japan, China, India, Indonesia, Malaysia, Australia, South Korea, Rest of Asia Pacific)」（https://www.researchnester.com/reports/lng-carrier-market/3825）
+  - 「Japan Sustainable Marine Fuel」（https://www.researchnester.com/reports/lng-carrier-market/3825）
+  - 「Japan (+81)」（https://www.researchnester.com/reports/lng-carrier-market/3825）
+  - 「Japan Office」（https://www.researchnester.com/reports/lng-carrier-market/3825）
+  - 「from keel laying to delivery, creating natural barriers to entry and reinforcing the dominance of established Korean, Japanese, and Chinese shipyards. Vessel operating costs including crew, fuel, maintenance, and insurance range from」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「, reflecting advanced propulsion technology, enhanced insulation systems, and integrated ballast water treatment requirements. Major shipbuilding nations including South Korea, Japan, and China have invested over」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「from regional shipping operators and energy majors. Asian nations are diversifying away from Russian pipeline supplies, with LNG import capacity additions planned across Japan, South Korea, China, India, and Southeast Asia, requiring sustained carrier deployment across multiple trade routes. Energy security mandates have increased vessel utilization rates to historical highs of」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「maintaining dominant market positions. Japanese shipbuilders including」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「of global LNG carrier newbuild orders, with Samsung Heavy Industries, Hyundai Heavy Industries, and Daewoo Shipbuilding maintaining commanding market positions through advanced technology, proven reliability, and integrated supply chains. Japanese yards including Mitsubishi Heavy Industries and Kawasaki Heavy Industries hold」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「Mitsubishi Heavy Industries represents the largest Japanese competitor with」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「13.2.2 Japan」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「Asia Pacific is expected to generate $8.48 billion by 2037, driven by massive LNG import demand from China, Japan, and South Korea. This region's energy security concerns and environmental commitments create sustained demand growth.」（https://www.shipfinex.com/blog/lng-carriers-investment-guide-2025）
+- 検索結果の抜粋：
+  - 「SK Shipping to become Asia's largest LNG carrier under K ... — SK Shipping to become Asia's largest LNG carrier under K ... gasworld https://www.gasworld.com > story > 2...」（https://www.gasworld.com/story/sk-shipping-to-become-asias-largest-lng-carrier-under-k-lng-rebrand/2257111.article/）
+  - 「LNG Carrier Market Size & Share, Growth Analysis 2035 — LNG Carrier Market Size & Share, Growth Analysis 2035 Research Nester https://www.researchnester.com > lng...」（https://www.researchnester.com/reports/lng-carrier-market/3825）
+  - 「LNG Carriers Market Size, Share & Forecast Report 2025 to ... — LNG Carriers Market Size, Share & Forecast Report 2025 to ... Dataintelo https://dataintelo.com > report > glob...」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「Global LNG Carriers Market Size, Share & Forecast 2026-2031 — Global LNG Carriers Market Size, Share & Forecast 2026-2031 Ken Research https://www.kenresearch.com > globa...」（https://www.kenresearch.com/global-lng-carriers-market）
+  - 「14-year LNG carrier deal lifts CoolCo's total revenue backlog ... — 14-year LNG carrier deal lifts CoolCo's total revenue backlog ... Offshore Energy https://www.offshore-energy.biz > 14...」（https://www.offshore-energy.biz/14-year-lng-carrier-deal-lifts-coolcos-total-revenue-backlog-to-nearly-1-9-billion）
+  - 「03_ エネルギー 輸送_ LNG船 |いろいろな船 — 03_ エネルギー 輸送_ LNG船 |いろいろな船 商船三井 https://www.mol.co.jp > various-vessels > lng_carrier」（https://www.mol.co.jp/various-vessels/lng_carrier/）
+  - 「LNG運搬船 市場―2026年～2032年の世界市場予測 — LNG運搬船 市場―2026年～2032年の世界市場予測 アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
+  - 「03_エネルギー輸送_ LNG船 |いろいろな船 — 03_エネルギー輸送_ LNG船 |いろいろな船 商船三井 https://www.mol.co.jp > various-vessels > lng_carrier」（https://www.mol.co.jp/various-vessels/lng_carrier/）
+
+## 永久磁石（permanent magnet）
+- 文脈：9 マテリアル ①永久磁石
+- 提供企業：
+  - 「Top Deliveries」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Today's Top Gainers」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Today's Top Losers」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Service Providers」（https://pitchbook.com/profiles/company/165252-97）
+  - 「Desktop」（https://pitchbook.com/profiles/company/165252-97）
+  - 「Competitors」（https://pitchbook.com/profiles/company/165252-97）
+  - 「Service Providers Data」（https://pitchbook.com/profiles/company/165252-97）
+  - 「These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.」（https://pitchbook.com/profiles/company/165252-97）
+  - 「Moreover, the continuous evolution of consumer electronics and medical technology sustains high demand. In electronics, the trend toward miniaturization requires smaller, more powerful magnets for devices like smartphones, laptops, and high-fidelity audio equipment. Simultaneously, the medical sector uses these magnets in critical diagnostic tools, such as」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「Some of the key players operating in the market include Eclipse Magnetics Ltd., Electron Energy Corp. (EEC), and others」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「Who are the key players in the permanent magnets market?」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「Key players include Adams Magnetic Products Co.; Earth-Panda Advance Magnetic Material Co., Ltd.; Arnold Magnetic Technologies; Daido Steel Co., Ltd.; Eclipse Magnetics Ltd.; Electron Energy Corp.; Goudsmit Magnetics Group; Hangzhou Permanent Magnet Group; Magnequench International, LLC; Ningbo Yunsheng Co., Ltd.」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「Providers are combining recycling services with recycled alloy, oxide or finished-magnet supply agreements, creating tighter integration between waste management and strategic-material procurement.」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「Commercial investment is rising in North America and Europe as governments and manufacturers seek alternatives to concentrated rare-earth supply. New facilities combine local separation, centralized chemical recovery, alloy production and magnet manufacturing. Funding is also directed toward automation, hydrogen processing, selective leaching and lower-impact separation.」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「Cyclic Materials, Noveon Magnetics, HyProMag and leading integrated rare-earth processors are positioned as stars because they combine differentiated technology, commercial capacity, feedstock partnerships and clear routes to qualified output. Their growth depends on executing planned facilities and converting announcements into reliable throughput.」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+- 自社名で出せる条件：
+  - 「Private Label」（https://magswitch.com/?srsltid=AYCX9vKJewDtCdMW5-zJ_TCByp6h1yKrnO_9kEcZjsitX3TFELJMnlav）
+  - 「Closed-loop contracts increasingly specify where the recovered material will return, how recycled content will be verified and which environmental attributes can be claimed by the OEM.」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「Magnet-to-magnet and alloy-to-alloy routes are attracting investment because they can retain more embedded value than mixed-metal recovery when feedstock purity is sufficient.」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「OEMs are under pressure to secure magnets with known origin, lower carbon intensity and reduced exposure to single-country supply. Procurement teams increasingly examine recycled content, chain of custody, delivery continuity and qualification evidence alongside unit price.」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「Recovered alloy and powder support short-loop remanufacturing and can retain more embedded value than mixed oxide. Customers require tight control of oxygen, carbon, particle size and alloy composition. Providers that can deliver repeatable powder and support magnet qualification can earn higher margins, while mixed rare-earth oxide remains an important outlet for heterogeneous feedstock.」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「HyProMag commercializes hydrogen processing of magnet scrap, which extracts and demagnetizes NdFeB alloy powder from magnets embedded in products. Activities are being developed in the UK, Germany and the U.S. The short-loop model targets hard drives, speakers, motors and other assemblies and can feed new magnet production.」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「Low recovery rates for magnets embedded in complex products.」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「OEM procurement, sustainability and engineering teams」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「OEMs, owners, repowering and decommissioning teams」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「As part of the consortium, VAC will manufacture high-performance permanent magnets at its German facilities, based on the specifications of major automotive OEMs including Ford, Bentley, and」（https://vacuumschmelze.com/search）
+  - 「OEMもご相談ください」（https://www.magna-tokyo.com/outtech）
+  - 「OEMもご相談ください！」（https://www.magna-tokyo.com/outtech）
+  - 「OEM永久磁石：産業現場における重量物運搬に革命を起こすメーカー、サプライヤー｜Dr. Solenoid」（https://www.drsolenoid.com/ja/as-3425-power-on-to-release-electromagnet-300n-holding-force-permanent-electro-magnet/）
+  - 「OEM / ODM サービス」（https://www.aimmagnetic.com/ja/）
+  - 「当社は、創造性と専門知識を融合してパーソナライズされたデザインとプロフェッショナルな製造を実現する、専門的な ODM および OEM サービスを提供しています」（https://www.aimmagnetic.com/ja/）
+- 再販制度：
+  - 「Variable Flux Output (VFO)」（https://magswitch.com/?srsltid=AYCX9vKJewDtCdMW5-zJ_TCByp6h1yKrnO_9kEcZjsitX3TFELJMnlav）
+  - 「EBITDA margin expanded 1,048 bps to 25% due to better product mix」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Management guides FY27 revenue growth of 20-30% and EBITDA margins of 20-25%」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「The company’s EBITDA margin expanded significantly by」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「in Q2FY27, compared to 14.1% in the corresponding period last year. Sharad Taparia, Managing Director, attributed the margin improvement to a better product mix driven by higher EV demand and positive operating leverage from increased business throughput. The strong performance reflects the company's strategic focus on high-value segments amidst evolving automotive trends.」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「EBITDA Margin」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「for the full year, with margins expected to improve towards breakeven or slightly higher levels.」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「EBITDA Margins:」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Full-year EBITDA margins are guided to remain in the range of」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「What are the specific risks to the projected 20-25% EBITDA margin range if raw material costs for permanent magnets rise due to global supply chain volatility?」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Varun Beverages」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/165252-97）
+  - 「Largest regional market: Asia Pacific (75.6% revenue share, 2025)」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「Unlike electromagnets, which lose their magnetism when the electricity is switched off, permanent magnets retain their magnetic properties for a long duration, making them indispensable in various industrial applications.」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「The NdFeB segment led the market with the largest revenue share of 71.2% in 2025.」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+- 黒字・収益性：
+  - 「Permanent Magnets Q2FY27: Net profit up 156%; mgmt sees 20-30% FY27 growth」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Net profit rose 156% YoY to」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「EBITDA margin expanded 1,048 bps to 25% due to better product mix」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Management guides FY27 revenue growth of 20-30% and EBITDA margins of 20-25%」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「in standalone net profit to」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「The company’s EBITDA margin expanded significantly by」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「EBITDA (Excluding OI)」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「EBITDA Margin」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Profit Before Taxes」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Net Profit」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「for the full year, with margins expected to improve towards breakeven or slightly higher levels.」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「EBITDA Margins:」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Full-year EBITDA margins are guided to remain in the range of」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「) and EBITDA growth (」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「What are the specific risks to the projected 20-25% EBITDA margin range if raw material costs for permanent magnets rise due to global supply chain volatility?」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+- 売上：
+  - 「Revenue grew 49% YoY to」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Management guides FY27 revenue growth of 20-30% and EBITDA margins of 20-25%」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「for the quarter ended September 30, 2026. Revenue from operations rose」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「In the Alloys division, H1FY27 revenue stood at approximately」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「. Due to teething issues with the new furnace, full capacity utilization was constrained. These issues have since been resolved, and the company expects improved utilization of this new capacity in the second half of FY27. The total turnover for the alloys division is projected at」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Additionally, the company has entered the water meter segment with pilot supplies of 2,000-3,000 parts. This single product has a potential revenue contribution of」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「How will the delayed commercialization of the Relays business impact the company's FY28 revenue guidance and capital allocation strategy?」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「Permanent Magnets revenue rises 19% as Alloys division gains traction in Q1FY27」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「As of 30-Sep-2026, Permanent Magnets has a trailing 12-month revenue of $28M.」（https://pitchbook.com/profiles/company/165252-97）
+  - 「The trailing twelve month revenue for Permanent Magnets is $28M.」（https://pitchbook.com/profiles/company/165252-97）
+  - 「Largest regional market: Asia Pacific (75.6% revenue share, 2025)」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「The NdFeB segment led the market with the largest revenue share of 71.2% in 2025.」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「The consumer goods segment led the market with the largest revenue share of 26.1% in 2025. The consumer goods segment is being propelled by rapid expansion in portable electronics and audio devices that require stronger, smaller magnets to deliver higher performance in ever smaller packages. Devices such as」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「Revenue in USD million/billion, volume in kilotons, and CAGR from 2026 to 2033」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「This report forecasts revenue and volume growth at global; regional; and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2021 to 2033. For this study, Grand View Research has segmented the global permanent magnets market report based on the application, material, and region.」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+- 日本対応：
+  - 「U.S.; Canada; Mexico; Germany; UK; France; China; India; Japan; Brazil」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「North America, Europe, Japan」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「Japan Permanent Magnet Recycling Services Market Opportunity」（https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market）
+  - 「Japanese」（https://vacuumschmelze.com/search）
+  - 「MG-901フライヤーについては日本語版に加え、英語版もご用意しています」（https://www.magna-tokyo.com/outtech）
+  - 「Tokyo, Japan. All Rights Reserved.」（https://www.magna-tokyo.com/outtech）
+  - 「Japanese」（https://www.drsolenoid.com/ja/as-3425-power-on-to-release-electromagnet-300n-holding-force-permanent-electro-magnet/）
+  - 「万が一、お客様の所へ不良が流出した場合でも、日本に緊急対応する体制が有りますので、迅速に対応致します」（https://www.magprost.jp/）
+  - 「近年の日本企業の海外進出に伴い、当社も1995年に香港営業所を設立しました」（https://www.jishaku.co.jp/）
+  - 「また、中国の各提携工場に国内の生産設備を移管するとともに、日本の生産技術・品質管理手法等を導入して、当社の製品を生産委託するなど、積極的な事業展開を図ってまいりました」（https://www.jishaku.co.jp/）
+- 検索結果の抜粋：
+  - 「Permanent Magnets Ltd (BOM:504132) (Q2 2027) Earnings ... — Permanent Magnets Ltd (BOM:504132) (Q2 2027) Earnings ... GuruFocus https://www.gurufocus.com > news」（https://www.gurufocus.com/news/9143622/permanent-magnets-ltd-bom504132-q2-2027-earnings-call-highlights-ev-demand-fuels-49-revenue-surge-and-25-ebitda-margin）
+  - 「Permanent Magnets Q2FY27: Net profit up 156% - ScanX — Permanent Magnets Q2FY27: Net profit up 156% - ScanX scanx.trade https://scanx.trade > companies > per...」（https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552）
+  - 「#PERMAGN Permanent Magnets Ltd | +55.6% QoQ) EB — #PERMAGN Permanent Magnets Ltd | +55.6% QoQ) EB Instagram https://www.instagram.com > ...」（https://www.instagram.com/p/De3lSzBmIAa/）
+  - 「Permanent Magnets 2026 Company Profile - PitchBook — Permanent Magnets 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/165252-97）
+  - 「Permanent Magnets Market Size & Share Report, 2026-2033 — Permanent Magnets Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry）
+  - 「Permanent Magnet Market Size, Share, Trends & Growth 2034 — Permanent Magnet Market Size, Share, Trends & Growth 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/permanent-magnet-market-102776）
+- 価格：記載なし（読んだ45頁・検索9回）
+
+## グリーンスチール（green steel）
+- 文脈：9 マテリアル ②グリーン鉄
+- 提供企業：
+  - 「Your one-stop hub to get help, give help, and spark new ideas.」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「Stop leaving certified carbon data on the shop floor」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「Key Players Analysis」（https://market.us/report/green-steel-market/）
+  - 「Leading Region」（https://market.us/report/green-steel-market/）
+  - 「accounted for a leading」（https://market.us/report/green-steel-market/）
+  - 「Other Key Players」（https://market.us/report/green-steel-market/）
+  - 「ArcelorMittal, Nucor Corporation, Nippon Steel Corporation, POSCO, JFE Steel Corporation, JSW Steel, H2 Green Steel, Liberty Steel Group, HBIS Group, Boston Metal, Emirates Steel Arkan, Tenaris, Tata Steel, Salzgitter AG, Thyssenkrupp Steel, Other Key Players」（https://market.us/report/green-steel-market/）
+  - 「Green Steel Industry Report 2025-2029 with Profiles of Leading Players - F. Hoffmann-La Roche., Novartis, UCB, and Otsuka」（https://finance.yahoo.com/news/green-steel-industry-report-2025-094400697.html）
+  - 「Overview of sustainability trends and ESG developments, with emphasis on consumer attitudes, and the ESG scores and practices of leading companies」（https://finance.yahoo.com/news/green-steel-industry-report-2025-094400697.html）
+  - 「Key Topics Covered:」（https://finance.yahoo.com/news/green-steel-industry-report-2025-094400697.html）
+  - 「ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets, key industries, the top companies, new products and the latest trends.」（https://finance.yahoo.com/news/green-steel-industry-report-2025-094400697.html）
+  - 「Trending Topics」（https://finance.yahoo.com/news/green-steel-industry-report-2025-094400697.html）
+  - 「Homepage Top Ad」（https://trellis.net/article/3-innovations-green-steel/）
+  - 「Topics」（https://trellis.net/article/3-innovations-green-steel/）
+  - 「Topics」（https://qz.com/boston-metal-green-steel-world-changing-ideas-1851507157）
+- 自社名で出せる条件：
+  - 「OEM Telematics」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「Certification bodies, CBAM auditors, and OEM procurement teams now ask for heat-level carbon data, not sustainability slogans. OxMaint gives steel plants the asset, inspection, and compliance records needed to substantiate green steel claims — and get paid for them.」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「Per-tonne premium, US OEM offtakes」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「The green steel premium has moved from concept to contract. Automotive OEMs, construction developers, and appliance makers are now signing multi-year offtake agreements tied to verified carbon intensity, not marketing claims.」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「The EU's Carbon Border Adjustment Mechanism now prices embedded carbon on imported steel, turning the premium from voluntary to compulsory for exporters.」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「The embedded-emissions traceability chain, step by step」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「Embedded carbon in steel imported into the EU, priced against EU ETS carbon costs」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「United States — OEM Offtakes」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「It is the additional price buyers pay for steel with verified lower embedded carbon compared to conventional blast-furnace production. Premiums currently range from roughly €100–180 per tonne in Europe to $30–80 per tonne on US OEM contracts, depending on certification and product form.」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「How is embedded carbon in steel actually calculated?」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「Embedded carbon combines Scope 1 direct emissions from the process, Scope 2 emissions from purchased energy, and Scope 3 emissions from upstream materials like scrap and DRI, measured per tonne of finished product.」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「Green steel addresses this emissions liability directly by offering steel that meets the same strength and size standards as traditional steel, allowing automotive OEMs, construction contractors, and heavy machinery producers to fulfill their Scope 3 emission reduction goals that are now part of their supplier agreements and investor reports」（https://market.us/report/green-steel-market/）
+  - 「Automotive OEM Scope 3 Mandates & Green Steel Offtake Agreements」（https://market.us/report/green-steel-market/）
+  - 「of a vehicle’s Scope 3 embedded emissions depending on model architecture, making it the single largest decarbonizable material input for automakers competing under SBTi-aligned net-zero commitments. The automotive sector accounts for approximately」（https://market.us/report/green-steel-market/）
+  - 「The commercial math for OEMs is increasingly supportive: transitioning to green steel adds an estimated」（https://market.us/report/green-steel-market/）
+- 再販制度：
+  - 「Pricing varies widely by region, certification method, and carbon-intensity tier, so unverifiable claims get discounted or rejected outright.」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「Premiums vary sharply by region, product form, and buyer motivation. Understanding where your product and market sit helps set realistic pricing conversations with commercial teams.」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+  - 「in unbudgeted balance-of-plant costs; and first-cycle operational yield variability where initial product quality deviations of」（https://market.us/report/green-steel-market/）
+  - 「Green Steel Industry Report 2025-2029 with Profiles of Leading Players - F. Hoffmann-La Roche., Novartis, UCB, and Otsuka」（https://finance.yahoo.com/news/green-steel-industry-report-2025-094400697.html）
+  - 「This is a paid press release. Contact the press release distributor directly with any inquiries.」（https://finance.yahoo.com/news/green-steel-industry-report-2025-094400697.html）
+  - 「Company profiles of major players within the industry, including F. Hoffmann-La Roche Ltd., Novartis AG, UCB S.A, and Otsuka Holdings Co. Ltd.」（https://finance.yahoo.com/news/green-steel-industry-report-2025-094400697.html）
+  - 「A partnership between Netherlands-based EIT InnoEnergy, a sustainable innovations accelerator funded by the European Union, investor Vargas Holdings and」（https://trellis.net/article/3-innovations-green-steel/）
+  - 「Jan-23 西 Gonvarri Industries ○ サービスセンター 記載無し」（https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/002_07_00.pdf）
+- 黒字・収益性：
+  - 「. “We identified fairly early on a handful of elements that work well with the technology where we’d also have the opportunity to do smaller, earlier projects that are higher-profit generating.”」（https://www.latitudemedia.com/news/despite-trump-cuts-green-steel-startup-boston-metal-raised-another-51-million/）
+  - 「“The supply of critical minerals, and what you can onshore and the more efficiently you can be with that ability to recover when you take those legacy wastes and convert them, can be quite profitable,” he said. “We’re bringing that technology to market.”」（https://www.latitudemedia.com/news/despite-trump-cuts-green-steel-startup-boston-metal-raised-another-51-million/）
+- 売上：
+  - 「Revenue, 2025 (US$B)」（https://market.us/report/green-steel-market/）
+  - 「Forecast Revenue (2035)」（https://market.us/report/green-steel-market/）
+  - 「Analyses of the global market trends for neurology therapeutics, with market revenue data (sales figures) for 2022, estimates for 2023, forecasts for 2024, and projected CAGRs through 2029」（https://finance.yahoo.com/news/green-steel-industry-report-2025-094400697.html）
+  - 「While a Boston Metal demonstration facility for green steel would likely arrive in the U.S. sometime around 2028, Rauwerdink said there’s no guarantee the country will be home to its first commercial-scale plant. The company is looking to regions with steady, clean power grids that “are established or growing very rapidly.”」（https://www.latitudemedia.com/news/despite-trump-cuts-green-steel-startup-boston-metal-raised-another-51-million/）
+  - 「Fox posted first-quarter record revenue as World Cup and political ads fueled a 22% jump」（https://qz.com/boston-metal-green-steel-world-changing-ideas-1851507157）
+  - 「Hydrogen Carriers” 2022 年について、船舶輸送の３手法を財団和訳」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「Hydrogen Carriers” （2022 年 4 月）」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「Jan-23 西 Gonvarri Industries ○ サービスセンター 記載無し」（https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/002_07_00.pdf）
+  - 「資料配布中 | 中小企業向け事例集 _ CO2算定を「売上」と「評価」に変える」（https://asuene.com/media/1550/）
+- 価格：
+  - 「Roughly 20–30% above conventional HRC pricing, with CBAM tightening the gap between voluntary and mandatory carbon costs on imports.」（https://oxmaint.com/industries/steel-plant/steel-green-steel-premium-software-product-marketing-guide）
+- 日本対応：
+  - 「EU automotive corridor; North America OEM spillover; Japan & South Korea」（https://market.us/report/green-steel-market/）
+  - 「MENA & Australia (supply); EU, Japan, South Korea (demand); India pivot market」（https://market.us/report/green-steel-market/）
+  - 「India (largest untapped), EU, Japan, South Korea」（https://market.us/report/green-steel-market/）
+  - 「EU & India primary; APAC scrap corridor (Japan, South Korea, Turkey)」（https://market.us/report/green-steel-market/）
+  - 「– China, Japan, South Korea, India, ASEAN & Rest of APAC;」（https://market.us/report/green-steel-market/）
+  - 「自然エネルギー財団は、東日本大震災および福島第一原子力発電所の事故を受けて、孫 正義（ソ」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「はじめに：日本のカーボンニュートラルの鍵を握る鉄鋼業の脱炭素化 ................................ . 6」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「第１章 日本の鉄鋼業の現状と脱炭素化の主要な技術 ................................ ............... 8」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「1-1 日本の鉄鋼業の現状 .............................................................................. 8」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「第２章 日本の鉄鋼業が脱炭素化を急がなければいけない理由 ................................ ... 14」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「第３章 日本における製鉄脱炭素化に向けた課題 ................................ .................... 21」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「3-1 日本の脱炭素製鉄への計画 .................................................................... 21」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「3-2 日本における高炉-転炉法＋CCS 法の課題 .................................................. 23」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「3-3 日本における水素直接還元製鉄の課題 ....................................................... 28」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「日本の水素の供給は、グリーン製鉄の実現に寄与できるか ........................................ 29」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+- 検索結果の抜粋：
+  - 「Green Steel Market Size, Share | CAGR of 24.0% — Green Steel Market Size, Share | CAGR of 24.0% Market.us https://market.us > green-steel-market」（https://market.us/report/green-steel-market/）
+  - 「Green Steel Market Size, Share, Growth | Forecast Report, 2034 — Green Steel Market Size, Share, Growth | Forecast Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/green-steel-market-108711）
+  - 「Green Steel Industry Report 2025-2029 with Profiles of ... — Green Steel Industry Report 2025-2029 with Profiles of ... Yahoo Finance https://finance.yahoo.com > news > g...」（https://finance.yahoo.com/news/green-steel-industry-report-2025-094400697.html）
+  - 「Revisiting Investment Costs for Green Steel - DIW Berlin — Revisiting Investment Costs for Green Steel - DIW Berlin DIW Berlin PDF https://www.diw.de > diw_01.c.901039.de」（https://www.diw.de/documents/publikationen/73/diw_01.c.901039.de/dp2082.pdf）
+  - 「Swedish Green Steel Startup Stegra Gets $1.65 Billion ... - WSJ — Swedish Green Steel Startup Stegra Gets $1.65 Billion ... - WSJ WSJ https://www.wsj.com > pro > swedish-...」（https://www.wsj.com/pro/sustainable-business/swedish-green-steel-startup-stegra-gets-1-65-billion-funding-to-complete-new-plant-0c4fe111?eafs_enabled=false）
+  - 「3 innovations in green steel | Trellis — 3 innovations in green steel | Trellis Trellis Group https://trellis.net > article > 3-innovati...」（https://trellis.net/article/3-innovations-green-steel/）
+  - 「A ' green steel ' startup has raised more than $300 million to ... — A ' green steel ' startup has raised more than $300 million to ... qz.com https://qz.com > boston-metal-green-s...」（https://qz.com/boston-metal-green-steel-world-changing-ideas-1851507157）
+  - 「日本における グリーンスチール への道 - 自然エネルギー財団 — 日本における グリーンスチール への道 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > REI_greensteel2022」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「グリーンスチール とは？普及への課題や日本・世界の取り組み ... — グリーンスチール とは？普及への課題や日本・世界の取り組み ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_102」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
+
+## 耐熱合金（superalloy）
+- 文脈：9 マテリアル ③革新的金属部素材
+- 提供企業：
+  - 「Key Players Analysis」（https://market.us/report/global-superalloys-market/）
+  - 「emerged as the leading region in the global superalloys market, commanding a substantial」（https://market.us/report/global-superalloys-market/）
+  - 「Top Key Players in the Market」（https://market.us/report/global-superalloys-market/）
+  - 「Top 50 Companies in Superalloys Market Report 2025」（https://www.sphericalinsights.com/blogs/top-50-companies-in-superalloys-market-key-insights-innovations）
+  - 「Top 50 Companies in Superalloys Market: Key Insights & Innovations」（https://www.sphericalinsights.com/blogs/top-50-companies-in-superalloys-market-key-insights-innovations）
+  - 「Top 3 trends in the Superalloys Market」（https://www.sphericalinsights.com/blogs/top-50-companies-in-superalloys-market-key-insights-innovations）
+  - 「Top 25 Companies Leading the Superalloys Market」（https://www.sphericalinsights.com/blogs/top-50-companies-in-superalloys-market-key-insights-innovations）
+  - 「The report provides an in-depth analysis of the leading companies operating in the global superalloys market. It includes a comparative assessment based on their product portfolios, business overviews, geographical footprint, strategic initiatives, market segment share, and SWOT analysis. Each company is profiled using a standardized format that includes:」（https://www.sphericalinsights.com/blogs/top-50-companies-in-superalloys-market-key-insights-innovations）
+  - 「Explore the Global Superalloys Market — analysis of key trends, regional growth, top players, and a 10-year forecast from 2026 to 2036.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Top Country Growth Comparison Superalloys Market Cagr (2026 2036)」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Key Players in the Superalloys Market」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Forecasting models apply a hybrid bottom-up and top-down methodology starting with verified superalloys transaction data and projecting adoption velocity across defined segments and regions.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Competitive posture evaluation tracking consolidation activity, capacity investments, and strategic partnerships among leading market participants.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Market Share Analysis of Top Players」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Leading companies, their market positions and strategies.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+- 自社名で出せる条件：
+  - 「Power generation OEMs targeting Asia Pacific and Middle East markets should establish regional superalloy component finishing and heat treatment capabilities to reduce logistics lead times for turbine overhaul kits.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「, missile systems, and launch vehicle propulsion. As defense OEMs push toward higher thrust-to-weight ratios and greater operational reliability under extreme conditions, superalloys remain a mission-critical material category where performance is prioritized over cost, supporting continued investment in advanced alloy development and qualification.」（https://www.intellectualmarketinsights.com/blogs/superalloys-market）
+  - 「PCC holds a leading position in the global superalloys supply chain, particularly within investment casting and forged turbine components, supported by long-standing, deeply embedded relationships with major aircraft engine manufacturers.」（https://www.intellectualmarketinsights.com/blogs/superalloys-market）
+  - 「Extensive vertical integration from alloy melting through finished component manufacturing; deep-rooted OEM relationships across commercial and defense aerospace; substantial scale and capital backing; broad manufacturing footprint supporting global aerospace supply chains.」（https://www.intellectualmarketinsights.com/blogs/superalloys-market）
+  - 「Advanced vacuum melting and powder metallurgy capabilities; strong qualification status with major aerospace engine OEMs; ongoing capacity investment aligned with next-generation aircraft engine programs; diversified specialty metals portfolio beyond superalloys.」（https://www.intellectualmarketinsights.com/blogs/superalloys-market）
+  - 「As aerospace OEMs increasingly qualify additive manufacturing feedstock suppliers to reduce machining waste and shorten component lead times, producers that have invested early in powder metallurgy and 3D-printing-compatible alloy grades, including Carpenter Technology and ATI, are gaining preference for next-generation engine and turbine component programs.」（https://www.intellectualmarketinsights.com/blogs/superalloys-market）
+  - 「Regionally, North America holds 34.5% of 2025 revenue on the strength of its engine OEM and forging base. Europe grows fastest at a 7.31% CAGR through 2035, propelled by Safran, MTU Aero Engines, and Rolls-Royce program ramps alongside a widening industrial」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「. Airframers and engine OEMs rarely accept second-source material without full statistical allowables. This inertia protects incumbents but suppresses the pace at which improved chemistries reach revenue.」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Engine OEM capacity, defense propulsion, powder metallurgy」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Regional performance in the Superalloys Market tracks where engines are designed, certified, and overhauled rather than where raw nickel is mined. North America leads on installed OEM and forging capacity; Europe grows fastest on program ramps and service-book expansion; Asia-Pacific scales on domestic capability build-out.」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Engine OEM and premium melting concentration」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+- 再販制度：
+  - 「41.3% share in 2026, reflecting established procurement specifications and supply chain infrastructure favoring this variant.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「They have austenitic face-centered cubic (FCC) crystal with alloying element of cobalt, iron or nickel as a base. Presently, there is escalation in demand of superalloys due to its high-strength that can resist creeping and high temperature in various applications like aerospace and aircraft.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Segmentation analysis mapping the adoption velocity of specific base material variants and evaluating the structural drivers behind preference shifts.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Global electricity demand is expected by the International Energy Agency to grow roughly 4% annually through 2027, with gas-fired generation retaining a firming role alongside variable renewables」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「. Lower waste reduces tonnage per finished part, yet realized revenue often holds or rises because powder and near-net processing command premium pricing. Producers whose economics depend on volume rather than value capture face structural margin pressure as these routes scale.」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Est. Revenue Share Range」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Small modular reactor components. Intermediate heat exchangers and control-rod hardware require creep-resistant nickel grades qualified to nuclear codes, a small but high-margin channel opening after 2030」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Svarvmekano 社が積層造形プロセスを生産に導入」（https://www.secotools.com/article/news_and_media）
+  - 「オーストリアのメーカー「Beyond Gravity 社」の「スーパー・インシュレーション」における日本総合販売代理店です」（https://www.kk-inoue.co.jp/material/）
+  - 「株式会社共立合金製作所 / 総代理店 エバーロイ商事株式会社」（https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E8%80%90%E7%86%B1/）
+- 黒字・収益性：
+  - 「Which is catering to different industry such as financial sectors, industrial sectors, government organizations, universities, non-profits and corporations. The company's mission is to work with businesses to achieve business objectives and maintain strategic improvements.」（https://www.sphericalinsights.com/blogs/top-50-companies-in-superalloys-market-key-insights-innovations）
+  - 「China's Longda Alloy forecasts up to 97% profit growth in first three quarters as superalloy business becomes main engine — BigGo Finance」（https://finance.biggo.com/news/b8d535c1-d3f5-4f30-8944-b64609821b0c）
+  - 「China's Longda Alloy forecasts up to 97% profit growth in first three quarters as superalloy business becomes main engine」（https://finance.biggo.com/news/b8d535c1-d3f5-4f30-8944-b64609821b0c）
+  - 「Net profit attributable to shareholders」（https://finance.biggo.com/news/b8d535c1-d3f5-4f30-8944-b64609821b0c）
+  - 「Non-recurring-adjusted net profit」（https://finance.biggo.com/news/b8d535c1-d3f5-4f30-8944-b64609821b0c）
+  - 「Profitability by Market Segments (Product/Age /Sales Channel/Region)」（https://www.futuremarketinsights.com/reports/superalloys-market）
+- 売上：
+  - 「In 2024, Allegheny Technologies Incorporated (ATI) solidified its position as a key player in the superalloys market, reporting total sales of $4.4 billion, a 5% increase from the previous year.」（https://market.us/report/global-superalloys-market/）
+  - 「In 2024, Aperam S.A., a Luxembourg-based leader in stainless and specialty steels, reported revenues of €6.2 billion, a slight decrease from €6.6 billion in 2023, reflecting market challenges but showcasing resilience in its operations.」（https://market.us/report/global-superalloys-market/）
+  - 「Forecast Revenue (2034)」（https://market.us/report/global-superalloys-market/）
+  - 「Market scope includes all commercially traded superalloys segmented by base material (nickel-based, iron-based, cobalt-based) and application (aerospace, automotive, oil and gas, industrial). Revenue sizing spans the 2026 to 2036 forecast period with regional and country-level assessments.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Regionally, North America holds 34.5% of 2025 revenue on the strength of its engine OEM and forging base. Europe grows fastest at a 7.31% CAGR through 2035, propelled by Safran, MTU Aero Engines, and Rolls-Royce program ramps alongside a widening industrial」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Nickel-based grades command 62.4% of 2025 revenue, underpinned by single-crystal and directionally solidified castings in rotating hardware」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Aerospace and Defense accounts for 41.6% of Superalloys Market revenue, the single largest demand pool across all dimensions」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Asia-Pacific delivers USD 8.57 billion in 2025 revenue, with China the largest single contributor」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「$4.3B Revenue Impact」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「. Each LEAP powerplant carries substantially higher nickel-alloy content per unit of thrust than the CFM56 it replaces, because its 1,650°C-class core requires single-crystal rotating hardware and coated vanes. That mix shift lifts alloy revenue faster than delivery counts, adding an estimated 1.4 percentage points to sector growth.」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「United States defense procurement and RDT&E funding for propulsion, including the Next Generation Adaptive Propulsion program, carried approximately USD 3.5 billion in cumulative appropriations across FY2023–FY2025」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「. Hydrogen co-firing raises combustion temperature and water vapour content, degrading conventional thermal barrier coatings faster and forcing base-metal and bond-coat requalification. Suppliers holding validated hydrogen-service data will face a replacement cycle across an installed heavy-duty fleet exceeding 7,000 units worldwide.」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Middle East demand runs through power and hydrocarbons rather than aviation manufacturing. Saudi Arabia contracted more than 6 GW of new gas-fired capacity during 2024–2025, each unit carrying substantial hot gas path content, while Qatar's North Field expansion adds cryogenic and high-temperature service hardware」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「• Examination of modeled aerospace alloy allocations from Tier 1 suppliers and reported segment revenues」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「DoW moved swiftly on the procedural front. In October 2023, it published a formal Federal Register notice soliciting industry feedback on the proposed RDPA; negotiations began later that same year, and the two governments concluded the narrower」（https://www.insidegovernmentcontracts.com/2026/09/the-u-s-india-reciprocal-defense-procurement-agreement-a-new-chapter-in-a-complex-relationship/）
+- 価格：
+  - 「Baseline values derive from a bottom-up aggregation of superalloys transaction volumes, applying region-specific adoption curves and pricing indices to project forward demand through 2036.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Global Market Pricing Analysis 2021 to 2025 and Forecast 2026 to 2036」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Figure 1: Global Market Pricing Analysis」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「. European NATO members simultaneously lifted defense outlays above the 2% GDP floor, funding Eurofighter and Rafale engine sustainment. Military programs qualify fewer alloy grades but at higher specification density, which sustains premium pricing across the supply base.」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+- 日本対応：
+  - 「North America – US, Canada; Europe – Germany, France, The UK, Spain, Italy, Rest of Europe; Asia Pacific – China, Japan, South Korea, India, Australia, Singapore, Rest of APAC; Latin America – Brazil, Mexico, Rest of Latin America; Middle East & Africa – GCC, South Africa, Rest of MEA」（https://market.us/report/global-superalloys-market/）
+  - 「Across tracked geographies, China sets the pace at 11.50% CAGR. India follows at 10.60%. Germany follows at 9.80%. Brazil follows at 8.90%. USA follows at 8.10%. UK follows at 7.20%. Japan follows at 6.40%.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「India, China, USA, Canada, UK, Germany, Japan, and 40 plus countries」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「Kobe Steel, Ltd. (Japan)」（https://www.intellectualmarketinsights.com/blogs/superalloys-market）
+  - 「Japanese」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Leading Japanese supplier to engine module makers」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「Japan / 日本」（https://www.secotools.com/article/news_and_media）
+  - 「(Quad), which brings together India, Japan, Australia, and the United States.」（https://www.insidegovernmentcontracts.com/2026/09/the-u-s-india-reciprocal-defense-procurement-agreement-a-new-chapter-in-a-complex-relationship/）
+  - 「東北大学、日本発条、 SII 、エイワが共同で耐熱バネ用材料として開発した合金です！」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
+  - 「私たち、(株)イノウエは日本製鉄(株)製のチタン材を扱っています」（https://www.kk-inoue.co.jp/material/）
+  - 「オーストリアのメーカー「Beyond Gravity 社」の「スーパー・インシュレーション」における日本総合販売代理店です」（https://www.kk-inoue.co.jp/material/）
+  - 「東北大学、日本発条、 SII 、エイワが共同で耐熱バネ用材料として開発した合金です！」（https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E8%80%90%E7%86%B1/）
+  - 「日本ケミカルスクリュー株式会社」（https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E8%80%90%E7%86%B1/）
+  - 「日本積層造形株式会社」（https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E8%80%90%E7%86%B1/）
+- 検索結果の抜粋：
+  - 「Superalloys Market Size, Share | CAGR of 6.7% — Superalloys Market Size, Share | CAGR of 6.7% Market.us https://market.us > report > global-su...」（https://market.us/report/global-superalloys-market/）
+  - 「Top 50 Companies in Superalloys Market - Spherical Insights — Top 50 Companies in Superalloys Market - Spherical Insights Spherical Insights https://www.sphericalinsights.com > t...」（https://www.sphericalinsights.com/blogs/top-50-companies-in-superalloys-market-key-insights-innovations）
+  - 「Top 10 Superalloys Market Companies 2026 Size & Growth — Top 10 Superalloys Market Companies 2026 Size & Growth Intellectual Market Insights Research https://www.intellectualmarketinsights.com > ...」（https://www.intellectualmarketinsights.com/blogs/superalloys-market）
+  - 「Superalloys Market Size, Share & Growth | Industry Report 2035 — Superalloys Market Size, Share & Growth | Industry Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/superalloys-market-7472）
+  - 「耐熱合金 - メーカー・企業11社の業務用製品ランキング — 耐熱合金 - メーカー・企業11社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 耐熱合金」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
+
+## 低炭素アルミ（low carbon aluminum）
+- 文脈：9 マテリアル ④低炭素金属部素材
+- 提供企業：
+  - 「“People want a more sustainable future for the planet, and they seek out brands that are leading the way. In fact, research shows that」（https://www.ball.com/newswire/article/124144/ball-corporation-launches-new-low-carbon-footprint-aluminum-aerosol-can）
+  - 「Why leading brands choose Constantia Flexibles」（https://consumer.cflex.com/low-carbon-aluminum/）
+  - 「Leading brands choose to work with Constantia Flexibles because we provide documented and independently verified product carbon footprint values, supported by long‑standing supply chain partnerships that ensure reliability and consistency.」（https://consumer.cflex.com/low-carbon-aluminum/）
+  - 「Explore pricing alternatives that are customized to your particular study requirements.」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「Hybrid top-down and bottom-up modelling」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「Top-Down Approach」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「The top-down approach used macro-level indicators:」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「Reconciling top-down and bottom-up estimates」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「Who are the key players in Low-Carbon Aluminum Market?」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「Which region is leading the Low-Carbon Aluminum Market?」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「North America region is leading the Low-Carbon Aluminum Market.」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「5.2.1.2 Top Competitors」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「5.2.1.3 Top Products/Product Portfolio」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「5.2.2.2 Top Competitors」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「5.2.2.3 Top Products/Product Portfolio」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+- 自社名で出せる条件：
+  - 「Protect your brand. Avoid counterfeiting.」（https://consumer.cflex.com/low-carbon-aluminum/）
+  - 「1.7 Embedded Carbon Emissions in Aluminum Production」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「OEM の車種 5 台を対象に ELV から回収するアルミ部品 （展伸材、 ダイカスト品） のうち、」（https://j-far.or.jp/wp-content/uploads/2024report_Arbiz.pdf）
+  - 「・国内OEMの車種5台を対象にELVからア」（https://j-far.or.jp/wp-content/uploads/2024report_Arbiz.pdf）
+  - 「Windows Embedded」（https://monoist.itmedia.co.jp/mn/articles/2309/22/news041.html）
+- 再販制度：
+  - 「Low-Carbon Aluminum Market Size and Revenue Share Analysis to 2034」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「/ Low Carbon Aluminum Market Size And Revenue Share Analysis To 2034」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「In The Region, Europe's Low-Carbon Aluminum Market Holds A Significant Revenue Share」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「Distributors, channel partners, and integrators」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「Sensitivity testing was conducted on key variables, including pricing, demand elasticity, and regional adoption.」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「1.4.2.1 Lower Recycling Rates for Aluminum in Various Industries」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「: This report provides a comprehensive product and innovation strategy for the low-carbon aluminum market, highlighting opportunities for market entry, technological advancements, and sustainable practices. It offers actionable insights that enable organizations to meet carbon reduction goals, and capitalize on the increasing demand for low-carbon aluminum across various sectors.」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「The primary sources involve industry experts from the low-carbon aluminum market and various stakeholders in the ecosystem. Respondents such as CEOs, vice presidents, marketing directors, and technology and innovation directors have been interviewed to obtain and verify both qualitative and quantitative aspects of this research study.」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「• validation of the numbers of various markets for market type」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「• qualitative insights into various aspects of the market, key trends, and emerging areas of innovation」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「Access to the Q&A Forum: View, ask, and submit answers on a variety of DeepTech topics.」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+- 売上：
+  - 「Ball Corporation supplies innovative, sustainable aluminum packaging solutions for beverage, personal care and household products for customers, as well as aerospace and other technologies and services primarily for the U.S. government. Ball Corporation and its subsidiaries employ 24,300 people worldwide and reported 2021 net sales of $13.8 billion. For more information, visit」（https://www.ball.com/newswire/article/124144/ball-corporation-launches-new-low-carbon-footprint-aluminum-aerosol-can）
+  - 「Low-Carbon Aluminum Market Size and Revenue Share Analysis to 2034」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「/ Low Carbon Aluminum Market Size And Revenue Share Analysis To 2034」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「Revenue forecast in 2034」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「Representation of revenue in US$ Bn, Volume (KT) and CAGR from 2025 to 2034」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「アルミスクラップ売上高を表 5-2 に示す」（https://j-far.or.jp/wp-content/uploads/2024report_Arbiz.pdf）
+  - 「表 5-2.アルミスクラップ売上高」（https://j-far.or.jp/wp-content/uploads/2024report_Arbiz.pdf）
+- 価格：
+  - 「Explore 10 Queries/month on Insight Navigator (large language model trained Bot for market intelligence use cases)」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「A. 10 Queries/month on Insight Navigator (large language model trained Bot for market intelligence use cases).」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+- 日本対応：
+  - 「U.S.; Canada; U.K.; Germany; China; India; Japan; Brazil; Mexico; The UK; France; Italy; Spain; China; Japan; India; South Korea; Southeast Asia; South Korea; Southeast Asia」（https://www.insightaceanalytic.com/report/low-carbon-aluminum-market-/1861）
+  - 「4.4.5 Japan」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「Table 48: Japan Low-Carbon Aluminum Market (by End User), $Billion, 2023-2034」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「Table 49: Japan Low-Carbon Aluminum Market (by Production Pathway at Smelter Level), $Billion, 2023-2034」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「Figure 31: Japan Low-Carbon Aluminum Market, $Billion, 2023-2034」（https://bisresearch.com/industry-report/low-carbon-aluminum-market.html）
+  - 「伸材は UACJ、ADC は名古屋市工業研究所、Mg は日本マテリアルにおける品質評価を適」（https://j-far.or.jp/wp-content/uploads/2024report_Arbiz.pdf）
+  - 「アルミニウムは新地金を作る際に大量の電力を消費しており、世界的には9.24t～11.1t-CO2/Alとされ、日本ではCO2原単位を9.24として使われています」（https://katokei.co.jp/4tco2_al/）
+  - 「参考：日本アルミニウム協会、JLCA」（https://katokei.co.jp/4tco2_al/）
+  - 「2015 年のパリ協定では温室効果ガス削減に向けて、190 か国を超える国々が参加の意欲を示し、その中でも日本は【 2030 年までに 2013 年比 26 %】の目標を掲げました」（https://katokei.co.jp/4tco2_al/）
+  - 「日本アルミニウム協会は2025年6月にグリーンアルミの定義を定め、低炭素製品への取り組みを一層強化しています」（https://newsroom.lixil.com/ja/2025091701）
+  - 「日本ものづくりワールド」（https://monoist.itmedia.co.jp/mn/articles/2309/22/news041.html）
+  - 「開き戸タイプの玄関ドアを後付けで自動ドアに変えられる電動オープナーシステム「DOAC」に続く、LIXIL Housing Technology Japan ビジネスインキュベーションセンターによる第2弾製品となる」（https://monoist.itmedia.co.jp/mn/articles/2309/22/news041.html）
+  - 「低炭素・高品質なのに「価格据え置き」――LIXILの循環型アルミ材が建築の常識を塗り替える | Business Insider Japan」（https://www.businessinsider.jp/article/2603-lixil-premial/）
+  - 「製品の原料調達から廃棄・リサイクルにいたるライフサイクル全体の環境負荷を定量的に算出し、見える化する動きは、今後、日本国内でもますます求められてくる」（https://www.businessinsider.jp/article/2603-lixil-premial/）
+  - 「日本国内でも、部材を容易に取り外し、分解して交換や再利用できるといった」（https://www.businessinsider.jp/article/2603-lixil-premial/）
+- 検索結果の抜粋：
+  - 「YKK向けファスナー用材料 「 低炭素アルミニウム 」の使用を ... — YKK向けファスナー用材料 「 低炭素アルミニウム 」の使用を ... Sumitomo Electric https://sumitomoelectric.com > press > 2025/05 > prs067」（https://sumitomoelectric.com/jp/press/2025/05/prs067）
+  - 「CO₂排出量50％削減の循環型 低炭素アルミ 「PremiAL」を ... — CO₂排出量50％削減の循環型 低炭素アルミ 「PremiAL」を ... LIXIL Corporation https://newsroom.lixil.com > ...」（https://newsroom.lixil.com/ja/2025091701）
+  - 「リサイクル アルミ を100％使用した 低炭素 型 アルミ 形材の受注 ... — リサイクル アルミ を100％使用した 低炭素 型 アルミ 形材の受注 ... MONOist https://monoist.itmedia.co.jp > articles > news041」（https://monoist.itmedia.co.jp/mn/articles/2309/22/news041.html）
+- 黒字・収益性：記載なし（読んだ45頁・検索9回）
+
+## レアメタルリサイクル（e-waste precious metal recovery）
+- 文脈：9 マテリアル ⑤製錬・分離精製・リサイクル
+- 提供企業：
+  - 「Page Top」（https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10）
+  - 「PAGE TOP」（https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10）
+  - 「Page Top」（https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649）
+  - 「（http://www.meti.go.jp/policy/recycle/main/admin_info/law/10/pdf/pamph_autoparts.pdf）」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf）
+- 日本対応：
+  - 「日本では、経済産業省鉱業審議会レアメタル総合対策特別小委員会が、「地球上の存在量が稀であるか、技術的・経済的な理由で抽出が困難な鉱種のうち、現に工業需要が存在する（また今後見込まれる）ため、安定供給の確保が政策的に重要なタングステン､コバルト､ニッケルやレアアース（希土類の17元素を総括して1鉱種としてカウント）などの31鉱種をレアメタルと定義する」としています」（https://tenbou.nies.go.jp/science/description/detail.php?id=62）
+  - 「レアメタルを利用した高性能の電子部品は幅広い産業分野で使われ、高機能・高品質の製品を産み出して日本経済を支え、省エネルギーや環境保全にも大きく貢献しています」（https://tenbou.nies.go.jp/science/description/detail.php?id=62）
+  - 「亜鉛や銀を産出していた日本の豊羽鉱山（北海道）は、世界最大規模のインジウム鉱山でもありましたが、2006年に鉱山全体が採掘を停止したことでインジウムの供給も止まってしまいました」（https://tenbou.nies.go.jp/science/description/detail.php?id=62）
+  - 「加えて民間備蓄も行われ、同機構は「日本の基準消費量の42日分を国家備蓄、18日分を民間備蓄が担い、合計60日分を目標とし、我が国資源セキュリティの最後の砦として、短期的な供給障害に備える」としています」（https://tenbou.nies.go.jp/science/description/detail.php?id=62）
+  - 「日本では、自国では産出されないニッケル鉱石の輸入を世界最大の産出国であるインドネシアに長く依存してきました」（https://tenbou.nies.go.jp/science/description/detail.php?id=62）
+  - 「また、一般社団法人JBRC（Japan Portable Rechargeable Battery Recycling Center）は、小型充電式電池のメーカーとそれを利用する企業などが共同で設立した団体で、使用済みとなったニカド電池、ニッケル水素電池、リチウムイオン電池などの回収を行っています」（https://tenbou.nies.go.jp/science/description/detail.php?id=62）
+  - 「一般社団法人日本自動車工業会. "リチウムイオン電池・ニッケル水素電池の回収状況".」（https://tenbou.nies.go.jp/science/description/detail.php?id=62）
+  - 「産業に不可欠な素材として、資源セキュリティの意味合いからスタートした日本のレアメタル関連技術は、リサイクルや備蓄も含め、取り組みが強化されてきました」（https://tenbou.nies.go.jp/science/description/detail.php?id=62）
+  - 「[5] 一般社団法人日本自動車工業会. "リチウムイオン電池・ニッケル水素電池の回収状況". 2013-08-07. 経済産業省 産業構造審議会 産業技術環境分科会 廃棄物・リサイクル小委員会 自動車リサイクルワーキンググループ、中央環境審議会 循環型社会部会 自動車リサイクル専門委員会.」（https://tenbou.nies.go.jp/science/description/detail.php?id=62）
+  - 「日本 - ソリューション・商品サイト」（https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10）
+  - 「こうした背景から、日本政府は資源政策の再編を進め、令和6年7月には資源エネルギー庁の鉱物資源課を製造産業局へ再編し、上流から下流まで一貫した資源政策の推進と、探鉱・開発・製錬・リサイクルの連携強化を目指しています（参照*1）」（https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10）
+  - 「日本では、レアメタルの海外依存度が高く、2050年のカーボンニュートラルを見据えた場合、輸入依存だけでは供給不足や価格高騰に直面する懸念があります（参照*2）」（https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10）
+  - 「日本政府は特定国への依存度低減を目指し、2023年度から2027年度の5年間で国内の重希土類分離・精製技術の開発と社会実装を推進しています（参照*3）」（https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10）
+  - 「日本国内の開発事業では、高温で磁石原料を抽出し、不純物混入を抑えるプロセス設計が進められています（参照*3）」（https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10）
+  - 「日本の鉱業小委員会や関連省庁の取り組みでは、上流から下流までの審議体制を一本化し、リサイクル推進を強化しています（参照*1）」（https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10）
+- 自社名で出せる条件：記載なし（読んだ44頁・検索9回）
+- 再販制度：記載なし（読んだ44頁・検索9回）
+- 黒字・収益性：記載なし（読んだ44頁・検索9回）
+- 売上：記載なし（読んだ44頁・検索9回）
+- 価格：記載なし（読んだ44頁・検索9回）
+
+## マテリアルズインフォマティクス（materials informatics）
+- 文脈：9 マテリアル ⑥AI活用材料
+- 提供企業：
+  - 「See all reports on the topic」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「PFAS Regulations, Alternatives, Removal, and Destruction」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「Key Partners and Customers of Selected External Providers」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「By directly interviewing and profiling companies across the supply chain. IDTechEx analysts interview companies by engaging directly with senior management and technology development executives across the supply chain, leading to revealing insights that may otherwise be inaccessible.」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「From a top-down view: the total addressable market」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「Companies that synthesize, formulate, process, and integrate advanced materials and chemicals into their products are facing heightened innovation pressures—and opportunities. Historically high-margin specialty products are becoming more commoditized, and the race is on for companies to differentiate themselves in existing markets and establish a leading presence in new emerging markets.」（https://www.enthought.com/materials-informatics）
+  - 「Return to top」（https://www.enthought.com/materials-informatics）
+  - 「As well as enhancing supply chain efficiency by forecasting demand, AI can be used to identify critical raw materials that need extra buffer stock and quickly reformulate when there is a raw material shortage. The Citrine Platform is used to identify substitute ingredients or raw materials when regulation makes this a necessity or in order to have multiple vendors for resiliency. This」（https://citrine.io/resources/introduction-to-materials-informatics/）
+  - 「goes over this topic in more detail.」（https://citrine.io/resources/introduction-to-materials-informatics/）
+  - 「White-Label Software Development Partner for Agencies | BinaryBrill」（https://binarybrill.com/services/white-label-development/）
+  - 「Extend your bench with a white-label software development partner your clients never see」（https://binarybrill.com/services/white-label-development/）
+  - 「How BinaryBrill works as your white-label software development partner」（https://binarybrill.com/services/white-label-development/）
+  - 「Full-stack web and software builds — from a client's marketing site refresh to a bespoke internal platform — delivered by BinaryBrill engineers working inside your process, under your brand. This is the core of what a white-label software development partner does: capacity that looks, in every visible respect, like it came from inside your agency.」（https://binarybrill.com/services/white-label-development/）
+  - 「Engineers experienced with current model providers and vector infrastructure, not a single vendor's demo stack」（https://binarybrill.com/services/white-label-development/）
+  - 「BACK TO TOP」（https://binarybrill.com/services/white-label-development/）
+- 自社名で出せる条件：
+  - 「Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.」（https://citrine.io/resources/introduction-to-materials-informatics/）
+  - 「White-Label Software Development Partner for Agencies | BinaryBrill」（https://binarybrill.com/services/white-label-development/）
+  - 「White-Label Partnership」（https://binarybrill.com/services/white-label-development/）
+  - 「White-Label Development Partner」（https://binarybrill.com/services/white-label-development/）
+  - 「WHITE-LABEL DEVELOPMENT」（https://binarybrill.com/services/white-label-development/）
+  - 「White-Label Development Partnership」（https://binarybrill.com/services/white-label-development/）
+  - 「Extend your bench with a white-label software development partner your clients never see」（https://binarybrill.com/services/white-label-development/）
+  - 「Where white-label delivery usually breaks down」（https://binarybrill.com/services/white-label-development/）
+  - 「How BinaryBrill works as your white-label software development partner」（https://binarybrill.com/services/white-label-development/）
+  - 「White-Label Web & Software Development」（https://binarybrill.com/services/white-label-development/）
+  - 「Full-stack web and software builds — from a client's marketing site refresh to a bespoke internal platform — delivered by BinaryBrill engineers working inside your process, under your brand. This is the core of what a white-label software development partner does: capacity that looks, in every visible respect, like it came from inside your agency.」（https://binarybrill.com/services/white-label-development/）
+  - 「White-Label AI & LLM Development」（https://binarybrill.com/services/white-label-development/）
+  - 「Agencies fielding AI requests from clients without an in-house ML team can hand the engineering to us and keep the relationship. Our white-label AI development services cover everything from a scoped chatbot or document-processing tool to a production LLM feature wired into an existing product, delivered under your agency's name throughout.」（https://binarybrill.com/services/white-label-development/）
+  - 「White-Label Mobile App Development for Agencies」（https://binarybrill.com/services/white-label-development/）
+  - 「iOS, Android and cross-platform builds for agencies that get asked for a mobile app more often than they have mobile engineers on staff. White-label app development for agencies works the same way here as our web work: we build it, you ship it, and the app store listing, the client demo and the credit are yours.」（https://binarybrill.com/services/white-label-development/）
+- 再販制度：
+  - 「Companies that synthesize, formulate, process, and integrate advanced materials and chemicals into their products are facing heightened innovation pressures—and opportunities. Historically high-margin specialty products are becoming more commoditized, and the race is on for companies to differentiate themselves in existing markets and establish a leading presence in new emerging markets.」（https://www.enthought.com/materials-informatics）
+  - 「Computers are good at organizing complex data from a variety of sources into a form that a researcher can explore. This includes seeing the effect of a range of ingredients and manufacturing processes on the final characteristics of an end product.」（https://citrine.io/resources/introduction-to-materials-informatics/）
+  - 「Integrating heterogeneous data sources. Materials and chemical data can have many forms, from simple numbers and categories to complex molecular representations and images. Data can come from a variety of sources and researchers may have recorded data in different ways, using different units, etc.」（https://citrine.io/resources/introduction-to-materials-informatics/）
+  - 「(dozens of variables, multiple objectives, noisy data, and real-world constraints) with ease.」（https://citrine.io/resources/introduction-to-materials-informatics/）
+  - 「You pay BinaryBrill for the engineering time and set whatever price or margin you choose to bill your client — that commercial relationship stays entirely yours, and we have no visibility into it. Our invoice describes engineering capacity supplied to you, not the underlying client or project, so it sits behind your own billing without needing an explanation.」（https://binarybrill.com/services/white-label-development/）
+  - 「How is this different from a lead-referral or reseller partnership?」（https://binarybrill.com/services/white-label-development/）
+  - 「Join our partner program and grow with white-label software development.」（https://www.infomazeelite.com/white-label-development-agency-partners/）
+  - 「Partner Program」（https://www.infomazeelite.com/white-label-development-agency-partners/）
+  - 「Protect your margin」（https://www.infomazeelite.com/white-label-development-agency-partners/）
+  - 「you can resell as a flagship deliverable.」（https://www.infomazeelite.com/white-label-development-agency-partners/）
+  - 「I agree to Infomaze contacting me about the partner program.」（https://www.infomazeelite.com/white-label-development-agency-partners/）
+  - 「Apply to the Partner Program」（https://www.infomazeelite.com/white-label-development-agency-partners/）
+  - 「OEM and White-Label AI Partner Program | ConverSight」（https://conversight.ai/oem-partners/）
+  - 「Partner Program」（https://conversight.ai/oem-partners/）
+  - 「Value-added reseller」（https://conversight.ai/oem-partners/）
+- 黒字・収益性：
+  - 「Major MI players: on a path to profitability?」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「What are the barriers to profitability for MI SaaS players?」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「Your clients need more than websites, they're asking for AI, business applications, customer portals, CRM, ERP and automation. Infomaze becomes your white-label engineering team, helping you deliver larger, more profitable projects under your own brand while you retain complete ownership of every client relationship.」（https://www.infomazeelite.com/white-label-development-agency-partners/）
+  - 「Here is where differences become our strengths, where scientific and technological adventures transform into profitable ventures and where bettering the world becomes our life’s work.」（https://www.buffalo.edu/partnerships/about/centers-facilities-equipment/cmi.html）
+  - 「Multitier Store Brands and Channel Profits」（https://www.ama.org/marketing-news/the-brandification-of-private-labels-beyond-budget/）
+  - 「The technology is a profitable wave, graphing the business according to the commercial advancement needs. The automation trends and cooperative systems enrollment in the market spectrum enable the tech enthusiast to broaden its smart concept in the validation process.」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「Major MI players: On a path to profitability?」（https://www.idtechex.com/en/research-report/materials-informatics/1183）
+  - 「What are the barriers to profitability for MI SaaS players?」（https://www.idtechex.com/en/research-report/materials-informatics/1183）
+- 売上：
+  - 「Materials informatics provider revenue to exceed US$500 million by 2028, transforming R&D.」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「The team that builds FrameworX has been shipping industrial software since the DOS era. In 1996 it co-founded InduSoft (now AVEVA Edge) and built the HMI engine behind it, and it has shipped every generation of this platform since. FrameworX is the current one, built from scratch on managed .NET rather than carried forward from the last.」（https://tatsoft.com/tatsoft-oem-partner-program/）
+  - 「The Environmental Information Systems group at Wunderlich-Malec builds reporting products on FrameworX for facilities operating under Title V permits, CFR 40 Part 75 and Part 60, and California RECLAIM. Compliance reporting is where the data model, the historian and the audit trail carry the product, which is why the platform underneath it has to be the same one running the plant.」（https://tatsoft.com/tatsoft-oem-partner-program/）
+  - 「84% reduction in formulation time, 30%+ revenue increase」（https://citrine.io/）
+  - 「Materials Informatics Market Revenue, By Material, 2023 to 2025 (USD Million)」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「Materials Informatics Market Revenue, By Application, 2023 to 2025 (USD Million)」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「Materials Informatics Market Revenue, By Technique, 2023 to 2025 (USD Million)」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「North America dominated the global materials informatics market with the highest revenue share in the year 2026 owing to high technology penetration rate in the region.」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「Materials informatics provider revenue to exceed US$600 million by 2037.」（https://www.idtechex.com/en/research-report/materials-informatics/1183）
+  - 「By Material Type, the elements segment led the market and accounted for 38.0% of the global revenue share in 2023.」（https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report）
+  - 「By Technology, the machine learning segment accounted for the largest market revenue share in 2023.」（https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report）
+  - 「By end-use, the chemical and pharmaceutical segment held the largest market revenue share in 2023.」（https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report）
+  - 「The machine learning segment accounted for the largest market revenue share in 2023. The」（https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report）
+  - 「Revenue in USD million/billion and CAGR from 2024 to 2030」（https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report）
+  - 「This report forecasts revenue growth at global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2018 to 2030. For this study, Grand View Research has segmented the global material informatics market report based on material type, technology, end-use, and region.」（https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report）
+- 日本対応：
+  - 「ASIA (Japan and Korea):」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「IDTechEx was established in 1999, and is headquartered in Cambridge, UK. Since then, the company has significantly expanded and operates globally, having served customers in over 80 countries. Subsidiary companies are based in the USA, Germany and Japan.」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「🌏︎ 日本語」（https://www.enthought.com/materials-informatics）
+  - 「Enthought Appoints Toshio Mii as Chairman to Lead Next Chapter of AI-Driven Scientific Innovation in Japan」（https://www.enthought.com/materials-informatics）
+  - 「Japan materials informatics market size was exhibited at USD 3.67 million in 2024 and it is anticipated to surpass around USD 31.38 million by 2034 with a CAGR of 23.9% from 2025 to 2034.」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「ASIA (Japan and Korea):」（https://www.idtechex.com/en/research-report/materials-informatics/1183）
+  - 「IDTechEx was established in 1999, and is headquartered in Cambridge, UK. Since then, the company has significantly expanded and operates globally, having served customers in over 80 countries. Subsidiary companies are based in the USA, Germany and Japan.」（https://www.idtechex.com/en/research-report/materials-informatics/1183）
+  - 「is expected to witness the fastest growth over the forecast period, driven by heavy investment in materials science across China, Japan, and South Korea.」（https://www.meticulousresearch.com/product/materials-informatics-market-6787）
+  - 「North America (U.S., Canada), Europe (Germany, U.K., France, Italy, Spain, and Rest of Europe), Asia-Pacific (China, Japan, South Korea, India, Australia, and Rest of Asia-Pacific), Latin America (Brazil, Mexico, and Rest of Latin America), and the Middle East & Africa (Israel, Saudi Arabia, UAE, and Rest of Middle East & Africa)」（https://www.meticulousresearch.com/product/materials-informatics-market-6787）
+  - 「China, Japan, South Korea, India, Australia, and Rest of Asia-Pacific」（https://www.meticulousresearch.com/product/materials-informatics-market-6787）
+  - 「Large and rising investment in materials science across China, Japan, and South Korea, a strong electronics and battery manufacturing base, and active national research programs are driving demand. Japan's National Institute for Materials Science, for example, has published machine-learning materials maps that predict thousands of new material phases.」（https://www.meticulousresearch.com/product/materials-informatics-market-6787）
+  - 「U.S., Canada, Mexico, UK, Germany, France, China, Japan, India, South Korea, Australia, Brazil, KSA, UAE, South Africa」（https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report）
+  - 「U.S.; Canada; U.K.; Germany; China; India; Japan; Brazil; Mexico; France; Italy; Spain; Southeast Asia; South Korea」（https://www.insightaceanalytic.com/report/material-informatics-market/2305）
+  - 「日本ゴム協会誌, 97, pp327-332, (2024)」（https://www.jsol-cae.com/tech-blog/20250529.html）
+  - 「日本ペイントのマテリアルズインフォマティクス（MI）活用事例」（https://www.mi-seek.com/）
+- 検索結果の抜粋：
+  - 「Materials Informatics 2025-2035: Markets, Strategies, Players — Materials Informatics 2025-2035: Markets, Strategies, Players IDTechEx https://www.idtechex.com > materials...」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「Best Materials Informatics Solutions Reviews 2026 - Gartner — Best Materials Informatics Solutions Reviews 2026 - Gartner Gartner https://www.gartner.com > market」（https://www.gartner.com/reviews/market/materials-informatics-solutions）
+  - 「Materials Informatics Market Companies , Size & Trends 2026 ... — Materials Informatics Market Companies , Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「Materials Informatics 2027-2037: Markets, Strategies, Players — Materials Informatics 2027-2037: Markets, Strategies, Players IDTechEx https://www.idtechex.com > materials...」（https://www.idtechex.com/en/research-report/materials-informatics/1183）
+  - 「Materials Informatics Market (2026-2036) - Meticulous Research — Materials Informatics Market (2026-2036) - Meticulous Research Meticulous Research https://www.meticulousresearch.com > ...」（https://www.meticulousresearch.com/product/materials-informatics-market-6787）
+  - 「Materials Informatics Market Companies, Size & Trends 2026 ... — Materials Informatics Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「マテリアルズインフォマティクス 開発 会社10社 - Metoree — マテリアルズインフォマティクス 開発 会社10社 - Metoree Metoree https://metoree.com > サービス」（https://metoree.com/categories/8864/）
+  - 「半年勉強するだけでも マテリアルズインフォマティクス は可能 — 半年勉強するだけでも マテリアルズインフォマティクス は可能 MONOist https://monoist.itmedia.co.jp > articles > news008」（https://monoist.itmedia.co.jp/mn/articles/2310/27/news008.html）
+- 価格：記載なし（読んだ45頁・検索9回）

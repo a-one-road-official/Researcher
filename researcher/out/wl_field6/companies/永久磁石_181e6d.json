@@ -1,0 +1,1169 @@
+{
+ "name": "永久磁石",
+ "en": "permanent magnet",
+ "aliases": [
+  "ネオジム磁石",
+  "レアアース磁石"
+ ],
+ "context": "9 マテリアル ①永久磁石",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:18:03.019273+00:00",
+ "evidence": {
+  "自社名で出せる条件": [
+   {
+    "quote": "Private Label",
+    "url": "https://magswitch.com/?srsltid=AYCX9vKJewDtCdMW5-zJ_TCByp6h1yKrnO_9kEcZjsitX3TFELJMnlav",
+    "pass": 3
+   },
+   {
+    "quote": "Closed-loop contracts increasingly specify where the recovered material will return, how recycled content will be verified and which environmental attributes can be claimed by the OEM.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Magnet-to-magnet and alloy-to-alloy routes are attracting investment because they can retain more embedded value than mixed-metal recovery when feedstock purity is sufficient.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "OEMs are under pressure to secure magnets with known origin, lower carbon intensity and reduced exposure to single-country supply. Procurement teams increasingly examine recycled content, chain of custody, delivery continuity and qualification evidence alongside unit price.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recovered alloy and powder support short-loop remanufacturing and can retain more embedded value than mixed oxide. Customers require tight control of oxygen, carbon, particle size and alloy composition. Providers that can deliver repeatable powder and support magnet qualification can earn higher margins, while mixed rare-earth oxide remains an important outlet for heterogeneous feedstock.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "HyProMag commercializes hydrogen processing of magnet scrap, which extracts and demagnetizes NdFeB alloy powder from magnets embedded in products. Activities are being developed in the UK, Germany and the U.S. The short-loop model targets hard drives, speakers, motors and other assemblies and can feed new magnet production.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Low recovery rates for magnets embedded in complex products.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "OEM procurement, sustainability and engineering teams",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "OEMs, owners, repowering and decommissioning teams",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "As part of the consortium, VAC will manufacture high-performance permanent magnets at its German facilities, based on the specifications of major automotive OEMs including Ford, Bentley, and",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "OEMもご相談ください",
+    "url": "https://www.magna-tokyo.com/outtech",
+    "pass": 3
+   },
+   {
+    "quote": "OEMもご相談ください！",
+    "url": "https://www.magna-tokyo.com/outtech",
+    "pass": 3
+   },
+   {
+    "quote": "OEM永久磁石：産業現場における重量物運搬に革命を起こすメーカー、サプライヤー｜Dr. Solenoid",
+    "url": "https://www.drsolenoid.com/ja/as-3425-power-on-to-release-electromagnet-300n-holding-force-permanent-electro-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM / ODM サービス",
+    "url": "https://www.aimmagnetic.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、創造性と専門知識を融合してパーソナライズされたデザインとプロフェッショナルな製造を実現する、専門的な ODM および OEM サービスを提供しています",
+    "url": "https://www.aimmagnetic.com/ja/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Variable Flux Output (VFO)",
+    "url": "https://magswitch.com/?srsltid=AYCX9vKJewDtCdMW5-zJ_TCByp6h1yKrnO_9kEcZjsitX3TFELJMnlav",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA margin expanded 1,048 bps to 25% due to better product mix",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Management guides FY27 revenue growth of 20-30% and EBITDA margins of 20-25%",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s EBITDA margin expanded significantly by",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "in Q2FY27, compared to 14.1% in the corresponding period last year. Sharad Taparia, Managing Director, attributed the margin improvement to a better product mix driven by higher EV demand and positive operating leverage from increased business throughput. The strong performance reflects the company's strategic focus on high-value segments amidst evolving automotive trends.",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA Margin",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "for the full year, with margins expected to improve towards breakeven or slightly higher levels.",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA Margins:",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Full-year EBITDA margins are guided to remain in the range of",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "What are the specific risks to the projected 20-25% EBITDA margin range if raw material costs for permanent magnets rise due to global supply chain volatility?",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Varun Beverages",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   },
+   {
+    "quote": "Largest regional market: Asia Pacific (75.6% revenue share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike electromagnets, which lose their magnetism when the electricity is switched off, permanent magnets retain their magnetic properties for a long duration, making them indispensable in various industrial applications.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "The NdFeB segment led the market with the largest revenue share of 71.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "The consumer goods segment led the market with the largest revenue share of 26.1% in 2025. The consumer goods segment is being propelled by rapid expansion in portable electronics and audio devices that require stronger, smaller magnets to deliver higher performance in ever smaller packages. Devices such as",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "The permanent magnets market size represents the total annual revenue generated from the sale of permanent magnets across various end-uses within a particular year.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated with a 75.6% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Neodymium iron boron (NdFeB) segment led with a 71.2% revenue share in 2025, while samarium cobalt (SmCo) is the fastest-growing material.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "The consumer goods segment dominated the market with a revenue share of 26.1% in 2025, while energy is the fastest-growing application.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Chemistry variability and contamination",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Creates margin uncertainty",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recovered alloy and powder support short-loop remanufacturing and can retain more embedded value than mixed oxide. Customers require tight control of oxygen, carbon, particle size and alloy composition. Providers that can deliver repeatable powder and support magnet qualification can earn higher margins, while mixed rare-earth oxide remains an important outlet for heterogeneous feedstock.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chemistry variability that limits direct recycling and complicates qualification.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major challenges include fragmented feedstock collection, difficult magnet extraction, chemistry variability, contamination, manual dismantling cost, rare-earth price volatility and long customer qualification cycles.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "/shared/quicknav/contact/distributors",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor Spain",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "No matter if you are looking for state-of-the-art current transformers, gate drive transformers or materials as a superior basis for your own components. With our vertical integration we cover various forms of supply to support your business.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "NIVAROX",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Our magnets with the highest remanences add value to our customers solutions within various industries such as automotive, aerospace, and marine. Cost-optimized solutions can be realized by applying Dy-diffusion.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "This website is currently not fully accessible. There are various deficiencies that do not comply with the requirements of the BFSG and the applicable technical standards, in particular the harmonized standard EN 301 549.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": ". Compared to conventional ferrite solutions or other amorphous materials, nanocrystalline VITROPERM offers a variety of advantages. The technical parameters allow a very compact design. Therefore the EMC solution can be used in a wide variety of applications even in small existing installation spaces.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Increasing electrification in all industries is a hot topic for us. The mitigation of electromagnetic interference in industrial electronics and in vehicles as well as the rapid further development of electric motors require a variety of new products. In the meantime, the development and manufacture of components for high-performance electric motors and generators are part of our core competence.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "VACUUMSCHMELZE (VAC) is among the world’s most innovative developers of magnetic materials, inductive components and other related products. With a global network of Sales and Field Application Engineers, VAC designs and manufactures tailor-made solutions for a wide variety of industries, comprising renewable energies, automotive, industrial automation installation technology, and aviation.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": ", which enables groundbreaking products for electromobility, photovoltaics and a variety of other applications. With all the current trends in development, be it renewable energy, electromobility or smart production, we enable our customers to push technical boundaries with their products and make the world a better place.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "At the 2015 eCarTec show, VACUUMSCHMELZE was presented with the Bavarian State Award for Electric and Hybrid Mobility for a new type of differential current sensor.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "NIVAROX - Information Sheets",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "/company/quality-and-safety/information-for-manufactured-articles/nivarox",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "/company/quality-and-safety/old-information-for-manufactured-articles-inclmagnets/nivarox",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "In its webinar on electric charging, VAC shows and describes solutions for the technical challenges of the various charging modes in the field of electric mobility.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "15 Kehilat Varsha st.",
+    "url": "https://www.elmag.co.il/Companies.html",
+    "pass": 3
+   }
+  ],
+  "提供企業": [
+   {
+    "quote": "Top Deliveries",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Today's Top Gainers",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Today's Top Losers",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Service Providers",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   },
+   {
+    "quote": "Competitors",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   },
+   {
+    "quote": "Service Providers Data",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   },
+   {
+    "quote": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, the continuous evolution of consumer electronics and medical technology sustains high demand. In electronics, the trend toward miniaturization requires smaller, more powerful magnets for devices like smartphones, laptops, and high-fidelity audio equipment. Simultaneously, the medical sector uses these magnets in critical diagnostic tools, such as",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Eclipse Magnetics Ltd., Electron Energy Corp. (EEC), and others",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the permanent magnets market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Adams Magnetic Products Co.; Earth-Panda Advance Magnetic Material Co., Ltd.; Arnold Magnetic Technologies; Daido Steel Co., Ltd.; Eclipse Magnetics Ltd.; Electron Energy Corp.; Goudsmit Magnetics Group; Hangzhou Permanent Magnet Group; Magnequench International, LLC; Ningbo Yunsheng Co., Ltd.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Providers are combining recycling services with recycled alloy, oxide or finished-magnet supply agreements, creating tighter integration between waste management and strategic-material procurement.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial investment is rising in North America and Europe as governments and manufacturers seek alternatives to concentrated rare-earth supply. New facilities combine local separation, centralized chemical recovery, alloy production and magnet manufacturing. Funding is also directed toward automation, hydrogen processing, selective leaching and lower-impact separation.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cyclic Materials, Noveon Magnetics, HyProMag and leading integrated rare-earth processors are positioned as stars because they combine differentiated technology, commercial capacity, feedstock partnerships and clear routes to qualified output. Their growth depends on executing planned facilities and converting announcements into reliable throughput.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chemistry uncertainty adds cost. Mixed neodymium-iron-boron grades may contain different levels of dysprosium, terbium, cobalt, aluminum and other elements. Ferrite or alnico contamination can make direct recycling unsuitable. Providers therefore need product databases, analytical screening and routing rules that separate reusable, short-loop and long-loop feedstock.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global market is segmented by service type, magnet type, recycling route, source industry, feedstock type, output form, customer type and region. One leading or strategically important subsegment is discussed under each category in line with the report-description format.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recovered alloy and powder support short-loop remanufacturing and can retain more embedded value than mixed oxide. Customers require tight control of oxygen, carbon, particle size and alloy composition. Providers that can deliver repeatable powder and support magnet qualification can earn higher margins, while mixed rare-earth oxide remains an important outlet for heterogeneous feedstock.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UK is a leading location for hydrogen processing of magnet scrap and short-loop recycling research. HyProMag is commercializing technology developed from University of Birmingham work, with applications across motors, speakers and hard drives. The opportunity depends on feedstock partnerships, commercial ramp-up and integration with magnet manufacturing.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Providers differentiate through lower energy use, reduced reagent demand, recovery of heavy rare earths, automated pre-processing, traceability and ability to process complex assemblies.",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Recommended Reports",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "We are a leading global manufacturer of advanced magnetic solutions, rare-earth permanent magnets and inductive components.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "We are Europe's leading rare earth permanent magnet manufacturer. Our specialties are sintered magnets based on neodymium-iron-boron and samarium-cobalt alloys.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Ucore is focused on rare- and critical-metal resources, extraction, beneficiation, and separation technologies with the potential for production, growth, and scalability. Ucore’s vision and plan is to become a leading advanced technology company, providing best-in-class metal separation products and services to the mining and mineral extraction industry.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Hanau / Toronto - October 22, 2025 – VACUUMSCHMELZE (VAC), a leading developer of magnetic materials and solutions, today announced an expansion of its partnership with",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Led by Ionic Technologies, the consortium includes leading partners from across the value chain: EMR (European Metal Recycling), Less Common Metals, the British Geological Survey (BGS), Bentley, Ford, and Wrightbus. VAC will work in close collaboration with these partners to deliver tailor-made magnetic solutions for next-generation e-mobility applications.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "WEMPEC is a world-renowned technology center recognized for pioneering research in power engineering, electric machines, and generators. As a member, VAC is excited to collaborate with leading researchers and industry partners on innovations that will shape the next decade of technology",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "VAC is a leading global producer of advanced magnetic materials and the largest producer of permanent magnets in the Western Hemisphere with nearly 100 years of experience.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "With 100 years of experience, VAC is a leading global developer and producer of advanced magnetic solutions. Additionally, VAC is the largest producer of rare-earth NdFeB permanent magnets in the Western Hemisphere.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "the intention of both parties to jointly approach potential new customers and present them with a ‘one-stop-shop’ solution to secure geopolitically independent and ESG responsible permanent magnets.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "ARA PARTNERS ACQUIRES VACUUMSCHMELZE, LEADING GLOBAL ADVANCED MAGNETIC MATERIALS PRODUCER",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Increasing electrification in all industries is a hot topic for us. The mitigation of electromagnetic interference in industrial electronics and in vehicles as well as the rapid further development of electric motors require a variety of new products. In the meantime, the development and manufacture of components for high-performance electric motors and generators are part of our core competence.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Let us talk about the future. VAC is at the forefront in many industries, for example in the hot topic of e-mobility. What role do you play in current innovations?",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "VAC is a leading solution provider of high performance stator and rotor solutions for electric motors. We are the only company in the industry that has complete in-house capability from proprietary advanced materials through full rotor-stator assemblies spanning cobalt-iron and permanent magnet solutions.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Hanau] – VACUUMSCHMELZE (VAC), a leading manufacturer of high-quality inductive components, is excited to announce the launch of its latest gate drive transformer, the T60403-F5046-X102. This innovative component is specifically designed for silicon carbide (SiC) applications, setting new standards in speed, efficiency, and loss reduction.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "“We are thrilled to have Reiner join VACUUMSCHMELZE as our new CEO,” said Jim Voss, CEO of VECTRA. “He is execution focused and has a track record of building organizations, leading teams, and creating significant value which makes him an ideal fit. We are confident he will bring a new level of focus and enthusiasm to VACUUMSCHMELZE.”",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Power Supplies, Desk Top & Wall Mount Adapters, DC-DC Converters and Battery Chargers",
+    "url": "https://www.elmag.co.il/Companies.html",
+    "pass": 3
+   },
+   {
+    "quote": "Strong Neodymium Magnets & Permanent Magnets Supplier | One-Stop Provider | MSuper",
+    "url": "https://www.aimmagnetic.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPページ",
+    "url": "https://www.jishaku.co.jp/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Permanent Magnets Q2FY27: Net profit up 156%; mgmt sees 20-30% FY27 growth",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Net profit rose 156% YoY to",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA margin expanded 1,048 bps to 25% due to better product mix",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Management guides FY27 revenue growth of 20-30% and EBITDA margins of 20-25%",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "in standalone net profit to",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s EBITDA margin expanded significantly by",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA (Excluding OI)",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA Margin",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Profit Before Taxes",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Net Profit",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "for the full year, with margins expected to improve towards breakeven or slightly higher levels.",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA Margins:",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Full-year EBITDA margins are guided to remain in the range of",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": ") and EBITDA growth (",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "What are the specific risks to the projected 20-25% EBITDA margin range if raw material costs for permanent magnets rise due to global supply chain volatility?",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   },
+   {
+    "quote": "Net Income",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Revenue grew 49% YoY to",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Management guides FY27 revenue growth of 20-30% and EBITDA margins of 20-25%",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "for the quarter ended September 30, 2026. Revenue from operations rose",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "In the Alloys division, H1FY27 revenue stood at approximately",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": ". Due to teething issues with the new furnace, full capacity utilization was constrained. These issues have since been resolved, and the company expects improved utilization of this new capacity in the second half of FY27. The total turnover for the alloys division is projected at",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, the company has entered the water meter segment with pilot supplies of 2,000-3,000 parts. This single product has a potential revenue contribution of",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "How will the delayed commercialization of the Relays business impact the company's FY28 revenue guidance and capital allocation strategy?",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets revenue rises 19% as Alloys division gains traction in Q1FY27",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "As of 30-Sep-2026, Permanent Magnets has a trailing 12-month revenue of $28M.",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   },
+   {
+    "quote": "The trailing twelve month revenue for Permanent Magnets is $28M.",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   },
+   {
+    "quote": "Largest regional market: Asia Pacific (75.6% revenue share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "The NdFeB segment led the market with the largest revenue share of 71.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "The consumer goods segment led the market with the largest revenue share of 26.1% in 2025. The consumer goods segment is being propelled by rapid expansion in portable electronics and audio devices that require stronger, smaller magnets to deliver higher performance in ever smaller packages. Devices such as",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, volume in kilotons, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "This report forecasts revenue and volume growth at global; regional; and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2021 to 2033. For this study, Grand View Research has segmented the global permanent magnets market report based on the application, material, and region.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Material Outlook (Volume, Kilotons; Revenue, USD Million; 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Application Outlook (Volume, Kilotons; Revenue, USD Million; 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook (Volume, Kilotons; Revenue, USD Million; 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated with a 75.6% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Neodymium iron boron (NdFeB) segment led with a 71.2% revenue share in 2025, while samarium cobalt (SmCo) is the fastest-growing material.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "The consumer goods segment dominated the market with a revenue share of 26.1% in 2025, while energy is the fastest-growing application.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "South Carolina Secretary of Commerce Harry M. Lightsey III delivered the keynote at the July 15 event marking the facility’s continued growth",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "SUMTER, S.C. – eVAC Magnetics and VACUUMSCHMELZE (VAC) Group held an opening ceremony on July 15 for their rare-earth permanent magnet facility in Sumter, South Carolina, the first large-scale producer of these magnets in the United States in more than a quarter century. South Carolina Secretary of State Harry M. Lightsey III delivered the keynote address.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to the keynote address by Secretary Harry M. Lightsey III, the July 15 event featured remarks by Sumter",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "accessible in accordance with the requirements of the German Accessibility Enforcement Act (Barrierefreiheitsstärkungsgesetz – BFSG) and the underlying EU Directive 2019/882. The following statement provides information on the current accessibility status, existing barriers, and planned measures.",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Permanent Magnets Ltd (BOM:504132) (Q2 2027) Earnings ... — Permanent Magnets Ltd (BOM:504132) (Q2 2027) Earnings ... GuruFocus https://www.gurufocus.com > news",
+    "url": "https://www.gurufocus.com/news/9143622/permanent-magnets-ltd-bom504132-q2-2027-earnings-call-highlights-ev-demand-fuels-49-revenue-surge-and-25-ebitda-margin",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets Q2FY27: Net profit up 156% - ScanX — Permanent Magnets Q2FY27: Net profit up 156% - ScanX scanx.trade https://scanx.trade > companies > per...",
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "pass": 3
+   },
+   {
+    "quote": "#PERMAGN Permanent Magnets Ltd | +55.6% QoQ) EB — #PERMAGN Permanent Magnets Ltd | +55.6% QoQ) EB Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/De3lSzBmIAa/",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets 2026 Company Profile - PitchBook — Permanent Magnets 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets Market Size & Share Report, 2026-2033 — Permanent Magnets Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size, Share, Trends & Growth 2034 — Permanent Magnet Market Size, Share, Trends & Growth 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; UK; France; China; India; Japan; Brazil",
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "pass": 3
+   },
+   {
+    "quote": "North America, Europe, Japan",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Permanent Magnet Recycling Services Market Opportunity",
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://vacuumschmelze.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "MG-901フライヤーについては日本語版に加え、英語版もご用意しています",
+    "url": "https://www.magna-tokyo.com/outtech",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan. All Rights Reserved.",
+    "url": "https://www.magna-tokyo.com/outtech",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.drsolenoid.com/ja/as-3425-power-on-to-release-electromagnet-300n-holding-force-permanent-electro-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "万が一、お客様の所へ不良が流出した場合でも、日本に緊急対応する体制が有りますので、迅速に対応致します",
+    "url": "https://www.magprost.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "近年の日本企業の海外進出に伴い、当社も1995年に香港営業所を設立しました",
+    "url": "https://www.jishaku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、中国の各提携工場に国内の生産設備を移管するとともに、日本の生産技術・品質管理手法等を導入して、当社の製品を生産委託するなど、積極的な事業展開を図ってまいりました",
+    "url": "https://www.jishaku.co.jp/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "28",
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "quote": "As of 30-Sep-2026, Permanent Magnets has a trailing 12-month revenue of $28M."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://magswitch.com/?srsltid=AYCX9vKJewDtCdMW5-zJ_TCByp6h1yKrnO_9kEcZjsitX3TFELJMnlav",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialedinweb.com/white-label-lead-magnets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anchorbytetech.com/services/white-label-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solutionshub.epam.com/blog/post/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/lead-magnet-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rockwellautomation.com/en-us/company/partnernetwork/oem-original-equipment-manufacturer-partners.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://vendingtracker.com/for/oem-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumen.com/en-us/partner/channel-partner-program.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.magnetic.app/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/partners?srsltid=AYCX9vIqseSGh5mT9Nbcob76blXkqPrscT6OTVFXysPKtrffgRnUiuKG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.partner.io/partner-types/reseller-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.backstorybranding.com/insights/rebrand-and-brand-refresh-examples-saas-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pedowitzgroup.com/blog/7-saas-rebrand-agencies-for-mid-market-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simon-kucher.com/en/insights/rise-private-label-why-brands-must-redefine-their-worth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jennyhendersonstudio.com/post/make-your-brand-a-high-converting-lead-magnet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://celerart.com/blog/rebranding-for-saas-and-technology-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gurufocus.com/news/9143622/permanent-magnets-ltd-bom504132-q2-2027-earnings-call-highlights-ev-demand-fuels-49-revenue-surge-and-25-ebitda-margin",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/legal-entities/india/permanent-magnets-limited/__8iXWFIx4JFJDUra_jUkgQG8pNH0WDfFHl4Ij75xbOT4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/165252-97",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stockopedia.com/share-prices/permanent-magnets-BOM:504132/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/startups/comments/196t4d3/bootstrapped_a_company_to_100k_in_revenue_in_its/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.indexventures.com/winning-in-the-us/archetypes-for-expansion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.melexis.com/en/tech-info/recommended-third-parties/magnet-suppliers",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://vacuumschmelze.com/search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microchip.com/en-us/support/design-help/design-partner-ecosystem/design-partner-program",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elmag.co.il/Companies.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lti.one/germany-israel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.magna-tokyo.com/outtech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drsolenoid.com/ja/as-3425-power-on-to-release-electromagnet-300n-holding-force-permanent-electro-magnet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shimonishi.net/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hbkworld.com/ja/products/transducers/oem-custom-sensors",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.las.jp/resonance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aimmagnetic.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.magprost.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/ferrite/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.magfine.co.jp/jpn/c_magnet/index.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jishaku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "permanent magnet software white label",
+   "results": [
+    "https://magswitch.com/?srsltid=AYCX9vKJewDtCdMW5-zJ_TCByp6h1yKrnO_9kEcZjsitX3TFELJMnlav",
+    "https://dialedinweb.com/white-label-lead-magnets",
+    "https://anchorbytetech.com/services/white-label-software/",
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://www.perspective.co/article/lead-magnet-software",
+    "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "https://www.qubesense.com/partner/",
+    "https://www.plasma-cloud.com/whitelabel/",
+    "https://www.magnfi.com/white-label-partner-program/",
+    "https://labelmagnets.com/white-magnetic-labels/"
+   ]
+  },
+  {
+   "query": "permanent magnet software OEM white-label partner",
+   "results": [
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://conversight.ai/oem-partners/",
+    "https://www.rockwellautomation.com/en-us/company/partnernetwork/oem-original-equipment-manufacturer-partners.html",
+    "https://vendingtracker.com/for/oem-partners",
+    "https://blog.bicomsystems.com/oem-and-white-label/",
+    "https://www.markem-imaje.com/services-support/customer-and-partner-support/oem-partners-support",
+    "https://intralearn.com/oem/",
+    "https://phixson.com/white-label-partner/",
+    "https://www.signmaster.software/oem-white-label-solutions/"
+   ]
+  },
+  {
+   "query": "permanent magnet software reseller partner program",
+   "results": [
+    "https://www.lumen.com/en-us/partner/channel-partner-program.html",
+    "https://www.magnetic.app/partner-program",
+    "https://www.ptc.com/en/partners?srsltid=AYCX9vIqseSGh5mT9Nbcob76blXkqPrscT6OTVFXysPKtrffgRnUiuKG",
+    "https://www.partner.io/partner-types/reseller-partners",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://www.visioneer.com/company/partner-program/",
+    "https://www.carahsoft.com/partners/resellers-service-providers",
+    "https://www.nanosystems.com/become-partner/",
+    "https://www.youtube.com/watch?v=jPzwiuOQIwQ",
+    "https://www.magnetforensics.com/channel-partners/"
+   ]
+  },
+  {
+   "query": "permanent magnet SaaS rebrand private label",
+   "results": [
+    "https://www.backstorybranding.com/insights/rebrand-and-brand-refresh-examples-saas-companies",
+    "https://www.pedowitzgroup.com/blog/7-saas-rebrand-agencies-for-mid-market-teams",
+    "https://www.simon-kucher.com/en/insights/rise-private-label-why-brands-must-redefine-their-worth",
+    "https://www.jennyhendersonstudio.com/post/make-your-brand-a-high-converting-lead-magnet",
+    "https://www.linkedin.com/pulse/rebranding-strategy-study-brand-equity-private-label-davcik-ph-d-",
+    "https://celerart.com/blog/rebranding-for-saas-and-technology-companies",
+    "https://www.swipewell.app/examples/saas-lead-magnets",
+    "https://www.youtube.com/watch?v=_ZNBTD8MmkQ",
+    "https://www.gingeritsolutions.com/blog/lead-magnet-examples-saas-ecommerce/"
+   ]
+  },
+  {
+   "query": "permanent magnet software company profitable EBITDA",
+   "results": [
+    "https://www.gurufocus.com/news/9143622/permanent-magnets-ltd-bom504132-q2-2027-earnings-call-highlights-ev-demand-fuels-49-revenue-surge-and-25-ebitda-margin",
+    "https://scanx.trade/stock-market-news/companies/permanent-magnets-net-profit-up-156-yoy-q2fy27/54378552",
+    "https://www.instagram.com/p/De3lSzBmIAa/",
+    "https://x.com/_Investor_Feed_/status/2113924562631241782",
+    "https://tracxn.com/d/legal-entities/india/permanent-magnets-limited/__8iXWFIx4JFJDUra_jUkgQG8pNH0WDfFHl4Ij75xbOT4",
+    "https://pitchbook.com/profiles/company/165252-97",
+    "https://www.stockopedia.com/share-prices/permanent-magnets-BOM:504132/",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5b67c507-6830-48dc-be9d-9994599b8e99.pdf",
+    "https://trendlyne.com/fundamentals/financials/2167/PERMAGN/permanent-magnets-ltd/",
+    "https://tickjournal.com/permanent-magnets-ltd-financial-statements/"
+   ]
+  },
+  {
+   "query": "permanent magnet software bootstrapped profitable revenue",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry",
+    "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "https://www.reddit.com/r/startups/comments/196t4d3/bootstrapped_a_company_to_100k_in_revenue_in_its/",
+    "https://www.indexventures.com/winning-in-the-us/archetypes-for-expansion",
+    "https://www.datamintelligence.com/research-report/permanent-magnet-recycling-services-market",
+    "https://www.linkedin.com/pulse/financial-insights-market-potential-permanent-magnets-research-uchpe",
+    "https://researchcentral.cibccm.com/cds?ID=5a271ebfd75d4106b423e3774d105d9e",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-ndfeb-permanent-magnets-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "https://www.mining.com/us-rare-earth-magnet-startup-raises-65m-to-scale-up-production/",
+    "https://profitable.app/bootstrapped"
+   ]
+  },
+  {
+   "query": "permanent magnet software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.melexis.com/en/tech-info/recommended-third-parties/magnet-suppliers",
+    "https://vacuumschmelze.com/search",
+    "https://www.microchip.com/en-us/support/design-help/design-partner-ecosystem/design-partner-program",
+    "http://www.elmag.co.il/Companies.html",
+    "https://lti.one/germany-israel/",
+    "https://anysilicon.com/israeli-semiconductor-companies/",
+    "https://www.isra-tech.net/25-years-siemens-israel-germany-synergy/",
+    "https://mainrichmagnets.com/top-10-neodymium-magnet-manufacturers-suppliers-in-germany-2025",
+    "https://www.calcalistech.com/ctechnews/article/b1zsfgpch",
+    "https://magnetism.eu/46-companies.htm"
+   ]
+  },
+  {
+   "query": "永久磁石 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.magna-tokyo.com/outtech",
+    "https://jp.linkedin.com/pulse/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%AE%E5%9B%BD%E5%86%85%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%BE%E3%81%A8%E3%82%81-switchsyncx-3o54e",
+    "https://www.drsolenoid.com/ja/as-3425-power-on-to-release-electromagnet-300n-holding-force-permanent-electro-magnet/",
+    "https://shimonishi.net/",
+    "https://www.hbkworld.com/ja/products/transducers/oem-custom-sensors",
+    "https://www.las.jp/resonance.html",
+    "https://newji.ai/procurement-purchasing/selection-of-permanent-magnets-and-their-applications-in-manufacturing/",
+    "https://www.braveridge.com/odm_oem/oem",
+    "https://www.grundfos.com/jp/learn/research-and-insights/high-temperature-pumps-and-motors-for-oems",
+    "https://www.drsolenoid.com/ja/oem-electromagnet-and-permanent-magnet/"
+   ]
+  },
+  {
+   "query": "永久磁石 ソフト 代理店 海外製",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%AE%E5%9B%BD%E5%86%85%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%BE%E3%81%A8%E3%82%81-switchsyncx-3o54e",
+    "https://www.aimmagnetic.com/ja/",
+    "https://www.magprost.jp/",
+    "https://metoree.com/categories/ferrite/",
+    "https://www.magfine.co.jp/jpn/c_magnet/index.html",
+    "https://www.jishaku.co.jp/",
+    "https://ja.gmagnets.com/",
+    "https://ja.gme-magnet.com/info/top-10-magnet-manufacturers-in-the-usa-85856858.html",
+    "https://www.cndailymag.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3-html",
+    "https://jp.made-in-china.com/co_kedemagnetics/"
+   ]
+  }
+ ],
+ "missing": {
+  "価格": "記載なし（読んだ45頁・検索9回）"
+ }
+}

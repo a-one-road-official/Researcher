@@ -1,0 +1,1019 @@
+{
+ "name": "民間航空機",
+ "en": "commercial aircraft",
+ "aliases": [
+  "旅客機",
+  "航空機部品"
+ ],
+ "context": "6 航空・宇宙 ①民間航空機",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:12:34.115880+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "SaaS Providers",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "Is EBITDA, the go-to metric for assessing profitability, misleading investors in the travel industry? Unlike EBITDAR, it ignores the massive impact of lease obligations—something that can significantly distort the operational efficiency of airlines and hotels.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "guesthouse in Bismarck or Topeka. In this case, to compare operating margins on a more similar footing, it makes sense to track property-level EBITDAR as it strips out the rent expense difference.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "by the top operators.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "However, in industries with substantial lease obligations, such as travel, EBITDA can be somewhat misleading. Companies with different property ownership structures will have different profit profiles. EBITDA might mask these differences, making it harder for investors to compare firms effectively.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Airports for Domestic Business Jet Operations",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "MARKET LEADING ADVISOR",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Engine makers, aircraft lessors, and maintenance shops continue to be the main beneficiaries of rising profits, but providers of specialist materials are becoming increasingly important gatekeepers of production and capacity. The trio generated more than 90% of the industry profit pool in 2025.",
+    "url": "https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, autonomy, missiles, militarized space, and AI enablement dominate the consensus view of military modernization. However, land systems will be the leading performer in economic profit and growth, according to the Outlook.",
+    "url": "https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/",
+    "pass": 3
+   },
+   {
+    "quote": "Evolution Wellness is a leading Asian fitness club network. The group is dedicated to developing a comprehensive wellness ecosystem and supportive atmosphere.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Fitness & Lifestyle Group is one of Asia-Pacific’s leading health and wellness groups. Their primary focus is to make a positive impact in people’s lives through innovative and diversified health and wellness offerings, across physical and digital platforms.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "IASO is a Greek healthcare group offering multiple medical specialities including a 24-hour emergency department. The company’s flagship asset is the state-of-the-art IASO Athens, Greece’s leading maternity, gynecological, and children’s hospital.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Mail Boxes Etc. is a leading third-party provider of shipping, fulfilment, printing, marketing communications and e-commerce solutions to small businesses and individual consumers, and operates via a network of franchised and owned locations.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "ProFund is a leading transfer agent for the global market offering specialized front and back-office solutions for both European and international financial institutions, including mutual funds, pension funds and insurance companies.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "SAF is a leading European helicopter owner and operator. The company is active across multiple business segments, notably helicopter emergency services, passenger transport, and tourism spaces, and operates within Europe and South Africa.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Unavets is a leading group of veterinary clinics and hospitals across Europe. The group has over 80 clinics in Spain and Portugal and is expanding across the continent.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Based in Dublin, Abelo is one of the leading lessors of commercial turboprop aircraft globally. The company’s core strategy involves acquiring popular mid-life turboprop aircraft at a discount and leasing these planes to regional airlines.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Axilone is a global leading manufacturer of primary plastic and metal packaging for the lipstick, fragrance and skincare segments. The company operates in France, Spain, the U.S. and China.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Countryside develops private and affordable homes on greenfield and brownfield sites through partnerships with landowners, local authorities and registered providers. The company primarily operates in London, the South East, East and North West of England.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Deutsche Office was a leading German listed commercial real estate company with a focus on German metropolitan centers. The company was created through the February 2014 merger of German Acorn, and Prime Office REIT-AG, a publicly traded German real estate company.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Echo Investment is a leading Polish developer in the office, commercial and residential real estate sector listed on the Warsaw Stock Exchange.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Kadans is a leading development and management platform for science parks and buildings dedicated to knowledge-intensive industries, universities and start-ups in the Netherlands and other European countries.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "LifeFit Group is a leading German fitness group, uniting eight fitness brands from boutique to high-value-low price and premium segments under one roof.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Milpro is a leading provider of inflatable and semi-rigid boats for the military and high-end professional market.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "to assess operational profitability and compare companies with varying fixed costs.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "Also, both metrics deduct taxes and interest because these costs are related to the company's financing and tax structure, which can vary greatly in companies and industries.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "(GAAP). So public companies are not required to disclose them. And even if they choose to, the calculation method may vary.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDAR margin and EBITDA margin",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "Both EBITDA and EBITDAR are usually used alongside relevant margins to make comparisons easier.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "The margins shift the focus from absolute numbers to relative numbers, helping compare the performance of different-size companies. By using margins, analysts and investors can assess how efficiently a company generates earnings in relation to its revenue, regardless of its scale or total revenue.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "when comparing businesses with high or varying rent costs (airlines, hotels, casinos, retail, transportation businesses, etc.) or when companies have had non-recurring restructuring expenses.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "The approach to fleet management varies among regions and types of carriers. Generally, airlines from Latin America (e.g., Aeroméxico) and Asia Pacific (e.g., Air China) predominantly use lease agreements. Similarly, most",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "that the average EBITDA margin for US airlines in mid-2025 was 12.2 percent. Comparing it with IATA figures won’t be accurate, but it can still give an idea of how different expense categories impact airline income.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": ". Let’s take Frontier and United as an example. Because their aircraft ownership structures are very different, for a more accurate comparison, we have to pay attention to EBITDAR margins instead of net or EBITDA margins. Here are the 2024 numbers.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "Net margin = 5.5%",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA margin = 14.4%",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDAR margin = 14.7%",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "Net margin = 2.3%",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA margin = 3.4%",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "Company % of 52 - Week High '26P '27P L TM EBITDAMargin L TM Revenue NTM Revenue L TM EBITDA NTM EBITDA",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Metrea Aerospace is an information-age aerospace and defense company that designs, builds, and delivers cutting-edge, turnkey solutions in multiple domains and across a wide variety of missions to governments in the U.S., Europe, and Asia.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Bavaria Yachtbau Gmbh (Germany)",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Bavaria Yachtbau, founded in 1978, was a global producer of mid-sized leisure boats. The company produced sailboats, motorboats and catamarans, and sold its products through a network of independent dealers in 50 countries.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Distributor",
+    "url": "https://www.moog.co.jp/markets/commercial-aircraft.html",
+    "pass": 3
+   },
+   {
+    "quote": "の代理店とし て維持 ・ 整備や近代化プログラムに",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "あり、 海外メーカーの代理店とし て、 乗員訓練に必要なフライ ト シミ ュレーターの販売 ・",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代理店事業 （米・ボーイング社）",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社の民間航空機の総代理店として日本の航空会社に旅客機を納入するお手伝いをし て",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代理店事業 （カナダ・ボンバルディ ア社）",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "え、 双日は昭和53 （1978） 年よりカナダのボンバルディ ア社の販売代理店として日本",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中古機 ・ パーツアウ ト事業とは、 経年により消耗した旅客機を整備 ・ 再販する、 または",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ボーイング社と代理店契約を締結した",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "episode 3 空へ～米 ・ ボーイ ング社の代理店に",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昭和31 （1956） 年、 日商はボーイング社との代理店契約を締結",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一時期は代理店継続も危ぶまれた",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ボーイングの代理店を取得した昭和31 （1956） 年、 アルゼンチン交通省向け",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1997年より航空機部品及び関連品卸売の米国最大手、Aircraft Spruce & Specialty社の日本代理店として活動",
+    "url": "https://www.tango-air-support.com/aircraft-parts-j.html",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "EBITDAR in Travel: Are Rent Costs That Critical?",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "Is EBITDA, the go-to metric for assessing profitability, misleading investors in the travel industry? Unlike EBITDAR, it ignores the massive impact of lease obligations—something that can significantly distort the operational efficiency of airlines and hotels.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "In this post, we compare EBITDA and",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDAR",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDAR and EBITDA in travel",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "to assess a company's profitability, evaluate its operational efficiency, and compare financial performance across companies or industries.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDAR is a metric similar to EBITDA, so let’s take a look at it as well.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDAR vs EBITDA",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDAR is frequently used in financial analysis",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "to assess operational profitability and compare companies with varying fixed costs.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "However, EBITDAR goes one step further and also adjusts for rent and restructuring expenses.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s also important to note that both EBITDA and EBITDAR are non-GAAP metrics, meaning that they are not defined by",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDAR margin and EBITDA margin",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "Both EBITDA and EBITDAR are usually used alongside relevant margins to make comparisons easier.",
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "pass": 3
+   },
+   {
+    "quote": "Company % of 52 - Week High '26P '27P L TM EBITDAMargin L TM Revenue NTM Revenue L TM EBITDA NTM EBITDA",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Engine OEMs and aircraft lessors still dominate industry profits",
+    "url": "https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/",
+    "pass": 3
+   },
+   {
+    "quote": "• Land systems offer a profit opportunity that exceeds missiles",
+    "url": "https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/",
+    "pass": 3
+   },
+   {
+    "quote": "Engine makers, aircraft lessors, and maintenance shops continue to be the main beneficiaries of rising profits, but providers of specialist materials are becoming increasingly important gatekeepers of production and capacity. The trio generated more than 90% of the industry profit pool in 2025.",
+    "url": "https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/",
+    "pass": 3
+   },
+   {
+    "quote": "AI has become core to commercial aerospace and defense systems, tackling challenges from the design of nextgen aircraft to the durability issues that have hobbled the latest airframe and engine families. “Services remain the industry's profit engine and AI-enabled tools are emerging as the next lever to transform the value chain,” said Stefan Ohl, Global Co-lead of Aerospace, Defense & Aviation.",
+    "url": "https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, autonomy, missiles, militarized space, and AI enablement dominate the consensus view of military modernization. However, land systems will be the leading performer in economic profit and growth, according to the Outlook.",
+    "url": "https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "OEM Deliveries Improve as Boeing",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026, and OEM deliveries improved after",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Long OEM backlogs, 100% bonus",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Output, and Capacity",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Deliveries Improve and Boeing’s",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Airlines Aircraft OEMs Aerospace Supply Chain and Aftermarket",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft OEMs: ENXTPA:AIR, ENXTPA:AM, NYSE:BA, NYSE:ERJ, NYSE:GD, NYSE:TXT , TSX:BBD.B",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft OEMs",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Engine OEMs and aircraft lessors still dominate industry profits",
+    "url": "https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、世界有数の民間航空機、輸送機、ビジネスジェット機向けに、OEM飛行制御機器およびシステムを提供しています",
+    "url": "https://www.moog.co.jp/markets/commercial-aircraft.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM（受託メーカー）は、先端素材、ロボティクス、積層造形、人工知能、高度なデータ分析やその他の技術を採用して、",
+    "url": "https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "OEMは、新しい機能を採用して実効性と多様性をさらに向上させ、バリュー・ネットワークと連携して有人および無人システムの提供、民間航空機の燃費改善、全体的な信頼性とコスト効果の向上を達成する必要があります",
+    "url": "https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "には、OEMとサプライヤー間、そして水素や持続可能な航空燃料（SAFs）などのエネルギー・コミュニティ内での強力な連携が必要です",
+    "url": "https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、エネルギー企業、空港、OEM、航空会社が協力して、確実なインフラ開発を行うことも必要です",
+    "url": "https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "航空機OEMは、この需要に対応するために、柔軟な生産レートを採用する必要があります",
+    "url": "https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "OEMとサプライチェーンは、未来型の工場により、効率を推進し、無駄を減らし、製品開発サイクルを短縮して、市場の需要に対応できます",
+    "url": "https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "lifting revenue to $24.6 billion, and closed",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Company % of 52 - Week High '26P '27P L TM EBITDAMargin L TM Revenue NTM Revenue L TM EBITDA NTM EBITDA",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Nordenia is a leading multinational manufacturer of technically innovative and value-added plastic film and packaging for customers in the food, hygiene, chemical and automotive industries. A majority of the company’s revenues come from blue-chip, multi-national consumer product companies such as Procter & Gamble, Nestlé and Mars. The company was acquired by Mondi Group in October 2012.",
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "pass": 3
+   },
+   {
+    "quote": "大正 6 （1917） 年、 鈴木商店は売上高で日本一の総合",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "果たすために、 多くのデータ( エビデンス) を残す必要があり、 日本ではあまり馴染みの",
+    "url": "https://www.iadf.or.jp/document/pdf/2021-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "それに 加えて、日本では民間航空機を開発する機会自体が少ないた",
+    "url": "https://www.iadf.or.jp/document/pdf/2021-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "め、開発保証に関する技術、経験、知見が日本国内に少ないことが課題として挙げら",
+    "url": "https://www.iadf.or.jp/document/pdf/2021-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "認証当局とは日本の場合は国土交通省の航空局であり、米",
+    "url": "https://www.iadf.or.jp/document/pdf/2021-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（日本） や 「JALUX DUTYFREE VIETNAM」 （ベトナム） も展開しています",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備の導入を行っており、 日本の空の安全に貢献し て",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "双日は、 日本の安全保障上の課題に対応するため",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東日本大震災で橋が崩落した際には、 当社が納入した組み立て式の橋が活躍",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "双日は航空機の納入のみならず 、 日本の空でそれら航空機をより安全かつ効率的に",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "られる日本国内のルールに従う技能訓練を実施した後、 日本国内の",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "島国である日本にとって航空機は今も昔も時間と労力を軽減する貴重な移動 ・ 輸送手段",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社の民間航空機の総代理店として日本の航空会社に旅客機を納入するお手伝いをし て",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本で最初のボーイング機の受注は昭和39 （1964） 年のボーイング727",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当時、 日本国内では“より速く”移動できる航空機を求めていた",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "旅客機が採用され、 一時期は日本の空のシェア90％以上を占めていました",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空会社の声がより多く取り入れられ、 日本のメーカーによる部材が多く採用された",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "象徴的な航空機であるボーイング787型機が、 平成23 （2011） 年に世界で初めて日本",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の国土の特徴を踏まえると、 国内移動においては細やかで多頻度な航空輸送手段",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "え、 双日は昭和53 （1978） 年よりカナダのボンバルディ ア社の販売代理店として日本",
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1997年より航空機部品及び関連品卸売の米国最大手、Aircraft Spruce & Specialty社の日本代理店として活動",
+    "url": "https://www.tango-air-support.com/aircraft-parts-j.html",
+    "pass": 3
+   },
+   {
+    "quote": "現物預かりの場合、ある程度の日数が必要ですが、エクスチェンジを利用しますと、在庫があれば3日で日本に届くことが可能です",
+    "url": "https://www.tango-air-support.com/aircraft-parts-j.html",
+    "pass": 3
+   },
+   {
+    "quote": "無線機器の修理をしたいのですが、日本では古い型なので修理不可といわれました",
+    "url": "https://www.tango-air-support.com/aircraft-parts-j.html",
+    "pass": 3
+   },
+   {
+    "quote": "カタログ価格はあくまでもアメリカ現地での販売価格ですので、日本では輸入送料や通関手数料などの経費を含めた価格での販売になります",
+    "url": "https://www.tango-air-support.com/aircraft-parts-j.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2021-2 民間航空機 搭載 ソフトウェア の開発ガイドライン DO ... — 2021-2 民間航空機 搭載 ソフトウェア の開発ガイドライン DO ... 航空機国際共同開発促進基金 PDF https://www.iadf.or.jp > document > pdf",
+    "url": "https://www.iadf.or.jp/document/pdf/2021-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機 | ダッソー・システムズ - Dassault Systèmes — 民間航空機 | ダッソー・システムズ - Dassault Systèmes Dassault Systèmes https://www.3ds.com > 3DS > 業界 > 航空宇宙・防衛",
+    "url": "https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "24.6",
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "quote": "lifting revenue to $24.6 billion, and closed"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.leonsoftware.com/blog/announcing-the-white-label-owner-app.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flightslogic.com/flight-white-label.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.software.travel/glossary/white-label-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.switchfly.com/features/white-label-travel-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.365aviation.com/white-label-private-jet-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psware.com/services/commercial-aviation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airstride.ai/platform/whitelabelling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obds.aero/about-us/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajw-group.com/services/asset-management/channel-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honeywellaerospace.com/us/en/customer-support/channel-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plane.so/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accountingseed.com/aviation-accounting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-able.com/partnerships/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theprivatelabelproductions.com/industries/airlines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cirrusaircraft.com/story/cirrus-evolves-brand-to-drive-next-era-of-personal-aviation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.designinc.co.uk/portfolio/bombardier-aerospace-brand-design/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jetfly.com/media-centre/news/jetfly-unveils-new-global-brand-identity-to-unite-its-business-aviation-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://businessalabama.com/airbus-streamlines-its-brand-bails-on-acronym/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0969699725001267",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/aviation-mro-software-market-101798",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://idealogic.io/blog/top-aviation-software-development-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/aviation-software-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/industries/i-aviation-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/aviation-software-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/aviation-software-market-116562",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dronehub.ai/blog/drone-companies-to-follow-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://breakingdefense.com/2026/06/elbit-marks-30b-backlog-announces-1-4-billion-deal-with-mystery-european-customer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://boeing.mediaroom.com/2026-08-10-Archer-to-Shape-Physical-AI-Future-of-Aerospace-and-Defense-with-Acquisition-of-Boeings-Wisk-Aero,-Insitu-and-SkyGrid-Subsidiaries-Boeing-to-Invest-in-Archer-and-Collaborate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adriadefense.com/7-israeli-defense-tech-companies-expanding-into-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eaton.com/jp/ja-jp/markets/aerospace/commercial-aircraft-OEM.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://sclabair.com/Service/software-2/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moog.co.jp/markets/commercial-aircraft.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/us-aviation-mro-software-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadf.or.jp/document/pdf/2021-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaigaibussan.co.jp/service/aircraft/helicopter/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tango-air-support.com/aircraft-parts-j.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcmachinery.co.jp/introduction/space/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "commercial aircraft software white label",
+   "results": [
+    "https://www.leonsoftware.com/blog/announcing-the-white-label-owner-app.html",
+    "https://www.flightslogic.com/flight-white-label.php",
+    "https://www.software.travel/glossary/white-label-solution/",
+    "https://www.switchfly.com/features/white-label-travel-platform",
+    "https://www.linkedin.com/pulse/decoding-sw-labels-four-tier-colormap-avionics-software-saban-safak-4vrsf",
+    "https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software",
+    "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "https://www.quora.com/Why-do-some-airlines-choose-custom-software-over-commercial-aviation-platforms",
+    "https://partner.expediagroup.com/en-us/solutions/build-your-travel-experience/white-label-travel-platform",
+    "https://www.banuba.com/blog/best-white-label-software"
+   ]
+  },
+  {
+   "query": "commercial aircraft software OEM white-label partner",
+   "results": [
+    "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "https://www.365aviation.com/white-label-private-jet-services",
+    "https://www.psware.com/services/commercial-aviation/",
+    "https://www.airstride.ai/platform/whitelabelling",
+    "https://www.obds.aero/about-us/partners",
+    "https://www.moog.com/markets/commercial-aircraft.html",
+    "https://www.beyondtechservices.com/white-label",
+    "https://www.boeingsuppliers.com/become",
+    "https://brekeke.com/partner/oem-partner.php"
+   ]
+  },
+  {
+   "query": "commercial aircraft software reseller partner program",
+   "results": [
+    "https://www.ajw-group.com/services/asset-management/channel-partner",
+    "https://www.honeywellaerospace.com/us/en/customer-support/channel-partners",
+    "https://plane.so/partners",
+    "https://www.accountingseed.com/aviation-accounting-software/",
+    "https://www.n-able.com/partnerships/reseller-program",
+    "https://www.reddit.com/r/flying/comments/8zeaom/airplane_partnership_software/",
+    "https://www.proponent.com/news/aircraft-parts-distributor/",
+    "https://haivisionmcs.com/partners/",
+    "https://paragonvendors.com/join/",
+    "https://vigilantaerospace.com/certified-avionics-software-reseller-partner-opportunities/"
+   ]
+  },
+  {
+   "query": "commercial aircraft SaaS rebrand private label",
+   "results": [
+    "https://theprivatelabelproductions.com/industries/airlines/",
+    "https://cirrusaircraft.com/story/cirrus-evolves-brand-to-drive-next-era-of-personal-aviation/",
+    "https://www.365aviation.com/white-label-private-jet-services",
+    "https://www.designinc.co.uk/portfolio/bombardier-aerospace-brand-design/",
+    "https://jetfly.com/media-centre/news/jetfly-unveils-new-global-brand-identity-to-unite-its-business-aviation-services",
+    "https://businessalabama.com/airbus-streamlines-its-brand-bails-on-acronym/",
+    "https://www.instagram.com/reel/C6KJWQTIEQh/",
+    "https://flydocs.aero/news/flydocs-announces-rebrand-launch-to-align-with-new-corporate-strategy",
+    "https://www.honeywellaerospace.com/us/en/insights/articles/honeywell-aerospace-reveal-new-brand",
+    "https://resellportal.com/what-is-private-label-saas/"
+   ]
+  },
+  {
+   "query": "commercial aircraft software company profitable EBITDA",
+   "results": [
+    "https://www.altexsoft.com/blog/ebitdar-travel/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0969699725001267",
+    "https://www.williamblair.com/-/media/downloads/ib/2026/williamblair-aviation-services-industry-update-q22026.pdf",
+    "https://www.fortunebusinessinsights.com/industry-reports/aviation-mro-software-market-101798",
+    "https://idealogic.io/blog/top-aviation-software-development-companies",
+    "https://privatejetcardcomparisons.com/2026/03/05/flyexclusive-posts-record-revenue-positive-ebitda-cuts-net-loss/",
+    "https://dealstream.com/industry-guides/air-transportation-businesses/rules-of-thumb",
+    "https://www.investopedia.com/terms/e/ebitda.asp",
+    "https://www.reddit.com/r/aviation/comments/1avker8/where_does_the_profit_of_big_airlines_come_from/",
+    "https://firstpagesage.com/business/aerospace-ebitda-valuation-multiples/"
+   ]
+  },
+  {
+   "query": "commercial aircraft software bootstrapped profitable revenue",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/aviation-software-market-report",
+    "https://getlatka.com/companies/industries/i-aviation-software",
+    "https://www.precedenceresearch.com/aviation-software-market",
+    "https://www.fortunebusinessinsights.com/aviation-software-market-116562",
+    "https://www.alixpartners.com/newsroom/2026-aerospace-defense-outlook-nextgen-aircraft-create-opportunity-for-an-aerospace-industry-reset/",
+    "https://www.iata.org/contentassets/85b59d951fc04c1c83fa2aab47824300/reviving-the-commercial-aircraft-supply-chain.pdf",
+    "https://www.mordorintelligence.com/industry-reports/aviation-software-market",
+    "https://aviationweek.com/aerospace/manufacturing-supply-chain/opinion-commercial-aerospace-has-profit-problem",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0969699725001267",
+    "https://profitable.app/bootstrapped"
+   ]
+  },
+  {
+   "query": "commercial aircraft software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.oaktreecapital.com/portfolio-companies/european-principal",
+    "https://dronehub.ai/blog/drone-companies-to-follow-2026",
+    "https://breakingdefense.com/2026/06/elbit-marks-30b-backlog-announces-1-4-billion-deal-with-mystery-european-customer/",
+    "https://boeing.mediaroom.com/2026-08-10-Archer-to-Shape-Physical-AI-Future-of-Aerospace-and-Defense-with-Acquisition-of-Boeings-Wisk-Aero,-Insitu-and-SkyGrid-Subsidiaries-Boeing-to-Invest-in-Archer-and-Collaborate",
+    "https://www.adriadefense.com/7-israeli-defense-tech-companies-expanding-into-europe/",
+    "https://herwingt-project.eu/about/the-team/israel-aerospace-industries-ltd",
+    "https://www.elbitsystems.com/business-overview",
+    "https://www.monterail.com/blog/top-offshore-software-development-companies",
+    "https://www.ifs.com/en",
+    "https://idealogic.io/blog/top-aviation-software-development-companies"
+   ]
+  },
+  {
+   "query": "民間航空機 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.eaton.com/jp/ja-jp/markets/aerospace/commercial-aircraft-OEM.html",
+    "https://sclabair.com/Service/software-2/",
+    "https://www.moog.co.jp/markets/commercial-aircraft.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/us-aviation-mro-software-market",
+    "https://www.iadf.or.jp/document/pdf/2021-2.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BAmro%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E5%B8%82%E5%A0%B4-101798",
+    "https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation",
+    "https://altonaviation.com/ja/alton_insights/2023-2033-commercial-aircraft-and-engine-fleet-forecast/",
+    "https://manufacturo.com/jp/industries/aviation-industry-software/",
+    "https://www.mhi.com/jp/group/masc/technology/process/software"
+   ]
+  },
+  {
+   "query": "民間航空機 ソフト 代理店 海外製",
+   "results": [
+    "https://www.sojitz.com/pdf/jp/corporate/history/sky_comic.pdf",
+    "https://www.3ds.com/ja/industries/aerospace-defense/commercial-aviation",
+    "https://kaigaibussan.co.jp/service/aircraft/helicopter/",
+    "https://www.tango-air-support.com/aircraft-parts-j.html",
+    "https://www.mcmachinery.co.jp/introduction/space/",
+    "https://www.kansai.meti.go.jp/3-5sangyo/kokuuki/report_jireisyu.pdf",
+    "https://www.spp.co.jp/business/aerospace/",
+    "https://www.atpress.ne.jp/news/5472918",
+    "https://www.avionteq.com/ja",
+    "http://kaigaisoft.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "価格": "記載なし（読んだ45頁・検索9回）"
+ }
+}

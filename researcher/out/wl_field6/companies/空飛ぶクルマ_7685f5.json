@@ -1,0 +1,1960 @@
+{
+ "name": "空飛ぶクルマ",
+ "en": "eVTOL",
+ "aliases": [
+  "電動垂直離着陸機",
+  "UAM"
+ ],
+ "context": "6 航空・宇宙 ③空飛ぶクルマ",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:14:58.169800+00:00",
+ "evidence": {
+  "自社名で出せる条件": [
+   {
+    "quote": "For paid commercial use, white-label, or custom data feeds",
+    "url": "https://evtol.travel/press/embed",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "pass": 3
+   },
+   {
+    "quote": "Electric Vehicle OEM",
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label | API-Stack",
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "pass": 3
+   },
+   {
+    "quote": "Grid ~ CPO ~ Fleet ~ OEM",
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label",
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "pass": 3
+   },
+   {
+    "quote": "ELinOS Embedded Linux",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Linux",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Rust",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "SYSGO supports this cutting-edge domain by providing embedded software solutions designed to meet the highest safety and security standards required for this transformative technology.",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "SYSGO leverages its expertise in embedded systems to provide eVTOL manufacturers with high-assurance software solutions based on our PikeOS real-time operating system (RTOS) and hypervisor. PikeOS is certified to the most rigorous Safety (DO-178C up to DAL A) and Security (Common Criteria EAL 5+) standards.",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded software is key to addressing these complexities, enabling precise actuator control, sensor fusion, and mission planning. Ansys and SYSGO provide advanced tools to develop efficient, secure, and intelligent software solutions, accelerating eVTOL innovation.",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Software",
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "model-based development environment for critical embedded software is also used at this point to check that the modeled hardware and software are in sync. The SCADE environment is built for embedded software, providing linkage to requirements management, model-based design, verification, certified code generation, and interoperability with other development tools and platforms.",
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys Autonomy: Automating Embedded Planning and Controls via Model-based Software Solutions",
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Private Jet Booking Software | Partners",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label private jet booking software for partners",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label private jet booking software for",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Keep your client relationship and earn from private aviation. AirPartner OS gives travel agencies, concierges and affiliates private jet booking tools, a partner portal and commission tracking. Pro and Enterprise provide booking under your own brand; Lite and Plus use Lineaum branding.",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Branded booking widgets embedded on any partner website",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Connect your brand and booking channel",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label booking engine",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, our aviation infrastructure",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Can travel agents add white label private jet booking to their website?",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "provides private jet booking tools for travel agencies and concierges. Pro and Enterprise support white-label booking; Lite and Plus use the Lineaum-branded experience. Compare widget access, partner commission tracking and integration requirements with your chosen plan.",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Travel agents embed a white label booking widget or use a branded partner portal, so clients request private jet charter under the agency brand while Lineaum handles sourcing and fulfilment.",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "What is white label private jet booking software?",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "It is booking software rebranded to the partner. The widget, portal and confirmations carry the partner's identity while availability, quoting and operations run on Lineaum.",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Which plans include white-label branding?",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Pro and Enterprise provide white-label branding. Lite and Plus use the Lineaum-branded experience. Check widget and integration access on the current pricing page.",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL OEM Manufacturer | EAGLOX Aircraft Manufacturing",
+    "url": "https://eaglox.com/aircraft-oem-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL OEM Manufacturer",
+    "url": "https://eaglox.com/aircraft-oem-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "EAGLOX provides OEM manufacturing, contract manufacturing and product assembly services for aviation partners building electric ultralight aircraft and low-altitude mobility products.",
+    "url": "https://eaglox.com/aircraft-oem-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM programs can support private-label production, assembly cooperation, component integration or market-specific aircraft configuration review.",
+    "url": "https://eaglox.com/aircraft-oem-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "EAGLOX supports OEM manufacturing and assembly for electric ultralight aircraft.",
+    "url": "https://eaglox.com/aircraft-oem-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact EAGLOX for Aircraft Sales, OEM and Partnerships",
+    "url": "https://eaglox.com/aircraft-oem-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL and OEM Solutions - Archangel Systems, Inc",
+    "url": "https://archangel.com/products/evtol/",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL and OEM Solutions",
+    "url": "https://archangel.com/products/evtol/",
+    "pass": 3
+   },
+   {
+    "quote": "The AHR75, essentially an AHR150A without its embedded airdata computer, is ideal for platforms that already have an airdata source. The ’75 is smaller, lighter, and consumes less power than the AHR150A. Otherwise, similarity to the AHR150A includes all certifications, data accuracy, and data latency. The AHR150A-2 MSU can be interfaced to provide magnetic heading.",
+    "url": "https://archangel.com/products/evtol/",
+    "pass": 3
+   },
+   {
+    "quote": "platforms. The AHR50 is designed to be embedded into a larger housing that meets DO-160 requirements.",
+    "url": "https://archangel.com/products/evtol/",
+    "pass": 3
+   },
+   {
+    "quote": "VTOL Drone OEM, Payload Integration & Distribution | TJW",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & Distribution",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Get an OEM Quote",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "UAV OEM & DISTRIBUTION PROGRAM",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "VTOL DRONE OEM & DISTRIBUTION.",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "CHOOSE THE OEM SCOPE YOUR PROJECT NEEDS.",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "01 / PRIVATE LABEL",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Private-label UAV OEM",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Prepare OEM branding and technical documentation.",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "A useful OEM quote depends on the operating mission, not only an airframe model. The questions below help importers and integrators make comparable requests without assuming that a published maximum applies to every payload or configuration.",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Specify expected quantity, OEM branding, documentation, training, warranty, spare-parts support and target purchase timeline. Confirm what is included in the final written quotation.",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "05 / OEM SCOPE QUESTIONS",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I request OEM integration with my own payload?",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Do I need to choose a UAV model before sending an OEM inquiry?",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Start an OEM Brief ↗",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Open to commercial eVTOL operators, OEMs, vertiport operators, and authorized brokers (Joby, Archer, Beta, Volocopter, Lilium, EHang, Eve, Vertical Aerospace, Wisk, Blade, etc.). We won't verify a partner without a real product and a public site.",
+    "url": "https://evtol.travel/press/partners",
+    "pass": 3
+   },
+   {
+    "quote": "By delivering stable, traceable measurements under harsh conditions, GRAS helps OEMs and suppliers meet performance targets, satisfy regulatory noise limits, and build socially acceptable urban and regional air mobility services.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "With deep roots in Europe and a global consulting footprint, Roland Berger serves as a trusted advisor to OEMs, mobility operators, infrastructure developers, and public-sector leaders driving the next generation of vertical flight.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": ": Support go‑to‑market strategy, regulatory frameworks, and investment proposals for new AAM systems, including Middle East vertiport networks and OEM route planning projects.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "MOC Simulation Services delivers a crucial bridge between emerging eVTOL vehicle technologies and the pilot training standards required for safe, scalable operations. Their motion-based simulation systems enable OEMs, operators, aviation regulators, and training organisations to develop curricula that reflect the unique flight control and performance envelope of VTOL aircraft.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Partner program",
+    "url": "https://evtol.travel/press/embed",
+    "pass": 3
+   },
+   {
+    "quote": "HW & SW Partners / Distributors",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOLs demand sophisticated software architectures to manage decision-making across various time scales and criticality levels:",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partners",
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "(STK) digital mission engineering software to define an eVTOL’s mission with a system-of-systems approach. The STK platform enables you to model complex systems inside a realistic and time-dynamic 3D simulation, including high-resolution terrain, imagery, and radio frequency (RF) environments. This critical insight helps you design a safer mission, considering unforeseen variables.",
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Partner portals for travel agents, concierges and resellers",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Wholesale Distributor Partnerships",
+    "url": "https://eaglox.com/aircraft-oem-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner program",
+    "url": "https://evtol.travel/marketplace",
+    "pass": 3
+   },
+   {
+    "quote": "A clear, complete partnership path for VTOL and fixed-wing UAV importers, distributors and system integrators—from mission requirements through delivery and support.",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Private-label aircraft, payload integration and distributor support are different requirements. Choose a starting point below, then confirm the configuration and included deliverables during project review.",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "For distributors planning a product range for their market. Share destination, customer applications, forecast quantity, training and spare-parts needs so the written quotation can define the support and supply scope.",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Submit Distributor Requirements ↗",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Identify the destination, end user and intended operation. Import, radio, aviation and export requirements vary by country; eligibility and documents are reviewed for each project.",
+    "url": "https://tjwvtol.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Co-marketing partner program",
+    "url": "https://evtol.travel/press/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Partner program",
+    "url": "https://evtol.travel/press/partners",
+    "pass": 3
+   },
+   {
+    "quote": "graphite foils serve as high-efficiency heat distributors and protective layers, enhancing structural temperature uniformity and component protection in tight aircraft layouts.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": ": Up to 1,000 km (standard), with extended-range variants under development",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "Variants",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": ": Specialized in SLM 3D-metal printing with a variety of aerospace-grade alloys including Inconel, enabling lightweight, complex geometries for propulsion, hydrogen systems, and structural parts.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "MANTA’s multi-model ANN family—including the flagship ANN2 two-seater, ANN Plus (4–6 seats), and a high-endurance autonomous drone variant—uses a lightweight carbon-fiber airframe, turbo-generator hybrid propulsion, and eight ducted electric fans (four tilting) for both vertical lift and efficient cruise.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": ": Their test rigs can independently control and measure up to eight rotors (as on many eVTOL designs), enabling validation of scenarios like coordinated thrust in turns or induced failures under varying flight conditions, supporting certification documentation with time-synchronized data collection.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "A fatal Cessna 210 accident shows how repeated success can erode safety margins.",
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "pass": 3
+   },
+   {
+    "quote": "North America held the largest revenue share, at 42.1% in 2025, supported by investment in advanced air mobility, aircraft development, digital aviation infrastructure and autonomous flight technologies.",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "This is a paid press release. Contact the press release distributor directly with any inquiries.",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 3. eVTOL Software Market Variables, Trends, & Scope",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor and Partner Research",
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aditi Shivarkar",
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "pass": 3
+   },
+   {
+    "quote": "electric motors and propulsion segment captured a major revenue share",
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "pass": 3
+   },
+   {
+    "quote": "Joby's growth illustrates how commercialising AAM is integral. To enable a large-scale mobility network to operate efficiently, the advancement of aircraft certification, manufacturing capacity, infrastructure development, operator partnerships, and approvals by various regulatory entities is required to move forward simultaneously.",
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "pass": 3
+   },
+   {
+    "quote": "As per our senior researcher, Aditi Shivarkar, the roadmap that Archer is charting is not only for passenger air mobility, but for defence and autonomous-aircraft opportunities as well. The company can utilise and leverage its aircraft, propulsion, and autonomy solutions for several emerging aviation applications.",
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "pass": 3
+   },
+   {
+    "quote": "var signInLink = document.querySelector( \"header .r-sign-in\" );",
+    "url": "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "pass": 3
+   },
+   {
+    "quote": "Costco Wholesale Corporation",
+    "url": "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "pass": 3
+   },
+   {
+    "quote": "RALLC and Alltec, both headquartered in Brazil, were selected to supply various fuselage components. RALLC is a supplier that covers all stages of the manufacturing processes for structural components, providing integrated and innovative solutions for several aerospace companies including Embraer.",
+    "url": "https://www.eveairmobility.com/eve-names-suppliers-for-evtol-windows-doors-and-fuselage-components/",
+    "pass": 3
+   },
+   {
+    "quote": "Various Chinese state investors",
+    "url": "https://evtolindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Various Chinese and European investors",
+    "url": "https://evtolindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Official Distributors",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "OFFICIAL DISTRIBUTORS",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "UTC Aerospace Systems’ Aerostructures business extends its contract with Hexcel to supply advanced composites for various commercial aerospace programs has been extended through 2030.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Approved distributor for the storage, handling and control of aerospace products. AS9120 certified.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Boeing Material Specifications Qualified Distributor:",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Designated Hexcel distributor for the UAV/UAM market.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Approved distributor for the cutting and expansion of aerospace HexWeb® honeycomb",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Approved distributor for the storage, handling and control of aerospace products. EN9120 certified.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Airbus Material Specifications Qualified Distributor",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Approved distributor for the storage, handling and control of aerospace adhesives products.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Approved distributor for the storage, handling and control of aerospace products.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Approved distributor for the cutting and expansion of HexWeb® honeycomb. EN9100/EN9120 certified.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors Inc.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Gentile earned his bachelor’s degree in economics magna cum laude and an MBA from Harvard University, and he studied international relations at the London School of Economics.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of the M1 eVTOL family, pursuing cargo-first certification through the M1B uncrewed variant.",
+    "url": "https://www.propulsionwatch.com/companies",
+    "pass": 3
+   },
+   {
+    "quote": "エアモビリティ、スイスの「空飛ぶクルマ」メーカーと代理店契約 │ LOGI-BIZ online（ロジビズ・オンライン）",
+    "url": "https://online.logi-biz.com/42936/",
+    "pass": 3
+   },
+   {
+    "quote": "エアモビリティ、スイスの「空飛ぶクルマ」メーカーと代理店契約",
+    "url": "https://online.logi-biz.com/42936/",
+    "pass": 3
+   },
+   {
+    "quote": "「空飛ぶクルマ」のプラットフォーム事業を手掛けるエアモビリティは6月22日、スイスのeVTOL（電動垂直離発着機、空飛ぶクルマの一種）メーカーDufour Aerospace（デュフォーエアロスペース）と日本市場における代理店契約を締結したと発表した",
+    "url": "https://online.logi-biz.com/42936/",
+    "pass": 3
+   },
+   {
+    "quote": "Sky-Drones社と【販売代理店】【日本国内での製造受託】に関する基本合意書を締結",
+    "url": "https://airmobility.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOLは一般的に空飛ぶクルマの一種をされ、エアモビリティ社はVRCOの販売代理店として日本市場で最先端の空飛ぶクルマを販売・提供していく",
+    "url": "https://jidounten-lab.com/w_airmobility-skycars",
+    "pass": 3
+   },
+   {
+    "quote": "エアモビリティ株式会社が、スイスの「eVTOL （空飛ぶクルマ）」メーカー Dufour Aerospace社と代理店契約を締結 | エアモビリティ株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000073145.html",
+    "pass": 3
+   },
+   {
+    "quote": "エアモビリティ株式会社が、スイスの「eVTOL （空飛ぶクル�マ）」メーカー Dufour Aerospace社と代理店契約を締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000073145.html",
+    "pass": 3
+   },
+   {
+    "quote": "「空飛ぶクルマ」のプラットフォーム事業を手掛けるエアモビリティ株式会社（東京都新宿区、代表取締役社長 CEO：浅井 尚）は、スイスの「eVTOL（空飛ぶクルマ）」メーカーであるDufour Aerospace社（チューリッヒ、CEO：Thomas Pfammatter）と日本市場における代理店契約を締結いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000073145.html",
+    "pass": 3
+   },
+   {
+    "quote": "エアモビリティ株式会社が、スイスの「eVTOL （空飛ぶクルマ）」メーカー Dufour Aerospace社と代理店契約を締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000073145.html",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Japan Air Taxi",
+    "url": "https://evtol.travel/press/embed",
+    "pass": 3
+   },
+   {
+    "quote": "FBOs in Japan",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese eVTOL — Tokyo demo flights Feb 2026, Suzuki partnership",
+    "url": "https://evtol.travel/marketplace",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota, Aichi, Japan",
+    "url": "https://evtol.travel/marketplace",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Air Taxi",
+    "url": "https://evtol.travel/marketplace",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Air Taxi",
+    "url": "https://evtol.travel/press/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Eve Air Mobility Named a Member of Japan’s Advanced Air Mobility Public-Private Committee",
+    "url": "https://www.eveairmobility.com/eve-air-mobility-and-signature-aviation-partner-to-research-ecosystem-requirements-and-services-for-advanced-air-mobility-ground-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "SkyDrive, the Japanese compact eVTOL developer, signed an MOU with six Singapore technology companies for joint R&D and technical validation of key eVTOL component technologies.",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific: China, Japan, India, South Korea, and Australia",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3. Japan",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.1. Japan eVTOL Software Market Estimates and Forecasts, 2021 - 2033 (USD Million)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "SkyDrive, the Japanese compact eVTOL developer, signed an MOU with six Singapore technology companies for joint R&D and technical validation of key eVTOL component technologies.",
+    "url": "https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b",
+    "pass": 3
+   },
+   {
+    "quote": "Government programs are playing an increasing role as a catalyst for commercialisation. Thus, the involvement of the public sector in aircraft testing, regulation, infrastructure planning and operational development has grown, as seen in the U.S. eIPP, Europe's innovative air mobility framework and the AAM roadmap in Japan.",
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America will remain the largest regional product market while Asia Pacific is expected to grow at a CAGR of 26.80%. This region accounts for 30.95% of the market by 2035, up from 26.15%. EHang is already developing a commercial certification route for its pilotless eVTOLs in China, while Japan is backing AAM development via its government roadmap.",
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "pass": 3
+   },
+   {
+    "quote": "SkyDrive, the Japanese compact eVTOL developer, signed an MOU with six Singapore technology companies for joint R&D and technical validation of key eVTOL component technologies.",
+    "url": "https://avi-go.com/news/articles/bb025318ae0ea394b8b4c6af9f95202d",
+    "pass": 3
+   },
+   {
+    "quote": "Eve Air Mobility Named a Member of Japan’s Advanced Air Mobility Public-Private Committee",
+    "url": "https://www.eveairmobility.com/eve-names-suppliers-for-evtol-windows-doors-and-fuselage-components/",
+    "pass": 3
+   },
+   {
+    "quote": "Aichi, Japan",
+    "url": "https://evtolindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's leading eVTOL startup, SkyDrive is targeting Japan's 2025 Osaka Expo and beyond for commercial operations. Backed by Toyota and Panasonic, they are pursuing JCAB certification for the SD-05 two-seat aircraft and have broader ambitions for air cargo with their SKYDRIVE CARGO model.",
+    "url": "https://evtolindex.org/companies",
+    "pass": 3
+   },
+   {
+    "quote": "32, Akashi-machi, Chuo-ku,Kobe 650-0037, Japan",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese eVTOL developer flight-testing the three-seat SD-05 under a JCAB type-certification program with an established G-1 basis and an agreed General Certification Plan.",
+    "url": "https://www.propulsionwatch.com/companies",
+    "pass": 3
+   },
+   {
+    "quote": "intacs®日本地域代表",
+    "url": "https://biz3.co.jp/download/column/8507",
+    "pass": 3
+   },
+   {
+    "quote": "日本特撮党 党首の活動報告",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "今につながる日本史",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ジャズの断面",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "東日本大震災",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "ピッチサイド 日本サッカーここだけの話",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省によると、日本国内での空飛ぶクルマの型式証明の申請受理は、８月２１日までで５件ある",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "この中に、ジョビーやスカイドライブも含まれており、内外企業が、日本国内での実用化に向けて競い合う構図となっている",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマは、政府が７月に閣議決定した日本成長戦略にも盛り込まれており、４０年頃に世界で１５００億円規模の市場獲得を目指す目標が掲げられている",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "「もう一つのＷＢＣ」日本代表に前例ない車いす投手、速球は最速１００ｋｍ…「誰かの希望になれたら」",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan News",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "日本美術と伝統芸能など日本文化の魅力を伝えます",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の伝統文化を振興する「Action!伝統文化」のサイトです",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "目覚めよJAPAN",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済の潜在力を見出し、次代につなげる読売新聞創刊150周年事業です",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "読売新聞オンラインに掲載している記事や写真などは、日本の著作権法や国際条約などで保護されています",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、環境規制の緩和は米国の話であり、欧州諸国や日本では依然、厳しい規制が続いている",
+    "url": "https://wisdom.nec.com/ja/series/koike/2025081301/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場2024～2031年、市場規模・企業動向・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場2024～2031年、市場規模・企業動向・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「日本の空飛ぶクルマ市場2024～2031年、英文タイトル：Japan Flying Cars Market Research 2024-2031」調査資料を発表しました",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、日本市場規模、企業動向、セグメント別予測、市場シェアなどの情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場は、2025年に1,935万米ドル規模で、2035年には4億6,563万米ドルへ拡大すると予測されており、年平均成長率（CAGR）は37.45％と非常に高い",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "このため、日本の空飛ぶクルマ市場における投資テーマは、航空機本体だけではなくなっている",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "それまでの日本では「将来的に空飛ぶクルマを実現する」という方向性が中心だったが、現在は2027～2028年という具体的な商用開始時期が示され、民間企業が投資計画を立てやすくなった",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本市場が一つの標準的な機体に収斂するのではなく、座席数、航続距離、速度、運航コスト、インフラ条件に応じて複数の機体が棲み分ける可能性が高いことを示している",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本の現行制度では、経済産業省はバーティポートを航空法上のヘリポートの一種として扱っており、eVTOL特有の特性に対応した環境評価ガイドラインも整備している",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場は、2025年までの「公開飛行を成功させられるか」という段階から、「継続して料金を払う旅客を安全に運べるか」という段階に移行した",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "ANAとJobyは、日本国内で100機超を展開する構想を議論しており、東京首都圏からサービスを開始する可能性がある",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "空港アクセスは、日本で最も有望な初期旅客用途の一つである",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本の地理的条件から、離島、山間部、災害対応、医療物流にも大きな可能性がある",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "SkyDrive、Suzuki、Air Indiaが2026年7月にインドで時間依存性の高い医療物流への空飛ぶクルマ活用を検討する合意を締結したことも、日本のAAM産業が医療用途を海外に展開し始めている例とされている",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "6人以上の大型機は10.2％にとどまり、日本のAAM市場ではまだ開発初期段階とされている",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場参入を支援、23年めどに製品販売開始へ",
+    "url": "https://online.logi-biz.com/42936/",
+    "pass": 3
+   },
+   {
+    "quote": "「空飛ぶクルマ」のプラットフォーム事業を手掛けるエアモビリティは6月22日、スイスのeVTOL（電動垂直離発着機、空飛ぶクルマの一種）メーカーDufour Aerospace（デュフォーエアロスペース）と日本市場における代理店契約を締結したと発表した",
+    "url": "https://online.logi-biz.com/42936/",
+    "pass": 3
+   },
+   {
+    "quote": "25年開催の日本国際博覧会（大阪・関西万博）では空飛ぶクルマを使った観客の輸送サービスを披露することも検討している",
+    "url": "https://online.logi-biz.com/42936/",
+    "pass": 3
+   },
+   {
+    "quote": "エアモビリティは空飛ぶクルマの早期社会実装に向け、デュフォー社eの空飛ぶクルマ販売権を獲得、日本市場への参入を支援する",
+    "url": "https://online.logi-biz.com/42936/",
+    "pass": 3
+   },
+   {
+    "quote": "このたび日本での空飛ぶクルマ関連プラットフォーム事業のリーディングカンパニーであるエアモビリティ株式会社と協働できることは非常にうれしいことです",
+    "url": "https://online.logi-biz.com/42936/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場は空飛ぶクルマに対して高度な要求があり、それを前提とした普及計画があることを理解しております",
+    "url": "https://online.logi-biz.com/42936/",
+    "pass": 3
+   },
+   {
+    "quote": "このたび日本市場での空飛ぶクルマの販売権を確保できたことをうれしく思います",
+    "url": "https://online.logi-biz.com/42936/",
+    "pass": 3
+   }
+  ],
+  "提供企業": [
+   {
+    "quote": "An eVTOL charging on a rooftop vertiport. The charger runs on YoCharge CMS, which keeps charging within the site limit and puts the next departure first.",
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "pass": 3
+   },
+   {
+    "quote": "we build custom features on top of the platform, and integrate with your operations systems through our API.",
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. We build custom features on top of the YoCharge platform, and connect it to your operations systems through our API.",
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "pass": 3
+   },
+   {
+    "quote": "Back to top ↑",
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "pass": 3
+   },
+   {
+    "quote": "Scroll to Top",
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "pass": 3
+   },
+   {
+    "quote": "On top of PikeOS we can have different partitions which can host entire (guest) operating systems allowing each partition to operate",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": ". Critical systems like flight control and autopilot fall under DAL A, while non-essential components are less critical.",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships with hardware providers, battery manufacturers, and navigation system developers enable an integrated approach to certification and development.",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "PikeOS is optimized for leading multi-core processors, enabling efficient operation of eVTOL Avionics",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "Collaboration with tool providers simplifies certification workflows, reducing time-to-market",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "Integration with leading datalink and networking providers ensures reliable vehicle-to-infrastructure (V2I) and vehicle-to-vehicle (V2V) communication for safe and efficient eVTOL operations",
+    "url": "https://www.sysgo.com/evtol",
+    "pass": 3
+   },
+   {
+    "quote": "Topology Optimization",
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how leading companies solve complex challenges with Ansys simulation—unlocking innovation across automotive, aerospace, energy, healthcare, and more.",
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation Topics",
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "SIMULATION TOPICS",
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "autopilot.",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with leading eVTOL operators, vertiport developers, training academies, and technology vendors. Your gateway to the urban air mobility ecosystem.",
+    "url": "https://evtol.travel/marketplace",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Vendors",
+    "url": "https://evtol.travel/marketplace",
+    "pass": 3
+   },
+   {
+    "quote": "Leading aerospace MRO expanding into eVTOL",
+    "url": "https://evtol.travel/marketplace",
+    "pass": 3
+   },
+   {
+    "quote": "Australian rooftop vertiport network with 200+ identified sites",
+    "url": "https://evtol.travel/marketplace",
+    "pass": 3
+   },
+   {
+    "quote": "Rooftop Vertiports",
+    "url": "https://evtol.travel/marketplace",
+    "pass": 3
+   },
+   {
+    "quote": "Join the leading eVTOL industry marketplace. Get discovered by operators, investors, and partners looking for your services.",
+    "url": "https://evtol.travel/marketplace",
+    "pass": 3
+   },
+   {
+    "quote": "Leading eVTOL brands must continuously innovate to meet stringent regulatory requirements and customer expectations for safety and sustainability. This need for innovation is essential not only for compliance but also for enhancing competitiveness in a crowded market.",
+    "url": "https://jabil.com/industries/defense-and-aerospace/commercial-air/evtol.html",
+    "pass": 3
+   },
+   {
+    "quote": "CSG Talent is a global executive search and recruitment firm specializing in future-focused industries, including aerospace and eVTOL. Their Future Mobility team connects eVTOL innovators with top-tier talent in propulsion, autonomy, certification, and leadership roles—critical for scaling next-gen aircraft programs.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "As a key partner in the EU-funded AMU-LED project, EHang is working with leading aerospace and UTM stakeholders to demonstrate urban air mobility operations across multiple European cities, including integration into existing airspace management systems.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Aerospace is leading the UK’s charge into the electric air mobility era with its revolutionary VX4 eVTOL aircraft. Headquartered in Bristol, Vertical is redefining short-distance travel with zero-emission, electric-powered vertical take-off and landing solutions.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike conventional flight training providers, MOC offers high-fidelity 6 degrees-of-freedom (6 DOF) cockpit simulators housed within panoramic projection domes—a fully motion-enabled system that replicates the agility and handling of multirotor aircraft. The roll-in/roll-off modular design makes it scalable and adaptable across different airframes and flight profiles.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "M&H CNC Technik GmbH, based in Ilz, Austria, is a leading provider of industrial-grade 3D metal printing and CNC machining, combining over 20 years of experience in prototyping and small-series manufacturing with cutting-edge additive technologies like SLM® lasers. Their integrated engineering-to-finishing process supports advanced sectors including aviation and aerospace.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": ": Delivers cost‑competitive alternatives to helicopters, with up to 50% lower direct operating costs and energy efficiency gains.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanV operates as a one-stop-shop for vertiport infrastructure, offering:",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": ": Feasibility studies, regulatory groundwork, and planning for vertiports that accommodate eVTOL operations—including floating, rooftop, and land-based designs optimized for different urban environments.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "Moonrock Insurance is a specialist insurer at the forefront of UAV and emerging eVTOL risk, leveraging deep sector expertise, data‑driven underwriting, and A‑rated capacity from leading Lloyd’s markets to insure next‑generation aviation operations.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla Autopilot",
+    "url": "https://electrek.co/2023/10/05/evtol-developer-opener-rebrands-as-pivotal-unveils-production-ready-helix-aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "BYD sold more EVs last month than the US did all quarter, topping 300,000",
+    "url": "https://electrek.co/2023/10/05/evtol-developer-opener-rebrands-as-pivotal-unveils-production-ready-helix-aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "“With Helix, we become the leading manufacturer of light eVTOL aircraft,” said Ken Karklin, Pivotal’s CEO. “Helix presents the next iteration of 10-plus years of innovating, testing, and delivering on the promise to give individuals access to small, yet mighty aircraft.”",
+    "url": "https://verticalmag.com/news/opener-rebrands-to-pivotal-unveils-new-helix-production-evtol-aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Stories",
+    "url": "https://www.flyingmag.com/opener-rebrands-to-pivotal-and-unveils-helix-its-first-scalable-production-aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading a team",
+    "url": "https://www.creativeboom.com/news/pentagram-reimagines-verticals-brand-as-evtol-start-up-unveils-valo-aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "TRENDING TOPICS",
+    "url": "https://www.ainonline.com/news-article/2023-10-10/opener-rebrands-pivotal-unveils-helix-personal-evtol-aircraft",
+    "pass": 3
+   },
+   {
+    "quote": "Compare market conditions, infrastructure development, and commercial opportunities across leading countries and regions.",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Topics Covered",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets, key industries, the top companies, new products and the latest trends.",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "Trending Topics",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "This extended ecosystem will open up opportunities for aerospace suppliers, battery manufacturers, infrastructure providers, software suppliers, operators, airports, energy companies, as well as aviation-service businesses.",
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare Providers",
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertiports & Vertistops",
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Tech Stocks",
+    "url": "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "pass": 3
+   },
+   {
+    "quote": "Top Consumer Staple Stocks",
+    "url": "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "pass": 3
+   },
+   {
+    "quote": "Top Financial Stocks",
+    "url": "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "pass": 3
+   },
+   {
+    "quote": "Top Energy Stocks",
+    "url": "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "pass": 3
+   },
+   {
+    "quote": "Top Health Care Stocks",
+    "url": "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "pass": 3
+   },
+   {
+    "quote": "Top Real Estate Stocks",
+    "url": "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "pass": 3
+   },
+   {
+    "quote": "FAA official Caitlin Locke said revenue-generating eVTOL flights allowed before type certification would be very limited, facing rigorous review and conditions, with no leading company yet certified.",
+    "url": "https://avi-go.com/news/articles/bb025318ae0ea394b8b4c6af9f95202d",
+    "pass": 3
+   },
+   {
+    "quote": "Other Topics",
+    "url": "https://avi-go.com/news/articles/bb025318ae0ea394b8b4c6af9f95202d",
+    "pass": 3
+   },
+   {
+    "quote": "MarketBeat keeps track of Wall Street's top-rated and best performing research analysts and the stocks they recommend to their clients on a daily basis.",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/ACHR/pressreleases/3851182/cleared-for-takeoff-archer-aviation-changes-the-math-on-evtol/",
+    "pass": 3
+   },
+   {
+    "quote": "that top analysts are quietly whispering to their clients to buy now before the broader market catches on... and none of the big name stocks were on the list.",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/ACHR/pressreleases/3851182/cleared-for-takeoff-archer-aviation-changes-the-math-on-evtol/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 18 Vtol drone manufacturers based in Germany",
+    "url": "https://revenuebase.ai/companies/vtol-drone-manufacturers/germany",
+    "pass": 3
+   },
+   {
+    "quote": "Top 18 Vtol drone",
+    "url": "https://revenuebase.ai/companies/vtol-drone-manufacturers/germany",
+    "pass": 3
+   },
+   {
+    "quote": "Wingcopter tops the displayed preview by professional contacts tracked in RevenueBase. Recorded headquarters appear in the company rows.",
+    "url": "https://revenuebase.ai/companies/vtol-drone-manufacturers/germany",
+    "pass": 3
+   },
+   {
+    "quote": "The UK's leading eVTOL company, Vertical Aerospace is developing the VX4 — a four-passenger plus pilot aircraft targeting 200 mph and 100-mile range. Listed on the NYSE, they have pre-orders from American Airlines and Virgin Atlantic exceeding 1,000 aircraft. CAA and EASA dual certification is being pursued.",
+    "url": "https://evtolindex.org/companies",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Clients book the first credible quote they receive. Lineaum puts 30,000+ aircraft, quotes in seconds, contracts, payments and revenue tracking in one place, so brokers, operators and travel businesses reply first and close more charters, under their own brand.",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Add live jet search to your own website. Every search arrives as a qualified trip request with route, dates and passengers, 24/7, straight into your pipeline. No engineering work needed.",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "At the heart of EHang’s portfolio is the EH216 series—a fully autonomous, passenger-carrying eVTOL platform designed to operate without onboard pilots, offering point-to-point air mobility that is intelligent, low-noise, and zero-emissions.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "In studies presented at major events like Farnborough, Roland Berger projected that there could be around 7,000 passenger‑carrying eVTOL aircraft globally by 2030, rising to 47,000 by 2040 and 161,000 by 2050. Their Smart Mobility experts work across automotive, infrastructure, and transport sectors to guide stakeholders in aligning industry shifts toward low‑emission aerial mobility.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "The APELEON SCALAR, an all-electric VTOL drone built for time-critical cargo transport. Designed to carry up to 10 kg at speeds up to 100 km/h, SCALAR targets use cases such as medical sample delivery, humanitarian aid, and rural-pair distribution. Its lightweight (~50 kg) architecture yields energy efficiency eleven times greater than road vehicles for 100 km missions.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "Their breakthrough hybrid propulsion system enables all‑electric flight for the first 200 miles, followed by turbine-extended range up to 750 miles, cruising at 345 mph (555 km/h) at altitudes reaching 30,000 ft. It carries nine passengers plus two pilots (certified later for single‑pilot ops), offering significantly greater capacity than many eVTOL entrants.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": ": An unmanned VTOL cargo aircraft capable of carrying up to 40 kg payload over a hybrid-electric range of 400 km, or 20 kg on extended-range missions. The system supports autonomy or remote operations, reaching speeds up to 170 km/h and offering three hours of hybrid flight endurance.",
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "pass": 3
+   },
+   {
+    "quote": "BETA Technologies reported a significant increase in its Q2 2026 net loss to $148.8 million, driven by a doubling of operating expenses and substantial R&D investments, despite a rise in revenue to $14.7 million.",
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "pass": 3
+   },
+   {
+    "quote": "BETA also expanded its charging network to 138 sites and adjusted its full-year forecast, projecting higher revenue but also a larger adjusted EBITDA loss.",
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "pass": 3
+   },
+   {
+    "quote": "of 2026, compared with an $80.4 million loss during the same period last year. The electric aircraft developer generated $14.7 million in quarterly revenue, up from $6 million a year earlier.",
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "pass": 3
+   },
+   {
+    "quote": "BETA increased its full-year revenue forecast to between $42 million and $50 million. The company now expects a full-year adjusted EBITDA loss of between $400 million and $445 million. Adjusted EBITDA, a non-GAAP measure, showed a $109.8 million loss for the second quarter, compared with a $68.4 million loss a year earlier.",
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "pass": 3
+   },
+   {
+    "quote": "North America held the largest revenue share, at 42.1% in 2025, supported by investment in advanced air mobility, aircraft development, digital aviation infrastructure and autonomous flight technologies.",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial intelligence, machine learning, cloud computing, digital twins and real-time data analytics are further reshaping the market. The forecasts cover global, regional and country-level revenue, with analysis by component, deployment, end use and region for 2021–2033.",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "A forecast that takes a market from USD 272.5 million to USD 13.28 billion is a statement about expected adoption, not a record of revenue already earned. The 2026 figure of USD 447.0 million is the nearer test of whether the curve is holding, and the 62.3% growth rate depends entirely on aircraft programs reaching commercial service on schedule.",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "Boeing 777-200, Introduced in 1995, Remains in Service With Major Carriers as Jettly Pitches Private Charter Alternative",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "TAT Technologies Posts Record Q3 2026 Revenue of $55.6 Million and Adjusted EBITDA of $10.9 Million",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "TAT Technologies reported record third-quarter 2026 revenue of $55.6 million, up 20.2%, with gross profit rising 48.2% to $17.2 million and backlog and long-term agreements of about $577 million.",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides global, regional, and country-level revenue forecasts and analyzes industry trends across component, deployment, end use, and regional segments from 2021 to 2033.",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "Component Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "End Use Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.1. Software Market Revenue Estimates and Forecasts, 2021 - 2033 (USD Million)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.2.1. Flight Control & Management Software Market Revenue Estimates and Forecasts, 2021 - 2033 (USD Million)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.3.1. Navigation & Autonomous Flight Software Market Revenue Estimates and Forecasts, 2021 - 2033 (USD Million)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.4.1. Aircraft Monitoring & Energy Management Software Market Revenue Estimates and Forecasts, 2021 - 2033 (USD Million)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.5.1. Fleet, Vertiport & Airspace Management Software Market Revenue Estimates and Forecasts, 2021 - 2033 (USD Million)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.6.1. Simulation, Testing & Certification Software Market Revenue Estimates and Forecasts, 2021 - 2033 (USD Million)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.7.1. Others Market Revenue Estimates and Forecasts, 2021 - 2033 (USD Million)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.4.1. Services Market Revenue Estimates and Forecasts, 2021 - 2033 (USD Million)",
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "pass": 3
+   },
+   {
+    "quote": "Boeing 777-200, Introduced in 1995, Remains in Service With Major Carriers as Jettly Pitches Private Charter Alternative",
+    "url": "https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b",
+    "pass": 3
+   },
+   {
+    "quote": "TAT Technologies Posts Record Q3 2026 Revenue of $55.6 Million and Adjusted EBITDA of $10.9 Million",
+    "url": "https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b",
+    "pass": 3
+   },
+   {
+    "quote": "TAT Technologies reported record third-quarter 2026 revenue of $55.6 million, up 20.2%, with gross profit rising 48.2% to $17.2 million and backlog and long-term agreements of about $577 million.",
+    "url": "https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b",
+    "pass": 3
+   },
+   {
+    "quote": "Boeing 777-200, Introduced in 1995, Remains in Service With Major Carriers as Jettly Pitches Private Charter Alternative",
+    "url": "https://avi-go.com/news/articles/bb025318ae0ea394b8b4c6af9f95202d",
+    "pass": 3
+   },
+   {
+    "quote": "Arxis Q3 2026 Revenue Rises 36% to $564 Million; Full-Year 2026 Guidance Raised, 2027 Outlook Introduced",
+    "url": "https://avi-go.com/news/articles/bb025318ae0ea394b8b4c6af9f95202d",
+    "pass": 3
+   },
+   {
+    "quote": "Arxis reported third-quarter 2026 revenue of $564 million, up 36% year over year, and raised its full-year 2026 revenue guidance to $2,050 to $2,070 million.",
+    "url": "https://avi-go.com/news/articles/bb025318ae0ea394b8b4c6af9f95202d",
+    "pass": 3
+   },
+   {
+    "quote": "reported revenue of about $5 million, beating consensus estimates due to early operations, but that figure is a fraction of the capital required to sustain long-term business goals. Instead of relying solely on future air taxi fares, Archer Aviation now possesses a mature defense product line to help offset its broader research and development costs.",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/ACHR/pressreleases/3851182/cleared-for-takeoff-archer-aviation-changes-the-math-on-evtol/",
+    "pass": 3
+   },
+   {
+    "quote": "giant is taking a strategic equity stake of nearly 20% in Archer Aviation, complete with a strict lock-up period and out-of-the-money warrants.",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/ACHR/pressreleases/3851182/cleared-for-takeoff-archer-aviation-changes-the-math-on-evtol/",
+    "pass": 3
+   },
+   {
+    "quote": "This list covers company matches for vtol drone manufacturers associated with Germany, found by RevenueBase SmartSearch using the meaning of business descriptions in its company graph at Exact. Ranked by professionals tracked, largest first. Rows show recorded descriptions where available, Exact search membership and the snapshot date. Data refreshed September 29, 2026.",
+    "url": "https://revenuebase.ai/companies/vtol-drone-manufacturers/germany",
+    "pass": 3
+   },
+   {
+    "quote": "Recorded in the RevenueBase company graph · Sep 29, 2026 ·",
+    "url": "https://revenuebase.ai/companies/vtol-drone-manufacturers/germany",
+    "pass": 3
+   },
+   {
+    "quote": "The RevenueBase company graph: 60 million companies and 398.9 million professional contacts resolved from primary sources, queried with RevenueBase SmartSearch, the natural-language company search available to every RevenueBase user.",
+    "url": "https://revenuebase.ai/companies/vtol-drone-manufacturers/germany",
+    "pass": 3
+   },
+   {
+    "quote": "RevenueBase's August 25, 2026 study assessed 4,198 description/company pairs across matching settings. The publisher reports 86% good or better at Exact. This evaluates the method across queries; it does not audit this individual list. Recorded company descriptions, where available, help you judge each match yourself.",
+    "url": "https://revenuebase.ai/companies/vtol-drone-manufacturers/germany",
+    "pass": 3
+   },
+   {
+    "quote": "Joby社は2025年8月1日、防衛系大手のL3Harris Technologies社と提携し、防衛用ガスタービン・ハイブリッド垂直離着陸（VTOL）航空機の開発に乗り出した",
+    "url": "https://wisdom.nec.com/ja/series/koike/2025081301/index.html",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "starts at From $79 per month,",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "at From $49 per month and",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Fleet Lite at From $99 per month plus From $79 per listed aircraft per month, each with higher tiers and custom Enterprise plans. Compare every plan on the pricing page.",
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "pass": 3
+   },
+   {
+    "quote": "Today, we also learned that the base price of Pivotal’s Helix eVTOL will start at $190,000. Orders are scheduled to open on January 9, 2024 with a $47,500 deposit (25% of purchase price). Pricing for the additional options and accessories mentioned above will be revealed at a later date.",
+    "url": "https://electrek.co/2023/10/05/evtol-developer-opener-rebrands-as-pivotal-unveils-production-ready-helix-aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "個人向け「ヨミダス」月額990円",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "eVTOL developer Opener rebrands as Pivotal, unveils Helix ... — eVTOL developer Opener rebrands as Pivotal, unveils Helix ... Electrek https://electrek.co > 2023/10/05 > evt...",
+    "url": "https://electrek.co/2023/10/05/evtol-developer-opener-rebrands-as-pivotal-unveils-production-ready-helix-aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "BETA Technologies: The Best EVTOL Buy - Seeking Alpha — BETA Technologies: The Best EVTOL Buy - Seeking Alpha Seeking Alpha https://seekingalpha.com > article > 4...",
+    "url": "https://seekingalpha.com/article/4936681-beta-technologies-the-best-evtol-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Global eVTOL Software Market Valued at $272.5 Million in ... — Global eVTOL Software Market Valued at $272.5 Million in ... Avi-Go https://avi-go.com > news > articles",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "$12 Billion Burned: The eVTOL Cash Bonfire | MiGFlug — $12 Billion Burned: The eVTOL Cash Bonfire | MiGFlug MiGFlug https://migflug.com > afterburner > 1...",
+    "url": "https://migflug.com/afterburner/12-billion-burned-zero-passengers-carried-the-evtol-cash-bonfire/",
+    "pass": 3
+   },
+   {
+    "quote": "Report Projects Global eVTOL Market at USD 0.3-0.6 Billion ... — Report Projects Global eVTOL Market at USD 0.3-0.6 Billion ... Avi-Go https://avi-go.com > news > articles",
+    "url": "https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b",
+    "pass": 3
+   },
+   {
+    "quote": "日本の 空飛ぶクルマ 市場2024～2031年 - アットプレス — 日本の 空飛ぶクルマ 市場2024～2031年 - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "「 空飛ぶクルマ 」のある社会 機体だけでない広範な事業 ... — 「 空飛ぶクルマ 」のある社会 機体だけでない広範な事業 ... 月刊「事業構想」オンライン https://www.projectdesign.jp > 2023年9月号",
+    "url": "https://www.projectdesign.jp/articles/c4b18315-fba8-4a69-9c5c-8fae53be099c",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "BETA also expanded its charging network to 138 sites and adjusted its full-year forecast, projecting higher revenue but also a larger adjusted EBITDA loss.",
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "pass": 3
+   },
+   {
+    "quote": "BETA increased its full-year revenue forecast to between $42 million and $50 million. The company now expects a full-year adjusted EBITDA loss of between $400 million and $445 million. Adjusted EBITDA, a non-GAAP measure, showed a $109.8 million loss for the second quarter, compared with a $68.4 million loss a year earlier.",
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "pass": 3
+   },
+   {
+    "quote": "TAT Technologies Posts Record Q3 2026 Revenue of $55.6 Million and Adjusted EBITDA of $10.9 Million",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "TAT Technologies reported record third-quarter 2026 revenue of $55.6 million, up 20.2%, with gross profit rising 48.2% to $17.2 million and backlog and long-term agreements of about $577 million.",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "pass": 3
+   },
+   {
+    "quote": "TAT Technologies Posts Record Q3 2026 Revenue of $55.6 Million and Adjusted EBITDA of $10.9 Million",
+    "url": "https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b",
+    "pass": 3
+   },
+   {
+    "quote": "TAT Technologies reported record third-quarter 2026 revenue of $55.6 million, up 20.2%, with gross profit rising 48.2% to $17.2 million and backlog and long-term agreements of about $577 million.",
+    "url": "https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b",
+    "pass": 3
+   },
+   {
+    "quote": "Even better if it lets us profit from the broader aviation market.",
+    "url": "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "pass": 3
+   },
+   {
+    "quote": "underscored the immense cost of building next-generation aircraft. Archer Aviation reported an Adjusted EBITDA loss of approximately $177 million and guided for a similar $170 to $200 million loss in the third quarter.",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/ACHR/pressreleases/3851182/cleared-for-takeoff-archer-aviation-changes-the-math-on-evtol/",
+    "pass": 3
+   },
+   {
+    "quote": "The slump in sales caused by military cutbacks prompts an internal reevaluation, and William S. Powell, a partner at Booz Allen & Hamilton, is elected president. Powell exits unprofitable business lines and from 1962 through 1967 the company achieves some of its best profit-to-sales ratios to date.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "An active community member, Kody currently serves on two non-profits boards. He is a Board Member for Novation Wealth Management and the Board President for the South East Metro Sharks Swim Club in Minnesota.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "売上USD": [
+   {
+    "value": "14.7",
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "quote": "BETA Technologies reported a significant increase in its Q2 2026 net loss to $148.8 million, driven by a doubling of operating expenses and substantial R&D investments, despite a rise in revenue to $14.7 million."
+   },
+   {
+    "value": "6",
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "quote": "of 2026, compared with an $80.4 million loss during the same period last year. The electric aircraft developer generated $14.7 million in quarterly revenue, up from $6 million a year earlier."
+   },
+   {
+    "value": "42",
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "quote": "BETA increased its full-year revenue forecast to between $42 million and $50 million. The company now expects a full-year adjusted EBITDA loss of between $400 million and $445 million. Adjusted EBITDA, a non-GAAP measure, showed a $109.8 million loss for the second quarter, compared with a $68.4 mil"
+   },
+   {
+    "value": "55.6",
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "quote": "TAT Technologies Posts Record Q3 2026 Revenue of $55.6 Million and Adjusted EBITDA of $10.9 Million"
+   },
+   {
+    "value": "55.6",
+    "url": "https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b",
+    "quote": "TAT Technologies Posts Record Q3 2026 Revenue of $55.6 Million and Adjusted EBITDA of $10.9 Million"
+   },
+   {
+    "value": "564",
+    "url": "https://avi-go.com/news/articles/bb025318ae0ea394b8b4c6af9f95202d",
+    "quote": "Arxis reported third-quarter 2026 revenue of $564 million, up 36% year over year, and raised its full-year 2026 revenue guidance to $2,050 to $2,070 million."
+   },
+   {
+    "value": "5",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/ACHR/pressreleases/3851182/cleared-for-takeoff-archer-aviation-changes-the-math-on-evtol/",
+    "quote": "reported revenue of about $5 million, beating consensus estimates due to early operations, but that figure is a fraction of the capital required to sustain long-term business goals. Instead of relying solely on future air taxi fares, Archer Aviation now possesses a mature defense product line to hel"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://evtol.travel/press/embed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yocharge.com/solutions/evtol-vertiports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sysgo.com/evtol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eaglox.com/aircraft-oem-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evtol.travel/marketplace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archangel.com/products/evtol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tjwvtol.com/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jabil.com/industries/defense-and-aerospace/commercial-air/evtol.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evtol.travel/press/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eveairmobility.com/eve-air-mobility-and-signature-aviation-partner-to-research-ecosystem-requirements-and-services-for-advanced-air-mobility-ground-operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unmannedsystemstechnology.com/2026/02/evolito-vertical-aerospace-partner-to-power-valo-evtol-commercial-flight/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evtolshoweurope.com/sponsors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insight.com/en_US/about/partnerships.html?srsltid=AYCX9vK0kHH6eRZUBHtKRLEkVt_-j0u2LufH1pHXqqHiYCcB-7PCPwaQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://electrek.co/2023/10/05/evtol-developer-opener-rebrands-as-pivotal-unveils-production-ready-helix-aircraft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://verticalmag.com/news/opener-rebrands-to-pivotal-unveils-new-helix-production-evtol-aircraft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flyingmag.com/opener-rebrands-to-pivotal-and-unveils-helix-its-first-scalable-production-aircraft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.creativeboom.com/news/pentagram-reimagines-verticals-brand-as-evtol-start-up-unveils-valo-aircraft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ainonline.com/news-article/2023-10-10/opener-rebrands-pivotal-unveils-helix-personal-evtol-aircraft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekingalpha.com/article/4936681-beta-technologies-the-best-evtol-buy",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.barrons.com/articles/beta-technologies-earnings-stock-price-effe1c5e",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avi-go.com/news/articles/bb025318ae0ea394b8b4c6af9f95202d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/ACHR/pressreleases/3851182/cleared-for-takeoff-archer-aviation-changes-the-math-on-evtol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eveairmobility.com/eve-names-suppliers-for-evtol-windows-doors-and-fuselage-components/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/vtol-drone-manufacturers/germany",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evtolindex.org/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.propulsionwatch.com/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz3.co.jp/download/column/8507",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-journal.impress.co.jp/docs/news/1188450.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wisdom.nec.com/ja/series/koike/2025081301/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.logi-biz.com/42936/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airmobility.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jidounten-lab.com/w_airmobility-skycars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000073145.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-journal.impress.co.jp/docs/news/1183804.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "eVTOL software white label",
+   "results": [
+    "https://evtol.travel/press/embed",
+    "https://yocharge.com/solutions/evtol-vertiports/",
+    "https://www.sysgo.com/evtol",
+    "https://ansys.synopsys.com/blog/design-safer-evtol-system-digital-engineering",
+    "https://lineaum.com/en/white-label-private-jet-booking-software",
+    "https://www.aptiv.com/en/insights/article/what-is-an-evtol",
+    "https://flexjet.com/en-gb/press/eve-air-mobility-collaborates-with-flexjet-to-advance-urban-air-mobility-through-innovative-software-simulation",
+    "https://www.airport-technology.com/news/joby-unveils-elevateos-air-taxi-software/",
+    "https://www.thomasnet.com/insights/top-evtol-companies/",
+    "https://virtualtoureasy.com/articles/white-labeling-software/"
+   ]
+  },
+  {
+   "query": "eVTOL software OEM white-label partner",
+   "results": [
+    "https://eaglox.com/aircraft-oem-manufacturing",
+    "https://yocharge.com/solutions/evtol-vertiports/",
+    "https://evtol.travel/marketplace",
+    "https://archangel.com/products/evtol/",
+    "https://tjwvtol.com/oem/",
+    "https://jabil.com/industries/defense-and-aerospace/commercial-air/evtol.html",
+    "https://roboticskies.com/partners/",
+    "https://www.eva2z.com/oem-fleet-partnership/?srsltid=AYCX9vJK2FWcIU6-PGXgeSiQRr9f_epYcwdrHgfckuy3flNUSYKaDc22",
+    "https://www.evtolshowusa.com/exhibitors/",
+    "https://fleetup.com/white-label/"
+   ]
+  },
+  {
+   "query": "eVTOL software reseller partner program",
+   "results": [
+    "https://evtol.travel/press/partners",
+    "https://evtol.travel/marketplace",
+    "https://www.eveairmobility.com/eve-air-mobility-and-signature-aviation-partner-to-research-ecosystem-requirements-and-services-for-advanced-air-mobility-ground-operations/",
+    "https://www.facebook.com/Cloudrider865/posts/interested-in-becoming-a-dealer-for-cloudrider865-we-are-actively-reviewing-part/122129675456735632/",
+    "https://www.unmannedsystemstechnology.com/2026/02/evolito-vertical-aerospace-partner-to-power-valo-evtol-commercial-flight/",
+    "https://www.evtolshoweurope.com/sponsors/",
+    "https://www.insight.com/en_US/about/partnerships.html?srsltid=AYCX9vK0kHH6eRZUBHtKRLEkVt_-j0u2LufH1pHXqqHiYCcB-7PCPwaQ",
+    "https://www.rocketsoftware.com/en-us/become-partner",
+    "https://evtolinsights.com/become-a-knowledge-partner/",
+    "https://hexagon.com/company/partner-directory-and-programmes"
+   ]
+  },
+  {
+   "query": "eVTOL SaaS rebrand private label",
+   "results": [
+    "https://electrek.co/2023/10/05/evtol-developer-opener-rebrands-as-pivotal-unveils-production-ready-helix-aircraft/",
+    "https://verticalmag.com/news/opener-rebrands-to-pivotal-unveils-new-helix-production-evtol-aircraft/",
+    "https://www.flyingmag.com/opener-rebrands-to-pivotal-and-unveils-helix-its-first-scalable-production-aircraft/",
+    "https://www.creativeboom.com/news/pentagram-reimagines-verticals-brand-as-evtol-start-up-unveils-valo-aircraft/",
+    "https://www.ainonline.com/news-article/2023-10-10/opener-rebrands-pivotal-unveils-helix-personal-evtol-aircraft",
+    "https://www.wallpaper.com/transportation/pentagramvertical-aerospace-brand-identity",
+    "https://www.thomasnet.com/insights/top-evtol-companies/",
+    "https://www.linkedin.com/pulse/personal-evtol-has-customers-production-y9fjc",
+    "https://evtolinsights.com/advertise-your-brand-here/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/"
+   ]
+  },
+  {
+   "query": "eVTOL software company profitable EBITDA",
+   "results": [
+    "https://seekingalpha.com/article/4936681-beta-technologies-the-best-evtol-buy",
+    "https://www.barrons.com/articles/beta-technologies-earnings-stock-price-effe1c5e",
+    "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "https://avi-go.com/news/articles/dc9165a768819b8b4022d39cda30951d",
+    "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "https://migflug.com/afterburner/12-billion-burned-zero-passengers-carried-the-evtol-cash-bonfire/",
+    "https://www.embention.com/news/embention-reports-record-results-in-2025-with-e13-4-million-in-revenue-and-e6-6-million-in-ebitda/",
+    "https://dealroom.co/news/135173-doroni-passes-30m-total-raised-for-its-h1-x-personal-evtol/",
+    "https://seekingalpha.com/article/4948014-beta-technologies-a-high-risk-evtol-bet",
+    "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html?fr=sycsrp_catchall"
+   ]
+  },
+  {
+   "query": "eVTOL software bootstrapped profitable revenue",
+   "results": [
+    "https://finance.yahoo.com/technology/articles/global-evtol-software-market-size-102600512.html",
+    "https://avi-go.com/news/articles/227237b61df8c26c4605d99cf3d23d7b",
+    "https://avweb.com/aviation-news/beta-posts-149-million-quarterly-loss/",
+    "https://www.precedenceresearch.com/evtol-and-advanced-air-mobility-market",
+    "https://weissratings.com/en/weiss-ratings-daily/this-backdoor-evtol-play-gives-you-a-twofer-opportunity",
+    "https://avi-go.com/news/articles/bb025318ae0ea394b8b4c6af9f95202d",
+    "https://www.theglobeandmail.com/investing/markets/stocks/ACHR/pressreleases/3851182/cleared-for-takeoff-archer-aviation-changes-the-math-on-evtol/",
+    "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "https://www.barrons.com/articles/evtol-maker-raise-funding-stock-b3c90742",
+    "https://www.researchandmarkets.com/reports/6285376/evtol-software-market-size-share-and-trends"
+   ]
+  },
+  {
+   "query": "eVTOL software vendors Europe Israel Germany white label",
+   "results": [
+    "https://evtol.travel/marketplace",
+    "https://www.eveairmobility.com/eve-names-suppliers-for-evtol-windows-doors-and-fuselage-components/",
+    "https://revenuebase.ai/companies/vtol-drone-manufacturers/germany",
+    "https://evtolindex.org/companies",
+    "https://www.hexcel.com/about-us/",
+    "https://www.propulsionwatch.com/companies",
+    "https://www.sesamers.com/verticals/aviation-and-evtol/startups/",
+    "https://www.airev.aero/about",
+    "https://www.evtolshoweurope.com/exhibitors/",
+    "https://ensun.io/search/evtol/germany"
+   ]
+  },
+  {
+   "query": "空飛ぶクルマ ソフトウェア OEM 提供",
+   "results": [
+    "https://biz3.co.jp/download/column/8507",
+    "https://drone-journal.impress.co.jp/docs/news/1188450.html",
+    "https://www.yomiuri.co.jp/local/chubu/news/20260904-GYTNT00218/",
+    "https://wisdom.nec.com/ja/series/koike/2025081301/index.html",
+    "https://www.atpress.ne.jp/news/8049768",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000037.pdf",
+    "https://digital-supporter.net/mirai-ai/17invest/soratobu-kuruma.html",
+    "https://jidounten-lab.com/u_42558",
+    "https://techblitz.com/startup-interview/aska/",
+    "https://www.mec.co.jp/news/mec250604_sorakuru/mec250604_sorakuru_1.pdf"
+   ]
+  },
+  {
+   "query": "空飛ぶクルマ ソフト 代理店 海外製",
+   "results": [
+    "https://online.logi-biz.com/42936/",
+    "https://airmobility.co.jp/",
+    "https://jidounten-lab.com/w_airmobility-skycars",
+    "https://prtimes.jp/main/html/rd/p/000000003.000073145.html",
+    "https://drone-journal.impress.co.jp/docs/news/1183804.html",
+    "https://www.projectdesign.jp/articles/c4b18315-fba8-4a69-9c5c-8fae53be099c",
+    "https://news.nicovideo.jp/watch/nw19948967?news_ref=watch_60_nw10335",
+    "https://airmobility.co.jp/wp/wp-content/uploads/2024/02/20211020_Bartini%E7%A4%BE%E3%81%A8%E7%8B%AC%E5%8D%A0%E8%B2%A9%E5%A3%B2%E5%A5%91%E7%B4%84.pdf",
+    "https://skydrive.co.jp/news/71705/",
+    "https://www.sankei.com/pressrelease/prtimes/JZ2LS23BLVP6FLK5PJAFNETS5Y/"
+   ]
+  }
+ ],
+ "missing": {}
+}

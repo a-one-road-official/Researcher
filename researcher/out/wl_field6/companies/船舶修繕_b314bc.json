@@ -1,0 +1,872 @@
+{
+ "name": "船舶修繕",
+ "en": "ship repair",
+ "aliases": [
+  "船舶修理",
+  "ドック"
+ ],
+ "context": "8 造船 ②船舶修繕",
+ "kind": "market",
+ "researched_at": "2026-11-03T06:20:29.961025+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "It assumes you are comparing several vendors and want a structured, defensible way to weigh them, rather than a product pitch.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Sub-assemblies are frequently released and procured before the top-level design is finalized.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "for your business model before scoring vendors — many capabilities shift in importance depending on whether you self-perform or subcontract construction, and whether you offer aftermarket service.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Different marine organizations should prioritize different capabilities. This table maps common profiles to their typical emphasis rather than to specific vendors.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "A candid vendor conversation here is valuable: ask each vendor to state plainly what is native, what is configurable, and what requires a third-party system. Vendors that are transparent about gaps (rather than claiming universal coverage) are generally lower-risk partners.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Organizations often value Dynamics 365 for its familiar user experience, flexibility, low-code extensibility, and integration capabilities. Industry-specific functionality is frequently delivered through independent software vendors (ISVs), industry accelerators, and implementation partners.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "(e.g., AVEVA Marine) is a leading ship design, engineering, and fabrication platform with strong 3D modeling and production planning. It is not an ERP: it lacks integrated financial control, procurement, and contract management, and is typically integrated with an ERP to form a digital thread from design to delivery.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller regional vendors offer shipbuilding or ship repair ERP with strong local knowledge. Buyers weigh their industry specialization against considerations such as technology modernization, global support reach, and long-term vendor viability, particularly if planning international growth.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Which vendors are commonly evaluated for shipbuilding and ship repair ERP?",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate project manufacturing ERP objectively, compare vendors on the criteria that matter, and choose a platform that protects margin, delivery...",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Find providers",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "For providers",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Specialty service providers (specific engine types, etc.)",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Vessel operators select ship repair providers based on:",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Vessel technical superintendents often select repair providers",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Emergency response capability differentiates providers",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Useful pages for this topic",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Operators search PortServiceFinder by port and service and contact providers directly, with no commission. Listing is free during our launch period. After the launch period, listings will cost $49.90/month or $499.90/year.",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Search providers",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "All providers",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Providers",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "💻 Desktop View",
+    "url": "https://os-ship.com/?page_id=43",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Embedded AI and automation.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM認定部品と経験豊富な技術者によるメインエンジン、補助エンジン、機械の専門修理",
+    "url": "https://www.seawayshipservices.com/ja/ship-repair.php",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Variable — light touch to full engineering on conversions",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Margin erosion over long programs",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Unbilled extras, scope creep, tight per-job margins",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Bids using the same WBS/CBS codes as execution enable variance analysis",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Controls billing structure, retentions, and variations",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Given subcontracted scope often dominates cost, how strong is commercial control over valuations, retentions, and variations?",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Where does the platform reduce administrative burden (invoice matching, PO chasing, forecasting, variance analysis) — and is it genuinely useful or marketing?",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Formal EVM reporting (BCWP, ACWP, CPI, SPI, EAC, ETC) is often mandated on major defense programs. This is an area where ERP capabilities vary widely — some platforms support EVM fundamentals natively, others require specialist EVM tools or reporting layers.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Variance of estimate vs. actual cost at close",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Margin at completion",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Final gross margin vs. baseline",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "EVM support varies significantly between platforms. Some support EVM fundamentals (CPI, SPI, BCWP, ACWP, EAC, ETC) natively, while formal compliance reporting on major defense programs may require specialist EVM tools or reporting layers. If EVM is a hard requirement, make it an explicit, written evaluation criterion.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Track estimate accuracy, forecast accuracy (EAC vs. actual), margin at completion, CPI/SPI, on-time delivery to yard, labor productivity, time-to-invoice, DSO, period close time, and the percentage of data still reconciled manually. Define targets before selection so you can measure value after go-live.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Done well, the result is one version of the truth across engineering, procurement, production, and finance — more predictable delivery, protected margins, and the agility to expand into repair, refit, lifecycle service, or new markets on a single platform.",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate project manufacturing ERP objectively, compare vendors on the criteria that matter, and choose a platform that protects margin, delivery...",
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship repair capital requirements vary substantially by specialization and scale.",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Risk on contractor for scope variations",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Lump sum for defined scope plus extras for variations",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margin:",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Routine work: 15-30% margin",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Complex/urgent work: 25-50%+ margin",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Specialty services: 30-60%+ margin",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Ship repair business profitability varies significantly by specialization and scale.",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margins:",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Small operations: 10-20% net margin",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Mid-size operations: 15-25% net margin",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Major operations: 20-30% net margin",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Larger projects offer better margins",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "A: Capital requirements vary substantially by specialization. Specialty workshop operations can start with USD 500,000-1,500,000. Multi-service workshops require USD 1.5-7 million. Most successful operations start with specific specialization and expand with proven success.",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "港湾代理店および管理",
+    "url": "https://www.seawayshipservices.com/ja/ship-repair.php",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月のシンガポール展示会に出展し、ジェトロ専門家による同行支援を受けブルネイ企業との代理店契約の締結に向けて商談を継続中",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "FleetManagers.Net の代理店です",
+    "url": "https://www.komc.co.jp/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Dan Marine Shanghai Ltd. (中国) の代理店として、部品および船用品のサプライ業務を行っています",
+    "url": "https://www.komc.co.jp/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "ISP Co., Ltd.(韓国)の代理店として、スクラバー・システム用の GRVE パイプをサプライします",
+    "url": "https://www.komc.co.jp/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "港湾代理店および管理",
+    "url": "https://www.seawayshipservices.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店サービス、通関、乗組員管理など、海事全般のサポート",
+    "url": "https://www.seawayshipservices.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "港湾代理店サービス",
+    "url": "https://www.seawayshipservices.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "海洋防汚代理店",
+    "url": "https://os-ship.com/?page_id=43",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Income and Profitability",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margin:",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Ship repair business profitability varies significantly by specialization and scale.",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Specialty Workshop Profitability",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margins:",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-Service Workshop Profitability",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Profitability:",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Time to Profitability",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Year 2: Break-even or modest profit",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Year 3-5: Solid profitability",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Most ship repair operations take 24-36 months to reach sustainable profitability — longer than some maritime services due to higher initial capital requirements and customer relationship development time.",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Q: How long does it take to become profitable?",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "A: Most ship repair operations reach sustainable profitability in 24-36 months. Initial period involves workshop setup, customer relationship development, and demonstrating capability. Major capital investment typically extends the payback period.",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Starting a ship repair business offers entrepreneurs an entry into a technically demanding but commercially rewarding segment of maritime services. The combination of consistent demand, multiple specialization opportunities, and substantial profit potential creates real opportunities for new entrants with technical capability, adequate capital, and operational discipline.",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Cost-plus pricing typically 10-25% markup",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Operators search PortServiceFinder by port and service and contact providers directly, with no commission. Listing is free during our launch period. After the launch period, listings will cost $49.90/month or $499.90/year.",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "How to Start a Ship Repair Business in 2026 | PortServiceFinder — How to Start a Ship Repair Business in 2026 | PortServiceFinder Port Service Finder https://www.portservicefinder.com > ...",
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "船舶 修理および改造市場調査レポート 2032 - WiseGuyReports — 船舶 修理および改造市場調査レポート 2032 - WiseGuyReports WiseGuyReports https://www.wiseguyreports.com > reports > ship-repairin...",
+    "url": "https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Japanese",
+    "url": "https://www.seawayshipservices.com/ja/ship-repair.php",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN MALLを活用して北米・欧州・中東市場を開拓",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN MALL活用で欧州の有力バイヤー向け売上5倍を実現した『だし』メーカーの海外戦略",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の海外展開を支援する全国のあらゆる支援機関が結集し、海外展開にご関心をお持ちの中堅・中小企業の皆様へワンストップの支援サービスを提供します",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本食品海外プロモーションセンター（JFOODO）",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright (C) 1995-2026 Japan External Trade Organization(JETRO). All rights reserved.",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人日本貿易振興機構 （法人番号 2010405003693）",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本においても緊急修理の対応が可能です",
+    "url": "https://www.komc.co.jp/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社である日本船舶表示株式会社の協力のもと、バラスト水浄化装置（BWMS）およびスクラバー（EGCS）のレトロフィット設計業務を行っています",
+    "url": "https://www.komc.co.jp/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "日本船舶表示はこの分野で日本有数の実績があります",
+    "url": "https://www.komc.co.jp/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内においても、必要な部品などのサプライが可能です",
+    "url": "https://www.komc.co.jp/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "日本・中国だけでなく、世界各地でのインスペクションが可能です",
+    "url": "https://www.komc.co.jp/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.seawayshipservices.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (Japanese)",
+    "url": "https://os-ship.com/?page_id=43",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "JAPAN MALL活用で欧州の有力バイヤー向け売上5倍を実現した『だし』メーカーの海外戦略",
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://maintastic.com/en/white-label-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultradispute.com/white-label-credit-repair-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabelcro.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.autodots.io/best-white-label-workshop-software-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabeldiy.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navionyx.com/white-label-fleet-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flowwright.com/blog/oem-white-label-workflow-software-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitalshipper.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carahsoft.com/partners/resellers-service-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://myquoteiq.com/top-8-softwares-for-boat-repair-businesses-in-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://journeybee.io/resources/top-100-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automotiveresearch.com/insights/importance-private-label-national-branded-auto-parts-2022-update",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hbc-system.com/about-us/private-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiphype.com/private-label-products-fulfillment/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.backstorybranding.com/insights/rebrand-and-brand-refresh-examples-saas-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://precisionlubrication.com/articles/turn-maintenance-into-a-profit-center-with-an-ebitda-mindset/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachtlogicpro.com/marine-software-solutions-powering-the-future-of-maritime-operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.equidam.com/ebitda-multiples-trbc-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/ship-repair-and-maintenance-services-market-105801",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://yachtlogicpro.com/how-to-run-a-more-efficient-boat-repair-shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dockmaster.com/blog/marine-repair-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullscale.io/blog/what-is-bootstrapping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsletter.pragmaticengineer.com/p/lessons-from-bootstrapped-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shipbob.com/white-labeled-3pl-fulfillment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifs.com/en/industries/construction-and-engineering/shipbuilding-and-maritime",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.descartes.com/solutions/ecommerce-shipping-fulfillment/shipping-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monterail.com/blog/top-offshore-software-development-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fleetup.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alltekmarine.com/ja/solutions/article/10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seawayshipservices.com/ja/ship-repair.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.city.osaka.lg.jp/port/page/0000531521.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifs.com/ja/industries/construction-and-engineering/shipbuilding-and-maritime",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komc.co.jp/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kgkjp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seawayshipservices.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://os-ship.com/?page_id=43",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ship repair software white label",
+   "results": [
+    "https://maintastic.com/en/white-label-software/",
+    "https://ultradispute.com/white-label-credit-repair-software/",
+    "https://www.facebook.com/whitelabelcro/",
+    "https://www.whitelabelcro.com/",
+    "https://blog.autodots.io/best-white-label-workshop-software-2026/",
+    "https://whitelabeldiy.com/",
+    "https://sellful.com/",
+    "https://yachtlogicpro.com/marine-software-solutions-powering-the-future-of-maritime-operations/",
+    "https://myquoteiq.com/top-8-softwares-for-boat-repair-businesses-in-2026/",
+    "https://www.issuewire.com/fly-it-solution-launches-white-label-repair-workshop-management-software-for-repair-businesses-1873756063355630"
+   ]
+  },
+  {
+   "query": "ship repair software OEM white-label partner",
+   "results": [
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://meshinspector.com/white-label/",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://navionyx.com/white-label-fleet-platform/",
+    "https://flowwright.com/blog/oem-white-label-workflow-software-guide",
+    "https://vendingtracker.com/for/oem-partners",
+    "https://www.fleetservice365.com/partners",
+    "https://www.inworkglobal.com/services/white-label",
+    "https://www.topicon.hk/partner-program.html",
+    "https://abiomedicalservice.com/pages/oem-partner"
+   ]
+  },
+  {
+   "query": "ship repair software reseller partner program",
+   "results": [
+    "https://digitalshipper.com/reseller-program",
+    "https://www.carahsoft.com/partners/resellers-service-providers",
+    "https://myquoteiq.com/top-8-softwares-for-boat-repair-businesses-in-2026/",
+    "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "https://www.youtube.com/watch?v=sjdMD79pANU",
+    "https://journeybee.io/resources/top-100-reseller-programs",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://www.datacore.com/partners/resellers/program/",
+    "https://www.text.com/blog/saas-reseller-programs/",
+    "https://www.repairdesk.co/become-a-reseller/"
+   ]
+  },
+  {
+   "query": "ship repair SaaS rebrand private label",
+   "results": [
+    "https://www.automotiveresearch.com/insights/importance-private-label-national-branded-auto-parts-2022-update",
+    "https://www.youtube.com/watch?v=_ZNBTD8MmkQ",
+    "https://hbc-system.com/about-us/private-label",
+    "https://shiphype.com/private-label-products-fulfillment/",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.backstorybranding.com/insights/rebrand-and-brand-refresh-examples-saas-companies",
+    "https://www.pedowitzgroup.com/blog/7-saas-rebrand-agencies-for-mid-market-teams",
+    "https://www.automotiveresearch.com/insights/2025-update-private-label-parts",
+    "https://www.bazaarvoice.com/blog/how-to-create-private-label-brands/",
+    "https://botpenguin.com/blogs/types-of-white-label-saas"
+   ]
+  },
+  {
+   "query": "ship repair software company profitable EBITDA",
+   "results": [
+    "https://precisionlubrication.com/articles/turn-maintenance-into-a-profit-center-with-an-ebitda-mindset/",
+    "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "https://yachtlogicpro.com/marine-software-solutions-powering-the-future-of-maritime-operations/",
+    "https://www.equidam.com/ebitda-multiples-trbc-industries/",
+    "https://www.fortunebusinessinsights.com/ship-repair-and-maintenance-services-market-105801",
+    "https://www.maximizemarketresearch.com/market-report/global-ship-repair-and-maintenance-services-market/104905/",
+    "https://market.us/report/ship-repair-and-maintenance-service-market/",
+    "https://www.linkedin.com/posts/markaodonnell_revenue-might-look-impressive-on-the-surface-activity-7431329006492459008-VJGY",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-marine-management-software-market-global-share-market-size-revenue-report-2026-2035",
+    "https://shipfinance.ai/knowledge/metrics/ebitda-in-shipping-companies/"
+   ]
+  },
+  {
+   "query": "ship repair software bootstrapped profitable revenue",
+   "results": [
+    "https://yachtlogicpro.com/how-to-run-a-more-efficient-boat-repair-shop/",
+    "https://www.dockmaster.com/blog/marine-repair-software",
+    "https://www.portservicefinder.com/blog/how-to-start-ship-repair-business-complete-guide-2026",
+    "https://blog.ifs.com/erp-and-eam-software-for-shipbuilding-and-ship-repair-the-2026-buyers-guide/",
+    "https://fullscale.io/blog/what-is-bootstrapping/",
+    "https://newsletter.pragmaticengineer.com/p/lessons-from-bootstrapped-companies",
+    "https://www.torque360.co/marine-repair-software/",
+    "https://www.reddit.com/r/startups/comments/196t4d3/bootstrapped_a_company_to_100k_in_revenue_in_its/",
+    "https://oae.app/industries/maritime-and-ship-repair/",
+    "https://profitable.app/bootstrapped"
+   ]
+  },
+  {
+   "query": "ship repair software vendors Europe Israel Germany white label",
+   "results": [
+    "https://www.shipbob.com/white-labeled-3pl-fulfillment/",
+    "https://www.ifs.com/en/industries/construction-and-engineering/shipbuilding-and-maritime",
+    "https://www.descartes.com/solutions/ecommerce-shipping-fulfillment/shipping-software",
+    "https://www.monterail.com/blog/top-offshore-software-development-companies",
+    "https://fleetup.com/white-label/",
+    "https://www.extensiv.com/blog/white-label-fulfillment",
+    "https://www.trawex.com/white-label-cruise-booking-engine.php",
+    "https://www.aeb.com/en/shipping/index.php",
+    "https://bvs-electronics.com/en/businessunits/mobility-maritime-applications",
+    "https://sourceforge.net/software/shipping/europe/"
+   ]
+  },
+  {
+   "query": "船舶修繕 ソフトウェア OEM 提供",
+   "results": [
+    "https://www.alltekmarine.com/ja/solutions/article/10",
+    "https://www.seawayshipservices.com/ja/ship-repair.php",
+    "https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market",
+    "https://www.city.osaka.lg.jp/port/page/0000531521.html",
+    "https://www.ifs.com/ja/industries/construction-and-engineering/shipbuilding-and-maritime",
+    "https://danaos-projects.com/jp/industries-we-serve/shipbuilding-erp-software/shipbuilder-and-ship-repairer/",
+    "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "https://www.mol-service.com/ja/blog/dry-dock-retrofit",
+    "https://www.shining3d.com/ja/3d-scanning-application-for-marine-industry",
+    "https://danaos-projects.com/jp/industries-we-serve/shipbuilding-erp-software/ship-repair-maintenance-conversion/ship-repair-maintenance/"
+   ]
+  },
+  {
+   "query": "船舶修繕 ソフト 代理店 海外製",
+   "results": [
+    "https://www.jetro.go.jp/case_study/2025/kg3.html",
+    "https://www.komc.co.jp/solutions/",
+    "https://www.kgkjp.com/",
+    "https://www.seawayshipservices.com/ja/",
+    "https://os-ship.com/?page_id=43",
+    "https://www.fujitrading.co.jp/",
+    "https://www.unitra.co.jp/dock/",
+    "https://www.rmsmarineservice.com/static/jp/general-agency",
+    "https://www.bizreach.jp/jobs/9576886/",
+    "http://kaigaisoft.com/company.htm"
+   ]
+  }
+ ],
+ "missing": {}
+}
