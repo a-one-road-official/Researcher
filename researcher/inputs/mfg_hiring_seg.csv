@@ -1,0 +1,17 @@
+品目,英語名,別名,文脈
+従業員1〜29人の製造業,manufacturers with 1-29 employees hiring cost Japan,小規模製造業 採用;従業員30人未満 製造業 採用;町工場 採用費,規模
+従業員30〜99人の製造業,manufacturers with 30-99 employees hiring cost Japan,従業員30〜99人 採用単価;中小製造業 30人以上100人未満 採用,規模
+従業員100〜299人の製造業,manufacturers with 100-299 employees hiring cost Japan,従業員100〜299人 採用単価;中堅製造業 採用費,規模
+従業員300〜999人の製造業,manufacturers with 300-999 employees hiring cost Japan,従業員300〜999人 採用単価;中堅企業 製造業 採用,規模
+従業員1000人以上の製造業,manufacturers with 1000+ employees hiring cost Japan,従業員1000人以上 採用単価;大手メーカー 採用費,規模
+製造オペレーター・技能工の中途採用,factory operator skilled worker mid-career hiring cost Japan,製造スタッフ 採用単価;技能工 採用;生産工程 求人,職種
+設計・生産技術エンジニアの中途採用,design production engineer mid-career hiring cost Japan,機械設計 採用単価;生産技術 採用;メーカー技術職 採用,職種
+高卒採用（製造業）,high school graduate hiring manufacturing Japan,高卒 採用単価 製造業;高卒求人倍率 製造,職種
+新卒採用（製造業・メーカー）,new graduate hiring cost manufacturers Japan,新卒採用単価 メーカー;新卒 採用費 製造業,職種
+外国人材（特定技能・製造業）,specified skilled worker manufacturing hiring cost Japan,特定技能 製造業 費用;技能実習 製造 費用,職種
+金属加工（切削・板金・溶接）の採用,metalworking machining sheet metal hiring Japan,金属加工 求人 採用難;板金 溶接 人手不足 採用,業種
+電子部品・半導体製造の採用,electronics semiconductor manufacturing hiring Japan,半導体工場 採用 人手不足;電子部品 製造 求人,業種
+食品製造の採用,food manufacturing hiring cost Japan,食品工場 採用単価;食品製造業 人手不足,業種
+輸送用機械・自動車部品の採用,automotive parts manufacturing hiring Japan,自動車部品 製造 採用;輸送用機械 人手不足,業種
+地方（東北・北陸・中国・九州）の製造業の採用,regional manufacturers hiring Tohoku Hokuriku Kyushu Japan,地方 製造業 採用経路;地方 工場 採用費,地域
+首都圏・東海・関西の製造業の採用,manufacturers hiring Tokyo Tokai Kansai Japan,首都圏 製造業 採用;愛知 製造業 採用難;大阪 製造業 採用,地域

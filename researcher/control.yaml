@@ -24,4 +24,5 @@ topics:
   mfg_hiring_budget: {run: true, shards: 4, per_run: 2}  # 2026-11-03 製造業（特に地方企業）の採用予算・採用単価・採用経路（全8件空振りのため短い別名で取り直し）
   mfg_recruit_land: {run: true, shards: 6, per_run: 2}  # 2026-11-03 製造業向け採用支援の競合ランドスケープ（第1段：区分ごとのプレイヤー）。第2段で会社ごとに創業年度・株主構成・売上を三重確認
   onprem_ai_box: {run: true, shards: 7, per_run: 2}  # 2026-11-03 オンプレのAI端末（箱型・エアギャップLLM）を世界中から洗う（イスラエル含む）。価格・人数・更新方法・ホワイトラベル・日本保守
+  mfg_hiring_seg: {run: true, shards: 8, per_run: 2}  # 2026-11-03 製造業の採用コストを規模（5区分）・職種・業種・地域に分けて取る（「中小製造業」で括らない）
   recruit_media_cos: {run: true, shards: 7, per_run: 2}  # 2026-11-03 採用媒体づくりの競合14社（売上・規模・創業年度・株主・料金・稼ぎ方）
