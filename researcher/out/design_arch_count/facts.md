@@ -1,0 +1,211 @@
+# デザイン事務所・建築設計事務所の数 — 規模別・都道府県別（事実のみ・5品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## デザイン業の事業所数（number of design businesses Japan）
+- 文脈：デザイン
+- 事業所数・企業数：
+  - 「１）事業所数の推移：デザイン業の事業所数は近年減少傾向」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 2014 年のデザイン業の事業所数は9,010 となっています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 2009 年から 2014 年の 5 年間に 15%の事業所数減少が見られ、厳しい業界環境がうかがえます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 事業所数を従業者規模別にみると、｢4 人以下｣が 78％を占めます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「従業者規模別 事業所数（2014 年、単位：件）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「売上げ規模別 事業所数（2014 年、単位：件）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「プ 2 都府との事業所数の開きは大きく、大都市集中型の事業所分布であることがうかがえます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「都道府県別、事業所数（2014 年、単位：件）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「一方で、事業所数の 1％に」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「成 18年事業所・企業統計』 によると、 全国の事業所数 9,904」（https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf）
+  - 「18 年の大阪府内のデザイン業は事業所数 1,605 か所、従」（https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf）
+  - 「これは、 東京都 （事業所数 3,951か所、」（https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf）
+  - 「表１ デザイン業の事業所数及び従業者数（民営、全国及び上位５府県）」（https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf）
+  - 「２．全国の従業者規模別事業所数は、「派遣・下請従業者のみ」とする２件を除いているため、」（https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf）
+  - 「従業者規模別事業所数（平成18年、か所）事業所数（か所） 従業者数（人）」（https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf）
+- 規模別：
+  - 「２）事業所の構成：従業者数 10 人未満、売上高 1 億円未満の小規模事業所が 9 割に」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 事業所数を従業者規模別にみると、｢4 人以下｣が 78％を占めます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「と、9 割超が 10 人未満の小規模事業所となっています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 売上高規模別には｢1 千万円未満｣が 41％、｢1 千万円以上 3 千万円未満｣が 28％、｢3 千万円以」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「従業者規模別 事業所数（2014 年、単位：件）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「売上げ規模別 事業所数（2014 年、単位：件）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「従業員規模 事業所数 比率」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：財務省「法人企業統計」( ’09,’10,’12~’14)、経済産業省「特定サービス産業実態調査」( ’09,’10,’13,’14)、総務省「経済センサ」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「２）売上高の構成：デザイン業の売上高の多くが、従業者 30 人未満の事業所」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 従業員規模別にみると、30 人未満の事業所が売上高の 86％を占めます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「従業者規模別 年間売上高（2014 年、単位：百万円）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「4 人以下 96,814 29.9%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 デザイン業で働く従業者数（デザイナーの他、間接部門人員等も含まれる）を従業者規模別にみると」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「｢1～4 人｣が 33％、｢5～9 人｣が 23％、｢10～19 人｣が 19％と、20 人未満の事業所で 8 割超とな」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「【参考】従業者規模別 デザイン業における従業者数（2014 年）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+- 都道府県別：
+  - 「都道府県別、事業所数（2014 年、単位：件）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「デザイン業を主業とする事業所の都道府県別、年間売上高（2014 年、単位：件）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「【参考】デザイン業を主業とする事業所の都道府県別、事業従事者数（2014 年、単位：人）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「広島で生まれた商品及びパッケージのうち、デザイン面・機能面で優れたものを選定することにより、デザインに」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「山口県内のクリエイターたちのクリエイティブな感覚を刺激し、事業を通して若者のデザイン力の底上げをするとと」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「(3) 都道府県別」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf）
+  - 「都道府県別に事業所数をみると、 東京 が 3233事業所（構成比 41.7％）、 大阪 が 1276事業所（同 16.5％）、」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf）
+  - 「第２－４表 デザイン 業務の都道府県別事業所数、 事業従事者数 、年間売上高」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf）
+  - 「岡山 62 0.8 418 1.2 4,063 1.1」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf）
+  - 「広島 100 1.3 342 1.0 4,604 1.3」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf）
+  - 「山口 38 0.5 134 0.4 982 0.3」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf）
+  - 「愛媛 42 0.5 165 0.5 1,166 0.3」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf）
+  - 「都道府県別に事業所数をみると、 東京 が 595 事業所（構成比 12.5％）、 愛知 が 557 事業所（同 11.7％）、」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf）
+  - 「第２－４表 機械設計 業務の都道府県別事業所数、 事業従事者数 、年間売上高」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf）
+  - 「岡山 85 1.8 695 1.5 5,513 1.0」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf）
+- 売上・規模感：
+  - 「２）事業所の構成：従業者数 10 人未満、売上高 1 億円未満の小規模事業所が 9 割に」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 売上高規模別には｢1 千万円未満｣が 41％、｢1 千万円以上 3 千万円未満｣が 28％、｢3 千万円以」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「上 1 億円未満｣が 22％と、売上高 1 億円未満の事業所が 9 割を超えています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「売上げ規模別 事業所数（2014 年、単位：件）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「売上高規模 事業所数 比率」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「1 千万円未満 3,321 40.7%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「1 千万円以上 3 千万円未満 2,292 28.1%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「3 千万円以上 1 億円未満 1,829 22.4%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「1 億円以上 10 億円未満 708 8.7%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「10 億円以上 11 0.1%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「１）売上高の推移：売上高は横ばいないしは減少基調」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 2014 年のデザイン業の年間売上高は 3,240 億円となっています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「デザイン業の年間売上高の推移（単位：百万円）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「２）売上高の構成：デザイン業の売上高の多くが、従業者 30 人未満の事業所」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 従業員規模別にみると、30 人未満の事業所が売上高の 86％を占めます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+- 調査主体・時期：
+  - 「Ⅳ デザイン 関係統計資料」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「関係統計資料」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「１.統計資料」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「デザイン業・デザイナーを取りまく現状について 、公開されている各種統計データ、デザインに関する国内外の文献」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「を収集・調査したものを紹介します」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：総務省「事業所・企業統計調査」(’06)、総務省「経済センサス」(’09,’12,’14) ※全産業からは民営事業所のみ」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：総務省「事業所・企業統計調査」(‘06)、総務省「経済センサス」(’09,’12,’14)※全産業からは民営事業所のみ」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：経済産業省「特定サービス産業実態調査」(’14)」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：経済産業省｢特定サービス産業実態調査｣(‘14)」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：財務省「法人企業統計」( ’09,’10,’12~’14)、経済産業省「特定サービス産業実態調査」( ’09,’10,’13,’14)、総務省「経済センサ」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：経済産業省「特定サービス産業実態調査」(’09,’10,’13,’14)」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：経済産業省｢特定サービス産業実態調査｣(‘14)、IBISWorld, “Industry Market Research”(’15.8)」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：日本:経済産業省｢特定サービス産業実態調査｣( ‘14)」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：経済産業省｢特定サービス産業実態調査｣(’09,’10,’13,’14)、総務省統計局｢経済センサス活動調査｣(‘12)」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：総務省「国勢調査」(‘10)」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+
+## 工業デザイン・プロダクトデザイン事務所の数（industrial product design firms Japan number）
+- 文脈：デザイン
+- 規模別：
+  - 「デザイン賞といいますが、多くは公益社団法人で管理、運営されており、ある意味、企業化された組織で運営されています」（https://www.cmfdesignlab.com/productdesignphilosophy02.html）
+  - 「学校法人 桑沢学園」（https://www.kds.ac.jp/design_column/product-design/）
+  - 「デザイン賞といいますが、多くは公益社団法人で管理、運営されており、ある意味、企業化された組織で運営されています」（https://www.cmfdesignlab.com/productdesignphilosophy04.html）
+  - 「名称 公益財団法人日本デザイン振興会」（https://www.cmfdesignlab.com/productdesignphilosophy04.html）
+  - 「東京都北区にある株式会社TIDOは、2004年創業、2022年に法人化した小さなデザイン事務所です」（https://www.biz.ne.jp/matome/2008520/）
+- 都道府県別：
+  - 「岡山県下最大級の総合デザイン事務所」（https://www.biz.ne.jp/matome/2008519/）
+  - 「岡山市南区芳泉2-5-48」（https://www.biz.ne.jp/matome/2008519/）
+  - 「岡山市にある株式会社テイクオフは、岡山県下最大級の総合デザイン事務所です」（https://www.biz.ne.jp/matome/2008519/）
+  - 「住所：岡山県 岡山市南区芳泉2-5-48」（https://www.biz.ne.jp/matome/2008519/）
+  - 「広島市南区向洋新町2-10-8」（https://www.biz.ne.jp/matome/2008520/）
+  - 「株式会社アームスは、広島市南区向洋新町にあるインダストリアルデザインに強いデザイン会社です」（https://www.biz.ne.jp/matome/2008520/）
+  - 「住所：広島県 広島市南区向洋新町2-10-8」（https://www.biz.ne.jp/matome/2008520/）
+- 売上・規模感：
+  - 「平均6.2社」（https://www.biz.ne.jp/matome/2008519/）
+  - 「事業所の売上高比率をみると、約57%はグラフィックデザイン」（https://aokidesign.com/2019/02/18/%E5%B7%A5%E6%A5%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E6%95%B0%E3%81%AF%EF%BC%9F/）
+  - 「平均6.2社」（https://www.biz.ne.jp/matome/2008520/）
+- 調査主体・時期：
+  - 「ａ．流量計の開発ストーリー（２０２４年度グッドデザイン賞受賞事例）：」（https://www.cmfdesignlab.com/productdesignphilosophy02.html）
+  - 「プロダクトデザインに強い会社20選！仕事の流れや会社の選び方を徹底解説！【2026年度版】 | 比較ビズまとめ」（https://www.biz.ne.jp/matome/2008519/）
+  - 「製品のジャンルだけではなく、女性向け製品が得意な会社や市場調査に定評がある会社など、企業の特徴を知ることが重要です」（https://www.biz.ne.jp/matome/2008519/）
+  - 「プロダクトデザイン会社では、製品のコンセプト作成や市場調査から行ってくれる会社があります」（https://www.biz.ne.jp/matome/2008519/）
+  - 「自社で市場調査を行い、マーケティングデータを蓄積している場合には、デザインだけ依頼できる会社が適しているでしょう」（https://www.biz.ne.jp/matome/2008519/）
+  - 「業務ごとの料金目安を公表」（https://www.biz.ne.jp/matome/2008519/）
+  - 「調査、企画の段階からデザイン視点で製品開発に関わり、外観だけではなく、UI・UXはもちろん、量産技術を把握しながらアイデンティティを確立するデザインを提案します」（https://www.biz.ne.jp/matome/2008519/）
+  - 「中国既存品の調査・輸入業務・モディファイ業務も実施」（https://www.biz.ne.jp/matome/2008519/）
+  - 「中国既存品の調査や輸入、OEM生産現地での交渉などニーズにあわせた対応が可能です」（https://www.biz.ne.jp/matome/2008519/）
+  - 「企画・開発の前段階のリサーチ、パテント調査や、試作・検証実験、生産の立ち上げ、流通管理など幅広く詳細に分析」（https://www.biz.ne.jp/matome/2008519/）
+  - 「経済産業省の統計をみても、大手企業のインハウスデザイナーは含まれないかたちのデータで、その全容は掴み難いようです」（https://aokidesign.com/2019/02/18/%E5%B7%A5%E6%A5%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E6%95%B0%E3%81%AF%EF%BC%9F/）
+  - 「この経産省の統計によりますと、デザイン事業所ではたらくデザイナーの総数は2014年で約4万人」（https://aokidesign.com/2019/02/18/%E5%B7%A5%E6%A5%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E6%95%B0%E3%81%AF%EF%BC%9F/）
+  - 「資格が故に、その統計値の入手は簡単で精度も」（https://aokidesign.com/2019/02/18/%E5%B7%A5%E6%A5%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E6%95%B0%E3%81%AF%EF%BC%9F/）
+  - 「デザインにおける調査は大きく3つあります」（https://www.kds.ac.jp/design_column/product-design/）
+  - 「まず、製品をだれがどのように使用するのかどんな要望があるのか、調査をします」（https://www.kds.ac.jp/design_column/product-design/）
+- 検索結果の抜粋：
+  - 「[ プロダクトデザイン 会社]4. プロダクトデザイン事務所 実績と ... — [ プロダクトデザイン 会社]4. プロダクトデザイン事務所 実績と ... CMF Design Lab https://www.cmfdesignlab.com > productdesignphilosoph...」（https://www.cmfdesignlab.com/productdesignphilosophy04.html）
+- 事業所数・企業数：記載なし（読んだ36頁・検索6回）
+
+## 建築士事務所の登録数（registered architect offices Japan number）
+- 文脈：建築
+- 事業所数・企業数：
+  - 「一級建築士事務所の登録数から単純計算すると、1社あたり約5〜6人の一級建築士が登録されている計算になります」（https://mirai-style.net/youtube-explanation/39909/）
+- 売上・規模感：
+  - 「学科試験だけでも、2000年から2025年の平均合格率は18%で、学科試験にパスして製図試験まで合格する人の割合は8〜11％とかなり低く、簡単に受かる試験ではありません」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「・人手不足による受注機会の損失や受注額（売上額）の減少」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「建築士の平均的な年収・給料｜2026年採用市場の実態とWeb運用による求人の必要性」（https://mirai-style.net/youtube-explanation/39909/）
+- 調査主体・時期：
+  - 「国土交通省が公表する最新情報によると、全国で登録されている一級建築士事務所は合わせて68,549件あるのに対して、一級建築士の数は383,923人に上り、一級建築士の累計人数を見ると、2004年からは増え続けています」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「国土交通省｜建築士登録状況（令和7年4月1日時点）」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「一級建築士事務所の登録数から単純計算すると、1社あたり約5〜6人の一級建築士が登録されている計算になります」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「国土交通省｜建築分野の担い手の動向について」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「グラフの通り、建築士事務所も一級建築士も東京とその周辺、北海道・愛知・大阪・福岡に集中していることが分かります」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「国土交通省によると、このまま現在の傾向が維持されると、建築士数は2047年までに半減すると試算されています」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「建築士と建築士事務所は、建設需要に比例して地域によって偏在しているのが現状ですが、どの地域においても高齢化・若年層不足は共通する問題です」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「国土交通省｜一級建築士試験「設計製図の試験」の合格者の発表について」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「・大学院の建築に関する課程における建築士事務所等で行う実務実習（インターンシップ）」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「国土交通省｜一級建築士試験の受験資格に係る教育課程認定について」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「国土交通省｜令和2年から建築試験の受験要件が変わり、新しい建築士制度がスタートします！」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「実際に、厚生労働省のアンケート調査によると、採用活動において求人情報ページ（サイト）を開設していると回答した企業の割合は83.5％にも上り、紙媒体や対面による方法を大きく上回っています」（https://mirai-style.net/youtube-explanation/39909/）
+  - 「厚生労働省｜求人情報・求職情報関連事業実態調査結果の概要」（https://mirai-style.net/youtube-explanation/39909/）
+- 規模別：記載なし（読んだ36頁・検索6回）
+- 都道府県別：記載なし（読んだ36頁・検索6回）
+
+## 建築設計業の事業所数（architectural design businesses Japan establishments）
+- 文脈：建築
+- 事業所数・企業数：記載なし（読んだ36頁・検索6回）
+- 規模別：記載なし（読んだ36頁・検索6回）
+- 都道府県別：記載なし（読んだ36頁・検索6回）
+- 売上・規模感：記載なし（読んだ36頁・検索6回）
+- 調査主体・時期：記載なし（読んだ36頁・検索6回）
+
+## 広島・瀬戸内のデザイン事務所と建築事務所の数（design and architecture offices Hiroshima Setouchi）
+- 文脈：地域
+- 規模別：
+  - 「会員検索 | 一般社団法人 広島県建築士事務所協会」（https://h-aaa.jp/se_ichiran/）
+  - 「一般社団法人」（https://h-aaa.jp/se_ichiran/）
+  - 「一般社団法人 広島県建築士事務所協会,」（https://h-aaa.jp/se_ichiran/）
+  - 「・公益社団法人 広島県建築士会」（https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/）
+  - 「・公益社団法人日本建築家協会」（https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/）
+  - 「・社団法人広島県建築士事務所協会」（https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/）
+  - 「建築関係リンク集 | 一般社団法人 広島県建築士事務所協会」（https://h-aaa.jp/link/）
+  - 「一般社団法人」（https://h-aaa.jp/link/）
+  - 「一般社団法人 広島県建築士事務所協会,」（https://h-aaa.jp/link/）
+  - 「社団法人広島県建築士会」（https://u-sekkei.co.jp/pages/2/）
+  - 「社団法人広島県建築士事務所協会」（https://u-sekkei.co.jp/pages/2/）
+- 都道府県別：
+  - 「会員検索 | 一般社団法人 広島県建築士事務所協会」（https://h-aaa.jp/se_ichiran/）
+  - 「広島県建築士事務所協会」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市佐伯区」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市安佐北区」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市安佐南区」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市安芸区」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市東区光町１－１１－５」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市東区牛田東3-10-12」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市中区八丁堀４－１５」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市西区庚午北2-1-4-302」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市中区袋町４－３２」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市中区大手町４－２－２７中央レジデンス３階」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市西区上天満町２－１６」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市東区上大須賀町１０－１６」（https://h-aaa.jp/se_ichiran/）
+  - 「広島市中区河原町1-22 サンピア平和公園202号室」（https://h-aaa.jp/se_ichiran/）
+- 売上・規模感：
+  - 「自分だけの空間を即作れる「どこでもBOX」3万円〜」（https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/）
+  - 「平均3.2社」（https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/）
+  - 「資本金1000万円に増資」（https://u-sekkei.co.jp/pages/2/）
+- 調査主体・時期：
+  - 「会員検索 | 一般社団法人 広島県建築士事務所協会」（https://h-aaa.jp/se_ichiran/）
+  - 「広島県建築士事務所協会」（https://h-aaa.jp/se_ichiran/）
+  - 「建築士事務所の方へ」（https://h-aaa.jp/se_ichiran/）
+  - 「建築士事務所登録関係」（https://h-aaa.jp/se_ichiran/）
+  - 「建築士事務所とは」（https://h-aaa.jp/se_ichiran/）
+  - 「建築士事務所をお探しの方へ(会員建築士事務所の紹介)」（https://h-aaa.jp/se_ichiran/）
+  - 「建築士事務所のための法律相談窓口」（https://h-aaa.jp/se_ichiran/）
+  - 「一級建築士事務所アーキサイン設計」（https://h-aaa.jp/se_ichiran/）
+  - 「アーバン・クレオ一級建築士事務所」（https://h-aaa.jp/se_ichiran/）
+  - 「株式会社アイオービー一級建築士事務所」（https://h-aaa.jp/se_ichiran/）
+  - 「株式会社青木工務店 二級建築士事務所」（https://h-aaa.jp/se_ichiran/）
+  - 「赤防株式会社一級建築士事務所」（https://h-aaa.jp/se_ichiran/）
+  - 「株式会社 ASSUMER一級建築士事務所」（https://h-aaa.jp/se_ichiran/）
+  - 「一級建築士事務所株式会社 アトリエ・アーク」（https://h-aaa.jp/se_ichiran/）
+  - 「一級建築士事務所有田建設株式会社」（https://h-aaa.jp/se_ichiran/）
+- 事業所数・企業数：記載なし（読んだ36頁・検索6回）

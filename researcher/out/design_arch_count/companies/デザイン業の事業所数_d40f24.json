@@ -1,0 +1,1072 @@
+{
+ "name": "デザイン業の事業所数",
+ "en": "number of design businesses Japan",
+ "aliases": [
+  "デザイン業 事業所数",
+  "デザイン事務所 数",
+  "デザイン業 経済センサス"
+ ],
+ "context": "デザイン",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:55:11.028971+00:00",
+ "evidence": {
+  "事業所数・企業数": [
+   {
+    "quote": "１）事業所数の推移：デザイン業の事業所数は近年減少傾向",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2014 年のデザイン業の事業所数は9,010 となっています",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2009 年から 2014 年の 5 年間に 15%の事業所数減少が見られ、厳しい業界環境がうかがえます",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 事業所数を従業者規模別にみると、｢4 人以下｣が 78％を占めます",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別 事業所数（2014 年、単位：件）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上げ規模別 事業所数（2014 年、単位：件）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プ 2 都府との事業所数の開きは大きく、大都市集中型の事業所分布であることがうかがえます",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別、事業所数（2014 年、単位：件）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、事業所数の 1％に",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成 18年事業所・企業統計』 によると、 全国の事業所数 9,904",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "18 年の大阪府内のデザイン業は事業所数 1,605 か所、従",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは、 東京都 （事業所数 3,951か所、",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ デザイン業の事業所数及び従業者数（民営、全国及び上位５府県）",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．全国の従業者規模別事業所数は、「派遣・下請従業者のみ」とする２件を除いているため、",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別事業所数（平成18年、か所）事業所数（か所） 従業者数（人）",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．事業所数、従業者数の下段の（）内は対全国比、従業者規模別事業所数の下段の（）内は",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（平成16年、個人・会社、全国及び事業所数上位５府県）",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン業事業所数：７７４７事業所",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 ７７４７ 事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 ２１ 年の デザイン 業の事業所数は、 7747 事業所 となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１－１ 表 経営組織別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１－２ 表 単独事業所・本社・支社別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１－ ３表 従業者規模別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別に事業所数をみると、 東京 が 3233事業所（構成比 41.7％）、 大阪 が 1276事業所（同 16.5％）、",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２－４表 デザイン 業務の都道府県別事業所数、 事業従事者数 、年間売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 ４７５１ 事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 ２１ 年の 機械設計 業の事業所数は、 4751 事業所 となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   }
+  ],
+  "規模別": [
+   {
+    "quote": "２）事業所の構成：従業者数 10 人未満、売上高 1 億円未満の小規模事業所が 9 割に",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 事業所数を従業者規模別にみると、｢4 人以下｣が 78％を占めます",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と、9 割超が 10 人未満の小規模事業所となっています",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 売上高規模別には｢1 千万円未満｣が 41％、｢1 千万円以上 3 千万円未満｣が 28％、｢3 千万円以",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別 事業所数（2014 年、単位：件）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上げ規模別 事業所数（2014 年、単位：件）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模 事業所数 比率",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：財務省「法人企業統計」( ’09,’10,’12~’14)、経済産業省「特定サービス産業実態調査」( ’09,’10,’13,’14)、総務省「経済センサ",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）売上高の構成：デザイン業の売上高の多くが、従業者 30 人未満の事業所",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 従業員規模別にみると、30 人未満の事業所が売上高の 86％を占めます",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別 年間売上高（2014 年、単位：百万円）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 人以下 96,814 29.9%",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " デザイン業で働く従業者数（デザイナーの他、間接部門人員等も含まれる）を従業者規模別にみると",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "｢1～4 人｣が 33％、｢5～9 人｣が 23％、｢10～19 人｣が 19％と、20 人未満の事業所で 8 割超とな",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】従業者規模別 デザイン業における従業者数（2014 年）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．全国の従業者規模別事業所数は、「派遣・下請従業者のみ」とする２件を除いているため、",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別事業所数（平成18年、か所）事業所数（か所） 従業者数（人）",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．事業所数、従業者数の下段の（）内は対全国比、従業者規模別事業所数の下段の（）内は",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特許庁では、我が国の知的財産政策を企画立案するにあたっての基礎資料を整備するため、我が国の個人、法人、大学等公的研究機関の知的財産活動の実態を把握することを目的として「知的財産活動調査」を実施しております",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営組織別にみると、「会社」が 5263 事業 所（構成比 67.9 ％）と 約７割を占めており、「会社以外の法人・",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社以外の法人・団体及び個人経営",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 従業者規模別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別にみると、「 ４人以下 」規模が 7747事業所（構成比 73.0％）と最も多く、次いで、 「５人～ ９人」",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１－ ３表 従業者規模別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社以外の法人・団体",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別にみると、「 ４人以下 」規模が 3038事業所（構成比 63.9％）と最も多く、次いで、 「５人～ ９人」",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   }
+  ],
+  "都道府県別": [
+   {
+    "quote": "都道府県別、事業所数（2014 年、単位：件）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン業を主業とする事業所の都道府県別、年間売上高（2014 年、単位：件）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】デザイン業を主業とする事業所の都道府県別、事業従事者数（2014 年、単位：人）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "広島で生まれた商品及びパッケージのうち、デザイン面・機能面で優れたものを選定することにより、デザインに",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "山口県内のクリエイターたちのクリエイティブな感覚を刺激し、事業を通して若者のデザイン力の底上げをするとと",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 都道府県別",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別に事業所数をみると、 東京 が 3233事業所（構成比 41.7％）、 大阪 が 1276事業所（同 16.5％）、",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２－４表 デザイン 業務の都道府県別事業所数、 事業従事者数 、年間売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "岡山 62 0.8 418 1.2 4,063 1.1",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "広島 100 1.3 342 1.0 4,604 1.3",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "山口 38 0.5 134 0.4 982 0.3",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛 42 0.5 165 0.5 1,166 0.3",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別に事業所数をみると、 東京 が 595 事業所（構成比 12.5％）、 愛知 が 557 事業所（同 11.7％）、",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２－４表 機械設計 業務の都道府県別事業所数、 事業従事者数 、年間売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "岡山 85 1.8 695 1.5 5,513 1.0",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "山口 76 1.6 462 1.0 3,625 0.6",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "香川 31 0.7 125 0.3 974 0.2",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛 117 2.5 776 1.6 6,680 1.2",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   }
+  ],
+  "売上・規模感": [
+   {
+    "quote": "２）事業所の構成：従業者数 10 人未満、売上高 1 億円未満の小規模事業所が 9 割に",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 売上高規模別には｢1 千万円未満｣が 41％、｢1 千万円以上 3 千万円未満｣が 28％、｢3 千万円以",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上 1 億円未満｣が 22％と、売上高 1 億円未満の事業所が 9 割を超えています",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上げ規模別 事業所数（2014 年、単位：件）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高規模 事業所数 比率",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 千万円未満 3,321 40.7%",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 千万円以上 3 千万円未満 2,292 28.1%",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 千万円以上 1 億円未満 1,829 22.4%",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 億円以上 10 億円未満 708 8.7%",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 億円以上 11 0.1%",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１）売上高の推移：売上高は横ばいないしは減少基調",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2014 年のデザイン業の年間売上高は 3,240 億円となっています",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン業の年間売上高の推移（単位：百万円）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）売上高の構成：デザイン業の売上高の多くが、従業者 30 人未満の事業所",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 従業員規模別にみると、30 人未満の事業所が売上高の 86％を占めます",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、 主として売上高の割合が高いグラフィックデザ",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン業の収入額は東京都が 3,605億円と全国（6,208億",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "965億円で全国第二位である",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "阪府は 6,169万円と東京都（9,637万円）に次いで全国第二",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．「１事業所当たりの設備投資額」は，設備投資額が「０」万円及び設備投資額不詳の事業所を除いている",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総 額（百万円）",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所当たり（万円）",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン業についても、事業所名及び所在地、経営組織及び資本金額、本社・支社別年間売上高、年間売上高の契約先産業別割合、年間営業費用及び年間営業用固定資産取得額、従業者数が調査されています",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上高：３８７０．３億円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン業務の年間売上高：３６７１．９億円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所当たり年間売上高：４９９６万円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所当たりデザイン業務の年間売上高：４７３９万円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上高 ３８７０ 億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン 業務の年間売上高 ３６７２ 億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業 所当たり年間売上高 ４９９６万 円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり デザイン 業務の年間売上高 ４７３９万 円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 年間売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上高は、 3870 億円 となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、主業である デザイン 業務の年間売上高は、 3672 億円で、 デザイン 業の年間売上高に占める割合",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、その他業務（従業）の年間売上高は、 198 億円であった",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「サービス 業務 」52 億円 （構成比 1.8％） が最も高 くなっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１－ ５表 業務別年間売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "構成比(%) （百万円） 構成比(%)",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 業務別",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間営業費用は、 3443 億円、年間売上高に占める割合は 89.0％となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これを 従事者 ５人以上で 費用区分別にみると、 「給与支給総額」が 1026 億円（ 構成比 39.4％）、 「外注費 」が",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "875 億円（ 同 33.6％）などとなっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "Ⅳ デザイン 関係統計資料",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関係統計資料",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１.統計資料",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン業・デザイナーを取りまく現状について 、公開されている各種統計データ、デザインに関する国内外の文献",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を収集・調査したものを紹介します",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省「事業所・企業統計調査」(’06)、総務省「経済センサス」(’09,’12,’14) ※全産業からは民営事業所のみ",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省「事業所・企業統計調査」(‘06)、総務省「経済センサス」(’09,’12,’14)※全産業からは民営事業所のみ",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：経済産業省「特定サービス産業実態調査」(’14)",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：経済産業省｢特定サービス産業実態調査｣(‘14)",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：財務省「法人企業統計」( ’09,’10,’12~’14)、経済産業省「特定サービス産業実態調査」( ’09,’10,’13,’14)、総務省「経済センサ",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：経済産業省「特定サービス産業実態調査」(’09,’10,’13,’14)",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：経済産業省｢特定サービス産業実態調査｣(‘14)、IBISWorld, “Industry Market Research”(’15.8)",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：日本:経済産業省｢特定サービス産業実態調査｣( ‘14)",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：経済産業省｢特定サービス産業実態調査｣(’09,’10,’13,’14)、総務省統計局｢経済センサス活動調査｣(‘12)",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省「国勢調査」(‘10)",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今年度の業績は横ばい程度とみられているが、 今後につい",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局 『平",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成 18年事業所・企業統計』 によると、 全国の事業所数 9,904",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局 『平成 16年サービス業基本調査』 によると、",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多くの事業所で 19年度の業績は前年比で横ばい程度と予",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省統計局『事業所・企業統計』より作成",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．変化率は、前回調査（平成11年）からの変化率",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省統計局『平成16年 サービス業基本調査』より作成",
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関連統計資料（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "関連統計資料",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定サービス産業実態調査(平成21年調査確報公表値)",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "統計法に基づき、我が国サービス産業の活動の実態と事業経営の現状を明らかにし、サービス産業に関する施策の基礎資料を得ることを目的に、特定サービス産業実態調査が毎年実施されています",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン業についても、事業所名及び所在地、経営組織及び資本金額、本社・支社別年間売上高、年間売上高の契約先産業別割合、年間営業費用及び年間営業用固定資産取得額、従業者数が調査されています",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "※調査対象は、デザイン業務を行う事業所",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "※標本調査で拡大推計して集計後に四捨五入された数値です",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定サービス産業実態統計",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "統計法に基づき、我が国の人口の状況を明らかにするため、国勢調査が実施されています",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成17年国勢調査では、調査時において、本邦内に常住している者",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "を対象に調査がされております",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "本調査では、職業（小分類）デザイナーに該当する者の数は、全国で164,741人となっています",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "※「常住している者」とは、当該住居に3か月以上にわたって住んでいるか、又は住むことになっている者をいい、3か月以上にわたって住んでいる住居又は住むことになっている住居のない者は、調査時現在居た場所に「常住している者」とみなされています",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成17年国勢調査",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "（詳細データはこちらの統計表一覧からご確認下さい）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：標本調査で拡大推計して集計後に四捨五入をしている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://archive.jidp.or.jp/wpd2024/wpd2024_6_a3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/7261",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000935533.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/2019/kinyu/pdf/ks_otu16-17.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005673",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?alpha=5&layout=dataset&page=1&statdisp_id=0004005687&toukei=00200553&tstat=000001145590",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://design-management.hatenablog.jp/entry/2019/09/11/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E7%B4%B9%E4%BB%8B%EF%BC%88%E4%BA%8B%E6%A5%AD%E6%89%80%E6%95%B0%E3%83%BB%E5%B9%B4%E9%96%93%E5%A3%B2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003326529",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amix-design.com/asoboad/blog-264-111384.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studiok-co.jp/report/15614.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biz-up.biz/logocolumn/%E3%80%90%E7%AC%AC%EF%BC%94%EF%BC%98%EF%BC%96%E5%9B%9E%E3%80%91%E8%87%AA%E7%A4%BE%E3%81%AE%E6%A5%AD%E7%95%8C%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%A6%8B%E3%82%8B%E3%81%A8%E3%81%84%E3%82%8D%E3%81%84.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003181125",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/ee4ca90851f3aa9bc80048786af269a8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2024.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.minato.tokyo.jp/documents/92502/creativesangyou-gaiyouban.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/prefecture/3562c231-08e3-43af-8765-2077382c0c10/category/d56261bf-9ed5-4ece-87f7-b74db9f6f407",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digi-mado.jp/articles/eafa9e9b-120c-4770-bb3e-3655ad117213/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.boj.or.jp/hiroshima/files/data/keizai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hirogin-hd.co.jp/library/presentation/2025/ir20250919_day1sc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hk-report.co.jp/business/design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techbehemoths.com/companies/graphic-design/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recordings.designmatters.io/14-japanese-digital-agencies-we-love/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://architizer.com/blog/inspiration/collections/best-architecture-firms-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/product-design-companies/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ndc.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexigner.com/directory/loc/Japan",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "デザイン業の事業所数",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "https://archive.jidp.or.jp/wpd2024/wpd2024_6_a3.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/7261",
+    "https://www.pref.osaka.lg.jp/documents/30371/design0803.pdf",
+    "https://www.soumu.go.jp/main_content/000935533.pdf",
+    "https://www.stat.go.jp/data/kkj/2019/kinyu/pdf/ks_otu16-17.pdf",
+    "https://amix-design.com/asoboad/blog-264-111384.html",
+    "https://j-net21.smrj.go.jp/startup/guide/it/05003.html",
+    "https://design-management.hatenablog.jp/entry/2019/09/11/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E7%B4%B9%E4%BB%8B%EF%BC%88%E4%BA%8B%E6%A5%AD%E6%89%80%E6%95%B0%E3%83%BB%E5%B9%B4%E9%96%93%E5%A3%B2",
+    "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf"
+   ]
+  },
+  {
+   "query": "デザイン業の事業所数 事業所数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004005673",
+    "https://archive.jidp.or.jp/wpd2024/wpd2024_6_a3.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-census2026.go.jp/document/pdf/howto_10.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?alpha=5&layout=dataset&page=1&statdisp_id=0004005687&toukei=00200553&tstat=000001145590",
+    "https://design-management.hatenablog.jp/entry/2019/09/11/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E7%B4%B9%E4%BB%8B%EF%BC%88%E4%BA%8B%E6%A5%AD%E6%89%80%E6%95%B0%E3%83%BB%E5%B9%B4%E9%96%93%E5%A3%B2",
+    "https://www.stat.go.jp/data/e-census/jiten/index.htm",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "https://www.stat.go.jp/data/e-census/"
+   ]
+  },
+  {
+   "query": "デザイン業の事業所数 都道府県別",
+   "results": [
+    "https://archive.jidp.or.jp/wpd2024/wpd2024_6_a3.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003326529",
+    "https://amix-design.com/asoboad/blog-264-111384.html",
+    "https://studiok-co.jp/report/15614.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.soumu.go.jp/main_content/000935533.pdf",
+    "https://www.biz-up.biz/logocolumn/%E3%80%90%E7%AC%AC%EF%BC%94%EF%BC%98%EF%BC%96%E5%9B%9E%E3%80%91%E8%87%AA%E7%A4%BE%E3%81%AE%E6%A5%AD%E7%95%8C%E3%82%92%E6%95%B0%E5%AD%97%E3%81%A7%E8%A6%8B%E3%82%8B%E3%81%A8%E3%81%84%E3%82%8D%E3%81%84.html",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/7261",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/toukei.html"
+   ]
+  },
+  {
+   "query": "デザイン業の事業所数 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf",
+    "https://archive.jidp.or.jp/wpd2024/wpd2024_6_a3.pdf",
+    "https://amix-design.com/asoboad/blog-264-111384.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003181125",
+    "https://www.stat.go.jp/data/jigyou/2001/kakuhou/04.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/ee4ca90851f3aa9bc80048786af269a8.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2024.html",
+    "https://www.city.minato.tokyo.jp/documents/92502/creativesangyou-gaiyouban.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline16.pdf"
+   ]
+  },
+  {
+   "query": "デザイン業の事業所数 広島県",
+   "results": [
+    "https://baseconnect.in/companies/prefecture/3562c231-08e3-43af-8765-2077382c0c10/category/d56261bf-9ed5-4ece-87f7-b74db9f6f407",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "https://archive.jidp.or.jp/wpd2024/wpd2024_6_a3.pdf",
+    "https://digi-mado.jp/articles/eafa9e9b-120c-4770-bb3e-3655ad117213/",
+    "https://www3.boj.or.jp/hiroshima/files/data/keizai.pdf",
+    "https://www.hirogin-hd.co.jp/library/presentation/2025/ir20250919_day1sc.pdf",
+    "https://hk-report.co.jp/business/design/",
+    "https://www.itc.city.hiroshima.jp/design/link/",
+    "https://totsukuru.jp/products/list.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html"
+   ]
+  },
+  {
+   "query": "number of design businesses Japan",
+   "results": [
+    "https://techbehemoths.com/companies/graphic-design/japan",
+    "https://recordings.designmatters.io/14-japanese-digital-agencies-we-love/",
+    "https://architizer.com/blog/inspiration/collections/best-architecture-firms-in-japan/",
+    "https://revenuebase.ai/companies/product-design-companies/japan",
+    "https://www.ndc.co.jp/en/",
+    "https://www.dexigner.com/directory/loc/Japan",
+    "https://www.youtube.com/watch?v=ZPQMDPYSPwc",
+    "https://clutch.co/jp/agencies/design",
+    "https://www.jidp.or.jp/en/about/history/hdpj",
+    "https://worldmetrics.org/japan-design-industry-statistics/"
+   ]
+  }
+ ],
+ "missing": {}
+}

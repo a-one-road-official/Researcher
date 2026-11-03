@@ -1,0 +1,832 @@
+{
+ "name": "広島・瀬戸内のデザイン事務所と建築事務所の数",
+ "en": "design and architecture offices Hiroshima Setouchi",
+ "aliases": [
+  "広島県 建築士事務所",
+  "広島県 デザイン業",
+  "岡山県 建築士事務所",
+  "愛媛県 建築士事務所"
+ ],
+ "context": "地域",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:59:32.315082+00:00",
+ "evidence": {
+  "規模別": [
+   {
+    "quote": "会員検索 | 一般社団法人 広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 広島県建築士事務所協会,",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "・公益社団法人 広島県建築士会",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "・公益社団法人日本建築家協会",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "・社団法人広島県建築士事務所協会",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "建築関係リンク集 | 一般社団法人 広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 広島県建築士事務所協会,",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "社団法人広島県建築士会",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "社団法人広島県建築士事務所協会",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   }
+  ],
+  "都道府県別": [
+   {
+    "quote": "会員検索 | 一般社団法人 広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市佐伯区",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市安佐北区",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市安佐南区",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市安芸区",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市東区光町１－１１－５",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市東区牛田東3-10-12",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市中区八丁堀４－１５",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市西区庚午北2-1-4-302",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市中区袋町４－３２",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市中区大手町４－２－２７中央レジデンス３階",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市西区上天満町２－１６",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市東区上大須賀町１０－１６",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島市中区河原町1-22 サンピア平和公園202号室",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "東広島市のおすすめ設計事務所5社を徹底比較【2026年度版】 | 東広島市で設計事務所を探すなら「比較ビズ」",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "東広島市のおすすめ設計事務所5社を徹底比較",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "広島県で設計事務所に対応できる業者を一覧から探す",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "代表の木村氏は中南米のホンジュラス共和国で建築指導員として活躍したりヒッチハイクでオーストラリア大陸＆タスマニア島を一周したり、FM東広島で8年間ラジオパーソナリティーを務めるなどアクティブでマルチな人物です",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "住所：広島県 東広島市八本松町原7274",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "・公益社団法人 広島県建築士会",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "住所：広島県 東広島市黒瀬町兼広456-2",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "住所：広島県 東広島市西条中央2-7-2",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "広島工業大学専門学校の非常勤講師としても活躍",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "代表の千原氏は広島工業大学専門学校の非常勤講師としても活躍している人物です",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "・社団法人広島県建築士事務所協会",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "住所：広島県 東広島市西条昭和町17-23 タナカビル303",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "住所：広島県 東広島市三永3-1-33",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "東広島市には、ひと目で「建築家が手掛けた家だな」とわかる洗練されたデザインを得意とするところ、海外での経験を有し広い視野で店舗デザインを提案してくれるところ、ゼネコンで価格が合わない中規模建築にも対応できるところ、古民家リノベーションで賞を獲得しているところなど様々な強みを持つ設計事務所がありました",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "家を建てる際は間取りについて悩むケースは多いものですが、他社の間取りについてのセカンドオピニオンが可能なところもあるなど東広島市は選択肢が豊富なエリアです",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "建築関係リンク集 | 一般社団法人 広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "中国地方の建築関連賞",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "広島建築住宅センター",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "広島県東部建築確認センター",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別指定確認検査機関（日本建築行政会議HP）",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "ひろしま建築文化賞(広島県建築士事務所協会)",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "ひろしま住まいづくりコンクール(広島県住宅課)",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "ひろしま街づくりデザイン賞(広島市都市デザイン室)",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "広島工業大学",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "広島女学院大学",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "広島工業大学専門学校",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "中四国ブロック",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "(一社) 岡山県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "(一社) 広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜広島県広島市/設計事務所/株式会社U建築設計事務所【１級建築士事務所】｜マンション・クリニック等の設計・監理｜",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "広島県広島市中区鉄砲町4番7号 シティコープ幟町201",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "1級建築士事務所 広島県知事登録22（1）第0417",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "広島銀行 牛田支店",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "社団法人広島県建築士会",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "社団法人広島県建築士事務所協会",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "創業、有限会社U建築設計事務所を広島市東区牛田中2丁目に開設",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：〒730-0017 広島県広島市中区鉄砲町4番7号",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "〒 730-0017 広島県広島市中区鉄砲町４番７号 TEL：082-836-5667 FAX：082-836-5668",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "会員検索 | 一般社団法人 広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所の方へ",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所登録関係",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所とは",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所をお探しの方へ(会員建築士事務所の紹介)",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所のための法律相談窓口",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "一級建築士事務所アーキサイン設計",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "アーバン・クレオ一級建築士事務所",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイオービー一級建築士事務所",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社青木工務店 二級建築士事務所",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "赤防株式会社一級建築士事務所",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ASSUMER一級建築士事務所",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "一級建築士事務所株式会社 アトリエ・アーク",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "一級建築士事務所有田建設株式会社",
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "pass": 3
+   },
+   {
+    "quote": "東広島市のおすすめ設計事務所5社を徹底比較【2026年度版】 | 東広島市で設計事務所を探すなら「比較ビズ」",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "・一級建築士事務所",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "・二級建築士事務所",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "・社団法人広島県建築士事務所協会",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "建築関係リンク集 | 一般社団法人 広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "広島県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所の方へ",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所登録関係",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所とは",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所をお探しの方へ(会員建築士事務所の紹介)",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所のための法律相談窓口",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "ひろしま建築文化賞(広島県建築士事務所協会)",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "(一社) 北海道建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "(一社) 青森県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "(一社) 岩手県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "(一社) 宮城県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "(一社) 秋田県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "(一社) 山形県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "(一社) 福島県建築士事務所協会",
+    "url": "https://h-aaa.jp/link/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜広島県広島市/設計事務所/株式会社U建築設計事務所【１級建築士事務所】｜マンション・クリニック等の設計・監理｜",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "都市計画・地域開発に関する調査・企画及び設計に関する業務",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "1級建築士事務所 広島県知事登録22（1）第0417",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   },
+   {
+    "quote": "社団法人広島県建築士事務所協会",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   }
+  ],
+  "売上・規模感": [
+   {
+    "quote": "自分だけの空間を即作れる「どこでもBOX」3万円〜",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "平均3.2社",
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1000万円に増資",
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://mag.tecture.jp/project/20260805-ichijo-toma-setouchi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sumaidea.com/architects/search/2/%E5%BA%83%E5%B3%B6%E7%9C%8C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kankuu.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenzai-navi.com/designoffice/designoffice_sikokutyugoku.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&iroha=42&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001166446&tclass4val=0&stat_infid=000040068221",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_service.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/ee4ca90851f3aa9bc80048786af269a8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hanaa.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://h-aaa.jp/link/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsp-sekkei.com/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.plans-market.com/news/view?id=88&srsltid=AYCX9vLO6W2-v01lwG_45G3IqV4m1ybnqzW0HdwHjr74m7dufRlfq0EB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-construction.jp/column/2465",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp249191/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=4344",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/2290901",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/144169.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soukikaku.co.jp/img/top/info/nikkei_2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/4010402022281",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://u-sekkei.co.jp/pages/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skad.jp/project/21/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/1240003005087",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://www.motokane.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.architects-j.com/HIROSHIMA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugawaradaisuke.com/en/projects/setouchi-jozojo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://world-architects.com/en/1moku-co-tokyo/project/not-a-hotel-setouchi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-architecture-exhibition.jp/wp-content/uploads/2025/07/20250717091925.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://architects.notahotel.com/en/works/setouchi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://big.dk/projects/not-a-hotel-setouchi-18610",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setouchi.travel/en/trip-ideas/a-journey-through-setouchis-architecture-in-harmony-with-sea-and-mountains/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "広島・瀬戸内のデザイン事務所と建築事務所の数",
+   "results": [
+    "https://mag.tecture.jp/project/20260805-ichijo-toma-setouchi/",
+    "https://h-aaa.jp/se_ichiran/",
+    "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/higashihiroshimashi/",
+    "https://sumaidea.com/architects/search/2/%E5%BA%83%E5%B3%B6%E7%9C%8C/",
+    "https://www.kankuu.jp/",
+    "https://www.kenzai-navi.com/designoffice/designoffice_sikokutyugoku.php",
+    "https://compalyze.co.jp/company/1240003005087",
+    "https://zukan.biz/building/oohata/",
+    "https://skad.jp/project/21/",
+    "https://kurashi-pro.jp/architect/"
+   ]
+  },
+  {
+   "query": "広島・瀬戸内のデザイン事務所と建築事務所の数 事業所数 経済センサス",
+   "results": [
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&iroha=42&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001166446&tclass4val=0&stat_infid=000040068221",
+    "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_service.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/ee4ca90851f3aa9bc80048786af269a8.pdf",
+    "https://www.e-census2026.go.jp/document/pdf/sheet_06.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://sasaki-a.jp/hiroshima_column/offices.html",
+    "http://www.city.higashihiroshima.lg.jp/material/files/group/153/toukeisyo,2018,jigyusyo,pdf.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/toukei/keizai_sensas/r3census.files/r3census.pdf",
+    "https://www.stat.go.jp/data/e-census/2024/pdf/otsu_kekka.pdf"
+   ]
+  },
+  {
+   "query": "広島・瀬戸内のデザイン事務所と建築事務所の数 都道府県別",
+   "results": [
+    "https://mag.tecture.jp/project/20260805-ichijo-toma-setouchi/",
+    "https://hanaa.jp/about/",
+    "https://h-aaa.jp/link/",
+    "https://www.kenzai-navi.com/designoffice/designoffice_sikokutyugoku.php",
+    "https://sumaidea.com/architects/search/2/%E5%BA%83%E5%B3%B6%E7%9C%8C/",
+    "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/",
+    "https://nsp-sekkei.com/company",
+    "https://www.plans-market.com/news/view?id=88&srsltid=AYCX9vLO6W2-v01lwG_45G3IqV4m1ybnqzW0HdwHjr74m7dufRlfq0EB",
+    "https://digital-construction.jp/column/2465"
+   ]
+  },
+  {
+   "query": "広島・瀬戸内のデザイン事務所と建築事務所の数 従業者規模別",
+   "results": [
+    "https://job.mynavi.jp/28/pc/search/corp249191/outline.html",
+    "https://digital-construction.jp/column/2465",
+    "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=4344",
+    "https://www.buffett-code.com/industries/2290901",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/144169.pdf",
+    "https://www.soukikaku.co.jp/img/top/info/nikkei_2023.pdf",
+    "https://compalyze.co.jp/company/4010402022281",
+    "https://nsp-sekkei.com/company",
+    "https://www.e-stat.go.jp/dbview?sid=0004005673",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=広島県&layout=dataset&stat_infid=000040068220"
+   ]
+  },
+  {
+   "query": "広島・瀬戸内のデザイン事務所と建築事務所の数 広島県",
+   "results": [
+    "https://mag.tecture.jp/project/20260805-ichijo-toma-setouchi/",
+    "https://h-aaa.jp/se_ichiran/",
+    "https://sumaidea.com/architects/search/2/%E5%BA%83%E5%B3%B6%E7%9C%8C/",
+    "https://u-sekkei.co.jp/pages/2/",
+    "https://www.biz.ne.jp/list/design-engineering/34_hiroshima/",
+    "https://skad.jp/project/21/",
+    "https://www.kankuu.jp/",
+    "https://compalyze.co.jp/company/1240003005087",
+    "http://www.motokane.co.jp/",
+    "https://www.architects-j.com/HIROSHIMA/"
+   ]
+  },
+  {
+   "query": "design and architecture offices Hiroshima Setouchi",
+   "results": [
+    "https://sugawaradaisuke.com/en/projects/setouchi-jozojo/",
+    "https://world-architects.com/en/1moku-co-tokyo/project/not-a-hotel-setouchi",
+    "https://www.facebook.com/bjarke.ingels.group/posts/were-excited-to-unveil-our-design-for-not-a-hotel-setouchi-located-on-the-serene/1034505901378392/",
+    "https://hiroshima-architecture-exhibition.jp/wp-content/uploads/2025/07/20250717091925.pdf",
+    "https://architects.notahotel.com/en/works/setouchi",
+    "https://big.dk/projects/not-a-hotel-setouchi-18610",
+    "https://www.setouchi.travel/en/trip-ideas/a-journey-through-setouchis-architecture-in-harmony-with-sea-and-mountains/",
+    "https://www.facebook.com/bjarke.ingels.group/videos/bjarke-ingels-big-on-location-at-not-a-hotel-setouchi-%EF%B8%8Fwatch-the-full-tour-where/4360771604237055/",
+    "https://tsuneishi-landandsea.com/en/project/minato-no-yado/",
+    "https://qurasuki.com/en/architects/location/hiroshima-ken/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・企業数": "記載なし（読んだ36頁・検索6回）"
+ }
+}

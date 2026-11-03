@@ -1,0 +1,386 @@
+{
+ "name": "建築士事務所の登録数",
+ "en": "registered architect offices Japan number",
+ "aliases": [
+  "建築士事務所 登録数",
+  "一級建築士事務所 数",
+  "建築士事務所 都道府県別"
+ ],
+ "context": "建築",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:55:14.377009+00:00",
+ "evidence": {
+  "事業所数・企業数": [
+   {
+    "quote": "一級建築士事務所の登録数から単純計算すると、1社あたり約5〜6人の一級建築士が登録されている計算になります",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   }
+  ],
+  "売上・規模感": [
+   {
+    "quote": "学科試験だけでも、2000年から2025年の平均合格率は18%で、学科試験にパスして製図試験まで合格する人の割合は8〜11％とかなり低く、簡単に受かる試験ではありません",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "・人手不足による受注機会の損失や受注額（売上額）の減少",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士の平均的な年収・給料｜2026年採用市場の実態とWeb運用による求人の必要性",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "国土交通省が公表する最新情報によると、全国で登録されている一級建築士事務所は合わせて68,549件あるのに対して、一級建築士の数は383,923人に上り、一級建築士の累計人数を見ると、2004年からは増え続けています",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省｜建築士登録状況（令和7年4月1日時点）",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "一級建築士事務所の登録数から単純計算すると、1社あたり約5〜6人の一級建築士が登録されている計算になります",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省｜建築分野の担い手の動向について",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "グラフの通り、建築士事務所も一級建築士も東京とその周辺、北海道・愛知・大阪・福岡に集中していることが分かります",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省によると、このまま現在の傾向が維持されると、建築士数は2047年までに半減すると試算されています",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士と建築士事務所は、建設需要に比例して地域によって偏在しているのが現状ですが、どの地域においても高齢化・若年層不足は共通する問題です",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省｜一級建築士試験「設計製図の試験」の合格者の発表について",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "・大学院の建築に関する課程における建築士事務所等で行う実務実習（インターンシップ）",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省｜一級建築士試験の受験資格に係る教育課程認定について",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省｜令和2年から建築試験の受験要件が変わり、新しい建築士制度がスタートします！",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、厚生労働省のアンケート調査によると、採用活動において求人情報ページ（サイト）を開設していると回答した企業の割合は83.5％にも上り、紙媒体や対面による方法を大きく上回っています",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省｜求人情報・求職情報関連事業実態調査結果の概要",
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://csba.kenchikugyousei-db.jp/knjt01/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/jutakukentiku/build/content/001894834.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://touroku.kenchikushikai.or.jp/meibo/internet-meibo-no-eturann/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://studying.jp/kenchikushi/about-more/number-of-people.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirai-style.net/youtube-explanation/39909/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.njr.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/faq/faq06/faq06a01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.chiyoda.lg.jp/koho/kuse/toke/keizaicensus-katsudochosa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/?view=3847",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/jutakukentiku/house/content/001895970.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://touroku.kenchikushikai.or.jp/kyoutsuu/todoufuken-shiteij-oukyou/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.njr.or.jp/society/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kurashi-pro.jp/architect/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000226151&page=ref_view",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://todo-ran.com/t/kiji/24431",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yomiuririkou.ac.jp/column/architect/architect2021_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toshiseibi.metro.tokyo.lg.jp/kenchiku_kaihatsu/kenchiku_shidou/kenchikusi/eturan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ikkyuukentikushi.com/%E3%80%90%E7%B5%90%E6%A7%8B%E3%81%84%E3%82%8B%E3%80%91%E4%B8%80%E7%B4%9A%E5%BB%BA%E7%AF%89%E5%A3%AB%E3%81%AE%E4%BA%BA%E6%95%B0%E3%80%90%E6%8E%A8%E7%A7%BB%E3%82%84%E5%B9%B4%E9%BD%A2%E5%88%A5%E3%80%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/jutakukentiku/build/content/001900438.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00600140&tstat=000001013580",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&query=%E4%B8%80%E7%B4%9A%E5%BB%BA%E7%AF%89%E5%A3%AB&statdisp_id=0004040092",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/107/132.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://h-aaa.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://csba.kenchikugyousei-db.jp/knjt01/jimusho",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-hiroshima.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://h-aaa.jp/se_ichiran/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companydata.tsujigawa.com/company2/6240005000783/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanese-architects.com/architects",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jma.co.jp/en/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realestate-tokyo.com/news/english-speaking-architects-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncarb.org/get-licensed/state-licensing-boards/architect-lookup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://architizer.com/blog/inspiration/collections/best-architecture-firms-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://yuua.jp/en/studio/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "建築士事務所の登録数",
+   "results": [
+    "https://csba.kenchikugyousei-db.jp/knjt01/",
+    "https://www.mlit.go.jp/jutakukentiku/build/content/001894834.pdf",
+    "https://touroku.kenchikushikai.or.jp/meibo/internet-meibo-no-eturann/",
+    "https://studying.jp/kenchikushi/about-more/number-of-people.html",
+    "https://mirai-style.net/youtube-explanation/39909/",
+    "https://www.njr.or.jp/",
+    "https://note.com/satake_star/n/ne02621ec1d9b",
+    "https://kurashi-pro.jp/architect/",
+    "https://www.mlit.go.jp/jutakukentiku/house/content/001631405.pdf",
+    "https://www.mlit.go.jp/jutakukentiku/build/content/001900438.pdf"
+   ]
+  },
+  {
+   "query": "建築士事務所の登録数 事業所数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "https://www.stat.go.jp/library/faq/faq06/faq06a01.html",
+    "https://www.city.chiyoda.lg.jp/koho/kuse/toke/keizaicensus-katsudochosa.html",
+    "https://pref.shimane-toukei.jp/?view=3847",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.e-census2026.go.jp/document/pdf/sheet_06.pdf",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://www.city.iwaki.lg.jp/www/contents/1001000004151/simple/h28iwakishinojigyousyo.pdf",
+    "https://www.e-census-st.go.jp/",
+    "https://www.stat.go.jp/data/e-census/"
+   ]
+  },
+  {
+   "query": "建築士事務所の登録数 都道府県別",
+   "results": [
+    "https://www.mlit.go.jp/jutakukentiku/house/content/001895970.pdf",
+    "https://studying.jp/kenchikushi/about-more/number-of-people.html",
+    "https://csba.kenchikugyousei-db.jp/knjt01/",
+    "https://touroku.kenchikushikai.or.jp/kyoutsuu/todoufuken-shiteij-oukyou/",
+    "https://www.njr.or.jp/society/",
+    "https://kurashi-pro.jp/architect/",
+    "https://crd.ndl.go.jp/reference/entry/index.php?id=1000226151&page=ref_view",
+    "https://todo-ran.com/t/kiji/24431",
+    "https://www.pref.kanagawa.jp/docs/f7t/cnt/f500268/index.html",
+    "https://www.mlit.go.jp/jutakukentiku/house/content/001631405.pdf"
+   ]
+  },
+  {
+   "query": "建築士事務所の登録数 従業者規模別",
+   "results": [
+    "https://www.mlit.go.jp/jutakukentiku/build/content/001894834.pdf",
+    "https://csba.kenchikugyousei-db.jp/knjt01/",
+    "https://studying.jp/kenchikushi/about-more/number-of-people.html",
+    "https://mirai-style.net/youtube-explanation/39909/",
+    "https://www.njr.or.jp/",
+    "https://touroku.kenchikushikai.or.jp/meibo/internet-meibo-no-eturann/",
+    "https://www.yomiuririkou.ac.jp/column/architect/architect2021_4.html",
+    "https://www.toshiseibi.metro.tokyo.lg.jp/kenchiku_kaihatsu/kenchiku_shidou/kenchikusi/eturan",
+    "https://ikkyuukentikushi.com/%E3%80%90%E7%B5%90%E6%A7%8B%E3%81%84%E3%82%8B%E3%80%91%E4%B8%80%E7%B4%9A%E5%BB%BA%E7%AF%89%E5%A3%AB%E3%81%AE%E4%BA%BA%E6%95%B0%E3%80%90%E6%8E%A8%E7%A7%BB%E3%82%84%E5%B9%B4%E9%BD%A2%E5%88%A5%E3%80%81/",
+    "https://www.mlit.go.jp/jutakukentiku/build/content/001900438.pdf"
+   ]
+  },
+  {
+   "query": "建築士事務所の登録数 広島県",
+   "results": [
+    "https://www.pref.hiroshima.lg.jp/soshiki/107/132.html",
+    "https://h-aaa.jp/",
+    "https://csba.kenchikugyousei-db.jp/knjt01/jimusho",
+    "https://www.k-hiroshima.or.jp/",
+    "https://www.facebook.com/hiroshima.aaa/?locale=ja_JP",
+    "https://csba.kenchikugyousei-db.jp/knjt01/",
+    "https://h-aaa.jp/se_ichiran/",
+    "https://companydata.tsujigawa.com/company2/6240005000783/",
+    "https://www.mlit.go.jp/jutakukentiku/house/content/001895970.pdf",
+    "https://kurashi-pro.jp/architect/hiroshima/"
+   ]
+  },
+  {
+   "query": "registered architect offices Japan number",
+   "results": [
+    "https://japanese-architects.com/architects",
+    "https://www.jma.co.jp/en/about/",
+    "https://www.realestate-tokyo.com/news/english-speaking-architects-in-japan/",
+    "https://www.ncarb.org/get-licensed/state-licensing-boards/architect-lookup",
+    "https://architizer.com/blog/inspiration/collections/best-architecture-firms-in-japan/",
+    "https://yuua.jp/en/studio/",
+    "https://www.wak-tok.com/about-1",
+    "https://www.jia.or.jp/jia-official/docs/english/country_report_2021.pdf",
+    "https://archello.com/news/25-best-architecture-firms-in-japan-2025",
+    "https://regbase.jp/en/japanese-company-registry"
+   ]
+  }
+ ],
+ "missing": {
+  "規模別": "記載なし（読んだ36頁・検索6回）",
+  "都道府県別": "記載なし（読んだ36頁・検索6回）"
+ }
+}

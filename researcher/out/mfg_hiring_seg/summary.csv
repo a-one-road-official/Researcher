@@ -5,7 +5,7 @@
 従業員300〜999人の製造業,manufacturers with 300-999 employees hiring cost Japan,規模,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
 従業員1000人以上の製造業,manufacturers with 1000+ employees hiring cost Japan,規模,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
 製造オペレーター・技能工の中途採用,factory operator skilled worker mid-career hiring cost Japan,職種,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
-設計・生産技術エンジニアの中途採用,,,,0,0,0,0,0,0,0,,AttributeError: 'int' object has no attribute 'lower'
+設計・生産技術エンジニアの中途採用,design production engineer mid-career hiring cost Japan,職種,,0,0,0,0,0,0,36,セグメント定義／採用単価／年間採用費／採用経路／充足・欠員／調査主体・時期,
 高卒採用（製造業）,,,,0,0,0,0,0,0,0,,AttributeError: 'int' object has no attribute 'lower'
 新卒採用（製造業・メーカー）,,,,0,0,0,0,0,0,0,,AttributeError: 'int' object has no attribute 'lower'
 外国人材（特定技能・製造業）,,,,0,0,0,0,0,0,0,,AttributeError: 'int' object has no attribute 'lower'

@@ -1,0 +1,297 @@
+{
+ "name": "建築設計業の事業所数",
+ "en": "architectural design businesses Japan establishments",
+ "aliases": [
+  "建築設計業 事業所数",
+  "建築設計事務所 数",
+  "設計事務所 経済センサス"
+ ],
+ "context": "建築",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:58:21.036667+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/satake_star/n/ne02621ec1d9b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/jutakukentiku/build/content/001894834.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/7421",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.njr.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/2290901",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005673",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001069811&result_page=1&statdisp_id=0003389414",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/bunrui/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/back13/09.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003126325",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://todo-ran.com/t/kiji/15491",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stats47.jp/ranking/construction-employed-residents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkenren.com/publication/handbook/chart7-1/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kurashi-pro.jp/architect/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://built.itmedia.co.jp/bt/articles/2012/01/news019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji00367476/3_67476_148338_up_3lecncur.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/o040090/toukei/e-census/r3_census_jugyosya_.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/10.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kurashi-pro.jp/koumuten/hiroshima/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://h-aaa.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/chugoku/list/p34/o15115/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukken.co.jp/technology/result/kenchiku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sumaidea.com/architects/search/2/%E5%BA%83%E5%B3%B6%E7%9C%8C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://architizer.com/blog/inspiration/collections/best-architecture-firms-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.realestate-tokyo.com/news/english-speaking-architects-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jma.co.jp/en/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archello.com/news/25-best-architecture-firms-in-japan-2025",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Category:Architecture_firms_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wak-tok.com/about-1",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "建築設計業の事業所数",
+   "results": [
+    "https://note.com/satake_star/n/ne02621ec1d9b",
+    "https://www.mlit.go.jp/jutakukentiku/build/content/001894834.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/7421",
+    "https://www.njr.or.jp/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "https://www.buffett-code.com/industries/2290901",
+    "https://digital-construction.jp/column/2465",
+    "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=4344",
+    "https://first-contech.co.jp/blog/commentary_architectural-design-industry",
+    "https://mdb.jmar.co.jp/contents/00345939_sample.pdf"
+   ]
+  },
+  {
+   "query": "建築設計業の事業所数 事業所数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004005673",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-census2026.go.jp/document/pdf/sheet_19.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001069811&result_page=1&statdisp_id=0003389414",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.nikkenren.com/publication/handbook/chart7-1/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?alpha=5&layout=dataset&page=1&statdisp_id=0004005687&toukei=00200553&tstat=000001145590",
+    "https://www.stat.go.jp/data/e-census/"
+   ]
+  },
+  {
+   "query": "建築設計業の事業所数 都道府県別",
+   "results": [
+    "https://www.stat.go.jp/data/nihon/back13/09.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003126325",
+    "https://todo-ran.com/t/kiji/15491",
+    "https://www.mlit.go.jp/jutakukentiku/build/content/001894834.pdf",
+    "https://stats47.jp/ranking/construction-employed-residents",
+    "https://www.nikkenren.com/publication/handbook/chart7-1/index.html",
+    "https://kurashi-pro.jp/architect/",
+    "https://www.kenchikushikai.or.jp/about-our-society/ichiran.html",
+    "https://www.mhlw.go.jp/content/11600000/001566406.pdf",
+    "https://crexgroup.com/ja/home-building/service-other/national-construction-company-number-ranking/"
+   ]
+  },
+  {
+   "query": "建築設計業の事業所数 従業者規模別",
+   "results": [
+    "https://www.stat.go.jp/data/jigyou/2001/kakuhou/04.html",
+    "https://built.itmedia.co.jp/bt/articles/2012/01/news019.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.pref.saga.lg.jp/toukei/kiji00367476/3_67476_148338_up_3lecncur.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou3.pdf",
+    "https://www.mlit.go.jp/jutakukentiku/build/content/001894834.pdf",
+    "https://www.nikkenren.com/publication/handbook/chart7-1/index.html",
+    "https://www.pref.osaka.lg.jp/o040090/toukei/e-census/r3_census_jugyosya_.html",
+    "https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/kekka/jigyosho/h13/kekka.html",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966"
+   ]
+  },
+  {
+   "query": "建築設計業の事業所数 広島県",
+   "results": [
+    "https://www.pref.hiroshima.lg.jp/soshiki/10.html",
+    "https://kurashi-pro.jp/koumuten/hiroshima/",
+    "https://h-aaa.jp/about/",
+    "https://tenshoku.mynavi.jp/chugoku/list/p34/o15115/",
+    "https://www.fukken.co.jp/technology/result/kenchiku/",
+    "https://sumaidea.com/architects/search/2/%E5%BA%83%E5%B3%B6%E7%9C%8C/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0801S/-ci__341002/-ha__90%2C0/-preBtn__2/",
+    "https://www.genba-media.jp/data/regional/hiroshima",
+    "https://baseconnect.in/companies/prefecture/3562c231-08e3-43af-8765-2077382c0c10/category/d7542150-3534-4d03-be91-719197df301b",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html"
+   ]
+  },
+  {
+   "query": "architectural design businesses Japan establishments",
+   "results": [
+    "https://architizer.com/blog/inspiration/collections/best-architecture-firms-in-japan/",
+    "https://www.realestate-tokyo.com/news/english-speaking-architects-in-japan/",
+    "https://www.jma.co.jp/en/about/",
+    "https://archello.com/news/25-best-architecture-firms-in-japan-2025",
+    "https://en.wikipedia.org/wiki/Category:Architecture_firms_of_Japan",
+    "https://www.wak-tok.com/about-1",
+    "https://www.dexigner.com/directory/loc/Japan",
+    "https://www.covethouse.eu/blog/top-interior-design-firms-from-tokyo/",
+    "https://www.jiac.com/",
+    "https://architizer.com/blog/inspiration/collections/best-architecture-firms-in-tokyo-japan/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・企業数": "記載なし（読んだ36頁・検索6回）",
+  "規模別": "記載なし（読んだ36頁・検索6回）",
+  "都道府県別": "記載なし（読んだ36頁・検索6回）",
+  "売上・規模感": "記載なし（読んだ36頁・検索6回）",
+  "調査主体・時期": "記載なし（読んだ36頁・検索6回）"
+ }
+}
