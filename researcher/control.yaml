@@ -16,3 +16,4 @@ topics:
   mfg_recruit_pr: {run: true, shards: 7, per_run: 2}
   material_traders: {run: true, shards: 8, per_run: 5}
   am_software: {run: true, shards: 8, per_run: 5}
+  field6_gap: {run: true, shards: 8, per_run: 4}  # 2026-11-03 対象6分野32小区分：国内規模・参入社数・需給の差・法律・国の予算

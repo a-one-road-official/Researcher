@@ -1,0 +1,37 @@
+# A1の対象6分野（AI・半導体の物理側／防衛／航空・宇宙／造船／GX＋蓄電池／マテリアル）の32小区分を、
+# PLEX型の物差しで数字にそろえる。市場規模・世界の伸び・上位シェアは jgs17_market で取得済みなので、
+# ここでは足りない分だけを取る：①国内の市場規模 ②国内の参入企業の数 ③需要と供給の差（不足・受注残・納期）
+# ④差を広げる法律・制度 ⑤国の予算 ⑥国内の主要企業。
+# 「構造が単純で仕組みにしやすいか」は引用で測れないので取らない（本人が判断する）。
+# 数字は引用行のまま。要約・順位づけはしない。
+kind: market
+title: 対象6分野の小区分 — 国内規模・参入企業数・需給の差・法律・国の予算
+input: researcher/inputs/field6_gap.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  国内市場規模: [国内市場, 国内の市場, 国内市場規模, 日本市場, 日本国内, 国内需要, 国内出荷, Japan market, Japanese market, market in Japan]
+  国内参入企業数: [社が参入, 参入企業, 参入社数, 企業数, 事業者数, メーカー数, 社程度, 社以上, 社に上る, 社のみ, 数社, number of companies, companies in Japan, players in Japan, Japanese players]
+  需給の差: [不足, 逼迫, ひっ迫, 供給不足, 人手不足, 担い手, 人材不足, 技能者, 有効求人倍率, 受注残, 納期, 待ち, ボトルネック, 足りない, 供給能力, 生産能力, shortage, backlog, bottleneck, supply gap, supply constraint, capacity constraint, lead time, workforce gap, labor shortage]
+  法律・制度: [義務化, 法改正, 改正法, 施行, 規制, 法律, 認証, 基準, 制度, 指定, 調達方針, mandate, regulation, certification, law, act, policy]
+  国の予算: [予算, 補助金, 基金, 計上, 交付, 助成, 支援策, 投資額, 官民, government funding, subsidy, budget, grant]
+  国内の主要企業: [主要企業, 国内メーカー, 国内大手, 日本企業, 主なプレイヤー, 主な企業, 主要メーカー, Japanese companies, Japanese manufacturers, Japanese firms]
+
+numeric: [国内市場規模, 国内参入企業数, 国の予算]
+
+figure_patterns:
+  国内参入社数: '国内参入企業数|(\d{1,4})\s*社'
+  国内市場億円: '国内市場規模|(\d{1,3}(?:,\d{3})*(?:\.\d+)?)\s*億円'
+  国の予算億円: '国の予算|(\d{1,3}(?:,\d{3})*(?:\.\d+)?)\s*億円'
+
+external_queries:
+  - "{name} 国内市場規模 億円"
+  - "{name} 国内 参入企業 社"
+  - "{name} 人手不足 OR 供給不足 OR 受注残 OR 納期"
+  - "{name} 予算 補助金 基金 2026"
+  - "{name} 法改正 OR 義務化 OR 規制 国内"
+  - "{name} 国内 主要企業 メーカー"
+  - "{en} Japan market size"
+  - "{en} shortage backlog supply gap 2025"
+
+limits: {pages: 45, external_per_query: 5, per_cat: 15}

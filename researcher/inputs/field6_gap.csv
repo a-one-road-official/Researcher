@@ -1,0 +1,33 @@
+品目,英語名,別名,文脈
+人型ロボット,humanoid robot,ヒューマノイド;フィジカルAI,1 AI・半導体 ①フィジカルAI
+エッジAIチップ,edge AI chip,AI半導体;エッジAI半導体,1 AI・半導体 ②中核半導体
+生成AI半導体,AI accelerator chip,AIアクセラレータ;GPU,1 AI・半導体 ②中核半導体
+定置用蓄電池,stationary energy storage battery,蓄電システム;BESS,2 デジタル・サイバー ④蓄電池
+軍用ドローン,military drone,防衛用ドローン;小型無人機;UAS,5 防衛 ①小型無人航空機
+艦艇,naval vessels,軍艦;護衛艦;造艦,5 防衛 ②艦艇
+防衛装備品,defense equipment,デュアルユース;防衛産業,5 防衛 ③デュアルユース
+民間航空機,commercial aircraft,旅客機;航空機部品,6 航空・宇宙 ①民間航空機
+航空機エンジン,aircraft engine,ジェットエンジン,6 航空・宇宙 ①民間航空機
+産業用ドローン,commercial drone,ドローン;無人航空機,6 航空・宇宙 ②無人航空機
+空飛ぶクルマ,eVTOL,電動垂直離着陸機;UAM,6 航空・宇宙 ③空飛ぶクルマ
+ロケット打上げ,space launch services,ロケット;射場;打ち上げサービス,6 航空・宇宙 ④ロケット・射場
+人工衛星,satellite manufacturing,小型衛星;衛星コンステレーション,6 航空・宇宙 ⑤人工衛星・サービス
+衛星データ,satellite data services,地球観測;リモートセンシング,6 航空・宇宙 ⑤人工衛星・サービス
+宇宙ステーション,commercial space station,低軌道;月面;LEO,6 航空・宇宙 ⑥月面・低軌道
+次世代船舶,alternative fuel vessels,アンモニア船;水素船;ゼロエミッション船,8 造船 ①次世代船舶
+船舶修繕,ship repair,船舶修理;ドック,8 造船 ②船舶修繕
+LNG運搬船,LNG carrier,LNG船,8 造船 ③LNG運搬船
+永久磁石,permanent magnet,ネオジム磁石;レアアース磁石,9 マテリアル ①永久磁石
+グリーンスチール,green steel,グリーン鉄;水素還元製鉄;低炭素鋼,9 マテリアル ②グリーン鉄
+耐熱合金,superalloy,ニッケル基超合金;スパッタリングターゲット,9 マテリアル ③革新的金属部素材
+低炭素アルミ,low carbon aluminum,グリーンアルミ;リサイクルアルミ,9 マテリアル ④低炭素金属部素材
+レアメタルリサイクル,e-waste precious metal recovery,都市鉱山;製錬;分離精製,9 マテリアル ⑤製錬・分離精製・リサイクル
+マテリアルズインフォマティクス,materials informatics,MI;AI材料開発,9 マテリアル ⑥AI活用材料
+ペロブスカイト太陽電池,perovskite solar cell,ペロブスカイト,12 GX ①ペロブスカイト
+水電解装置,water electrolyzer,水素製造装置;電解槽;グリーン水素,12 GX ②水素等
+グリーンアンモニア,green ammonia,燃料アンモニア;アンモニア発電,12 GX ②水素等
+合成燃料,e-fuels,e-fuel;SAF;合成メタン,12 GX ②水素等
+地熱発電,geothermal power,次世代地熱;超臨界地熱,12 GX ④次世代型地熱
+洋上風力,offshore wind,浮体式洋上風力,12 GX ⑤洋上風力
+小型モジュール炉,small modular reactor,SMR;次世代革新炉,12 GX ⑥次世代革新炉
+バイオ由来化学品,bio-based chemicals,GXケミカル;グリーンケミカル;バイオプラスチック,12 GX ⑦GXケミカル
