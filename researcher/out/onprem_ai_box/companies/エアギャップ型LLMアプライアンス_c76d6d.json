@@ -1,0 +1,763 @@
+{
+ "name": "エアギャップ型LLMアプライアンス",
+ "en": "air-gapped LLM appliance",
+ "aliases": [
+  "air gapped AI appliance",
+  "offline LLM server",
+  "disconnected AI appliance"
+ ],
+ "context": "汎用",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:25:16.317656+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business 2026",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Appliances",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business (2026)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "private AI appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "— ships the complete appliance: hardware plus the AirgapAI local inference app plus the Blockify accuracy engine, all preconfigured and deployable in weeks. Read on for the full comparison and where each option fits best.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Private AI Appliance Comparison",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Complete appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Server or appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated appliance or on-premise install",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": ", then set that result against a complete appliance such as",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Complete Appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Perpetual license from $697 one-time per user",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark around $4,699 MSRP; GB300 price not published by Dell",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom (from $697/user)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal-published 4-year TCO ~$50K vs $2M+ (Azure OpenAI Disconnected) / $20M+ (Palantir AIP)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dell has not published an official GB300 price; a comparable MSI XpertStation WS300 was listed by CDW at ~$97K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual licensing starts from $697 one-time per user. Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected and $20M+ for Palantir AIP.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "$5M in 12 months",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The best private AI server for most organizations is a turnkey system that arrives with its inference software installed. Iternal Turnkey AI pairs GPU or Intel Xeon hardware with the AirgapAI application and the Blockify accuracy engine; NVIDIA, Dell, HPE, Lenovo, Supermicro and Cisco supply the underlying platforms.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GPU platform",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The GPU or Xeon configuration behind each system, the scale it is built to serve, what software ships installed, and where a price is published.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA RTX 4090 or A100 GPUs, or Intel Xeon CPUs via AirgapAI Edge (Intel AMX, OpenVINO, llama.cpp)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "8x Blackwell B200, 1,440 GB GPU memory, 10U chassis, 5th-gen NVLink",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "PowerRack rack-scale systems and PowerEdge XE-series nodes with NVIDIA GPUs",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Scales to 128 GPUs with network expansion racks; air-gapped configuration available",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "72 NVIDIA B300 GPUs per 42U/48U/52U rack; liquid-cooled 256- and 768-GPU scalable units",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "UCS C845A/C885A M8 compute, 32 to 128+ GPUs, Nexus 9000 networking up to 800G",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Foundational GPU Platform",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Runs on GPUs (RTX 4090/A100) or entirely on Intel Xeon CPUs via AirgapAI Edge; ships with 2,800+ preconfigured workflows",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "Local, air-gapped LLM chat for classified environments.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem Hardware Sizing",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How to Deploy LLMs On-Premise",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "on-premise AI servers",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "air-gapped AI",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How the leading on-prem and turnkey AI platforms compare at a glance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Servers: On-Premise, Turnkey and Plug-and-Play Compared",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Scales to 128 GPUs with network expansion racks; air-gapped configuration available",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Distributed edge sites plus on-premise inference",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated appliance or on-premise install",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Eleven leading on-premise, air-gapped, and turnkey AI platforms — evaluated on performance, security, and speed-to-production for business buyers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "100% local, air-gapped inference (AirgapAI) — no network required; SCIF-approved and nuclear-facility-certified per Iternal",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The foundational platform for serious on-prem AI training and inference",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "Last updated: June 5, 2026",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller and less established than the OEM leaders, with fewer public reference customers and benchmarks",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A named Iternal partner with over 4,000 customers and Dell-reported up to 2.6x first-year ROI — a Dell-backed, services-supported path from pilot to production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprises wanting a Dell-backed, services-supported full-stack path from pilot to production at scale.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Supermicro AI Factory SuperClusters deliver exceptional density in 42U/48U/52U air- or liquid-cooled racks, integrating 72 NVIDIA B300 GPUs per rack and supporting NVIDIA HGX B300. Liquid-cooled 256-GPU (5 racks) and 768-GPU (9 racks) scalable units arrive cluster-level L12 tested before shipment. At COMPUTEX 2026 (June 1) Supermicro introduced DCBBS Blueprints for NVIDIA Vera Rubin NVL72.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "72 NVIDIA B300 GPUs (288 GB HBM3e each) per rack; supports NVIDIA HGX B300",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dell Pro Max GB300: up to 20 PFLOPS FP4, 748 GB coherent memory, supports up to 1T-param models",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GA on NVIDIA's reference design; supports RTX PRO 6000 / 4500 Blackwell Server Edition",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM.co offers a private LLM via cloud, on-prem, or a dedicated hardware appliance (the LLM Box), supporting air-gapped installations and offline AI agents. Teams start from open-source foundation models (LLaMA, Mistral, Mixtral) or bring their own, with RBAC, audit logging, and private model training. Its architecture is described as designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Several support air-gapped operation, including HPE Private Cloud AI (air-gapped config available now), Nutanix Enterprise AI, and LLM.co. For SCIF and classified use, Iternal's AirgapAI runs 100% locally with zero cloud transmission and is SCIF-approved and nuclear-facility-certified per Iternal. Dell and NVIDIA are also co-engineering an air-gapped solution for federal customers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.dreamfactory.com/government-defense-air-gapped-llm-data-access",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/OpenAI/comments/1wjrlrx/openais_noam_brown_says_airgapping_the_computers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://docs.nvidia.com/nim/large-language-models/latest/deploy-air-gap.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ollama/comments/1qsjn38/running_ollama_fully_airgapped_anyone_else/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmappliance.com/industries/government",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.distillabs.ai/learn/air-gapped-and-on-premise-llm-deployment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pudir2/what_server_setups_scale_for_60_devs_best_air/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/@michael.hannecke/sovereign-ai-agent-security-air-gapped-deployments-and-enterprise-integration-efc770879cf8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibl.ai/blog/air-gapped-ai-running-llms-with-zero-external-calls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/blog/air-gapped-ai-deploying-enterprise-llms-in-highly-regulated-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getdynamiq.ai/post/mastering-llm-security-an-air-gapped-solution-for-high-security-deployments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/air-gapped-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://domino.ai/blog/how-to-deploy-air-gapped-ai-in-regulated-high-security-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptquorum.com/ja/local-llms/on-prem-air-gapped-local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/how-to-deploy-llm-on-premise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/StartUpIndia/comments/1rz58ry/we_have_an_airgapped_secure_onprem_ai_i_created/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.rexoncyber.com/air-gapped-llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/private-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/air-gapped-llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adreamertech.com/NewsDetail/8096732.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmappliance.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e2msolutions.com/ai-service-reseller-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultrabot.ai/insights/blog-slm-onprem-israel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gizmodo.com/openai-researcher-warns-air-gapped-computers-can-talk-through-heat-technically-hes-right-2000814121",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/BetterOffline/comments/1wi7v3w/how_a_small_israeli_startup_was_linked_to_rogue/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://slate.com/technology/2015/07/air-gapped-computers-these-israeli-researchers-just-hacked-one-with-a-cell-phone.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sysart.consulting/air-gapped-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm.co/box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qubrid.com/ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crescentit.co.th/news-detail.php?id=47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dev.to/nikitasood/best-air-gapped-llm-infrastructure-vendors-in-2026-348m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptquorum.com/ja/local-llms/on-prem-air-gapped-local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/blog/ja/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibm.com/jp-ja/think/topics/air-gap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sentinelone.com/ja/cybersecurity-101/cybersecurity/what-is-an-air-gap/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zmanda.com/ja/blog/air-gapped-vs-cloud-backup-security/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "air-gapped LLM appliance",
+   "results": [
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://blog.dreamfactory.com/government-defense-air-gapped-llm-data-access",
+    "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "https://www.reddit.com/r/OpenAI/comments/1wjrlrx/openais_noam_brown_says_airgapping_the_computers/",
+    "https://docs.nvidia.com/nim/large-language-models/latest/deploy-air-gap.html",
+    "https://www.reddit.com/r/ollama/comments/1qsjn38/running_ollama_fully_airgapped_anyone_else/",
+    "https://www.truefoundry.com/blog/air-gapped-ai-deploying-enterprise-llms-in-highly-regulated-industries",
+    "https://medium.com/@sivakiran.nandipati/deploying-ai-models-in-air-gapped-environments-a-practical-guide-from-the-data-center-trenches-4c272788ccd5",
+    "https://llmappliance.com/industries/government.html",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "air-gapped LLM appliance on-premise LLM appliance company",
+   "results": [
+    "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://llmappliance.com/industries/government.html",
+    "https://www.distillabs.ai/learn/air-gapped-and-on-premise-llm-deployment/",
+    "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1pudir2/what_server_setups_scale_for_60_devs_best_air/",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://go.ai/technology/local-llm",
+    "https://vdf.ai/air-gapped-llm/",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "air-gapped LLM appliance air-gapped AI box price",
+   "results": [
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://heypinchy.com/air-gapped-llm-hardware/",
+    "https://www.reddit.com/r/ollama/comments/1qsjn38/running_ollama_fully_airgapped_anyone_else/",
+    "https://medium.com/@michael.hannecke/sovereign-ai-agent-security-air-gapped-deployments-and-enterprise-integration-efc770879cf8",
+    "https://understand.tech/product/ai-in-a-box",
+    "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "https://ibl.ai/blog/air-gapped-ai-running-llms-with-zero-external-calls",
+    "https://www.truefoundry.com/blog/air-gapped-ai-deploying-enterprise-llms-in-highly-regulated-industries",
+    "https://www.getdynamiq.ai/post/mastering-llm-security-an-air-gapped-solution-for-high-security-deployments",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "air-gapped LLM appliance startup raises on-prem AI hardware",
+   "results": [
+    "https://www.truefoundry.com/blog/air-gapped-ai-deploying-enterprise-llms-in-highly-regulated-industries",
+    "https://go.ai/technology/air-gapped-ai",
+    "https://domino.ai/blog/how-to-deploy-air-gapped-ai-in-regulated-high-security-environments",
+    "https://www.promptquorum.com/local-llms/on-prem-air-gapped-local-llm",
+    "https://iternal.ai/how-to-deploy-llm-on-premise",
+    "https://www.linkedin.com/pulse/rise-air-gapped-ai-stack-marc-asselin-pembe",
+    "https://heypinchy.com/air-gapped-llm-hardware/",
+    "https://www.reddit.com/r/StartUpIndia/comments/1rz58ry/we_have_an_airgapped_secure_onprem_ai_i_created/",
+    "https://www.rexoncyber.com/air-gapped-llm/",
+    "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026"
+   ]
+  },
+  {
+   "query": "air-gapped LLM appliance white label OEM reseller",
+   "results": [
+    "https://www.truefoundry.com/blog/air-gapped-ai-deploying-enterprise-llms-in-highly-regulated-industries",
+    "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "https://iternal.ai/private-llm",
+    "https://vdf.ai/air-gapped-llm/",
+    "https://www.adreamertech.com/NewsDetail/8096732.html",
+    "https://www.rexoncyber.com/air-gapped-llm/",
+    "https://www.distillabs.ai/learn/air-gapped-and-on-premise-llm-deployment/",
+    "https://www.getdynamiq.ai/post/mastering-llm-security-an-air-gapped-solution-for-high-security-deployments",
+    "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "air-gapped LLM appliance Israel",
+   "results": [
+    "https://ultrabot.ai/insights/blog-slm-onprem-israel/",
+    "https://gizmodo.com/openai-researcher-warns-air-gapped-computers-can-talk-through-heat-technically-hes-right-2000814121",
+    "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "https://domino.ai/blog/how-to-deploy-air-gapped-ai-in-regulated-high-security-environments",
+    "https://www.truefoundry.com/blog/air-gapped-ai-deploying-enterprise-llms-in-highly-regulated-industries",
+    "https://www.reddit.com/r/BetterOffline/comments/1wi7v3w/how_a_small_israeli_startup_was_linked_to_rogue/",
+    "https://slate.com/technology/2015/07/air-gapped-computers-these-israeli-researchers-just-hacked-one-with-a-cell-phone.html",
+    "https://www.youtube.com/watch?v=oRjELoXrgVk",
+    "https://sysart.consulting/air-gapped-ai/",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "air-gapped LLM appliance Japan distributor",
+   "results": [
+    "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "https://medium.com/@michael.hannecke/sovereign-ai-agent-security-air-gapped-deployments-and-enterprise-integration-efc770879cf8",
+    "https://www.promptquorum.com/local-llms/on-prem-air-gapped-local-llm",
+    "https://vdf.ai/air-gapped-llm/",
+    "https://www.distillabs.ai/learn/air-gapped-and-on-premise-llm-deployment/",
+    "https://www.truefoundry.com/blog/air-gapped-ai-deploying-enterprise-llms-in-highly-regulated-industries",
+    "https://www.getdynamiq.ai/post/mastering-llm-security-an-air-gapped-solution-for-high-security-deployments",
+    "https://go.ai/technology/air-gapped-ai",
+    "https://heypinchy.com/air-gapped-llm-hardware/",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "エアギャップ型LLMアプライアンス",
+   "results": [
+    "https://www.promptquorum.com/ja/local-llms/on-prem-air-gapped-local-llm",
+    "https://cloud.google.com/blog/ja/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga",
+    "https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview?hl=ja",
+    "https://www.ibm.com/jp-ja/think/topics/air-gap",
+    "https://www.sentinelone.com/ja/cybersecurity-101/cybersecurity/what-is-an-air-gap/",
+    "https://www.zmanda.com/ja/blog/air-gapped-vs-cloud-backup-security/",
+    "https://docs.nvidia.com/nim/large-language-models/latest/deploy-air-gap.html",
+    "https://www.sysdig.com/jp/blog/from-air-gapped-to-private-cloud-security-that-adapts-to-your-environment",
+    "https://www.hpe.com/jp/ja/solutions/cloud/air-gapped-private-cloud.html",
+    "https://www.promptquorum.com/ja/local-llms/secure-offline-local-llm-workflow"
+   ]
+  }
+ ],
+ "missing": {
+  "国・所在地": "記載なし（読んだ46頁・検索8回）"
+ }
+}

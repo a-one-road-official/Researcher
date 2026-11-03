@@ -1,0 +1,379 @@
+{
+ "name": "アジア（台湾・韓国・中国）のAIボックス",
+ "en": "Asia on-premise LLM appliance",
+ "aliases": [
+  "Taiwan AI server appliance",
+  "Korean private LLM appliance",
+  "China all-in-one LLM machine"
+ ],
+ "context": "アジア",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:30:33.355177+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nig0zp/hardware_and_model_recommendations_for_onprem_llm/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://iternal.ai/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://picovoice.ai/blog/on-device-llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kairntech.com/blog/articles/llm-on-premise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/on-premises-llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/html/2509.18101v1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/deployment-options",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.distillabs.ai/learn/air-gapped-and-on-premise-llm-deployment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.com/news/e72103cd-f95a-48ac-87da-24c5beb2e46b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siliconangle.com/2026/09/30/on-demand-gpu-infrastructure-startup-gmi-cloud-raises-263m-to-fuel-global-expansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/blog/on-prem-llms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmappliance.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/ai-chatbot/oem-customization-white-label-guide-alibaba-b2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omdia.tech.informa.com/om139333/on-the-radar-deepkeep-secures-models-genai-and-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cohere.com/north",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weka.io/news/oasis-technologies-weka-reseller-israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deviniti.com/services/self-hosted-llm-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gridtech.jp/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simplico.net/2026/06/26/enterprise-local-llm-deployment-southeast-asia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-on-premises-llm-starter-kit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000286.000009955.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simplico.net/simplillm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brigade-electronics.com/jp/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/AI%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/4678122",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/CarPlay/comments/11ivu2m/are_ai_boxes_any_more_reliable_than_basic/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aibox.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onecarstereo.jp/blogs/%E6%96%B0%E8%81%9E/ai-box%E3%81%A8%E3%81%AF-%E8%BB%8A%E3%81%A7youtube%E3%82%84netflix%E3%82%92%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B%E8%BB%8A%E8%BC%89%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9-onecarstereo?srsltid=AYCX9vI-GkWoMgijtGrdlLwr41qCEWrszcK4DmYo8aXBQ5FlHb1AWlSo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-box.site/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Asia on-premise LLM appliance",
+   "results": [
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1nig0zp/hardware_and_model_recommendations_for_onprem_llm/",
+    "https://iternal.ai/local-llm",
+    "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "https://picovoice.ai/blog/on-device-llm/",
+    "https://go.ai/technology/local-llm",
+    "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics",
+    "https://vdf.ai/on-premises-llm/",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance on-premise LLM appliance company",
+   "results": [
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://go.ai/technology/local-llm",
+    "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/",
+    "https://iternal.ai/local-llm",
+    "https://kairntech.com/blog/articles/llm-on-premise/",
+    "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "https://vdf.ai/on-premises-llm/",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://arxiv.org/html/2509.18101v1",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance air-gapped AI box price",
+   "results": [
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://understand.tech/product/ai-in-a-box",
+    "https://go.ai/technology/local-llm",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://www.theaicowboys.com/blog/air-gapped-llm-on-prem-deployment",
+    "https://heypinchy.com/air-gapped-llm-hardware/",
+    "https://www.zylon.ai/deployment-options",
+    "https://www.distillabs.ai/learn/air-gapped-and-on-premise-llm-deployment/",
+    "https://www.axem.dev/llm-box",
+    "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance startup raises on-prem AI hardware",
+   "results": [
+    "https://go.ai/technology/local-llm",
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/",
+    "https://finance.biggo.com/news/e72103cd-f95a-48ac-87da-24c5beb2e46b",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://siliconangle.com/2026/09/30/on-demand-gpu-infrastructure-startup-gmi-cloud-raises-263m-to-fuel-global-expansion/"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance white label OEM reseller",
+   "results": [
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics",
+    "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "https://www.truefoundry.com/blog/on-prem-llms",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://arxiv.org/html/2509.18101v1",
+    "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/",
+    "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance Israel",
+   "results": [
+    "https://omdia.tech.informa.com/om139333/on-the-radar-deepkeep-secures-models-genai-and-ai-agents",
+    "https://cohere.com/north",
+    "https://www.weka.io/news/oasis-technologies-weka-reseller-israel",
+    "https://go.ai/technology/local-llm",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://deviniti.com/services/self-hosted-llm-development/",
+    "https://llmappliance.com/",
+    "https://www.techtimes.com/articles/324976/20260819/koreas-first-sovereign-ai-appliance-ships-domestic-chip-domestic-llm-one-server.htm",
+    "https://picovoice.ai/blog/on-device-llm/",
+    "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance"
+   ]
+  },
+  {
+   "query": "Asia on-premise LLM appliance Japan distributor",
+   "results": [
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://go.ai/technology/local-llm",
+    "https://iternal.ai/local-llm",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1nig0zp/hardware_and_model_recommendations_for_onprem_llm/",
+    "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics",
+    "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://kairntech.com/blog/articles/llm-on-premise/",
+    "https://ifactoryapp.com/blog/local-llm-deployment-factory-architecture-guide",
+    "https://gridtech.jp/en"
+   ]
+  },
+  {
+   "query": "アジア（台湾・韓国・中国）のAIボックス",
+   "results": [
+    "https://brigade-electronics.com/jp/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
+    "https://baike.baidu.com/ja/item/AI%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/4678122",
+    "https://www.youtube.com/watch?v=ox7BW2oZ-2M",
+    "https://www.reddit.com/r/CarPlay/comments/11ivu2m/are_ai_boxes_any_more_reliable_than_basic/?tl=ja",
+    "https://www.aibox.ai/",
+    "https://onecarstereo.jp/blogs/%E6%96%B0%E8%81%9E/ai-box%E3%81%A8%E3%81%AF-%E8%BB%8A%E3%81%A7youtube%E3%82%84netflix%E3%82%92%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B%E8%BB%8A%E8%BC%89%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9-onecarstereo?srsltid=AYCX9vI-GkWoMgijtGrdlLwr41qCEWrszcK4DmYo8aXBQ5FlHb1AWlSo",
+    "https://ai-box.site/",
+    "https://hidya.jp/blog/car-device-ai-box/",
+    "https://dyax.io/ja/news/yh-73b0955059969384",
+    "https://jp.allianzgi.com/ja-jp/jp-insights/outlook-and-commentary/202512-opportunities-in-asia-tech-amid"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業・製品名": "記載なし（読んだ46頁・検索8回）",
+  "国・所在地": "記載なし（読んだ46頁・検索8回）",
+  "価格": "記載なし（読んだ46頁・検索8回）",
+  "利用人数・性能": "記載なし（読んだ46頁・検索8回）",
+  "オフライン・エアギャップ": "記載なし（読んだ46頁・検索8回）",
+  "更新方法": "記載なし（読んだ46頁・検索8回）",
+  "ホワイトラベル・再販": "記載なし（読んだ46頁・検索8回）",
+  "日本・保守": "記載なし（読んだ46頁・検索8回）"
+ }
+}

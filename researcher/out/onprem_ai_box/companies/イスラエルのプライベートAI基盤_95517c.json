@@ -1,0 +1,388 @@
+{
+ "name": "イスラエルのプライベートAI基盤",
+ "en": "Israeli private AI platform on-prem",
+ "aliases": [
+  "Israel air-gapped GenAI",
+  "Israeli enterprise LLM on-prem"
+ ],
+ "context": "イスラエル",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:27:50.635443+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.vastdata.com/customers/sds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpost.com/business-and-innovation/article-913083",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/il/en/what-is/private-ai.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onprem.ai/en/platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.premai.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/ai-platforms-and-tools/israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/why-private-ai-and-on-premise-ai-are-pulling-enterprise-workloads-back-from-the-cloud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seekr.com/availability/private-deployments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zanusai.com/collections/private-ai-software-packages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vLKBNBYnMpLrKTsxiZavMdUCjx_-sU6N2qF8YwhFrkiNoT3zLAX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/deployment-options",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/emea_middle_east/en/solutions/cloud/air-gapped-private-cloud.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calcalistech.com/ctechnews/article/r1rboe4umg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://projectstartups.com/pages/israel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timesofisrael.com/israeli-generative-ai-startup-raises-16-million-to-automate-architectural-planning/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iangels.com/portfolio/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cohere.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nutanix.com/solutions/ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rescale.com/partners/powered-by-rescale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/il/en/ai-factory/sovereign-ai.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/ai-platform-providers/israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiisrael.org.il/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.twinesecurity.com/resources/israeli-agentic-ai-landscape",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/lists/ai-startups-israel/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Project_Nimbus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f6s.com/companies/artificial-intelligence/israel/co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atera.com/blog/israeli-ai-companies-you-need-to-know/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://global.fujitsu/en-global/pr/news/2026/01/26-02",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://een.ec.europa.eu/partnering-opportunities/pragatix-ai-security-enablement-platform-combines-ai-firewall-secure-and",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://israel-keizai.org/wp/wp-content/uploads/2026/05/Israel-Cyber-Delegation-to-Japan-June2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://h2o.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intuitionlabs.ai/articles/private-ai-datacenter-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.tv-asahi.co.jp/news_international/articles/000542825.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kyndryl.com/jp/ja/about-us/news/2025/08/ai-private-cloud-services-launch-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arabnews.jp/middle-east/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%81%AFai%E3%81%8C%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB%E3%82%AC%E3%82%B6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E4%BC%9D%E3%81%88%E3%82%8B%E6%83%85%E5%A0%B1%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%93%8D%E4%BD%9C%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B-184351",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://israel-keizai.org/news/microsoft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/openai_sam_altman_israel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/global-markets/SSC4AIINEZISLNI5XWXMGOV2LE-2023-06-05/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Israeli private AI platform on-prem",
+   "results": [
+    "https://www.vastdata.com/customers/sds",
+    "https://www.jpost.com/business-and-innovation/article-913083",
+    "https://www.hpe.com/il/en/what-is/private-ai.html",
+    "https://www.onprem.ai/en/platform/",
+    "https://www.premai.io/",
+    "https://revenuebase.ai/companies/ai-platforms-and-tools/israel",
+    "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "https://thakicloud.com/en/insights/on-prem-ai",
+    "https://onpremise-ai.com/",
+    "https://www.mlaia.com/blog-slm-onprem-israel.html"
+   ]
+  },
+  {
+   "query": "Israeli private AI platform on-prem on-premise LLM appliance company",
+   "results": [
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.zylon.ai/resources/blog/why-private-ai-and-on-premise-ai-are-pulling-enterprise-workloads-back-from-the-cloud",
+    "https://www.seekr.com/availability/private-deployments/",
+    "https://zanusai.com/collections/private-ai-software-packages",
+    "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vLKBNBYnMpLrKTsxiZavMdUCjx_-sU6N2qF8YwhFrkiNoT3zLAX",
+    "https://www.onprem.ai/en/platform/",
+    "https://cohere.com/",
+    "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "Israeli private AI platform on-prem air-gapped AI box price",
+   "results": [
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://www.zylon.ai/deployment-options",
+    "https://www.zerve.ai/blog/enterprise-ai-deployment",
+    "https://www.hpe.com/emea_middle_east/en/solutions/cloud/air-gapped-private-cloud.html",
+    "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://understand.tech/product/ai-in-a-box",
+    "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "https://go.ai/technology/air-gapped-ai",
+    "https://www.zylon.ai/"
+   ]
+  },
+  {
+   "query": "Israeli private AI platform on-prem startup raises on-prem AI hardware",
+   "results": [
+    "https://www.calcalistech.com/ctechnews/article/r1rboe4umg",
+    "https://www.instagram.com/reel/DeEqXR_gwtv/",
+    "https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/",
+    "https://projectstartups.com/pages/israel/",
+    "https://www.timesofisrael.com/israeli-generative-ai-startup-raises-16-million-to-automate-architectural-planning/",
+    "https://www.linkedin.com/posts/ezevidra_yesterday-tlv-partners-published-on-ctech-activity-7426675145160896512-Pzrh",
+    "https://www.iangels.com/portfolio/",
+    "https://aibusiness.com/automation/nvidia-acquires-israeli-ai-startup-for-700m",
+    "https://www.f5.com/products/ai-guardrails",
+    "https://www.mlaia.com/blog-slm-onprem-israel.html"
+   ]
+  },
+  {
+   "query": "Israeli private AI platform on-prem white label OEM reseller",
+   "results": [
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://cohere.com/",
+    "https://www.nutanix.com/solutions/ai",
+    "https://www.vastdata.com/customers/sds",
+    "https://rescale.com/partners/powered-by-rescale/",
+    "https://www.hpe.com/il/en/ai-factory/sovereign-ai.html",
+    "https://revenuebase.ai/companies/ai-platform-providers/israel",
+    "https://www.arrow.com/ais/dell-technologies-oem-solutions",
+    "https://www.jpost.com/business-and-innovation/article-913083",
+    "https://www.wishgoods.co.il/on-prem-ai"
+   ]
+  },
+  {
+   "query": "Israeli private AI platform on-prem Israel",
+   "results": [
+    "https://www.jpost.com/business-and-innovation/article-913083",
+    "https://www.vastdata.com/customers/sds",
+    "https://aiisrael.org.il/",
+    "https://www.twinesecurity.com/resource/the-israeli-agentic-ai-landscape",
+    "https://dealroom.co/lists/ai-startups-israel/",
+    "https://www.youtube.com/watch?v=ToSs9aDjqqY",
+    "https://en.wikipedia.org/wiki/Project_Nimbus",
+    "https://revenuebase.ai/companies/ai-platform-providers/israel",
+    "https://www.onprem.ai/en/platform/",
+    "https://www.f6s.com/companies/artificial-intelligence/israel/co"
+   ]
+  },
+  {
+   "query": "Israeli private AI platform on-prem Japan distributor",
+   "results": [
+    "https://zanusai.com/collections/private-ai-software-packages",
+    "https://global.fujitsu/en-global/pr/news/2026/01/26-02",
+    "https://cohere.com/",
+    "https://eu.fsastech.com/eu/solutions/artificial-intelligence/",
+    "https://een.ec.europa.eu/partnering-opportunities/pragatix-ai-security-enablement-platform-combines-ai-firewall-secure-and",
+    "https://israel-keizai.org/wp/wp-content/uploads/2026/05/Israel-Cyber-Delegation-to-Japan-June2026.pdf",
+    "https://www.jpost.com/business-and-innovation/article-913083",
+    "https://h2o.ai/",
+    "https://www.vastdata.com/customers/sds",
+    "https://www.premai.io/"
+   ]
+  },
+  {
+   "query": "イスラエルのプライベートAI基盤",
+   "results": [
+    "https://news.tv-asahi.co.jp/news_international/articles/000542825.html",
+    "https://www.kyndryl.com/jp/ja/about-us/news/2025/08/ai-private-cloud-services-launch-in-japan",
+    "https://www.arabnews.jp/middle-east/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%81%AFai%E3%81%8C%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB%E3%82%AC%E3%82%B6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E4%BC%9D%E3%81%88%E3%82%8B%E6%83%85%E5%A0%B1%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%93%8D%E4%BD%9C%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B-184351",
+    "https://israel-keizai.org/news/microsoft/",
+    "https://ledge.ai/articles/openai_sam_altman_israel",
+    "https://www.reuters.com/jp/markets/global-markets/SSC4AIINEZISLNI5XWXMGOV2LE-2023-06-05/",
+    "https://israeru.jp/business/openai-israel/",
+    "https://www.moguravr.com/israel-national-ai-strategic-plan/",
+    "https://ainow.ai/2019/04/19/167991/"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業・製品名": "記載なし（読んだ48頁・検索8回）",
+  "国・所在地": "記載なし（読んだ48頁・検索8回）",
+  "価格": "記載なし（読んだ48頁・検索8回）",
+  "利用人数・性能": "記載なし（読んだ48頁・検索8回）",
+  "オフライン・エアギャップ": "記載なし（読んだ48頁・検索8回）",
+  "更新方法": "記載なし（読んだ48頁・検索8回）",
+  "ホワイトラベル・再販": "記載なし（読んだ48頁・検索8回）",
+  "日本・保守": "記載なし（読んだ48頁・検索8回）"
+ }
+}

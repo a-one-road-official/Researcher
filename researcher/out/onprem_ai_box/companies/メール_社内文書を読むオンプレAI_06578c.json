@@ -1,0 +1,389 @@
+{
+ "name": "メール・社内文書を読むオンプレAI",
+ "en": "on-premise AI email knowledge search appliance",
+ "aliases": [
+  "private AI email search",
+  "on-prem enterprise search LLM"
+ ],
+ "context": "Yomi",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:29:56.093063+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.premai.io/blog/ai-enterprise-search-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imanage.com/imanage-products/the-imanage-platform/ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sim.ai/library/best-ai-agents-internal-knowledge-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindstudio.ai/blog/private-knowledge-base-ai-intelligent-enterprise-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vellum.ai/blog/best-open-source-personal-ai-assistants",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm-machines.com/on-prem-ai-appliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmappliance.com/industries/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qnap.com/en-us/solution/rag-ai-search",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.asacomputers.com/ai-solutions.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lannerinc.com/news-and-events/latest-news/power-gen-ai-on-premises-edge-ai-systems-for-secure-and-local-llm-inference",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/go1/buy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getmacha.com/blog/ai-knowledge-base",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zanusai.com/collections/private-ai-software-packages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/news/155402-go-ai-lands-85m-series-a-for-on-prem-ai-in-regulated-industries/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/company/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/company/press-releases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pulse2.com/aina-raises-5-5-million-to-develop-ai-hardware-interface-beyond-touchscreens-and-keyboards/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promptowl.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irisagent.com/on-premise-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infraforge.ai/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rackspace.com/email-resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://korra.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cohere.com/north",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortinet.com/products/email-security",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.israel.com/businesses/online/cold-email-software/emailchaser",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datawiseds.com/en/cloud-ai-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/open-source-ai-platform-providers/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eastgate-software.com/services/sovereign-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://strategycore.com/solutions/ai-ml",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indx.jp/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zanusai.com/collections/private-ai-servers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kx.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://majisemi.com/e/c/canon-its-v-20261023",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caronima.com/posts/5201/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudflag.jp/service/ai-mail-for-helpdesk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smfg.co.jp/dx_link/article/0226.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sateraito.jp/sateraito_AI/06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO85468860T11C24A2TB0000/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "on-premise AI email knowledge search appliance",
+   "results": [
+    "https://www.premai.io/blog/ai-enterprise-search-platforms",
+    "https://imanage.com/imanage-products/the-imanage-platform/ai/",
+    "https://www.sim.ai/library/best-ai-agents-internal-knowledge-search",
+    "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "https://www.mindstudio.ai/blog/private-knowledge-base-ai-intelligent-enterprise-search",
+    "https://www.vellum.ai/blog/best-open-source-personal-ai-assistants",
+    "https://go.ai/technology/on-prem-llm",
+    "https://www.dell.com/en-us/blog/dell-glean-on-premises-solution-enterprise-ai-search/",
+    "https://www.shambix.com/on-premise-ai-for-business/",
+    "https://soca.ai/products/appliance"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance on-premise LLM appliance company",
+   "results": [
+    "https://llm-machines.com/on-prem-ai-appliance/",
+    "https://www.premai.io/blog/ai-enterprise-search-platforms",
+    "https://llmappliance.com/industries/enterprise.html",
+    "https://www.qnap.com/en-us/solution/rag-ai-search",
+    "https://www.asacomputers.com/ai-solutions.html",
+    "https://www.lannerinc.com/news-and-events/latest-news/power-gen-ai-on-premises-edge-ai-systems-for-secure-and-local-llm-inference",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://www.i3k.eu/en/local-ai/",
+    "https://www.fortinet.com/products/email-security",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance air-gapped AI box price",
+   "results": [
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://go.ai/go1/buy",
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://www.getmacha.com/blog/ai-knowledge-base",
+    "https://understand.tech/product/ai-in-a-box",
+    "https://zanusai.com/collections/private-ai-software-packages",
+    "https://metoro.io/blog/on-prem-aiops-tools",
+    "https://iqbox.ai/pricing",
+    "https://iternal.ai/airgapai",
+    "https://airgappedsolutions.com/"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance startup raises on-prem AI hardware",
+   "results": [
+    "https://dealroom.co/news/155402-go-ai-lands-85m-series-a-for-on-prem-ai-in-regulated-industries/",
+    "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "https://go.ai/company/newsroom",
+    "https://go.ai/company/press-releases",
+    "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+    "https://pulse2.com/aina-raises-5-5-million-to-develop-ai-hardware-interface-beyond-touchscreens-and-keyboards/",
+    "https://entrepreneur.economictimes.indiatimes.com/news/funding/aina-secures-55-million-to-revolutionize-ai-hardware-and-contextual-interfaces/132453614",
+    "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "https://hoodline.com/2026/09/go-ai-lands-85m-series-a-bets-on-prem-hardware-wins-over-banks-hospitals/"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance white label OEM reseller",
+   "results": [
+    "https://conversight.ai/oem-partners/",
+    "https://www.whitelabeliq.com/ai-knowledge-base/",
+    "https://www.premai.io/blog/ai-enterprise-search-platforms",
+    "https://promptowl.ai/whitelabel/",
+    "https://irisagent.com/on-premise-ai/",
+    "https://www.infraforge.ai/whitelabel",
+    "https://www.rackspace.com/email-resellers",
+    "https://anovia.com/oem-support-services/",
+    "https://www.agentz.ai/partners",
+    "https://www.katonic.ai/ai-cloud"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance Israel",
+   "results": [
+    "https://korra.ai/",
+    "https://cohere.com/north",
+    "https://www.fortinet.com/products/email-security",
+    "https://www.israel.com/businesses/online/cold-email-software/emailchaser",
+    "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+    "https://datawiseds.com/en/cloud-ai-services/",
+    "https://ronnieprojects.com/case-studies/ai-agents-email-automation",
+    "https://www.ynetnews.com/tech-and-digital/article/hkf53gjxze",
+    "https://imanage.com/resources/resource-center/news/ask-imanage-delivers-an-ai-powered-search-experience-with-trusted-answers-across-firm-knowledge/",
+    "https://soca.ai/products/appliance"
+   ]
+  },
+  {
+   "query": "on-premise AI email knowledge search appliance Japan distributor",
+   "results": [
+    "https://revenuebase.ai/companies/open-source-ai-platform-providers/japan",
+    "https://eastgate-software.com/services/sovereign-ai/",
+    "https://www.premai.io/blog/ai-enterprise-search-platforms",
+    "https://www.qnap.com/en-us/solution/rag-ai-search",
+    "https://strategycore.com/solutions/ai-ml",
+    "https://cohere.com/north",
+    "https://indx.jp/en",
+    "https://zanusai.com/collections/private-ai-servers",
+    "https://kx.com/ja/",
+    "https://sovereign.gaixer.com/en/"
+   ]
+  },
+  {
+   "query": "メール・社内文書を読むオンプレAI",
+   "results": [
+    "https://majisemi.com/e/c/canon-its-v-20261023",
+    "https://caronima.com/posts/5201/",
+    "https://cloudflag.jp/service/ai-mail-for-helpdesk/",
+    "https://www.smfg.co.jp/dx_link/article/0226.html",
+    "https://www.sateraito.jp/sateraito_AI/06.html",
+    "https://www.nikkei.com/article/DGKKZO85468860T11C24A2TB0000/",
+    "https://www.kagoya.jp/howto/engineer/communication/ai-mail/",
+    "https://www.microsoft.com/ja-jp/microsoft-365/outlook/ai-email-assistant",
+    "https://businessmail.or.jp/lp_ai-mail-3/",
+    "https://majisemi.com/e/c/canon-its-v-20261023?el=MM"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業・製品名": "記載なし（読んだ48頁・検索8回）",
+  "国・所在地": "記載なし（読んだ48頁・検索8回）",
+  "価格": "記載なし（読んだ48頁・検索8回）",
+  "利用人数・性能": "記載なし（読んだ48頁・検索8回）",
+  "オフライン・エアギャップ": "記載なし（読んだ48頁・検索8回）",
+  "更新方法": "記載なし（読んだ48頁・検索8回）",
+  "ホワイトラベル・再販": "記載なし（読んだ48頁・検索8回）",
+  "日本・保守": "記載なし（読んだ48頁・検索8回）"
+ }
+}

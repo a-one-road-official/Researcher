@@ -1,0 +1,391 @@
+{
+ "name": "日本のオンプレ生成AI端末",
+ "en": "Japanese on-premise generative AI appliance",
+ "aliases": [
+  "オンプレ生成AI",
+  "ローカルLLMサーバー",
+  "生成AIアプライアンス",
+  "オンプレLLM"
+ ],
+ "context": "日本",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:27:29.046595+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://sovereign.gaixer.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-generative-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://go.ai/technology/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmappliance.com/platform-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zylon.ai/deployment-options",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/mlops/comments/1fe5i82/how_to_get_started_with_building_an_on_premises/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reuters.com/technology/japan-startup-preferred-networks-designs-own-ai-chips-beat-bottleneck-2023-12-20/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.edgecortix.com/en/thank-you/japanese-startup-takes-on-generative-ai-at-the-edge-achieving-60tops-ai-processing-performance-at-8w",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://global.fujitsu/en-global/pr/news/2026/01/26-02",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kyndryl.com/us/en/about-us/news/2024/11/ai-private-cloud-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/ajw/articles/15389841",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2025/0213-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esperanto.ai/News/esperanto-technologies-introduces-first-generative-ai-appliance-based-on-risc-v/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.sharp/corporate/news/260915-a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognizant.com/us/en/insights/insights-blog/japan-generative-ai-adoption",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hivelife.com/japan-generative-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-market-watch.com/news/on-premise-generative-ai-product-edgellm-launches-in-japan-from-98-million-with--2o86mt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eu-japan.eu/een/jp-profile/jp-ai-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.rakuten.com/corp/news/press/2026/0317_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tfsfventures.com/blog/best-ai-agent-deployment-companies-for-manufacturing-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/en/archives/27479/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f6s.com/companies/artificial-intelligence/japan/co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnp.co.jp/biz/products/detail/20177512_4986.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/media/9942/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://premioinc.com/ja/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.npa.go.jp/policies/budget/yosanjouhou/itakutyousa/seiseiaijiltusyoujiltukenn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://community.hpe.com/t5/hpe-blog-japan/hpe-ai-japan-%E7%94%9F%E6%88%90ai%E3%81%AE%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91%E3%81%A8%E3%82%AA%E3%83%B3%E3%83%97%E3%83%ACllm%E3%81%AE%E5%BF%85%E8%A6%81%E6%80%A7/ba-p/7216946",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Japanese on-premise generative AI appliance",
+   "results": [
+    "https://sovereign.gaixer.com/en/",
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "https://www.imarcgroup.com/japan-generative-ai-market",
+    "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "https://www.reddit.com/r/mlops/comments/1fe5i82/how_to_get_started_with_building_an_on_premises/",
+    "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "https://jpn.nec.com/gpu/cotomi/index.html",
+    "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance on-premise LLM appliance company",
+   "results": [
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/",
+    "https://go.ai/technology/local-llm",
+    "https://www.inonet.com/generative-ai-server/?lang=en",
+    "https://note.com/prlprl/n/nf54f4e78efb6?hl=en",
+    "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "https://llmappliance.com/platform-overview.html"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance air-gapped AI box price",
+   "results": [
+    "https://understand.tech/product/ai-in-a-box",
+    "https://go.ai/technology/edge-ai-hardware",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+    "https://www.zylon.ai/deployment-options",
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://www.logzilla.ai/blogs/air-gapped-ai-networks",
+    "https://heypinchy.com/air-gapped-llm-hardware/",
+    "https://www.ai-market-watch.com/news/on-premise-generative-ai-product-edgellm-launches-in-japan-from-98-million-with--2o86mt"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance startup raises on-prem AI hardware",
+   "results": [
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://go.ai/hardware",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.linkedin.com/posts/rorymack_a-two-month-old-ai-startup-just-raised-475m-activity-7404145134113546240-HzRV",
+    "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "https://www.reddit.com/r/mlops/comments/1fe5i82/how_to_get_started_with_building_an_on_premises/",
+    "https://www.reuters.com/technology/japan-startup-preferred-networks-designs-own-ai-chips-beat-bottleneck-2023-12-20/",
+    "https://www.facebook.com/nikkeiasia/posts/japans-sakana-ai-to-build-homegrown-model-to-cut-us-china-reliance/1544236407739619/",
+    "https://www.edgecortix.com/en/thank-you/japanese-startup-takes-on-generative-ai-at-the-edge-achieving-60tops-ai-processing-performance-at-8w",
+    "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html?word=s"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance white label OEM reseller",
+   "results": [
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "https://global.fujitsu/en-global/pr/news/2026/01/26-02",
+    "https://www.edgecortix.com/en/thank-you/japanese-startup-takes-on-generative-ai-at-the-edge-achieving-60tops-ai-processing-performance-at-8w",
+    "https://www.kyndryl.com/us/en/about-us/news/2024/11/ai-private-cloud-in-japan",
+    "https://www.asahi.com/ajw/articles/15389841",
+    "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "https://onebot.cloud/blog/ai-chatbot-oem-white-label-japan-agencies"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance Israel",
+   "results": [
+    "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0213-01.html",
+    "https://www.esperanto.ai/News/esperanto-technologies-introduces-first-generative-ai-appliance-based-on-risc-v/",
+    "https://global.sharp/corporate/news/260915-a.html",
+    "https://www.facebook.com/IsraeliPM/posts/israel-has-joined-the-pax-silica-initiative-a-strategic-move-led-by-the-united-s/1388016049355187/",
+    "https://www.cognizant.com/us/en/insights/insights-blog/japan-generative-ai-adoption",
+    "https://hivelife.com/japan-generative-ai/",
+    "https://www.inonet.com/generative-ai-server/?lang=en",
+    "https://www.youtube.com/watch?v=faJgWWiwXSA",
+    "https://sovereign.gaixer.com/en/"
+   ]
+  },
+  {
+   "query": "Japanese on-premise generative AI appliance Japan distributor",
+   "results": [
+    "https://www.imarcgroup.com/japan-generative-ai-market",
+    "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "https://www.cloudcommunications.com/news/nec-develops-and-provides-generative-ai-for-business-use",
+    "https://my.idc.com/getdoc.jsp?containerId=IDC_P47186",
+    "https://www.eu-japan.eu/een/jp-profile/jp-ai-technology",
+    "https://www.pixelwebsolutions.com/ai-development-companies-in-japan/",
+    "https://infinicloud.com/en_company_news_20250807infinicloudAI-firstedition.html",
+    "https://global.rakuten.com/corp/news/press/2026/0317_01.html",
+    "https://www.tfsfventures.com/blog/best-ai-agent-deployment-companies-for-manufacturing-in-japan",
+    "https://sovereign.gaixer.com/en/"
+   ]
+  },
+  {
+   "query": "日本のオンプレ生成AI端末",
+   "results": [
+    "https://www.dnp.co.jp/biz/products/detail/20177512_4986.html",
+    "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "https://japan-ai.co.jp/media/9942/",
+    "https://premioinc.com/ja/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "https://www.npa.go.jp/policies/budget/yosanjouhou/itakutyousa/seiseiaijiltusyoujiltukenn.pdf",
+    "https://community.hpe.com/t5/hpe-blog-japan/hpe-ai-japan-%E7%94%9F%E6%88%90ai%E3%81%AE%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91%E3%81%A8%E3%82%AA%E3%83%B3%E3%83%97%E3%83%ACllm%E3%81%AE%E5%BF%85%E8%A6%81%E6%80%A7/ba-p/7216946",
+    "https://www.nttpc.co.jp/gpu/article/knowledge36_local_llm.html",
+    "https://jp.ricoh.com/release/2025/0407_1",
+    "https://www.ntt-west.co.jp/news/2608/260826a.html",
+    "https://openhub.ntt.com/journal/16445.html"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業・製品名": "記載なし（読んだ48頁・検索8回）",
+  "国・所在地": "記載なし（読んだ48頁・検索8回）",
+  "価格": "記載なし（読んだ48頁・検索8回）",
+  "利用人数・性能": "記載なし（読んだ48頁・検索8回）",
+  "オフライン・エアギャップ": "記載なし（読んだ48頁・検索8回）",
+  "更新方法": "記載なし（読んだ48頁・検索8回）",
+  "ホワイトラベル・再販": "記載なし（読んだ48頁・検索8回）",
+  "日本・保守": "記載なし（読んだ48頁・検索8回）"
+ }
+}

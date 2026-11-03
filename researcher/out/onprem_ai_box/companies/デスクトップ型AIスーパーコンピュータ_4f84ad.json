@@ -1,0 +1,1919 @@
+{
+ "name": "デスクトップ型AIスーパーコンピュータ",
+ "en": "desktop AI supercomputer",
+ "aliases": [
+  "personal AI supercomputer",
+  "AI workstation LLM",
+  "DGX Spark",
+  "mini AI PC LLM"
+ ],
+ "context": "汎用",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:25:13.436630+00:00",
+ "evidence": {
+  "ホワイトラベル・再販": [
+   {
+    "quote": "Where to Buy - ASUS Ascent GX10 Distributors",
+    "url": "https://www.asus.com/us/content/asus-desktop-ai-supercomputers/",
+    "pass": 3
+   },
+   {
+    "quote": "*64 GB memory configuration is available exclusively through participating OEM partners.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "From novice to expert, leverage our curated playbooks to get off to a running start on various projects. Playbooks contain step-by-step recipes to demonstrate the art of the possible.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover NVIDIA GB10 Grace Blackwell Superchip–powered systems from our preferred OEM partners.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "From novice to expert, leverage NVIDIA’s curated playbooks to get off to a running start on various projects. Playbooks contain step-by-step recipes to demonstrate the art of the possible.",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller and less established than the OEM leaders, with fewer public reference customers and benchmarks",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "\"Think about industrial applications, where on the factory floor you want compute to be right next to where the manufacturing is happening,\" said IBM’s Shobhit Varshney, a VP at IBM Consulting, on a recent episode of the",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Varshney notes that NVIDIA open-sourced technology from its recent",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": ". \"They're trying to ensure that the entire industry moves closer to this physical AI and agentic AI and autonomous driving era,” Varshney says “They want to be the backbone across each one of them.”",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Price cuts rippled across product lines. \"Last year, the 40 series of their chips used to be USD 1,600,\" Varshney says. “They just released an equal compute for USD 550.”",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "This push toward specialized computing marks a dramatic shift from current limitations. \"We've been constrained by some cutesy little small models running on mobile devices,\" Varshney says. \"They want to make compute as easily accessible and democratized as plugging into electricity, but they want to be the electric superpower of the entire world.\"",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Broadcom’s disclosure varies by customer:",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock new levels of innovation with NVIDIA AI software stack and OEM workstations providing up to four NVIDIA RTX PRO 6000 Blackwell graphics processing units (GPUs) for 14.2 petaflops of AI compute performance and 384GB of GPU memory.",
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "pass": 3
+   },
+   {
+    "quote": "Select an OEM to learn more about purchasing NVIDIA RTX professional workstations and related products.",
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "pass": 3
+   },
+   {
+    "quote": "supercomputers from OEM partners.",
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partners are integrating the same GB10 and NVIDIA AI software stack technologies found in DGX Spark into their product families. NVIDIA accelerated personal AI supercomputers are available now from OEM partners.",
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "pass": 3
+   },
+   {
+    "quote": "ELSA JAPAN Inc. (Est. 1997) is a leading Japanese distributor of NVIDIA professional and consumer GPUs and cutting-edge AI computing platforms. Based on computer graphics and multimedia technology, ELSA JAPAN partners with world-class vendors to deliver optimal GPU and AI products to the Japanese market.",
+    "url": "https://www.parallel-networks.com/elsa.html",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA の OEM パートナーが提供する NVIDIA GB10 Grace Blackwell Superchip 搭載システムをご覧ください",
+    "url": "https://www.nvidia.com/ja-jp/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GB10 Grace Blackwell Superchip を搭載したシステムを、NVIDIA 提携 OEM パートナーからご覧ください",
+    "url": "https://www.nvidia.com/ja-jp/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Varjo XR-4 アクセサリ",
+    "url": "https://shop.elsa-jp.jp/view/category/ct333?srsltid=AYCX9vL5-ulAjE-5DainOaMixTrxZg6fPxaNTTgywdJ88r2pqZb3M4NE",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "Warranty Extension",
+    "url": "https://www.asus.com/us/content/asus-desktop-ai-supercomputers/",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://www.asus.com/us/content/asus-desktop-ai-supercomputers/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Support",
+    "url": "https://www.asus.com/us/content/asus-desktop-ai-supercomputers/",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.asus.com/us/content/asus-desktop-ai-supercomputers/",
+    "pass": 3
+   },
+   {
+    "quote": "日本 (Japan)",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Fifth-generation Tensor Cores with support for FP4 deliver up to 1 petaFLOP of AI computing performance, combined with up to 128 GB of system memory, accelerating inference of state-of-the-art AI models to test, validate, and deploy from your DGX Spark.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "A cloud-native suite of software tools, libraries, and frameworks accelerating production-grade AI development. Combines enterprise-grade security, optimized performance, and enterprise-level support to streamline prototype-to-production for next-gen agentic AI.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA DGX Spark Gains 2x Performance and Open AI Model Support",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "What software and hardware support is available for DGX Spark?",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark ships with DGX OS and additional NVIDIA tools. DGX OS is a Linux distribution based on Ubuntu and matches the Linux distribution running on other DGX platforms. DGX Spark comes pre-installed and/or supports a large catalog of tools, frameworks, models, and software for development use from NVIDIA NGC. For example:",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware support will be provided by the vendor that sold the system.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports RoCE v2",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "A cloud-native suite of software tools, libraries, and frameworks accelerating production-grade AI development. Combines enterprise-grade security, optimized performance, and enterprise-level support to streamline prototype-to-production for next-gen agentic AI. Sign up for the free 90-day NVIDIA AI Enterprise—DGX Spark license.",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "Theoretical FP4 TOPS performance using sparsity feature of FP4 performance, and 4th generation RT cores that provide real time ray tracing acceleration. The GPU also includes 5th generation NVDEC and 9th generation NVENC engines for accelerated encoding and decoding of MPEG-2, VC-1, H.264 (AVCHD), H.265 (HEVC), VP8, VP9, and AV1 video formats, including support for 4:2:2 H.264 and H.265 video.",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "With the NVIDIA DGX OS pre-installed, the DGX Spark development environment will be familiar to DGX developers. Including Ubuntu Linux, the DGX OS system software makes it easy to move work to DGX Cloud or any accelerated data center or cloud infrastructure. Installed software also includes RTX toolkits and libraries, supporting NVIDIA RTX visualization technologies.",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "Product Support",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "MSI EdgeXpert 01SKUS AI Supercomputer desktop PC 2-Pack nVidia GB10 Grace Blackwell ARM CPU 128GB LPDDR5 4TB SSD Gen4 NVMe M.2 unified system memory Wifi 7 nVidia DGX OS 1YR Warranty",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "ASUS Ascent GX10 AI Supercomputer; DGX Spark; NVIDIA GB10 Superchip; 128GB LPDDR5x; 4TB PCIe Gen5 NVMe SSD; Wi-Fi 7 & BT5.4DGX OS Agentic AI Ready Supports OpenClaw NemoClaw TAA Compliant",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "MSI EdgeXpert-13SUS AI Supercomputer desktop PC nVidia GB10 Grace Blackwell Architecture ARM CPU 128GB LPDDR5 4TB SSD Gen4 NVMe M.2 unified system memory Wifi 7 nVidia DGX OS 1YR Warranty",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "MSI EdgeXpert 11SUS AI Supercomputer desktop PC nVidia GB10 Grace Blackwell Architecture ARM CPU 128GB LPDDR5 4TB SSD Gen4 NVMe M.2 unified system memory Wifi 7 nVidia DGX OS 1YR Warranty",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "ASUS Ascent GX10 AI Supercomputer; DGX Spark; NVIDIA GB10 Superchip; 128GB LPDDR5x; 2TB PCIe Gen4 NVMe SSD; Wi-Fi 7 & BT5.4DGX OS Agentic AI Ready Supports OpenClaw NemoClaw TAA Compliant",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "ASUS Ascent GX10 AI Supercomputer; DGX Spark; NVIDIA GB10 Superchip; 128GB LPDDR5x; 1TB PCIe Gen4 NVMe SSD; Wi-Fi 7 & BT5.4DGX OS Agentic AI Ready Supports OpenClaw NemoClaw TAA Compliant",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "Returns & Warranty",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A named Iternal partner with over 4,000 customers and Dell-reported up to 2.6x first-year ROI — a Dell-backed, services-supported path from pilot to production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprises wanting a Dell-backed, services-supported full-stack path from pilot to production at scale.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Supermicro AI Factory SuperClusters deliver exceptional density in 42U/48U/52U air- or liquid-cooled racks, integrating 72 NVIDIA B300 GPUs per rack and supporting NVIDIA HGX B300. Liquid-cooled 256-GPU (5 racks) and 768-GPU (9 racks) scalable units arrive cluster-level L12 tested before shipment. At COMPUTEX 2026 (June 1) Supermicro introduced DCBBS Blueprints for NVIDIA Vera Rubin NVL72.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "72 NVIDIA B300 GPUs (288 GB HBM3e each) per rack; supports NVIDIA HGX B300",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dell Pro Max GB300: up to 20 PFLOPS FP4, 748 GB coherent memory, supports up to 1T-param models",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GA on NVIDIA's reference design; supports RTX PRO 6000 / 4500 Blackwell Server Edition",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM.co offers a private LLM via cloud, on-prem, or a dedicated hardware appliance (the LLM Box), supporting air-gapped installations and offline AI agents. Teams start from open-source foundation models (LLaMA, Mistral, Mixtral) or bring their own, with RBAC, audit logging, and private model training. Its architecture is described as designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Several support air-gapped operation, including HPE Private Cloud AI (air-gapped config available now), Nutanix Enterprise AI, and LLM.co. For SCIF and classified use, Iternal's AirgapAI runs 100% locally with zero cloud transmission and is SCIF-approved and nuclear-facility-certified per Iternal. Dell and NVIDIA are also co-engineering an air-gapped solution for federal customers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "— the broader agent platform NemoClaw supports — \"the operating system for personal AI\" and comparing it directly to Mac and Windows.",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "pass": 3
+   },
+   {
+    "quote": "The list of supported models underscores how open the AI ecosystem has become: developers can run and fine-tune OpenAI's",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "pass": 3
+   },
+   {
+    "quote": ", letting users develop locally and then deploy to cloud or data center infrastructure. Manufacturing facilities can implement \"real-time monitoring, predictive maintenance and process optimization powered by edge computing,\" says",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "GPUs are programmable parallel processors used for training and inference. TPU and Trainium support both workloads, while other designs focus on inference. Architecture alone does not establish performance for a particular model.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Full-rate FP64 support distinguishes it from the MI455X for scientific computing.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Intel detailed it at Computex 2026 as a 350W air-cooled PCIe card supporting data types from FP4 through FP64, with a maximum partner configuration of 480GB. The announced card has 160GB.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "The AI200 supports 768 GB of LPDDR per card, and Qualcomm said at announcement that the AI200 and AI250 were expected to be commercially available in 2026 and 2027 respectively.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "SambaNova unveiled the SN50, its latest Reconfigurable Data Unit (RDU), on February 24, 2026, with shipments to customers due in the second half of 2026. SambaNova specifies 5x more compute per accelerator and 4x more network bandwidth than the previous generation SN40L, and supports a three-tier memory architecture for models up to 10 trillion parameters and context up to 10 million tokens.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank Corp. will be the first customer to deploy SN50 within its AI data centers in Japan.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Cerebras introduced the CS-4 inference system on August 18, 2026. It combines three WSE-3 Turbo processors and supports disaggregated inference, with separate hardware handling prompt processing and token generation. At launch, Cerebras targeted first shipments for Q3 2026.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "On October 12, 2026, d-Matrix announced general availability of Corsair servers and SquadRack systems. Its larger Squadron clusters were shipping to priority customers, with a configuration supporting up to 16 SquadRacks and 1,024 Corsair XPUs.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Rebellions confirmed on September 15, 2026 that RebelRack and RebelPOD systems were shipping. Its partnership with ai& included an initial purchase for a planned Tokyo deployment. Operation at the Japanese site was scheduled to begin after delivery.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Its SDK supports model compilation, multi-chip execution and an OpenAI-compatible API. FuriosaAI reports volume availability and publishes its own GPU performance comparisons.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2019 in Tel Aviv, Speedata develops an Analytics Processing Unit (APU) designed to accelerate big data analytics and AI workloads. It’s an APU that targets Apache Spark workloads, with plans to support other major data analytics platforms.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "AWS announced Trainium4 as a roadmap item at re:Invent 2025, with support for NVIDIA NVLink Fusion. On the Q1 2026 earnings call, Amazon said Trainium4 is about 18 months from broad availability and is largely reserved.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "At its September 2026 Apsara conference, Alibaba announced the Zhenwu V900 for training and inference. It specifies 216 GB of memory, 1,200 GB/s of inter-chip bandwidth and native FP8/FP4 support. Alibaba targets mass production and commercial release for Q1 2027.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "M5 launched on October 15, 2025, and M5 Pro and M5 Max were announced on March 3, 2026 with a Neural Accelerator in each GPU core. Apple is strengthening its on-device AI strategy with the Core AI framework, which runs models on Apple silicon with no server dependencies, supported by an open-source Core AI models repository on GitHub.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "On February 26, 2026 Broadcom began shipping a 2nm custom compute SoC, built on its 3.5D eXtreme Dimension System in Package (XDSiP) platform. That SoC supports Fujitsu’s FUJITSU-MONAKA processor program. Broadcom says XPUs for its broader customer base ship from the second half of 2026.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific & Japan",
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect Warranty",
+    "url": "https://www.asus.com/il/content/asus-desktop-ai-supercomputers/",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.asus.com/il/content/asus-desktop-ai-supercomputers/",
+    "pass": 3
+   },
+   {
+    "quote": "ELSA JAPAN Inc. (Est. 1997) is a leading Japanese distributor of NVIDIA professional and consumer GPUs and cutting-edge AI computing platforms. Based on computer graphics and multimedia technology, ELSA JAPAN partners with world-class vendors to deliver optimal GPU and AI products to the Japanese market.",
+    "url": "https://www.parallel-networks.com/elsa.html",
+    "pass": 3
+   },
+   {
+    "quote": "ELSA JAPAN's proprietary 19-inch 1.5U rack mount kit designed to house two NVIDIA DGX Spark units in a standard server rack. Enables compact, organized deployment of multiple DGX Spark systems for research labs and development teams requiring scalable local AI compute.",
+    "url": "https://www.parallel-networks.com/elsa.html",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": "Israel",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": ", with 88 custom Olympus cores, targets the orchestration layer that agentic workloads increasingly demand. At the far frontier, Nvidia announced the Vera Rubin Space Module for orbital data centers, delivering 25x more AI compute for space-based inference than the H100.",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "pass": 3
+   },
+   {
+    "quote": "Corsair uses an SRAM-based in-memory compute chiplet architecture.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Taalas was founded in early 2023 and hard-wires individual models directly into custom silicon, producing what the company calls “Hardcore Models.”",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Mythic was founded in 2012 and is focused on edge AI. Mythic follows an unconventional path, an analog compute architecture, that aims to deliver power-efficient edge AI computing.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2019 in Tel Aviv, Speedata develops an Analytics Processing Unit (APU) designed to accelerate big data analytics and AI workloads. It’s an APU that targets Apache Spark workloads, with plans to support other major data analytics platforms.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in July 2021 in Eindhoven, Netherlands, Axelera AI specializes in AI hardware acceleration technology for computer vision and generative AI. The company is developing Titania, an AI inference chiplet based on its Digital In-Memory Computing (D-IMC) architecture, designed to accelerate AI workloads from edge to cloud.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "NextSilicon, founded in Tel Aviv in 2017, sells Maverick-2, a runtime-reconfigurable dataflow accelerator built on TSMC’s 5nm process and shipped as a PCIe Gen 5 card with 96 GB of HBM3E or as an OAM module with 192 GB.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "ASUS Desktop AI Supercomputers｜Asus Israel – אסוס ישראל",
+    "url": "https://www.asus.com/il/content/asus-desktop-ai-supercomputers/",
+    "pass": 3
+   },
+   {
+    "quote": "Israel / עברית",
+    "url": "https://www.asus.com/il/content/asus-desktop-ai-supercomputers/",
+    "pass": 3
+   },
+   {
+    "quote": "Israel",
+    "url": "https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/",
+    "pass": 3
+   },
+   {
+    "quote": "Israel",
+    "url": "https://www.nvidia.com/ja-jp/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、GoogleやMeta、Microsoft、Hugging Faceといった大手企業がすでにこの製品を受け取っており、NVIDIA CEOのジェンセン・フアンは、イーロン・マスクにも自らSpaceXの本社まで届けたそうです",
+    "url": "https://note.com/ai_curator/n/n07d046b3e167",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "RTX PRO Desktop GPUs",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "RTX PRO Laptop GPUs",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate creative workflows with tuned GPUs and optimized studio apps",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Enhance enterprise workflows with robust drivers, tools, and GPU control",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Fine-tune AI models up to 70 billion parameters.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Improve pre-trained model performance by fine-tuning on DGX Spark. With up to 128 GB of unified system memory, fine-tune models up to 70 billion parameters to customize AI models and solutions for specific needs and use cases.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Test, validate, and inference with AI models up to 200 billion parameters.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 100B parameters",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 200B parameters",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 400B parameters",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 700B parameters",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Local AI is a full-stack platform for building and running AI privately on DGX Spark and NVIDIA GPUs: optimized models, accelerated inference backends, agentic frameworks, and developer tools—all running locally on your desk, with no data leaving your machine, so you can experiment, build, and deploy AI faster than ever.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark users can register free of charge for the NVIDIA Developer Program to get access to NGC including additional SDKs, toolkits, trained models, and workflows.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "2 TDP: Thermal Design Power of the GB10 chip, including CPU and GPU",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "d) Operating mode, max GPU stress in 25°C ambient.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Embedded GPUs",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Data Center GPUs",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Virtual GPU",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "Multi Instance GPU",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "Pro GPU Configurator",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "Legacy NVIDIA Data Center GPUs",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GPU, CPU, Networking, and AI Software Technologies",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "Run AI development and testing workloads with AI models up to 200 billion parameters at your desktop with large, unified system memory.",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "High-performance NVIDIA Connect-X networking enables connecting two NVIDIA DGX Spark systems together to work with AI models up to 405 billion parameters.",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA RTX Professional GPUs",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "2 TDP: Thermal Design Power of the GB10 chip including CPU and GPU",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "The NVIDIA Grace Blackwell architecture delivers a powerful system-on-a-chip (SoC) solution combining NVIDIA Blackwell GPU technology with Arm CPU cores to deliver supercomputer level performance in an efficient, compact SoC.",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "Blackwell GPU",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "The GB10 Blackwell GPU provides 6144 CUDA Cores to accelerate graphics and FP32 compute workloads, 5th generation Tensor cores that provide up to 1,000 AI TOPS",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "Theoretical FP4 TOPS performance using sparsity feature of FP4 performance, and 4th generation RT cores that provide real time ray tracing acceleration. The GPU also includes 5th generation NVDEC and 9th generation NVENC engines for accelerated encoding and decoding of MPEG-2, VC-1, H.264 (AVCHD), H.265 (HEVC), VP8, VP9, and AV1 video formats, including support for 4:2:2 H.264 and H.265 video.",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "SHOP BLACKWELL GPUS, ECC RAM, AND MORE: SEE ALL AI PC COMPONENTS HERE",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "AI GPUs",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "MSI XpertStation WS300 AI Workstation NVIDIA GB300 Grace 72 Core CPU 496GB LPDDR5X RAM Blackwell GPU 252GB HBM3E 2x 400 Gb/s QSFP ports 1x 10 Gb/s LAN port 4x M.2 slots Single 1600W PSU",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "Gigabyte W775-V10-L01 AI Workstation NVIDIA GB300 Grace 72 Core CPU 496GB LPDDR5X RAM Blackwell GPU 252GB HBM3E 2x 400 Gb/s QSFP ports 1x 10 Gb/s LAN port 4x M.2 slots Single 1600W PSU",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "ASUS ExpertCenter Pro ET900N G3-2SSD-V2 G3 AIWorkstation NVIDIA GB300 Grace 72 Core CPU 496GB LPDDR5X RAM Blackwell GPU 252GB HBM3E 2x 400 Gb/s QSFP ports 1x 10 Gb/s LAN port 4x M.2 slots 1600W PSU",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "Lenovo 30KL0002US ThinkStation PGX Workstation NVIDIA Grace Blackwell GB10 128GB RAM 1TB SSD NVIDIA DGX OS Blackwell GPU WiFi 7 2x2 BE BT 5.3 NVIDIA ConnectX7 Smart NIC 240W 1YR Premier NBD",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The best private AI server for most organizations is a turnkey system that arrives with its inference software installed. Iternal Turnkey AI pairs GPU or Intel Xeon hardware with the AirgapAI application and the Blockify accuracy engine; NVIDIA, Dell, HPE, Lenovo, Supermicro and Cisco supply the underlying platforms.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "GPU platform",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The GPU or Xeon configuration behind each system, the scale it is built to serve, what software ships installed, and where a price is published.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA RTX 4090 or A100 GPUs, or Intel Xeon CPUs via AirgapAI Edge (Intel AMX, OpenVINO, llama.cpp)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "8x Blackwell B200, 1,440 GB GPU memory, 10U chassis, 5th-gen NVLink",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "PowerRack rack-scale systems and PowerEdge XE-series nodes with NVIDIA GPUs",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Scales to 128 GPUs with network expansion racks; air-gapped configuration available",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "72 NVIDIA B300 GPUs per 42U/48U/52U rack; liquid-cooled 256- and 768-GPU scalable units",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "UCS C845A/C885A M8 compute, 32 to 128+ GPUs, Nexus 9000 networking up to 800G",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Foundational GPU Platform",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Runs on GPUs (RTX 4090/A100) or entirely on Intel Xeon CPUs via AirgapAI Edge; ships with 2,800+ preconfigured workflows",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "on Monday unveiled a deskside supercomputer powerful enough to run AI models with up to one trillion parameters — roughly the scale of GPT-4 — without touching the cloud. The machine, called the",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "pass": 3
+   },
+   {
+    "quote": ", which fuses a 72-core Grace CPU and a Blackwell Ultra GPU through Nvidia's NVLink-C2C interconnect. That link provides 1.8 terabytes per second of coherent bandwidth between the two processors — seven times the speed of PCIe Gen 6 — which means the CPU and GPU share a single, seamless pool of memory without the bottlenecks that typically cripple desktop AI work.",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "pass": 3
+   },
+   {
+    "quote": "joining later in the year. Nvidia hasn't disclosed pricing, but the GB300 components and the company's historical DGX pricing suggest a six-figure investment — expensive by workstation standards, but remarkably cheap compared to the cloud GPU costs of running trillion-parameter inference at scale.",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "pass": 3
+   },
+   {
+    "quote": "— seven new chips in full production — anchored by the Vera Rubin NVL72 rack, which integrates 72 next-generation Rubin GPUs and claims up to 10x higher inference throughput per watt compared to the current Blackwell generation. The",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "pass": 3
+   },
+   {
+    "quote": "For the past several years, the default assumption in AI has been that serious work requires cloud GPU instances — renting Nvidia hardware from",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "pass": 3
+   },
+   {
+    "quote": ", a personal AI supercomputer featuring the company’s new GB10 Grace Blackwell Superchip. The system, which starts at USD 3,000 and launches in May, can run AI models with up to 200 billion parameters and delivers a petaflop of AI computing performance.",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "The desktop device packs 128 GB of unified memory and up to 4 TB of storage, targeting companies needing instant data processing without cloud delays. Two systems can link together to handle models of up to 405 billion parameters.",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": ", letting users develop locally and then deploy to cloud or data center infrastructure. Manufacturing facilities can implement \"real-time monitoring, predictive maintenance and process optimization powered by edge computing,\" says",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "The price reductions suggest technical advances. \"GPU design is largely defined and is not being aggressively optimized for performance, energy and cost,\" Lee says. It’s possible, however, that NVIDIA has reached that point \"much earlier than other chip designers, allowing it to compete on both performance and cost,\" Lee says.",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "Connect to your DGX Spark from your laptop or desktop and monitor system status, launch Cursor, VS Code, or AI Workbench remotely, and configure up to four devices into a high-speed multi-node cluster. Install the latest software updates to get the most out of your system.",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "4x USB TypeC",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "1x HDMI 2.1a, Up to 3x DisplayPort over USB-C (DP Alt Mode)",
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "USB Flash Drives",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "Type-C USB Flash Drives",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "4x USB Type C",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to receive exclusive updates, virtual events, and insights on NVIDIA IGX Orin and advancements in Edge AI.",
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "pass": 3
+   },
+   {
+    "quote": "USB C Video Adapters",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB C Video Cables",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB Cables",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB 2.0 A",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB 2.0 A to B",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB Extension Cables",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB 2.0 Adapters",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB 2.0 A-M to A-F",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB 2.0 A-M to A-M",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB 2.0 Micro",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB 2.0 Mini",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB 3.0 Adapters",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB 3.0 A",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB 3.0 A to B",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "USB Multifunction Cables",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated: June 5, 2026",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": ", and Nvidia's own Nemotron models, among others. The DGX Station is model-agnostic by design — a hardware Switzerland in an industry where model allegiances shift quarterly.",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "pass": 3
+   },
+   {
+    "quote": "USB Blocking Software",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "updated on",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "At Advancing AI 2026 AMD committed to a fixed six-week feature-release cadence in place of its previous roughly quarterly cycle.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "From January 2026, Blackhole p150 cards ship with 120 active Tensix cores, reduced from 140, and firmware release v19.5.0 applied the same reduction retroactively to cards sold. Tenstorrent puts the cost at 1-2% on typical workloads.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated:",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "39 updates",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Updated SambaNova Systems' funding, product, and collaboration details.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Broadcom Inc. Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend | Broadcom Inc.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "DGX OS の新アップデートが配信されました",
+    "url": "https://www.nvidia.com/ja-jp/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "4x USB TypeC",
+    "url": "https://www.nvidia.com/ja-jp/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "1x HDMI 2.1a、最大 3x USB-C 経由の DisplayPort (DP Alt モード)",
+    "url": "https://www.nvidia.com/ja-jp/products/workstations/dgx-spark/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、4TBのNVMeストレージ、Wi-Fi 7対応、4つのUSB-Cポート、HDMIコネクタを備えており、標準的な家庭用コンセントで動作します",
+    "url": "https://note.com/ai_curator/n/n07d046b3e167",
+    "pass": 3
+   }
+  ],
+  "提供企業・製品名": [
+   {
+    "quote": "AI Startup",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business 2026",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Appliances",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Turnkey AI Servers & AI Appliances for Business (2026)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "private AI appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "— ships the complete appliance: hardware plus the AirgapAI local inference app plus the Blockify accuracy engine, all preconfigured and deployable in weeks. Read on for the full comparison and where each option fits best.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Private AI Appliance Comparison",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Complete appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "LLM appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Server or appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated appliance or on-premise install",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": ", then set that result against a complete appliance such as",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Complete Appliance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": ", a personal AI supercomputer featuring the company’s new GB10 Grace Blackwell Superchip. The system, which starts at USD 3,000 and launches in May, can run AI models with up to 200 billion parameters and delivers a petaflop of AI computing performance.",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Residential Proxy Providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Proxy Providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud GPU Providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA also offers DGX Cloud services. Its DGX Cloud Lepton marketplace connects developers with GPU cloud providers including CoreWeave, Lambda and Crusoe.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "AMD launched MI300 for AI training workloads in June 2023 and is competing with NVIDIA for market share. Startups, enterprises and tech giants adopted AMD hardware in 2023, when NVIDIA hardware was difficult to procure amid the generative AI boom triggered by the launch of",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, AMD acquired a team of AI hardware and software engineers from Untether AI along with compiler startup Brium. In June 2026 AMD announced the acquisition of MEXT, whose predictive-memory technology is designed to make flash behave more like DRAM and cut data center memory cost.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "The AI250 introduces a near-memory computing architecture that Qualcomm says delivers 133 TB/s of effective memory bandwidth per card, 18 times the AI200. This is a vendor roadmap specification. Both racks use direct liquid cooling, and Qualcomm now specifies a 140 kW OCP ORv3-compliant rack.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Specialist AI accelerators and inference providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Cerebras’ system works with pharmaceutical companies such as AstraZeneca and GlaxoSmithKline and research labs that rely on it for simulations. It also targets LLM makers since its chips can lower inference costs for frontier models.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Rebellions is a Korea-based startup focused on LLM inference. It merged with another Korean semiconductor design firm, SAPEON.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "(available now): A technology demonstrator hard-wired with Llama 3.1 8B, built on TSMC 6nm with 53 billion transistors. Taalas claims 17,000 tokens per second per user in a 2.5 kW air-cooled server. However, the model uses aggressive custom 3-bit and 6-bit quantization, which introduces quality degradations compared to GPU baselines.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "5 mobile AI chip providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": ": The vendors in the edge table above covered one by one, with the use cases each part targets.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud GPU providers",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": ": 60+ providers that rent the accelerators covered here by the hour, for teams that do not buy hardware.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors",
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Vendors",
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "pass": 3
+   },
+   {
+    "quote": "ELSA JAPAN Inc. (Est. 1997) is a leading Japanese distributor of NVIDIA professional and consumer GPUs and cutting-edge AI computing platforms. Based on computer graphics and multimedia technology, ELSA JAPAN partners with world-class vendors to deliver optimal GPU and AI products to the Japanese market.",
+    "url": "https://www.parallel-networks.com/elsa.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI Startup",
+    "url": "https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$11,849.93",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$5,899.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$3,749.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$4,349.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$3,349.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$4,749.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$5,949.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$7,499.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$79.95",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$99,999.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$111,999.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$14,999.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "$7,999.99",
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual license from $697 one-time per user",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark around $4,699 MSRP; GB300 price not published by Dell",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Custom (from $697/user)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal-published 4-year TCO ~$50K vs $2M+ (Azure OpenAI Disconnected) / $20M+ (Palantir AIP)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dell has not published an official GB300 price; a comparable MSI XpertStation WS300 was listed by CDW at ~$97K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual licensing starts from $697 one-time per user. Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected and $20M+ for Palantir AIP.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "$5M in 12 months",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "joining later in the year. Nvidia hasn't disclosed pricing, but the GB300 components and the company's historical DGX pricing suggest a six-figure investment — expensive by workstation standards, but remarkably cheap compared to the cloud GPU costs of running trillion-parameter inference at scale.",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "pass": 3
+   },
+   {
+    "quote": ", a personal AI supercomputer featuring the company’s new GB10 Grace Blackwell Superchip. The system, which starts at USD 3,000 and launches in May, can run AI models with up to 200 billion parameters and delivers a petaflop of AI computing performance.",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "USD 700 million Run AI acquisition",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Price cuts rippled across product lines. \"Last year, the 40 series of their chips used to be USD 1,600,\" Varshney says. “They just released an equal compute for USD 550.”",
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "pass": 3
+   },
+   {
+    "quote": "On September 30, HPE announced a $1.2 billion Vultr order for Helios racks, each with 72 MI455X GPUs. The announcement described planned deployment at Vultr’s US data centers.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "It has also tied equity to its largest commitments, issuing OpenAI and Meta each a performance-based warrant for up to 160 million shares at $0.01, vesting against Instinct shipment milestones.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Intel targeted $500 million in Gaudi revenue for 2024 and abandoned the target on its third-quarter earnings call on October 31, 2024. At CES 2026 it conceded that Gaudi “did not meet the needs of the frontier AI training market.”",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Groq stated that it continues as an independent company. CNBC put the transaction at a reported ~$20 billion in cash, which would make it NVIDIA’s largest to date, a figure attributed to Alex Davis, CEO of Groq investor Disruptive, who also said NVIDIA acquires all of Groq’s assets except the GroqCloud business.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Its Dammam data center, built with Aramco Digital, sits behind a $1.5 billion Saudi investment commitment announced in February 2025.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "On August 17, 2026, Groq LLC announced a $350 million Series A at a $3.5 billion valuation, led by Disruptive with planned participation from NVIDIA. The release calls the June and August rounds $1 billion of recent funding, while stating that the Series A remains subject to customary closing conditions.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "SambaNova develops Reconfigurable Data Units (RDUs) and offers inference through SambaCloud. It completed the first close of a $1 billion Series F at an $11 billion valuation on July 8, 2026.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Cerebras has traded on Nasdaq under the ticker CBRS since May 14, 2026, after an IPO that raised about $6.38 billion in gross proceeds.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "In its August 12 Q2 results, Cerebras raised its FY2026 core revenue forecast to $880-890 million.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "It signed a 750 MW inference agreement with OpenAI on January 14, 2026 that its own Q1 release values at more than $20 billion.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Total funding is about $850 million.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "The P150a card is priced at $1,399 and features four QSFP-DD 800G ports for multi-card scaling. The entry-level P100a model starts at $999.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Tenstorrent offers a fully open-source software stack. The company raised $700 million in December 2024.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Under $10,000",
+    "url": "https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/",
+    "pass": 3
+   },
+   {
+    "quote": "$10,000 – $25,000",
+    "url": "https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/",
+    "pass": 3
+   },
+   {
+    "quote": "$25,000 – $50,000",
+    "url": "https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/",
+    "pass": 3
+   },
+   {
+    "quote": "$50,000 – $100,000",
+    "url": "https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/",
+    "pass": 3
+   },
+   {
+    "quote": "$100,000+",
+    "url": "https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/",
+    "pass": 3
+   },
+   {
+    "quote": "わずか3,999ドル（約58万円）で、これまでデータセンターでしか扱えなかったような強力なAI処理能力を、デスクトップで実現できるようになったのです",
+    "url": "https://note.com/ai_curator/n/n07d046b3e167",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA starts selling its $3,999 DGX Spark AI developer PC",
+    "url": "https://note.com/ai_curator/n/n07d046b3e167",
+    "pass": 3
+   },
+   {
+    "quote": "〇NVIDIA starts selling its $3,999 DGX Spark AI developer PC（2025年10月14日）",
+    "url": "https://note.com/ai_curator/n/n07d046b3e167",
+    "pass": 3
+   },
+   {
+    "quote": "〇Nvidia's $3k AI mini PC is a glimpse of what's next for Windows PCs（2025年4月30日）",
+    "url": "https://note.com/ai_curator/n/n07d046b3e167",
+    "pass": 3
+   },
+   {
+    "quote": "Nvidia's tiny $3k AI mini PC is a glimpse of what's next for Windows PCs",
+    "url": "https://note.com/ai_curator/n/n07d046b3e167",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "Local, air-gapped LLM chat for classified environments.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "On-Prem Hardware Sizing",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How to Deploy LLMs On-Premise",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "on-premise AI servers",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "air-gapped AI",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How the leading on-prem and turnkey AI platforms compare at a glance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best Private AI Servers: On-Premise, Turnkey and Plug-and-Play Compared",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Scales to 128 GPUs with network expansion racks; air-gapped configuration available",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Distributed edge sites plus on-premise inference",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated appliance or on-premise install",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Eleven leading on-premise, air-gapped, and turnkey AI platforms — evaluated on performance, security, and speed-to-production for business buyers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "100% local, air-gapped inference (AirgapAI) — no network required; SCIF-approved and nuclear-facility-certified per Iternal",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "The foundational platform for serious on-prem AI training and inference",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A third family member, the MI440X, was introduced at CES 2026 on January 5, 2026 for on-premises enterprise AI in a compact, eight-GPU form factor, and AMD has published no specifications for it since.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Enable secure, offline and cost-effective AI innovation.",
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "r/StableDiffusion - Nvidia's $3000 'Personal AI Supercomputer ... — r/StableDiffusion - Nvidia's $3000 'Personal AI Supercomputer ... Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1hvjs0h/nvidias_3000_personal_ai_supercomputer_comes_with/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://marketplace.nvidia.com/en-us/enterprise/personal-ai-supercomputers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asus.com/us/content/asus-desktop-ai-supercomputers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Futurology/comments/1ttt9g4/nvidia_unveils_worlds_most_powerful_desktop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/gadgets/comments/1jellhn/nvidia_announces_dgx_desktop_personal_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.techzine.eu/blogs/devices/127585/nvidia-announces-an-ai-supercomputer-for-your-desktop/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AISEOInsider/comments/1wch0lp/nvidia_just_turned_your_home_devices_into_an_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.asus.com/us/business/blog/asus-with-university-of-toronto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1hvjs0h/nvidias_3000_personal_ai_supercomputer_comes_with/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hp.com/us-en/workstations/zgx-nano-ai-station.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.ycombinator.com/item?id=43534635",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.forbes.com/sites/janakirammsv/2025/10/17/nvidia-packs-data-center-ai-into-a-desktop-box/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ibm.com/think/news/ces-ai-highlights-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crn.com/news/components-peripherals/ai-chip-startup-cerebras-systems-raises-88-million-series-d-round",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/hardware/comments/1hxjo08/nvidias_3000_mini_ai_supercomputer_draws_scorn/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://siliconangle.com/2025/07/30/data-center-hardware-startup-oxide-computer-raises-100m/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hoodline.com/2026/09/go-ai-lands-85m-series-a-bets-on-prem-hardware-wins-over-banks-hospitals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nbkomputer.com/dgx-spark-nvidias-desktop-supercomputer-til-on-prem-ai-er-blevet/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.adreamertech.com/NewsDetail/7627845.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/en-us/shop/campaign/lp/nvidia-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us-store.msi.com/MSI-EdgeXpert-Blackwell-AI-Supercomputer?srsltid=AYCX9vKAHLvZTWFJ-afzUtTpim6--AKKJY_VeUOYDDiWRVsNsyK4-1DA",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://leanware.co/insights/white-label-ai-software-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calcalistech.com/ctechnews/article/bjp8qh9hwl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datacenterdynamics.com/en/news/first-phase-of-israels-nvidia-b200-powered-national-ai-supercomputer-goes-live/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asus.com/il/content/asus-desktop-ai-supercomputers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/NBIS_Stock/comments/1qryq4e/nebius_wins_israel_ai_supercomputer_role_and/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://innovationisrael.org.il/en/press_release/supercomputer-access-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpost.com/defense-and-tech/article-883855",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.parallel-networks.com/elsa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nec.com/en/global/techrep/journal/g23/n02/230213.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.supermicro.com/news/news-details/2022/NEC-Selects-Supermicro-GPU-Systems-for-One-of-Japans-Largest-Supercomputers-for-Advanced-AI-Research/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Fugaku_(supercomputer)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.com/news/881f9c64-c1a4-4af1-a3ca-fde233b78c19",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nvidia.com/ja-jp/products/workstations/dgx-spark/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.kakaku.com/AI%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_curator/n/n07d046b3e167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibm.com/jp-ja/think/news/ces-ai-highlights-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.elsa-jp.jp/view/category/ct333?srsltid=AYCX9vL5-ulAjE-5DainOaMixTrxZg6fPxaNTTgywdJ88r2pqZb3M4NE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pc.watch.impress.co.jp/docs/news/2114136.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "desktop AI supercomputer",
+   "results": [
+    "https://marketplace.nvidia.com/en-us/enterprise/personal-ai-supercomputers/",
+    "https://www.asus.com/us/content/asus-desktop-ai-supercomputers/",
+    "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "https://www.reddit.com/r/Futurology/comments/1ttt9g4/nvidia_unveils_worlds_most_powerful_desktop/",
+    "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv",
+    "https://aaawave.com/collections/ai-computer?srsltid=AYCX9vJpvVjswsbWsd6mPS7sZY2M97ZtN42KhD9Z7keQhEhGGtdzuN9f",
+    "https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/",
+    "https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/",
+    "https://www.nvidia.com/en-us/products/workstations/dgx-station/"
+   ]
+  },
+  {
+   "query": "desktop AI supercomputer on-premise LLM appliance company",
+   "results": [
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "https://www.reddit.com/r/gadgets/comments/1jellhn/nvidia_announces_dgx_desktop_personal_ai/",
+    "https://www.facebook.com/PCMag/posts/ready-to-build-this-lunchbox-sized-supercomputer-runs-tests-and-fine-tunes-small/1462696952396766/",
+    "https://www.techzine.eu/blogs/devices/127585/nvidia-announces-an-ai-supercomputer-for-your-desktop/",
+    "https://www.reddit.com/r/AISEOInsider/comments/1wch0lp/nvidia_just_turned_your_home_devices_into_an_ai/",
+    "https://www.asus.com/us/business/blog/asus-with-university-of-toronto/",
+    "https://llmappliance.com/platform-overview.html",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "desktop AI supercomputer air-gapped AI box price",
+   "results": [
+    "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "https://www.youtube.com/watch?v=FYL9e_aqZY0&vl=ja",
+    "https://www.reddit.com/r/StableDiffusion/comments/1hvjs0h/nvidias_3000_personal_ai_supercomputer_comes_with/",
+    "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
+    "https://www.hp.com/us-en/workstations/zgx-nano-ai-station.html",
+    "https://news.ycombinator.com/item?id=43534635",
+    "https://www.forbes.com/sites/janakirammsv/2025/10/17/nvidia-packs-data-center-ai-into-a-desktop-box/",
+    "https://www.ibm.com/think/news/ces-ai-highlights-2025"
+   ]
+  },
+  {
+   "query": "desktop AI supercomputer startup raises on-prem AI hardware",
+   "results": [
+    "https://www.facebook.com/interestingengineering/posts/a-startup-founded-by-a-team-including-two-19-year-olds-has-raised-an-11-million-/1564445965726835/",
+    "https://www.youtube.com/watch?v=FYL9e_aqZY0&vl=ja",
+    "https://www.linkedin.com/posts/rorymack_a-two-month-old-ai-startup-just-raised-475m-activity-7404145134113546240-HzRV",
+    "https://marketplace.nvidia.com/en-us/enterprise/personal-ai-supercomputers/",
+    "https://www.crn.com/news/components-peripherals/ai-chip-startup-cerebras-systems-raises-88-million-series-d-round",
+    "https://www.reddit.com/r/hardware/comments/1hxjo08/nvidias_3000_mini_ai_supercomputer_draws_scorn/",
+    "https://siliconangle.com/2025/07/30/data-center-hardware-startup-oxide-computer-raises-100m/",
+    "https://aimultiple.com/ai-chip-makers",
+    "https://www.youtube.com/watch?v=6g9CmFAoi0U",
+    "https://hoodline.com/2026/09/go-ai-lands-85m-series-a-bets-on-prem-hardware-wins-over-banks-hospitals/"
+   ]
+  },
+  {
+   "query": "desktop AI supercomputer white label OEM reseller",
+   "results": [
+    "https://www.adreamertech.com/NewsDetail/7627845.html",
+    "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "https://www.dell.com/en-us/shop/campaign/lp/nvidia-ai",
+    "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping",
+    "https://www.tdsynnex.com/na/us/nvidia/workstations/",
+    "https://www.youtube.com/watch?v=FYL9e_aqZY0&vl=ja",
+    "https://us-store.msi.com/MSI-EdgeXpert-Blackwell-AI-Supercomputer?srsltid=AYCX9vKAHLvZTWFJ-afzUtTpim6--AKKJY_VeUOYDDiWRVsNsyK4-1DA",
+    "https://www.facebook.com/Dexerto/posts/an-it-company-has-listed-a-300-rack-ai-supercomputer-on-ebay-for-60-million-with/1734520552006917/",
+    "https://leanware.co/insights/white-label-ai-software-complete-guide"
+   ]
+  },
+  {
+   "query": "desktop AI supercomputer Israel",
+   "results": [
+    "https://www.calcalistech.com/ctechnews/article/bjp8qh9hwl",
+    "https://www.youtube.com/watch?v=br7i_Z8xLAc",
+    "https://www.datacenterdynamics.com/en/news/first-phase-of-israels-nvidia-b200-powered-national-ai-supercomputer-goes-live/",
+    "https://www.asus.com/il/content/asus-desktop-ai-supercomputers/",
+    "https://www.reddit.com/r/NBIS_Stock/comments/1qryq4e/nebius_wins_israel_ai_supercomputer_role_and/",
+    "https://innovationisrael.org.il/en/press_release/supercomputer-access-2026/",
+    "https://www.jpost.com/defense-and-tech/article-883855",
+    "https://finance.yahoo.com/news/nebius-group-wins-israel-ai-011024597.html",
+    "https://marketplace.nvidia.com/en-us/enterprise/personal-ai-supercomputers/",
+    "https://innovationisrael.org.il/en/press_release/nebius-to-establish-supercomputer/"
+   ]
+  },
+  {
+   "query": "desktop AI supercomputer Japan distributor",
+   "results": [
+    "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+    "https://www.parallel-networks.com/elsa.html",
+    "https://www.nec.com/en/global/techrep/journal/g23/n02/230213.html",
+    "https://ir.supermicro.com/news/news-details/2022/NEC-Selects-Supermicro-GPU-Systems-for-One-of-Japans-Largest-Supercomputers-for-Advanced-AI-Research/default.aspx",
+    "https://www.reddit.com/r/Futurology/comments/1ttt9g4/nvidia_unveils_worlds_most_powerful_desktop/",
+    "https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer",
+    "https://www.youtube.com/watch?v=FYL9e_aqZY0&vl=ja",
+    "https://en.wikipedia.org/wiki/Fugaku_(supercomputer)",
+    "https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/",
+    "https://finance.biggo.com/news/881f9c64-c1a4-4af1-a3ca-fde233b78c19"
+   ]
+  },
+  {
+   "query": "デスクトップ型AIスーパーコンピュータ",
+   "results": [
+    "https://www.nvidia.com/ja-jp/products/workstations/dgx-spark/",
+    "https://search.kakaku.com/AI%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/",
+    "https://note.com/ai_curator/n/n07d046b3e167",
+    "https://www.ibm.com/jp-ja/think/news/ces-ai-highlights-2025",
+    "https://shop.elsa-jp.jp/view/category/ct333?srsltid=AYCX9vL5-ulAjE-5DainOaMixTrxZg6fPxaNTTgywdJ88r2pqZb3M4NE",
+    "https://pc.watch.impress.co.jp/docs/news/2114136.html",
+    "https://www.itmedia.co.jp/pcuser/articles/2507/07/news084.html",
+    "https://www.ask-corp.jp/products/ai-supercomputer.html",
+    "https://www.reddit.com/r/Futurology/comments/1ttt9g4/nvidia_unveils_worlds_most_powerful_desktop/?tl=ja",
+    "https://shop.applied-net.co.jp/html/page532.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

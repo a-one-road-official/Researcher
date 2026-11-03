@@ -1,0 +1,756 @@
+# オンプレのAI端末（ハードウェア型・ネットから切り離して動くLLM箱）— 提供企業と条件（事実のみ・14品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## AI in a Box（箱型オンプレLLM）（AI in a box on-premise device）
+- 文脈：汎用
+- 提供企業・製品名：
+  - 「The NVIDIA GB300 has arrived, and the first appliance is already shipped and live at a client site.」（https://understand.tech/product/ai-in-a-box）
+  - 「Unbox the appliance」（https://understand.tech/product/ai-in-a-box）
+  - 「Data-center class NVIDIA Grace Blackwell platforms, delivered as a sovereign, on-premise, air-gapped appliance. Two form factors, sized for teams or full organizations.」（https://understand.tech/product/ai-in-a-box）
+  - 「NVIDIA-Certified GPU Appliance」（https://understand.tech/product/ai-in-a-box）
+  - 「We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.」（https://understand.tech/product/ai-in-a-box）
+  - 「The appliance」（https://understand.tech/product/ai-in-a-box）
+  - 「Incirt runs knowledge assistants entirely on the appliance: no token costs, no per-seat metering, and intellectual property that never leaves the perimeter.」（https://understand.tech/product/ai-in-a-box）
+  - 「Coding agents running fully on the appliance, with no token limits.」（https://understand.tech/product/ai-in-a-box）
+  - 「All-inclusive: appliance, platform license, models, updates and support.」（https://understand.tech/product/ai-in-a-box）
+  - 「NVIDIA GB10 · compact desktop appliance」（https://understand.tech/product/ai-in-a-box）
+  - 「Hybrid setup: add your own API keys for external providers, or run fully local with no outbound calls」（https://understand.tech/product/ai-in-a-box）
+  - 「SSO-ready: integrates with enterprise identity providers when enabled」（https://understand.tech/product/ai-in-a-box）
+  - 「Does it support enterprise identity providers (SSO)?」（https://understand.tech/product/ai-in-a-box）
+  - 「Can we mix local models and external providers?」（https://understand.tech/product/ai-in-a-box）
+  - 「From cloud to AI in a Box: the recipe behind the 88%」（https://understand.tech/product/ai-in-a-box）
+- 国・所在地：
+  - 「Israel」（https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx）
+  - 「Israel」（https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html）
+- 価格：
+  - 「$25,000」（https://understand.tech/product/ai-in-a-box）
+  - 「€75,000」（https://understand.tech/product/ai-in-a-box）
+  - 「€25,000 / year」（https://understand.tech/product/ai-in-a-box）
+  - 「European market rates. GB300 starts at €150,000 per year and is confirmed by quote depending on configuration.」（https://understand.tech/product/ai-in-a-box）
+  - 「from $150,000」（https://understand.tech/product/ai-in-a-box）
+  - 「We moved our AI workloads off the cloud and cut costs by 88%. Here's when enterprises should do the same.」（https://understand.tech/product/ai-in-a-box）
+  - 「The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.」（https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx）
+  - 「Lemony has raised $2 million in seed funding led by True Ventures. For more information, visit the」（https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx）
+  - 「Gartner's 2026 Magic Quadrant for Enterprise Storage Platforms reflects a broad infrastructure shift driven by hypervisor changes, cloud-style consumption economics, surging hardware costs, and AI.」（https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx）
+  - 「8 Ways to Cut IT Costs and Improve ROI」（https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx）
+  - 「Lemony is venture capital-backed and has raised $2 million in seed capital from VC firm True Ventures LP.」（https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/）
+  - 「VCs bet $30M on Larridin's ability to help enterprises demonstrate AI's value for money」（https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/）
+  - 「Robotics startup Tutor Intelligence nabs $75M investment」（https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/）
+  - 「Lemony Launches cascadeflow: Cuts Costs By Up To 85% By Automatically Finding The Best and Least Expensive Language Model To Optimize Every Prompt, Agent Call and Query」（https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html）
+  - 「東京都渋谷区円山町28-4」（https://forcenet.jp/local-ai-box/）
+- 利用人数・性能：
+  - 「users at once」（https://understand.tech/product/ai-in-a-box）
+  - 「72-core Grace CPU (Arm Neoverse) · up to 8 TB/s GPU bandwidth」（https://understand.tech/product/ai-in-a-box）
+  - 「500+ concurrent users」（https://understand.tech/product/ai-in-a-box）
+  - 「GPU memory」（https://understand.tech/product/ai-in-a-box）
+  - 「Up to 8 TB/s (GPU)」（https://understand.tech/product/ai-in-a-box）
+  - 「Up to ~1 T parameters」（https://understand.tech/product/ai-in-a-box）
+  - 「Concurrent users」（https://understand.tech/product/ai-in-a-box）
+  - 「based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.」（https://understand.tech/product/ai-in-a-box）
+  - 「NVIDIA-Certified GPU Appliance」（https://understand.tech/product/ai-in-a-box）
+  - 「GPU-Accelerated Local Inference」（https://understand.tech/product/ai-in-a-box）
+  - 「Unlimited usage, no token or GPU metering」（https://understand.tech/product/ai-in-a-box）
+  - 「Self-hosted stack deployed via Docker Compose on NVIDIA-class GPU system」（https://understand.tech/product/ai-in-a-box）
+  - 「Web UI (admin + end users)」（https://understand.tech/product/ai-in-a-box）
+  - 「LLM runtime with GPU acceleration」（https://understand.tech/product/ai-in-a-box）
+  - 「GB10: 128 GB unified memory. GB300: 784 GB coherent memory, models up to ~1T parameters」（https://understand.tech/product/ai-in-a-box）
+- オフライン・エアギャップ：
+  - 「On-Prem LLM Server on NVIDIA GB10 & GB300 | Understand Tech」（https://understand.tech/product/ai-in-a-box）
+  - 「Fully managed on-premise enterprise AI.」（https://understand.tech/product/ai-in-a-box）
+  - 「Deploy the Understand Tech platform on-premise (air-gapped ready) to run local LLMs, RAG, and workflows with enterprise governance, without cloud dependency.」（https://understand.tech/product/ai-in-a-box）
+  - 「Runs fully on-premise (air-gapped / network-restricted)」（https://understand.tech/product/ai-in-a-box）
+  - 「Offline updates and security patches (validated releases)」（https://understand.tech/product/ai-in-a-box）
+  - 「On-premise enterprise AI, running inside your own building.」（https://understand.tech/product/ai-in-a-box）
+  - 「No cloud dependency. No token limits.」（https://understand.tech/product/ai-in-a-box）
+  - 「Data-center class NVIDIA Grace Blackwell platforms, delivered as a sovereign, on-premise, air-gapped appliance. Two form factors, sized for teams or full organizations.」（https://understand.tech/product/ai-in-a-box）
+  - 「100% offline / air-gapped capable」（https://understand.tech/product/ai-in-a-box）
+  - 「We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.」（https://understand.tech/product/ai-in-a-box）
+  - 「Compare building your own on-premise AI stack from scratch versus deploying AI-in-a-Box.」（https://understand.tech/product/ai-in-a-box）
+  - 「Signed air-gapped updates, vendor SLA.」（https://understand.tech/product/ai-in-a-box）
+  - 「See how on-premise compares to cloud-only solutions.」（https://understand.tech/product/ai-in-a-box）
+  - 「On-premise deployment」（https://understand.tech/product/ai-in-a-box）
+  - 「Air-gapped / offline」（https://understand.tech/product/ai-in-a-box）
+- 更新方法：
+  - 「Offline updates and security patches (validated releases)」（https://understand.tech/product/ai-in-a-box）
+  - 「OTA Updates & Patch Management」（https://understand.tech/product/ai-in-a-box）
+  - 「We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.」（https://understand.tech/product/ai-in-a-box）
+  - 「OTA Update」（https://understand.tech/product/ai-in-a-box）
+  - 「Signed air-gapped updates, vendor SLA.」（https://understand.tech/product/ai-in-a-box）
+  - 「All-inclusive: appliance, platform license, models, updates and support.」（https://understand.tech/product/ai-in-a-box）
+  - 「Updates & Maintenance」（https://understand.tech/product/ai-in-a-box）
+  - 「Managed software lifecycle: updates, security patches, and platform health checks」（https://understand.tech/product/ai-in-a-box）
+  - 「Supports offline update workflows for air-gapped environments」（https://understand.tech/product/ai-in-a-box）
+  - 「AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.」（https://understand.tech/product/ai-in-a-box）
+  - 「Deployment, Operations, and Updates」（https://understand.tech/product/ai-in-a-box）
+  - 「How are updates delivered?」（https://understand.tech/product/ai-in-a-box）
+  - 「What is included in Update Services?」（https://understand.tech/product/ai-in-a-box）
+  - 「. If you don’t want to share your website activities, including browsing behavior, with our third-party partners via these tracking technologies, click on “Cookie Settings" button below to update your preferences. You can also update your cookie preferences at any time by clicking the "Cookie Settings" link at the bottom of this website.」（https://www.qualcomm.com/artificial-intelligence/edge-ai-box）
+  - 「Lemony said its approach is aimed at organizations reluctant to use cloud-based AI due to concerns over data privacy, compliance, and regulatory requirements. The nodes come preloaded with 16 open source models, including IBM's Granite family and Meta's Llama, and can be updated quarterly via a USB connection.」（https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx）
+- ホワイトラベル・再販：
+  - 「based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.」（https://understand.tech/product/ai-in-a-box）
+  - 「The smart city evolution is happening around the globe. Edge AI solutions help city managers in various ways, from traffic flow management to energy resource management, to increased operational efficiencies. Dynamic applications and solutions at the edge allow a city to manage and operate its assets using its data and insights to improve the quality of life for citizens and businesses.」（https://www.qualcomm.com/artificial-intelligence/edge-ai-box）
+  - 「Venezuela, Bolivarian Republic of」（https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx）
+  - 「Redmond Channel Partner」（https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx）
+  - 「The new offering also has the support of Charasoft Corp., a certified reseller and trusted provider to U.S. government agencies, who will sell Lemony’s AI nodes to its public sector and healthcare customers.」（https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/）
+  - 「OEM & White Label AI Video Analytics」（https://aisurveillancecamera.com/oem/）
+  - 「OEM & White Label」（https://aisurveillancecamera.com/oem/）
+  - 「OEM & white label AI video analytics」（https://aisurveillancecamera.com/oem/）
+  - 「White label isn’t a sticker. The options cover:」（https://aisurveillancecamera.com/oem/）
+  - 「This is the part most OEM conversations actually turn on, so we’ll state it plainly.」（https://aisurveillancecamera.com/oem/）
+  - 「If a question has an answer we can’t commit to yet, we say so. Guessing a certification date is how OEM relationships end.」（https://aisurveillancecamera.com/oem/）
+  - 「Two things decide whether an OEM programme survives its second year:」（https://aisurveillancecamera.com/oem/）
+  - 「Start an OEM conversation」（https://aisurveillancecamera.com/oem/）
+  - 「Request OEM terms」（https://aisurveillancecamera.com/oem/）
+  - 「, so OEM units drop into existing deployments without proprietary gateways.」（https://aisurveillancecamera.com/oem/）
+- 日本・保守：
+  - 「All-inclusive: hardware, platform, apps, support.」（https://understand.tech/product/ai-in-a-box）
+  - 「Deployment & Onboarding Support」（https://understand.tech/product/ai-in-a-box）
+  - 「Patches • Monitoring • Support」（https://understand.tech/product/ai-in-a-box）
+  - 「Hardware is a one-off cost. Software, maintenance and people are per year, multiplied by 3.」（https://understand.tech/product/ai-in-a-box）
+  - 「Maintenance」（https://understand.tech/product/ai-in-a-box）
+  - 「All-inclusive: appliance, platform license, models, updates and support.」（https://understand.tech/product/ai-in-a-box）
+  - 「Supported LLMs」（https://understand.tech/product/ai-in-a-box）
+  - 「Open-weight models supported: GPT-OSS-20B / 120B, Qwen3.8 (27B, Flash-Next), DeepSeek-V4-Flash, GLM-5.3-Flash」（https://understand.tech/product/ai-in-a-box）
+  - 「mDNS (understand.local) supported; corporate networks can use IP-based access」（https://understand.tech/product/ai-in-a-box）
+  - 「Multi-user support with concurrent usage (workers and services can be scaled)」（https://understand.tech/product/ai-in-a-box）
+  - 「Updates & Maintenance」（https://understand.tech/product/ai-in-a-box）
+  - 「Supports offline update workflows for air-gapped environments」（https://understand.tech/product/ai-in-a-box）
+  - 「Clear separation: Understand Tech provides software + support; customer operates infrastructure」（https://understand.tech/product/ai-in-a-box）
+  - 「Restore procedures supported (guided and manual)」（https://understand.tech/product/ai-in-a-box）
+  - 「Supports offsite copy workflows (customer-controlled)」（https://understand.tech/product/ai-in-a-box）
+
+## エアギャップ型LLMアプライアンス（air-gapped LLM appliance）
+- 文脈：汎用
+- 提供企業・製品名：
+  - 「Best Turnkey AI Servers & AI Appliances for Business 2026」（https://iternal.ai/best-private-ai-appliances）
+  - 「Best Private AI Appliances」（https://iternal.ai/best-private-ai-appliances）
+  - 「Best Turnkey AI Servers & AI Appliances for Business (2026)」（https://iternal.ai/best-private-ai-appliances）
+  - 「A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.」（https://iternal.ai/best-private-ai-appliances）
+  - 「private AI appliance」（https://iternal.ai/best-private-ai-appliances）
+  - 「This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.」（https://iternal.ai/best-private-ai-appliances）
+  - 「— ships the complete appliance: hardware plus the AirgapAI local inference app plus the Blockify accuracy engine, all preconfigured and deployable in weeks. Read on for the full comparison and where each option fits best.」（https://iternal.ai/best-private-ai-appliances）
+  - 「Private AI Appliance Comparison」（https://iternal.ai/best-private-ai-appliances）
+  - 「Complete appliance」（https://iternal.ai/best-private-ai-appliances）
+  - 「LLM appliance」（https://iternal.ai/best-private-ai-appliances）
+  - 「Server or appliance」（https://iternal.ai/best-private-ai-appliances）
+  - 「Dedicated appliance or on-premise install」（https://iternal.ai/best-private-ai-appliances）
+  - 「, then set that result against a complete appliance such as」（https://iternal.ai/best-private-ai-appliances）
+  - 「Best Complete Appliance」（https://iternal.ai/best-private-ai-appliances）
+  - 「The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.」（https://iternal.ai/best-private-ai-appliances）
+- 価格：
+  - 「Perpetual license from $697 one-time per user」（https://iternal.ai/best-private-ai-appliances）
+  - 「Roughly $300K-$500K per system (reseller estimates)」（https://iternal.ai/best-private-ai-appliances）
+  - 「DGX Spark around $4,699 MSRP; GB300 price not published by Dell」（https://iternal.ai/best-private-ai-appliances）
+  - 「Custom (from $697/user)」（https://iternal.ai/best-private-ai-appliances）
+  - 「Iternal-published 4-year TCO ~$50K vs $2M+ (Azure OpenAI Disconnected) / $20M+ (Palantir AIP)」（https://iternal.ai/best-private-ai-appliances）
+  - 「Reseller estimates place it at roughly $300K-$500K per system」（https://iternal.ai/best-private-ai-appliances）
+  - 「Significant CapEx; reseller estimates put systems at roughly $300K-$500K」（https://iternal.ai/best-private-ai-appliances）
+  - 「DGX Spark retails around ~$4,699 MSRP; street price varies」（https://iternal.ai/best-private-ai-appliances）
+  - 「Dell has not published an official GB300 price; a comparable MSI XpertStation WS300 was listed by CDW at ~$97K」（https://iternal.ai/best-private-ai-appliances）
+  - 「Perpetual licensing starts from $697 one-time per user. Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected and $20M+ for Palantir AIP.」（https://iternal.ai/best-private-ai-appliances）
+  - 「$5M in 12 months」（https://iternal.ai/best-private-ai-appliances）
+  - 「Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.」（https://iternal.ai/best-private-ai-appliances）
+- 利用人数・性能：
+  - 「A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.」（https://iternal.ai/best-private-ai-appliances）
+  - 「The best private AI server for most organizations is a turnkey system that arrives with its inference software installed. Iternal Turnkey AI pairs GPU or Intel Xeon hardware with the AirgapAI application and the Blockify accuracy engine; NVIDIA, Dell, HPE, Lenovo, Supermicro and Cisco supply the underlying platforms.」（https://iternal.ai/best-private-ai-appliances）
+  - 「This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.」（https://iternal.ai/best-private-ai-appliances）
+  - 「GPU platform」（https://iternal.ai/best-private-ai-appliances）
+  - 「The GPU or Xeon configuration behind each system, the scale it is built to serve, what software ships installed, and where a price is published.」（https://iternal.ai/best-private-ai-appliances）
+  - 「NVIDIA RTX 4090 or A100 GPUs, or Intel Xeon CPUs via AirgapAI Edge (Intel AMX, OpenVINO, llama.cpp)」（https://iternal.ai/best-private-ai-appliances）
+  - 「8x Blackwell B200, 1,440 GB GPU memory, 10U chassis, 5th-gen NVLink」（https://iternal.ai/best-private-ai-appliances）
+  - 「PowerRack rack-scale systems and PowerEdge XE-series nodes with NVIDIA GPUs」（https://iternal.ai/best-private-ai-appliances）
+  - 「Scales to 128 GPUs with network expansion racks; air-gapped configuration available」（https://iternal.ai/best-private-ai-appliances）
+  - 「72 NVIDIA B300 GPUs per 42U/48U/52U rack; liquid-cooled 256- and 768-GPU scalable units」（https://iternal.ai/best-private-ai-appliances）
+  - 「UCS C845A/C885A M8 compute, 32 to 128+ GPUs, Nexus 9000 networking up to 800G」（https://iternal.ai/best-private-ai-appliances）
+  - 「Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the」（https://iternal.ai/best-private-ai-appliances）
+  - 「Best Foundational GPU Platform」（https://iternal.ai/best-private-ai-appliances）
+  - 「The industry-defining AI supercomputer — 8x Blackwell B200 GPUs and the full NVIDIA AI Enterprise stack — and the foundation many private AI appliances build on.」（https://iternal.ai/best-private-ai-appliances）
+  - 「Runs on GPUs (RTX 4090/A100) or entirely on Intel Xeon CPUs via AirgapAI Edge; ships with 2,800+ preconfigured workflows」（https://iternal.ai/best-private-ai-appliances）
+- オフライン・エアギャップ：
+  - 「Local, air-gapped LLM chat for classified environments.」（https://iternal.ai/best-private-ai-appliances）
+  - 「On-Prem Hardware Sizing」（https://iternal.ai/best-private-ai-appliances）
+  - 「How to Deploy LLMs On-Premise」（https://iternal.ai/best-private-ai-appliances）
+  - 「A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.」（https://iternal.ai/best-private-ai-appliances）
+  - 「on-premise AI servers」（https://iternal.ai/best-private-ai-appliances）
+  - 「air-gapped AI」（https://iternal.ai/best-private-ai-appliances）
+  - 「How the leading on-prem and turnkey AI platforms compare at a glance」（https://iternal.ai/best-private-ai-appliances）
+  - 「Air-Gapped」（https://iternal.ai/best-private-ai-appliances）
+  - 「Best Private AI Servers: On-Premise, Turnkey and Plug-and-Play Compared」（https://iternal.ai/best-private-ai-appliances）
+  - 「Scales to 128 GPUs with network expansion racks; air-gapped configuration available」（https://iternal.ai/best-private-ai-appliances）
+  - 「Distributed edge sites plus on-premise inference」（https://iternal.ai/best-private-ai-appliances）
+  - 「Dedicated appliance or on-premise install」（https://iternal.ai/best-private-ai-appliances）
+  - 「Eleven leading on-premise, air-gapped, and turnkey AI platforms — evaluated on performance, security, and speed-to-production for business buyers.」（https://iternal.ai/best-private-ai-appliances）
+  - 「100% local, air-gapped inference (AirgapAI) — no network required; SCIF-approved and nuclear-facility-certified per Iternal」（https://iternal.ai/best-private-ai-appliances）
+  - 「The foundational platform for serious on-prem AI training and inference」（https://iternal.ai/best-private-ai-appliances）
+- 更新方法：
+  - 「Last updated: June 5, 2026」（https://iternal.ai/best-private-ai-appliances）
+- ホワイトラベル・再販：
+  - 「AI Partner Program」（https://iternal.ai/best-private-ai-appliances）
+  - 「Roughly $300K-$500K per system (reseller estimates)」（https://iternal.ai/best-private-ai-appliances）
+  - 「Reseller estimates place it at roughly $300K-$500K per system」（https://iternal.ai/best-private-ai-appliances）
+  - 「Significant CapEx; reseller estimates put systems at roughly $300K-$500K」（https://iternal.ai/best-private-ai-appliances）
+  - 「DGX Spark retails around ~$4,699 MSRP; street price varies」（https://iternal.ai/best-private-ai-appliances）
+  - 「Smaller and less established than the OEM leaders, with fewer public reference customers and benchmarks」（https://iternal.ai/best-private-ai-appliances）
+  - 「Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.」（https://iternal.ai/best-private-ai-appliances）
+  - 「It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our」（https://iternal.ai/best-private-ai-appliances）
+- 日本・保守：
+  - 「Custom-quoted systems price on GPU count, support term and services scope, so compare them on what you must still assemble after delivery. If the real question is whether to refresh existing Intel silicon before buying accelerators, model the payback with the」（https://iternal.ai/best-private-ai-appliances）
+  - 「A named Iternal partner with over 4,000 customers and Dell-reported up to 2.6x first-year ROI — a Dell-backed, services-supported path from pilot to production.」（https://iternal.ai/best-private-ai-appliances）
+  - 「Enterprises wanting a Dell-backed, services-supported full-stack path from pilot to production at scale.」（https://iternal.ai/best-private-ai-appliances）
+  - 「Supermicro AI Factory SuperClusters deliver exceptional density in 42U/48U/52U air- or liquid-cooled racks, integrating 72 NVIDIA B300 GPUs per rack and supporting NVIDIA HGX B300. Liquid-cooled 256-GPU (5 racks) and 768-GPU (9 racks) scalable units arrive cluster-level L12 tested before shipment. At COMPUTEX 2026 (June 1) Supermicro introduced DCBBS Blueprints for NVIDIA Vera Rubin NVL72.」（https://iternal.ai/best-private-ai-appliances）
+  - 「72 NVIDIA B300 GPUs (288 GB HBM3e each) per rack; supports NVIDIA HGX B300」（https://iternal.ai/best-private-ai-appliances）
+  - 「Dell Pro Max GB300: up to 20 PFLOPS FP4, 748 GB coherent memory, supports up to 1T-param models」（https://iternal.ai/best-private-ai-appliances）
+  - 「GA on NVIDIA's reference design; supports RTX PRO 6000 / 4500 Blackwell Server Edition」（https://iternal.ai/best-private-ai-appliances）
+  - 「LLM.co offers a private LLM via cloud, on-prem, or a dedicated hardware appliance (the LLM Box), supporting air-gapped installations and offline AI agents. Teams start from open-source foundation models (LLaMA, Mistral, Mixtral) or bring their own, with RBAC, audit logging, and private model training. Its architecture is described as designed to meet or exceed HIPAA, SOC 2, GDPR, and ISO 27001.」（https://iternal.ai/best-private-ai-appliances）
+  - 「Several support air-gapped operation, including HPE Private Cloud AI (air-gapped config available now), Nutanix Enterprise AI, and LLM.co. For SCIF and classified use, Iternal's AirgapAI runs 100% locally with zero cloud transmission and is SCIF-approved and nuclear-facility-certified per Iternal. Dell and NVIDIA are also co-engineering an air-gapped solution for federal customers.」（https://iternal.ai/best-private-ai-appliances）
+- 国・所在地：記載なし（読んだ46頁・検索8回）
+
+## 中小企業向けプライベートAIサーバー（private AI server for small business）
+- 文脈：汎用
+- 提供企業・製品名：
+  - 「Workgroup AI Box」（https://www.setechnical.net/ai/local-ai/）
+  - 「Appliances and Open Source Project Systems」（https://eracks.com/smb-ai-server/）
+  - 「A local AI system eliminates these concerns. The data never leaves your infrastructure. There is no third-party processor to add to your privacy notices, no data processing agreements to negotiate with AI vendors, and no audit trail obligations for external data sharing.」（https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR）
+  - 「, not an appliance.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「Zanus AI sells appliances.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「Almost none of it comes from Zanus AI. It comes from a cluster of review sites that appeared in the last few months, and the more of them you read, the less they agree with each other. One describes Zanus as a supply chain orchestration layer that plugs into warehouse control systems and fleet telematics. That contradicts the vendor's own description of a general purpose on-premises AI appliance.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「The DGX Station's memory pool is designed for trillion-parameter-class work. Unless a Zanus quote comes back with comparable HBM capacity, and nothing published suggests it does, DGX holds models that an appliance in this class will not.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「There is a market for NVIDIA hardware. There is not much of one for a proprietary appliance.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「An appliance is a way of buying the people you do not have, packaged as hardware. That is a legitimate thing to buy. It is also why it costs more per unit of raw compute, and anyone telling you otherwise is selling one or the other.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「Appliances win on time and accountability. Component systems win on ceiling and exit. Pick the failure mode you can live with.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「Not because I think an appliance beats a DGX on merit, but because the quote forces the conversation that decides this. Ask for the GPU model and the bandwidth. If the answer is specific and the price is reasonable for what is inside, you have found a company selling integration work at a fair markup, which is a real and useful thing.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「Is an AI appliance worth it versus buying components?」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「It depends entirely on whether you have machine learning engineers. An appliance bundles integration work you would otherwise pay salaries to do, which is valuable for a team without that capability and pure markup for a team that has it. The break-even is usually about eighteen months of one engineer's time, so count your people before you count your FLOPs.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「Is a proprietary AI appliance safe to depend on long term?」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「on-premise ai appliance」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+- 国・所在地：
+  - 「Headquartered in Pompano Beach, Florida (Greater Fort Lauderdale), it sells turnkey private AI servers with enterprise GPUs built in, multiple local LLMs, a vector store, and an operating system layer carrying more than 15 pre-installed business modules covering chat, document intelligence, code assistance, spreadsheet automation and more.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「headquartered in Fort Lauderdale, Florida. We have no affiliation with the European」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「headquartered in Fort Lauderdale, Florida, specializing in private, on-premises AI」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「Israel (USD $)」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+- 価格：
+  - 「Starting Around $3,000.」（https://www.setechnical.net/ai/local-ai/）
+  - 「A private AI server sitting in your building, running on your data, doing the in-between work your team has been buried under for years. One hardware purchase, roughly $3,000–$20,000 depending on scale, plus a managed service to keep it running and the electricity to power it. No per-token meter, no rate limit, and no third party touching your files.」（https://www.setechnical.net/ai/local-ai/）
+  - 「Local AI: roughly $3,000–$20,000 hardware, one time,* + management and electricity」（https://www.setechnical.net/ai/local-ai/）
+  - 「projected on-premises AI market size by 2028, up from $12B in 2024, a 31% CAGR」（https://www.setechnical.net/ai/local-ai/）
+  - 「Gartner projects 75% of enterprises will shift from cloud-only to hybrid or on-premises AI by 2026, with the on-premises AI market growing from $12B (2024) to $45B by 2028. Here's the substance behind the trend.」（https://www.setechnical.net/ai/local-ai/）
+  - 「After the hardware is paid off, your ongoing cost is the managed service that keeps it healthy plus what the GPU draws from the wall, not a usage meter that climbs with every request. A busy 10-person team spending $300–$500 / month on cloud APIs can typically pay back the hardware in 12–18 months.」（https://www.setechnical.net/ai/local-ai/）
+  - 「~$3,000–$6,000」（https://www.setechnical.net/ai/local-ai/）
+  - 「~$8,000–$15,000」（https://www.setechnical.net/ai/local-ai/）
+  - 「~$20,000+」（https://www.setechnical.net/ai/local-ai/）
+  - 「A local AI server is a one-time hardware purchase, typically $3,000–$20,000 depending on scale.* We manage and operate it for you as an ongoing service, and the only variable cost beyond that is the wattage on your power bill, not a per-request meter. We've seen mid-size deployments pay back the hardware inside a year and run for five more.」（https://www.setechnical.net/ai/local-ai/）
+  - 「$1,200/mo」（https://eracks.com/smb-ai-server/）
+  - 「$800 - $2,400/month」（https://eracks.com/smb-ai-server/）
+  - 「$150/mo」（https://eracks.com/smb-ai-server/）
+  - 「$100/mo」（https://eracks.com/smb-ai-server/）
+  - 「$95/mo」（https://eracks.com/smb-ai-server/）
+- 利用人数・性能：
+  - 「break-even on a serious GPU build at moderate utilization (peer-reviewed TCO analysis, arXiv 2025)」（https://www.setechnical.net/ai/local-ai/）
+  - 「One server can handle dozens of concurrent users with vLLM and modern open-weight models.」（https://www.setechnical.net/ai/local-ai/）
+  - 「After the hardware is paid off, your ongoing cost is the managed service that keeps it healthy plus what the GPU draws from the wall, not a usage meter that climbs with every request. A busy 10-person team spending $300–$500 / month on cloud APIs can typically pay back the hardware in 12–18 months.」（https://www.setechnical.net/ai/local-ai/）
+  - 「Independent TCO analyses (Lenovo Press, SitePoint, peer-reviewed arXiv work, 2025) show 30-50% cost savings over 3 years when GPU utilization stays above 60-70%, and a 2-3× long-term cost premium for cloud LLMs at sustained enterprise scale.」（https://www.setechnical.net/ai/local-ai/）
+  - 「A single workstation-class machine for a small team or department. Handles 7B–13B class models at conversational speed for up to 5–10 concurrent users. Drops on a desk or in a closet.」（https://www.setechnical.net/ai/local-ai/）
+  - 「• 1× consumer-grade GPU (RTX 4090 / 5090 class)」（https://www.setechnical.net/ai/local-ai/）
+  - 「A rack-mount production server purpose-built for sustained inference. Runs larger models (30B–70B class) and serves dozens of concurrent users. Built for company-wide deployment.」（https://www.setechnical.net/ai/local-ai/）
+  - 「• 1–2× datacenter or prosumer GPUs」（https://www.setechnical.net/ai/local-ai/）
+  - 「Multi-GPU Cluster」（https://www.setechnical.net/ai/local-ai/）
+  - 「Multi-GPU, multi-node deployments for organizations running mission-critical AI at scale. Designed around H100 / H200 / B200 class hardware with full redundancy and air-gap options for regulated environments.」（https://www.setechnical.net/ai/local-ai/）
+  - 「• 4+ enterprise GPUs across redundant nodes」（https://www.setechnical.net/ai/local-ai/）
+  - 「AI & GPT Rackmount Servers & GPU Systems」（https://eracks.com/smb-ai-server/）
+  - 「Open-Air GPU Systems」（https://eracks.com/smb-ai-server/）
+  - 「ChatGPT Team (5 users)」（https://eracks.com/smb-ai-server/）
+  - 「Claude Pro (5 users)」（https://eracks.com/smb-ai-server/）
+- オフライン・エアギャップ：
+  - 「Industry analysts and peer-reviewed TCO studies are now pointing the same direction: hybrid and on-premises inference is where serious enterprise AI is going.」（https://www.setechnical.net/ai/local-ai/）
+  - 「of enterprises projected to shift from cloud-only to hybrid/on-premises AI by 2026 (Gartner)」（https://www.setechnical.net/ai/local-ai/）
+  - 「projected on-premises AI market size by 2028, up from $12B in 2024, a 31% CAGR」（https://www.setechnical.net/ai/local-ai/）
+  - 「long-term cost premium for cloud LLMs vs. on-premises at sustained enterprise utilization」（https://www.setechnical.net/ai/local-ai/）
+  - 「Is Moving On-Prem」（https://www.setechnical.net/ai/local-ai/）
+  - 「Gartner projects 75% of enterprises will shift from cloud-only to hybrid or on-premises AI by 2026, with the on-premises AI market growing from $12B (2024) to $45B by 2028. Here's the substance behind the trend.」（https://www.setechnical.net/ai/local-ai/）
+  - 「Privileged and regulated data never leaves your network.」（https://www.setechnical.net/ai/local-ai/）
+  - 「Every step runs on-prem, so PHI never leaves the practice, HIPAA stays intact by design.」（https://www.setechnical.net/ai/local-ai/）
+  - 「Most of the AI risks businesses face, data leakage, shadow AI, hallucinated answers acted on without context, prompt injection, get materially smaller when the model is yours, the data never leaves, and the audit trail is in your control.」（https://www.setechnical.net/ai/local-ai/）
+  - 「BrainPredict, On-Premises AI Enterprise Guide 2025 (Gartner Market Sizing)」（https://www.setechnical.net/ai/local-ai/）
+  - 「Allganize, Cloud vs. On-Prem LLM Deployment Models (75% Hybrid Shift)」（https://www.setechnical.net/ai/local-ai/）
+  - 「arXiv, On-Premise LLM Cost-Benefit Analysis (11.9-Month Break-Even)」（https://www.setechnical.net/ai/local-ai/）
+  - 「Latitude, Cloud vs. On-Prem LLMs Long-Term Cost Analysis (2-3× Premium)」（https://www.setechnical.net/ai/local-ai/）
+  - 「Lenovo Press, On-Premise vs. Cloud Generative AI TCO 2025」（https://www.setechnical.net/ai/local-ai/）
+  - 「TechMagic, HIPAA-Compliant LLMs & The On-Prem Advantage」（https://www.setechnical.net/ai/local-ai/）
+- 更新方法：
+  - 「Every call transcribed, summarized, and turned into a CRM update, a follow-up draft, or a routed task, without any of it leaving your network.」（https://www.setechnical.net/ai/local-ai/）
+  - 「Quote drafts, SOWs, support replies, status updates, generated against your real history and your real templates, ready for a human to glance at and send.」（https://www.setechnical.net/ai/local-ai/）
+  - 「To use the AI: not technical at all. Open WebUI looks and works like ChatGPT - just a browser window. To manage the server: basic Linux comfort helps, but it's mostly just Ubuntu system updates and occasional Ollama commands. We document everything and can provide remote setup assistance. For teams with no IT staff, we recommend the AILSA - it's the lowest-maintenance option we offer.」（https://eracks.com/smb-ai-server/）
+  - 「Updated」（https://www.compute-market.com/blog/local-ai-server-for-business-2026）
+  - 「Last updated: May 17, 2026. All hardware pricing, ROI calculations, and software setup instructions verified. Cloud API pricing reflects current published rates.」（https://www.compute-market.com/blog/local-ai-server-for-business-2026）
+  - 「sudo apt update && sudo apt install -y nvidia-driver-560」（https://www.compute-market.com/blog/local-ai-server-for-business-2026）
+  - 「Updated October 5, 2026」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「Ask three things before you sign either quote. Who maintains this in eighteen months. What happens when a better open model ships next quarter, and can we run it. And what does the exit look like if this vendor stops shipping updates.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「Manage updates, security, scaling yourself」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「Updates, support, and scaling included」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「Updated by Zanus engineers — you don't manage model versions」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「How does the server receive updates if it runs air-gapped with no internet?」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「Updates are delivered through a」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「. For air-gapped deployments, Zanus provides verified update packages that your IT administrator applies locally —」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「For connected deployments, updates are pulled」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+- ホワイトラベル・再販：
+  - 「*Based on average workflow deployments; actual cost varies with scale and requirements.」（https://www.setechnical.net/ai/local-ai/）
+  - 「A local AI server is a one-time hardware purchase, typically $3,000–$20,000 depending on scale.* We manage and operate it for you as an ongoing service, and the only variable cost beyond that is the wattage on your power bill, not a per-request meter. We've seen mid-size deployments pay back the hardware inside a year and run for five more.」（https://www.setechnical.net/ai/local-ai/）
+  - 「OEM Workstations」（https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR）
+  - 「Product photography variations with Stable Diffusion」（https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR）
+  - 「Ad creative variations for A/B testing」（https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR）
+  - 「Pricing as of May 2026 from published rate cards. Actual costs vary with prompt length and caching.」（https://www.compute-market.com/blog/local-ai-server-for-business-2026）
+  - 「One-time purchase with unlimited users and no token fees is a different financial shape from metered API billing, and finance teams understand capital assets better than variable inference spend.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「piece compares six of them on memory, bandwidth, and current pricing, and breaks down what each OEM charges for the Station itself.」（https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx）
+  - 「Reseller」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「*Estimated capacity based on average document size of 1 MB and video files of 50 MB. Actual capacity varies by file type and AI indexing depth. Expandable with external vector store for even larger archives.」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「*Weight varies by configuration. No special infrastructure required. Standard wall outlets in any country. 4 power cords included.」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「Become a reseller」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「Wholesale / Reseller Program」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「Become a Reseller」（https://zanusai.com/products/zanus-ai-prime-private-ai-server）
+  - 「OEM Workstations」（https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND）
+- 日本・保守：
+  - 「Help Desk & Support」（https://www.setechnical.net/ai/local-ai/）
+  - 「We support our clients on ChatGPT, Claude, Microsoft Copilot, Gemini, Grok, every cloud AI worth using.」（https://www.setechnical.net/ai/local-ai/）
+  - 「Internal Sales & Support Drafting」（https://www.setechnical.net/ai/local-ai/）
+  - 「Quote drafts, SOWs, support replies, status updates, generated against your real history and your real templates, ready for a human to glance at and send.」（https://www.setechnical.net/ai/local-ai/）
+  - 「Document analysis? Code assistant? Image generation? Customer support? Each use case maps to a specific GPU tier, RAM requirement, and pre-installed model. Fill out the quote form or call us - we'll recommend the right config.」（https://eracks.com/smb-ai-server/）
+  - 「. Done. No waiting for your vendor to support it, no price increase, no request to send.」（https://eracks.com/smb-ai-server/）
+  - 「Customer support」（https://eracks.com/smb-ai-server/）
+  - 「To use the AI: not technical at all. Open WebUI looks and works like ChatGPT - just a browser window. To manage the server: basic Linux comfort helps, but it's mostly just Ubuntu system updates and occasional Ollama commands. We document everything and can provide remote setup assistance. For teams with no IT staff, we recommend the AILSA - it's the lowest-maintenance option we offer.」（https://eracks.com/smb-ai-server/）
+  - 「and it's on your server in minutes. This is one of the biggest advantages of the local approach - you're not waiting for your vendor to add support for the latest model, you're not paying extra for it, and you're not locked to a model version the vendor chose. The open-weight model ecosystem moves fast, and your eRacks server keeps pace automatically.」（https://eracks.com/smb-ai-server/）
+  - 「Warranty & Order Policies」（https://eracks.com/smb-ai-server/）
+  - 「SUPPORT」（https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR）
+  - 「Technical Support」（https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR）
+  - 「Warranty」（https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR）
+  - 「Below $1,000 per month, the convenience and zero-maintenance nature of cloud AI tools usually outweighs the capital investment. Between $1,000 and $2,000, it is a closer call that depends on your specific use cases and data sensitivity requirements.」（https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR）
+  - 「Customer service models trained on your FAQ and support history」（https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR）
+- 検索結果の抜粋：
+  - 「Local AI Server : Build Guide + Real Costs (2026) — Local AI Server : Build Guide + Real Costs (2026) compute-market.com https://www.compute-market.com > l...」（https://www.compute-market.com/blog/local-ai-server-for-business-2026）
+
+## エッジAIサーバー（生成AI）（edge generative AI server）
+- 文脈：汎用
+- 提供企業・製品名：
+  - 「Transfer Appliance」（https://cloud.google.com/distributed-cloud-air-gapped）
+- 国・所在地：
+  - 「デル・テクノロジーズが2024年9月に大手町本社に開設した「AI Innovation Lab」は、その最適な場となる」（https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html）
+- 価格：
+  - 「$300 分の無料クレジットと 20 種類以上の無料プロダクト」（https://cloud.google.com/distributed-cloud-air-gapped）
+- 利用人数・性能：
+  - 「Google Distributed Cloud は、汎用コンピューティングや GPU などのハードウェアで業界をリードする柔軟性を提供します」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「Cloud GPU」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「機械学習、科学技術計算、3D 描画処理に特化した GPU」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「AIR-520用 生成AIアプリケーションズは、SQ ai100 AI SSD、NVIDIA RTX GPUカード、Edge AI SDK、NVAIEを統合し、生成 AIソリューションの開発を支援します」（https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8）
+  - 「Edge AI HPC Powered by AMD EPYC 8004 series, support 4pcs 2.5-slot GPUs」（https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8）
+  - 「エッジAI向けGPUアクセラレーション」（https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware）
+  - 「運用環境向けに構築されており、GPUアクセラレーション、PCIe拡張、高速ストレージ、および柔軟な展開をワークステーションクラスのシステムで組み合わせます」（https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware）
+  - 「カメラ、センサー、機械の近くでのGPUアクセラレーションワークロード」（https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware）
+  - 「GPU、PCIe、I/O、ローカルストレージ、および展開の柔軟性」（https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware）
+  - 「GPU密度、高速ネットワーク、リモート管理、インフラストラクチャのスケーラビリティ」（https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware）
+  - 「低遅延、ローカルデータ処理、GPUアクセラレーション、または直接機器接続が優先される場合」（https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware）
+  - 「GPUアクセラレートされた産業ワークロード」（https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware）
+  - 「このうちデル・テクノロジーズが中心的な役割を担っているのはインフラストラクチャのレイヤーで、NVIDIA製GPUを搭載したサーバをはじめストレージやネットワークなど、「Dell AI Solution with NVIDIA」と呼ばれる事前検証済みの生成AI構成ステックで統合されたハードウェアプラットフォームを提供している」（https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html）
+  - 「NVIDIA Blackwell Ultra GPUと高速ネットワークを統合した『NVIDIA HGX B300』を最大8基搭載可能で、LLMの学習を従来の4倍の速度で実行します」（https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html）
+  - 「ほかにもサーバの新ラインアップとして、NVIDIA RTX Pro 6000 Blackwell Server Edition PCIe GPUを最大8基搭載可能で、高速のAIアクセラレーションによりアプリケーションの柔軟性を向上する「Dell PowerEdge XE7745サーバー」の発売も予定している」（https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html）
+- オフライン・エアギャップ：
+  - 「Google Distributed Cloud エアギャップ | Sovereign Cloud」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「Google Distributed Cloud エアギャップ」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「Google Distributed Cloud エアギャップは、厳格な主権要件と規制要件を満たすために完全な分離を必要とする組織向けのフルマネージド ソリューションです」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「90 秒間にエアギャップのある GDC」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「Google Distributed Cloud エアギャップは、セキュリティと規制に対する厳しい要件を強力にサポートします」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「Google Distributed Cloud エアギャップが対応している標準」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「Google Distributed Cloud エアギャップは、Google の多くの高度なクラウド サービスを提供します」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「ブログ: GDC エアギャップの新しいネットワーキング機能」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「Google Distributed Cloud のエアギャップ ソリューションは、Google、信頼できるパートナー、またはその両者によって運営され、オペレーターの市民権や権利処理などの要素をカスタマイズできます」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「このエアギャップ サービスは、ミッション クリティカルなシステム向けの、完全冗長型の高可用性アーキテクチャを備えています」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「AI による映像と音声のオフライン翻訳」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「AI を活用した翻訳により、安全なオフライン環境を構築」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「映像と音声の AI 対応オフライン翻訳ソリューションの仕組みをご紹介」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「AI 対応のオフライン動画分析」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「オフラインでの動画分析」（https://cloud.google.com/distributed-cloud-air-gapped）
+- 更新方法：
+  - 「クラウドにアプリを移行して低コストな更新サイクルを実現」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「シリアル/USB通信」（https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8）
+  - 「セキュリティの更新」（https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai）
+- ホワイトラベル・再販：
+  - 「Channel Partners」（https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8）
+  - 「OEM/ODMサービス」（https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware）
+  - 「：クラウドベースのプラットフォームと相手先ブランド供給 (OEM) 装置のネイティブなエッジ機能で、システムを容易に拡張」（https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai）
+- 日本・保守：
+  - 「また、NIST SP 800-53-FedRAMP High Security Control に準拠した厳格な要件をサポートするように設計されています」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「サポートしているコンプライアンス標準」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「Google Distributed Cloud エアギャップは、セキュリティと規制に対する厳しい要件を強力にサポートします」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「バッチアップロードとリアルタイム ストリーム（およびほとんどの動画 / ストリーム）のサポート」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「パートナー様はこのプロセスを通じて Google と緊密に連携し、お客様のユースケースを最大限にサポートするための新しいインテグレーションを提供します」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「MGP は包括的なエコシステムを形成し、最高水準のサポートや堅牢なデータ セキュリティを含むエンドツーエンドの Google Distributed Cloud ソリューションを提供します」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「デベロッパーとパートナーのエコシステムを引き付け、強力にサポート」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「エンタープライズ グレードのサポートが付属する、フルマネージドのオープンソース データベース」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「スタートアップ企業を次のレベルに引き上げる、財務、ビジネス、技術のサポート」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「言語の検出、翻訳、用語集のサポート」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「Kubernetes アプリケーションを作成、実行、デバッグするための IDE サポート」（https://cloud.google.com/distributed-cloud-air-gapped）
+  - 「技術サポート」（https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8）
+  - 「サポート＆ダウンロード」（https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8）
+  - 「Edge AI HPC Powered by AMD EPYC 8004 series, support 4pcs 2.5-slot GPUs」（https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8）
+  - 「AdvantechのAIアシスタントまたは担当者とつながり、リアルタイムサポートを受けられます」（https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8）
+
+## デスクトップ型AIスーパーコンピュータ（desktop AI supercomputer）
+- 文脈：汎用
+- 提供企業・製品名：
+  - 「AI Startup」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「Best Turnkey AI Servers & AI Appliances for Business 2026」（https://iternal.ai/best-private-ai-appliances）
+  - 「Best Private AI Appliances」（https://iternal.ai/best-private-ai-appliances）
+  - 「Best Turnkey AI Servers & AI Appliances for Business (2026)」（https://iternal.ai/best-private-ai-appliances）
+  - 「A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.」（https://iternal.ai/best-private-ai-appliances）
+  - 「private AI appliance」（https://iternal.ai/best-private-ai-appliances）
+  - 「This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.」（https://iternal.ai/best-private-ai-appliances）
+  - 「— ships the complete appliance: hardware plus the AirgapAI local inference app plus the Blockify accuracy engine, all preconfigured and deployable in weeks. Read on for the full comparison and where each option fits best.」（https://iternal.ai/best-private-ai-appliances）
+  - 「Private AI Appliance Comparison」（https://iternal.ai/best-private-ai-appliances）
+  - 「Complete appliance」（https://iternal.ai/best-private-ai-appliances）
+  - 「LLM appliance」（https://iternal.ai/best-private-ai-appliances）
+  - 「Server or appliance」（https://iternal.ai/best-private-ai-appliances）
+  - 「Dedicated appliance or on-premise install」（https://iternal.ai/best-private-ai-appliances）
+  - 「, then set that result against a complete appliance such as」（https://iternal.ai/best-private-ai-appliances）
+  - 「Best Complete Appliance」（https://iternal.ai/best-private-ai-appliances）
+- 国・所在地：
+  - 「Israel」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「, with 88 custom Olympus cores, targets the orchestration layer that agentic workloads increasingly demand. At the far frontier, Nvidia announced the Vera Rubin Space Module for orbital data centers, delivering 25x more AI compute for space-based inference than the H100.」（https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter）
+  - 「Corsair uses an SRAM-based in-memory compute chiplet architecture.」（https://aimultiple.com/ai-chip-makers）
+  - 「Taalas was founded in early 2023 and hard-wires individual models directly into custom silicon, producing what the company calls “Hardcore Models.”」（https://aimultiple.com/ai-chip-makers）
+  - 「Mythic was founded in 2012 and is focused on edge AI. Mythic follows an unconventional path, an analog compute architecture, that aims to deliver power-efficient edge AI computing.」（https://aimultiple.com/ai-chip-makers）
+  - 「Founded in 2019 in Tel Aviv, Speedata develops an Analytics Processing Unit (APU) designed to accelerate big data analytics and AI workloads. It’s an APU that targets Apache Spark workloads, with plans to support other major data analytics platforms.」（https://aimultiple.com/ai-chip-makers）
+  - 「Founded in July 2021 in Eindhoven, Netherlands, Axelera AI specializes in AI hardware acceleration technology for computer vision and generative AI. The company is developing Titania, an AI inference chiplet based on its Digital In-Memory Computing (D-IMC) architecture, designed to accelerate AI workloads from edge to cloud.」（https://aimultiple.com/ai-chip-makers）
+  - 「NextSilicon, founded in Tel Aviv in 2017, sells Maverick-2, a runtime-reconfigurable dataflow accelerator built on TSMC’s 5nm process and shipped as a PCIe Gen 5 card with 96 GB of HBM3E or as an OAM module with 192 GB.」（https://aimultiple.com/ai-chip-makers）
+  - 「ASUS Desktop AI Supercomputers｜Asus Israel – אסוס ישראל」（https://www.asus.com/il/content/asus-desktop-ai-supercomputers/）
+  - 「Israel / עברית」（https://www.asus.com/il/content/asus-desktop-ai-supercomputers/）
+  - 「Israel」（https://www.stincebuilt.com/nvidia-dgx-spark-blackwell-ai-computer/）
+  - 「Israel」（https://www.nvidia.com/ja-jp/products/workstations/dgx-spark/）
+  - 「実際、GoogleやMeta、Microsoft、Hugging Faceといった大手企業がすでにこの製品を受け取っており、NVIDIA CEOのジェンセン・フアンは、イーロン・マスクにも自らSpaceXの本社まで届けたそうです」（https://note.com/ai_curator/n/n07d046b3e167）
+- 価格：
+  - 「$11,849.93」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$5,899.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$3,749.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$4,349.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$3,349.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$4,749.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$5,949.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$7,499.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$79.95」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$99,999.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$111,999.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$14,999.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「$7,999.99」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「Perpetual license from $697 one-time per user」（https://iternal.ai/best-private-ai-appliances）
+  - 「Roughly $300K-$500K per system (reseller estimates)」（https://iternal.ai/best-private-ai-appliances）
+- 利用人数・性能：
+  - 「RTX PRO Desktop GPUs」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「RTX PRO Laptop GPUs」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Accelerate creative workflows with tuned GPUs and optimized studio apps」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Enhance enterprise workflows with robust drivers, tools, and GPU control」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Fine-tune AI models up to 70 billion parameters.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Improve pre-trained model performance by fine-tuning on DGX Spark. With up to 128 GB of unified system memory, fine-tune models up to 70 billion parameters to customize AI models and solutions for specific needs and use cases.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Test, validate, and inference with AI models up to 200 billion parameters.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Up to 100B parameters」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Up to 200B parameters」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Up to 400B parameters」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Up to 700B parameters」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「NVIDIA Local AI is a full-stack platform for building and running AI privately on DGX Spark and NVIDIA GPUs: optimized models, accelerated inference backends, agentic frameworks, and developer tools—all running locally on your desk, with no data leaving your machine, so you can experiment, build, and deploy AI faster than ever.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「DGX Spark users can register free of charge for the NVIDIA Developer Program to get access to NGC including additional SDKs, toolkits, trained models, and workflows.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「2 TDP: Thermal Design Power of the GB10 chip, including CPU and GPU」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「d) Operating mode, max GPU stress in 25°C ambient.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+- オフライン・エアギャップ：
+  - 「Local, air-gapped LLM chat for classified environments.」（https://iternal.ai/best-private-ai-appliances）
+  - 「On-Prem Hardware Sizing」（https://iternal.ai/best-private-ai-appliances）
+  - 「How to Deploy LLMs On-Premise」（https://iternal.ai/best-private-ai-appliances）
+  - 「A buyer's guide to private AI servers and on-premises appliances — GPU and Xeon configurations, what software ships installed, and how fast each one reaches production.」（https://iternal.ai/best-private-ai-appliances）
+  - 「on-premise AI servers」（https://iternal.ai/best-private-ai-appliances）
+  - 「air-gapped AI」（https://iternal.ai/best-private-ai-appliances）
+  - 「How the leading on-prem and turnkey AI platforms compare at a glance」（https://iternal.ai/best-private-ai-appliances）
+  - 「Air-Gapped」（https://iternal.ai/best-private-ai-appliances）
+  - 「Best Private AI Servers: On-Premise, Turnkey and Plug-and-Play Compared」（https://iternal.ai/best-private-ai-appliances）
+  - 「Scales to 128 GPUs with network expansion racks; air-gapped configuration available」（https://iternal.ai/best-private-ai-appliances）
+  - 「Distributed edge sites plus on-premise inference」（https://iternal.ai/best-private-ai-appliances）
+  - 「Dedicated appliance or on-premise install」（https://iternal.ai/best-private-ai-appliances）
+  - 「Eleven leading on-premise, air-gapped, and turnkey AI platforms — evaluated on performance, security, and speed-to-production for business buyers.」（https://iternal.ai/best-private-ai-appliances）
+  - 「100% local, air-gapped inference (AirgapAI) — no network required; SCIF-approved and nuclear-facility-certified per Iternal」（https://iternal.ai/best-private-ai-appliances）
+  - 「The foundational platform for serious on-prem AI training and inference」（https://iternal.ai/best-private-ai-appliances）
+- 更新方法：
+  - 「Connect to your DGX Spark from your laptop or desktop and monitor system status, launch Cursor, VS Code, or AI Workbench remotely, and configure up to four devices into a high-speed multi-node cluster. Install the latest software updates to get the most out of your system.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「4x USB TypeC」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「1x HDMI 2.1a, Up to 3x DisplayPort over USB-C (DP Alt Mode)」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「USB Flash Drives」（https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer）
+  - 「Type-C USB Flash Drives」（https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer）
+  - 「4x USB Type C」（https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer）
+  - 「Sign up to receive exclusive updates, virtual events, and insights on NVIDIA IGX Orin and advancements in Edge AI.」（https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer）
+  - 「USB C Video Adapters」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「USB C Video Cables」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「USB Cables」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「USB 2.0 A」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「USB 2.0 A to B」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「USB Extension Cables」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「USB 2.0 Adapters」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+  - 「USB 2.0 A-M to A-F」（https://www.centralcomputer.com/all-products/ai-components/ai-supercomputers.html?srsltid=AYCX9vJoFzODLlBxxudc0BxlWPLWynJvk-pegOGgb6BEx-oTxFsh4EEv）
+- ホワイトラベル・再販：
+  - 「Where to Buy - ASUS Ascent GX10 Distributors」（https://www.asus.com/us/content/asus-desktop-ai-supercomputers/）
+  - 「*64 GB memory configuration is available exclusively through participating OEM partners.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「From novice to expert, leverage our curated playbooks to get off to a running start on various projects. Playbooks contain step-by-step recipes to demonstrate the art of the possible.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Discover NVIDIA GB10 Grace Blackwell Superchip–powered systems from our preferred OEM partners.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Partner Program」（https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer）
+  - 「From novice to expert, leverage NVIDIA’s curated playbooks to get off to a running start on various projects. Playbooks contain step-by-step recipes to demonstrate the art of the possible.」（https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer）
+  - 「AI Partner Program」（https://iternal.ai/best-private-ai-appliances）
+  - 「Roughly $300K-$500K per system (reseller estimates)」（https://iternal.ai/best-private-ai-appliances）
+  - 「Reseller estimates place it at roughly $300K-$500K per system」（https://iternal.ai/best-private-ai-appliances）
+  - 「Significant CapEx; reseller estimates put systems at roughly $300K-$500K」（https://iternal.ai/best-private-ai-appliances）
+  - 「DGX Spark retails around ~$4,699 MSRP; street price varies」（https://iternal.ai/best-private-ai-appliances）
+  - 「Smaller and less established than the OEM leaders, with fewer public reference customers and benchmarks」（https://iternal.ai/best-private-ai-appliances）
+  - 「Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.」（https://iternal.ai/best-private-ai-appliances）
+  - 「It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our」（https://iternal.ai/best-private-ai-appliances）
+  - 「"Think about industrial applications, where on the factory floor you want compute to be right next to where the manufacturing is happening," said IBM’s Shobhit Varshney, a VP at IBM Consulting, on a recent episode of the」（https://www.ibm.com/think/news/ces-ai-highlights-2025）
+- 日本・保守：
+  - 「Warranty Extension」（https://www.asus.com/us/content/asus-desktop-ai-supercomputers/）
+  - 「Support」（https://www.asus.com/us/content/asus-desktop-ai-supercomputers/）
+  - 「Commercial Support」（https://www.asus.com/us/content/asus-desktop-ai-supercomputers/）
+  - 「Warranty」（https://www.asus.com/us/content/asus-desktop-ai-supercomputers/）
+  - 「日本 (Japan)」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Support」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Fifth-generation Tensor Cores with support for FP4 deliver up to 1 petaFLOP of AI computing performance, combined with up to 128 GB of system memory, accelerating inference of state-of-the-art AI models to test, validate, and deploy from your DGX Spark.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「A cloud-native suite of software tools, libraries, and frameworks accelerating production-grade AI development. Combines enterprise-grade security, optimized performance, and enterprise-level support to streamline prototype-to-production for next-gen agentic AI.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「NVIDIA DGX Spark Gains 2x Performance and Open AI Model Support」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「What software and hardware support is available for DGX Spark?」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「DGX Spark ships with DGX OS and additional NVIDIA tools. DGX OS is a Linux distribution based on Ubuntu and matches the Linux distribution running on other DGX platforms. DGX Spark comes pre-installed and/or supports a large catalog of tools, frameworks, models, and software for development use from NVIDIA NGC. For example:」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Hardware support will be provided by the vendor that sold the system.」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Supports RoCE v2」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Japanese」（https://www.nvidia.com/en-us/products/workstations/dgx-spark/）
+  - 「Support」（https://www.pny.com/professional/software-solutions/desktop-ai-supercomputer）
+- 検索結果の抜粋：
+  - 「r/StableDiffusion - Nvidia's $3000 'Personal AI Supercomputer ... — r/StableDiffusion - Nvidia's $3000 'Personal AI Supercomputer ... Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/StableDiffusion/comments/1hvjs0h/nvidias_3000_personal_ai_supercomputer_comes_with/）
+
+## LLM搭載NAS・ストレージ（NAS with local LLM）
+- 文脈：汎用
+- 提供企業・製品名：
+  - 「When you need to fine-tune on proprietary data, modify model behavior at the architecture level, or run specialized models not available via APIs, self-hosting gives you complete control. API providers limit what you can customize.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「SMB Edge AI Storage Appliance」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「Yes. QNAP Edge AI Storage Server is designed as an easy-to-use appliance. With our intuitive GUI, small IT teams can deploy open-source LLMs and RAG environments with just a few clicks—no command-line operations or complex Docker expertise required.」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「convolution introduces」（https://arxiv.org/html/2510.01472v4）
+  - 「Private cloud appliance platforms with local storage and access control.」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「Private Cloud OEM / ODM · Private cloud appliance platforms with local storage and access control.」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「Regional distributors, direct-to-consumer brands, security companies and broadband providers most often launch a private label storage line in the United States, and the reason each one starts decides which platform fits.」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「use a house brand to protect margin. Reselling another company’s appliance means competing on price with every other reseller of the same unit, while an own-brand SKU turns the same shelf space into a defended product line.」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「sell detection plus local retention. The S1 fuses an edge AI network video recorder with a private cloud NAS in a single appliance, classifies people, vehicles and pets on the device with a false-alarm rate below 3%, and stores footage under 7, 14 or 30-day retention policies.」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「Broadband and smart-home service providers」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「, which keeps recorders and cameras from different vendors mixable.」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「Private cloud appliance platforms with local storage and access control.」（https://wocybersec.com/）
+  - 「Private Cloud OEM / ODM · Private cloud appliance platforms with local storage and access control.」（https://wocybersec.com/）
+  - 「Edge AI NVR + private cloud NAS in one appliance」（https://wocybersec.com/）
+  - 「Retail-ready private cloud appliances for consumer and smart-home brands.」（https://wocybersec.com/）
+- 国・所在地：
+  - 「Israel (USD $)」（https://cwwk.com/blogs/nas-storage/ai-nas-for-local-rag?srsltid=AYCX9vJBST1LXOwiBk-y70bogf5yjyAjYOAjaQGFo8OqriIMEQROLOjM）
+- 価格：
+  - 「Enterprise spending on LLMs has exploded. Model API costs alone doubled to $8.4 billion in 2025, and 72% of companies plan to increase their AI budgets further this year.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「A 7B model running on a single H100 spot instance (~$1.65/hour) at 70% utilization costs roughly $10,000/year. At 400 requests/second with 300 tokens each, that's about」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「$0.013 per 1,000 tokens」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「, compared to GPT-4o mini at $0.15/$0.60 per million (input/output).」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「~$1,500」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「If you're processing millions of tokens daily across customer support, document analysis, or content generation, self-hosting pays back within 6–12 months. One fintech company reduced monthly spend from $47,000 on GPT-4o Mini to $8,000 with a hybrid self-hosted approach, an 83% cost reduction.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「HIPAA, PCI-DSS, GDPR, and SOC 2 audits get complicated when data flows through third-party APIs. Self-hosting keeps PHI, payment data, and PII within your controlled environment. A telehealth client cut costs from $48k to $32k monthly by moving chat triage to a self-hosted LLM, while simplifying their compliance posture.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「If you're processing under 1 million tokens daily, API costs are likely lower than maintaining infrastructure. The operational overhead isn't worth it.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Self-hosting requires someone to manage GPU drivers, monitor inference performance, handle model updates, and troubleshoot CUDA errors at 2am. If that expertise doesn't exist on your team, the hidden costs add up fast.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「共有ライブラリのおすすめ（価格あたりのハードウェアが多い）：QNAPの4ベイNAS」（https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026）
+  - 「価格は2026年に上昇しました」（https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026）
+  - 「価格に関する注意点が1つあります」（https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026）
+  - 「2026年のメモリチップ不足によりSSD価格は従来の水準を大きく上回ったため、本ガイドの価格はすべておおよその目安です」（https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026）
+  - 「複数のマシンで共有し、バックアップが必要なモデルライブラリには、4ベイのNAS（最も簡単なソフトウェアならSynology、価格あたりのハードウェアが多いならQNAP）を購入し、RAID 6で運用します」（https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026）
+  - 「価格あたりのハードウェアが多い：QNAPの4ベイNAS — 同等の価格で強力なCPUと多くのポート」（https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026）
+- 利用人数・性能：
+  - 「GPU memory (VRAM) is the defining constraint. Your model must fit in VRAM for reasonable inference speed, if it doesn't, the system falls back to CPU processing, which runs 10–100x slower.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「you need roughly 0.5GB of VRAM per billion parameters when using 4-bit quantization. Full precision (FP16) doubles that requirement.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「VRAM Required (Q4)」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Example GPUs」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Beyond the GPU:」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「16GB minimum, 32GB recommended. RAM handles model loading and overflow when VRAM runs short.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「NVMe SSD essential. A quantized Llama 3 70B model is 35GB+. Spinning disks make load times painful.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Modern processors with AVX-512 can run inference without a GPU, but expect single-digit tokens per second. Fine for testing, impractical for production.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「A 70B model that needs 140GB at full precision shrinks to ~35GB with 4-bit quantization, minimal quality loss, massive VRAM savings. Tools like llama.cpp and Ollama apply quantization automatically.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「For most teams, a single RTX 4090 (24GB) running quantized models hits the sweet spot between capability and cost. Enterprise deployments handling 70B+ models typically require multi-GPU setups or cloud instances with A100/H100 hardware.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Llama 3.3 70B and Qwen 2.5 72B lead the pack. Both handle long contexts well and produce clean, controllable output.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Your GPU」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「8–12GB VRAM」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Llama 3.2 8B, Mistral 7B, Qwen 2.5 7B」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「16GB VRAM」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+- オフライン・エアギャップ：
+  - 「Self-hosting solves this. When you run an LLM on your own infrastructure, your data never leaves your environment. With」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「A self-hosted LLM is a large language model that runs on infrastructure you control, whether that's a local server, an on-premise data center, or a private cloud environment. Instead of sending requests to OpenAI's API or Anthropic's servers, you run inference locally. The model weights live on your hardware, and your prompts never leave your network.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Local inference eliminates round-trip network delays and doesn't depend on external uptime. For real-time applications or air-gapped environments, self-hosting may be the only viable option.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Ollama excels at development workflows, privacy-focused personal use, and air-gapped environments. It supports macOS, Linux, and Windows with automatic hardware detection.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「3. Air-gapped or offline environments.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Does your data require on-premises processing? → Self-hosting may be mandatory」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「2026 Best Edge AI Solution: On-Premise RAG NAS for Offices Under 50 People | QNAP」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「An On-Premise RAG NAS for Offices Under 50 People」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「100% On-Premise Ready」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「Can operate 100% offline, completely eliminating data leak risks from cloud AI like ChatGPT. You maintain absolute control, with the flexibility to integrate cloud LLMs only if desired.」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「An On-Premise AI Search System That Anyone Can Easily Deploy」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「The offline AI brain that reads those files to generate smart answers.」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「QNAP keeps all your data strictly on-premise to eliminate data sovereignty risks. Furthermore, our buy-once hardware model completely removes recurring SaaS costs and unpredictable API fees.」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「Tailored Offline AI Solutions for Your Business Needs」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「By integrating a Local LLM directly into your QNAP NAS, our Qsirch RAG engine securely searches your files and generates answers completely offline.」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+- 更新方法：
+  - 「Here's the reality: most teams don't have dedicated MLOps engineers to manage GPU infrastructure, optimize inference pipelines, and handle model updates. The DIY approach works for experimentation but becomes a full-time job at production scale.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Self-hosting requires someone to manage GPU drivers, monitor inference performance, handle model updates, and troubleshoot CUDA errors at 2am. If that expertise doesn't exist on your team, the hidden costs add up fast.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Research, engineering notes and product updates from Prem Blog.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Does QNAP provide ongoing support and model updates?」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「Yes. QNAP provides comprehensive technical support and regular updates to the AI models and system software. Our support team assists with configuration, troubleshooting, and optimization.」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「外付けUSBドライブ」（https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026）
+  - 「モデルライブラリのコピーを3つ、2種類のメディアに、1つは別の場所に保管してください — 例えばNASに加えて外付けUSBドライブ、さらにクラウドのコピー」（https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026）
+  - 「, are moving past standard USB connections and embracing true PCIe expansion. By utilizing an OCuLink interface, professional users can bypass traditional bandwidth bottlenecks entirely.」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+  - 「Slow USB 3.0」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+  - 「2× USB4 v2 (80Gbps) + Dual 10GbE」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+  - 「Get Exclusive Offers and Product Updates」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+  - 「Knowledge Base Update」（https://arxiv.org/html/2510.01472v4）
+  - 「and the corresponding design rationales from previous cycle. The LLM first acts as a reasoning engine, analyzing these results to update a」（https://arxiv.org/html/2510.01472v4）
+  - 「For example, the Knowledge Base may update rules such as」（https://arxiv.org/html/2510.01472v4）
+  - 「The updated knowledge base is then injected into the next prompt, together with Pareto architectures selected from the archive, to guide the LLM’s second role as an expert architect. Within this role, the LLM generates new candidate architectures through two operators:」（https://arxiv.org/html/2510.01472v4）
+- ホワイトラベル・再販：
+  - 「Varies by provider」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Varies by backend」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Varies by model, typically a single GPU」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「Varies by model」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「, and Jacobian Covariance」（https://arxiv.org/html/2510.01472v4）
+  - 「OEM / ODM only — B2B partnership」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「AI NAS OEM / ODM」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「OEM / ODM」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「NAS OEM / ODM Program」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「Security NAS OEM / ODM」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「Private Cloud OEM / ODM」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「OEM/ODM NAS and private cloud for US and Canadian brands, distributors and integrators.」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「OEM/ODM NAS and private cloud for EU, UK and EEA partners, shipped DAP into Europe.」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「OEM/ODM AI NAS, surveillance storage and private cloud with Arabic UI customisation.」（https://wocybersec.com/nas-private-label-program-us-brands/）
+  - 「OEM/ODM, specs, shipping & warranty」（https://wocybersec.com/nas-private-label-program-us-brands/）
+- 日本・保守：
+  - 「Hardware + maintenance」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Qwen models support 29+ languages out of the box, useful for global teams.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Ollama excels at development workflows, privacy-focused personal use, and air-gapped environments. It supports macOS, Linux, and Windows with automatic hardware detection.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「The real power is orchestration. You can route high-throughput text requests to a vLLM instance while keeping image generation local, all through one API. LocalAI also supports distributed inference across multiple nodes for teams scaling beyond single-server deployments.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「If you're processing millions of tokens daily across customer support, document analysis, or content generation, self-hosting pays back within 6–12 months. One fintech company reduced monthly spend from $47,000 on GPT-4o Mini to $8,000 with a hybrid self-hosted approach, an 83% cost reduction.」（https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/）
+  - 「Supports enterprise NVIDIA® RTX™ PRO 6000 Blackwell Max-Q Workstation (96GB VRAM)」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「Does QNAP provide ongoing support and model updates?」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「Yes. QNAP provides comprehensive technical support and regular updates to the AI models and system software. Our support team assists with configuration, troubleshooting, and optimization.」（https://www.qnap.com/en-us/pages/on-premise-rag-nas）
+  - 「Explore & Support」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+  - 「Support」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+  - 「Lifetime Technical Support」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+  - 「Advanced ZFS Support」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+  - 「Does this AI NAS support increased graphics capabilities for intensive graphics rendering or AI training?」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+  - 「support@minisforum.com」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+  - 「Technical support and troubleshooting」（https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs）
+- 検索結果の抜粋：
+  - 「AI NAS とは何か？2026年に購入する価値はあるのか？ — AI NAS とは何か？2026年に購入する価値はあるのか？ Zima Store Online https://shop.zimaspace.com > 購入ガイド」（https://shop.zimaspace.com/ja/blogs/buying-guide/what-is-an-ai-nas-and-is-it-worth-buying-in-2026?srsltid=AYCX9vIfcFGBZ70kHaFuuZHbF6S5GK7AgbPvBYJQ875q3s9Bh4MEdH_B）
+  - 「【870万ドル調達】2026年AI NAS 徹底比較 - BackerRock — 【870万ドル調達】2026年AI NAS 徹底比較 - BackerRock BackerRock https://backerrock.com > blogs > 革新的なアイデア > 870...」（https://backerrock.com/blogs/%E9%9D%A9%E6%96%B0%E7%9A%84%E3%81%AA%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/870%E4%B8%87%E3%83%89%E3%83%AB%E8%AA%BF%E9%81%94-2026%E5%B9%B4ai-nas%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83-ugreen-vs-synology-vs-qnap%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9?srsltid=AYCX9vJm9RYftUF7evywUaWjZHHjJyhv3Oh9uiXBOdUyTB8v6saLlWTc）
+
+## イスラエルのオンプレAIハードウェア（Israeli on-premise AI hardware startup）
+- 文脈：イスラエル
+- 提供企業・製品名：記載なし（読んだ47頁・検索8回）
+- 国・所在地：記載なし（読んだ47頁・検索8回）
+- 価格：記載なし（読んだ47頁・検索8回）
+- 利用人数・性能：記載なし（読んだ47頁・検索8回）
+- オフライン・エアギャップ：記載なし（読んだ47頁・検索8回）
+- 更新方法：記載なし（読んだ47頁・検索8回）
+- ホワイトラベル・再販：記載なし（読んだ47頁・検索8回）
+- 日本・保守：記載なし（読んだ47頁・検索8回）
+
+## イスラエルのプライベートAI基盤（Israeli private AI platform on-prem）
+- 文脈：イスラエル
+- 提供企業・製品名：記載なし（読んだ48頁・検索8回）
+- 国・所在地：記載なし（読んだ48頁・検索8回）
+- 価格：記載なし（読んだ48頁・検索8回）
+- 利用人数・性能：記載なし（読んだ48頁・検索8回）
+- オフライン・エアギャップ：記載なし（読んだ48頁・検索8回）
+- 更新方法：記載なし（読んだ48頁・検索8回）
+- ホワイトラベル・再販：記載なし（読んだ48頁・検索8回）
+- 日本・保守：記載なし（読んだ48頁・検索8回）
+
+## 欧州のオンプレAIアプライアンス（European on-premise AI appliance）
+- 文脈：欧州
+- 提供企業・製品名：記載なし（読んだ48頁・検索8回）
+- 国・所在地：記載なし（読んだ48頁・検索8回）
+- 価格：記載なし（読んだ48頁・検索8回）
+- 利用人数・性能：記載なし（読んだ48頁・検索8回）
+- オフライン・エアギャップ：記載なし（読んだ48頁・検索8回）
+- 更新方法：記載なし（読んだ48頁・検索8回）
+- ホワイトラベル・再販：記載なし（読んだ48頁・検索8回）
+- 日本・保守：記載なし（読んだ48頁・検索8回）
+
+## 米国のオンプレAIアプライアンス（US on-premise AI appliance startup）
+- 文脈：米国
+- 提供企業・製品名：記載なし（読んだ48頁・検索8回）
+- 国・所在地：記載なし（読んだ48頁・検索8回）
+- 価格：記載なし（読んだ48頁・検索8回）
+- 利用人数・性能：記載なし（読んだ48頁・検索8回）
+- オフライン・エアギャップ：記載なし（読んだ48頁・検索8回）
+- 更新方法：記載なし（読んだ48頁・検索8回）
+- ホワイトラベル・再販：記載なし（読んだ48頁・検索8回）
+- 日本・保守：記載なし（読んだ48頁・検索8回）
+
+## アジア（台湾・韓国・中国）のAIボックス（Asia on-premise LLM appliance）
+- 文脈：アジア
+- 提供企業・製品名：記載なし（読んだ46頁・検索8回）
+- 国・所在地：記載なし（読んだ46頁・検索8回）
+- 価格：記載なし（読んだ46頁・検索8回）
+- 利用人数・性能：記載なし（読んだ46頁・検索8回）
+- オフライン・エアギャップ：記載なし（読んだ46頁・検索8回）
+- 更新方法：記載なし（読んだ46頁・検索8回）
+- ホワイトラベル・再販：記載なし（読んだ46頁・検索8回）
+- 日本・保守：記載なし（読んだ46頁・検索8回）
+
+## 日本のオンプレ生成AI端末（Japanese on-premise generative AI appliance）
+- 文脈：日本
+- 提供企業・製品名：記載なし（読んだ48頁・検索8回）
+- 国・所在地：記載なし（読んだ48頁・検索8回）
+- 価格：記載なし（読んだ48頁・検索8回）
+- 利用人数・性能：記載なし（読んだ48頁・検索8回）
+- オフライン・エアギャップ：記載なし（読んだ48頁・検索8回）
+- 更新方法：記載なし（読んだ48頁・検索8回）
+- ホワイトラベル・再販：記載なし（読んだ48頁・検索8回）
+- 日本・保守：記載なし（読んだ48頁・検索8回）
+
+## 製造業向けオンプレAI（on-premise AI for manufacturing）
+- 文脈：製造業
+- オフライン・エアギャップ：
+  - 「On-Prem AI for Manufacturing: MES/ERP + Private LLM - AIVeda」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「On-Prem AI for Manufacturing: MES/ERP + Private LLM」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Efficiency, robustness, and real-time decision-making are driving a rapid digital transition in manufacturing. Many manufacturers are realising that cloud-only solutions are inadequate in terms of data control, latency, and security, even though AI has emerged as a crucial enabler. On-premise AI for Manufacturing becomes essential in this situation.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「On-Premise AI for Manufacturing enables businesses to implement AI directly within their infrastructure, guaranteeing complete control over sensitive production data, in contrast to cloud-based systems. Manufacturers handle extremely sensitive data that cannot be exposed to outside threats, including intellectual property and operational information.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「What is On-Premise AI for Manufacturing?」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Deploying AI models and systems inside a business’s own infrastructure as opposed to depending on outside cloud services is known as “on-premise AI for Manufacturing.” By ensuring that all data processing takes place locally, this method offers increased security and control.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Industrial AI On-Premise Solutions reduce latency and facilitate real-time decision-making on the manufacturing floor, in contrast to cloud AI. For time-sensitive processes like quality control and predictive maintenance, this is especially crucial.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Furthermore, Secure AI for Manufacturing Operations guarantees the protection of private data, including machine setups and production procedures. On-Premise AI for Manufacturing is becoming the cornerstone for creating intelligent, networked factories as firms embrace Industry 4.0 methods.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Why Manufacturers Need On-Prem AI Today」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「On-Prem development」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「One of the many benefits is improved security. By ensuring that critical data never leaves the company’s environment, Secure AI for Manufacturing Operations lowers susceptibility to cyber attacks. Real-time processing also removes delays, allowing for quicker decision-making.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Compliance is another important factor. On-premise AI is the best option for manufacturing since many businesses demand stringent data governance. Organisations may increase productivity and preserve compliance by implementing Secure AI for Manufacturing Operations.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Sensitive data is also protected when a Private LLM for Manufacturing and On-Premise AI for Manufacturing are combined. It is therefore an essential part of contemporary Industrial AI On-Premise Solutions.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Organisations may increase overall productivity, minimise downtime, and optimise operations by utilising AI for MES ERP Integration. This connection gains strength and security when paired with On-Premise AI for Manufacturing.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Core Components of Industrial AI On-Premise Solutions」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+- ホワイトラベル・再販：
+  - 「Varun Ajmani」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+- 日本・保守：
+  - 「Industrial AI On-Premise Solutions reduce latency and facilitate real-time decision-making on the manufacturing floor, in contrast to cloud AI. For time-sensitive processes like quality control and predictive maintenance, this is especially crucial.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Predictive Maintenance」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「Organisations may anticipate equipment breakdowns and plan maintenance in advance using On-Premise AI for Manufacturing.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「However, with the appropriate approach and partner, these difficulties can be overcome. Organisations can effectively implement Secure AI for Manufacturing Operations thanks to solutions like AIVeda, which offer end-to-end support.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「The advantages are evident, ranging from real-time optimisation to predictive maintenance. These developments are made possible without jeopardising data security thanks to Secure AI for Manufacturing Operations.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「A private LLM supports operators, automates documentation, and offers real-time insights. It improves decision-making, decreases downtime, and boosts efficiency in manufacturing contexts by securely using internal data.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+  - 「With the correct infrastructure, on-premise AI can indeed grow. Manufacturers may increase capabilities while preserving control, performance, and data security across operations thanks to modern systems’ support for modular deployment.」（https://aiveda.io/blog/on-prem-ai-for-manufacturing-mes-erp-private-llm/）
+- 提供企業・製品名：記載なし（読んだ48頁・検索8回）
+- 国・所在地：記載なし（読んだ48頁・検索8回）
+- 価格：記載なし（読んだ48頁・検索8回）
+- 利用人数・性能：記載なし（読んだ48頁・検索8回）
+- 更新方法：記載なし（読んだ48頁・検索8回）
+
+## メール・社内文書を読むオンプレAI（on-premise AI email knowledge search appliance）
+- 文脈：Yomi
+- 提供企業・製品名：記載なし（読んだ48頁・検索8回）
+- 国・所在地：記載なし（読んだ48頁・検索8回）
+- 価格：記載なし（読んだ48頁・検索8回）
+- 利用人数・性能：記載なし（読んだ48頁・検索8回）
+- オフライン・エアギャップ：記載なし（読んだ48頁・検索8回）
+- 更新方法：記載なし（読んだ48頁・検索8回）
+- ホワイトラベル・再販：記載なし（読んだ48頁・検索8回）
+- 日本・保守：記載なし（読んだ48頁・検索8回）

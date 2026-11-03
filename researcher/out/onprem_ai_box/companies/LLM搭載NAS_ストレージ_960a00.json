@@ -1,0 +1,2064 @@
+{
+ "name": "LLM搭載NAS・ストレージ",
+ "en": "NAS with local LLM",
+ "aliases": [
+  "AI NAS",
+  "edge AI storage server private LLM"
+ ],
+ "context": "汎用",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:25:17.469811+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "When you need to fine-tune on proprietary data, modify model behavior at the architecture level, or run specialized models not available via APIs, self-hosting gives you complete control. API providers limit what you can customize.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SMB Edge AI Storage Appliance",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. QNAP Edge AI Storage Server is designed as an easy-to-use appliance. With our intuitive GUI, small IT teams can deploy open-source LLMs and RAG environments with just a few clicks—no command-line operations or complex Docker expertise required.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "convolution introduces",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Private cloud appliance platforms with local storage and access control.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Cloud OEM / ODM · Private cloud appliance platforms with local storage and access control.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Regional distributors, direct-to-consumer brands, security companies and broadband providers most often launch a private label storage line in the United States, and the reason each one starts decides which platform fits.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "use a house brand to protect margin. Reselling another company’s appliance means competing on price with every other reseller of the same unit, while an own-brand SKU turns the same shelf space into a defended product line.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "sell detection plus local retention. The S1 fuses an edge AI network video recorder with a private cloud NAS in a single appliance, classifies people, vehicles and pets on the device with a false-alarm rate below 3%, and stores footage under 7, 14 or 30-day retention policies.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Broadband and smart-home service providers",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": ", which keeps recorders and cameras from different vendors mixable.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Private cloud appliance platforms with local storage and access control.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Cloud OEM / ODM · Private cloud appliance platforms with local storage and access control.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI NVR + private cloud NAS in one appliance",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Retail-ready private cloud appliances for consumer and smart-home brands.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI NVR + NAS appliances for security brands, installers and monitoring programmes.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our own Linux NAS operating system with on-device AI: local inference for faces, scenes and events — data is processed and stored on the appliance, not in a third-party cloud.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A North American security integrator needed a recording appliance that matched their VMS branding and passed their end-customer procurement reviews. We delivered a custom X4 build with an 8 TB and 24 TB tier, branded firmware, and a factory-installed drive kit.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Enterprise spending on LLMs has exploded. Model API costs alone doubled to $8.4 billion in 2025, and 72% of companies plan to increase their AI budgets further this year.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "A 7B model running on a single H100 spot instance (~$1.65/hour) at 70% utilization costs roughly $10,000/year. At 400 requests/second with 300 tokens each, that's about",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "$0.013 per 1,000 tokens",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", compared to GPT-4o mini at $0.15/$0.60 per million (input/output).",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "~$1,500",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "If you're processing millions of tokens daily across customer support, document analysis, or content generation, self-hosting pays back within 6–12 months. One fintech company reduced monthly spend from $47,000 on GPT-4o Mini to $8,000 with a hybrid self-hosted approach, an 83% cost reduction.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "HIPAA, PCI-DSS, GDPR, and SOC 2 audits get complicated when data flows through third-party APIs. Self-hosting keeps PHI, payment data, and PII within your controlled environment. A telehealth client cut costs from $48k to $32k monthly by moving chat triage to a self-hosted LLM, while simplifying their compliance posture.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "If you're processing under 1 million tokens daily, API costs are likely lower than maintaining infrastructure. The operational overhead isn't worth it.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Self-hosting requires someone to manage GPU drivers, monitor inference performance, handle model updates, and troubleshoot CUDA errors at 2am. If that expertise doesn't exist on your team, the hidden costs add up fast.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "共有ライブラリのおすすめ（価格あたりのハードウェアが多い）：QNAPの4ベイNAS",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "価格は2026年に上昇しました",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "価格に関する注意点が1つあります",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のメモリチップ不足によりSSD価格は従来の水準を大きく上回ったため、本ガイドの価格はすべておおよその目安です",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "複数のマシンで共有し、バックアップが必要なモデルライブラリには、4ベイのNAS（最も簡単なソフトウェアならSynology、価格あたりのハードウェアが多いならQNAP）を購入し、RAID 6で運用します",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "価格あたりのハードウェアが多い：QNAPの4ベイNAS — 同等の価格で強力なCPUと多くのポート",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "SSD価格は2026年のメモリ不足で上昇 — すべての価格をおおよその目安として扱う",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の価格の実情：",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$1,179.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "$1,479.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "$495.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "$619.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "add storage hardware next to the accessories and devices they already sell. An entry two-bay unit sits at the bottom of the ladder, which is exactly how woCyber positions the A2 Pro: the entry price point of the NAS line-up.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "You are speccing a business NAS for a 40-person architecture firm.The vendor offers 2.5GbE and 10GbE models. The 10GbE version costs more.…",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "$1,179.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "$1,479.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "$495.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "$619.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "RK3568 · 2-bay · up to 48 TB · entry price point",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "$799.00",
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/deploy-local-llm-without-breaking-storage-apps?srsltid=AYCX9vL-Zk3lvW93cUYUfoYU1ExUwXqqXvqjUStZhMD_TD9ab_Fnz-XQ",
+    "pass": 3
+   },
+   {
+    "quote": "$2,499.00",
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/deploy-local-llm-without-breaking-storage-apps?srsltid=AYCX9vL-Zk3lvW93cUYUfoYU1ExUwXqqXvqjUStZhMD_TD9ab_Fnz-XQ",
+    "pass": 3
+   },
+   {
+    "quote": "$1,179.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "$1,479.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "$495.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "$619.00",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "$619.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$799.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$389.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$459.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$659.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$899.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$1449,99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$1779,99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$239.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$399.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$2349.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$3599.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$5999,99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$804.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "$699.99",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "(¥75,000 / ~$499 on Amazon US) occupies the most technically ambitious position. Unlike the other two platforms, the TS-464 supports external GPU connection via PCIe expansion, enabling genuine GPU-accelerated AI inference. For users running larger models or wanting to process more concurrent requests, this is the platform with the highest ceiling. All three devices are available on Amazon US.",
+    "url": "https://ketchups.co/japan-market-pulse/japan-private-ai-nas-home-server-local-llm-movement/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s Famous “Everything Costs the Same” Yakitori Chain Just Raised Its Price to 410 Yen. It Is the Sixth Increase Since a 280-Yen Menu Broke in 2017",
+    "url": "https://ketchups.co/japan-market-pulse/japan-private-ai-nas-home-server-local-llm-movement/",
+    "pass": 3
+   },
+   {
+    "quote": "約9万円が当然と思えるクオリティとデザイン",
+    "url": "https://macfan.book.mynavi.jp/article/90451/",
+    "pass": 3
+   },
+   {
+    "quote": "普通盛（180g）が24個入りが2921円に！",
+    "url": "https://internet.watch.impress.co.jp/docs/topic/special/2068695.html",
+    "pass": 3
+   },
+   {
+    "quote": "$799.00",
+    "url": "https://shop.zimaspace.com/ja/blogs/buying-guide/what-is-an-ai-nas-and-is-it-worth-buying-in-2026?srsltid=AYCX9vIfcFGBZ70kHaFuuZHbF6S5GK7AgbPvBYJQ875q3s9Bh4MEdH_B",
+    "pass": 3
+   },
+   {
+    "quote": "$2,499.00",
+    "url": "https://shop.zimaspace.com/ja/blogs/buying-guide/what-is-an-ai-nas-and-is-it-worth-buying-in-2026?srsltid=AYCX9vIfcFGBZ70kHaFuuZHbF6S5GK7AgbPvBYJQ875q3s9Bh4MEdH_B",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://backerrock.com/blogs/%E9%9D%A9%E6%96%B0%E7%9A%84%E3%81%AA%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/870%E4%B8%87%E3%83%89%E3%83%AB%E8%AA%BF%E9%81%94-2026%E5%B9%B4ai-nas%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83-ugreen-vs-synology-vs-qnap%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9?srsltid=AYCX9vJm9RYftUF7evywUaWjZHHjJyhv3Oh9uiXBOdUyTB8v6saLlWTc",
+    "pass": 3
+   },
+   {
+    "quote": "AI性能、ローカルLLM機能、写真認識の精度、価格の4つの次元で徹底比較し、最適な購入決定をサポートします",
+    "url": "https://backerrock.com/blogs/%E9%9D%A9%E6%96%B0%E7%9A%84%E3%81%AA%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/870%E4%B8%87%E3%83%89%E3%83%AB%E8%AA%BF%E9%81%94-2026%E5%B9%B4ai-nas%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83-ugreen-vs-synology-vs-qnap%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9?srsltid=AYCX9vJm9RYftUF7evywUaWjZHHjJyhv3Oh9uiXBOdUyTB8v6saLlWTc",
+    "pass": 3
+   },
+   {
+    "quote": "$399.00 USD",
+    "url": "https://backerrock.com/blogs/%E9%9D%A9%E6%96%B0%E7%9A%84%E3%81%AA%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/870%E4%B8%87%E3%83%89%E3%83%AB%E8%AA%BF%E9%81%94-2026%E5%B9%B4ai-nas%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83-ugreen-vs-synology-vs-qnap%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9?srsltid=AYCX9vJm9RYftUF7evywUaWjZHHjJyhv3Oh9uiXBOdUyTB8v6saLlWTc",
+    "pass": 3
+   },
+   {
+    "quote": "$599.00 USD",
+    "url": "https://backerrock.com/blogs/%E9%9D%A9%E6%96%B0%E7%9A%84%E3%81%AA%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/870%E4%B8%87%E3%83%89%E3%83%AB%E8%AA%BF%E9%81%94-2026%E5%B9%B4ai-nas%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83-ugreen-vs-synology-vs-qnap%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9?srsltid=AYCX9vJm9RYftUF7evywUaWjZHHjJyhv3Oh9uiXBOdUyTB8v6saLlWTc",
+    "pass": 3
+   },
+   {
+    "quote": "$899.00 USD",
+    "url": "https://backerrock.com/blogs/%E9%9D%A9%E6%96%B0%E7%9A%84%E3%81%AA%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/870%E4%B8%87%E3%83%89%E3%83%AB%E8%AA%BF%E9%81%94-2026%E5%B9%B4ai-nas%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83-ugreen-vs-synology-vs-qnap%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9?srsltid=AYCX9vJm9RYftUF7evywUaWjZHHjJyhv3Oh9uiXBOdUyTB8v6saLlWTc",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "GPU memory (VRAM) is the defining constraint. Your model must fit in VRAM for reasonable inference speed, if it doesn't, the system falls back to CPU processing, which runs 10–100x slower.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "you need roughly 0.5GB of VRAM per billion parameters when using 4-bit quantization. Full precision (FP16) doubles that requirement.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "VRAM Required (Q4)",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Example GPUs",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond the GPU:",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "16GB minimum, 32GB recommended. RAM handles model loading and overflow when VRAM runs short.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "NVMe SSD essential. A quantized Llama 3 70B model is 35GB+. Spinning disks make load times painful.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Modern processors with AVX-512 can run inference without a GPU, but expect single-digit tokens per second. Fine for testing, impractical for production.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "A 70B model that needs 140GB at full precision shrinks to ~35GB with 4-bit quantization, minimal quality loss, massive VRAM savings. Tools like llama.cpp and Ollama apply quantization automatically.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "For most teams, a single RTX 4090 (24GB) running quantized models hits the sweet spot between capability and cost. Enterprise deployments handling 70B+ models typically require multi-GPU setups or cloud instances with A100/H100 hardware.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Llama 3.3 70B and Qwen 2.5 72B lead the pack. Both handle long contexts well and produce clean, controllable output.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Your GPU",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "8–12GB VRAM",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Llama 3.2 8B, Mistral 7B, Qwen 2.5 7B",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "16GB VRAM",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "QNAP Edge AI Storage Server strictly inherits your existing NAS folder permissions (Windows® AD/ACL). The AI respects access controls at the system level, guaranteeing that users can only search files they are authorized to view.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Run tools like AnythingLLM and Ollama on a GPU-equipped QNAP NAS to execute open-source models directly on the data you already store.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Supports enterprise NVIDIA® RTX™ PRO 6000 Blackwell Max-Q Workstation (96GB VRAM)",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "No GPU, or iGPU / NPU only",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Varies by model, typically a single GPU",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Runs 70B+ LLMs, SDXL, and large open-source models",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Large models are costly and VRAM-limited",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Complex setup: Docker/YAML tuning + manual GPU configuration",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Based on your specific data volume and use cases, our expert team provides a free evaluation to recommend the ideal NAS and GPU configuration for your organization. We tailor the solution to ensure absolute Data Sovereignty and Zero API Costs.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "QNAP NAS systems are designed for high scalability. As your data volume and AI demands grow, you can easily add additional storage drives, connect JBOD expansion units, or upgrade to higher-performance GPU cards via PCIe slots. This ensures your private AI infrastructure flexibly scales alongside your business needs without complex overhauls.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "NASはライブラリを保持し、GPUマシン上のSSDが読み込みを担います",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ハイエンドのPCIe 4.0 NVMe SSDは、モデルがディスクからVRAMに読み込まれる際の待ち時間を短縮します",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "70BモデルのQ4は約35-42 GBあるため、読み込み速度はモデルを切り替えるたびに体感できます",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "RAID 6は2台同時のドライブ故障に耐え、本番環境の標準です",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "NASはRAID 6で運用：2台同時のドライブ故障に耐える",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "NVMe SSD = GPUマシンでの高速なモデル読み込み、NAS = 共有・バックアップされるライブラリ",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "7BモデルのQ4は約4-5 GB、70BモデルのQ4は約35-42 GBです",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2台同時のドライブ故障に耐えます",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "モデルを切り替えるたびに、モデルの重みをディスクからVRAMへ高速に読み込みます",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "GPUマシンにSamsung 990 Pro NVMe SSD",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "4 TBドライブ4台を搭載した4ベイの機器は、RAID 6で約8 TBを利用可能にします — 量子化されたモデルの大規模なライブラリに十分な余裕があります（70B Q4モデルは約35-42 GB）",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "推論マシン上のハイエンドなPCIe 4.0 NVMe SSDこそが、モデルがディスクからVRAMに読み込まれる際の待ち時間を短縮するものです — Samsung 990 ProとWD Black SN850Xが2つの選択肢です",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ライブラリではなく、GPUマシンがモデルを切り替えるたびに重みを読み込むドライブです",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "70B Q4モデルは約35-42 GBあるため、読み込み速度はモデルを切り替えるたびに体感できます",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "SSDはモデルをVRAMに読み込むためのものであり、推論そのもののためではありません — モデルが読み込まれれば、推論はVRAM内で実行されます",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Unlocking Extreme Expansion: The eGPU Factor",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": ", are moving past standard USB connections and embracing true PCIe expansion. By utilizing an OCuLink interface, professional users can bypass traditional bandwidth bottlenecks entirely.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional supernet-based methods require multiple GPU days per dataset. Large Language Model (LLM)-driven approaches avoid training a large supernet and can provide quick feedback, but we observe an",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": ", achieve strong performance but require extensive computational resources. For example, FairNAS requires about 10 GPU-days to train a supernet on a V100 for ImageNet",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Comparison of three generation strategies on HW-NAS-Bench (Edge GPU, CIFAR-10): normal prompt (orange), latency-optimized prompt (blue), and LLM-NAS (green). Latency-optimized prompting increases coverage compared to standard prompting but still leaves gaps, while LLM-NAS achieves near-complete coverage across latency ranges",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "compares three generation strategies on HW-NAS-Bench (Edge GPU, CIFAR-10). In",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": ", showing our discovered architectures are closer to the true optimal front. The experiments demonstrate that LLM-NAS enables this with a search cost of minutes, in stark contrast to the days of GPU training required by supernet-based approaches.",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": ", often consolidate or even increase the high computational overhead (e.g., 10 GPU-days for one supernet). This fundamental dilemma motivates our exploration of training-free approaches.",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Analysis of the HW-NAS-Bench search space. The distribution of total parameters exhibits clear clustering",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "-times more kernel parameters per channel pair than a",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "blocks causes a step-like growth in parameters and typically in latency.",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Edge GPU (NVIDIA Jetson TX2)",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Edge GPU",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Search Cost per Dataset per Device on a V100 GPU",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "17 GPU Days",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "10 GPU Days",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "4 GPU Days",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "AI NAS NPU vs GPU: Hardware Transcoding Compared",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Unlocking Extreme Expansion: The eGPU Factor",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": ", are moving past standard USB connections and embracing true PCIe expansion. By utilizing an OCuLink interface, professional users can bypass traditional bandwidth bottlenecks entirely.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "Self-hosting solves this. When you run an LLM on your own infrastructure, your data never leaves your environment. With",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "A self-hosted LLM is a large language model that runs on infrastructure you control, whether that's a local server, an on-premise data center, or a private cloud environment. Instead of sending requests to OpenAI's API or Anthropic's servers, you run inference locally. The model weights live on your hardware, and your prompts never leave your network.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Local inference eliminates round-trip network delays and doesn't depend on external uptime. For real-time applications or air-gapped environments, self-hosting may be the only viable option.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Ollama excels at development workflows, privacy-focused personal use, and air-gapped environments. It supports macOS, Linux, and Windows with automatic hardware detection.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "3. Air-gapped or offline environments.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Does your data require on-premises processing? → Self-hosting may be mandatory",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Best Edge AI Solution: On-Premise RAG NAS for Offices Under 50 People | QNAP",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "An On-Premise RAG NAS for Offices Under 50 People",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "100% On-Premise Ready",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Can operate 100% offline, completely eliminating data leak risks from cloud AI like ChatGPT. You maintain absolute control, with the flexibility to integrate cloud LLMs only if desired.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "An On-Premise AI Search System That Anyone Can Easily Deploy",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "The offline AI brain that reads those files to generate smart answers.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "QNAP keeps all your data strictly on-premise to eliminate data sovereignty risks. Furthermore, our buy-once hardware model completely removes recurring SaaS costs and unpredictable API fees.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Tailored Offline AI Solutions for Your Business Needs",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "By integrating a Local LLM directly into your QNAP NAS, our Qsirch RAG engine securely searches your files and generates answers completely offline.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem LLM + Private RAG",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Which QNAP NAS models are recommended for on-premise Edge AI processing?",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Is on-premise AI more cost-effective than enterprise cloud AI subscriptions?",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Enterprise cloud AI incurs unpredictable, recurring API token fees. QNAP Edge AI Storage Server provides a predictable, one-time hardware investment. By running models completely offline, you eliminate monthly SaaS costs and avoid the OpEx \\\"black hole\\\" of traditional separate server deployments.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "No. QNAP provides all-in-one devices—from our hybrid AI storage to the flagship QAI-h1290FX—that integrate storage and AI computing in the same machine. You do not need to purchase additional AI servers or hire dedicated IT teams. By simply using your existing Windows AD permission settings, you can deploy a private, on-premise AI search engine in minutes.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "オフラインバックアップ",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "安全なオフラインのローカルLLMワークフローを構築する",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "— エアギャップされたストレージとモデルの取り扱いのパターン",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional NAS devices were brilliant for their time. They gave you massive amounts of storage over your local network. But they often suffered from relatively weak hardware. Most traditional NAS boxes run on low-power, entry-level processors designed purely to move data from point A to point B.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "An AI NAS solves the privacy dilemma entirely. By bringing the AI computing power directly to the physical metal box sitting on your desk, you achieve absolute data sovereignty. You get cloud-level intelligence, but if you pull the ethernet cord out of the wall? Everything still works perfectly. Your data never leaves the room.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "The local LLM, accelerated by the AMD hardware, retrieves the exact PDF, extracts the data, and provides a conversational answer in seconds. Zero data leaves the local network. Client NDAs are strictly maintained. Hours of billable research time are saved instantly.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "// Offline, one-time step",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional NAS devices were brilliant for their time. They gave you massive amounts of storage over your local network. But they often suffered from relatively weak hardware. Most traditional NAS boxes run on low-power, entry-level processors designed purely to move data from point A to point B.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "An AI NAS solves the privacy dilemma entirely. By bringing the AI computing power directly to the physical metal box sitting on your desk, you achieve absolute data sovereignty. You get cloud-level intelligence, but if you pull the ethernet cord out of the wall? Everything still works perfectly. Your data never leaves the room.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "The local LLM, accelerated by the AMD hardware, retrieves the exact PDF, extracts the data, and provides a conversational answer in seconds. Zero data leaves the local network. Client NDAs are strictly maintained. Hours of billable research time are saved instantly.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "Separate NAS/offline/cloud copy",
+    "url": "https://cwwk.com/blogs/nas-storage/ai-nas-for-local-rag?srsltid=AYCX9vJBST1LXOwiBk-y70bogf5yjyAjYOAjaQGFo8OqriIMEQROLOjM",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional NAS devices were brilliant for their time. They gave you massive amounts of storage over your local network. But they often suffered from relatively weak hardware. Most traditional NAS boxes run on low-power, entry-level processors designed purely to move data from point A to point B.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "An AI NAS solves the privacy dilemma entirely. By bringing the AI computing power directly to the physical metal box sitting on your desk, you achieve absolute data sovereignty. You get cloud-level intelligence, but if you pull the ethernet cord out of the wall? Everything still works perfectly. Your data never leaves the room.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "The local LLM, accelerated by the AMD hardware, retrieves the exact PDF, extracts the data, and provides a conversational answer in seconds. Zero data leaves the local network. Client NDAs are strictly maintained. Hours of billable research time are saved instantly.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s home NAS users are repurposing their existing storage hardware as private AI inference servers — no cloud required.",
+    "url": "https://ketchups.co/japan-market-pulse/japan-private-ai-nas-home-server-local-llm-movement/",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "Here's the reality: most teams don't have dedicated MLOps engineers to manage GPU infrastructure, optimize inference pipelines, and handle model updates. The DIY approach works for experimentation but becomes a full-time job at production scale.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Self-hosting requires someone to manage GPU drivers, monitor inference performance, handle model updates, and troubleshoot CUDA errors at 2am. If that expertise doesn't exist on your team, the hidden costs add up fast.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Research, engineering notes and product updates from Prem Blog.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Does QNAP provide ongoing support and model updates?",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. QNAP provides comprehensive technical support and regular updates to the AI models and system software. Our support team assists with configuration, troubleshooting, and optimization.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "外付けUSBドライブ",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": "モデルライブラリのコピーを3つ、2種類のメディアに、1つは別の場所に保管してください — 例えばNASに加えて外付けUSBドライブ、さらにクラウドのコピー",
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "pass": 3
+   },
+   {
+    "quote": ", are moving past standard USB connections and embracing true PCIe expansion. By utilizing an OCuLink interface, professional users can bypass traditional bandwidth bottlenecks entirely.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "Slow USB 3.0",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "2× USB4 v2 (80Gbps) + Dual 10GbE",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "Get Exclusive Offers and Product Updates",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "Knowledge Base Update",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "and the corresponding design rationales from previous cycle. The LLM first acts as a reasoning engine, analyzing these results to update a",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "For example, the Knowledge Base may update rules such as",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "The updated knowledge base is then injected into the next prompt, together with Pareto architectures selected from the archive, to guide the LLM’s second role as an expert architect. Within this role, the LLM generates new candidate architectures through two operators:",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": ") is updated. Finally, all niche archives are aggregated and filtered through a non-dominated sort to produce the final, comprehensive Pareto front.",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Update",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "// Update archive by adding the new solution and removing any it dominates",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Stage 1: Knowledge-Base Update Prompt",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Return a JSON-like list called Updated_Knowledge_Base:",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "The output of Stage 1 is the updated",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "{Updated_Knowledge_Base from Stage 1}",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Firmware development",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Private-label NAS hardware, firmware and branding for your market.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "NAS OEM / ODM Program · Private-label NAS hardware, firmware and branding for your market.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "A NAS private label program for US brands is a manufacturing partnership in which the factory supplies the hardware platform, firmware, mobile app and packaging while the brand controls the product name, app identity, channel and price. woCyber, the export brand of a Beijing-based storage hardware manufacturer with mass production in Shenzhen, runs these programs with a per-project minimum.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Firmware release control",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Own version numbering and update cadence, with a customer-specific branch maintained for the life of the program",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Make the branded engineering sample, running the buyer’s firmware and packaging artwork, a written gate before any mass-production order. A wrong default setting caught at sample stage is cheaper than one caught in a container.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Firmware branch and release cadence.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Confirm that a customer-specific branch is maintained for the life of the program, who approves updates, and whether a locked image is permitted.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "From a per-project minimum: white-label app, custom firmware, silkscreen or laser-engraved logo, market-specific documentation and packaging. Our export engineering team replies within one working day.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": ", are moving past standard USB connections and embracing true PCIe expansion. By utilizing an OCuLink interface, professional users can bypass traditional bandwidth bottlenecks entirely.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "Slow USB 3.0",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "2× USB4 v2 (80Gbps) + Dual 10GbE",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "Get Exclusive Offers and Product Updates",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "Equipped with dual 2.5GbE LAN ports, USB 3.2 Type-C, and HDMI® 2.0; for seamless connectivity to TVs, routers, and displays. Quiet, energy-efficient, and built for reliable 24/7 operation.",
+    "url": "https://www.cyx-minipc.com/ai-nas-two-product/",
+    "pass": 3
+   },
+   {
+    "quote": "Firmware development",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Private-label NAS hardware, firmware and branding for your market.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NAS OEM / ODM Program · Private-label NAS hardware, firmware and branding for your market.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom ID & firmware",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "One partner covering the full customization stack: hardware, firmware, app and packaging. Configure a certified platform or engineer a new SKU from the base design.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Firmware customization",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A North American security integrator needed a recording appliance that matched their VMS branding and passed their end-customer procurement reviews. We delivered a custom X4 build with an 8 TB and 24 TB tier, branded firmware, and a factory-installed drive kit.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Each unit is powered and validated: LAN negotiation, USB and HDMI enumerations, drive-bay detection, button and LED function, and firmware boot verification.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Get updates from Zima - new products, exclusive deals, and real builds from the community.",
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/deploy-local-llm-without-breaking-storage-apps?srsltid=AYCX9vL-Zk3lvW93cUYUfoYU1ExUwXqqXvqjUStZhMD_TD9ab_Fnz-XQ",
+    "pass": 3
+   },
+   {
+    "quote": ", are moving past standard USB connections and embracing true PCIe expansion. By utilizing an OCuLink interface, professional users can bypass traditional bandwidth bottlenecks entirely.",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "Slow USB 3.0",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "2× USB4 v2 (80Gbps) + Dual 10GbE",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "Get Exclusive Offers and Product Updates",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "System Update Plan",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "UGREEN 5 Bay USB C RAID Hard Drive Enclosure 100TB",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "Get Release updates",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "Stay tuned for updates in your inbox",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "③ USB 3.2 (10Gbps) x2",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ USB 2.0 x2",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "USB-C & HDMI port plug/unplugs",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing System Updates",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "Sign Up for the Latest NASync Deals and Updates",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "OS Updates",
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "Varies by provider",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Varies by backend",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Varies by model, typically a single GPU",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Varies by model",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": ", and Jacobian Covariance",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "OEM / ODM only — B2B partnership",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "AI NAS OEM / ODM",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM / ODM",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "NAS OEM / ODM Program",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Security NAS OEM / ODM",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Cloud OEM / ODM",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM NAS and private cloud for US and Canadian brands, distributors and integrators.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM NAS and private cloud for EU, UK and EEA partners, shipped DAP into Europe.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM AI NAS, surveillance storage and private cloud with Arabic UI customisation.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM, specs, shipping & warranty",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Request OEM Quote",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "NAS OEM / ODM Program · Private-label NAS hardware, firmware and branding for your market.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "AI NAS OEM / ODM · On-device AI storage and edge compute under your own brand.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Security NAS OEM / ODM · NAS plus camera kit platforms for surveillance and site security.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Cloud OEM / ODM · Private cloud appliance platforms with local storage and access control.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM AI NAS (Dual-Bay) Manufacturer, Factory | CYX",
+    "url": "https://www.cyx-minipc.com/ai-nas-two-product/",
+    "pass": 3
+   },
+   {
+    "quote": "One-Stop Global ODM/OEM Service Provider for Intelligent Computing Hardware",
+    "url": "https://www.cyx-minipc.com/ai-nas-two-product/",
+    "pass": 3
+   },
+   {
+    "quote": "AI NAS OEM/ODM Manufacturer | Private Cloud Storage — woCyber",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM / ODM only — B2B partnership",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI NAS OEM / ODM",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM / ODM",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NAS OEM / ODM Program",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Security NAS OEM / ODM",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Cloud OEM / ODM",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM NAS and private cloud for US and Canadian brands, distributors and integrators.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM NAS and private cloud for EU, UK and EEA partners, shipped DAP into Europe.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM AI NAS, surveillance storage and private cloud with Arabic UI customisation.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM, specs, shipping & warranty",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Request OEM Quote",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NAS OEM / ODM Program · Private-label NAS hardware, firmware and branding for your market.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI NAS OEM / ODM · On-device AI storage and edge compute under your own brand.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Security NAS OEM / ODM · NAS plus camera kit platforms for surveillance and site security.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "Hardware + maintenance",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Qwen models support 29+ languages out of the box, useful for global teams.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Ollama excels at development workflows, privacy-focused personal use, and air-gapped environments. It supports macOS, Linux, and Windows with automatic hardware detection.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "The real power is orchestration. You can route high-throughput text requests to a vLLM instance while keeping image generation local, all through one API. LocalAI also supports distributed inference across multiple nodes for teams scaling beyond single-server deployments.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "If you're processing millions of tokens daily across customer support, document analysis, or content generation, self-hosting pays back within 6–12 months. One fintech company reduced monthly spend from $47,000 on GPT-4o Mini to $8,000 with a hybrid self-hosted approach, an 83% cost reduction.",
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports enterprise NVIDIA® RTX™ PRO 6000 Blackwell Max-Q Workstation (96GB VRAM)",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Does QNAP provide ongoing support and model updates?",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. QNAP provides comprehensive technical support and regular updates to the AI models and system software. Our support team assists with configuration, troubleshooting, and optimization.",
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "pass": 3
+   },
+   {
+    "quote": "Explore & Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "Lifetime Technical Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced ZFS Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "Does this AI NAS support increased graphics capabilities for intensive graphics rendering or AI training?",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "support@minisforum.com",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "Technical support and troubleshooting",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "pass": 3
+   },
+   {
+    "quote": "Experimental support, please",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "support. To report errors in the HTML that will help us improve conversion and rendering, choose any of the",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "should not be a barrier to accessing research. Thank you for your continued support in championing open access for",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Have a free development cycle? Help support accessibility at arXiv! Our collaborators at LaTeXML maintain a",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "We gratefully acknowledge support from our",
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM, specs, shipping & warranty",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "The underlying Linux-based NAS operating system and its maintenance team",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "A hardware warranty confirmed in writing at quotation with spare-part supply for the life of the program",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "A hardware warranty confirmed in writing at quotation and spare-part supply for the life of the program belong in the contract, with the root-cause process for field failures described rather than implied.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "No. A private label or reconfiguration program uses an existing platform, so the buyer obtains an own-brand product without tooling or board design. New hardware development is the ODM route, and it is usually worth funding only when committed volume forecasts support the engineering and tooling investment.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "CE, UKCA, FCC, RoHS, REACH and WEEE support is standard across the platforms. CE, UKCA and FCC cover market access, while RoHS, REACH and WEEE cover materials, substances and disposal. Ask for the test reports that match the exact configuration ordered.",
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore & Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "Lifetime Technical Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced ZFS Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "Does this AI NAS support increased graphics capabilities for intensive graphics rendering or AI training?",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "support@minisforum.com",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "Technical support and troubleshooting",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.cyx-minipc.com/ai-nas-two-product/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports two 3.5\" HDDs with M.2 SSD cache acceleration. An integrated 7B local AI model enables intelligent tasks such as photo organization and surveillance analysis, keeping all data processed locally for enhanced privacy and security.",
+    "url": "https://www.cyx-minipc.com/ai-nas-two-product/",
+    "pass": 3
+   },
+   {
+    "quote": "Build a private AI hub for all-in-one intelligence. It also supports NAS, media servers, and automated script execution, providing a versatile local computing platform.",
+    "url": "https://www.cyx-minipc.com/ai-nas-two-product/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports a wide range of open-source hardware and development platforms, serving as a powerful computing hub for STEM education and innovation.",
+    "url": "https://www.cyx-minipc.com/ai-nas-two-product/",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODM, specs, shipping & warranty",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Drive support",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Business Support",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "An export team that works the way overseas buyers work: written quotations, certification support for your destination markets, and worldwide shipping terms.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Producer-responsibility registration support and marking for electrical equipment disposal.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "An IT distributor took regional exclusivity on two NAS models. We supported the programme with tiered volume pricing, project registration protection, sample units for their reseller network, and a localised RMA and spare-part process.",
+    "url": "https://wocybersec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "サポートとヒント",
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/deploy-local-llm-without-breaking-storage-apps?srsltid=AYCX9vL-Zk3lvW93cUYUfoYU1ExUwXqqXvqjUStZhMD_TD9ab_Fnz-XQ",
+    "pass": 3
+   },
+   {
+    "quote": "では、まず保守的な上限を設定しましょう",
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/deploy-local-llm-without-breaking-storage-apps?srsltid=AYCX9vL-Zk3lvW93cUYUfoYU1ExUwXqqXvqjUStZhMD_TD9ab_Fnz-XQ",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAの手順ではCUDA互換GPUのサポートが必要です",
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/deploy-local-llm-without-breaking-storage-apps?srsltid=AYCX9vL-Zk3lvW93cUYUfoYU1ExUwXqqXvqjUStZhMD_TD9ab_Fnz-XQ",
+    "pass": 3
+   },
+   {
+    "quote": "のようなプライベートクラウドデバイスは、モデルの配置先、GPUまたはiGPUのサポート、RAM、ストレージ容量、スケジュールがワークロードに合っていれば、より高度なローカルAIワークフローを支えられます",
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/deploy-local-llm-without-breaking-storage-apps?srsltid=AYCX9vL-Zk3lvW93cUYUfoYU1ExUwXqqXvqjUStZhMD_TD9ab_Fnz-XQ",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty Return & Refund",
+    "url": "https://cwwk.com/blogs/nas-storage/ai-nas-for-local-rag?srsltid=AYCX9vJBST1LXOwiBk-y70bogf5yjyAjYOAjaQGFo8OqriIMEQROLOjM",
+    "pass": 3
+   },
+   {
+    "quote": "Yes if it has enough memory and supported compute. Separating storage and inference is often easier for larger models.",
+    "url": "https://cwwk.com/blogs/nas-storage/ai-nas-for-local-rag?srsltid=AYCX9vJBST1LXOwiBk-y70bogf5yjyAjYOAjaQGFo8OqriIMEQROLOjM",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://cwwk.com/blogs/nas-storage/ai-nas-for-local-rag?srsltid=AYCX9vJBST1LXOwiBk-y70bogf5yjyAjYOAjaQGFo8OqriIMEQROLOjM",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty, Returns & Refund Policy",
+    "url": "https://cwwk.com/blogs/nas-storage/ai-nas-for-local-rag?srsltid=AYCX9vJBST1LXOwiBk-y70bogf5yjyAjYOAjaQGFo8OqriIMEQROLOjM",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (USD $)",
+    "url": "https://cwwk.com/blogs/nas-storage/ai-nas-for-local-rag?srsltid=AYCX9vJBST1LXOwiBk-y70bogf5yjyAjYOAjaQGFo8OqriIMEQROLOjM",
+    "pass": 3
+   },
+   {
+    "quote": "Explore & Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "Lifetime Technical Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced ZFS Support",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   },
+   {
+    "quote": "Does this AI NAS support increased graphics capabilities for intensive graphics rendering or AI training?",
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": "Israel (USD $)",
+    "url": "https://cwwk.com/blogs/nas-storage/ai-nas-for-local-rag?srsltid=AYCX9vJBST1LXOwiBk-y70bogf5yjyAjYOAjaQGFo8OqriIMEQROLOjM",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI NAS とは何か？2026年に購入する価値はあるのか？ — AI NAS とは何か？2026年に購入する価値はあるのか？ Zima Store Online https://shop.zimaspace.com > 購入ガイド",
+    "url": "https://shop.zimaspace.com/ja/blogs/buying-guide/what-is-an-ai-nas-and-is-it-worth-buying-in-2026?srsltid=AYCX9vIfcFGBZ70kHaFuuZHbF6S5GK7AgbPvBYJQ875q3s9Bh4MEdH_B",
+    "pass": 3
+   },
+   {
+    "quote": "【870万ドル調達】2026年AI NAS 徹底比較 - BackerRock — 【870万ドル調達】2026年AI NAS 徹底比較 - BackerRock BackerRock https://backerrock.com > blogs > 革新的なアイデア > 870...",
+    "url": "https://backerrock.com/blogs/%E9%9D%A9%E6%96%B0%E7%9A%84%E3%81%AA%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/870%E4%B8%87%E3%83%89%E3%83%AB%E8%AA%BF%E9%81%94-2026%E5%B9%B4ai-nas%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83-ugreen-vs-synology-vs-qnap%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9?srsltid=AYCX9vJm9RYftUF7evywUaWjZHHjJyhv3Oh9uiXBOdUyTB8v6saLlWTc",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.reddit.com/r/homelab/comments/1ttbchp/local_llm_models_on_nas/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.xda-developers.com/i-ran-a-local-llm-entirely-off-my-nas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ask.nascompares.com/showthread.php?tid=11591",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/local-ai-limits-home-nas?srsltid=AYCX9vKjiqN7DM9Qt2pMXL2BBvhiINrl4nI2sxyCpl2qZbf_gDunAxXS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qnap.com/en-us/reference/stop-ai-data-leaks:-run-private-llms-locally-on-a-nas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forums.unraid.net/topic/191267-build-nas-server-home-lab-for-ai-llm-stuff-and-home-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmappliance.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLM/comments/1rtey5z/so_ai_nas_category_is_a_mess_and_i_dont/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://heypinchy.com/air-gapped-llm-hardware/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/local-ai-limits-home-nas?srsltid=AYCX9vJVqbYPL5wJtG446FweSFpkCn2ICIVW46eTvyJnzY63uYkw27nb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/local-ai-limits-home-nas?srsltid=AYCX9vJOVFjpXFQPMWy2xK60ufl8ZsDpJsz8mprZgm4zDWuTok55TCpq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalapplied.com/blog/home-ai-server-build-self-hosted-llm-2026-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/html/2510.01472v4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tejasraundal.github.io/Teclops-AI/blog/how-to-deploy-llm-on-premise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.radeuslabs.com/what-you-need-to-run-an-on-premise-llm-hardware-starter-tips",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyx-minipc.com/ai-nas-two-product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newegg.com/insider/ai-powered-nas-in-2026-how-intelligent-storage-is-changing-the-way-we-manage-data?srsltid=AYCX9vIy-HkL10ubHaBEMXuPSdIYfTb8XhPXdHvIV-OWXw7IUBuIEdXk",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://wocybersec.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ownyourai.dev/hardware/best-nas-for-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qnap.com/en-in/reference/stop-ai-data-leaks:-run-private-llms-locally-on-a-nas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbd1hp/i_use_local_ai_to_generate_personal_value_on_my/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shop.zimaspace.com/ja/blogs/support-tips/deploy-local-llm-without-breaking-storage-apps?srsltid=AYCX9vL-Zk3lvW93cUYUfoYU1ExUwXqqXvqjUStZhMD_TD9ab_Fnz-XQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cwwk.com/blogs/nas-storage/ai-nas-for-local-rag?srsltid=AYCX9vJBST1LXOwiBk-y70bogf5yjyAjYOAjaQGFo8OqriIMEQROLOjM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptquorum.com/ja/local-llms/best-nas-storage-local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1pc.co.il/en/web/cat/388?srsltid=AYCX9vKgtxSav9gvAPNVvgv9oBSuqGl6vpHzOt7YtjjT_5phZIokhGgY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zimaspace.com/docs/zimaos/local-llm-inference",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpc.co.jp/product/local_llm_set/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptquorum.com/ja/local-llms/best-nas-storage-local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ketchups.co/japan-market-pulse/japan-private-ai-nas-home-server-local-llm-movement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://macfan.book.mynavi.jp/article/90451/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://internet.watch.impress.co.jp/docs/topic/special/2068695.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.zimaspace.com/ja/blogs/buying-guide/what-is-an-ai-nas-and-is-it-worth-buying-in-2026?srsltid=AYCX9vIfcFGBZ70kHaFuuZHbF6S5GK7AgbPvBYJQ875q3s9Bh4MEdH_B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/homelab/comments/1i8rzgd/ai_workstation_separate_nas_for_llm_storage/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://backerrock.com/blogs/%E9%9D%A9%E6%96%B0%E7%9A%84%E3%81%AA%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/870%E4%B8%87%E3%83%89%E3%83%AB%E8%AA%BF%E9%81%94-2026%E5%B9%B4ai-nas%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83-ugreen-vs-synology-vs-qnap%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9?srsltid=AYCX9vJm9RYftUF7evywUaWjZHHjJyhv3Oh9uiXBOdUyTB8v6saLlWTc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jibun_updating/n/n08999660dd1d",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NAS with local LLM",
+   "results": [
+    "https://www.reddit.com/r/homelab/comments/1ttbchp/local_llm_models_on_nas/",
+    "https://www.xda-developers.com/i-ran-a-local-llm-entirely-off-my-nas/",
+    "https://ask.nascompares.com/showthread.php?tid=11591",
+    "https://shop.zimaspace.com/blogs/support-tips/local-ai-limits-home-nas?srsltid=AYCX9vKjiqN7DM9Qt2pMXL2BBvhiINrl4nI2sxyCpl2qZbf_gDunAxXS",
+    "https://www.qnap.com/en-us/reference/stop-ai-data-leaks:-run-private-llms-locally-on-a-nas",
+    "https://www.facebook.com/howtogeek/posts/dont-buy-a-nas-for-local-ai-get-this-instead/1422258723270464/",
+    "https://forums.unraid.net/topic/191267-build-nas-server-home-lab-for-ai-llm-stuff-and-home-assistant/",
+    "https://forum.level1techs.com/t/want-to-start-a-homelab-for-storage-llm-and-maybe-media/221111",
+    "https://www.xda-developers.com/i-used-my-local-llm-to-organize-all-of-the-files-on-my-nas/",
+    "https://www.promptquorum.com/local-llms/best-nas-storage-local-llm"
+   ]
+  },
+  {
+   "query": "NAS with local LLM on-premise LLM appliance company",
+   "results": [
+    "https://iternal.ai/local-llm",
+    "https://www.reddit.com/r/homelab/comments/1ttbchp/local_llm_models_on_nas/",
+    "https://go.ai/technology/local-llm",
+    "https://www.premai.io/blog/self-hosted-llm-guide-setup-tools-cost-comparison-2026/",
+    "https://www.xda-developers.com/i-ran-a-local-llm-entirely-off-my-nas/",
+    "https://ask.nascompares.com/showthread.php?tid=11591",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "https://llmappliance.com/",
+    "https://www.qnap.com/en-us/product/qai-16700"
+   ]
+  },
+  {
+   "query": "NAS with local LLM air-gapped AI box price",
+   "results": [
+    "https://www.reddit.com/r/LocalLLM/comments/1rtey5z/so_ai_nas_category_is_a_mess_and_i_dont/",
+    "https://www.xda-developers.com/i-ran-a-local-llm-entirely-off-my-nas/",
+    "https://go.ai/technology/local-llm",
+    "https://heypinchy.com/air-gapped-llm-hardware/",
+    "https://www.promptquorum.com/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "https://www.youtube.com/watch?v=EEWkRVmDCkg",
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://shop.zimaspace.com/blogs/support-tips/local-ai-limits-home-nas?srsltid=AYCX9vJVqbYPL5wJtG446FweSFpkCn2ICIVW46eTvyJnzY63uYkw27nb",
+    "https://understand.tech/product/ai-in-a-box",
+    "https://www.amazon.com/NIMO-NAS-Computer-Workloads-356H/dp/B0HF3P3YBP"
+   ]
+  },
+  {
+   "query": "NAS with local LLM startup raises on-prem AI hardware",
+   "results": [
+    "https://www.reddit.com/r/LocalLLM/comments/1rtey5z/so_ai_nas_category_is_a_mess_and_i_dont/",
+    "https://www.xda-developers.com/i-ran-a-local-llm-entirely-off-my-nas/",
+    "https://forums.unraid.net/topic/191267-build-nas-server-home-lab-for-ai-llm-stuff-and-home-assistant/",
+    "https://shop.zimaspace.com/blogs/support-tips/local-ai-limits-home-nas?srsltid=AYCX9vJOVFjpXFQPMWy2xK60ufl8ZsDpJsz8mprZgm4zDWuTok55TCpq",
+    "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vLgEpwR_eecEcmLxnYHfbDKY3Qn8N80fPI8YD_7qyIq42f5sPBs",
+    "https://www.youtube.com/watch?v=EEWkRVmDCkg",
+    "https://www.promptquorum.com/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "https://www.digitalapplied.com/blog/home-ai-server-build-self-hosted-llm-2026-guide",
+    "https://arxiv.org/html/2510.01472v4",
+    "https://tejasraundal.github.io/Teclops-AI/blog/how-to-deploy-llm-on-premise/"
+   ]
+  },
+  {
+   "query": "NAS with local LLM white label OEM reseller",
+   "results": [
+    "https://wocybersec.com/nas-private-label-program-us-brands/",
+    "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vIDhfiIYmTkGZFVE6LTcm1E8kudC4VnK4Bg7slmweOnuyG_i4Rf",
+    "https://www.reddit.com/r/LocalLLM/comments/1rtey5z/so_ai_nas_category_is_a_mess_and_i_dont/",
+    "https://www.xda-developers.com/i-ran-a-local-llm-entirely-off-my-nas/",
+    "https://www.cyx-minipc.com/ai-nas-two-product/",
+    "https://www.youtube.com/watch?v=EEWkRVmDCkg",
+    "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "https://www.newegg.com/insider/ai-powered-nas-in-2026-how-intelligent-storage-is-changing-the-way-we-manage-data?srsltid=AYCX9vIy-HkL10ubHaBEMXuPSdIYfTb8XhPXdHvIV-OWXw7IUBuIEdXk",
+    "https://www.promptquorum.com/power-local-llm/best-nas-storage-local-ai-models-2026",
+    "https://wocybersec.com/"
+   ]
+  },
+  {
+   "query": "NAS with local LLM Israel",
+   "results": [
+    "https://www.xda-developers.com/i-ran-a-local-llm-entirely-off-my-nas/",
+    "https://www.qnap.com/en-in/reference/stop-ai-data-leaks:-run-private-llms-locally-on-a-nas",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1xbd1hp/i_use_local_ai_to_generate_personal_value_on_my/",
+    "https://shop.zimaspace.com/blogs/support-tips/deploy-local-llm-without-breaking-storage-apps?srsltid=AYCX9vL-Zk3lvW93cUYUfoYU1ExUwXqqXvqjUStZhMD_TD9ab_Fnz-XQ",
+    "https://cwwk.com/blogs/nas-storage/ai-nas-for-local-rag?srsltid=AYCX9vJBST1LXOwiBk-y70bogf5yjyAjYOAjaQGFo8OqriIMEQROLOjM",
+    "https://www.promptquorum.com/local-llms/best-nas-storage-local-llm",
+    "https://1pc.co.il/en/web/cat/388?srsltid=AYCX9vKgtxSav9gvAPNVvgv9oBSuqGl6vpHzOt7YtjjT_5phZIokhGgY",
+    "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vJO5KAzTEVICQjqz0KSqymexM94pUTPR6mnOwSPpiAd_xv50pZ5",
+    "https://www.xda-developers.com/i-used-my-local-llm-to-organize-all-of-the-files-on-my-nas/",
+    "https://www.newegg.com/insider/ai-powered-nas-in-2026-how-intelligent-storage-is-changing-the-way-we-manage-data"
+   ]
+  },
+  {
+   "query": "NAS with local LLM Japan distributor",
+   "results": [
+    "https://www.qnap.com/en-us/reference/stop-ai-data-leaks:-run-private-llms-locally-on-a-nas",
+    "https://www.zimaspace.com/docs/zimaos/local-llm-inference",
+    "https://www.reddit.com/r/LocalLLM/comments/1rtey5z/so_ai_nas_category_is_a_mess_and_i_dont/",
+    "https://store.minisforum.com/blogs/blog/ai-nas-explained-revolutionizing-home-and-business-storage?srsltid=AYCX9vKv-ysKCTTXHSIYLUT3E7XzPdCYnS7OSei4cS2ZWcUmmMbkEhS0",
+    "https://www.xda-developers.com/i-ran-a-local-llm-entirely-off-my-nas/",
+    "https://ask.nascompares.com/showthread.php?tid=11591",
+    "https://www.promptquorum.com/local-llms/best-nas-storage-local-llm",
+    "https://ai.ugreen.com/pages/ugreen-ai-nas-feature-introduction",
+    "https://www.hpc.co.jp/product/local_llm_set/",
+    "https://www.promptquorum.com/ja/local-llms/best-nas-storage-local-llm"
+   ]
+  },
+  {
+   "query": "LLM搭載NAS・ストレージ",
+   "results": [
+    "https://www.promptquorum.com/ja/local-llms/best-nas-storage-local-llm",
+    "https://macfan.book.mynavi.jp/article/90451/",
+    "https://internet.watch.impress.co.jp/docs/topic/special/2068695.html",
+    "https://shop.zimaspace.com/ja/blogs/buying-guide/what-is-an-ai-nas-and-is-it-worth-buying-in-2026?srsltid=AYCX9vIfcFGBZ70kHaFuuZHbF6S5GK7AgbPvBYJQ875q3s9Bh4MEdH_B",
+    "https://www.reddit.com/r/homelab/comments/1i8rzgd/ai_workstation_separate_nas_for_llm_storage/",
+    "https://backerrock.com/blogs/%E9%9D%A9%E6%96%B0%E7%9A%84%E3%81%AA%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/870%E4%B8%87%E3%83%89%E3%83%AB%E8%AA%BF%E9%81%94-2026%E5%B9%B4ai-nas%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83-ugreen-vs-synology-vs-qnap%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9?srsltid=AYCX9vJm9RYftUF7evywUaWjZHHjJyhv3Oh9uiXBOdUyTB8v6saLlWTc",
+    "https://note.com/jibun_updating/n/n08999660dd1d",
+    "https://store.ugreen.jp/pages/ugreen-ai-nas-storage?srsltid=AYCX9vKOxsSfXWlgjY9t2MrC9Lxb7AmVuRnPF3ficTIL4I0sp2Wn4Lz7",
+    "https://backerrock.com/blogs/革新的なアイデア/870万ドル調達-2026年ai-nas徹底比較-ugreen-vs-synology-vs-qnapの選び方",
+    "https://www.promptquorum.com/ja/power-local-llm/best-nas-storage-local-ai-models-2026"
+   ]
+  }
+ ],
+ "missing": {}
+}

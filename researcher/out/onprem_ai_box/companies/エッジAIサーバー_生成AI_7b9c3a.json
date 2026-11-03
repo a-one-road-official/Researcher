@@ -1,0 +1,787 @@
+{
+ "name": "エッジAIサーバー（生成AI）",
+ "en": "edge generative AI server",
+ "aliases": [
+  "edge AI appliance LLM",
+  "edge inference server"
+ ],
+ "context": "汎用",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:25:02.709903+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "Transfer Appliance",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$300 分の無料クレジットと 20 種類以上の無料プロダクト",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "Google Distributed Cloud は、汎用コンピューティングや GPU などのハードウェアで業界をリードする柔軟性を提供します",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud GPU",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "機械学習、科学技術計算、3D 描画処理に特化した GPU",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "AIR-520用 生成AIアプリケーションズは、SQ ai100 AI SSD、NVIDIA RTX GPUカード、Edge AI SDK、NVAIEを統合し、生成 AIソリューションの開発を支援します",
+    "url": "https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI HPC Powered by AMD EPYC 8004 series, support 4pcs 2.5-slot GPUs",
+    "url": "https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAI向けGPUアクセラレーション",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "運用環境向けに構築されており、GPUアクセラレーション、PCIe拡張、高速ストレージ、および柔軟な展開をワークステーションクラスのシステムで組み合わせます",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "カメラ、センサー、機械の近くでのGPUアクセラレーションワークロード",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "GPU、PCIe、I/O、ローカルストレージ、および展開の柔軟性",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "GPU密度、高速ネットワーク、リモート管理、インフラストラクチャのスケーラビリティ",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "低遅延、ローカルデータ処理、GPUアクセラレーション、または直接機器接続が優先される場合",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "GPUアクセラレートされた産業ワークロード",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "このうちデル・テクノロジーズが中心的な役割を担っているのはインフラストラクチャのレイヤーで、NVIDIA製GPUを搭載したサーバをはじめストレージやネットワークなど、「Dell AI Solution with NVIDIA」と呼ばれる事前検証済みの生成AI構成ステックで統合されたハードウェアプラットフォームを提供している",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Blackwell Ultra GPUと高速ネットワークを統合した『NVIDIA HGX B300』を最大8基搭載可能で、LLMの学習を従来の4倍の速度で実行します",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "pass": 3
+   },
+   {
+    "quote": "ほかにもサーバの新ラインアップとして、NVIDIA RTX Pro 6000 Blackwell Server Edition PCIe GPUを最大8基搭載可能で、高速のAIアクセラレーションによりアプリケーションの柔軟性を向上する「Dell PowerEdge XE7745サーバー」の発売も予定している",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "Google Distributed Cloud エアギャップ | Sovereign Cloud",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Google Distributed Cloud エアギャップ",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Google Distributed Cloud エアギャップは、厳格な主権要件と規制要件を満たすために完全な分離を必要とする組織向けのフルマネージド ソリューションです",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "90 秒間にエアギャップのある GDC",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Google Distributed Cloud エアギャップは、セキュリティと規制に対する厳しい要件を強力にサポートします",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Google Distributed Cloud エアギャップが対応している標準",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Google Distributed Cloud エアギャップは、Google の多くの高度なクラウド サービスを提供します",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "ブログ: GDC エアギャップの新しいネットワーキング機能",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Google Distributed Cloud のエアギャップ ソリューションは、Google、信頼できるパートナー、またはその両者によって運営され、オペレーターの市民権や権利処理などの要素をカスタマイズできます",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "このエアギャップ サービスは、ミッション クリティカルなシステム向けの、完全冗長型の高可用性アーキテクチャを備えています",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "AI による映像と音声のオフライン翻訳",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "AI を活用した翻訳により、安全なオフライン環境を構築",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "映像と音声の AI 対応オフライン翻訳ソリューションの仕組みをご紹介",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "AI 対応のオフライン動画分析",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "オフラインでの動画分析",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "クラウドにアプリを移行して低コストな更新サイクルを実現",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "シリアル/USB通信",
+    "url": "https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティの更新",
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "また、NIST SP 800-53-FedRAMP High Security Control に準拠した厳格な要件をサポートするように設計されています",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "サポートしているコンプライアンス標準",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Google Distributed Cloud エアギャップは、セキュリティと規制に対する厳しい要件を強力にサポートします",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "バッチアップロードとリアルタイム ストリーム（およびほとんどの動画 / ストリーム）のサポート",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー様はこのプロセスを通じて Google と緊密に連携し、お客様のユースケースを最大限にサポートするための新しいインテグレーションを提供します",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "MGP は包括的なエコシステムを形成し、最高水準のサポートや堅牢なデータ セキュリティを含むエンドツーエンドの Google Distributed Cloud ソリューションを提供します",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "デベロッパーとパートナーのエコシステムを引き付け、強力にサポート",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズ グレードのサポートが付属する、フルマネージドのオープンソース データベース",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップ企業を次のレベルに引き上げる、財務、ビジネス、技術のサポート",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "言語の検出、翻訳、用語集のサポート",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "Kubernetes アプリケーションを作成、実行、デバッグするための IDE サポート",
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "pass": 3
+   },
+   {
+    "quote": "技術サポート",
+    "url": "https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8",
+    "pass": 3
+   },
+   {
+    "quote": "サポート＆ダウンロード",
+    "url": "https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI HPC Powered by AMD EPYC 8004 series, support 4pcs 2.5-slot GPUs",
+    "url": "https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8",
+    "pass": 3
+   },
+   {
+    "quote": "AdvantechのAIアシスタントまたは担当者とつながり、リアルタイムサポートを受けられます",
+    "url": "https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8",
+    "pass": 3
+   },
+   {
+    "quote": "また、大規模なモデル、複数のユーザー、共有AIサービスをサポートするために、集中型オンプレミスインフラストラクチャを必要とするものもあります",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "また、大規模なモデル、複数のユーザー、共有AIサービスをサポートするために、集中型インフラストラクチャを必要とするものもあります",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "また、大規模なモデル、複数のユーザー、共有AIサービスをサポートする集中型オンプレミスインフラストラクチャ層から実行する必要があるものもあります",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "データのソースの近くでリアルタイムのAI推論をサポートし、マシンビジョン、ロボティクス、AI検査、ビデオ分析、産業オートメーションに最適な選択肢となります",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "データをローカルで処理し、レイテンシを削減し、操作の近くでより迅速な意思決定をサポートします",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "サーバー室、ラック、制御室、またはセキュアなマイクロデータセンターから大規模なAIワークロードをサポートします",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "目標は、計算を集中化し、複数のユーザーやアプリケーションをサポートし、データがクラウドに転送される前に制御を維持することです",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "その役割は、データソースの近くでAIワークロードを処理し、レイテンシを削減し、データ移動を制限し、より迅速なローカル意思決定をサポートすることです",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "データがクラウドに移動する前の最終的なオンプレミス計算層として機能し、オンプレミスLLM、マルチモーダルAI、エージェントAI、および複数のユーザー、モデル、システム、またはアプリケーションにわたる共有AIサービスをサポートします",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "これらのシステムは、ビジョンAI、ロボット工学、マシンビジョン、ビデオ分析、および産業オートメーションアプリケーション向けに拡張可能なAI導入をサポートします",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "これらのシステムは、ローカルAIおよびLLMワークロードの安全なリアルタイム処理をサポートし、企業が高度なAIをデータの生成場所に近づけて導入し、データがクラウドに中継される前に制御を維持するのに役立ちます",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "サービス & サポート",
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "pass": 3
+   },
+   {
+    "quote": "製品サポート",
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "pass": 3
+   },
+   {
+    "quote": "サービス & サポートについて",
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサポート",
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "pass": 3
+   },
+   {
+    "quote": "世界最高レベルのサポート",
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Red Hat AI のサポートによって以下のことが可能になります",
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社のコンサルタントは、AI アプリケーションと重要なワークロードを併せて構築およびデプロイする組織に対し、組織独自のエンタープライズ・ユースケースに関する実践的なサポートを提供できます",
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "pass": 3
+   },
+   {
+    "quote": "ご購入について (日本)",
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIの「現実解」 分散型の推論システムとエージェントが描く次世代AI活用：オンプレでの生成AI基盤導入がトレンドに - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "pass": 3
+   },
+   {
+    "quote": "PR／EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレでの生成AI導入をサポートするLLM ISVを含めたAIエコシステムパートナーと共創し、企業ごとに最適なソリューションスタックを作り、効果的かつ効率的なイノベーションの実現を目指す",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "pass": 3
+   },
+   {
+    "quote": "アイティメディア営業企画／制作：EE Times Japan 編集部／掲載内容有効期限：2025年9月1日",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "Channel Partners",
+    "url": "https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODMサービス",
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "pass": 3
+   },
+   {
+    "quote": "：クラウドベースのプラットフォームと相手先ブランド供給 (OEM) 装置のネイティブなエッジ機能で、システムを容易に拡張",
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": "デル・テクノロジーズが2024年9月に大手町本社に開設した「AI Innovation Lab」は、その最適な場となる",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://my.avnet.com/silica/solutions/technologies/artificial-intelligence/generative-ai/generative-ai-at-the-edge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stlpartners.com/articles/edge-computing/edge-gen-ai-new-chapter-for-gen-ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.supermicro.com/en/solutions/edge-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://premioinc.com/blogs/blog/how-edge-computing-is-powering-generative-ai-for-industry-4-0-applications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inonet.com/generative-ai-server/?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redhat.com/en/topics/edge-computing/what-is-edge-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lannerinc.com/news-and-events/latest-news/power-gen-ai-on-premises-edge-ai-systems-for-secure-and-local-llm-inference",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/mlops/comments/1fe5i82/how_to_get_started_with_building_an_on_premises/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/edge-ai-hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seekr.com/resource/air-gapped-ai-requirements-sovereign-classified/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/distributed-cloud-air-gapped",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hardware.co/blog/air-gapped-ai-servers-enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geniatech.com/products/ai-box/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/ai/articles/edge-ai-hardware-market-global-080500234.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/edge-ai-growing-startup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qnap.com/en-us/solution/edge-ai-storage-server",
+    "status": "http_202",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datacenterdynamics.com/en/news/axelera-ai-raises-more-than-250m-to-boost-development-of-edge-ai-hardware/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geniatech.com/products/edge-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.panachedigilife.com/products/ai-servers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abiresearch.com/blog/top-five-ai-server-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/generative-ai-server-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/edge-ai-servers-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unigen.com/edge-ai-server-market-grows-unigen-cupcake/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.viola-group.com/violanotes/generative-ai-where-israel-fits-in/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/il/en/what-is/edge-ai.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/InvestmentClub/comments/1pv84ph/15_billion_investment_to_establish_the_largest/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.arrow.com/ais/resource-library/blog/the-rise-of-generative-ai-at-the-edge-rethinking-processing-strategies",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/edge-ai-market-107023",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edgecortix.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.sharp/corporate/news/260915-a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ktsols.co.jp/en/server/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edgecortix.com/en/press-releases/edgecortix-adds-edge-ai-expansion-in-japan-and-across-indo-pacific-with-hakuto-and-midoriya-electric",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/generative-ai-server-market/Asia-Pacific",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalrealty.com/about/newsroom/press-releases/123299/preferred-networks-chooses-digital-realtys-data-center-in-japan-for-scalable-cutting-edge-ai-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nec.com/en/global/techrep/journal/g23/n02/230213.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntt.com/bizon/glossary/j-a/edge-ai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qnap.com/ja-jp/solution/edge-ai-storage-server",
+    "status": "http_202",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "edge generative AI server",
+   "results": [
+    "https://my.avnet.com/silica/solutions/technologies/artificial-intelligence/generative-ai/generative-ai-at-the-edge/",
+    "https://stlpartners.com/articles/edge-computing/edge-gen-ai-new-chapter-for-gen-ai/",
+    "https://www.supermicro.com/en/solutions/edge-ai",
+    "https://premioinc.com/blogs/blog/how-edge-computing-is-powering-generative-ai-for-industry-4-0-applications",
+    "https://www.inonet.com/generative-ai-server/?lang=en",
+    "https://www.redhat.com/en/topics/edge-computing/what-is-edge-ai",
+    "https://www.advantech.com/en-us/products/edge-ai-server/sub_8789bb9c-ad29-47be-aaa2-fe88fa52a7f8",
+    "https://www.ibm.com/think/topics/edge-ai",
+    "https://iot.asus.com/blog/what-is-an-edge-server/",
+    "https://premioinc.com/blogs/blog/what-are-edge-servers-enabling-on-prem-llm-and-generative-ai-at-the-edge"
+   ]
+  },
+  {
+   "query": "edge generative AI server on-premise LLM appliance company",
+   "results": [
+    "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "https://www.lannerinc.com/news-and-events/latest-news/power-gen-ai-on-premises-edge-ai-systems-for-secure-and-local-llm-inference",
+    "https://www.qnap.com/en-us/pages/on-premise-rag-nas",
+    "https://www.reddit.com/r/mlops/comments/1fe5i82/how_to_get_started_with_building_an_on_premises/",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.inonet.com/generative-ai-server/?lang=en",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://infohub.delltechnologies.com/en-us/l/videos-90/on-prem-vs-edge-deploying-cutting-edge-ai-models-to-test/",
+    "https://www.geniatech.com/solution/edge-llm-solutions/",
+    "https://premioinc.com/collections/llm-1u-rpl-series-edge-ai-rackmount-server"
+   ]
+  },
+  {
+   "query": "edge generative AI server air-gapped AI box price",
+   "results": [
+    "https://go.ai/technology/edge-ai-hardware",
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://www.seekr.com/resource/air-gapped-ai-requirements-sovereign-classified/",
+    "https://cloud.google.com/distributed-cloud-air-gapped",
+    "https://hardware.co/blog/air-gapped-ai-servers-enterprise",
+    "https://www.geniatech.com/products/ai-box/",
+    "https://www.reddit.com/r/homelab/comments/1rylcdu/what_would_make_a_small_local_ai_edge_ai_box/",
+    "https://skylarklabs.ai/synapse-ai-box.html",
+    "https://hailo.ai/blog/how-the-edge-ai-box-can-accelerate-ai-adoption-for-surveillance-and-security/",
+    "https://www.digikey.com/en/product-highlight/a/advantech/air-520-next-gen-edge-ai-server"
+   ]
+  },
+  {
+   "query": "edge generative AI server startup raises on-prem AI hardware",
+   "results": [
+    "https://premioinc.com/pages/edge-computers-for-generative-ai-and-on-prem-llm",
+    "https://finance.yahoo.com/technology/ai/articles/edge-ai-hardware-market-global-080500234.html",
+    "https://go.ai/technology/edge-ai-hardware",
+    "https://newmarketpitch.com/blogs/news/edge-ai-growing-startup",
+    "https://www.qnap.com/en-us/solution/edge-ai-storage-server",
+    "https://www.datacenterdynamics.com/en/news/axelera-ai-raises-more-than-250m-to-boost-development-of-edge-ai-hardware/",
+    "https://www.linkedin.com/posts/justinkinseysbt_artificialintelligence-startups-venturecapital-activity-7427022528432300032-Nk0N",
+    "https://www.startus-insights.com/innovators-guide/ai-hardware-companies/",
+    "https://www.geniatech.com/products/edge-ai/",
+    "https://engineersuniverse.com/studios/ai/aie-edge-ai-on-device-2026"
+   ]
+  },
+  {
+   "query": "edge generative AI server white label OEM reseller",
+   "results": [
+    "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "https://www.panachedigilife.com/products/ai-servers/",
+    "https://www.abiresearch.com/blog/top-five-ai-server-companies",
+    "https://www.precedenceresearch.com/generative-ai-server-market",
+    "https://www.inonet.com/generative-ai-server/?lang=en",
+    "https://www.youtube.com/watch?v=f0SE9Bvvbh4",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://market.us/report/edge-ai-servers-market/",
+    "https://unigen.com/edge-ai-server-market-grows-unigen-cupcake/",
+    "https://www.dell.com/en-us/learn/it-infrastructure/lp/solutions/oem-solutions-edge"
+   ]
+  },
+  {
+   "query": "edge generative AI server Israel",
+   "results": [
+    "https://my.avnet.com/silica/solutions/technologies/artificial-intelligence/generative-ai/generative-ai-at-the-edge/",
+    "https://www.viola-group.com/violanotes/generative-ai-where-israel-fits-in/",
+    "https://www.hpe.com/il/en/what-is/edge-ai.html",
+    "https://stlpartners.com/articles/edge-computing/edge-gen-ai-new-chapter-for-gen-ai/",
+    "https://www.linkedin.com/posts/ezevidra_we-have-been-mapping-the-israeli-generative-activity-7352411661443440640-Z7kb",
+    "https://www.reddit.com/r/InvestmentClub/comments/1pv84ph/15_billion_investment_to_establish_the_largest/",
+    "https://www.arrow.com/ais/resource-library/blog/the-rise-of-generative-ai-at-the-edge-rethinking-processing-strategies",
+    "https://www.fortunebusinessinsights.com/edge-ai-market-107023",
+    "https://www.redhat.com/en/topics/edge-computing/what-is-edge-ai",
+    "https://www.edgecortix.com/en/"
+   ]
+  },
+  {
+   "query": "edge generative AI server Japan distributor",
+   "results": [
+    "https://global.sharp/corporate/news/260915-a.html",
+    "https://ktsols.co.jp/en/server/",
+    "https://www.edgecortix.com/en/press-releases/edgecortix-adds-edge-ai-expansion-in-japan-and-across-indo-pacific-with-hakuto-and-midoriya-electric",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/generative-ai-server-market/Asia-Pacific",
+    "https://www.supermicro.com/en/solutions/edge-ai",
+    "https://www.instagram.com/reel/DeLGJvdBFkA/",
+    "https://www.digitalrealty.com/about/newsroom/press-releases/123299/preferred-networks-chooses-digital-realtys-data-center-in-japan-for-scalable-cutting-edge-ai-platform",
+    "https://www.nec.com/en/global/techrep/journal/g23/n02/230213.html",
+    "https://www.renesas.com/en/key-technologies/edge-ai?srsltid=AYCX9vKGU5Hrhx5D59a8CeNiVhbw5btXpxNin5hv50-ueorItgrClqdZ",
+    "https://www.aetina.com/about-news-detail.php?i=1259"
+   ]
+  },
+  {
+   "query": "エッジAIサーバー（生成AI）",
+   "results": [
+    "https://www.advantech.com/ja-jp/products/air-edge-ai-hpcs/sub_5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8",
+    "https://www.ntt.com/bizon/glossary/j-a/edge-ai.html",
+    "https://premioinc.com/ja/blogs/blog/edge-ai-workstation-or-edge-ai-server-how-to-choose-the-right-on-prem-ai-hardware",
+    "https://www.redhat.com/ja/topics/edge-computing/what-is-edge-ai",
+    "https://www.qnap.com/ja-jp/solution/edge-ai-storage-server",
+    "https://eetimes.itmedia.co.jp/ee/articles/2507/18/news008.html",
+    "https://www.softbank.jp/business/content/blog/202603/what-is-edge-ai",
+    "https://www.supermicro.com/ja-jp/solutions/edge-ai",
+    "https://japan-ai.co.jp/media/6888/",
+    "https://premioinc.com/ja/blogs/blog/what-are-edge-servers-enabling-on-prem-llm-and-generative-ai-at-the-edge"
+   ]
+  }
+ ],
+ "missing": {}
+}

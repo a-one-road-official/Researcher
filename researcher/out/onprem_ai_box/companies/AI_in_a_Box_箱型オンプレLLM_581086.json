@@ -1,0 +1,1619 @@
+{
+ "name": "AI in a Box（箱型オンプレLLM）",
+ "en": "AI in a box on-premise device",
+ "aliases": [
+  "AI box",
+  "LLM in a box",
+  "GenAI in a box",
+  "private GPT box"
+ ],
+ "context": "汎用",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:25:03.520022+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "The NVIDIA GB300 has arrived, and the first appliance is already shipped and live at a client site.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox the appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Data-center class NVIDIA Grace Blackwell platforms, delivered as a sovereign, on-premise, air-gapped appliance. Two form factors, sized for teams or full organizations.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "The appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Incirt runs knowledge assistants entirely on the appliance: no token costs, no per-seat metering, and intellectual property that never leaves the perimeter.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Coding agents running fully on the appliance, with no token limits.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GB10 · compact desktop appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid setup: add your own API keys for external providers, or run fully local with no outbound calls",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "SSO-ready: integrates with enterprise identity providers when enabled",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Does it support enterprise identity providers (SSO)?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Can we mix local models and external providers?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "From cloud to AI in a Box: the recipe behind the 88%",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Box",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Our Edge AI solutions delivered into an Edge AI Box help accelerate the deployment of new Edge AI applications with distributed computing from the edge to edge-cloud, including support for 5G. Address the growing number of use cases across IoT to cost-effectively test applications and reduce deployment time across security and surveillance, retail, smart factories, cities, and more.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Add intelligence to existing legacy cameras and sensor installations with an Edge AI Box solution. Maximize investments and avoid costly upgrades and installation costs. Test and deploy new AI applications easier and enable faster deployments.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "The Qualcomm Dragonwing™ AI On-Prem Appliance Solution enables businesses to run custom and off-the-shelf AI applications on their premises, including generative AI – allowing sensitive customer data, fine-tuned models and inference loads to remain on premises. Powered by the",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Box Use Cases",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Featured Edge AI Boxes",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "This high performance Edge AI box is a cutting-edge on-premise solution. Powered by the Qualcomm® QRB5165N and Qualcomm® Cloud AI 100, it provides incredible AI computing power at ultra low power consumption. Also supports superior video multiprocessing capability and optional 5G Connectivity for broad based deployment.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "TurboX EB2 Edge AI Box",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "EB2 Edge AI Box is a cost-effective edge computing device with 1.7 TOPS AI performance and 6 channels FHD video decoding. It can flexibly adapt to different network access requirements during deployment.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "TurboX EB5 Edge AI Box",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "EB5 Edge AI Box is a high-performance AI edge computing device with support for industrial-grade OSware, supports edge-cloud synergy, remote AI algorithm and application deployment, FOTA.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "TurboX EB6 Edge AI Box",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "EB6 Edge AI Box is a premium tier edge computing device with up to 15 TOPS of AI performance, extendable to 70 TOPS with an accelerator card. Support up to 24 channels of FHD video decoding. Ultra-high AI performance and embedded with OSware.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Box News",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance...",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Introduces On-Prem AI Device for Enterprises -- Campus Technology",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Introduces On-Prem AI Device for Enterprises",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial intelligence startup",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product, branded as \"AI in a Box,\" is a small, stackable node that can host large language models, adapters, and AI agents while keeping data within an organization's local network. Each unit supports up to five users and can be combined into clusters to scale across departments.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony launches on-premises AI solution for local model deployment - SiliconANGLE",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony launches on-premises AI solution for local model deployment",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "The new product, described as “AI in a Box,” is a plug-and-play hardware node that allows businesses to run advanced generative AI workflows locally, securely and instantly. Each Lemony node can host a full AI stack, from foundation models to retrieval-augmented generation agents. The service is aimed at privacy-conscious sectors such as healthcare, legal, finance and government.",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "The core idea behind the “AI in a Box” offering is to eliminate the need for external cloud infrastructure, helping enterprises avoid common concerns around data sovereignty, compliance and shadow AI. According to the company, the system can activate and make searchable thousands of documents and files, unlocking previously dormant knowledge while maintaining strict internal security controls.",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics startup Tutor Intelligence nabs $75M investment",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup News",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI box overview",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire/ -- Lemony today announced the official launch of its groundbreaking on-premise artificial intelligence solution that is redefining how organizations deploy generative AI. Lemony's secure, hardware-based node offers enterprise-grade 'AI in a Box,' empowering companies to run advanced, end-to-end AI workflows privately, instantly, and without cloud dependence.",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Launches cascadeflow: Cuts Costs By Up To 85% By Automatically Finding The Best and Least Expensive Language Model To Optimize Every Prompt, Agent Call and Query",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOX | 外部クラウドAIに接続しない物理AIサーバー | フォースネット株式会社",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOX",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOXは、ローカルLLM（＝ChatGPTのような大規模言語モデルを、お客様環境内で動作させる外部送信不要のAI",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省・経済産業省「AI事業者ガイドライン 第1.1版」（2025年3月）の主要要件に対する、閉域AI BOXの対応状況です",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOXでの対応",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 本表は閉域AI BOXの構成上の特性を示すものであり、実際の対応は導入環境・運用体制により異なります",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOXの最初の製品パッケージとして、VoiceLine 回線との連携を提供開始します",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "VoiceLine 回線の全通話録音機能で記録した音声データを、閉域AI BOXのローカルLLMで自動文字起こし・要約",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "通話録音データを閉域AI BOXで文字起こし・要約します",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOXを検討する際に、構成、事前整理、外注時の進め方と費用の考え方を、導入判断に必要な範囲で具体的に整理します",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOXは、お客様の閉域環境に専用の物理AIサーバーを設置し、外部のクラウドAIサービスを経由しない構成です",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$25,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€75,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "€25,000 / year",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "European market rates. GB300 starts at €150,000 per year and is confirmed by quote depending on configuration.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "from $150,000",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We moved our AI workloads off the cloud and cut costs by 88%. Here's when enterprises should do the same.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony has raised $2 million in seed funding led by True Ventures. For more information, visit the",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gartner's 2026 Magic Quadrant for Enterprise Storage Platforms reflects a broad infrastructure shift driven by hypervisor changes, cloud-style consumption economics, surging hardware costs, and AI.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "8 Ways to Cut IT Costs and Improve ROI",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony is venture capital-backed and has raised $2 million in seed capital from VC firm True Ventures LP.",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "VCs bet $30M on Larridin's ability to help enterprises demonstrate AI's value for money",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics startup Tutor Intelligence nabs $75M investment",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Launches cascadeflow: Cuts Costs By Up To 85% By Automatically Finding The Best and Least Expensive Language Model To Optimize Every Prompt, Agent Call and Query",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区円山町28-4",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "users at once",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "72-core Grace CPU (Arm Neoverse) · up to 8 TB/s GPU bandwidth",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "500+ concurrent users",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "GPU memory",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 8 TB/s (GPU)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Up to ~1 T parameters",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Concurrent users",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-Certified GPU Appliance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "GPU-Accelerated Local Inference",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Unlimited usage, no token or GPU metering",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Self-hosted stack deployed via Docker Compose on NVIDIA-class GPU system",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Web UI (admin + end users)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "LLM runtime with GPU acceleration",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "GB10: 128 GB unified memory. GB300: 784 GB coherent memory, models up to ~1T parameters",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "The product, branded as \"AI in a Box,\" is a small, stackable node that can host large language models, adapters, and AI agents while keeping data within an organization's local network. Each unit supports up to five users and can be combined into clusters to scale across departments.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The system requires no specialized knowledge to set up or operate and supports up to five users per device, with stackable scalability for larger teams.",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "is collaborating with Lemony to deploy its enterprise-grade AI models on the Lemony nodes. These models will allow Lemony users to deploy trusted IBM AI solutions securely and locally, bypassing the need for massive infrastructure investment.",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "/ month, which can be accessed by up to five individuals and includes hardware and software access, updates, and support. Pricing per node is reduced as customers add nodes. Teams can stack multiple nodes for advanced multi-model or departmental usage. A two-week free trial program is available at",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "オープンソースのAIを動かす専用のGPUサーバーを、お客様のネットワーク内に設置",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "GPU / LLM",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "Gemma・Llama・Qwen 等のオープンソースが代表例）を搭載したGPUサーバーを、御社の閉域網内に物理サーバーとして設置します",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Server",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "方法の一つは、ローカルLLMを搭載したGPUサーバーを顧客の閉域網内に設置し、外部クラウドAIサービスや公衆インターネットから切り離して利用する構成です",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "必要なのは、GPUサーバーとローカルLLMだけではありません",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "GPUサーバー、ストレージ、設置、電源、ネットワーク、初期設定、文書取り込み、既存システム接続、保守体制など、含める範囲で変わります",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "人数だけでは構成を決められないため、文書の量や形式、同時利用、ネットワーク、更新・保守の条件を確認し、デモやPoCで確かめる範囲を整理します",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "On-Prem LLM Server on NVIDIA GB10 & GB300 | Understand Tech",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Fully managed on-premise enterprise AI.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy the Understand Tech platform on-premise (air-gapped ready) to run local LLMs, RAG, and workflows with enterprise governance, without cloud dependency.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Runs fully on-premise (air-gapped / network-restricted)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Offline updates and security patches (validated releases)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise enterprise AI, running inside your own building.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "No cloud dependency. No token limits.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Data-center class NVIDIA Grace Blackwell platforms, delivered as a sovereign, on-premise, air-gapped appliance. Two form factors, sized for teams or full organizations.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "100% offline / air-gapped capable",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Compare building your own on-premise AI stack from scratch versus deploying AI-in-a-Box.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Signed air-gapped updates, vendor SLA.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "See how on-premise compares to cloud-only solutions.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise deployment",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped / offline",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI Computing | On-Premise AI Acceleration | Qualcomm",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deliver real-time insights to enable on-demand decisions by processing data at the source. Reduce dependency on the cloud keeping data on-premise.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Transforming business with on-prem AI",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "The Qualcomm Dragonwing™ AI On-Prem Appliance Solution enables businesses to run custom and off-the-shelf AI applications on their premises, including generative AI – allowing sensitive customer data, fine-tuned models and inference loads to remain on premises. Powered by the",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm® AI Inference Suite for On-Prem",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "This high performance Edge AI box is a cutting-edge on-premise solution. Powered by the Qualcomm® QRB5165N and Qualcomm® Cloud AI 100, it provides incredible AI computing power at ultra low power consumption. Also supports superior video multiprocessing capability and optional 5G Connectivity for broad based deployment.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm Launches On-Prem AI Appliance...",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI On-Prem Appliance",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Introduces On-Prem AI Device for Enterprises -- Campus Technology",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Introduces On-Prem AI Device for Enterprises",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product, branded as \"AI in a Box,\" is a small, stackable node that can host large language models, adapters, and AI agents while keeping data within an organization's local network. Each unit supports up to five users and can be combined into clusters to scale across departments.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony launches on-premises AI solution for local model deployment - SiliconANGLE",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony launches on-premises AI solution for local model deployment",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Generative artificial intelligence on-premise solutions provider",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": ", officially Uptime Industries Inc., today announced the launch of a new, on-premises AI solution designed to give organizations the power of large language models without the risks of cloud-based deployment.",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "— 2 to 128 channels depending on model, running locally with no cloud dependency.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Our model is on-premise hardware sold outright. There is no cloud account, no subscription, and no recurring billing relationship with your end customer — which means there is also",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing Lemony, The First Plug-and-Play Device For Secure, On-Premise Artificial Intelligence",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire/ -- Lemony today announced the official launch of its groundbreaking on-premise artificial intelligence solution that is redefining how organizations deploy generative AI. Lemony's secure, hardware-based node offers enterprise-grade 'AI in a Box,' empowering companies to run advanced, end-to-end AI workflows privately, instantly, and without cloud dependence.",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOX | 外部クラウドAIに接続しない物理AIサーバー | フォースネット株式会社",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOX",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の閉域環境に、",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の閉域ネットワーク",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOXは、ローカルLLM（＝ChatGPTのような大規模言語モデルを、お客様環境内で動作させる外部送信不要のAI",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "Gemma・Llama・Qwen 等のオープンソースが代表例）を搭載したGPUサーバーを、御社の閉域網内に物理サーバーとして設置します",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "※ ここでいう「閉域」とは、外部クラウドAIサービスや公衆インターネットから切り離し、お客様のネットワーク内で完結する環境のことです",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域網（※VPN接続等）",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "Air-Gapped",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域クラウドでも",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省・経済産業省「AI事業者ガイドライン 第1.1版」（2025年3月）の主要要件に対する、閉域AI BOXの対応状況です",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOXでの対応",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報を含むデータも閉域網内で処理完結",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 本表は閉域AI BOXの構成上の特性を示すものであり、実際の対応は導入環境・運用体制により異なります",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "閉域AI BOXの最初の製品パッケージとして、VoiceLine 回線との連携を提供開始します",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "Offline updates and security patches (validated releases)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Updates & Patch Management",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver over-the-air updates to the appliance: new platform releases, model updates, security patches, and health checks. Fully offline-capable delivery available for air-gapped sites.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "OTA Update",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Signed air-gapped updates, vendor SLA.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Managed software lifecycle: updates, security patches, and platform health checks",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offline update workflows for air-gapped environments",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "AI-in-a-Box is an Understand Tech software-defined AI solution deployed on NVIDIA-certified hardware. NVIDIA hardware, drivers, and firmware are provided under NVIDIA's applicable terms and warranties.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment, Operations, and Updates",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "How are updates delivered?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "What is included in Update Services?",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": ". If you don’t want to share your website activities, including browsing behavior, with our third-party partners via these tracking technologies, click on “Cookie Settings\" button below to update your preferences. You can also update your cookie preferences at any time by clicking the \"Cookie Settings\" link at the bottom of this website.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony said its approach is aimed at organizations reluctant to use cloud-based AI due to concerns over data privacy, compliance, and regulatory requirements. The nodes come preloaded with 16 open source models, including IBM's Granite family and Meta's Llama, and can be updated quarterly via a USB connection.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Nutanix Cloud Platform Updates Expand Capabilities for Production Agentic AI",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "UPDATED 09:00 EDT / JUNE 11 2025",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Get SiliconANGLE updates and analysis.",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "A stable hardware platform plus a firmware stack you can put your own name on:",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Firmware customisation",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "— depends on whether you need custom firmware and branding, or standard units. We quote both tracks separately so you can see the cost of each.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Firmware updates and long-term supply",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Firmware updates are free for the life of the hardware.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us: target market, expected annual volume, whether you need firmware branding, and which certifications you need to clear. We’ll come back with an MOQ, a lead time, and the certificate set.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Minimum order quantity is quoted per programme, because it depends on how much is customised: firmware branding, enclosure, packaging and certification all move the number. Tell us your target market and expected annual volume and we will return an MOQ with the lead time and certificate set.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Firmware branding, boot logo, model naming, enclosure colour and packaging can all carry your brand. SDK and API access is available so your team can build and maintain your own management interface on top of the platform.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Send us your target market, expected annual volume, whether you need firmware branding, and which certifications you must clear. We will come back with an MOQ, a lead time and the certificate set, then a sample unit for evaluation.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "When typing in this field, a list of search results will appear and be automatically updated as you type.",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "/ month, which can be accessed by up to five individuals and includes hardware and software access, updates, and support. Pricing per node is reduced as customers add nodes. Teams can stack multiple nodes for advanced multi-model or departmental usage. A two-week free trial program is available at",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "規定の手順に従って利用していても、設定変更や仕様更新により意図せずデータが外部送信される可能性を完全には排除できません",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "ストレージ、社内端末からの通信経路、IDと権限、監査ログ、バックアップ、モデルやソフトウェアの更新、監視、障害対応まで含めて運用設計を行います",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "費用は、初期基盤、データ準備と接続、認証とログ、日常運用、更新と置き換えに分けて考えると整理しやすくなります",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、既存のNASやファイルサーバーとの接続、文書の取り込み、更新方法、利用者認証は個別に設計・検証が必要です",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "回答の正解や根拠を確かめる方法と、文書の更新・アクセス権限を誰が管理するかも決めておきます",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "人数だけでは構成を決められないため、文書の量や形式、同時利用、ネットワーク、更新・保守の条件を確認し、デモやPoCで確かめる範囲を整理します",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "based on NVIDIA published platform information; final figures confirmed at launch. Power draw, acoustics, thermals and detailed mechanical specs depend on the specific NVIDIA / OEM system used, refer to the OEM hardware datasheet for those parameters.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "The smart city evolution is happening around the globe. Edge AI solutions help city managers in various ways, from traffic flow management to energy resource management, to increased operational efficiencies. Dynamic applications and solutions at the edge allow a city to manage and operate its assets using its data and insights to improve the quality of life for citizens and businesses.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Venezuela, Bolivarian Republic of",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Redmond Channel Partner",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The new offering also has the support of Charasoft Corp., a certified reseller and trusted provider to U.S. government agencies, who will sell Lemony’s AI nodes to its public sector and healthcare customers.",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & White Label AI Video Analytics",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & White Label",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & white label AI video analytics",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "White label isn’t a sticker. The options cover:",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "This is the part most OEM conversations actually turn on, so we’ll state it plainly.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "If a question has an answer we can’t commit to yet, we say so. Guessing a certification date is how OEM relationships end.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Two things decide whether an OEM programme survives its second year:",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Start an OEM conversation",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Request OEM terms",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": ", so OEM units drop into existing deployments without proprietary gateways.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, for OEM programmes. It covers device management, event output and algorithm configuration, so the platform can be integrated into your existing product rather than sold alongside it.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "How do we start an OEM conversation?",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": ": a certified reseller and trusted provider to U.S. government agencies, will sell Lemony's secure, privatized AI nodes to its public sector and healthcare customers, providing additional evidence that Lemony is ready for mission-critical use in sensitive, highly regulated environments.",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・リセラーの方",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・リセラー",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "All-inclusive: hardware, platform, apps, support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment & Onboarding Support",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Patches • Monitoring • Support",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware is a one-off cost. Software, maintenance and people are per year, multiplied by 3.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "All-inclusive: appliance, platform license, models, updates and support.",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supported LLMs",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Open-weight models supported: GPT-OSS-20B / 120B, Qwen3.8 (27B, Flash-Next), DeepSeek-V4-Flash, GLM-5.3-Flash",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "mDNS (understand.local) supported; corporate networks can use IP-based access",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-user support with concurrent usage (workers and services can be scaled)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Updates & Maintenance",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offline update workflows for air-gapped environments",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Clear separation: Understand Tech provides software + support; customer operates infrastructure",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Restore procedures supported (guided and manual)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Supports offsite copy workflows (customer-controlled)",
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Our Edge AI solutions delivered into an Edge AI Box help accelerate the deployment of new Edge AI applications with distributed computing from the edge to edge-cloud, including support for 5G. Address the growing number of use cases across IoT to cost-effectively test applications and reduce deployment time across security and surveillance, retail, smart factories, cities, and more.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Bringing Edge AI upgrades into the factory setting can increase operational efficiencies and capabilities. Thanks to Edge AI, intelligent maintenance, smart quality control, and advanced inventory and layout planning are among the possibilities that increase a business’ competitiveness and allow it to stay ahead at the forefront of digital transformation.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Empower your cameras with Vision Edge AI and easily change AI inference models from the Cloud. Support multiple ONVIF cameras with different AI inferences on each input. Support for Microsoft and Amazon cloud with Edge AI capability. Made with the Qualcomm® QCS610.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "This high performance Edge AI box is a cutting-edge on-premise solution. Powered by the Qualcomm® QRB5165N and Qualcomm® Cloud AI 100, it provides incredible AI computing power at ultra low power consumption. Also supports superior video multiprocessing capability and optional 5G Connectivity for broad based deployment.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "EB5 Edge AI Box is a high-performance AI edge computing device with support for industrial-grade OSware, supports edge-cloud synergy, remote AI algorithm and application deployment, FOTA.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "EB6 Edge AI Box is a premium tier edge computing device with up to 15 TOPS of AI performance, extendable to 70 TOPS with an accelerator card. Support up to 24 channels of FHD video decoding. Ultra-high AI performance and embedded with OSware.",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "Premium processor designed to help you deliver maximum performance for compute intensive camera, video conferencing and Edge AI applications with support Wi-Fi 6 an...",
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "pass": 3
+   },
+   {
+    "quote": "The product, branded as \"AI in a Box,\" is a small, stackable node that can host large language models, adapters, and AI agents while keeping data within an organization's local network. Each unit supports up to five users and can be combined into clusters to scale across departments.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships with IBM, JetBrains, and Carahsoft support the launch. IBM will make its enterprise AI models available on the nodes, JetBrains will integrate its development tools, and Carahsoft will distribute the devices to U.S. government and healthcare customers.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The product is priced at $499 per month per node, including hardware, software updates, and support, with discounts for additional units. A two-week trial is available through the company's website.",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Getting Ahead of Student Risk with Proactive Support",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "How Colleges Are Using AI to Strengthen Student Services and Support Staff",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The system requires no specialized knowledge to set up or operate and supports up to five users per device, with stackable scalability for larger teams.",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "The new offering also has the support of Charasoft Corp., a certified reseller and trusted provider to U.S. government agencies, who will sell Lemony’s AI nodes to its public sector and healthcare customers.",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Support our mission to keep content open and free by engaging with theCUBE community.",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Support SiliconANGLE financially by buying your AWS services from our",
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "— advance replacement terms and warranty period stated in writing before the first order.",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Which certifications can you support?",
+    "url": "https://aisurveillancecamera.com/oem/",
+    "pass": 3
+   },
+   {
+    "quote": "/ month, which can be accessed by up to five individuals and includes hardware and software access, updates, and support. Pricing per node is reduced as customers add nodes. Teams can stack multiple nodes for advanced multi-model or departmental usage. A two-week free trial program is available at",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークの設計・構築・保守",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞（2023年）",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "BlackBerry Japan調査（2023年）",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "GPUサーバー、ストレージ、設置、電源、ネットワーク、初期設定、文書取り込み、既存システム接続、保守体制など、含める範囲で変わります",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   },
+   {
+    "quote": "人数だけでは構成を決められないため、文書の量や形式、同時利用、ネットワーク、更新・保守の条件を確認し、デモやPoCで確かめる範囲を整理します",
+    "url": "https://forcenet.jp/local-ai-box/",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": "Israel",
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Israel",
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://understand.tech/product/ai-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.courierpress.com/press-release/story/75328/understand-tech-launches-ai-in-a-box-an-integrated-on-premise-enterprise-ai-appliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/homelab/comments/1rylcdu/what_would_make_a_small_local_ai_edge_ai_box/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.iguazio.com/glossary/on-premise-ai-platform/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.columbiatribune.com/press-release/story/54503/understand-tech-launches-ai-in-a-box-an-integrated-on-premise-enterprise-ai-appliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/technology/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://iternal.ai/best-ai-air-gapped-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/deployment-options",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/StartUpIndia/comments/1rz58ry/we_have_an_airgapped_secure_onprem_ai_i_created/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://go.ai/technology/air-gapped-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.ai/company/press-releases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/deployment/zylon-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/startups/comments/1wssw69/anyone_here_actually_sold_onprem_local_ai_to/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversight.ai/oem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aisurveillancecamera.com/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/my-ai-front-desk-white-label-alternative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vida.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.aipreneurs.com/glossary/ai-white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vastdata.com/customers/sds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ap.org/news-highlights/best-of-the-week/first-winner/2025/as-israel-uses-u-s-made-ai-models-in-war-concerns-arise-about-techs-role-in-who-lives-and-who-dies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pcloudy.com/lab-in-a-box-on-premise-testing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.timesofisrael.com/israel-is-building-ais-safety-layer/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://globalforum.diaglobal.org/issue/november-2021/policies-to-promote-development-of-ai-based-medical-devices-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.nhk.or.jp/nhkworld/news/20261029de67999/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalhealthmedicine.com/site/download-doc-pdf.html?docid=523",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pmda.go.jp/files/000266100.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.raps.org/resource/asia-pacific-roundup-japan-s-pmda-shares-principles-for-evaluating-generative-ai-enabled-medical-devices.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.penguinsolutions.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://premioinc.com/ja/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cuon.co.jp/news/21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/ja/blog/llm-gateway-on-premise-infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/media/9942/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://forcenet.jp/local-ai-box/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AI in a box on-premise device",
+   "results": [
+    "https://understand.tech/product/ai-in-a-box",
+    "https://www.qualcomm.com/artificial-intelligence/edge-ai-box",
+    "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "https://www.courierpress.com/press-release/story/75328/understand-tech-launches-ai-in-a-box-an-integrated-on-premise-enterprise-ai-appliance/",
+    "https://www.reddit.com/r/homelab/comments/1rylcdu/what_would_make_a_small_local_ai_edge_ai_box/",
+    "https://www.iguazio.com/glossary/on-premise-ai-platform/",
+    "https://www.pcloudy.com/lab-in-a-box-on-premise-testing/",
+    "https://www.aewin.com/tech-blog-detail/Building-Secure-and-Efficient-On-Prem-AI-Infrastructure/",
+    "https://www.zylon.ai/deployment/zylon-in-a-box",
+    "https://www.autonomous.ai/ourblog/on-premise-ai"
+   ]
+  },
+  {
+   "query": "AI in a box on-premise device on-premise LLM appliance company",
+   "results": [
+    "https://understand.tech/product/ai-in-a-box",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/",
+    "https://www.columbiatribune.com/press-release/story/54503/understand-tech-launches-ai-in-a-box-an-integrated-on-premise-enterprise-ai-appliance/",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://go.ai/technology/local-llm",
+    "https://www.qualcomm.com/news/releases/2025/01/qualcomm-launches-on-prem-ai-appliance-solution-and-inference-su",
+    "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "https://picovoice.ai/blog/on-device-llm/",
+    "https://llmappliance.com/"
+   ]
+  },
+  {
+   "query": "AI in a box on-premise device air-gapped AI box price",
+   "results": [
+    "https://understand.tech/product/ai-in-a-box",
+    "https://iternal.ai/best-ai-air-gapped-environments",
+    "https://www.zylon.ai/deployment-options",
+    "https://www.inwizards.com/ai-blog/air-gapped-ai",
+    "https://www.reddit.com/r/StartUpIndia/comments/1rz58ry/we_have_an_airgapped_secure_onprem_ai_i_created/",
+    "https://go.ai/technology/air-gapped-ai",
+    "https://vdf.ai/blog/air-gapped-ai-deployments-restricted-networks/",
+    "https://accuknox.com/ja/blog/ai-security-platform-for-on-prem-air-gapped",
+    "https://discretestack.com/blog/air-gapped-ai-deployment-no-internet-guide",
+    "https://www.beyond.ai/products/ai-in-a-box"
+   ]
+  },
+  {
+   "query": "AI in a box on-premise device startup raises on-prem AI hardware",
+   "results": [
+    "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "https://go.ai/company/press-releases",
+    "https://www.zylon.ai/deployment/zylon-in-a-box",
+    "https://www.pryon.com/landing/enterprises-generative-ai-on-premises",
+    "https://www.reddit.com/r/startups/comments/1wssw69/anyone_here_actually_sold_onprem_local_ai_to/",
+    "https://www.linkedin.com/posts/yourstory-com_aina-a-design-led-consumer-hardware-startup-activity-7483795732232175616-Y9Ka",
+    "https://siliconangle.com/2025/06/11/lemony-launches-premises-ai-solution-local-model-deployment/",
+    "https://www.youtube.com/watch?v=GqSXkWbYVZo",
+    "https://www.aikido.dev/blog/the-aikido-machine-on-prem-ai-pentesting-that-never-leaves-your-network",
+    "https://www.desmoinesregister.com/press-release/story/35019/understand-tech-launches-ai-in-a-box-an-integrated-on-premise-enterprise-ai-appliance/"
+   ]
+  },
+  {
+   "query": "AI in a box on-premise device white label OEM reseller",
+   "results": [
+    "https://conversight.ai/oem-partners/",
+    "https://aisurveillancecamera.com/oem/",
+    "https://trillet.ai/blogs/my-ai-front-desk-white-label-alternative",
+    "https://vida.io/partners",
+    "https://go.aipreneurs.com/glossary/ai-white-label-reseller",
+    "https://campustechnology.com/articles/2025/10/08/lemony-introduces-on-premise-ai-device-for-enterprises.aspx",
+    "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.adreamertech.com/NewsDetail/7627845.html",
+    "https://aibox-factory.com/blog/product-news/white-label-ai-hardware-manufacturer/"
+   ]
+  },
+  {
+   "query": "AI in a box on-premise device Israel",
+   "results": [
+    "https://www.facebook.com/IsraelinNY/videos/imagine-tech-that-takes-care-of-the-toughest-tasks-for-youwatch-this-israeli-sta/1215821273820649/",
+    "https://www.vastdata.com/customers/sds",
+    "https://www.prnewswire.com/news-releases/introducing-lemony-the-first-plug-and-play-device-for-secure-on-premise-artificial-intelligence-302478370.html",
+    "https://www.zylon.ai/deployment/zylon-in-a-box",
+    "https://www.ap.org/news-highlights/best-of-the-week/first-winner/2025/as-israel-uses-u-s-made-ai-models-in-war-concerns-arise-about-techs-role-in-who-lives-and-who-dies/",
+    "https://www.pcloudy.com/lab-in-a-box-on-premise-testing/",
+    "https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip",
+    "https://blogs.timesofisrael.com/israel-is-building-ais-safety-layer/",
+    "https://ultrabot.ai/insights/blog-sovereign-ai-onprem/",
+    "https://www.linkedin.com/pulse/clouderas-ai-in-a-box-gives-enterprises-new-way-build-private-ai-rer0f"
+   ]
+  },
+  {
+   "query": "AI in a box on-premise device Japan distributor",
+   "results": [
+    "https://globalforum.diaglobal.org/issue/november-2021/policies-to-promote-development-of-ai-based-medical-devices-in-japan/",
+    "https://www3.nhk.or.jp/nhkworld/news/20261029de67999/",
+    "https://www.globalhealthmedicine.com/site/download-doc-pdf.html?docid=523",
+    "https://www.pmda.go.jp/files/000266100.pdf",
+    "https://www.raps.org/resource/asia-pacific-roundup-japan-s-pmda-shares-principles-for-evaluating-generative-ai-enabled-medical-devices.html",
+    "https://www.penguinsolutions.com/en-us",
+    "https://www.tokyofoundation.org/research/detail.php?id=892",
+    "https://www.datamintelligence.com/blogs/japan-ai-surgery-revolution-ai-software-medical-device",
+    "https://www.trade.gov/market-intelligence/japan-software-medical-device-samd",
+    "https://jp.cloudera.com/partners/solutions/dell-technologies/ai-in-a-box.html"
+   ]
+  },
+  {
+   "query": "AI in a Box（箱型オンプレLLM）",
+   "results": [
+    "https://premioinc.com/ja/collections/llm-1u-rpl-series-edge-ai-rackmount-server",
+    "https://www.cuon.co.jp/news/21",
+    "https://www.truefoundry.com/ja/blog/llm-gateway-on-premise-infrastructure",
+    "https://japan-ai.co.jp/media/9942/",
+    "https://www.reddit.com/r/sysadmin/comments/1tjp4x5/setting_up_on_premises_llm_infrastructure_for/?tl=ja",
+    "https://forcenet.jp/local-ai-box/",
+    "https://hatenabase.jp/blog/enterprise-local-llm-onprem-guide/",
+    "https://www.ctc-g.co.jp/keys/blog/detail/onprem-llm-finance-verification",
+    "https://www.networld.co.jp/solution/ai-portfolio/05.html",
+    "https://www.lpstech.com/site/en/service/data-ai/llm-in-a-box.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

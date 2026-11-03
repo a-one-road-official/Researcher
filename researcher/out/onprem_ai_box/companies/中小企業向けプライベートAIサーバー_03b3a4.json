@@ -1,0 +1,2100 @@
+{
+ "name": "中小企業向けプライベートAIサーバー",
+ "en": "private AI server for small business",
+ "aliases": [
+  "SMB AI server",
+  "local AI server",
+  "private ChatGPT server"
+ ],
+ "context": "汎用",
+ "kind": "market",
+ "researched_at": "2026-11-03T13:26:58.599589+00:00",
+ "evidence": {
+  "提供企業・製品名": [
+   {
+    "quote": "Workgroup AI Box",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances and Open Source Project Systems",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "A local AI system eliminates these concerns. The data never leaves your infrastructure. There is no third-party processor to add to your privacy notices, no data processing agreements to negotiate with AI vendors, and no audit trail obligations for external data sharing.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": ", not an appliance.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI sells appliances.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Almost none of it comes from Zanus AI. It comes from a cluster of review sites that appeared in the last few months, and the more of them you read, the less they agree with each other. One describes Zanus as a supply chain orchestration layer that plugs into warehouse control systems and fleet telematics. That contradicts the vendor's own description of a general purpose on-premises AI appliance.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "The DGX Station's memory pool is designed for trillion-parameter-class work. Unless a Zanus quote comes back with comparable HBM capacity, and nothing published suggests it does, DGX holds models that an appliance in this class will not.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "There is a market for NVIDIA hardware. There is not much of one for a proprietary appliance.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "An appliance is a way of buying the people you do not have, packaged as hardware. That is a legitimate thing to buy. It is also why it costs more per unit of raw compute, and anyone telling you otherwise is selling one or the other.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances win on time and accountability. Component systems win on ceiling and exit. Pick the failure mode you can live with.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Not because I think an appliance beats a DGX on merit, but because the quote forces the conversation that decides this. Ask for the GPU model and the bandwidth. If the answer is specific and the price is reasonable for what is inside, you have found a company selling integration work at a fair markup, which is a real and useful thing.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Is an AI appliance worth it versus buying components?",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "It depends entirely on whether you have machine learning engineers. An appliance bundles integration work you would otherwise pay salaries to do, which is valuable for a team without that capability and pure markup for a team that has it. The break-even is usually about eighteen months of one engineer's time, so count your people before you count your FLOPs.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Is a proprietary AI appliance safe to depend on long term?",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "on-premise ai appliance",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "ai appliance vs dgx spark",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Three models. Same platform. Configured to your exact needs — from startup to enterprise.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ", access management, and audit trails before issuing or renewing policies. Cloud AI introduces third-party processing risk that complicates underwriting.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— including unauthorized cross-border transfers to cloud AI providers. The",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— including penalties for unauthorized cross-border data transfers to cloud AI providers outside your jurisdiction. The",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Is Zanus AI related to Zanussi appliances?",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "appliance brand Zanussi. Zanus AI designs and manufactures private, on-premises",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "A local AI system eliminates these concerns. The data never leaves your infrastructure. There is no third-party processor to add to your privacy notices, no data processing agreements to negotiate with AI vendors, and no audit trail obligations for external data sharing.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Local AI for a One-Person Startup or Small Business | Black Scarab",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Local AI for a One-Person Startup or Small Business",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "A practical local AI infrastructure guide for founders and small teams comparing RTX 4090 and RTX 5090 workstations, Apple Mac Studio, DGX Spark-class appliances, rackmount GPU servers, and workstation-plus-NAS architectures.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark-class appliance or small rackmount GPU server",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Cleaner appliance path or server-style expansion for multiple users.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA DGX Spark-class appliance",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA software path, coherent memory, compact developer appliance model.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "For a one-person startup, a workstation plus disciplined storage is usually better than a small server bought too early.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Rackmount / Appliance Path",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Server CPU or appliance-integrated processor.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GPU, Grace Blackwell-class appliance, or server GPU depending on SKU.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Ubuntu Server, enterprise Linux, or vendor appliance OS.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Small Server / Appliance",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "More realistic on server or appliance systems.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "The RTX 4090 workstation is the mature default. The RTX 5090 workstation may become a better high-end path if real pricing and availability cooperate. The Mac Studio is a strong quiet-office choice. DGX Spark-class systems are attractive if the buyer values appliance simplicity. Rackmount servers are a commitment, not a casual upgrade.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanical hard drives are fine for archiving source documents and backups. NVMe flash is preferable for vector database persistence, ingestion, startup, and disk-backed indexes. Small, memory-resident indexes may perform adequately on slower storage, but NVMe provides the most consistent latency as your corpus grows.",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Starting Around $3,000.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "A private AI server sitting in your building, running on your data, doing the in-between work your team has been buried under for years. One hardware purchase, roughly $3,000–$20,000 depending on scale, plus a managed service to keep it running and the electricity to power it. No per-token meter, no rate limit, and no third party touching your files.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Local AI: roughly $3,000–$20,000 hardware, one time,* + management and electricity",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "projected on-premises AI market size by 2028, up from $12B in 2024, a 31% CAGR",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Gartner projects 75% of enterprises will shift from cloud-only to hybrid or on-premises AI by 2026, with the on-premises AI market growing from $12B (2024) to $45B by 2028. Here's the substance behind the trend.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "After the hardware is paid off, your ongoing cost is the managed service that keeps it healthy plus what the GPU draws from the wall, not a usage meter that climbs with every request. A busy 10-person team spending $300–$500 / month on cloud APIs can typically pay back the hardware in 12–18 months.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "~$3,000–$6,000",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "~$8,000–$15,000",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "~$20,000+",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "A local AI server is a one-time hardware purchase, typically $3,000–$20,000 depending on scale.* We manage and operate it for you as an ongoing service, and the only variable cost beyond that is the wattage on your power bill, not a per-request meter. We've seen mid-size deployments pay back the hardware inside a year and run for five more.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "$1,200/mo",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "$800 - $2,400/month",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "$150/mo",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "$100/mo",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "$95/mo",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "~$400/mo",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "$745/mo",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "$11,082",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "$26,820 spent",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "$11,082 spent",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "$20 - $30/user/month forever",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "$0/month after purchase",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "The financial trigger: $2,000+ per month in AI costs",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "If your business spends $2,000 or more per month across AI API costs and subscriptions, the economics of on-premise hardware become compelling. A VRLA Tech AI workstation in the $10,000–$20,000 range replaces $24,000–$60,000 in annual API spending over a 3-year hardware lifecycle. The break-even is typically 4–8 months.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Below $1,000 per month, the convenience and zero-maintenance nature of cloud AI tools usually outweighs the capital investment. Between $1,000 and $2,000, it is a closer call that depends on your specific use cases and data sensitivity requirements.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000–$3,000/mo",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "$3,000–$8,000/mo",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "$8,000–$15,000/mo",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Local AI Server: Build Guide + Real Costs (2026) | Compute Market",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best GPU Under $500",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$1,599 – $1,999",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "A local AI server for your business is a dedicated machine running open-source language models on your own hardware, inside your own network. No data leaves your building. No per-token API charges. No vendor lock-in. For a 10-person team with moderate AI usage, a $2,500-$7,500 local server pays for itself in 3-5 months compared to cloud API costs — and every month after that is pure savings.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud API pricing is per-token and per-request. A busy 10-person team can easily spend $300-$500/month on OpenAI or Anthropic APIs. Local hardware is a one-time capital expense with minimal ongoing electricity costs.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$10.00",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$0.0088",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$15.00",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$0.0120",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$0.0005",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing as of May 2026 from published rate cards. Actual costs vary with prompt length and caching.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Search for Zanus AI pricing and you will find confident figures. Roughly $19,900 to $54,900 for an entry configuration. Around $42,000 for a mid-market server. $120,000 to $150,000 for a cluster. Detailed power draw tables, GPU architecture breakdowns, five-year total cost models down to the dollar.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark Alternatives (October 2026): Cheaper Picks, RTX Spark and AMD, Ranked by Price",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark is $6,950 (64 GB $4,999). RTX Spark, AMD Strix Halo, Mac Studio and GB10 clones ranked by price, with real agent benchmarks.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "OpenRouter pricing explained: no subscription, a 5.5% fee on credits, free models with rate limits and $0 BYOK fees. See when a direct API is cheaper.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Hire AI engineers ($150K–$300K/yr each)",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Cost: $500K–$2M+",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— 50 real-time operations per node",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud AI: GPU instances at $2–$30+/hour. Token fees. Per-seat charges. AWS bills hit $10K–$50K+/month fast.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$2–$30+/hour per GPU",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "24/7 = $17K–$260K+/yr per GPU",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$12K–$60K+/yr",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$50K–$150K+/yr",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$100K–$500K+",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$0 — ready from Day 1",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$500K–$2M+",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "$18K/month on AWS",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ". Replaced $12K/month in cloud costs.\"",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ". We killed $8K/month in OpenAI API fees.\"",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "The financial trigger: $2,000+ per month in AI costs",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "If your business spends $2,000 or more per month across AI API costs and subscriptions, the economics of on-premise hardware become compelling. A VRLA Tech AI workstation in the $10,000–$20,000 range replaces $24,000–$60,000 in annual API spending over a 3-year hardware lifecycle. The break-even is typically 4–8 months.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Below $1,000 per month, the convenience and zero-maintenance nature of cloud AI tools usually outweighs the capital investment. Between $1,000 and $2,000, it is a closer call that depends on your specific use cases and data sensitivity requirements.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   }
+  ],
+  "利用人数・性能": [
+   {
+    "quote": "break-even on a serious GPU build at moderate utilization (peer-reviewed TCO analysis, arXiv 2025)",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "One server can handle dozens of concurrent users with vLLM and modern open-weight models.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "After the hardware is paid off, your ongoing cost is the managed service that keeps it healthy plus what the GPU draws from the wall, not a usage meter that climbs with every request. A busy 10-person team spending $300–$500 / month on cloud APIs can typically pay back the hardware in 12–18 months.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Independent TCO analyses (Lenovo Press, SitePoint, peer-reviewed arXiv work, 2025) show 30-50% cost savings over 3 years when GPU utilization stays above 60-70%, and a 2-3× long-term cost premium for cloud LLMs at sustained enterprise scale.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "A single workstation-class machine for a small team or department. Handles 7B–13B class models at conversational speed for up to 5–10 concurrent users. Drops on a desk or in a closet.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "• 1× consumer-grade GPU (RTX 4090 / 5090 class)",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "A rack-mount production server purpose-built for sustained inference. Runs larger models (30B–70B class) and serves dozens of concurrent users. Built for company-wide deployment.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "• 1–2× datacenter or prosumer GPUs",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-GPU Cluster",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-GPU, multi-node deployments for organizations running mission-critical AI at scale. Designed around H100 / H200 / B200 class hardware with full redundancy and air-gap options for regulated environments.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "• 4+ enterprise GPUs across redundant nodes",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI & GPT Rackmount Servers & GPU Systems",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "Open-Air GPU Systems",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT Team (5 users)",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Pro (5 users)",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "Document analysis? Code assistant? Image generation? Customer support? Each use case maps to a specific GPU tier, RAM requirement, and pre-installed model. Fill out the quote form or call us - we'll recommend the right config.",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "ollama pull llama4:70b",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta · 8B, 70B, 405B",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "The benchmark standard. Excellent general assistant, strong reasoning, broad knowledge. 70B matches GPT-4 class on most business tasks.",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "The leading open-source coding model. Outperforms heavily quantized 70B models on code tasks. Fits in 24GB VRAM (32B Q4). GPT-4o-level coding.",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "DeepSeek · 7B, 14B, 32B, 70B",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "Low VRAM",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "ollama pull new-model:70b",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "What are you running, and for how many users?",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "SMB AI Server quote: AI for small/mid business, mid-tier GPU, ChatGPT alternative for 10-50 users. Please advise on workload + budget.",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "See how fast on-prem AI pays off vs. cloud GPU rental.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "4-GPU AI Inference & Training Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "8-GPU AI Training & Inference Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Fine-tuning requires running your data through a training process on GPU hardware. You cannot fine-tune a model on commercial API endpoints — you need your own hardware, or you need to pay significant cloud GPU costs for training runs. Local hardware gives you the ability to fine-tune continuously as your business data grows.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "5–20 person team, 70B models",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "4-GPU EPYC LLM Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "8-GPU EPYC Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "VRLA Tech builds AI workstations for small businesses that are ready to own their AI infrastructure. Our entry AI workstation — configured with a single NVIDIA RTX 5090 or RTX PRO 6000 Blackwell — handles LLM inference for teams of 2–15 users, Stable Diffusion image generation, and document processing automation. It ships pre-configured with Ollama and ready to serve requests on day one.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "For growing businesses that need 70B model capability or higher concurrent user capacity, the",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "VRLA Tech 4-GPU EPYC LLM Server",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud GPU Cost Breakdown 2026",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Servers for Pharma & Biotech: AlphaFold, Screening, MD, Drug Discovery | VRLA Tech",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Advisor",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "GPU Buying Guide",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best GPU for LLMs",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best GPU Under $500",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Best GPU for Stable Diffusion",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The convergence of powerful open-source models (Llama 3, Mistral, DeepSeek, Qwen) with affordable consumer GPUs has made local AI infrastructure accessible to businesses of every size. You no longer need a data center — a single tower server under a desk can serve your entire team.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Local inference on a GPU server delivers first-token response in under 500ms — faster than any cloud API round-trip, especially for teams outside major cloud regions.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "We model typical business usage: each employee makes ~40 AI queries per day (writing assistance, code review, data analysis, research), averaging 1,500 input tokens and 500 output tokens per query. This is moderate usage — heavy users will spend significantly more.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "5 users",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "10 users",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "25 users",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud costs: team size x 40 queries/day x 30 days x cost per query. Local costs: hardware cost / 24 months + ~$25-$50/mo electricity. Local models (Llama 3 70B, Qwen 32B) produce output quality competitive with GPT-4o for most business tasks.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "10 users x 40 queries/day x 30 days = 12,000 queries/month. At GPT-4o rates: 12,000 x $0.0088 =",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Selecting the right hardware for a business AI server is different from building a personal AI PC. You need to optimize for concurrent throughput (multiple users querying simultaneously), reliability (this is infrastructure, not a hobby project), and upgradeability (your usage will grow).",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Sizing that concurrent throughput is its own exercise — for the KV-cache math behind",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "We have not tested a Zanus server ourselves, and this verdict rests only on what the vendor publishes. The biggest weakness is how little of that there is. You cannot judge the hardware until a quote tells you the GPU model and VRAM.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Headquartered in Pompano Beach, Florida (Greater Fort Lauderdale), it sells turnkey private AI servers with enterprise GPUs built in, multiple local LLMs, a vector store, and an operating system layer carrying more than 15 pre-installed business modules covering chat, document intelligence, code assistance, spreadsheet automation and more.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Search for Zanus AI pricing and you will find confident figures. Roughly $19,900 to $54,900 for an entry configuration. Around $42,000 for a mid-market server. $120,000 to $150,000 for a cluster. Detailed power draw tables, GPU architecture breakdowns, five-year total cost models down to the dollar.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI itself quotes each server against the workload: users, storage, AI capabilities and industry modules, with financing offered. That is normal for enterprise infrastructure and it is not a red flag. What is a red flag is treating a number you found on an aggregator as a budget input.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Get a quote. Ask for the GPU model, the total VRAM, the memory bandwidth, and the specific LLMs that ship on the box. Those four answers turn this comparison from marketing into engineering, and any serious vendor will give them to you on a call.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "One-time purchase with unlimited users and no token fees is a different financial shape from metered API billing, and finance teams understand capital assets better than variable inference spend.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Not because I think an appliance beats a DGX on merit, but because the quote forces the conversation that decides this. Ask for the GPU model and the bandwidth. If the answer is specific and the price is reasonable for what is inside, you have found a company selling integration work at a fair markup, which is a real and useful thing.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": ". The Zanus AI Operating System with 15+ business modules, enterprise GPUs, and multiple LLMs ship ready to use from Day 1. Zero cloud dependency. Zero token fees. Zero monthly subscriptions.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   }
+  ],
+  "オフライン・エアギャップ": [
+   {
+    "quote": "Industry analysts and peer-reviewed TCO studies are now pointing the same direction: hybrid and on-premises inference is where serious enterprise AI is going.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "of enterprises projected to shift from cloud-only to hybrid/on-premises AI by 2026 (Gartner)",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "projected on-premises AI market size by 2028, up from $12B in 2024, a 31% CAGR",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "long-term cost premium for cloud LLMs vs. on-premises at sustained enterprise utilization",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Is Moving On-Prem",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Gartner projects 75% of enterprises will shift from cloud-only to hybrid or on-premises AI by 2026, with the on-premises AI market growing from $12B (2024) to $45B by 2028. Here's the substance behind the trend.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Privileged and regulated data never leaves your network.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Every step runs on-prem, so PHI never leaves the practice, HIPAA stays intact by design.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Most of the AI risks businesses face, data leakage, shadow AI, hallucinated answers acted on without context, prompt injection, get materially smaller when the model is yours, the data never leaves, and the audit trail is in your control.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "BrainPredict, On-Premises AI Enterprise Guide 2025 (Gartner Market Sizing)",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Allganize, Cloud vs. On-Prem LLM Deployment Models (75% Hybrid Shift)",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "arXiv, On-Premise LLM Cost-Benefit Analysis (11.9-Month Break-Even)",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Latitude, Cloud vs. On-Prem LLMs Long-Term Cost Analysis (2-3× Premium)",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Lenovo Press, On-Premise vs. Cloud Generative AI TCO 2025",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "TechMagic, HIPAA-Compliant LLMs & The On-Prem Advantage",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Works offline",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "Fully air-gapped capable",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI for Small Business in 2026: Is It Time to Own Your Infrastructure? - VRLA Tech",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "See how fast on-prem AI pays off vs. cloud GPU rental.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI for Small Business in 2026: Is It Time to Own Your Infrastructure?",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "At these spend levels, owning the hardware starts to look different. The economics of on-premise AI are straightforward: a one-time capital investment replaces recurring monthly costs. If the hardware pays for itself in the first year and then runs at near-zero marginal cost for years two and three, the total cost of ownership is dramatically lower than continued subscription and API spending.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "When on-premise AI makes sense for a small business",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI is not the right choice for every small business. Here is a clear framework for when it makes financial and practical sense.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "If your business spends $2,000 or more per month across AI API costs and subscriptions, the economics of on-premise hardware become compelling. A VRLA Tech AI workstation in the $10,000–$20,000 range replaces $24,000–$60,000 in annual API spending over a 3-year hardware lifecycle. The break-even is typically 4–8 months.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Small business on-premise AI hardware in 2026",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "A local AI system eliminates these concerns. The data never leaves your infrastructure. There is no third-party processor to add to your privacy notices, no data processing agreements to negotiate with AI vendors, and no audit trail obligations for external data sharing.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "serves as the team AI server — running in your server room or data closet, accessible from every workstation in the office, replacing your entire cloud AI API stack with a single on-premise investment.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI workstations for small business. 3-year warranty. Lifetime US support.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Why Businesses Are Moving AI On-Premise",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "workloads would run on-premise or at the edge — up from under 10% in 2023.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "A local AI server dramatically simplifies compliance because sensitive data never leaves your network. However, local hosting alone does not make you compliant — you still need documented policies, access controls, audit trails, and incident response procedures. Consult your compliance officer or legal team to map these controls to your specific regulatory requirements.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "on-premise",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Is Zanus AI an on-premise AI server?",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "The pitch is one purchase, no per-seat or per-token fees, no recurring software cost, and no internet connection required. The vendor says a server stores more than 2,000,000 business documents, and describes the architecture as designed to support HIPAA, GDPR and ABA confidentiality requirements because nothing leaves the building.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Almost none of it comes from Zanus AI. It comes from a cluster of review sites that appeared in the last few months, and the more of them you read, the less they agree with each other. One describes Zanus as a supply chain orchestration layer that plugs into warehouse control systems and fleet telematics. That contradicts the vendor's own description of a general purpose on-premises AI appliance.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped operation by default.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "on-premise ai appliance",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI Prime | Private On-Premises AI Server — No Cloud, Own Forever",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premises Private AI",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI Prime — Private On-Premises AI Server",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ". No internet required. HIPAA, GDPR, SOC 2, and",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "100% on-premises",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud vs On-Prem",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "No ChatGPT. No Copilot. No Grok. No Cloud AI.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "No internet required — fully air-gapped",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "100% on-premises — zero cloud dependency",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped / offline capable",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI: 100% on your premises. Air-gapped capable. True zero-trust by design.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI: On-premises architecture supports HIPAA, GDPR, ABA, EU AI Act programs. Built-in RBAC & audit trails. Auditors can verify on-site — everything is in your building.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI: RAID 10 mirrors every drive in real time. Air-gapped capable = zero internet attack surface. Optional LTO tape archive for offline backups. Your data, your backups, your control.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "No — air-gapped capable",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Air-gapped = zero internet attack surface",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI for Small Business in 2026: Is It Time to Own Your Infrastructure? - VRLA Tech",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "See how fast on-prem AI pays off vs. cloud GPU rental.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise AI for Small Business in 2026: Is It Time to Own Your Infrastructure?",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "At these spend levels, owning the hardware starts to look different. The economics of on-premise AI are straightforward: a one-time capital investment replaces recurring monthly costs. If the hardware pays for itself in the first year and then runs at near-zero marginal cost for years two and three, the total cost of ownership is dramatically lower than continued subscription and API spending.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "When on-premise AI makes sense for a small business",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI is not the right choice for every small business. Here is a clear framework for when it makes financial and practical sense.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "If your business spends $2,000 or more per month across AI API costs and subscriptions, the economics of on-premise hardware become compelling. A VRLA Tech AI workstation in the $10,000–$20,000 range replaces $24,000–$60,000 in annual API spending over a 3-year hardware lifecycle. The break-even is typically 4–8 months.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Small business on-premise AI hardware in 2026",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   }
+  ],
+  "更新方法": [
+   {
+    "quote": "Every call transcribed, summarized, and turned into a CRM update, a follow-up draft, or a routed task, without any of it leaving your network.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Quote drafts, SOWs, support replies, status updates, generated against your real history and your real templates, ready for a human to glance at and send.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "To use the AI: not technical at all. Open WebUI looks and works like ChatGPT - just a browser window. To manage the server: basic Linux comfort helps, but it's mostly just Ubuntu system updates and occasional Ollama commands. We document everything and can provide remote setup assistance. For teams with no IT staff, we recommend the AILSA - it's the lowest-maintenance option we offer.",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "Updated",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated: May 17, 2026. All hardware pricing, ROI calculations, and software setup instructions verified. Cloud API pricing reflects current published rates.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "sudo apt update && sudo apt install -y nvidia-driver-560",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Updated October 5, 2026",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Ask three things before you sign either quote. Who maintains this in eighteen months. What happens when a better open model ships next quarter, and can we run it. And what does the exit look like if this vendor stops shipping updates.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Manage updates, security, scaling yourself",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updates, support, and scaling included",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updated by Zanus engineers — you don't manage model versions",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "How does the server receive updates if it runs air-gapped with no internet?",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updates are delivered through a",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ". For air-gapped deployments, Zanus provides verified update packages that your IT administrator applies locally —",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "For connected deployments, updates are pulled",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": ", not pushed automatically. In both cases, you control when and whether to update.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "fully functional without any updates",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— it does not degrade, expire, or lose features if you choose not to update. There is no subscription gating and",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "user management, and module updates. If you can use email, you can operate the system.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "One technical owner must handle updates, backups, access, and model changes.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Updated",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Self-hosting can reduce third-party data processing and give your organization greater control over residency, retention, and access. It is not automatically private: you still need to verify egress paths, authentication, encryption, logging, connector behavior, update channels, and model/software licenses.",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "August 2026 Update",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Validated driver and firmware combinations",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "USB Power Delivery",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "External USB drive or existing NAS",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": ": Isolate the inference server from general office traffic; control egress (model downloads, telemetry, update channels, connectors)",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Patching and updates",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": ": You own vulnerability response for the OS, inference runtime, vector database, models, and firmware. Establish a cadence.",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud and hybrid approaches (Microsoft Copilot, ChatGPT Business/Enterprise, API-based access) remain practical for teams that value managed operations, integrated tooling, automatic updates, and vendor-backed support. The choice is a trade-off, not a predetermined victory for either side.",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル・再販": [
+   {
+    "quote": "*Based on average workflow deployments; actual cost varies with scale and requirements.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "A local AI server is a one-time hardware purchase, typically $3,000–$20,000 depending on scale.* We manage and operate it for you as an ongoing service, and the only variable cost beyond that is the wattage on your power bill, not a per-request meter. We've seen mid-size deployments pay back the hardware inside a year and run for five more.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Workstations",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Product photography variations with Stable Diffusion",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Ad creative variations for A/B testing",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing as of May 2026 from published rate cards. Actual costs vary with prompt length and caching.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "One-time purchase with unlimited users and no token fees is a different financial shape from metered API billing, and finance teams understand capital assets better than variable inference spend.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "piece compares six of them on memory, bandwidth, and current pricing, and breaks down what each OEM charges for the Station itself.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "*Estimated capacity based on average document size of 1 MB and video files of 50 MB. Actual capacity varies by file type and AI indexing depth. Expandable with external vector store for even larger archives.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "*Weight varies by configuration. No special infrastructure required. Standard wall outlets in any country. 4 power cords included.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Become a reseller",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale / Reseller Program",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Reseller",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Workstations",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Product photography variations with Stable Diffusion",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Ad creative variations for A/B testing",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "RTX 5090, DGX Spark, Mac Studio, and rackmount pricing should be manually verified before purchase. Availability, reseller markups, warranty terms, and memory/storage configurations can move the final price materially.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Varies widely; verify exact memory architecture.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Realistic on high-memory systems, speed varies.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Quantization quality varies by model, task, and format. Test with your actual workload before committing to a quantization level.",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "In our test builds (dual-GPU Threadripper system, sustained vLLM inference, measured with a handheld sound meter at one meter in a small office with ~35 dBA ambient), we observed approximately 55–65 dBA. Your results will vary with case, fan curve, ambient temperature, and room acoustics.",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "From approximately $8,395 MSRP as checked August 10, 2026; configurations and promotions vary. Source:",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "GPU add-on pricing through OEM configurators is often much higher than retail",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "(up to 96 GB allocatable to the GPU) in a laptop or mini-PC form factor. Systems are available from multiple OEMs starting around $2,000–$3,000.",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$720–$900 (diskless, varies by retailer and promotions)",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "$650–$720 (diskless, varies by retailer)",
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "pass": 3
+   }
+  ],
+  "日本・保守": [
+   {
+    "quote": "Help Desk & Support",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "We support our clients on ChatGPT, Claude, Microsoft Copilot, Gemini, Grok, every cloud AI worth using.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Internal Sales & Support Drafting",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Quote drafts, SOWs, support replies, status updates, generated against your real history and your real templates, ready for a human to glance at and send.",
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Document analysis? Code assistant? Image generation? Customer support? Each use case maps to a specific GPU tier, RAM requirement, and pre-installed model. Fill out the quote form or call us - we'll recommend the right config.",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": ". Done. No waiting for your vendor to support it, no price increase, no request to send.",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer support",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "To use the AI: not technical at all. Open WebUI looks and works like ChatGPT - just a browser window. To manage the server: basic Linux comfort helps, but it's mostly just Ubuntu system updates and occasional Ollama commands. We document everything and can provide remote setup assistance. For teams with no IT staff, we recommend the AILSA - it's the lowest-maintenance option we offer.",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "and it's on your server in minutes. This is one of the biggest advantages of the local approach - you're not waiting for your vendor to add support for the latest model, you're not paying extra for it, and you're not locked to a model version the vendor chose. The open-weight model ecosystem moves fast, and your eRacks server keeps pace automatically.",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty & Order Policies",
+    "url": "https://eracks.com/smb-ai-server/",
+    "pass": 3
+   },
+   {
+    "quote": "SUPPORT",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Technical Support",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Below $1,000 per month, the convenience and zero-maintenance nature of cloud AI tools usually outweighs the capital investment. Between $1,000 and $2,000, it is a closer call that depends on your specific use cases and data sensitivity requirements.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Customer service models trained on your FAQ and support history",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Every system ships with a 3-year parts warranty and lifetime US-based engineer support. When you need help configuring a new model, setting up a RAG pipeline, or integrating your CRM data into a fine-tuned model, you reach a VRLA Tech engineer — not a support ticket queue.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI workstations for small business. 3-year warranty. Lifetime US support.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "VRLA Tech has been building custom AI workstations and servers since 2016. All systems ship with a 3-year parts warranty and lifetime US-based engineer support.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "Gaming PC Maintenance Plan",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "pass": 3
+   },
+   {
+    "quote": "The GPU determines which models you can run, how fast responses generate, and how many concurrent users your server supports. For business servers, we recommend starting with the",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "64GB DDR5 — supports one model loaded with comfortable headroom for the OS and services",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "provides 10GbE uplinks, VLAN support for network isolation, and enterprise-grade management.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": ", NAS, extended warranty, or a third GPU in the future)",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Install GPUs last. Use anti-sag brackets — the RTX 4090 and RTX 5090 are heavy cards that will stress the PCIe slot over time without support",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "For teams that want SSO (Single Sign-On) integration, Open WebUI supports OIDC/OAuth2 out of the box — connect it to your existing Google Workspace, Okta, or Azure AD identity provider.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "When a single server hits its ceiling (typically 40-50+ concurrent users), deploy a second server and load-balance between them. vLLM and Ollama both support this architecture. Put both servers behind an NGINX load balancer for automatic request distribution.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Vendor support contracts and next-day part replacement",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "For most businesses, the custom build path (Tier 1 through Tier 3 above) covers 6-24 months of growth. Beyond that, evaluate pre-built options based on your team's growth trajectory and support requirements.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "How many users can a local AI server support?",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Acer GPU Support Bracket (Magnetic Base)",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "A capable local AI server for business costs between $2,500 and $10,000 depending on team size and model requirements. A ~$2,500 single-GPU build with an RTX 4090 serves 5-10 users running 7B-30B models. A ~$5,000 dual-GPU build handles 10-25 users with 70B models. A ~$7,500–$10,000 enterprise build supports 25-50+ concurrent users with maximum throughput.",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The pitch is one purchase, no per-seat or per-token fees, no recurring software cost, and no internet connection required. The vendor says a server stores more than 2,000,000 business documents, and describes the architecture as designed to support HIPAA, GDPR and ABA confidentiality requirements because nothing leaves the building.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Support Triage",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "Support",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "No support — you're on your own",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Updates, support, and scaling included",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Business-grade decision support for legal, medical, financial teams",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware support included — you focus on your business",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Zanus AI: On-premises architecture supports HIPAA, GDPR, ABA, EU AI Act programs. Built-in RBAC & audit trails. Auditors can verify on-site — everything is in your building.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Deep Reasoning for complex analysis & decision support",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Remote support & hardware support included",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "with 15+ built-in business modules. It runs 100% on your premises with zero cloud dependency, zero token fees, and zero monthly subscriptions. The Prime supports",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Does the Zanus AI server support HIPAA and GDPR compliance?",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Because the Zanus AI server runs 100% on your premises with zero cloud dependency, its architecture supports",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "is designed to support",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "— cross-referencing documents, identifying patterns across data sources, generating logical conclusions, and supporting business decisions that require true intelligence. The Quantum model offers Extended Deep Reasoning with larger context windows for even more complex analysis.",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "supports compliance programs with built-in controls",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Does the Zanus AI Prime support Single Sign-On (SSO) and enterprise identity management?",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "SUPPORT",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Technical Support",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Below $1,000 per month, the convenience and zero-maintenance nature of cloud AI tools usually outweighs the capital investment. Between $1,000 and $2,000, it is a closer call that depends on your specific use cases and data sensitivity requirements.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Customer service models trained on your FAQ and support history",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Every system ships with a 3-year parts warranty and lifetime US-based engineer support. When you need help configuring a new model, setting up a RAG pipeline, or integrating your CRM data into a fine-tuned model, you reach a VRLA Tech engineer — not a support ticket queue.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "On-premise AI workstations for small business. 3-year warranty. Lifetime US support.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "VRLA Tech has been building custom AI workstations and servers since 2016. All systems ship with a 3-year parts warranty and lifetime US-based engineer support.",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "Gaming PC Maintenance Plan",
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "pass": 3
+   },
+   {
+    "quote": "The realistic budget range is $3,000 to $15,000. Below $3,000, this is usually still a hobbyist build. Above $15,000, the discussion starts becoming server architecture, procurement, and support contracts. The best default for most small businesses is a high-end single-GPU workstation with simple storage and a clean software layer.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "RTX 5090, DGX Spark, Mac Studio, and rackmount pricing should be manually verified before purchase. Availability, reseller markups, warranty terms, and memory/storage configurations can move the final price materially.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Strong single-user local AI, document workflows, and coding support.",
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "pass": 3
+   }
+  ],
+  "国・所在地": [
+   {
+    "quote": "Headquartered in Pompano Beach, Florida (Greater Fort Lauderdale), it sells turnkey private AI servers with enterprise GPUs built in, multiple local LLMs, a vector store, and an operating system layer carrying more than 15 pre-installed business modules covering chat, document intelligence, code assistance, spreadsheet automation and more.",
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "pass": 3
+   },
+   {
+    "quote": "headquartered in Fort Lauderdale, Florida. We have no affiliation with the European",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "headquartered in Fort Lauderdale, Florida, specializing in private, on-premises AI",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   },
+   {
+    "quote": "Israel (USD $)",
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Local AI Server : Build Guide + Real Costs (2026) — Local AI Server : Build Guide + Real Costs (2026) compute-market.com https://www.compute-market.com > l...",
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eracks.com/smb-ai-server/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1g2oc3e/any_such_thing_as_a_presetup_physical_ai_server/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://macstadium.com/blog/understanding-private-ai-servers-part-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zanusai.com/pages/ai-solutions-for-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zedly.ai/blog/private-llm-for-small-businesses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/selfhosted/comments/1qboc22/building_an_offline_ai_server_for_a_small_company/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eracks.com/private-ai-server/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKAZ1t9pxnIm8IJn2st_4TIcWhmtZ9UxG1bPNL-_NpExwQD_sPt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/airgapai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibl.ai/service/air-gapped-ai/small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.select-interactive.com/news/what-does-on-premise-ai-actually-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.private.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/why-private-ai-and-on-premise-ai-are-pulling-enterprise-workloads-back-from-the-cloud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/private",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.pornhub.com/channels/private",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.private.com/?a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omc.cloud/products/white-label-resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1min.ai/white-label-ai-for-small-businesses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://go.aipreneurs.com/glossary/ai-white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promptowl.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SideProject/comments/1v2364g/i_started_building_private_ai_machines_for_small/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://omc.cloud/cloud-services-for-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1odl7ru/building_out_first_local_ai_server_for_business/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://explore.microsoft.com/en-us/edge/features/inprivate?form=MT0160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/dictionary/english/private",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefreedictionary.com/Private",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.sharp/corporate/news/260915-a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/us/dictionary/english/private",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anysex.com/channels/private/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xcafe.com/channels/private/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.equinix.com/blog/2024/03/31/how-to-do-private-ai-ja/?lang=ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://solution.uniadex.co.jp/service/solution/ai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.innovatexp.co/ja/blog/what-is-enterprise-private-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/service/digital-x-column068/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newrelic.com/jp/blog/infrastructure-monitoring/what-is-private-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.tdsynnex.com/blog/ai/whatis-private-ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "private AI server for small business",
+   "results": [
+    "https://www.setechnical.net/ai/local-ai/",
+    "https://eracks.com/smb-ai-server/",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1g2oc3e/any_such_thing_as_a_presetup_physical_ai_server/",
+    "https://macstadium.com/blog/understanding-private-ai-servers-part-1",
+    "https://zanusai.com/pages/ai-solutions-for-small-business",
+    "https://zedly.ai/blog/private-llm-for-small-businesses",
+    "https://hostanywhere.io/blog/run-your-own-ai-server",
+    "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "https://www.private.com/",
+    "https://www.merriam-webster.com/dictionary/private"
+   ]
+  },
+  {
+   "query": "private AI server for small business on-premise LLM appliance company",
+   "results": [
+    "https://www.setechnical.net/ai/local-ai/",
+    "https://www.reddit.com/r/selfhosted/comments/1qboc22/building_an_offline_ai_server_for_a_small_company/",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://eracks.com/private-ai-server/",
+    "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vJnUKdS0fgU01-KNdjomuSeySmEvOLrhAbzOeOu_tFbOjiTG4jR",
+    "https://zedly.ai/blog/private-llm-for-small-businesses",
+    "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKAZ1t9pxnIm8IJn2st_4TIcWhmtZ9UxG1bPNL-_NpExwQD_sPt",
+    "https://ifeeltech.com/blog/local-ai-server-small-business-guide",
+    "https://www.private.com/"
+   ]
+  },
+  {
+   "query": "private AI server for small business air-gapped AI box price",
+   "results": [
+    "https://www.setechnical.net/ai/local-ai/",
+    "https://iternal.ai/airgapai",
+    "https://eracks.com/private-ai-server/",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1g2oc3e/any_such_thing_as_a_presetup_physical_ai_server/",
+    "https://ibl.ai/service/air-gapped-ai/small-business",
+    "https://www.select-interactive.com/news/what-does-on-premise-ai-actually-cost",
+    "https://zedly.ai/blog/private-llm-for-small-businesses",
+    "https://www.betterclaw.io/blog/zanus-ai-vs-nvidia-dgx",
+    "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "https://www.private.com/"
+   ]
+  },
+  {
+   "query": "private AI server for small business startup raises on-prem AI hardware",
+   "results": [
+    "https://www.setechnical.net/ai/local-ai/",
+    "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vI2fZgePjYjy3n7s-99GcMDIw3ktxp5JCXCIv-M01FcH9qSZTND",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1g2oc3e/any_such_thing_as_a_presetup_physical_ai_server/",
+    "https://eracks.com/smb-ai-server/",
+    "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "https://www.select-interactive.com/news/what-does-on-premise-ai-actually-cost",
+    "https://www.zylon.ai/resources/blog/why-private-ai-and-on-premise-ai-are-pulling-enterprise-workloads-back-from-the-cloud",
+    "https://www.private.com/"
+   ]
+  },
+  {
+   "query": "private AI server for small business white label OEM reseller",
+   "results": [
+    "https://omc.cloud/products/white-label-resellers",
+    "https://1min.ai/white-label-ai-for-small-businesses",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://go.aipreneurs.com/glossary/ai-white-label-reseller",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://promptowl.ai/whitelabel/",
+    "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.smartservers.com/oem_whitelabel.html",
+    "https://www.private.com/"
+   ]
+  },
+  {
+   "query": "private AI server for small business Israel",
+   "results": [
+    "https://www.setechnical.net/ai/local-ai/",
+    "https://eracks.com/smb-ai-server/",
+    "https://macstadium.com/blog/understanding-private-ai-servers-part-1",
+    "https://www.reddit.com/r/SideProject/comments/1v2364g/i_started_building_private_ai_machines_for_small/",
+    "https://omc.cloud/cloud-services-for-business",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1odl7ru/building_out_first_local_ai_server_for_business/",
+    "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "https://zanusai.com/pages/ai-solutions-for-small-business",
+    "https://www.youtube.com/watch?v=zVqTkVPKWCM&vl=ja",
+    "https://www.private.com/"
+   ]
+  },
+  {
+   "query": "private AI server for small business Japan distributor",
+   "results": [
+    "https://www.setechnical.net/ai/local-ai/",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1odl7ru/building_out_first_local_ai_server_for_business/",
+    "https://eracks.com/smb-ai-server/",
+    "https://global.sharp/corporate/news/260915-a.html",
+    "https://macstadium.com/blog/understanding-private-ai-servers-part-1",
+    "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "https://www.blackscarab.ai/insights/local-ai-small-business-guide",
+    "https://ifeeltech.com/blog/building-private-cloud-local-ai-hardware-guide-2026",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.private.com/"
+   ]
+  },
+  {
+   "query": "中小企業向けプライベートAIサーバー",
+   "results": [
+    "https://blog.equinix.com/blog/2024/03/31/how-to-do-private-ai-ja/?lang=ja",
+    "https://solution.uniadex.co.jp/service/solution/ai.html",
+    "https://www.innovatexp.co/ja/blog/what-is-enterprise-private-ai",
+    "https://www.tdc.co.jp/service/digital-x-column068/",
+    "https://newrelic.com/jp/blog/infrastructure-monitoring/what-is-private-ai",
+    "https://jp.tdsynnex.com/blog/ai/whatis-private-ai/",
+    "https://www.nttdata.com/jp/ja/trends/data-insight/2026/0108/",
+    "https://www.hpe.com/jp/ja/what-is/private-ai.html",
+    "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "https://www.id.me/"
+   ]
+  }
+ ],
+ "missing": {}
+}
