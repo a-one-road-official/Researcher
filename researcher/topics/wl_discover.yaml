@@ -1,5 +1,6 @@
 # 本人の指示（2026-11-03）：弊社が売れるかが最重要。領域から少し外れてよいので、受発注・見積もり・お問い合わせ対応・採用・PRの5つに絞る。
 # 1〜3人・技術者なしで売れる（すぐ試せて30分で分かり、組み込み工事や現場調整が要らない）ものの、自社名で再販・OEMできる提供企業名と条件をそのまま引用する。図面を扱うもの（前職と同じ仕事）は入れない。
+# 探すのはホワイトラベル（自社名で売れる）製品だけ。日本に進出しているか・代理店がいるかは問わない（調べない）。
 kind: market
 title: 弊社が売れるホワイトラベルソフト（受発注・見積もり・お問い合わせ対応・採用・PR）— 提供企業と再販条件
 input: researcher/inputs/wl_discover.csv
@@ -12,7 +13,6 @@ evidence:
   黒字・収益性: [profitable, profitability, profit, EBITDA, net income, operating income, operating profit, cash-flow positive, cash flow positive, break-even, breakeven, bootstrapped, self-funded, in the black, 黒字, 営業利益, 純利益, 経常利益, 利益率]
   売上: [revenue, ARR, annual recurring, sales of, turnover, million in revenue, 売上, 売上高, 年商]
   価格: [per month, /month, per user, per seat, pricing, license fee, plans start, starting at, 月額, 年額, ライセンス料]
-  日本対応: [Japan, Japanese, 日本, 日本語, 国内代理店, Japanese distributor]
 
 numeric: [売上, 価格]
 
@@ -23,10 +23,10 @@ external_queries:
   - "white label {en}"
   - "{en} white-label"
   - "best white label {en} providers"
+  - "{en} white label reseller agency"
   - "{en} rebrand your logo own brand"
-  - "{en} private label OEM partner"
-  - "{en} reseller white label program"
-  - "{en} embed SDK license OEM"
+  - "{en} private label SaaS"
+  - "{en} white label partner program pricing"
   - "{en} white label company profitable"
 
 limits: {pages: 60, external_per_query: 5, per_cat: 15}
