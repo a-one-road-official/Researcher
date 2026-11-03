@@ -1,15 +1,25 @@
 品目,英語名,別名,文脈
-過去メールから問い合わせBot作成,AI chatbot trained on email history,email inbox knowledge base chatbot;train chatbot on past emails;email archive AI assistant;死蔵メール ボット,問い合わせ・受注
-Webサイト用AIチャット（問い合わせ受付）,AI website chatbot for lead capture,website AI chat widget;AI sales chatbot;conversational lead capture,問い合わせ・受注
-問い合わせフォームの自動応答・振り分け,AI form response automation,inquiry routing AI;form to CRM AI triage;AI inbound lead qualification,問い合わせ・受注
-メール自動返信AI,AI email reply assistant,AI email responder;automated email response AI;inbox AI agent,問い合わせ・受注
-死蔵リードの掘り起こし（休眠メール再活性化）,database reactivation AI,dead lead reactivation;dormant lead revival;AI database reactivation campaign;休眠顧客 掘り起こし,問い合わせ・受注
-サイト訪問企業の特定,website visitor identification software,reverse IP B2B visitor tracking;anonymous visitor identification;企業特定 アクセス解析,問い合わせ・受注
-AIによるホームページ作成,AI website builder,AI site builder for small business;website builder for agencies,集客
-AI記事作成・SEO,AI SEO content platform,AI blog writer;SEO content automation;AI content marketing platform,集客
-口コミ・評判の獲得,review management software,reputation management platform;Google review automation,集客
-採用サイト作成,career site builder,careers page builder;recruitment website platform;採用サイト 作成ツール,採用
-求人の一括掲載・配信,job multiposting software,job distribution platform;job board posting automation;求人 一括掲載,採用
+BtoB受注サイト・受発注ポータル,B2B ordering portal software,B2B order portal;wholesale ordering platform;B2B eCommerce platform for manufacturers;受発注システム,受発注
+受注管理（OMS）,order management system for SMB,order management software;sales order management SaaS;受注管理システム,受発注
+発注・購買管理,purchasing and procurement software for SMB,purchase order software;procure to pay SaaS;発注管理システム,受発注
+外注先への発注・進捗管理,subcontractor order and job tracking software,supplier order tracking;outsourcing job management;外注管理,受発注
+見積書作成ツール,quote and proposal software,quote builder;proposal software;estimate software;見積書作成,見積もり
+CPQ（構成・価格・見積）,CPQ software for SMB,configure price quote;product configurator quoting,見積もり
+オンライン即時見積（業種を問わず）,online instant quote calculator software,price calculator widget;instant estimate form builder;見積シミュレーター,見積もり
+見積→受注→請求の一気通貫,quote to cash software for small business,quote to invoice;estimates and invoicing software;見積 請求 一元管理,見積もり
+過去メールから問い合わせBot作成,AI chatbot trained on email history,email inbox knowledge base chatbot;train chatbot on past emails;email archive AI assistant,お問い合わせ対応
+Webサイト用AIチャット（問い合わせ受付）,AI website chatbot for customer inquiries,website AI chat widget;AI customer service chatbot,お問い合わせ対応
+問い合わせフォームの自動応答・振り分け,AI form response automation,inquiry routing AI;AI inbound inquiry triage,お問い合わせ対応
+メール自動返信AI,AI email reply assistant,AI email responder;automated email response AI,お問い合わせ対応
+問い合わせ共有受信箱・管理,shared inbox and helpdesk software,customer inquiry management;helpdesk ticketing for SMB;問い合わせ管理,お問い合わせ対応
+AI電話受付,AI phone receptionist,AI voice agent for inbound calls;AI answering service,お問い合わせ対応
+採用サイト作成,career site builder,careers page builder;recruitment website platform,採用
+求人の一括掲載・配信,job multiposting software,job distribution platform;job board posting automation,採用
+応募者管理（ATS）,applicant tracking system for SMB,ATS software;recruiting software;採用管理システム,採用
 AI採用アシスタント（応募対応・面接日程）,AI recruiting assistant,AI recruiter chatbot;candidate screening AI;interview scheduling AI,採用
-社内問い合わせBot（マニュアル・規程）,internal knowledge base AI chatbot,AI helpdesk for employees;document Q&A chatbot;社内FAQ ボット,業務
-ノーコードAIエージェント作成,no-code AI agent builder,AI workflow agent builder;custom GPT platform for business,業務
+プレスリリース配信,press release distribution platform,press release distribution service;newswire;プレスリリース配信,PR
+記者・メディアへのアプローチ,media outreach software,journalist database;PR outreach platform;media list builder,PR
+PR効果測定・露出の収集,media monitoring software,PR measurement;media clipping;press coverage tracking,PR
+AI記事作成・オウンドメディア,AI content writing platform,AI blog writer;content marketing platform;owned media CMS,PR
+SNS投稿・運用管理,social media management software,social media scheduler;social media publishing tool,PR
+口コミ・評判の獲得,review management software,reputation management platform;Google review automation,PR
