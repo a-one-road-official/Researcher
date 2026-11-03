@@ -1,0 +1,9 @@
+品目,英語名,別名,文脈
+wl-A DfAM（AM適性判定・工法材料提案・費用概算）,additive manufacturing part feasibility and cost estimation software,AM part identification;printability analysis;DfAM software;3D printing cost estimation;AM business case software;design for additive manufacturing;AM適性判定;DfAM,wl-A DfAM
+wl-A DfAM（トポロジー最適化・AM向け形状生成）,DfAM generative design and topology optimization software,topology optimization;lattice design software;generative design for additive manufacturing;AM design software;トポロジー最適化,wl-A DfAM
+wl-B 図面読み取り（2D図面AI解析）,AI engineering drawing recognition software,engineering drawing OCR;technical drawing AI;drawing data extraction;GD&T extraction;blueprint AI;PDF drawing parsing;図面読み取り;図面解析AI,wl-B 図面読み取り
+wl-B 図面読み取り（図面→見積の自動化）,drawing-based automatic quoting software,drawing to quote AI;automated RFQ from drawings;AI quoting from 2D drawings;図面 自動見積,wl-B 図面読み取り
+wl-C 3D CAD（自然言語→3D CAD生成AI）,text-to-CAD AI software,text to CAD;AI CAD generation;generative CAD;natural language CAD;prompt to 3D model;テキストからCAD;自然言語CAD,wl-C 3D CAD
+wl-C 3D CAD（2D図面→3Dモデル変換）,2D drawing to 3D model conversion software,drawing to 3D;2D to 3D CAD conversion AI;sketch to CAD;図面から3D,wl-C 3D CAD
+wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）,embeddable browser CAD SDK,web CAD SDK;CAD kernel OEM;embedded 3D CAD;online CAD API;ブラウザCAD,wl-C 3D CAD
+wl-D 即時見積窓口（自社サイト組込み）,white label instant quoting widget for manufacturers,instant quote widget;self-checkout manufacturing quote;online quoting portal for job shops;3D printing instant quote;manufacturing quoting software;即時見積,wl-D 即時見積
