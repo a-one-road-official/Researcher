@@ -1,4 +1,5 @@
-# 第2段：第1段（wl_field6・wl_abc）で名前が出たホワイトラベル候補の提供企業を1社ずつ三重確認する。
+# 第2段（2026-11-03 洗い直し）：ホワイトラベルの可否を「明言」「OEM・組込み」「再販制度」に分けて引用する。
+# 第1段（wl_field6・wl_abc）で名前が出たホワイトラベル候補の提供企業を1社ずつ三重確認する。
 # 本人の条件：ホワイトラベルで儲かっていて黒字の製品のみ。黒字・売上・資金調達・存続（清算・買収）・自社名で出せる条件の事実だけを引用する。
 title: ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件
 input: researcher/inputs/wl_profit.csv
@@ -16,7 +17,9 @@ evidence:
   売上: [revenue, ARR, turnover, sales, Umsatz, pajamos, 売上]
   資金調達: [raised, funding, Series A, Series B, seed, investment, investor, valuation, 資金調達]
   存続: [liquidation, insolvency, bankruptcy, shut down, closed, ceased, acquired, acquisition, merged, Insolvenz, bankrotas, 清算, 破産, 買収]
-  自社名で出せる条件: [white label, white-label, whitelabel, rebrand, your brand, your logo, OEM, embedded, API, private label, partner program, reseller, ホワイトラベル, OEM提供]
+  ホワイトラベル明言: [white label, white-label, whitelabel, white labeled, white-labelled, rebrand, rebranding, your own brand, your brand, your logo, your domain, custom domain, custom branding, private label, unbranded, remove our branding, powered by, ホワイトラベル, 自社ブランドで]
+  OEM・組込み: [OEM, embed, embedded, SDK, API, license our technology, licensing, toolkit, integrate into your, OEM提供, 組込み]
+  再販制度: [reseller, resell, partner program, channel partner, distributor, VAR, value-added reseller, referral partner, 代理店, 再販]
   日本対応: [Japan, Japanese, 日本, 日本語, distributor]
   顧客: [customers, clients, case study, used by, trusted by, 導入]
 
@@ -28,7 +31,10 @@ external_queries:
   - "{name} EBITDA net income annual report"
   - "{name} funding raised"
   - "{name} acquired OR liquidation OR insolvency OR closed"
-  - "{name} white label partner OEM"
+  - "{name} white label"
+  - "{name} rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\""
+  - "{name} OEM SDK licensing partners"
+  - "{name} reseller partner program"
   - "{name} Jahresabschluss OR financial statements"
   - "{name} Japan"
   - "{name} employees revenue crunchbase OR dealroom OR northdata"
