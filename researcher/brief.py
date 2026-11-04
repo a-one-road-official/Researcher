@@ -21,9 +21,9 @@ from researcher.targets import ROOT, load_targets, load_topic, slug
 
 JST = timezone(timedelta(hours=9))
 OUT = ROOT / "out" / "brief"
-MARKET_TOPICS = [("frame_export", "日本→海外（輸出）"), ("frame_import", "海外→日本（輸入）"), ("industry_news", "業界ニュース（毎日）")]
+MARKET_TOPICS = [("frame_export", "日本→海外（輸出）", "輸出"), ("frame_import", "海外→日本（輸入）", "輸入"), ("industry_news", "業界ニュース（毎日）", "ニュース")]
 CUSTOMER_TOPIC = "customer_3c"
-PER_BOX = 8
+PER_BOX = 5
 SOCIAL_HOSTS = ("note.com", "x.com", "twitter.com", "linkedin.com", "facebook.com")
 PRIMARY_HINTS = (".go.jp", ".lg.jp", ".ac.jp", ".or.jp", ".gov", "meti", "mod.go", "jetro", "nedo", "jaxa", "edinet", "tdnet", "kantei")
 
@@ -93,7 +93,7 @@ def main() -> int:
     files: list[str] = []
     # fields
     by_field: dict[str, list[str]] = {}
-    for topic, label in MARKET_TOPICS:
+    for topic, label, short in MARKET_TOPICS:
         if not (ROOT / "topics" / f"{topic}.yaml").exists():
             continue
         t = load_topic(topic)
@@ -101,7 +101,7 @@ def main() -> int:
         recs = load(topic)
         for c in load_targets(t):
             f = field_of(c["context"])
-            sec = by_field.setdefault(f, [])
+            sec = by_field.setdefault((f, short, label), [])
             r = recs.get(c["name"])
             sec.append(f"### {label}｜{c['name']}（{c.get('en', '')}）")
             if not r:
@@ -113,10 +113,11 @@ def main() -> int:
                 for i in items[:3]:
                     if i.get("first_seen", "") >= since:
                         changes.append(f"- {f}｜{label}｜{c['name']}｜{cat}：「{re.sub(r'\s+', ' ', i['quote'])[:120]}」{i['url']}")
-    for f, sec in by_field.items():
-        name = f"分野_{slug(f)}.md"
-        (OUT / name).write_text(f"# 分野：{f}（顧客起点の3C＋PEST・事実のみ）\n\n" + "\n".join(sec) + "\n", encoding="utf-8")
-        files.append(f"- {name}：{f}")
+    for (f, short, label), sec in by_field.items():
+        title = f"分野_{f}_{short}"
+        name = f"{slug(title)}.md"
+        (OUT / name).write_text(f"# {title}（{label}・顧客起点の3C＋PEST・事実のみ）\n\n" + "\n".join(sec) + "\n", encoding="utf-8")
+        files.append(f"- {name}：{title}")
     # customers
     if (ROOT / "topics" / f"{CUSTOMER_TOPIC}.yaml").exists():
         t = load_topic(CUSTOMER_TOPIC)
@@ -124,7 +125,7 @@ def main() -> int:
         recs = load(CUSTOMER_TOPIC)
         for c in load_targets(t):
             r = recs.get(c["name"])
-            name = f"顧客_{slug(c['name'])}.md"
+            name = f"{slug('顧客_' + c['name'])}.md"
             lines = [f"# 顧客：{c['name']}（顧客起点の3C＋PEST・事実のみ）", f"- 文脈：{c['context']}"]
             if not r:
                 lines.append("- 未調査（次の回で調べる）")
